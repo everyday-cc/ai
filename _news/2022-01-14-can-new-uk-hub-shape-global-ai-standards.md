@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.ukauthority.com/media/11108/ai-standards-hub-logo-govuk-ogl.jpg"
         width: 500
         height: 324
-        isCached: true
-  - title: "New hub launched to test AI standards"
-    excerpt: "The Alan Turing Institute has been selected to lead a pilot AI Standards Hub, set to work closely with members of the AI community"
-    publishedDateTime: 2022-01-12T16:52:00Z
-    webUrl: "https://www.techuk.org/resource/new-hub-launched-to-test-ai-standards.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
-    quality: 39
-    images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/cbbd3a03-45dd-4050-99d9080c5a591e80/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Whitehall-city-65234851-web-1500px.jpg"
-        width: 400
-        height: 276
         isCached: true
   - title: "New UK initiative to shape global standards for Artificial Intelligence"
     excerpt: "The Alan Turing Institute (@turinginst), supported by the British Standards Institution (BSI) and the National Physical Laboratory (NPL), will pilot a new UK government initiative to lead in shaping global technical standards for Artificial Intelligence."

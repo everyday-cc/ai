@@ -37,6 +37,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member"
+    excerpt: "Nota (CEO Myungsu Chae), an AI optimization technology company, announced that it has been promoted to Premier status in the NVIDIA Inception program. NVIDIA Inception nurtures cutting-edge startups revolutionizing industries with advancements in AI and data science."
+    publishedDateTime: 2022-01-17T08:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member-1031105822"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://mma.prnewswire.com/media/1724963/image_1.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Cogniteam’s Nimbus Supports Cloud-based Robot with NVIDIA Jetson Edge AI"
     excerpt: "Cogniteam on Wednesday announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development"
     publishedDateTime: 2022-01-13T01:49:00Z

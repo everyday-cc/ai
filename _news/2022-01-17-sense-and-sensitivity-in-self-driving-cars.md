@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Variable Speed Limits Are Aiming To Help, But Can Confuse Human Drivers And Yet Are Easy-Peasy For AI Self-Driving Cars"
-    excerpt: "Variable speed limits (VSL) continue to be experimented with and at times are confusing to human drivers, meanwhile self-driving cars will readily accommodate VSL."
-    publishedDateTime: 2022-01-12T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/12/variable-speed-limits-are-aiming-to-help-but-can-confuse-human-drivers-and-yet-are-easy-peasy-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/12/variable-speed-limits-are-aiming-to-help-but-can-confuse-human-drivers-and-yet-are-easy-peasy-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/12/variable-speed-limits-are-aiming-to-help-but-can-confuse-human-drivers-and-yet-are-easy-peasy-for-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6078a05fc12d1be6202022c7%2F0x0.jpg%3FcropX1%3D143%26cropX2%3D2523%26cropY1%3D387%26cropY2%3D1502"
-        width: 1200
-        height: 562
-        isCached: true
 
 secured: "c4igMd5EQvuKZToY6rr7q5QZjPKpf8KjqeuhPDqQZu+KgXBho6h7wcr9nxHNIQZ/FrsayB0xrLTx7xdQ4dssoNRhA7/+sJEFpDa4pmPjqv41emK4x+rp0b2oZLm4dxSNob+4N+7F5R46A/yDKhp+vBa1/Ue3zN6nz1a8GPmtbg16WwV64Nrnyydf/w3mSvbfHLnA6h8VAdV3JNfZXBrcFomuZ86w3dTsqmC+SQsAQrLIsut/9eP4bejNjUcv3fhQUH+jIXRiQ9syASygfjySxoS9uoBdX8eIhy+SwCSxuNEd/U9rpFgXOVXmvLwhCcucpoYl3S4giIJVBz84M6nk+0BweyH8BBekza69fISlC5E=;yzmTapCfr77ZkMOp673bIw=="
 ---

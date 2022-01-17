@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Headspace Health grabs startup Sayana to build out AI-based mental health tools"
-    excerpt: "Six months after the $3 billion merger with Ginger, Headspace Health acquired Sayana, an AI-driven mental health and wellness company. Sayana will expand Headspace Health’s ability to provide personalized self-care content to its 100 million users,"
-    publishedDateTime: 2022-01-12T15:35:00Z
-    webUrl: "https://www.fiercehealthcare.com/digital-health/headspace-health-picks-up-mental-health-app-sayana-to-expand-ai-capabilities"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 33
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1642007892/GettyImages-1278009593.jpg/GettyImages-1278009593.jpg?VersionId=O0_21LpFLC50KH2mK35HFTB.XaNQnzMa"
-        width: 2239
-        height: 1338
-        isCached: true
 
 secured: "5H8si2SOfboNGYNQXyhtFc74MkbipMxM/jUKLG39ho3LBBssDFJxWTb8Y70aDafMa9r36h8Cb9ol/viFAu1LQOXUrjMswPDsoCz71AfrYcVkzVT7qurE0bmx3y5mPtFiWTCKn1RPcg2FSg69TdfS9RxGbtj6LXPLYzlwlryfkZmsHzbcB+k+hjDJDQRDl6lE/LIKC0m96oWqCyYvPRpzPSmKIU+SUU1E34IFg1iwsavkwl48QVIQuB94UBX548N8W9E+7qv1rYenXweZpx6jnd2WyP2MmpCK3q1uQ7B62f8R7Q4GmW322RnZZJJULu9wXYvVRBspxWAGmcVgbmjB0pCoRkJhw4V/+UZ1FkfbRRk=;L8gcnJ7JtdDP4T+L7eijRg=="
 ---

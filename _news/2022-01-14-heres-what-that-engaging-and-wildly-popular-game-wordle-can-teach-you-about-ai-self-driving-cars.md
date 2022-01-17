@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/14/heres-what-that-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/14/heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Variable Speed Limits Are Aiming To Help, But Can Confuse Human Drivers And Yet Are Easy-Peasy For AI Self-Driving Cars"
-    excerpt: "Variable speed limits (VSL) continue to be experimented with and at times are confusing to human drivers, meanwhile self-driving cars will readily accommodate VSL."
-    publishedDateTime: 2022-01-12T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/12/variable-speed-limits-are-aiming-to-help-but-can-confuse-human-drivers-and-yet-are-easy-peasy-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/12/variable-speed-limits-are-aiming-to-help-but-can-confuse-human-drivers-and-yet-are-easy-peasy-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/12/variable-speed-limits-are-aiming-to-help-but-can-confuse-human-drivers-and-yet-are-easy-peasy-for-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6078a05fc12d1be6202022c7%2F0x0.jpg%3FcropX1%3D143%26cropX2%3D2523%26cropY1%3D387%26cropY2%3D1502"
-        width: 1200
-        height: 562
-        isCached: true
   - title: "Sense and Sensitivity in self-driving cars"
     excerpt: "The eco-system in India for self-driving technology is flourishing, with innovation occurring at every level including sensor technology."
     publishedDateTime: 2022-01-17T04:51:00Z

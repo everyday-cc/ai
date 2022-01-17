@@ -2,57 +2,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_news/2021-12-09-facebook-says-its-new-ai-can-identify-more-problems-faster.md",
-      "title": "Facebook Says Its New AI Can Identify More Problems Faster",
-      "excerpt": "Shot Learner” system doesn’t need to see as many examples to identify troublesome posts, and it works in more than 100 languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/",
-      "originalUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61aff1d012b63df686feaff1/master/pass/Facebook&apos;s-new-moderation-AI.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/amp",
-      "publishedDateTime": "2021-12-08T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-09-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona.md",
       "title": "Robotaxi race opens up as top contender Waymo in low gear in Arizona",
       "excerpt": "Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field. In the first and ...",
@@ -1161,6 +1110,57 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind.md",
+      "title": "The Era Of ‘Pervasive AI’ Has Begun: Get Going Or Get Left Behind",
+      "excerpt": "This new era of AI — \"pervasive AI\" — marks the end of technology paralysis and the beginning of transformation enablement. So, no more excuses. Stop worrying about how AI works and start focusing on what you want it to do for your business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af6519fc3b7cc9b1a728d7%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/amp/",
+      "publishedDateTime": "2021-12-08T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

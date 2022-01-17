@@ -7,8 +7,8 @@ originalUrl: "https://nationalinterest.org/blog/reboot/us-air-force-building-art
 webUrl: "https://nationalinterest.org/blog/reboot/us-air-force-building-artificial-intelligence-bombs-f-16-199358"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: The National Interest
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI for Real-Time Engineering Decisions"
-    excerpt: "MathWorks’ Heather Gorr explains how engineers can apply artificial intelligence to real-time engineering decisions, as well as the issues involving data synchronization."
-    publishedDateTime: 2022-01-12T16:41:00Z
-    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21213913/electronic-design-using-ai-for-realtime-engineering-decisions"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 37
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/01/AI_engineering_promo.61df026b7f048.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Moment AI: Automotive safety startup builds AI for self-driving cars"
     excerpt: "Moment AI develops a software for the autonomous vehicle industry to protect vulnerable drivers from accidents — and now see why this Arlington company is one of our Startups to Watch for 2022."
     publishedDateTime: 2022-01-14T09:00:00Z

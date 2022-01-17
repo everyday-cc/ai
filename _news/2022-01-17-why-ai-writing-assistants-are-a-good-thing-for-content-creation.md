@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 684
         isCached: true
-  - title: "The metaverse is coming. Are your ethics ready?"
-    excerpt: "The metaverse allows us to build new constructs with digital avatars; perhaps a unique avatar for each version of self, or at minimum, an avatar that can literally be everywhere at once. It allows people to explore different facets of their personality in ways physical society does not often permit."
-    publishedDateTime: 2022-01-12T15:30:00Z
-    webUrl: "https://www.fastcompany.com/90712458/the-metaverse-is-coming-are-your-ethics-ready"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/01/The-metaverse-is-coming.-Are-your-ethics-ready_.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "11rpEdT6EIOMfQUS6dW1ufUYkPxqp9EWAzvcODVsU4x79ZuSJBXSYdXMwVaJKQh0preomc6t7TvsPo3iDqPbgndv4098l7Pxeav2CXwcqpl56wwJsmjhEE2Wd30lDeLm4pptNhtLUOu0Ared3nIXfXa/j+448jeDbhOQGhpDbgK/zAIJCzMxTz3oid+0+F6jwTqfseEHNzdZGV4L9NwJ7YpHjkQtQYtgkCf+DQOTpxSdZHPKkv7ZVA7VhWBLb8zNeMTIPHUYsohFKUY0xAN34z+q5GCA51Lonfb/qE618m/sIixVLw9w872VH2PC305515gxQZ4MFq+bfBXS4KK0RXr5+5Pdmsce9ZjQt+5zxBF3/t7SM2aMfHf33EGkFnluPtMueH5ApFRd6RZmrV3FHFrCzMJ/rwmgKX/LnWVdyULP9XRdCStG7HDzxTsaBRbqVeJdzqDyRlVgh0aFSghkKCw8TvAJ122L2IJjEvQDxoFrTr0alCNC5WuSL0SVuDyQ2niTHSfj6u0mJw8LzuUFbg==;JzpmJLOt5SAMJC9DBVEZBg=="
 ---

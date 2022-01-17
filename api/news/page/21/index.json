@@ -2,49 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-12-28-more-chinese-automakers-collaborating-on-evs-avs.md",
-      "title": "More Chinese automakers collaborating on EVs, AVs",
-      "excerpt": "More Chinese carmakers and tech companies are working together to get ahead in EVs and AVs as the world pushes towards greener vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/12/more-chinese-automakers-collaborating-on-evs-avs/",
-      "originalUrl": "https://techwireasia.com/2021/12/more-chinese-automakers-collaborating-on-evs-avs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/12/000_9NK3DU-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/12/more-chinese-automakers-collaborating-on-evs-avs/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/more-chinese-automakers-collaborating-on-evs-avs/",
-      "publishedDateTime": "2021-12-27T19:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-28-massachusetts-institute-of-technology-a-system-for-designing-and-training-intelligent-soft-robots.md",
       "title": "Massachusetts Institute of Technology: A system for designing and training intelligent soft robots",
       "excerpt": "Let’s say you wanted to build the world’s best stair-climbing robot. You’d need to optimize for both the brain and the body, perhaps by giving the bot some high-tech legs and feet, coupled with a powerful algorithm to enable the climb.",
@@ -1115,6 +1072,40 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-aterian-signs-a-50-million-credit-facility-with-midcap-financial-trust.md",
+      "title": "Aterian Signs A $50 Million Credit Facility With MidCap Financial Trust",
+      "excerpt": "(Nasdaq: ATER) (“Aterian”) announced today that it has signed an asset backed credit facility with MidCap Financial Trust (“MidCap”), which is managed by a subsidiary of Apollo Global Management, Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aterian-signs-50-million-credit-facility-with-midcap-/2021/12/27/9517095.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aterian-signs-50-million-credit-facility-with-midcap-/2021/12/27/9517095.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

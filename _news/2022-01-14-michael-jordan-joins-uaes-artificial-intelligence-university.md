@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_277923760/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_277923760/"
 type: article
 quality: 57
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?45781"
         width: 502
         height: 250
-        isCached: true
-  - title: "Michael Jordan joins UAE's artificial intelligence university"
-    excerpt: "Jordan’s appointment brings a wealth of experience to the university, and to the country, in artificial intelligence; in the interface of computer science and statistics; and in computational biology,"
-    publishedDateTime: 2022-01-12T15:37:00Z
-    webUrl: "https://www.khaleejtimes.com/education/michael-jordan-joins-uaes-artificial-intelligence-university"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 37
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=78582d9f-eb92-5d9c-bd87-08fd9e78457a&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84508&x=0&y=0.07746&width=1200&height=675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Michael Jordan joins UAE's artificial intelligence university"
     excerpt: "Celebrated academic and thought leader in machine learning and AI research, UC Berkeley Distinguished Professor Michael I. Jordan, has been named laureate professor at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member"
+    excerpt: "Nota (CEO Myungsu Chae), an AI optimization technology company, announced that it has been promoted to Premier status in the NVIDIA Inception program. NVIDIA Inception nurtures cutting-edge startups revolutionizing industries with advancements in AI and data science."
+    publishedDateTime: 2022-01-17T08:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member-1031105822"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://mma.prnewswire.com/media/1724963/image_1.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Top AI Trends to expect in 2022"
     excerpt: "We live in an AI-driven world. Artificial intelligence (AI) has had a significant impact on the strengthening and transformation of industries all over the world. As we go deeper into a digitally altered society,"
     publishedDateTime: 2022-01-14T04:37:00Z

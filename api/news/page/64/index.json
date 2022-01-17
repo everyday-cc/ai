@@ -2,58 +2,6 @@
   "page": 64,
   "value": [
     {
-      "path": "_news/2021-11-25-the-shape-of-edge-ai-to-come.md",
-      "title": "The shape of edge AI to come",
-      "excerpt": "Making chips work in this new world of edge AI requires new ways of setting up neurals, designing memory paths, and compiling to hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/",
-      "originalUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1197264259-1-e1637768065636.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/",
-      "publishedDateTime": "2021-11-24T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2021-11-24-creating-a-disater-recovery-plan-for-cloud-services-azure-ad-and-microsoft-365.md",
       "title": "Creating a disater recovery plan for cloud services Azure AD and Microsoft 365",
       "excerpt": "Data in Azure Active Directory and Microsoft 365 (previously Office 365) is continuously replicated to multiple,geographically-dispersed data centers, which ensures data availability even in case of infrastructure failure in one data center. In the event ...",
@@ -1120,6 +1068,58 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-simplified-mlops-with-deep-java-library.md",
+      "title": "Simplified MLOps with Deep Java Library",
+      "excerpt": "This is a guest post by Lucas Baker, Andrea Duque, and Viet Yen Nguyen of Hypefactors.&nbsp;&nbsp; At Hypefactors, we build tech for media intelligence and reputation management. The solution is a software as a service (SaaS) product that does large-scale media monitoring of social media, news sites,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplified-mlops-with-deep-java-library/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplified-mlops-with-deep-java-library/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T12:11:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

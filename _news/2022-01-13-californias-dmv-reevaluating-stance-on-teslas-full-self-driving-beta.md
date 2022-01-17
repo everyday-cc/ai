@@ -9,8 +9,8 @@ ampWebUrl: "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Carscoops
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "California May Finally Regulate Tesla's \"Full Self-Driving\" Beta Test"
-    excerpt: "California allows vehicle manufacturers to implement Level 2 systems in production vehicles but has much more stringent requirements for tests of any semi-autonomous system meant to move further up the chain."
-    publishedDateTime: 2022-01-12T17:00:00Z
-    webUrl: "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132"
-    ampWebUrl: "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 59
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2c5c03495b6e5210a97c22476d2fec12.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Tesla's self-driving software is under scanner in this state"
     excerpt: "Tesla reportedly avoided state regulatory oversight by telling the Department of Motor Vehicles that its FSD features do not make its cars fully autonomous."
     publishedDateTime: 2022-01-13T12:06:00Z

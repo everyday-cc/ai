@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artific
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/amp/"
 type: article
-quality: 102
-heat: 112
+quality: 104
+heat: 114
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e4fde1134e946cf9b0f30d%2F0x0.jpg"
@@ -45,6 +46,6 @@ related:
         height: 720
         isCached: true
 
-secured: "W6Og3mgJF7DhmnRNwjlOKf/Wn4js0I66hRnc76mpt5efYkHQfHEyAom/tG5mDOkRB7C5hPtbCcRWq14shHwQ8P+3kqskzdnY/xG14UyvbV/7bXCWu0cbL5cDxQ+ShICt9O2JA0fv69xPFXmRX9eSqtecEuhK19exZd0yupNl22JASP7f7YVkUHtuybpCQuMPZ8fsJnflmGt75kmA35oITWqf5bHShtR07WDtOP7TPvbL9xIA3cvt89x1n0kRxUI/jakmaLK8mzDKtkQcIpn7EC0kshuZEn0amTx3fhZEJaE+4NExFT6J+HrkjUbsAaRzSWCnxA5FB4ywifaftP7K918Z+EIgr4RbW/Flkd0bJO4=;2Zko9sXaaHrws0xwHcuyzA=="
+secured: "K03aZF7hKshW9B17Q/gHOoSyBo2xPk6bhN4l1kb0bi+3lB6J7WkI0ON8Q7jTc38OjnWSRIupQz/yKk4rQldjwwmWlRPuOxBYqULbFX2OLJn9cKD5248ivfjiYndE5JTE0TfXK/nxxQ4pvIClZpnY/vOOsLp/51rUjdduncX+/qxJRrikoEisFPp7FE3pg7Nc1+XM+hpqA2GpTVi5+VAMrWJTUcMuONJFlbswSRQfDEnzxD79zKU+HIM89LVhZCl0x1xtPRuz+AS6dZFezGGrMPqkpRcEFQa9/YTVFD6qnu+0B4g/yMUmrpch1Bv088pBwIFyQ/yrLkBU5vPiPLpb04A/cDwew9fki+d7Qm2IwNVR+J6WFYrcFY5rWfOWQKxUpGaILJ7S+OTs//WyNleErKkZMdvEptMLJHuvDKSUdvxtLKuZthlxu0h01nN+LAMK9dZLHzEsEVtaTMU6oucJnOagl/9e5o0l1NPmPGr/NjP4KGWVUR22z2iSSSNCb1XxT094ndYzPl3q9+n63+gbCg==;2oZcHPtOwUAYH7Yj5/TkPg=="
 ---
 

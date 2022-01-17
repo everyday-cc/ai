@@ -2,49 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-01-06-car-makers-lock-in-long-term-deals-with-chip-giants-for-future-autonomous-vehicles.md",
-      "title": "Car makers lock in long-term deals with chip giants for future autonomous vehicles",
-      "excerpt": "The battle between chip giants in the autonomous vehicle space isn't a two-horse race like it was for desktop PCs. Car makers have a somewhat wider choice of silicon vendors. At CES, Intel, Qualcomm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/01/06/self_driving_car_makers_chips/",
-      "originalUrl": "https://www.theregister.com/2022/01/06/self_driving_car_makers_chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/12/07/car_shutterstock.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/06/self_driving_car_makers_chips/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/06/self_driving_car_makers_chips/",
-      "publishedDateTime": "2022-01-06T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-06-can-ai-emulate-human-creativity.md",
       "title": "Can AI Emulate Human Creativity?",
       "excerpt": "AI has undoubtedly made a significant impact on human life but one aspect of it that still causes doubts is creativity. Some believe that creativity and AI cannot go hand in hand, but the truth remains that AI has already begun to take over creative tasks.",
@@ -1198,6 +1155,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis.md",
+      "title": "Machine Learning as a Service (MLaaS) Market 2022-2027: Industry Size, Growth, Share & Analysis",
+      "excerpt": "According to the latest report by IMARC Group, titled,“  Machine Learning as a Service (MLaaS) Market : Global Industry Trends, Sh",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103494442/Machine-Learning-as-a-Service-MLaaS-Market-2022-2027-Industry-Size-Growth-Share-Analysis",
+      "originalUrl": "https://menafn.com/1103494442/Machine-Learning-as-a-Service-MLaaS-Market-2022-2027-Industry-Size-Growth-Share-Analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?97154",
+          "width": 315,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-17-surprise-surprise-teslas-full-self-driving-beta-causes-accident.md",
+      "title": "Surprise, Surprise: Tesla’s Full Self-Driving Beta Causes Accident",
+      "excerpt": "Despite all the safety concerns around Tesla’s Full Self-Driving beta, a select number of Tesla owners continue to test out the systems on public roads. These videos perfectly demonstrate just how far Tesla’s driver-assistance system needs to come if it is to ever replace human drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/",
+      "originalUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-Crash.gif",
+          "width": 600,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/",
+      "publishedDateTime": "2021-12-17T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-top-5-podcasts-on-artificial-intelligence-everyone-should-make-time-to-listen-to-in-2021.md",
       "title": "Top 5 Podcasts on Artificial Intelligence Everyone Should Make Time to Listen to in 2021",
       "excerpt": "Have you ever wondered how Netflix always suggests the perfect films for your tastes? Or how Tesla can create self-driving cars? Artificial Intelligence is behind much of the innovative technology we see today.",
@@ -1353,49 +1396,6 @@
         "AI in Autos",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-waymo-faces-competition-from-driverless-taxi-rivals.md",
-      "title": "Waymo faces competition from driverless taxi rivals",
-      "excerpt": "Companies including Ford Motor's Argo AI and General Motors' Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202112/13/WS61b6a977a310cdd39bc7aee4.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202112/13/WS61b6a977a310cdd39bc7aee4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202112/13/61b6a977a310cdd3d82052e6.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

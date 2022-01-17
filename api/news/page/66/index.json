@@ -2,49 +2,6 @@
   "page": 66,
   "value": [
     {
-      "path": "_news/2021-11-23-identity-guard-identity-theft-protection-review-and-prices.md",
-      "title": "Identity Guard Identity Theft Protection Review and Prices",
-      "excerpt": "There are three identity theft protection plans from Identity Guard that use Watson, and these are available for both individuals or families. Plans include a relatively inexpensi",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/360-reviews/digital-privacy/identity-theft-protection/identity-guard",
-      "originalUrl": "https://www.usnews.com/360-reviews/digital-privacy/identity-theft-protection/identity-guard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-23-target-is-poaching-engineers-from-amazon-in-order-to-leapfrog-amazon-go-technology-heres-what-we-know.md",
       "title": "Target is poaching engineers from Amazon in order to 'leapfrog' Amazon Go technology. Here's what we know.",
       "excerpt": "Target wants to take on Amazon and Amazon Go by building out its own network of high-tech stores and warehouses.",
@@ -1124,6 +1081,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-stocks-to-buy-now.md",
+      "title": "Stocks to Buy Now",
+      "excerpt": "It even has an artificial intelligence engine called Koa that ... Nvidia has more employees working on driverless cars than Alphabet's Waymo, an actual driverless car project.",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=bhogge%40live.com&email=bhogge%40live.com&moneymorning_subscribe=complete",
+      "originalUrl": "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=bhogge%40live.com&email=bhogge%40live.com&moneymorning_subscribe=complete",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/health-care-ai-long-way-to-go/"
 ampWebUrl: "https://www.wired.com/story/health-care-ai-long-way-to-go/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/health-care-ai-long-way-to-go/amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/61e22d6b844ec857b7138306/master/pass/healthcare-ai.jpg"

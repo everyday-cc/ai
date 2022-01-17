@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The metaverse is coming. Are your ethics ready?"
-    excerpt: "The metaverse allows us to build new constructs with digital avatars; perhaps a unique avatar for each version of self, or at minimum, an avatar that can literally be everywhere at once. It allows people to explore different facets of their personality in ways physical society does not often permit."
-    publishedDateTime: 2022-01-12T15:30:00Z
-    webUrl: "https://www.fastcompany.com/90712458/the-metaverse-is-coming-are-your-ethics-ready"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/01/The-metaverse-is-coming.-Are-your-ethics-ready_.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Why AI Writing Assistants are a Good Thing for Content Creation"
     excerpt: "AI writing assistants are software tools that are disrupting copywriting and content creation. So you've heard of AI writing assistants, but how do they work? AI writing assistants are software tools that automatically generate content for a set of parameters."
     publishedDateTime: 2022-01-17T03:08:00Z

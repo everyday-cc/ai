@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Spark, Ten Coves Back Boosted.ai With $35 Million to Expand Asset Management Software"
-    excerpt: "Boosted.ai, a provider of artificial intelligence software to investment management firms, is raising $35 million in a series B round led by Spark Capital and fintech investor Ten Coves Capital. The money will be used to build Boosted Insights,"
-    publishedDateTime: 2022-01-12T16:04:00Z
-    webUrl: "https://www.bloombergquint.com/markets/spark-ten-coves-back-boosted-in-35-million-funding-round"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 32
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "En6oo0hhyXYIhLPeAVRKr+rJFWey+V4GNUmW/2ewatTfu3+OsRY7D3vXQB08Tw9gU+4v/LMKvBnQSm7MojQ8tzN9Qqt87zZ7I8pkrYXHIk9Vfc/7+kTviWPf31rOVMNe2xOXbAul23Xi0/xQl69DNYZ61R9pSx4iIVTjucjiXimGw8R5+2EC5XazeP+YJmoNN9S0mWLMN5w7qknDfLh8xR9zyZqzxzIwy1O27VBg0uwkH+AP4d6co1BurKuOTiu9/1WEuVf9JD0nJSW4xDnVDYzjbQzdzXXjpGiDg4Nl7WgNXBFuQHJc/t+n5fn9G4jnrb/WG7nhAinSaNMKuZ7SuvQ/OfaixRmk1LtVDcai96g=;gUJC1Gu4+O4eYqisbt0snw=="
 ---

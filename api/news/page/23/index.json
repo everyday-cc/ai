@@ -2,58 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2021-12-26-taiwans-opposition-kmt-rushes-to-regain-lost-voice-in-america.md",
-      "title": "Taiwan’s opposition KMT rushes to regain lost voice in America",
-      "excerpt": "High-level Kuomintang official is in Washington to speed up reopening of liaison office and counter the influence of Taiwan’s ruling DPP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "originalUrl": "https://www.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/24/01bf6034-a56d-4eaf-a516-1f55929838b3_9ced3255.jpg?itok=Jhq02AR0&v=1640357815",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "publishedDateTime": "2021-12-25T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-26-guardforce-ai-co-ltd-shares-close-the-day-172-higher-daily-wrap.md",
       "title": "Guardforce AI Co Ltd Shares Close the Day 17.2% Higher - Daily Wrap",
       "excerpt": "Guardforce AI Co Ltd shares closed today 17.2% higher than it did at the end of yesterday. The stock is currently down 65.7% year-to-date, down 65.7% over the past 12 months, and",
@@ -1110,6 +1058,50 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-5-ways-ai-will-change-the-digital-marketing-game-in-2022.md",
+      "title": "5 Ways AI Will Change the Digital Marketing Game in 2022",
+      "excerpt": "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php",
+      "originalUrl": "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T13:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Union",
+        "domain": "timesunion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
       ]
     }
   ],
