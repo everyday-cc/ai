@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/uk-self-driving-startup-wayve-raises
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/uk-self-driving-startup-wayve-raises-%24200-mln-to-scale-up-technology?amp"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -36,6 +36,22 @@ related:
       - url: "https://media.nbcphiladelphia.com/2022/01/107002167-1642416708532-Alex_Kendall_CEO_2_002.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "UK self-driving startup Wayve raises $200M to scale up technology"
+    excerpt: "British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
+    publishedDateTime: 2022-01-18T03:18:00Z
+    webUrl: "https://www.foxbusiness.com/technology/uk-self-driving-startup-wayve-raises-200m-to-scale-up-technology"
+    ampWebUrl: "https://www.foxbusiness.com/technology/uk-self-driving-startup-wayve-raises-200m-to-scale-up-technology.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/uk-self-driving-startup-wayve-raises-200m-to-scale-up-technology.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a07a609c-c5af-4b95-bc06-8b59b63073ac/1137c0fc-b96c-4789-823b-c3c91dca87f9/1280x720/match/image.jpg?pubId=854081161001"
+        width: 1280
+        height: 720
         isCached: true
   - title: "UK Self-Driving Startup Wayve Raises $200 Million to Scale up Technology"
     excerpt: "British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."

@@ -39,6 +39,22 @@ related:
         width: 749
         height: 393
         isCached: true
+  - title: "PIF's new AI company launches operations"
+    excerpt: "SCAI — wholly owned by Saudi Arabia’s Public Investment Fund — will support local firms as they develop AI solutions"
+    publishedDateTime: 2022-01-18T04:46:00Z
+    webUrl: "https://www.zawya.com/uae/en/wealth/story/PIFs_new_AI_company_launches_operations-SNG_279217994/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_279217994/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_279217994/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 57
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/180620130010CTNU.jpg"
+        width: 1199
+        height: 800
+        isCached: true
 
 secured: "ktkr4iEnwxOG3JioL8ld/S/cVUGUD4tdXw/xHXWLcXusEVnR5ERxjWp0DLba4cni5zaO5GXfgB0zUKbqG1BXhCtvq199K8dObjM5V2asPwbLGTCHYDHdf5vEknB1cliVn1Ij0g2He+Mkkrn8y/j+d49hBxO2ixPk5aAju1PD/kSMQ/1WVkg5TvFG7TNxlNRxRmaAe6S8jr9Ezz9GrhUQTfILNb60FUGGjg0IYY+Esjc7InAEXtdYNL6mPGf0bAcnDJQ5PFenmfJBA9au4wmt/3Z8H/0p+3893ni58bG85psxyrcMg/AGWpeF21XG0azNAUtpGvjVq6ABQ3vhHZkDrFuP5Bi+ESXo29dihNpgJ0ilNEHqnujUBLaeCL96I8RZE1YgzZBzdpslbxftkBIBWU0ZLMnys4XV73sU0ug/Fl5I9mcuJN3D9Mh4epgy7LCQ5vSfyNTUKFwSLz5fC7koYO3i3iEAox4ZWv4g9r1gQibhy7h4dXe5eLGCaKXI8hqfDTLBJJ/F0PhTbWXUfkp63Q==;ixOL5AgT4j4p5uBeI6IsZA=="
 ---

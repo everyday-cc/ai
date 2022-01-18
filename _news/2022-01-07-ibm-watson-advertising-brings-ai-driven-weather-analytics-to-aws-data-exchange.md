@@ -1,17 +1,15 @@
 ---
 category: news
 title: "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange"
-excerpt: "ARMONK, N.Y., Jan. 7, 2022 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon ..."
-publishedDateTime: 2022-01-07T13:16:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/n24946004/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/n24946004/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange"
-ampWebUrl: "https://www.benzinga.com/amp/content/24946004"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24946004"
+excerpt: "Providing data from the world's most accurate weather forecaster1, IBM Watson Advertising's Weather Analytics harness the relationship between weather and consumer behavior using artificial intelligence to extract deep insights to help businesses make more ..."
+publishedDateTime: 2022-01-07T13:02:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/01/07/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange"
+webUrl: "https://stockhouse.com/news/press-releases/2022/01/07/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - IBM AI
@@ -24,6 +22,6 @@ images:
     height: 209
     isCached: true
 
-secured: "YctQ8lH5sA/gOi19FI+v3tLuPF/9jat5d0jYjFv7DRELLxcJezGEVCrs0qzJfSunXqWQuSlQl5pQMvzpBes0pHBroPZnXBdr0I/DjF0lGSkg8es8LQopoMbUqSHSjoLzpqzutb9UvrCvAZ6mHsEXLgApEhTVOGDZHJjYKTsHySp1FeteqCl84CQfXuR+6aszHTxqseW2lH+qtKnKCpsEctUGR4NEJPftEOafwrDK+x3qZP6CdK4W/eetFOl06z5XbEwsZyhH/wbDgxHoNf/M02rfkAGWv/uaxlIxwNMu56my1+pQEXXB4d/QydR8oLyn2ZgcjlemzyEFli3h99HirBrOD1HC0p8B8vFzW9udY9A=;PXMRlkugkI3vo9Go5oRZJg=="
+secured: "jYywmftu05pTTAqE/zCbMdF1T/LSvKeH8f2VHqCxC/f1C2kudoprNy6CfQ3xzpiuhWF3+D/LwvnYo21xZMX2gO4vAB5UHsrCNOBOEztP+6qed4zwh6AVmXbM7zfatW/N3ie0pdtUfQbg4QxYl2YibD0Ovs5lq+ptov97MiXUc6spUepcwdO0kgaLIa+fcDOo4tg55lBvOmoOHRsTEgiU4jauFb+GMDOZWA6s6FTazqGuYYXV5uSf/WnCE/wcFi9EWuFYH+60XFwp4lv4pTO0IrzOqKWRtBGWi1g6O1DfnXN9sbARq7nAmLEOgbW0fJedeY9+8VdbxvObLVWV9S9JAN3EGLQHDIgRTihfP1c8jKc=;B7QbyWJ94K398D2buOjpwQ=="
 ---
 

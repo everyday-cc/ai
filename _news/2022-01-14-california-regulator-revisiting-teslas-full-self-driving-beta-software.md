@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla's self-driving software is under scanner in this state"
-    excerpt: "Tesla reportedly avoided state regulatory oversight by telling the Department of Motor Vehicles that its FSD features do not make its cars fully autonomous."
-    publishedDateTime: 2022-01-13T12:06:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state-41642074918728.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/01/13/600x338/TESLA-CALIFORNIA-FSD-0_1642046417398_1642075413072.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Tesla Full Self Driving beta comes to Canada in 2-4 weeks"
     excerpt: "Elon Musk himself has said that Tesla will roll out the Full Self Driving (FSD) beta in Canada over the next 2-4 weeks. If I had to guess, we’ll likely see it in 2-4 months, but on occasion, Musk’s tweets have been known to accurately reflect Tesla ..."
     publishedDateTime: 2022-01-17T22:54:00Z

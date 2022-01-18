@@ -91,6 +91,22 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "Republic Day 2022: Multi-layer security cover with 300 CCTVs, facial recognition systems installed"
+    excerpt: "Multi-layer security cover with 300 CCTVs, facial recognition systems installed - Delhi police has installed over 300 CCTVs with facial recognition systems in and around Rajpath. Quick reaction team,"
+    publishedDateTime: 2022-01-18T04:54:00Z
+    webUrl: "https://www.dnaindia.com/india/report-republic-day-2022-multi-layer-security-cover-with-300-cctvs-facial-recognition-systems-installed-delhi-police-2928936"
+    ampWebUrl: "https://www.dnaindia.com/india/report-republic-day-2022-multi-layer-security-cover-with-300-cctvs-facial-recognition-systems-installed-delhi-police-2928936/amp"
+    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-republic-day-2022-multi-layer-security-cover-with-300-cctvs-facial-recognition-systems-installed-delhi-police-2928936/amp"
+    type: article
+    provider:
+      name: DNA India
+      domain: dnaindia.com
+    quality: 62
+    images:
+      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/01/18/1015235-rajpath-security-ani.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "R-Day 2022: Multi-layer security cover, facial recognition systems in place; visitor verification intensified"
     excerpt: "Delhi DCP said he has briefed the police personnel about the necessary precautions that need to be followed and has tightened the security arrangements in New Delhi."
     publishedDateTime: 2022-01-18T01:40:00Z
@@ -122,6 +138,6 @@ related:
         height: 420
         isCached: true
 
-secured: "5nt8QGw/6v1STEJ41Vgx+gFeDlK6g5lwu0NBGBgtaYdIB0HK2sGGcZbnERhCa2EP9wXCDhAVKJWBg0aim4Fv5g5K8rwxV6gYHVj4dLoWzDa5JrwsJCI+6NyGMid8EiRWCKgLXuLfyk0KxpkJBiofcjunmo+O6gTu0u9moY+LZS1pveTfAEN/4BfoZFIJq859cLoYPBSDqXRwSl7m85KHTClA7cCNOq25hcmkLkrt7wDyaq3NoMzsqpkK/KWY5m0khJAmPUA/aH92AK7Zk2VrmSrU4wMicUmCNNVHg4IZfl4a88yraIslJcTtTOjs39zoyUmZmV34wvaiT+F7/B+QzCB3Tw2rNXzmi9yadWp7SAE=;TpxM9nd5l+/uRcb2qLL6eg=="
+secured: "ol0QfKWJgsZeuOxXXlV7qeB5WAGWo0/UP7lr6TdsjSoQe0nWsM6W5sRT3JX5Iuqs1XT+ZIyjAGGfyIQcyDh1irSpGpFTF6IVKc6xrocKrSW6iKl608uQbZkdwtyvgofOX39KTHgHXvsR9deT/MF0u0elLOGly5oa+U6op6Mo9u6kGN183cix+60kU/g3g2ThQksIq5X1LfouIOK1//hh6XK5h0Qg4I4+D9VcBEr/KB+srWs/tE4YivcWjl0cpIUhhheHQz4Ov/zrWHMjCMlEhrEE3eFbNPnnY7F++QI5ISz+S6zi+cwlXZTaNzerkYXgjAXGxzbfaXzrJKGLs563JFupdltuG5rJsUZ5kOrD21shJ3WZW6+ELuzo67J3l8zPR+7TZsO4FQ2IwPrr0eDiV6IBXYc88vbuQVPVfTtKfme5hOeWhuY0psC58tcR9CvXwBR3imFUbCDwalk8FSckGCIs+PWsSiqIT6kqD6U6bJynyIkQfZ+5knfyD8XF2LCPaE+4cOae80UKVAqYA4gJfA==;B7HR/bUWmVx1rIq3ECA7Tw=="
 ---
 

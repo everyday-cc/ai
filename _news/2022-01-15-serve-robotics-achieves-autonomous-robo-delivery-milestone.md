@@ -9,8 +9,8 @@ ampWebUrl: "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone/amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: freightwaves.com
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Serve Robotics Becomes First Autonomous Vehicle Company to Commercially Launch Level 4 Self-Driving Robots"
-    excerpt: "Serve Robotics, the leading autonomous sidewalk delivery company, today announced the deployment of its next-generation delivery"
-    publishedDateTime: 2022-01-13T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/serve-robotics-becomes-first-autonomous-vehicle-company-to-commercially-launch-level-4-self-driving-robots-301460151.html"
+  - title: "A Four Wheeled Fully Autonomous Delivery Robot Has an Airbag for Pedestrians"
+    excerpt: "Autonomous driving companies talk about AI and collision-avoidance tech. But this bot maker has put in a measure if other things fail."
+    publishedDateTime: 2022-01-14T14:30:00Z
+    webUrl: "https://interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians"
+    ampWebUrl: "https://amp.interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 136
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 71
     images:
-      - url: "https://mma.prnewswire.com/media/1725764/L4_V1_006_FINAL.mp4?p=medium"
-        width: 512
-        height: 288
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/XD6KkKyz6v/sizes/nuro-1920_resize_md.png"
+        width: 744
+        height: 419
         isCached: true
   - title: "Self-Driving Robots Achieve Level 4 Autonomy, Will Invade City Sidewalks"
     excerpt: "Serve Robotics, the Postmates spin-off robot department under Uber's wing, has introduced its next-generation delivery robots capable of operating without human intervention. The fully-autonomous robots have already completed their first delivery,"

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Serve Robotics Becomes First Autonomous Vehicle Company to Commercially Launch Level 4 Self-Driving Robots"
-    excerpt: "Serve Robotics, the leading autonomous sidewalk delivery company, today announced the deployment of its next-generation delivery"
-    publishedDateTime: 2022-01-13T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/serve-robotics-becomes-first-autonomous-vehicle-company-to-commercially-launch-level-4-self-driving-robots-301460151.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 136
-    images:
-      - url: "https://mma.prnewswire.com/media/1725764/L4_V1_006_FINAL.mp4?p=medium"
-        width: 512
-        height: 288
-        isCached: true
   - title: "Serve Robotics achieves autonomous robo-delivery milestone"
     excerpt: "Autonomous sidewalk delivery company Serve Robotics completed robot deliveries with zero human interaction — an industry first."
     publishedDateTime: 2022-01-14T18:13:00Z
@@ -54,6 +40,22 @@ related:
       - url: "https://s29755.pcdn.co/wp-content/uploads/2022/01/Serve-crossing-with-pedestrians.jpg.optimal.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "A Four Wheeled Fully Autonomous Delivery Robot Has an Airbag for Pedestrians"
+    excerpt: "Autonomous driving companies talk about AI and collision-avoidance tech. But this bot maker has put in a measure if other things fail."
+    publishedDateTime: 2022-01-14T14:30:00Z
+    webUrl: "https://interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians"
+    ampWebUrl: "https://amp.interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 71
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/XD6KkKyz6v/sizes/nuro-1920_resize_md.png"
+        width: 744
+        height: 419
         isCached: true
 
 secured: "k1SFi1Mu+QWS03OKsJ88E/jdwLUOI2WTdZXmoX3Am/TzP6XK9sfYCA9dkIf0SM4STZWWuklRq0aOSCVf2a/P+WqB8rSwTga51C6NNi/WQZMptUrm1PeOk/ryvJuLJhnOqtCkans6iRbI+kyRRJ8yU/gBpEsMqNRHMEyxzYo1V+0RR0Ix7AGO/2VhzbXrNXhmyK6Vu49I7Hk3QQB2b8nK4jpIJKXq5GKva029sV7JI9Q8+Z+lONWuas+THJSDIHwpjh8UT8/wGkFQA3gR8Mo3LudEO3eFvyC2VsKMHPyVhtV1zrUbFoaJz5CHPAkJmWpsebLSMmIkLzQO3rmT6Zs+oQORmiQMYAJ3XZv3ugAtNeA=;ixANXnDx7S6QdxWfblVaRA=="

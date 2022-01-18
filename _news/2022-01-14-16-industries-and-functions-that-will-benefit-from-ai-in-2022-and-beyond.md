@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 978
     isCached: true
-
-related:
-  - title: "How is Artificial Intelligence Reshaping the PR Industry?"
-    excerpt: "Many areas of society, economics, and even life, in general, have been completely revolutionized by technological advancements in recent years, leaving them indistinguishable from just a decade ago. This is especially true in the communications profession,"
-    publishedDateTime: 2022-01-13T12:38:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-reshaping-pr-industry-shaikh-sofiyan"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFkClOombixdQ/article-cover_image-shrink_720_1280/0/1642077386382?e=1647475200&v=beta&t=9WFsdv4viK4IN8zQgj8dBulNQN7u0yeMAd69As0Uns0"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "KkBykgjp/6OflkIm4PD+0hVnsSB8GQ7nd60lakZIK1myP/xpZolUol2TyBQI0ngZTdiNxPEj7giQXTTKFIBOPEUE/C6a8vEYKZYClNTLuzHP0EXhrh8eR9WyWPzVR9xIqPM8+Jfy2dgts7+Ki9gZMtzyv2gKR/jEgaH8iINB8dHYvE4D6YZPzJvTW6tn5KgEVCehyw+3kgrk13JjBAgWNhdkUCDvgaLQByaPjtvMRxx4mt5EFd5zwAMsxzVcSyTG836ig2CYRPmZUcouePrVRHKnXy/AsB9CSRhcru8vtqZcCt1vFc+ASuhM8HHXJD3sIYqVltkls2rU9wqP54ZOhSAvKgBjwVcJM6hACQCifJlb9pVe0wPtWcHQ7VonTJDaSMD+uFkTtBwuBp0gc5Yug1+my3NNSgM3B2mJHafg3ek1Pn3uWq/xSpCzQJDtQjUeQYgm/V9SiYVKG9S72zspMtK/35c9jAHUGVKwefFIQ6+AoZu5sABMSAFJVO0iTOsPZcAdOiHezG+zoSaoIepYHw==;j/chyTFPBRoABzR7uDxu3w=="
 ---

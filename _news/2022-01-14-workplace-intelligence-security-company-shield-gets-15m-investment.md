@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2022/workplace-intell
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2022/workplace-intelligence-security-company-shield-gets-15m-investment/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "Shield bags $15M Series A to address surging demand for its AI-powered communication compliance platform"
-    excerpt: "Over the past two years, since the pandemic hit, there has been a sharp rise in financial crime compliance costs, nearing $50 billion in 2021, up 58% compared to 2019, in the U.S. and Canada.  Shield,"
-    publishedDateTime: 2022-01-13T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/"
-    ampWebUrl: "https://techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 70
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/Shield-Founding-Team.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "YVx4lGHlSD8A+8t53/akn+7oSzC7e/3ldI9rKltOAIbPEcWOxFZNjyvHli5wYcFUFsrktbk2ijpiKOM53o4uHmebyr0Yc1S2DVBNVuiXSYBf4D/+6VFPIoCHxHhlan4a2pLEJmV/9VFAFKe5nWh8SE+NtfXLivP8DRAuSu0wxqPC1Jasbo3idgCCpCx4pl9+SFNp2oYAVWm4JbO3aUkpJ5H1xLU7gwz1zkVVx232mFHA6NG2cClwZXGDd/OYnUSbHwxNEv7dGsX3mcAc1EBw5jQKayPnh0j/AxdEVUFFZH+2EgiR+DujheR9TFefGvHlwENmT12OjbSTibypEDa1hpAdOmKw1opFwjxXiCpaxVU=;meFLvzgF2u5epsc5oxABCA=="
 ---

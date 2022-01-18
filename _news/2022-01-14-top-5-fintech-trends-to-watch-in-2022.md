@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Robo Inu Finance aims to create payment methods using the FinTech industry"
-    excerpt: "Robo Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial"
-    publishedDateTime: 2022-01-13T11:42:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/robo-inu-finance-aims-to-create-payment-methods-using-the-fintech-industry/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 52
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/01/8c_8LinT_400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "TOP CHALLENGES FOR THE FINTECH 2020 – 2022"
     excerpt: "More than a year ago, we published an article about challenges, the fintech faced in 2020. There was a first year of radical changes in the fintech industry due to the first pandemic hit."
     publishedDateTime: 2022-01-13T17:29:00Z

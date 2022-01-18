@@ -9,7 +9,7 @@ ampWebUrl: "https://english.mathrubhumi.com/news/india/multi-layer-security-cove
 cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393"
 type: article
 quality: 67
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "Republic Day 2022: Multi-layer security cover with 300 CCTVs, facial recognition systems installed"
+    excerpt: "Multi-layer security cover with 300 CCTVs, facial recognition systems installed - Delhi police has installed over 300 CCTVs with facial recognition systems in and around Rajpath. Quick reaction team,"
+    publishedDateTime: 2022-01-18T04:54:00Z
+    webUrl: "https://www.dnaindia.com/india/report-republic-day-2022-multi-layer-security-cover-with-300-cctvs-facial-recognition-systems-installed-delhi-police-2928936"
+    ampWebUrl: "https://www.dnaindia.com/india/report-republic-day-2022-multi-layer-security-cover-with-300-cctvs-facial-recognition-systems-installed-delhi-police-2928936/amp"
+    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/india/report-republic-day-2022-multi-layer-security-cover-with-300-cctvs-facial-recognition-systems-installed-delhi-police-2928936/amp"
+    type: article
+    provider:
+      name: DNA India
+      domain: dnaindia.com
+    quality: 62
+    images:
+      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/01/18/1015235-rajpath-security-ani.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "R-Day 2022: Multi-layer security cover, facial recognition systems in place; visitor verification intensified"
     excerpt: "Delhi DCP said he has briefed the police personnel about the necessary precautions that need to be followed and has tightened the security arrangements in New Delhi."
     publishedDateTime: 2022-01-18T01:40:00Z
@@ -123,6 +139,6 @@ related:
         height: 420
         isCached: true
 
-secured: "PwxiCET2wh5LRArGn6Z69BHo0DiCfDOlDrdFZuu+XCPZpw+DYdewtbJOKTtssbXfHS9UBFp395X8It+xxkpOrgjyZxIcc9mSalxK19fO8Pg6eS80X42D03LZuAfIxHEDzbzdB+r33qGD4ytEMXOagm1kTHFqpPi0gSYaLUR/1y9bO/r+XMiWS7bF8DBU3DeO8iYM8b//yGf1rvRHPpFIr8RZ0foAVWgF6VcKZcHmvzKNqxfBejBnqGAj5OG5kX400fEmHf49uMSkCua93NdyTp2CnHmMo+HD73nxI/XRofbfyzRQ26EsYHAfAzXfkoZqDXGlgqqiGuIaDdmteCHW/dMGoIFjI09UJMF06ci+cVU=;aiIVPrVwAjCotfP//4f+aw=="
+secured: "aLj4H/FFIaYt8J/KQ0y060kEbRI5WqhHBEhmadh3YD8KjFukXNNHLQBC7QEy4RIm9mvHGAc/hx9vxazrTBLvh/pE/dnjQOn2PJNp580mwA8T5Yn1lTKgFaLEdIGOmXqJXlSA34F1KzrL38qBnV7FUSorivWFPozSWN797738yav+OuqyXn8EqSByuB4JSZe5uSnGQMDtnih6WHdBHDtlmgTlt6rAGAx5FDy/KljV50AM/cF9/SMmtgKsDhhFKadhwpjq/iRhj/lOjmsnHQ+oJmacJNIrHxGC6rV8uhAil4/naP5lP8xBCLWrKCsBe8e+3q6pdawQ7P5dQ3ldur2HHLCuIS8mdy4OK0z5mJ+CjUCRiY7xSf/0EHPTpePaGW5yvoiR1dvzDT2twpfXrULWS3akmtJso4GeTINUKC/jpoK2/DvymHIzXvXU+o+v3DjGXC+hWovnnlb+ClAdquT2/Pq1Q2ACcWtGZO7H69F/QVYi+TRTExbsECJ7OFvgG7kBi7qzua6vs+9s+J+Y9svlhA==;c59HFg+09LOJXhopNoU39w=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 935
         isCached: true
-  - title: "Colorcon Ventures Invests in AI-Driven Bio-simulation Company VeriSIM Life"
-    excerpt: "Colorcon Ventures, the corporate venture fund of Colorcon Inc., has invested in VeriSIM Life, a San Francisco-based startup with a digital bio-simulation platform that accelerates drug development and reduces animal testing."
-    publishedDateTime: 2022-01-13T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/colorcon-ventures-invests-in-ai-driven-bio-simulation-company-verisim-life-1031100011"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://mma.prnewswire.com/media/1725799/VeriSIM.jpg"
-        width: 400
-        height: 247
-        isCached: true
 
 secured: "hxYjqIwg00CMVSYWeohUuNgh6WUUeCWUzYn99L5PKg/DU+bjQ0acdrZNjbNMCglav1jcbapno/ZkK3VsnBk3UT/nyv1Y6CePUtELoO1mCX5Ilskr6x/+DsPUnj5XijKNuyFm4rK1qQ+XKxVmzA6LPTVvnSRGg1Zfqt0z0HqWFWnUStVwK0MosR+Bs4Qc8TKcMZfInO/9ScTcByZ9F5e8gCRXbe55NsNLHAYA+Gjg0vAZapWPf0NwptSCjbNyOQHbRbcnUAGfi6lcWHvu2cVblP/tS+oCbvqhQq8j0Ue/o8DJ6qZhdSXmKVTqhyqJl77obJlwwykRc7NJMP9giUupm+blTFmDRLRbuI4l497OkAI=;JBGQB4/d+KS0PtPh6do7FA=="
 ---

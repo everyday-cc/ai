@@ -7,7 +7,7 @@ originalUrl: "https://www.franchisetimes.com/franchise_news/checkers-installing-
 webUrl: "https://www.franchisetimes.com/franchise_news/checkers-installing-voice-ai-in-all-company-run-locations/article_b4d593ac-7577-11ec-aab8-0fb934cd9896.html"
 type: article
 quality: 137
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "PIF's new AI company launches operations"
+    excerpt: "SCAI — wholly owned by Saudi Arabia’s Public Investment Fund — will support local firms as they develop AI solutions"
+    publishedDateTime: 2022-01-18T04:46:00Z
+    webUrl: "https://www.zawya.com/uae/en/wealth/story/PIFs_new_AI_company_launches_operations-SNG_279217994/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_279217994/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_279217994/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 57
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/180620130010CTNU.jpg"
+        width: 1199
+        height: 800
+        isCached: true
   - title: "How artificial intelligence and linguistic intelligence are assisting workers in their learning"
     excerpt: "Language Artificial intelligence is now commonplace. It assists us in filtering information in a variety of ways, from search engines to chatbots. However, AI has untapped potential when it comes to assisting humans in the processing of information."
     publishedDateTime: 2022-01-16T17:50:00Z

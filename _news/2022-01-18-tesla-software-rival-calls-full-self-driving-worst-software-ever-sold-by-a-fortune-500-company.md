@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla's self-driving software is under scanner in this state"
-    excerpt: "Tesla reportedly avoided state regulatory oversight by telling the Department of Motor Vehicles that its FSD features do not make its cars fully autonomous."
-    publishedDateTime: 2022-01-13T12:06:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state-41642074918728.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/01/13/600x338/TESLA-CALIFORNIA-FSD-0_1642046417398_1642075413072.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Tesla Full Self Driving beta comes to Canada in 2-4 weeks"
     excerpt: "Elon Musk himself has said that Tesla will roll out the Full Self Driving (FSD) beta in Canada over the next 2-4 weeks. If I had to guess, we’ll likely see it in 2-4 months, but on occasion, Musk’s tweets have been known to accurately reflect Tesla ..."
     publishedDateTime: 2022-01-17T22:54:00Z
@@ -180,6 +164,6 @@ related:
         height: 480
         isCached: true
 
-secured: "+2neXkjcnq2bSBA1FhXnCqd7RSGLnDZBvCblie9lmnZECSQP+j9VY2Pv4TEMdFu/er7TUGKTnLUpd7snDl1hOVMxww5z68ndJzEHlNT1PA5gsubcVw99HfbgCJH4dwNrGGcziYMHe4pmpJ6eHH4cmP8XW1CdY9xWDwv9JAonnOrxiX9/YvyyatMRmYObJXnxhx2cKP2VlhnaH05lxtc0zFyA4iCqEwWwt7DCG41XPhW8sVs36AW/1qaktc6s0QbKH7GC4Rs95feKAJPEK1X3TWWzc3ym7GOBhmx8iVQ5G7TCfFEjCzFWFiE9LJNb6in6rIq1hG5mYQngSc7hoo1FwJZyVxJeZPj24y1cpogWHt0=;Tt+5FHl0gO0g/Ix68l2nFA=="
+secured: "DvECqNCW1JuKx9z8oEnk5IozFCd5LKCwap7rHWb7eL61RUdozmv8wwj98ETM9IAP/tHUmwZaRKxLKC3Ri/I5ssFpguIvXQ9E0SkbRc4pUvVqudmaiJVOg8OH/kWVxaPF7y8RpQFIGlab019VVgA5MafGj0DFalLbOqAemzrVE2BkqV3crGMF3YXS8xN8y9je6rOOx3OHOSNdTT9ksRMvdKlj/5h6ncryn5G3Zd3wKQwbCdRgHqNZSlyCCgvFnPbfs6PSgChy9GdoAgf0bhgXK0e0FwEOWwr2wljDeqEbi9OpoDF/6yFG0f7kXGEhTQ9t5I1rvj9Ayz/50+6X8IoMKvCYOlt6mhymcmhu1k0BGcT/w+tq77fXvsWM4UpwR5zqku4rqvp5cgoXqzP4K65UTIywTK5X2JQXriB0Opt4uNHoooZfc79ynS1YGROwV4oiQXnPMdOYyPer7M7Xr5O5qBf2hTMfPYUfX8KZt4yHtUthsxKOnBIzJPBHWwFDdrDl5eZAE8r3xe6yPblgjEQ7eQ==;MIJ8lm4DfV8yWxaCLyjU4Q=="
 ---
 

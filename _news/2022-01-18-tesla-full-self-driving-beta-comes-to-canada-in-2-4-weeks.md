@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla's self-driving software is under scanner in this state"
-    excerpt: "Tesla reportedly avoided state regulatory oversight by telling the Department of Motor Vehicles that its FSD features do not make its cars fully autonomous."
-    publishedDateTime: 2022-01-13T12:06:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state-41642074918728.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/01/13/600x338/TESLA-CALIFORNIA-FSD-0_1642046417398_1642075413072.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Tesla Full Self-Driving videos are prompt California's DMV to rethink policy on accidents"
     excerpt: "In brief California’s Department of Motor Vehicles said it’s “revisiting” its opinion of whether Tesla’s so-called Full Self-Driving feature needs more oversight after a series of videos demonstrate how the technology can be dangerous."
     publishedDateTime: 2022-01-15T11:01:00Z

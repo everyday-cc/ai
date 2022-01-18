@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_277923760/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_277923760/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1199
     height: 800
     isCached: true
-
-related:
-  - title: "Michael Jordan joins MBZUAI as laureate professor"
-    excerpt: "Celebrated academic and thought leader in machine learning and AI research, UC Berkeley Distinguished Professor Mic"
-    publishedDateTime: 2022-01-13T12:41:00Z
-    webUrl: "https://menafn.com/1103533602/Michael-Jordan-joins-MBZUAI-as-laureate-professor"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?45781"
-        width: 502
-        height: 250
-        isCached: true
 
 secured: "Tp8O3IW02quA/BZIdx9sft502ptJyn4AHHRyymplZrREuEkfWrHo7ZGvjF4nzqxiT829bw+MMokfIbrZuF/6Kfezy8y43oQjY0BoW+uxrKod2QH2E/EIQvqF2dwWGkRKNpSg7Hq3vbllQls3hajN29vkY2dCiAmKEsGNrQekAmhjBBhpluX8nqv+WbLqJNvk5VMlCCzkr9KL6g9+vl2W7PkX+KASMRSlDjothyB8uQQrKmx7rUx0yg0mHleq38NuQPX5g118/0eCwS3AWPxHm8BOV1PL/SzKfxcBgNK9M1NDhvDPnrJZ0xVSDoJFKXtEGi4EA7eWV+OZ1wey1FhvnWRHoIOujVM2hlEOk1eaU68ahIx331GYEd4TXmp2qIzlXmN4Xn2dMUARJHQZwkBkYdVUrff9/Z6oYzkuHkNCPKVENzNHT4ul6AI/jYGZF35EqfyU2mqnQmvFE6Y85GbzGJlkKI01JSvwYFnquj5uGRyIy8lG+JI0I8Zl4ziRb8hQVxIyV17lY2fVsfshER020Q==;llJs5RHIlcmLyYG9ux8BbQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-was-my-pitch-jen
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Colorcon Ventures Invests in AI-Driven Bio-simulation Company VeriSIM Life"
-    excerpt: "Colorcon Ventures, the corporate venture fund of Colorcon Inc., has invested in VeriSIM Life, a San Francisco-based startup with a digital bio-simulation platform that accelerates drug development and reduces animal testing."
-    publishedDateTime: 2022-01-13T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/colorcon-ventures-invests-in-ai-driven-bio-simulation-company-verisim-life-1031100011"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://mma.prnewswire.com/media/1725799/VeriSIM.jpg"
-        width: 400
-        height: 247
-        isCached: true
   - title: "The Army Invests in Artificial Intelligence for Next Generation Combat Vehicles"
     excerpt: "Predictive maintenance, long-range precision fires, and the Next Generation Combat Vehicle are primary focuses of the U.S. Army Artificial Intelligence (AI) task force. Kris Osborn at Warrior Maven reports."
     publishedDateTime: 2022-01-13T13:30:00Z

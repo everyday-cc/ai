@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-12-21-artificial-intelligence-ai-helps-improve-patient-and-doctor-communication.md",
+      "title": "Artificial Intelligence (AI) Helps Improve Patient and Doctor Communication",
+      "excerpt": "Understanding between a patient with low health literacy and doctors can be improved with the help of artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/doctor-patient.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
+      "publishedDateTime": "2021-12-20T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-ai-chip-maker-kneron-raises-25m-for-autonomous-driving-push.md",
       "title": "AI chip maker Kneron raises $25M for autonomous driving push",
       "excerpt": "AI chips, which are semiconductors designed to accelerate machine learning, have many applications. One of the promising use cases, according to Albert Liu, is using AI chips in autonomous driving vehicles.",
@@ -1095,49 +1138,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-global-computer-vision-in-aerospace-and-defense-market-2021-in-depth-analysis-data-synthesis-growth-objectives-and-forecast-to-2027.md",
-      "title": "Global Computer Vision in Aerospace and Defense Market 2021 In-Depth Analysis, Data Synthesis, Growth Objectives and Forecast to 2027",
-      "excerpt": "The Global Computer Vision in Aerospace and Defense Market by MarketQuest.biz report offers the most recent market trends and the targeted inflation prediction for the projected",
-      "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/45491102/global-computer-vision-in-aerospace-and-defense-market-2021-in-depth-analysis-data-synthesis-growth-objectives-and-forecast-to-2027",
-      "originalUrl": "https://www.wboc.com/story/45491102/global-computer-vision-in-aerospace-and-defense-market-2021-in-depth-analysis-data-synthesis-growth-objectives-and-forecast-to-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T21:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-31-data-analytics-ml-and-ai-reflections-on-2021-and-thoughts-on-2022-trends.md",
+      "title": "Data, Analytics, ML and AI: Reflections on 2021 and thoughts on 2022 trends",
+      "excerpt": "After the pandemic-induced digital transformation of 2020, the year 2021 saw great advancement in the use of data to drive real business decisions. Many organizations accelerated their investment in t",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap",
+      "originalUrl": "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHs7Tbjr_AwDw/article-cover_image-shrink_600_2000/0/1640954324924?e=1646870400&v=beta&t=4kxarYhLwVFFhz28Go9yR6p8710vmk1CgWlX9anWBJc",
+          "width": 1800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-rezos-ai-powered-contact-center-delivers-faster-results-with-microsofts-ai-capabilities.md",
       "title": "Rezo’s AI-powered contact center delivers faster results with Microsoft’s AI capabilities",
       "excerpt": "Azure AI helps startups access high-quality vision, speech, language and decision-making ... supporting a wide range of use cases, including translation for call centers, web page localisation ...",
@@ -1377,59 +1431,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-can-ai-actually-understand-what-we-are-saying-scientists-are-divided.md",
-      "title": "Can AI actually understand what we are saying? Scientists are divided",
-      "excerpt": "Scientists argue that large language models can teach us about “the nature of language, understanding, intelligence, sociality, and personhood\"",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-understand-what-we-are-saying-scientists-divided-syndication",
-      "originalUrl": "https://thenextweb.com/news/ai-understand-what-we-are-saying-scientists-divided-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FBDHedjpg.jpg&signature=a835e3cfd92b6b341294a40ee9c66e9b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

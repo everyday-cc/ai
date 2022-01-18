@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/a-four-wheeled-fully-autonomo
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians"
 type: article
 quality: 71
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Interesting Engineering
@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Car Has Giant Airbag for When It Accidentally Plows Into Pedestrians"
-    excerpt: "Autonomous driving startup Nuro has come up with a delivery vehicle that has a giant external-facing airbag in case it ever hits a cyclist or pedestrian."
-    publishedDateTime: 2022-01-13T19:50:00Z
-    webUrl: "https://futurism.com/the-byte/self-driving-car-airbags-pedestrians"
-    ampWebUrl: "https://futurism.com/self-driving-car-airbags-pedestrians/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/self-driving-car-airbags-pedestrians/amp"
+  - title: "Serve Robotics achieves autonomous robo-delivery milestone"
+    excerpt: "Autonomous sidewalk delivery company Serve Robotics completed robot deliveries with zero human interaction — an industry first."
+    publishedDateTime: 2022-01-14T18:13:00Z
+    webUrl: "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone"
+    ampWebUrl: "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone/amp"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 54
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 74
     images:
-      - url: "https://wp-assets.futurism.com/2022/01/autonomous-delivery-airbag-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/01/Serve-crossing-with-pedestrians.jpg.optimal.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Self-Driving Robots Achieve Level 4 Autonomy, Will Invade City Sidewalks"
+    excerpt: "Serve Robotics, the Postmates spin-off robot department under Uber's wing, has introduced its next-generation delivery robots capable of operating without human intervention. The fully-autonomous robots have already completed their first delivery,"
+    publishedDateTime: 2022-01-13T18:18:00Z
+    webUrl: "https://www.autoevolution.com/news/self-driving-robots-achieve-level-4-autonomy-will-invade-city-sidewalks-179091.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 23
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/self-driving-robots-achieve-level-4-autonomy-will-invade-city-sidewalks-179091_1.jpg"
+        width: 1072
+        height: 660
         isCached: true
 
 secured: "LkZXMxuuhBKI/ephZuXq0Ceff+ndXzQFWzEoHOe3juIHvZBCjp4yA+rc5yvgbBsihXXo2HB0YTQ1lavLJScpjGw/U9HHY2VfUM99/Kj3tdlXlbayFDztwj3/jgnnlk1S1Uxa5loHP8dB7rljJdn0hWp5vVdHaovVenUE/61YDhZ8+b33JOZnS6YDglD6B3PuJWB8jLVCdmL2swaQvDu84Tnu8izmI+cDzfaQ3aF+EdeTj2mBUNFV/yyYQ5zlBq5GSnRwEDpZZg5pq6GNrAbmGtB8xysd8HLLV88mp0FlupsREJbg/Cp5lDn8pM3GJCgJg+qKBrDHgENE+ehgVlP0yHYEbBXN529s/Ifhx2cL7epiEKfDPgLojy8Hy6r7CQlOkTOBqySsVj/ALt1AfbF48CSmX/fI5sdgwOKfj66C/mtHKGvh8Ixk1/xqje1ZVUl85KDnseZ46uoHaz48cRgQPGk/2kvZ+gMLPjxi2H41NGJNrUTFcfWjqeop+1YYsuu7FczLTmpsCeJNvpqnTPr0ww==;5qvEwNZxtCZXZ+lyo0xoRA=="

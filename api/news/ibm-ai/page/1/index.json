@@ -54,7 +54,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -345,10 +345,10 @@
     {
       "path": "_news/2022-01-07-ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange.md",
       "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
-      "excerpt": "ARMONK, N.Y., Jan. 7, 2022 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon ...",
+      "excerpt": "Providing data from the world's most accurate weather forecaster1, IBM Watson Advertising's Weather Analytics harness the relationship between weather and consumer behavior using artificial intelligence to extract deep insights to help businesses make more ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/n24946004/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/n24946004/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange",
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/01/07/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/01/07/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -365,13 +365,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24946004",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24946004",
-      "publishedDateTime": "2022-01-07T05:16:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T05:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null

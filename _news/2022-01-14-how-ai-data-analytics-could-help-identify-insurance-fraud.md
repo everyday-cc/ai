@@ -54,17 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Net4 launches video analytics powered by AWS Wavelength"
-    excerpt: "Net4, a UK-based technology service provider, has launched its video analytics platform, known as Net4.Vision, which is powered by AWS Wavelength.Alex Taylor, Net4's CEO said,"
-    publishedDateTime: 2022-01-13T12:02:00Z
-    webUrl: "https://www.sourcesecurity.com/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 39
   - title: "Foot Traffic Analytics Firm Placer.ai Raises $100M At $1B Valuation"
     excerpt: "Israeli-founded firm Placer.ai provides analysis about foot traffic in retail centers, theme parks, stadiums, and other areas."
     publishedDateTime: 2022-01-16T00:01:00Z
