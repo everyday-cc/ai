@@ -147,6 +147,34 @@ related:
         width: 708
         height: 424
         isCached: true
+  - title: "New Exynos ray tracing mobile processor uses AMD based GPU"
+    excerpt: "Samsung Electronics’ new Exynos 2200 mobile processor offers hardware-accelerated ray tracing and also incorporates latest Armv9 CPU core."
+    publishedDateTime: 2022-01-18T17:42:00Z
+    webUrl: "https://www.embedded.com/new-exynos-ray-tracing-mobile-processor-uses-amd-based-gpu/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 39
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2022/01/Samsung-Exynos-2200.jpg"
+        width: 560
+        height: 378
+        isCached: true
+  - title: "Samsung’s Exynos 2200 SoC with the new Xclipse 920 GPU is finally official"
+    excerpt: "After a canceled launch date on January 11th, Samsung has finally taken the wraps off of the Exynos 2200 chipset that comes with the new Xclipse 920 Graphics"
+    publishedDateTime: 2022-01-18T16:16:00Z
+    webUrl: "https://www.talkandroid.com/372864-samsung-exynos-2200-amd-xclipse-920/"
+    type: article
+    provider:
+      name: talkandroid.com
+      domain: talkandroid.com
+    quality: 37
+    images:
+      - url: "https://i1.wp.com/img.talkandroid.com/uploads/2022/01/Exynos-2200_main2.png"
+        width: 1000
+        height: 980
+        isCached: true
   - title: "Samsung Exynos 2200 SoC with Xclipse GPU announced, should debut with Galaxy S22 series"
     excerpt: "Samsung has finally unveiled its long-rumoured Exynos 2200 SoC that comes with AMD RDNA 2 Architecture based GPU called Xclipse."
     publishedDateTime: 2022-01-18T00:09:00Z

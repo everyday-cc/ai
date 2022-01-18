@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chron.com/news/amp/The-AP-Interview-Exiled-artist-Ai-Wei
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-AP-Interview-Exiled-artist-Ai-Weiwei-on-16783772.php"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Houston Chronicle
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "The AP Interview: Exiled artist Ai Weiwei on Beijing Games"
+    excerpt: "When he was tapped to help design Beijing's Bird's Nest Stadium for the 2008 Summer Olympics, the artist Ai Weiwei hoped the Games and the arena's instantly recognizable weave of curving steel beams would symbolize China’s new openness."
+    publishedDateTime: 2022-01-18T18:15:00Z
+    webUrl: "https://apnews.com/1be58fc1f4c7e2ad67a24fdf02ff7690"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/93e0896b00954270a35f9dda3392cca2/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "The AP Interview: Exiled artist Ai Weiwei on Beijing Games | Charlotte Observer"
     excerpt: "Ai Weiwei is one of China’s most famous artists, and he helped design the Bird’s Nest stadium for the 2008 Beijing Olympics."
     publishedDateTime: 2022-01-18T05:01:00Z

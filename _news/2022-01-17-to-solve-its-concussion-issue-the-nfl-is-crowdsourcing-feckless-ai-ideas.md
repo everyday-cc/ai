@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "NRF22: For Retailers, Artificial Intelligence Is One Solution to Solve Many Problems"
+    excerpt: "From supply chain management to store staffing and more, IBM executives say merchants are just getting started with AI."
+    publishedDateTime: 2022-01-18T18:36:00Z
+    webUrl: "https://biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems"
+    ampWebUrl: "https://biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 65
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202201/GettyImages-850818182_0.jpg?itok=DdeJppsw"
+        width: 1440
+        height: 500
+        isCached: true
 
 secured: "2fubCt2enX91uQVzLcI/jn4tV/5oyVp/1+nSpw0uSjsN2rWKG4K06IsyFuwdSq7GH9HZE+8aDgPuwvVMmF0Jo9D1Ss1mQTxGyaUukORprzBKEu4wey+SunmuKWVPsXhlIMWlzvjMl+CKSAVYgLyNAU3rX66K/5kKC2ey/U3NGOmxYzIEjRXsmI3vxlwyPR8yQ8yUdbuucNjhDqm08XY1hn4d0HwjCxQbZHuWWHXCxi+unDqQYZD9V2Ohyc/8To1OrmS6tjyD5CYBpW3X9S/cwpDhoc7+wyBFkFrcBZ95M6Q2xiYKWr9zC7JrNLQH5pCCeEcFwSSJdT2zzLlmunZio/eLdCrfIbZU8MdbFb8zGZo=;K1lE5TepOWlUiSMK6/3PfQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-18T16:37:00Z
 originalUrl: "https://www.therobotreport.com/wayve-closes-200m-learning-based-autonomous-driving/"
 webUrl: "https://www.therobotreport.com/wayve-closes-200m-learning-based-autonomous-driving/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.therobotreport.com/wp-content/uploads/2022/01/wayve-series-b-funding.jpg"
@@ -120,6 +121,6 @@ related:
         height: 540
         isCached: true
 
-secured: "5QFofc7ljwEjKlSkO3xzNbXgE1jf72lpqaEAYk/Itw1otYeLCcpUG/h1KksQckCjxm/zu2xJc2icBcJtukqIRZoN5TUYLgIhCZ6siEuUfGTgzXjrVRPtjaqkR0SzjZEdDoGovd644HIsWB6aV/8aXRiSYu39E64Ieo3MUOUMMCBukHVtdrwwrzEDABVvSWfJ6lxMLQ4m4kk/+xCqzp65IEtLFFtjc22zIGCJeJqLZnkvJCtcHTt6XQX3rS0G7K61arepYfoI21A2qalQfinCGy/n66DXRNtXnZn+iRpFqnQR89m8fHGA60/0q5T3spRK9qkB48+z3OSzv1xxcut/F09QwYWJUXmf9r2S6jbqJwk=;B430xGzGUbNsd+GaK+AsSQ=="
+secured: "XDMJkwrnV3RMIzYri3YEMbu0m9pPykjqlE22PKb3B0Am0VMphEdySbgUF3ps1GaN8+WsTi/PFkrKhDctKFgr1D2M2m/CAiCpfPThqSyD2pFsp3aE+gIpsUAPFd7JpcB1zUVtPERHRoL59mi7j21ybXUTNgcBaQuQEapwyuN7rYTze6x19AokuoOravB5J4z4EOWR9EGIzlY4My3v4AjRsGpVVMj9jjWSJPxOLV1qvKsV27nmgFpZkqSZJbn7Lxl9oiH7hgnFacvEnpo0B671ZVZqGTFmb7f8M7itop2tJPbzlknixt+aVkvBMfzsurH+7urLNO20U222xlbMT0H9wh5DJKqXE1Dhvr8FcF4X93kqnyopZawawvB9NyzQu8DOubC7CrABrlP38evuoBgVV55nPB0H3YlERUhfnf+wh7VnUC92sf13nBECeoxckRG2AJG+RV+PD895ysErhaZvI7a+wRK949fGmuvb5yvkQdjgE0zy/7ocvPQ3NI/PowzgHEmEle0QEFkUbYntSgQ7iw==;3JbzrAh5fT9nptWhUwU7Fw=="
 ---
 

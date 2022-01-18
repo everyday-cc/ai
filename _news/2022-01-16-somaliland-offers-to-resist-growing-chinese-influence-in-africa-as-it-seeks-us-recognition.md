@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Machine Learning Can Solve Some Of Africa’s Biggest Challenges"
+    excerpt: "TechFinancials is a reliable tech media property, dedicated to obsessively analyzing digital revolution and breaking tech news."
+    publishedDateTime: 2022-01-18T08:12:00Z
+    webUrl: "https://www.techfinancials.co.za/2022/01/18/machine-learning-can-solve-some-of-africas-biggest-challenges/"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 43
+    images:
+      - url: "https://www.techfinancials.co.za/wp-content/uploads/2021/05/Marilyn-Moodley.jpg"
+        width: 700
+        height: 466
+        isCached: true
+
 secured: "KgVor+oggISvMMxf0tvsJzl8bcCwftztVyJfD2mfetvGUuc/dyF6ZIBmBePXqObeSaM+GoxfIfa1wkRwWmqHdcRxEIRHK78evrhJpDBjze8iOwSATy3nLZD8JqbYE2tVAILLYQZuzpNrHfcm9Pi6WKJTvZpbvo3hjau4MKbgas9z5IjQHLcMtpVS0wqDg6U0Sr3M0BXUPulH5k8S9KMKm+g+cE6dC7RCUvljGeILaeK7Y/jbZ1kIOf84YACuSXLqvjd4ZcRZjIkhaVJZnPflBlAkAWqayoUx9SuQn5OGgC93ZizJdTKuI8Zk+UKMPJFIn9rLGE2ZKvs3QfPUxGywWV8FreDiVyJgRjBy+18b5EI6X70xR7BfngT9LTCngaMRJlLCHLj4wwRqQnjchu5FFq9eDVrNO5s6W6mY4ECoXHHNevlH9PUemLgmJpERStT4QzijmPKzStVf3D76sh+D4uMxLZ85J6r1yIcfLBaDdUOw4kc/Dd2J498PqafZHMJoNAfIwnbDr3eJyoXEkFKlew==;jzXOvKMT8yHSgRGlMMA47g=="
 ---
 

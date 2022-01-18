@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk Reacts to Tesla Competitor’s Sunday NYT Ad Smearing Full Self-Driving"
+    excerpt: "Twitter Tesla’s Full Self-Driving system is (again) stirring up a storm of controversy on the internet. The EV maker on Monday released the newest (version 10.9) updates of its FSD Beta to a select group of Tesla owners."
+    publishedDateTime: 2022-01-18T17:17:00Z
+    webUrl: "https://observer.com/2022/01/tesla-full-self-driving-nyt-ad-controversy/"
+    ampWebUrl: "https://observer.com/2022/01/tesla-full-self-driving-nyt-ad-controversy/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2022/01/tesla-full-self-driving-nyt-ad-controversy/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 55
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2022/01/dawn-project-nyt-ad-664x381-1.jpeg?quality=80&#038;strip"
+        width: 664
+        height: 381
+        isCached: true
   - title: "Tesla Full Self Driving beta comes to Canada in 2-4 weeks"
     excerpt: "Elon Musk himself has said that Tesla will roll out the Full Self Driving (FSD) beta in Canada over the next 2-4 weeks. If I had to guess, we’ll likely see it in 2-4 months, but on occasion, Musk’s tweets have been known to accurately reflect Tesla ..."
     publishedDateTime: 2022-01-17T22:54:00Z

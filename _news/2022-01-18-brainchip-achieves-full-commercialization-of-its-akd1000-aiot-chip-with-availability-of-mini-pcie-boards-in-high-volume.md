@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 616
         isCached: true
+  - title: "BrainChip's AI for IoT Akida Spiking Neural Network Accelerators Go Mass Market"
+    excerpt: "Designed to mimic the human brain, the Akida accelerator comes with bold claims for efficiency and performance."
+    publishedDateTime: 2022-01-18T14:34:00Z
+    webUrl: "https://www.hackster.io/news/brainchip-s-ai-for-iot-akida-spiking-neural-network-accelerators-go-mass-market-2a6572c67c50"
+    ampWebUrl: "https://www.hackster.io/news/brainchip-s-ai-for-iot-akida-spiking-neural-network-accelerators-go-mass-market-2a6572c67c50.amp"
+    cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/brainchip-s-ai-for-iot-akida-spiking-neural-network-accelerators-go-mass-market-2a6572c67c50.amp"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 87
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1397845/image_GHd6RuBE7O.png?auto=compress%2Cformat"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "jUVdqWDeTOR2hU52FUdfNCilulP/PQkEEfqznsFaDGEe+yXBHB0v1U+MxBcwb59zC4uTA9XvSLl7SkMvJ1f/wIuk6Fr9hP+Y2uvdkHye70TIE0dVVa5/eEYW5rsoTWcQivXzUXVlro6BFyn+7ab+1kkyNDbbylpMzirywWrR/3kkEaRAV0jMyzjaQZW+bAZCRo0FLpqmCRNJy4Z/0+BhHbtelercNjzpaLsdrS2gmMw8EX3Fp7//dTeY4ntgqD1/8os5QDrF8gF7DybT7C0+IMsG0ucZH+jW+8tsW+u/hEgG8Hr70yi+guhwnNg+L4GWXLAIqJU0OlqncZkx99n1btuy0FO42QnwjD6eVXfbOMI=;sRApnZti+Tk4JS6riDt0zA=="
 ---

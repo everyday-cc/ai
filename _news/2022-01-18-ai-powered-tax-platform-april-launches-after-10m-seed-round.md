@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-18T15:03:00Z
 originalUrl: "https://www.accountingtoday.com/news/ai-powered-tax-platform-april-launches-after-10m-seed-round"
 webUrl: "https://www.accountingtoday.com/news/ai-powered-tax-platform-april-launches-after-10m-seed-round"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/258e3b8/2147483647/strip/true/crop/590x310+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fca%2F40%2F309a3f7f4015a570986a0190d7ed%2Fall3.jpg"

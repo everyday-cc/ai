@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/18/brainchip-launches-neuromorphic-p
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/brainchip-launches-neuromorphic-process-for-ai-at-the-edge/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "BrainChip's AI for IoT Akida Spiking Neural Network Accelerators Go Mass Market"
+    excerpt: "Designed to mimic the human brain, the Akida accelerator comes with bold claims for efficiency and performance."
+    publishedDateTime: 2022-01-18T14:34:00Z
+    webUrl: "https://www.hackster.io/news/brainchip-s-ai-for-iot-akida-spiking-neural-network-accelerators-go-mass-market-2a6572c67c50"
+    ampWebUrl: "https://www.hackster.io/news/brainchip-s-ai-for-iot-akida-spiking-neural-network-accelerators-go-mass-market-2a6572c67c50.amp"
+    cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/brainchip-s-ai-for-iot-akida-spiking-neural-network-accelerators-go-mass-market-2a6572c67c50.amp"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 87
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1397845/image_GHd6RuBE7O.png?auto=compress%2Cformat"
+        width: 900
+        height: 506
+        isCached: true
   - title: "BrainChip Achieves Full Commercialization of Its AKD1000 AIoT Chip With Availability of Mini PCIe Boards in High Volume"
     excerpt: "BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), a leading provider of ultra-low power high performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,"
     publishedDateTime: 2022-01-17T22:32:00Z

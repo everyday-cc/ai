@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-sol
 webUrl: "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-solutions-concussion-problem"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "NRF22: For Retailers, Artificial Intelligence Is One Solution to Solve Many Problems"
+    excerpt: "From supply chain management to store staffing and more, IBM executives say merchants are just getting started with AI."
+    publishedDateTime: 2022-01-18T18:36:00Z
+    webUrl: "https://biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems"
+    ampWebUrl: "https://biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 65
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202201/GettyImages-850818182_0.jpg?itok=DdeJppsw"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "To solve its concussion issue, the NFL is crowdsourcing feckless AI ideas"
     excerpt: "To begin, the NFL claims that the competition will aid in the resolution of the league’s injury issues via the use of machine learning. In a news statement issued today, the league stated: The NFL reviews game footage of all major injuries,"
     publishedDateTime: 2022-01-16T18:20:00Z
