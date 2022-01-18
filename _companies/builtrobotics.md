@@ -2,7 +2,7 @@
 name: "Built Robotics"
 overview: "Built Robotics’ mission is to build the robots that build the world. By upgrading off-the-shelf heavy equipment with AI guidance systems, Built’s technology enables machines to operate fully autonomously. Built’s robots are deployed today across the $1 trillion earthmoving industry, and they’re being used to build critical infrastructure such as wind farms, gas pipelines, and new housing developments."
 type: "profile"
-heat: 50
+heat: 58
 
 website: http://www.builtrobotics.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "builtrobotics"
   url: "https://twitter.com/builtrobotics"
-  followers: 1263
+  followers: 1264
 
 size: 11-50 employees
 yearFounded: 2016
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=YYj2JqL1dJM"
 
-secured: "IHhFQcHv9eQaxr1qJ7A03GzSyaPWgFvU/KdQVaqkFaSEE3Y1tm7fuqwkhXKrv2g1PrNX187Ki15Jy8jGUsJZYBys7QktnGkqA6Z+0GocWJ/hqzenCrQpIwqhdnAbMLsfaRUa0bBQPTho33cdIR2LgItzynJGAwwvbCJiMpqREDgAhtqHEWs9FsBeIbu+Wb4KNVHWKBsYfzWTnAE7QgLiq7RyU2eCN+Mtx4U+OtkFKitfOAz98yOxlSS3auh1AFP7K0bfeKXwlwdgf8bKHpDfk6N4jM4+N1+EuOQewqnP4X9Lf0ieN1E3usJI/shJBK5y5SiYuqOKqIw5gx4vn8FBPGt2rh9P5udbmkw7gE6dGy8FcSWZVFwd/9BHx2INlItbMQjav6li6AIFS79y4yniiypBTs36g0o0FVb31dFZPsU=;C8gjqNwtxznjVWfT85u4xg=="
+secured: "PpSf5Q31OCG0a2AN+/aTvJkE4hz3VXrTUsguoUiG6lj2ITJY6wNnbuBIaqmz0SRLrp8oBsaBgSrPo2j3vDzUTbG4mMjj3LGEHad4pKE833eKV2uqIiPc81mikEUtZRaQVWoLT5J1mNWR4uTBb9/k2iDMp3qTwQ4ba8UqqKGEFU/6Qu6AOoH+mUzIzwjBqddj3d1k30hZjXQlCnSv8chQV9MAbq/N6YweYzTnxIgV4HNlYXUItav+YtfypRK+OMIYJWeAbg0MG8dlSbk+8hoIpFPJQrMzdstM32ehTEb7OHuodpbQWjgaM2rqySkg8i0VI4b4teClSuFfT40iuZ0o3EUzGORKvIBs2Fk5lmRWcfXrAiYLF3aNcYZ1CuDZPc4neXadfkP5Mj5hX9uLKKdr3K/6EQWqmuKaVtPZg2c9ZJQ=;7sQ6RGBJTs+xZlbTd2ZQvg=="
 ---
 

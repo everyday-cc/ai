@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "dominodatalab"
   url: "https://twitter.com/dominodatalab"
-  followers: 8556
+  followers: 8555
 
 size: 51-200 employees
 yearFounded: 2013
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "g1jrfTBbEKFmjkPXD+Ao8I9TvS47DQFTdRKE+IibZ9aAZ6h1dkBSCKGbBxaFgXP5AaGHOezpY62G7061akboB+yPpQ0hHZ/+E7KjDgp0uXlNhSJnjplEsHiFrWJH21IuJy+aGdWXU/BbkXMDQ+3VLLojWa+ZeEk2W25yCsi4hPP3uX8lw/FNnDySDNN/FPsDTGk1M0kPz0ODxK9b8t6r9jN0MhoP/h0oIdfARm34hlMF9PXSv14PoKUuOHOka+g4xjEuCkEb4JdvX9hIPAaFnc2AxO1qDx7bG0E1ROA8q9B3H5zOH03q8SDXgH0zK2nUVCceSzk0IYyTNxD2BKw+SSzY7JVyw3lrsFULh8FYNS0pSMsVOLajJ61BASF1ZtzXCbyELyKz1nj7cwlVMKVSpUPPNZQlNRe9mcNqzti00WA=;0hn6DyJ3d3BGXJ3nJ6bVnQ=="
+secured: "gQLPrc2xrwcTw4PqZfMEYZQQ12QYTezHvWvUKnTsR0Q0kkAFhXENyAYiZBLE1hvl5JGZJIaNY7ozkmRZ6duNe4IST1dSKbCm+ev3sieJj6BM+olhQvGwLzydJZdAEjRVusIjwyjRalYyJ8i6gGFIVyC7wYd7eia+MFZio2wlzCrIDBY+J2xnLpQb3Eot3Q6SQueXMDf3hBfE+m74oHXhU0ijaiF7v2AV1xM2HFjFs1QzbT2fK2ykcBGnrzw+SKYjkEcZGJePOjL7OPl2VYMhmbajlYhiEnlcM8V6GzkCPPMvcdMG1OwxmY4n8GNHS7O334XzCbv6KTd/obQau5Q05xJ4jckUXVuyTirtg6bN5w9r1qs13qJrhhNX2UvmhJrvRTuzse+HbV7bS5FSYecaCA0UZ8NX6En5QKo+yxUE/gg=;1q0FZI8vQoCHTfVZMl66xg=="
 ---
 

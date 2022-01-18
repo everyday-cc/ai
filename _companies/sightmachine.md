@@ -2,7 +2,7 @@
 name: "Sight Machine"
 overview: "Sight Machine is the category leader for manufacturing analytics and used by Global 500 companies to make better, faster decisions about their operations. Sight Machine's analytics platform, purpose-built for discrete and process manufacturing, uses artificial intelligence, machine learning, and advanced analytics to help address critical challenges in quality and productivity throughout the enterprise."
 type: "profile"
-heat: 32
+heat: 58
 
 website: https://sightmachine.com/
 
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Sight Machine"
 
-secured: "7J3+J0X7+/1AhJmhwubNFbBgvU5HUql5SQgl9F+5YJlnbKUwQjIbnvSXdY2d1igh/zG+BW+4rWUMT6T2v8wKxfDJaQVyto2bHMEUQrKWpznFvxobXAh0pIIVzyyiXZo0uJ5rOG1Pm+OWpXR2ASU2WzbjXpHfVxBUs5gUKMfWibfJYNn9AND9nyDYjbuaCQbgQ74Q4e2g6FUxO3ib72hb88TqOplcXt5/CRsBKr+6uvY2e/MfnA+OcYtHkQhUWEFdNbGTEkPs+qmtINpPqCtlF7dL8HekbCSfIsqvpaLJCYd2skilE13Q33IOBsPtKlTbEW1teX7wuimKHEfl1/haqqkgScLl9Wot3cBYIGbo9OY2KyG/lnabSrhXRD6XJno0gQF4/jumRl2NMydU1ajUcdyUkY9S4Gz6gf2p0TDnv/M=;1a4MhoiX5DvnupMExRS79g=="
+secured: "Ofs8xFrOSkPmc80CIyr6DN+ysIKNXCGagBNDOsBATv3Iw7WThtDX5gh2gE/TNDzWuoc+yOARMOhI9fuH3UxpzhtdM1NYFs8pcnLiTVJj19dz18xo341aeBggBJSCwYvqH9fcbdbcJUySmACVZWUc5GJbhFD6Uuq1zSHSGhfuTpCJmRIEx/D2h+GHssyxi+QZUqHVUs5uc7VXBwC32uyDo5StHM/xMfp7YjcBviX9iIKHlmG5CKj1uNLskKSfXrOosW7pZh5yt2kdJsL+7F9I+J0cQrgJtbk8iuV0newgRim38jhBg/NQXg1R3r0dfm984cr/oXKXb0l2tCXJnYCT+DNOcMJKJHCBnoe4kCZbJ8ERX2PWlghd0h/ZGYM2zYxJG20J0ihx50rFl6yPaP+CIET4BshsgMGiyh1OCi8aFqM=;G5ILFuOoISj+OEC3184obg=="
 ---
 
