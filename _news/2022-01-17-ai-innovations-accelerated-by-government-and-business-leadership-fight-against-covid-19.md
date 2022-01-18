@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/amp/"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/d/76/d76061fe-74fa-11ec-8a38-9faf97021aa8/61e10a4b615ed.image.jpg?resize=400%2C266"
         width: 400
         height: 266
-        isCached: true
-  - title: "Tribal leaders voice concerns about water, voting, COVID-19 to state lawmakers"
-    excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
-    publishedDateTime: 2022-01-13T15:25:00Z
-    webUrl: "https://www.azmirror.com/2022/01/13/tribal-leaders-voice-concerns-about-water-voting-covid-19-to-state-lawmakers/"
-    type: article
-    provider:
-      name: Arizona Mirror
-      domain: azmirror.com
-    quality: 20
-    images:
-      - url: "https://www.azmirror.com/wp-content/uploads/2022/01/jonathan-nez-state-house-2022.jpg"
-        width: 1280
-        height: 853
         isCached: true
 
 secured: "DwozuyvmjNyuTgQ8ff/R2pgCNLi9MrXw0wKzmKLqrlvAMfRGJDvz+2ogyuycMOgP7E+71BLKB7ux4ljsS/64nLrHczbzP31lwcRutjMhY7F1i7/wwBGjGszFTyaCBtLJU6rp6EcH3cFikAP5cklX/A28MnKmPW2W2PZCV3M+KoKA3o6uUzH/JU5GP+spCruTCB6ewn3izlJSnAL/sFBnFZFNUN83PtOCTFurUFakVtjh+0oIP8kiQKgTCBh3IM2brGLtwm8MkdaMxwD6WPc2g2jkZcAaI3LZnGxgYsnwvP5uU7DF5kXC2R4JxqomeOH5zshsL3r+GDdVeS8h4WJTCF/ni1AJcclzxvWh18YN971Joew+yYEB71CZ2QeNYV36woTb1vck40l6EejpVElcxqc9xuTB1e0NZ7lKpYrFk1QnLUqXK26c/pqyL7XUbMWvHP8fM6Xc13JUbdidV/TlRbiRg/syTkDNk4vOvaveTQSflrSvauwNy0O8s3ydobobM9PbwHNLUR4p2lOIcregmg==;BM4mQmzpvZfEheVlRjXOvw=="

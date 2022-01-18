@@ -57,6 +57,15 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "KT, Yandex Self-Driving to jointly develop autonomous delivery robots"
+    excerpt: "South Korean operator KT has partnered with Yandex Self-Driving Group, an affiliate of Russian internet group Yandex, to jointly develop delivery robots, Yonhap news agency reports. KT and Yandex Self-Driving Group have signed a partnership deal in Moscow to develop and roll out an autonomous delivery robot this year,"
+    publishedDateTime: 2022-01-18T08:42:00Z
+    webUrl: "https://www.telecompaper.com/news/kt-yandex-self-driving-to-jointly-develop-autonomous-delivery-robots--1410855"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
 
 secured: "k1SFi1Mu+QWS03OKsJ88E/jdwLUOI2WTdZXmoX3Am/TzP6XK9sfYCA9dkIf0SM4STZWWuklRq0aOSCVf2a/P+WqB8rSwTga51C6NNi/WQZMptUrm1PeOk/ryvJuLJhnOqtCkans6iRbI+kyRRJ8yU/gBpEsMqNRHMEyxzYo1V+0RR0Ix7AGO/2VhzbXrNXhmyK6Vu49I7Hk3QQB2b8nK4jpIJKXq5GKva029sV7JI9Q8+Z+lONWuas+THJSDIHwpjh8UT8/wGkFQA3gR8Mo3LudEO3eFvyC2VsKMHPyVhtV1zrUbFoaJz5CHPAkJmWpsebLSMmIkLzQO3rmT6Zs+oQORmiQMYAJ3XZv3ugAtNeA=;ixANXnDx7S6QdxWfblVaRA=="
 ---

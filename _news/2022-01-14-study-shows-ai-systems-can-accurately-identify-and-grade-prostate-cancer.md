@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220113/Study-shows-AI-system
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220113/Study-shows-AI-systems-can-accurately-identify-and-grade-prostate-cancer.aspx"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Large international evaluation shows AI accurately diagnoses prostate cancer"
-    excerpt: "Researchers at Karolinska Institutet in Sweden have together with international collaborators completed a comprehensive international validation of artificial intelligence (AI) for diagnosing and ..."
-    publishedDateTime: 2022-01-13T16:34:00Z
-    webUrl: "https://medicalxpress.com/news/2022-01-large-international-ai-accurately-prostate.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-01-large-international-ai-accurately-prostate.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-large-international-ai-accurately-prostate.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/prostate-cancer-2.jpg"
-        width: 740
-        height: 444
-        isCached: true
 
 secured: "CzOsecDFf56E+B5ygW7YvU1Vpx676ebB/guWw+H6CveZHnVYOLdy+5jX6rJpX2ah+udzrDmvBWCSEANjnEYlFCwpekWr/d7+a4fqFAikCkqN7Rk7ZK2U8V5GBbvxerdD6Ss8/CqLMBSNzoFpvMJKvi3ucoBix12gqqvLrczvpaiCItx4bIC+aEHvEFWvvd0goQCc4WJc5jB+tAKRDqNBase8FDvkArFDuWn58tHR0uWuC2maNJU5aJWOAWlDaw9Vvb1ZfGXqk3711eAOdPuS+spH9cjVuzRYUElIUlgauHEtq9DuoNLJFyp/W9eUc+WPn81OxQf/0gdMPgp401+MJbfVDIzGcGpla/01fpnjLZIevE50VieJ4KeN60N1IeltCGrwgivLEJDwOoqQQIuEVcjur9WQI+56EViZX7OKkX5ofwMAbWz6COSrc5U1EMazrbZQtnitd8c8zPoHtHaAx/urgQCMM4XRsYfvyQTMAxDa/RYam0ol6kOCOs4ltsOHUPe2R/KgxzLvQqrHRnMYNg==;N6BlEee1FlTmAT5dHjOAfg=="
 ---

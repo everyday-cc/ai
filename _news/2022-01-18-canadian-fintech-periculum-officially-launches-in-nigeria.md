@@ -41,6 +41,22 @@ related:
         width: 816
         height: 1148
         isCached: true
+  - title: "Canadian fintech Periculum, officially launches in Nigeria, set to build credit assessment infrastructure for Africa"
+    excerpt: "The availability of domestic credit is a key requirement for consistent economic growth in developing countries. The vitality of financial services such as banking, savings, debt and equity financing,"
+    publishedDateTime: 2022-01-18T07:34:00Z
+    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Canadian_fintech_Periculum_officially_launches_in_Nigeria_set_to_build_credit_assessment_infrastructure_for_Africa-AFPR1701202259520/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/AFPR1701202259520/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/AFPR1701202259520/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 21
+    images:
+      - url: "https://www.africa-newsroom.com/files/large/311d43afc6f675b"
+        width: 1274
+        height: 674
+        isCached: true
 
 secured: "FEYFZ1eIdJtQ9Pn0vxTgZUWabfvHawbTaMrNn3aAisTcfLaBCxMxUzW2ElgalsEe+JsLZ5rgSQk8d0vpVwFVSt9bWbtmzU5iOhBcf4cYtac4vaP0S6VpdvX4uoRK0YtE8FHhmeAnUocmFGE9PUvnf0AkZcU/epK2i2Y6cb0rQg9BWf17+MUGV5NetY1ZtDUNAR1XF/rFxEQwXEqXD9UvExf9dINqktqHzplxEqqRifp7ji7HCI9wTbNqWqXUAezuDEzfl4SBGe+u95csKU+0Nlrpja68jXQkhovMNeGJGrj2CQDtBaa7DzC+8csCy8Ath/gTNxTMGCWZAH607I7oV7ZVnnklAuwpNVDlFdse3SY=;7eqS3LqKQdZ8OPMsBmeSdg=="
 ---

@@ -40,18 +40,18 @@ related:
         height: 400
         isCached: true
   - title: "Worldwide AI in Medical Diagnostics Industry to 2026 - Investments in the AI Health Sector is Driving Growth - ResearchAndMarkets.com"
-    excerpt: "Global Markets” report has been added to ResearchAndMarkets.com’s offering. The current report offers a detailed picture of the AI medical diagnostics market. This report highlights the current and future market potential for AI medical diagnostics and provides a detailed analysis of the competitive environment,"
-    publishedDateTime: 2022-01-17T15:12:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-135987e3815b4f00a39206e26166b13a"
+    excerpt: "Global Markets\" report has been added to ResearchAndMarkets.com's offering. The current report offers a detailed picture of the AI medical diagnostics market. This report highlights the current and future"
+    publishedDateTime: 2022-01-17T15:22:00Z
+    webUrl: "https://www.lelezard.com/en/news-20194713.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 8
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "ss1LGx7RhSjoqhaiE2aJBZybe51e5tCQZUYJ5FxKSXwWel4KlAJMi+jpPWiqD9KutMwkr2zK6j6+gM6EeadDz091vEX0DdRpsXiqA+b+DLLtNJvjCYc4vdIoHM1/EiO7vQMIS3bcqmxet9IZITktBuV9bTb+LV4/aTnp2BmXU+IcrslPZKF+4r0Ak0Kv8Q3HPVnKejI+P9ePWKyvchQFAHdaqK7ujgMb0h/ApPtCVzhrfDszfTOu1LfydbCpdMmoeuKyfCqZQkYYf2CThFNeeU1hgnZWWqtlikH26THSOpVZzTYpjjPvvUH/TVqAskClNyjou9clwyQDteOOTmo4x5xWGfaVqRjIPGm5DQ4Dx9o=;3GR6rxSfKOcyvgkS9Ykkdg=="

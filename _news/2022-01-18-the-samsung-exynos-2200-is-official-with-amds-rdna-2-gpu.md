@@ -103,6 +103,15 @@ related:
         width: 500
         height: 329
         isCached: true
+  - title: "Samsung Unveils the Exynos 2200 Processor with the Xclipse GPU Powered by AMD's RDNA2 Architecture"
+    excerpt: "Samsung announced its new premium mobile processor, the Exynos 2200. The Exynos 2200 is a freshly designed mobile processor with a powerful AMD RDNA 2 architecture based Samsung Xclipse graphics"
+    publishedDateTime: 2022-01-18T07:44:00Z
+    webUrl: "https://www.guru3d.com/news-story/samsung-unveils-the-exynos-2200-processor-with-the-xclipse-gpu-powered-by-amds-rdna2-architecture.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 5
 
 secured: "gEim3hIdNY/1+14jzdDF46PnaIcnksWIZWaZAZViSU2XRQmQNhsxPP6iRjVp5bDypsc9tBaXR/s67ZAMLQTkZF1KnQ5JccNd/jf7wDieXBgkRfBzLo3qoosgX6a3BXd5glDEhth13YVYWsd5BckhGjPF8gshalwJlH4n5LIvvdy8Xb2t25OArXvfxsBUeosA0Lyfx8WAcf568j3paGXMgjwSg8VgTO76XOSia2rv9h1VaKXeSEFkYKxsrSZtQgiM4I1QDk+buyxXetq+07Li7XxBvLT5LFRApKQ+kiYW1ODg1gJG4AxW5VHp2bl0de+J8SXW+2bH+9GAbWHzZF/kc1PmPwVfkX07UbCp3WTkReUBRh1eKBGifi9D8SI8Wo+jEKBULkhQ7CGmub7OL2L2QhxIsajGpwW6lHjMduiXObUO47UwAmz4MgXJ9W/6Q9BzUiW5TmCXcBddpFs9YO5AuZGbk8iBdeiSqOpDLwnJjVqdYGwjeOczSLbb5ydrBCgqUe5xrR64TMxOUeuOs/lY3g==;uCCKaLGcHVOG+j1Qs5WLlg=="
 ---

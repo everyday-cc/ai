@@ -339,6 +339,40 @@
       ]
     },
     {
+      "path": "_news/2022-01-14-4-reasons-meta-platforms-is-poised-to-grow-in-2022.md",
+      "title": "4 Reasons Meta Platforms Is Poised to Grow in 2022",
+      "excerpt": "Now, I want to talk a little bit more about the future growth of Meta Platforms and Facebook. First, I just want to say one thing. I've been looking on Lin",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-reasons-meta-platforms-is-poised-to-grow-in-2022",
+      "originalUrl": "https://www.nasdaq.com/articles/4-reasons-meta-platforms-is-poised-to-grow-in-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-reasons-meta-platforms-is-poised-to-grow-in-2022?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-reasons-meta-platforms-is-poised-to-grow-in-2022?amp",
+      "publishedDateTime": "2022-01-14T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-ai-driven-asset-management-startup-catapulted-to-fame-by-tesla-trades-raises-146m-from-softbank.md",
       "title": "AI-Driven Asset Management Startup, Catapulted To Fame By Tesla Trades, Raises $146M From SoftBank",
       "excerpt": "Artificial intelligence-focused fintech group Qraft Technologies Inc. said it has received a $146 million investment from Japanese conglomerate SoftBank Group Corp. (OTC: SFTBY).",
@@ -1372,49 +1406,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous.md",
-      "title": "New controversy in making? Tesla wants only cameras, AI to go fully autonomous",
-      "excerpt": "Tesla chief Elon Musk has shared that the EV company will make a system based on cameras and artificial intelligence to attain full autonomy in driving.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/01/07/600x338/2021-tesla-model-x_1621055198406_1641538769141.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html",
-      "publishedDateTime": "2022-01-07T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

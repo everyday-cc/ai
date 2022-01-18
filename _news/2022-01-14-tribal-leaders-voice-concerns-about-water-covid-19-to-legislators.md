@@ -57,20 +57,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Tribal leaders voice concerns about water, voting, COVID-19 to state lawmakers"
-    excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
-    publishedDateTime: 2022-01-13T15:25:00Z
-    webUrl: "https://www.azmirror.com/2022/01/13/tribal-leaders-voice-concerns-about-water-voting-covid-19-to-state-lawmakers/"
-    type: article
-    provider:
-      name: Arizona Mirror
-      domain: azmirror.com
-    quality: 20
-    images:
-      - url: "https://www.azmirror.com/wp-content/uploads/2022/01/jonathan-nez-state-house-2022.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "c4Wvqp+iEhBWTpx5kupAFPkV6PoR+2ywNc4pwwaACYl+1VMjJlqIj5zrWiXuNfPKNPFXOEr6g8pNaVS/pAS3Sy2uEy0/zv1hZpTK9eYXgJvPtS/BcpCk9gz8/V0SZDkbTCtJb0QdKeofgDhadrk9vViT/APLCcKvvfCNOYrcAtJsWTe1tYNKxJ27cL9Qn9Y/9LhD29swkzs68UqySYDbFovVLk5Bbta5YGCVtjKDnWy4rtc+m+SQHFcGTAWXVuXRkfxcqgJE5WLDjD4t/Yqmzs2hM+TBHeKUgw4YJw2FxGiSrBn583gi6JWcLyFLMQgeZSepVWkQqMiWeSYwPNjZffqQuEdzuBRulhB+Lc/gacQD7GNnRxLqoIV0LWldefdYR2uAlAu+M5UTUPqz2VE0PXNxqMK8YJ/dC9itN87vQz/FLhD92qh69fFqd505+u1ctVwwCYghc+2ip7spX40kWkDa4nzyWR+IB+ldh+QB0E/ZUMZnzQKA2Jc8T/F3iH5XU4lJglorYl6m8zUav7LJtQ==;AF4+RMDFYIuaiV3leklfRA=="
 ---

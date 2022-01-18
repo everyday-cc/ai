@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2022/01/14/Samsung-in-me
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: UPI.com
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung unveils new MRAM-based in-memory computing chip"
-    excerpt: "Samsung has just announced the successful creation of the world's first MRAM-based in-memory computing chip, made with A.I. computing in mind."
-    publishedDateTime: 2022-01-13T15:56:00Z
-    webUrl: "https://www.digitaltrends.com/computing/samsung-new-mram-in-memory-computing-chip-hits-98-percent-accuracy-in-ai/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/samsung-new-mram-in-memory-computing-chip-hits-98-percent-accuracy-in-ai/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/samsung-new-mram-in-memory-computing-chip-hits-98-percent-accuracy-in-ai/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/mobile-world-congress-day-1.jpg"
-        width: 2000
-        height: 1332
-        isCached: true
-  - title: "Samsung Testing First MRAM Computers: New Era Of AI Computers Coming"
-    excerpt: "Today, as techpowerup reported, Samsung Electronics officially announced the world’s first computer equipped with MRAM memory. MRAM stands for Magnetoresistive Random Access Memory. Related papers"
-    publishedDateTime: 2022-01-13T15:29:00Z
-    webUrl: "https://www.gizchina.com/2022/01/13/samsung-testing-first-mram-computers-new-era-of-ai-computers-coming/"
-    ampWebUrl: "https://www.gizchina.com/2022/01/13/samsung-testing-first-mram-computers-new-era-of-ai-computers-coming/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/01/13/samsung-testing-first-mram-computers-new-era-of-ai-computers-coming/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/01/Samsung-is-first-in-the-world-to-invent-MRAM-in-memory-computing-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Samsung’s Breakthrough In Human Brain-Like MRAM Tech Claims To Excel At AI Workloads"
     excerpt: "Without getting into the weedy details, MRAM offers the performance of DRAM with the non-volatility of flash memory. It also uses much less power than DRAM. (If that sounds familiar, you probably read this article yesterday."
     publishedDateTime: 2022-01-13T20:10:00Z

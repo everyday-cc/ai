@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Worldwide AI in Medical Diagnostics Industry to 2026 - Investments in the AI Health Sector is Driving Growth - ResearchAndMarkets.com"
-excerpt: "Global Markets” report has been added to ResearchAndMarkets.com’s offering. The current report offers a detailed picture of the AI medical diagnostics market. This report highlights the current and future market potential for AI medical diagnostics and provides a detailed analysis of the competitive environment,"
-publishedDateTime: 2022-01-17T15:12:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-health-135987e3815b4f00a39206e26166b13a"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-135987e3815b4f00a39206e26166b13a"
+excerpt: "Global Markets\" report has been added to ResearchAndMarkets.com's offering. The current report offers a detailed picture of the AI medical diagnostics market. This report highlights the current and future"
+publishedDateTime: 2022-01-17T15:22:00Z
+originalUrl: "https://www.lelezard.com/en/news-20194713.html"
+webUrl: "https://www.lelezard.com/en/news-20194713.html"
 type: article
-quality: 6
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -53,6 +54,6 @@ related:
         height: 600
         isCached: true
 
-secured: "/4zIerLC+zAmpQ/drn3XEC0vpbKUBP6SNWXoWEhMNVvmdXubpFiDxgqbQCItwiv7CDademQUjAcyaSISwKFXOcswy8NXlKG0ju0F3TT9fbNXTyoNlZKfTdXSdUW7bZVuheVvzuO1PFZ7aHKlJPoqHYq/I0a2gzsasLLIrPI5GmNttN8dWPCKuQn7ovHjlqivxEor7QGNS+DrmK77TEO/MTZEgJ01JTBJTnCiWsLwS3zorog4YiEWgbOzAQ16yWFjmt5rN3Os2ifcFRy1eZKI3kpOcaKJgiDzi+/mEY5Bo+Uken8N5/1M1n9h687fO7FeG1EBGv22K8gs+5bXtK93+OYCeE4x3g2cMj0YWvTYhSU=;u2IY8CzfdKuHASdssmJKsA=="
+secured: "FCUpWpfynpPZDzteZ1zrxMPgG4P9udig3oobLz+dQFP8z0l5puIZ9JKmektQFd4DfPV9U+D7t+G9lGD8qTBwYsz6gjt1KD4hMPsOD9lbOg9H54cm7U3fVBtaEbl+vbWBAhDDJnvJasCdBxY+CI+J6uIsWUKYTHzGVcFpwFMVKwiD5Zf6tyyy3wJN7n3nudW+fjNyuXuA6ejhUOwr5ZfKb5h5HvAepNCQZNFm0zR/nZe4V6Mc/aWDIUBlACdM81y9IhMwA0jE4ptidva6fV50IW5YCjvuM8s42uiLARJL0/pxBoVI6wwSxOlUJVhH1nMliC5Aac9LmZUX9Tsb1VIGRVC6MQij+rT1d5V5wtJDUfM=;wIZQkZ28wHdcp3xDXRSz1A=="
 ---
 

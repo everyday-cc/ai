@@ -2,6 +2,86 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-21-ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft.md",
+      "title": "AI in Social Media Market by Product, Applications, Geographic and Key Players: Google, Facebook, Microsoft",
+      "excerpt": "Instagram (owned by Facebook) uses AI to identify visuals. The AI in Social Media Market research report provides a thorough and comprehensive analysis of the global Industry. It contains ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2021/12/AI-in-Social-Media.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-ai-and-advance-machine-learning-in-bfsi-market-global-report-2021-2030-featuring-leading-players-cisco-sap-microsoft-and-ibm-among-others.md",
+      "title": "AI and Advance Machine Learning in BFSI Market Global Report 2021-2030 Featuring Leading Players - Cisco, SAP, Microsoft and IBM Among Others - ResearchAndMarkets.com",
+      "excerpt": "In addition, an increase in investment by BFSI companies in AI and machine learning and a rise in customer preferences for personalized financial services boost the growth of the market across the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211221005363/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20211221005363/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-microsoft-partners-with-royal-spanish-academy-for-language-resources.md",
       "title": "Microsoft partners with Royal Spanish Academy for language resources",
       "excerpt": "The Royal Spanish Academy (RAE) and Microsoft have signed an agreement to promote the correct use of Spanish online as part of the Spanish Language and Artificial Intelligence (LEIA) project. The RAE will provide Microsoft with access to the Diccionario de la lengua española or Dictionary of the Spanish Language – comprising of around 375,",
@@ -1248,92 +1328,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-cognitive-analytics-market-to-be-worth-48-billion-by-2026.md",
-      "title": "Cognitive Analytics Market to Be Worth $48 Billion By 2026",
-      "excerpt": "The leading companies profiled in the Polaris' Cognitive Analytics Market report include IBM, Cisco Systems, SAS Institute, Nuance Communications, Microsoft, Oracle, Amazon Web Services, Google, Intel, and Narrative Science.",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=150502",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=150502",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/142013-1221_SpeechAI_Verint_480x610-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T13:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-microsoft-corporation-msft-presents-at-ubs-2021-global-tmt-conference-transcript.md",
-      "title": "Microsoft Corporation (MSFT) Presents at UBS 2021 Global TMT Conference (Transcript)",
-      "excerpt": "UBS 2021 Global TMT Conference December 08, 2021 12:00 PM ET Company Participants Corey Sanders - Corporate VP, Microsoft Commercial Solution",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
-      "publishedDateTime": "2021-12-08T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

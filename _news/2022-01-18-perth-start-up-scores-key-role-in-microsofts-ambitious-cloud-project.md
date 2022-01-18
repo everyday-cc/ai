@@ -53,20 +53,6 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
-    excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C)."
-    publishedDateTime: 2022-01-13T16:13:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "znBRLadxHJ+wFPBgXYviXe1DDEAQX1t9SLb2mIbqJZQWlDnn8EJPIN1U/murZl9Qd2L6AZEvMI0aVGocScHRTFfpYSed7pDqMHGuCEqs0LFNU0qN2jn9hV7ZDHUEfoE5IKZWNxW/KLkql5QVV38XRm9oK9mpzIs6yK3qjiSRdN4o2amQL1x9wYClUK0oqXSj0hysERSpyxOSzEVyNKRFJekwQbkP+NSPP/9ze+/VVZlKr9jF4JWuh/N4NB4RvT0Ve2ADuW/7KpkJQtK/huYYw44JyuFnhOIY7CkJ9IzARNmf/LNcsCUdWe1rOVycubUR9EIj58k5Yiwo3asMTr3+lpB7GkrJ+7FUeGYtmtxyvHA=;raCs937KDQY0UoJzKNf67g=="
 ---

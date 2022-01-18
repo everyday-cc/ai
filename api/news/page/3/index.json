@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-14-chinese-restaurant-chain-is-forced-to-use-robot-waiters-during-the-covid-pandemic.md",
+      "title": "Chinese restaurant chain is forced to use ROBOT waiters during the Covid pandemic",
+      "excerpt": "Directors at The Chinese Buffet unveiled one BellaBot in each of four restaurants in Liverpool, St Helens, Bolton and Wigan, to serve food to diners in place of humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/01/14/13/52927541-0-image-a-63_1642165520636.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
+      "publishedDateTime": "2022-01-14T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-four-times-shakespeare-has-inspired-stories-about-robots-and-ai.md",
       "title": "Four times Shakespeare has inspired stories about robots and AI",
       "excerpt": "Science fiction is full of computer programmes and androids who fall afoul of the plots of some of Shakespeare’s most brutal tragedies.",
@@ -41,6 +84,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-4-reasons-meta-platforms-is-poised-to-grow-in-2022.md",
+      "title": "4 Reasons Meta Platforms Is Poised to Grow in 2022",
+      "excerpt": "Now, I want to talk a little bit more about the future growth of Meta Platforms and Facebook. First, I just want to say one thing. I've been looking on Lin",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-reasons-meta-platforms-is-poised-to-grow-in-2022",
+      "originalUrl": "https://www.nasdaq.com/articles/4-reasons-meta-platforms-is-poised-to-grow-in-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-reasons-meta-platforms-is-poised-to-grow-in-2022?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-reasons-meta-platforms-is-poised-to-grow-in-2022?amp",
+      "publishedDateTime": "2022-01-14T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1132,91 +1209,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-balancing-ai-and-humanity-five-cx-predictions-for-2022.md",
-      "title": "Balancing AI And Humanity: Five CX Predictions For 2022",
-      "excerpt": "While 2021 was a year of transition from the digital back to the physical world, I predict that 2022 will be an exciting time for blending the best of AI with the best of humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/balancing-ai-and-humanity-five-cx-predictions-for-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/balancing-ai-and-humanity-five-cx-predictions-for-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60258b7025105a1c7f5b548e%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/balancing-ai-and-humanity-five-cx-predictions-for-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/balancing-ai-and-humanity-five-cx-predictions-for-2022/amp/",
-      "publishedDateTime": "2022-01-13T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-4-reasons-to-invest-in-nvidias-ai-in-2022.md",
-      "title": "4 Reasons to Invest in Nvidia's AI in 2022",
-      "excerpt": "This is where the AI part comes in, a few years ago, when researchers were trying to build the first AI models that really worked, technology had not caught up with the idea yet. We needed massive lakes of data and we needed processors that could move that data around.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?time=1642082401",
-      "originalUrl": "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?time=1642082401",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp",
-      "publishedDateTime": "2022-01-13T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

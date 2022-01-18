@@ -1,22 +1,21 @@
 ---
 category: news
 title: "The Carl Kruse Blog Invites Everyone To SETI Chat: Artificial Intelligence, Augmenting Humanity For Good"
-excerpt: "An upcoming discussion on artificial intelligence and its effects on humanity. MIAMI (PRWEB) January 15, 2022 Artificial intelligence (AI) is a technological"
+excerpt: "Artificial intelligence (AI) is a technological breakthrough enabling algorithms to absorb and understand data, as well as learn on its own."
 publishedDateTime: 2022-01-15T16:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/p25067296/the-carl-kruse-blog-invites-everyone-to-seti-chat-artificial-intelligence-augmenting-humanity-for-"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/p25067296/the-carl-kruse-blog-invites-everyone-to-seti-chat-artificial-intelligence-augmenting-humanity-for-"
-ampWebUrl: "https://www.benzinga.com/amp/content/25067296"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25067296"
+originalUrl: "https://www.news-journal.com/the-carl-kruse-blog-invites-everyone-to-seti-chat-artificial-intelligence-augmenting-humanity-for-good/article_f03bc38e-a543-5c48-aafc-80c7a45062dc.html"
+webUrl: "https://www.news-journal.com/the-carl-kruse-blog-invites-everyone-to-seti-chat-artificial-intelligence-augmenting-humanity-for-good/article_f03bc38e-a543-5c48-aafc-80c7a45062dc.html"
 type: article
-quality: 20
-heat: 20
+quality: 2
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Longview News-Journal
+  domain: news-journal.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 related:
@@ -35,6 +34,6 @@ related:
         height: 506
         isCached: true
 
-secured: "SW7jg6EHnaIOCKRmml3ELiHt6/r3Iqun4G4K+AyCMuZ3Sm4O9Tn43gvKdY8k7Gq2qocQBZCNael1vjHsaGDHaCGyJBjmCB8VYzyxHwV+s5cuV8cZyv8BlJ7iA6/utWqTRNjf50W4HbRkH+pRtkei2l34OFwg8o3qu2mN6MPLpCSbjSXmRzhr1/8R6OQ5huC4ihfki8IHJvfVOWFZbaBVQju1u52BKfC3RoD7y+pTkfdyrrwUECtyHOxrO7TaNPkZ2R5tDVlmfsXN2NnB4Lsj0KjBaGhlG9OGPRLH1jOhLqn2etz7DSaeNzLSnoIPOvj7HeCq0MbgsUkNVk9qXFiDqFdnjMNGtR/FS1BI7BaWXi0=;10Aaxu/KOqsNWzh4AH+U0A=="
+secured: "nsQPfs7D9j5G1JCV8F1sgvOJKgVhinLYCGfPTLor97IQZXETseYXd8Hx/4g44oAYTPmZtuzSpLC50KfKrhcgQPvooR50o7MwJ+pOnrsIbTMTdEkGOVFFmppyVRU2gSiQZnGvbbNFVDZ2LK8GiE2IAeThHDTS3hpfNclJwHW85Lxik5BUeXUwYsPDP+3qhc1Oe+q4y1S3Alv/d8KkszN4wxjNIXKnG2Z7K+6aAuntck6lIJQmKivLNWDMXp+FeiYfA7s8jI8HwcxCSkaZbfaop/u18pUSH6c3MNy2Dj1WcthXTmUY63UtFrnDPcR8ElU4IchdiyyyAtPpKcyqWyGZNBwBFilwzzEIi5C4VplvCYf2EvCH9uW6GdKS3NCDgOYBLscPEnkFOWnaRGUPjRlkwiGh/6+Zuh6Pj9M+ZLS9JWVGIDLdmTtDxujw5I5EPl7E72qbBG1Eet6XH2c2z7j5Yh0QKAJTe+iNQxaW2M/87iWUjs0l6bmnst8oJM8JGcyy9uZN1Edsl14krstLxlFvZg==;saKdsDXk/8eMySW3szV3WA=="
 ---
 
