@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-09-us-demand-for-analytics-intensifies-as-enterprises-democratize-access-to-data-tools.md",
+      "title": "U.S. Demand for Analytics Intensifies as Enterprises Democratize Access to Data, Tools",
+      "excerpt": "U.S. enterprises are investing more in data analytics services and platforms, as employees at all levels gain more appreciation for the value of data, according to two new reports published today by Information Services Group ( ISG) (Nasdaq: III ),",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/12/09/9508536.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/12/09/9508536.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner.md",
+      "title": "Microsoft details its next steps with Azure Space; adds Airbus as a partner",
+      "excerpt": "Microsoft is moving ahead with its work to bring Azure cloud capabilities to companies that need satellite, geospatial and other space-related technologies",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a3b721ab06beacb17c8657a6b0a68efdcbe9c0f8/2021/12/09/3a4c102d-9780-4fee-88db-7a8c0f08f42d/azurespacegeospatial.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/",
+      "publishedDateTime": "2021-12-09T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-cognitive-analytics-market-to-be-worth-48-billion-by-2026.md",
       "title": "Cognitive Analytics Market to Be Worth $48 Billion By 2026",
       "excerpt": "The leading companies profiled in the Polaris' Cognitive Analytics Market report include IBM, Cisco Systems, SAS Institute, Nuance Communications, Microsoft, Oracle, Amazon Web Services, Google, Intel, and Narrative Science.",
@@ -1266,111 +1352,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-cloud-computing-is-evolving-heres-where-its-going-next.md",
-      "title": "Cloud computing is evolving: Here's where it's going next",
-      "excerpt": "Today's hybrid and multi-cloud architectures will evolve into highly optimised app-centric, AI-driven environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cloud-computing-is-evolving-heres-where-its-going-next/",
-      "originalUrl": "https://www.zdnet.com/article/cloud-computing-is-evolving-heres-where-its-going-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9cc167d03300a8a659d7dd21a109b0bffc5efce3/2021/11/18/90f56bcf-5471-4462-8640-a96c9f978e85/ibm-hybrid-multicloud-won.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cloud-computing-is-evolving-heres-where-its-going-next/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloud-computing-is-evolving-heres-where-its-going-next/",
-      "publishedDateTime": "2021-12-01T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-healthcare-artificial-intelligence-market-boosting-the-growth-worldwide-ibmmicrosoft-medtronic-aicure.md",
-      "title": "Healthcare Artificial Intelligence Market Boosting the Growth Worldwide | IBM,Microsoft, Medtronic, AiCure",
-      "excerpt": "The latest study released on the Global Healthcare Artificial Intelligence Market by AMA Research evaluates market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-boosting-the-growth-worldwide-ibmmicrosoft-medtronic-aicure-2021-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-boosting-the-growth-worldwide-ibmmicrosoft-medtronic-aicure-2021-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

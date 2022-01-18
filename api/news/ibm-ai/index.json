@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-19-nrf22-for-retailers-artificial-intelligence-is-one-solution-to-solve-many-problems.md",
-      "title": "NRF22: For Retailers, Artificial Intelligence Is One Solution to Solve Many Problems",
-      "excerpt": "From supply chain management to store staffing and more, IBM executives say merchants are just getting started with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems",
-      "originalUrl": "https://biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202201/GettyImages-850818182_0.jpg?itok=DdeJppsw",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems?amp",
-      "publishedDateTime": "2022-01-18T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-16-humans-of-2022-can-ai-robots-be-good-evil-or-have-a-soul.md",
       "title": "Humans of 2022! Can AI robots be good, evil or have a soul?",
       "excerpt": "RPI students work on robots with RPI computer science professor Selmer Bringsjord (standing) who also holds a philosophy degree. Bringsjord and RPI colleague Jim Hendler are Artificial Intelligence experts who explore whether a robot can ever develop what humans call a soul or morality?",
@@ -1426,6 +1383,49 @@
         "Microsoft AI",
         "IBM AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-ai-eye-podcast-ibm-watson-health-introducing-ai-orchestration-offering-for-imaging-nuance-launches-precision-imaging-network.md",
+      "title": "AI Eye Podcast - IBM Watson Health Introducing AI Orchestration Offering For Imaging, Nuance Launches Precision Imaging Network",
+      "excerpt": "Paid for content is disclosed. IBM (NYSE:IBM) has announced that Watson Health is introducing a new AI orchestration offering to help imaging organizations experience the benefits of having ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5669336-ai-eye-podcast-ibm-watson-health-introducing-ai-orchestration-offering-for-imaging-nuance",
+      "originalUrl": "https://seekingalpha.com/instablog/776842-investorideas-com/5669336-ai-eye-podcast-ibm-watson-health-introducing-ai-orchestration-offering-for-imaging-nuance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/uploads/2021/11/30/776842-16382973501935647.jpg",
+          "width": 387,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/instablog/776842-investorideas-com/5669336-ai-eye-podcast-ibm-watson-health-introducing-ai-orchestration-offering-for-imaging-nuance",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/instablog/776842-investorideas-com/5669336-ai-eye-podcast-ibm-watson-health-introducing-ai-orchestration-offering-for-imaging-nuance",
+      "publishedDateTime": "2021-11-30T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     }
   ],

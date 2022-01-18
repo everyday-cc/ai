@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202201/ramco-systems-builds-voice-
 webUrl: "https://www.biometricupdate.com/202201/ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Biometric Companies
@@ -40,6 +40,15 @@ related:
         width: 1024
         height: 500
         isCached: true
+  - title: "ITI Offers Recommendations, Comments to U.S. Government on AI-Enabled Biometric Technologies"
+    excerpt: "WASHINGTON – Global tech trade association ITI offered guidance to the U.S. government as it seeks to gather more information on Artificial Intelligence (AI)-enabled biometrics technologies. In recent comments to the Office of Science and Technology Policy (OSTP),"
+    publishedDateTime: 2022-01-18T22:57:00Z
+    webUrl: "https://www.itic.org/news-events/news-releases/iti-offers-recommendations-comments-to-u-s-government-on-ai-enabled-biometric-technologies"
+    type: article
+    provider:
+      name: ITI
+      domain: itic.org
+    quality: 6
 
 secured: "DvOj0G4ag+blI9uP2g2VVGfdZO1PkvIO2gszZiw6P2c3zCOAsQr/0uzscG1cAZRhrHlopkpbot+q2RyXWJATlhCUy+NzoohtzCPE5q7SvySIEuRJ5aQ4q0RJhi+TFWuylK6AXOw3M73nLid3IoBdHej47yEbxGARllGoKwdYzefVuxFHSev7cy+bYJZFuMzhzxMBisRuJxPV11dhuxEkfL7FYdQqTJG/fgE7RzVvRMINPLtJ7B0+v1yhCR2U3N9tvrlCpDtr4ceXPADJEaOTik/AFgqu4777b3pMy4ipiKhFNluTvF8ky26HQLLrpCVuzgaXu/ecoPat8570qbP6dNN0FZc9ci6RBSNhKwTf39HEzrPIjqiBJntvIv4pAnSMtcS+liP7YLMUSetSbPdpUTZZN9kuQmeBvcFNNbiR4VTD50LowrZbcm2y1CHq3cu1nfSfaX5NPlNfFnHHTXgq93dynF+Q8l5kf7AX87to40n+/q8wxbwvgzqOVCT0LFxT6vcdGE+er7hyTzcov0qqYA==;Unv3l0m3MySKoxNtzbuG7w=="
 ---

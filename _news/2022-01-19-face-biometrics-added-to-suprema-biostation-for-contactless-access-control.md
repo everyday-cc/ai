@@ -39,6 +39,15 @@ related:
         width: 900
         height: 499
         isCached: true
+  - title: "ITI Offers Recommendations, Comments to U.S. Government on AI-Enabled Biometric Technologies"
+    excerpt: "WASHINGTON – Global tech trade association ITI offered guidance to the U.S. government as it seeks to gather more information on Artificial Intelligence (AI)-enabled biometrics technologies. In recent comments to the Office of Science and Technology Policy (OSTP),"
+    publishedDateTime: 2022-01-18T22:57:00Z
+    webUrl: "https://www.itic.org/news-events/news-releases/iti-offers-recommendations-comments-to-u-s-government-on-ai-enabled-biometric-technologies"
+    type: article
+    provider:
+      name: ITI
+      domain: itic.org
+    quality: 6
 
 secured: "MqoiNT9ko7DGRI6DLN64xWN6+gIxEk074QtXxa0T6INl+/qf6Kjs+7Xj8/R2xy+wv2vh8piIIAS4w91Ze5F4T+8KsPwURmBsIVhE/dkLBBRk5y+uDGyC7Sf2EurHtnkq2d0abY8eIwoG+XlOOQYnZ7USme5stgpUeLnmYQk7G7xU3hgdqUjpir1hCxsRmgx2Xw3qJvbvUOGSCVvt9ZIxnhT/rYHqtNLsM5RbjLeVl5yZBYlx5wWO4wc+SekAtAaYgklGkZrqVM9jVU9vAI2IVQxH1VoiaNwBEG2lUWvBdyivU9kK0tx5VHy+QI8B5N1W0Al0isrrKscOwpW1oaWkeqog1oIsznwl/M2btVxbtWt7T/lkSFHr6SZtvYAfuE2GOHL+vzAUfqLLXPFdtQidEMXyIK1Wu7pb/iewnbeABcg9Sjypa4y3pRArDwkQpnKpnhqx1yFAqWDv+tUnuB4OPnD7fvEw+JExumDUS37jWHoJTQo/NzOXYbCpjca06jxAOtOXifT/Jfyvsii0s3DdVg==;vyJZAAW+vqe/5JK4X1dVSw=="
 ---

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-18-detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor.md",
+      "title": "Detect NLP data drift using custom Amazon SageMaker Model Monitor",
+      "excerpt": "Natural language understanding is applied in a wide range of use cases, from chatbots and virtual assistants, to machine translation and text summarization. To ensure that these applications are running at an expected level of performance, it’s important that data in the training and production environments",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/14/ML-5335-image001-fixed-1260x560.png",
+          "width": 1260,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T14:19:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-they-wanted-to-write-the-history-of-modern-china-but-how.md",
       "title": "They Wanted to Write the History of Modern China. But How?",
       "excerpt": "In the historian Jing Tsu’s “Kingdom of Characters,” the evolution of Chinese writing tells the story of the country’s past, present — and future.",
@@ -207,6 +260,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services.md",
+      "title": "Ramco Systems builds voice biometric authentication on Azure Cognitive Services",
+      "excerpt": "Ramco aims to facilitate authentication in a post-COVID world, where many countries mandate the use of facemasks which can affect facial recognition accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202201/ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services",
+      "originalUrl": "https://www.biometricupdate.com/202201/ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg",
+          "width": 900,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1358,101 +1455,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-natural-language-processing-nlp-market.md",
-      "title": "Natural Language Processing (NLP) Market",
-      "excerpt": "Natural Language Processing (NLP) Market ' a New Report by Coherent Market Insights, analyzes at the competitive environment and projections for future growth. The Natural Language Processing (NLP ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103483967/Natural-Language-Processing-NLP-Market-Grow-at-CAGR-of-204-During-Forecast-2028-Apple-Inc-Inovalon-3M-IBM",
-      "originalUrl": "https://menafn.com/1103483967/Natural-Language-Processing-NLP-Market-Grow-at-CAGR-of-204-During-Forecast-2028-Apple-Inc-Inovalon-3M-IBM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-01/04/EP_72fb8image_story.png",
-          "width": 824,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T23:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-ai-for-speech-recognition-market-is-booming-worldwide-google-apple-ibm.md",
-      "title": "AI for Speech Recognition Market is Booming Worldwide | Google, Apple, IBM",
-      "excerpt": "Advance Market Analytics published a new research publication on “AI for Speech Recognition Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-speech-recognition-market-booming-worldwide-google-ajay-jadhav",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-speech-recognition-market-booming-worldwide-google-ajay-jadhav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQFDsXy5f3t48Q/article-cover_image-shrink_720_1280/0/1641207989252?e=1646870400&v=beta&t=rU8Dbxv60xLUWiQyiXxOKiWcaqsAZ7Q7Ss58ixVGry0",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-19-cashpro-forecasting-bank-of-americas-new-ai-and-machine-learning-tool.md",
+      "title": "CashPro Forecasting: Bank of America's new AI and machine learning tool",
+      "excerpt": "Looking for a way to make informed financial decisions for your business? Bank of America might be able to help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
+      "originalUrl": "https://www.zdnet.com/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
+      "publishedDateTime": "2022-01-18T13:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-ai-creates-job-disruption-but-not-job-destruction.md",
       "title": "AI Creates Job Disruption But Not Job Destruction",
       "excerpt": "A common concern surrounding automation in recent years is that it will result in widescale job losses as the work previously done by people is taken over by technology. New research shows that isn't the case.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/adigaskell/2022/01/18/ai-creates-job-disruption-but-not-job-destruction/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1271,59 +1315,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-cfte-with-its-mission-of-education-at-scale-in-fintech-with-2021-a-year-of-limitless-possibilities.md",
-      "title": "CFTE with its mission of education at scale in Fintech with 2021 a year of limitless possibilities",
-      "excerpt": "And it's a wrap for 2021 ! What a year ! ✨ as the Co-founder of CFTE, I find myself reflecting on the past year. 2021 has brought a lot of ups and downs to everyone, and we hope that you were safe this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen/?trackingId=pBA26QHIQUWZxW3P0WVs5A%3D%3D",
-      "originalUrl": "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen/?trackingId=pBA26QHIQUWZxW3P0WVs5A%3D%3D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFLSa4vMp8XqA/article-cover_image-shrink_720_1280/0/1640193398856?e=1646870400&v=beta&t=26PAPjp8ikt6PHh00U_mkbFzM5gKDmJeKMyeEeSlhs4",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

@@ -57,21 +57,7 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Tribal leaders voice concerns about water, covid-19 to legislators"
-    excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
-    publishedDateTime: 2022-01-14T05:26:00Z
-    webUrl: "https://www.havasunews.com/news/arizona/tribal-leaders-voice-concerns-about-water-covid-19-to-legislators/article_b027f44e-74fa-11ec-868d-2b220795b290.html"
-    type: article
-    provider:
-      name: Havasu News
-      domain: havasunews.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/d/76/d76061fe-74fa-11ec-8a38-9faf97021aa8/61e10a4b615ed.image.jpg?resize=400%2C266"
-        width: 400
-        height: 266
-        isCached: true
 
-secured: "BcbLzLbwxDOV71+KcE5a66QzqO2mqZeE/cyBjMDLoEsPsVp3hAy6nSkYV4gDWPJbnYb3bc9fgyMA8IBqlANHzmB+iSEJ/ckeASPJCnfQSg8ANenBQhHNK+bq8zUNyJyDEnGTLi4kRVYloYYahXd2QV299LHNPw2RiVFVHe5tlBN13jo5+3joZ4rokSlQ2GTXFUx1YifucwSWtkDZkowxP/YBKclGdUQwM43zu+/mAaPp2bgNtUqmnkHa5nKKyDkjMznc0I/QkK2WUtgpAMfRqeLqyhEDA76TlxLgg/QE+zbMEMp7f2iurcwbcWzzw0Hm9KHB7YOC2qR4TXETQ+cz1cKw/6w6q6UAmO8T3uIgwwM=;Dlf84DRz/3pfjuJfJZ7ocQ=="
+secured: "S1Zfttf+tLUAMU8EhTjMnvDSyZ6tecsV7bVBXkyM3rtc8kWY0WsGR1p9UcVQfbI5/YJ4sF1RgfBKkdgD8mvc8kEdmQLVIlkb5vXEJfVWAUeOp9qcJLP6nQHUqFPY+I6tTrUq8nnxJ7HYWvs8okq89iIi0ROwZOgTeHviS/bFSRy9gboOvkSRwe5L9fbOCwhjQzGKPfZHWfe3xs/ZtOSte+/ujYR8Zr+3GE4aeHzbLUXEu7R5mBtIzb8YM4wpre095UII21ZvkMmjka+gM46IR3u51i7/KNBn4wMQdU5BZSeYpdIHomRAYXPcN8E3EjZgU2YTO+4QQJ+R0WxxHUZQx+UYNn/YjjspPoU3LvDm4ZNNFzQo3Tv1fWMM6limVC1EiYutJn5uS5o9D/0HgqMvlbOkqZG6BUaG/+bQA1112xNoC14bCrn/zxXLfgOdo14ojaXQ1anL2+kWt0SdKs5l1mY2N9ij85cFEXaK/h9DFPqsxibBkjND3tr8E3Ifu7w7HNZjzTGt1vgIGiRFR6rjwQ==;NxaomhDZl27W42+0U+9NfA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/why-giving-ai-human-ethics-probably-te
 webUrl: "https://thenextweb.com/news/why-giving-ai-human-ethics-probably-terrible-idea"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

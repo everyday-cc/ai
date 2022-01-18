@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-18T19:20:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/01/220118104126.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/01/220118104126.htm"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "NVIDIA researchers' landmark achievement in machine learning uses multiresolution hash encoding"

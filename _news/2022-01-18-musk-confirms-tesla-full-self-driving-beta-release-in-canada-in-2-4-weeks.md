@@ -167,20 +167,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "California regulator revisiting Tesla’s Full Self-Driving beta software"
-    excerpt: "Recently a letter was sent to State Senator Lena Gonzalez, the agency now says it is “revisiting” that decision."
-    publishedDateTime: 2022-01-14T05:43:00Z
-    webUrl: "https://techstory.in/california-regulator-revisiting-teslas-full-self-driving-beta-software/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/01/tesla-ai-day-fsd-demo.png"
-        width: 940
-        height: 516
-        isCached: true
   - title: "Tesla Has 'Assertive' Self-Driving Mode"
     excerpt: "It would take you hours to drive down a street in any urban area.” Now it appears that Tesla has come up with a solution to this problem in its full self-driving beta: an \"assertive\" mode where the car \"may perform rolling stops."
     publishedDateTime: 2022-01-17T20:00:00Z

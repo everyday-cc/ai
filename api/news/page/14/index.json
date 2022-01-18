@@ -2,6 +2,230 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-01-06-ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined.md",
+      "title": "Ameca the robot is more human (and haunting) than I ever imagined",
+      "excerpt": "If you poke a robot in the face, is it going to try to kill you?  Interviewing Ameca the robot during a demo at CES, I got my answer: No, but the face it makes when you get up in its personal space is haunting and mesmerizing in equal measure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/",
+      "originalUrl": "https://www.cnet.com/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/ShOqxvAyc3ROEfo0YpDdokzTerQ=/1200x630/2022/01/05/40f99e59-018d-4bce-840a-4d1abc388a05/ameca-humanoid-robot-demo-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/",
+      "publishedDateTime": "2022-01-05T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas.md",
+      "title": "University of Hawaii to compete in driverless car racing event in Las Vegas",
+      "excerpt": "The University of Hawaiʻi will once again make history by competing in the world’s first-ever, head-to-head autonomous car racing competition scheduled to take place on Friday, Jan. 7.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/",
+      "originalUrl": "https://www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.khon2.com/wp-content/uploads/sites/8/2022/01/1-15-UH-AUTONOMOUS.00_02_07_07.Still001.jpg?w=1280",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/amp/",
+      "cdnAmpWebUrl": "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/amp/",
+      "publishedDateTime": "2022-01-05T15:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHON2",
+        "domain": "khon2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027.md",
+      "title": "Aerospace Robotics Market Segmentation, Business Revenue and Forecast by 2027",
+      "excerpt": "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. The aerospace robotics market size was USD 2.",
+      "sourceUrl": null,
+      "webUrl": "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027",
+      "originalUrl": "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://coub-anubis-a.akamaized.net/coub_storage/story/cw_image_for_sharing/91162aa3277/15adae3f0267f73356752/1641203343_share_story.png",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T15:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Coub",
+        "domain": "coub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-artificial-intelligence-in-healthcare-global-market-global-industry-trends-market-size-forecast-up-to-2030.md",
+      "title": "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030",
+      "excerpt": "As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/24922041/artificial-intelligence-in-healthcare-global-market-global-industry-trends-market-size-forecast-up-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/24922041/artificial-intelligence-in-healthcare-global-market-global-industry-trends-market-size-forecast-up-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24922041",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24922041",
+      "publishedDateTime": "2022-01-05T14:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-google-prediction-framework-addresses-data-pipeline-drudgery.md",
+      "title": "Google Prediction Framework addresses data pipeline drudgery",
+      "excerpt": "Framework weaves together Google Cloud Platform services to simplify the implementation of prediction projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html",
+      "originalUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/executive-pushing-boulder-uphill_deadline_stress_struggle-100746928-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.amp.html",
+      "publishedDateTime": "2022-01-05T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-formant-raises-18m-to-help-companies-manage-fleets-of-robots.md",
       "title": "Formant raises $18M to help companies manage fleets of robots",
       "excerpt": "Formant, a startup developing a platform to help manage companies manage fleets of robots, has raised $18 million in venture capital.",
@@ -958,232 +1182,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-restaurant-robotics-shift-to-customer-facing-roles.md",
-      "title": "Restaurant Robotics Shift to Customer-Facing Roles",
-      "excerpt": "As labor challenges persist, restaurants are looking for solutions, and some tech companies are looking to bring robotics into customer-service roles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/",
-      "originalUrl": "https://www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/food-service-automation-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/amp/",
-      "publishedDateTime": "2022-01-05T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service.md",
-      "title": "Sensory Sticks Its Head in the Cloud with AWS, NVIDIA-Powered SensoryCloud AI-as-a-Service",
-      "excerpt": "Aims to offer key AI services, like facial recognition and speech-to-text, for any internet-connected device via a simple API.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2",
-      "originalUrl": "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackster.imgix.net/uploads/attachments/1393136/image_ESTGfad4pO.png?auto=compress%2Cformat",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2.amp",
-      "cdnAmpWebUrl": "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2.amp",
-      "publishedDateTime": "2022-01-05T08:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackster",
-        "domain": "hackster.io",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-the-power-of-deep-learning-in-marketing-campaigns-for-fashion-brands.md",
-      "title": "The Power of Deep Learning in Marketing Campaigns for Fashion Brands",
-      "excerpt": "We can (and do) buy everything online nowadays. There is strong competition in almost every domain, as retailers fight to carve out their digital space, but perhaps no type of online sales is as competitive as fashion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/power-deep-learning-marketing-campaigns-fashion-brands-rob-elms",
-      "originalUrl": "https://www.linkedin.com/pulse/power-deep-learning-marketing-campaigns-fashion-brands-rob-elms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHKIxFSXWTm0g/article-cover_image-shrink_600_2000/0/1641395897480?e=1646870400&v=beta&t=dw-LAm5x5_SjFy813CLh3jNTCzpit4PC0XTti722Ls0",
-          "width": 1559,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-sensorycloudai-launches-cloud-based-voice-and-vision-ai-services.md",
-      "title": "SensoryCloud.ai Launches Cloud-Based Voice and Vision AI Services",
-      "excerpt": "Sensory Inc., a Silicon Valley innovator of machine learning solutions for speech recognition and biometric identification, announces the beta release of SensoryCloud.ai,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sensorycloud-ai-launches-cloud-based-voice-and-vision-ai-services/article_80415a91-b610-5684-89db-5cd5c8b0d6ae.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sensorycloud-ai-launches-cloud-based-voice-and-vision-ai-services/article_80415a91-b610-5684-89db-5cd5c8b0d6ae.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/c5/5c50f657-b3c4-5f6c-8abe-ab37ed895a8d/60c0e2770671e.image.jpg?crop=1500%2C788%2C0%2C26&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-va-turns-to-ai-to-streamline-administrative-tasks.md",
-      "title": "VA Turns to AI to Streamline Administrative Tasks",
-      "excerpt": "The Department of Veterans Affairs is exploring how to use artificial intelligence tools to drive efficiencies in a wide range of medical and clerical areas.",
-      "sourceUrl": null,
-      "webUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks",
-      "originalUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202201/GettyImages-1300745916.jpg?itok=8Qx7rF5Z",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks?amp",
-      "cdnAmpWebUrl": "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks?amp",
-      "publishedDateTime": "2022-01-05T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fedtechmagazine.com",
-        "domain": "fedtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-10-oostos-deep-learning-enhances-facial-recognition-accuracy-and-expands-uses.md",
+      "title": "Oosto’s deep learning enhances facial recognition accuracy and expands uses",
+      "excerpt": "Newer facial recognition systems are scalable and provide more accurate results, and the end-user selects the parameters of system performance to suit their own application needs. “We",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "originalUrl": "https://www.sourcesecurity.com/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/eu-ban-facial-recognition-920.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "publishedDateTime": "2021-12-10T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders.md",
       "title": "How Sars is using machine learning and big data to nail tax offenders",
       "excerpt": "The South African Revenue Service said its efforts to expand the use of data to detect tax non-compliance is beginning to bear fruit.",
@@ -1379,49 +1423,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-peter-jackson-details-how-get-back-used-machine-learning-to-restore-the-beatles-sound-and-footage-exclusive.md",
-      "title": "Peter Jackson Details How ‘Get Back’ Used Machine Learning to Restore the Beatles’ Sound and Footage (EXCLUSIVE)",
-      "excerpt": "There were several hurdles Peter Jackson’s “Get Back” had to mount before the eight-hour documentary could premiere on Disney Plus, including persuading the surviving members of",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/",
-      "originalUrl": "https://variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://variety.com/wp-content/uploads/2021/12/Get-Back-Beatles-Footage-And-Sound.jpg?w=1024",
-          "width": 1024,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/amp/",
-      "publishedDateTime": "2021-12-03T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

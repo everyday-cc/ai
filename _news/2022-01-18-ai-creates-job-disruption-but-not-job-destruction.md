@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adigaskell/2022/01/18/ai-creates-job-di
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adigaskell/2022/01/18/ai-creates-job-disruption-but-not-job-destruction/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

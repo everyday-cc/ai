@@ -167,20 +167,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "California regulator revisiting Tesla’s Full Self-Driving beta software"
-    excerpt: "Recently a letter was sent to State Senator Lena Gonzalez, the agency now says it is “revisiting” that decision."
-    publishedDateTime: 2022-01-14T05:43:00Z
-    webUrl: "https://techstory.in/california-regulator-revisiting-teslas-full-self-driving-beta-software/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/01/tesla-ai-day-fsd-demo.png"
-        width: 940
-        height: 516
-        isCached: true
   - title: "Musk Confirms Tesla Full Self-Driving Beta Release in Canada in 2-4 Weeks"
     excerpt: "Tesla CEO Elon Musk has just shared another update on the highly anticipated Full Self-Driving (FSD) beta release in Canada while responding to a query about its status on Twitter (via TeslaNorth). “We will start rolling out FSD beta in Canada cautiously in next 2 to 4 weeks,"
     publishedDateTime: 2022-01-17T17:42:00Z

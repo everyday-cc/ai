@@ -2,6 +2,186 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-18-insurtech-reimagines-ai-driving-change-on-the-road-to-next-gen-ai-chips.md",
+      "title": "Insurtech reimagines AI: Driving Change on the Road to Next-Gen AI Chips",
+      "excerpt": "Insurance companies using Tractable benefit from AI of damage assessments after accidents. Here's how Tractable is leveraging next-gen, AI-dedicated chipsets and potentially migrating from GPU arrays.",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2022/01/ai-ml-machine-learning-insurtech-artificial-intelligence-insurance-review-best-chip-cpu/",
+      "originalUrl": "https://techhq.com/2022/01/ai-ml-machine-learning-insurtech-artificial-intelligence-insurance-review-best-chip-cpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techhq.com/wp-content/uploads/2022/01/shutterstock_1703593093-375x210.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techhq.com/amp/2022/01/ai-ml-machine-learning-insurtech-artificial-intelligence-insurance-review-best-chip-cpu/",
+      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/01/ai-ml-machine-learning-insurtech-artificial-intelligence-insurance-review-best-chip-cpu/",
+      "publishedDateTime": "2022-01-18T02:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-reliance-retail-acquires-54-stake-in-robotics-firm-addverb-technologies.md",
+      "title": "Reliance Retail acquires 54% stake in robotics firm Addverb Technologies",
+      "excerpt": "This round of funding, a mix of primary and secondary capital, will accelerate the companys expansion in Europe and US and enable it to set up a large robotic manufacturing facility.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/reliance-industries-acquires-54-stake-in-robotics-firm-addverb-technologies/articleshow/88966660.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/reliance-industries-acquires-54-stake-in-robotics-firm-addverb-technologies/articleshow/88966660.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-61900,msid-88966660/reliance-retail-acquires-54-stake-in-robotics-firm-addverb-technologies.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/reliance-industries-acquires-54-stake-in-robotics-firm-addverb-technologies/amp_articleshow/88966660.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/reliance-industries-acquires-54-stake-in-robotics-firm-addverb-technologies/amp_articleshow/88966660.cms",
+      "publishedDateTime": "2022-01-18T01:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-the-ap-interview-exiled-artist-ai-weiwei-on-beijing-games.md",
+      "title": "The AP Interview: Exiled artist Ai Weiwei on Beijing Games",
+      "excerpt": "Ai Weiwei is one of China's most famous artists, and many regard him as one of the world's greatest living ones of his profession. Working with the Swiss architectural firm Herzog & de Meuron, he helped design the Bird's Nest Stadium,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/The-AP-Interview-Exiled-artist-Ai-Weiwei-on-16783772.php",
+      "originalUrl": "https://www.chron.com/news/article/The-AP-Interview-Exiled-artist-Ai-Weiwei-on-16783772.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/23/51/31/21927514/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/The-AP-Interview-Exiled-artist-Ai-Weiwei-on-16783772.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-AP-Interview-Exiled-artist-Ai-Weiwei-on-16783772.php",
+      "publishedDateTime": "2022-01-18T01:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-samsung-announces-exynos-2200-chipset-with-amd-rdna-2-based-xclipse-gpu.md",
+      "title": "Samsung announces Exynos 2200 chipset with AMD RDNA 2-based Xclipse GPU",
+      "excerpt": "Samsung has announced its latest flagship smartphone processor — Exynos 2200, which will be powering the company’s upcoming premium smartphones later this year. This is the same chipset that the company was set to unveil on 11th January but got delayed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/",
+      "originalUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/exynos-2200.png",
+          "width": 935,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/?amp=1",
+      "publishedDateTime": "2022-01-17T19:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration.md",
       "title": "Multi-layer security cover with facial recognition systems in place for R-Day celebration",
       "excerpt": "After the improvised explosive device (IED) was found at Ghazipur Flower Market ahead of the Republic Day and later diffused, the Delhi Police have fortified areas in and around Rajpath with multi-layer security cover,",
@@ -54,7 +234,7 @@
       "originalUrl": "https://thenextweb.com/news/why-giving-ai-human-ethics-probably-terrible-idea",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -106,7 +286,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/17/new-york-times-ad-warns-against-teslas-full-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -573,7 +753,7 @@
       "originalUrl": "https://phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -864,7 +1044,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -999,216 +1179,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-16-when-it-comes-to-health-care-ai-has-a-long-way-to-go.md",
-      "title": "When It Comes to Health Care, AI Has a Long Way to Go",
-      "excerpt": "Medical information is more complex and less available than the web data that many algorithms were trained on, so results can be misleading.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/",
-      "originalUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61e22d6b844ec857b7138306/master/pass/healthcare-ai.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/health-care-ai-long-way-to-go/amp",
-      "publishedDateTime": "2022-01-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-16-3-key-differences-between-ai-and-robotics.md",
-      "title": "3 Key Differences Between AI And Robotics",
-      "excerpt": "Despite having a few common elements, AI and robotics are not the same. To understand the difference between the two, one can imagine AI to be the brain and robots to be the body of artificially intelligent robots—the combination of AI and robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d670b81998bdcbce034eac%2F0x0.jpg",
-          "width": 1200,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/amp/",
-      "publishedDateTime": "2022-01-16T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-16-what-ai-could-be-like-when-you-plug-a-computer-into-your-brain.md",
-      "title": "What AI could be like when you plug a computer into your brain",
-      "excerpt": "Everyone expects a strong AI to be built by an engineer, but in reality, a doctor might be standing at the cradle of real AI.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/what-ai-could-be-like-when-you-plug-a-computer-into-your-brain-syndication",
-      "originalUrl": "https://thenextweb.com/news/what-ai-could-be-like-when-you-plug-a-computer-into-your-brain-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fshutterstock_1804403536-Brain-computer-interface-AI-hed.jpg&signature=533049ba06095dd41423d98d4c236d21",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-16-responsible-ai-will-give-you-a-competitive-advantage.md",
-      "title": "Responsible AI will give you a competitive advantage",
-      "excerpt": "Responsible AI practices are becoming prerequisites to even bidding on certain contracts, especially when governments are involved",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/",
-      "originalUrl": "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1287119472.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/amp/",
-      "publishedDateTime": "2022-01-15T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],

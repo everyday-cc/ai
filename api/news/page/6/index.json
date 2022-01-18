@@ -2,6 +2,229 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-13-machine-learning-ai-used-to-rapidly-detect-sepsis.md",
+      "title": "Machine learning, AI used to rapidly detect sepsis",
+      "excerpt": "Sepsis strikes roughly 2 million people each year and is the cause of one in three hospital deaths in the United States, according to the Centers for Disease Control and Prevention. “Sepsis is the body’s extreme response to an infection and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/",
+      "originalUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ajc.com/resizer/8fTbEGrlh6x5xJYQWrHSKMW_Q68=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-12-2022/t_966c65e132e24545b6b37ee7896e70eb_name_sepsis.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp",
+      "publishedDateTime": "2022-01-12T09:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry.md",
+      "title": "AI-powered transcription platform DeepScribe raises $30M to unburden doctors from tedious data entry",
+      "excerpt": "DeepScribe, an AI-powered medical transcription platform, has raised $30 million in series A funding led by Nina Achadjian at Index Ventures, with participation from Scale.ai CEO Alex Wang, Figma CEO Dylan Field,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/",
+      "originalUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/deepscribe-founders.jpeg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/",
+      "publishedDateTime": "2022-01-12T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-california-may-finally-regulate-teslas-full-self-driving-beta-test.md",
+      "title": "California May Finally Regulate Tesla's \"Full Self-Driving\" Beta Test",
+      "excerpt": "California allows vehicle manufacturers to implement Level 2 systems in production vehicles but has much more stringent requirements for tests of any semi-autonomous system meant to move further up the chain.",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132",
+      "originalUrl": "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2c5c03495b6e5210a97c22476d2fec12.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132/amp",
+      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132/amp",
+      "publishedDateTime": "2022-01-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-provenir-customer-reliant-funding-named-lendit-fintech-industry-awards-top-small-business-lending-platform-finalist.md",
+      "title": "Provenir Customer Reliant Funding Named LendIT Fintech Industry Awards 'Top Small Business Lending Platform' Finalist",
+      "excerpt": "Nationwide provider recognized for excellence in supporting more than 10,000 small businesses with fast, flexible funding Provenir, a global leader in AI-powered",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/b25022101/provenir-customer-reliant-funding-named-lendit-fintech-industry-awards-top-small-business-lending-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/b25022101/provenir-customer-reliant-funding-named-lendit-fintech-industry-awards-top-small-business-lending-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25022101",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25022101",
+      "publishedDateTime": "2022-01-12T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-how-to-close-more-deals-with-artificial-intelligence.md",
+      "title": "How To Close More Deals With Artificial Intelligence",
+      "excerpt": "These days, responsiveness is the number one determining factor between businesses that can and can’t go the distance in the midst of huge external challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/12/how-to-close-more-deals-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/12/how-to-close-more-deals-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61def87513ac86adcd34b4ef%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/12/how-to-close-more-deals-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/01/12/how-to-close-more-deals-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-01-12T07:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-artificial-intelligence-trade-could-roar-back-in-2022.md",
       "title": "Artificial Intelligence Trade Could Roar Back in 2022",
       "excerpt": "Artificial intelligence (AI) is one of the premier disruptive technologies, but that status didn't prevent some AI equities from sliding alongside other innovative growth fare in 2021. However, it wasn't an entirely lost year for AI investors,",
@@ -892,231 +1115,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-how-managed-services-will-evolve-in-2022-the-data-analytics-revolution.md",
-      "title": "How managed services will evolve in 2022: The data analytics revolution",
-      "excerpt": "In 2022, cloud managed service providers look to support decision-makers in configuring and maintaining data stored in cloud environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
-      "originalUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1171422745-e1641922862738.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/",
-      "publishedDateTime": "2022-01-11T22:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry.md",
-      "title": "Robo Inu Finance Aims to Create a New Era of Payment Methods Using the Fintech Industry",
-      "excerpt": "Robu Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial freedom. They are creating a financial tool for individuals to manage their finances better and for companies to leverage an AI to enhance people's lives in the fintech industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketersmedia.com/wp-content/uploads/2022/01/5-8-500x236.jpg",
-          "width": 500,
-          "height": 236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25011004",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004",
-      "publishedDateTime": "2022-01-11T22:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands.md",
-      "title": "An AI-Created Politician Draws the Attention as Deep Learning Technology Expands",
-      "excerpt": "In Seoul, South Korea, an AI-created model, an avatar of a politician — candidate Al Yoon Suk-yeol — draws the attention of the crowds on a big screen. DeepBrain AI’s human model was the result of hundreds of hours of recorded video used to learn the person’s voice,",
-      "sourceUrl": null,
-      "webUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/",
-      "originalUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://iblnews.org/wp-content/uploads/2022/01/AI-politician.jpg",
-          "width": 860,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/amp/",
-      "cdnAmpWebUrl": "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/amp/",
-      "publishedDateTime": "2022-01-11T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBL News",
-        "domain": "iblnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform.md",
-      "title": "Cogniteam’s Nimbus Supports Cloud-Enabled Robot Deployment Powered by NVIDIA Jetson Edge AI Platform",
-      "excerpt": "Cogniteam integrates NVIDIA Isaac GEMs into Nimbus, streamlining robotics from development to deployment leveraging the NVIDIA Jetson platform",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/",
-      "originalUrl": "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-amazon-amzn-boosts-aws-portfolio-with-new-ec2-instances.md",
-      "title": "Amazon (AMZN) Boosts AWS Portfolio with New EC2 Instances",
-      "excerpt": "AWS announces the general availability of purpose-built Amazon EC2 instances, Hpc6a, which are designed for HPC workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/412667",
-      "originalUrl": "https://www.entrepreneur.com/article/412667",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-412667.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/18/ai-is-the-key-to-fixing-identity-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/ai-is-the-key-to-fixing-identity-security-forgerock-ceo-says/amp/"
 type: article
 quality: 106
-heat: 107
+heat: 108
 published: true
 
 provider:

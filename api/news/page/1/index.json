@@ -2,6 +2,248 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-18-detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor.md",
+      "title": "Detect NLP data drift using custom Amazon SageMaker Model Monitor",
+      "excerpt": "Natural language understanding is applied in a wide range of use cases, from chatbots and virtual assistants, to machine translation and text summarization. To ensure that these applications are running at an expected level of performance, it’s important that data in the training and production environments",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/14/ML-5335-image001-fixed-1260x560.png",
+          "width": 1260,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T14:19:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-cashpro-forecasting-bank-of-americas-new-ai-and-machine-learning-tool.md",
+      "title": "CashPro Forecasting: Bank of America's new AI and machine learning tool",
+      "excerpt": "Looking for a way to make informed financial decisions for your business? Bank of America might be able to help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
+      "originalUrl": "https://www.zdnet.com/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
+      "publishedDateTime": "2022-01-18T13:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-google-rolls-out-vertex-ai-forecast-for-retailers.md",
+      "title": "Google rolls out Vertex AI Forecast for retailers",
+      "excerpt": "As supply chain fluctuations, growing global markets and other factors complicate demand forecasting, Google is aiming to help retailers leverage AI for better planning",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-rolls-out-vertex-ai-forecast-for-retailers/",
+      "originalUrl": "https://www.zdnet.com/article/google-rolls-out-vertex-ai-forecast-for-retailers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-rolls-out-vertex-ai-forecast-for-retailers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-rolls-out-vertex-ai-forecast-for-retailers/",
+      "publishedDateTime": "2022-01-18T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-protonai-raises-20m-to-optimize-wholesale-distributors-sales-operations.md",
+      "title": "Proton.ai raises $20M to optimize wholesale distributors’ sales operations",
+      "excerpt": "Proton.ai, a company developing AI-powered technologies to support sales operations teams, has raised $20 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/18/proton-ai-raises-20m-to-optimize-wholesale-distributors-sales-operations/",
+      "originalUrl": "https://venturebeat.com/2022/01/18/proton-ai-raises-20m-to-optimize-wholesale-distributors-sales-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1180037246.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/18/proton-ai-raises-20m-to-optimize-wholesale-distributors-sales-operations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/proton-ai-raises-20m-to-optimize-wholesale-distributors-sales-operations/amp/",
+      "publishedDateTime": "2022-01-18T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-servicenows-new-ai-powered-service-aims-to-support-digital-transformation-efforts.md",
+      "title": "ServiceNow’s new AI-powered service aims to support digital transformation efforts",
+      "excerpt": "ServiceNow Impact, a new offering from ServiceNow, uses AI to estimate the return on investment from tech adopted for business transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/18/servicenows-new-ai-powered-service-aims-to-support-digital-transformation-efforts/",
+      "originalUrl": "https://venturebeat.com/2022/01/18/servicenows-new-ai-powered-service-aims-to-support-digital-transformation-efforts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1311757065.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/18/servicenows-new-ai-powered-service-aims-to-support-digital-transformation-efforts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/servicenows-new-ai-powered-service-aims-to-support-digital-transformation-efforts/amp/",
+      "publishedDateTime": "2022-01-18T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-computer-vision-based-anomaly-detection-using-amazon-lookout-for-vision-and-aws-panorama.md",
       "title": "Computer vision-based anomaly detection using Amazon Lookout for Vision and AWS Panorama",
       "excerpt": "This is the second post in the two-part series on how Tyson Foods Inc., is using computer vision applications at the edge to automate industrial processes inside their meat processing plants. In Part 1, we discussed an inventory counting application at packaging lines built with Amazon SageMaker and",
@@ -107,49 +349,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-19-nrf22-for-retailers-artificial-intelligence-is-one-solution-to-solve-many-problems.md",
-      "title": "NRF22: For Retailers, Artificial Intelligence Is One Solution to Solve Many Problems",
-      "excerpt": "From supply chain management to store staffing and more, IBM executives say merchants are just getting started with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems",
-      "originalUrl": "https://biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202201/GettyImages-850818182_0.jpg?itok=DdeJppsw",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems?amp",
-      "publishedDateTime": "2022-01-18T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-19-aigens-swarm-of-agtech-robots-want-to-make-agriculture-carbon-positive.md",
       "title": "Aigen’s swarm of agtech robots want to make agriculture carbon positive",
       "excerpt": "Even though the only thing the robot can do right now is pull weeds, Aigen is adamant it isn’t building a weed-whacking robot. It claims to be on a mission to terraform the earth, and says it has a path toward making agriculture carbon positive.",
@@ -210,7 +409,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/18/ai-is-the-key-to-fixing-identity-security-forgerock-ceo-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -444,7 +643,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/18/brainchip-launches-neuromorphic-process-for-ai-at-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -540,7 +739,7 @@
       "originalUrl": "https://www.forbes.com/sites/adigaskell/2022/01/18/ai-creates-job-disruption-but-not-job-destruction/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -643,7 +842,7 @@
       "originalUrl": "https://www.ft.com/content/e3f36d82-89b8-41df-ae11-0653ce7e7944",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1037,186 +1236,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-insurtech-reimagines-ai-driving-change-on-the-road-to-next-gen-ai-chips.md",
-      "title": "Insurtech reimagines AI: Driving Change on the Road to Next-Gen AI Chips",
-      "excerpt": "Insurance companies using Tractable benefit from AI of damage assessments after accidents. Here's how Tractable is leveraging next-gen, AI-dedicated chipsets and potentially migrating from GPU arrays.",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2022/01/ai-ml-machine-learning-insurtech-artificial-intelligence-insurance-review-best-chip-cpu/",
-      "originalUrl": "https://techhq.com/2022/01/ai-ml-machine-learning-insurtech-artificial-intelligence-insurance-review-best-chip-cpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techhq.com/wp-content/uploads/2022/01/shutterstock_1703593093-375x210.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techhq.com/amp/2022/01/ai-ml-machine-learning-insurtech-artificial-intelligence-insurance-review-best-chip-cpu/",
-      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/01/ai-ml-machine-learning-insurtech-artificial-intelligence-insurance-review-best-chip-cpu/",
-      "publishedDateTime": "2022-01-18T02:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-reliance-retail-acquires-54-stake-in-robotics-firm-addverb-technologies.md",
-      "title": "Reliance Retail acquires 54% stake in robotics firm Addverb Technologies",
-      "excerpt": "This round of funding, a mix of primary and secondary capital, will accelerate the companys expansion in Europe and US and enable it to set up a large robotic manufacturing facility.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/reliance-industries-acquires-54-stake-in-robotics-firm-addverb-technologies/articleshow/88966660.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/reliance-industries-acquires-54-stake-in-robotics-firm-addverb-technologies/articleshow/88966660.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-61900,msid-88966660/reliance-retail-acquires-54-stake-in-robotics-firm-addverb-technologies.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/reliance-industries-acquires-54-stake-in-robotics-firm-addverb-technologies/amp_articleshow/88966660.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/reliance-industries-acquires-54-stake-in-robotics-firm-addverb-technologies/amp_articleshow/88966660.cms",
-      "publishedDateTime": "2022-01-18T01:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-the-ap-interview-exiled-artist-ai-weiwei-on-beijing-games.md",
-      "title": "The AP Interview: Exiled artist Ai Weiwei on Beijing Games",
-      "excerpt": "Ai Weiwei is one of China's most famous artists, and many regard him as one of the world's greatest living ones of his profession. Working with the Swiss architectural firm Herzog & de Meuron, he helped design the Bird's Nest Stadium,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/The-AP-Interview-Exiled-artist-Ai-Weiwei-on-16783772.php",
-      "originalUrl": "https://www.chron.com/news/article/The-AP-Interview-Exiled-artist-Ai-Weiwei-on-16783772.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/23/51/31/21927514/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/The-AP-Interview-Exiled-artist-Ai-Weiwei-on-16783772.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-AP-Interview-Exiled-artist-Ai-Weiwei-on-16783772.php",
-      "publishedDateTime": "2022-01-18T01:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-samsung-announces-exynos-2200-chipset-with-amd-rdna-2-based-xclipse-gpu.md",
-      "title": "Samsung announces Exynos 2200 chipset with AMD RDNA 2-based Xclipse GPU",
-      "excerpt": "Samsung has announced its latest flagship smartphone processor — Exynos 2200, which will be powering the company’s upcoming premium smartphones later this year. This is the same chipset that the company was set to unveil on 11th January but got delayed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/",
-      "originalUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 254,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/exynos-2200.png",
-          "width": 935,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/?amp=1",
-      "publishedDateTime": "2022-01-17T19:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

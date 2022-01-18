@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-training-leverage
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Would You Trust AI To Do Your Trading?"
+    excerpt: "Artificial intelligence can do more than the human brain could ever imagine. Computers have indeed taken over in that regard. But what about trading? Discover here.. Page Body Content"
+    publishedDateTime: 2022-01-18T21:25:00Z
+    webUrl: "https://news.tmcnet.com/topics/articles/2022/01/18/451217-would-trust-ai-do-trading.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-jan/7515664986-IT-tech2.jpg"
+        width: 387
+        height: 581
+        isCached: true
 
 secured: "0sVWLiHi2SXQ2J1thoELQvgtjIRA8UY7xbk9lWs6VYqVX8DzGD0cnNl8T/nfJNhT2pk39uQ6kNeMZNsdv/ib4+mrsS1qzaef8JbAlLZy9f99QaRSdgC+MsfNXgDxhLhIy9mELKKEUIMA023lmnTVHcddJkUkObXuoUEBfOGeg7SOczbGH/yQipWz2CXWZzVouSFo8LEI5EYB9brryNdppQOa8lGpoIw7bBlG427auEyN6aFaeUrEu0snO/ET5MeUGcn/I7svUa4PbMtHMOpmg2PBmp3sxkNOVDvE+veoiLuwQO/yggsGM2NogRr0n/wlF/wyFhUpGA6ZJMkkFkObDG+885PgurjTRgjK8AjXAmKxulyNsRXn/uS1rih3D02PWs/TxqpSXEsCQoZH+QqXXp/RhomcNWeDNR0iPTtlhRuzIReg1Ws4xkCYYWHFtNfiY1Il81LdLKo1qMPVg9ACQNawKJ7109RPeZGf2JWl9LlHt7MIa9hB+yZO8Wd9al/vKgm45Zdo3O5h34r5GaYu6g==;BKVFBCHfbnbE9RS4TtFVtA=="
 ---

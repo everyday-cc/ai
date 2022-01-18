@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/18/brainchip-launches-neuromorphic-p
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/brainchip-launches-neuromorphic-process-for-ai-at-the-edge/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 125
 published: true
 
 provider:
