@@ -1,24 +1,28 @@
 ---
 category: news
-title: "AR's Games Set To Launch World's First Artificial Intelligence Based – Augmented Reality Video Game"
-excerpt: "The Real Tournament, made exclusively for mobile devices, will combine artificial intelligence and augmented reality to create a first-person shooting game made with real"
-publishedDateTime: 2022-01-17T20:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/ab25076575/ars-games-set-to-launch-worlds-first-artificial-intelligence-based-augmented-reality-video-game"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/ab25076575/ars-games-set-to-launch-worlds-first-artificial-intelligence-based-augmented-reality-video-game"
-ampWebUrl: "https://www.benzinga.com/amp/content/25076575"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25076575"
+title: "AR’s Games Set To Launch World’s First Artificial Intelligence Based – Augmented Reality Video Game"
+excerpt: "The Real Tournament, made exclusively for mobile devices, will combine artificial intelligence and augmented reality to create a first-person shooting"
+publishedDateTime: 2022-01-17T21:10:00Z
+originalUrl: "https://www.digitaljournal.com/pr/ars-games-set-to-launch-worlds-first-artificial-intelligence-based-augmented-reality-video-game"
+webUrl: "https://www.digitaljournal.com/pr/ars-games-set-to-launch-worlds-first-artificial-intelligence-based-augmented-reality-video-game"
 type: article
 quality: 23
 heat: 23
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
 
-secured: "FDmbN32nKImcXU2D5iAmohO1fi7j4zPtbr+iwR5ncltW8Tep40I2kc+GaVqStFs+jCcvaQPodYVvTh5tKWZxtCI4jIBHLHt+eHKgEIRHQ5x/xQAA61+z+F72zC+tEaxxXYBhYPBdBiG9HOhc4tKtKYureUOexEWuf4YEgErijq3xlLFuLOVzJGpv1LY78y8ncw6ez9517rdG/nGzyPVXT6Pm0P5imYHVtTph0bL8h4BcVeQ5tlQ/aAhwPgJN3afprYziHsd8g1NJiOMmxBPIaloyWyM4NENT+ms+6KGebhEyR8b9Lodk8AG2QGYUX4zJX/kZGL37Iw6P4xEFXq8QoZU9nYOoE3IHdfBqwdiSM/A=;y3UOksqszgRcApJ4ZYKpag=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/67a99a38a77ee1ae7fbf3f431adfbc0a32103e70-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "YyHtJMPx8oJoJZO9Pu4MB6o+XcbARDKGo/dFug02boytoNkvbyTNr4Y56g8u3TYFRLllsC9WYNVkAxu8lFcueSbGJN9iTbA1cISCtFwuU8qtEQhp+wI/y4miaEoWl3KdgZ8KRlPKvgnae8yfC9UfB6pfSXDAFK8LXT2ugpZwf4z4V0rnMUmAw3RATUg0cTiw6JX4OYCGI6S1Z2eL7JHcdcKdPavWXwjHEv8RYHlZqDDuMm8aAzNz0K10cjfooRQCfHiEhHEmHi2RI2y/tHBs/4IrYG7a0B/0nO97bLg/yiPbAKt0dLbFJu6/fi9ILZOwip0/F7Kdr7boc7kJ8LbaI0rqcGo1UZiY08FXSqVm6Yc=;x7Qnz8UpTSOjnw9P+MuDgQ=="
 ---
 

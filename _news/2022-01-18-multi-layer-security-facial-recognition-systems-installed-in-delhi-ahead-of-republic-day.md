@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/india-news/multi-layer-security-with-facial-rec
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/multi-layer-security-with-facial-recognition-systems-installed-in-delhi-ahead-of-republic-day-2713832/amp/1"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: NDTV
@@ -28,6 +28,86 @@ images:
     isCached: true
 
 related:
+  - title: "Multi-layer security cover with facial recognition systems in place for R-Day celebration"
+    excerpt: "After the improvised explosive device (IED) was found at Ghazipur Flower Market ahead of the Republic Day and later diffused, the Delhi Police have fortified areas in and around Rajpath with multi-layer security cover,"
+    publishedDateTime: 2022-01-18T02:37:00Z
+    webUrl: "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393"
+    ampWebUrl: "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393"
+    cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393"
+    type: article
+    provider:
+      name: Mathrubhumi
+      domain: mathrubhumi.com
+    quality: 67
+    images:
+      - url: "https://english.mathrubhumi.com/polopoly_fs/1.3515805.1548470408!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg"
+        width: 1080
+        height: 608
+        isCached: true
+  - title: "Multi-layer security cover with facial recognition systems in place for Republic Day celebration"
+    excerpt: "Deepak Yadav, DCP, New Delhi, said that apart from the terror threat, the rise in cases of COVID-19 is also a major challenge for the force. He has briefed the police personnel about the necessary precautions that need to be followed and has tightened the security arrangements in New Delhi."
+    publishedDateTime: 2022-01-18T02:47:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-republic-day-celebration/articleshow/88963721.cms"
+    ampWebUrl: "https://m.economictimes.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-republic-day-celebration/amp_articleshow/88963721.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-republic-day-celebration/amp_articleshow/88963721.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 63
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-581444,msid-88963823/untitled-9.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Republic Day 2022: Multi-Layer Security Cover With Facial Recognition Systems Installed In Delhi"
+    excerpt: "The Delhi police have installed over 300 CCTVs with facial recognition systems (FRS) to keep an eye on every movement in the high-security zone."
+    publishedDateTime: 2022-01-18T00:50:00Z
+    webUrl: "https://www.india.com/news/india/republic-day-2022-multi-layer-security-cover-with-facial-recognition-systems-installed-in-delhi-5191128/"
+    ampWebUrl: "https://www.india.com/news/india/republic-day-2022-multi-layer-security-cover-with-facial-recognition-systems-installed-in-delhi-5191128/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/republic-day-2022-multi-layer-security-cover-with-facial-recognition-systems-installed-in-delhi-5191128/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 63
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2022/01/000_8ZJ8H6.jpg"
+        width: 5000
+        height: 3333
+        isCached: true
+  - title: "R-Day 2022: Multi-layer security cover, facial recognition systems in place; visitor verification intensified"
+    excerpt: "Delhi DCP said he has briefed the police personnel about the necessary precautions that need to be followed and has tightened the security arrangements in New Delhi."
+    publishedDateTime: 2022-01-18T01:40:00Z
+    webUrl: "https://www.indiatvnews.com/news/india/republic-day-2022-security-arrangements-multi-layer-security-cover-facial-recognition-systems-delhi-police-2022-01-18-754968"
+    ampWebUrl: "https://www.indiatvnews.com/amp/news/india/republic-day-2022-security-arrangements-multi-layer-security-cover-facial-recognition-systems-delhi-police-2022-01-18-754968"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/news/india/republic-day-2022-security-arrangements-multi-layer-security-cover-facial-recognition-systems-delhi-police-2022-01-18-754968"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 57
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/01/pti01-17-2022-000057b-1642469215.jpg"
+        width: 1200
+        height: 705
+        isCached: true
+  - title: "Facial recognition systems, anti-drone teams deployed for Republic Day celebration"
+    excerpt: "Deepak Yadav, DCP, New Delhi, said that apart from the terror threat, the rise in cases of Covid-19 is also a major challenge for the force."
+    publishedDateTime: 2022-01-18T02:15:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/facial-recognition-systems-anti-drone-teams-deployed-for-republic-day-celebration-101642471702285.html"
+    ampWebUrl: "https://www.hindustantimes.com/india-news/facial-recognition-systems-anti-drone-teams-deployed-for-republic-day-celebration-101642471702285-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/facial-recognition-systems-anti-drone-teams-deployed-for-republic-day-celebration-101642471702285-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 53
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/01/18/1600x900/republic_day_celebration_security_1642472089733_1642472089999.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Delhi: Multi-layer security cover with facial recognition systems in place for R-Day celebration"
     excerpt: "After the improvised explosive device IED was found at Ghazipur Flower Market ahead of the Republic Day and later diffused the Delhi Police have fortified ar"
     publishedDateTime: 2022-01-17T23:14:00Z
@@ -43,6 +123,6 @@ related:
         height: 420
         isCached: true
 
-secured: "aP+ZwZ056+H9pShmNGGPiIuCul32xDNtFTKVp6nRsACdQywQB09E1DBR7PA834d3uWy5YjjwTBhgpBErNGeupUgFD2rd7vGTww5ERWzkzBQS0n8cxWq/PFh/oAJ+FvaOHdL8ypgmwoACRVqHjpT8tkPIZPovGaSQh03wv912XG66cXnNWDmaDN+OP/ZMYyblfVrLV/0kW4uV5vXh8//TQtiZZzk+eLuV40rrnemobRmkZzzHvDioDf84MVVCld3gXTqoURnxNk1asWKCkjzXVYSb/OzNi4DqNN3CFPBEVc9+apBw9eYwExW4+aXUqHKXfdcmNqTL3+kV8VaVI5kxCEJcFUrL7+iVy19rmxNQTt4=;8YaCHuBSyHDZ7OqPB5Q6Gw=="
+secured: "B95CZ0A+S3MO+1N0xCSzKXyvebIK3yVxf/YueoT4d7APc/Tt8g+oaSKrC/q0amtZRjWibZ1+G8Gwi+uYFjnR70X4nrdZ9BFTCTCaL2xz7dw/Qra9JgwkpKRKBWWRc3QwJoVxEw/gCD+cL/G8zCR4/o54yS7sLO9whOYqMaQ1Kfo51HpuhCQrqVXbYTssAOmvACcr14UlfoBUqigvXxMmpm64k2nJNEs/tznq64qfbRSp6OCM54RYJA+O8t+Iaj5lOt5EvRUzV7QNe1Zvmov2Yet4WkBbMIOoJNxQCpA04i/t8fI5XsKqFy1BY0jDWafdbpIy+QcRj3AW4Od5V6idS+lXBtcKO9MhJk+UXngR3H36na1rWPuxtWy1jo8fh7qiN1NGQL1BqEGzcz4//NTsK+1WoofGpdWWmcrePYcbxbRf9NzUttyxyfzchgwumFDH3skaYnFzw+T81JoGsgQOFz1bY5+gcSh7UOqw6jwDbtEbeln0N3nfmTZDnuqf71le6q9cIOCexJxlsH0szmKCUw==;Vs6SleBdRiqPsatKLIYo4Q=="
 ---
 

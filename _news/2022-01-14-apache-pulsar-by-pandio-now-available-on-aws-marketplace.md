@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Apache Pulsar® by Pandio Now Available on AWS Marketplace"
-excerpt: "Pandio, the leader in AI orchestration, announced today that its Apache Pulsar® product is now available in AWS Marketplace. SAN DIEGO (PRWEB) January 13, 2022 Pandio,"
-publishedDateTime: 2022-01-13T23:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/p25049283/apache-pulsar-by-pandio-now-available-on-aws-marketplace"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/p25049283/apache-pulsar-by-pandio-now-available-on-aws-marketplace"
-ampWebUrl: "https://www.benzinga.com/amp/content/25049283"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25049283"
+excerpt: "Pandio, the leader in AI orchestration, announced today that its Apache Pulsar® product is available in AWS Marketplace, a digital catalog with thousands of software listings from independent vendors that make it easy to find,"
+publishedDateTime: 2022-01-14T01:44:00Z
+originalUrl: "https://www.lelezard.com/en/news-20192665.html"
+webUrl: "https://www.lelezard.com/en/news-20192665.html"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "L0Uj9mBXv9dblx8wOW62vYRApU/jvzSK8aXXwBnHQkveGmD/h/M54FKpjyLnqM8SwLP5+k4AT2rdMBx44WBJQ8DYTmhQWn0U4a9/tX4dndI5TQUm/awqECAOdkZe2oa3o+4doQR7+VuVa1v27WeMIvqf+EAD3l6GCisUil6BkGeen6vB/etMbH2+MKQrJSn/8+Io9Q4NNRCDx0TNRTx2uGBFb6ntipJDDU+yiG+wLmJewpscAzkIu1waP1ATVZaBqTzc7iw3lH6jTpl8tJmfrobaZ4zCb/YOAe9nyVdne6G4te1moLdHIJ1p0VXyAZZqDu8GavOqHndSVlDCW0Y0eCChduqDTLJFTz0iyjCbwxU=;y/GizB66K8FGIJaJPBaNpw=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "iHghs9Xo0pg+fRcLTznU9u1hWMvKyJhyuNsVR29KftbDIoiopuLgmkDOPyErmWv1fZZqnVMR/1jhkWR5v1VjcEgDrdER70AFTf8Att2MQGY+8GSYUqdh6fjEc/dzaYNZTWvGkl+JUQeD+Y7ysJbmpebdNKLbync6+p0chxs9m/0xJ4h4xs2kqa4QWeexK4X6aO+shjCi1cefyuSgBhPVVOuRMNxbhukbNbtm9FdLj0aFbq5oeQd67Sx0F/im4TGkGMxukGK1rbk6bljspzNn9Sy3+GGTlglguiZMIgDvv+DjNzeTRDKCOjVUZ+Ujsk2pNMgN5qi4THeiX2oyFQQwX4r2CPqbp3wPRX5xP2vEmJs=;1Rqolu7coNi8zfq/qp3UwQ=="
 ---
 

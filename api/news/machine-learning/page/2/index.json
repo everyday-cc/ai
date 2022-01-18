@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-07-aiml-machine-learning-students-develop-beer-using-ai.md",
+      "title": "AIML machine learning students develop beer using AI",
+      "excerpt": "A new South Australian craft beer has been designed entirely by AI by the University of Adelaide’s AIML and Barossa Valley Brewing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/",
+      "originalUrl": "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.foodmag.com.au/wp-content/uploads/2022/01/BE02AF04-D1ED-4F84-A559-1400473CE404_1_201_a.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Food Magazine",
+        "domain": "foodmag.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-how-no-code-ai-development-platforms-could-introduce-model-bias.md",
       "title": "How no-code AI development platforms could introduce model bias",
       "excerpt": "Enterprises are embracing no-code AI development tools. But these tools abstract away processes in a way that could lead to issues like bias.",
@@ -1320,50 +1363,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-indias-airtel-tcs-tap-robotics-to-build-5g-based-units.md",
-      "title": "India's Airtel, TCS tap robotics to build 5G-based units",
-      "excerpt": "Indian telecom operator Bharti Airtel and IT giant Tata Consultancy Services (TCS) have joined hands to build a 5G-based remote working technology using robotics. Both the companies are currently running the trials in Airtel's 5G lab at Manesar,",
-      "sourceUrl": null,
-      "webUrl": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html",
-      "originalUrl": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.developingtelecoms.com/images/stories/Places/India_-_train_journey.jpg",
-          "width": 600,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-28T21:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "developingtelecoms.com",
-        "domain": "developingtelecoms.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

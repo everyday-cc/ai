@@ -41,20 +41,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Machine Learning to Power the Future of Streaming Analytics"
-    excerpt: "The incredible amount of data that will be generated in the next few years demands help to manage, mostly in the form of machine learning algorithms."
-    publishedDateTime: 2022-01-13T10:15:00Z
-    webUrl: "https://tdwi.org/articles/2022/01/13/adv-all-machine-learning-to-power-the-future-of-streaming-analytics.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 39
-    images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/machinelearning4.jpg"
-        width: 976
-        height: 400
-        isCached: true
   - title: "Net4 launches video analytics powered by AWS Wavelength"
     excerpt: "Net4, a UK-based technology service provider, has launched its video analytics platform, known as Net4.Vision, which is powered by AWS Wavelength.Alex Taylor, Net4's CEO said,"
     publishedDateTime: 2022-01-13T12:02:00Z

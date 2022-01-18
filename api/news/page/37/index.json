@@ -2,58 +2,6 @@
   "page": 37,
   "value": [
     {
-      "path": "_news/2021-12-15-global-driverless-apron-bus-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027.md",
-      "title": "Global Driverless Apron Bus Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2027",
-      "excerpt": "Dec 15, 2021 (CDN Newswire via Comtex) -- Global Driverless Apron Bus Market ... inventory management by via Artificial Intelligence(AI), product tracking, local production, accessible customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-driverless-apron-bus-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027-2021-12-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-driverless-apron-bus-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027-2021-12-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-15-microsoft-releases-azure-bot-service-and-cognitive-services-language-understanding.md",
       "title": "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding",
       "excerpt": "Microsoft Azure Bot Service and Microsoft Cognitive Services Language Understanding (LUIS) are now available. “Conversational AI, or making human and computer interactions more natural ...",
@@ -1160,6 +1108,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats.md",
+      "title": "Guardio nabs $47M for an AI-powered browser extension that protects from cyberthreats",
+      "excerpt": "Guardio, a startup developing a cybersecurity extension for Google Chrome, has just raised a $47 million funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats/",
+      "originalUrl": "https://venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/security-hacker.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/guardio-nabs-47m-for-an-ai-powered-browser-extension-that-protects-from-cyberthreats/amp/",
+      "publishedDateTime": "2021-12-14T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

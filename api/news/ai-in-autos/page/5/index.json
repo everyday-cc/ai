@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-12-14-how-artificial-intelligence-will-transform-business.md",
-      "title": "How Artificial Intelligence Will Transform Business",
-      "excerpt": "\"Artificial intelligence\" is a broad and general term ... \"AI is starting to make what was once considered impossible possible, like driverless cars,\" said Russell Glenister, CEO and founder ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
-      "originalUrl": "https://www.businessnewsdaily.com/9402-artificial-intelligence-business-trends.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.business.com/images/content/5ca/3d0715a215e8a458b6a82/1500-0-",
-          "width": 1000,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-14-a-leader-of-ubers-doomed-self-driving-car-project-now-runs-her-own-startup-heres-what-she-says-the-industry-should-be-doing-today.md",
       "title": "A leader of Uber's doomed self-driving car project now runs her own startup. Here's what she says the industry should be doing today.",
       "excerpt": "Earlier this year, Raquel Urtasun founded Waabi, a self-driving startup ... throughout her career, and is driving her company with artificial intelligence. Urtasun spoke with Insider about her ...",
@@ -1408,6 +1365,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-university-wide-institute-to-integrate-natural-artificial-intelligence.md",
+      "title": "University-wide Institute to Integrate Natural, Artificial Intelligence",
+      "excerpt": "Harvard University on Tuesday launched the Kempner Institute for the Study of Natural and Artificial Intelligence, a new University-wide initiative standing at the intersection of neuroscience and artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://news.harvard.edu/gazette/story/2021/12/new-harvard-institute-to-study-natural-artificial-intelligence/",
+      "originalUrl": "https://hms.harvard.edu/news/university-wide-institute-integrate-natural-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.harvard.edu/wp-content/uploads/2021/11/AI_Social-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Medical School",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos"
       ]
     }
   ],

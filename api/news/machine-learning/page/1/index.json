@@ -333,6 +333,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-13-ai-comes-alive-in-industrial-automation.md",
+      "title": "AI Comes Alive in Industrial Automation",
+      "excerpt": "Artificial intelligence (AI ... With RL, you have deep learning and within the deep neural network of an ML learning network,” said Nicholson. “You can apply the algorithms to robots. As the robots learn their tasks, they get a numerical reward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/ai-comes-alive-industrial-automation",
+      "originalUrl": "https://www.designnews.com/automation/ai-comes-alive-industrial-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/2A8YM6D.jpg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges.md",
       "title": "Graph-based recommendation system with Neptune ML: An illustration on social network link prediction challenges",
       "excerpt": "Recommendation systems are one of the most widely adopted machine learning (ML) technologies in real-world applications, ranging from social networks to ecommerce platforms. Users of many online systems rely on recommendation systems to make new friendships, discover new music according to suggested",
@@ -1366,49 +1409,6 @@
         "Machine Learning",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-aiml-machine-learning-students-develop-beer-using-ai.md",
-      "title": "AIML machine learning students develop beer using AI",
-      "excerpt": "A new South Australian craft beer has been designed entirely by AI by the University of Adelaide’s AIML and Barossa Valley Brewing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/",
-      "originalUrl": "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.foodmag.com.au/wp-content/uploads/2022/01/BE02AF04-D1ED-4F84-A559-1400473CE404_1_201_a.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Food Magazine",
-        "domain": "foodmag.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

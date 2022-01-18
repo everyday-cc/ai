@@ -2,40 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2022-01-06-mobileyes-self-driving-secret-200pb-of-data.md",
-      "title": "Mobileye's Self-Driving Secret? 200PB of Data",
-      "excerpt": "Mobileye is sitting on a virtual treasure trove of driving data - some 200 petabytes worth. When combined with Mobileye's state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T12:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-06-ecovacs-new-deebot-x1-cleans-your-home-and-itself.md",
       "title": "Ecovacs’ new Deebot X1 cleans your home and itself",
       "excerpt": "Well-known robot vacuum maker Ecovacs has revealed its newest robot floor cleaner as part of CES 2022: The Ecovacs Deebot X1, and this one is a pretty significant upgrade, with useful new tech. By now we’re all familiar with robot vacuums and mops,",
@@ -1154,6 +1120,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata.md",
+      "title": "Healthtech predicted to focus on AI and virtual care in 2022, with medical robotics not far behind: GlobalData",
+      "excerpt": "The tech has already got companies talking, as mentions of ‘AI’ within healthcare, pharma, and medical device company filings increased by over 50%, from 700 in 2018 to 1,100 in 2021, according to GlobalData’s Filings Analytics Database.",
+      "sourceUrl": null,
+      "webUrl": "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "originalUrl": "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/01/05162448/EH_healthtech_750.jpg",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "publishedDateTime": "2022-01-05T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "expresshealthcare",
+        "domain": "expresshealthcare.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

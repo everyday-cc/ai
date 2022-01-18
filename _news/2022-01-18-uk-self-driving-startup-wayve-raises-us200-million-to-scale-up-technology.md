@@ -1,0 +1,67 @@
+---
+category: news
+title: "UK self-driving startup Wayve raises US$200 million to scale up technology"
+excerpt: "LONDON: British self-driving technology startup Wayve said on Tuesday (Jan 18) it has raised US$200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
+publishedDateTime: 2022-01-18T01:10:00Z
+originalUrl: "https://www.channelnewsasia.com/business/uk-self-driving-startup-wayve-raises-us200-million-scale-technology-2441826"
+webUrl: "https://www.channelnewsasia.com/business/uk-self-driving-startup-wayve-raises-us200-million-scale-technology-2441826"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--dpfl6nPT--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2022/01/18/wayve.jpg?itok=LCo8ldiO"
+    width: 1200
+    height: 676
+    isCached: true
+
+related:
+  - title: "UK self-driving startup Wayve raises $200 mln to scale up technology"
+    excerpt: "British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
+    publishedDateTime: 2022-01-17T23:01:00Z
+    webUrl: "https://www.nasdaq.com/articles/uk-self-driving-startup-wayve-raises-%24200-mln-to-scale-up-technology"
+    ampWebUrl: "https://www.nasdaq.com/articles/uk-self-driving-startup-wayve-raises-%24200-mln-to-scale-up-technology?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/uk-self-driving-startup-wayve-raises-%24200-mln-to-scale-up-technology?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "Autonomous Driving Start-Up Wayve Bags $200 Million From Microsoft, Virgin and Baillie Gifford"
+    excerpt: "London-based Wayve has been backed by a host of big name investors in a funding round that brings total investment in the company up to $258 million."
+    publishedDateTime: 2022-01-18T00:38:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/business/money-report/autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford/3110171/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/business/money-report/autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford/3110171/?amp"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/business/money-report/autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford/3110171/?amp"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 62
+    images:
+      - url: "https://media.nbcphiladelphia.com/2022/01/107002167-1642416708532-Alex_Kendall_CEO_2_002.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "UK Self-Driving Startup Wayve Raises $200 Million to Scale up Technology"
+    excerpt: "British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
+    publishedDateTime: 2022-01-18T00:25:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-01-17/uk-self-driving-startup-wayve-raises-200-million-to-scale-up-technology"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
+
+secured: "1z7mt3LAB9iGPlpVScZk3/jIaj8M6UYOlPtlp1a6eA/gL8XRlWqfW/WB7yD00+YoJQhlgUf8DPYxmkjuyCPD3UHJsBEofWbv7BiML2Bum66VkpqqBNtMNJK1bK7n6tyxo9LcGMaNJy+pI6RpW0FJXgxal73FZqPVRndRA95D9iGLkkIa4nFMJ6lJKN42oz98XPJ2bTz9ly/dNJh30AojrfHN6bsPZ0caO1KTtpMudN+/KgNmagfZ0J5xM37oIJBFGbaT6AOMsOKtXfm6CyPX31H7WGE8rQg8zdhE1EtotmrvD5yBjfc79+IP0aFpsAWu3IMEtL8HnOep/bASEqRkenj/ba8KrjMFt9/bdAqV5Ok=;U+gFGS6sNcuHRtMGT52sxw=="
+---
+

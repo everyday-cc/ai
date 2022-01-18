@@ -2,49 +2,6 @@
   "page": 49,
   "value": [
     {
-      "path": "_news/2021-12-07-bulls-take-charge-as-omicron-concerns-ease.md",
-      "title": "Bulls take charge as Omicron concerns ease",
-      "excerpt": "Tech stocks climbed 5.6% in Europe, while the S&P information technology sector rose 3.5%, driving almost half of ... including JD.com Inc and Baidu Inc. Portfolio managers did not want to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://gazette.com/news/us-world/asia-stocks-bounce-from-one-year-low-china-gains-on-monetary-easing/article_29333c87-d1c5-55f3-88c5-81b48858801f.html",
-      "originalUrl": "https://gazette.com/news/us-world/asia-stocks-bounce-from-one-year-low-china-gains-on-monetary-easing/article_29333c87-d1c5-55f3-88c5-81b48858801f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/1/2d/12d1681b-ff09-503d-a9e6-edc87a647ab3/61aecb9669e4a.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T22:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gazette",
-        "domain": "gazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-07-technique-enables-real-time-rendering-of-scenes-in-3d.md",
       "title": "Technique enables real-time rendering of scenes in 3D",
       "excerpt": "Researchers at MIT and elsewhere have demonstrated a novel technique that vastly increases the speed of rendering 3D scenes from images by using a neural network to reconstruct the 360-degree light field of the underlying 3D scene.",
@@ -1177,6 +1134,59 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body.md",
+      "title": "Ameca humanoid robot puts AI in a gender-neutral, ‘non-threatening’ body",
+      "excerpt": "Artificial intelligence, or AI, is one of the most prolific areas of research in several fields. AI has vast potential to improve medicine and many other fields of research. Typically, an AI lives",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
+      "originalUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/12/ameca-ab-robot-hand.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
+      "publishedDateTime": "2021-12-06T07:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

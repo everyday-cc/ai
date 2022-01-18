@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-01-16-responsible-ai-will-give-you-a-competitive-advantage.md",
-      "title": "Responsible AI will give you a competitive advantage",
-      "excerpt": "Responsible AI practices are becoming prerequisites to even bidding on certain contracts, especially when governments are involved",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/",
-      "originalUrl": "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1287119472.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/amp/",
-      "publishedDateTime": "2022-01-15T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-16-humans-of-2022-can-ai-robots-be-good-evil-or-have-a-soul.md",
       "title": "Humans of 2022! Can AI robots be good, evil or have a soul?",
       "excerpt": "RPI students work on robots with RPI computer science professor Selmer Bringsjord (standing) who also holds a philosophy degree. Bringsjord and RPI colleague Jim Hendler are Artificial Intelligence experts who explore whether a robot can ever develop what humans call a soul or morality?",
@@ -140,7 +87,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1176,6 +1123,49 @@
       "provider": {
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-four-times-shakespeare-has-inspired-stories-about-robots-and-ai.md",
+      "title": "Four times Shakespeare has inspired stories about robots and AI",
+      "excerpt": "Science fiction is full of computer programmes and androids who fall afoul of the plots of some of Shakespeare’s most brutal tragedies.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/four-times-shakespeare-has-inspired-stories-about-robots-and-ai-174137",
+      "originalUrl": "https://theconversation.com/four-times-shakespeare-has-inspired-stories-about-robots-and-ai-174137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/440682/original/file-20220113-2253-18vte8y.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop",
+          "width": 320,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/four-times-shakespeare-has-inspired-stories-about-robots-and-ai-174137",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/four-times-shakespeare-has-inspired-stories-about-robots-and-ai-174137",
+      "publishedDateTime": "2022-01-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null

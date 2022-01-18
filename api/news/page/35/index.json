@@ -2,49 +2,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_news/2021-12-16-samsung-rolls-out-chips-for-self-driving-cars.md",
-      "title": "Samsung rolls out chips for self-driving cars",
-      "excerpt": "Samsung unveiled the industry‘s first universal flash storages for self-driving cars in 2017 ... Both products are used for servers and artificial intelligence-powered accelerators. The latest technology will better support complex processing of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20211216000657",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20211216000657",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2021%2F12%2F16%2F20211216000591_0.jpg",
-          "width": 630,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20211216000657",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20211216000657",
-      "publishedDateTime": "2021-12-15T22:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-16-3-startups-spearheading-ai-growth-in-south-korea.md",
       "title": "3 startups spearheading AI growth in South Korea",
       "excerpt": "According to McKinsey & Company, at least 70% of businesses worldwide would have adopted at least one type of AI technology by 2030. However, South Korea aims to be one step ahead of the rest. In line with its national strategy for artificial intelligence,",
@@ -1157,6 +1114,48 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-insilico-medicine-launches-trial-for-ai-discovered-drug.md",
+      "title": "Insilico Medicine launches trial for AI-discovered drug",
+      "excerpt": "The artificial intelligence-driven drug discovery company has dosed its first healthy volunteer in a trial for a candidate to treat idiopathic pulmonary fibrosis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outsourcing-pharma.com/Article/2021/12/15/Insilico-Medicine-launches-trial-for-AI-discovered-drug",
+      "originalUrl": "https://www.outsourcing-pharma.com/Article/2021/12/15/Insilico-Medicine-launches-trial-for-AI-discovered-drug",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/insilico-medicine-launches-trial-for-ai-discovered-drug/13097532-1-eng-GB/Insilico-Medicine-launches-trial-for-AI-discovered-drug.jpg",
+          "width": 750,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outsourcing-pharma",
+        "domain": "outsourcing-pharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -34,6 +34,36 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Autonomous Driving Start-Up Wayve Bags $200 Million From Microsoft, Virgin and Baillie Gifford"
+    excerpt: "London-based Wayve has been backed by a host of big name investors in a funding round that brings total investment in the company up to $258 million."
+    publishedDateTime: 2022-01-18T00:38:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/business/money-report/autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford/3110171/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/business/money-report/autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford/3110171/?amp"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/business/money-report/autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford/3110171/?amp"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 62
+    images:
+      - url: "https://media.nbcphiladelphia.com/2022/01/107002167-1642416708532-Alex_Kendall_CEO_2_002.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "UK self-driving startup Wayve raises US$200 million to scale up technology"
+    excerpt: "LONDON: British self-driving technology startup Wayve said on Tuesday (Jan 18) it has raised US$200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
+    publishedDateTime: 2022-01-18T01:10:00Z
+    webUrl: "https://www.channelnewsasia.com/business/uk-self-driving-startup-wayve-raises-us200-million-scale-technology-2441826"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 37
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--dpfl6nPT--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2022/01/18/wayve.jpg?itok=LCo8ldiO"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "busaUJr6jzXBcCJJqHRlWukY4KkWfV+vo7fW9FmjUOUCP2F8DG2M5LU9dnb87bJo4ynb7Z59x0Ixiw+t70042Y+5+zDtXsC5tpQ0PRoULejl1b1Fgb5yJScNoTax6UC638iH8FsniWqkT+qmBpoMb1333qJUhaCDVhdy5nZKPYfYzfaD6YNCbOh/plFvGUk/FGCnT+88Y6nxlr091TI5RmxvYOfrznVZsZ6T5RdOomSheEKWmah8LJVAiikBeT+Tjs4wS2P3oMcWXl0hC2K3Yce7TAEPZMlDmjjgEetVINdExhGrnQz0Y81Fcwxehl/tadwTEDBeYhcpE3WEcW4nGAElHXvUnIaYEPKNx7JxWTI=;znGBKtwCWgdCM8dwGSGpgQ=="
 ---

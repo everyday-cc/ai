@@ -2,27 +2,29 @@
 category: news
 title: "Send in the clones: Using artificial intelligence to digitally replicate human voices"
 excerpt: "Thanks to advances in artificial intelligence, it's never been easier or more affordable to make a perfect facsimile of a human voice: a celebrity, a world leader or even a public-radio reporter."
-publishedDateTime: 2022-01-17T23:15:00Z
-originalUrl: "https://www.wbur.org/npr/1073031858/artificial-intelligence-voice-cloning"
-webUrl: "https://www.wbur.org/npr/1073031858/artificial-intelligence-voice-cloning"
+publishedDateTime: 2022-01-18T01:18:00Z
+originalUrl: "https://health.wusf.usf.edu/2022-01-17/send-in-the-clones-using-artificial-intelligence-to-digitally-replicate-human-voices"
+webUrl: "https://health.wusf.usf.edu/2022-01-17/send-in-the-clones-using-artificial-intelligence-to-digitally-replicate-human-voices"
+ampWebUrl: "https://health.wusf.usf.edu/2022-01-17/send-in-the-clones-using-artificial-intelligence-to-digitally-replicate-human-voices?_amp=true"
+cdnAmpWebUrl: "https://health-wusf-usf-edu.cdn.ampproject.org/c/s/health.wusf.usf.edu/2022-01-17/send-in-the-clones-using-artificial-intelligence-to-digitally-replicate-human-voices?_amp=true"
 type: article
-quality: 30
-heat: 30
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: WBUR
-  domain: wbur.org
+  name: Health News Florida
+  domain: usf.edu
 
 topics:
   - AI
 
 images:
-  - url: "http://media.npr.org/assets/img/2022/01/14/mark-seligman-and-chloe-veltman---chloney-demo---credit-speech-morphing_wide-ab300712e47dd0f417ef7cd185b03db95502efaf.jpg?s=6"
-    width: 948
-    height: 533
+  - url: "https://npr.brightspotcdn.com/dims4/default/98ac2c2/2147483647/strip/true/crop/2508x1545+119+0/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F01%2F14%2Fmark-seligman-and-chloe-veltman---chloney-demo---credit-speech-morphing_wide-ab300712e47dd0f417ef7cd185b03db95502efaf.jpg"
+    width: 880
+    height: 542
     isCached: true
 
-secured: "v2IceU21qRgQJwjVlQVFxytFcZBfo+U+auvx3ouYDAP3RKvBsKn4GRKj6Vbtj2SLY6SxYFLiYbqF9QuBCSWMeKgmzVmu36BAbuTxhD87xOF5eYTAyZ8JpH5Db9R4l6LMoQe86DraKmgAQj1ulnUJYy/g2Iz2wmA+N12a6zu9/BtFuD87TT96Q4oxRjaR4/Pv/Sp+3AN+ZvIHt7xNmyIQ786oEQSa4St0I2Xz3rzhaTvvAdse00k6EtQvwMnls0wPPV6NITHN98KzAmv6jsClCmGfis+IinNP9CsqXtFA4XgXN/K1471c+5XqGXndcFZiKqQkOOesAXid+75yN5bpFD3R2wI90q6bv+ITAfkff5c=;rJkQ0JhtbMyhs0mY/u80dA=="
+secured: "a6bboBwC8VCj0VzqGOt+FKBSq/7gXMMVYbp5iJ9ZAT3kZiqDwMuJn9eBEcwXDzvW1M+UV7iO8sIv551TvO45wknDf4fg4rcb7JMbmv8YVqMAb/mmsyuGQKKIOeHL/eZLxEximZ5j30vGZUAF8deCsabS7csuXMD/BWUlBnxqIzsCxMYFZIy0s6YvegpYbiqRo9+WsiLeRdvp5I7TSIOppZ6Ltkb+HCaZnCd20ZAbEhrWYsqPaoVvuAXdtXgRKdDkpgUrylFr+vO+KBAVTFoIJwBonl/OO3NcTjaLJhIyoycctnPKL/13yuZHBIPvRQt/JhepvbFD/i9+IihU2XZ3gNWFJZW1UjFUukUOIymugMc=;I4HHXTT7e/huWwEm0JzvgQ=="
 ---
 

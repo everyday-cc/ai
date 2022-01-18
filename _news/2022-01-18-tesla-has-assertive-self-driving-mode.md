@@ -119,6 +119,22 @@ related:
         width: 1000
         height: 567
         isCached: true
+  - title: "Tesla Software Rival Calls Full-Self-Driving “Worst Software Ever Sold By A Fortune 500 Company”"
+    excerpt: "Tesla has become a love it or hate it brand for lots of car people. There’s no questioning how impressive some of their products are but Elon Musk tends to push the bleeding edge of technology like no other auto boss."
+    publishedDateTime: 2022-01-18T00:17:00Z
+    webUrl: "https://www.carscoops.com/2022/01/tesla-software-rival-calls-full-self-driving-worst-software-ever-sold-by-a-fortune-500-company/"
+    ampWebUrl: "https://www.carscoops.com/2022/01/tesla-software-rival-calls-full-self-driving-worst-software-ever-sold-by-a-fortune-500-company/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/tesla-software-rival-calls-full-self-driving-worst-software-ever-sold-by-a-fortune-500-company/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 46
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/01/Dawn-Project-2-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Elon Musk 'trash'-talks software CEO's Full Self-Driving slam"
     excerpt: "Green Hills Software CEO Dan O'Dowd has taken out an advertisement in the New York Times that claims Tesla's Full Self-Driving system would kill \"millions\" if every car had it."
     publishedDateTime: 2022-01-17T22:36:00Z

@@ -2,40 +2,6 @@
   "page": 66,
   "value": [
     {
-      "path": "_news/2021-11-24-artificial-intelligence-tool-predicts-treatment-response-and-survival-in-small-cell-lung-cancer-patients.md",
-      "title": "Artificial intelligence tool predicts treatment response and survival in small cell lung cancer patients",
-      "excerpt": "Researchers at the Center for Computational Imaging and Personalized Diagnostics (CCIPD) at Case Western Reserve University have used artificial intelligence (AI ... approaches to diagnose and predict therapy responses for various diseases and ...",
-      "sourceUrl": null,
-      "webUrl": "https://case.edu/medicine/healthcounseling/about/newsroom/artificial-intelligence-tool-predicts-treatment-response-and-survival-small-cell-lung-cancer-patients",
-      "originalUrl": "https://case.edu/medicine/healthcounseling/about/newsroom/artificial-intelligence-tool-predicts-treatment-response-and-survival-small-cell-lung-cancer-patients",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Case Western Reserve University",
-        "domain": "case.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-23-build-mlops-workflows-with-amazon-sagemaker-projects-gitlab-and-gitlab-pipelines.md",
       "title": "Build MLOps workflows with Amazon SageMaker projects, GitLab, and GitLab pipelines",
       "excerpt": "Machine learning operations (MLOps) are key to effectively transition from an experimentation phase to production. The practice provides you the ability to create a repeatable mechanism to build, train, deploy, and manage machine learning models. To quickly adopt MLOps, you often require capabilities",
@@ -1104,6 +1070,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation.md",
+      "title": "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation",
+      "excerpt": "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
       ]
     }
   ],
