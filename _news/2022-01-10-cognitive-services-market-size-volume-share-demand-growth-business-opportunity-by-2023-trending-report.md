@@ -6,9 +6,6 @@ publishedDateTime: 2022-01-10T12:45:00Z
 originalUrl: "https://menafn.com/1103514261/Cognitive-Services-Market-Size-Volume-Share-Demand-growth-Business-Opportunity-by-2023-Trending-Report"
 webUrl: "https://menafn.com/1103514261/Cognitive-Services-Market-Size-Volume-Share-Demand-growth-Business-Opportunity-by-2023-Trending-Report"
 type: article
-quality: 21
-heat: 21
-published: false
 
 provider:
   name: Middle East North Africa Financial Network
@@ -19,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?957437"
-    width: 375
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?525799"
+    width: 443
     height: 250
     isCached: true
 
-secured: "TZTOXwDT+7l5PwtAHh8iOaA8MBjGsPX93rwgggcSgvtI5ePYAa8C1mJItdmoYnJsVaDCyOBpR1Q80Ln70AsDNcq3OriMo+P24fg1gp4qsf/1sUX9M4tYQWx627Yr4r3OGBTJMDdHBG8ei0bczYesIRigN/sMft49tNQ03yCIu0qZux0HGiG93AYYiaCeIrBH8bdg8WdoZ/ztF4ZU46L84OPmdrg7OF3tRpBEfOT+Cr3Y53CVVkNudQL6H3VEJLnZqCCOl0o2R3uzYzjTWkiT5Gx4iqIjxwS7bw06/VXbXIhJYDk1SI8ADO2oKiuwgyChHkjy8SATW6ma+83FV4N83d4wttaoLjwYDJ7MTkFL3Zk=;0oaOIHReSRvSrDugTldYZg=="
+secured: "MuWKoCCA00Wl6+e+i8gccoTRWkhOADRFoVASlnNwy5RfzRvJ4KjBifOFgstkyBuMLZkzUwpJYGIpn4tju9+2iHzGKz+VZSwj3ZmAq4DiVWY7XR796LyWbkx8+pVJ/2JtUdLSvp98qp00WKnzmZbr3tw5BfB7rI9d1LVHV4s+KmHI6+AJIU977S97sTrSmzO2gZiyhkaNcWmFo0WV0hTTrF4bQPahx3OBS+yJ0Q5BMK2vOQlm99UQv678MWkHxSQVsj/n++VmIE+4XHyCzl8jvUo7WzbcyQKL/3H8wa6+N65qN/wwdU+K8CTBq0VEz9G7isjDPyAKFYlE86zpMfOZeQOLBBuE+XsiOpLWGcCjnAw=;mmWxi1IgGt+atuQ43T+fXw=="
 ---
 

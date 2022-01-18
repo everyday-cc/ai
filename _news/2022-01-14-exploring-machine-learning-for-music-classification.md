@@ -7,7 +7,7 @@ originalUrl: "https://github.com/Jaykakkad82/music-classification/blob/main/READ
 webUrl: "https://github.com/Jaykakkad82/music-classification/blob/main/README.md"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Blended Learning Will Be the Way Forward For the Education Sector"
-    excerpt: "Blended learning or a balanced composition of physical and digital learning has now become the ‘New Essential’"
-    publishedDateTime: 2022-01-13T08:53:00Z
-    webUrl: "https://www.entrepreneur.com/article/412942"
+  - title: "New algorithm for classification of skin lesions - deep learning algorithm with improved diagnostic accuracy"
+    excerpt: "Dermatologists typically classify skin lesions based on multiple data sources. Algorithms that fuse the information together can support this classification. An international research team has now developed an algorithm that classifies skin lesions more accurately than previous algorithms by using an improved data fusion process."
+    publishedDateTime: 2022-01-14T17:04:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/940222"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 71
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1642064172-Myproject17.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
 
 secured: "CMo6nI8UaO8NsR+td5KlVSo8HGbWJUrX4UBiQ0A3eT3ofwMtPW90O6oJJBjZZQyn9tShaHLktQVN8CQTNis/fZpMfBJrcttn6EOSy/Ubu+vdwxZESuYqlnEevCLK6V9qkGELS/xPY8S8ufRjiUVZSN5wdU4jZxnEbRBJ4wuxLNoN+ldl6iG4zDSxjY63YWsRg5Z4V/34yWhgrBDDpZKJPHu1LcxI0IK8qQ2gsgR1f2pStEwCkQAf9Xnq5KtUgDEtys0vfWW6OElKT2YIU8eaFzY3r5c5F56hl3VvnqEh8V1rtlmsmE+J8ZVcT5GVe29esn/mbJIF2cwh5MlxFCpH7shpQGCxlOh3IN2hvGEKx7Y=;m3vReMRji3qn2I/w6CDj+g=="
 ---

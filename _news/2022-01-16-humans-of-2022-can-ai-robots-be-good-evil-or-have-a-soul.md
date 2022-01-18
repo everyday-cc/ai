@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesunion.com/news/amp/Humans-of-2022-AI-robots-are-bri
 cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Humans-of-2022-AI-robots-are-brilliant-can-they-16742741.php"
 type: article
 quality: 76
-heat: 77
+heat: 76
 published: true
 
 provider:

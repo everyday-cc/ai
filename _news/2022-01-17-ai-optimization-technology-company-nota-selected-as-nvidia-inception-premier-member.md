@@ -71,7 +71,35 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Lenovo expands edge computing portfolio with AI-focused Nvidia GPUs"
+    excerpt: "Lenovo’s latest addition to the ThinkEdge portfolio of edge-computing devices packs Nvidia GPUs with artificial intelligence (AI) capabilities into a ruggedised design that’s roughly the size of a laptop."
+    publishedDateTime: 2022-01-18T00:33:00Z
+    webUrl: "https://www.arnnet.com.au/article/694472/lenovo-expands-edge-computing-portfolio-ai-focused-nvidia-gpus/?fp=2&fpid=1"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 37
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/edge-computing-100908672-orig.jpgautowebp8570"
+        width: 472
+        height: 315
+        isCached: true
+  - title: "AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member"
+    excerpt: "Nota (CEO Myungsu Chae), an AI optimization technology company, announced that it has been promoted to Premier status in the NVIDIA Inception program. AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member NVIDIA Inception nurtures cutting-edge startups revolutionizing industries with advancements in AI and data ."
+    publishedDateTime: 2022-01-17T23:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=600909"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 31
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
-secured: "d5kJ6GDQ7n5nThBNoFGcRfV+R16IkNYMN0Y4otmLjVV42syPBIz65u5bq7HRo6ZBNcA5HoaVxcT4vah0/GAQaXfo+vUcGtkwBkNOFPvDgNUX048XKKXxXLVRsSJDMQ14y9SP1o0f24u/wq2uaxFE2+AiNqRH2TVfaK6m06u7sFX8doIzRDh5zvKAJJOB1Hkrix3joSKf1adkIQqeLrUYZaapDlSeII2NJwqQ3tjRfJflQ1RZxs2mv+zjRSWpedAuehp8PPzeSeX714tLQ7rGEq7WI/LmF4AMIAqbmQGjKfMwwu13/R6FBoFjFu0PoU47S8igm3xm331IUuw7oHVcxpybjjR1iu+2jtqOXAZ4X5Y=;pyz2rYFZOMkAp3qS/x51Dg=="
+secured: "JNtJtjcOjqESFkE74TEea20aOZSnqlmJsq1DbwlPLDmLjAb92m8qBn6QB/exGWCJtPDdXypOPy5P2zdOfsst9xL4mLMcu0RTBlxLlI2cc63IA2jcd/S++e4r/F5eLW0lSsUJgHKH24BZDG3Ke/7lGVONbtO8joI+vmkFo3l7Uy0joex5qikz/WS8kRXl4tzojZ7hS3kZMMeGX+w/KCbFo82thkdgxlvZfilZxNlMNjwr6qNgJr1LqFjDFHOAqN981uHYEqZn01CO8tqOtjhLwHeamjuICT3vkBIZWpoSK1BfGyofP7Q52NUsUCmc+aCgiRPOVKtmrjvUkghDVEWLmjXPm5oLXuGgxb/DHvgSocm0RwDi2rRDZYIU2ZENKQvCKHY+w7DNkE1htSOj7qI+BvfR0N9fs3OfEq4g1HZZKTGH1hDMzmRxCHxmwPQehsE9AtTdfoYYElgtz1nkUJHudzv9RGH4ALg3+HHioN8oiD/zorA++5aJRG7h4FCWtfUVWkxLh6vfgjR4Wpz3s+k6IQ==;nY2ZFgpoy7c1UloigBXT7A=="
 ---
 

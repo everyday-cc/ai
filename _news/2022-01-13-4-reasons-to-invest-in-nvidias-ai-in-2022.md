@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp"
 type: article
 quality: 69
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -66,6 +66,34 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/10/edge-computing-100908672-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Lenovo expands edge computing portfolio with AI-focused Nvidia GPUs"
+    excerpt: "Lenovo’s latest addition to the ThinkEdge portfolio of edge-computing devices packs Nvidia GPUs with artificial intelligence (AI) capabilities into a ruggedised design that’s roughly the size of a laptop."
+    publishedDateTime: 2022-01-18T00:33:00Z
+    webUrl: "https://www.arnnet.com.au/article/694472/lenovo-expands-edge-computing-portfolio-ai-focused-nvidia-gpus/?fp=2&fpid=1"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 37
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/edge-computing-100908672-orig.jpgautowebp8570"
+        width: 472
+        height: 315
+        isCached: true
+  - title: "AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member"
+    excerpt: "Nota (CEO Myungsu Chae), an AI optimization technology company, announced that it has been promoted to Premier status in the NVIDIA Inception program. AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member NVIDIA Inception nurtures cutting-edge startups revolutionizing industries with advancements in AI and data ."
+    publishedDateTime: 2022-01-17T23:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=600909"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 31
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
 
 secured: "Uax0W7ZKxrkuXJbEdxKPS+mkJDou+jTwYnrQ4BXIsSyIQYbi9fWAvVJ6jMZwqFsN5kZZXE/OFugVW23woxhpc7Q+XwooPLo7r72UxepScBNlkLE+j0qBVRuidjfKZ932/kzpyI0NfNJ0sYYQsygGLvX6Q7qYfzoxA37bT5S+SV4E/MIa7zoNLFFnKT6izdoNPYJnWCkPuDtho+PAZN3DSuDcy7FFsV6/QYqgG3dugki83LtkV757RTRgQddCFBjEM0nLFuzmElnVeEmYaQ2zsMswJY7CmzovQvZPl2EyPu2KHfv1LufpPsYvOx2RA7/ntnbo+B86x2PDSuXrndz6w1X+XDjw+jCWwxNDi5DL3vPtYogYqwsZ2s58TglfO49/1fSqHFYusD9Ne9xPJkoKoUzzLutVhtISErcV7/AMTS2Cuaaf//RAqNQOB7ihBpUrrssJRLwcdG8wRq6WKfoTO+/sXUoCt8ZHuoneZHv+61TiNC3SJS6xruOekba52Qmkh7BEswcAIHYsJ9I+EW62dg==;M3UOJJXM97m207DSCnwX5A=="

@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Upstart: A Buy Rating For This AI-Based Fintech Winner In The Making"
-    excerpt: "Upstart's superior AI-based model brings strong value proposition to consumers and bank partners. Read more to see why UPST is a Buy now and my PT."
-    publishedDateTime: 2022-01-13T07:06:00Z
-    webUrl: "https://seekingalpha.com/article/4479438-upstart-upst-fintech-winner-stock-buy"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4479438-upstart-upst-fintech-winner-stock-buy"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4479438-upstart-upst-fintech-winner-stock-buy"
+  - title: "Saudi fintech joins battle for US retail investors"
+    excerpt: "RIYADH: Saudi entrepreneur Nezar Bakhsh has joined the battle for US retail investors after launching a financial technology startup that sells stock trading advice to traders. His Quant Alpha platform offers artificial intelligence-powered software for investors,"
+    publishedDateTime: 2022-01-16T15:18:00Z
+    webUrl: "https://www.zawya.com/uae/en/business/story/Saudi_fintech_joins_battle_for_US_retail_investors-SNG_278890775/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_278890775/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_278890775/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
+      name: Zawya
+      domain: zawya.com
     quality: 59
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1283432364/medium_image_1283432364.jpg"
-        width: 768
-        height: 567
+      - url: "https://images.zawya.com/images/cia/zAmp/210516074158XLWJ.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Robo Inu Finance aims to create payment methods using the FinTech industry"
     excerpt: "Robo Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial"
@@ -86,20 +86,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGKOimwmNACFA/article-cover_image-shrink_600_2000/0/1642411919611?e=1648080000&v=beta&t=7AKEop4kRCWyDlqRVN6TIg658ElusU9uekw2RWiehs0"
         width: 750
         height: 554
-        isCached: true
-  - title: "Road to 2022: Setting up an AI-Automation consumer service model to keep up with the FinTech advancements"
-    excerpt: "Shefali Khalsa explains how setting up AI-Automation consumer service model can help keep up with the fintech advancements in the industry."
-    publishedDateTime: 2022-01-13T10:25:00Z
-    webUrl: "https://www.socialsamosa.com/2022/01/road-to-2022-ai-automation-consumer-service-model-to-keep-up-with-fintech-advancements/"
-    type: article
-    provider:
-      name: Social Samosa
-      domain: socialsamosa.com
-    quality: 22
-    images:
-      - url: "https://www.socialsamosa.com/wp-content/uploads/2022/01/8.jpeg"
-        width: 800
-        height: 450
         isCached: true
 
 secured: "d+b4KMlyPaKyLIf70QVy/xPkXCzG3w2p2cn9qwrKFJCLcbwcP7vPGAFLzMTXjJqc6ww+nBwXWJ7fEZxUZBrKb4pyH3ElFeOZOtKm1Zz9UMVuu8lNP5o74YlI8Y7w0zr/cOJc55b/83Y4mRsU5bXosIti5k+fyEwhba0VxpZ+sVDB+qks2LvfLmTB4TfxDWX4XNMV0LRzuXlOyyEzWW9zW0UYwGXQQHzAN6HMKHGHutUWlHCoEiGCfz5s4dlEfM2b7jufl82aMusLbgdvYXVGnm94bvFBrBsSFByZGrB79IrdXGmYRyjf+HQukrxQYJAnh0FGclrPGTGK2xOyy/uBtk7zo21wv8rdA4MJGXEr8EVTOBfaMGQQO1FDQUMNFgIZ12ntSfoajrXQBVU6R8qjhFklzR7/lISmlQ2jCuys8e8tuI6TXA2906127XcD4ADqCOCVa9GLJtqi65yd8sMeJIIa3YRY/R8KWggzbdmOvNALDjrtV7QfW3M1MGvFjTmN8fMqQtpDdYTMiYPJZnj9Ag==;2XkcGM+fcXt5ySf9131HBQ=="

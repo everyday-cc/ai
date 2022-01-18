@@ -8,8 +8,8 @@ webUrl: "https://www.cbs17.com/news/investigators/with-surge-of-online-buying-re
 ampWebUrl: "https://www.cbs17.com/news/investigators/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/"
 cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Sales
+  - Facebook AI
 
 images:
   - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/01/shopping.jpg?w=1280"
@@ -26,6 +27,6 @@ images:
     height: 393
     isCached: true
 
-secured: "b56AQs1cybs9sgvw5QIuYYP6YoBqXyYx4BKPe6zHier14k7Ftzw+r0y/05W9FBqO4dz3i9XjuBKgbgOnNMDBeDu0q12eTWNSoBt5S+keGOGeAdhdRGM+gAapbD3lFBUg+a4IO0tk4qMYztiTW9yAGBw4oZk3sEPjk0K8jqIPNTbcfxEHAjWG+ccXN2VJwl9roVnZedd7yJoiU/2DDRkj4hcWSSXZ0iA7djZljDPMJ8U4l/CdPOgwuWA2yY1sI0YfNoitIjQNaNTl54Ryx8waBo3iLSVweGWweNEYNojMIf+aiVZ2n5VPdXkKYs8IZMqJEwK9+LyCYu3K6IHUjj9EcaGdJ5p+LlBbxyw1Xg0z9NE=;wpPIMQM+BkkNe1oI9pgTEQ=="
+secured: "1ml+5P0oSCcu2f7xZ8FrjkaiDtlmwIacX3WcR/ZTQ0VDsb4J7TnVtfdHo9Pm7QN2T2u4yWH13zecsM9UyPkuI9dbcakPmvNPiDz79NgGbyVqCHzRoCwXM/NOpbFMlgPNUF/UpMJeIMhjqeVQH87t9gI1KXTBXzYAiASMKRoS2Ah9V27saXsjmCTpN9oG0kwAtGHzTbidpC8wk9wPmxd0yAEjeRQIitu4g/5ioC42v9eanLiCZD2u5WzmI3mDUUiQezCtYFi/PJCb3tSDpkb8RSIhrUzxh3qSv4+nF45HmYjV9LEb3WW3u7vxCHvpg7PAiaZjn8TGde8XXTcOw5p/hxoH6leF5ISn86PPT379BMBrgeIAEHlLIfCqf3/zm8AOnaIE1KhW7Y4i0eWVyVLsRCa1wxqEY+L3Gvdg55e+jqRejKf2tGZughAzOLF8fdR6uh7zb4leu+MFDN/Uqm8GqxqxSYX5dAQmZ7AJI5nQYYKjhTWvmQ9NZ9UpxrgB/DMGHIQvATYYXCNtUiXlkGv2Uw==;ZynNXQDEBZ4yGv1HJAt0iQ=="
 ---
 
