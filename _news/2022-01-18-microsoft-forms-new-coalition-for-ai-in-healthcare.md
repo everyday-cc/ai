@@ -7,7 +7,7 @@ originalUrl: "https://www.healthleadersmedia.com/technology/microsoft-forms-new-
 webUrl: "https://www.technologyrecord.com/Article/microsoft-forms-new-coalition-for-ai-in-healthcare-128027"
 type: article
 quality: 171
-heat: 231
+heat: 241
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "How Microsoft just got into LiDAR Free Self-Driving AI"
+    excerpt: "When I was doing my research on the AV sector, one startup stood out to me as working significantly on Deep learning of autonomous vehicles and that company was Wayve. So when I woke up this morning and found Microsoft has invested heavily in them,"
+    publishedDateTime: 2022-01-18T13:32:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-microsoft-just-got-lidar-free-self-driving-ai-michael-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHRaaVA8wVu0Q/article-cover_image-shrink_600_2000/0/1642511162101?e=1648080000&v=beta&t=hE4DM9zx6agsxEuhKcAEA187D5GneGkaViy9_8VaUcc"
+        width: 600
+        height: 319
+        isCached: true
   - title: "Microsoft calling for UK AI/environmental startups"
     excerpt: "Microsoft is on the lookout for UK startups to join the 2022 AI for Environmental Sustainability Accelerator. Run in partnership with The Met Office and Social Tech Trust, the programme aims to attract startups using AI as part of a product or solution idea that tackles environmental challenges,"
     publishedDateTime: 2022-01-18T01:20:00Z
@@ -70,19 +84,19 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "New coalition aims to accelerate responsible AI innovation to transform healthcare"
-    excerpt: "The Artificial Intelligence Industry Innovation Coalition (AI3C) leverages the collective brainpower, experience and expertise of the Brookings Institution, Cleveland Clinic, Duke Health, Intermountain Healthcare,"
-    publishedDateTime: 2022-01-14T00:50:00Z
-    webUrl: "https://medcitynews.com/2022/01/new-coalition-aims-to-accelerate-responsible-ai-innovation-to-transform-healthcare/"
+  - title: "A new health care AI coalition & Google lands a big client"
+    excerpt: "In the latest edition of STAT Health Tech: a new health care AI coalition launches, Google Cloud lands a big client, and telehealth companies steer clear of abortion care."
+    publishedDateTime: 2022-01-18T15:52:00Z
+    webUrl: "https://www.statnews.com/2022/01/18/health-care-cloud-google-va/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 48
+      name: STAT
+      domain: statnews.com
+    quality: 39
     images:
-      - url: "https://medcitynews.com/uploads/2018/06/GettyImages-865552594.jpg"
-        width: 788
-        height: 443
+      - url: "https://www.statnews.com/wp-content/uploads/2021/03/GettyImages-908368194-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Perth start-up scores key role in Microsoft’s ambitious cloud project"
     excerpt: "Tape Ark will transfer UK Meteorological Office data from magnetic tapes to the cloud, in one of the biggest ever data migrations."
@@ -113,6 +127,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ZIR+Wkwoc15HoolurJKTuqXTdwnybHnkJb/F6AaLdjtt1lzT6Zar3KJ+B4Xzvab0azJXMwAf2CO8axGymomNWJY24GB/of66kumG53l8JZ816/KtIUCtkGv050IONbX7Mrz1T4774Cbc2NxwgGnVAQdQYH/DdLpEsfQ8RnQdWubpaAnRG0P/Ps70YsJuZaX9dAEBCyxb4NolrysyVyKnaFbbbk6XMd63OgqDVSoX2Vmrq6Z/NsJDADb7br2DiAR7iW4G9+ok3hI8qB1KNAqepFjTLFBt//NT9N5C9M7AuY6tGkgz1Va/tXFQuMqnMaWa3ZciccxOlbJ4rIG+7DUyzTMQKoiVFFAqPufDkdqqubM=;TJk8TNmOwTQjvv0B3JgzxQ=="
+secured: "I8oBJir2EDV0sHlXlCYfL1m7818GKdLT7P1KdMVHn8lk/QAqcbTLiYxmuaoNHYLkjxvoRmT2j+XtYwcEktEeXknKpwDs2ZFrPySKGz/sBdWdgd69V0asRdkH5YXpsbAglwfAi/ZD/pDYVJfZFeSrSLoYgZ6mq/Fhtgeoctxw9fzDklGoiVN44sQQeg4kBR8dvEi7RhEwiFIb/zanAQu1Zeox8lhz24/17tgHCC1Ej6jqttTErIRF+uI3MWZpJBmmw94IJIjgGa7NYB8NzKela3UTCfSYAQWcVIB4FSJxygxnf9PaMcwGtWTpZ4B/xuecIeZTS1IGrEY5w7L0pt0Pez43MVpqQDjcm2Zy8rY/YRbaRDqdnfaF2LSgtd2gtFd9;xQ1wH0RiJdM/9aOc+rZ4PQ=="
 ---
 

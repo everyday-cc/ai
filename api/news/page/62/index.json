@@ -2,6 +2,49 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-11-30-behavox-finds-financial-services-fraud-10-times-more-likely-on-voice-platforms-than-in-text-based-communications.md",
+      "title": "Behavox Finds Financial Services Fraud 10 Times More Likely on Voice Platforms Than in Text-Based Communications",
+      "excerpt": "Behavox Finds Financial Services Fraud 10 Times More Likely on Voice Platforms Than in Text-Based Communications. Behavox, which provides insights to protect enterprises and their",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/news/2021/11/30/9501273.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/news/2021/11/30/9501273.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
+          "width": 1577,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-aws-releases-a-machine-learning-enabled-hd-camera.md",
       "title": "AWS releases a machine learning-enabled HD camera",
       "excerpt": "Amazon Rekognition Video, a new computer vision service for analyzing videos in batches and in real-time. The DeepLens video camera’s machine learning capabilities have been built with Greengrass technology. One of the examples AWS talked about at the Re ...",
@@ -1141,57 +1184,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-therapixel-and-ferrum-health-announce-collaboration-to-facilitate-access-to-breast-imaging-ai.md",
-      "title": "Therapixel and Ferrum Health announce collaboration to facilitate access to Breast Imaging AI",
-      "excerpt": "Therapixel, a software company specializing in artificial intelligence (AI) applied to breast cancer screening, announced a partnership with Ferrum Health, the developer of a Healthcare AI Hub utilized by health systems to simplify and organized the deployment of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/therapixel-and-ferrum-health-announce-collaboration-to-facilitate-access-to-breast-imaging-ai-1031008692",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/therapixel-and-ferrum-health-announce-collaboration-to-facilitate-access-to-breast-imaging-ai-1031008692",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1697342/Logo_Therapixel_Ferrum.jpg",
-          "width": 400,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

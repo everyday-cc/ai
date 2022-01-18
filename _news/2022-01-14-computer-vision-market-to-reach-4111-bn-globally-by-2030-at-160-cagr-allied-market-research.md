@@ -6,9 +6,6 @@ publishedDateTime: 2022-01-14T00:38:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-850701489.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-850701489.html"
 type: article
-quality: 25
-heat: 25
-published: false
 
 provider:
   name: PR Newswire
@@ -24,22 +21,6 @@ images:
     height: 1046
     isCached: true
 
-related:
-  - title: "Image Recognition Market Expected to reach $86 billion and CAGR of 21.8% by 2025"
-    excerpt: "The global image recognition market was pegged at $17.91 billion in 2017 and is expected to reach $86 billion by 2025, registering a CAGR of 21.8%"
-    publishedDateTime: 2022-01-14T02:39:00Z
-    webUrl: "https://menafn.com/1103537226/Image-Recognition-Market-Expected-to-reach-86-billion-and-CAGR-of-218-by-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?302108"
-        width: 443
-        height: 250
-        isCached: true
-
-secured: "IPboV1OcIw7U+OwpgTNaIOLrxMOTYgzVPTvUrDl4QSxLCWdIwjNeFF/CaSyi4q3NBG5Yt927Rw6iosQaUaf+U186jwBurjKvyDbbW5LoNijc6fpa2nH3itljoG40fklJe0nt4UIh4DRk3Il95zk5+f1T/cuoYelLE4BinSyj2SBXnKzjdhM7HHu+zkpgTCBhazY5tl015A8s4RYOZdbSBOZB9Og/rIKtLrcqDPSAjQlbQduVPsrwK3qpjK/KOz4rhp1kwFyIOQUnRAkxyeiv3/MWmBJf9PMfTiROwSZrfzCQJckcpznlOQUer7R2W6jyb2i9oxqjZi8KwHz2YhK6L4nDZEe13QohlhXdZJeyCTA=;6opaLCm76+QZblwsN4N6vQ=="
+secured: "we2oCqFhw1XiMZkGA1cHwvfwol+xsKk30XjrtXza5m7zgvB7SXEIrP2RF6G2FsevRO4uqasHAJofm5A6TpWxcQxyQRyAhs6L+LAB3shlKM+cu/JytFRLJEB+H2gYuI61orDKGzHID8+8aFxr7uSmC+3WWun9RW4M8sHgRdbgTw5UljBbOFZ2b4NlSof2KvrBgInSdhO9rxV95akTkhBaJqHe1neFyr7l0RM5iL/gK1v+ot9qbBoTTP8WLEjoM04gVm1gCa93E/F6Y2PZfE7dymEHjnEkiyvsy0l/Z1Hl9BaWzEHCPC8ETXuH4nIoNyQIkbqJUUjiMaIehlPsEZ3np3lUD3CicVrbvnQZ5JCvUts=;In18QcLjVXaOOqHmnj1Zjg=="
 ---
 

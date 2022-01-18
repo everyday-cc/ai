@@ -2,14 +2,14 @@
 category: news
 title: "Robot tractors may be heading to a farm near you"
 excerpt: "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ..."
-publishedDateTime: 2022-01-06T03:12:00Z
-originalUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you"
-webUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you"
+publishedDateTime: 2022-01-06T02:32:00Z
+originalUrl: "https://www.digitaljournal.com/tech-science/robot-tractors-may-be-heading-to-a-farm-near-you/article"
+webUrl: "https://www.digitaljournal.com/tech-science/robot-tractors-may-be-heading-to-a-farm-near-you/article"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Autos
@@ -17,11 +17,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg"
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/72fed9039ac52b59566ae93c015c9e2f8182654b.jpg"
     width: 768
     height: 512
     isCached: true
 
-secured: "bQao3VB/H3vkjnkQ0sqnVca6UvUIES93AG/eZLIOoUzlQj02iCHG78vJAYcIXWXmbvBcA2nNGeVzDO71Zsku5/vW5GbRSZP0dsveVnuL8zajhtQBuh7PlpoztMmP5CIsj+MYk7W31bTRDx4YRVXqZ2TedEN2tmPxtGSliwIpde8YMr7U3D5yaQvA3qz/IgIqvTAGRMx7EQnA8PhrBjztVgduLSHlx7wIFLzZY63ziOfrUAyr3HPdujK3QhK1VTd8tnGg1RdgmLCMtRN3+kuioon31HWH1dLBxj71Sv0aVnTwk53Q+rv9c2M/UNGUEoJgKEjlGrIqTMNzQR0oS1kS5sfLlQ9MVXlMjYL+CzCAS7Y=;g18g4t+FswG2kOylSs2rdw=="
+secured: "StRQcew079VklFap8V+5lhSdDpp7q9zk4gIzuxaMVg47KswZy7aqTiCwcxtHyW5LFXTrcDkS2Pfmi6yapwYz2tTkMJcwGkAcRt7/Zp+DzDmi3bBSrBWuVbarxSKGWA+tPNmWw/uHWDrSGlFuzYaSKFkoHeEeDdFTbWT+/CJLXo1appWeAd/XGkB7LD3EeIyBRFAbjBZ0EVRrQBHAvWwKO8xC1s2nskDzWE8vrw+ePn/yVgRUWqRP40R0Dsv63LDXnZoM3n7gThy6+Ye1m38e8+ywCpzPBqL1onjx9NjybFITP9DRn0RRVvqzKqmR2USs87r0iYVscic8GB1SnCHUv7TrmTfZnxFNdZMuUemEIK4=;Ih+ZpYVJrlnMWP29NR3sxA=="
 ---
 

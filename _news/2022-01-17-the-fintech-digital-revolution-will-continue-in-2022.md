@@ -45,6 +45,34 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "What's on the Horizon for Payments and Fintech in 2022?"
+    excerpt: "As most industries continue to navigate the challenges of Covid-19, the payments and fintech sector is vitally connected to the recovery. Some emerging trends can help you make educated decisions about where to take your own company in the upcoming year."
+    publishedDateTime: 2022-01-18T16:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/412074"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1642024362-GettyImages-946055220.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Padar Joins VC-Backed Tax Fintech for Banks"
+    excerpt: "April Tax Solutions targets banks and financial institutions. Jody Padar, CPA, also known as “The Radical CPA,” has exited Botkeeper after three years and joined April"
+    publishedDateTime: 2022-01-18T14:59:00Z
+    webUrl: "https://cpatrendlines.com/2022/01/18/padar-joins-vc-backed-tax-fintech-for-banks/"
+    type: article
+    provider:
+      name: CPA Trendlines
+      domain: cpatrendlines.com
+    quality: 39
+    images:
+      - url: "http://cpatwpe.s3.amazonaws.com/cpatrendlines/wp-content/uploads/2017/12/Jody-Padar-2018-SQUARE.png"
+        width: 513
+        height: 502
+        isCached: true
   - title: "Top 5 Fintech Trends to Watch in 2022"
     excerpt: "An astonishingly rapid rise in demand for innovations after the COVID-19 outburst in early 2020 has been a reminder of the power technologies have over the whole world. Fintech is not an exception."
     publishedDateTime: 2022-01-14T08:03:00Z

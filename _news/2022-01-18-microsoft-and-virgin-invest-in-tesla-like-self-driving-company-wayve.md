@@ -56,6 +56,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "How Microsoft just got into LiDAR Free Self-Driving AI"
+    excerpt: "When I was doing my research on the AV sector, one startup stood out to me as working significantly on Deep learning of autonomous vehicles and that company was Wayve. So when I woke up this morning and found Microsoft has invested heavily in them,"
+    publishedDateTime: 2022-01-18T13:32:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-microsoft-just-got-lidar-free-self-driving-ai-michael-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHRaaVA8wVu0Q/article-cover_image-shrink_600_2000/0/1642511162101?e=1648080000&v=beta&t=hE4DM9zx6agsxEuhKcAEA187D5GneGkaViy9_8VaUcc"
+        width: 600
+        height: 319
+        isCached: true
   - title: "Microsoft calling for UK AI/environmental startups"
     excerpt: "Microsoft is on the lookout for UK startups to join the 2022 AI for Environmental Sustainability Accelerator. Run in partnership with The Met Office and Social Tech Trust, the programme aims to attract startups using AI as part of a product or solution idea that tackles environmental challenges,"
     publishedDateTime: 2022-01-18T01:20:00Z
@@ -70,19 +84,19 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "New coalition aims to accelerate responsible AI innovation to transform healthcare"
-    excerpt: "The Artificial Intelligence Industry Innovation Coalition (AI3C) leverages the collective brainpower, experience and expertise of the Brookings Institution, Cleveland Clinic, Duke Health, Intermountain Healthcare,"
-    publishedDateTime: 2022-01-14T00:50:00Z
-    webUrl: "https://medcitynews.com/2022/01/new-coalition-aims-to-accelerate-responsible-ai-innovation-to-transform-healthcare/"
+  - title: "A new health care AI coalition & Google lands a big client"
+    excerpt: "In the latest edition of STAT Health Tech: a new health care AI coalition launches, Google Cloud lands a big client, and telehealth companies steer clear of abortion care."
+    publishedDateTime: 2022-01-18T15:52:00Z
+    webUrl: "https://www.statnews.com/2022/01/18/health-care-cloud-google-va/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 48
+      name: STAT
+      domain: statnews.com
+    quality: 39
     images:
-      - url: "https://medcitynews.com/uploads/2018/06/GettyImages-865552594.jpg"
-        width: 788
-        height: 443
+      - url: "https://www.statnews.com/wp-content/uploads/2021/03/GettyImages-908368194-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Perth start-up scores key role in Microsoft’s ambitious cloud project"
     excerpt: "Tape Ark will transfer UK Meteorological Office data from magnetic tapes to the cloud, in one of the biggest ever data migrations."
@@ -113,6 +127,6 @@ related:
         height: 675
         isCached: true
 
-secured: "N2LAV2csb2nsPDNQsVNBEraCKMCba58yDtDFXR27ZcxBoDZ3YgYiPXESPtJ2eCH5L0nJvDrUVvAe+zgefQySygaBvkeU1FLguEd1BXsVZrCxrebEo+P85SY4hcnsIybvxJGHS0ixsiUOlm1u9MooJqCVn0K4S8p5FcyFJzsoaaZcWaxf+HMElxchj8wjNjGlI+I5eN5s1s6H50OrwBmRRP0S9aTsTk0qV35Y8HMjoddJsElKW4PD8vv0dQdm9RWUEKkfxORCVMmJ/D9b/5GTkrXAEfdi7h0ZW16plr+yyBakyo+0g1TRgiMrDMCsZjaHH+xTamEeej9gpgRGxjLiN6govLi1HeICdqqG9w+3aVI=;0gb+FQVJv3TxHb1ylo/Ecg=="
+secured: "GgVSA7WORE0r5ocImGeFoZFQATz+YASpicdOfKMsUe3pZRGEf4Mj5TFmZRN10NwSbnoFtdCJKsvwpO37hCfsaPJW8KVajgCA6I9QovQprqVPn9pudpyxMXnzCcYlNl47+Q0z7nSbcekwYVuTXZIDVlFHo/Epp96nyweDzE3GrgoLD1xn7V+YVKUWUmIGFqPjBb1bDZxUOElAs4fmNaKc0ERdOyV/4NSWHeK4UWQDCwHzhSRIb5rQlsiXowQ6euRDyDu3fib+q66bVZRtDlC55C2zABZHXbD7DwpD6i96l+iDOjA9ssyjHEQPYl1HVWD6G7mSR7TSsEiktKZ0TRzYKQykudupyNTalOqQ8Wl1M2S0lNpgWxmc2EO2CR445tBBCR6EzEKPfJvypfduTrcIhFUxLVp6PHijjpjqTkWhhN3Q1zj5Vg6KTDqRo7d8vW0FPnZcz+xh0WBvk38HI7WwEPbcE4WtLcVph4EOLBsnNKiuNANiF8kejwsRSaDDSr9Bn9NnhPPXuNDxLRUyJ8LR1A==;aliOeCj0N0Bv/NjvvHO2Rg=="
 ---
 

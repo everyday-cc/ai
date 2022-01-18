@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/reliance-industries-acquir
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/reliance-industries-acquires-54-stake-in-robotics-firm-addverb-technologies/amp_articleshow/88966660.cms"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Reliance Retail buys 54% stake in robotics firm Addverb Technologies"
+    excerpt: "Reliance Retail buys 54% stake in robotics firm Addverb Technologies - The retail unit of Reliance Industries, Reliance Retail Ventures Ltd, has picked up a 54% stake in"
+    publishedDateTime: 2022-01-18T12:16:00Z
+    webUrl: "https://www.siliconindia.com/news/general/reliance-retail-buys-54-stake-in-robotics-firm-addverb-technologies-nid-217886-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 69
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/OL54gS7b.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Reliance Retail invests $132 million in Addverb Technologies; startup to deploy robots across hospitals and airports"
     excerpt: "The fresh funds will accelerate the Addverb Technologies' expansion in Europe and US and enable it to set up the biggest robotic manufacturing facility at a single location, the company said in a stat"
     publishedDateTime: 2022-01-18T09:57:00Z

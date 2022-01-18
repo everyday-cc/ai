@@ -39,6 +39,20 @@ related:
         width: 300
         height: 600
         isCached: true
+  - title: "No let up as Aussies push for federal laws governing facial recognition"
+    excerpt: "A group in Australia, including a former human rights commissioner there, has committed to writing model legislation for regulating facial recognition."
+    publishedDateTime: 2022-01-18T16:22:00Z
+    webUrl: "https://www.biometricupdate.com/202201/no-let-up-as-aussies-push-for-federal-laws-governing-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "qWo6m7/VVqU8lfSC6p2kbCTzFkXq08mJG2VAECqBw0qIit++GRoRhxS7rqdZxIUrOF26H/OitNrInUSIF6B5YAQ1yq7GgVpilQa92uznUWUUvSi0x6HE439Y/lly2N6g/AuxEvkpq6nq2Yqy9q+8LuJ2fXsqktO9FrxgVlNFgCAW1Ef4Odr+xOcIPnv/KDM9cgtYp/hUGDM/arhos6UJGGrVk3hhbZNt8tazzsEY7FfdDE8/pBmceU6rFCZZ+57AdU5lVXLGzIW3xctYi42vQRNjWi5qbXuAPXtEvkPAnUga5sGNfTLO6XEsa+9yAwSWTct7EFm45qjSmeLnRrYbFENuEmSudpb0+vf+ys0mZBenu6BPb27sJwJYvjQSS+T1TMFCrpGBNC4QvjRloesspQmZBf1RaSIegUx7bk6Sc1cZJlH3vTOxJLcUDH4byD9mXpziYPrijd+TbyDOYiSpGt5x7usVMZWgWX4uuAAAwteQ5azPRZHRP8c7OMus0MRqPFwuciLmoy7sIInYBTrO0g==;IGLT2xGf3reNEpUB5X+r5A=="
 ---

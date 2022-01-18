@@ -2,6 +2,48 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-12-23-artificial-intelligence-can-help-avoid-power-outages-heres-how-opinion.md",
+      "title": "Artificial intelligence can help avoid power outages. Here's how. | Opinion",
+      "excerpt": "Personal preparation is obviously important — such as making sure your car tires are in good shape, having a backup home heat source, and knowing where the flashlight is in case the power goes out. But there are also actions that can be taken at a larger scale to be better prepared;",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailyjournal.com/story/opinion/2021/12/23/artificial-intelligence-can-help-avoid-power-outages-heres-how/9001511002/",
+      "originalUrl": "https://www.thedailyjournal.com/story/opinion/2021/12/23/artificial-intelligence-can-help-avoid-power-outages-heres-how/9001511002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/09/22/PNJM/3fe38d84-e1a4-45bb-a705-7cbb713b6494-milida2.jpg?auto=webp&crop=4031,2267,x0,y62&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.thedailyjournal.com/amp/9001511002",
+      "cdnAmpWebUrl": "https://amp-thedailyjournal-com.cdn.ampproject.org/c/s/amp.thedailyjournal.com/amp/9001511002",
+      "publishedDateTime": "2021-12-23T01:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Journal",
+        "domain": "thedailyjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk.md",
       "title": "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk",
       "excerpt": "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”",
@@ -1093,58 +1135,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm.md",
-      "title": "Sayollo partners with Speechly to bring voice recognition to gComm",
-      "excerpt": "Sayollo partners with Speechly to add voice recognition and navigation to mobile, in-game shops via its gComm software",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/",
-      "originalUrl": "https://venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/sayollo-edit.png?w=1200&strip=all",
-          "width": 1080,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/amp/",
-      "publishedDateTime": "2021-12-22T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

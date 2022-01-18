@@ -9,7 +9,7 @@ ampWebUrl: "https://europeansting.com/2022/01/14/were-failing-at-the-ethics-of-a
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2022/01/14/were-failing-at-the-ethics-of-ai-heres-how-we-make-real-impact/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2022/01/b744404607f524183cc48bd943733e2f.jpg"
         width: 917
         height: 611
+        isCached: true
+  - title: "What are the biggest healthcare shifts we’ll see in 2022? Here’s what health experts think"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kelly McCain, Head, Healthcare Initiatives, World"
+    publishedDateTime: 2022-01-18T16:00:00Z
+    webUrl: "https://europeansting.com/2022/01/18/what-are-the-biggest-healthcare-shifts-well-see-in-2022-heres-what-health-experts-think/"
+    ampWebUrl: "https://europeansting.com/2022/01/18/what-are-the-biggest-healthcare-shifts-well-see-in-2022-heres-what-health-experts-think/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2022/01/18/what-are-the-biggest-healthcare-shifts-well-see-in-2022-heres-what-health-experts-think/amp/"
+    type: article
+    provider:
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 49
+    images:
+      - url: "https://europeansting.files.wordpress.com/2022/01/healthcares.jpg?w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "60SMDtnis7CGVNHdBBYMXs6wvhSr9HS4kdlvlyakzNs4VZAKsZ9TIED+rKRsozO0/uh8P+zNpnhJmp+crGyc0f5Ndjl82glVWhoSYOIcNJ7MbZOvHH2yDMzIkmfQhgVKrEKcHpdTBKifQBJd748BzHWJnEvo64yq7yaS9uk3u7SKn+rUi/dlVWpJHtVlGtqL1LZIC6E5YizrMB5vxw2ZsGL/DZ/rUkjhceHxnMv0rMEbclbs1gYkyMvzWk9JBSsaEXTx3ftfmHs1ydxVGyx7wfw3fRXKlHOoMOW2UPrEQJG0splDbP7T55/2RzQRBlTHmCB4sBI0w92Td/cjtqccjZzg2QtHIK0nh0v+Ep8GO++xOFA48cSTfG3nRl+WIKC/dw4NKzFoPEkXLM1d4TgJVdKM9ngKRfDpnyGdNU4euozYYFL+vCwQDcu+zfxevH9QFE07tKK2FjxLiogGOPZ5TIWfq8z7jsKgsiSrzQnpglRV5ed5mVHpzlwUIy/PNqr6Foz6g51z5qYwE3huUY8DdQ==;8RU2iA3vaJG0Sk/Hqybm5A=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -112,6 +112,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Temedica Introduces Permea: First Analytics Platform Integrating Patient-Generated Health Data"
+    excerpt: "Temedica GmbH, a leading digital health and data analytics company, today announces the launch of Permea. Permea is a unique platform providing medically sound analyses and actionable insights to a whole range of questions and challenges arising along the value chain in the healthcare market."
+    publishedDateTime: 2022-01-18T15:27:00Z
+    webUrl: "https://www.dgap.de/dgap/News/corporate/temedica-introduces-permea-first-analytics-platform-integrating-patientgenerated-health-data/?newsID=1504656"
+    type: article
+    provider:
+      name: dgap.de
+      domain: dgap.de
+    quality: 0
 
 secured: "aqWKfdcQ0yEJl+qvIr8OS1dDOKZ+7DQEgxi09WWS1upq7uPZhHF1MA9nrJZXNyyJJ1PuUvoRT8tssjc3eeR/c4wvAmZ84oYdptub6L7+QgVz0qbEOqDL77hwhwy6r2PShpEJDYdEsWIxXahO01QpZ8sn9HuKfUjhkG53oK2RYLZhNAsmrmbUrIRbLuUEZ8BrIqG2+aNMSYkYVAFoHe/9IPzBH2NrinngFYEB+bWDCq3Zue3Y9Juh6KVI2+g0zsfnqoOXBBW/smkkU4cBoJ39WmEiaVGTfv+IdLhnD0je2Y9OLc53YIuotJa8uthsn5hrH/9GmnwqwrgfSGXwy55d1bYd1mSy0bzNHLvZ+wHbyL0IF9YX3B4I2U+q1DGJ6vopeFFDqpglG+jXpDEvrUbBJ0syJ7ct+XCEfgdZ5f1eds4eA830tiDtfexBF9mhbrvrZueHeXJUMxiJObcy1w7+m+l/fXCxzDgwUhNkULPtXM9EVdDWT8PXTbPIWo8FRxnOyLsV8923iYgrYBKtlVh37w==;V2Oj/6NjYtkksbIIJszGUg=="
 ---

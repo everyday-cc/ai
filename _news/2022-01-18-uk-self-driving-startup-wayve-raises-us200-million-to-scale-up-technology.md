@@ -68,6 +68,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Wayve closes $200M for learning-based autonomous driving"
+    excerpt: "Instead of relying on a traditional autonomous driving stack, Wayve is building a data-driven system that uses deep learning."
+    publishedDateTime: 2022-01-18T16:37:00Z
+    webUrl: "https://www.therobotreport.com/wayve-closes-200m-learning-based-autonomous-driving/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 54
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/01/wayve-series-b-funding.jpg"
+        width: 938
+        height: 636
+        isCached: true
   - title: "UK Self-Driving Startup Wayve Raises $200 Million to Scale up Technology"
     excerpt: "British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
     publishedDateTime: 2022-01-18T00:25:00Z
@@ -77,6 +91,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 48
+  - title: "Self-driving car startup Wayve, co-founded by Kiwi Alex Kendall, raises US$200m"
+    excerpt: "Wayve, a London-based startup led by Kiwi Alex Kendall, has raised US$200 million ($292m) in a Series B round to develop its unique take on self-driving vehicle technology. Silicon Valley venture capital company Eclipse Ventures led the round,"
+    publishedDateTime: 2022-01-18T16:00:00Z
+    webUrl: "https://www.nzherald.co.nz/business/self-driving-car-startup-wayve-co-founded-by-kiwi-alex-kendall-raises-us200m/7AI2LFYDGOQJA75KDYS2EBGT3M/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 35
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/FNiO63Ti1KZMxg69U5ZnBMijIn0=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/O3PYP55NV67KRSQDHMERJ5BEBQ.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Driving the next wave of autonomous mobility, Wayve waves in $200 million"
     excerpt: "London-based startup Wayve has raised $200 million in a Series B funding round. Aiming to move the needle on autonomous driving, Wayve is using deep learning techniques to train and […]"
     publishedDateTime: 2022-01-18T10:48:00Z

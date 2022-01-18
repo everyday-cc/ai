@@ -43,6 +43,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Reliance Retail buys 54% stake in robotics firm Addverb Technologies"
+    excerpt: "Reliance Retail buys 54% stake in robotics firm Addverb Technologies - The retail unit of Reliance Industries, Reliance Retail Ventures Ltd, has picked up a 54% stake in"
+    publishedDateTime: 2022-01-18T12:16:00Z
+    webUrl: "https://www.siliconindia.com/news/general/reliance-retail-buys-54-stake-in-robotics-firm-addverb-technologies-nid-217886-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 69
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/OL54gS7b.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "eudEAswFHUGwrCy6uOC3ZQLzU5jSYfeZNkeuJWQQ3s55X7jsAY/ftnBGkWmsGdAKbN8w7xL6kqYEevwlHZzbFo+8ibntl/3Ifej2NbQshLvAgnCHgxwWkA7FHJr2m1EY56vPhj6idyXKQVYNqumecjm0mZ/n81kzb04f64ZEUL9iHIPvoku35/WuTlVeM+p0MR0xyKvWe5IdkUq0APOStT4HwpRox3ji/LzEwJ3w6TnPDsylHuCHIhoLxGBO7ySS/yeyeXpvN3Qck+W5X0TLNwh8gMeyKA5qOnoOpnunbliu0eDN9B3y+3nLV4DqFsuvJC8DdUs+elCbtwJ16RGnLUMGhqFpP1WgkvTDLvmTBgtjcXs9UFVCImngrA14nohDK8Gix1JE/0p5d4ewfCn0zn5A6SNrqjx2t3Gfir/Mb2wZ2dF++WSFVmO4fmnf6C12oMSdm6qMRw3BpOcxhyhbqpcjeJkC6vhV9gzDVScpZnuwl1IPSZj3xrhE5lycfgAQ2gBsf8wntWLUZNd3UmFnmw==;vajDEXF79gNKoJ0YpIc5fA=="
 ---

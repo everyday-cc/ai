@@ -2,6 +2,57 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-12-18-top-5-edge-ai-trends-to-watch-in-2022.md",
+      "title": "Top 5 Edge AI Trends to Watch in 2022",
+      "excerpt": "Edge computing was definitely a hot topic in 2021 with more companies than ever looking at how they can take advantage of data sources that live outside the data center to improve automation and efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.nvidia.com/blog/2021/12/17/top-5-edge-ai-trends-2022/",
+      "originalUrl": "https://www.linkedin.com/pulse/top-5-edge-ai-trends-watch-2022-amanda-saunders",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2021/12/edge-ai-blog-1000x600-1.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-us-sanctions-dji-and-ai-firms-including-megvii-over-alleged-xinjiang-human-rights-abuses.md",
       "title": "US sanctions DJI and AI firms including Megvii over alleged Xinjiang human rights abuses",
       "excerpt": "The US has added eight more Chinese companies, including DJI Technology and artificial intelligence giant Megvii, to an investment blacklist for alleged involvement in the surveillance of Muslim minorities in Xinjiang.",
@@ -1176,49 +1227,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace.md",
-      "title": "MoneyLion to Acquire Even Financial Inc, an Embedded Finance Marketplace",
-      "excerpt": "MoneyLion Inc. (NYSE: ML), the digital financial platform, has announced that it has agreed to acquire Even Financial Inc., the embedded finance marketplace, in order to 'accelerate its mission of providing financial access and advice to hardworking Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Money-Lion.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184355-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace/amp/",
-      "publishedDateTime": "2021-12-17T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

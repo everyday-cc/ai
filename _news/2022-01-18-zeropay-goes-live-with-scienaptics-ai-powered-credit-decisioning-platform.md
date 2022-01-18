@@ -1,27 +1,27 @@
 ---
 category: news
-title: "ZeroPay Goes Live With Scienaptic's AI-Powered Credit Decisioning Platform"
-excerpt: "Leading AI-powered credit decisioning disruptor Scienaptic announced that ZeroPay is now live on its platform. The platform will enable ZeroPay to make very accurate credit decisions and limit assignment in the Buy Now,"
-publishedDateTime: 2022-01-18T13:50:00Z
-originalUrl: "https://www.lelezard.com/en/news-20196073.html"
-webUrl: "https://www.lelezard.com/en/news-20196073.html"
+title: "ZeroPay goes live with Scienaptic’s AI-Powered Credit Decisioning Platform"
+excerpt: "Leading AI-powered credit decisioning disruptor, Scienaptic announced that ZeroPay is now live on its platform. The platform will enable ZeroPay to make very accurate credit decisions and limit assignment in the Buy Now,"
+publishedDateTime: 2022-01-18T14:27:00Z
+originalUrl: "https://www.cuinsight.com/press-release/zeropay-goes-live-with-scienaptics-ai-powered-credit-decisioning-platform"
+webUrl: "https://www.cuinsight.com/press-release/zeropay-goes-live-with-scienaptics-ai-powered-credit-decisioning-platform"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Credit Union Insight
+  domain: cuinsight.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+    width: 792
+    height: 266
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 512
         isCached: true
 
-secured: "f2kKliAKOqhgbqXlUEFFCYj60ELS29A4kdfDl6UksPT8CN7+9Qqwci3JBQkl+IGScgJL0ZQ7+XrGN+b2ESE42w8IoBn+bHmd4lW0zpGpEmLZym5BVz2qmw5oVygpxS4vjdGMUJEDVbu7aH5dS+Q0Q4S04sypImuMJus2MqpWza/GjofXSd4bnMIfZuANydyTWIVor3y14bvswunAxqVuDsP/uRZz63ZZU9qqwDCmSCRbcJhmwsNgsPUbmKe+55NzUMyomkv0XqMfBnLMqd7KIJ/KKnn1l80GueaSYqEb2P6qNnS3pTu3HkFrHA3IICdd3tD2IrF6/RMdwv0T8WUOykW7UunDZgLG9BC1ShYYkHw=;yrOYui5Wfs+6tEjj7qTu2Q=="
+secured: "Y26oevXCABE8NCd3g1AI3MHJE84g0cQjw7QNDeO3w8OcKvy1EVvwLVHmnuOoUlSvppKrVTmbLiZ2BXx3RIBtBkOmxOGpM/AnNR/tNvsxXh2Q2JnEKmh/3dI/R4tEnZ3IUbxjxi6birAL02YYjBMQ0xXbhpFNIUfa3TRYGLSllgl6MJJoesQCXarJEIedyiqBUJafc2XzTcVd6fyVOEo+0zrMlRlFg2cusnh7S4pi8u/L9Mf3vBGtsCNmLSpOwbyU19c2nlatYwp45sN4nrKh5jPDtDAXAV3KkuO6bXi79iPsB3snQkbafTFirvBdqsOB+MrA7BUF2mb24xSke/27iWDWwgrwOelnl+/vJDbvGcg=;aqhmvRnDd/HmgmV8YfPNuw=="
 ---
 

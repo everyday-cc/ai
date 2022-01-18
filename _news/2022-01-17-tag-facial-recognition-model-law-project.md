@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "No let up as Aussies push for federal laws governing facial recognition"
+    excerpt: "A group in Australia, including a former human rights commissioner there, has committed to writing model legislation for regulating facial recognition."
+    publishedDateTime: 2022-01-18T16:22:00Z
+    webUrl: "https://www.biometricupdate.com/202201/no-let-up-as-aussies-push-for-federal-laws-governing-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Ed Santow leading development of Australian facial recognition model law"
     excerpt: "Former Australian Human Rights Commissioner Ed Santow is leading the development of a “model law” for facial recognition technology in Australia, warning the current absence is allowing the technology to be misused."
     publishedDateTime: 2022-01-17T05:24:00Z

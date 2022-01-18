@@ -7,7 +7,7 @@ originalUrl: "https://www.chron.com/business/article/Why-AI-Writing-Assistants-a
 webUrl: "https://www.chron.com/business/article/Why-AI-Writing-Assistants-are-a-Good-Thing-for-16780295.php"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "Career Vision: Companies are increasingly using artificial intelligence (AI) to drive their recruiting and hiring, are you ready?"
-    excerpt: "Kevin Field, PhD, is the Research Director at Career Vision, he joins Lisa Dent on Chicago’s Afternoon News to offer tips and advice for job seekers facing a growing trend of algorithms, not"
-    publishedDateTime: 2022-01-13T23:49:00Z
-    webUrl: "https://wgnradio.com/chicagos-afternoon-news/career-vision-companies-are-increasingly-using-artificial-intelligence-ai-to-drive-their-recruiting-and-hiring-are-you-ready/"
-    ampWebUrl: "https://wgnradio.com/chicagos-afternoon-news/career-vision-companies-are-increasingly-using-artificial-intelligence-ai-to-drive-their-recruiting-and-hiring-are-you-ready/amp/"
-    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/chicagos-afternoon-news/career-vision-companies-are-increasingly-using-artificial-intelligence-ai-to-drive-their-recruiting-and-hiring-are-you-ready/amp/"
-    type: article
-    provider:
-      name: WGN Radio
-      domain: wgnradio.com
-    quality: 45
-    images:
-      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2020/04/CareerVision.jpg?w=1280"
-        width: 1280
-        height: 684
-        isCached: true
 
 secured: "11rpEdT6EIOMfQUS6dW1ufUYkPxqp9EWAzvcODVsU4x79ZuSJBXSYdXMwVaJKQh0preomc6t7TvsPo3iDqPbgndv4098l7Pxeav2CXwcqpl56wwJsmjhEE2Wd30lDeLm4pptNhtLUOu0Ared3nIXfXa/j+448jeDbhOQGhpDbgK/zAIJCzMxTz3oid+0+F6jwTqfseEHNzdZGV4L9NwJ7YpHjkQtQYtgkCf+DQOTpxSdZHPKkv7ZVA7VhWBLb8zNeMTIPHUYsohFKUY0xAN34z+q5GCA51Lonfb/qE618m/sIixVLw9w872VH2PC305515gxQZ4MFq+bfBXS4KK0RXr5+5Pdmsce9ZjQt+5zxBF3/t7SM2aMfHf33EGkFnluPtMueH5ApFRd6RZmrV3FHFrCzMJ/rwmgKX/LnWVdyULP9XRdCStG7HDzxTsaBRbqVeJdzqDyRlVgh0aFSghkKCw8TvAJ122L2IJjEvQDxoFrTr0alCNC5WuSL0SVuDyQ2niTHSfj6u0mJw8LzuUFbg==;JzpmJLOt5SAMJC9DBVEZBg=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Railtown Determined to Eradicate Costly Software Errors Through AI Adoption"
 excerpt: "Artificial Intelligence continues to find itself at the forefront of conversations regarding technology, and rightfully so as the powerful tech has the potential to drastically alter daily life and rapidly expand the future of technology."
 publishedDateTime: 2022-01-18T14:04:00Z
-originalUrl: "https://www.baystreet.ca/articles/stockstowatch/73756/Railtown-Determined-to-Eradicate-Costly-Software-Errors-Through-AI-Adoption"
-webUrl: "https://www.baystreet.ca/articles/stockstowatch/73756/Railtown-Determined-to-Eradicate-Costly-Software-Errors-Through-AI-Adoption"
+originalUrl: "https://www.baystreet.ca/stockstowatch/12065/Railtown-Determined-to-Eradicate-Costly-Software-Errors-Through-AI-Adoption"
+webUrl: "https://www.baystreet.ca/stockstowatch/12065/Railtown-Determined-to-Eradicate-Costly-Software-Errors-Through-AI-Adoption"
 type: article
 quality: 37
 heat: 37
@@ -24,6 +24,6 @@ images:
     height: 396
     isCached: true
 
-secured: "Scp2D8fp4H0N3LhsSIcQqFn1T5fGnvMy7s902PvXwEpJjfH3bv/kerItgw84zoJ1BUOo1dehCa08JuokuH+A4ws7U4wTmZJVedEJtznfqYgh+8+QqdZegYwhFgyCJZaxU8AxsSOtYJNCip8KGTkFE1bQ3Bnb5HZjewBayL/AYiLf9AbUgqaumAIGg5GQGBtdAx9K5/Z/4CkhRXVdqXV7V4rkfu7XVDHstPX048ekZWb0K36LpEArciSomd0I88+m2TAkBmpdH0MTfjF72XcuIXHvUHTMOX8m2GV2hwbWK7A7UdNfkFHc6uqrwuPue613139ocoqOyzlP2bBI/xws+ORTmC8LxWCKlRWrTDqhTVw=;zhZgb9JEiVDb0AQsY907Qg=="
+secured: "U0qwbesz6cmHIYywQJyyTC3DlD5DUH5ZpegvL22k+vcC/k0b44hHNV69ZrhvrgP8y+V6zDjtlXjIPJ9xrRTtgXSVxIFQ1Mi43FXcQau323Yf8e7TXUEaIlyfCLGzfLuPT5+utyzFCpx5y4XjZcsjY4pN0fguIZFtEKK6jT4+c+0lEwShDo2dLBj/Q0OWeiBZdVF7hNF1X6z3tXvJtVNWWu8vUrimgmosGKKqrJX+KSH3cv9YHJRtHJAn8jPbCJsILaAZRFTM0OxvDhCpVWaBnIHqqzrYOz3kVyzD7NvBT4Z653Lrem7ecUYTryf77yVIjATdFHsbod0Iw3BPkIY5u7x9y/Dn0WAYKhj88sMHldg=;MiB6ODCu25f5A7aVDSbnAQ=="
 ---
 

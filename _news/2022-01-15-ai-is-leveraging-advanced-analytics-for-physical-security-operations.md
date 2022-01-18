@@ -108,6 +108,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Temedica Introduces Permea: First Analytics Platform Integrating Patient-Generated Health Data"
+    excerpt: "Temedica GmbH, a leading digital health and data analytics company, today announces the launch of Permea. Permea is a unique platform providing medically sound analyses and actionable insights to a whole range of questions and challenges arising along the value chain in the healthcare market."
+    publishedDateTime: 2022-01-18T15:27:00Z
+    webUrl: "https://www.dgap.de/dgap/News/corporate/temedica-introduces-permea-first-analytics-platform-integrating-patientgenerated-health-data/?newsID=1504656"
+    type: article
+    provider:
+      name: dgap.de
+      domain: dgap.de
+    quality: 0
 
 secured: "z8TYwLfvpmwAu+/OqbbV/mHdgDZuphOPLygQMzb4WpESvjU2qr90wtCHMIyKOKVmJ4TUIWtG23K52JwkGrViUx8uANhHnnJouPv4/TXR4XUV77rJtOMw45r/ToedLUEhb2J0UL0fF7goM78vSjt990e6iLS1bexr7TuuqvOC/DKkZWEl6ES64rcch7ev0KEi2LezGPp9rB3hXOkJCoB0ZG8H8wNTjyF3XgeVDzYkBO2von02eDbKUgwlGzVaHA7c2XNgLtirT6ba4+MX+CLRMZdugXAk6TjQlHzMuKHTV/T1RPchbfZUHdZxrAs+j9vbISAyhe3N9ok+OwVCmigGOWTG3tyqw9dxz4rI3m91BM8rk95il6fH2lk77RQAgjiHrIIahjpWsCQP7UamAES0jyPLbxG60hn4xXm0KbjP34fITYYqg7RWsPz+ywArpW7eXYeyj3c8S1/btT8PpURNuB3qMtQz8DJEt2Y9afXoeTM1WhXpqYSycYuoRpjYGol+ShIM9vpvmFGL9dPyjTqF6g==;459zmbAKgL1y5YCXaYzsAw=="
 ---

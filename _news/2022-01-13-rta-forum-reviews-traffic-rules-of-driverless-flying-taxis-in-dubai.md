@@ -3,14 +3,11 @@ category: news
 title: "RTA forum reviews traffic rules of driverless flying taxis in Dubai"
 excerpt: "DUBAI- Dubai’s Roads and Transport Authority (RTA) has recently held the first legal forum to review the rules and regulations governing operations for passenger transport autonomous air vehicles. This preliminary step aims to chart out suitable structures and develop rules and regulations required for the operation of this ultra-advanced mode of future transportation."
 publishedDateTime: 2022-01-13T06:31:00Z
-originalUrl: "https://www.zawya.com/mena/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/"
-webUrl: "https://www.zawya.com/mena/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/WAM20220112142948653/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20220112142948653/"
+originalUrl: "https://www.zawya.com/saudi-arabia/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/"
+webUrl: "https://www.zawya.com/saudi-arabia/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/"
+ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/WAM20220112142948653/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/WAM20220112142948653/"
 type: article
-quality: 74
-heat: 94
-published: true
 
 provider:
   name: Zawya
@@ -26,38 +23,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Dude, Where’s My Driverless Car?"
-    excerpt: "When will driverless cars hit the road? While car manufacturers and tech giants are making optimistic predictions about the future of autonomous vehicles, there are many challenges in the way"
-    publishedDateTime: 2022-01-13T18:47:00Z
-    webUrl: "https://www.businessbecause.com/news/insights/8012/driverless-cars-future"
-    ampWebUrl: "https://amp.businessbecause.com/news/insights/8012/driverless-cars-future"
-    cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/insights/8012/driverless-cars-future"
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 59
-    images:
-      - url: "https://www.businessbecause.com/uploads/default/news/images/1641574105.png"
-        width: 750
-        height: 468
-        isCached: true
-  - title: "UH-Maui hits the gas on driverless tech"
-    excerpt: "The University of Hawaii Maui College is making history as it helps develop driverless vehicle technology that is being put to the test in some of the earliest autonomous car racing competitions across the country."
-    publishedDateTime: 2022-01-15T15:54:00Z
-    webUrl: "https://www.mauinews.com/news/local-news/2022/01/uh-maui-hits-the-gas-on-driverless-tech/"
-    type: article
-    provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 39
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2022/01/15052516/os-uhmc-driverless-AI-Racing-Tech.jpg"
-        width: 600
-        height: 399
-        isCached: true
-
-secured: "VPe06FWVGYcsP/VzfH5CFfB0Uc8OLqfPKRZymbh0gzKaSxWr1k1LxeT+RRcte3IVMbNYGahM91TBKHtwt4ZDEy1nYcIH7Mo6CTq6Ehy7uQSqEZkmFa/+t0Vj8y748tj3ciXi8XbgDXLV7FtMomhRXGLTT39KDjg5+xz0m1vwfnkEqdCQau7Te3ImFn9Q3ZbMsMLcn3xRBWBp4O4vi8bd/0WCEPwMwWCSW7jgdQFKyb3W2Fud+KGgHTEllPdCOtB93JRymSrsSNrlEuqqvpkSnuFV7HByPjeIcAorZ4Jiww2snvRAb7upxmEWvqKe1MU5LpjtMyA93+TS/UHXwXCb/6dmDXnQ0uMLUeGWy1N9Kg0=;vmXI08BB1jkX3M7f58IZ0g=="
+secured: "9DImj+2OraJTModB4/XDgvsBKyi4VYGHDvhfB8g6MuT1cpw5UK9CJSnOSz7mviu5mroF54vekp3B0/TgeSL7PNfqIB6nFHnMmxErE8mMDi8BdvEZ8jmvYuxDfoP/i1Aakkvlb/QskbmlAIjAgUKDdMIxiG2FhblU48kKLVPnll8swib9obGyLspWh3gRve72iP7wZGB1B4VSQ6RZYscAOq6anAcvuMlNZ+AyPFx+KC/Lju9ZREVtrF/kvf3UB0EVtIqx1oVqNumqoqJlDg156Ptd3423DxXOQBsbNFR9HacgIdu7JsfYd/j2oF+iAvoSuIOr5r8q517zuTVhH/g/+gDQRtpLlYPytfyEwJglKsY=;349F3KeCXr1X8Vm3fBiIug=="
 ---
 

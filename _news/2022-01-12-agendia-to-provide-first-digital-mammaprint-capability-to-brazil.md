@@ -1,40 +1,22 @@
 ---
 category: news
 title: "Agendia to Provide First Digital MammaPrint Capability to Brazil"
-excerpt: "Agendia, Inc., a commercial stage company focused on precision oncology for breast cancer, today announced that it is offering early access to its Digital MammaPrint platform for patients with breast cancer in Brazil,"
-publishedDateTime: 2022-01-12T15:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-health-business-breast-cancer-93a86727e9cd492fbdfa7066361ef656"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-health-business-breast-cancer-93a86727e9cd492fbdfa7066361ef656"
+excerpt: "AI solution will expand Agendia's testing platform in the Brazilian breast cancer market Digital MammaPrint offers fast turnaround time to molecular diagnostics,"
+publishedDateTime: 2022-01-12T14:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/b25018571/agendia-to-provide-first-digital-mammaprint-capability-to-brazil"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/b25018571/agendia-to-provide-first-digital-mammaprint-capability-to-brazil"
+ampWebUrl: "https://www.benzinga.com/amp/content/25018571"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25018571"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "Agendia to Provide First Digital MammaPrint Capability to Brazil"
-    excerpt: "Agendia, Inc., a commercial stage company focused on precision oncology for breast cancer, today announced that it is offering early access to its Digital MammaPrint platform for patients with breast cancer in Brazil,"
-    publishedDateTime: 2022-01-12T23:41:00Z
-    webUrl: "https://www.afp.com/en/news/1314/agendia-provide-first-digital-mammaprint-capability-brazil-202201120056591"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 4
-
-secured: "WBNS4j7s+3ySb7DODxf3bw9/a5IVJPia/q/sap3TZoSUf6fUH2u7QFYjv4G4fx0ZBSUW2QDSKliXgW/G9vIJr5W341F5IjRBqGLaHLlENpmqfmUF3cuJz/wgB+xt7Xshm+eh0LawBWImIc3Ixzs6EIrFUWvci9O5ptY9z/h2BdPWAWSNNH/G2PuG8P8MHHchdOQGOwXMUCBvhmgZfzwNfo/P4bZOvWI8wsXl35RBNv1HzHLlMbcgQkcdxjX7j0x6dKdQvQqD9LVOy2LD7CotW+FGKtBhJurKuZnhqHecviu2tMayzvPC8tKMK1rqmYfZ7dhgAxKWh2bHdlFGqApK70VfoBgpgd0ygC0LJM83BH4=;zbMDJIECRpVi9FgeuyUKvg=="
+secured: "mdkxRe4Dr2P4F8d7sT88GHLxwSJY6i91YVkfi/YshC66PJ1FIq+DtJHzUpf6oBwW/MZJBzXkpqNKqlt1MlwcOOemXkWlfEC4ExWam7S+SYVQZYLwUn73AbNrCvJ3u2F2lrj6uEVZMvoa2nCW2duJeRghvYNNDvS9BLhaTEnBcGQkhxldJ2YvCp1Xckv6d9pozHb/ofZDgi5Y1x7+K5Axqul7zeK487+PY2NGQKtYQTnXT6bb2YmWYc66XsDMjZvaGhua/Zj8ZROzsKFMbkV8SIPfXy2BrUjzk0LEhtQ2BH5aOtdADPpCWNT2tAwR05hx1ng01jTX5PF1NKY+rLTjghP70i2q6J46zSaO0KmI8M4=;nEST7I2CPY5tHdqjUZV8qQ=="
 ---
 

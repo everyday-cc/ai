@@ -27,18 +27,13 @@ images:
 related:
   - title: "Edge processing research takes Surrey discovery closer to use in artificial intelligence networks"
     excerpt: "Researchers at the University of Surrey have successfully demonstrated proof-of-concept of using their multimodal transistor (MMT) in artificial neural networks, which mimic the human brain. This is an important step towards using thin-film transistors as artificial intelligence hardware and moves edge computing forward,"
-    publishedDateTime: 2022-01-14T00:00:00Z
-    webUrl: "https://www.surrey.ac.uk/news/edge-processing-research-takes-surrey-discovery-closer-use-artificial-intelligence-networks"
+    publishedDateTime: 2022-01-17T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/940312"
     type: article
     provider:
-      name: University of Surrey
-      domain: surrey.ac.uk
-    quality: 26
-    images:
-      - url: "https://www.surrey.ac.uk/sites/default/files/styles/1200xauto/public/2022-01/ai-neural-pixel.jpg?itok=gcM6EpR5"
-        width: 1200
-        height: 750
-        isCached: true
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 6
 
 secured: "gTgADQnc2d2RjdkvOom2CBtEwCyyKQDhXpzCEPjRsaS8umhc13dvX6Qxf4FNPDmc1UH6U32+6CJlVwaLUT3uG0C8MgNDfEkP2zYd4yJRnHofucKGrXU8o7B8SQcVIBcXuZpkBk7EzSbJ+f3XrFsWLchB4hiRRy/AXwMaxVVyMRyAsXGx1ocO9ccAP2dLZRfL+iCx6L+EE9h/8SCwHfe5rviFHDXRfwadHWXOefGcrMdpX5kizn5jJoC1Gtvl/ugsvhXSVQ60HKwMeeQe6XK0E+Q7mzpzW1LBlFEQgNMHf5I367X84GWw8h1LQCE2DFntozINU45qZbU7DngRjr0UcnOZ2oobgv7aKxFHjuf5GQ+24dnrVV+PXTfSMrqYY4gn0rzkkaifCcDjAzV6LbBFHiFvjTnsxV/EKyOtpvw/9B/9/lmb/ZWiGDSt2br5DH0hLiJRxtJl2hM9KFt8nuEpnHloEAYXfaD6qi/kEVg4gLEzqUEIXXJEFzKe7Esbg1LrTfbvCKOXdY/fHqagvACDBg==;B0OJHkA2VxkF22fi6JX6EA=="
 ---
