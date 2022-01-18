@@ -51,20 +51,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Self-Driving Robots Achieve Level 4 Autonomy, Will Invade City Sidewalks"
-    excerpt: "Serve Robotics, the Postmates spin-off robot department under Uber's wing, has introduced its next-generation delivery robots capable of operating without human intervention. The fully-autonomous robots have already completed their first delivery,"
-    publishedDateTime: 2022-01-13T18:18:00Z
-    webUrl: "https://www.autoevolution.com/news/self-driving-robots-achieve-level-4-autonomy-will-invade-city-sidewalks-179091.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 23
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/self-driving-robots-achieve-level-4-autonomy-will-invade-city-sidewalks-179091_1.jpg"
-        width: 1072
-        height: 660
-        isCached: true
 
 secured: "y9GWkSuJX2D2v0l4sf+M4sbul6AfOzqD9ynaCG8r2oGDU3B2BvGhQ+OcQ2HFJErwyS8pVGy/owtltEB+N0ca4x5urVyojIB/yyeD2AQmr1luNpA2vNDL4MCufX9UuRRvBRCCqAuyW+805zsNI6zGPrE4JU44ZR5Ohgz+CtyxhbSLnYufrgBE1yvZ57OsxBdr7RqAkVKBBeBLX8kzlFBDN7jVyGI9rUISLhYo0xuUP1BP6HHLyS7hpJLrYA1Ra7e0Bw4OLPqH/9Dyp6GwcRMXsF98Bh+iwCTE7VzWWOox6xDCqg47FscaiB5hbwRpmyMiTettBRBjSYev6Gwdj6+Pk2Oj1odoHV57VqKS2rptGYg=;zseM2aN2Z4dOYt7tQoT2iw=="
 ---

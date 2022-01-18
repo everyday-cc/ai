@@ -25,30 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "How Protai’s AI-powered platform is improving drug discovery"
-    excerpt: "Protai claims it's reshaping the drug discovery and development process using proteomics and an end-to-end AI-based platform."
-    publishedDateTime: 2022-01-13T18:40:00Z
-    webUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/"
-    ampWebUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
+  - title: "The U.S. Air Force Is Building Artificial Intelligence Bombs for the F-16"
+    excerpt: "Two Air Force F-16 jets fired Small Diameter Bombs were able to share threat data with one another. Here's What to Remember: The collaborative weapons experiment is showing great promise. Two Air Force F-16 jets fired Small Diameter Bombs were able to share threat data with one another while in flight to a target using an emerging kind of collaborative weapons coordination,"
+    publishedDateTime: 2022-01-15T03:30:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/us-air-force-building-artificial-intelligence-bombs-f-16-199358"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 51
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1331723660-e1642087280811.jpg?fit=800%2C560&strip=all"
-        width: 800
-        height: 430
+      - url: "https://nationalinterest.org/sites/default/files/main_images/f16_1222x_0.jpg"
+        width: 1222
+        height: 676
         isCached: true
-  - title: "How AI is being used to improve disability employment"
-    excerpt: "Now, he is eager to scale that success by enabling any company with a job board and make it easy for any person with a disability to use their voice to discover and apply for jobs. On Zammo's journey to apply AI in accessibility scenarios,"
-    publishedDateTime: 2022-01-13T17:57:00Z
-    webUrl: "https://www.publicnow.com/view/8577DB312DF16BC9561778F10E8C2C5DA84C3480"
+  - title: "Moment AI: Automotive safety startup builds AI for self-driving cars"
+    excerpt: "Moment AI develops a software for the autonomous vehicle industry to protect vulnerable drivers from accidents — and now see why this Arlington company is one of our Startups to Watch for 2022."
+    publishedDateTime: 2022-01-14T09:00:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2022/01/14/startups-to-watch-moment-ai-self-driving-car-tech.html"
     type: article
     provider:
-      name: publicnow.com
-      domain: publicnow.com
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 19
 
 secured: "m02ybN+roxL/XS78OfPd1QpZdYHfhUvZGRcsBcz3jNV0b12W4TGkvmRl1vGbzJDJpw5zrn5qJCZ9g+XszcMG5DuLY7q8V9OIfvXCT5Q8F5eIz1ikimuJoBfzY4brSL/arpsISQboHhZ/P5Eg10ZJfnuD2sDj5EblhFoUJimXdyl3Nuc7LpK5bnW4fYhYsns1juEAKP336fuRMJg3aYTSd5aqLJ//D8L9xHQj42DTedl32iIGwlS7a1ks2t4iQ/OnRm/BywzyHSBPblLKJj45QD99roq6r55MzArbbmT21a6BGCEcge0IWrtsuq+/9HusyJ8cAxBYeNL44FgDEzCA+z4JRfInYz3sQmVw++M62IU=;w7Hp+KY251+80p/5eexbmA=="

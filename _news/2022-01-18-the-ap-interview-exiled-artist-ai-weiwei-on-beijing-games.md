@@ -1,29 +1,26 @@
 ---
 category: news
 title: "The AP Interview: Exiled artist Ai Weiwei on Beijing Games"
-excerpt: "Ai Weiwei is one of China’s most famous artists, and many regard him as one of the world’s greatest living ones of his profession. Working with the Swiss architectural firm Herzog"
-publishedDateTime: 2022-01-18T04:04:00Z
-originalUrl: "https://www.news10.com/sports/the-ap-interview-exiled-artist-ai-weiwei-on-beijing-games/"
-webUrl: "https://www.news10.com/sports/the-ap-interview-exiled-artist-ai-weiwei-on-beijing-games/"
-ampWebUrl: "https://www.news10.com/sports/the-ap-interview-exiled-artist-ai-weiwei-on-beijing-games/amp/"
-cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/sports/the-ap-interview-exiled-artist-ai-weiwei-on-beijing-games/amp/"
+excerpt: "Ai Weiwei is one of China's most famous artists, and many regard him as one of the world's greatest living ones. Working with the Swiss architectural firm Herzog & de Meuron, he helped design the Bird's Nest Stadium,"
+publishedDateTime: 2022-01-18T05:32:00Z
+originalUrl: "https://apnews.com/1be58fc1f4c7e2ad67a24fdf02ff7690"
+webUrl: "https://apnews.com/1be58fc1f4c7e2ad67a24fdf02ff7690"
 type: article
-quality: 59
-heat: 69
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: WTEN
-  domain: news10.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://www.news10.com/wp-content/uploads/sites/64/2022/01/bb73e396b3504f55a95901f5e1fee9ac.jpg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://storage.googleapis.com/afs-prod/media/93e0896b00954270a35f9dda3392cca2/3000.jpeg"
+    width: 3000
+    height: 2000
     isCached: true
 
 related:
@@ -39,6 +36,6 @@ related:
       domain: charlotteobserver.com
     quality: 33
 
-secured: "san8eBF++b9R1UYP01LRJbodF41UZAZz1Fr9FVKtK6bchkHG30b3lAlI0LjtGBo+Ce1l9Sb9b2JZGSK5cPq37hq9rRxYQCp4E8KuIUhUcHOA7jqlvyq5LowGUIKctJJK0dLxLxuz0rx1P36llRqRLUXb0KfJSTHZNCgBHuIzx88SG7oVGKuXImt1i27HQpuOxYubOkSz57zBkPG4i9ycOtzeWvrCB/564q23+agNCDfyK/eJDolEh/BHIzeW2/U0nqi9Nf7+jSK1dhS2e6ff3LEmJLaE5zTDlraOhSdHxlxnECKYojTvKgi8w8pj9/w5u/rU//z+jVTuwLtnVKKyBA0dPvNmCADTOx+TJN7Zb+g=;HwnwOy5V55r1lEMpd2SRzg=="
+secured: "YXz055gmr0gtuwT4UYp+QunIMAdsHAev63Ff4qm4AYj8fmfYC2deDANLg/VBbuLo9VTwo41n2zsB9XG9QyvtG/wSZmQMm9bGjivat4ibQ/QXgOK3OA7YPJU0pVISwmjk1bRgqCa9p+eTkEui+yaNJ2mqTGHfZSgrVwP+UUTITutHicTF4Eo83zdl5tcaltCQedTnO9a9yl3iSzdAM3O2o2qKuRCVVumoYSld6fZFgvoTslPVdEcFi3L66qPBT/qGb3LWJAHzWG9c7oaPm/HGf67wqTT15SW2Qrvyt/nzIG9YQ8Cw/5L3RfyoIoHJCwTlvM0bJPw3s1qRfow85Cr/gjosbgdlrjnj5K6koJG8pQY=;8UkIaWWThSS9j2dkd2Dmqw=="
 ---
 

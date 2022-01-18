@@ -89,6 +89,22 @@ related:
         width: 1000
         height: 900
         isCached: true
+  - title: "Samsung unveils Exynos 2200 with Xclipse GPU, based on AMD RDNA2 architecture"
+    excerpt: "Samsung introduced today the Exynos 2200 - its latest flagship chipset that will power the Galaxy S22 smartphones in certain regions. The new platform is built on the 4nm EUV process technology and comes with a custom-made GPU called Xclipse."
+    publishedDateTime: 2022-01-18T08:52:00Z
+    webUrl: "https://www.gsmarena.com/samsung_launches_exynos_2200_with_xclipse_gpu_based_on_amd_rdna2_architecture-news-52728.php"
+    ampWebUrl: "https://m.gsmarena.com/samsung_launches_exynos_2200_with_xclipse_gpu_based_on_amd_rdna2_architecture-amp-52728.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_launches_exynos_2200_with_xclipse_gpu_based_on_amd_rdna2_architecture-amp-52728.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 56
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/22/01/samsung-exynos-2200-ofic/-1220x526/gsmarena_001.jpg"
+        width: 1220
+        height: 526
+        isCached: true
   - title: "Samsung Introduces Game Changing Exynos 2200 Processor with Xclipse GPU Powered by AMD RDNA 2 Architecture"
     excerpt: "Seoul, Korea – Jan. 18, 2022 – Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, t"
     publishedDateTime: 2022-01-18T02:01:00Z
@@ -112,6 +128,15 @@ related:
       name: Guru3D.com
       domain: guru3d.com
     quality: 5
+  - title: "BUSINESS WIRE: Samsung Introduces Game Changing Exynos 2200 Processor with Xclipse GPU Powered by AMD RDNA 2 Architecture"
+    excerpt: "MITTEILUNG UEBERMITTELT VON BUSINESS WIRE. FUER DEN INHALT IST ALLEIN DAS BERICHTENDE UNTERNEHMEN VERANTWORTLICH.The new premium mobile processor comes"
+    publishedDateTime: 2022-01-18T09:17:00Z
+    webUrl: "https://www.finanztreff.de/news/business-wire-samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powe/27505148"
+    type: article
+    provider:
+      name: Finanztreff
+      domain: finanztreff.de
+    quality: 0
 
 secured: "ETtkSzPMbbI1XtSJv7w+NKD8SOfQtn3PXSSToCwFTXj8XZTBBNuraSXSNUGyDQ3tq+phnVdqROupAzgTPb8uzGkgVw5WdrgcK0hhNzQ/Je3+mNSfya4E/jeXLVu+FXumfKN7cIxKkUGK6vRsLAZcP+Ep3hOURRSy12hqstUGP50aOKUk9wms0f0CQlv+jXoSPZfjXYtoNdfhGaQmYaZVOkuzrpGSr+3QOUKrYE00rvKm9Gtz3raItxoaOfKv86fpy+1WG/IkF2yal0C1HtzCCIYhXSA/G8a6DG6EDKjEFQoFDmXRQE13m8uJtYXvUTDxhJzUWXDs7+V/pFr6ejik8w/XnBhGgE1kUusXi1+aFDWhF1LOs+eF11a+gVItW/YeU2DjqNGbZ4bMkY61uyw3hLNncoIUOiVWQDr2wQefftBISbzAl9ycN8Vq9glN6r5Uy53C8lAvuK3mLwb1DNpgQPEBK82wiAQKP+PLoVhHSL5nV3ZuWN1qClJHpRJinsFxj/oSZE/fhCZ0r4xuAWeepg==;EXjpJcViapDyiFQq11sVGQ=="
 ---

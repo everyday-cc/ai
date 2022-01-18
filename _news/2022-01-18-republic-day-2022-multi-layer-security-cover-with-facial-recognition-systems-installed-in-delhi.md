@@ -157,19 +157,14 @@ related:
         height: 300
         isCached: true
   - title: "Delhi: Multi-layer security cover with facial recognition systems in place for R-Day celebration"
-    excerpt: "After the improvised explosive device IED was found at Ghazipur Flower Market ahead of the Republic Day and later diffused the Delhi Police have fortified ar"
-    publishedDateTime: 2022-01-17T23:14:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272194007/delhi-multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration"
+    excerpt: "After the improvised explosive device (IED) was found at Ghazipur Flower Market ahead of the Republic Day and later diffused, the Delhi Police have fortified areas in and around Rajpath with multi-layer security cover,"
+    publishedDateTime: 2022-01-18T10:19:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20220118/3894904.html"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 43
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1642457442.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 23
 
 secured: "VvwVTB1Stldsl4lxNIBgAOsPY0xKmRJlHROnhufouresYFbOPxmE5pmFjYGR2VvnMg+IeGVPKkqaGhoEggQyzyvCKnozT/+7PR0htAH2bo9UiH8tDWXhUwzuHHJwP0EQegWhyNWOx5UP69DZnfMgqcEKTxJOiqJqKvP9QFx9cVDTgkKBkheZ0PKFZ3WvW3lPlrsJaEQSwFoeJrk854WbWeO7o9acuz//r7wkf5Kqj01nh6XSp46KfSUpnWr8pItOgb3vMIc9tJ5FFQoIX+TugJSeeoOhaTzotDK0uOTMLVr11HL20Zdg7YWJ/w+I455EK/7lncLQItnnT4VaN8hTbI6pAUshTczfyT22wHxmfXA=;sSC2M2HjFa2xSBcUeBU1Xw=="
 ---

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dude, Where’s My Driverless Car?"
-    excerpt: "When will driverless cars hit the road? While car manufacturers and tech giants are making optimistic predictions about the future of autonomous vehicles, there are many challenges in the way"
-    publishedDateTime: 2022-01-13T18:47:00Z
-    webUrl: "https://www.businessbecause.com/news/insights/8012/driverless-cars-future"
-    ampWebUrl: "https://amp.businessbecause.com/news/insights/8012/driverless-cars-future"
-    cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/insights/8012/driverless-cars-future"
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 59
-    images:
-      - url: "https://www.businessbecause.com/uploads/default/news/images/1641574105.png"
-        width: 750
-        height: 468
-        isCached: true
   - title: "UH-Maui hits the gas on driverless tech"
     excerpt: "The University of Hawaii Maui College is making history as it helps develop driverless vehicle technology that is being put to the test in some of the earliest autonomous car racing competitions across the country."
     publishedDateTime: 2022-01-15T15:54:00Z

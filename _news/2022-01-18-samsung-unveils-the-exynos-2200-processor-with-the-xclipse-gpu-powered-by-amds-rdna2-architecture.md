@@ -83,6 +83,22 @@ related:
         width: 1000
         height: 900
         isCached: true
+  - title: "Samsung unveils Exynos 2200 with Xclipse GPU, based on AMD RDNA2 architecture"
+    excerpt: "Samsung introduced today the Exynos 2200 - its latest flagship chipset that will power the Galaxy S22 smartphones in certain regions. The new platform is built on the 4nm EUV process technology and comes with a custom-made GPU called Xclipse."
+    publishedDateTime: 2022-01-18T08:52:00Z
+    webUrl: "https://www.gsmarena.com/samsung_launches_exynos_2200_with_xclipse_gpu_based_on_amd_rdna2_architecture-news-52728.php"
+    ampWebUrl: "https://m.gsmarena.com/samsung_launches_exynos_2200_with_xclipse_gpu_based_on_amd_rdna2_architecture-amp-52728.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_launches_exynos_2200_with_xclipse_gpu_based_on_amd_rdna2_architecture-amp-52728.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 56
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/22/01/samsung-exynos-2200-ofic/-1220x526/gsmarena_001.jpg"
+        width: 1220
+        height: 526
+        isCached: true
   - title: "Samsung Exynos 2200 SoC with Xclipse GPU announced, should debut with Galaxy S22 series"
     excerpt: "Samsung has finally unveiled its long-rumoured Exynos 2200 SoC that comes with AMD RDNA 2 Architecture based GPU called Xclipse."
     publishedDateTime: 2022-01-18T00:09:00Z
@@ -111,6 +127,15 @@ related:
         width: 500
         height: 329
         isCached: true
+  - title: "BUSINESS WIRE: Samsung Introduces Game Changing Exynos 2200 Processor with Xclipse GPU Powered by AMD RDNA 2 Architecture"
+    excerpt: "MITTEILUNG UEBERMITTELT VON BUSINESS WIRE. FUER DEN INHALT IST ALLEIN DAS BERICHTENDE UNTERNEHMEN VERANTWORTLICH.The new premium mobile processor comes"
+    publishedDateTime: 2022-01-18T09:17:00Z
+    webUrl: "https://www.finanztreff.de/news/business-wire-samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powe/27505148"
+    type: article
+    provider:
+      name: Finanztreff
+      domain: finanztreff.de
+    quality: 0
 
 secured: "tmUn0CZGZgc/ZY5iXlkD7BoXLX5b1dUPVuTPASmqSDcfRrCA2/7axIY8+e+SYM/Qd6ZqOlUklYKioY9iNl3L8F5iimV4bxqmpsJ3cPyUFLQdKjdfbisLdizrqDImaE4XeXFcz3LyPAyksO/axkJnJVQDBeyTM8vhu+UWrc3OuVa0kZ+3shmElMYvhYYpYaxextVybgj3hGRedGKdBWng/wu0dnVlSfhyrthJCNRoVenmU1RwOrTIX93mcP2pQmcJlgkYE7tGCmqLqTaxE26cfx3+s1pfQ/pGhlWvrVGZOUA35sUDYCdI2i3QkG5k9CxE2pdCgTATe5668B4Nq+4UaVNYWZ7PvPf2Dg2U3q///qmMRl+Ew2l2N0GyyBBnQY+FW+p+guQyZT5DvGwFdHyEE1TcHmOL0bBPGbC1OmVKHxl5iBcu6IcgkErR5rUqI4YaRsNpymwDHQICnz/ZOs+w/XpWd2n/Kge1o2/fpKyniArkaY0c3g3xLnIr6M3Q0SL4WP7Wm3GECRzrYyQKKB//Rg==;MD/xq0L1kQKbzul1WKIcQA=="
 ---

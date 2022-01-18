@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Trends—What to Expect in 2022 & Beyond"
-    excerpt: "As the number of AI use cases increases, this spurs the evolution of this technology in novel and unprecedented ways. This TEC Team post looks at some of the drivers of the next-generation AI such as use of synthetic data and simulation and looks at AI trends such as responsible and explainable AI."
-    publishedDateTime: 2022-01-13T17:37:00Z
-    webUrl: "https://www3.technologyevaluation.com/research/article/ai-trends.html"
+  - title: "Tech Trends: Sensor Fusion Pushes AI Forward"
+    excerpt: "Combining data from multiple sensors can ease the strict reliance on video surveillance when creating deep learning algorithms"
+    publishedDateTime: 2022-01-14T15:30:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/21250598/tech-trends-sensor-fusion-pushes-ai-forward"
     type: article
     provider:
-      name: TEC
-      domain: technologyevaluation.com
-    quality: 39
+      name: Security
+      domain: securityinfowatch.com
+    quality: 37
     images:
-      - url: "https://technologyevaluation.azureedge.net/getattachment/83fe42b7-8d1e-50a8-a979-b18b48c2313a/shutterstock-human-robot-mutlitasking-thumb.jpg?source=tw2&ext=.jpg"
-        width: 386
-        height: 500
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/12/Coulombe__Brian.61bcb95e59904.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "R2F3RbXqflIY6EYUzuD55mQt5huEpvAjhOVGp+XoslXFMveaYF9JC7DyzVplYaQO5PZ9ch6yk35HkYG+Dx5cPPnweUPJx57gD2koowfnvs8ge3pu9pLWj2OWDwXp5kZDIP99GnOgvKY/1B4j3qg53+CQhcba+eRIVY3ycJ9xZS/FMwau7hBTzyDHLUEAFXLv5IPYoo5YhNBkZ4zLps1NuDe0CuWIp7WQqwVtIHcQCNT22yBqu9DJJv36beeipPIuLK1gUdX9VWBmIujQQP0toMky7zwPZHofh8/v8VyG3Ijrf2sljavg4haqHz2vn/SzuOIrTbWgZ1q6Ts91naNK5j975P0GVEhuQOjPgBFF1QK0puzi0FQRSzc6enyqsbhLUxVUNx2LCdPFoJ2B2RcX4N85xq/xUeZoON8X2GLWJwiVaPj2SUNjZ9wY/l9VtM7AcBqLCmpQdBcg6+keGj0tJOY5oEud/1rTMFvcy/whTJZ9Gci1HcaF687O8YOXofGEbn2NDekZPPY41GohddT5PA==;M1D6ZAB9Xdq9wQN8zHxq3A=="

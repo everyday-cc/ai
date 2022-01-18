@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/cleveland-clinic-microsoft-among-organizations-in-new-healthcare-ai-coalition.html"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Becker's Hospital Review
@@ -26,6 +26,34 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft forms new coalition for AI in healthcare"
+    excerpt: "Microsoft has created the Artificial Intelligence Industry Innovation Coalition (AI3C) to drive the use of artificial intelligence (AI) in healthcare by providing recommendations, tools and best practices."
+    publishedDateTime: 2022-01-17T19:57:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/microsoft-forms-new-coalition-ai-healthcare"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 71
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
+        width: 820
+        height: 312
+        isCached: true
+  - title: "Microsoft calling for UK AI/environmental startups"
+    excerpt: "Microsoft is on the lookout for UK startups to join the 2022 AI for Environmental Sustainability Accelerator. Run in partnership with The Met Office and Social Tech Trust, the programme aims to attract startups using AI as part of a product or solution idea that tackles environmental challenges,"
+    publishedDateTime: 2022-01-18T01:20:00Z
+    webUrl: "https://www.techmarketview.com/ukhotviews/archive/2022/01/18/microsoft-calling-for-uk-aienvironmental-startups"
+    type: article
+    provider:
+      name: TechMarketView
+      domain: techmarketview.com
+    quality: 54
+    images:
+      - url: "https://www.techmarketview.com/assets/TMV_Building-Resilience-2022_dropdown_300px_(1).jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "New coalition aims to accelerate responsible AI innovation to transform healthcare"
     excerpt: "The Artificial Intelligence Industry Innovation Coalition (AI3C) leverages the collective brainpower, experience and expertise of the Brookings Institution, Cleveland Clinic, Duke Health, Intermountain Healthcare,"
     publishedDateTime: 2022-01-14T00:50:00Z

@@ -51,20 +51,18 @@ related:
         height: 675
         isCached: true
   - title: "UK self-driving startup Wayve raises $200M to scale up technology"
-    excerpt: "British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
-    publishedDateTime: 2022-01-18T03:18:00Z
-    webUrl: "https://www.foxbusiness.com/technology/uk-self-driving-startup-wayve-raises-200m-to-scale-up-technology"
-    ampWebUrl: "https://www.foxbusiness.com/technology/uk-self-driving-startup-wayve-raises-200m-to-scale-up-technology.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/uk-self-driving-startup-wayve-raises-200m-to-scale-up-technology.amp"
+    excerpt: "The London-based company relies on a system that actively learns how to drive as opposed to the conventional autonomous method of relying on digital maps and coding to tell vehicles how to operate."
+    publishedDateTime: 2022-01-18T09:33:00Z
+    webUrl: "https://europe.autonews.com/automakers/uk-self-driving-startup-wayve-raises-200m-scale-technology"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
+      name: Automotive News
+      domain: autonews.com
+    quality: 37
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a07a609c-c5af-4b95-bc06-8b59b63073ac/1137c0fc-b96c-4789-823b-c3c91dca87f9/1280x720/match/image.jpg?pubId=854081161001"
-        width: 1280
-        height: 720
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Wayve%20web.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "UK self-driving startup Wayve raises US$200 million to scale up technology"
     excerpt: "LONDON: British self-driving technology startup Wayve said on Tuesday (Jan 18) it has raised US$200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
@@ -79,6 +77,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--dpfl6nPT--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2022/01/18/wayve.jpg?itok=LCo8ldiO"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Driving the next wave of autonomous mobility, Wayve waves in $200 million"
+    excerpt: "London-based startup Wayve has raised $200 million in a Series B funding round. Aiming to move the needle on autonomous driving, Wayve is using deep learning techniques to train and […]"
+    publishedDateTime: 2022-01-18T10:48:00Z
+    webUrl: "https://tech.eu/brief/driving-the-next-wave-of-autonomous-mobility-wayve-waves-in-200-million/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 23
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2022/01/wayve.png"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "busaUJr6jzXBcCJJqHRlWukY4KkWfV+vo7fW9FmjUOUCP2F8DG2M5LU9dnb87bJo4ynb7Z59x0Ixiw+t70042Y+5+zDtXsC5tpQ0PRoULejl1b1Fgb5yJScNoTax6UC638iH8FsniWqkT+qmBpoMb1333qJUhaCDVhdy5nZKPYfYzfaD6YNCbOh/plFvGUk/FGCnT+88Y6nxlr091TI5RmxvYOfrznVZsZ6T5RdOomSheEKWmah8LJVAiikBeT+Tjs4wS2P3oMcWXl0hC2K3Yce7TAEPZMlDmjjgEetVINdExhGrnQz0Y81Fcwxehl/tadwTEDBeYhcpE3WEcW4nGAElHXvUnIaYEPKNx7JxWTI=;znGBKtwCWgdCM8dwGSGpgQ=="

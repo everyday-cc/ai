@@ -43,20 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Self-Driving Robots Achieve Level 4 Autonomy, Will Invade City Sidewalks"
-    excerpt: "Serve Robotics, the Postmates spin-off robot department under Uber's wing, has introduced its next-generation delivery robots capable of operating without human intervention. The fully-autonomous robots have already completed their first delivery,"
-    publishedDateTime: 2022-01-13T18:18:00Z
-    webUrl: "https://www.autoevolution.com/news/self-driving-robots-achieve-level-4-autonomy-will-invade-city-sidewalks-179091.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 23
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/self-driving-robots-achieve-level-4-autonomy-will-invade-city-sidewalks-179091_1.jpg"
-        width: 1072
-        height: 660
-        isCached: true
   - title: "KT, Yandex Self-Driving to jointly develop autonomous delivery robots"
     excerpt: "South Korean operator KT has partnered with Yandex Self-Driving Group, an affiliate of Russian internet group Yandex, to jointly develop delivery robots, Yonhap news agency reports. KT and Yandex Self-Driving Group have signed a partnership deal in Moscow to develop and roll out an autonomous delivery robot this year,"
     publishedDateTime: 2022-01-18T08:42:00Z

@@ -1,28 +1,24 @@
 ---
 category: news
-title: "AR’s Games Set To Launch World’s First Artificial Intelligence Based – Augmented Reality Video Game"
-excerpt: "The Real Tournament, made exclusively for mobile devices, will combine artificial intelligence and augmented reality to create a first-person shooting"
-publishedDateTime: 2022-01-17T21:10:00Z
-originalUrl: "https://www.digitaljournal.com/pr/ars-games-set-to-launch-worlds-first-artificial-intelligence-based-augmented-reality-video-game"
-webUrl: "https://www.digitaljournal.com/pr/ars-games-set-to-launch-worlds-first-artificial-intelligence-based-augmented-reality-video-game"
+title: "AR's Games Set To Launch World's First Artificial Intelligence Based – Augmented Reality Video Game"
+excerpt: "The Real Tournament, made exclusively for mobile devices, will combine artificial intelligence and augmented reality to create a first-person shooting game made with real"
+publishedDateTime: 2022-01-17T20:05:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/ab25076575/ars-games-set-to-launch-worlds-first-artificial-intelligence-based-augmented-reality-video-game"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/ab25076575/ars-games-set-to-launch-worlds-first-artificial-intelligence-based-augmented-reality-video-game"
+ampWebUrl: "https://www.benzinga.com/amp/content/25076575"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25076575"
 type: article
 quality: 23
 heat: 23
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/67a99a38a77ee1ae7fbf3f431adfbc0a32103e70-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "YyHtJMPx8oJoJZO9Pu4MB6o+XcbARDKGo/dFug02boytoNkvbyTNr4Y56g8u3TYFRLllsC9WYNVkAxu8lFcueSbGJN9iTbA1cISCtFwuU8qtEQhp+wI/y4miaEoWl3KdgZ8KRlPKvgnae8yfC9UfB6pfSXDAFK8LXT2ugpZwf4z4V0rnMUmAw3RATUg0cTiw6JX4OYCGI6S1Z2eL7JHcdcKdPavWXwjHEv8RYHlZqDDuMm8aAzNz0K10cjfooRQCfHiEhHEmHi2RI2y/tHBs/4IrYG7a0B/0nO97bLg/yiPbAKt0dLbFJu6/fi9ILZOwip0/F7Kdr7boc7kJ8LbaI0rqcGo1UZiY08FXSqVm6Yc=;x7Qnz8UpTSOjnw9P+MuDgQ=="
+secured: "uhBWoqMOz5H0gvyBeigpQYf9rEqieArFYrF6mjtVmwL6ofwtT+DhF+QVetjG3UhsP/Wicz/aYkET5bqESgfecUctBwrfmN9xd5GgeORH8a+NFNCVpSyLNXjQxL22Bmmiru7AH9a6ywzWg6m34y78nPcRwiLhPWGBiwUiXOzJIFRWw3/sMVowlfHsnX0XAB9hAhdvbTq8kCD33EYhgaC+C+IsK5ATftPx9gLeEErbpcFuCka7C+C6b8HigUBauYqgqlowWpiEBmdzmmewMCvVd48RWBAx73212dgewEYU3IOw5nfZDxlTqO0qRe4bxnoLqcChLi6lJcDg9CXkzfzvuzRnuAmCQO3INtvpa/KfymY=;p9lKFdI029OMpaBasZBQjg=="
 ---
 

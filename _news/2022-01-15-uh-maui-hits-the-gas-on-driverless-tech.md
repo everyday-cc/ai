@@ -7,7 +7,7 @@ originalUrl: "https://www.mauinews.com/news/local-news/2022/01/uh-maui-hits-the-
 webUrl: "https://www.mauinews.com/news/local-news/2022/01/uh-maui-hits-the-gas-on-driverless-tech/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dude, Where’s My Driverless Car?"
-    excerpt: "When will driverless cars hit the road? While car manufacturers and tech giants are making optimistic predictions about the future of autonomous vehicles, there are many challenges in the way"
-    publishedDateTime: 2022-01-13T18:47:00Z
-    webUrl: "https://www.businessbecause.com/news/insights/8012/driverless-cars-future"
-    ampWebUrl: "https://amp.businessbecause.com/news/insights/8012/driverless-cars-future"
-    cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/insights/8012/driverless-cars-future"
-    type: article
-    provider:
-      name: Business Because
-      domain: businessbecause.com
-    quality: 59
-    images:
-      - url: "https://www.businessbecause.com/uploads/default/news/images/1641574105.png"
-        width: 750
-        height: 468
-        isCached: true
   - title: "Start-up plans driverless deliveries for Ocado and Asda this year"
     excerpt: "A British start-up is preparing to make driverless food deliveries for Ocado and Asda this year after raising $200m (£147m) from investors including Sir Richard Branson. Wayve’s fundraising, which also included investment from Microsoft and Baillie Gifford,"
     publishedDateTime: 2022-01-18T05:00:00Z
