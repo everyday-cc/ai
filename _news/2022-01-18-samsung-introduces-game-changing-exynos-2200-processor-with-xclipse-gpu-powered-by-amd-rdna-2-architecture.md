@@ -73,6 +73,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Samsung launches Exynos 2200 SoC with Xclipse GPU"
+    excerpt: "Samsung has announced a new mobile processor, the. The is the company's freshly designed mobile processor with AMD RDNA 2 architecture-based Samsung Xclipse graphics processing unit (GPU). The chipset comes with Arm-based CPU cores and an upgraded neural processing unit (NPU)."
+    publishedDateTime: 2022-01-18T07:43:00Z
+    webUrl: "https://www.digit.in/news/mobile-phones/samsung-launches-exynos-2200-soc-with-xclipse-gpu-62580.html"
+    ampWebUrl: "https://www.digit.in/article/amp/mobile-phones/62580/samsung-launches-exynos-2200-soc-with-xclipse-gpu"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/mobile-phones/62580/samsung-launches-exynos-2200-soc-with-xclipse-gpu"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 59
+    images:
+      - url: "https://static.digit.in/default/b058ab70e5a8922bf0bf1655dc52e764c6d20c58.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Samsung Exynos 2200 is official with AMD's RDNA 2 GPU"
     excerpt: "Samsung was initially scheduled to announce the Exynos 2200 on January 11th, but that date came and went by with no word from the company. Instead, it removed all traces of the teaser from its social media channels,"
     publishedDateTime: 2022-01-18T04:51:00Z
@@ -121,6 +137,22 @@ related:
         width: 805
         height: 422
         isCached: true
+  - title: "Samsung Exynos 2200 With RDNA 2 Xclipse GPU Brings Ray Tracing Muscle To Premium Phones"
+    excerpt: "The Exynos 2200 with its Xclipse 920 GPU powered by RDNA 2 is the first smartphone GPU with hardware-based ray tracing support."
+    publishedDateTime: 2022-01-18T13:28:00Z
+    webUrl: "https://hothardware.com/news/samsung-exynos-2200-rdna-2-xclipse-gpu-ray-tracing"
+    ampWebUrl: "https://amp.hothardware.com/news/samsung-exynos-2200-rdna-2-xclipse-gpu-ray-tracing"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/samsung-exynos-2200-rdna-2-xclipse-gpu-ray-tracing"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 51
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/57403/content/Samsung_Exynos_2200.jpg"
+        width: 708
+        height: 424
+        isCached: true
   - title: "Samsung reveals Exynos 2200 chipset with Xclipse GPU"
     excerpt: "South Korean tech giant Samsung, on Tuesday, introduced the Exynos 2200, its latest flagship chipset that will power the Galaxy S22 smartphones in certain regions. According to GSM Arena, the new platform has been built on the 4nm EUV process technology and sports a custom-made GPU named Xclipse."
     publishedDateTime: 2022-01-18T11:21:00Z
@@ -144,6 +176,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Samsung unveils the new Exynos 2200 SoC with Xclipse RDNA2 GPU"
+    excerpt: "Standard CPU configuration After a lot of hassle, Samsung has now officially unveiled more information about its upcoming flagship Exynos 2200 SoC, showing off some of the details regarding the CPU, NPU,"
+    publishedDateTime: 2022-01-18T13:42:00Z
+    webUrl: "https://www.fudzilla.com/news/mobile/54224-samsung-unveils-the-new-exynos-2200-soc-with-xclipse-rdna2-gpu"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 19
   - title: "Samsung Unveils the Exynos 2200 Processor with the Xclipse GPU Powered by AMD's RDNA2 Architecture"
     excerpt: "Samsung announced its new premium mobile processor, the Exynos 2200. The Exynos 2200 is a freshly designed mobile processor with a powerful AMD RDNA 2 architecture based Samsung Xclipse graphics"
     publishedDateTime: 2022-01-18T07:44:00Z

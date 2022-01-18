@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-08-the-first-model-from-baidus-new-ev-brand-jidu-to-use-the-nvidia-drive-orin-system-on-a-chip-to-support-l4-autonomous-driving.md",
+      "title": "The First Model From Baidu's New EV Brand JiDU to Use the NVIDIA DRIVE Orin System-on-a-Chip to Support L4 Autonomous Driving",
+      "excerpt": "JiDU Automotive, the new electric vehicle venture formed by China’s internet technology giant Baidu Inc and Chinese automaker Geely, will use the powerful NVIDIA DRIVE Orin system-on-a-chip (SoC) in its first model to support L4 autonomous driving capabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/5113/The-First-Model-From-Baidu’s-New-EV-Brand-JiDU-to-Use-the-NVIDIA-DRIVE-Orin-System-on-a-Chip-to-Support-L4-Autonomous-Driving",
+      "originalUrl": "https://www.futurecar.com/5113/The-First-Model-From-Baidu’s-New-EV-Brand-JiDU-to-Use-the-NVIDIA-DRIVE-Orin-System-on-a-Chip-to-Support-L4-Autonomous-Driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202201/07/l_61d88307601cb.jpeg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california.md",
       "title": "Volvo Ride Pilot autonomous driving feature to launch in California",
       "excerpt": "Many automotive manufacturers have been working to develop autonomous driving capabilities for their vehicles. The ability for a car to drive itself without supervision from a human is an",
@@ -340,15 +384,15 @@
       "title": "Robot tractors may be heading to a farm near you",
       "excerpt": "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/tech-science/robot-tractors-may-be-heading-to-a-farm-near-you/article",
-      "originalUrl": "https://www.digitaljournal.com/tech-science/robot-tractors-may-be-heading-to-a-farm-near-you/article",
+      "webUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you",
+      "originalUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/72fed9039ac52b59566ae93c015c9e2f8182654b.jpg",
+          "url": "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg",
           "width": 768,
           "height": 512,
           "title": null,
@@ -360,11 +404,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T18:32:00-08:00",
+      "publishedDateTime": "2022-01-05T19:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1339,40 +1383,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-alphabets-waymo-to-expand-ev-fleet-with-geely-partnership.md",
-      "title": "Alphabet’s Waymo to Expand EV Fleet with Geely Partnership",
-      "excerpt": "Waymo has also made clear its intentions ... According to the analyst, Google’s increased focus on artificial intelligence continues to drive greater product functionality and significant ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/alphabets-waymo-to-expand-ev-fleet-with-geely-partnership",
-      "originalUrl": "https://www.nasdaq.com/articles/alphabets-waymo-to-expand-ev-fleet-with-geely-partnership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-waymo-to-expand-ev-fleet-with-geely-partnership?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-waymo-to-expand-ev-fleet-with-geely-partnership?amp",
-      "publishedDateTime": "2021-12-30T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

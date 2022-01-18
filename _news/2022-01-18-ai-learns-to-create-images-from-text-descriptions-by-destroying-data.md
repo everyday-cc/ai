@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2304835-ai-learns-to-create-ima
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2304835-ai-learns-to-create-images-from-text-descriptions-by-destroying-data/amp/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 800
     isCached: true
 
-secured: "E1eW7Sy2QXl8ohB48IUXHvOkT0GD1dRS38Ttzh6gcdR8EFm2j3O76q9ubi+s9u/KQKyuu78h2EztMugaJftNlL2QDc/e9liJ/Yi7rcdtU2bDhnMcZnBBEYdtE08jN1JMEq7nOqdETVTV8Kbp9bX0RJlYl2lacqF8KkYpGQzhphjPXmPbSKv5rlHTfXpmrmPMydSlCQUomykDfmHtAlWkEdd6KGFgxUXIvkcchntDmb5/FDOKzm170HjVy3TsxPyseRMCgMge2z+g2KSRrjalQgfHNfc3WVB+LI/8ST2pMhjqEBJuZItCn5/rHCBqnTyoi+HG/TPUj7x5zzKhvSY7SvjwtJw90uN301gTYY8ZeyA=;Fwd4mTQyunoUvLqreV0KsA=="
+related:
+  - title: "AI Creates Job Disruption But Not Job Destruction"
+    excerpt: "A common concern surrounding automation in recent years is that it will result in widescale job losses as the work previously done by people is taken over by technology. New research shows that isn't the case."
+    publishedDateTime: 2022-01-18T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/adigaskell/2022/01/18/ai-creates-job-disruption-but-not-job-destruction/"
+    ampWebUrl: "https://www.forbes.com/sites/adigaskell/2022/01/18/ai-creates-job-disruption-but-not-job-destruction/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adigaskell/2022/01/18/ai-creates-job-disruption-but-not-job-destruction/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1d79139c632a5e398152b%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "lkiD+D4xkJE2QJ5JVw3xHGnKPC1Ree2xqqzgWoykhIF0NisYxhYa6nIfdBzGT9wrLuaqwowKdGh3h/mFgjuYnxwNkuAMaw8J8OxclnjtNStpjvbUPj23a0OjbZQ9pwUXg09JJJTutfWJrHKd5BSDmva1KksE3fkqkELbepSDH1VZUwAR28hu1nyCPTDJoib56Un1VNusE/3WoT1pQhaUQQjWNRtrGzZpONujesPrwfzs/O+xdH+Pr0SGF8ZxOWZmEigBkPrV73HobaJ/xATguq0kOBNOi2dd+yP3qmgzpx39JbjRcgScR2XlcLNV6aSnfNgUPGJfPurydv8pb/KC0Zz2kdPKLfZht1EUq8atbzFD4auzUFAHE0w4+jSupzQaN7WScy0U+nPhDNXim/UcxhaF9ZVTAas+0ef7RYujW8slNy5eMr3JHIqhM8cR1T+Onx4JLoFgaIKM68kVuNl7xWqTO6pPe0Ypj6MQh4pJiEd0ii5aiMGLv0bXHvq6OYWTPeJJ8XdJ9Z5m3PxD882eyg==;Tmr0XqiGore+j0JKnvxnLA=="
 ---
 

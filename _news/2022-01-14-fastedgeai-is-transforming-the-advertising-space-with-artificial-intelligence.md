@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "China is winning the power battle in AI race with US"
-    excerpt: "There is a widespread belief that China is establishing itself as a new superpower, displacing the United States from the global power structure. China"
-    publishedDateTime: 2022-01-17T21:05:00Z
-    webUrl: "https://www.dailysabah.com/opinion/op-ed/china-is-winning-the-power-battle-in-ai-race-with-us"
-    ampWebUrl: "https://www.dailysabah.com/opinion/op-ed/china-is-winning-the-power-battle-in-ai-race-with-us/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/opinion/op-ed/china-is-winning-the-power-battle-in-ai-race-with-us/amp"
+  - title: "How Machine Learning Is Shaping The Future Of Advertising"
+    excerpt: "Brands can now optimize their campaign language and deliver the right message, at the right time, to the right people, in their unique brand voice."
+    publishedDateTime: 2022-01-18T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/18/how-machine-learning-is-shaping-the-future-of-advertising/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/18/how-machine-learning-is-shaping-the-future-of-advertising/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/18/how-machine-learning-is-shaping-the-future-of-advertising/amp/"
     type: article
     provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/01/17/thumbs/800x531/175401.jpg"
-        width: 1600
-        height: 1062
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6168a643eda3c2e0494d8640%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "S64zIUTz5U5kPEBcuSOxSsbV89gvdwTo6Ovv9EUAk3YULX0IvQOB/pCkJ2SFGWYppVjjHFmQvPtC/5yYezwsMY79hv2rZHsejita4Hg90XFSTAfGr71C2LDPGlo8AOmzEaI2DI4t8QV1LGNNIVvif96iBINY+tTnzHlXgLVFjkD9YcPMeusdhHSIcdqoGcE6tgAOY3hqHsmQbWt2zirRHJfyWGNblTVoc0JVMwDr3f506ZLvRbtX6lcNJvjQoqyKJg45N5zZxFsTurRSUntjK7pNZVG8m7/GG3DEl+GtZim3nYV1nO1qJSsyAJMIt8x1iC8qvXv1fvBRvOQEN+g2S/JwtbeAT+pW5SakhysgKMeQLgzknR9KT5ygJM9o2f4t+RXNzP+8QEBqiVHO3bh891E8UKZyFYwNi0X3UNZsf7vxvml5QrqoBkFQ6X0Up17CCQnbVvME9obpmrsC95S0u642eLmXMlH4M4Y8IFbOsN0ewrtftddRasVcmgFd3g5NXDbnDgXHJBRMkU+zvAIKUw==;uPeAR+eAD0vkjW+NniAOLw=="

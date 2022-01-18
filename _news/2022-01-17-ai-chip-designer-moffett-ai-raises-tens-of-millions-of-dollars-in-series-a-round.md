@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/01/17/moffett-china-series-a-round/"
 ampWebUrl: "https://techcrunch.com/2022/01/17/moffett-china-series-a-round/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/17/moffett-china-series-a-round/amp/"
 type: article
-quality: 98
-heat: 98
+quality: 198
+heat: 198
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 577
     isCached: true
 
-secured: "kntQUjQr4Esr4mcK3jqw4QRlC+WSAmlyAzaejw8aOC29DUgcSBS96SKVjgl2kE+Fjh7PDR48l5N1CXLuQdAipfCvWs2HHPI6AZ04s/cK0X+7dqpptrTvRUGsGJPwr/ckNyowl/MXCOoeG8OW5fD0g8m4KWVHNkC3Kg6Dyz+qyRpK/o4tHx4njObcHSi6iqfpweRW+ZRJAIB9XzAU1srKz1JpbzJ3AkGTUKT4p3H3LMp/77WnoVAWhiHgmhqDQDg8/rTF3LpAo4Wnk4Zm1r3yyEnidgFSMDdYjcbtHzHIdJZD3Q6MDrG09uayiEuGqST5qzVqUw8N36UgzURB1nvTI7wkTRBEFaGwjzU6fyMFjf1F4FO/4+LA4EgdfI4Hf+eE09+5lnalVWpRJLI4CpgRXlY7OtfsCqNa3qFcfmsRg7jqm92eVaYmR8YtyDlgqMLR+CX9UQL3XCCKKtIO2UQnbD2r8EMYgcOITwRArXsDYfsNX5B+XSFs4Jn5mwAZtmLoMrqoXxA8QJsmZnLp/hwkyA==;nog2Dhy0DYqc4TnWN4FIhw=="
+secured: "DrUwErXxyx4NdZ/lgWr/xhniegp2zqQ3l97XgMk5NORDhomoM3jFs/6VxaWhk/Zy095Q0ajUagLXR37eG2P6vWwK4I9t24SywGb2Ow4SFZs7oC9ZE6QeTfGSYuxHpSm95ZMLScesiDWUCqZDyO1LsBCisC3GgCW0Of8wTCITDz6v9h3dnVT9qDeYbsu7+WU13vSA88Bp8dPEdZGVYL1LLlwzb2PLEi+N0g3Tlf9JCfgZogHB4HICjvqrN3FAIbFg4jysY5ZNYve3laQtzgDLIdFxcd+KwPj49n/+bN4mpaK2tAUI4ggKiJYDoby9uSaXph9ch1HeVJFmrkJ9y+Uyi/bYkTrimSB5MdjDHs+Frgj70C+boOurQLMPUFRk7lFU1uefUoHP8LagpCPZGhX703Jm1rQwkvXoiF8N7JPQkLkGH3xRcfTtr7YA6pE0lSgQE8NQokpxFeFZelFYYdni7Hm1miL+YfaLk+6Y7dvSmh2RTKw/LxmIRvmpCvh/LxhPsC0V+2O5HVXAn9xR6H1ChuJsbzaSPqiymb1edVYXW+I=;9S5vrPDRJsyUxk9TCwTD+w=="
 ---
 

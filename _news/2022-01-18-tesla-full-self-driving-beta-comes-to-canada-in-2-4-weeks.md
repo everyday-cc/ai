@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla increases Full Self-Driving package price to $12,000, but not its monthly subscription service"
+    excerpt: "Tesla has increased the price of its Full Self-Driving Capability (FSD) package to $12,000 as previously announced last week. Interestingly, it looks like the automaker decided not to increase the price of its FSD monthly subscription service."
+    publishedDateTime: 2022-01-18T12:58:00Z
+    webUrl: "https://electrek.co/2022/01/18/tesla-increases-full-self-driving-package-price-but-not-monthly-subscription-service/"
+    ampWebUrl: "https://electrek.co/2022/01/18/tesla-increases-full-self-driving-package-price-but-not-monthly-subscription-service/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/18/tesla-increases-full-self-driving-package-price-but-not-monthly-subscription-service/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/01/tesla-fsd-price-increase.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Full Self-Driving videos are prompt California's DMV to rethink policy on accidents"
     excerpt: "In brief California’s Department of Motor Vehicles said it’s “revisiting” its opinion of whether Tesla’s so-called Full Self-Driving feature needs more oversight after a series of videos demonstrate how the technology can be dangerous."
     publishedDateTime: 2022-01-15T11:01:00Z

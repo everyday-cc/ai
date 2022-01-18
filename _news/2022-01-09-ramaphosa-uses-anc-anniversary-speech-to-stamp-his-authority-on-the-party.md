@@ -1,12 +1,10 @@
 ---
 category: news
 title: "Ramaphosa uses ANC anniversary speech to stamp his authority on the party"
-excerpt: "South African President Cyril Ramaphosa has delivered a speech to mark the anniversary of the formation of the African National Congress (ANC) over which he also presides as president. It was the party’s 110th birthday."
-publishedDateTime: 2022-01-08T20:35:00Z
-originalUrl: "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174597"
-webUrl: "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174597"
-ampWebUrl: "https://theconversation.com/amp/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174597"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174597"
+excerpt: "South African President Cyril Ramaphosa delivered a speech to mark the anniversary of the formation of the African National Congress (ANC) over which he also presides as president. It was"
+publishedDateTime: 2022-01-08T19:31:00Z
+originalUrl: "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174596"
+webUrl: "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174596"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://images.theconversation.com/files/439887/original/file-20220108-32414-1kh39je.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
-    isCached: true
-
-secured: "/ZtxzndQHywpNgaRReN/RQOUHYbD8OfXUNi24Hakr03cADTZ/4U/eJKDOaML/joISxJVOTnAsxiZ6jEfNbugPWkiizW2jcR7i4LZGhBZOCnlo/20J+wM27/GUVd64GeW6+mIoAUgcHfrAJ3uzQ9l22DiUuEeNT4LE6JY5qyHM8yt5I1tr074Ib2F5ldruSKL/OCl0ZQmYHEk5/3PMmIovnWBzLnyMC7OeQvWy8enIYSY+yL3L2DerAi5wzkTOD2Yvkyc5ksYHaP4mLnU6kwnGdHBJLTB81/DfPdPdNr1GXX8P7NxoJc+hSRd0Zjdbuxk48q1EanNH3JbRU28AwqycYCkcjsEhLzte8BTTxOr8Kk=;cT9EIBJXdq268NktsCt81w=="
+secured: "JbKhJiS2pW0ZAVUdTgE5Jk+b+DgV5wfXra7z9zVhCKzPzyEbn8s6GUgX+pMW9kXLsHGPtmUOf3w/YEPS+FxbHYpupMtpZqZk0TJYcfOHFsxMKwjlPx7wQWHCfBgYcAXlo+DqdjLrpOOT4hmkYoQ4xDrYZzl3pQdvE11Nd8iAl2FCnf+baULxcV4zPMIQcF4t6lSPNsTb0zYpM9VvXTZWEispyef/ESm4M7jxurvzRYMRhZijpS+TDkJ8+buNAwlnFyhsG/tRywRW9XjvEcqXJqg3Sr6YfXGdyrmsHB0f4cg/3Z5dN57qicEE5kwrf0v0JmF3vNhFL6IWaXpUUQBSK5o429sbQ0hbQgQcBzIbb44=;OO7uRdDc15v0QoM1uMdytA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "PINC AI™ Launches INsights, an Enhanced Technology Offering for Customized, On-Demand Healthcare Analytics"
+    excerpt: "PINC AI™, the technology and services platform of Premier, Inc (NASDAQ: PINC), today launched INsights, an enhanced self-service healthcare solution for the creation of customized, on-demand analytics."
+    publishedDateTime: 2022-01-18T13:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pinc-aitrade-launches-insights-an-enhanced-technology-offering-/2022/01/18/9527595.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
   - title: "PhaseZero Offers CxAnalytics and Data-as-a-Service Solution with Roadmap to Deliver Enterprise AI Applications for Manufacturing Companies"
     excerpt: "PhaseZero, a leading B2B & B2C digital commerce software provider, announced its new CxAnalytics solution for business managers to proactively manage sales and market share growth and mitigate critical business risks."
     publishedDateTime: 2022-01-18T12:37:00Z

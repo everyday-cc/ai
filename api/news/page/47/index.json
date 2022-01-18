@@ -2,6 +2,625 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-12-08-ai-chip-innovator-memryx-hires-veteran-semiconductor-leader-keith-kressin-as-ceo.md",
+      "title": "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO",
+      "excerpt": "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO. MemryX Inc., a pioneering startup building breakthrough silicon for artificial intelligence proce",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/lte/news/2021/12/08/9507094.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2021/12/08/9507094.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-robot-assisted-assembly-of-high-voltage-connectors-for-electric-vehicles.md",
+      "title": "Robot-assisted assembly of high-voltage connectors for electric vehicles",
+      "excerpt": "Against this background, a pioneering system with six Stäubli robots, 13 image processing systems and inline quality control at every ... immediately springs to mind: How did the designers ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103326141/Robot-assisted-assembly-of-high-voltage-connectors-for-electric-vehicles",
+      "originalUrl": "https://menafn.com/1103326141/Robot-assisted-assembly-of-high-voltage-connectors-for-electric-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-12/08/R&AN_550eeimage_story.jpg",
+          "width": 800,
+          "height": 851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-rsip-vision-presents-new-technology-for-non-invasive-planning-of-coronary-intervention.md",
+      "title": "RSIP Vision Presents New Technology for Non-Invasive Planning of Coronary Intervention",
+      "excerpt": "Dec 8, 2021-- RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, today announces a new coronary artery modelling technology.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-health-middle-east-israel-9cf930ff76b14167a9236892bedcc7d7",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-health-middle-east-israel-9cf930ff76b14167a9236892bedcc7d7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-red-hat-brings-ansible-it-automation-engine-to-azure.md",
+      "title": "Red Hat brings Ansible IT automation engine to Azure",
+      "excerpt": "Red Hat is bringing the Ansible Automation Platform to Microsoft's Azure, helping companies manage and scale their IT environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/",
+      "originalUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/amp/",
+      "publishedDateTime": "2021-12-08T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind.md",
+      "title": "The Era Of ‘Pervasive AI’ Has Begun: Get Going Or Get Left Behind",
+      "excerpt": "This new era of AI — \"pervasive AI\" — marks the end of technology paralysis and the beginning of transformation enablement. So, no more excuses. Stop worrying about how AI works and start focusing on what you want it to do for your business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af6519fc3b7cc9b1a728d7%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/amp/",
+      "publishedDateTime": "2021-12-08T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-speech-to-text-api-market-worth-54-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
+      "title": "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/n24501684/speech-to-text-api-market-worth-5-4-billion-by-2026-exclusive-report-by-marketsandmarkets",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/n24501684/speech-to-text-api-market-worth-5-4-billion-by-2026-exclusive-report-by-marketsandmarkets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24501684",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24501684",
+      "publishedDateTime": "2021-12-08T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-focus-waymos-slow-going-in-arizona-opens-up-us-robotaxi-race.md",
+      "title": "FOCUS-Waymo's slow-going in Arizona opens up U.S. robotaxi race",
+      "excerpt": "Dec 8 (Reuters) - Alphabet Inc’s Waymo risks losing its lead in ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/alphabet-waymo-idUSL1N2R80CD",
+      "originalUrl": "https://www.reuters.com/article/alphabet-waymo-idUSL1N2R80CD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/rHX0XRhoxv2jlP3Cl9R9TkKoGhk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VXENWUVLHRBQ5MHF5O3ZDWQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-fegoai-raises-15-million-in-seed-round.md",
+      "title": "Fego.ai Raises $1.5 Million In Seed Round",
+      "excerpt": "Fego.ai has raised $1.5 million in Seed round from 3one4 Capital, Saison Capital, Eximius Ventures, First Cheque and Speciale Invest. The startup, which is one of the earliest open-finance players in India,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/401435",
+      "originalUrl": "https://www.entrepreneur.com/article/401435",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-unstoppable-domains-hires-aws-and-ibm-veteran-sandy-carter-to-executive-team.md",
+      "title": "Unstoppable Domains Hires AWS and IBM Veteran Sandy Carter to Executive Team",
+      "excerpt": "Unstoppable Domains, the leading platform for self-sovereign identity on Web3, today announced the hiring of seasoned Fortune 25 leader Sandy Carter from AWS",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/unstoppable-domains-hires-aws-and-ibm-veteran-sandy-carter-to-executive-team/article_98ed5cd9-fb72-566d-8021-7c891e4f7e6a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/unstoppable-domains-hires-aws-and-ibm-veteran-sandy-carter-to-executive-team/article_98ed5cd9-fb72-566d-8021-7c891e4f7e6a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/e4/5e40845d-7110-5488-ad85-6b5d5ee10786/60c8ced79bf1d.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize",
+          "width": 1194,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-waymos-slow-going-in-arizona-opens-up-us-robotaxi-race.md",
+      "title": "Waymo’s slow-going in Arizona opens up U.S. robotaxi race",
+      "excerpt": "Alphabet Inc's Waymo risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own",
+      "sourceUrl": null,
+      "webUrl": "https://kfgo.com/2021/12/08/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race/",
+      "originalUrl": "https://kfgo.com/2021/12/08/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-12/08/2021-12-08T132723Z_1_LYNXMPEHB70NY_RTROPTP_3_ALPHABET-WAYMO.JPG",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T04:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KFGO",
+        "domain": "kfgo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-uk-government-sets-out-ai-standards-roadmap.md",
+      "title": "UK government sets out AI standards roadmap",
+      "excerpt": "The UK’s Centre for Data Ethics and Innovation (CDEI) has published a roadmap for building an “assurance ecosystem” for artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/uk-government-sets-out-ai-standards-roadmap/id/5093242",
+      "originalUrl": "https://www.research-live.com/article/news/uk-government-sets-out-ai-standards-roadmap/id/5093242",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5093242&name=uk-government-sets-out-ai-standards-roadmap",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5093242&name=uk-government-sets-out-ai-standards-roadmap",
+      "publishedDateTime": "2021-12-08T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-ai-trends-2022-spare-us-the-hype-we-want-business-results.md",
+      "title": "AI Trends 2022: Spare Us The Hype, We Want Business Results",
+      "excerpt": "The latest industry analyst predictions about artificial intelligence (AI) are out, and they’re certain to oust a ton of assumptions we’ve made to date.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa26692c756c16b9644f5a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/amp/",
+      "publishedDateTime": "2021-12-08T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx.md",
+      "title": "MOVES-Qualcomm's AI chip chief departs to take helm at startup MemryX",
+      "excerpt": "Keith Kressin, the executive who oversaw Qualcomm Inc's QCOM.O artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup. Kressin has become chief executive of MemryX,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx",
+      "originalUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp",
+      "publishedDateTime": "2021-12-08T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-healthcare-startup-sukiai-raises-55mn-led-by-march-capital.md",
+      "title": "Healthcare startup Suki.AI raises $55mn led by March Capital",
+      "excerpt": "Suki.AI Inc, a health-tech start-up, has raised $55 million (around ₹412 crore) in a Series C funding round led by March Capital, the company said in a statement. The round also saw participation from Philips Ventures, and existing investors such as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital-11638963113259.html",
+      "originalUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital-11638963113259.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/12/08/600x338/Suki_1638963476381_1638963482280.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital/amp-11638963113259.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital/amp-11638963113259.html",
+      "publishedDateTime": "2021-12-08T03:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022.md",
       "title": "Time To Ante Up: Three AI Trends Financial Services Should Bet On In 2022",
       "excerpt": "For years, financial services have stayed ahead of the curve as early adopters with online banking apps and financial planning tools. Artificial intelligence (AI) has been a key driver of this transformation,",
@@ -487,683 +1106,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-natural-language-processing-time-is-now-to-advance-human-language-insights-for-finance-industry.md",
-      "title": "Natural language processing: time is now to advance human language insights for finance industry",
-      "excerpt": "Investments in natural language processing technology are becoming vital to providing market insights for the finance sector, with the capacity to analyse more data and help identify risks and trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/presented/business/topics/investing-future/article/3158611/natural-language-processing-time-now",
-      "originalUrl": "https://www.scmp.com/presented/business/topics/investing-future/article/3158611/natural-language-processing-time-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/12/07/75c176c6-565b-11ec-b445-8e9a1747a53e_image_hires_120457.jpg?itok=2xdsEBL_&v=1638849908",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-amazon-web-services-aws-a-cheat-sheet.md",
-      "title": "Amazon Web Services (AWS): A cheat sheet",
-      "excerpt": "with the announcement of Amazon Rekognition, a deep-learning based image recognition system; Amazon Polly, a text-to-speech system that supports 25 languages, and differentiates for different ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/amazon-web-services-cheat-sheet/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/amazon-web-services-cheat-sheet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2018/08/06/dc16c8f2-3889-48c1-93c4-e1ea2023bc8d/resize/1200x/944114825f9c21e785c2d84a23acbf9b/awscloud.jpg",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/amazon-web-services-cheat-sheet/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/amazon-web-services-cheat-sheet/",
-      "publishedDateTime": "2021-12-07T17:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-stellantis-wants-to-outfit-cars-with-ai-to-drive-up-revenue.md",
-      "title": "Stellantis wants to outfit cars with AI to drive up revenue",
-      "excerpt": "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mrt.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php",
-      "originalUrl": "https://www.mrt.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/23/11/55/21797705/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mrt.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php",
-      "cdnAmpWebUrl": "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php",
-      "publishedDateTime": "2021-12-07T17:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Midland Reporter-Telegram",
-        "domain": "mrt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-major-outage-at-amazon-disrupts-businesses-across-the-us.md",
-      "title": "Major outage at Amazon disrupts businesses across the US",
-      "excerpt": "A major outage in Amazon’s cloud computing network Tuesday severely disrupted services at a wide range of U.S. companies for more than five hours, the latest sign of just how concentrated",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbs17.com/news/technology/major-outage-hits-amazon-web-services-many-sites-affected/",
-      "originalUrl": "https://www.cbs17.com/news/technology/major-outage-hits-amazon-web-services-many-sites-affected/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cbs17.com/wp-content/uploads/sites/29/2021/12/71ed0401653f47078aa4a634650406bd.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbs17.com/news/technology/major-outage-hits-amazon-web-services-many-sites-affected/amp/",
-      "cdnAmpWebUrl": "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/technology/major-outage-hits-amazon-web-services-many-sites-affected/amp/",
-      "publishedDateTime": "2021-12-07T16:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS17 Raleigh",
-        "domain": "cbs17.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-data-labeling-will-fuel-the-ai-revolution.md",
-      "title": "Data labeling will fuel the AI revolution",
-      "excerpt": "Labeling data for AI using the right techniques helps companies make better decisions and has a measurable impact on business success.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/",
-      "originalUrl": "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-12811727531.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/",
-      "publishedDateTime": "2021-12-07T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-aws-reinvent-2021-four-key-takeaways-for-asean-firms.md",
-      "title": "AWS re:Invent 2021: Four key takeaways for ASEAN firms",
-      "excerpt": "AWS’s third-generation Graviton processor and other offerings in edge computing, machine learning and digital twin technologies are of relevance to organisations in Southeast Asia",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252510641/AWS-reInvent-2021-Four-key-takeaways-for-ASEAN-firms",
-      "originalUrl": "https://www.computerweekly.com/news/252510641/AWS-reInvent-2021-Four-key-takeaways-for-ASEAN-firms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252510641/AWS-reInvent-2021-Four-key-takeaways-for-ASEAN-firms?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510641/AWS-reInvent-2021-Four-key-takeaways-for-ASEAN-firms?amp=1",
-      "publishedDateTime": "2021-12-07T16:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-global-natural-language-processing-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026.md",
-      "title": "Global Natural Language Processing Market Size, Share, Revenue & Demand | Future Opportunities | Forecast upto 2026",
-      "excerpt": "Dec 08, 2021 (The Expresswire) -- In 2022, “Natural Language Processing Market“ revenue was Million USD in 2016, grew to Million USD in 2021, and will reach Million USD in 2026, with a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026-2021-12-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026-2021-12-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-smart-waste-bins-market-size-2022-historical-projected-revenue-figures-growth-rate-throughout-the-forecast-period-2026.md",
-      "title": "Smart Waste Bins Market Size 2022 historical, projected revenue figures, growth rate throughout the forecast period 2026",
-      "excerpt": "It combines unique AI-based object recognition, fill level control and data processing to make waste management convenient and efficientThe global Smart Waste Bins market is valued at considerable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/smart-waste-bins-market-size-2022-historical-projected-revenue-figures-growth-rate-throughout-the-forecast-period-2026-2021-12-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/smart-waste-bins-market-size-2022-historical-projected-revenue-figures-growth-rate-throughout-the-forecast-period-2026-2021-12-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human.md",
-      "title": "Artificial Intelligence in the Food Manufacturing Industry: Machine Conquers Human?",
-      "excerpt": "By Lior Akavia, CEO and co-founder of Seebo Four years ago, Elon Musk famously predicted that artificial intelligence will overtake human intelligence by the year 2025. “We’re headed toward a",
-      "sourceUrl": null,
-      "webUrl": "https://foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/",
-      "originalUrl": "https://foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://foodindustryexecutive.com/wp-content/uploads/2021/12/bigstock-Close-Up-Of-Notebook-With-Crea-440550755.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/amp/",
-      "cdnAmpWebUrl": "https://foodindustryexecutive-com.cdn.ampproject.org/c/s/foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/amp/",
-      "publishedDateTime": "2021-12-07T15:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "foodindustryexecutive",
-        "domain": "foodindustryexecutive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-ex-tesla-impossible-foods-lawyer-takes-top-legal-job-at-robot-farming-startup.md",
-      "title": "Ex-Tesla, Impossible Foods lawyer takes top legal job at robot farming startup",
-      "excerpt": "Myra Pasek, who was the second in-house lawyer hired by Tesla Inc's Elon Musk and the first general counsel for Impossible Foods Inc, is taking on a new startup assignment, joining Silicon Valley-based robotic farming company Iron Ox Inc as general counsel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/legalindustry/ex-tesla-impossible-foods-lawyer-takes-top-legal-job-robot-farming-startup-2021-12-07/",
-      "originalUrl": "https://www.reuters.com/legal/legalindustry/ex-tesla-impossible-foods-lawyer-takes-top-legal-job-robot-farming-startup-2021-12-07/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=60",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-neuralink-and-tesla-have-an-ai-problem-that-elons-money-cant-solve.md",
-      "title": "Neuralink and Tesla have an AI problem that Elon’s money can’t solve",
-      "excerpt": "What do Tesla's FSD system, Neuralink's algorithms, and lazy people all have in common? It'd be great if they worked.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve",
-      "originalUrl": "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Felon-burn-money.jpg&signature=e036468bf08b9464f7f31ef7c598bb32",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T14:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-qa-more-sustainable-concrete-with-machine-learning.md",
-      "title": "Q&A: More-sustainable concrete with machine learning",
-      "excerpt": "MIT-IBM Watson AI Lab researchers aim to design concrete recipe mixtures that use AI to shrink its environmental footprint and cost, while recycling byproducts and increasing performance.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207",
-      "originalUrl": "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202111/man-making-cement.jpg",
-          "width": 999,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T13:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-ex-tesla-engineers-claim-full-self-driving-autopilot-video-was-manipulated-and-edited-out-barrier-collision.md",
-      "title": "Ex Tesla Engineers Claim Full-Self Driving Autopilot Video Was Manipulated And Edited Out Barrier Collision",
-      "excerpt": "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/",
-      "originalUrl": "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/",
-      "publishedDateTime": "2021-12-07T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-operational-intelligence-startup-netspring-lands-13m.md",
-      "title": "Operational intelligence startup NetSpring lands $13M",
-      "excerpt": "NetSpring, a startup offering an AI-driven operational intelligence solution, today announced it has raised $13 million in a series A round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/07/operational-intelligence-startup-netspring-lands-13m/",
-      "originalUrl": "https://venturebeat.com/2021/12/07/operational-intelligence-startup-netspring-lands-13m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-554489637-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/07/operational-intelligence-startup-netspring-lands-13m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/operational-intelligence-startup-netspring-lands-13m/amp/",
-      "publishedDateTime": "2021-12-07T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

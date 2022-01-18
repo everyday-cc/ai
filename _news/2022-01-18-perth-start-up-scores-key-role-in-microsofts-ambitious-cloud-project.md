@@ -28,16 +28,32 @@ related:
   - title: "Microsoft forms new coalition for AI in healthcare"
     excerpt: "Microsoft has created the Artificial Intelligence Industry Innovation Coalition (AI3C) to drive the use of artificial intelligence (AI) in healthcare by providing recommendations, tools and best practices."
     publishedDateTime: 2022-01-17T19:57:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/microsoft-forms-new-coalition-ai-healthcare"
+    webUrl: "https://www.technologyrecord.com/Article/microsoft-forms-new-coalition-for-ai-in-healthcare-128027"
     type: article
     provider:
       name: HealthLeaders Media
       domain: healthleadersmedia.com
-    quality: 71
+    quality: 171
     images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
-        width: 820
-        height: 312
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10675/img-Microsoft_AI_healthcare_web.jpg"
+        width: 940
+        height: 443
+        isCached: true
+  - title: "Microsoft and Virgin Invest in Tesla-Like Self-Driving Company Wayve"
+    excerpt: "Self-driving start up Wayve is getting $200 million to develop its business from Microsoft, Baillie Gifford and Virgin Group."
+    publishedDateTime: 2022-01-18T13:20:00Z
+    webUrl: "https://www.barrons.com/articles/microsoft-virgin-tesla-wayve-self-driving-51642511960"
+    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-virgin-tesla-wayve-self-driving-51642511960"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-virgin-tesla-wayve-self-driving-51642511960"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 76
+    images:
+      - url: "https://images.barrons.com/im-469228/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Cleveland Clinic, Microsoft among organizations in new healthcare AI coalition"
     excerpt: "Microsoft said the Artificial Intelligence Industry Innovation Coalition aims to accelerate the adoption of AI in healthcare. It plans to do so through showcasing new technologies, educating the industry on AI best practices and use cases,"
@@ -80,6 +96,20 @@ related:
       - url: "https://medcitynews.com/uploads/2018/06/GettyImages-865552594.jpg"
         width: 788
         height: 443
+        isCached: true
+  - title: "CVS Health and Microsoft alliance: an example of an extended partnership"
+    excerpt: "Microsoft and CVS Health have announced a new strategic alliance focusing on personalised care and accelerating digital transformation for the benefit of CVS customers and its employees."
+    publishedDateTime: 2022-01-18T13:23:00Z
+    webUrl: "https://pharmaphorum.com/digital/cvs-health-microsoft-alliance-extended-partnership/"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 38
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2022/01/partnership.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "znBRLadxHJ+wFPBgXYviXe1DDEAQX1t9SLb2mIbqJZQWlDnn8EJPIN1U/murZl9Qd2L6AZEvMI0aVGocScHRTFfpYSed7pDqMHGuCEqs0LFNU0qN2jn9hV7ZDHUEfoE5IKZWNxW/KLkql5QVV38XRm9oK9mpzIs6yK3qjiSRdN4o2amQL1x9wYClUK0oqXSj0hysERSpyxOSzEVyNKRFJekwQbkP+NSPP/9ze+/VVZlKr9jF4JWuh/N4NB4RvT0Ve2ADuW/7KpkJQtK/huYYw44JyuFnhOIY7CkJ9IzARNmf/LNcsCUdWe1rOVycubUR9EIj58k5Yiwo3asMTr3+lpB7GkrJ+7FUeGYtmtxyvHA=;raCs937KDQY0UoJzKNf67g=="

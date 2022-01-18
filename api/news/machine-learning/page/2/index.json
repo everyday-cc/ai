@@ -2,6 +2,155 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-07-farmsense-uses-sensors-and-machine-learning-to-bug-proof-crops.md",
+      "title": "FarmSense uses sensors and machine learning to bug-proof crops",
+      "excerpt": "The damages caused to agriculture by insect pests like the Japanese beetle (pictured above) exceed $100 billion every year, according to the Agricultural Research Service of the USDA. And along with plant diseases,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/",
+      "originalUrl": "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Copy-of-Shail-and-Eamonn.jpg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/amp/",
+      "publishedDateTime": "2022-01-07T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-alteryx-announces-intent-to-buy-trifacta.md",
+      "title": "Alteryx announces intent to buy Trifacta",
+      "excerpt": "Analytics company Alteryx announced late yesterday its intent to acquire data preparation provider Trifacta for $400 million in cash. The deal will also include $75 million of restricted stock as inducement for Trifacta staff to say on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/alteryx-announces-intent-to-buy-trifacta/",
+      "originalUrl": "https://www.zdnet.com/article/alteryx-announces-intent-to-buy-trifacta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ea61aba202ff04580cd2ef338f3149199c6a2085/2022/01/07/fc47fb37-4b90-423d-a4d5-840cfd90649d/citizen-ds.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alteryx-announces-intent-to-buy-trifacta/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alteryx-announces-intent-to-buy-trifacta/",
+      "publishedDateTime": "2022-01-07T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement.md",
+      "title": "AI and machine learning adoption is the future of security and law enforcement",
+      "excerpt": "Video analytics based on AI/ML algorithms are gaining popularity with time and are soon expected to become a requisite for all law enforcement departments and public places to optimise safety",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
+      "originalUrl": "https://www.forbesindia.com/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2022/Jan/img_175481_cctv.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
+      "publishedDateTime": "2022-01-07T02:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-aiml-machine-learning-students-develop-beer-using-ai.md",
       "title": "AIML machine learning students develop beer using AI",
       "excerpt": "A new South Australian craft beer has been designed entirely by AI by the University of Adelaide’s AIML and Barossa Valley Brewing.",
@@ -1239,120 +1388,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-role-of-ai-and-machine-learning-across-different-sectors-in-2021.md",
-      "title": "Role of AI and Machine Learning across Different Sectors in 2021",
-      "excerpt": "Technology is playing a vital role in every sector to make the nation technologically equipped and capable. Here are a few business leaders sharing their thoughts on how their companies are",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/12/29/1138517-ai.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
-      "publishedDateTime": "2021-12-29T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-for-personalized-financial-services.md",
-      "title": "Global AI and Advance Machine Learning in BFSI Market Report (2021 to 2030): Increasing Preferences for Personalized Financial Services",
-      "excerpt": "The \"AI and Advance Machine Learning in BFSI Market By Component, Deployment Model, Enterprise Size and Application:",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24809416/global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-f",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24809416/global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24809416",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24809416",
-      "publishedDateTime": "2021-12-29T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-air-pollution-prediction-in-smart-city-deep-learning-approach.md",
-      "title": "Air-pollution prediction in smart city, deep learning approach.",
-      "excerpt": "In this paper, we implemented a deep learning solution to predict the hourly forecast of PM2.5 concentration in Beijing, China, based on CNN-LSTM, with a spatial-temporal feature by combining historical data of pollutants,",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/34956819",
-      "originalUrl": "https://europepmc.org/article/MED/34956819",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-28T23:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

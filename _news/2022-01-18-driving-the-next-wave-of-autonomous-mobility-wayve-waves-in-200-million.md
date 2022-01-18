@@ -52,6 +52,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "UK self-driving startup Wayve raises $200M to scale up technology"
+    excerpt: "British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
+    publishedDateTime: 2022-01-18T03:18:00Z
+    webUrl: "https://www.foxbusiness.com/technology/uk-self-driving-startup-wayve-raises-200m-to-scale-up-technology"
+    ampWebUrl: "https://www.foxbusiness.com/technology/uk-self-driving-startup-wayve-raises-200m-to-scale-up-technology.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/uk-self-driving-startup-wayve-raises-200m-to-scale-up-technology.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a07a609c-c5af-4b95-bc06-8b59b63073ac/1137c0fc-b96c-4789-823b-c3c91dca87f9/1280x720/match/image.jpg?pubId=854081161001"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "UK Self-Driving Startup Wayve Raises $200 Million to Scale up Technology"
     excerpt: "British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
     publishedDateTime: 2022-01-18T00:25:00Z
@@ -61,20 +77,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 48
-  - title: "UK self-driving startup Wayve raises $200M to scale up technology"
-    excerpt: "The London-based company relies on a system that actively learns how to drive as opposed to the conventional autonomous method of relying on digital maps and coding to tell vehicles how to operate."
-    publishedDateTime: 2022-01-18T09:33:00Z
-    webUrl: "https://europe.autonews.com/automakers/uk-self-driving-startup-wayve-raises-200m-scale-technology"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 37
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Wayve%20web.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "UK self-driving startup Wayve raises US$200 million to scale up technology"
     excerpt: "LONDON: British self-driving technology startup Wayve said on Tuesday (Jan 18) it has raised US$200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
     publishedDateTime: 2022-01-18T01:10:00Z

@@ -39,15 +39,6 @@ related:
         width: 1222
         height: 676
         isCached: true
-  - title: "Moment AI: Automotive safety startup builds AI for self-driving cars"
-    excerpt: "Moment AI develops a software for the autonomous vehicle industry to protect vulnerable drivers from accidents — and now see why this Arlington company is one of our Startups to Watch for 2022."
-    publishedDateTime: 2022-01-14T09:00:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2022/01/14/startups-to-watch-moment-ai-self-driving-car-tech.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "m02ybN+roxL/XS78OfPd1QpZdYHfhUvZGRcsBcz3jNV0b12W4TGkvmRl1vGbzJDJpw5zrn5qJCZ9g+XszcMG5DuLY7q8V9OIfvXCT5Q8F5eIz1ikimuJoBfzY4brSL/arpsISQboHhZ/P5Eg10ZJfnuD2sDj5EblhFoUJimXdyl3Nuc7LpK5bnW4fYhYsns1juEAKP336fuRMJg3aYTSd5aqLJ//D8L9xHQj42DTedl32iIGwlS7a1ks2t4iQ/OnRm/BywzyHSBPblLKJj45QD99roq6r55MzArbbmT21a6BGCEcge0IWrtsuq+/9HusyJ8cAxBYeNL44FgDEzCA+z4JRfInYz3sQmVw++M62IU=;w7Hp+KY251+80p/5eexbmA=="
 ---

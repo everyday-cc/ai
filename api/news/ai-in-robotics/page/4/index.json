@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-27-artificial-intelligence-chip-market-2021-will-record-massive-growth-trend-analysis-and-forecast-till-2028.md",
+      "title": "Artificial Intelligence Chip Market 2021 will Record Massive Growth, Trend Analysis and Forecast till 2028",
+      "excerpt": "Artificial intelligence AI chips are specialized silicon chips which incorporate AI technology and are used for machine learning AI helps in eliminating or minimizing the risk to human life in many industry verticals The need for more efficient systems for",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
+      "originalUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc27270452_g.jpg",
+          "width": 737,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
+      "publishedDateTime": "2021-12-26T22:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics.md",
       "title": "Rajasthan Government Sets Aside Rs 200 Crores To Train Youth In AI, Ml And Robotics",
       "excerpt": "Rajiv Gandhi Center for Advanced Technology will be set in Jaipur, which would conduct certificate courses and multidisciplinary research in AI, ML, Robotics and Virtual Reality.",
@@ -1296,50 +1340,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding.md",
-      "title": "Famed Robot-Run ETF Says This Is Why It Now Has Tesla As Its Top Holding",
-      "excerpt": "The Qraft AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence that acquired a new stake in Tesla Inc. (NASDAQ:TSLA) earlier this month, has revealed why it now has the electric vehicle maker as its top holding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/12/24614006/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding",
-      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/12/24614006/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/trac-vu-8trfamglgbq-unsplash_1.jpg",
-          "width": 3942,
-          "height": 5905,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24614006",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24614006",
-      "publishedDateTime": "2021-12-15T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

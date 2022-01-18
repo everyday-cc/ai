@@ -1,26 +1,29 @@
 ---
 category: news
 title: "UK self-driving startup Wayve raises $200M to scale up technology"
-excerpt: "The London-based company relies on a system that actively learns how to drive as opposed to the conventional autonomous method of relying on digital maps and coding to tell vehicles how to operate."
-publishedDateTime: 2022-01-18T09:33:00Z
-originalUrl: "https://europe.autonews.com/automakers/uk-self-driving-startup-wayve-raises-200m-scale-technology"
-webUrl: "https://europe.autonews.com/automakers/uk-self-driving-startup-wayve-raises-200m-scale-technology"
+excerpt: "British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
+publishedDateTime: 2022-01-18T03:18:00Z
+originalUrl: "https://www.foxbusiness.com/technology/uk-self-driving-startup-wayve-raises-200m-to-scale-up-technology"
+webUrl: "https://www.foxbusiness.com/technology/uk-self-driving-startup-wayve-raises-200m-to-scale-up-technology"
+ampWebUrl: "https://www.foxbusiness.com/technology/uk-self-driving-startup-wayve-raises-200m-to-scale-up-technology.amp"
+cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/uk-self-driving-startup-wayve-raises-200m-to-scale-up-technology.amp"
 type: article
-quality: 37
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Wayve%20web.jpg"
-    width: 800
-    height: 600
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a07a609c-c5af-4b95-bc06-8b59b63073ac/1137c0fc-b96c-4789-823b-c3c91dca87f9/1280x720/match/image.jpg?pubId=854081161001"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -89,6 +92,6 @@ related:
         height: 540
         isCached: true
 
-secured: "4CEGz0s/4eqq/tToOa9AtieuRwxY1oOo7v4eLsx5pa7i92NQp7ZbbSzjdsrCU8LJy8krHQeVFZLlFw6NmCpAJeTE7bdg+TUgC2kO9dBfF2Qyw6L1U0a87a9PMWMeEVItQq05+WQIxj4NL7CzrJzVtvnfQOscGeXTIRVTDJLh35ISf06yV20NXKxBuFHeB8Ez27Ebn0TENSpyu5NXeZGzoC8WvHGSn8p4ktKaKjIxXTeUozTmX/R26znaJz074cKOgBvFtqjgqFF+N9OYfycuRHDJvbHbp2OCl018nBPtrbV+KpW/YB7rgfEiNrxkPW+sneLidC8MYxG6Ue4DbESmmwrbh/2pU1fmtc0prVg0f+A=;w/JcccZKG2yr8cD0j6ZRmg=="
+secured: "aGtEsrYyCamYbjjXCe2RD1Sz8KT5XVjXZ6JeTVUKjg1Sc70FZKBAu/KKfUnD0LBFlMfI54q61aq08av12K3RwJV4n/VJiF6sm0k90aiEs3Yn1h451MsBq+gFtjv8jIQcQ6dJFBYWdUOjB9fvBqkx/Zre9fo1Ioj6UwRZmijP46r6u2em1nOft1lWI9zLnz71iqutWqy+oAjhPGJSE+jGDQ/61ukbOvs+6olv9Lcavm2Ma0S6lGb/COs5WJup0+LFrZJKvE5HS7Zm7a8BFdUuRlDXGQDIIow/dBfwsQWJZIZiLDBlA0SFZc/AJF0qBmTwjVFdw/oeQYIXeDGCS0DTiBbpulmKV6zvN1QGXmjlECw=;M1Svf70rQuFhAij4ft1sfA=="
 ---
 

@@ -2,6 +2,148 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-10-how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders.md",
+      "title": "How Sars is using machine learning and big data to nail tax offenders",
+      "excerpt": "The South African Revenue Service said its efforts to expand the use of data to detect tax non-compliance is beginning to bear fruit.",
+      "sourceUrl": null,
+      "webUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/",
+      "originalUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcentral.co.za/wp-content/uploads/2021/09/tax-2156-1120-2.jpg",
+          "width": 2156,
+          "height": 1120,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/?amp=1",
+      "cdnAmpWebUrl": "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/?amp=1",
+      "publishedDateTime": "2021-12-10T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCentral",
+        "domain": "techcentral.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-how-machine-learning-is-changing-finance-forever.md",
+      "title": "How Machine Learning is Changing Finance Forever",
+      "excerpt": "Innovation drives things forward no matter the industry that is on the receiving end. In finance, innovation over the last decade has seen how financial institutions, banks, and lenders interact with their customers and provide financial services change exponentially.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/how-machine-learning-is-changing-finance-forever/",
+      "originalUrl": "https://techbullion.com/how-machine-learning-is-changing-finance-forever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/12/How-Machine-Learning-is-Changing-Finance-Forever.jpeg",
+          "width": 1200,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/how-machine-learning-is-changing-finance-forever/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-machine-learning-is-changing-finance-forever/amp/",
+      "publishedDateTime": "2021-12-09T21:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-brainbox-ai-brings-machine-learning-to-building-controls.md",
+      "title": "BrainBox AI brings machine learning to building controls",
+      "excerpt": "BrainBox AI focuses primarily on controlling HVAC systems, which accounts for the majority of the energy consumption in most buildings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/",
+      "originalUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1282120747-e1638981626372.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/",
+      "publishedDateTime": "2021-12-09T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-instabase-adds-deep-learning-to-make-sense-of-unstructured-data.md",
       "title": "Instabase adds deep learning to make sense of unstructured data",
       "excerpt": "Instabase hopes to help businesses benefit from unstructured data with the help of some good, old-fashioned AI",
@@ -1269,157 +1411,6 @@
       "provider": {
         "name": "Variety",
         "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021.md",
-      "title": "Top 12 AI and machine learning announcements at AWS re:Invent 2021",
-      "excerpt": "Invent 2021 conference, Amazon announced a slew of new Amazon Web Services features powered by AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
-      "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/",
-      "publishedDateTime": "2021-12-03T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "AI in Finance",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-amazon-sagemaker-the-easiest-way-to-build-artificial-intelligence-models-became-even-easier.md",
-      "title": "Amazon SageMaker – The Easiest Way To Build Artificial Intelligence Models Became Even Easier",
-      "excerpt": "VIce President and Principal Analyst Quantum, AI, and Space, Paul Smith-Goodson dives into two of Amazon SageMaker's new features that were announced at one of the most important annual technical cloud conferences,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa5933cafd39f832c92b71%2F0x0.jpg%3FcropX1%3D18%26cropX2%3D572%26cropY1%3D0%26cropY2%3D312",
-          "width": 554,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/amp/",
-      "publishedDateTime": "2021-12-03T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign.md",
-      "title": "Moloco Earns 2021 SMARTIES Award for Machine Learning & AI Campaign",
-      "excerpt": "Esteemed marketing trade association MMA has recognized Moloco as a leader in marketing technology REDWOOD CITY, Calif. (PRWEB) Moloco (",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/p24428632/moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/p24428632/moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24428632",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24428632",
-      "publishedDateTime": "2021-12-03T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

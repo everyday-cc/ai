@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-brainchip-holdings-ltd-944dfbaa40d34d96b09a42e7bf3a634a"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "BrainChip launches neuromorphic process for AI at the edge"
+    excerpt: "BrainChip claims to be the first commercial producer of neuromorphic AI chips, which could deliver benefits in ultra-low power."
+    publishedDateTime: 2022-01-18T13:00:00Z
+    webUrl: "https://venturebeat.com/2022/01/18/brainchip-launches-neuromorphic-process-for-ai-at-the-edge/"
+    ampWebUrl: "https://venturebeat.com/2022/01/18/brainchip-launches-neuromorphic-process-for-ai-at-the-edge/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/brainchip-launches-neuromorphic-process-for-ai-at-the-edge/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1302698093-e1642459887271.jpg?w=1200&strip=all"
+        width: 1200
+        height: 616
+        isCached: true
 
 secured: "jUVdqWDeTOR2hU52FUdfNCilulP/PQkEEfqznsFaDGEe+yXBHB0v1U+MxBcwb59zC4uTA9XvSLl7SkMvJ1f/wIuk6Fr9hP+Y2uvdkHye70TIE0dVVa5/eEYW5rsoTWcQivXzUXVlro6BFyn+7ab+1kkyNDbbylpMzirywWrR/3kkEaRAV0jMyzjaQZW+bAZCRo0FLpqmCRNJy4Z/0+BhHbtelercNjzpaLsdrS2gmMw8EX3Fp7//dTeY4ntgqD1/8os5QDrF8gF7DybT7C0+IMsG0ucZH+jW+8tsW+u/hEgG8Hr70yi+guhwnNg+L4GWXLAIqJU0OlqncZkx99n1btuy0FO42QnwjD6eVXfbOMI=;sRApnZti+Tk4JS6riDt0zA=="
 ---

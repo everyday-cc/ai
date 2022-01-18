@@ -2,6 +2,645 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-12-03-us-rejects-calls-for-regulating-or-banning-killer-robots.md",
+      "title": "US rejects calls for regulating or banning ‘killer robots’",
+      "excerpt": "US official proposes ‘non-binding code of conduct’ at United Nations but campaigners disagree",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_70_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0fe3dc3678121882d7e62f5530c8dae3",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
+      "publishedDateTime": "2021-12-02T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-after-being-pushed-out-of-google-timnit-gebru-forms-her-own-ai-research-institute-dair.md",
+      "title": "After being pushed out of Google, Timnit Gebru forms her own AI research institute: DAIR",
+      "excerpt": "Timnit Gebru, one of the leaders of Google’s ethics in AI team and one of the foremost experts in that topic, was fired after sending an email of concern to her team. Now she has set up shop herself with a brand new research institute,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dair-institute.org/press-release",
+      "originalUrl": "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/wc2kmxvk/production/8ba934ca12f0a32532ca9cca98d37500b7641e93-1440x695.png",
+          "width": 1440,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-this-russian-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots.md",
+      "title": "This Russian Company Will Pay You $200,000 To Use Your Face And Voice On Their Robots",
+      "excerpt": "Advertisement Promobotis is a Russian robotic company that is offering $200,000 to people in return for the right to use their face and voice on its robots forever. The company is currently developing “a humanoid robot assistant which will work in hotels,",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/",
+      "originalUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-Sl7zbvKjbvj7Ba1n.jpg",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/",
+      "publishedDateTime": "2021-12-02T10:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-that-radio-dj-you-hear-might-already-be-a-robot.md",
+      "title": "That radio DJ you hear might already be a robot",
+      "excerpt": "Our phones, speakers and rice cookers have been talking to us for years, but their voices have been robotic. Seattle-based AI startup WellSaid Labs says it has finessed the technology to create",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/",
+      "originalUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/12/robot-radio-dj-ai-voice-01.jpeg?quality=90&strip=all&w=809",
+          "width": 809,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/amp/",
+      "publishedDateTime": "2021-12-02T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-artificial-intelligence-ai-to-detect-signs-of-anxiety.md",
+      "title": "Artificial Intelligence (AI) to Detect Signs of Anxiety",
+      "excerpt": "Artificial intelligence (AI) has been used to detect behavioral signs of anxiety with more than 90% accuracy, reveled researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-can-detect-stroke-and-dementia-risk.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
+      "publishedDateTime": "2021-12-02T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-ai-powered-ecommerce-platform-convious-raises-12m.md",
+      "title": "AI-powered ecommerce platform Convious raises $12M",
+      "excerpt": "Convious, an AI-driven ecommerce platform, seeks to help the experience economy transition from legacy systems to more modern, industry-specific, cloud-based platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-convious-raises-12m/",
+      "originalUrl": "https://venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-convious-raises-12m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1210935014-e1634839477614.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-convious-raises-12m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-convious-raises-12m/amp/",
+      "publishedDateTime": "2021-12-02T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises.md",
+      "title": "Microsoft and KPMG team up to bring Azure Quantum to more enterprises",
+      "excerpt": "Microsoft announced that it and KPMG, now an Azure Quantum Systems Integrator, will use quantum-inspired algorithms to solve problems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/",
+      "originalUrl": "https://venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/two-module-quantum-computer-prototype-25111.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/amp/",
+      "publishedDateTime": "2021-12-02T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-robot-company-wants-to-give-you-200000-for-your-face-and-voice.md",
+      "title": "Robot Company Wants To Give You $200,000 For Your Face And Voice",
+      "excerpt": "In an odd proposal, a Russian company is willing to pay you $200,000 if you forfeit your face and voice to help develop its next robot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/",
+      "originalUrl": "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/12/iStock-1320626664-1024x522.jpg",
+          "width": 1024,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/",
+      "cdnAmpWebUrl": "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/",
+      "publishedDateTime": "2021-12-02T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Black Enterprise",
+        "domain": "blackenterprise.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push.md",
+      "title": "Picsart acquires R&D company DeepCraft in seven-figure deal to aid video push",
+      "excerpt": "The company believes DeepCraft’s AI technical talent and its breakthroughs in computer vision and machine learning will enhance Picsart’s own AI technology and help the company better support ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/",
+      "originalUrl": "https://techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Picsart_DC_04-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/amp/",
+      "publishedDateTime": "2021-12-02T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance.md",
+      "title": "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance",
+      "excerpt": "Through a previously unreported vulnerability, attackers could run any code on an AWS SageMaker Jupyter Notebook Instance across accounts, access the Notebook Instance metadata endpoint ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-12/54650246-lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-12/54650246-lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-picsart-to-acquire-computer-vision-and-ai-company-deepcraft.md",
+      "title": "Picsart to Acquire Computer Vision and AI Company DeepCraft",
+      "excerpt": "Picsart, the world's leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an undisclosed sum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aai-working-on-facial-recognition-based-passenger-boarding-system-government.md",
+      "title": "AAI working on facial recognition-based passenger boarding system: Government",
+      "excerpt": "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/articleshow/88056152.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/articleshow/88056152.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-88056152,imgsize-5438,width-800/88056152.jpg",
+          "width": 800,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88056152.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88056152.cms",
+      "publishedDateTime": "2021-12-02T07:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software.md",
+      "title": "Future Chip Innovation Will Be Driven By AI-Powered Co-Optimization Of Hardware And Software",
+      "excerpt": "The invention of the printing press and the ascension of the internet come to mind as similar inflection points, but current innovation trends are being driven by artificial intelligence (AI) at scale,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8e24e35c83b6938d1e648%2F0x0.jpg",
+          "width": 1000,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/",
+      "publishedDateTime": "2021-12-02T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-artificial-intelligence-based-spine-modeling-now-available.md",
+      "title": "Artificial Intelligence Based Spine Modeling Now Available",
+      "excerpt": "Based on artificial intelligence (AI) algorithms from IBM’s Watson Health, Ricoh USA, the U.S. arm of the Japanese digital services and information company, has created a remarkable, must-be-seen-to-be-believed,",
+      "sourceUrl": null,
+      "webUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/",
+      "originalUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ryortho.com/wp-content/uploads/2021/12/ArtificialIntelligence_ROCOH_WEB.jpg",
+          "width": 850,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/amp/",
+      "cdnAmpWebUrl": "https://ryortho-com.cdn.ampproject.org/c/s/ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/amp/",
+      "publishedDateTime": "2021-12-02T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orthopedics This Week",
+        "domain": "ryortho.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-how-machine-learning-aids-new-mathematics-discoveries.md",
       "title": "How Machine Learning Aids New Mathematics Discoveries",
       "excerpt": "Computers have long been used to aid mathematicians when it comes to solving long, complex and experimental equations. Additionally, machine learning and AI have also found application in disproving mathematical conjectures and theorems by being able to toil through vast fields of data and spot anomalies.",
@@ -509,639 +1148,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-enzolytics-announces-progress-as-it-recognizes-world-aids-day.md",
-      "title": "Enzolytics Announces Progress As It Recognizes World AIDS Day",
-      "excerpt": "COLLEGE STATION, TX / ACCESSWIRE / December 2, 2021 / Enzolytics wishes to recognize and acknowledge World AIDS Day - a day to call attention to the continued need for a more effective treatment for HIV,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/Accesswire/coronavirus-pandemic-technology-science-business-health-b3280a8c4aa90116b7919d23da08f298",
-      "originalUrl": "https://apnews.com/press-release/Accesswire/coronavirus-pandemic-technology-science-business-health-b3280a8c4aa90116b7919d23da08f298",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-you-can-now-get-150000-if-you-let-a-robot-use-your-face-and-voice.md",
-      "title": "You can now get £150,000 if you let a robot use your face and voice",
-      "excerpt": "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "originalUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmhlci5pZVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMlxcXC8wMjEyMTYyNlxcXC9TdHVkaW8tUHJvamVjdC0yMDIxLTEyLTAyVDEyMTYwOC43MDYucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_aWQ9YjZmODRkNjI3YjQxMTRmMDBmNTBcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMmRjMjZjNzA0ZTc4YWE2N2QxMzkzMDY3NmEwODQzZDIxMzY1ZGYyYyJ9/studio-project-2021-12-02t121608-706.png",
-          "width": 647,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "cdnAmpWebUrl": "https://www-her-ie.cdn.ampproject.org/c/s/www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "publishedDateTime": "2021-12-02T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Her",
-        "domain": "www.her.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-the-movement-to-hold-ai-accountable-gains-more-steam.md",
-      "title": "The Movement to Hold AI Accountable Gains More Steam",
-      "excerpt": "A New York City law requires algorithms used in hiring to be “audited” for bias. It’s the first in the US—and part of a larger push toward regulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/",
-      "originalUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61a8157414eaf61b0530a9fd/master/pass/Business_Papers_1332101305.jpg",
-          "width": 2400,
-          "height": 1601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp",
-      "publishedDateTime": "2021-12-02T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-introduces-a-new-platform-for-developing-robotics-applications.md",
-      "title": "AWS Introduces A New Platform For Developing Robotics Applications",
-      "excerpt": "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/",
-      "originalUrl": "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters.md",
-      "title": "Radium looks to speed up AI and ML jobs in cloud datacenters",
-      "excerpt": "Radium, which uses AI and machine learning to accelerate cloud hardware, is deploying its solutions to cloud datacenters run by Cyxtera.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/",
-      "originalUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/02/data-center-cloud-wavebreakmedia-shutterstock.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/amp/",
-      "publishedDateTime": "2021-12-02T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks.md",
-      "title": "Can Intel-Powered, Evo-Certified Laptops Challenge Apple’s M1 MacBooks?",
-      "excerpt": "Another feature central to the new processors is Artificial Intelligence ... thanks to the hardware-based Intel Gaussian and Neural Network Accelerator 2.0, as well as Intel Iris Xe integrated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/12/02/can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks/",
-      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/12/02/can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619cb8d35251bb3caba8855d%2F0x0.jpg",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/12/02/can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/12/02/can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks/amp/",
-      "publishedDateTime": "2021-12-02T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-ambarella-booming-on-ai-based-chip-demand-strong-earnings.md",
-      "title": "Ambarella Booming on AI-based Chip Demand, Strong Earnings",
-      "excerpt": "Ambarella has recently experienced significant growth, fueled by rising demand for its artificial intelligence (AI)-based silicon products, particularly in the automotive and home security industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ambarella-booming-on-ai-based-chip-demand-strong-earnings",
-      "originalUrl": "https://www.nasdaq.com/articles/ambarella-booming-on-ai-based-chip-demand-strong-earnings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ambarella-booming-on-ai-based-chip-demand-strong-earnings?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-booming-on-ai-based-chip-demand-strong-earnings?amp",
-      "publishedDateTime": "2021-12-02T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-big-tech-wants-to-compete-with-banks-let-them-deal-with-ai-ethics-first.md",
-      "title": "Big tech wants to compete with banks? Let them deal with AI ethics first",
-      "excerpt": "As big tech moves into the world of finance, AI ethics will be one of its biggest challenges including bias and ensuring data privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-ethics-a-challenge-for-big-tech-finance",
-      "originalUrl": "https://thenextweb.com/news/ai-ethics-a-challenge-for-big-tech-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Farticle6.jpg&signature=f30c067509245f7800cef330b33a661b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-ai-based-fever-detection-camera-market-2021-2028.md",
-      "title": "AI-based Fever Detection Camera Market 2021-2028",
-      "excerpt": "New study report \" AI-based Fever Detection Camera. Market Overview- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals,",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2482636/ai-based-fever-detection-camera-2021-global-market-key-players",
-      "originalUrl": "https://www.openpr.com/news/2482636/ai-based-fever-detection-camera-2021-global-market-key-players",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc02850118_g.jpg",
-          "width": 800,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2482636/ai-based-fever-detection-camera-2021-global-market-key-players",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2482636/ai-based-fever-detection-camera-2021-global-market-key-players",
-      "publishedDateTime": "2021-12-02T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-artificial-intelligence-in-the-global-healthcare-market-2021-2025-growing-potential-of-ai-based-tools-for-elderly-care-researchandmarketscom.md",
-      "title": "Artificial Intelligence in the Global Healthcare Market 2021-2025: Growing Potential of AI-Based Tools for Elderly Care - ResearchAndMarkets.com",
-      "excerpt": "Insights & Forecast with Potential Impact of COVID-19 (2021-2025)\" report has been added to ResearchAndMarkets.com's offering. The global AI in healthcare market is forecasted to record a value of US$22.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/b24400000/artificial-intelligence-in-the-global-healthcare-market-2021-2025-growing-potential-of-ai-based-to",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/b24400000/artificial-intelligence-in-the-global-healthcare-market-2021-2025-growing-potential-of-ai-based-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24400000",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24400000",
-      "publishedDateTime": "2021-12-02T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-translation-and-localization-services-for-blockchain-and-cryptocurrency.md",
-      "title": "Translation and Localization Services for Blockchain and Cryptocurrency",
-      "excerpt": "Blockchain technology and Cryptocurrency are selling like hotcakes in recent times. People are eager to switch to digital currency and a system that is decentralized, secure, and transparent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/translation-localization-services-blockchain-bruce-li",
-      "originalUrl": "https://www.linkedin.com/pulse/translation-localization-services-blockchain-bruce-li",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png",
-          "width": 1400,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T01:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt.md",
-      "title": "Facial recognition tech at 4 airports to be introduced by March 2022: Govt",
-      "excerpt": "The Airports Authority of India (AAI) is working on a project of FRT-based Biometric Boarding System as part of the first phase of Digi Yatra Implementation at four airports",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html",
-      "originalUrl": "https://www.business-standard.com/article/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2013-09/24/full/1380033844-9265.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html",
-      "publishedDateTime": "2021-12-02T01:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-meta-selects-aws-as-key-long-term-strategic-cloud-provider.md",
-      "title": "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider",
-      "excerpt": "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS’s proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/",
-      "originalUrl": "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T00:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit.md",
-      "title": "CITIC Press Group, Sina Finance Host Inaugural ESG Global Leaders Summit",
-      "excerpt": "Human society is now in a stage of rapid development amid all manner of uncertainties. On the one hand, state-of-the-art technologies such",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/n24399300/citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/n24399300/citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1701078/image.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24399300",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24399300",
-      "publishedDateTime": "2021-12-02T00:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

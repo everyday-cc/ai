@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailysabah.com/opinion/op-ed/china-is-winning-the-power-
 cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/opinion/op-ed/china-is-winning-the-power-battle-in-ai-race-with-us/amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1600
     height: 1062
     isCached: true
-
-related:
-  - title: "FastEdge.ai is transforming the advertising space with Artificial Intelligence"
-    excerpt: "Fastedege.ai is a leading technology company pioneering in cost effective edge computing based, AI powered, computer vision-based solution provider in the"
-    publishedDateTime: 2022-01-14T09:28:00Z
-    webUrl: "https://www.digitaljournal.com/pr/fastedge-ai-is-transforming-the-advertising-space-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 48
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/28a37629797ad4bb3d797ba46611ef8a60a17323-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "VxgkS1MMEU2miUIUpc4JP2Nnuh4L3siRgdKpJXAWEywnTr+nHGHj2W/hqjZS5NUuTfPQu37nn20NJy3+v0LhZ+WNdIB9UN7aiRR8b+nx7M5aFg9YySFEUHL0N2wAqHqC9SajQeh62fhGXkq/TeRhrN/UHOlbbWOxPYb3Y3IYougB1mJsaJ5BwpbZenne4Nvir2Q5qEFm3D6UhAMjsRgLphz9ytEE4zSW60JIr8cVCtIToJkvX0Vl3qqkXZORMspBgG1Nz0fcAD4TVA5z/ACEeQXyAFIGnfCDQJTD/TAS6L8ItCpt19eU+t2mSPLFbthQFaO00DU+Kyn990XtHNm2Ubx3ZgXba7DVzO5FnGm0s1/gUECXA4ta8Q2W1XBs8W9gQNHbO5nkNL5xvUR/YDyMTp0ieV+tPxcsXvldfwSaASbv8PannP4DKDm5sjmAJswmisq0bLGuFG9vi1Ai8ZA9NgIDWDhbhmZVeIIr/7dlrHSQT/UBRLhVeSyaSkd2piv9UwKdpr8vmpYlI7rKBas6vQ==;MiX2WLeXDr6ckUKjVmOu4A=="
 ---

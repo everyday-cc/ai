@@ -2,6 +2,120 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-29-role-of-ai-and-machine-learning-across-different-sectors-in-2021.md",
+      "title": "Role of AI and Machine Learning across Different Sectors in 2021",
+      "excerpt": "Technology is playing a vital role in every sector to make the nation technologically equipped and capable. Here are a few business leaders sharing their thoughts on how their companies are",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/29/1138517-ai.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "publishedDateTime": "2021-12-29T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-for-personalized-financial-services.md",
+      "title": "Global AI and Advance Machine Learning in BFSI Market Report (2021 to 2030): Increasing Preferences for Personalized Financial Services",
+      "excerpt": "The \"AI and Advance Machine Learning in BFSI Market By Component, Deployment Model, Enterprise Size and Application:",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24809416/global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-f",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24809416/global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24809416",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24809416",
+      "publishedDateTime": "2021-12-29T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-air-pollution-prediction-in-smart-city-deep-learning-approach.md",
+      "title": "Air-pollution prediction in smart city, deep learning approach.",
+      "excerpt": "In this paper, we implemented a deep learning solution to predict the hourly forecast of PM2.5 concentration in Beijing, China, based on CNN-LSTM, with a spatial-temporal feature by combining historical data of pollutants,",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/MED/34956819",
+      "originalUrl": "https://europepmc.org/article/MED/34956819",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T23:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-indias-airtel-tcs-tap-robotics-to-build-5g-based-units.md",
       "title": "India's Airtel, TCS tap robotics to build 5G-based units",
       "excerpt": "Indian telecom operator Bharti Airtel and IT giant Tata Consultancy Services (TCS) have joined hands to build a 5G-based remote working technology using robotics. Both the companies are currently running the trials in Airtel's 5G lab at Manesar,",
@@ -1276,163 +1390,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-machine-learning-certification-platforms-that-work.md",
-      "title": "Machine Learning Certification Platforms That Work",
-      "excerpt": "According to International Data Corporation, more than half of the world's economy will be digitised by 2023. As a result, businesses can expect to increase their investments in advanced technologies in order to prepare for the transition to a new digitised economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/machine-learning-certification-platforms-work-aman-kumar-singh",
-      "originalUrl": "https://www.linkedin.com/pulse/machine-learning-certification-platforms-work-aman-kumar-singh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHDArpJAx8Gzw/article-cover_image-shrink_720_1280/0/1639723108193?e=1645660800&v=beta&t=F86oZfVxpasgz8ygtgnanoP7Yd2lrD9VNwf_jmf21V0",
-          "width": 1280,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T22:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-characters-for-good-created-by-artificial-intelligence.md",
-      "title": "Characters for good, created by artificial intelligence",
-      "excerpt": "MIT Media Lab researchers offer positive use cases of AI-generated synthetic characters for education and well-being. A new paper provides an open-source, easy-to-use pipeline that combines AI-generated models to create synthetic characters with facial gestures,",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/ai-generated-characters-for-good-1216",
-      "originalUrl": "https://news.mit.edu/2021/ai-generated-characters-for-good-1216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202112/ai-characters-for-good-mit-A1.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T13:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-meta-releases-bean-machine-to-help-measure-ai-model-uncertainty.md",
-      "title": "Meta releases Bean Machine to help measure AI model uncertainty",
-      "excerpt": "Meta (formerly Facebook) has released Bean Machine, a tool designed to help measure uncertainty in AI and machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/",
-      "originalUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color-e1638226936634.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/amp/",
-      "publishedDateTime": "2021-12-16T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

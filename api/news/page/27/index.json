@@ -2,6 +2,636 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-12-23-banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk.md",
+      "title": "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk",
+      "excerpt": "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
+      "publishedDateTime": "2021-12-23T01:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-optical-chip-solves-hardest-math-problems-faster-than-gpus.md",
+      "title": "Optical Chip Solves Hardest Math Problems Faster than GPUs",
+      "excerpt": "Optical computing startup Lightelligence has demonstrated a silicon photonics accelerator running the Ising problem more than 100 times faster than a typical GPU setup. Lightelligence’s photonic arithmetic computing engine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/optical-chip-solves-hardest-math-problems-faster-than-prajapati",
+      "originalUrl": "https://www.linkedin.com/pulse/optical-chip-solves-hardest-math-problems-faster-than-prajapati",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEdNV-z4quJhg/article-cover_image-shrink_600_2000/0/1640249825852?e=1645660800&v=beta&t=HREkn0tRYdobd7G6XUQWJOt71A9MPnL3bCRpCmevAPY",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-facial-recognition-systems-regulation-outlook-for-2022.md",
+      "title": "Facial Recognition Systems Regulation: Outlook for 2022",
+      "excerpt": "Facial recognition systems (FRS) technology is developing rapidly, but so is the law around it, say Nixon Peabody LLP privacy and intellectual property attorneys Jenny Holmes and Palash Basu. They discuss latest trends in state and federal regulation of FRS use by government and business,",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/business-and-practice/facial-recognition-systems-regulation-outlook-for-2022",
+      "originalUrl": "https://news.bloomberglaw.com/business-and-practice/facial-recognition-systems-regulation-outlook-for-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/d1086a6/2147483647/crop/7888x3032%2B27%2B0/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F85%2F55%2Fcb3cea404c8086e5b8bae590a59c%2Ffacial-rec334879311-1-16.jpg",
+          "width": 960,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg Law",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-interview-ibms-phil-anderson-on-ethics-and-ai.md",
+      "title": "Interview: IBM’s Phil Anderson on ethics and AI",
+      "excerpt": "IBM South Africa's Phil Anderson joins the podcast to unpack AI and the ethical concerns around the use of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/",
+      "originalUrl": "https://techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcentral.co.za/wp-content/uploads/2021/12/phil-anderson-2156-1120.jpg",
+          "width": 2156,
+          "height": 1120,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/?amp=1",
+      "cdnAmpWebUrl": "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/?amp=1",
+      "publishedDateTime": "2021-12-23T00:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCentral",
+        "domain": "techcentral.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-seven-ways-robots-help-improve-our-lives.md",
+      "title": "Seven Ways Robots Help Improve Our Lives",
+      "excerpt": "Depictions of robots have been common in science fiction stories for decades. Sometimes they are helpful, sometimes they are villains, sometimes they work with humans, and sometimes they try to destroy humans (à la Terminator).",
+      "sourceUrl": null,
+      "webUrl": "https://www.smallbusinessbonfire.com/seven-ways-robots-help-improve-our-lives/",
+      "originalUrl": "https://www.smallbusinessbonfire.com/seven-ways-robots-help-improve-our-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smallbusinessbonfire.com/wp-content/uploads/2021/12/Robots.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T00:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "How to Write a Fact Sheet",
+        "domain": "smallbusinessbonfire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-eu-oks-microsofts-197b-deal-to-buy-telemedicine-tech-firm-nuance.md",
+      "title": "EU OKs Microsoft's $19.7B Deal to Buy Telemedicine Tech Firm Nuance",
+      "excerpt": "The European Union has cleared Microsoft’s buy of Nuance, an artificial intelligence (AI) and cloud computing company, as it doesn’t pose competition concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/",
+      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/microsoft-nuance-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/amp/",
+      "publishedDateTime": "2021-12-22T19:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-fintech-oportun-completes-acquisition-of-banking-platform-digit.md",
+      "title": "FinTech Oportun Completes Acquisition of Banking Platform Digit",
+      "excerpt": "Fintech Oportun has acquired neobanking platform Digit for $211.1 million, which included an aggregate of $112.6 million in cash and $98.5 million in stock.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/",
+      "originalUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/international-acquisitions-b2b-payments-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/",
+      "publishedDateTime": "2021-12-22T18:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-gpu-accelerated-data-analytics-startup-brytlyt-raises-5m.md",
+      "title": "GPU-accelerated data analytics startup Brytlyt raises $5M",
+      "excerpt": "British data analytics and visualization technology startup Brytlyt Ltd. revealed today that it has closed on a $5 million round led by AlbionVC. Existing investors Amadeus Capital Partners and Finch Capital also participated in the Series A extension.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/12/22/gpu-accelerated-data-analytics-startup-brytlyt-raises-5m/",
+      "originalUrl": "https://siliconangle.com/2021/12/22/gpu-accelerated-data-analytics-startup-brytlyt-raises-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/Brytlyt-768x513.jpg",
+          "width": 768,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-deepmind-just-taught-ai-how-to-win-a-game-without-knowing-the-rules.md",
+      "title": "DeepMind just taught AI how to win a game without knowing the rules",
+      "excerpt": "Alphabet's AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that computers ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/",
+      "originalUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2020/12/AI-concept.jpg?quality=82&strip=all",
+          "width": 1599,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/",
+      "publishedDateTime": "2021-12-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till-2024.md",
+      "title": "Natural Language Processing (NLP) Market||Industry Analysis Insights, Future Growth, and Forecast till - 2024",
+      "excerpt": "Japan, Japan, Thu, 23 Dec 2021 04:35:31 / Comserve Inc. / -- MarketsandMarkets forecasts the global Natural Language Processing (NLP) market size to grow from USD 10.2 billion in 2019 to USD 26.4 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till---2024-2021-12-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till---2024-2021-12-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-artificial-intelligence-may-be-just-code-but-its-our-code.md",
+      "title": "Artificial Intelligence May Be Just Code, But It’s Our Code",
+      "excerpt": "The reality is that an AI is just a statistical engine, and in a lot of cases, it’s a bad statistical engine.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/22/artificial-intelligence-may-be-just-code-but-its-our-code/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/22/artificial-intelligence-may-be-just-code-but-its-our-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6012edfc63c56a43fc8d45ed%2F0x0.jpg",
+          "width": 1200,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/22/artificial-intelligence-may-be-just-code-but-its-our-code/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/12/22/artificial-intelligence-may-be-just-code-but-its-our-code/amp/",
+      "publishedDateTime": "2021-12-22T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-insights-on-the-artificial-intelligence-in-remote-patient-monitoring-global-market-to-2026-featuring-100-plus-aicure-and-cardiomo-among-others.md",
+      "title": "Insights on the Artificial Intelligence in Remote Patient Monitoring Global Market to 2026 - Featuring 100 Plus, AiCure and Cardiomo Among Others",
+      "excerpt": "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20169786.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20169786.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T14:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-novel-biosensors-set-to-revolutionize-brain-controlled-robotics.md",
+      "title": "Novel biosensors set to revolutionize brain-controlled robotics",
+      "excerpt": "A novel carbon-based biosensor is set to drive new innovations in brain-controlled robotics. The biosensor adheres to the skin of the face and head in order to detect electrical signals being sent by the brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/12/211222100804.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/12/211222100804.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-the-future-of-natural-language-processing-is-bright.md",
+      "title": "The Future of Natural Language Processing is Bright",
+      "excerpt": "Natural language processing (NLP) denotes the use of artificial intelligence (AI) to manipulate written or spoken languages. Like the air we breathe, NLP is so pervasive today that we hardly notice it. When you use Alexa, you are conversing with an NLP ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusinessedge.com/development/the-future-of-natural-language-processing-is-bright/",
+      "originalUrl": "https://www.itbusinessedge.com/development/the-future-of-natural-language-processing-is-bright/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/12/The-Future-of-Natural-Language-Processing-is-Bright.jpeg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business Edge",
+        "domain": "itbusinessedge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-troopsai-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Troops.ai Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Troops, a leader in workflow and automation delivering actionable, on-demand data from Microsoft Dynamics 365 to revenue teams working in Microsoft Teams, today announced the availability of direct integration with Dynamics 365 in the Microsoft Azure Marketplace,",
@@ -515,643 +1145,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity.md",
-      "title": "Can AI Virtual Assistants Help Close The Gaps In Cybersecurity?",
-      "excerpt": "In the era of the Great Resignation, when your company may be short on skilled employees, time and financial resources, digital cybersecurity analysts may be an option worth exploring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1dc2e950fe36bb18fba64%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january.md",
-      "title": "DeWitt Township police will have access to facial recognition software starting in January",
-      "excerpt": "The DeWitt Township Police Department signed an agreement with the Michigan State Police to use their SNAP facial recognition software, which is meant to help officers identify suspects and crime victims while in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january",
-      "originalUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/d9b/ea660b0be0634bafb4e6d8a0650cafd3/d9bf8296f47a4d2c87aba01c863fcc61/poster_0bf92dea6b6a425a80199eb2aaeefce4.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox47news-com.cdn.ampproject.org/c/s/www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january?_amp=true",
-      "publishedDateTime": "2021-12-22T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSYM-TV",
-        "domain": "fox47news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-how-leaders-can-use-facial-recognition-technology-as-a-force-for-good.md",
-      "title": "How Leaders Can Use Facial Recognition Technology As A Force For Good",
-      "excerpt": "Facial recognition, when used within moral codes of conduct and an ethical framework, can be very beneficial, and it could be key to streamlined experiences, secure processes and a safer society.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c2114d7a803060327c8938%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/amp/",
-      "publishedDateTime": "2021-12-22T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.md",
-      "title": "UN talks to ban 'slaughterbots' collapsed — here's why that matters",
-      "excerpt": "A UN conference failed to agree on banning the use and development of so-called \"slaughterbots\" at a meeting in Geneva last week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
-      "originalUrl": "https://www.cnbc.com/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106992652-1640169480556-gettyimages-1236334796-Armed_Police_Training.jpeg?v=1640176120",
-          "width": 4000,
-          "height": 2629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
-      "publishedDateTime": "2021-12-22T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-face-recognition-is-being-bannedbut-its-still-everywhere.md",
-      "title": "Face Recognition Is Being Banned—but It’s Still Everywhere",
-      "excerpt": "Two dozen cities and states prohibit use of the tech. But it’s on phones and is increasingly used in airports and in banks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/",
-      "originalUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61b7bd8612b63df686feb19d/master/pass/yir-jennysharaf-aiface-1192570719.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/face-recognition-banned-but-everywhere/amp",
-      "publishedDateTime": "2021-12-22T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-ethics-at-the-heart-of-emerging-ai-strategies.md",
-      "title": "Ethics at the heart of emerging AI strategies",
-      "excerpt": "But there remain concerns around the rapid spread of AI, and there is an increasing focus on the ethics surrounding the technology.  While AI is forecast to deliver as much as a 10% boost to the UK economy over the next decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/ehandbook/Ethics-at-the-heart-of-emerging-AI-strategies",
-      "originalUrl": "https://www.computerweekly.com/ehandbook/Ethics-at-the-heart-of-emerging-AI-strategies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/Cover_Ethic_at_the_heart_of_emerging_AI_strategies.png",
-          "width": 883,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-can-ai-actually-understand-what-we-are-saying-scientists-are-divided.md",
-      "title": "Can AI actually understand what we are saying? Scientists are divided",
-      "excerpt": "Scientists argue that large language models can teach us about “the nature of language, understanding, intelligence, sociality, and personhood\"",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-understand-what-we-are-saying-scientists-divided-syndication",
-      "originalUrl": "https://thenextweb.com/news/ai-understand-what-we-are-saying-scientists-divided-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FBDHedjpg.jpg&signature=a835e3cfd92b6b341294a40ee9c66e9b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-how-to-use-the-power-of-ai-for-marketing-success.md",
-      "title": "How To Use The Power Of AI For Marketing Success",
-      "excerpt": "Marketing has evolved over the past decades, and we’re now in an era of digital revolution where marketing is completely dependent on consumers who dictate what content they want to receive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1d51a170ebe018990edc6%2F0x0.jpg",
-          "width": 1161,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/",
-      "publishedDateTime": "2021-12-22T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-campuses-law-enforcement-reckon-with-facial-recognition-bans.md",
-      "title": "Campuses, Law Enforcement Reckon with Facial Recognition Bans",
-      "excerpt": "Implementing facial recognition is becoming more cumbersome as an increasing number of cities and states restrict the use of this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
-      "originalUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2021/12/Facial-recogntion-Adobe-by-Fractal-Pictures-scaled.jpeg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Safety Magazine",
-        "domain": "campussafetymagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-the-global-image-recognition-market-stood-at-usd27764-billion-in-2020-and-is-growing-with-a-cagr-of-1759-to-reach-usd73344-billion-by-2026.md",
-      "title": "The global image recognition market stood at USD27.764 billion in 2020 and is growing with a CAGR of 17.59% to reach USD73.344 billion by 2026",
-      "excerpt": "Reportlinker.com announces the release of the report \"Global Image Recognition Market, By Component, By Technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24734672/the-global-image-recognition-market-stood-at-usd27-764-billion-in-2020-and-is-growing-with-a-cagr-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24734672/the-global-image-recognition-market-stood-at-usd27-764-billion-in-2020-and-is-growing-with-a-cagr-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24734672",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24734672",
-      "publishedDateTime": "2021-12-22T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap.md",
-      "title": "Cars are getting better at driving themselves, but you still can't sit back and nap",
-      "excerpt": "\"There are exactly zero self-driving cars available for purchase ... they can have clear safety benefits. Baidu Apollo Robotaxis move on a street in Beijing on May 2. Chinese tech giant Baidu ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wshu.org/npr-news/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap",
-      "originalUrl": "https://www.wshu.org/npr-news/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/6b99e63/2147483647/strip/true/crop/3205x1974+0+213/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F12%2F20%2Fap_21140129870069-852dfa883cd757930c04f9432840a9c0f8044504.jpg",
-          "width": 880,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wshu.org/npr-news/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap?_amp=true",
-      "cdnAmpWebUrl": "https://www-wshu-org.cdn.ampproject.org/c/s/www.wshu.org/npr-news/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap?_amp=true",
-      "publishedDateTime": "2021-12-22T02:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSHU news",
-        "domain": "wshu.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-tesla-stock-recent-self-driving-success-promises-a-smooth-road-ahead.md",
-      "title": "Tesla Stock: Recent Self-Driving Success Promises a Smooth Road Ahead",
-      "excerpt": "Source: Hadrian / Shutterstock.com While a future with ubiquitous self-driving vehicles is likely years away, companies are working hard to be first in line. And Tesla is certainly among them. As the leader of the EV race,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/tesla-stock%3A-recent-self-driving-success-promises-a-smooth-road-ahead",
-      "originalUrl": "https://www.nasdaq.com/articles/tesla-stock%3A-recent-self-driving-success-promises-a-smooth-road-ahead",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/tesla-stock%3A-recent-self-driving-success-promises-a-smooth-road-ahead?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-stock%3A-recent-self-driving-success-promises-a-smooth-road-ahead?amp",
-      "publishedDateTime": "2021-12-22T00:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-santas-christmas-secret-maybe-its-artificial-intelligence.md",
-      "title": "Santa’s Christmas secret? Maybe it’s artificial intelligence",
-      "excerpt": "AI’s ability to collect and analyze massive amounts of data has plenty of applications – including sorting millions of children as either naughty or nice",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
-      "originalUrl": "https://www.theglobeandmail.com/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/AOKpBVKlFz80JsC4iDqS036mcBo=/1200x863/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/HASE5WN2KNFEXJ76HO6LG6GTCM",
-          "width": 1200,
-          "height": 863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theglobeandmail.com/amp/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
-      "publishedDateTime": "2021-12-22T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island.md",
-      "title": "UAE: Self-driving taxis ‘TXAI’ to transport passengers on Abu Dhabi’s Yas Island",
-      "excerpt": "Commuters in Abu Dhabi can now travel on driverless taxis round the clock through the ‘TXAI’ app, available on Google Play and IOS App Store. Hassan Al Hosani, CEO of Bayanat for Mapping and Surveying Services,",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "originalUrl": "https://gulfnews.com/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/12/22/Txai-1_17de0e47d18_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "publishedDateTime": "2021-12-21T22:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

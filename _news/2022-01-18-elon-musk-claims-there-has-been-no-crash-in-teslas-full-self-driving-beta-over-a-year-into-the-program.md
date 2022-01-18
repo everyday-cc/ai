@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla increases Full Self-Driving package price to $12,000, but not its monthly subscription service"
+    excerpt: "Tesla has increased the price of its Full Self-Driving Capability (FSD) package to $12,000 as previously announced last week. Interestingly, it looks like the automaker decided not to increase the price of its FSD monthly subscription service."
+    publishedDateTime: 2022-01-18T12:58:00Z
+    webUrl: "https://electrek.co/2022/01/18/tesla-increases-full-self-driving-package-price-but-not-monthly-subscription-service/"
+    ampWebUrl: "https://electrek.co/2022/01/18/tesla-increases-full-self-driving-package-price-but-not-monthly-subscription-service/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/18/tesla-increases-full-self-driving-package-price-but-not-monthly-subscription-service/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/01/tesla-fsd-price-increase.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Full Self Driving beta comes to Canada in 2-4 weeks"
     excerpt: "Elon Musk himself has said that Tesla will roll out the Full Self Driving (FSD) beta in Canada over the next 2-4 weeks. If I had to guess, we’ll likely see it in 2-4 months, but on occasion, Musk’s tweets have been known to accurately reflect Tesla ..."
     publishedDateTime: 2022-01-17T22:54:00Z

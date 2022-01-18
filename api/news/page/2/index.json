@@ -2,6 +2,487 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-17-explained-what-is-the-new-deep-learning-dynamic-super-resolution-tech-and-how-it-can-be-useful.md",
+      "title": "Explained: What is the new Deep Learning Dynamic Super Resolution tech and how it can be useful",
+      "excerpt": "If the game supports 4K, DSR renders that game at a higher more detailed resolution and again shrinks the result down to the resolution that your moni",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/explained-what-is-the-new-deep-learning-dynamic-super-resolution-tech-and-how-it-can-be-useful/articleshow/88957507.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/explained-what-is-the-new-deep-learning-dynamic-super-resolution-tech-and-how-it-can-be-useful/articleshow/88957507.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-88957515,width-1070,height-580,imgsize-103729,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/explained-what-is-the-new-deep-learning-dynamic-super-resolution-tech-and-how-it-can-be-useful/amp_articleshow/88957507.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/explained-what-is-the-new-deep-learning-dynamic-super-resolution-tech-and-how-it-can-be-useful/amp_articleshow/88957507.cms",
+      "publishedDateTime": "2022-01-17T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-roomba-j7-plus-vs-jet-bot-ai-plus-can-these-robot-vacuums-pass-the-poop-test.md",
+      "title": "Roomba j7 Plus vs. Jet Bot AI Plus: can these robot vacuums pass the poop test?",
+      "excerpt": "But is this feature worth splashing out on a top-of-the-line bot for? I put two of the newest to the test — iRobot’s Roomba j7 ($650 for the vacuum, $850 for the j7 Plus version with the auto-empty base) and Samsung’s Jet Bot AI Plus ($1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
+      "originalUrl": "https://www.theverge.com/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/5t0Y73CMlU0v_aM0IW41rB_rfWs=/0x0:2040x1360/1400x933/filters:focal(881x943:1207x1269):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70399687/vtuohy_220110_4963_0019.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
+      "publishedDateTime": "2022-01-17T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience.md",
+      "title": "Industrial robotics company Exotec raises $335M to ‘improve supply chain resilience’",
+      "excerpt": "Exotec is a French robotics company used by some of the world's biggest retailers such as Gap, and it's now valued at $2 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/16/industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience/",
+      "originalUrl": "https://venturebeat.com/2022/01/16/industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/Skypod-System_full-view.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/16/industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience/amp/",
+      "publishedDateTime": "2022-01-17T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-kantar-acquires-italian-ai-company-mindit.md",
+      "title": "Kantar acquires Italian AI company MindIT",
+      "excerpt": "Kantar has acquired MindIT, a Bologna, Italy-based artificial intelligence (AI) company. MindIT, a spin-out from Bologna University, specialises in machine-learning algorithms and AI and has been collaborating with Kantar’s trade optimisation revenue management offer since 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/kantar-acquires-italian-ai-company-mindit/id/5094492",
+      "originalUrl": "https://www.research-live.com/article/news/kantar-acquires-italian-ai-company-mindit/id/5094492",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5094492&name=kantar-acquires-italian-ai-company-mindit",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5094492&name=kantar-acquires-italian-ai-company-mindit",
+      "publishedDateTime": "2022-01-17T02:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-ai-chip-designer-moffett-ai-raises-tens-of-millions-of-dollars-in-series-a-round.md",
+      "title": "AI chip designer Moffett AI raises ‘tens of millions of dollars’ in Series A round",
+      "excerpt": "China’s call to foster semiconductor independence has sent investors chasing after chip startups of all sorts. Moffett AI, a Shenzhen-based chip design company, has received a fresh Series A injection.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/17/moffett-china-series-a-round/",
+      "originalUrl": "https://techcrunch.com/2022/01/17/moffett-china-series-a-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-17-at-5.03.38-PM.png?w=1024",
+          "width": 1023,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/17/moffett-china-series-a-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/17/moffett-china-series-a-round/amp/",
+      "publishedDateTime": "2022-01-17T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-researchers-use-ai-to-analyze-tweets-debating-vaccination-and-climate-change.md",
+      "title": "Researchers use AI to analyze tweets debating vaccination and climate change",
+      "excerpt": "Using artificial intelligence (AI) researchers have found that between 2007 and 2016 online sentiments around climate change were uniform, but this was not the case with vaccination.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.html",
+      "originalUrl": "https://phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg",
+          "width": 2880,
+          "height": 1616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.amp",
+      "publishedDateTime": "2022-01-17T01:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member.md",
+      "title": "AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member",
+      "excerpt": "Nota (CEO Myungsu Chae), an AI optimization technology company, announced that it has been promoted to Premier status in the NVIDIA Inception program. NVIDIA Inception nurtures cutting-edge startups revolutionizing industries with advancements in AI and data science.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member-1031105822",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member-1031105822",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1724963/image_1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai.md",
+      "title": "7bridges raises $17M to automate logistics supply chains using AI",
+      "excerpt": "Supply chain logistics — getting components and eventually finished products from A to B to C — is one of the most critical parts of running a business, not least because it is one of the most complex,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/",
+      "originalUrl": "https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1319013665.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/amp/",
+      "publishedDateTime": "2022-01-16T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.md",
+      "title": "Free-energy principle can explain how neural networks are optimized for efficiency",
+      "excerpt": "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
+      "publishedDateTime": "2022-01-16T20:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-3-ways-that-artificial-intelligence-ai-will-change-your-job-forever.md",
+      "title": "3 Ways That Artificial Intelligence (AI) Will Change Your Job Forever",
+      "excerpt": "Artificial Intelligence is becoming more capable by the day, learning new skills, and with it, changing the jobs and tasks humans will perform in the future. Here we look at how artificial intelligence (AI) will change our jobs forever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e4fde1134e946cf9b0f30d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/amp/",
+      "publishedDateTime": "2022-01-16T20:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-17-how-ai-will-drive-the-hybrid-work-environment.md",
       "title": "How AI will drive the hybrid work environment",
       "excerpt": "Artificial intelligence has the capacity to vastly improve work-from-home and hybrid work environments. But getting there will not be as simple.",
@@ -487,48 +968,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-15-the-us-air-force-is-building-artificial-intelligence-bombs-for-the-f-16.md",
-      "title": "The U.S. Air Force Is Building Artificial Intelligence Bombs for the F-16",
-      "excerpt": "Two Air Force F-16 jets fired Small Diameter Bombs were able to share threat data with one another. Here's What to Remember: The collaborative weapons experiment is showing great promise. Two Air Force F-16 jets fired Small Diameter Bombs were able to share threat data with one another while in flight to a target using an emerging kind of collaborative weapons coordination,",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/reboot/us-air-force-building-artificial-intelligence-bombs-f-16-199358",
-      "originalUrl": "https://nationalinterest.org/blog/reboot/us-air-force-building-artificial-intelligence-bombs-f-16-199358",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/f16_1222x_0.jpg",
-          "width": 1222,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-15-what-to-expect-for-data-prep-and-data-analytics-in-2022.md",
       "title": "What to expect for data prep and data analytics in 2022",
       "excerpt": "general manager of IBM AI Applications in the announcement. In the future, IBM intends to integrate Envizi with some of its existing solutions including IBM Maximo, IBM sterling, IBM Environmental ...",
@@ -537,7 +976,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -767,448 +1206,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-ai-training-leverage-your-tech-skills-and-send-your-career-soaring.md",
-      "title": "AI training: Leverage your tech skills and send your career soaring",
-      "excerpt": "If you feel like your tech career is a little stalled, all you have to do is build on the skills you already have to move up in data science, game development, IoT, cybersecurity and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "publishedDateTime": "2022-01-14T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-how-ai-and-language-intelligence-are-helping-employees-learn.md",
-      "title": "How AI and language intelligence are helping employees learn",
-      "excerpt": "Embrace the transformation AI and language intelligence offer to see how human-machine collaboration can help businesses thrive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/",
-      "originalUrl": "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-970562458.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/",
-      "publishedDateTime": "2022-01-14T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement.md",
-      "title": "Duolingo is now mixing A/B testing and copy testing to boost user engagement",
-      "excerpt": "Learning a language is hard, that's why Duolingo is now using a tool called Expurrimenter to help boost user retention by trying out different messaging techniques in-app and in notifications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "originalUrl": "https://www.neowin.net/news/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2022/01/1642181054_duolingo_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "publishedDateTime": "2022-01-14T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared.md",
-      "title": "Roborock vs. Roomba: 2 impressive robot vacuum mop combos compared",
-      "excerpt": "When the vacuum is done it will then instruct the Braava to start mopping. Both devices share your home's ... Another company, Samsung, made similar claims, but unfortunately, its Jet Bot AI Plus couldn't perform as advertised, so I'll need to test ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/kitchen-and-household/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
-      "originalUrl": "https://www.cnet.com/home/kitchen-and-household/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/wBwmRgI6ss08ArJU5-SSMcfUo_s=/1200x630/2022/01/04/1c7cad62-3698-4e16-85c4-713ad851a0ee/roborock-s7-maxv-ultra-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
-      "publishedDateTime": "2022-01-14T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-serve-robotics-achieves-autonomous-robo-delivery-milestone.md",
-      "title": "Serve Robotics achieves autonomous robo-delivery milestone",
-      "excerpt": "Autonomous sidewalk delivery company Serve Robotics completed robot deliveries with zero human interaction — an industry first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone",
-      "originalUrl": "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/01/Serve-crossing-with-pedestrians.jpg.optimal.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone/amp",
-      "publishedDateTime": "2022-01-14T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-can-ai-beat-the-market-10-stocks-to-watch.md",
-      "title": "Can AI Beat the Market? 10 Stocks to Watch",
-      "excerpt": "The company's AI algorithms analyze more than 900 fundamental, technical and sentiment data points per day for 1,000 U.S.-listed shares and 600 stocks listed in Europe. Danelfin says that in total, its AI predictive scoring capability churns through 10,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch",
-      "originalUrl": "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch?amp",
-      "publishedDateTime": "2022-01-14T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-labour-peers-ai-healthcare-firm-sensyne-says-cash-is-running-out.md",
-      "title": "Labour peer’s AI healthcare firm Sensyne says cash is running out",
-      "excerpt": "Data analytics company run by Paul Drayson says money could run out in weeks unless it finds emergency funding",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
-      "originalUrl": "https://www.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0df2065643f93ef32c4d73da6014a74bd3b8c764/0_72_2160_1296/master/2160.jpg?width=620&quality=85&auto=format&fit=max&s=b29e1cab3c4596aef467c022ebe84b22",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
-      "publishedDateTime": "2022-01-14T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions.md",
-      "title": "AI Weekly: What can AI tell us about social unrest, virus structures, and carbon emissions?",
-      "excerpt": "Predicting unrest and virus structures. Reducing emissions from planes using algorithms. That's a few of the headlines in AI this week.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/",
-      "originalUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/airplane.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/amp/",
-      "publishedDateTime": "2022-01-14T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-flipping-the-lens-on-fear-loathing-of-aiml-in-asian-robotics-review.md",
-      "title": "Flipping The Lens On Fear & Loathing of AI/ML - In Asian Robotics Review",
-      "excerpt": "Asian Robotics Review published an article about my annual Highlights and Milestones in AI in Healthcare report. I'm sharing the article here with permission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/flipping-lens-fear-loathing-aiml-asian-robotics-review-colangelo",
-      "originalUrl": "https://www.linkedin.com/pulse/flipping-lens-fear-loathing-aiml-asian-robotics-review-colangelo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEF4M4Cxd7VHA/article-cover_image-shrink_600_2000/0/1642107776452?e=1647475200&v=beta&t=PvX-aOxcIBd3ow0QxB7pKK1SgAWqiMeWN7sQ0se_RxA",
-          "width": 1162,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

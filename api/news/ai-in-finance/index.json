@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-18-ai-creates-job-disruption-but-not-job-destruction.md",
+      "title": "AI Creates Job Disruption But Not Job Destruction",
+      "excerpt": "A common concern surrounding automation in recent years is that it will result in widescale job losses as the work previously done by people is taken over by technology. New research shows that isn't the case.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adigaskell/2022/01/18/ai-creates-job-disruption-but-not-job-destruction/",
+      "originalUrl": "https://www.forbes.com/sites/adigaskell/2022/01/18/ai-creates-job-disruption-but-not-job-destruction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1d79139c632a5e398152b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adigaskell/2022/01/18/ai-creates-job-disruption-but-not-job-destruction/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adigaskell/2022/01/18/ai-creates-job-disruption-but-not-job-destruction/amp/",
+      "publishedDateTime": "2022-01-18T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-16-saudi-fintech-joins-battle-for-us-retail-investors.md",
       "title": "Saudi fintech joins battle for US retail investors",
       "excerpt": "RIYADH: Saudi entrepreneur Nezar Bakhsh has joined the battle for US retail investors after launching a financial technology startup that sells stock trading advice to traders. His Quant Alpha platform offers artificial intelligence-powered software for investors,",
@@ -163,6 +215,49 @@
       "provider": {
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-provenir-customer-reliant-funding-named-lendit-fintech-industry-awards-top-small-business-lending-platform-finalist.md",
+      "title": "Provenir Customer Reliant Funding Named LendIT Fintech Industry Awards ‘Top Small Business Lending Platform’ Finalist",
+      "excerpt": "Provenir, a global leader in AI-powered risk decisioning software, today congratulated its customer Reliant Funding for being recognized as a LendIT Fintech Industry Awards 2021 finalist. The fifth annual LendIT Fintech Industry Awards honor the world’s leading influencers and innovators in 14 unique categories.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-small-business-parsippany-f33dabbcc5a94dd298539f53fcc7389e",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-small-business-parsippany-f33dabbcc5a94dd298539f53fcc7389e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1238,93 +1333,6 @@
         "AI in Finance",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-fintech-startup-khatabook-aims-to-double-employee-base-in-2022.md",
-      "title": "Fintech startup Khatabook aims to double employee base in 2022",
-      "excerpt": "Fintech startup Khatabook on Thursday announced that it is planning to double its employee base in 2022. The company said that it will continue to strengthen its talent base in 2022 by accelerating hiring across engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
-      "originalUrl": "https://www.freepressjournal.in/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2021-10/30daa46c-42a1-4418-b22a-2ef888f0f1d8/startups.PNG?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1199,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
-      "publishedDateTime": "2021-12-23T01:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk.md",
-      "title": "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk",
-      "excerpt": "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
-      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
-      "publishedDateTime": "2021-12-23T01:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

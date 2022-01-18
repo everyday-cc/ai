@@ -2,6 +2,448 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-15-ai-training-leverage-your-tech-skills-and-send-your-career-soaring.md",
+      "title": "AI training: Leverage your tech skills and send your career soaring",
+      "excerpt": "If you feel like your tech career is a little stalled, all you have to do is build on the skills you already have to move up in data science, game development, IoT, cybersecurity and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
+      "publishedDateTime": "2022-01-14T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-how-ai-and-language-intelligence-are-helping-employees-learn.md",
+      "title": "How AI and language intelligence are helping employees learn",
+      "excerpt": "Embrace the transformation AI and language intelligence offer to see how human-machine collaboration can help businesses thrive.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/",
+      "originalUrl": "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-970562458.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/",
+      "publishedDateTime": "2022-01-14T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement.md",
+      "title": "Duolingo is now mixing A/B testing and copy testing to boost user engagement",
+      "excerpt": "Learning a language is hard, that's why Duolingo is now using a tool called Expurrimenter to help boost user retention by trying out different messaging techniques in-app and in notifications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
+      "originalUrl": "https://www.neowin.net/news/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2022/01/1642181054_duolingo_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
+      "publishedDateTime": "2022-01-14T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared.md",
+      "title": "Roborock vs. Roomba: 2 impressive robot vacuum mop combos compared",
+      "excerpt": "When the vacuum is done it will then instruct the Braava to start mopping. Both devices share your home's ... Another company, Samsung, made similar claims, but unfortunately, its Jet Bot AI Plus couldn't perform as advertised, so I'll need to test ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/home/kitchen-and-household/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
+      "originalUrl": "https://www.cnet.com/home/kitchen-and-household/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/wBwmRgI6ss08ArJU5-SSMcfUo_s=/1200x630/2022/01/04/1c7cad62-3698-4e16-85c4-713ad851a0ee/roborock-s7-maxv-ultra-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
+      "publishedDateTime": "2022-01-14T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-serve-robotics-achieves-autonomous-robo-delivery-milestone.md",
+      "title": "Serve Robotics achieves autonomous robo-delivery milestone",
+      "excerpt": "Autonomous sidewalk delivery company Serve Robotics completed robot deliveries with zero human interaction — an industry first.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone",
+      "originalUrl": "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/01/Serve-crossing-with-pedestrians.jpg.optimal.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone/amp",
+      "publishedDateTime": "2022-01-14T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-can-ai-beat-the-market-10-stocks-to-watch.md",
+      "title": "Can AI Beat the Market? 10 Stocks to Watch",
+      "excerpt": "The company's AI algorithms analyze more than 900 fundamental, technical and sentiment data points per day for 1,000 U.S.-listed shares and 600 stocks listed in Europe. Danelfin says that in total, its AI predictive scoring capability churns through 10,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch",
+      "originalUrl": "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch?amp",
+      "publishedDateTime": "2022-01-14T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-labour-peers-ai-healthcare-firm-sensyne-says-cash-is-running-out.md",
+      "title": "Labour peer’s AI healthcare firm Sensyne says cash is running out",
+      "excerpt": "Data analytics company run by Paul Drayson says money could run out in weeks unless it finds emergency funding",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
+      "originalUrl": "https://www.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0df2065643f93ef32c4d73da6014a74bd3b8c764/0_72_2160_1296/master/2160.jpg?width=620&quality=85&auto=format&fit=max&s=b29e1cab3c4596aef467c022ebe84b22",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
+      "publishedDateTime": "2022-01-14T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions.md",
+      "title": "AI Weekly: What can AI tell us about social unrest, virus structures, and carbon emissions?",
+      "excerpt": "Predicting unrest and virus structures. Reducing emissions from planes using algorithms. That's a few of the headlines in AI this week.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/",
+      "originalUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/06/airplane.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/amp/",
+      "publishedDateTime": "2022-01-14T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-flipping-the-lens-on-fear-loathing-of-aiml-in-asian-robotics-review.md",
+      "title": "Flipping The Lens On Fear & Loathing of AI/ML - In Asian Robotics Review",
+      "excerpt": "Asian Robotics Review published an article about my annual Highlights and Milestones in AI in Healthcare report. I'm sharing the article here with permission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/flipping-lens-fear-loathing-aiml-asian-robotics-review-colangelo",
+      "originalUrl": "https://www.linkedin.com/pulse/flipping-lens-fear-loathing-aiml-asian-robotics-review-colangelo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEF4M4Cxd7VHA/article-cover_image-shrink_600_2000/0/1642107776452?e=1647475200&v=beta&t=PvX-aOxcIBd3ow0QxB7pKK1SgAWqiMeWN7sQ0se_RxA",
+          "width": 1162,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-15-samsung-develops-in-memory-computing-for-ai-chips.md",
       "title": "Samsung develops in-memory computing for AI chips",
       "excerpt": "Samsung Electronics announced it has developed an in-memory computing technology that merges memory and system semiconductors.",
@@ -610,6 +1052,60 @@
       ]
     },
     {
+      "path": "_news/2022-01-14-its-machine-learning-not-ai.md",
+      "title": "It's machine learning, not AI.",
+      "excerpt": "\"At the moment, the best way to survive a patient with heart failure is calling 911\". This is the response from Jaeson Bang, the CEO of FutureCardia when someone asked him if his startup is adopting AI to predict and prevent patients with heart failure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/its-machine-learning-ai-son-le-thanh",
+      "originalUrl": "https://www.linkedin.com/pulse/its-machine-learning-ai-son-le-thanh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFvVKc2mtnqhw/article-cover_image-shrink_600_2000/0/1642127255161?e=1647475200&v=beta&t=Y8Vdhbw9yATaB2IpzTyQ3csWJ4qsUlioGVXg1GBFph8",
+          "width": 1385,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T18:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-chinas-taxpayers-on-edge-as-beijing-tightens-oversight-with-big-data-and-artificial-intelligence.md",
       "title": "China’s taxpayers on edge as Beijing tightens oversight with big data and artificial intelligence",
       "excerpt": "From small business owners to the wealthy, Chinese are bracing for greater scrutiny under a new tax surveillance system that will deploy big data and artificial intelligence.",
@@ -661,72 +1157,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-14-an-ibanker-turns-entrepreneur-to-build-better-medical-care.md",
-      "title": "An iBanker Turns Entrepreneur to Build Better Medical Care",
-      "excerpt": "Former investment banker Daniel Ni (MBA 2018) has long wanted “to dream and to build” for greater social good. Seeking inspiration, he took his entrepreneurial dream to The Chinese University of Hong Kong (CUHK) Business School,",
+      "path": "_news/2022-01-14-janes-news-page.md",
+      "title": "Janes - News page",
+      "excerpt": "Boeing is to expand its F/A-18E/F Super Hornet and EA-18G Growler industrial team for Germany, with ... New Czech Defence Minister Jana Černochová presented her ministry's priorities during a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/knowledge/places/greater-bay-area/news",
-      "originalUrl": "https://www.scmp.com/presented/news/hong-kong/education/topics/rising-tide-environmental-awareness/article/3162472",
+      "webUrl": "https://www.securitymagazine.com/articles/96922-swiss-transit-authority-uses-ai-monitoring-to-secure-rails",
+      "originalUrl": "https://www.janes.com/defence-news/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 122,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.i-scmp.com/sites/default/files/d8/images/section/2020/12/17/og08-greater_bay_area_2.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/knowledge/places/greater-bay-area/news",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/knowledge/places/greater-bay-area/news",
-      "publishedDateTime": "2022-01-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-local-robotics-company-leases-32000-square-feet-in-pasadena-increased-footprint-eleven-fold.md",
-      "title": "Local Robotics Company Leases 32,000 Square Feet in Pasadena, Increased Footprint Eleven-Fold",
-      "excerpt": "Miso Robotics, a developer of artificial intelligence-driven robots that assist chefs in food preparation, has leased 32,623 square feet of office and lab space in Pasadena. The Pasadena company is leasing 21,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pasadenanow.com/main/local-robotics-company-leases-32000-square-feet-in-pasadena-increased-footprint-eleven-fold",
-      "originalUrl": "https://www.pasadenanow.com/main/local-robotics-company-leases-32000-square-feet-in-pasadena-increased-footprint-eleven-fold",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pasadenanow.com/main/wp-content/uploads/2022/01/Flippy-2-CROP-740x400-1.jpg",
-          "width": 740,
-          "height": 400,
+          "url": "https://www.securitymagazine.com/ext/resources/2022/01/17/transport-g333cdff04_1920.jpg?height=635&t=1642440004&width=1200",
+          "width": 780,
+          "height": 439,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -736,11 +1181,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T14:45:00-08:00",
+      "publishedDateTime": "2022-01-13T16:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Pasadena Now",
-        "domain": "pasadenanow.com",
+        "name": "Jane's Information Group",
+        "domain": "janes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -750,449 +1195,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-highspot-raises-248m-at-35b-valuation-as-demand-rises-for-software-that-helps-salespeople.md",
-      "title": "Highspot raises $248M at $3.5B valuation as demand rises for software that helps salespeople",
-      "excerpt": "Highspot raised another big round, this time reeling in $248 million as part of a Series F round. It is now valued at $3.5 billion, which is up 4X over the past two years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/highspot-raises-248m-at-3-5b-valuation-as-demand-rises-for-software-that-helps-salespeople/",
-      "originalUrl": "https://www.geekwire.com/2022/highspot-raises-248m-at-3-5b-valuation-as-demand-rises-for-software-that-helps-salespeople/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2022/highspot-raises-248m-at-3-5b-valuation-as-demand-rises-for-software-that-helps-salespeople/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/highspot-raises-248m-at-3-5b-valuation-as-demand-rises-for-software-that-helps-salespeople/amp/",
-      "publishedDateTime": "2022-01-13T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-amd-intel-and-nvidia-announce-new-cpu-gpu-and-automotive-processors-at-ces-2022.md",
-      "title": "AMD, Intel, AND NVIDIA, Announce New CPU, GPU And Automotive Processors At CES 2022",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into Intel, NVIDIA, and AMD processor innovations that were announced at CES 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/01/13/amd-intel-and-nvidia-announce-new-cpu-gpu-and-automotive-processors-at-ces-2022/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/01/13/amd-intel-and-nvidia-announce-new-cpu-gpu-and-automotive-processors-at-ces-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e089315ffe9b5c3f3806f2%2F0x0.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/01/13/amd-intel-and-nvidia-announce-new-cpu-gpu-and-automotive-processors-at-ces-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/01/13/amd-intel-and-nvidia-announce-new-cpu-gpu-and-automotive-processors-at-ces-2022/amp/",
-      "publishedDateTime": "2022-01-13T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-dude-wheres-my-driverless-car.md",
-      "title": "Dude, Where’s My Driverless Car?",
-      "excerpt": "When will driverless cars hit the road? While car manufacturers and tech giants are making optimistic predictions about the future of autonomous vehicles, there are many challenges in the way",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessbecause.com/news/insights/8012/driverless-cars-future",
-      "originalUrl": "https://www.businessbecause.com/news/insights/8012/driverless-cars-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessbecause.com/uploads/default/news/images/1641574105.png",
-          "width": 750,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.businessbecause.com/news/insights/8012/driverless-cars-future",
-      "cdnAmpWebUrl": "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/insights/8012/driverless-cars-future",
-      "publishedDateTime": "2022-01-13T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Because",
-        "domain": "businessbecause.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-how-protais-ai-powered-platform-is-improving-drug-discovery.md",
-      "title": "How Protai’s AI-powered platform is improving drug discovery",
-      "excerpt": "Protai claims it's reshaping the drug discovery and development process using proteomics and an end-to-end AI-based platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/",
-      "originalUrl": "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1331723660-e1642087280811.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/",
-      "publishedDateTime": "2022-01-13T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-sales-enablement-startup-highspot-raises-248m-at-35b-valuation.md",
-      "title": "Sales enablement startup Highspot raises $248M at $3.5B valuation",
-      "excerpt": "Sales software maker Highspot Inc. today said that it has raised a $248 million funding round after growing revenues nearly tenfold over the last three years. B Capital Group and D1 Capital Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/",
-      "originalUrl": "https://siliconangle.com/2022/01/13/sales-enablement-startup-highspot-raises-248m-3-5b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1138450928.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/amp/",
-      "publishedDateTime": "2022-01-13T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic.md",
-      "title": "New startup shows how emotion-detecting AI is intrinsically problematic",
-      "excerpt": "Hume, a new company emerging from stealth, claims that it is 'ethically' applying emotion AI. But the science is shaky at best.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/",
-      "originalUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/YouFirst-AI-emotion-tracking-brand-video-campaigns.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/amp/",
-      "publishedDateTime": "2022-01-13T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-microsoft-msft-accelerates-manufacturing-homegrown-chips.md",
-      "title": "Microsoft (MSFT) Accelerates Manufacturing Homegrown Chips",
-      "excerpt": "Microsoft (MSFT) hires key Apple engineer Mike Filippo to manufacture in-house processors for the servers running its cloud-computing services and Surface line of personal computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/413080",
-      "originalUrl": "https://www.entrepreneur.com/article/413080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-413080.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond.md",
-      "title": "16 Industries And Functions That Will Benefit From AI In 2022 And Beyond",
-      "excerpt": "The experts of Forbes Technology Council are always looking ahead to the latest trends in cutting-edge technology. Below, 16 of them share the industries they believe have the most to gain from implementing AI as well as how the technology will be specifically applied in 2022 and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61df1425c8d22322f13806f0%2F0x0.jpg",
-          "width": 1200,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/",
-      "publishedDateTime": "2022-01-13T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-advancing-genomics-to-better-understand-and-treat-disease.md",
-      "title": "Advancing genomics to better understand and treat disease",
-      "excerpt": "Genome sequencing can help us better understand, diagnose and treat disease. For example, healthcare providers are increasingly using genome sequencing to diagnose rare genetic diseases, such as elevated risk for breast cancer or pulmonary arterial hypertension, which are estimated to affect roughly",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/advancing-genomics-better-understand-and-treat-disease/",
-      "originalUrl": "https://blog.google/technology/health/advancing-genomics-better-understand-and-treat-disease/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Genome-Graphics_blog.max-700x700.png",
-          "width": 684,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/health/advancing-genomics-better-understand-and-treat-disease/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/advancing-genomics-better-understand-and-treat-disease/amp/",
-      "publishedDateTime": "2022-01-13T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

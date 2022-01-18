@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-18T12:46:00Z
 originalUrl: "https://www.windpowerengineering.com/ai-and-machine-learning-bridging-the-divide-between-a-wind-development-pipeline-operations-and-roi/"
 webUrl: "https://www.windpowerengineering.com/ai-and-machine-learning-bridging-the-divide-between-a-wind-development-pipeline-operations-and-roi/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://3ohkdk3zdzcq1dul50oqjvvf-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/Altamont_Wind_Farm_California-500x291.jpg"
@@ -24,6 +25,6 @@ images:
     height: 291
     isCached: true
 
-secured: "pYfUKCGMNJpk1NqtO50Smqlf5KZ6dQty1J1GbNaVIlAIyBUUPfD63B52Z2oMBcyBZhVcETqRQE+3jvwBpYyptQyE24Sd/xr7V3tfuCkLpMHItq0EzveFF+gUTCEmVuPz3pwPS33p9ze+21vFakSgxwwAOcRtFm6qYo88crp1e2zZbIaFXjGoKnNdEIrAPy+hJBneQ2d6pp1qHirfd7KMYgV/a4DJFhHn1RAZ0ZJ22Tn/eMMsw4i/3tQ1zb6swxxzUZAIE+gUkbIK3SP9Wo7D1gzMXZUq/gjddaWqnaXcIteghSMk5/Ephhx+xrEE2HFBkobv2jj0DOcRmZPreXM/alMr9qrvfVM6KiTrTpVcJm0=;z2smgr3ii01xNoCDUh4yHA=="
+secured: "Mv+XZYIeXcLsD4Hn6AkFRUb9SENwcKzhn9lPj6+Tx8iMX7MiVBfd8LyA06Fz2kA+l6TXDJGSu1+70fTAaBUHeePV5och8B1Nlh5OkjXXWXUufkUwh38wzx+xHRLdR/UUTI6HQd/M7eqD6IBri+AToDFpBdjt0gSllRDegK4IxJg72aPNXmk9KBgI/bx4GY5VryiOkSfQ1iBUCuKyJ6Uw6RazwbwrHo48d5Xn6Q2ACI3kXCfC32cYW2JD00uTCs6JPyZ/q7cDNdffHhVpRV5a2SjHBLONXfutlo/UkpLaByOHkfkRhLafdzeIN6WAgXPZeQokZ2BKV16g15U7SOYIOtpj4+ZwVRfehv9BVYLFh/pA7vXzk18S/RYTwTdz7i1WDbwB/AQhxi6QXU/cVjirCJ9+HxxMuiWvkQWwPR94QoBPvAyGHc7ZHK7mGP7w73FknxBKBINt5pz52E2QIWqmxSFp0LpZMPURKefmPmEDWjhOSbmyvJXvbYJZH77kwG573J2f+HdpA/pautD9hf3sBw==;GPY6gsC4MAcnWDB0wQxWxg=="
 ---
 

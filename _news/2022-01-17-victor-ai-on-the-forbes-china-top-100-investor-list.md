@@ -34,11 +34,25 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F93071c65-3903-4610-b8dc-6b0141fe8216.jpg?source=amp&fit=scale-down&width=2400"
         width: 2400
         height: 1350
+        isCached: true
+  - title: "AI trends for 2022"
+    excerpt: "Artificial Intelligence with more funding, government incentivised research and tech companies accelerating growth in this space, writes Andrew Yan-Tak Ng, a computer scientist and technology entrepre"
+    publishedDateTime: 2022-01-15T18:32:00Z
+    webUrl: "https://www.dailypioneer.com/2022/sunday-edition/ai-trends-for-2022.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 41
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/ai-trends-for-2022-2022-01-16.jpg"
+        width: 1000
+        height: 800
         isCached: true
 
 secured: "xJZ/M/rCjxnzlpW5m+P5l0glRNvgMCBYRMPd0yRg66BQe2Y3FVSTLj1KB7FJ/PVVQIyqFaUoA4qb5QF6F6hT9tv30dUigYIaOXWZn716b0cWsM1AYCpCr+QseWbY1kDmu3L4tMTRwGL3t36Xaxj7P4dHSGAFJEQRtbueUi0rmYdVSRfOH5xd+Uy6p1W1sW2VqU1VDLHJ7Wkvy+VMPBhWN3iUGWJIUek3kQq5oWpefPxjpYrXFvOHJ2B38w0vKzBtWyFYktKQUZev0lXb9TCV14l+NVB3YcSfPCDeJU1a/QcVpF3bpTqtLulZoSwOjo6uH1ezG8C6ByijSYa+QxD+3UkkKl2iAcFpdTpmpucvsYY=;S1gscB7/+lchB8UdVFjH5A=="

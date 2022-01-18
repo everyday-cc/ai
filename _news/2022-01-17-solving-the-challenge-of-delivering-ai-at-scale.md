@@ -30,17 +30,17 @@ images:
 related:
   - title: "With surge of online buying, retailers now looking to artificial intelligence to help boost sales"
     excerpt: "Retailers are looking at new ways to boost their bottom lines, especially after a disappointing holiday season where sales fell nearly 2 percent in December. To help"
-    publishedDateTime: 2022-01-17T21:13:00Z
-    webUrl: "https://www.cbs17.com/news/investigators/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/"
-    ampWebUrl: "https://www.cbs17.com/news/investigators/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/"
+    publishedDateTime: 2022-01-18T12:49:00Z
+    webUrl: "https://www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/"
+    ampWebUrl: "https://www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/"
+    cdnAmpWebUrl: "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/"
     type: article
     provider:
-      name: CBS17 Raleigh
-      domain: cbs17.com
-    quality: 78
+      name: WNCT
+      domain: wnct.com
+    quality: 76
     images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/01/shopping.jpg?w=1280"
+      - url: "https://www.wnct.com/wp-content/uploads/sites/99/2022/01/shopping.jpg?w=1280"
         width: 700
         height: 393
         isCached: true

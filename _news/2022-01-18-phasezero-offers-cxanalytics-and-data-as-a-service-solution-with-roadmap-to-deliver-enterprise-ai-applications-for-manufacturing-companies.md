@@ -99,6 +99,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "PINC AI™ Launches INsights, an Enhanced Technology Offering for Customized, On-Demand Healthcare Analytics"
+    excerpt: "PINC AI™, the technology and services platform of Premier, Inc (NASDAQ: PINC), today launched INsights, an enhanced self-service healthcare solution for the creation of customized, on-demand analytics."
+    publishedDateTime: 2022-01-18T13:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pinc-aitrade-launches-insights-an-enhanced-technology-offering-/2022/01/18/9527595.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "rHJkCfeCX+KckDZfUP6VDw4o2mKJ4bNZWCKGC/1nN/oWmau1K6FMPizXuBYp003CQRxcUgAAwBC8IskuRNCDkbWegJWZB5UMX1D30BTlmxWOUALRKyj+K0jOzDzTWX00Y/nMen2TRoxyL+/ZlZa/QP1g9j/K8gUjfmzZ8CTOoRfIHNtcMKj8TcULwbm+ezvgDIBHyzonWWHvdDz2ZohXpCx/YPwCRBAkJfo19tZOEZI6y5UronEJrt9maqwc4CBKdxNa/5P9A3coGTEYJ0GPoTmePTCgJq3xT2tHuEDwoUu+6ZZy5MlIYJ4EcnkBqyVMZx3l9/+S7tbtuMkERO0Laz8g2VXURxLBpFQHr56VlrM=;nno1Jsc2whKUcINvFZCR0A=="
 ---

@@ -8,9 +8,9 @@ webUrl: "https://www.ft.com/content/e3f36d82-89b8-41df-ae11-0653ce7e7944"
 ampWebUrl: "https://amp.ft.com/content/e3f36d82-89b8-41df-ae11-0653ce7e7944"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e3f36d82-89b8-41df-ae11-0653ce7e7944"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
   name: The Financial Times
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F93071c65-3903-4610-b8dc-6b0141fe8216.jpg?source=amp&fit=scale-down&width=2400"
@@ -26,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI trends for 2022"
+    excerpt: "Artificial Intelligence with more funding, government incentivised research and tech companies accelerating growth in this space, writes Andrew Yan-Tak Ng, a computer scientist and technology entrepre"
+    publishedDateTime: 2022-01-15T18:32:00Z
+    webUrl: "https://www.dailypioneer.com/2022/sunday-edition/ai-trends-for-2022.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 41
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/ai-trends-for-2022-2022-01-16.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "Victor AI on the Forbes China Top 100 Investor List"
     excerpt: "Victor AI on the Forbes China Top 100 Investor List Shanghai, China--(Newsfile Corp. - January 17, 2022) - The '2021 Forbes China Venture Capital"
     publishedDateTime: 2022-01-17T12:40:00Z

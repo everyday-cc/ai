@@ -1,30 +1,24 @@
 ---
 category: news
 title: "OneSoft and ENTEGRA Team Up to Advance Innovation of O&G Pipeline ILI Services with Machine Learning"
-excerpt: "EDMONTON, AB and INDIANAPOLIS, IN / ACCESSWIRE / January 18, 2022 / OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (\"OneSoft\") and ENTEGRA LLP (\"ENTEGRA\")"
-publishedDateTime: 2022-01-18T12:04:00Z
-originalUrl: "https://www.digitaljournal.com/pr/onesoft-and-entegra-team-up-to-advance-innovation-of-og-pipeline-ili-services-with-machine-learning"
-webUrl: "https://www.digitaljournal.com/pr/onesoft-and-entegra-team-up-to-advance-innovation-of-og-pipeline-ili-services-with-machine-learning"
+excerpt: "EDMONTON, AB and INDIANAPOLIS, IN/ ACCESSWIRE / January 18, 2022 / OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF)(\"OneSoft\") and ENTEGRA LLP (\"ENTEGRA\") have entered into a business arrangement (\"Agreement\") whereby ENTEGRA will incorporate the Cognitive Integrity Management (\"CIM\") software-as-a-service (\"SaaS\") solution developed by OneSoft's subsidiary,"
+publishedDateTime: 2022-01-18T14:13:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/01/18/onesoft-and-entegra-team-up-to-advance-innovation-of-o-g-pipeline-ili-services"
+webUrl: "https://stockhouse.com/news/press-releases/2022/01/18/onesoft-and-entegra-team-up-to-advance-innovation-of-o-g-pipeline-ili-services"
 type: article
-quality: 26
-heat: 26
+quality: 6
+heat: 6
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/0292659d21cd19eb471e29464d4184e507b001c1-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "cxSb0xrbMC5o9Ph5hGnHFvzXOLeQG30RMmhz3Z41NzOfubPrljCAd9CqfoH2oj9k3nF7VxNAGImkWpkDng9PWOqfv0FnQou4LdKTwJlZWv3w1998Mvqmem2iHLCzJp3gf3GQ5DARWIwTlPgD8ygJ21D0n6kJaTCcvLSjAkpdk6A6JWInSoWsVZedrT4CBxVEn5+kZmW2OLhoRmcHw+ateqJnh0DqhumKu7jQa9sp4zVR11qGefuPu7W4FWyJqhns6W7L7+5hREG6gyEEC3uLStwOPpWN4rzbgO10N0uI8O8LDSL5lu9Ngpqe9chzZTfaaNkjcPBjcfWZcTxfGIrFPK6oK4L+zV/lPzmEbw9aEJU=;0nw/LbVH3kVWiFq5/faQXw=="
+secured: "7w1z3ir4A77kGd7REecirsT+85WhV6s1/KqEM/uTK/lH2Ggzts4C8rzVKgZS3/HYQWKYk0fL7nU2y5XLu/91mFWo5a834eIvLulV+hwbVPPFFNBrxVTxaHw/k8JiLNeVVSLT5fH77cyEFQB4XlEvNuMJsuhjk5pPsG6k3BcFPf0zJKW1Dy6wdnEbfA7GnVrAg8zk8WAfmcSimE+2gNIuCHe1EthON6XY9yNw9KalUfGcuqWSIJDRvT/hKgxb9JOA+TPIUoGrL4PguftHgVwkBBpGO6eGh/0BffsTI88XA4UMX+gMHFx8CPm0VcBu25Hs7Fc7uY5Cmg7WRVdeiJ3tImQEEZSRsNlE5bDnnwbX07brCPpIFvPWqMjESGlrXimpL1dLICm7QzkisKeUAAaPePdhYtFGAIbjDxnDuR9QfsTuCFOzvHLb7iDPXNrD/h9cFL6CxBMPa2g4JP5iaeAu9wJjuwZx9i6S9O0/ljJF0qGX7Unyz2vXRzj8yB+WgxE9VUa7zqDfNNeyHDc4z4HbuA==;tSIqF3mxN78Wl5AoMdPFAA=="
 ---
 

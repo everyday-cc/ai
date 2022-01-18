@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-10-this-humanoid-robot-is-about-to-fly-like-iron-man.md",
+      "title": "This humanoid robot is about to fly like Iron Man",
+      "excerpt": "It’s common for researchers around the world to conduct investigations into creating better drone aircraft. It’s also common for researchers to conduct investigations into building",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/",
+      "originalUrl": "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/12/ironcub-original-crop.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/amp/",
+      "publishedDateTime": "2021-12-09T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-transient-review-ps4-a-lovecraftian-story-set-in-a-cyberpunk-world-that-doesnt-do-either-one-justice.md",
       "title": "Transient Review (PS4) – A Lovecraftian Story Set In A Cyberpunk World That Doesn’t Do Either One Justice",
       "excerpt": "Transient is a Cyberpunk Lovcraftien horror story that is too confusing to follow and leaves a lot to be desired. Read our Transient PS4 review.",
@@ -1315,49 +1367,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-05-fears-interviews-done-by-robot-ai-stop-clever-working-class-kids-getting-jobs.md",
-      "title": "Fears interviews done by robot AI 'stop clever working-class kids getting jobs'",
-      "excerpt": "There are fears that robot interviews by webcam that judge candidates on the way they speak will stop well-qualified youngsters from less privileged families getting jobs",
-      "sourceUrl": null,
-      "webUrl": "https://www.mirror.co.uk/news/uk-news/fears-interviews-done-robot-ai-25617315",
-      "originalUrl": "https://www.mirror.co.uk/news/uk-news/fears-interviews-done-robot-ai-25617315",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/incoming/article25617221.ece/ALTERNATES/s615/0_MAIN-Robot.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/news/uk-news/fears-interviews-done-robot-ai-25617315.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/uk-news/fears-interviews-done-robot-ai-25617315.amp",
-      "publishedDateTime": "2021-12-04T10:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },
