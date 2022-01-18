@@ -2,6 +2,83 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-12-04-kindering-helps-children-with-special-needs-and-their-parents-live-better-lives.md",
+      "title": "Kindering helps children with special needs — and their parents — live better lives",
+      "excerpt": "The symptoms became clearer as Kuba grew: airway problems and difficulty feeding after birth, weak muscle tone, seizures and severe cognitive ... half the need for services on the east side ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/",
+      "originalUrl": "https://www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/?amp=1",
+      "publishedDateTime": "2021-12-04T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-top-developments-in-artificial-intelligence-that-will-shape-2022-and-beyond.md",
+      "title": "Top Developments in Artificial Intelligence that Will Shape 2022 and Beyond",
+      "excerpt": "AI is the force behind many modern technological comforts. Everything in the digital era is powered by artificial intelligence and its sub-technologies. Check out the lists of the top developments in artificial intelligence that will shape 2022 and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-developments-in-artificial-intelligence-that-will-shape-2022-and-beyond/",
+      "originalUrl": "https://www.analyticsinsight.net/top-developments-in-artificial-intelligence-that-will-shape-2022-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-Developments-in-Artificial-Intelligence-that-Will-Shape-2022-and-Beyond.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-04T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-4th-international-conference-on-robotics-and-computer-vision-icrcv-2022.md",
       "title": "4th International Conference on Robotics and Computer Vision (ICRCV 2022)",
       "excerpt": "International Conference on Robotics and Computer Vision (ICRCV 2022)--Ei Compendex, Scopus. Web:  Time: September 25-27, 2022. Venue: Wuhan Institut",
@@ -1076,109 +1153,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals.md",
-      "title": "The IBM Research AI Hardware Center: Solid Progress, Aggressive Goals",
-      "excerpt": "IBM AI acceleration technologies are so good, most AI chip companies would be better off licensing the tech from IBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8eb11777726e67d5e1c91%2F0x0.png",
-          "width": 742,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/amp/",
-      "publishedDateTime": "2021-12-03T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-the-onset-of-data-centric-ai-and-why-its-here-to-stay.md",
-      "title": "The Onset Of Data-Centric AI And Why It’s Here To Stay",
-      "excerpt": "The present circumstances indicate that if a company or organization wishes to start working with an AI system or wants to improve their current operation, giving much more emphasis on the data component will be a huge step forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/03/the-onset-of-data-centric-ai-and-why-its-here-to-stay/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/03/the-onset-of-data-centric-ai-and-why-its-here-to-stay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61892951ad641ca64a264904%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/03/the-onset-of-data-centric-ai-and-why-its-here-to-stay/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/03/the-onset-of-data-centric-ai-and-why-its-here-to-stay/amp/",
-      "publishedDateTime": "2021-12-03T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

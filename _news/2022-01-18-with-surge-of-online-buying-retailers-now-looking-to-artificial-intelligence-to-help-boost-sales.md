@@ -8,8 +8,8 @@ webUrl: "https://www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-b
 ampWebUrl: "https://www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/"
 cdnAmpWebUrl: "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/"
 type: article
-quality: 76
-heat: 86
+quality: 78
+heat: 88
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Sales
+  - AI in Healthcare
 
 images:
   - url: "https://www.wnct.com/wp-content/uploads/sites/99/2022/01/shopping.jpg?w=1280"

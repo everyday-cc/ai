@@ -38,7 +38,7 @@ related:
     provider:
       name: WNCT
       domain: wnct.com
-    quality: 76
+    quality: 78
     images:
       - url: "https://www.wnct.com/wp-content/uploads/sites/99/2022/01/shopping.jpg?w=1280"
         width: 700

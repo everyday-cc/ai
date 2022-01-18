@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-18-computer-vision-based-anomaly-detection-using-amazon-lookout-for-vision-and-aws-panorama.md",
+      "title": "Computer vision-based anomaly detection using Amazon Lookout for Vision and AWS Panorama",
+      "excerpt": "This is the second post in the two-part series on how Tyson Foods Inc., is using computer vision applications at the edge to automate industrial processes inside their meat processing plants. In Part 1, we discussed an inventory counting application at packaging lines built with Amazon SageMaker and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/computer-vision-based-anomaly-detection-using-amazon-lookout-for-vision-and-aws-panorama/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/computer-vision-based-anomaly-detection-using-amazon-lookout-for-vision-and-aws-panorama/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/30/ML-6470-image004-934x630.png",
+          "width": 934,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T12:58:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-they-wanted-to-write-the-history-of-modern-china-but-how.md",
+      "title": "They Wanted to Write the History of Modern China. But How?",
+      "excerpt": "In the historian Jing Tsu’s “Kingdom of Characters,” the evolution of Chinese writing tells the story of the country’s past, present — and future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/01/18/books/review/kingdom-of-characters-jing-tsu.html",
+      "originalUrl": "https://www.nytimes.com/2022/01/18/books/review/kingdom-of-characters-jing-tsu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/11/23/books/review/Mask2/Mask2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/01/18/books/review/kingdom-of-characters-jing-tsu.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/01/18/books/review/kingdom-of-characters-jing-tsu.amp.html",
+      "publishedDateTime": "2022-01-18T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-nrf22-for-retailers-artificial-intelligence-is-one-solution-to-solve-many-problems.md",
+      "title": "NRF22: For Retailers, Artificial Intelligence Is One Solution to Solve Many Problems",
+      "excerpt": "From supply chain management to store staffing and more, IBM executives say merchants are just getting started with AI.",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems",
+      "originalUrl": "https://biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202201/GettyImages-850818182_0.jpg?itok=DdeJppsw",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/01/nrf22-retailers-artificial-intelligence-one-solution-solve-many-problems?amp",
+      "publishedDateTime": "2022-01-18T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-aigens-swarm-of-agtech-robots-want-to-make-agriculture-carbon-positive.md",
       "title": "Aigen’s swarm of agtech robots want to make agriculture carbon positive",
       "excerpt": "Even though the only thing the robot can do right now is pull weeds, Aigen is adamant it isn’t building a weed-whacking robot. It claims to be on a mission to terraform the earth, and says it has a path toward making agriculture carbon positive.",
@@ -348,7 +496,7 @@
       "originalUrl": "https://www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -379,7 +527,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Sales"
+        "AI in Sales",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1068,154 +1217,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration.md",
-      "title": "Multi-layer security cover with facial recognition systems in place for R-Day celebration",
-      "excerpt": "After the improvised explosive device (IED) was found at Ghazipur Flower Market ahead of the Republic Day and later diffused, the Delhi Police have fortified areas in and around Rajpath with multi-layer security cover,",
-      "sourceUrl": null,
-      "webUrl": "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393",
-      "originalUrl": "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/polopoly_fs/1.3515805.1548470408!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393",
-      "publishedDateTime": "2022-01-17T18:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-why-giving-ai-human-ethics-is-probably-a-terrible-idea.md",
-      "title": "Why giving AI ‘human ethics’ is probably a terrible idea",
-      "excerpt": "If you want artificial intelligence to have human ethics, you have to teach it to evolve ethics like we do. At least that’s what a pair of researchers from the International Institute of Information Technology in Bangalore,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/why-giving-ai-human-ethics-probably-terrible-idea",
-      "originalUrl": "https://thenextweb.com/news/why-giving-ai-human-ethics-probably-terrible-idea",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fsadneuralrobot.jpg&signature=6bd2c761533772c01de1fc66f8328674",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-17T15:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-new-york-times-ad-warns-against-teslas-full-self-driving.md",
-      "title": "New York Times ad warns against Tesla’s “Full Self-Driving”",
-      "excerpt": "A full page advertisement in Sunday’s New York Times took aim at Tesla’s “Full Self-Driving” software, calling it “the worst software ever sold by a Fortune 500 company” and offering $10,000, the same price as the software itself to the first person who could",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/17/new-york-times-ad-warns-against-teslas-full-self-driving/",
-      "originalUrl": "https://techcrunch.com/2022/01/17/new-york-times-ad-warns-against-teslas-full-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Dawn-Project-ad.jpeg?w=600",
-          "width": 600,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/17/new-york-times-ad-warns-against-teslas-full-self-driving/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/17/new-york-times-ad-warns-against-teslas-full-self-driving/amp/",
-      "publishedDateTime": "2022-01-17T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -41,6 +41,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Machine learning model uses blood tests to predict COVID-19 survival"
+    excerpt: "A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival, weeks before the outcome, according to a new study published this week in the open-access journal PLOS Digital Health by Florian Kurth and Markus Ralser of the Charité—Universitätsmedizin Berlin,"
+    publishedDateTime: 2022-01-18T19:00:00Z
+    webUrl: "https://medicalxpress.com/news/2022-01-machine-blood-covid-survival.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-01-machine-blood-covid-survival.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-blood-covid-survival.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-model-1.jpg"
+        width: 2480
+        height: 1181
+        isCached: true
   - title: "Co-op stores using risky Chinese facial recognition technology to track their shoppers"
     excerpt: "Facial recognition technology, made by a Chinese state-owned company that is currently listed as a security threat by the Ministry of Defence, has been"
     publishedDateTime: 2022-01-16T15:27:00Z

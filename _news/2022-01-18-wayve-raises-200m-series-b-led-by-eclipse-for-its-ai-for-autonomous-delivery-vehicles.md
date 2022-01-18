@@ -65,7 +65,7 @@ related:
     provider:
       name: The Robot Report
       domain: therobotreport.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://www.therobotreport.com/wp-content/uploads/2022/01/wayve-series-b-funding.jpg"
         width: 938

@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-13-natural-language-processing-nlp-in-healthcare.md",
+      "title": "Natural Language Processing (NLP) in Healthcare",
+      "excerpt": "Worldwide Natural Language Processing (NLP) in Healthcare Market In-depth Research Report 2021, Forecast to 2026 is the latest research study released by AMA evaluating the market risk side ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2496244/natural-language-processing-nlp-in-healthcare-market",
+      "originalUrl": "https://www.openpr.com/news/2496244/natural-language-processing-nlp-in-healthcare-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc13792323_g.jpg",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2496244/natural-language-processing-nlp-in-healthcare-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2496244/natural-language-processing-nlp-in-healthcare-market",
+      "publishedDateTime": "2021-12-13T06:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-global-brain-cancer-surgery-and-radiation-therapy-market-research-2021.md",
       "title": "Global Brain Cancer Surgery and Radiation Therapy Market Research 2021",
       "excerpt": "The \"Surgery and Radiation Therapy in Brain Cancer - Market Insight, Competitive Landscape and Market Forecast - 2026\"",
@@ -1286,50 +1330,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-artificial-intelligence-ai-in-hiv-and-aids-market.md",
-      "title": "Artificial Intelligence (AI) in HIV and AIDS Market",
-      "excerpt": "Portland United States Big Market Research newly added a research report on the Artificial Intelligence AI in HIV and AIDS Market which represents a study for the period from 2021 to 2026 The research study provides a near look at",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
-      "originalUrl": "https://www.openpr.com/news/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub24296920_g.jpg",
-          "width": 727,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
-      "publishedDateTime": "2021-11-23T23:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

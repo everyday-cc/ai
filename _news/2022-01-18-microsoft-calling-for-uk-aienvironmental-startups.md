@@ -69,6 +69,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft, Cleveland Clinic and Providence join coalition to innovate AI in healthcare"
+    excerpt: "Microsoft has formed a coalition to build and track new AI innovations with some big names in healthcare, including Cleveland Clinic, Intermountain Healthcare, Providence and more."
+    publishedDateTime: 2022-01-18T17:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/microsoft-cleveland-clinic-providence-and-more-form-ai-healthcare-coalition"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 63
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1642523478/Pixtum.jpg/Pixtum.jpg?VersionId=uiHhyZoVZBFcOq3DVbMN4Db5T5v1KFk."
+        width: 2190
+        height: 1369
+        isCached: true
   - title: "How Microsoft just got into LiDAR Free Self-Driving AI"
     excerpt: "When I was doing my research on the AV sector, one startup stood out to me as working significantly on Deep learning of autonomous vehicles and that company was Wayve. So when I woke up this morning and found Microsoft has invested heavily in them,"
     publishedDateTime: 2022-01-18T13:32:00Z
@@ -82,6 +96,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHRaaVA8wVu0Q/article-cover_image-shrink_600_2000/0/1642511162101?e=1648080000&v=beta&t=hE4DM9zx6agsxEuhKcAEA187D5GneGkaViy9_8VaUcc"
         width: 600
         height: 319
+        isCached: true
+  - title: "Why AI in healthcare is at a standstill"
+    excerpt: "The Alan Turing Institute published a report in 2020 that looked at how AI helped during the COVID-19 pandemic. The study's findings showed that AI had little effect, as experts were faced with bias and lack of access to health data."
+    publishedDateTime: 2022-01-18T19:50:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/why-ai-in-healthcare-is-at-a-standstill.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "A new health care AI coalition & Google lands a big client"
     excerpt: "In the latest edition of STAT Health Tech: a new health care AI coalition launches, Google Cloud lands a big client, and telehealth companies steer clear of abortion care."

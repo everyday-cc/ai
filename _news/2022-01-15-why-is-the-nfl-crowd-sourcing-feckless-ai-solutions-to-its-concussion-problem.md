@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-sol
 webUrl: "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-solutions-concussion-problem"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -39,25 +39,11 @@ related:
     provider:
       name: BizTech
       domain: biztechmagazine.com
-    quality: 65
+    quality: 67
     images:
       - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202201/GettyImages-850818182_0.jpg?itok=DdeJppsw"
         width: 1440
         height: 500
-        isCached: true
-  - title: "To solve its concussion issue, the NFL is crowdsourcing feckless AI ideas"
-    excerpt: "To begin, the NFL claims that the competition will aid in the resolution of the league’s injury issues via the use of machine learning. In a news statement issued today, the league stated: The NFL reviews game footage of all major injuries,"
-    publishedDateTime: 2022-01-16T18:20:00Z
-    webUrl: "https://bestgamingpro.com/to-solve-its-concussion-issue-the-nfl-is-crowdsourcing-feckless-ai-ideas/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 38
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/The-NFL-is-crowd-sourcing-feckless-AI-solutions-to-its-concussion-problem.png"
-        width: 600
-        height: 375
         isCached: true
 
 secured: "wYEyLp2y9kODkACSeiWciiLMdOa+FxPpZRea0A7RVgqhZrF6MeMya1zrf2JssXZCsSuf/lw41Bb9YBGufw1NSCHrLm6ML3Mo63w/qECE4+ZMVY66pjuSkoclmoR4Lb1qovVikDvM64QFwaoyXV2zPEvMGLV1r8B/I1l+8w097kPIgE20T1PHKPXsXHrurEFaQLNyUNU4jIr8gExaYI8CKlp6ywRYRdHlseM0m3imrpffZZ4WVx0/Q/hzYLJDbE3fGzL41rjfJUcWHYI85/hm9YCw2Hod3PUml76SrcivffdtFUuT4VYilQzFazPClX6s2sq9LgyqgepXtZdnXJMGc9GBI3u4GHP54P6xTHYXBww8LNLvbB3P+DaHnohHaEWRXE1ITeIJH/tcxJoABtLs2b4pND0CNtq+YeGj7ILn1GtQGUrK+zGiFTqWeBYc72xd7b/X+wvavPgpio+RJyUtoOO38m/geiton/NDvaQJpHS6dN8UZ/qjnrCXwQHYZov6ac/p0m3VDcUC++1O5OWqUg==;D9Melmh8VL9hFw/JLQ6gXg=="

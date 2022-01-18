@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-18-with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales.md",
+      "title": "With surge of online buying, retailers now looking to artificial intelligence to help boost sales",
+      "excerpt": "Retailers are looking at new ways to boost their bottom lines, especially after a disappointing holiday season where sales fell nearly 2 percent in December. To help",
+      "sourceUrl": null,
+      "webUrl": "https://www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/",
+      "originalUrl": "https://www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wnct.com/wp-content/uploads/sites/99/2022/01/shopping.jpg?w=1280",
+          "width": 700,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/",
+      "cdnAmpWebUrl": "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/",
+      "publishedDateTime": "2022-01-18T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WNCT",
+        "domain": "wnct.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-microsoft-forms-new-coalition-for-ai-in-healthcare.md",
       "title": "Microsoft forms new coalition for AI in healthcare",
       "excerpt": "Microsoft has created the Artificial Intelligence Industry Innovation Coalition (AI3C) to drive the use of artificial intelligence (AI) in healthcare by providing recommendations, tools and best practices.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.healthleadersmedia.com/technology/microsoft-forms-new-coalition-ai-healthcare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -839,24 +883,33 @@
     {
       "path": "_news/2022-01-06-learn-how-artificial-intelligence-is-improving-the-healthcare-experience.md",
       "title": "Learn how Artificial Intelligence is Improving the Healthcare Experience",
-      "excerpt": "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,",
+      "excerpt": "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html",
+      "webUrl": "https://www.lelezard.com/en/news-20181152.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20181152.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T06:00:00-08:00",
+      "publishedDateTime": "2022-01-06T07:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1306,59 +1359,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down.md",
-      "title": "Microsoft Has Become One Of The Most Powerful Forces In Healthcare, With No Signs Of Slowing Down",
-      "excerpt": "Microsoft announced its latest venture in healthcare, adding on to its existing repertoire in this industry. In a groundbreaking statement, the technology and innovation giant announced a partnership with renowned pharmaceutical company CVS Health to “reimagine personalized care and accelerate digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ce208dfb05e99a9755465d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4861%26cropY1%3D0%26cropY2%3D2865",
-          "width": 1200,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/amp/",
-      "publishedDateTime": "2021-12-30T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AI in Healthcare"
       ]

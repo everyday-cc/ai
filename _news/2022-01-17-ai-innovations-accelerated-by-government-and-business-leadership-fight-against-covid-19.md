@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,36 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning AI Can Predict COVID-19 Survival From Single Blood Test"
+    excerpt: "Levels of 14 proteins in the blood of critically ill COVID-19 patients are associated with survival. A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival,"
+    publishedDateTime: 2022-01-18T19:00:00Z
+    webUrl: "https://scitechdaily.com/machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test/"
+    ampWebUrl: "https://scitechdaily.com/machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 73
+    images:
+      - url: "https://scitechdaily.com/images/Blood-Test-Centrifuge-777x622.jpg"
+        width: 777
+        height: 622
+        isCached: true
+  - title: "Oral Medication for COVID-19 Discovered Using Artificial Intelligence"
+    excerpt: "Kishor Wasan, says the double-blind intervention is being conducted among volunteers being treated on an outpatient basis. LSU DeepDrug Pr"
+    publishedDateTime: 2022-01-18T20:44:00Z
+    webUrl: "https://menafn.com/1103558656/Oral-Medication-for-COVID-19-Discovered-Using-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?436664"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Tribal leaders voice concerns about water, covid-19 to legislators"
     excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
     publishedDateTime: 2022-01-14T05:26:00Z

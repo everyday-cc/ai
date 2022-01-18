@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-01-investing-in-sustainability-for-emerging-markets.md",
+      "title": "Investing In Sustainability For Emerging Markets",
+      "excerpt": "Social justice requires emerging market countries to continue economic growth. Technology will evolve to help us grow with minimal use of natural capital. Investment opportunities abound in such technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shivaramrajgopal/2022/01/01/investing-in-sustainability-for-emerging-markets/",
+      "originalUrl": "https://www.forbes.com/sites/shivaramrajgopal/2022/01/01/investing-in-sustainability-for-emerging-markets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cfee17f0ba727b2855465f%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shivaramrajgopal/2022/01/01/investing-in-sustainability-for-emerging-markets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shivaramrajgopal/2022/01/01/investing-in-sustainability-for-emerging-markets/amp/",
+      "publishedDateTime": "2021-12-31T21:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-data-analytics-ml-and-ai-reflections-on-2021-and-thoughts-on-2022-trends.md",
       "title": "Data, Analytics, ML and AI: Reflections on 2021 and thoughts on 2022 trends",
       "excerpt": "After the pandemic-induced digital transformation of 2020, the year 2021 saw great advancement in the use of data to drive real business decisions. Many organizations accelerated their investment in t",
@@ -1369,58 +1421,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm.md",
-      "title": "Sayollo partners with Speechly to bring voice recognition to gComm",
-      "excerpt": "Sayollo partners with Speechly to add voice recognition and navigation to mobile, in-game shops via its gComm software",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/",
-      "originalUrl": "https://venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/sayollo-edit.png?w=1200&strip=all",
-          "width": 1080,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/amp/",
-      "publishedDateTime": "2021-12-22T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

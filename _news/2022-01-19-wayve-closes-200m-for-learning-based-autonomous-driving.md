@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-18T16:37:00Z
 originalUrl: "https://www.therobotreport.com/wayve-closes-200m-learning-based-autonomous-driving/"
 webUrl: "https://www.therobotreport.com/wayve-closes-200m-learning-based-autonomous-driving/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Microsoft AI
+  - AI in Autos
 
 images:
   - url: "https://www.therobotreport.com/wp-content/uploads/2022/01/wayve-series-b-funding.jpg"

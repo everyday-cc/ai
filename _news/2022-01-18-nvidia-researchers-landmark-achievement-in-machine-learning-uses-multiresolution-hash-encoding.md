@@ -26,6 +26,17 @@ images:
     height: 442
     isCached: true
 
+related:
+  - title: "Edge processing research takes discovery closer to use in artificial intelligence networks"
+    excerpt: "Researchers have successfully demonstrated proof-of-concept of using their multimodal transistor (MMT) in artificial neural networks, which mimic the human brain. This is an important step towards using thin-film transistors as artificial intelligence hardware and moves edge computing forward,"
+    publishedDateTime: 2022-01-18T19:20:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/01/220118104126.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 37
+
 secured: "w7ZTLWFPnO3Q/XkMF22egBxikaCg4GMShlpgNa4rcpcAU0LylzBgdCbzr1XLq/j3z0oSFuOyLA7hmgodkDY/8KfBlATaWoqL4oWmO6Vp49ncZNUHq1topU0cM05voj4gD/XRF4Oxact/H0fD4Jf3oy0NqqcezQtp7/rkfd45dy0ZQU7G13gJ+oFfL8FJ2ll2bKl4udyiByDr9rqQnyLytuf4v696bJFAM7PVcTV5OaIvWRMo46wrtnwSYnEkj3afTHJMFBTy+ldaRlaAK+JCuGsfYIPrGDZvxbzbo2MgCk2TTXdDuCcQlQ5zCNdOmvi7t52IqBpXw/xWpX5YbrSARWMuW7HToT9fToHUbHMzgXekNz0HhoB8c0tuGSOHvsaG+Yum+GzjkDkEh5+uqhVcQ1QPDY/XJRNcQZsOepnlP/ujh91PGnW2o8NHLleJwHIMQ6+4191AS5TZQzqdqkpHqBcIc9YEEPoTKH6M+MFNHMnfLckMIAMFGgBNbMy985bWEcYi0MaxWhxdfY0Uv5lk3w==;g7w5PbIt1IZTSzJvLuScog=="
 ---
 
