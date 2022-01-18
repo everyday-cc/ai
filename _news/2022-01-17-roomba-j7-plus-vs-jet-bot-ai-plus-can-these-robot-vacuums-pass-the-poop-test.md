@@ -33,9 +33,9 @@ images:
 
 related:
   - title: "The Roomba j7+ poop-detecting robot vacuum is $250 off right now"
-    excerpt: "If you made the resolution to tidy up more regularly in 2022, a robot vacuum can help with that. And for those that hate cleaning, investing in a robot vacuum with self-emptying functionality can make it so you rarely have to interact with the machine."
+    excerpt: "Amazon is now matching the $600 sale price on the Roomba j7+ and the $850 price on the Roomba s9+. If you made the resolution to tidy up more regularly in 2022, a robot vacuum can help with that. And for those that hate cleaning,"
     publishedDateTime: 2022-01-15T15:32:00Z
-    webUrl: "https://www.engadget.com/the-roomba-j7-poop-detecting-robot-vacuum-is-250-off-right-now-150019435.html?src=rss"
+    webUrl: "https://www.engadget.com/the-roomba-j7-poop-detecting-robot-vacuum-is-250-off-right-now-150019435.html"
     type: article
     provider:
       name: Engadget

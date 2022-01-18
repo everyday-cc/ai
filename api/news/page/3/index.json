@@ -486,6 +486,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-14-dude-wheres-my-driverless-car.md",
+      "title": "Dude, Where’s My Driverless Car?",
+      "excerpt": "When will driverless cars hit the road? While car manufacturers and tech giants are making optimistic predictions about the future of autonomous vehicles, there are many challenges in the way",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessbecause.com/news/insights/8012/driverless-cars-future",
+      "originalUrl": "https://www.businessbecause.com/news/insights/8012/driverless-cars-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessbecause.com/uploads/default/news/images/1641574105.png",
+          "width": 750,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.businessbecause.com/news/insights/8012/driverless-cars-future",
+      "cdnAmpWebUrl": "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/insights/8012/driverless-cars-future",
+      "publishedDateTime": "2022-01-13T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Because",
+        "domain": "businessbecause.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-how-protais-ai-powered-platform-is-improving-drug-discovery.md",
       "title": "How Protai’s AI-powered platform is improving drug discovery",
       "excerpt": "Protai claims it's reshaping the drug discovery and development process using proteomics and an end-to-end AI-based platform.",
@@ -893,7 +936,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/samsung-new-mram-in-memory-computing-chip-hits-98-percent-accuracy-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -997,7 +1040,7 @@
       "originalUrl": "https://www.techrepublic.com/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1174,58 +1217,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-new-nuro-robot-think-storm-trooper-meets-tayo-the-bus.md",
-      "title": "New Nuro robot? Think Storm Trooper meets Tayo the Bus",
-      "excerpt": "Nuro . As the pandemic roils on under a fresh wave of cases, the delivery robot wars continue to heat up. For technology developers, that means a new generation of robotic platfor",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/new-nuro-robot-think-storm-trooper-meets-tayo-the-bus/",
-      "originalUrl": "https://www.zdnet.com/article/new-nuro-robot-think-storm-trooper-meets-tayo-the-bus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/bcda3006320e7dd2b0c5fc0ed5c04b8d843addce/2022/01/12/884c9738-5288-4550-94c8-cd8bf2b24237/nuro-3rd-gen.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 783,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/new-nuro-robot-think-storm-trooper-meets-tayo-the-bus/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-nuro-robot-think-storm-trooper-meets-tayo-the-bus/",
-      "publishedDateTime": "2022-01-13T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

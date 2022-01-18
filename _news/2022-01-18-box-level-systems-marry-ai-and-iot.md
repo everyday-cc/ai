@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-18T01:10:00Z
 originalUrl: "https://circuitcellar.com/research-design-hub/tech-trends/box-level-systems-marry-ai-and-iot/"
 webUrl: "https://circuitcellar.com/research-design-hub/tech-trends/box-level-systems-marry-ai-and-iot/"
 type: article
-quality: 37
-heat: 37
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -16,6 +16,10 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+  - Computer Vision
+  - Microsoft AI
+  - AI in Robotics
 
 images:
   - url: "https://circuitcellar.com/wp-content/uploads/2019/08/Jeff_Child.jpg"
@@ -23,6 +27,6 @@ images:
     height: 300
     isCached: true
 
-secured: "tWc7h2jQs0JKjuJpJ11KzROecc0NkWYirYWnHgdbJSSAW45nAGtN7CbWg00Y3j/Smy1TRQav5znkIw+dN5DoXvevvKIIPCslhQ0/+vP//07m3U3JC07r1+js1jueVJIBSHKUtExNfcph+/ynIjcdldficl2nhvymUcfdXZimxMkrH4PlNEZQmIHuPnbpkjqest5y42dfg3ERpJFzVsadxJsz5mmo/8Pt8vIxpg6XRr5ccmEHhZIpV0BRr6k3eipF3Zq4akN1oVNpbxp7wGrKZfit0fueBPVky3OsqrEqM8YmC/3w6B3H41X0xOvyW5+GR3Oql20kk/s65DRf0dq4mzvXahwkroh2s/mBZtffnOs=;/3MDeeNc8VhKCCX3bDcHew=="
+secured: "larQxufeNIZh+acMXLDduQMB6mdvn/037BYEfb3bL0ZMZkzms82qhaJJVVq7uD2JSV88YYS5fKWiAbZFms3ido9Lz1uspaiemC9IuycdZTq6bOV4nUTWdyErBPPzVDu9DNDLKop37TY2BInOgV9j3ir57e63+s6EUaqLPTLSVpPRlfjKTW0QkT0jNhfUph7LVnY54TRo8LVEutO7sTqm5OkzZZpxGlpUOGTpMC6db5URwsxdQekEEOw1rQId9rKuVJPGHhQkGKCSdC5HtEk3S6zv4nYeX7P8Q0K8Wzr0auNDJuOKJ0M+eWx5wau8hXp7lv/wwW5AcMSSPtdDx03wWnDhFy0Zn0Wd15F49X4xOq1fN1uqQvZSzjGT88HBYQMZrj+i+RcvCZW0Y0tpSAnPg+IZjNRGkihbTY6LGaEvvBdv5oxKC/PqzIKPEZw/KiAzgdaHbVYnyvfH5eQ3PNpdPHU/EHMjhS+EHZUGStBaV+eIQZU9F+zjG9O6sKRmLm0YNu7qIQkOz76CdaNT9BZcWA==;W2fVJKdqT8hXk3dGwO4qag=="
 ---
 

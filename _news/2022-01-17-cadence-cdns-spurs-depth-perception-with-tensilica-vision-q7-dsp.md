@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/cadence-cdns-spurs-depth-perception-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cadence-cdns-spurs-depth-perception-with-tensilica-vision-q7-dsp?amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Nasdaq
@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Light Leverages Cadence Tensilica Vision Q7 DSP for Enhanced Depth Perception in Next-Generation ADAS Systems"
-    excerpt: "Light™ and Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that Light has deployed the Cadence® Tensilica® Vision Q7 DSP for use"
-    publishedDateTime: 2022-01-13T14:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/light-leverages-cadence-tensilica-vision-q7-dsp-for-enhanced-depth-perception-in-next-generation-adas-systems-301458861.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
   - title: "Light Leverages Cadence Tensilica Vision Q7 DSP for Enhanced Depth Perception in Next-Generation ADAS Systems"
     excerpt: "Light™ and Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that Light has deployed the Cadence® Tensilica® Vision Q7 DSP for use in Light’s Clarity™ Depth Perception Platform."
     publishedDateTime: 2022-01-17T10:29:00Z

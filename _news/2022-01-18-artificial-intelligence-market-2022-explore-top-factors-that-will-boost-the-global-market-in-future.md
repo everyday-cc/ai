@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global IoT Chips Market Size, Share, Trends, Growth Factors, and Regional Outlook To 2027 | COVID-19 Effects"
+    excerpt: "Market Highlights   The global IoT chips market is projected to register a CAGR of 5.9% during the forecast period, 2020"
+    publishedDateTime: 2022-01-18T05:42:00Z
+    webUrl: "https://menafn.com/1103552880/GlobalIoT-Chips-Market-Size-Share-Trends-Growth-Factors-and-Regional-Outlook-To-2027-COVID-19-Effects"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?404884"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Global Data Governance Market Report 2022: Market to"
     excerpt: "The \"Data Governance - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global market for Data Governance estimated at US$1.8 Billion in the year 2020,"
     publishedDateTime: 2022-01-14T21:51:00Z

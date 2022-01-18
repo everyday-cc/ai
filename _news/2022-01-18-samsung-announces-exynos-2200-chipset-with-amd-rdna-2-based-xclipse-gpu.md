@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-c
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/?amp=1"
 type: article
 quality: 104
-heat: 124
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Finally, Samsung launches new Exynos 2200 with AMD RDNA2 GPU"
+    excerpt: "After a lot of debate, rumours and tantrums, yes, finally, the Samsung Exynos 2200 mobile chipset has been announced by Samsung. Obviously, the key feature of this flagship chip is its new iGPU made by AMD,"
+    publishedDateTime: 2022-01-18T04:57:00Z
+    webUrl: "https://technosports.co.in/2022/01/18/finally-samsung-launches-new-exynos-2200-with-amd-rdna2-gpu/"
+    ampWebUrl: "https://technosports.co.in/2022/01/18/finally-samsung-launches-new-exynos-2200-with-amd-rdna2-gpu/?amp"
+    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/01/18/finally-samsung-launches-new-exynos-2200-with-amd-rdna2-gpu/?amp"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 59
+    images:
+      - url: "https://cdn.technosports.co.in/wp-content/uploads/2022/01/FJWyUvvXIAICHB5.jpg"
+        width: 1450
+        height: 900
+        isCached: true
+  - title: "Samsung Exynos 2200 Announced with AMD RDNA 2 GPU and Ray Tracing"
+    excerpt: "Samsung has finally introduced its new flagship chipset, the Exynos 2200, which comes with the AMD RDNA 2 GPU and Ray Tracing. See details."
+    publishedDateTime: 2022-01-18T05:30:00Z
+    webUrl: "https://beebom.com/samsung-exynos-2200-announced/"
+    ampWebUrl: "https://beebom.com/samsung-exynos-2200-announced/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/samsung-exynos-2200-announced/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 59
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/01/exynos-2200-announced.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "The Samsung Exynos 2200 is official with AMD's RDNA 2 GPU"
     excerpt: "Samsung was initially scheduled to announce the Exynos 2200 on January 11th, but that date came and went by with no word from the company. Instead, it removed all traces of the teaser from its social media channels,"
     publishedDateTime: 2022-01-18T04:51:00Z
@@ -47,6 +79,20 @@ related:
         width: 1000
         height: 900
         isCached: true
+  - title: "Samsung Exynos 2200 SoC with Xclipse GPU announced, should debut with Galaxy S22 series"
+    excerpt: "Samsung has finally unveiled its long-rumoured Exynos 2200 SoC that comes with AMD RDNA 2 Architecture based GPU called Xclipse."
+    publishedDateTime: 2022-01-18T00:09:00Z
+    webUrl: "https://www.themobileindian.com/news/samsung-exynos-2200-soc-with-xclipse-gpu-announced-should-debut-with-galaxy-s22-series"
+    type: article
+    provider:
+      name: Mobile
+      domain: themobileindian.com
+    quality: 31
+    images:
+      - url: "https://www.themobileindian.com/wp-content/uploads/2022/01/Exynos-2200-SoC.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Samsung Introduces Game Changing Exynos 2200 Processor with Xclipse GPU Powered by AMD RDNA 2 Architecture"
     excerpt: "Seoul, Korea – Jan. 18, 2022 – Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, t"
     publishedDateTime: 2022-01-18T02:01:00Z
@@ -62,6 +108,6 @@ related:
         height: 329
         isCached: true
 
-secured: "76apZ2IjaK2oe7voRf4PbHiX2tzQViQ16TZVMDWUbPOfjIBlpeAW5HlIpm5Vz1OON60wPv1AzidnMNiGTN5hV9uYKSay/Y6B92TQMoWNinfvS6elH0rHNVQj9frfYV1/R1TdlkHzBoO2DRDjX8F1Ii0cQR1RCkQuh9985QkLDsoJrZATQsyphhnZPQhxpIA8dYucWm5M+bQcIaxpzjGqw90L3hHQn/81EwZBJLH7KA7wvkg9vWYSMxTQleknRHXEFU5l4hhkkPVkUWsYu2omsd9VwAd+r4X8NyPmOmsh0PDa0OOObkvEpWenWPsZ/qoL3EMo5hcbItnuGMyezbh+CbxsKEqIFjyXSOYuYnY4mkU=;KEHG4tr32cg0pFwC3tk/1g=="
+secured: "940kZCKFmTGNgjMd6N9xK09RHmqgJpBO32RUvXe0CpV44KvEEOxmhsZdiH0RYekPHlcJicKU4cTsS8utULSqpVuKve4GaVZR5NtD/uQBDOC32YKnxOobGA35rymXtf5CIFSWBUFlGL1noJB6ngGL/sQKYxuzuM2KJgGed1tjfcLIZZfFYTZSnSNJzmYpmcrp1UKjiFDxjPwOKBmQVZe8d5fyJGrKThDByVLgUkntldWR7rbfXYjm1yKDutkgFLQBKpn/KMMR09tUgAFLHpT1Q+qZYQF9xa5dPS3p3NOeVZJb4yQZc6SkOBCF6NRCWXRH7yODgLOGmGmeF37DU/YrMtwenUJNJjR3yfEyFaNqhpmh4KhSgNoo/8GRdmLd9+nv7cAVFWYmaF8m1Z9RaCcvCvHkT+nvuocVh6fnCRKQblUtU3s+kwm4+YwWFs4j4YVTvXrOASdhbwDbpDD5nrv5npO3w61DwpQp8i62vsRXIZ9tXH/9QtiK7yh388MhcOx8qcJR9M8/dASZI+Q0QWjtPQ==;jI1vdzpnlOshMsEiI94ZCA=="
 ---
 

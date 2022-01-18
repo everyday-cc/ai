@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 671
     isCached: true
-
-related:
-  - title: "How the AI-Enabled Worker Will Deliver Better Government in 2022"
-    excerpt: "Looking to 2022 and beyond, we believe this is only the start, and we foresee even more uses for AI in the public sector, as more government institutions find practical applications of AI that ease rote work and deliver better outcomes for the public at large."
-    publishedDateTime: 2022-01-13T14:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2022/01/how-ai-enabled-worker-will-deliver-better-government-2022/360645/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/01/12/aiNG20220112/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "EbPygjv6oddtjeRWBqjl6K98OzhFSLe8YJuD5/PDw20MzXJmkkVLsu0wyCuJ/Es8js323QmHFL+szYWM5cm0inN5zpuxGh6vtt3tuQ5odA04SAq19UwMeYSOBokSOkanA9Aizx/+ybwAYvswrcKF4cLK5oISkQzI3E+w5046Iq0WSwEQGuQes+kowW1TBa/2hZw9YavOxXjbDMmnTylOJ8fLNWlWcBFVfF+0POVGpI7UB1C2ygykyLNSCOPt+aWNIEdsF2zGa/wUMraj4HAnqqnd1YKGLij3bUpDTpAIW6seOY0plOtDWyOM0wWMrKsCbWVLcBTAmhpzGdlA6k3p4Lz3BjQwf3KZJI16yEALw0Xm8/RlyE6QMvJGy/5UjPgxQvfPnFghT3Q2TfHY7sdHkFV+wLgO9PVLVeHUUZnR3aP+fQ4nfR0NbBz6jxFlGAXfveE9kouFEjuahyssSf62TEL3/cTo7yAZJD590EpGYK8nUPYF0kIfemzpNzr96NKF3q4U+aKZno4EJTs5SYUEDw==;NoDHEc0kDBrAk07Q9I/i/w=="
 ---

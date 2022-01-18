@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "The Five Biggest Healthcare Tech Trends In 2022"
+    excerpt: "Hi, Thank you for reading my latest article on The Five Biggest Healthcare Tech Trends In 2022! Here at LinkedIn and at Forbes I regularly write about management and technology trends. To read my future articles simply join my network here or click 'Follow'."
+    publishedDateTime: 2022-01-18T06:04:00Z
+    webUrl: "https://www.linkedin.com/pulse/five-biggest-healthcare-tech-trends-2022-bernard-marr"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEt0n5HvGOBFQ/article-cover_image-shrink_720_1280/0/1642484680889?e=1648080000&v=beta&t=h0GXrajLnVWggVE5GDZVsjpDTE6H-DoytdedPKCpxOA"
+        width: 1080
+        height: 720
+        isCached: true
+
 secured: "XlntM/U5uwcB7dCF93BLIj+R0Kqe+x95GvkcQkgCvja+KikXaxpgR7fIIiGNMwrSXX5N2pEW+P/R8KxRbzo/U3PE5CFWXhexHbBAe/jghRgpJZm6PjsA76/GJgDVrfRyuove2L0fBlXkPrH+yZXyHQGgmFn00gDlbzSx8LkMLID6HRt0XRvQKaKiuTL5eNYyvh3q8VpUTid3OAsapB1PK8U3/2E0cb5H65xeMJ9F5E5i7otIqhZc0j5TmrJ8lX7Dy776K/TXg/uI9Q5pNJWkm+zv2FxxyyO7dFblUPANC3CHnjrt2Gg6qcOO1v1g6al1fzkICuJXkNv/023h5fWdpQKBHXS9IxYdD1wBnkrkgCw=;daiYuGjonRzQ5KK/vtupiw=="
 ---
 

@@ -38,20 +38,6 @@ related:
         width: 880
         height: 500
         isCached: true
-  - title: "The next generation of energy and environment startups using data and AI to save the planet"
-    excerpt: "Energy and the environment were significant threads covered at Web Summit and garner additional importance when considering the travel and accommodation"
-    publishedDateTime: 2022-01-13T13:30:00Z
-    webUrl: "https://dataconomy.com/2022/01/energy-and-environment-startups-data-ai/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 27
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2022/01/energy-and-environment-startups-data-ai.jpg"
-        width: 1920
-        height: 1193
-        isCached: true
 
 secured: "8dTFQHR3hqr549rVEPJukE4PZQDV45XmdeXnNnycuP9YLNrI7tHZkxXV+4wGu1HI2bZjYXwgdGqr7jwNKtnUqTX17a8xlIR19zX3C5EO9psCGVak42+XYrfsKumn1Ya9leIMtD4sRvXfGmtEit9gXB1kPSKxUfiBzHUl2rntqpgtZ300e68CLH6c6XjEy97aGZEOpoJHwrjiX8JrDXexHgV9ohtsOfQZFjekTauGR/d8B7loq1M1zcfF4Fd/EgsX7lNUCacpQ5DXmd/VU5ZCq0IgzGMB/Z0w2Svz8JOHoVzcujHY3i8Ik0L25wDun4DW2ZNEwazV02k7cyUPlAL2p2WndbxkriVsXW0Te+mc/BzLmSrNrFCBGMvB78iHae3z8LvKGBUtLohB87f4bL4ASvZsWFWi2Uk8CsDms+9WOmA6ZE8DP+DwX5s/C/KKpYQ3OKUDggYtxphfpbNIz1ocNvAUtiXKJrRHjXfW0drWlv5FbrIhyabbBpvizMp6IF0y2CUyWRYvQgK8oiSHcbahuw==;sS+LjHT0OOr5/eDb4KKQUQ=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The Roomba j7+ poop-detecting robot vacuum is $250 off right now"
-excerpt: "If you made the resolution to tidy up more regularly in 2022, a robot vacuum can help with that. And for those that hate cleaning, investing in a robot vacuum with self-emptying functionality can make it so you rarely have to interact with the machine."
+excerpt: "Amazon is now matching the $600 sale price on the Roomba j7+ and the $850 price on the Roomba s9+. If you made the resolution to tidy up more regularly in 2022, a robot vacuum can help with that. And for those that hate cleaning,"
 publishedDateTime: 2022-01-15T15:32:00Z
-originalUrl: "https://www.engadget.com/the-roomba-j7-poop-detecting-robot-vacuum-is-250-off-right-now-150019435.html?src=rss"
-webUrl: "https://www.engadget.com/the-roomba-j7-poop-detecting-robot-vacuum-is-250-off-right-now-150019435.html?src=rss"
+originalUrl: "https://www.engadget.com/the-roomba-j7-poop-detecting-robot-vacuum-is-250-off-right-now-150019435.html"
+webUrl: "https://www.engadget.com/the-roomba-j7-poop-detecting-robot-vacuum-is-250-off-right-now-150019435.html"
 type: article
 quality: 69
 heat: -1
@@ -46,6 +46,6 @@ related:
         height: 933
         isCached: true
 
-secured: "s7retgYtA1W+Iu1+81q6aMT/Pa/K2Z/zAdDaOfoPD0dN4u3ZOZXZv4V8QjiMLKY1Q1psSGvgftEh6u0bMtuZUWr85igB1EZ0oFLy8WoBsc7fSY1iTxsm4AYxD6TOBtZeGGBCau1O7Ilkkkanw0qj+xEdDDo+JUdXiEBc88H90+8EMn8DDi73zTQCCamnZzFGwfxw7LZEpVgKRSPu7nk1nDT1C66IaP+gTJzF+HosioTQUr/5ydOW0ewp5okWFKlhqKnf/p/ZtkNzn5caYgZzPDr1nW/j9dv+NPvcE4F5/Z80v28wC6zD5kuZ2tynkdIU9PmpNcPDBeSL5F/lw+BNEVtzTRsSu5kO2EB5h+2M0t0x+KvgY1D3IoU+6gUXioEHw1aq1KLurxaIJ3SsPsXT+xkPQESV30MLiD9+FTNzIndmAiiWGxNRv5gPshKk26dqlT3L6NxPDgD3I1mN4x+wdyMva5gzX+hSQ2RnP97L3J1xTcM/V+cAaUugLhC2GpsRIw1snsCsFxSZoWp5/OP2xQ==;lCA8cdMa5Z35wVbfd3E+Bg=="
+secured: "+qeYCRKy+qnRZkHydXE+IDN5zME+/rlMIO7fFhoUW6UZuJstmhMCpg7GRm1y7F2JfPBQyHJLRq8xyqVXjETmhDPf3QvtlfXRukkj3qATqvSCXcM3NwQ5hYf+hLNBYWZygHfjMXUn6klof4T7VMqn/7nalzZgYGqzsHhJNMmmrjrnitNmZb60ehYUg2uOdr7s79/2YqzRk1ETNjPG9Oj9zWQ++bLNr9T09CmxuLVxdK+DL7CiwAW3UbhiKJzWjhYnM0SffSYtlZGtZGpD6QbSjHf/9+2n9KyxCqupEBFWXkYQiTzJn3bmGnFKUPpPfSWC+D7EafKujZgHMYJQpODznULS2OmRNkG0b3LIpH1bKmY=;3mbdfSw5Qlc20vmzZZNklw=="
 ---
 

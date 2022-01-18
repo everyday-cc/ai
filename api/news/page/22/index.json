@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-12-28-heterogeneous-integration-chip-let-system-package-alliance-established-to-expand-market-opportunities.md",
+      "title": "Heterogeneous Integration Chip-let System Package Alliance Established to Expand Market Opportunities",
+      "excerpt": "In order to enhance critical capabilities of Taiwan's chip industry for this emerging market, the Department of Industrial Technology (DoIT), Ministry of Economic Affairs (MOEA), Taiwan, has supported ITRI to establish the Heterogeneous Integration Chip-let System Package Alliance (Hi-CHIP).",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/heterogeneous-integration-chip-let-system-package-alliance-established-to-expand-market-opportunities-1031067491",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/heterogeneous-integration-chip-let-system-package-alliance-established-to-expand-market-opportunities-1031067491",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1716890/Photo.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T21:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says.md",
       "title": "Serious cognitive problems see abrupt drop among older people, study says",
       "excerpt": "From 2008 to 2017, the percentage of adults ages 65 and older in the U.S. with serious cognitive issues dropped ... comment threads to stories from wire services such as the Associated Press ...",
@@ -1074,48 +1126,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-artificial-intelligence-collaboration-aims-to-improve-alzheimers-care.md",
-      "title": "Artificial Intelligence Collaboration Aims To Improve Alzheimer’s Care",
-      "excerpt": "By leveraging data on artificial intelligence, consumer informatics, and aging, the University of Pennsylvania’s Collaboratory will aim to improve Alzheimer’s care.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/artificial-intelligencecollaborationaimstoimprove-alzheimers-care",
-      "originalUrl": "https://healthitanalytics.com/news/artificial-intelligencecollaborationaimstoimprove-alzheimers-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/2019-11-04-GettyImages-1003444920-e4b00c1efb9503a805928b101c78b499.png",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/artificial-intelligencecollaborationaimstoimprove-alzheimers-care",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligencecollaborationaimstoimprove-alzheimers-care",
-      "publishedDateTime": "2021-12-27T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

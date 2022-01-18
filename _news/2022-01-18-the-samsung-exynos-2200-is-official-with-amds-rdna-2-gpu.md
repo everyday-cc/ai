@@ -43,6 +43,52 @@ related:
         width: 935
         height: 514
         isCached: true
+  - title: "Finally, Samsung launches new Exynos 2200 with AMD RDNA2 GPU"
+    excerpt: "After a lot of debate, rumours and tantrums, yes, finally, the Samsung Exynos 2200 mobile chipset has been announced by Samsung. Obviously, the key feature of this flagship chip is its new iGPU made by AMD,"
+    publishedDateTime: 2022-01-18T04:57:00Z
+    webUrl: "https://technosports.co.in/2022/01/18/finally-samsung-launches-new-exynos-2200-with-amd-rdna2-gpu/"
+    ampWebUrl: "https://technosports.co.in/2022/01/18/finally-samsung-launches-new-exynos-2200-with-amd-rdna2-gpu/?amp"
+    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/01/18/finally-samsung-launches-new-exynos-2200-with-amd-rdna2-gpu/?amp"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 59
+    images:
+      - url: "https://cdn.technosports.co.in/wp-content/uploads/2022/01/FJWyUvvXIAICHB5.jpg"
+        width: 1450
+        height: 900
+        isCached: true
+  - title: "Samsung Exynos 2200 Announced with AMD RDNA 2 GPU and Ray Tracing"
+    excerpt: "Samsung has finally introduced its new flagship chipset, the Exynos 2200, which comes with the AMD RDNA 2 GPU and Ray Tracing. See details."
+    publishedDateTime: 2022-01-18T05:30:00Z
+    webUrl: "https://beebom.com/samsung-exynos-2200-announced/"
+    ampWebUrl: "https://beebom.com/samsung-exynos-2200-announced/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/samsung-exynos-2200-announced/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 59
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2022/01/exynos-2200-announced.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Samsung Exynos 2200 SoC with Xclipse GPU announced, should debut with Galaxy S22 series"
+    excerpt: "Samsung has finally unveiled its long-rumoured Exynos 2200 SoC that comes with AMD RDNA 2 Architecture based GPU called Xclipse."
+    publishedDateTime: 2022-01-18T00:09:00Z
+    webUrl: "https://www.themobileindian.com/news/samsung-exynos-2200-soc-with-xclipse-gpu-announced-should-debut-with-galaxy-s22-series"
+    type: article
+    provider:
+      name: Mobile
+      domain: themobileindian.com
+    quality: 31
+    images:
+      - url: "https://www.themobileindian.com/wp-content/uploads/2022/01/Exynos-2200-SoC.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Samsung Introduces Game Changing Exynos 2200 Processor with Xclipse GPU Powered by AMD RDNA 2 Architecture"
     excerpt: "Seoul, Korea – Jan. 18, 2022 – Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, t"
     publishedDateTime: 2022-01-18T02:01:00Z
@@ -58,6 +104,6 @@ related:
         height: 329
         isCached: true
 
-secured: "wrS414rd2xMMpVadORuaCFj+ND0DyjOjupz+vaYAhyQ0rnEmYvGr8ZoJPwsUA6gUYwUeC0ZV6t1zU0CmNPkFw7Z7Mh/LlNLLzyM3ypfYc4VC8YiQDxRF8z3wmmda98WfH7VNc7rrG+mLPQ2FeovU9StnwCBKFkI3JYWUg57nDNR3fDoQPEN8fay2wUROdNIiXiUXOwC/khMuNQM7lXIEL47q3oNVLhaxxU/tHAvbsQIrNkytHZz7kiAbR5aH9kRCURGiX90r4NM3D7wrFr6/k/lqTnRSsudKHxic71XUTg7qyJAsV3dXG2tRG6tbzEyAUfXo8jX0WZrPZPJqN59GRpP/xs9Unr7R/YFb133EsJ0=;CiU8772t1aZjl8UJNkGmVA=="
+secured: "gEim3hIdNY/1+14jzdDF46PnaIcnksWIZWaZAZViSU2XRQmQNhsxPP6iRjVp5bDypsc9tBaXR/s67ZAMLQTkZF1KnQ5JccNd/jf7wDieXBgkRfBzLo3qoosgX6a3BXd5glDEhth13YVYWsd5BckhGjPF8gshalwJlH4n5LIvvdy8Xb2t25OArXvfxsBUeosA0Lyfx8WAcf568j3paGXMgjwSg8VgTO76XOSia2rv9h1VaKXeSEFkYKxsrSZtQgiM4I1QDk+buyxXetq+07Li7XxBvLT5LFRApKQ+kiYW1ODg1gJG4AxW5VHp2bl0de+J8SXW+2bH+9GAbWHzZF/kc1PmPwVfkX07UbCp3WTkReUBRh1eKBGifi9D8SI8Wo+jEKBULkhQ7CGmub7OL2L2QhxIsajGpwW6lHjMduiXObUO47UwAmz4MgXJ9W/6Q9BzUiW5TmCXcBddpFs9YO5AuZGbk8iBdeiSqOpDLwnJjVqdYGwjeOczSLbb5ydrBCgqUe5xrR64TMxOUeuOs/lY3g==;uCCKaLGcHVOG+j1Qs5WLlg=="
 ---
 

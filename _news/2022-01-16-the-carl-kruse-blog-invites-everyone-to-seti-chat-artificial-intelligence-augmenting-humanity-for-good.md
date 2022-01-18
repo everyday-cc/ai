@@ -1,21 +1,22 @@
 ---
 category: news
 title: "The Carl Kruse Blog Invites Everyone To SETI Chat: Artificial Intelligence, Augmenting Humanity For Good"
-excerpt: "Artificial intelligence (AI) is a technological breakthrough enabling algorithms to absorb and understand data, as well as learn on its own."
+excerpt: "An upcoming discussion on artificial intelligence and its effects on humanity. MIAMI (PRWEB) January 15, 2022 Artificial intelligence (AI) is a technological"
 publishedDateTime: 2022-01-15T16:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-carl-kruse-blog-invites-everyone-to-seti-chat-artificial-intelligence-augmenting-humanity-for-good/article_8a04cdb7-475a-55dc-bcf8-0314acbc1e1b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-carl-kruse-blog-invites-everyone-to-seti-chat-artificial-intelligence-augmenting-humanity-for-good/article_8a04cdb7-475a-55dc-bcf8-0314acbc1e1b.html"
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/p25067296/the-carl-kruse-blog-invites-everyone-to-seti-chat-artificial-intelligence-augmenting-humanity-for-"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/p25067296/the-carl-kruse-blog-invites-everyone-to-seti-chat-artificial-intelligence-augmenting-humanity-for-"
+ampWebUrl: "https://www.benzinga.com/amp/content/25067296"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25067296"
 type: article
-quality: 2
-heat: -1
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -34,6 +35,6 @@ related:
         height: 506
         isCached: true
 
-secured: "v06VuR9Sld4zoTgB5eXj7+4GrixF80ZexzcWXmz9D+OaNcsl+QsdLxGAr4htuDaFWhVkgE4RAkeVneOaTaa0658MCMDMjkWo9FZtAUMgw7pdp15Bhv17wkpjm89J66P/VMN3+8l9uby3qIF5y/6RwU6zW4Pvj3M1cCyWXyCw10dJafffJzQw600fnz1yyvKlW+WHA7JXzR9JCR097jsS0/xtwQLmjt5ePDy6ABwjG+t2Vc/Cn6zSYFZU3tTkXAtwrbHlfklFzBx2rMl17r9kAAtAdEF7WNUzweRdLv2K83nTzTox5+3MEtArMyukKWc9gaquWrts02I5zPDJynBcHPuqAnSNFkWWYIq/IOOqp7X+EOZ/Hhio7kNqshlWleRYAHaYHtswhuJJLruHu3s9Q1BqF0o192cuoOPem9/xPVkJMtYui0vx7NrX+nliOhbEoKww5+BE/UXekUvv6xXHVlNSiC4E9msVeYmPMN5O+Xnzx0zXcfJkdnTdzTdpgS/tgXlO0ONa4sgitLiRFoM9nA==;P8gf26J4fi9MQKIR9yo5bQ=="
+secured: "SW7jg6EHnaIOCKRmml3ELiHt6/r3Iqun4G4K+AyCMuZ3Sm4O9Tn43gvKdY8k7Gq2qocQBZCNael1vjHsaGDHaCGyJBjmCB8VYzyxHwV+s5cuV8cZyv8BlJ7iA6/utWqTRNjf50W4HbRkH+pRtkei2l34OFwg8o3qu2mN6MPLpCSbjSXmRzhr1/8R6OQ5huC4ihfki8IHJvfVOWFZbaBVQju1u52BKfC3RoD7y+pTkfdyrrwUECtyHOxrO7TaNPkZ2R5tDVlmfsXN2NnB4Lsj0KjBaGhlG9OGPRLH1jOhLqn2etz7DSaeNzLSnoIPOvj7HeCq0MbgsUkNVk9qXFiDqFdnjMNGtR/FS1BI7BaWXi0=;10Aaxu/KOqsNWzh4AH+U0A=="
 ---
 

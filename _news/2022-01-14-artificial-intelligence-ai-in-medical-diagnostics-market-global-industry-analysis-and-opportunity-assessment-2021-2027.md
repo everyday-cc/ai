@@ -42,34 +42,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Healthcare Claims Management Global Outlook & Forecast 2022-2027: Advancement of Automated Medical Billing and Management - ResearchAndMarkets.com"
-    excerpt: "The “Healthcare Claims Management Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. Artificial Intelligence (AI) has transformed various industries across the globe and radically can alter the healthcare field."
-    publishedDateTime: 2022-01-13T14:49:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-middle-east-artificial-intelligence-b0abe251e34c422f81ef6c2ced6229f0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Worldwide AI in Medical Diagnostics Industry to 2026 - Investments in the AI Health Sector is Driving Growth - ResearchAndMarkets.com"
-    excerpt: "Global Markets\" report has been added to ResearchAndMarkets.com's offering. The current report offers a detailed picture of the AI medical diagnostics market. This report highlights the current and future"
-    publishedDateTime: 2022-01-17T15:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-20194713.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 8
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "Bu/PYAHvUUfmhVr1cpidEyFzPhXUgGdUiKhy77+d570oXcaxpIrE/AZ+B7pA6bZkZTDqbJzVIKvg0f2cHHU198qk/4xnzYlBoCVpn9DMFVw8iojWIqAnbTIG2wsz6Rht+QuivUPHMqotuB7h8uOq6gutIlhEQlp0sE2S8s4wCr//Ho8DKenUKuqy3hm3u4fltUkhQQ0jmR9BZyYXB04IQim37KA7IyitH869MrgNJjEj8/kIsq0d87BtjnDvj7Ol1C8Cn/s9HgrC2gTurr6QDa8FsdyvIMjUAyDSyYgI5pKPQHx6UCVXH5IPLFhuUiHqRSO6Pnymjd5aJd9qlM87zCbj4jkEDFxNqkshwmkSf03wBQ4LN2cA+N4etaWfGlvjokF5g7GTqZRqV+mNdC0LmX1slgi+paBgoxAhicupVPLBsy3mcoun535DfnBjDlvsyNZKVvvM37YepmKR7BNbVshsSmLZD5ewnWeA4Kbbhi6JWAd51WWOoGMq7WuHcrKrvYrkWkuKn5NzgZpGZ6564g==;QNWj3TyxSs+Elpjwiiq/9w=="
 ---

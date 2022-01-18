@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-12-ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi.md",
+      "title": "IBM looks to sustainability with acquisition of emissions data company Envizi",
+      "excerpt": "Perhaps IBM has decided the Watson brand has lost some of its shine over the years and has moved on from attaching the name to every AI-driven solution in the company. The company notes that it is ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/",
+      "originalUrl": "https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1234056550.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/amp/",
+      "publishedDateTime": "2022-01-11T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-synthetic-data-platform-mostly-ai-lands-25m.md",
       "title": "Synthetic data platform Mostly AI lands $25M",
       "excerpt": "Mostly AI, a startup that uses AI to create synthetic data for enterprises, today raised $25 million in a Series B round of funding.",
@@ -1156,57 +1208,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-will-artificial-intelligence-be-taking-your-next-drive-thru-order.md",
-      "title": "Will Artificial Intelligence Be Taking Your Next Drive-Thru Order?",
-      "excerpt": "Many people have experienced ordering fast food in a drive-thru and opening the bag later to find their French fries are missing, or their burgers are covered in ketchup they did not want. Artificial intelligence (AI) may make ordering food through a talking box easier,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanabandoim/2022/01/10/will-artificial-intelligence-be-taking-your-next-drive-thru-order/",
-      "originalUrl": "https://www.forbes.com/sites/lanabandoim/2022/01/10/will-artificial-intelligence-be-taking-your-next-drive-thru-order/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dcf833608447f229f8d8c0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5077%26cropY1%3D0%26cropY2%3D3386",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2022/01/10/will-artificial-intelligence-be-taking-your-next-drive-thru-order/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2022/01/10/will-artificial-intelligence-be-taking-your-next-drive-thru-order/amp/",
-      "publishedDateTime": "2022-01-10T18:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

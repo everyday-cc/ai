@@ -24,17 +24,6 @@ images:
     height: 430
     isCached: true
 
-related:
-  - title: "UP schools violating RTE rules to face action"
-    excerpt: "The Uttar Pradesh government has decided that schools violating the Right to Education (RTE) Act rules will now face action. The basic education department has decided to initiate the process of withdrawing recognition of schools not complying with RTE rules."
-    publishedDateTime: 2022-01-13T13:56:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20220113/3892164.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
-
 secured: "BhzF4qZtgDE/OXt/OYva4cib5iR6m3Bo+lwoOLy30WsG6FPkCptbpN595nI8krzxHxCT8awFgbNBSIfjcx/BZICqQHjngOmOLybbCctckzQwlPNd/fJCmv93zz2aer1vxw6iN5R7GlPXNTMoCSUBlniu74J8/4RA5ZVTz840qOv2ssGM2oiPLrR2+ykDoJva/+uee8+hWlfKZpSVGiAmRCFAz6Y+Q+rTlB2vZkP0AKedIFd/2qz7H++vFMmkJMfctf9Y49NqjsT08r2iDtjuoWziDisMViA+1D1CDCayXpIXMmHys55a50UlqiFCUL6xpb/vaUFYIka6Zd/G0oNQIA2kjPY8vrZ6bBuRBFvsbx8=;YTelPO6Ja0Y+pIAfkoaysQ=="
 ---
 

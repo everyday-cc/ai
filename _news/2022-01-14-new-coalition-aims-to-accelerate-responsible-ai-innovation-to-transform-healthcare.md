@@ -39,6 +39,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Perth start-up scores key role in Microsoft’s ambitious cloud project"
+    excerpt: "Tape Ark will transfer UK Meteorological Office data from magnetic tapes to the cloud, in one of the biggest ever data migrations."
+    publishedDateTime: 2022-01-18T06:16:00Z
+    webUrl: "https://www.afr.com/technology/perth-start-up-scores-key-role-in-microsoft-s-ambitious-cloud-project-20220118-p59p5w"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.219%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_108/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/07df9a65302a49218b68ab137c5cabc1f7f4aa39"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
     excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C)."
     publishedDateTime: 2022-01-13T16:13:00Z
@@ -53,15 +67,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
-    excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial"
-    publishedDateTime: 2022-01-13T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/leaders-across-healthcare-academia-and-technology-form-new-coalition-to-transform-healthcare-journey-through-responsible/article_8df099d3-d5c5-52c4-b300-7e9b1b4eea10.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 3
 
 secured: "ZV9XZATbasNtcKQujYmmmz3Cu2CJbQlTkt9QYqwoyvUIpn5tWQkfnLgQ2PgFVCvOf6aNySH3rMOM+QPgsviW871rtP+Z8HbsyskRn5yj77lhNkDcSUa3zp16Y6zY5AOv98EeD9ueoQoXXhBORCgRN/I3/xgQBmj2VVP4QfIYDjNHLLv2K8nWjBkDJJb0gZ0wwWmdHYHx+M4AHQNvX9Mc1+pcaF1n61H8slFBMCplU94DwwNGmy1NJRCoVhNbOzx3p1WRpLrfxNjiBS9z68ebsF4ZfSp408owONfl+zMOPbelID1KnjoiqIQIIJerozfrWIspa5QPqWSkl80WQNPQ7JDu0MA7YuMEH78yCtzH3I7TrvKwy9vOrubOnjngz5iwfgip3pBp39clJEjT2cELjQQ/dyGGUUGarzfSUU9L3fTNWJ/v1/aO7whN502ytDIZeYg3gKP/Ddex3mxPpzYoLdvEc3/SlmGs8IZ+W0sf4tl9VFF3RVVzFjAJFaiUMnDBXW3hSuzM0kd1QxNaQLp08g==;4ixYhLVGSdgD5nk9PBu/Bg=="
 ---

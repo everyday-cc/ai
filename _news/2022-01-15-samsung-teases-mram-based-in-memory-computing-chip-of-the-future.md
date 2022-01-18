@@ -83,20 +83,6 @@ related:
         width: 708
         height: 379
         isCached: true
-  - title: "Samsung SDS: Saving lives with AI"
-    excerpt: "Using the power of AI and the Brightics AI Accelerator, the IT services giant is looking to alleviate pressure on physicians worldwide Samsung SDS stands for Samsung data services, and it is one of approximately 20 companies that make up the Samsung Group;"
-    publishedDateTime: 2022-01-13T13:09:00Z
-    webUrl: "https://www.linkedin.com/pulse/samsung-sds-saving-lives-ai-greg-st-quintin"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGraj0VowyU0Q/article-cover_image-shrink_720_1280/0/1642078939485?e=1647475200&v=beta&t=TRHB4HK2qEMoQHay2Uya59Uk7TLwhyVDQ7bAMhrV07g"
-        width: 1129
-        height: 720
-        isCached: true
   - title: "AI Computing Comes to Memory Chips: Samsung will double performance of neural nets with processing-in-memory"
     excerpt: "Abstract: John von Neumann's original computer architecture, where logic and memory are separate domains, has had a good run. But some companies are betting that it's time for a change."
     publishedDateTime: 2022-01-17T15:14:00Z

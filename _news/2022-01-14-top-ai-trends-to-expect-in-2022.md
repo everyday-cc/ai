@@ -26,74 +26,30 @@ images:
     isCached: true
 
 related:
-  - title: "4 Reasons to Invest in Nvidia's AI in 2022"
-    excerpt: "This is where the AI part comes in, a few years ago, when researchers were trying to build the first AI models that really worked, technology had not caught up with the idea yet. We needed massive lakes of data and we needed processors that could move that data around."
-    publishedDateTime: 2022-01-13T14:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?time=1642082401"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp"
+  - title: "3 Top Artificial Intelligence Stocks to Buy in January"
+    excerpt: "With Deere, among other companies, it is clear that artificial intelligence is making its way into nearly every part of our world, and there are three companies you can invest in today that I think could be the best companies to capitalize on it."
+    publishedDateTime: 2022-01-15T11:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january?amp"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
-  - title: "AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member"
-    excerpt: "Nota (CEO Myungsu Chae), an AI optimization technology company, announced that it has been promoted to Premier status in the NVIDIA Inception program. NVIDIA Inception nurtures cutting-edge startups revolutionizing industries with advancements in AI and data science."
-    publishedDateTime: 2022-01-17T08:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member-1031105822"
+    quality: 67
+  - title: "3 Top Artificial Intelligence Stocks to Buy in January"
+    excerpt: "Nearly every business is using artificial intelligence in some form today, but these three companies have AI at their core. Upstart and Lemonade are both using AI to make decisions in industries that haven't been disrupted in years."
+    publishedDateTime: 2022-01-15T16:24:00Z
+    webUrl: "https://www.fool.com/investing/2022/01/15/3-top-artificial-intelligence-stocks-to-buy-in-jan/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
     images:
-      - url: "https://mma.prnewswire.com/media/1724963/image_1.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Lenovo expands edge computing portfolio with AI-focused Nvidia GPUs"
-    excerpt: "Lenovo’s latest addition to the ThinkEdge portfolio of edge-computing devices packs Nvidia GPUs with AI capabilities into a ruggedized design that’s roughly the size of a laptop. The ThinkEdge SE450 is a 2U,"
-    publishedDateTime: 2022-01-17T11:00:00Z
-    webUrl: "https://www.networkworld.com/article/3647009/lenovo-expands-edge-computing-portfolio-with-ai-focused-nvidia-gpus.html"
-    ampWebUrl: "https://www.networkworld.com/article/3647009/lenovo-expands-edge-computing-portfolio-with-ai-focused-nvidia-gpus.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3647009/lenovo-expands-edge-computing-portfolio-with-ai-focused-nvidia-gpus.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/10/edge-computing-100908672-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Lenovo expands edge computing portfolio with AI-focused Nvidia GPUs"
-    excerpt: "Lenovo’s latest addition to the ThinkEdge portfolio of edge-computing devices packs Nvidia GPUs with artificial intelligence (AI) capabilities into a ruggedised design that’s roughly the size of a laptop."
-    publishedDateTime: 2022-01-18T00:33:00Z
-    webUrl: "https://www.arnnet.com.au/article/694472/lenovo-expands-edge-computing-portfolio-ai-focused-nvidia-gpus/?fp=2&fpid=1"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 37
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/edge-computing-100908672-orig.jpgautowebp8570"
-        width: 472
-        height: 315
-        isCached: true
-  - title: "AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member"
-    excerpt: "Nota (CEO Myungsu Chae), an AI optimization technology company, announced that it has been promoted to Premier status in the NVIDIA Inception program. AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member NVIDIA Inception nurtures cutting-edge startups revolutionizing industries with advancements in AI and data ."
-    publishedDateTime: 2022-01-17T23:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=600909"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 31
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
+      - url: "https://g.foolcdn.com/editorial/images/660607/ai-button-on-a-circuit-board.jpg"
+        width: 2190
+        height: 1369
         isCached: true
 
 secured: "nanHp05Z8kbRvMD5PgBurrbFR8F5NH9NmN1jw0JabNpZ5+7XSNbCQHLKMwtpb4Vq45Y/xAeIzE79nCYfHultDpKoODN+2YRbS3yF2IT8HrfDwIYg2VKwNB9JSfMY4tcfSOAayLvthT247SYjW04QCmh2RjAXg6Jq/XIjsrhfrUxQis43T2rVdShG3GXBHLyrrd4dTlLdpujhloSNJ3L2xE0FPHA38m/DuiETARf/sVnB9AKrbix6DdPQvj77HLADQ2yF5maZQuCQjodnr2pv1iXB6vY/xV0AfZAv7ffIED11Shdc5qz+0rTup2SYgzoXYT+whOQdvNqJwLxB/sfa/OSkFSqwMvaj33E3tWWgUIU=;6//RptM6NHFWqMEkfPIU6w=="

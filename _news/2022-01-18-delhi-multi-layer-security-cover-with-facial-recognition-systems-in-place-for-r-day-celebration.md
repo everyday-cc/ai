@@ -122,6 +122,22 @@ related:
         width: 1200
         height: 705
         isCached: true
+  - title: "Facial recognition systems, CCTVs and anti-drone team: How security has been beefed up in Delhi ahead of R-Day"
+    excerpt: "Around 300 cameras with FRS enabled facilities have been deployed in and around Rajpath ahead of the Republic Day celebrations Delhi Police said"
+    publishedDateTime: 2022-01-18T05:50:00Z
+    webUrl: "https://english.jagran.com/india/facial-recognition-systems-cctvs-and-antidrone-team-how-security-has-been-beefed-up-in-delhi-ahead-of-rday-10038106"
+    ampWebUrl: "https://english.jagran.com/lite/india/facial-recognition-systems-cctvs-and-antidrone-team-how-security-has-been-beefed-up-in-delhi-ahead-of-rday-10038106"
+    cdnAmpWebUrl: "https://english-jagran-com.cdn.ampproject.org/c/s/english.jagran.com/lite/india/facial-recognition-systems-cctvs-and-antidrone-team-how-security-has-been-beefed-up-in-delhi-ahead-of-rday-10038106"
+    type: article
+    provider:
+      name: Jagran
+      domain: jagran.com
+    quality: 56
+    images:
+      - url: "https://imgeng.jagran.com/images/2022/jan/OPS1642485980685.jpg"
+        width: 650
+        height: 540
+        isCached: true
   - title: "Facial recognition systems, anti-drone teams deployed for Republic Day celebration"
     excerpt: "Deepak Yadav, DCP, New Delhi, said that apart from the terror threat, the rise in cases of Covid-19 is also a major challenge for the force."
     publishedDateTime: 2022-01-18T02:15:00Z
@@ -137,6 +153,22 @@ related:
       - url: "https://images.hindustantimes.com/img/2022/01/18/1600x900/republic_day_celebration_security_1642472089733_1642472089999.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "300 CCTV cameras, facial recognition systems, anti-drone team: How Delhi gears up for Republic Day"
+    excerpt: "Recently, an improvised explosive device (IED) was found at Ghazipur Flower Market, triggering an alarm in the national capital ahead of Republic Day. It was diffused later."
+    publishedDateTime: 2022-01-18T06:37:00Z
+    webUrl: "https://www.timesnownews.com/delhi/article/cctv-cameras-facial-recognition-systems-anti-drone-team-how-delhi-gears-up-for-republic-day/850486"
+    ampWebUrl: "https://www.timesnownews.com/amp/delhi/article/cctv-cameras-facial-recognition-systems-anti-drone-team-how-delhi-gears-up-for-republic-day/850486"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/delhi/article/cctv-cameras-facial-recognition-systems-anti-drone-team-how-delhi-gears-up-for-republic-day/850486"
+    type: article
+    provider:
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 45
+    images:
+      - url: "https://imgk.timesnownews.com/story/rdaypti_1.jpg?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "EA5wbQkSgb3CajfWyy1Qh09xax+ZEQODZc9as4+esW8M2kQ7pmN5Syy8cYnADmwSkNVpzTfQva3sdNYxN/KN2QPHhuiQhL3U1YRFTdovYtqUAtP2dZKtBWkKOOnYSSK9dJuQ+K0vWKAmnd0bNNf0ZtIiSzuIoRopVixpdCO1XTwK4KGMjI9MHIiZpyuh6SOPmywiCkE0ou3DXk3kVwod9chzJYMM07lx6WL/l2fL4Nnl96JoV9RiucdETc/qQzMWhQinbmxdb/GMglxp6Ch6/Lb0SpEA8dRBODAJciV4/NbvGbowfZ0lbWkwk76APejNVwqxlGX+RI/0UsV+ZjkOm3e48AJeuf9vWW/ghObLubA=;VCRSC0Y/j0Ovdc0m9EcQTw=="

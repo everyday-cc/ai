@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-was-my-pitch-jen
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 935
     isCached: true
-
-related:
-  - title: "The Army Invests in Artificial Intelligence for Next Generation Combat Vehicles"
-    excerpt: "Predictive maintenance, long-range precision fires, and the Next Generation Combat Vehicle are primary focuses of the U.S. Army Artificial Intelligence (AI) task force. Kris Osborn at Warrior Maven reports."
-    publishedDateTime: 2022-01-13T13:30:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/army-invests-artificial-intelligence-next-generation-combat-vehicles-199293"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 35
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/444890198_85d2430262_h%20%281%29.jpg"
-        width: 1222
-        height: 905
-        isCached: true
 
 secured: "0u67cT732cLWolvrZ06+3uCTDVnccCDaRCJtuP03Hl8vIelx4xlOChr/COKC8KqBYYWkhpjuN9XP0htittpXszCbQUocK+LZtGhUDUoA3y9PgDmyJMpIOhk2ZUtK0e33PnVusDTSYgkqxagrK8pGXC6IbQ8vV1uHt0P7ruvBhNZ33uJTWnIlp5yips0pDsRsMrecqeRBHyS96DIirN6hVXalihOyb+RQcjeDlRbUiMsgqKrkR1MWaXDMjIx5gSqP5WCxBO6oHrBKXeGjAah2Se1E9tUwx6f1GiKabgCMm7JQsazii1Nu+44WI81uGsUBdHO2oUl0x6IMAK7ecsKsmARgyYnyfoGio50t7PMmc+o=;DUF0JGMY2sWOFZNfleoZrg=="
 ---

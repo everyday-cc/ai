@@ -139,6 +139,20 @@ related:
         width: 940
         height: 516
         isCached: true
+  - title: "NYT ad slams Tesla's 'Full Self-Driving' as worst software"
+    excerpt: "A full-page advertisement in The New York Times by advocacy group The Dawn Project has slammed Tesla's 'Full Self-Dr"
+    publishedDateTime: 2022-01-18T06:43:00Z
+    webUrl: "https://menafn.com/1103553269/NYT-ad-slams-Teslas-Full-Self-Driving-as-worst-software"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?404884"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Tesla Has 'Assertive' Self-Driving Mode"
     excerpt: "It would take you hours to drive down a street in any urban area.” Now it appears that Tesla has come up with a solution to this problem in its full self-driving beta: an \"assertive\" mode where the car \"may perform rolling stops."
     publishedDateTime: 2022-01-17T20:00:00Z

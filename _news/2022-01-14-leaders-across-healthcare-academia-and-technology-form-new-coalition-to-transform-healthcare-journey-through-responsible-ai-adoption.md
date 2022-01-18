@@ -53,15 +53,20 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
-    excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial"
-    publishedDateTime: 2022-01-13T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/leaders-across-healthcare-academia-and-technology-form-new-coalition-to-transform-healthcare-journey-through-responsible/article_8df099d3-d5c5-52c4-b300-7e9b1b4eea10.html"
+  - title: "Perth start-up scores key role in Microsoft’s ambitious cloud project"
+    excerpt: "Tape Ark will transfer UK Meteorological Office data from magnetic tapes to the cloud, in one of the biggest ever data migrations."
+    publishedDateTime: 2022-01-18T06:16:00Z
+    webUrl: "https://www.afr.com/technology/perth-start-up-scores-key-role-in-microsoft-s-ambitious-cloud-project-20220118-p59p5w"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 3
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.219%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_108/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/07df9a65302a49218b68ab137c5cabc1f7f4aa39"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "TkMCU4pnES2bqqGzHgSTPRwum5LyVhC6qb5dxKm81bl5vjyYrfxsHNaX7zewb8Tp3tW2a0zj8bzyLfTHNQb+vN7xaTcaiT0u20BLWzSNzNA0g5FzY7RWwiFs3VdGVy3S2aRV2tCMHw5R+AaGLzFA0/dlycwpGYoP6EhMF/DCtj9x33VFlWemKStD2lBQSD5DjL0nx+/zeCWt76KMFXYSAcKSyq10wbkZBheFpUZDr/DGIM3UPKOf3pRxyTwbFGEsLdUO4+2VopKnQK6i/VBPS5bzFuU2NOB1okknL704A9Xifhx1DD58/o3THQNJqxvhxLTh+5gLyal+XFtS+AIjuJQIJXNiKg9saggRI0uixtc=;K/mFQ00+FUHT6qNOTCHTIw=="
 ---

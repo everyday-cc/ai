@@ -2,6 +2,40 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-12-12-deepmind-ai-tackles-valuable-chemistry-technique.md",
+      "title": "DeepMind AI Tackles Valuable Chemistry Technique",
+      "excerpt": "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed a machine-learning model that suggests a molecule’s characteristics by predicting the distribution of electrons within it. The approach, described in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/2021/12/11/deepmind_ai_tackles_valuable_chemistry_technique_807443.html#!",
+      "originalUrl": "https://www.realclearscience.com/2021/12/11/deepmind_ai_tackles_valuable_chemistry_technique_807443.html#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do.md",
       "title": "New Artificial Intelligence System Enables Machines That See the World More Like Humans Do",
       "excerpt": "A new “common-sense” approach to computer vision enables artificial intelligence that interprets scenes more accurately than other systems do. Computer vision systems sometimes make inferences about a scene that fly in the face of common sense.",
@@ -1116,49 +1150,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-deepminds-latest-ai-shines-light-on-dark-room-of-molecules.md",
-      "title": "DeepMind’s latest AI shines light on dark room of molecules",
-      "excerpt": "DeepMind has created the best chess player, one of the most accurate weather forecasting systems and a poker player that could give the card sharks of Las Vegas a run for their money. In its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/deepminds-latest-ai-shines-light-on-dark-room-of-molecules-thww79qk3",
-      "originalUrl": "https://www.thetimes.co.uk/article/deepminds-latest-ai-shines-light-on-dark-room-of-molecules-thww79qk3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F004fe298-591b-11ec-81f2-17f963b74220.jpg?crop=3680%2C2070%2C92%2C107&resize=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
