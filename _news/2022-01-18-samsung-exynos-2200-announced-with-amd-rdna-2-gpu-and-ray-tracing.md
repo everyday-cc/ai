@@ -91,6 +91,31 @@ related:
         width: 1220
         height: 526
         isCached: true
+  - title: "Samsung Unveils New Generation Exynos 2200 SoC With AMD RDNA 2-Based Xclipse GPU"
+    excerpt: "Samsung has officially launched its brand new Exynos 2200 SoC, which will be powering the company’s upcoming premium smartphones later this year."
+    publishedDateTime: 2022-01-18T10:26:00Z
+    webUrl: "https://www.themrphone.com/tech/samsung-exynos-2200-soc-launched"
+    ampWebUrl: "https://www.themrphone.com/tech/samsung-exynos-2200-soc-launched/amp/"
+    cdnAmpWebUrl: "https://www-themrphone-com.cdn.ampproject.org/c/s/www.themrphone.com/tech/samsung-exynos-2200-soc-launched/amp/"
+    type: article
+    provider:
+      name: Mr. Phone
+      domain: themrphone.com
+    quality: 54
+    images:
+      - url: "https://www.themrphone.com/tech/wp-content/uploads/2022/01/EXYNOS-2200_805_02.png"
+        width: 805
+        height: 422
+        isCached: true
+  - title: "Samsung reveals Exynos 2200 chipset with Xclipse GPU"
+    excerpt: "South Korean tech giant Samsung, on Tuesday, introduced the Exynos 2200, its latest flagship chipset that will power the Galaxy S22 smartphones in certain regions. According to GSM Arena, the new platform has been built on the 4nm EUV process technology and sports a custom-made GPU named Xclipse."
+    publishedDateTime: 2022-01-18T11:21:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20220118/3895183.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
   - title: "Samsung Exynos 2200 SoC with Xclipse GPU announced, should debut with Galaxy S22 series"
     excerpt: "Samsung has finally unveiled its long-rumoured Exynos 2200 SoC that comes with AMD RDNA 2 Architecture based GPU called Xclipse."
     publishedDateTime: 2022-01-18T00:09:00Z

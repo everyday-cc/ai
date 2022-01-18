@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-15-how-restaurants-are-using-robotics-and-ai-to-relieve-operational-headaches.md",
+      "title": "How Restaurants are Using Robotics and AI to Relieve Operational Headaches",
+      "excerpt": "This and other challenges, such as the increased demand for off-premises, are leading to an increasing number of operators turning to robotics and artificial intelligence (AI) sooner than they expected. What was anticipated to be a gradual shift over the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.qsrmagazine.com/outside-insights/how-restaurants-are-using-robotics-and-ai-relieve-operational-headaches",
+      "originalUrl": "https://www.qsrmagazine.com/outside-insights/how-restaurants-are-using-robotics-and-ai-relieve-operational-headaches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-12/Robotics.jpg?itok=WNraG1nu",
+          "width": 765,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "QSR magazine",
+        "domain": "qsrmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-ex-appletesla-leaders-raise-2000000-from-1000-retail-investors-on-track-to-release-worlds-first-artificial-human-arm.md",
       "title": "Ex-Apple/Tesla Leaders Raise $2,000,000 from 1,000+ Retail Investors, On Track to Release World’s First Artificial Human Arm",
       "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--Atom Limbs, a robotics company creating mind-controlled bionic limbs, has raised $2M from 1,000+ retail investors. Atom opened its Wefunder equity investment ...",
@@ -1310,49 +1353,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-transient-review-ps4-a-lovecraftian-story-set-in-a-cyberpunk-world-that-doesnt-do-either-one-justice.md",
-      "title": "Transient Review (PS4) – A Lovecraftian Story Set In A Cyberpunk World That Doesn’t Do Either One Justice",
-      "excerpt": "Transient is a Cyberpunk Lovcraftien horror story that is too confusing to follow and leaves a lot to be desired. Read our Transient PS4 review.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psu.com/reviews/transient-review-ps4/",
-      "originalUrl": "https://www.psu.com/reviews/transient-review-ps4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.psu.com/wp/wp-content/uploads/2020/08/transient-ps4-news-reviews-videos.jpg",
-          "width": 1214,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Play Station Universe",
-        "domain": "psu.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

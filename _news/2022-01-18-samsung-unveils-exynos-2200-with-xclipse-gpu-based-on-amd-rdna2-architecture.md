@@ -91,6 +91,31 @@ related:
         width: 1000
         height: 900
         isCached: true
+  - title: "Samsung Unveils New Generation Exynos 2200 SoC With AMD RDNA 2-Based Xclipse GPU"
+    excerpt: "Samsung has officially launched its brand new Exynos 2200 SoC, which will be powering the company’s upcoming premium smartphones later this year."
+    publishedDateTime: 2022-01-18T10:26:00Z
+    webUrl: "https://www.themrphone.com/tech/samsung-exynos-2200-soc-launched"
+    ampWebUrl: "https://www.themrphone.com/tech/samsung-exynos-2200-soc-launched/amp/"
+    cdnAmpWebUrl: "https://www-themrphone-com.cdn.ampproject.org/c/s/www.themrphone.com/tech/samsung-exynos-2200-soc-launched/amp/"
+    type: article
+    provider:
+      name: Mr. Phone
+      domain: themrphone.com
+    quality: 54
+    images:
+      - url: "https://www.themrphone.com/tech/wp-content/uploads/2022/01/EXYNOS-2200_805_02.png"
+        width: 805
+        height: 422
+        isCached: true
+  - title: "Samsung reveals Exynos 2200 chipset with Xclipse GPU"
+    excerpt: "South Korean tech giant Samsung, on Tuesday, introduced the Exynos 2200, its latest flagship chipset that will power the Galaxy S22 smartphones in certain regions. According to GSM Arena, the new platform has been built on the 4nm EUV process technology and sports a custom-made GPU named Xclipse."
+    publishedDateTime: 2022-01-18T11:21:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20220118/3895183.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
   - title: "Samsung Exynos 2200 SoC with Xclipse GPU announced, should debut with Galaxy S22 series"
     excerpt: "Samsung has finally unveiled its long-rumoured Exynos 2200 SoC that comes with AMD RDNA 2 Architecture based GPU called Xclipse."
     publishedDateTime: 2022-01-18T00:09:00Z
@@ -138,6 +163,6 @@ related:
       domain: finanztreff.de
     quality: 0
 
-secured: "sfLb+7MzkWUj+B/eQm0cHW67eI7M/QN12A9xwP5PPVYCn8gcPG0bwv3QeV6/aLBScN3bRBoHgj/s3EJCxQQ5BoC38C6YWnCQ3rpLc09zpdPyzm6FD+M79ToHvm/4kP5ygxz844WsV2kNyC1QPtiZxc6EafPpslskc+txSIWP68wWk8MBkhNc37YDQNOs/N+FOghxyxxQiEV4+ZCcQdas+q40e7yRzlRIFX0lhhCEQx41efwFuGQwrYx0PF9tVhwsLYuviXOSPVZdM9oYDnM6nFZucfBatrvWUtp05nUopE3DYIBkkenGrhQiHZVwplPp9vD+wpqDVa/mxV5Zentd8OyljVUF0v8DmZ6iu+D+Buc=;RkqRjWoduG3vtMA+RNnKFQ=="
+secured: "nc71sK2lf5DImMn6sxN47GPqyaAEswTFQ3zvIme3/zaOEaBxRiS7VsCHPij4qX8dm1Zxf0TNVFajtPOyT4l/1mgYGOEEUuA+y2JhifRQ5jHR19HmvZceoVEG6bxSj9lYYocWwId80WC2KhLXF41xgcQYjhb+1ywlcZlthino1CO+DEujahUOQs1Odtvo5swxdMQnk9x/HYhlQjGgrERL3CgQ+GQL62Ln505XWP8vVpN66XD1GBZElclAPGZVvS8pCNpEb9MjIxAH1ErJe/YDU3btDUAx4XnAewameb9qnrCokY5/1DPWH0DCKYdxf0ys8lO50W9Wegm/L4DVQOLFHdE/xrlAnnStDI+DuXs8XyJXkxuaqnhDBuWoA20iKFNxIPbVLFYku2RKhWaEPfL9l/xLkXJgAmyGLyRdTbFVuwEVZ22NqqbqMlgTvuUHbtuJWZtcxyLQTikB1/dCuRh6h+8dx/1UkIuxeB9jFls94PMuZ+f75JIWd095n3HteF3ZRqqHMaOs19l0f6RQCVDlUA==;RdvvHCXsfDEamqW00bum5w=="
 ---
 

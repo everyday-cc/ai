@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Wayve raises $200M Series B led by Eclipse for its AI for autonomous delivery vehicles"
+    excerpt: "British autonomous vehicle startup Wayve has raised a $200 million Series B funding round from investors to scale its technology and expand its partnerships with commercial fleets. Wayve is aiming to be a major player in the arena of Robo-deliveries and logistics."
+    publishedDateTime: 2022-01-18T12:20:00Z
+    webUrl: "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/"
+    ampWebUrl: "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/Alex-Kendall-CEO-2.jpg?w=831"
+        width: 831
+        height: 554
+        isCached: true
   - title: "UK self-driving startup Wayve raises $200 mln to scale up technology"
     excerpt: "British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
     publishedDateTime: 2022-01-17T23:01:00Z
@@ -34,22 +50,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Autonomous Driving Start-Up Wayve Bags $200 Million From Microsoft, Virgin and Baillie Gifford"
-    excerpt: "London-based Wayve has been backed by a host of big name investors in a funding round that brings total investment in the company up to $258 million."
-    publishedDateTime: 2022-01-18T00:38:00Z
-    webUrl: "https://www.nbcphiladelphia.com/news/business/money-report/autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford/3110171/"
-    ampWebUrl: "https://www.nbcphiladelphia.com/news/business/money-report/autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford/3110171/?amp"
-    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/business/money-report/autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford/3110171/?amp"
-    type: article
-    provider:
-      name: NBC 10 Philadelphia
-      domain: nbcphiladelphia.com
-    quality: 62
-    images:
-      - url: "https://media.nbcphiladelphia.com/2022/01/107002167-1642416708532-Alex_Kendall_CEO_2_002.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "UK self-driving startup Wayve raises $200M to scale up technology"
     excerpt: "The London-based company relies on a system that actively learns how to drive as opposed to the conventional autonomous method of relying on digital maps and coding to tell vehicles how to operate."
     publishedDateTime: 2022-01-18T09:33:00Z

@@ -41,6 +41,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "What Really Matters When Selecting A Cloud Data Analytics Platform"
+    excerpt: "Just like with an electrical grid, the next wave of analytical workloads will “plug in” to whatever compute/storage grid that makes the most sense at the time, whether it be location, pricing, regulations and more."
+    publishedDateTime: 2022-01-18T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/18/what-really-matters-when-selecting-a-cloud-data-analytics-platform/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/18/what-really-matters-when-selecting-a-cloud-data-analytics-platform/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/18/what-really-matters-when-selecting-a-cloud-data-analytics-platform/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede30bbf9898700074a916c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How AI, data analytics could help identify insurance fraud"
     excerpt: "New methods, using artificial intelligence, ease the fraud detection burden and help insurance companies stay one step ahead."
     publishedDateTime: 2022-01-14T12:32:00Z
@@ -68,6 +84,20 @@ related:
       - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/01/high-grass-ge20682a07_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "PhaseZero Offers CxAnalytics and Data-as-a-Service Solution with Roadmap to Deliver Enterprise AI Applications for Manufacturing Companies"
+    excerpt: "PhaseZero, a leading B2B & B2C digital commerce software provider, announced its new CxAnalytics solution for business managers to proactively manage sales and market share growth and mitigate critical business risks."
+    publishedDateTime: 2022-01-18T12:37:00Z
+    webUrl: "https://www.lelezard.com/en/news-20195736.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 5
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "z8TYwLfvpmwAu+/OqbbV/mHdgDZuphOPLygQMzb4WpESvjU2qr90wtCHMIyKOKVmJ4TUIWtG23K52JwkGrViUx8uANhHnnJouPv4/TXR4XUV77rJtOMw45r/ToedLUEhb2J0UL0fF7goM78vSjt990e6iLS1bexr7TuuqvOC/DKkZWEl6ES64rcch7ev0KEi2LezGPp9rB3hXOkJCoB0ZG8H8wNTjyF3XgeVDzYkBO2von02eDbKUgwlGzVaHA7c2XNgLtirT6ba4+MX+CLRMZdugXAk6TjQlHzMuKHTV/T1RPchbfZUHdZxrAs+j9vbISAyhe3N9ok+OwVCmigGOWTG3tyqw9dxz4rI3m91BM8rk95il6fH2lk77RQAgjiHrIIahjpWsCQP7UamAES0jyPLbxG60hn4xXm0KbjP34fITYYqg7RWsPz+ywArpW7eXYeyj3c8S1/btT8PpURNuB3qMtQz8DJEt2Y9afXoeTM1WhXpqYSycYuoRpjYGol+ShIM9vpvmFGL9dPyjTqF6g==;459zmbAKgL1y5YCXaYzsAw=="

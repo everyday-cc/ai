@@ -35,22 +35,6 @@ related:
         width: 680
         height: 454
         isCached: true
-  - title: "Samsung’s Breakthrough In Human Brain-Like MRAM Tech Claims To Excel At AI Workloads"
-    excerpt: "Without getting into the weedy details, MRAM offers the performance of DRAM with the non-volatility of flash memory. It also uses much less power than DRAM. (If that sounds familiar, you probably read this article yesterday."
-    publishedDateTime: 2022-01-13T20:10:00Z
-    webUrl: "https://hothardware.com/news/samsung-brain-like-mram-tech-claims-to-excel-at-ai-workloads"
-    ampWebUrl: "https://amp.hothardware.com/news/samsung-brain-like-mram-tech-claims-to-excel-at-ai-workloads"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/samsung-brain-like-mram-tech-claims-to-excel-at-ai-workloads"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 52
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/57368/content/hero-samsung-mram.jpg"
-        width: 708
-        height: 379
-        isCached: true
   - title: "Samsung teases MRAM-based in-memory computing chip of the future"
     excerpt: "Samsung unveils in-memory computing device based on MRAM technology (Magnetoresistive Random Access Memory), new MRAM cells."
     publishedDateTime: 2022-01-15T01:30:00Z

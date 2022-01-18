@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tribal leaders voice concerns about water, voting, COVID"
-    excerpt: "Water rights, the ongoing impacts of the COVID-19 pandemic, voting rights, and infrastructure needs were some of the common issues that several tribal leaders from across Arizona talked about during their visit to the Capitol to talk with legislative leaders about their respective sovereign nations as part of the 27th Annual Indian Nations and Tribes Legislative Day."
-    publishedDateTime: 2022-01-13T19:51:00Z
-    webUrl: "https://indiancountrytoday.com/news/tribal-leaders-voice-concerns-about-water-voting-covid"
-    ampWebUrl: "https://indiancountrytoday.com/.amp/news/tribal-leaders-voice-concerns-about-water-voting-covid"
-    cdnAmpWebUrl: "https://indiancountrytoday-com.cdn.ampproject.org/c/s/indiancountrytoday.com/.amp/news/tribal-leaders-voice-concerns-about-water-voting-covid"
-    type: article
-    provider:
-      name: Indian Country Today
-      domain: indiancountrytoday.com
-    quality: 44
-    images:
-      - url: "https://indiancountrytoday.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg2NjcxMTIyMDU2NDg4NTE5/navajo-nation-president-jonathan-nez-addresses-the-arizona-state-legislature-at-the-state-capitol.jpg"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Tribal leaders voice concerns about water, covid-19 to legislators"
     excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
     publishedDateTime: 2022-01-14T05:26:00Z

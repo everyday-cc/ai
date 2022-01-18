@@ -59,6 +59,15 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Startup of the Week: Saudi fintech joins battle for US retail investors"
+    excerpt: "RIYADH: Saudi entrepreneur Nezar Bakhsh has joined the battle for US retail investors after launching a financial technology startup that sells stock trading advice to traders. His Quant Alpha platform offers artificial intelligence-powered software for investors,"
+    publishedDateTime: 2022-01-18T10:09:00Z
+    webUrl: "https://tynmagazine.com/startup-of-the-week-saudi-fintech-joins-battle-for-us-retail-investors/"
+    type: article
+    provider:
+      name: tynmagazine.com
+      domain: tynmagazine.com
+    quality: 19
 
 secured: "wXq+eBswDb0im8hfYIlURn0MLczheftu1msXxKXxUn0K66bY226ZHwnkf7q9Mp7VeuSAmQca23TTZRe1eK+McIaL2YBNaFd5qZOsPJklz/cW4xsfISnEGbOjIDloXEOo+CwakFYzKQvH4vNFBUoEeG4T67O9mns/Htg8Tt1PsjxoHveZHCYGvpumOgtzN4XOfpqiiDK6DXHaP8GGUAEYjCugIqY5H98nWEp8i9ZflBawGuq3Ame58Wd4XmNqnky+60IOUMqLj0PHOWQH6suTIwtZCBXrLt5p01c2CsYDvcYndgHE3PjW7m9l1PLvyRQoPaFra7BbF1N/2oFLqmUVyVW6ch15vBAs0hUB3DodVpgwerYylt3eM48UGgp40nwizLx9GnCceaxs2KV5p1ODVbduoT4U9Ef9EOVL/xYclmI1Lkf4dJIh4JSnhdbX3APFlqjpG53SqWJHo7Q6CL6yW7KMCw4CEW0Mki/vMp1F51AVnx71+Oow62OjOMeYC0K35lO7qgLiC2o+rouLwlj6PA==;iM9KlAqd6n609rEUwEYlVg=="
 ---

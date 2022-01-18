@@ -1,31 +1,27 @@
 ---
 category: news
 title: "5 Stocks Offering Exposure to the Promising Semiconductor Industry"
-excerpt: "The Analog/Mixed Signal Semiconductor industry is one of the most attractive segments of the market where secular growth drivers are huge and deep. ADI, MCHP, MPWR, NXPI and ON"
-publishedDateTime: 2022-01-18T00:00:00Z
-originalUrl: "https://www.entrepreneur.com/article/413594"
-webUrl: "https://www.entrepreneur.com/article/413594"
+excerpt: "The longer-lasting impact of the pandemic is overwhelmingly positive for the industry because it provides the building blocks of technology that everyone is relying on for maintaining social distancing and remote operations."
+publishedDateTime: 2022-01-18T11:14:00Z
+originalUrl: "https://www.chron.com/business/article/5-Stocks-Offering-Exposure-to-the-Promising-16783157.php"
+webUrl: "https://www.chron.com/business/article/5-Stocks-Offering-Exposure-to-the-Promising-16783157.php"
 type: article
-quality: 54
-heat: 74
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-413594.jpeg"
-    width: 635
-    height: 400
+  - url: "https://staticx-tuner.zacks.com/images/articles/charts/7e/16358.jpg?v=300501616"
+    width: 620
+    height: 514
     isCached: true
 
 related:
@@ -43,21 +39,21 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Worldwide AI in Medical Diagnostics Industry to 2026 - Investments in the AI Health Sector is Driving Growth - ResearchAndMarkets.com"
-    excerpt: "Global Markets\" report has been added to ResearchAndMarkets.com's offering. The current report offers a detailed picture of the AI medical diagnostics market. This report highlights the current and future"
-    publishedDateTime: 2022-01-17T15:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-20194713.html"
+  - title: "Four Pune startups get National Startup Award 2021"
+    excerpt: "Four startups from Pune working on a range of technologies in healthcare, security surveillance, travel and industry were among the top 46 Indian startups adjudged by the Ministry of Commerce and Industry."
+    publishedDateTime: 2022-01-16T16:37:00Z
+    webUrl: "https://indianexpress.com/article/cities/pune/four-pune-startups-get-national-startup-award-2021-7726640/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 8
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 22
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
+      - url: "https://images.indianexpress.com/2022/01/WhatsApp-Image-2022-01-12-at-3.01.48-PM-4.jpeg"
+        width: 1200
+        height: 667
         isCached: true
 
-secured: "0MHorSECYUur6RmohIkv6scf4jSaCzfF+LaO7i9v7VcHClsTeCkMZkbGuvrLh+JNn4NfP1ahPK03x7U/cObaOgOfbkDEwqCM3frC8bO07Tlz9jnhan9nr3VJOyE3Glj9xAq8NgY5NGWxWlVIXxOI+L+H7+ZttuXTidZojzihQw9y+WMV8wM0dCLwgnMlDKyDT0F+drDQ5Imlgraj4kx4wUMthkgruQlYov6XnBDb2LwQik/77Own4NtawGR64mZh91BC9UDMr9Ca/6vJAbwBs1RMgN+6ZxrSV5XBj4yXrlI4XQwdMgoR5i/XpQ/h8/7UwhXXB6vkvXPNDM7RRNigtqbROZjMnp/PFvN1Kqs537dE4FSnbGc2XKiVKYmEuHM+DfXnOQrKNVK6nHnY0RztsBH0xYTgPgApbIRAnQA0vkrjg4nxPeqIQ3Hr9h1rVZ/M2cTpIrYCbQcAz6SgeK1CxOncLaPSLC/ox8t2XxTBTuBRoNa1soHTxgKGNY1BTmIA2qW57byKyoq4GMz1PQvkcQ==;2omX2xdSTe16/mgwIFmGbg=="
+secured: "49PVIwrxaBQCeY7nl2+yZxlSFsefSfEpxjQFThptUKprAYOguD62d4R7pgdKEuy4Y4HoouzMZ7niDQjWbRr59RshysucsOyT0QdIFERaS4tC3izAJaH91WZ27di9FjDwY9qDENvK6Ew0GkgTykF2RxMQvnpN7Uvse/OgXVq6WM0z4Jx4aSJz/PgZjA5CzIXOMHWx8Y1FwpWiKFToTNNYe5d+iHbKAbuN9L4Q+joaSHakECV5UnUKN5D/tf2bP4ds57FQiWUSQv4xvdd007EVKsIjXhrwXJXzHCO3ffYgOfZIt6VktPfEKDdqpo0ugCadOgBn/skSOYbBk/a5fEPyvU59L9U+49LYj0+QYBMR48Q=;46de70tcgvX5uNJd4UkuSg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techhq.com/amp/2022/01/ai-ml-machine-learning-insurtech-arti
 cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/01/ai-ml-machine-learning-insurtech-artificial-intelligence-insurance-review-best-chip-cpu/"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 210
     isCached: true
 
-secured: "eznlSVyLTzwO0ihHQozghiWgItpIaU8KRdYOmqLLSUBPnpLTKBofXbs2BCOiXtKb7VtRY4nC+0nsMdSZURRKwJVvMHnR5b+4u+kegV4uODs4p42b+iF1Bj7Jl8n7Emr0aiBTZ1eZLV5u3NfaalXw+fk7Ztax3Cl5CEhEeDRRZaXTx2ljrwChy5bReCpZXbRpa5SOSPy+h80j++UbxBkVMzQCs3Avsm+OOFrpYaA/XNo+wWH4I+UP0SS1F3fP9YRDaIwnpvdtusm+U/uMWhrXQEkqi62CIwe6OrHrlCtMqYVLi1e0CTYFlP6wcS7lcWq/fsF3/bedFKWxSyjv+eVxcT+KYki7fpDLSCvfJs4aY4U=;NKhbArwcuNCZGe/YCSS8jA=="
+secured: "3k4gEZKamHZct1miu+NV8Y7t4yNBeNNaEDZhSfTryuBxEovxfe+9dhCaK/PNEcd/YTBlS+08SYWldvdSFxru9txFPcAjMDHkQlJvUMyHHAuMCA8yxoieVeiTLpI3fq7z7fQIhWOcZmxeKKZ4QW8e//efS0GoA0XAdnri7BsUJ5i1Eg5nQVyJQBA2tnyGoOqrH2qbZSZPY4uVuM9e165Bj8xcpR9pQIXmwwho1znN9jmo4JlnhNY9iLDmiiBJDXtlY7P3XQAnyXnW7qDgfHZdg3cYzY7gQJpMz9iRQ5cWp1S30e9a/eMAz7n7R+WNnjwb4zKPGIIl1ep8Ic3gUyywWG19YfLdwcq3XVljKLZFFNo1mrRO5xrcc6WtZzCCdNYnzMTOWtyShRERjkgKyk1AANddEBCLTpB6cCJCbEYGW565XdGFGpON1VSZwdIphWtFcWWgp6M4M0q2CVUA2XDlWXI9LNQqNTccUdCvP/OA9J+1KlGTwVzezqMK5kPAGKY9Gf/NrwLrItEPd56qYR8+MA==;LoT8CSKeEXYYCulgidVAYw=="
 ---
 

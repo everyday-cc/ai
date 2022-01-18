@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch?amp"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -22,6 +22,17 @@ topics:
   - AI in Finance
 
 related:
+  - title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
+    excerpt: "They expect its growth to decelerate in 2022, but it remains one of the cheapest FAANG stocks at just 26 times forward earnings. Ambarella (NASDAQ: AMBA) sells image processing system-on-chips (SoCs),"
+    publishedDateTime: 2022-01-18T11:10:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "AI and Marketing: 2022 and Beyond"
     excerpt: "The Future of Artificial Intelligence in Marketing Artificial intelligence has already made significant strides in the realm of self-driving cars, but what role will it play in marketing? A recent sur"
     publishedDateTime: 2022-01-15T01:55:00Z

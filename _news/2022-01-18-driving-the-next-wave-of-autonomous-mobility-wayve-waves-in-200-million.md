@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Wayve raises $200M Series B led by Eclipse for its AI for autonomous delivery vehicles"
+    excerpt: "British autonomous vehicle startup Wayve has raised a $200 million Series B funding round from investors to scale its technology and expand its partnerships with commercial fleets. Wayve is aiming to be a major player in the arena of Robo-deliveries and logistics."
+    publishedDateTime: 2022-01-18T12:20:00Z
+    webUrl: "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/"
+    ampWebUrl: "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/Alex-Kendall-CEO-2.jpg?w=831"
+        width: 831
+        height: 554
+        isCached: true
   - title: "UK self-driving startup Wayve raises $200 mln to scale up technology"
     excerpt: "British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
     publishedDateTime: 2022-01-17T23:01:00Z
@@ -36,22 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Autonomous Driving Start-Up Wayve Bags $200 Million From Microsoft, Virgin and Baillie Gifford"
-    excerpt: "London-based Wayve has been backed by a host of big name investors in a funding round that brings total investment in the company up to $258 million."
-    publishedDateTime: 2022-01-18T00:38:00Z
-    webUrl: "https://www.nbcphiladelphia.com/news/business/money-report/autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford/3110171/"
-    ampWebUrl: "https://www.nbcphiladelphia.com/news/business/money-report/autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford/3110171/?amp"
-    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/business/money-report/autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford/3110171/?amp"
-    type: article
-    provider:
-      name: NBC 10 Philadelphia
-      domain: nbcphiladelphia.com
-    quality: 62
-    images:
-      - url: "https://media.nbcphiladelphia.com/2022/01/107002167-1642416708532-Alex_Kendall_CEO_2_002.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "UK Self-Driving Startup Wayve Raises $200 Million to Scale up Technology"
     excerpt: "British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
     publishedDateTime: 2022-01-18T00:25:00Z
@@ -90,6 +90,6 @@ related:
         height: 676
         isCached: true
 
-secured: "N37PgKuikUaF9krZmmGF5jWw6XVOQQj068i00qaVSIeyil7vTEzlJnnaxCMIsxbOOpyC02neMwoGCKzhk707culYz/FzVNvELqhIqFp4vsJf9QtdU25NeDOB5bi8GQWQvIlgNkgbrijiHW0BSKDKyWzRORgPGLSiFnqbQlU48AVK/eF7WAfioJrn9PIn2gLiEmyZCeClI90n09GETGfp1N0ECvcMMw2GP6vg4ecKZ/20oH0b7GZFsRf/8jvgxlQ+Hsu0W/30TY1t8gA7yGdbO58JZzFL/UpavdEsvY2zo37ejeWKdYASkvFOLecIOdHggWEAXhntXOqPCjg86XB2YZgwKTetSqADHRr72y6SqVA=;ISM12N+ayD5LMpAdqCAkpg=="
+secured: "oybXJYlSO75HWSAQbaZcq1W3Fvrqsf05gqtqyWK3QyJOxmXYfxnincYZ3NmPXMYNfNcPvEmcx/aDStprZ9nEfrWgPfWH4wxw+FP16wtZgM6hID+OqiTV1pFhhAxwEq0XAPAT5L35CRq/bLXPvkOAYtIFrWMzadzRXOQrhHwhFxvllVLHu5uz8Tn0xbkkQgNLL6cZlEtG0n4M7p1mch3FdpT0KYwsi8/4vQ53pc2brkt1EY3UAAoNI8YlFswFoufl3O3e8vAmRUHWZyDLQah+GFeL246gU7kZy00vOn4eGciowPOYVaNKqaVib+KA8PqvU7v/1i/fIj+rxf9pTlwyKB/SroZMTJWYRKFsXNXnacsAm0Xco2o4dZtagNV3dVuRSoiPHDUR0Y2FXVwTt0qqwP+GU8OZNFQE2BMb15SmZ4CQdIdIBW64TepxNp7MULIiaS5DBRL8T++Tv0pzSe1QVB/6oZPXfHMU/8zdfoOFI/MXwo3ddIfQUPcVvCOrkxwzuOZ/PFYL+jaBnrUeakRWMg==;eWIgMdSnhLSMLvPiQ9A9pg=="
 ---
 

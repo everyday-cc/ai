@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How cloud, AI, and machine learning are shaping the new work order"
-    excerpt: "From cloud chaos to clarity.” As enterprises embrace the cloud, AI and deep data analytics, existing jobs, and workplaces will go through a fundamental shift. This transformation will shape the present and future of talent."
-    publishedDateTime: 2022-01-13T20:17:00Z
-    webUrl: "https://www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/"
-    ampWebUrl: "https://www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 74
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/01/New-work-order.png"
-        width: 1800
-        height: 1013
-        isCached: true
   - title: "Intelligent gaming: How Artificial Intelligence and machine learning raise the stakes"
     excerpt: "From using computers to work faster to now teaching computers to work themselves, we’ve achieved quantum leaps when it comes to the possibilities of computer technology. Driving this new generation forward are the developments"
     publishedDateTime: 2022-01-17T12:53:00Z

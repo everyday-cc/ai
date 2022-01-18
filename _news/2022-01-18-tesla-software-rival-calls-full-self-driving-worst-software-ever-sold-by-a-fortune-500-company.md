@@ -135,20 +135,6 @@ related:
         width: 940
         height: 516
         isCached: true
-  - title: "NYT ad slams Tesla's 'Full Self-Driving' as worst software"
-    excerpt: "A full-page advertisement in The New York Times by advocacy group The Dawn Project has slammed Tesla's 'Full Self-Dr"
-    publishedDateTime: 2022-01-18T06:43:00Z
-    webUrl: "https://menafn.com/1103553269/NYT-ad-slams-Teslas-Full-Self-Driving-as-worst-software"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?404884"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Tesla Has 'Assertive' Self-Driving Mode"
     excerpt: "It would take you hours to drive down a street in any urban area.” Now it appears that Tesla has come up with a solution to this problem in its full self-driving beta: an \"assertive\" mode where the car \"may perform rolling stops."
     publishedDateTime: 2022-01-17T20:00:00Z
@@ -177,6 +163,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "NYT ad slams Tesla's 'Full Self-Driving' as worst software"
+    excerpt: "A full-page advertisement in The New York Times by advocacy group The Dawn Project has slammed Tesla's 'Full Self-Driving' (FSD) beta software, calling it \"the worst software ever sold by a Fortune 500 company\"."
+    publishedDateTime: 2022-01-18T11:29:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20220118/3895174.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "DvECqNCW1JuKx9z8oEnk5IozFCd5LKCwap7rHWb7eL61RUdozmv8wwj98ETM9IAP/tHUmwZaRKxLKC3Ri/I5ssFpguIvXQ9E0SkbRc4pUvVqudmaiJVOg8OH/kWVxaPF7y8RpQFIGlab019VVgA5MafGj0DFalLbOqAemzrVE2BkqV3crGMF3YXS8xN8y9je6rOOx3OHOSNdTT9ksRMvdKlj/5h6ncryn5G3Zd3wKQwbCdRgHqNZSlyCCgvFnPbfs6PSgChy9GdoAgf0bhgXK0e0FwEOWwr2wljDeqEbi9OpoDF/6yFG0f7kXGEhTQ9t5I1rvj9Ayz/50+6X8IoMKvCYOlt6mhymcmhu1k0BGcT/w+tq77fXvsWM4UpwR5zqku4rqvp5cgoXqzP4K65UTIywTK5X2JQXriB0Opt4uNHoooZfc79ynS1YGROwV4oiQXnPMdOYyPer7M7Xr5O5qBf2hTMfPYUfX8KZt4yHtUthsxKOnBIzJPBHWwFDdrDl5eZAE8r3xe6yPblgjEQ7eQ==;MIJ8lm4DfV8yWxaCLyjU4Q=="
 ---

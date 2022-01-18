@@ -40,6 +40,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "What Really Matters When Selecting A Cloud Data Analytics Platform"
+    excerpt: "Just like with an electrical grid, the next wave of analytical workloads will “plug in” to whatever compute/storage grid that makes the most sense at the time, whether it be location, pricing, regulations and more."
+    publishedDateTime: 2022-01-18T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/18/what-really-matters-when-selecting-a-cloud-data-analytics-platform/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/18/what-really-matters-when-selecting-a-cloud-data-analytics-platform/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/18/what-really-matters-when-selecting-a-cloud-data-analytics-platform/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede30bbf9898700074a916c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI is leveraging advanced analytics for physical security operations"
     excerpt: "Enterprise organizations need to move beyond static forensic security mindsets and embrace software as a force multiplier"
     publishedDateTime: 2022-01-14T18:36:00Z
@@ -67,6 +83,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/d15acc7/2147483647/strip/true/crop/3998x2099+0+229/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F09%2F4e%2F1615ed59434bbce101ea51ab318a%2F366275900.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "PhaseZero Offers CxAnalytics and Data-as-a-Service Solution with Roadmap to Deliver Enterprise AI Applications for Manufacturing Companies"
+    excerpt: "PhaseZero, a leading B2B & B2C digital commerce software provider, announced its new CxAnalytics solution for business managers to proactively manage sales and market share growth and mitigate critical business risks."
+    publishedDateTime: 2022-01-18T12:37:00Z
+    webUrl: "https://www.lelezard.com/en/news-20195736.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 5
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "zrL790rZpZdtjCfuX7k7V+xJ0lwex/JlPsSuFh9keK0Rm0Zm6ZKJT7WaAwYdIc4AlVtQ0SQYws0j2rnVGx2xI880RPuRmgWf/8uI++/zPrVJj9oEedNvOxfcdtdwhf+4Knr7Y9RACqyw+tLNtp7kWXz6InpWRxrYB09hxYI1TL7jqui4Z1D0bH7cYQnABH5cCpZAFhNOEw5bZqOsBgyljlM2yYhqL9tqICS3SWVoi781l3bxrRJtVoZn7AZzgPKrA27IYVd8ariT/1ngsu9OH1ypdp5IJBqJR8H6jfZM75qvb5Oj7Qx5Xf+9og50FrSS+IC7/6rxs9IfN8+Sz4BedFw0ysVCkrTkZxjH8AbvHRbRjbUGZxi0eDrVoRwr7cNO5U1IwwQauTsP6DpB50Pzt4W8+jUubWKpUl3hp4ZfyDYBJzUdP8oHtFVimSB2p5g6gxVkIOADvEXF9BMcixeAWlJtF/Z7z0HoYgtKGF5Ycq03CmJuBie/H1/SoIfYbW8dMGgn6VZdHRRQsK8c1uUlfw==;1ZlG7ORnnMDrfDe5S5rsbw=="

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 593
         isCached: true
-  - title: "Tribal leaders voice concerns about water, voting, COVID"
-    excerpt: "Water rights, the ongoing impacts of the COVID-19 pandemic, voting rights, and infrastructure needs were some of the common issues that several tribal leaders from across Arizona talked about during their visit to the Capitol to talk with legislative leaders about their respective sovereign nations as part of the 27th Annual Indian Nations and Tribes Legislative Day."
-    publishedDateTime: 2022-01-13T19:51:00Z
-    webUrl: "https://indiancountrytoday.com/news/tribal-leaders-voice-concerns-about-water-voting-covid"
-    ampWebUrl: "https://indiancountrytoday.com/.amp/news/tribal-leaders-voice-concerns-about-water-voting-covid"
-    cdnAmpWebUrl: "https://indiancountrytoday-com.cdn.ampproject.org/c/s/indiancountrytoday.com/.amp/news/tribal-leaders-voice-concerns-about-water-voting-covid"
-    type: article
-    provider:
-      name: Indian Country Today
-      domain: indiancountrytoday.com
-    quality: 44
-    images:
-      - url: "https://indiancountrytoday.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg2NjcxMTIyMDU2NDg4NTE5/navajo-nation-president-jonathan-nez-addresses-the-arizona-state-legislature-at-the-state-capitol.jpg"
-        width: 620
-        height: 413
-        isCached: true
 
 secured: "c4Wvqp+iEhBWTpx5kupAFPkV6PoR+2ywNc4pwwaACYl+1VMjJlqIj5zrWiXuNfPKNPFXOEr6g8pNaVS/pAS3Sy2uEy0/zv1hZpTK9eYXgJvPtS/BcpCk9gz8/V0SZDkbTCtJb0QdKeofgDhadrk9vViT/APLCcKvvfCNOYrcAtJsWTe1tYNKxJ27cL9Qn9Y/9LhD29swkzs68UqySYDbFovVLk5Bbta5YGCVtjKDnWy4rtc+m+SQHFcGTAWXVuXRkfxcqgJE5WLDjD4t/Yqmzs2hM+TBHeKUgw4YJw2FxGiSrBn583gi6JWcLyFLMQgeZSepVWkQqMiWeSYwPNjZffqQuEdzuBRulhB+Lc/gacQD7GNnRxLqoIV0LWldefdYR2uAlAu+M5UTUPqz2VE0PXNxqMK8YJ/dC9itN87vQz/FLhD92qh69fFqd505+u1ctVwwCYghc+2ip7spX40kWkDa4nzyWR+IB+ldh+QB0E/ZUMZnzQKA2Jc8T/F3iH5XU4lJglorYl6m8zUav7LJtQ==;AF4+RMDFYIuaiV3leklfRA=="
 ---

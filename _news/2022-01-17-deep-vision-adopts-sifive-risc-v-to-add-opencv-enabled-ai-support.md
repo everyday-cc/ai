@@ -2,28 +2,28 @@
 category: news
 title: "Deep Vision Adopts SiFive RISC-V to Add OpenCV-Enabled AI Support"
 excerpt: "SiFive, Inc., the founder and leader of RISC-V computing, today announced that Deep Vision will integrate SiFive RISC-V processor IP into its next-generation inference accelerators to enable more comprehensive computer vision and voice in edge devices."
-publishedDateTime: 2022-01-17T14:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-mateo-f3514e0dbfb040918c25246b035c0f00"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-san-mateo-f3514e0dbfb040918c25246b035c0f00"
+publishedDateTime: 2022-01-17T13:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/deep-vision-adopts-sifive-risc-v-to-add-opencv-enabled-ai-support/article_ed2d8673-340e-533d-a141-98e60c938309.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/deep-vision-adopts-sifive-risc-v-to-add-opencv-enabled-ai-support/article_ed2d8673-340e-533d-a141-98e60c938309.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
-  - AI Hardware
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+    width: 300
+    height: 250
     isCached: true
 
-secured: "BV1gCC+5fObi4I2a2iigbC8QxI2utq0cpU5TFWSXq/dqwB/acpg0Opm/KMP44twtXJ0DGwhkBrG6w+sWisrMm9XogLAlS0xhippQVKLCRrq51+nH5AG/8IRTsy8uCuVObLV3lXHS3mxmFHPeyL1R8OhwnpdduAMmWIWgW7J2arGlmsJ6SCm+j+S4pOSnSowhHMwlRLW3YydbRXZbmrsbiscX+qoNpRBEXw4JXizQLtnvmHbgo5zHdY+K1hIKFyRYCjCf5SNywvR7dQ5VFvoOv62QLBWzQxj6cLjC8+QbN4R+3bQNZwYNHkZC0aDPVP365L1oadDSr1726vvJQcKbFpUsl/GxGrKa0WI1CNJBW/U=;LpsomeXnt0ZL49/ol6cSaw=="
+secured: "bKUoHyk3JkewXn6YiqZ4xVfCgy6/CCZL91NJSvmk18JZVzcSguzJe/sPW9dFFOR0UFQKB60mm/sYcKrOZE1sar95S6HszS0kqaoL4V7BumIbnVI+qk5VuRNhsAb5Nm/A4IhHImtojKSRkD3VH/O1Aab/fYoOKSmttVUF4Z5NZD/9qL3XcOhTml2IyVZ/cCyfAMC4sDA3fZyDeFqJ/SkOZ882psR3pq1kMH8Ga7/wHJ+QbjGkZdhbZPNkdiTfyiJCzmxLeMHpg7YfBSUooPf0OeQlCy8yoQQS3ht1JQfz2F8/hgs4bZBFhTwveOghSAhuIqFJwT4FrwW6RvpxOGVtH/EK9PjkTc2KflgUVSnlvo8=;InWpY7D3gPCaT2k6RH+/Og=="
 ---
 
