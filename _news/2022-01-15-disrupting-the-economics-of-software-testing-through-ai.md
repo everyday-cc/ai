@@ -7,8 +7,8 @@ originalUrl: "https://sdtimes.com/test/disrupting-the-economics-of-software-test
 webUrl: "https://sdtimes.com/test/disrupting-the-economics-of-software-testing-through-ai/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: SD Times
@@ -28,38 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "We’re failing at the ethics of AI. Here’s how we make real impact"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Stefan Klebert, Chief Executive Officer,"
-    publishedDateTime: 2022-01-14T12:00:00Z
-    webUrl: "https://europeansting.com/2022/01/14/were-failing-at-the-ethics-of-ai-heres-how-we-make-real-impact/"
-    ampWebUrl: "https://europeansting.com/2022/01/14/were-failing-at-the-ethics-of-ai-heres-how-we-make-real-impact/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2022/01/14/were-failing-at-the-ethics-of-ai-heres-how-we-make-real-impact/amp/"
+  - title: "Why AI Writing Assistants are a Good Thing for Content Creation"
+    excerpt: "AI writing assistants are software tools that are disrupting copywriting and content creation. So you've heard of AI writing assistants, but how do they work? AI writing assistants are software tools that automatically generate content for a set of parameters."
+    publishedDateTime: 2022-01-17T03:08:00Z
+    webUrl: "https://www.chron.com/business/article/Why-AI-Writing-Assistants-are-a-Good-Thing-for-16780295.php"
     type: article
     provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 74
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
     images:
-      - url: "https://europeansting.files.wordpress.com/2022/01/robots.jpeg"
-        width: 716
-        height: 1002
+      - url: "https://s.hdnux.com/photos/01/23/50/44/21924126/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "What are the biggest healthcare shifts we’ll see in 2022? Here’s what health experts think"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kelly McCain, Head, Healthcare Initiatives, World"
-    publishedDateTime: 2022-01-18T16:00:00Z
-    webUrl: "https://europeansting.com/2022/01/18/what-are-the-biggest-healthcare-shifts-well-see-in-2022-heres-what-health-experts-think/"
-    ampWebUrl: "https://europeansting.com/2022/01/18/what-are-the-biggest-healthcare-shifts-well-see-in-2022-heres-what-health-experts-think/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2022/01/18/what-are-the-biggest-healthcare-shifts-well-see-in-2022-heres-what-health-experts-think/amp/"
+  - title: "AI-Driven Autonomous Testing Pioneer Appvance Raises $13 million to Disrupt the $120 billion Software Testing Market"
+    excerpt: "Appvance is disrupting the $120 billion software QA market through its patented Appvance IQ™(AIQ) unified test platform – the world's first Level 5 autonomous testing solution"
+    publishedDateTime: 2022-01-18T15:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-driven-autonomous-testing-pioneer-appvance-raises-13-/2022/01/18/9528088.htm"
     type: article
     provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 49
-    images:
-      - url: "https://europeansting.files.wordpress.com/2022/01/healthcares.jpg?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "A4lG7GIATPlATIwUfzUYDkhsMlx2ayjieb2/EhvwmkgPMhIio6nCrTNR20YBG/zZOkIRkDSOoOu3xqQeWiaoopzyO8BTQ1oIEgDakiZeTWe98JiUUtwIsmfnUqxdiFtD/ZoregzvHAdj2YwfK3iZd4/3vKHGfrQtXAuQ5kLRnSuU9GqBKab+33ik40rp+LZIN5sac1wQdeBxeOLF1qX8hOGcRt3C0DNs5egqhK8S+A4+sM9reQMuKMm6BPYLPwBiTTFTvu+U0+J/1bXmcK/SDbTxIYzpyfGXiKG5+bMwZ727VN5qbD4vMomU43FWIaTmOCDbA1l214SuA642c1ie5XwBROXzbu6ivPJgW3dkNij/llcHe1P3O0i+jOMFwS2Q8WKjT+R087Q423gJggUrrKmjGwj0uSlo3eAuz5aBq54W6A494+GOmryGOvvNB62RV3U8fod3ewJNd74MJclVCx8q6GusL9YuQ2gHe5AIrKEP9D3m1iK+49gbyu+v4X0nmVY6/mDUzc0OzMgIQy3Yzw==;0uSCYp2K/tz8uYQNxgkKig=="
 ---

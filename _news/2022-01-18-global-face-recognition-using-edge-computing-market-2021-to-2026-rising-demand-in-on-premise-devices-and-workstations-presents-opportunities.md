@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=601884"
 webUrl: "https://us.acrofan.com/detail.php?number=601884"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 580
     height: 339
     isCached: true
-
-related:
-  - title: "The Worldwide Far-Field Speech and Voice Recognition Industry is Expected to Reach $3.89 Billion by 2026"
-    excerpt: "The 'Global Far-Field Speech and Voice Recognition Market (2021-2026) by Component, Application & Microphone Solution, and Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis' report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-01-14T11:43:00Z
-    webUrl: "https://menafn.com/1103539603/The-Worldwide-Far-Field-Speech-and-Voice-Recognition-Industry-is-Expected-to-Reach-389-Billion-by-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 7
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?139300"
-        width: 370
-        height: 250
-        isCached: true
 
 secured: "VBrDM6/mKCCzOG8gsbvBtofdIeqv9IIDvfbhJ37MJvAQ3NyKslyyZpgbwT7hqSuEqXVOn8v/5JJaEHUZGyPqHNkaGwttJX2bQ6QRqJhqwMuwQFKY3QL745vCZFpaVQnAZw7VBt4K3QxdOKGamp4ZKgWNMJUTVBdYqxcHZCtmGYelGmHA29/+e2nKQc81WR6ZQA1+EIaI3ZO5eTGfu6/+LIZyPRa2e6053ES99nO8/EZyOBcSPAw6oBj4xnN32Dvex1c/zOSdbRru8p9WOKPijMNqSMpnGVKfewp5KdB0yKu5KDVzN/7qNywpTERgirK5mQefn3tJlkOecYaTPKFpEMzrlxB5oj7ryAl4/rkHFI4=;c7dCaJzBT19LlFDlfsUN8A=="
 ---

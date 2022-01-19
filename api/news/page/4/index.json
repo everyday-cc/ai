@@ -724,6 +724,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-14-apache-pulsar-by-pandio-now-available-on-aws-marketplace.md",
+      "title": "Apache Pulsar® by Pandio Now Available on AWS Marketplace",
+      "excerpt": "Pandio, the leader in AI orchestration, announced today that its Apache Pulsar® product is available in AWS Marketplace, a digital catalog with thousands of software listings from independent vendors that make it easy to find,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20192665.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20192665.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T17:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-facebooks-spanish-language-moderators-are-calling-their-work-a-nightmare.md",
       "title": "Facebook’s Spanish-Language Moderators Are Calling Their Work A “Nightmare”",
       "excerpt": "Contractors who moderate Spanish-language content on Facebook said they’ve been forced to come to the office during COVID surges.",
@@ -908,40 +951,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-apache-pulsar-by-pandio-now-available-on-aws-marketplace.md",
-      "title": "Apache Pulsar® by Pandio Now Available on AWS Marketplace",
-      "excerpt": "Pandio, the leader in AI orchestration, announced today that its Apache Pulsar® product is now available in AWS Marketplace. SAN DIEGO (PRWEB) January 13, 2022 Pandio,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/p25049283/apache-pulsar-by-pandio-now-available-on-aws-marketplace",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/p25049283/apache-pulsar-by-pandio-now-available-on-aws-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25049283",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25049283",
-      "publishedDateTime": "2022-01-13T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },

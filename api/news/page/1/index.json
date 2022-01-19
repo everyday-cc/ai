@@ -45,58 +45,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-19-confused-replika-ai-users-are-standing-up-for-bots-and-trying-to-bang-the-algorithm.md",
-      "title": "Confused Replika AI users are standing up for bots and trying to bang the algorithm",
-      "excerpt": "It should go without saying, but you can't have sex with an algorithm. That doesn't stop some people from trying.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/confused-replika-ai-users-are-standing-up-for-bots-trying-bang-the-algorithm",
-      "originalUrl": "https://thenextweb.com/news/confused-replika-ai-users-are-standing-up-for-bots-trying-bang-the-algorithm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Freplikaskull.jpg&signature=926f0f4500827c7456dd328ad9e35e92",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T17:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-01-19-report-how-ai-and-ml-optimize-the-diagnosis-process-in-health-care.md",
       "title": "Report: How AI and ML optimize the diagnosis process in health care",
       "excerpt": "Medical diagnostics using AI and ML are expanding, and automation is helping to detect life-threatening conditions in their earliest stages.",
@@ -680,19 +628,19 @@
     {
       "path": "_news/2022-01-18-aiml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes.md",
       "title": "AI/ML in 2022: More Real-World Deployments, Focus On AI Ethics and Blockchain Hopes",
-      "excerpt": "Prominent industry experts share their predictions for the year aheadVILNIUS, LITHUANIA / ACCESSWIRE / January 18, 2022 / Artificial intelligence (AI) and",
+      "excerpt": "Prominent industry experts share their predictions for the year ahead VILNIUS, LITHUANIA / ACCESSWIRE / January 18, 2022 / Artificial intelligence (AI) and machine learning (ML) are maturing from tech world’s favorite buzzwords to indispensable solutions for real-world problems.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes",
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-science-blockchain-artificial-intelligence-f455ebd196f2a5db2fb907a2deb5cd20",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-science-blockchain-artificial-intelligence-f455ebd196f2a5db2fb907a2deb5cd20",
       "featuredContent": null,
       "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/0292659d21cd19eb471e29464d4184e507b001c1-600x337.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -702,11 +650,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T06:23:00-08:00",
+      "publishedDateTime": "2022-01-18T06:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -716,9 +664,9 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI Ethics"
       ]
     },
     {
@@ -929,7 +877,7 @@
       "originalUrl": "https://www.forbes.com/sites/adigaskell/2022/01/18/ai-creates-job-disruption-but-not-job-destruction/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1179,7 +1127,7 @@
       "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/18/two-self-driving-shuttle-companies-fail-in-one-week--what-does-it-bode/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1219,6 +1167,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-4-times-shakespeare-has-inspired-stories-about-robots-and-ai.md",
+      "title": "4 times Shakespeare has inspired stories about robots and AI",
+      "excerpt": "Here are just a few of our favorite examples of how science fiction has embraced – and transformed – Shakespeare.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/shakespeare-inspired-stories-about-robots-ai-syndication",
+      "originalUrl": "https://thenextweb.com/news/shakespeare-inspired-stories-about-robots-ai-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FSPAI.jpg&signature=16f7448a37fd999875a88251597b9714",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T03:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

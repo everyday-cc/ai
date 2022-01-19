@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-01-18-4-times-shakespeare-has-inspired-stories-about-robots-and-ai.md",
-      "title": "4 times Shakespeare has inspired stories about robots and AI",
-      "excerpt": "Here are just a few of our favorite examples of how science fiction has embraced – and transformed – Shakespeare.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/shakespeare-inspired-stories-about-robots-ai-syndication",
-      "originalUrl": "https://thenextweb.com/news/shakespeare-inspired-stories-about-robots-ai-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FSPAI.jpg&signature=16f7448a37fd999875a88251597b9714",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T03:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-18-cant-buy-a-new-gpu-heres-how-to-make-your-graphics-card-faster.md",
       "title": "Can’t buy a new GPU? Here’s how to make your graphics card faster",
       "excerpt": "If you’re unable to get your hands on a new one due to the shortages, don’t fret. There are quite a few things you can do to make your old GPU feel new again. Let’s make it cleaner, quieter, cooler, and extract more frames per second from those games!",
@@ -346,7 +294,7 @@
       "originalUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -1189,6 +1137,58 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-how-ai-will-drive-the-hybrid-work-environment.md",
+      "title": "How AI will drive the hybrid work environment",
+      "excerpt": "Artificial intelligence has the capacity to vastly improve work-from-home and hybrid work environments. But getting there will not be as simple.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/",
+      "originalUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Remote-Work.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/",
+      "publishedDateTime": "2022-01-16T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

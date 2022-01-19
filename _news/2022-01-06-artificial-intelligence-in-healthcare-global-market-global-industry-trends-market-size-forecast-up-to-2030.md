@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030"
-excerpt: "As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-publishedDateTime: 2022-01-05T22:54:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/24922041/artificial-intelligence-in-healthcare-global-market-global-industry-trends-market-size-forecast-up-"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/24922041/artificial-intelligence-in-healthcare-global-market-global-industry-trends-market-size-forecast-up-"
-ampWebUrl: "https://www.benzinga.com/amp/content/24922041"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24922041"
+excerpt: "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
+publishedDateTime: 2022-01-06T05:40:00Z
+originalUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
+webUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "dOL25aNJbNzu+V2kY3WvUbXPtsFNkEW+QAVbulMkCPteEcrz/4PRCuX6IUn3uH5C6p6tTUnDjzFZBZdgDF6H09bhzZn0A+GzTaLCGEDUp/l8PjnKN6HFl2OwBkOCeHJfVTtHMco38uMR16iymoKzWPNOAfDZfVB+p2wu2EKrpokVFjg84EzrYoQDRSLkC2wymE6hrhVt8bacFuhK5Dv6IyEOQL4zmvm6z3+E4c6mxqf/hF/Zs2CmDRBxaZelNOSmWUvUyjis2CIK7gWYE5sRT5Ya0OJ/bEbMwX3zd9YEZF3dhMw65Dv2cmvUKTP85hgkQOGm3ASgS6r4wMZ0jOEzntguvMHj5JE6j/ICHV0N5XQ=;4jijkflzUjb6dm+1TRgyEQ=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?580439"
+    width: 375
+    height: 250
+    isCached: true
+
+secured: "nTVDvJ82wtzvZT26s3kpxapnwCS8D+V2mmITuEIe0RXPsyS5/BMIUUOsGAYd3LSqoy8mmMxpmh96Yc0x7EE5XloaxnOgpusN8+DpDOQD3T/GjrlQoEs2FSQ0x0GFwWBS3Q3vEyVYe7RRNUasH8Zdcp5q1lAH5S43DdPY1AAXG0QriWNAP2sNMB8AeobTTm5ULkpSMHPfzOBOPIqu4AFuDy+FyPUzOMRIbElFv337Kp68syHoSYWA1w/ZvLoeaFLROkTx3fR/DP1TGyK4d21s8jAhpdnJpwPhAgIMzv05ry8X46EWOiNfVa9Lj+MnmXbEmRzUhRAfmilROJtwSp/kPf9uIS1xdC+rTKXW7ylKvQo=;+Gfeylw5icT/RYxOAacZGw=="
 ---
 

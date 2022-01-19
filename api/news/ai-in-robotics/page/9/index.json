@@ -2,49 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-11-23-ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding.md",
-      "title": "AI-based Robotics Startup Haber Raises $27 Mn In Series B Funding",
-      "excerpt": "Haber develops AI-driven robots which automate the manual process of sample collection, measurement, analysis, and intervention at factories.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/",
-      "originalUrl": "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2021/11/trademo-ft-social-02-1-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/",
-      "publishedDateTime": "2021-11-23T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-23-robots-for-the-win-during-ecommerce-holiday-crunch.md",
       "title": "Robots for the win during ecommerce holiday crunch",
       "excerpt": "Between labor shortages, COVID continuing to wreak havoc on the supply chain, and the upcoming holiday season (in which eCommerce is expected to grow up to 15%), retailers, eCommerce, and warehouses will face a challenging few months to meet increased consumer demands.",

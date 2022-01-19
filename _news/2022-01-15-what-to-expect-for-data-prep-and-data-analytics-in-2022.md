@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
     quality: 54
     images:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/GettyImages_1276589384.61e1b2419bc26.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How AI, data analytics could help identify insurance fraud"
-    excerpt: "New methods, using artificial intelligence, ease the fraud detection burden and help insurance companies stay one step ahead."
-    publishedDateTime: 2022-01-14T12:32:00Z
-    webUrl: "https://www.dig-in.com/opinion/ai-data-analytics-could-help-identify-insurance-fraud"
-    type: article
-    provider:
-      name: Digital Insurance
-      domain: dig-in.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/d15acc7/2147483647/strip/true/crop/3998x2099+0+229/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F09%2F4e%2F1615ed59434bbce101ea51ab318a%2F366275900.jpg"
         width: 1200
         height: 630
         isCached: true

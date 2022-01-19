@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/top-platforms-to-assess-skills-of-da
 webUrl: "https://analyticsindiamag.com/top-platforms-to-assess-skills-of-data-scientists-in-2022/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1766
     height: 993
     isCached: true
-
-related:
-  - title: "4 Reasons Meta Platforms Is Poised to Grow in 2022"
-    excerpt: "Now, I want to talk a little bit more about the future growth of Meta Platforms and Facebook. First, I just want to say one thing. I've been looking on Lin"
-    publishedDateTime: 2022-01-14T12:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-reasons-meta-platforms-is-poised-to-grow-in-2022"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-reasons-meta-platforms-is-poised-to-grow-in-2022?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-reasons-meta-platforms-is-poised-to-grow-in-2022?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "kUn/I2QyuS6uCi6EzbMEbMiu59oPCg58j74vbC76QImqjGax2bclwMLlqIZfQp9zl/Ajyie4jraNg1ZheXhbw5bcvX71jiH68YVk2ykjir0XK4+K1rrT5Mlgvwg7Y/FCXatgsen7jvLBP03Qu4peuZFpGfFs7FfIbMmvdnKbUTkbQP8A+nV2JQwCKK8eQKiV1zGe2JxB90bNl6PuyIjiljvf6OEwzsY/Emu0W7TzMY+gQUkt8Dhjg/xwZW3ULWBxcniBCi9IuVDcfYryT/mWLvBxeXCjhEQ+FkXuuBgQKuuIx1ak8rqE7hHXkdVuDN0hl8mnjw+LzeMhAsrXdm//cHZ2pBAPi3fIUCFWGSeIOnrL0KrXAEJ4+ZoWFp1ilzE8dA6OzNudVeeme7d0dm+NjUparwknvfpeaOASFooZrF7LygJSgW5xAWkQApVE7nGzR/arVY1WddQK12vgLe7RKMKAh8JC2IMbSARtxV1Z9IAaTPs0Yn7BizNkVbRK7G8r+Hx/1/TlydV2KDSzIBhExA==;Tg9CHnQoYVmzwLD5QL7l2Q=="
 ---

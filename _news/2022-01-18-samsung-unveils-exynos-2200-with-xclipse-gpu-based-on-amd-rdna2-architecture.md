@@ -123,6 +123,22 @@ related:
         width: 1000
         height: 900
         isCached: true
+  - title: "Samsung Announces Exynos 2200 With AMD Ray Tracing GPU"
+    excerpt: "The Exynos 2200 with AMD ray tracing GPU promises to transform mobile gaming while forcing its competitors to up their game."
+    publishedDateTime: 2022-01-19T04:48:00Z
+    webUrl: "https://www.technowize.com/samsung-announces-exynos-2200-with-amd-ray-tracing-gpu/"
+    ampWebUrl: "https://www.technowize.com/samsung-announces-exynos-2200-with-amd-ray-tracing-gpu/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/samsung-announces-exynos-2200-with-amd-ray-tracing-gpu/amp/"
+    type: article
+    provider:
+      name: Technowize
+      domain: technowize.com
+    quality: 59
+    images:
+      - url: "https://www.technowize.com/wp-content/uploads/2022/01/Samsung-Exynos-2200-processor.png"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Samsung Unveils New Generation Exynos 2200 SoC With AMD RDNA 2-Based Xclipse GPU"
     excerpt: "Samsung has officially launched its brand new Exynos 2200 SoC, which will be powering the company’s upcoming premium smartphones later this year."
     publishedDateTime: 2022-01-18T10:26:00Z

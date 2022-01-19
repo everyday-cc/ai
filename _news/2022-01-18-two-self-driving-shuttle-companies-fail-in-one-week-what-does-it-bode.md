@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/01/18/two-self-drivi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/01/18/two-self-driving-shuttle-companies-fail-in-one-week--what-does-it-bode/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

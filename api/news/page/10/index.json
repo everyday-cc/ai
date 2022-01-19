@@ -2,57 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2022-01-10-softbank-invests-in-artificial-intelligence-startup-qraft-technologies.md",
-      "title": "SoftBank Invests in Artificial-Intelligence Startup Qraft Technologies",
-      "excerpt": "Qraft Technologies plans to use the $146 million investment to fuel U.S. and China expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "originalUrl": "https://www.wsj.com/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-464080/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "publishedDateTime": "2022-01-10T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-10-ola-2-security-camera-with-face-recognition-ai-and-more-hits-kickstarter.md",
       "title": "OLA 2 security camera with face recognition, AI and more hits Kickstarter",
       "excerpt": "If you are in the market for a new security camera you might be interested in the OLA 2 launched via Kickstarter this month offering, facial",
@@ -491,6 +440,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-cognitive-services-market-size-volume-share-demand-growth-business-opportunity-by-2023-trending-report.md",
+      "title": "Cognitive Services Market-Size Volume, Share, Demand growth, Business Opportunity by-2023 (Trending Report)",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Japan, Japan, Mon, 10 Jan 2022 06:36:43 / Comserve Inc. / -- MarketsandMarkets expects the global cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-volume-share-demand-growth-business-opportunity-by-2023-trending-report-2022-01-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-volume-share-demand-growth-business-opportunity-by-2023-trending-report-2022-01-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },

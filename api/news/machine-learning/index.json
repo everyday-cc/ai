@@ -100,19 +100,19 @@
     {
       "path": "_news/2022-01-18-aiml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes.md",
       "title": "AI/ML in 2022: More Real-World Deployments, Focus On AI Ethics and Blockchain Hopes",
-      "excerpt": "Prominent industry experts share their predictions for the year aheadVILNIUS, LITHUANIA / ACCESSWIRE / January 18, 2022 / Artificial intelligence (AI) and",
+      "excerpt": "Prominent industry experts share their predictions for the year ahead VILNIUS, LITHUANIA / ACCESSWIRE / January 18, 2022 / Artificial intelligence (AI) and machine learning (ML) are maturing from tech world’s favorite buzzwords to indispensable solutions for real-world problems.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes",
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-science-blockchain-artificial-intelligence-f455ebd196f2a5db2fb907a2deb5cd20",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-science-blockchain-artificial-intelligence-f455ebd196f2a5db2fb907a2deb5cd20",
       "featuredContent": null,
       "highlight": null,
       "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/0292659d21cd19eb471e29464d4184e507b001c1-600x337.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -122,11 +122,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T06:23:00-08:00",
+      "publishedDateTime": "2022-01-18T06:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -136,9 +136,9 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI Ethics"
       ]
     },
     {

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Samsung launches Exynos 2200 SoC with Xclipse GPU"
-excerpt: "Samsung has announced a new mobile processor, the. The is the company's freshly designed mobile processor with AMD RDNA 2 architecture-based Samsung Xclipse graphics processing unit (GPU). The chipset comes with Arm-based CPU cores and an upgraded neural processing unit (NPU)."
-publishedDateTime: 2022-01-18T07:43:00Z
-originalUrl: "https://www.digit.in/news/mobile-phones/samsung-launches-exynos-2200-soc-with-xclipse-gpu-62580.html"
-webUrl: "https://www.digit.in/news/mobile-phones/samsung-launches-exynos-2200-soc-with-xclipse-gpu-62580.html"
-ampWebUrl: "https://www.digit.in/article/amp/mobile-phones/62580/samsung-launches-exynos-2200-soc-with-xclipse-gpu"
-cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/mobile-phones/62580/samsung-launches-exynos-2200-soc-with-xclipse-gpu"
+title: "Samsung Announces Exynos 2200 With AMD Ray Tracing GPU"
+excerpt: "The Exynos 2200 with AMD ray tracing GPU promises to transform mobile gaming while forcing its competitors to up their game."
+publishedDateTime: 2022-01-19T04:48:00Z
+originalUrl: "https://www.technowize.com/samsung-announces-exynos-2200-with-amd-ray-tracing-gpu/"
+webUrl: "https://www.technowize.com/samsung-announces-exynos-2200-with-amd-ray-tracing-gpu/"
+ampWebUrl: "https://www.technowize.com/samsung-announces-exynos-2200-with-amd-ray-tracing-gpu/amp/"
+cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/samsung-announces-exynos-2200-with-amd-ray-tracing-gpu/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Digit
-  domain: digit.in
+  name: Technowize
+  domain: technowize.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://static.digit.in/default/b058ab70e5a8922bf0bf1655dc52e764c6d20c58.jpeg"
-    width: 1280
-    height: 720
+  - url: "https://www.technowize.com/wp-content/uploads/2022/01/Samsung-Exynos-2200-processor.png"
+    width: 500
+    height: 500
     isCached: true
 
 related:
@@ -91,6 +91,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Samsung launches Exynos 2200 SoC with Xclipse GPU"
+    excerpt: "Samsung has announced a new mobile processor, the. The is the company's freshly designed mobile processor with AMD RDNA 2 architecture-based Samsung Xclipse graphics processing unit (GPU). The chipset comes with Arm-based CPU cores and an upgraded neural processing unit (NPU)."
+    publishedDateTime: 2022-01-18T07:43:00Z
+    webUrl: "https://www.digit.in/news/mobile-phones/samsung-launches-exynos-2200-soc-with-xclipse-gpu-62580.html"
+    ampWebUrl: "https://www.digit.in/article/amp/mobile-phones/62580/samsung-launches-exynos-2200-soc-with-xclipse-gpu"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/mobile-phones/62580/samsung-launches-exynos-2200-soc-with-xclipse-gpu"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 59
+    images:
+      - url: "https://static.digit.in/default/b058ab70e5a8922bf0bf1655dc52e764c6d20c58.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Samsung Exynos 2200 is official with AMD's RDNA 2 GPU"
     excerpt: "Samsung was initially scheduled to announce the Exynos 2200 on January 11th, but that date came and went by with no word from the company. Instead, it removed all traces of the teaser from its social media channels,"
     publishedDateTime: 2022-01-18T04:51:00Z
@@ -106,22 +122,6 @@ related:
       - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/01/Samsung-Exynos-2200.jpeg"
         width: 1000
         height: 900
-        isCached: true
-  - title: "Samsung Announces Exynos 2200 With AMD Ray Tracing GPU"
-    excerpt: "The Exynos 2200 with AMD ray tracing GPU promises to transform mobile gaming while forcing its competitors to up their game."
-    publishedDateTime: 2022-01-19T04:48:00Z
-    webUrl: "https://www.technowize.com/samsung-announces-exynos-2200-with-amd-ray-tracing-gpu/"
-    ampWebUrl: "https://www.technowize.com/samsung-announces-exynos-2200-with-amd-ray-tracing-gpu/amp/"
-    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/samsung-announces-exynos-2200-with-amd-ray-tracing-gpu/amp/"
-    type: article
-    provider:
-      name: Technowize
-      domain: technowize.com
-    quality: 59
-    images:
-      - url: "https://www.technowize.com/wp-content/uploads/2022/01/Samsung-Exynos-2200-processor.png"
-        width: 500
-        height: 500
         isCached: true
   - title: "Samsung unveils Exynos 2200 with Xclipse GPU, based on AMD RDNA2 architecture"
     excerpt: "Samsung introduced today the Exynos 2200 - its latest flagship chipset that will power the Galaxy S22 smartphones in certain regions. The new platform is built on the 4nm EUV process technology and comes with a custom-made GPU called Xclipse."
@@ -273,6 +273,6 @@ related:
       domain: finanztreff.de
     quality: 0
 
-secured: "NsX8qfc5dGIrRhypnniqMspSVUKwUPzpR5sS/NDsW3wrTiFYCNnZ+Zj1/hI+Orwyr00L8SQ4RasL5+lboG8eSkj+KZgtKEMNiEok36ip3CsB35ewrIf0ICDKQf9Q+ca+09q5/XPXO6Kgix7ndAkFS6BcvhkULwCOXg7TytnBMyT1a6zdh9Yz45d+fQCDV6jBH40LjdPuJwBXgzYvXIkGTB5r++Y9h6w4yZAECFDBLQWSzoaja98E760okvVVG01u0jPNC/Pc1tI+uHR1JKc9RMfNmzyWyfgMNgwzWj1W78tdGVvI1FzBAczAWSg5KdQzFQxdKUhrn47XqLOepOL6TdJ1zBtGPoq0J60pQMw/xbfS8QstnWhFN+86IJzDmnEqmbLwVvEg2AgV7JvLam0JNVaPRrYrmQHH475ucs6DPOeUmri3zFVj+2EhSKvCPhFMzU+ZT0nncXnyuJfIoQbJqi0sA4OojfBH+AUhgAdxC/xuI5jXjj86v+jVgxTbU7v6beNdAatGiNTdOsB7IhxA5w==;isONkhhD79vQm0b0PYyzJQ=="
+secured: "IeMZrmxjlF0xVavSf/lIvzEHlgd7wxAeOcPXs8lQBu3vw4pmn3y3rlnyZOIu8zHf7CBtJbyg/U+x86nXg4z7U5RishBbEAq5+DKARknRYLbFdRHd/EX3KZYh4a6gY2+98jjEl0YrP0Ie6I3RTYGl+RT3goaAt/+iHKzGIIUYPz/QamXg0le0fLLprtEoPc9OW13QQZ+29soIWAIidDp6WO88NuoongIV2JNKv7OzUDmmxIaVnTwBYhPvXqTp4iBJAN6GVeo7RKa4x6ZRkct2VCMQQoWhxyCzJi439auy6O1Y0FHJWiZaQcay4HhENdpQo/soUWS2yZwYlsVc5Z7dA7qc9jkTBMRjWjZhAVIueQs=;tMPkkrebf63LaJn8C6G/NQ=="
 ---
 

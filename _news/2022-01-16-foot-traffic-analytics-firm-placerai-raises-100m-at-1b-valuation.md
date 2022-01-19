@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How AI, data analytics could help identify insurance fraud"
-    excerpt: "New methods, using artificial intelligence, ease the fraud detection burden and help insurance companies stay one step ahead."
-    publishedDateTime: 2022-01-14T12:32:00Z
-    webUrl: "https://www.dig-in.com/opinion/ai-data-analytics-could-help-identify-insurance-fraud"
-    type: article
-    provider:
-      name: Digital Insurance
-      domain: dig-in.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/d15acc7/2147483647/strip/true/crop/3998x2099+0+229/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F09%2F4e%2F1615ed59434bbce101ea51ab318a%2F366275900.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "PINC AI™ Launches INsights, an Enhanced Technology Offering for Customized, On-Demand Healthcare Analytics"
     excerpt: "PINC AI™, the technology and services platform of Premier, Inc (NASDAQ: PINC), today launched INsights, an enhanced self-service healthcare solution for the creation of customized, on-demand analytics."
     publishedDateTime: 2022-01-18T13:13:00Z

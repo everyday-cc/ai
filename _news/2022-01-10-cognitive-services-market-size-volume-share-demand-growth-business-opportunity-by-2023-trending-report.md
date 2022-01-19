@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Cognitive Services Market-Size Volume, Share, Demand growth, Business Opportunity by-2023 (Trending Report)"
-excerpt: "... of the key players offering cognitive services and Platforms-as Service (PaaS). The major cognitive service vendors include IBM (US), Microsoft (US), AWS (US), Google (US), TCS (India), Baidu ..."
-publishedDateTime: 2022-01-10T12:45:00Z
-originalUrl: "https://menafn.com/1103514261/Cognitive-Services-Market-Size-Volume-Share-Demand-growth-Business-Opportunity-by-2023-Trending-Report"
-webUrl: "https://menafn.com/1103514261/Cognitive-Services-Market-Size-Volume-Share-Demand-growth-Business-Opportunity-by-2023-Trending-Report"
+excerpt: "The MarketWatch News Department was not involved in the creation of this content. Japan, Japan, Mon, 10 Jan 2022 06:36:43 / Comserve Inc. / -- MarketsandMarkets expects the global cognitive ..."
+publishedDateTime: 2022-01-10T00:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-size-volume-share-demand-growth-business-opportunity-by-2023-trending-report-2022-01-10"
+webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-size-volume-share-demand-growth-business-opportunity-by-2023-trending-report-2022-01-10"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?421280"
-    width: 443
-    height: 250
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "yIWRCjZfBhEDGqYRYG1nKPrpJ3T2/mrx2f7noyQcw6VWq4psDBr+GfwbtQT0ldniGHsLij2PoH5fuXkLhNmL491mUmE2DCAXE7DpUysDUNZsKpUU7ikcvYWs4N/stEdJ1C4KC2wK/7MAqMJcyp9NkJQZqaKwc/JUFKLmT8V38ozzF3tjCdhHLtJ/NUmdkH2IpcAxjFWrW1Fg4dtrOZnxwmFWK6aYqaxhFKhZRjqh6R/UV80X0pp+9Yr71ssZnbsdos8gGEVM5h6FiVhLOGEuZzel6U9o+PJyQhyoKQm1XYyCvQ8KMxuVK5qFx3TQ+AUqC7mvrri70cAXuAlaad7/GLWH782hhytNdlYJNwIDzoQ=;TfNo73XlCoPl6ciCwfzJDg=="
+secured: "xEHWJqChv3ssFW/QMARwfGUlLLNfzWtJajS7NmxfjBS2QtV+COA1mq4FcGGb2aJmAZH3Il3CZwQeaeAX5YFjmjYl8rot6I72+25LyW5v4U+Sfy9TbY9od+s1klQUwpUF6xFwOWZY40dGTQ2Nm+wTONtpgn+6ZUSiUHSfBg9J82agGWYhFEQKSfFLx46zvstT8RFv0zUVNrRHszjJLMuENqbeNxlivkpw7X1Gf6wUtO7Pmo5CDDedruIgb7JiD40RG8MO//f1+ipJT/TkAIBg8qeVqqh8krISvzSXJQsXQKJYXa+vwaWy6HFmoJ+yVBckmh3qf1erI7rTK4BxCxJ3xAslE+DEkCubmOVusH/g1D0=;a1h46v/RPDyr/IsqYmTF9w=="
 ---
 

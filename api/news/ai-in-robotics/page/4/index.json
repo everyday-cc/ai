@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-12-27-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report.md",
-      "title": "HAI ROBOTICS Celebrates 5th Anniversary, Gets AI Unicorn Nomination by Hurun Report",
-      "excerpt": "In the past five years, the company secured strong footholds in factories and warehouses with its ACR solution. It was named a global unicorn in the AI sector by Hurun's index of global unicorn this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
-      "originalUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/8115abd3-6755-4174-881a-6e904d3144cf.jpeg?height=635&t=1640621986&width=1200",
-          "width": 600,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-12-27-a-desert-robot-depicts-ais-vast-opportunities.md",
       "title": "A desert robot depicts AI’s vast opportunities",
       "excerpt": "The next chapter in AI development will be defined by two trends: increased accessibility and increased technical maturity.",
@@ -1329,6 +1286,58 @@
         "name": "Nanowerk",
         "domain": "nanowerk.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-motherandroid-review-what-to-expect-when-youre-expecting-during-a-robot-uprising.md",
+      "title": "‘Mother/Android’ Review: What to Expect When You’re Expecting During a Robot Uprising",
+      "excerpt": "A young couple with a baby on the way tries to flee to safety after androids have gone rogue and decided to wipe out the human race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
+      "originalUrl": "https://www.wsj.com/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-452886/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
+      "publishedDateTime": "2021-12-16T13:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

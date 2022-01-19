@@ -1,10 +1,12 @@
 ---
 category: news
 title: "Veriff joins AWS Partner Network"
-excerpt: "Veriff, a global identity verification (IDV) provider announced that it has joined the Amazon Web Services (AWS) Partner Network (APN). By joining the APN as an AWS Advanced Technology Partner,"
-publishedDateTime: 2022-01-06T12:46:00Z
-originalUrl: "https://www.sourcesecurity.com/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html"
-webUrl: "https://www.sourcesecurity.com/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html"
+excerpt: "By joining the APN as an AWS Advanced Technology Partner ... What will be the biggest security trends in 2021? “2021 will see artificial intelligence (AI) become more mainstream. There will be increased deployment in edge devices, including cameras ..."
+publishedDateTime: 2022-01-06T12:45:00Z
+originalUrl: "https://www.sourcesecurity.com/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html?ref=nav"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "aOx18D2j5ZKSWIRId1pWcFF5SSjUE+jJfwJY2944eXrsR9gHnoC4DfSPLg8jenUDrLfpBJplW7UjjLZhWfkk3e+bEI7hXaxsRUsjDFLx+Xy/vQtivYmnFrmVbfVxJJJtFZTZLJy1LBBhcgIEGGmv46wY6WFJFZWk1h3WLMvrF1nPFBcp/cFUPyInYsEhiJNoHCI568m/BCGg3VT9nUl4Zo8EcHuxK87gyAoLCqi8PV468yACvezw2MleeOebOfG5kT35uqnyeDKUszJt164lc0Nj6duBOdsC1sQEU0egZ9XYgvhku3NdkQIQ1rhqew5dcQLsrXPW2cu1dKhPzpFWfH90UdLYsGF8Pn6Fw2pkMNVEix06q5oAZlJ16sa9YS4vpmTIQY2+VLoLoQK5UMoMlReiSAOMl+EIhkVhtp7Sxbwl+XQyFpMEs3XSPCx/OHSVHBngA8ee7M92F5PHGmvxFkjkkAnlmvNxJJ19PC/lqpjy1d+5+Qxitpmvk02DyHxwDociLvDii4RetUblMqlFbw==;Rld1IHihecvxlDkOmDWsbQ=="
+images:
+  - url: "https://security-img.scdn6.secure.raxcdn.com/img/news/612/robo-shadow-cyber-security-platform-software-reporting-devices-920x533.jpg"
+    width: 612
+    height: 355
+    isCached: true
+
+secured: "5QeF+6h+G6l+ltAINGKnMw1dCv0NlbHnchbpKdGg4ChSoJd8RAun+k0rT0I36ZbWbV+qbOcniNnbR/Cn1592AtoRlG+Jec4tRBVmkMf+h+RPx4dEILwL1OaCypn0sjdEXHgBn0o/cKFHW0jkfZjsJ6rMJ4M2z6q2ZaEFISMsnMjA54qyCaMqS32mQUfin55SOOjj5Oh3N3WCv+6cWgPX6/qvNadv+cY69qFQMKDztL4dBq7ONsokLkFcJxJKaUlQQctOzsDjfrMMm5GIaSjxKjm2GKsi77+R0vvDqyJwFag6jAPWyYKrTo0MpT9vED7cIn4IXnBbyDQ3t8psXi0KgHPpW5DSE1RwJc7Ds76tR1A=;7URyKrZLKiDBTEdO/cnS4Q=="
 ---
 
