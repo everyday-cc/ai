@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20194719.html"
 webUrl: "https://www.lelezard.com/en/news-20194719.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "Celebal Technologies has earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
+    excerpt: "Celebal Technologies, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep knowledge, extensive experience an"
+    publishedDateTime: 2022-01-19T01:48:00Z
+    webUrl: "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/"
+    ampWebUrl: "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 75
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
 
 secured: "8QNCCZjmHO/m7tC1zFft7JnbyetsLQVAH0IjWqMOit4NONuDCR8P2xthqIyLcCUAfu+GYbfVo5VlKwnIcIwJxm25uZgPtql0wrjPcaiDZJBrOH5rmV7H3dgsL/Y42dVzw9XRdJ3sWuC1hRS3jpoPPo24VEXj4Yz5SQWMApqrqUK62zxpKfW6sZsJ+q9mAbk3wF8o8xw4oXCXbipsFvDDyDHLPxONF4m+7qcaSQlHR4spr1DYOPz7THvdRBXCmR8LZpA6sFaqOdnhuS/S6ylZuGOGusXe2hc8YL3x9TiF4oHa0uOkx6Owv5SsiYqKq8Y24XEF7Qt+2O5+WFzyAuU1DX0PC86S5ht+PSAy3C6y/MGvzmux3NZOoouFdQRxpwE+/YhjkU7zVRaBLCQ1yQkFTgIbfobTUS9UT4PSUNWT97Nm0MC0XOwPAeZWF1EzSoaUiKYSKgjCV/RpAtC8MSwXc2P8JFeyTfOstX8Oh8mkyf2N3E7oCAwGpGakFxX5RsGNoMqbBxCySShqdiX5/T7wTQ==;y9c7KrctAHQnKuZTKScY9Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_278890775/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_278890775/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Cloud is The Booster Shot For Fintech?"
+    excerpt: "Home » Cybersecurity » Cloud Security » Why Cloud is The Booster Shot For Fintech? Fintech and cloud technology is a match made in heaven! What’s your say on this? Well, that’s true. It’s evident that cloud native services have turned into the new normal in the financial sector."
+    publishedDateTime: 2022-01-19T05:56:00Z
+    webUrl: "https://securityboulevard.com/2022/01/why-cloud-is-the-booster-shot-for-fintech/"
+    ampWebUrl: "https://securityboulevard.com/2022/01/why-cloud-is-the-booster-shot-for-fintech/amp/"
+    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/01/why-cloud-is-the-booster-shot-for-fintech/amp/"
+    type: article
+    provider:
+      name: securityboulevard.com
+      domain: securityboulevard.com
+    quality: 44
+    images:
+      - url: "https://peoplactive.com/wp-content/uploads/2022/01/58-cloud-fintech_inner_01-1024x451.jpg"
+        width: 1024
+        height: 451
+        isCached: true
   - title: "Padar Joins VC-Backed Tax Fintech for Banks"
     excerpt: "April Tax Solutions targets banks and financial institutions. Jody Padar, CPA, also known as “The Radical CPA,” has exited Botkeeper after three years and joined April"
     publishedDateTime: 2022-01-18T14:59:00Z

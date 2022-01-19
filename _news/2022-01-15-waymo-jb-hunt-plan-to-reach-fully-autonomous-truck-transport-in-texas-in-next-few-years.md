@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/business/technology/2022/01/14/waymo-jb-h
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2022/01/14/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years/?outputType=amp"
 type: article
 quality: 148
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Waymo Lands Big Deal with J.B. Hunt for Self Driving Truck Tech"
-    excerpt: "J.B. Hunt Transport Services Inc. announced a long-term, strategic alliance with Waymo Via as the two companies expand efforts to integrate commercial autonomous driving technology in transportation and logistics."
-    publishedDateTime: 2022-01-14T17:02:00Z
-    webUrl: "https://www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech"
-    ampWebUrl: "https://www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech/amp"
-    cdnAmpWebUrl: "https://www-swfinstitute-org.cdn.ampproject.org/c/s/www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech/amp"
-    type: article
-    provider:
-      name: Sovereign Wealth Fund Institute
-      domain: swfinstitute.org
-    quality: 54
 
 secured: "y+E1vO4byGdszLoYTGBOl8YHSvjpTYOXU+W58Us0HiXG7gx311pZl9zpXVRX1Pu6vFfl449jeMDEREe8XU4FmkblRx5QCJnEVpdOpqZptkk+RAP48wR1Y4+SowCWWulrEdEbpvofWp+bJwFkl0hun/yzbxKsnuBCKTEMeDxPRlJ4raUKOgppVIXdZ2B4SrDd1Z8qQJwz3koURfTC9S+nCOC3vG2dVRuT0uv2NP+VU/hX3ZPB2YWqhc5OyZq7Yv660Ed9SeN2cwfeV2O/B8ZMyGAVKcxsFeHDGTvz3DqB3m2NBb/YoniV1dn/q/MfWVRvqomGGMc1uzOvX0yDdJtTgAxwFF4RmTYdDMN+Tqv8aFs=;xl8jBWQ6zJSkoYN/N9spWQ=="
 ---

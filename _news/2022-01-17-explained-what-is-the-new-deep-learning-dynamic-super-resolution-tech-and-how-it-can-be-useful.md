@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/explained-what-is-the-new-de
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/explained-what-is-the-new-deep-learning-dynamic-super-resolution-tech-and-how-it-can-be-useful/amp_articleshow/88957507.cms"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: India Times
@@ -25,22 +25,6 @@ images:
     width: 1069
     height: 580
     isCached: true
-
-related:
-  - title: "Nvidia’s Deep Learning Dynamic Super Resolution tech is out now – here’s how to enable it"
-    excerpt: "Nvidia's DLDSR, which downsamples games for higher detail at a lower performance cost, is now available on GeForce RTX GPUs via driver update."
-    publishedDateTime: 2022-01-14T16:39:00Z
-    webUrl: "https://www.rockpapershotgun.com/nvidias-deep-learning-dynamic-super-resolution-tech-is-out-now-heres-how-to-enable-it"
-    type: article
-    provider:
-      name: Rock, Paper, Shotgun
-      domain: rockpapershotgun.com
-    quality: 30
-    images:
-      - url: "https://assets2.rockpapershotgun.com/god-of-war-world-serpent.png/BROK/thumbnail/1600x900/format/jpg/quality/80/god-of-war-world-serpent.png"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "9Maw+KJ7DzTy8cY+ZouMVCjLub8bQz4JncSCh1E32SovPqFMoVgWm+wm1ThalsZpKdKcyuNPfQkhAyGYPttqjVkq88JuLcwgYEQKm/DGWao+/cYa0OYdkx9vjP5OhfqFgaicykxSEojOsLyexDjgF6+UP6VJKs/lcJ3K0vSDXjxJhqMj+VUADrTJyLlSXwgrYEi3LE0vbPBUzHeNwP5JKRO4izg14okW1hMzb3ohSIx27SaXX2QMR7c985Y8YqKv7PZlOhPgPInSqf4kTadh/QAMhbsE9Asc2RqAaNx/Fv4AJ4r2vnVoXwF3KK5gwMFj0k/2WOqm6z/4G622/yx3QZ+nT4hQe0uaf0ctVPxS3kbMgW6IqTLW9+7duGsZ0BWInFwCt/vyUP/q+paLX38HJUnJLXcAzZdbPSM57uL4jCsv4s7MMAh6hKKdqMAUQM/aWVEqpnTAHSJw85/XCZXZxlAqz8ApnTfmvNsLOjNJmFXAWcY+8yemyNqbAJzkSKSGIOkED4uNh4lHZR03ajha9Q==;f3M7wlg4rVahkbQj0RFdwg=="
 ---

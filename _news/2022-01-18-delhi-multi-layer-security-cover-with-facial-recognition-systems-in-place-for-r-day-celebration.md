@@ -164,6 +164,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Delhi Police deploys facial recognition systems, CCTV cameras ahead of Republic Day: Report"
+    excerpt: "Facial recognition systems, along with 300 CCTV cameras have been installed in and around Rajpath ahead of the Republic Day parade."
+    publishedDateTime: 2022-01-19T07:29:00Z
+    webUrl: "https://www.medianama.com/2022/01/223-facial-recognition-systems-republic-day-report/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 29
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/06/frank-busch-ChDWtI3N9w4-unsplash-scaled-e1642576790250.jpg"
+        width: 1280
+        height: 854
+        isCached: true
 
 secured: "+R+bsogz054OLBDUs5GHujMNPANVoEb6ve4gz0AE0llfxrRgerjDG+RNZJ4iPK3NVLElSg/KQo5VcArcelHZ8jfGVrgKHOaf1H5btZgSaA4TA/I578y1XZnu3bGFpfvO31GKtIBCwd74VQA3jVjM3UxFNew/G3B4JOnCuQPFodR/tx8o5WiE6wxFRajUXbQU5gyHkXTWQjCr+5MLraFICZb1Qb0yJ+Ppyj/OaSijUv7diGr1I8TO2ojGfZRN8YGIdsLlJ9QYBn+x8NiQdSXxPgzNOQuUszbfQtXrUAr6VIhON5d98zR73mmxkLLLD0P5axOJF0FmmmapL6l37P0hjJgd5U1mpRNFU4MmMkRNG9w=;r3sGtN859ysQYpXIGXNmtg=="
 ---

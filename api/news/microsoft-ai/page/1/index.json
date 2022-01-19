@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-19-celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
+      "title": "Celebal Technologies has earned the Al and Machine Learning on Microsoft Azure Advanced Specialization",
+      "excerpt": "Celebal Technologies, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep knowledge, extensive experience an",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
+      "originalUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
+      "publishedDateTime": "2022-01-18T17:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-microsofts-splurge-on-activision-blizzard-could-mainstream-the-metaverse.md",
+      "title": "Microsoft’s splurge on Activision Blizzard could mainstream the metaverse",
+      "excerpt": "Microsoft's bet on Activision Blizzard shows gaming's preeminence in the metaverse. The competition with Meta is heating up",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/microsoft-activision-blizzard-deal-could-mainstream-the-metaverse",
+      "originalUrl": "https://thenextweb.com/news/microsoft-activision-blizzard-deal-could-mainstream-the-metaverse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FUntitled-design-6.jpg&signature=49ef55fd584b0e2dea7f14ce1d2d3327",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-ai-is-the-key-to-fixing-identity-security-forgerock-ceo-says.md",
       "title": "AI is the key to fixing identity security, ForgeRock CEO says",
       "excerpt": "ForgeRock CEO Fran Rosch says the company's zero trust approach to identity security is driven by advanced AI algorithms.",
@@ -55,58 +151,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-18-walgreens-moves-to-ai-driven-search-experience-with-algolia.md",
-      "title": "Walgreens moves to AI-driven search experience with Algolia",
-      "excerpt": "The companies hope to provide an AI-driven solution that analyzes users' search terms, predict their intent, and deliver more search results.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/",
-      "originalUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/Walgreens_store-e1621433287338.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/amp/",
-      "publishedDateTime": "2022-01-17T19:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-18-microsoft-forms-new-coalition-for-ai-in-healthcare.md",
       "title": "Microsoft forms new coalition for AI in healthcare",
       "excerpt": "Microsoft has created the Artificial Intelligence Industry Innovation Coalition (AI3C) to drive the use of artificial intelligence (AI) in healthcare by providing recommendations, tools and best practices.",
@@ -115,7 +159,7 @@
       "originalUrl": "https://www.healthleadersmedia.com/technology/microsoft-forms-new-coalition-ai-healthcare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 261,
+      "heat": 251,
       "tags": null,
       "images": [
         {
@@ -1176,49 +1220,6 @@
       "provider": {
         "name": "Analytics India Magazine",
         "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-09-5-best-ai-stocks-for-2022.md",
-      "title": "5 Best AI Stocks for 2022",
-      "excerpt": "Software giant Microsoft Corporation (NASDAQ:MSFT) is one of the best AI stocks for 2022, as the Washington-based company continues to grow its AI and cloud computing platform, Azure. Morgan Stanley analyst Keith Weiss is bullish on Microsoft Corporation (NASDAQ:MSFT),",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
-          "width": 1920,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-08T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
         "images": null,
         "publishers": null,
         "authors": null

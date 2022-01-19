@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103543067/UAE-Nobel-Laureates-to-discuss-the-f
 webUrl: "https://menafn.com/1103543067/UAE-Nobel-Laureates-to-discuss-the-future-of-science-at-Vietnams-VinFuture-Award-Week"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 370
     height: 250
     isCached: true
-
-related:
-  - title: "Nobel Laureates to discuss the future of science at Vietnam’s VinFuture Award Week"
-    excerpt: "HANOI, VIETNAM - Media OutReach - 14 January 2022 - As part of the VinFuture Award Week (Jan 18 – 21, in Hanoi), the “Science for Life” Symposium will see some of humanity’s greatest thinkers give detailed predictions about the future of mankind."
-    publishedDateTime: 2022-01-14T15:05:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/coronavirus-pandemic-science-technology-health-artificial-intelligence-60a97878009753f09172dc51eaebc8b0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "MFLrTDZHQk/vK8RuOKsZTO0XpjEdTttNd07C8CaWzUee2/qcmG9i6eA/axY7gjbxRQpg/KQJHDKCpDriCNAtCnEZXcSRqB3gaQDNv7P/ut56pCfiqE78QwwEt4rPbUwgwSiCgX/PVYY/CeLG+MIN2ljwMoF9jWWinkmyhtaOUxrEErV7reZT7x7zzmHTz07cO/oPK3J/LJYsvIhLhm323EK2bU+kN6+8UoVzfGeSb7zyNoJwI4M6GJoTVhNEbwjo1CMheBf6qgMzVaI2z9RJW/8Lbi1Ionh43n2+XrZkavCisxR5en+ZBTgg7BUszOXvWk06ZuBJnEq/IOJ5zH8ppGcnhJkqh7M5mL2LbIiV4Gk=;YKtj+bQrWOHrt1EdOc7W1A=="
 ---

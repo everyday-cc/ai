@@ -114,7 +114,7 @@
       "originalUrl": "https://www.msn.com/en-us/autos/news/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-e2-80-98next-few-years-e2-80-99/ar-AASMRBt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -530,6 +530,41 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantitative-analysis-forecast-up-to-2030.md",
+      "title": "Artificial Intelligence in Military Market: Revenue Growth, Key Players, Qualitative Analysis, Quantitative Analysis, Forecast up to 2030",
+      "excerpt": "The artificial intelligence in military market is projected to grow from USD 6.26 billion in 2017 to USD 18.82 billion by 2025, at a CAGR of 14.75% during the forecast period. \"Increasing investments to develop AI integrated systems and rising adoption of cloud-based applications are key factors driving the growth of the artificial intelligence in military market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/25030379/artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantita",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/25030379/artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantita",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25030379",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25030379",
+      "publishedDateTime": "2022-01-12T15:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1381,49 +1416,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous.md",
-      "title": "New controversy in making? Tesla wants only cameras, AI to go fully autonomous",
-      "excerpt": "Tesla chief Elon Musk has shared that the EV company will make a system based on cameras and artificial intelligence to attain full autonomy in driving.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/01/07/600x338/2021-tesla-model-x_1621055198406_1641538769141.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html",
-      "publishedDateTime": "2022-01-07T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

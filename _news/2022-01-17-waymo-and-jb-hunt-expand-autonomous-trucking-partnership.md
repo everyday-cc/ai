@@ -47,17 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Waymo Lands Big Deal with J.B. Hunt for Self Driving Truck Tech"
-    excerpt: "J.B. Hunt Transport Services Inc. announced a long-term, strategic alliance with Waymo Via as the two companies expand efforts to integrate commercial autonomous driving technology in transportation and logistics."
-    publishedDateTime: 2022-01-14T17:02:00Z
-    webUrl: "https://www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech"
-    ampWebUrl: "https://www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech/amp"
-    cdnAmpWebUrl: "https://www-swfinstitute-org.cdn.ampproject.org/c/s/www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech/amp"
-    type: article
-    provider:
-      name: Sovereign Wealth Fund Institute
-      domain: swfinstitute.org
-    quality: 54
 
 secured: "/x0XMPTgKrR+EerPM4DTkHpx2CINWoW/6S75W+v3GP2SiFPlBMBPdrxj3IyMA9weLKj/jJKvbtyacUZPxKLHNlzwj40CkSHhX/T2ah7f2y3a4Mcb7cxUnFsvsWMD3mURm3x6MjdDivg/nBZzyYA5mreIK7NuymHu2Bl/nialgz7eikjWRwxrs4r+n3ZIB6VDNWQZCoc6kBkAvrIQ044cY6imLa81QEZJY8SjmKC8S/A7JpOOMtBFF6V3B39RRapRwaqh1P6yA1enP/r60dNMQDwr3RER4ImQo9VgiUKylL4hCcr7FNRv2kZGuEbZuSSFlNUc+3TKhFxiX9WXZSprhslQPNdYhJTRl6d6awPXu04=;hPTvo74Y4Ey5Oj30wDpZ3g=="
 ---

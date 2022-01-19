@@ -56,20 +56,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Cleveland Clinic, Microsoft among organizations in new healthcare AI coalition"
-    excerpt: "Microsoft said the Artificial Intelligence Industry Innovation Coalition aims to accelerate the adoption of AI in healthcare. It plans to do so through showcasing new technologies, educating the industry on AI best practices and use cases,"
-    publishedDateTime: 2022-01-14T16:22:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/cleveland-clinic-microsoft-among-organizations-in-new-healthcare-ai-coalition.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 67
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "How Microsoft just got into LiDAR Free Self-Driving AI"
     excerpt: "When I was doing my research on the AV sector, one startup stood out to me as working significantly on Deep learning of autonomous vehicles and that company was Wayve. So when I woke up this morning and found Microsoft has invested heavily in them,"
     publishedDateTime: 2022-01-18T13:32:00Z

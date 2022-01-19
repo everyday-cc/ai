@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Foot Traffic Analytics Firm Placer.ai Raises $100M At $1B Valuation"
-excerpt: "Israeli-founded firm Placer.ai provides analysis about foot traffic in retail centers, theme parks, stadiums, and other areas."
-publishedDateTime: 2022-01-16T00:01:00Z
-originalUrl: "https://nocamels.com/2022/01/foot-placer-ai-analytics-retail/"
-webUrl: "https://nocamels.com/2022/01/foot-placer-ai-analytics-retail/"
+title: "Rackspace grows Asia Pacific presence with Just Analytics acquisition"
+excerpt: "Rackspace plans to leverage Just Analytics to help build out its data and Microsoft Azure roadmap in the region."
+publishedDateTime: 2022-01-19T01:03:00Z
+originalUrl: "https://www.zdnet.com/article/rackspace-grows-asia-pacific-presence-with-just-analytics-acquisition/"
+webUrl: "https://www.zdnet.com/article/rackspace-grows-asia-pacific-presence-with-just-analytics-acquisition/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/rackspace-grows-asia-pacific-presence-with-just-analytics-acquisition/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rackspace-grows-asia-pacific-presence-with-just-analytics-acquisition/"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: NoCamels - Israeli Innovation News
-  domain: nocamels.com
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/01/high-grass-ge20682a07_1280.jpg"
-    width: 1280
-    height: 853
-    isCached: true
 
 related:
   - title: "What to expect for data prep and data analytics in 2022"
@@ -70,17 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Rackspace grows Asia Pacific presence with Just Analytics acquisition"
-    excerpt: "Rackspace plans to leverage Just Analytics to help build out its data and Microsoft Azure roadmap in the region."
-    publishedDateTime: 2022-01-19T01:03:00Z
-    webUrl: "https://www.zdnet.com/article/rackspace-grows-asia-pacific-presence-with-just-analytics-acquisition/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/rackspace-grows-asia-pacific-presence-with-just-analytics-acquisition/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rackspace-grows-asia-pacific-presence-with-just-analytics-acquisition/"
+  - title: "Foot Traffic Analytics Firm Placer.ai Raises $100M At $1B Valuation"
+    excerpt: "Israeli-founded firm Placer.ai provides analysis about foot traffic in retail centers, theme parks, stadiums, and other areas."
+    publishedDateTime: 2022-01-16T00:01:00Z
+    webUrl: "https://nocamels.com/2022/01/foot-placer-ai-analytics-retail/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/01/high-grass-ge20682a07_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "PINC AI™ Launches INsights, an Enhanced Technology Offering for Customized, On-Demand Healthcare Analytics"
     excerpt: "PINC AI™, the technology and services platform of Premier, Inc (NASDAQ: PINC), today launched INsights, an enhanced self-service healthcare solution for the creation of customized, on-demand analytics."
     publishedDateTime: 2022-01-18T13:13:00Z
@@ -114,6 +118,6 @@ related:
       domain: dgap.de
     quality: 0
 
-secured: "zrL790rZpZdtjCfuX7k7V+xJ0lwex/JlPsSuFh9keK0Rm0Zm6ZKJT7WaAwYdIc4AlVtQ0SQYws0j2rnVGx2xI880RPuRmgWf/8uI++/zPrVJj9oEedNvOxfcdtdwhf+4Knr7Y9RACqyw+tLNtp7kWXz6InpWRxrYB09hxYI1TL7jqui4Z1D0bH7cYQnABH5cCpZAFhNOEw5bZqOsBgyljlM2yYhqL9tqICS3SWVoi781l3bxrRJtVoZn7AZzgPKrA27IYVd8ariT/1ngsu9OH1ypdp5IJBqJR8H6jfZM75qvb5Oj7Qx5Xf+9og50FrSS+IC7/6rxs9IfN8+Sz4BedFw0ysVCkrTkZxjH8AbvHRbRjbUGZxi0eDrVoRwr7cNO5U1IwwQauTsP6DpB50Pzt4W8+jUubWKpUl3hp4ZfyDYBJzUdP8oHtFVimSB2p5g6gxVkIOADvEXF9BMcixeAWlJtF/Z7z0HoYgtKGF5Ycq03CmJuBie/H1/SoIfYbW8dMGgn6VZdHRRQsK8c1uUlfw==;1ZlG7ORnnMDrfDe5S5rsbw=="
+secured: "BHOk/ss1wglTmhDr2sk6AJZU7z0rQs+Ih79i6yro1PgHtCa+mnOrhram2jOwRjxEuBqeq2q/qTeVHeUAIS7IIrOeropsVQXwLunK2ZQmDJ5ViwjGribmZTpSsIxU7xWB+5Zvwbx6CkQS9fYplBK0ySSj2kblj9vl1+ymY0Xw14PXODG5tJ+ZD0axjvFeOFOqkDt76EGqvOsdtYOEq86C5iqMjM/5ReAaAEVTEvqdf3pM6GEaquICLSL5h03RXFPg1iQshyP8lIi/tjan7r3Lo3MWlBcKs5tGH16+NDCzyJljYIK0Ukt46sSlD/qvUgnAbheP7zIq/gjyaOFr2rNHZsnjy8baVJIJhz+irQZzyig=;++xtF8SUnEOMxF8iCvQGQQ=="
 ---
 

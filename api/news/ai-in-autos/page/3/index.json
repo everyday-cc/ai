@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-31-autonomous-car-developers-lobby-to-defang-safety-data-regulations.md",
+      "title": "Autonomous car developers lobby to defang safety data regulations",
+      "excerpt": "They collect user data for their own ends, but when it comes to allowing crash data to be used to improve safety, these companies push for less transparency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/autonomous-car-developers-lobby-defang-130037856.html",
+      "originalUrl": "https://www.aol.com/news/autonomous-car-developers-lobby-defang-130037856.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/pZO11xkcYPIQRQKW9S3Yjw--~B/aD00OTk7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/1f2a5350a0516b213da3605401b63478",
+          "width": 840,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-crashing-the-self-driving-party-of-tesla-co.md",
       "title": "Crashing The Self-Driving Party Of Tesla & Co.",
       "excerpt": "Self-driving cars — and their hands-free precursors from the likes of Tesla, Cadillac, Audi, and Ford — may be barreling towards an obstacle that they can all see and can’t avoid: the courtroom.",
@@ -1302,49 +1345,6 @@
       "provider": {
         "name": "TechNode",
         "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-waymo-adds-750-million-to-war-chest-as-driverless-cars-prove-tough-to-deploy.md",
-      "title": "Waymo Adds $750 Million to War Chest as Driverless Cars Prove Tough to Deploy",
-      "excerpt": "In the world of driverless cars, the big keep getting ... are going to big companies rather than unproven startups as the artificial intelligence technology has proven harder to deploy than ...",
-      "sourceUrl": null,
-      "webUrl": "https://br.advfn.com/noticias/DJN/2020/artigo/82437841",
-      "originalUrl": "https://br.advfn.com/noticias/DJN/2020/artigo/82437841",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:GOOG&p=5&t=52",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ADVFN",
-        "domain": "advfn.com",
         "images": null,
         "publishers": null,
         "authors": null

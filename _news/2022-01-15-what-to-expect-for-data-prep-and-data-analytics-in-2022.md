@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -61,6 +61,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rackspace grows Asia Pacific presence with Just Analytics acquisition"
+    excerpt: "Rackspace plans to leverage Just Analytics to help build out its data and Microsoft Azure roadmap in the region."
+    publishedDateTime: 2022-01-19T01:03:00Z
+    webUrl: "https://www.zdnet.com/article/rackspace-grows-asia-pacific-presence-with-just-analytics-acquisition/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/rackspace-grows-asia-pacific-presence-with-just-analytics-acquisition/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rackspace-grows-asia-pacific-presence-with-just-analytics-acquisition/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 54
   - title: "Foot Traffic Analytics Firm Placer.ai Raises $100M At $1B Valuation"
     excerpt: "Israeli-founded firm Placer.ai provides analysis about foot traffic in retail centers, theme parks, stadiums, and other areas."
     publishedDateTime: 2022-01-16T00:01:00Z

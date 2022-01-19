@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why Cloud is The Booster Shot For Fintech?"
+    excerpt: "Home » Cybersecurity » Cloud Security » Why Cloud is The Booster Shot For Fintech? Fintech and cloud technology is a match made in heaven! What’s your say on this? Well, that’s true. It’s evident that cloud native services have turned into the new normal in the financial sector."
+    publishedDateTime: 2022-01-19T05:56:00Z
+    webUrl: "https://securityboulevard.com/2022/01/why-cloud-is-the-booster-shot-for-fintech/"
+    ampWebUrl: "https://securityboulevard.com/2022/01/why-cloud-is-the-booster-shot-for-fintech/amp/"
+    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/01/why-cloud-is-the-booster-shot-for-fintech/amp/"
+    type: article
+    provider:
+      name: securityboulevard.com
+      domain: securityboulevard.com
+    quality: 44
+    images:
+      - url: "https://peoplactive.com/wp-content/uploads/2022/01/58-cloud-fintech_inner_01-1024x451.jpg"
+        width: 1024
+        height: 451
+        isCached: true
   - title: "Startup of the Week: Saudi fintech joins battle for US retail investors"
     excerpt: "RIYADH: Saudi entrepreneur Nezar Bakhsh has joined the battle for US retail investors after launching a financial technology startup that sells stock trading advice to traders. His Quant Alpha platform offers artificial intelligence-powered software for investors,"
     publishedDateTime: 2022-01-18T10:09:00Z

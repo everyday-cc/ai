@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-18-can-ai-save-amateur-soccer-from-referee-shortage.md",
+      "title": "Can AI save amateur soccer from referee shortage?",
+      "excerpt": "My wife plays in a women's soccer league and the games tend to get pretty competitive. Good thing, then, that the league provides two referees for each game (and, um, maybe bad thing for my wife that those refs come packing yellow cards).",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/can-ai-save-amateur-soccer-from-referee-shortage/",
+      "originalUrl": "https://www.zdnet.com/article/can-ai-save-amateur-soccer-from-referee-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f905ea0290004535eb3e1a5d8e6ed7aca87f9334/2020/07/23/90dee06e-f14f-45e8-a6af-92e7fed8e37d/istock-1064106248.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-ai-save-amateur-soccer-from-referee-shortage/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-save-amateur-soccer-from-referee-shortage/",
+      "publishedDateTime": "2022-01-18T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-now-you-can-rent-a-robot-workerfor-less-than-paying-a-human.md",
+      "title": "Now You Can Rent a Robot Worker—for Less Than Paying a Human",
+      "excerpt": "The robot arm performs a simple, repetitive job: lifting a piece of metal into a press, which then bends the metal into a new shape. And like a person, the robot worker gets paid for the hours it works.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/rent-robot-worker-less-paying-human/",
+      "originalUrl": "https://www.wired.com/story/rent-robot-worker-less-paying-human/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61e1db9a844ec857b71382b4/master/pass/Biz_GN_4.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/rent-robot-worker-less-paying-human/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rent-robot-worker-less-paying-human/amp",
+      "publishedDateTime": "2022-01-18T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-two-self-driving-shuttle-companies-fail-in-one-week-what-does-it-bode.md",
       "title": "Two Self-Driving Shuttle Companies Fail In One Week. What Does It Bode?",
       "excerpt": "Optimus Ride and Olli, two self-driving shuttle companies failed last week. The self-driving shuttle may not be that good an idea right now, but it has the chance to be the core future of public transportation.",
@@ -493,58 +596,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-18-walgreens-moves-to-ai-driven-search-experience-with-algolia.md",
-      "title": "Walgreens moves to AI-driven search experience with Algolia",
-      "excerpt": "The companies hope to provide an AI-driven solution that analyzes users' search terms, predict their intent, and deliver more search results.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/",
-      "originalUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/Walgreens_store-e1621433287338.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/amp/",
-      "publishedDateTime": "2022-01-17T19:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-18-multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration.md",
       "title": "Multi-layer security cover with facial recognition systems in place for R-Day celebration",
       "excerpt": "After the improvised explosive device (IED) was found at Ghazipur Flower Market ahead of the Republic Day and later diffused, the Delhi Police have fortified areas in and around Rajpath with multi-layer security cover,",
@@ -553,7 +604,7 @@
       "originalUrl": "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -701,7 +752,7 @@
       "originalUrl": "https://www.healthleadersmedia.com/technology/microsoft-forms-new-coalition-ai-healthcare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 261,
+      "heat": 251,
       "tags": null,
       "images": [
         {
@@ -862,49 +913,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-explained-what-is-the-new-deep-learning-dynamic-super-resolution-tech-and-how-it-can-be-useful.md",
-      "title": "Explained: What is the new Deep Learning Dynamic Super Resolution tech and how it can be useful",
-      "excerpt": "If the game supports 4K, DSR renders that game at a higher more detailed resolution and again shrinks the result down to the resolution that your moni",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/explained-what-is-the-new-deep-learning-dynamic-super-resolution-tech-and-how-it-can-be-useful/articleshow/88957507.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/explained-what-is-the-new-deep-learning-dynamic-super-resolution-tech-and-how-it-can-be-useful/articleshow/88957507.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-88957515,width-1070,height-580,imgsize-103729,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/explained-what-is-the-new-deep-learning-dynamic-super-resolution-tech-and-how-it-can-be-useful/amp_articleshow/88957507.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/explained-what-is-the-new-deep-learning-dynamic-super-resolution-tech-and-how-it-can-be-useful/amp_articleshow/88957507.cms",
-      "publishedDateTime": "2022-01-17T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },

@@ -1,33 +1,46 @@
 ---
 category: news
-title: "Multi-layer security cover with facial recognition systems in place for R-Day celebration"
-excerpt: "After the improvised explosive device (IED) was found at Ghazipur Flower Market ahead of the Republic Day and later diffused, the Delhi Police have fortified areas in and around Rajpath with multi-layer security cover,"
-publishedDateTime: 2022-01-18T02:37:00Z
-originalUrl: "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393"
-webUrl: "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393"
-ampWebUrl: "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393"
-cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393"
+title: "Delhi Police deploys facial recognition systems, CCTV cameras ahead of Republic Day: Report"
+excerpt: "Facial recognition systems, along with 300 CCTV cameras have been installed in and around Rajpath ahead of the Republic Day parade."
+publishedDateTime: 2022-01-19T07:29:00Z
+originalUrl: "https://www.medianama.com/2022/01/223-facial-recognition-systems-republic-day-report/"
+webUrl: "https://www.medianama.com/2022/01/223-facial-recognition-systems-republic-day-report/"
 type: article
-quality: 67
-heat: 167
-published: true
+quality: 29
+heat: -1
+published: false
 
 provider:
-  name: Mathrubhumi
-  domain: mathrubhumi.com
+  name: MediaNama
+  domain: medianama.com
 
 topics:
   - Computer Vision
   - AI
-  - AI in Security
 
 images:
-  - url: "https://english.mathrubhumi.com/polopoly_fs/1.3515805.1548470408!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg"
-    width: 1080
-    height: 608
+  - url: "https://www.medianama.com/wp-content/uploads/2021/06/frank-busch-ChDWtI3N9w4-unsplash-scaled-e1642576790250.jpg"
+    width: 1280
+    height: 854
     isCached: true
 
 related:
+  - title: "Multi-layer security cover with facial recognition systems in place for R-Day celebration"
+    excerpt: "After the improvised explosive device (IED) was found at Ghazipur Flower Market ahead of the Republic Day and later diffused, the Delhi Police have fortified areas in and around Rajpath with multi-layer security cover,"
+    publishedDateTime: 2022-01-18T02:37:00Z
+    webUrl: "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393"
+    ampWebUrl: "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393"
+    cdnAmpWebUrl: "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393"
+    type: article
+    provider:
+      name: Mathrubhumi
+      domain: mathrubhumi.com
+    quality: 67
+    images:
+      - url: "https://english.mathrubhumi.com/polopoly_fs/1.3515805.1548470408!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Multi-Layer Security, Facial Recognition Systems Installed In Delhi Ahead Of Republic Day"
     excerpt: "After the improvised explosive device (IED) was found at Ghazipur Flower Market ahead of the Republic Day and later diffused, the Delhi Police have fortified areas in and around Rajpath with multi-layer security cover."
     publishedDateTime: 2022-01-18T00:35:00Z
@@ -156,20 +169,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Delhi Police deploys facial recognition systems, CCTV cameras ahead of Republic Day: Report"
-    excerpt: "Facial recognition systems, along with 300 CCTV cameras have been installed in and around Rajpath ahead of the Republic Day parade."
-    publishedDateTime: 2022-01-19T07:29:00Z
-    webUrl: "https://www.medianama.com/2022/01/223-facial-recognition-systems-republic-day-report/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 29
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/06/frank-busch-ChDWtI3N9w4-unsplash-scaled-e1642576790250.jpg"
-        width: 1280
-        height: 854
-        isCached: true
   - title: "Delhi: Multi-layer security cover with facial recognition systems in place for R-Day celebration"
     excerpt: "After the improvised explosive device (IED) was found at Ghazipur Flower Market ahead of the Republic Day and later diffused, the Delhi Police have fortified areas in and around Rajpath with multi-layer security cover,"
     publishedDateTime: 2022-01-18T10:19:00Z
@@ -180,6 +179,6 @@ related:
       domain: webindia123.com
     quality: 23
 
-secured: "aLj4H/FFIaYt8J/KQ0y060kEbRI5WqhHBEhmadh3YD8KjFukXNNHLQBC7QEy4RIm9mvHGAc/hx9vxazrTBLvh/pE/dnjQOn2PJNp580mwA8T5Yn1lTKgFaLEdIGOmXqJXlSA34F1KzrL38qBnV7FUSorivWFPozSWN797738yav+OuqyXn8EqSByuB4JSZe5uSnGQMDtnih6WHdBHDtlmgTlt6rAGAx5FDy/KljV50AM/cF9/SMmtgKsDhhFKadhwpjq/iRhj/lOjmsnHQ+oJmacJNIrHxGC6rV8uhAil4/naP5lP8xBCLWrKCsBe8e+3q6pdawQ7P5dQ3ldur2HHLCuIS8mdy4OK0z5mJ+CjUCRiY7xSf/0EHPTpePaGW5yvoiR1dvzDT2twpfXrULWS3akmtJso4GeTINUKC/jpoK2/DvymHIzXvXU+o+v3DjGXC+hWovnnlb+ClAdquT2/Pq1Q2ACcWtGZO7H69F/QVYi+TRTExbsECJ7OFvgG7kBi7qzua6vs+9s+J+Y9svlhA==;c59HFg+09LOJXhopNoU39w=="
+secured: "9TnBIfdUa/2QJrcyPz/1ql2VyWVDevED/syGqiB1rRrUHdZde+53EVN8Xnxk3/YW1J41YFpfBC7ugXrvhrk4QUgb5nNPzsVuWwklNbcWJ6xJTGrty8DejGw6K7MaCP+faoDhfEoRe9CLCrIFY8x1MRJn+PuRkKS2J4DBdFOdoKf/z1z5pMC9q77brHOszdqE+b0L/eaGjA0wlXnZkMjrfpP7tZebhBYGxBxdkQpprxemOZNFnnjsxA1+kSTsN+iEd+ZuiPBL7k3Z/BLlClFxCx5JDwL7LqbYzlwbS0/8pCev8mXkQgM71j2YvkAG+NQTg1TZqZfPqsNky0brrKR7pVs3lzwlEusSMO4bEqrW2A4=;lVonSscwJt3jLsTwegk3zA=="
 ---
 
