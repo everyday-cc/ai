@@ -2,6 +2,135 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-27-abrupt-decline-in-serious-cognitive-problems-among-older-americans-study-says.md",
+      "title": "‘Abrupt decline’ in serious cognitive problems among older Americans, study says",
+      "excerpt": "From 2008 to 2017, the percentage of adults ages 65 and older in the U.S. with serious cognitive issues dropped ... comment threads to stories from wire services such as the Associated Press ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/?amp=1",
+      "publishedDateTime": "2021-12-27T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-knowing-more-about-democratization-of-ai-and-low-code-no-code-solutions.md",
+      "title": "Knowing More About Democratization Of AI And Low-Code / No-Code Solutions",
+      "excerpt": "Knowing More About Democratization Of AI And Low-Code / No-Code Solutions Earlier this year, we predicted that the democratization of AI and Low-Code / No-Code solutions would be two of the top technologies to watch in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/knowing-more-democratization-ai-low-code-no-code-solutions-mori-",
+      "originalUrl": "https://www.linkedin.com/pulse/knowing-more-democratization-ai-low-code-no-code-solutions-mori-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQF2z7vSmxkQMA/article-cover_image-shrink_720_1280/0/1640351317057?e=1646265600&v=beta&t=kORlkc1_7WcMSE7tL63sivW0viNpUQAfNoGb8pfQAZI",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-top-intelligent-automation-jobs-to-apply-for-in-december-2021.md",
+      "title": "Top Intelligent Automation Jobs to Apply For in December 2021",
+      "excerpt": "A list of top intelligent automation jobs for techie to apply for in December 2021 to receive offer letters from jobs in intelligent automation. Artificial intelligence expertise is needed for automation jobs in December.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-intelligent-automation-jobs-to-apply-for-in-december-2021/",
+      "originalUrl": "https://www.analyticsinsight.net/top-intelligent-automation-jobs-to-apply-for-in-december-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-Intelligent-Automation-Jobs-to-Apply-For-in-December-2021.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T01:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-eu-oks-microsofts-197b-deal-to-buy-telemedicine-tech-firm-nuance.md",
       "title": "EU OKs Microsoft's $19.7B Deal to Buy Telemedicine Tech Firm Nuance",
       "excerpt": "The European Union has cleared Microsoft’s buy of Nuance, an artificial intelligence (AI) and cloud computing company, as it doesn’t pose competition concerns.",
@@ -1207,136 +1336,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-machine-learning-trends-for-marketers-to-watch-in-2022.md",
-      "title": "Machine Learning Trends for Marketers to Watch in 2022",
-      "excerpt": "Machine learning and AI research are making strides daily, with interesting implications for business. While it feels like a lot of the cool innovations are happening only in the scientific fields, progress can be seen in the marketing discipline too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/94a7c49ae3ef4fc7ba5b3c945e91b28b.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/",
-      "publishedDateTime": "2021-12-13T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-privacera-named-top-3-data-and-ai-startup-in-2021-datanami-readers-and-editors-choice-awards.md",
-      "title": "Privacera Named Top 3 Data and AI Startup in 2021 Datanami Readers' and Editors' Choice Awards",
-      "excerpt": "Privacera, the unified data access governance leader founded by the creators of Apache Ranger™, has been recognized in the sixth annual Datanami Readers' and Editors' Choice Awards in the Top 3 Data and AI Startups category,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/12/13/9510136.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/12/13/9510136.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T09:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-synectics-introduces-cloud-capabilities-to-surveillance-control-rooms-powered-by-microsoft-azure.md",
-      "title": "Synectics introduces cloud capabilities to surveillance control rooms powered by Microsoft Azure",
-      "excerpt": "Control room teams around the world can now store, manage, and collaboratively share video footage more flexibly, due to integrated native cloud capabilities introduced to one of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/synectics-security-wins-ip-video-security-system-contract-for-irish-rail-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html",
-      "publishedDateTime": "2021-12-13T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -19,9 +19,9 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
-secured: "+NNF6lAWlrO2lsO2h0VZC+7T2j4e4qqFZPnh+7h1lFT9JIfPP7HaueauImHBBEDvcUwuOk/FCaUhjXJYL0034kLW/R/+voMlatsZEr+EqZY4uqoJuOcDfspcjBHQ/ovuEpL629NNon+N+XteMLqBLhzsUui73Wdgxqrv8l4+ws1jQ/TbaRhEH15wV3QH40l8o3FhJ+5zTiPGlLDtOpl44SMvlmq3cToXyeRmwAlo5vHarL7LD9vjj06/NEyrpycAH1PAaf0a6vzHmsMfgVgglhmOd++ii5HAYJHx1pQiSgYyoOIHwV7UYeNMPNRu+DxNv8JVftEB42GVV/i22KOna+6qqCZjSgjupdcOp2gsz1E=;vBbHYlvbDur48DgK5vb/Xw=="
+secured: "dptyBuesVRJGMlDLqIrS/i5GPxwE4PJhspE1sKe87Tnhd0skxt0k+DRN3nXMSk0rNsAgPD3czs6pLPlFBAnnKhXFZwlsNbhi8y0CfOg8DMRg4D+urLcJpE7cHJpF6H3Inqm3cZbHl6QbkWqxnrYAmmQqok8eQv2zcz5mPFl2zgsJqBsF0YHhEdRcH+ayrXE1mlUmiFNXxO+LmTa5VTWNz/S/uur4dbzfU7pfC/i9dp0nXSevsKOGgs6j3KOd6ggz9ED4wThaMyso7RJqKbkl3tnnsYAHqEJGPDT7Q6bnH+/xpkIOmYE5j+zZY/BFgWeB55uoqWRi4W3blpSYDQ9lftsdsRqWGi85nchGt8wVr84=;zRLzAWMC9wc0oLaMgABSrA=="
 ---
 

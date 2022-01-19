@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 593
         isCached: true
+  - title: "Groundbreaking AI technology diagnoses COVID-19 'in minutes'"
+    excerpt: "Pioneering artificial intelligence (AI) technology, developed by experts at University of the West of Scotland (UWS), is capable of accurately diagnosing COVID-19 in just a few minutes."
+    publishedDateTime: 2022-01-19T14:49:00Z
+    webUrl: "https://medicalxpress.com/news/2022-01-groundbreaking-ai-technology-covid-minutes.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-01-groundbreaking-ai-technology-covid-minutes.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-groundbreaking-ai-technology-covid-minutes.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/groundbreaking-ai-tech.jpg"
+        width: 672
+        height: 341
+        isCached: true
   - title: "Machine learning model uses blood tests to predict COVID-19 survival"
     excerpt: "A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival, weeks before the outcome, according to a new study published this week in the open-access journal PLOS Digital Health by Florian Kurth and Markus Ralser of the Charité—Universitätsmedizin Berlin,"
     publishedDateTime: 2022-01-18T19:00:00Z
@@ -117,6 +133,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Intensive_Care-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Machine learning model predicts the likelihood of recovering from Covid"
+    excerpt: "A new study has found that 14 proteins in the blood of critically ill patients are associated with recovering from Covid."
+    publishedDateTime: 2022-01-19T14:03:00Z
+    webUrl: "https://www.healtheuropa.eu/machine-learning-model-predicts-the-likelihood-of-recovering-from-covid/112926/"
+    type: article
+    provider:
+      name: healtheuropa
+      domain: healtheuropa.eu
+    quality: 39
+    images:
+      - url: "https://www.healtheuropa.eu/wp-content/uploads/2022/01/©-iStock-Povozniuk.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "W3AUuxZZpKaJJIBPAytHI1mdZ8F7sJ15JR6uQuoTdZh0MJdN037Iw8QFphfSjBWTjODeREVnIr9+66hwOOqveII2swpim6AcdQQyOmP8rcQqnsq0NDR7sCwbwKQ6gzlaPKQkIzXElGips7wYFJ67BhfKLJZnUs4geEfAA6YxqbGfqXEK9oAOm38Gfmp3ZJ4GZErKL1F2sEapdyc4+S01nbckyk4sr30tGJJo2VHPsONyazcqV0SbcQhe/l8SzxcCH7f0OiGRyWgo0APbxrcoGW3FeGArUGT6DVMRv/r0L9Z8vVe8qBJaLfWc0wGu8cpfb+5BmCmnmpZ7UtDBFft0x8DaeUK1y6vpMLqcbjvKzjE=;EipIh4GuicX2w2Ko4uMpTQ=="

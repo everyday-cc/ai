@@ -23,6 +23,22 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "PhaseZero Offers CxAnalytics and Data-as-a-Service Solution with Roadmap to Deliver Enterprise AI Applications for Manufacturing Companies"
+    excerpt: "PhaseZero, a leading B2B & B2C digital commerce software provider, announced its new CxAnalytics solution for business managers to proactively manage sales and market share growth and mitigate critical business risks."
+    publishedDateTime: 2022-01-18T12:37:00Z
+    webUrl: "https://www.lelezard.com/en/news-20195736.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 5
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
 secured: "CiuaKfnPE5hNOSk8l+FayUvupEBFxsKt3zFBNUZKW5fYA/kk1p57GKKwoRiYAxFrqs1AVgZaPmLQWxKRKRVXHSIcAIkPVtI2mDo4EUcOW0pBFF7W+k+WE2CsuwBhpCZBG8xfspZgXMMpv8x5w2qLs77lqvu3ksAgGRfGCv9iwwsJLSUgTt0wlpjYApHIw11AhQeXTP1UN6mwPH/SrdbSFZn+RqvrGLBFjTgroCQXURxNNl++QX1JNeSgbjNwwb6g04S7cwxaxFD6b5kF54aMqXnL2Q2w2Vd3GL5UJ5D+XekTI8vx9AYW7d/R9lw0v8CB23q3liYaFYG+uML1UA6t56Z19Q3mQiS9LhQmesW9O5w=;xSHVYJhPAG04Mm79XgmsFQ=="
 ---
 

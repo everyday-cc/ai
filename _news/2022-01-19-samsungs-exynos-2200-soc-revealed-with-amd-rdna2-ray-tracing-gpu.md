@@ -227,19 +227,16 @@ related:
         height: 720
         isCached: true
   - title: "Samsung Introduces Game Changing Exynos 2200 Processor with Xclipse GPU Powered by AMD RDNA 2 Architecture"
-    excerpt: "Seoul, Korea – Jan. 18, 2022 – Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, t"
-    publishedDateTime: 2022-01-18T02:01:00Z
-    webUrl: "https://www.samsungsemiconstory.com/global/samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2-architecture/"
+    excerpt: "The new premium mobile processor comes with hardware-accelerated ray tracing and state of the art Arm-based processing technology Samsung Electronics Co., Ltd., a world"
+    publishedDateTime: 2022-01-18T01:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/b25077694/samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2-arch"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25077694"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25077694"
     type: article
     provider:
-      name: samsungsemiconstory
-      domain: samsungsemiconstory.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 21
-    images:
-      - url: "https://img.samsungsemiconstory.com/global/wp-content/uploads/2022/01/500x329_en.jpg"
-        width: 500
-        height: 329
-        isCached: true
   - title: "Samsung unveils the new Exynos 2200 SoC with Xclipse RDNA2 GPU"
     excerpt: "Standard CPU configuration After a lot of hassle, Samsung has now officially unveiled more information about its upcoming flagship Exynos 2200 SoC, showing off some of the details regarding the CPU, NPU,"
     publishedDateTime: 2022-01-18T13:42:00Z

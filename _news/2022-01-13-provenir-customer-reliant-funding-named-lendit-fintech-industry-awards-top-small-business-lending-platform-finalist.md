@@ -1,26 +1,22 @@
 ---
 category: news
-title: "Provenir Customer Reliant Funding Named LendIT Fintech Industry Awards ‘Top Small Business Lending Platform’ Finalist"
-excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today congratulated its customer Reliant Funding for being recognized as a LendIT Fintech Industry Awards 2021 finalist. The fifth annual LendIT Fintech Industry Awards honor the world’s leading influencers and innovators in 14 unique categories."
-publishedDateTime: 2022-01-12T17:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-small-business-parsippany-f33dabbcc5a94dd298539f53fcc7389e"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-small-business-parsippany-f33dabbcc5a94dd298539f53fcc7389e"
+title: "Provenir Customer Reliant Funding Named LendIT Fintech Industry Awards 'Top Small Business Lending Platform' Finalist"
+excerpt: "Nationwide provider recognized for excellence in supporting more than 10,000 small businesses with fast, flexible funding Provenir, a global leader in AI-powered"
+publishedDateTime: 2022-01-12T16:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/b25022101/provenir-customer-reliant-funding-named-lendit-fintech-industry-awards-top-small-business-lending-"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/b25022101/provenir-customer-reliant-funding-named-lendit-fintech-industry-awards-top-small-business-lending-"
+ampWebUrl: "https://www.benzinga.com/amp/content/25022101"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25022101"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "32SgY7GMiQEwtcAZGHwxwxdDIgTZsFeP92iaNFdVve2376mr46D2Ysiklrduw9GeZyh/8NN9RQI15tDQnCYItSp07sl1gdEeaaDQdlEetm5gq4/TndFoHzAUha1z17zpzWytgdgIQOmOFUnSRmwFmbnNPOR33M4Fd+n7g6iSXDMmIkhJGm4Yah1zY64mgFsnFDBVq0NisN9GPlaTymxJnbfn8GpaNVNl2Da4F0jCu0JMoURgRl8YcBg+73egWx1SMcKAFBhdscAriqOJfWq/P1ycRyjIWLMiAhmzC+wnIcwo7LvNROxu9QKHDS4bFSCC8iA9WtcL7ni/DXi13TKu5tDhaMK4ItP8NJ30WRi3kCI=;8X+d0Qh7tX+kz9E+ZPqbYQ=="
+secured: "hrlT1tmagBetWAu3ep9F6E+u0W+s8F5t3yok3ugcGOtc9mcPpXrpKyfFNCLGVBsNHvpU1742lmYAGjKbLxBYGvoYN2teoVXOTn/QjL0/2yja6wNdV4T3fdALGIHOJWr3gEPxgl8lDUR7cpJ6mDnUZaQmtVMa0aXsAyErYQG1AkKRvble4xfGGLW5FzOFSWbDeud0tU1Fv+yXmGH94d0iMjQQvWKC/dHv0rYmrmaHdDazZfL7DiDh+OWG0MZMT0zdzARgi22SFQkptcSVCiLdGu+m6gvAzyv5gNEjkBRbTv8wGAghjIt52g5NbpXSlvoFfgCjwRD+Aa48x9bclmqys/jq9OEGEbIjarUaK2TLcV0=;Jza5wfvviqqzPZxx+0XM8A=="
 ---
 

@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-21-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
+      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
+      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
+      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
+          "width": 1708,
+          "height": 962,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-cnbc-technology-executive-council-survey-reveals-executives-excited-about-machine-learning-in-22.md",
+      "title": "CNBC Technology Executive Council survey reveals executives excited about machine learning in '22",
+      "excerpt": "CNBC Technology Executive Council survey reveals few executives worried about the omicron variant's impact to their 2022 outlook. Got a confidential news tip? We want to hear from you. Sign up for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/12/20/cnbc-technology-executive-council-survey-reveals-executives-excited-about-machine-earning-in-22.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/12/20/cnbc-technology-executive-council-survey-reveals-executives-excited-about-machine-earning-in-22.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106991730-16400192271640019224-20405410156-1080pnbcnews.jpg?v=1640019226",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-eight-effective-ways-to-leverage-machine-learning-ad-tools.md",
       "title": "Eight Effective Ways To Leverage Machine Learning Ad Tools",
       "excerpt": "Rather than guess at what approach will work best to reach target audiences, brands can generate predictive models using ML and AI to identify optimal creative, content, placements and more to boost the effectiveness,",
@@ -1357,93 +1453,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-asia-pacific-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles.md",
-      "title": "Asia-Pacific is seeing a hiring boom in railway industry machine learning roles",
-      "excerpt": "Asia-Pacific was the fastest growing region for machine learning hiring among railway industry companies in the three months ending October.  That was followed by Europe, which saw a 1.4 year-on-year percentage point change in machine learning roles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.railway-technology.com/features/asia-pacific-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles/",
-      "originalUrl": "https://www.railway-technology.com/features/asia-pacific-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/12/blur-g504dc2ffe_1280.jpg",
-          "width": 1280,
-          "height": 838,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Railway Technology",
-        "domain": "railway-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon.md",
-      "title": "Morgan Stanley and the Child Mind Institute Select Winners of “Machine Learning for Good” Hackathon",
-      "excerpt": "Morgan Stanley and the Child Mind Institute today announced the results of the judging from Morgan Stanley’s Machine Learning for Good Hackathon, which leveraged natural language processing (NLP) to analyze COVID-related mental health data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon/article_896ee044-8e3c-51a5-a5ed-2d105a967696.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon/article_896ee044-8e3c-51a5-a5ed-2d105a967696.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]

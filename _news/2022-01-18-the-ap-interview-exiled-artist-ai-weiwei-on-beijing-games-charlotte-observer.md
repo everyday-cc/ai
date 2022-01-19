@@ -38,8 +38,8 @@ related:
         isCached: true
   - title: "The AP Interview: Exiled artist Ai Weiwei on Beijing Games"
     excerpt: "When he was tapped to help design Beijing's Bird's Nest Stadium for the 2008 Summer Olympics, the artist Ai Weiwei hoped the Games and the arena's instantly recognizable weave of curving steel beams would symbolize China’s new openness."
-    publishedDateTime: 2022-01-18T18:15:00Z
-    webUrl: "https://apnews.com/1be58fc1f4c7e2ad67a24fdf02ff7690"
+    publishedDateTime: 2022-01-18T21:57:00Z
+    webUrl: "https://apnews.com/article/winter-olympics-sports-business-ai-weiwei-beijing-1be58fc1f4c7e2ad67a24fdf02ff7690"
     type: article
     provider:
       name: Associated Press

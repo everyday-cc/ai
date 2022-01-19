@@ -183,6 +183,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla Full Self-Driving now costs $12,000 – unless you pay monthly"
+    excerpt: "Tesla’s intended price increase for Full Self-Driving has now gone into effect. As of January 18, the online configurator for Tesla vehicles now shows the new, $12,000 price tag for the Full Self-Driving (FSD) option."
+    publishedDateTime: 2022-01-19T16:14:00Z
+    webUrl: "https://knowtechie.com/tesla-full-self-driving-now-costs-12000-unless-you-pay-monthly/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2021/01/tesla-model-s-refresh-215-1000x600.jpeg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Musk Confirms Tesla Full Self-Driving Beta Release in Canada in 2-4 Weeks"
     excerpt: "Tesla CEO Elon Musk has just shared another update on the highly anticipated Full Self-Driving (FSD) beta release in Canada while responding to a query about its status on Twitter (via TeslaNorth). “We will start rolling out FSD beta in Canada cautiously in next 2 to 4 weeks,"
     publishedDateTime: 2022-01-17T17:42:00Z

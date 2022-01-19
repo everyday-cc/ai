@@ -1,20 +1,26 @@
 ---
 category: news
 title: "$27.7 Billion Worldwide Image Recognition Industry to 2026 - Key Drivers and Challenges - ResearchAndMarkets.com"
-excerpt: "facial recognition, object recognition, pattern recognition, and optical character recognition. The facial recognition technology is expected to witness significant growth in the forecast period ..."
-publishedDateTime: 2022-01-05T12:33:00Z
-originalUrl: "https://www.businesswire.com/news/home/20220105005623/en/27.7-Billion-Worldwide-Image-Recognition-Industry-to-2026---Key-Drivers-and-Challenges---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ=="
-webUrl: "https://www.businesswire.com/news/home/20220105005623/en/27.7-Billion-Worldwide-Image-Recognition-Industry-to-2026---Key-Drivers-and-Challenges---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ=="
+excerpt: "By Technology (Digital Image Processing, Code Recognition, Facial Recognition, Others), By Deployment, By Application, By End User, By Region, Competition, Forecast"
+publishedDateTime: 2022-01-05T13:01:00Z
+originalUrl: "https://www.lelezard.com/en/news-20178301.html"
+webUrl: "https://www.lelezard.com/en/news-20178301.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "4c7cdIkiLPXHr/Wdek9CXHcZUQrh5gkSGDNo9RzBGtUhdM4OH2GOr+oP1JrpLYco+vqfwA8EWs90qOyfylUrlfZotnUYKcM6itHXBMr5H5eOYzf3TleWOpHk6CAGtFzeh5ds495aznLU9+HMAM6fEvWCH5qf6WlnbFplLvVyrjjBVgB0FdcFy6rYoZmsDBVSkjDyhfi5IsovGQhY6KOa8jAce+O1/jB4tGAir2YNer1aDr4K1Dmjkw2j3YzycfjnHddAbKQhNkt1f6B7DGBn2S5rUTiXRUfeHt8mn8CWEtyFbnHdIV9J1nhj4hRC7oyxcUNaV9GqKwMDtZVkZcu8HoN2t7vYGrh4U4mDIttplMQ=;oCaVpe1XWhqx6tF4G3d5Lw=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+    width: 421
+    height: 421
+    isCached: true
+
+secured: "WhIPJfF2ZAVdkv/d0Uw4/roKlRe/sFCUirEAnVq7BZtyLvaPYgC2oo/hP8KEJcaPYdlXq7CWmoTzOe17gGmbIgw7sA1SHW5/8c8a5mEQQOVCqyK67kucmq9UPZtgapEglPL2eYOuv8kVpcH8tTKp1Wo1pX9ui8Y1I8Wchu+y3mq5HuC/N5X3RPqc1S3OJLGGHhgBOPqtYDqRRc0DYftHoJWXXgMtCQ0B3NodWW2msCqX5hd1SLVBlE8zr+FhYfhkppHcZ48WdPzplF8wc2BJ0PiTDyUGLDw0iU8QpYiFyi/FKqR7TggiSCirtKH7XbkLl+uIpMVk8NqUING1qCRXP36TljkM2b7QeoJ1xYXMQm4=;QRFtvz0NETBRZY44A6kCHA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/01/18/servicenows-new-ai-powered-servic
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/servicenows-new-ai-powered-service-aims-to-support-digital-transformation-efforts/amp/"
 type: article
 quality: 81
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,33 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Innodata Appoints Digital Transformation Veteran Ed Funaro to Lead New Applied AI Practice"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / January 18, 2022 / Innodata Inc. (NASDAQ:INOD), a leading data engineering company, today announced that it has launched an"
-    publishedDateTime: 2022-01-18T15:03:00Z
-    webUrl: "https://www.digitaljournal.com/pr/innodata-appoints-digital-transformation-veteran-ed-funaro-to-lead-new-applied-ai-practice"
+  - title: "How Artificial Intelligence Services Can Help Small Businesses"
+    excerpt: "Now, with sophisticated AI tools more accessible and affordable than ever, retailers have new ways to improve customer experiences, augment staffing and streamline their business processes."
+    publishedDateTime: 2022-01-19T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/19/how-artificial-intelligence-services-can-help-small-businesses/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/19/how-artificial-intelligence-services-can-help-small-businesses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/19/how-artificial-intelligence-services-can-help-small-businesses/amp/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 27
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/AAA-8-1-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Global Banking-as-a-Service Market (2021 to 2030) - Integration of Artificial Intelligence in Banking as Service Platform Presents Opportunities - Res"
-    excerpt: "Service Market By Component, Type, Enterprise Size, and End User: Global Opportunity Analysis and Industry Forecast, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. Banking-as-a-service is a non-banking system that allows the third-party organization to offer core financial services to their customers by merging with banks through APIs."
-    publishedDateTime: 2022-01-19T09:14:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=602311"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6091b504c8b95aaf6849edfe/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 673
         isCached: true
 
 secured: "hZsW72sRx36EaLaDWF3lfMdxqNgXmtB8eLFd3ZGkX2KbXwJHYWEW3YhBqA0kdp8hshqI4IZPwbZuQHmO2OccVNinXl6fDIiT8vSCBuBovTF5ffQP7phjEEvmkx/Bw7lwklK/PBc2OYq8Nqp3NEiX9F4k+wyY9vRJrJULKlu18J59VdIPMox4nzJ+Nn+NihtnrjVcRGmYN8S1dxa0A3Le+G1Ga3rDpDdlqnsTAmaCkYJpamywcrkqP/aAa03SO1Ohowo9fJcksgWmt4gsNvmr03l8bLUs0qAwKeX6aAt8VwfQMGtDSvzrqZyl5YdBFRqlL/0W0VhLbp5qpNvU5ZlNkaUgkJ8afWLqiRW9yDFRIrE=;Jm/mRI73qfViHUTaSvDgLw=="

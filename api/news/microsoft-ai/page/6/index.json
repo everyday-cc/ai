@@ -2,6 +2,145 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-23-how-ai-powered-tech-can-improve-digital-accessibility.md",
+      "title": "How AI-powered tech can improve digital accessibility",
+      "excerpt": "Despite one billion people, or roughly 15% of the global population, living with a disability, there remains much work to be done by governments and businesses to close the digital access divide that exists today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361623/how-ai-powered-tech-can-improve-digital-accessibility",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361623/how-ai-powered-tech-can-improve-digital-accessibility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1637656131/itpro/2021/11/shutterstock_woman%20sign%20languaging.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T00:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-cognitive-analytics-market-2021-top-players-emerging-demand-business-profit-analysis-sales-revenue-and-expansion-strategies-by-2026.md",
+      "title": "Cognitive Analytics Market 2021: Top Players, Emerging Demand, Business Profit Analysis, Sales Revenue and Expansion Strategies by 2026",
+      "excerpt": "Nov 23, 2021 (Heraldkeepers) -- The Cognitive Analytics ... Nuance Communications, Microsoft Corporation, Oracle Corporation, Amazon Web Services, Google LLC, Intel Corporation, and Narrative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-top-players-emerging-demand-business-profit-analysis-sales-revenue-and-expansion-strategies-by-2026-2021-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-top-players-emerging-demand-business-profit-analysis-sales-revenue-and-expansion-strategies-by-2026-2021-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T23:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-swiss-re-partners-with-tcs-to-develop-a-resilient-and-futuristic-digital-workplace.md",
+      "title": "Swiss Re Partners with TCS to Develop a Resilient and Futuristic Digital Workplace",
+      "excerpt": "To find out more, read our updated Cookie Policy Swiss Re Partners with TCS to Develop a Resilient and Futuristic Digital Workplace Tata Consultancy Services to Further Develop the New Digital Core on Microsoft 365 to Allow the Reinsurer to Enhance their User Experience Even More,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tcs.com/swiss-re-partners-tcs-resilient-futuristic-digital-workplace",
+      "originalUrl": "https://www.tcs.com/swiss-re-partners-tcs-resilient-futuristic-digital-workplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tata Consultancy Services",
+        "domain": "tcs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-global-cognitive-informatics-market-research-report-2021-2026-healthcare-and-biomedicine-industry-will-lead-to-the-adoption-of-cognitive-service.md",
       "title": "Global Cognitive Informatics Market Research Report 2021-2026 - Healthcare and Biomedicine Industry Will Lead to the Adoption of Cognitive Service",
       "excerpt": "The enterprise sector will have the highest adoption of cognitive applications and services The global market will reach USD $32.6B by 2026, growing at 40.3% CAGR from 2021 to 2026 Key Topics Covered",

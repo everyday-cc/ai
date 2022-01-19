@@ -2,6 +2,141 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-06-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "AI stocks may be excellent long-term investments. The global artificial intelligence market is on track to hit more than $554 billion in total revenue by 2024, according to market researcher IDC.",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2022/01/artificial-intelligence-stocks-the-10-best-ai-companies-5/",
+      "originalUrl": "https://wtop.com/news/2022/01/artificial-intelligence-stocks-the-10-best-ai-companies-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "IBM AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-xpeng-integrates-text-to-speech-service-from-microsoft-in-p7-smart-sedan.md",
+      "title": "XPENG Integrates Text-to-Speech Service From Microsoft in P7 Smart Sedan",
+      "excerpt": "These innovations have been integrated into commercially-available speech and language capabilities within Azure Cognitive Services and other Microsoft products, so that companies like XPENG can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20220105005732/en/XPENG-Integrates-Text-to-Speech-Service-From-Microsoft-in-P7-Smart-Sedan/?feedref=JjAwJuNHiystnCoBq_hl-bsjWlVyeNLyq_m2tvaHJJaD1w08bW43U_zsPK9s38B4rCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3miu0ZZ-LtXjCwD3Ec3ldN_zZCGORvG0LE20YOvo49uqw==",
+      "originalUrl": "https://www.businesswire.com/news/home/20220105005732/en/XPENG-Integrates-Text-to-Speech-Service-From-Microsoft-in-P7-Smart-Sedan/?feedref=JjAwJuNHiystnCoBq_hl-bsjWlVyeNLyq_m2tvaHJJaD1w08bW43U_zsPK9s38B4rCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3miu0ZZ-LtXjCwD3Ec3ldN_zZCGORvG0LE20YOvo49uqw==",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T15:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses.md",
+      "title": "Qualcomm and Microsoft collaborate on custom chips for AR glasses",
+      "excerpt": "Qualcomm announced its intentions to integrate software platforms with Microsoft at Tuesday's CES 2022 keynote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
+      "originalUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/05/d15a4544-a48e-4c75-b83d-46c610541963/resize/1200x/3c064522004e0f70855c4f2157fd60fe/ar-glasses.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
+      "publishedDateTime": "2022-01-05T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-top-programming-languages-this-coding-favourite-just-topped-the-list-again.md",
       "title": "Top programming languages: This coding favourite just topped the list again",
       "excerpt": "Software testing outfit Tiobe has awarded Python the programming language of the year for the second time in a row, thanks to the language's chops in machine learning. The award is given by the company to the programming language that has gained the highest increase in ratings in one year.",
@@ -1230,135 +1365,6 @@
       "provider": {
         "name": "Seattle Times",
         "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-abrupt-decline-in-serious-cognitive-problems-among-older-americans-study-says.md",
-      "title": "‘Abrupt decline’ in serious cognitive problems among older Americans, study says",
-      "excerpt": "From 2008 to 2017, the percentage of adults ages 65 and older in the U.S. with serious cognitive issues dropped ... comment threads to stories from wire services such as the Associated Press ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/?amp=1",
-      "publishedDateTime": "2021-12-27T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-knowing-more-about-democratization-of-ai-and-low-code-no-code-solutions.md",
-      "title": "Knowing More About Democratization Of AI And Low-Code / No-Code Solutions",
-      "excerpt": "Knowing More About Democratization Of AI And Low-Code / No-Code Solutions Earlier this year, we predicted that the democratization of AI and Low-Code / No-Code solutions would be two of the top technologies to watch in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/knowing-more-democratization-ai-low-code-no-code-solutions-mori-",
-      "originalUrl": "https://www.linkedin.com/pulse/knowing-more-democratization-ai-low-code-no-code-solutions-mori-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQF2z7vSmxkQMA/article-cover_image-shrink_720_1280/0/1640351317057?e=1646265600&v=beta&t=kORlkc1_7WcMSE7tL63sivW0viNpUQAfNoGb8pfQAZI",
-          "width": 720,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-24T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-top-intelligent-automation-jobs-to-apply-for-in-december-2021.md",
-      "title": "Top Intelligent Automation Jobs to Apply For in December 2021",
-      "excerpt": "A list of top intelligent automation jobs for techie to apply for in December 2021 to receive offer letters from jobs in intelligent automation. Artificial intelligence expertise is needed for automation jobs in December.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-intelligent-automation-jobs-to-apply-for-in-december-2021/",
-      "originalUrl": "https://www.analyticsinsight.net/top-intelligent-automation-jobs-to-apply-for-in-december-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-Intelligent-Automation-Jobs-to-Apply-For-in-December-2021.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-24T01:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
         "images": null,
         "publishers": null,
         "authors": null

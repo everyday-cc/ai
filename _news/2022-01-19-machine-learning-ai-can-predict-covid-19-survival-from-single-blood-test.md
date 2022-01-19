@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/machine-learning-ai-can-predict-covid-19-
 webUrl: "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000007"
 type: article
 quality: 153
-heat: 213
+heat: 233
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e46c533aba23572e6b1daf%2F0x0.jpg"
         width: 1200
         height: 593
+        isCached: true
+  - title: "Groundbreaking AI technology diagnoses COVID-19 'in minutes'"
+    excerpt: "Pioneering artificial intelligence (AI) technology, developed by experts at University of the West of Scotland (UWS), is capable of accurately diagnosing COVID-19 in just a few minutes."
+    publishedDateTime: 2022-01-19T14:49:00Z
+    webUrl: "https://medicalxpress.com/news/2022-01-groundbreaking-ai-technology-covid-minutes.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-01-groundbreaking-ai-technology-covid-minutes.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-groundbreaking-ai-technology-covid-minutes.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/groundbreaking-ai-tech.jpg"
+        width: 672
+        height: 341
         isCached: true
   - title: "Machine learning model uses blood tests to predict COVID-19 survival"
     excerpt: "A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival, weeks before the outcome, according to a new study published this week in the open-access journal PLOS Digital Health by Florian Kurth and Markus Ralser of the Charité—Universitätsmedizin Berlin,"
@@ -105,6 +121,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine learning model predicts the likelihood of recovering from Covid"
+    excerpt: "A new study has found that 14 proteins in the blood of critically ill patients are associated with recovering from Covid."
+    publishedDateTime: 2022-01-19T14:03:00Z
+    webUrl: "https://www.healtheuropa.eu/machine-learning-model-predicts-the-likelihood-of-recovering-from-covid/112926/"
+    type: article
+    provider:
+      name: healtheuropa
+      domain: healtheuropa.eu
+    quality: 39
+    images:
+      - url: "https://www.healtheuropa.eu/wp-content/uploads/2022/01/©-iStock-Povozniuk.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Oral Medication for COVID-19 Discovered Using Artificial Intelligence"
     excerpt: "Kishor Wasan, says the double-blind intervention is being conducted among volunteers being treated on an outpatient basis. LSU DeepDrug Pr"
     publishedDateTime: 2022-01-18T20:44:00Z
@@ -120,6 +150,6 @@ related:
         height: 250
         isCached: true
 
-secured: "Vvj708rlMrPtvOCYyJgSiAqtNCPJ6Mde1p9tHPiuIKv6rGUgXbf8yWgwx0muvvXrPYjPIZsmCYF6sagCh5Lh1RFa58W+owLhrP28WszChBcpi1LiO0GM4WTzukugIYgOeT3SUhcNSgVvtgFXFMmLTd9h18aVU5aRR/ehZPahxWojF74DUJkwxZ2d8ur4dB4PS5yugk510pgv3zPq+S0isQJyY5sx8ph57Aiq+b0g82wFjoymF45b9kCnE4ruTk7nZ1+zhezfNtGnH6GqyVyryjgZpVIFi/XLmAxVXc309XfbXLl7IL5PGrbdOhGLI+zrd3CUh0sV0nTgf9jVdE0LHjgaQBSeAafnZfB2jlZzMLI=;IYO+GhMWzSNgn/hmXqoMsA=="
+secured: "Yg4BFiih9qix+rwJpsN6urRNU45pgd3vHBQhZKj5LS2BZZkvAbmeZayElq8pfUmN8ZYBVfqcCr4SaqzFMfim4JzwY5E63i9kGkwSZBEh8+UiMKHcDyb5G9S2OAdm95xdigjWcUyto/JPpRUQoG7C48E4dctFdTnKBtt3qYAjjI6DOvb23fbzGgxGXQMvLvriXOwIC0lqQmdPT9kbByW8nj3IkCHJLu1C/+nw8nyxQlcLrzOBY3nNVCxMh28jsP5jTrrjKQ8pxQgd3zLXqWI3HbZJhe88e7KElclrtiiAbpDIFvbAECH3do+1Tq6ka85manvlHA7M0ttWFjvwMDt6Yu3LiQYcoOG79LUgqzW5wO1ECt2U0wBOszbVeiXlycuYxLKji0/AmO3Zd8tckQ43rdkpZtraMTRqqRYKLdcVBSocpATxJ4XaAcD//Xoil/U9KQ/rIZ9JqKQXyMn5Gq2YTZ9R6NR+QQxo3vDUl7ye5d8A+iBextku6YJ8tTfv+RyBUQgEDap3q8b1W16QG0FAbPi+7VoEAi8khw9ze7h52kY=;2QeAKB+kNe9zuL1ccIQ82w=="
 ---
 

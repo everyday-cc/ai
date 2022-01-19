@@ -39,22 +39,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Learn the Basis for Optimized Neural Network"
-    excerpt: "‘Free-energy principle may be the basis for the optimized efficiency of any neural network that may further help in analyzing impaired brain function and for artificial intelligence."
-    publishedDateTime: 2022-01-14T23:58:00Z
-    webUrl: "https://www.medindia.net/news/learn-the-basis-for-optimized-neural-network-205176-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/learn-the-basis-for-optimized-neural-network-205176-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/learn-the-basis-for-optimized-neural-network-205176-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/stem-cell-parkinsons-disease.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
 
 secured: "PGpHDoymG7fddpy2ze6JDaheSnEWqVGOTE41lFMtZYMn7ZwO4zXaaUUPm3ktdaF7Y+VXv4A+Y0COUVQYjazAgHaWSyLrj6aQFL6smR2O8usV7xa+6BedL0syc+zAoE/ijS6bcrxMUR+5gPcwp+GCvcQvnDR3gZTyf4m50/W618jnKnsDktTxFbkg0f+3My/ZrhErBPFcy2GaDNDnTryTy2xycyywgZTQ9TybtSLeOJKa3bMTD/DaMXjtYbnh2LzzJ+gTy6S+XPAdEZEhde+3k7p/gJ0Z89NDbwEEwlX5Fna7NVAxC22klybf5q1pGdSTU9RvXAsvZxQm3xzmDI4h8bQomKLS1gzqWlx72trr18A=;A3+1yMVC0T0M+9GO6dhO5w=="
 ---

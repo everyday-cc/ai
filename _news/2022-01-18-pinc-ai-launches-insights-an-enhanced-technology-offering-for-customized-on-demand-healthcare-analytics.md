@@ -20,22 +20,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "What to expect for data prep and data analytics in 2022"
-    excerpt: "general manager of IBM AI Applications in the announcement. In the future, IBM intends to integrate Envizi with some of its existing solutions including IBM Maximo, IBM sterling, IBM Environmental ..."
-    publishedDateTime: 2022-01-15T00:56:00Z
-    webUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/"
-    ampWebUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1312908513-e1642179371829.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 400
-        isCached: true
   - title: "What Really Matters When Selecting A Cloud Data Analytics Platform"
     excerpt: "Just like with an electrical grid, the next wave of analytical workloads will “plug in” to whatever compute/storage grid that makes the most sense at the time, whether it be location, pricing, regulations and more."
     publishedDateTime: 2022-01-18T11:00:00Z
@@ -68,17 +52,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Rackspace grows Asia Pacific presence with Just Analytics acquisition"
-    excerpt: "Rackspace plans to leverage Just Analytics to help build out its data and Microsoft Azure roadmap in the region."
-    publishedDateTime: 2022-01-19T01:03:00Z
-    webUrl: "https://www.zdnet.com/article/rackspace-grows-asia-pacific-presence-with-just-analytics-acquisition/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/rackspace-grows-asia-pacific-presence-with-just-analytics-acquisition/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rackspace-grows-asia-pacific-presence-with-just-analytics-acquisition/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 54
   - title: "Foot Traffic Analytics Firm Placer.ai Raises $100M At $1B Valuation"
     excerpt: "Israeli-founded firm Placer.ai provides analysis about foot traffic in retail centers, theme parks, stadiums, and other areas."
     publishedDateTime: 2022-01-16T00:01:00Z
@@ -92,20 +65,6 @@ related:
       - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/01/high-grass-ge20682a07_1280.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "PhaseZero Offers CxAnalytics and Data-as-a-Service Solution with Roadmap to Deliver Enterprise AI Applications for Manufacturing Companies"
-    excerpt: "PhaseZero, a leading B2B & B2C digital commerce software provider, announced its new CxAnalytics solution for business managers to proactively manage sales and market share growth and mitigate critical business risks."
-    publishedDateTime: 2022-01-18T12:37:00Z
-    webUrl: "https://www.lelezard.com/en/news-20195736.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 5
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Rackspace Technology to Acquire Just Analytics, a Leading Provider of Cloud-based Data, Analytics, and Artificial Intelligence Services"
     excerpt: "Rackspace Technology ® (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company, today announced that it has agreed to acquire Just Analytics, a leading provider of cloud-based data,"

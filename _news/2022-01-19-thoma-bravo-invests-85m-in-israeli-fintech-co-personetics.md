@@ -71,7 +71,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Banking-as-a-Service Market (2021 to 2030) - Integration of Artificial Intelligence in Banking as Service Platform Presents Opportunities - Res"
+    excerpt: "Service Market By Component, Type, Enterprise Size, and End User: Global Opportunity Analysis and Industry Forecast, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. Banking-as-a-service is a non-banking system that allows the third-party organization to offer core financial services to their customers by merging with banks through APIs."
+    publishedDateTime: 2022-01-19T09:14:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=602311"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
-secured: "Rk+GaUEPD5Glmg6HpuhyPxj6hSb5aeRyGScMxIKQS2y8GwygY7JTQ/5rrgPmp2WXbFnxmekgbdVI++31zIcaDHRo+u0nb61pKqouZ7bAzqu2jq+RdB5bDCut+VY3FLKeyrLJkoNR8hjn93MBlF/B83JG7xG1kItpVBbJPw6opGXcbQxDU5e+xgmZqHOFNcDKTMi9vIcUPGqA+Hw2tGcxtwaC4WNoklvg554fKfuAkr+QsgdIxC6dVcpc/9fu7+2nOocd7p/K2FdzNmdalAtahxTM58pWge0Ngq321UD9EdejoXGmvatg2AK6H8/6ortyuNqiCrmL7ymxvHfxTrUn99VXqfiQCYbhsJmfhfmEhzY=;/yoa8VS823kw9h+bVdkjWg=="
+secured: "MaRo7BoiKhgE0AqKhHadBRSq+f8wWodCAs7fAsLytSMHYN4VXhy6xnSSu4wCdoW/6A7KE8gFUjNXGchxPARL+2k4Z9yIemYfGh8M5L7/1GOa0hFnM14MKzpGb97pYY7vx9cORlzFCT2oMnOzmFRAFB5+maxqj8CXZoNqdDXoNjYbLRYyWGZoQXzQybJC8HFqUgFtrHJcQDrkp0b+UGgZ75Y9c/J54+IH20d8fZk1UZpKEaODzmzf7xwlYXxySofrFqM1K7r+xEJZvZNrmonR1ddDnCqx3lK4Kn06qYp62Olaj4vv0V+r0WONNAdKZc2cB2xTvr8EDzICwgDnxeS6Hrg9TpP7RA7SQIC6NbzHLPbF733JGGuRG3XVy2tYFRTFLhTfpfNEmdU40bHNrjx6YDBJZEZoTs1DZ02/R2HKGNKvukUZZgOGTD/KTGH8zQfV7bkYvtysIqFzY7R3dBev25mriFZsDxWxz2t48lSB0qhjSPGKsUhXQXgQhrLXl7l4BUncrBziv7lpnvPexWLi4w==;8W+FpMQtZsp7XYxTf7mdpg=="
 ---
 

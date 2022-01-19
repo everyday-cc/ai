@@ -36,7 +36,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1302698093-e1642459887271.jpg?w=1200&strip=all"
         width: 1200
@@ -57,6 +57,20 @@ related:
       - url: "https://hackster.imgix.net/uploads/attachments/1397845/image_GHd6RuBE7O.png?auto=compress%2Cformat"
         width: 900
         height: 506
+        isCached: true
+  - title: "BrainChip Granted New US Patent for Event-Based Classification"
+    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / January 18, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), a leading provider of ultra-low power high performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,"
+    publishedDateTime: 2022-01-19T03:16:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-brainchip-holdings-ltd-artificial-intelligence-patents-bc4fea33563056063984e0bfdcf811e2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "jUVdqWDeTOR2hU52FUdfNCilulP/PQkEEfqznsFaDGEe+yXBHB0v1U+MxBcwb59zC4uTA9XvSLl7SkMvJ1f/wIuk6Fr9hP+Y2uvdkHye70TIE0dVVa5/eEYW5rsoTWcQivXzUXVlro6BFyn+7ab+1kkyNDbbylpMzirywWrR/3kkEaRAV0jMyzjaQZW+bAZCRo0FLpqmCRNJy4Z/0+BhHbtelercNjzpaLsdrS2gmMw8EX3Fp7//dTeY4ntgqD1/8os5QDrF8gF7DybT7C0+IMsG0ucZH+jW+8tsW+u/hEgG8Hr70yi+guhwnNg+L4GWXLAIqJU0OlqncZkx99n1btuy0FO42QnwjD6eVXfbOMI=;sRApnZti+Tk4JS6riDt0zA=="

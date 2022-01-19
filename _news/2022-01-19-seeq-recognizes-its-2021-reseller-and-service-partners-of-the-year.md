@@ -2,29 +2,29 @@
 category: news
 title: "Seeq Recognizes its 2021 Reseller and Service Partners of the Year"
 excerpt: "Seeq’s annual partner awards program honors excellence in delivering the next generation of process manufacturing improvements."
-publishedDateTime: 2022-01-18T17:11:00Z
-originalUrl: "https://www.automation.com/en-us/articles/january-2022/seeq-2021-reseller-service-partners-year"
-webUrl: "https://www.automation.com/en-us/articles/january-2022/seeq-2021-reseller-service-partners-year"
+publishedDateTime: 2022-01-19T15:40:00Z
+originalUrl: "https://www.dcvelocity.com/articles/53532-seeq-recognizes-its-2021-reseller-and-service-partners-of-the-year"
+webUrl: "https://www.dcvelocity.com/articles/53532-seeq-recognizes-its-2021-reseller-and-service-partners-of-the-year"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: DC Velocity
+  domain: dcvelocity.com
 
 topics:
-  - Microsoft AI
-  - AI
   - AWS AI
+  - AI
+  - Microsoft AI
 
 images:
-  - url: "https://www.automation.com/getmedia/dabfb663-eb8a-4226-b3ee-42638db2419d/Seeq-news-Jan-18-2022-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
+  - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/31ac764c-b153-4a09-a6ba-a224346dec4b.png?crop=true&height=430&t=1642203291&width=640"
+    width: 600
+    height: 314
     isCached: true
 
-secured: "8ei43BNbxmc2kCQoiNlkoEIp/5yULO/R8vkMd1Ln0hIyElLFN5PumaHayCUJkpuC9qbgS5a1gKi+DYDguZXwK0AMkF+WDDsu6nfOki4wFuJoyaeJwAyyDBeQodzTnQgSApe/y26iKUTO2qD/LTIlKpUQkbHswIRLePL/kU+bIqPUqAYbXvSjQO/vCFq3xtKRwMOdUeR7lxOM5rgFtGoGkeI1851RSa1LgI46aTzIIfYPFSjDMAewJtGgsALtMQWYv9fLw4ovPvrnmZkdg6xSi5YaVbEOWKkY6gOUkL9gQYEm6CF1hFQOUtf5Yx/D9wXiOc9rc8pXlaKoq35oGN9P9l8zJkfRDwdkePkM6Eoece0IEq4kWD3VS4AbVg1tJbb38IJWRZH6xNW6c4ADvyuTGjjrZcZt3o8bRciUhTawBim8F6IWY9qLUay+aELWn8wqw/+5K7vDsUEtm84giN/Wo3nIbSzQvGjwz49lzh7EDXcPgqjMHegl8gbRWKxNe3u9o+jfRpYwmGIdryRYB5MN/g==;ftYIHfPSS6AE71buueuCvw=="
+secured: "/D41Tcqws9i0nvtfF+YtXz7qYi6l1s8RnlG1q9XHZI3DKRih5cZnqOZ8YeKjq+I6zUE/Olo3RsRMZGOKoyucNpKBOJR8uVx/bCWOaNAL/p7ZoHPIb1PfWN8ywktbyg2YyBz1h3fwkjlbD7sIO0mpClK9bXmAzvtlzS7S8U/ZuMCiBK+9Un9rnPRigUFR0RhHaAHy9htXBz+b/+/VhIRlVdMJ4hVl1bo/tJ/lJTFRT29w3N9NAWwn+jWV7BdCopykIJYNbKZL1rT891JJo1TLpg3UsHU8205li33/kXgYkiTcAHqSM36eL64jtbu0NMiGvKcf3QGTnp9upiR0jyewJCgKEnRgnEZa8ukbbM4aLis=;Mp582/cG7/6LD2QOhtfBgg=="
 ---
 

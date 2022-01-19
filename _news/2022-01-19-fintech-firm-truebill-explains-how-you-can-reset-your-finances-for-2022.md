@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebil
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022/amp/"
 type: article
 quality: 73
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1642024362-GettyImages-946055220.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "African fintech Finclusion raises $20 million in debt financing"
+    excerpt: "African fintech platform Finclusion Group has secured $20million in a funding round with leading fintech debt financing provider, Lendable."
+    publishedDateTime: 2022-01-19T15:09:00Z
+    webUrl: "https://www.finextra.com/pressarticle/91072/african-fintech-finclusion-raises-20-million-in-debt-financing"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "The Fintech Digital Revolution Will Continue in 2022"
     excerpt: "The Fundamentals of Fintech Tackling the Security Issues For the Future E-Book $12.95 ORDER- Call +1 888 857 9203 +2348133877820 meritgroupinternational@yahoo."

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/19/israeli-fintech-personetics-raises
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/19/israeli-fintech-personetics-raises-85m-for-tools-to-help-incumbents-personalize-banking-services-to-compete-with-neobanks/amp/"
 type: article
 quality: 78
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1633532850/direct/shutterstock_1407910778_vyx3i0.jpg"
         width: 800
         height: 392
+        isCached: true
+  - title: "Global Banking-as-a-Service Market (2021 to 2030) - Integration of Artificial Intelligence in Banking as Service Platform Presents Opportunities - Res"
+    excerpt: "Service Market By Component, Type, Enterprise Size, and End User: Global Opportunity Analysis and Industry Forecast, 2020-2030\" report has been added to ResearchAndMarkets.com's offering. Banking-as-a-service is a non-banking system that allows the third-party organization to offer core financial services to their customers by merging with banks through APIs."
+    publishedDateTime: 2022-01-19T09:14:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=602311"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "xlilTpdVQJuuiSZ6RPgp+IHKRIwpa3Em/cNiXwUXQGVnadQ26qZF6PPmMgkcoeJ1CVwJaWOstKopHYf4N/AMy89M7NxeRow5oBt13OB9hIM+8wT60Ul2qxoUiuVj5KufXpUCfyKizBPAUtHIoeEKd03WWnWsQ9xQdsAeDMPGbWCWLLHysgRmcPvi0diTdRFVakF5yjF20RCI8Ht66tYVrAW2MewsBvEYLJqMlCmPUhV44kCr1XafRXqPdxnO77EtM0oqLCEcRolI0uTyasLqFvACKKHFCq/IYVIc0TXmNuyoAyCQqHXk5p7R9LtfSgBIzu8Ucc0NA/Rxu5orTtgCGvPEKDpBt79iVA1IgWX+TsgyMOw5BYaQQtzkBT9+bhg515duPP10o0PxXzD6YOCGlJjIQVRyyiOs6dgBhjeZulvIzF7NKUJIm+1KlaJKXtDwsOQqtgFMkK7d5cPet4N0ncWGX3chnan7IPbCpeJXiriRsw5ldtkF77Q7A52LA+ygR+eDQ+hHf2ZQCzvJlsU4VA==;H0Jf7c4TDeYPSiTeswEFSA=="

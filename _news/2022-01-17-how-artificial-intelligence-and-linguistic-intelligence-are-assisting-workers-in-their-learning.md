@@ -25,31 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "Intelligent gaming: How Artificial Intelligence and machine learning raise the stakes"
-    excerpt: "From using computers to work faster to now teaching computers to work themselves, we’ve achieved quantum leaps when it comes to the possibilities of computer technology. Driving this new generation forward are the developments"
-    publishedDateTime: 2022-01-17T12:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/"
+  - title: "Harnessing AI to Add Value Investing Potency"
+    excerpt: "In fact, WisdomTree is tapping AI to bring a fresh look to a pair of new value exchange traded funds born out of two previous funds in the issuer's lineup. The WisdomTree U.S. Dividend ex-Financials Fund (DTN) is now the WisdomTree U."
+    publishedDateTime: 2022-01-19T14:01:00Z
+    webUrl: "https://www.nasdaq.com/articles/harnessing-ai-to-add-value-investing-potency"
+    ampWebUrl: "https://www.nasdaq.com/articles/harnessing-ai-to-add-value-investing-potency?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/harnessing-ai-to-add-value-investing-potency?amp"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 62
-  - title: "AI and Marketing: 2022 and Beyond"
-    excerpt: "The Future of Artificial Intelligence in Marketing Artificial intelligence has already made significant strides in the realm of self-driving cars, but what role will it play in marketing? A recent sur"
-    publishedDateTime: 2022-01-15T01:55:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-marketing-2022-beyond-michael-paul"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "RadNet Bringing AI to Imaging Centers"
+    excerpt: "After taking a hit during the initial Covid-19 lockdown, Sawtelle-based RadNet Inc., the nation’s largest operator of stand-alone diagnostic imaging centers, is revolutionizing the industry through its use of artificial intelligence and joint ventures with hospital networks."
+    publishedDateTime: 2022-01-17T08:06:00Z
+    webUrl: "https://labusinessjournal.com/news/2022/jan/17/radnet-bringing-ai-imaging-centers/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 37
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFkMFg6Inus8Q/article-cover_image-shrink_720_1280/0/1642211702252?e=1648080000&v=beta&t=gdC_Xnatd8xBRKqzZLoGYT42Y_9WgA1E2Xjh9e5uNtk"
-        width: 1280
-        height: 720
+      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2022/01/14/RADNET_Technician_guiding_patient_into_Imaging_machine_at_RadNet_imaging_center_in_pre-Covid_photo_0117_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
+        width: 500
+        height: 334
         isCached: true
+  - title: "Using artificial intelligence to improve reporting of medication errors"
+    excerpt: "A novel machine-learning method has teased out factors that are responsible for nurses reporting, or failing to report, non-critical errors in dispensing medication"
+    publishedDateTime: 2022-01-19T15:52:00Z
+    webUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-medication-errors.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-medication-errors.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-medication-errors.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 37
 
 secured: "ktkr4iEnwxOG3JioL8ld/S/cVUGUD4tdXw/xHXWLcXusEVnR5ERxjWp0DLba4cni5zaO5GXfgB0zUKbqG1BXhCtvq199K8dObjM5V2asPwbLGTCHYDHdf5vEknB1cliVn1Ij0g2He+Mkkrn8y/j+d49hBxO2ixPk5aAju1PD/kSMQ/1WVkg5TvFG7TNxlNRxRmaAe6S8jr9Ezz9GrhUQTfILNb60FUGGjg0IYY+Esjc7InAEXtdYNL6mPGf0bAcnDJQ5PFenmfJBA9au4wmt/3Z8H/0p+3893ni58bG85psxyrcMg/AGWpeF21XG0azNAUtpGvjVq6ABQ3vhHZkDrFuP5Bi+ESXo29dihNpgJ0ilNEHqnujUBLaeCL96I8RZE1YgzZBzdpslbxftkBIBWU0ZLMnys4XV73sU0ug/Fl5I9mcuJN3D9Mh4epgy7LCQ5vSfyNTUKFwSLz5fC7koYO3i3iEAox4ZWv4g9r1gQibhy7h4dXe5eLGCaKXI8hqfDTLBJJ/F0PhTbWXUfkp63Q==;ixOL5AgT4j4p5uBeI6IsZA=="
 ---

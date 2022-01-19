@@ -2,6 +2,136 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-14-machine-learning-trends-for-marketers-to-watch-in-2022.md",
+      "title": "Machine Learning Trends for Marketers to Watch in 2022",
+      "excerpt": "Machine learning and AI research are making strides daily, with interesting implications for business. While it feels like a lot of the cool innovations are happening only in the scientific fields, progress can be seen in the marketing discipline too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/94a7c49ae3ef4fc7ba5b3c945e91b28b.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/",
+      "publishedDateTime": "2021-12-13T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-privacera-named-top-3-data-and-ai-startup-in-2021-datanami-readers-and-editors-choice-awards.md",
+      "title": "Privacera Named Top 3 Data and AI Startup in 2021 Datanami Readers' and Editors' Choice Awards",
+      "excerpt": "Privacera, the unified data access governance leader founded by the creators of Apache Ranger™, has been recognized in the sixth annual Datanami Readers' and Editors' Choice Awards in the Top 3 Data and AI Startups category,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/12/13/9510136.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/12/13/9510136.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-synectics-introduces-cloud-capabilities-to-surveillance-control-rooms-powered-by-microsoft-azure.md",
+      "title": "Synectics introduces cloud capabilities to surveillance control rooms powered by Microsoft Azure",
+      "excerpt": "Control room teams around the world can now store, manage, and collaboratively share video footage more flexibly, due to integrated native cloud capabilities introduced to one of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html?ref=nav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/synectics-security-wins-ip-video-security-system-contract-for-irish-rail-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html",
+      "publishedDateTime": "2021-12-13T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-microsoft-aims-to-make-developers-lives-easier-with-deep-learning-bug-hunt.md",
       "title": "Microsoft aims to make developers lives' easier with deep learning bug hunt",
       "excerpt": "Bugs are a real thorn in developers' sides. That's why Microsoft researchers are training AI to do the work for them.",
@@ -1222,136 +1352,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-4-reasons-to-attend-the-put-responsible-ai-into-practice-azure-digital-event.md",
-      "title": "4 reasons to attend the Put Responsible AI into Practice Azure digital event",
-      "excerpt": "AI is transforming business and the world. However, AI models learn from the data. Biases that exist in society will exist in the models. Human judgment must be the overriding factor, ensuring that AI models benefit and are inclusive of everyone. Equally important, AI must inspire trust in customers",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/4-reasons-to-attend-the-put-responsible-ai-into-practice-azure-digital-event/",
-      "originalUrl": "https://azure.microsoft.com/blog/4-reasons-to-attend-the-put-responsible-ai-into-practice-azure-digital-event/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T06:00:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-mindtree-stock-surges-after-earning-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
-      "title": "Mindtree stock surges after earning the Al and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "Mindtree has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep knowledge, extensive experience and proven success in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-sector-information-technology/mindtree-stock-surges-after-earning-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120200315_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-sector-information-technology/mindtree-stock-surges-after-earning-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120200315_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/2016-01/20/full/1453262336-5893.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T23:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-how-the-public-clouds-are-innovating-on-ai.md",
-      "title": "How the public clouds are innovating on AI",
-      "excerpt": "Below is a brief overview of the machine learning services offered on Azure, GCP, and AWS: Will we see more machine learning models as a service (MLaaS) from public clouds and other competitors?",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/693527/how-public-clouds-innovating-ai/",
-      "originalUrl": "https://www.arnnet.com.au/article/693527/how-public-clouds-innovating-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/aws_microsoft_google_cloud_2_1.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T20:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

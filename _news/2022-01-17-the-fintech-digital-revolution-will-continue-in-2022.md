@@ -59,6 +59,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "African fintech Finclusion raises $20 million in debt financing"
+    excerpt: "African fintech platform Finclusion Group has secured $20million in a funding round with leading fintech debt financing provider, Lendable."
+    publishedDateTime: 2022-01-19T15:09:00Z
+    webUrl: "https://www.finextra.com/pressarticle/91072/african-fintech-finclusion-raises-20-million-in-debt-financing"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "wXq+eBswDb0im8hfYIlURn0MLczheftu1msXxKXxUn0K66bY226ZHwnkf7q9Mp7VeuSAmQca23TTZRe1eK+McIaL2YBNaFd5qZOsPJklz/cW4xsfISnEGbOjIDloXEOo+CwakFYzKQvH4vNFBUoEeG4T67O9mns/Htg8Tt1PsjxoHveZHCYGvpumOgtzN4XOfpqiiDK6DXHaP8GGUAEYjCugIqY5H98nWEp8i9ZflBawGuq3Ame58Wd4XmNqnky+60IOUMqLj0PHOWQH6suTIwtZCBXrLt5p01c2CsYDvcYndgHE3PjW7m9l1PLvyRQoPaFra7BbF1N/2oFLqmUVyVW6ch15vBAs0hUB3DodVpgwerYylt3eM48UGgp40nwizLx9GnCceaxs2KV5p1ODVbduoT4U9Ef9EOVL/xYclmI1Lkf4dJIh4JSnhdbX3APFlqjpG53SqWJHo7Q6CL6yW7KMCw4CEW0Mki/vMp1F51AVnx71+Oow62OjOMeYC0K35lO7qgLiC2o+rouLwlj6PA==;iM9KlAqd6n609rEUwEYlVg=="
 ---

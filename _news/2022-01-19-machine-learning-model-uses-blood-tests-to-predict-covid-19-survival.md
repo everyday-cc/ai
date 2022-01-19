@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 593
         isCached: true
+  - title: "Groundbreaking AI technology diagnoses COVID-19 'in minutes'"
+    excerpt: "Pioneering artificial intelligence (AI) technology, developed by experts at University of the West of Scotland (UWS), is capable of accurately diagnosing COVID-19 in just a few minutes."
+    publishedDateTime: 2022-01-19T14:49:00Z
+    webUrl: "https://medicalxpress.com/news/2022-01-groundbreaking-ai-technology-covid-minutes.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-01-groundbreaking-ai-technology-covid-minutes.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-groundbreaking-ai-technology-covid-minutes.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/groundbreaking-ai-tech.jpg"
+        width: 672
+        height: 341
+        isCached: true
   - title: "Machine learning model for prediction of COVID-19 patient mortality risk"
     excerpt: "A new preprint reports a novel machine learning model that purportedly predicts the mortality risk of COVID-19 in patients accurately and at an early stage of infection."
     publishedDateTime: 2022-01-18T09:52:00Z
@@ -104,6 +120,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Intensive_Care-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Machine learning model predicts the likelihood of recovering from Covid"
+    excerpt: "A new study has found that 14 proteins in the blood of critically ill patients are associated with recovering from Covid."
+    publishedDateTime: 2022-01-19T14:03:00Z
+    webUrl: "https://www.healtheuropa.eu/machine-learning-model-predicts-the-likelihood-of-recovering-from-covid/112926/"
+    type: article
+    provider:
+      name: healtheuropa
+      domain: healtheuropa.eu
+    quality: 39
+    images:
+      - url: "https://www.healtheuropa.eu/wp-content/uploads/2022/01/©-iStock-Povozniuk.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Oral Medication for COVID-19 Discovered Using Artificial Intelligence"
     excerpt: "Kishor Wasan, says the double-blind intervention is being conducted among volunteers being treated on an outpatient basis. LSU DeepDrug Pr"
