@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/e3f36d82-89b8-41df-ae11-0653ce7e7944"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e3f36d82-89b8-41df-ae11-0653ce7e7944"
 type: article
 quality: 59
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/ai-trends-for-2022-2022-01-16.jpg"
         width: 1000
         height: 800
-        isCached: true
-  - title: "Victor AI on the Forbes China Top 100 Investor List"
-    excerpt: "Victor AI on the Forbes China Top 100 Investor List Shanghai, China--(Newsfile Corp. - January 17, 2022) - The '2021 Forbes China Venture Capital"
-    publishedDateTime: 2022-01-17T12:40:00Z
-    webUrl: "https://menafn.com/1103550149/Victor-AI-on-the-Forbes-China-Top-100-Investor-List"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/17/NC_7fd1636a-a_Image_In_Body.jpg"
-        width: 550
-        height: 829
         isCached: true
 
 secured: "OUuSi6ClnRVPV34Z1YVvXmx2+mVcj66ewa/WhoFzQ2PezTNKSIbvOxDUq3VZlX+gufPpYkW6gJQkkcS4sfm7JEK/kEcgMRfJBKkxfQLTjuqrwjMdSa0eREQTF5D9dXoDG3eihgC6MCHc6BrT2f4FGz2FqYBg1gGDhYq7bPrunYTGCZ91XD7CGD1jMo8bM1c1paoCGPW6M/XtzUthU1O/HCAphzBJtiHT+MRdatgu2SoxXHaPvGXNGWUu1mG/BAde8DZX6kEYDW7zqQ+c3FVdx4WlO9WMC1d/T8jOFOQx3d1M15t4FF2Glzn+HaLbexozK5pViaUiwZRZVdBQqPBU0xjhqnyLVZQTd4E5W2Kj5tQWu/u4s6Mpn9yv8CfE/5qAyYBtj3DDxPEWEtdO4oD0H7ShuTfPGa9xM9TtVEIa9trayzeq+En1p4utTqKnl9A1+fVjmg9pHfo1XqJLPJOiUfc4T/OeMvpTrB9SdirvGPTB/R17DP95cBUabqTEWKiGOLYoXacqIekCLh0ets/zxg==;IDYU4icKP4gth5suagc1Ug=="

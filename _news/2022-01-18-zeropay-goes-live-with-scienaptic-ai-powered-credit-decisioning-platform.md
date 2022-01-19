@@ -39,6 +39,20 @@ related:
         width: 792
         height: 266
         isCached: true
+  - title: "ZeroPay goes live with Scienaptic’s AI-Powered credit decisioning platform"
+    excerpt: "Leading AI-powered credit decisioning disruptor Scienaptic recently announced that ZeroPay is now live on its platform. The platform will"
+    publishedDateTime: 2022-01-19T12:15:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/zeropay-goes-live-with-scienaptics-ai-powered-credit-decisioning-platform/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 37
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/08/SLT.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "0ZSn5pVa03u7/cSWqL6hmPVcMJdZaHGTit2Lo8vfV9Nkiu9sqE6Xh9f61t7yy0iZIIMtY15l6mzxRtVIl63M03TUkchDtFCPJ03T1afZFsiwafMckOjQO6d+xQFB5I/XBOgiW9821nZ1ALw+2HrINSGW/KY7cESnbnffyx7NnnrZAJFjdnKvDvhRT/y0VnNgpR48Hspb9Grx0Xm3Og9zbMpdX9mBO56PLnTiARWCKQ3nFAFAfYIihmxvZEwGh9VRKY6r7JAqNM3MXNpccjqmrSFDRW8lnZ22+NFDh6YxFLQTEYIHy84wJ3AHTi19hvru37xIbXjYWgZn4lRtaqHdJUDHcYQsTZxTtehEQhXpU7o=;ukrbAmga36dqha7jM952SQ=="
 ---

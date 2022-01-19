@@ -1,0 +1,63 @@
+---
+category: news
+title: "Israeli Fintech on the Up: Personetics Raised $160m+ in 2021"
+excerpt: "The rise of financial technology in Israel is continuing, with AI and customer-centric fintech company Personetics raising over $160m in funding last year"
+publishedDateTime: 2022-01-19T12:37:00Z
+originalUrl: "https://fintechmagazine.com/financial-services-finserv/israeli-fintech-personetics-raised-dollar160m-2021"
+webUrl: "https://fintechmagazine.com/financial-services-finserv/israeli-fintech-personetics-raised-dollar160m-2021"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: fintechmagazine
+  domain: fintechmagazine.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/fintech-israel-personetics.jpg.png?itok=3eYfEJjo"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Israeli fintech Personetics raises $85M for tools to help incumbents personalize banking services to compete with neobanks"
+    excerpt: "Big banks are under a lot of pressure to modernize their services to meet demands of consumers who now view things like mobile apps that identify who and where you are; or instant, on-demand products,"
+    publishedDateTime: 2022-01-19T12:05:00Z
+    webUrl: "https://techcrunch.com/2022/01/19/israeli-fintech-personetics-raises-85m-for-tools-to-help-incumbents-personalize-banking-services-to-compete-with-neobanks/"
+    ampWebUrl: "https://techcrunch.com/2022/01/19/israeli-fintech-personetics-raises-85m-for-tools-to-help-incumbents-personalize-banking-services-to-compete-with-neobanks/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/19/israeli-fintech-personetics-raises-85m-for-tools-to-help-incumbents-personalize-banking-services-to-compete-with-neobanks/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-582759160.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Personetics, an AI-powered customer engagement and insights platform for banks, raises $85M"
+    excerpt: "Personetics offers banks a data-driven approach to delivering personalized customer engagement -- it's all part of the \"Netflix effect.\""
+    publishedDateTime: 2022-01-19T11:58:00Z
+    webUrl: "https://venturebeat.com/2022/01/19/personetics-an-ai-powered-customer-engagement-and-insights-platform-for-banks-raises-85m/"
+    ampWebUrl: "https://venturebeat.com/2022/01/19/personetics-an-ai-powered-customer-engagement-and-insights-platform-for-banks-raises-85m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/personetics-an-ai-powered-customer-engagement-and-insights-platform-for-banks-raises-85m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/feat-1.png?w=1200&strip=all"
+        width: 1200
+        height: 651
+        isCached: true
+
+secured: "ZeQZMiRPqb17knGZ5yLGOZNIVLUWIEyIctXl2SBcjM7xO/W4QQs7ER385dl8GVSDgIwVM0OtRucFbxItX4I735ZhXICMD1KnuuKEFWEq9s39r5JWmkcRFR2dhZsDRDF2qFHSZt03gEEcKTqWzkiEWxjwBBbfAmjHD2IvyeS/5/OLam6iM2+W8+jcGfMAeHouF7kxgiiIZdRWNrlKVx5setDCdMD5amwPRCKrQ+ve0Xu1c1Ly/kx+DtJNqRyQQbQfNcGj/kQ1UKuRqhh/nqw8fSCb8A27bCWPbTQWs/jcsyzo8eUeRYKFb7u/G0YG7MwXWgEug3YYZ8191lb68+VZ+iMwi1aoJJ8Ka3lOh3a3Eck=;55PjXNPWt1rBhicm5OhR1A=="
+---
+

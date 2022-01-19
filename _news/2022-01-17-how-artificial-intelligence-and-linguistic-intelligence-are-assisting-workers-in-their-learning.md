@@ -25,35 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Checkers Installing Voice AI in All Company-Run Locations"
-    excerpt: "AI voice ordering is rolling out in a big way under a new partnership between the fast-food giant Checkers and tech partner Presto."
-    publishedDateTime: 2022-01-14T19:22:00Z
-    webUrl: "https://www.franchisetimes.com/franchise_news/checkers-installing-voice-ai-in-all-company-run-locations/article_b4d593ac-7577-11ec-aab8-0fb934cd9896.html"
+  - title: "Intelligent gaming: How Artificial Intelligence and machine learning raise the stakes"
+    excerpt: "From using computers to work faster to now teaching computers to work themselves, we’ve achieved quantum leaps when it comes to the possibilities of computer technology. Driving this new generation forward are the developments"
+    publishedDateTime: 2022-01-17T12:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/"
     type: article
     provider:
-      name: Franchise Times
-      domain: franchisetimes.com
-    quality: 137
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/franchisetimes.com/content/tncms/assets/v3/editorial/c/d0/cd00feee-7577-11ec-b2b3-d3eb5c04a2fe/61e1dbd092a84.image.jpg?crop=749%2C393%2C0%2C0&resize=749%2C393&order=crop%2Cresize"
-        width: 749
-        height: 393
-        isCached: true
-  - title: "PIF's new AI company launches operations"
-    excerpt: "SCAI — wholly owned by Saudi Arabia’s Public Investment Fund — will support local firms as they develop AI solutions"
-    publishedDateTime: 2022-01-18T04:46:00Z
-    webUrl: "https://www.zawya.com/uae/en/wealth/story/PIFs_new_AI_company_launches_operations-SNG_279217994/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_279217994/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_279217994/"
+      name: India Times
+      domain: indiatimes.com
+    quality: 62
+  - title: "AI and Marketing: 2022 and Beyond"
+    excerpt: "The Future of Artificial Intelligence in Marketing Artificial intelligence has already made significant strides in the realm of self-driving cars, but what role will it play in marketing? A recent sur"
+    publishedDateTime: 2022-01-15T01:55:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-marketing-2022-beyond-michael-paul"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 57
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
     images:
-      - url: "https://images.zawya.com/images/cia/zAmp/180620130010CTNU.jpg"
-        width: 1199
-        height: 800
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFkMFg6Inus8Q/article-cover_image-shrink_720_1280/0/1642211702252?e=1648080000&v=beta&t=gdC_Xnatd8xBRKqzZLoGYT42Y_9WgA1E2Xjh9e5uNtk"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ktkr4iEnwxOG3JioL8ld/S/cVUGUD4tdXw/xHXWLcXusEVnR5ERxjWp0DLba4cni5zaO5GXfgB0zUKbqG1BXhCtvq199K8dObjM5V2asPwbLGTCHYDHdf5vEknB1cliVn1Ij0g2He+Mkkrn8y/j+d49hBxO2ixPk5aAju1PD/kSMQ/1WVkg5TvFG7TNxlNRxRmaAe6S8jr9Ezz9GrhUQTfILNb60FUGGjg0IYY+Esjc7InAEXtdYNL6mPGf0bAcnDJQ5PFenmfJBA9au4wmt/3Z8H/0p+3893ni58bG85psxyrcMg/AGWpeF21XG0azNAUtpGvjVq6ABQ3vhHZkDrFuP5Bi+ESXo29dihNpgJ0ilNEHqnujUBLaeCL96I8RZE1YgzZBzdpslbxftkBIBWU0ZLMnys4XV73sU0ug/Fl5I9mcuJN3D9Mh4epgy7LCQ5vSfyNTUKFwSLz5fC7koYO3i3iEAox4ZWv4g9r1gQibhy7h4dXe5eLGCaKXI8hqfDTLBJJ/F0PhTbWXUfkp63Q==;ixOL5AgT4j4p5uBeI6IsZA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede30bbf9898700074a916c%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Rackspace Technology to acquire an AI service provider Just Analytics"
+    excerpt: "Rackspace Technology (RXT) to acquire Asia Pacific and Japan region based Just Analytics, a leading provider of cloud-based data, analytics, and artificial"
+    publishedDateTime: 2022-01-19T10:48:00Z
+    webUrl: "https://seekingalpha.com/news/3789055-rackspace-technology-to-acquire-an-ai-service-provider-just-analytics"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3789055-rackspace-technology-to-acquire-an-ai-service-provider-just-analytics"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3789055-rackspace-technology-to-acquire-an-ai-service-provider-just-analytics"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 59
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
         isCached: true
   - title: "Rackspace grows Asia Pacific presence with Just Analytics acquisition"
     excerpt: "Rackspace plans to leverage Just Analytics to help build out its data and Microsoft Azure roadmap in the region."
@@ -94,6 +110,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Rackspace Technology to Acquire Just Analytics, a Leading Provider of Cloud-based Data, Analytics, and Artificial Intelligence Services"
+    excerpt: "Rackspace Technology ® (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company, today announced that it has agreed to acquire Just Analytics, a leading provider of cloud-based data,"
+    publishedDateTime: 2022-01-19T01:03:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-4dea1b6b53e6dfefa7af89e09d309e9a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Temedica Introduces Permea: First Analytics Platform Integrating Patient-Generated Health Data"
     excerpt: "Temedica GmbH, a leading digital health and data analytics company, today announces the launch of Permea. Permea is a unique platform providing medically sound analyses and actionable insights to a whole range of questions and challenges arising along the value chain in the healthcare market."

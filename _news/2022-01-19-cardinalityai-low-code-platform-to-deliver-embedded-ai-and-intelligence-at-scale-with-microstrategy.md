@@ -2,27 +2,27 @@
 category: news
 title: "Cardinality.ai low code platform to deliver embedded AI and Intelligence at scale with MicroStrategy"
 excerpt: "Cardinality.ai, a data technology group helping government agencies achieve better outcomes through artificial intelligence (AI) solutions announced a new OEM partnership with MicroStrategy (Nasdaq: MSTR)."
-publishedDateTime: 2022-01-19T00:45:00Z
-originalUrl: "https://kdvr.com/business/press-releases/cision/20220118DC29285/cardinality-ai-low-code-platform-to-deliver-embedded-ai-and-intelligence-at-scale-with-microstrategy/"
-webUrl: "https://kdvr.com/business/press-releases/cision/20220118DC29285/cardinality-ai-low-code-platform-to-deliver-embedded-ai-and-intelligence-at-scale-with-microstrategy/"
+publishedDateTime: 2022-01-18T19:08:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-5b0a7bc33465bd6bf96c3691cd5e5a3d"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-5b0a7bc33465bd6bf96c3691cd5e5a3d"
 type: article
 quality: 22
 heat: 22
 published: false
 
 provider:
-  name: FOX31 Denver
-  domain: kdvr.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/kdvr.com/wp-content/uploads/sites/11/2022/01/GettyImages-1237486075.jpg?w=2000&#038;ssl=1"
-    width: 1024
-    height: 683
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "23yGowZrCU57GivWQgTpRPFDjauliiyBj4BMAGi63MnXcG9BdPUvcCvGMIoTWMZuY8YH2rF6dQ6+4qbtyG+JxXybp+H6H5ss+8LMmjmlKxtaNSe78tS91W9QU34QJu41PqkPn2Y7gQoeueQUT5/XZREQAJmAE8ABXJCcc8Fyv6OV/EjhEKba9G92EqG8y26u/uK7kuLPee7zEtD2l8gxIZG1TjpqXRGexWCTl92RnnFm30rbrsYh2W/5YKh6GIDoFuG25DHKKUPwnrAC/7JD4PgWhVb3wgKrFTypCzD1F5zqrSfRqYm0lY/BRExPeliSyDEpc/C1h+Hgr2WHtlupwAOheKzlWhMATV34LeSQHO0=;eW1Aaa+Gk9XOc5x5jQOgdQ=="
+secured: "S38l2L6w6qIHLzpL07Vr/eGGFlk58oEOoZTu7YnCFXYylDgDbe/IWlIy4XQIOgIJyvTKx+hKYNmsBl648IY7sWzFSrCKM9VaLZzcO8pF/2WjfqfFj7BYQrwGJnWSmLO2R5jtKc5d8rXEVxglAhyhVgHNOvq2VqJ35sVDhBctOTybFzaEBHgW7lwCkLQ32XqP15sLCqv+lbsgQmc3jz1RgGuRj5l+AZI6ZcRzEYWFz0o42JJzrLTOxpWcig0QFYPgLKAgwXlEKyVbdYvHsifEklkJD05RYT4qhnclJczuCL6SVf4FgF4hZnNQhH7RtHm43Zp1Im8DGQXlbEp8oUX/N+GhzrpgMpyqPJm30mmogow=;mz5txLUpFuSPjSKrb/cb6Q=="
 ---
 

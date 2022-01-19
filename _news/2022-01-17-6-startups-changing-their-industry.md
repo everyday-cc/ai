@@ -7,7 +7,7 @@ originalUrl: "https://knowtechie.com/6-startups-changing-their-industry/"
 webUrl: "https://knowtechie.com/6-startups-changing-their-industry/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -26,32 +26,32 @@ images:
 
 related:
   - title: "5 Stocks Offering Exposure to the Promising Semiconductor Industry"
-    excerpt: "The longer-lasting impact of the pandemic is overwhelmingly positive for the industry because it provides the building blocks of technology that everyone is relying on for maintaining social distancing and remote operations."
-    publishedDateTime: 2022-01-18T11:14:00Z
-    webUrl: "https://www.chron.com/business/article/5-Stocks-Offering-Exposure-to-the-Promising-16783157.php"
+    excerpt: "The Analog/Mixed Signal Semiconductor industry is one of the most attractive segments of the market where secular growth drivers are huge and deep. ADI, MCHP, MPWR, NXPI and ON"
+    publishedDateTime: 2022-01-18T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/413594"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 24
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
     images:
-      - url: "https://staticx-tuner.zacks.com/images/articles/charts/7e/16358.jpg?v=300501616"
-        width: 620
-        height: 514
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-413594.jpeg"
+        width: 635
+        height: 400
         isCached: true
-  - title: "Four Pune startups get National Startup Award 2021"
-    excerpt: "Four startups from Pune working on a range of technologies in healthcare, security surveillance, travel and industry were among the top 46 Indian startups adjudged by the Ministry of Commerce and Industry."
-    publishedDateTime: 2022-01-16T16:37:00Z
-    webUrl: "https://indianexpress.com/article/cities/pune/four-pune-startups-get-national-startup-award-2021-7726640/"
+  - title: "Worldwide AI in Medical Diagnostics Industry to 2026 - Investments in the AI Health Sector is Driving Growth - ResearchAndMarkets.com"
+    excerpt: "Global Markets\" report has been added to ResearchAndMarkets.com's offering. The current report offers a detailed picture of the AI medical diagnostics market. This report highlights the current and future"
+    publishedDateTime: 2022-01-17T15:22:00Z
+    webUrl: "https://www.lelezard.com/en/news-20194713.html"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 22
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 8
     images:
-      - url: "https://images.indianexpress.com/2022/01/WhatsApp-Image-2022-01-12-at-3.01.48-PM-4.jpeg"
-        width: 1200
-        height: 667
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "ss1LGx7RhSjoqhaiE2aJBZybe51e5tCQZUYJ5FxKSXwWel4KlAJMi+jpPWiqD9KutMwkr2zK6j6+gM6EeadDz091vEX0DdRpsXiqA+b+DLLtNJvjCYc4vdIoHM1/EiO7vQMIS3bcqmxet9IZITktBuV9bTb+LV4/aTnp2BmXU+IcrslPZKF+4r0Ak0Kv8Q3HPVnKejI+P9ePWKyvchQFAHdaqK7ujgMb0h/ApPtCVzhrfDszfTOu1LfydbCpdMmoeuKyfCqZQkYYf2CThFNeeU1hgnZWWqtlikH26THSOpVZzTYpjjPvvUH/TVqAskClNyjou9clwyQDteOOTmo4x5xWGfaVqRjIPGm5DQ4Dx9o=;3GR6rxSfKOcyvgkS9Ykkdg=="

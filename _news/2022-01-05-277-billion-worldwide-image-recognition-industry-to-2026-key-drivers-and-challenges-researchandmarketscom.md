@@ -1,26 +1,20 @@
 ---
 category: news
 title: "$27.7 Billion Worldwide Image Recognition Industry to 2026 - Key Drivers and Challenges - ResearchAndMarkets.com"
-excerpt: "By Technology (Digital Image Processing, Code Recognition, Facial Recognition, Others), By Deployment, By Application, By End User, By Region, Competition, Forecast"
-publishedDateTime: 2022-01-05T13:01:00Z
-originalUrl: "https://www.lelezard.com/en/news-20178301.html"
-webUrl: "https://www.lelezard.com/en/news-20178301.html"
+excerpt: "facial recognition, object recognition, pattern recognition, and optical character recognition. The facial recognition technology is expected to witness significant growth in the forecast period ..."
+publishedDateTime: 2022-01-05T12:33:00Z
+originalUrl: "https://www.businesswire.com/news/home/20220105005623/en/27.7-Billion-Worldwide-Image-Recognition-Industry-to-2026---Key-Drivers-and-Challenges---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ=="
+webUrl: "https://www.businesswire.com/news/home/20220105005623/en/27.7-Billion-Worldwide-Image-Recognition-Industry-to-2026---Key-Drivers-and-Challenges---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ=="
 type: article
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-    width: 421
-    height: 421
-    isCached: true
-
-secured: "x9TboSCNk8Eve869KNWjFMDuFll14CmsxyVw5K5shwptXr8+nHcvYOD2/PJH/kzUQmOIe9PvrA3GQUUGuGFMhM4mcuQ6hv08SF67KEd11yrQHf8gQuDGyPbLy1gMBGI/F96JU3bU5ArnkVV4+r0S0aVdJrtlD+JCp2G2SBhYr9cuaoj7DrOPPZL2dteSRv5n2uTWQbGDoJJGCzfTVAhsBaUHa9wGP8Z/7atH7y7Bps8DOPahmTun3Xbx5YYls2BBgqNRK2c2uzQhin9DGmDPDZHynaK4ssNN5UvfgV3skXIY9DGoEokljCKDQvGDwGCzTLiK9E6UCLogg/pZvnMxhFSwSd9h3YsHxT5XiO8mk+k=;MuNByRUye/P2haLzemnGLA=="
+secured: "Y/4wWAJ5K8bEhjrr8bkIAGDZwxhUnDI6JssJiGlr9yfHC5gyKbwOCy8dNgmoFmkOe4I6VixvB2ZW42ZTmp90v60K93QSJlRx3Z1UY/9lWrTrQejEfQ05ihN5zpNyPx80YyLYw/pixsyZkiy17/kIkXeJs1LUhb8gu5PPL9xL28BrNLRTeE/81Z84Toh0mXSe+KUP6QskaoY1OAF4OmyaS7wyQuRkAwUOPNmyQo8lSrV6eEToqkmz51lUe3smJZ5RwbsQEEWDrnfGSquEfSq/PGf5WcFo7GV+rV8tzCGGUqWT82gHL5NIluWL5ycVz5tQeNRs+0bkH4Lg2HK9xNoIBHgviumLaBimbbZIhE66xvs=;wnY9z3xkQZZ1pUxg+0p3Kw=="
 ---
 
