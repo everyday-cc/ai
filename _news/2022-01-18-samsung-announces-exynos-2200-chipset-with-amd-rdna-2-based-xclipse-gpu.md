@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-c
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/?amp=1"
 type: article
 quality: 104
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -232,6 +232,15 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
+    quality: 19
+  - title: "Samsung finally unveils Exynos 2200: Xclipse GPU based on AMD RDNA 2"
+    excerpt: "Samsung reveals its 'freshly designed mobile processor' in the Exynos 2200: a new AMD RDNA 2-based Samsung Xclipse GPU included."
+    publishedDateTime: 2022-01-19T02:39:00Z
+    webUrl: "https://www.tweaktown.com/news/84076/samsung-finally-unveils-exynos-2200-xclipse-gpu-based-on-amd-rdna-2/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
     quality: 19
   - title: "Samsung Unveils the Exynos 2200 Processor with the Xclipse GPU Powered by AMD's RDNA2 Architecture"
     excerpt: "Samsung announced its new premium mobile processor, the Exynos 2200. The Exynos 2200 is a freshly designed mobile processor with a powerful AMD RDNA 2 architecture based Samsung Xclipse graphics"

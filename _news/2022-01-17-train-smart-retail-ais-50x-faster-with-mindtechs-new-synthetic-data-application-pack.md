@@ -1,29 +1,25 @@
 ---
 category: news
-title: "Train Smart Retail AIs 50x Faster With Mindtech’s New Synthetic Data Application Pack"
-excerpt: "Mindtech Global, developer of the world’s leading synthetic data creation platform for training AI vision systems – has released a new application pack for companies developing smart retail systems. This press release features multimedia."
-publishedDateTime: 2022-01-17T12:02:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/train-smart-retail-ais-50x-faster-with-mindtech-s-new-synthetic-data-application-pack/article_17d16b14-ce47-5625-81b1-653128a22c96.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/train-smart-retail-ais-50x-faster-with-mindtech-s-new-synthetic-data-application-pack/article_17d16b14-ce47-5625-81b1-653128a22c96.html"
+title: "Train Smart Retail AIs 50x Faster With Mindtech's New Synthetic Data Application Pack"
+excerpt: "Smart Retail application pack enables developers to rapidly train AIs with synthetic data for next-gen use-cases ** ** Current retail"
+publishedDateTime: 2022-01-17T12:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/b25072890/train-smart-retail-ais-50x-faster-with-mindtechs-new-synthetic-data-application-pack"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/b25072890/train-smart-retail-ais-50x-faster-with-mindtechs-new-synthetic-data-application-pack"
+ampWebUrl: "https://www.benzinga.com/amp/content/25072890"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25072890"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/b/de/bdea2a1a-1ce6-50f9-a101-839344e04ecf/61e56ca5708c3.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "L3tqpwUoQ6cfseC+gO2C58U02+N310UGRazeLTLPCiPtzAwXaDhPo2ETvGF4kUOVl1JrTQMUjiObT4uEcZwOec+5N+tWNQF4AhUZmj0FBK6GZqNbn0f9aC8+upsYwwxPBSzOK7Fh233NAJN+ByrMN/5KS9LwUvN+qey6DPN4nximRRi8rOaa7jy7NWCpxh3f7ZasbFYiO+z8LBIPiWRUztkO/hGNbQEoCt+cOcY8NxUkaf/4J3UZ/L8A/N8UyazJGVAcntfYo+fgesGqiZDg6Mi4n2N2XXz9JLFPeXwKMMc9Vd0764dqNWCpGd/RZ6dQzwYPXGPK5A3IIlNIkZ7y0oVXgsDAWr6Pw6tk438Ai6o=;+ZVKGt09L2aAJ0tT7a1/LA=="
+secured: "K/F1oCx4YCiaBatkNT8ESlmQrEdqCF6BbJ2RZ+7hdku+UN83OPchSc64ASJO8h96SncxoMjcSSabzRdXyc3FcDC0F0T1WneovzRraslzkJ5wjIzslREPCJXwPqGm0rSA0YpJWLFRmbvyFecOSWT2PaKcDOZbvDUHyxYaX929uqMZ+6ebIPwiIWXdCNmL2Rf8ds2n9jSoCfucxWQJvic7rG+jdQrRynZax/aWqw+mGi1imF8b/hKcWfXLC5Xnkx0ZjMwLVjFZfFZOSC/rWqT7PdwYfM2Jq2OQA1Uz2V6HEAl814OvFH/ZlpOvBTiAsliatJ4UCbCFRBenG6OWDfvF5o7MlKfSVFXKPU8+SrwmRmmoau9g0J3YBdW4iLgrmAFNdXaBUCuksC12j8WWTRUSagDPsRkIZkx48dkxa2Z7LNH17P5NmUv5ybvpEN1nakPw0+scG8OT/AxCB291a/tW0zbFKpt+NuGsCDr5x/fcOUJDZWs7R6gybDp4ICWHmrYCT9IZ+ElWAGmt2fSVhOZZjg==;hgirMBr4GRw/9q+gKHKW6A=="
 ---
 

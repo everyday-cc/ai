@@ -2,6 +2,249 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-01-05-intel-launches-its-arc-graphics-chips-for-pc-gaming.md",
+      "title": "Intel launches its Arc graphics chips for PC gaming",
+      "excerpt": "Intel aims to disrupt the duopoly of Nvidia and Advanced Micro Devices with its own Arc standalone graphics chips launching today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
+      "originalUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/intel-arch-7.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
+      "publishedDateTime": "2022-01-04T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-avantive-solutions-selects-hitachi-solutions-america-to-optimize-customer-experience-with-advanced-data-analytics.md",
+      "title": "Avantive Solutions Selects Hitachi Solutions America to Optimize Customer Experience with Advanced Data Analytics",
+      "excerpt": "Avantive Solutions, a global technology and business process outsourcer (BPO) specializing in innovative customer experience (CX), strategic sales, and digital marketing solutions, today announced a partnership with Hitachi Solutions America,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-7aac63e22000bab7cd3197f17ce76a83",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-7aac63e22000bab7cd3197f17ce76a83",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-the-convergence-of-deep-neural-networks-and-immunotherapy.md",
+      "title": "The convergence of deep neural networks and immunotherapy",
+      "excerpt": "What do deep neural networks and cancer immunotherapy have in common? While both are among the most transformational areas of modern science, 30 years ago, these fields were all but ridiculed by the scientific community.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/",
+      "originalUrl": "https://techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1280246102.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/amp/",
+      "publishedDateTime": "2022-01-04T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-tech-predictions-for-2022-cloud-data-cybersecurity-ai-and-more.md",
+      "title": "Tech Predictions for 2022: Cloud, Data, Cybersecurity, AI, and More",
+      "excerpt": "“Enterprises will empower business users to become data analysts by applying well-trained natural language processing (NLP) and machine learning technologies, and implementing richly curated data catalogs to unleash the power of complex analytic",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/",
+      "originalUrl": "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/business-meeting-tech-analytics.jpeg",
+          "width": 1920,
+          "height": 1362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-the-future-of-medtech-goes-beyond-microsofts-ai-creep.md",
+      "title": "The future of medtech goes beyond Microsoft’s AI creep",
+      "excerpt": "What to expect from medtech and its future beyond the ‘Monstersoft’ in the operating room. If one story gave a clue to the future of medtech in 2021, a likely contender would be Microsoft’s acquisition of Nuance Communications for $19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clinicaltrialsarena.com/analysis/the-future-of-medtech-goes-beyond-microsofts-ai-creep/",
+      "originalUrl": "https://www.clinicaltrialsarena.com/analysis/the-future-of-medtech-goes-beyond-microsofts-ai-creep/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/01/shutterstock_787873258-464x348.jpg",
+          "width": 464,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Clinical Trials Arena",
+        "domain": "clinicaltrialsarena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-faster-than-tesla-the-team-deploying-neural-networks-in-one-day.md",
       "title": "Faster Than Tesla: The Team Deploying Neural Networks in One Day",
       "excerpt": "In pursuit of higher velocity innovation, Iandola was drawn to defense tech company Anduril. Today he works as head of perception, training deep neural networks for Anduril’s products to understand their surroundings and provide operators with ...",
@@ -909,229 +1152,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-labrador-retriever-robot-for-those-with-chronic-pain.md",
-      "title": "Labrador \"Retriever\" robot for those with chronic pain",
-      "excerpt": "Labrador Systems . A new personal robot takes a page from the massive proliferation of enterprise materials handling robots over the past few years. The Retriever from developer L",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "originalUrl": "https://www.zdnet.com/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c5037216932a5c4b6dfc87f67948394f889a2866/2021/12/30/2e364f0a-8ac2-49bf-9803-73818ae17f83/labrador-retriever.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "publishedDateTime": "2022-01-04T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park.md",
-      "title": "Moving AI From The Safe And Secure Lab Into The Real World Isn’t Always A Walk In The Park",
-      "excerpt": "If you dream it, you can do it,” is a saying often attributed to Walt Disney, who successfully transformed his vision into a movie and theme park empire. While this is a great motivational quote, it wasn’t a simple formula for success for Disney back then,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F696529578%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park/amp/",
-      "publishedDateTime": "2022-01-04T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-2022-will-see-increasing-ai-role-in-augmented-and-virtual-reality.md",
-      "title": "2022 Will See Increasing AI Role in Augmented and Virtual Reality",
-      "excerpt": "In its new whitepaper, 70 Technology Trends That Will—and Will Not—Shape 2022, ABI Research analysts identify 35 trends that will shape the technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/2022-will-see-increasing-ai-role-in-augmented-and-virtual-reality/article_ab60c9e5-b2ce-5b71-a588-b2c17a401835.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/2022-will-see-increasing-ai-role-in-augmented-and-virtual-reality/article_ab60c9e5-b2ce-5b71-a588-b2c17a401835.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-lg-builds-tech-to-start-cars-using-facial-recognition.md",
-      "title": "LG builds tech to start cars using facial recognition",
-      "excerpt": "The technology will enable users to start their vehicles as well as make adjustments to control the vehicles through facial expressions and hand gestures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/7kfqy8/article38110437.ece/ALTERNATES/LANDSCAPE_615/LGfacialjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/",
-      "publishedDateTime": "2022-01-04T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-ubtech-showcases-autonomous-uv-c-robot-at-ces-2022.md",
-      "title": "UBTECH Showcases Autonomous UV-C Robot at CES 2022",
-      "excerpt": "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today announced the market availability of the newest addition to its portfolio of humanoid robots at CES 2022: ADIBOT-A,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-robotics-5d618fe4711b4ad4867fa34097904484",
-      "originalUrl": "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-robotics-5d618fe4711b4ad4867fa34097904484",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi fintech joins battle for US retail investors"
-    excerpt: "RIYADH: Saudi entrepreneur Nezar Bakhsh has joined the battle for US retail investors after launching a financial technology startup that sells stock trading advice to traders. His Quant Alpha platform offers artificial intelligence-powered software for investors,"
-    publishedDateTime: 2022-01-16T15:18:00Z
-    webUrl: "https://www.zawya.com/uae/en/business/story/Saudi_fintech_joins_battle_for_US_retail_investors-SNG_278890775/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_278890775/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_278890775/"
+  - title: "Fintech Firm Truebill Explains How You Can “Reset Your Finances” for 2022"
+    excerpt: "The team at TrueBill notes that the new year can be a good time to \"reset your finances,\" and they would like to help you out with that."
+    publishedDateTime: 2022-01-19T01:28:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 73
     images:
-      - url: "https://images.zawya.com/images/cia/zAmp/210516074158XLWJ.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/01/2022-600x537.jpeg"
+        width: 600
+        height: 537
         isCached: true
   - title: "What's on the Horizon for Payments and Fintech in 2022?"
     excerpt: "As most industries continue to navigate the challenges of Covid-19, the payments and fintech sector is vitally connected to the recovery. Some emerging trends can help you make educated decisions about where to take your own company in the upcoming year."
@@ -59,29 +59,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Padar Joins VC-Backed Tax Fintech for Banks"
-    excerpt: "April Tax Solutions targets banks and financial institutions. Jody Padar, CPA, also known as “The Radical CPA,” has exited Botkeeper after three years and joined April"
-    publishedDateTime: 2022-01-18T14:59:00Z
-    webUrl: "https://cpatrendlines.com/2022/01/18/padar-joins-vc-backed-tax-fintech-for-banks/"
-    type: article
-    provider:
-      name: CPA Trendlines
-      domain: cpatrendlines.com
-    quality: 39
-    images:
-      - url: "http://cpatwpe.s3.amazonaws.com/cpatrendlines/wp-content/uploads/2017/12/Jody-Padar-2018-SQUARE.png"
-        width: 513
-        height: 502
-        isCached: true
-  - title: "Startup of the Week: Saudi fintech joins battle for US retail investors"
-    excerpt: "RIYADH: Saudi entrepreneur Nezar Bakhsh has joined the battle for US retail investors after launching a financial technology startup that sells stock trading advice to traders. His Quant Alpha platform offers artificial intelligence-powered software for investors,"
-    publishedDateTime: 2022-01-18T10:09:00Z
-    webUrl: "https://tynmagazine.com/startup-of-the-week-saudi-fintech-joins-battle-for-us-retail-investors/"
-    type: article
-    provider:
-      name: tynmagazine.com
-      domain: tynmagazine.com
-    quality: 19
 
 secured: "wXq+eBswDb0im8hfYIlURn0MLczheftu1msXxKXxUn0K66bY226ZHwnkf7q9Mp7VeuSAmQca23TTZRe1eK+McIaL2YBNaFd5qZOsPJklz/cW4xsfISnEGbOjIDloXEOo+CwakFYzKQvH4vNFBUoEeG4T67O9mns/Htg8Tt1PsjxoHveZHCYGvpumOgtzN4XOfpqiiDK6DXHaP8GGUAEYjCugIqY5H98nWEp8i9ZflBawGuq3Ame58Wd4XmNqnky+60IOUMqLj0PHOWQH6suTIwtZCBXrLt5p01c2CsYDvcYndgHE3PjW7m9l1PLvyRQoPaFra7BbF1N/2oFLqmUVyVW6ch15vBAs0hUB3DodVpgwerYylt3eM48UGgp40nwizLx9GnCceaxs2KV5p1ODVbduoT4U9Ef9EOVL/xYclmI1Lkf4dJIh4JSnhdbX3APFlqjpG53SqWJHo7Q6CL6yW7KMCw4CEW0Mki/vMp1F51AVnx71+Oow62OjOMeYC0K35lO7qgLiC2o+rouLwlj6PA==;iM9KlAqd6n609rEUwEYlVg=="
 ---

@@ -2,6 +2,245 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-12-01-risc-vs-open-chip-processors-expected-to-double-in-2022-and-double-again-in-2023.md",
+      "title": "RISC-V's open chip processors expected to double in 2022, and double again in 2023",
+      "excerpt": "The open chip standard will go from \"one drop in the bucket to two,\" representing a small fraction of the overall ISA market but showing incredible growth, according to a new report from Deloitte.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/risc-vs-open-chip-processors-expected-to-double-in-2022-and-double-again-in-2023/",
+      "originalUrl": "https://www.techrepublic.com/article/risc-vs-open-chip-processors-expected-to-double-in-2022-and-double-again-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/01/b6c240ac-4740-4b6b-8fed-ec8c5d679870/resize/1200x/fa35a9a02829c378ee8f3bc593b8bd4d/risc-v.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/risc-vs-open-chip-processors-expected-to-double-in-2022-and-double-again-in-2023/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/risc-vs-open-chip-processors-expected-to-double-in-2022-and-double-again-in-2023/",
+      "publishedDateTime": "2021-12-01T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-aurora-accelerates-development-of-the-aurora-driver-with-aws.md",
+      "title": "Aurora Accelerates Development of the Aurora Driver with AWS",
+      "excerpt": "Aurora uses AWS’s proven infrastructure and unparalleled portfolio of capabilities to safely accelerate the development of the Aurora Driver, its scalable self-driving vehicle technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211201005041/en/Aurora-Accelerates-Development-of-the-Aurora-Driver-with-AWS",
+      "originalUrl": "https://www.businesswire.com/news/home/20211201005041/en/Aurora-Accelerates-Development-of-the-Aurora-Driver-with-AWS/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-putting-the-ai-in-retail-how-ai-is-changing-this-years-holiday-retail-landscape.md",
+      "title": "Putting The AI In Retail: How AI Is Changing This Year’s Holiday Retail Landscape",
+      "excerpt": "Leveraging my insights as an AI infrastructure CEO, let's take a look at how some businesses are employing AI to change the holiday shopping experience this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/putting-the-ai-in-retail-how-ai-is-changing-this-years-holiday-retail-landscape/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/putting-the-ai-in-retail-how-ai-is-changing-this-years-holiday-retail-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a653c02773ba2ef4ff2309%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/putting-the-ai-in-retail-how-ai-is-changing-this-years-holiday-retail-landscape/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/putting-the-ai-in-retail-how-ai-is-changing-this-years-holiday-retail-landscape/amp/",
+      "publishedDateTime": "2021-12-01T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-the-landscape-of-ai-and-real-world-evidence.md",
+      "title": "The Landscape Of AI And Real-World Evidence",
+      "excerpt": "A new report profiles 125 global companies that bring AI tools to the emerging real-world data and real-world evidence industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai-and-real-world-evidence-supporting-drug-approvals/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai-and-real-world-evidence-supporting-drug-approvals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6145eddd5d6aa1cb5c537b2d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai-and-real-world-evidence-supporting-drug-approvals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai-and-real-world-evidence-supporting-drug-approvals/amp/",
+      "publishedDateTime": "2021-12-01T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-eu-lawmakers-agree-data-reuse-rules-to-foster-ai-and-rd.md",
+      "title": "EU lawmakers agree data reuse rules to foster AI and R&D",
+      "excerpt": "It’s just over a year since the European Union’s executive proposed legislation aimed at encouraging widespread sharing and reuse of industrial data and protected public sector data-sets — such as health data,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/",
+      "originalUrl": "https://techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1295745465.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/amp/",
+      "publishedDateTime": "2021-12-01T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-viewpoint-why-employers-must-create-disability-inclusive-cultures.md",
       "title": "Viewpoint: Why employers must create disability-inclusive cultures",
       "excerpt": "And yet many disabilities – including cognitive and mental health challenges ... strategies that such firms as Fidelity, Biogen, Microsoft, and others have adopted. These include recruitment ...",
@@ -893,266 +1132,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost.md",
-      "title": "Qualcomm launches Snapdragon 8 Gen 1 mobile platform with AI, camera, security boost",
-      "excerpt": "Qualcomm has announced Snapdragon 8 Gen 1 featuring improved camera capabilities, artificial intelligence (AI) applications, and security enhancements.  During the annual Qualcomm Snapdragon Tech Summit,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/",
-      "originalUrl": "https://www.zdnet.com/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/06c2754bb5fd41361d2d19fb5758a85123fdf813/2021/11/24/37ec361f-765c-4608-910d-f9b36d8d9acc/screenshot-2021-11-24-at-15-37-15.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 783,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/",
-      "publishedDateTime": "2021-11-30T15:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-overconfident-china-could-make-miscalculations-british-spy-chief-says.md",
-      "title": "Overconfident China could make miscalculations, British spy chief says",
-      "excerpt": "An overconfident and assertive China under President Xi Jinping and Communist Party rule risks making miscalculations on the international stage, including underestimating the resolve of the United States,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/uk/british-mi6-spy-chief-warns-race-is-mastery-ai-2021-11-30/",
-      "originalUrl": "https://www.reuters.com/world/uk/british-mi6-spy-chief-warns-race-is-mastery-ai-2021-11-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/uDYE4bLV87mJrMK1nYeyRc8TWQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZKYAV62CXBMBRNX27LUVAJ5FHM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-linkedin-and-intel-tech-leaders-on-the-state-of-ai.md",
-      "title": "LinkedIn and Intel tech leaders on the state of AI",
-      "excerpt": "Industry leaders discuss the \"duct tape of data,\" if language models are a good way to approximate AI, and how to gain hybrid intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/",
-      "originalUrl": "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/amp/",
-      "publishedDateTime": "2021-11-30T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-hkust-and-other-universities-in-the-city-team-with-us-researchers-to-work-on-ai-chips.md",
-      "title": "HKUST and other universities in the city team with US researchers to work on AI chips",
-      "excerpt": "AI chips are processors optimised for data-intensive AI applications such as Internet of Things (IoT) devices, allowing them to run faster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/30/8881de5f-9221-46c3-83b9-7968d752e7a8_5c1086f0.jpg?itok=d_8xI6OY&v=1638274676",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai",
-      "publishedDateTime": "2021-11-30T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-hong-kong-introduces-contactless-immigration-channels-featuring-facial-recognition-technology.md",
-      "title": "Hong Kong introduces contactless immigration channels featuring facial recognition technology",
-      "excerpt": "The new ‘contactless e-channels’ will enable users to cross the border in seven seconds flat, immigration official says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels",
-      "originalUrl": "https://www.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/30/e0bee7b2-99b7-4e15-8cf8-810de918c315_c23520cf.jpg?itok=_1eeAFqq&v=1638274805",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels",
-      "publishedDateTime": "2021-11-30T12:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

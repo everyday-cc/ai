@@ -2,6 +2,230 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-12-16-artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft.md",
+      "title": "Artificial Intelligence in Platform as a Service Market is Going to Boom | AWS, IBM, Microsoft",
+      "excerpt": "The growth of the Artificial Intelligence in Platform as a Service Market was mainly driven by the increasing R&D spending across the world. Some of the key players profiled in the study are: AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-platform-as-a-service-market-is-going-to-boom-aws-ibm-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/BBB-4-2-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-ai-cryptocurrency-and-machine-learning-top-coursera-popularity-list-for-uk.md",
+      "title": "AI, cryptocurrency and machine learning top Coursera popularity list for UK",
+      "excerpt": "Google, Stanford University, Princeton University and Yale University all had courses in the top 15 for UK-based Coursera users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/education/courses-on-ai-cryptocurrency-and-machine-learnings-top-coursera-popularity-list-for-uk/",
+      "originalUrl": "https://www.zdnet.com/education/courses-on-ai-cryptocurrency-and-machine-learnings-top-coursera-popularity-list-for-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/49bf43168e0748129940868d7c398b542e442d36/2021/12/16/7d3883bc-3c2e-472b-baee-fed126dee970/screen-shot-2021-12-16-at-1-45-57-am.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1149,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/courses-on-ai-cryptocurrency-and-machine-learnings-top-coursera-popularity-list-for-uk/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/courses-on-ai-cryptocurrency-and-machine-learnings-top-coursera-popularity-list-for-uk/",
+      "publishedDateTime": "2021-12-16T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-samsung-rolls-out-chips-for-self-driving-cars.md",
+      "title": "Samsung rolls out chips for self-driving cars",
+      "excerpt": "Samsung unveiled the industry‘s first universal flash storages for self-driving cars in 2017 ... Both products are used for servers and artificial intelligence-powered accelerators. The latest technology will better support complex processing of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20211216000657",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20211216000657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2021%2F12%2F16%2F20211216000591_0.jpg",
+          "width": 630,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20211216000657",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20211216000657",
+      "publishedDateTime": "2021-12-15T22:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-3-startups-spearheading-ai-growth-in-south-korea.md",
+      "title": "3 startups spearheading AI growth in South Korea",
+      "excerpt": "According to McKinsey & Company, at least 70% of businesses worldwide would have adopted at least one type of AI technology by 2030. However, South Korea aims to be one step ahead of the rest. In line with its national strategy for artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/3-startups-spearheading-ai-growth-south-korea",
+      "originalUrl": "https://www.techinasia.com/3-startups-spearheading-ai-growth-south-korea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T20:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us.md",
+      "title": "Tesla self driving Beta went against the most dangerous roads in the US",
+      "excerpt": "American Irish Youtuber CGP Gray released a video showing how Tesla Model 3 with Full Self Driving technology against the Tail of Dragon.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/",
+      "originalUrl": "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/12/Screen-Shot-2021-12-15-at-3.00.18-PM-1024x570-1.png",
+          "width": 1024,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T20:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-announcing-apperture-3d-computer-vision-for-connected-coaching-form-tracking.md",
       "title": "Announcing (APP)ERTURE: 3D Computer Vision For Connected Coaching Form-Tracking",
       "excerpt": "Today we’re announcing the (APP)ERTURE blueprint to sit alongside our (APP)AREL blueprint for 3D form-tracking for consumer fitness product. With the addition of 3D Motion Capture using advanced computer vision to the asensei.",
@@ -934,230 +1158,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding.md",
-      "title": "Famed Robot-Run ETF Says This Is Why It Now Has Tesla As Its Top Holding",
-      "excerpt": "The Qraft AI-Enhanced U.S. Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence that acquired a new stake in Tesla Inc. (NASDAQ:TSLA) earlier this month, has revealed why it now has the electric vehicle maker as its top holding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/12/24614006/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding",
-      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/21/12/24614006/famed-robot-run-etf-says-this-is-why-it-now-has-tesla-as-its-top-holding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/trac-vu-8trfamglgbq-unsplash_1.jpg",
-          "width": 3942,
-          "height": 5905,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24614006",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24614006",
-      "publishedDateTime": "2021-12-15T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars.md",
-      "title": "Human Common-Sense, Animal Cognition, And AI Advances For Autonomous Self-Driving Cars",
-      "excerpt": "Human common sense is difficult for AI developers to infuse into AI systems, including self-driving cars. We might learn something from animal common sense to help out on this vexing matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6112efdc9790843c20a5da1a%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D3904%26cropY1%3D168%26cropY2%3D2702",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/",
-      "publishedDateTime": "2021-12-15T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-insilico-medicine-launches-trial-for-ai-discovered-drug.md",
-      "title": "Insilico Medicine launches trial for AI-discovered drug",
-      "excerpt": "The artificial intelligence-driven drug discovery company has dosed its first healthy volunteer in a trial for a candidate to treat idiopathic pulmonary fibrosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outsourcing-pharma.com/Article/2021/12/15/Insilico-Medicine-launches-trial-for-AI-discovered-drug",
-      "originalUrl": "https://www.outsourcing-pharma.com/Article/2021/12/15/Insilico-Medicine-launches-trial-for-AI-discovered-drug",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/insilico-medicine-launches-trial-for-ai-discovered-drug/13097532-1-eng-GB/Insilico-Medicine-launches-trial-for-AI-discovered-drug.jpg",
-          "width": 750,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outsourcing-pharma",
-        "domain": "outsourcing-pharma.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-watch-teslas-full-self-driving-beta-tackle-the-tail-of-the-dragon.md",
-      "title": "Watch Tesla's Full Self-Driving Beta Tackle The Tail Of The Dragon",
-      "excerpt": "For his most recent video, however, Grey abandoned the safety of animation for a dip into the real world, testing his dad’s Tesla Model 3 on the Tail of the Dragon and filming the entire adventure. Watch the video here: For the particularly interested (or particularly bored),",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141",
-      "originalUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/14232baa046af8b5536acf45c32f660f.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp",
-      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp",
-      "publishedDateTime": "2021-12-15T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-aondevices-new-always-on-edge-ai-processor-enables-advanced-capabilities-for-emerging-voice-audio-and-sensor-applications.md",
-      "title": "AONDevices’ New Always-On Edge AI Processor Enables Advanced Capabilities for Emerging Voice, Audio and Sensor Applications",
-      "excerpt": "AONDevices, Inc., a provider of ultra-low power, high-performance processors for a new era of edge AI, today announced that engineering samples of its new AON1100™ processor are now available. The AON1100 Edge AI processor enables unprecedented sensing capabilities in battery-powered always-on devices that need to support local wake words,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-bf1bbe9f17577cb011e3e440ffbd233f",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-bf1bbe9f17577cb011e3e440ffbd233f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

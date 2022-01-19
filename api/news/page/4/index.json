@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-14-heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars.md",
+      "title": "Here’s What That Engaging And Wildly Popular Game Wordle Can Teach You About AI Self-Driving Cars",
+      "excerpt": "An online game known as Wordle has suddenly become a social media darling and everyone is playing, which it turns out there are aspects that can shed light on AI self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/14/heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/14/heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e0d249077df3ab2d34b4ed%2F0x0.jpg%3FcropX1%3D433%26cropX2%3D3840%26cropY1%3D235%26cropY2%3D2507",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/14/heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/14/heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2022-01-14T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-jb-hunt-will-be-waymos-first-self-driving-freight-customer.md",
+      "title": "J.B. Hunt will be Waymo’s first self-driving freight customer",
+      "excerpt": "Waymo Via, the autonomous vehicle company’s trucking and cargo transportation unit, is expanding its existing partnership with logistics company J.B. Hunt Transport Services from a pilot into a long-term strategic alliance.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/",
+      "originalUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Waymo-Via_JBH.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/",
+      "publishedDateTime": "2022-01-14T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-december-retail-sales-slide-19-amid-shortages-omicron.md",
       "title": "December retail sales slide 1.9% amid shortages, omicron",
       "excerpt": "Americans, beset by product shortages, rising prices and the arrival of omicron, sharply cut their spending in December after a burst of spending in the fall that helped bolster the holiday season",
@@ -280,6 +384,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-14-timekettles-translator-earbuds-break-language-barriers-bring-in-simultaneous-translation.md",
+      "title": "Timekettle's translator earbuds break language barriers, bring in simultaneous translation",
+      "excerpt": "Translate through phone — one user speaks through the earbuds, the other - through the paired phone Continuous translation — leave your phone next to a speaker and get continuous translation of their words (like for lectures) Share earbuds — users get one earbud each,",
+      "sourceUrl": null,
+      "webUrl": "https://www.phonearena.com/news/live-translation-earbuds-talk-freely_id137680",
+      "originalUrl": "https://www.phonearena.com/news/live-translation-earbuds-talk-freely_id137680",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m-cdn.phonearena.com/images/article/137680-wide-two_1200/Timekettles-translator-earbuds-break-language-barriers-bring-in-simultaneous-translation.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T01:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phone Arena",
+        "domain": "phonearena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-from-robot-soccer-to-speedgate-these-sports-of-the-future-already-exist.md",
       "title": "From robot soccer to speedgate, these sports of the future already exist",
       "excerpt": "These high-tech sports may sound like they come from the future, but they already exist. Here are some of the most ground-breaking. In drone soccer, teams of between three and five pilots score points by flying their \"striker\" drone through their opponent's goal,",
@@ -328,6 +475,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-metas-spanish-language-moderators-describe-harrowing-tale-of-working-amid-pandemic.md",
+      "title": "Meta’s Spanish language moderators describe harrowing tale of working amid pandemic",
+      "excerpt": "Meta's Spanish language moderarors have been required to report to the office since April 2021 despite the rising number of Covid cases in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bgr.in/news/metas-spanish-language-moderators-describe-harrowing-tale-of-working-amid-pandemic-1036063/",
+      "originalUrl": "https://www.bgr.in/news/metas-spanish-language-moderators-describe-harrowing-tale-of-working-amid-pandemic-1036063/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.bgr.in/wp-content/uploads/2022/01/meta-1200-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T00:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "www.bgr.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -534,21 +724,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-14-apache-pulsar-by-pandio-now-available-on-aws-marketplace.md",
-      "title": "Apache Pulsar® by Pandio Now Available on AWS Marketplace",
-      "excerpt": "Pandio, the leader in AI orchestration, announced today that its Apache Pulsar® product is available in AWS Marketplace, a digital catalog with thousands of software listings from independent vendors that make it easy to find,",
+      "path": "_news/2022-01-14-facebooks-spanish-language-moderators-are-calling-their-work-a-nightmare.md",
+      "title": "Facebook’s Spanish-Language Moderators Are Calling Their Work A “Nightmare”",
+      "excerpt": "Contractors who moderate Spanish-language content on Facebook said they’ve been forced to come to the office during COVID surges.",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20192665.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20192665.html",
+      "webUrl": "https://www.buzzfeednews.com/article/sarahemerson/facebooks-spanish-language-moderators-said-theyre-treated",
+      "originalUrl": "https://www.buzzfeednews.com/article/sarahemerson/facebooks-spanish-language-moderators-said-theyre-treated",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-12/11/22/campaign_images/c84267b5258a/after-the-us-election-key-people-are-leaving-face-2-3876-1607724390-7_dblbig.jpg",
+          "width": 625,
+          "height": 415,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -556,14 +746,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T17:44:00-08:00",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/sarahemerson/facebooks-spanish-language-moderators-said-theyre-treated",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/sarahemerson/facebooks-spanish-language-moderators-said-theyre-treated",
+      "publishedDateTime": "2022-01-13T16:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -572,7 +771,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -709,6 +908,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-apache-pulsar-by-pandio-now-available-on-aws-marketplace.md",
+      "title": "Apache Pulsar® by Pandio Now Available on AWS Marketplace",
+      "excerpt": "Pandio, the leader in AI orchestration, announced today that its Apache Pulsar® product is now available in AWS Marketplace. SAN DIEGO (PRWEB) January 13, 2022 Pandio,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/p25049283/apache-pulsar-by-pandio-now-available-on-aws-marketplace",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/p25049283/apache-pulsar-by-pandio-now-available-on-aws-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25049283",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25049283",
+      "publishedDateTime": "2022-01-13T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -933,259 +1166,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-how-protais-ai-powered-platform-is-improving-drug-discovery.md",
-      "title": "How Protai’s AI-powered platform is improving drug discovery",
-      "excerpt": "Protai claims it's reshaping the drug discovery and development process using proteomics and an end-to-end AI-based platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/",
-      "originalUrl": "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1331723660-e1642087280811.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/",
-      "publishedDateTime": "2022-01-13T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-sales-enablement-startup-highspot-raises-248m-at-35b-valuation.md",
-      "title": "Sales enablement startup Highspot raises $248M at $3.5B valuation",
-      "excerpt": "Sales software maker Highspot Inc. today said that it has raised a $248 million funding round after growing revenues nearly tenfold over the last three years. B Capital Group and D1 Capital Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/",
-      "originalUrl": "https://siliconangle.com/2022/01/13/sales-enablement-startup-highspot-raises-248m-3-5b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1138450928.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/amp/",
-      "publishedDateTime": "2022-01-13T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic.md",
-      "title": "New startup shows how emotion-detecting AI is intrinsically problematic",
-      "excerpt": "Hume, a new company emerging from stealth, claims that it is 'ethically' applying emotion AI. But the science is shaky at best.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/",
-      "originalUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/YouFirst-AI-emotion-tracking-brand-video-campaigns.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/amp/",
-      "publishedDateTime": "2022-01-13T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-microsoft-msft-accelerates-manufacturing-homegrown-chips.md",
-      "title": "Microsoft (MSFT) Accelerates Manufacturing Homegrown Chips",
-      "excerpt": "Microsoft (MSFT) hires key Apple engineer Mike Filippo to manufacture in-house processors for the servers running its cloud-computing services and Surface line of personal computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/413080",
-      "originalUrl": "https://www.entrepreneur.com/article/413080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-413080.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond.md",
-      "title": "16 Industries And Functions That Will Benefit From AI In 2022 And Beyond",
-      "excerpt": "The experts of Forbes Technology Council are always looking ahead to the latest trends in cutting-edge technology. Below, 16 of them share the industries they believe have the most to gain from implementing AI as well as how the technology will be specifically applied in 2022 and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61df1425c8d22322f13806f0%2F0x0.jpg",
-          "width": 1200,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/",
-      "publishedDateTime": "2022-01-13T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

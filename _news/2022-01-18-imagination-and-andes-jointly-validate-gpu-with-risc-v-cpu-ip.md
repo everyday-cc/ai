@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Imagination and Andes jointly validate GPU with RISC-V CPU IP"
-excerpt: "Imagination Technologies and Andes Technology announce the successful testing and validation of the IMG B-Series Graphics Processing Units (GPU) with the RISC-V compliant Andes AX45, a 64-bit highly performance-efficient and configurable superscalar Central Processing Unit (CPU)."
-publishedDateTime: 2022-01-18T15:33:00Z
-originalUrl: "https://www.design-reuse.com/news/51266/imagination-andes-gpu-risc-v-cpu-ip.html"
-webUrl: "https://www.design-reuse.com/news/51266/imagination-andes-gpu-risc-v-cpu-ip.html"
+excerpt: "Imagination Technologies and Andes Technology announces the successful testing and validation of the IMG B-Series Graphics Processing Units (GPU) with the RISC-V compliant Andes AX45, a 64-bit high performance-efficient and configurable superscalar Central Processing Unit (CPU)."
+publishedDateTime: 2022-01-18T15:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-imagination-andes-jointly-validate-gpu-with-risc-v-/2022/01/18/9528055.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-imagination-andes-jointly-validate-gpu-with-risc-v-/2022/01/18/9528055.htm"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Design-Reuse
-  domain: design-reuse.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.design-reuse.com/news_img2/homepage51266/imgb.jpg"
-    width: 924
-    height: 636
-    isCached: true
-
-secured: "nxln1CWTJ47xlNCeauQSUbKxyKBSOVj+y4fRKGRJ0qnl99U6k19LqNstTUUvLggSQzpCHd9AQXvyxXFVGI9w0t+OJcgNXA0uGt6X4QmZvZ13dcQbG+FtGFiXijNvmnCj3yrqX94vxayyicxY8k9hVkNkP21TfkKn8ChJBDrCfu3MRGPlHrqdmOZtD7hSuWuSeLe0wy15sqtnIuf5rqPG3N8uuRWYdUBxdzRfNQgLs0lpimfnO0ZAKJPjSmOBsph5xDtwYLFVDpYNFoROfWcWjO2+1BuALc2RGHxK+ShP9+EHctQzO1W7+R2xnx5zEdODcWS3xssa2BlPvsXmWwiTC6mS4aCzHSpDsQA/VRins5I/IKLvFX6AvO0HFyQ//JvRpOzUUOKSNQ7kzkfNuTzNbjYp4StMYlnLGKNbStjoUXeEpM9QIr0Z8dUtPEBly4EumjaCWQSr9ZtmMxUuji+CvOoLsKfpwscqmaalqzRUH59UoJDLFXppxVqLm/blG7MTPcWhBeNPrwI91NiNKWXo4w==;JFRGDBJLz1juX2DRVM0NHw=="
+secured: "gqQ9z0h/ShOx+IYtuQTH9Bo4gzg1lUPefUFfMqtlmKB60PTU7yOCW9Bd4vhO+hVBUPDRt6fH4kbYeUf3hPuVXHksQAAYVdOWwiOmQ06RMOdWGYDsRmP13T0Hg6YlPmRq2BcJnqUwLNHcNpc4fx3ElCzGo9qvq/YSZswdbrtt/tzpgDLeNYmevTYOG7PaE9tFgx8+SXa4Z/HMy33RhSDmREbL1vN41xoKhV06l6VzaXsx6SwHuqnXQSTPQMly/ejunwS86Hh5sE4MK2n93xrjhnHoSCTh/xuk5Znh4bauQIPHoWNs4aHlinr6aro16+R8VI1nRMaKGfHCFjpp5Kc9HPlZMcpzOZmnacIA0VcPxoI=;7fQECQBi4g1L9t/rkh08WQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20194713.html"
 webUrl: "https://www.lelezard.com/en/news-20194713.html"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market: Global Industry Analysis and Opportunity Assessment 2021-2027"
-    excerpt: "Pune, India, Data Library Research published a new report. The report provides tacticians, marketers and the senior management with critical information they need to evaluate the global Artificial Intelligence (Ai) in Medical Diagnostics Market as it emerges from COVID-19 shut down."
-    publishedDateTime: 2022-01-14T09:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ai-medical-diagnostics-market-choudhari"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 27
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGelrJ1gANflw/article-cover_image-shrink_720_1280/0/1642153555777?e=1647475200&v=beta&t=6gTk3GVAMkEOKykdcxWaHU5WkREpr4rPUzm_Va76CLU"
-        width: 1200
-        height: 714
-        isCached: true
-  - title: "Global Artificial Intelligence in Supply Chain Management Market Growth Opportunities Report 2021 - ResearchAndMarkets.com"
-    excerpt: "The “Global Artificial Intelligence in Supply Chain Management Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. This report examines the importance of AI in transforming SCM,"
-    publishedDateTime: 2022-01-14T10:47:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-41112fb94b9c4916be089a6a02100106"
+  - title: "Global Smart Hangars Market Research Report 2021 with Focus on Edge Computing, IoT, and Artificial Intelligence - ResearchAndMarkets.com"
+    excerpt: "The “Growth Opportunities for Global Smart Hangars” report has been added to ResearchAndMarkets.com’s offering. This research discusses trends like edge computing, IoT, and artificial intelligence with respect to aircraft hangars;"
+    publishedDateTime: 2022-01-14T11:07:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-5598b0e7e91541e6aa7497c9a99673b3"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 26
+    quality: 4
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

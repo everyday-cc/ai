@@ -237,6 +237,15 @@ related:
       name: Fudzilla
       domain: fudzilla.com
     quality: 19
+  - title: "Samsung finally unveils Exynos 2200: Xclipse GPU based on AMD RDNA 2"
+    excerpt: "Samsung reveals its 'freshly designed mobile processor' in the Exynos 2200: a new AMD RDNA 2-based Samsung Xclipse GPU included."
+    publishedDateTime: 2022-01-19T02:39:00Z
+    webUrl: "https://www.tweaktown.com/news/84076/samsung-finally-unveils-exynos-2200-xclipse-gpu-based-on-amd-rdna-2/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
   - title: "BUSINESS WIRE: Samsung Introduces Game Changing Exynos 2200 Processor with Xclipse GPU Powered by AMD RDNA 2 Architecture"
     excerpt: "MITTEILUNG UEBERMITTELT VON BUSINESS WIRE. FUER DEN INHALT IST ALLEIN DAS BERICHTENDE UNTERNEHMEN VERANTWORTLICH.The new premium mobile processor comes"
     publishedDateTime: 2022-01-18T09:17:00Z

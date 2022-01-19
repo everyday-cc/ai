@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence for IT Operations Platform Market | Deep Research Study with Forecast to 2030"
-    excerpt: "Research is a leader in developing well-researched reports. The expertise of the researchers at TMR Research makes the report stand out from"
-    publishedDateTime: 2022-01-14T10:41:00Z
-    webUrl: "https://menafn.com/1103539242/Artificial-Intelligence-for-IT-Operations-Platform-Market-Deep-Research-Study-with-Forecast-to-2030"
+  - title: "Worldwide AI in Medical Diagnostics Industry to 2026 - Investments in the AI Health Sector is Driving Growth - ResearchAndMarkets.com"
+    excerpt: "Global Markets\" report has been added to ResearchAndMarkets.com's offering. The current report offers a detailed picture of the AI medical diagnostics market. This report highlights the current and future"
+    publishedDateTime: 2022-01-17T15:22:00Z
+    webUrl: "https://www.lelezard.com/en/news-20194713.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 8
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?667153"
-        width: 318
-        height: 250
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "iFZSYVvJDLC2AC7jsYFJRq65Z2NaBkyXYQHHjN3GR31OgfFyrw/jg5qhLDFeczCpnlnprXjLe9RoXNEzb7PtDFvi8JmSjMduLClmRbh//6NZssP2kInHAtdK7oY7sLf4hRPf4TQiHE16MGFBlSXdR9H6y0NLJhjFtXos6SK4UijF/QHRkVExvptcvtkkaS2bvrgpHer6KnWIZrsEGoIyml9b+fWzEm8o0JxIdjysTyQSxWBukjyMlSI7wzncS0OJHHlAhhJ+EYT4SJLF6eAWoGwVU+saM79BO4B7BxjHp5o7WbPKBYRBVKHpN1mJSJpIORtcHWs/7CK54c7wsEYg3UtoczkS/kQl4L1/PcILNfk=;9FkSiHCEHnoTxYcCciTGzg=="

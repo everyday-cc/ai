@@ -2,6 +2,249 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-12-daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants.md",
+      "title": "Daring more raw AI-ness, a critique of personified voice assistants",
+      "excerpt": "Personality and gender in voice assistants is not something that emerges due to the nature of “AI systems”. Rather, it is",
+      "sourceUrl": null,
+      "webUrl": "https://uxdesign.cc/daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants-a700ec8cc7fe",
+      "originalUrl": "https://uxdesign.cc/daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants-a700ec8cc7fe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*aL6JXr0isbYlFpddX1l0ZA.png",
+          "width": 1200,
+          "height": 515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "uxdesign.cc",
+        "domain": "uxdesign.cc",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-five-revenue-models-that-can-drive-growth-for-ai-startups.md",
+      "title": "Five Revenue Models That Can Drive Growth For AI Startups",
+      "excerpt": "However, true AI startups — ones whose products are built on proprietary, computational, deep-tech AI — are just now emerging in larger numbers, finding markets for their technology among a wide range of industries eager to automate their businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-revenue-models-that-can-drive-growth-for-ai-startups/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-revenue-models-that-can-drive-growth-for-ai-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dd841f3f24fc2994034ea8%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-revenue-models-that-can-drive-growth-for-ai-startups/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-revenue-models-that-can-drive-growth-for-ai-startups/amp/",
+      "publishedDateTime": "2022-01-12T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-can-humans-teach-robots-to-think-like-us.md",
+      "title": "Can Humans Teach Robots To Think Like Us?",
+      "excerpt": "Teaching robots to think like humans may be the next frontier for tech developers and researchers involved in the ongoing development of technologies such as AI and robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d66f8dbbb58ffd41f3d174%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/amp/",
+      "publishedDateTime": "2022-01-12T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact.md",
+      "title": "How An Ethical AI Startup Makes A Triple-Bottom Line Impact",
+      "excerpt": "Even tech companies can consider people and planet, as well as profit. And they can find investors who share their social mission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/",
+      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61db74e008657af633f8d8c6%2F0x0.jpg",
+          "width": 1200,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/amp/",
+      "publishedDateTime": "2022-01-12T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-oliver-wyman-acquires-azure-consulting-growing-its-presence-in-australia.md",
+      "title": "Oliver Wyman acquires Azure Consulting, growing its presence in Australia",
+      "excerpt": "The premium Perth-based boutique management consulting firm's 20 employees will be integrated into Oliver Wyman's Australia practice. The acquisition advances Oliver Wyman's build up in Australia and deepens its Energy and Natural Resources practice in Asia Pacific.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=598822",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=598822",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://us.acrofan.com/img/noImg.jpg",
+          "width": 500,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines.md",
       "title": "Fomo launches “Fomo Robotics” to offer UV Disinfection Machines",
       "excerpt": "IAQ Technologies LLC, a wholly owned subsidiaries of Fomo (FOMC) and Energy Intelligence Center LLC plans to offer UV Disinfection Robots, designed and sold by a leading provider",
@@ -942,256 +1185,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-daily-ai-acquires-whiteboard-crm.md",
-      "title": "Daily AI Acquires Whiteboard CRM",
-      "excerpt": "Today, Daily AI, the provider of intelligent solutions for the future of mortgage lending, announced that it has acquired Whiteboard CRM. Whiteboard provides a mortgage CRM built to accelerate lead management,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/daily-ai-acquires-whiteboard-crm-1031094241",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/daily-ai-acquires-whiteboard-crm-1031094241",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1722346/Daily_AI_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-guardrail-failure-companies-are-losing-revenue-and-customers-due-to-ai-bias.md",
-      "title": "Guardrail failure: Companies are losing revenue and customers due to AI bias",
-      "excerpt": "New survey finds that 80% U.S. firms found problems despite having bias monitoring or algorithm tests already in place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/guardrail-failure-companies-are-losing-revenue-and-customers-due-to-ai-bias/",
-      "originalUrl": "https://www.techrepublic.com/article/guardrail-failure-companies-are-losing-revenue-and-customers-due-to-ai-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/11/86ea3f01-d18a-4361-921d-fc674b5434f7/resize/1200x/b046696ef5abba127ca51750552bd7dc/shutterstock-2006436542.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/guardrail-failure-companies-are-losing-revenue-and-customers-due-to-ai-bias/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/guardrail-failure-companies-are-losing-revenue-and-customers-due-to-ai-bias/",
-      "publishedDateTime": "2022-01-11T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-language-io-aims-to-strengthen-its-ai-powered-customer-service-localization-service.md",
-      "title": "Language I/O aims to strengthen its AI-powered customer service localization service",
-      "excerpt": "Langauge I/O, a startup developing technology to localize customer service experiences with AI, has raised $6.5 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/",
-      "originalUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-6089103_1280-e1631120702283.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/amp/",
-      "publishedDateTime": "2022-01-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers.md",
-      "title": "Edge Impulse Leverages TinyML and AutoML for Efficient Microcontrollers",
-      "excerpt": "San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.airforce-technology.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
-      "originalUrl": "https://www.airforce-technology.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/01/shutterstock_767487700.jpg",
-          "width": 500,
-          "height": 277,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T04:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Airforce Technology",
-        "domain": "airforce-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-global-cognitive-search-tools-market-2021-to-2027-worldwide-industry-analysis-future-demand-and-forecast.md",
-      "title": "Global Cognitive Search Tools Market 2021 to 2027: Worldwide Industry Analysis, Future Demand and Forecast",
-      "excerpt": "New York, US, The business report released by Market Research Store on Global \"Cognitive Search Tools market\" has been featured by Market Research Store Organization and has Extensive information on factors that will amplify the growth of the Cognitive Search Tools Market over the upcoming seven years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-cognitive-search-tools-market-2021-to-2027-worldwide-industry-analysis-future-demand-and-forecast-2022-01-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-cognitive-search-tools-market-2021-to-2027-worldwide-industry-analysis-future-demand-and-forecast-2022-01-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

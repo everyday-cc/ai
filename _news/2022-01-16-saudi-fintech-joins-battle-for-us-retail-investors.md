@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_278890775/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_278890775/"
 type: article
 quality: 59
-heat: 99
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "What's on the Horizon for Payments and Fintech in 2022?"
-    excerpt: "As most industries continue to navigate the challenges of Covid-19, the payments and fintech sector is vitally connected to the recovery. Some emerging trends can help you make educated decisions about where to take your own company in the upcoming year."
-    publishedDateTime: 2022-01-18T16:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/412074"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1642024362-GettyImages-946055220.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Padar Joins VC-Backed Tax Fintech for Banks"
     excerpt: "April Tax Solutions targets banks and financial institutions. Jody Padar, CPA, also known as “The Radical CPA,” has exited Botkeeper after three years and joined April"
     publishedDateTime: 2022-01-18T14:59:00Z
@@ -54,20 +40,6 @@ related:
       - url: "http://cpatwpe.s3.amazonaws.com/cpatrendlines/wp-content/uploads/2017/12/Jody-Padar-2018-SQUARE.png"
         width: 513
         height: 502
-        isCached: true
-  - title: "The Fintech Digital Revolution Will Continue in 2022"
-    excerpt: "The Fundamentals of Fintech Tackling the Security Issues For the Future E-Book $12.95 ORDER- Call +1 888 857 9203 +2348133877820 meritgroupinternational@yahoo."
-    publishedDateTime: 2022-01-17T09:35:00Z
-    webUrl: "https://www.linkedin.com/pulse/fintech-digital-revolution-continue-2022-akintayo-joda"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGKOimwmNACFA/article-cover_image-shrink_600_2000/0/1642411919611?e=1648080000&v=beta&t=7AKEop4kRCWyDlqRVN6TIg658ElusU9uekw2RWiehs0"
-        width: 750
-        height: 554
         isCached: true
   - title: "Startup of the Week: Saudi fintech joins battle for US retail investors"
     excerpt: "RIYADH: Saudi entrepreneur Nezar Bakhsh has joined the battle for US retail investors after launching a financial technology startup that sells stock trading advice to traders. His Quant Alpha platform offers artificial intelligence-powered software for investors,"

@@ -2,6 +2,135 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-05-a-new-method-to-make-ai-generated-voices-more-expressive.md",
+      "title": "A new method to make AI-generated voices more expressive",
+      "excerpt": "Researchers have found a way to make AI-generated voices ... voice-overs in animated movies, automatic translation of speech in multiple languages–and more.The method could also help create ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/939258",
+      "originalUrl": "https://www.eurekalert.org/news-releases/939258",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/images/audioicon_e4_rel.jpg",
+          "width": 585,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T05:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-tech-predictions-for-2022-cloud-data-cybersecurity-ai-and-more.md",
+      "title": "Tech Predictions for 2022: Cloud, Data, Cybersecurity, AI, and More",
+      "excerpt": "“Enterprises will empower business users to become data analysts by applying well-trained natural language processing (NLP) and machine learning technologies, and implementing richly curated data catalogs to unleash the power of complex analytic",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/",
+      "originalUrl": "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/business-meeting-tech-analytics.jpeg",
+          "width": 1920,
+          "height": 1362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-knowles-kn-fluentai-to-offer-voice-controlled-tws-earbuds.md",
+      "title": "Knowles (KN), Fluent.ai to Offer Voice-Controlled TWS Earbuds",
+      "excerpt": "Knowles Corporation KN recently announced that it has partnered with speech recognition software provider Fluent.ai to unveil and demonstrate next-gen voice-controlled True Wireless Stereo (TWS) earbuds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/knowles-kn-fluent.ai-to-offer-voice-controlled-tws-earbuds",
+      "originalUrl": "https://www.nasdaq.com/articles/knowles-kn-fluent.ai-to-offer-voice-controlled-tws-earbuds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/knowles-kn-fluent.ai-to-offer-voice-controlled-tws-earbuds?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/knowles-kn-fluent.ai-to-offer-voice-controlled-tws-earbuds?amp",
+      "publishedDateTime": "2022-01-04T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-natural-language-processing-nlp-market.md",
       "title": "Natural Language Processing (NLP) Market",
       "excerpt": "Natural Language Processing (NLP) Market ' a New Report by Coherent Market Insights, analyzes at the competitive environment and projections for future growth. The Natural Language Processing (NLP ...",
@@ -1281,144 +1410,6 @@
       "provider": {
         "name": "WTOP News",
         "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-pope-demands-humility-in-new-zinger-filled-christmas-speech.md",
-      "title": "Pope demands humility in new zinger-filled Christmas speech",
-      "excerpt": "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/a04d3c12674a14127f8efbdaafd3ae97",
-      "originalUrl": "https://apnews.com/a04d3c12674a14127f8efbdaafd3ae97",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/612fc5f2c40e4f09a913cf25f2e24774/3000.jpeg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T03:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till-2024.md",
-      "title": "Natural Language Processing (NLP) Market||Industry Analysis Insights, Future Growth, and Forecast till - 2024",
-      "excerpt": "Japan, Japan, Thu, 23 Dec 2021 04:35:31 / Comserve Inc. / -- MarketsandMarkets forecasts the global Natural Language Processing (NLP) market size to grow from USD 10.2 billion in 2019 to USD 26.4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till---2024-2021-12-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till---2024-2021-12-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-the-future-of-natural-language-processing-is-bright.md",
-      "title": "The Future of Natural Language Processing is Bright",
-      "excerpt": "Natural language processing (NLP) denotes the use of artificial intelligence (AI) to manipulate written or spoken languages. Like the air we breathe, NLP is so pervasive today that we hardly notice it. When you use Alexa, you are conversing with an NLP ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusinessedge.com/development/the-future-of-natural-language-processing-is-bright/",
-      "originalUrl": "https://www.itbusinessedge.com/development/the-future-of-natural-language-processing-is-bright/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/12/The-Future-of-Natural-Language-Processing-is-Bright.jpeg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business Edge",
-        "domain": "itbusinessedge.com",
         "images": null,
         "publishers": null,
         "authors": null

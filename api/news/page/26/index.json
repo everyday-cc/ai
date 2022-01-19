@@ -2,6 +2,253 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-12-26-how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse.md",
+      "title": "How AI, VR, AR, 5G, and blockchain may converge to power the metaverse",
+      "excerpt": "The metaverse could be the killer app for several of the most exciting emerging technologies that haven't yet found their footing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1311757065-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/amp/",
+      "publishedDateTime": "2021-12-26T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-26-chinese-scientists-develop-ai-prosecutor-that-can-press-its-own-charges.md",
+      "title": "Chinese scientists develop AI ‘prosecutor’ that can press its own charges",
+      "excerpt": "Machine is so far able to identify eight common crimes such as fraud, gambling, dangerous driving and ‘picking quarrels’, researchers say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/24/4265d674-399a-48e7-9d49-2483db66fb2a_9b813b1f.jpg?itok=DMdLjKwP&v=1640339277",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own",
+      "publishedDateTime": "2021-12-26T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-26-how-music-ai-could-create-a-future-grammy-award-winner.md",
+      "title": "How music AI could create a future Grammy award winner",
+      "excerpt": "Watching Paul McCartney create the eponymous song out of seemingly nothing, as George Harrison stands nearby yawning, is one of 2021's cinematic pleasures. The Beatles are arguably the most successful pop group in history and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/features/could-ai-create-a-future-grammy-award-winner-in-music/",
+      "originalUrl": "https://www.cnet.com/features/could-ai-create-a-future-grammy-award-winner-in-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/QDQTeZU5bWFyDnABg5xu4myWs1w=/1200x630/2021/12/08/3b88e432-d4c7-4139-8b5d-12067ff652c3/gettyimages-900233104.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/could-ai-create-a-future-grammy-award-winner-in-music/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/could-ai-create-a-future-grammy-award-winner-in-music/",
+      "publishedDateTime": "2021-12-26T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-26-learn-what-makes-a-self-driving-car-autonomous.md",
+      "title": "Learn what makes a self-driving car autonomous",
+      "excerpt": "Tesla does not build self-driving cars. Neither does General Motors, nor Ford. In fact, there isn't a single self-driving car on sale today. That's because no system packed into a new vehicle meets the SAE Scale of Autonomy's standard to be considered a real autonomous car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/9YiprbK9xrRd1tBOewVjQZT-Pxs=/2021/07/19/f4906df1-4775-4c58-af91-e54e373ad686/tesla-fsd.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/",
+      "publishedDateTime": "2021-12-26T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-26-2022-look-ahead-arms-race-will-dominate-us-china-competition.md",
+      "title": "2022 look ahead: Arms race will dominate U.S. - China competition",
+      "excerpt": "Admiral James Stavridis was 16th supreme allied commander of NATO and 12th dean of the Fletcher School of Law and Diplomacy at Tufts University. He spent the bulk of his operational career in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Opinion/2022-look-ahead-Arms-race-will-dominate-U.S.-China-competition",
+      "originalUrl": "https://asia.nikkei.com/Opinion/2022-look-ahead-Arms-race-will-dominate-U.S.-China-competition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F7%252F0%252F3%252F38073077-1-eng-GB%252FA20211223%2520aircraft%2520carrier%2520Liaoning.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-25T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-26-taiwans-opposition-kmt-rushes-to-regain-lost-voice-in-america.md",
       "title": "Taiwan’s opposition KMT rushes to regain lost voice in America",
       "excerpt": "High-level Kuomintang official is in Washington to speed up reopening of liaison office and counter the influence of Taiwan’s ruling DPP.",
@@ -895,221 +1142,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
-      "title": "In Africa, rescuing the languages that Western tech ignores",
-      "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/",
-      "originalUrl": "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/12/24/PDTN/c7fad02d-adbe-4204-bd09-9f438ace1084-AP21356747118534.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/9013584002",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/9013584002",
-      "publishedDateTime": "2021-12-23T21:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-accenture-partners-with-bbva-on-artificial-intelligence.md",
-      "title": "Accenture Partners With BBVA on Artificial Intelligence",
-      "excerpt": "With this partnership, Accenture will collaborate with BBVA to develop the latter’s agility of operations, by harnessing the power of analytics and artificial intelligence. This will be carried out with Accenture’s AI-powered SynOps platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence",
-      "originalUrl": "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence?amp",
-      "publishedDateTime": "2021-12-23T21:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-use-of-robots-ai-in-defence-applications-rising-official.md",
-      "title": "Use of robots, AI in defence applications rising: official",
-      "excerpt": "Delivering a lecture at Velammal College of Engineering and Technology, as part of ‘Azadi Ka Amrit Mahotsav’ initiative, on role of DRDO in self-reliance and defence technologies, he said that application of Aritificial Intelligence (AI) and Machine Learning and use of robots was increasing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-defence-applications-rising-official/article38025507.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-defence-applications-rising-official/article38025507.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/news/cities/Madurai/4ludsb/article38025506.ece/ALTERNATES/LANDSCAPE_615/24MACity-DRDO",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-defence-applications-rising-official/article38025507.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-defence-applications-rising-official/article38025507.ece/amp/",
-      "publishedDateTime": "2021-12-23T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics.md",
-      "title": "Raj to hire tech cos to train youths in AI and robotics",
-      "excerpt": "Jaipur: Chief minister Ashok Gehlot has approved the proposal for roping in world-class IT companies for imparting training programmes to the youth in.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/articleshow/88462458.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/articleshow/88462458.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/amp_articleshow/88462458.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics/amp_articleshow/88462458.cms",
-      "publishedDateTime": "2021-12-23T15:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-a-market-to-harness-speech-recognition-artificial-intelligence-ai-innovations-on-the-rise.md",
-      "title": "A Market to Harness: Speech Recognition Artificial Intelligence (AI) Innovations On The Rise",
-      "excerpt": "This blog focuses on the speech recognition and AI market profiled market innovator AssemblyAI, EmotionalCloud and other innovations advancing the speech and emotional AI intelligence landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/23/a-market-to-harness-speech-recognition-artificial-intelligence-ai-innovations-on-the-rise/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/23/a-market-to-harness-speech-recognition-artificial-intelligence-ai-innovations-on-the-rise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c4dab3dcce70ad2cdf606a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/23/a-market-to-harness-speech-recognition-artificial-intelligence-ai-innovations-on-the-rise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/23/a-market-to-harness-speech-recognition-artificial-intelligence-ai-innovations-on-the-rise/amp/",
-      "publishedDateTime": "2021-12-23T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

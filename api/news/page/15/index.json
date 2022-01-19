@@ -2,6 +2,248 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-01-06-ecovacs-new-deebot-x1-cleans-your-home-and-itself.md",
+      "title": "Ecovacs’ new Deebot X1 cleans your home and itself",
+      "excerpt": "Well-known robot vacuum maker Ecovacs has revealed its newest robot floor cleaner as part of CES 2022: The Ecovacs Deebot X1, and this one is a pretty significant upgrade, with useful new tech. By now we’re all familiar with robot vacuums and mops,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/",
+      "originalUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-deebot-x1-family.jpg",
+          "width": 500,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/?amp",
+      "publishedDateTime": "2022-01-05T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-how-to-approach-conversation-design-with-amazon-lex-building-and-testing-part-3.md",
+      "title": "How to approach conversation design with Amazon Lex: Building and testing (Part 3)",
+      "excerpt": "In parts one and two of our guide to conversation design with Amazon Lex, we discussed how to gather requirements for your conversational AI application and draft conversational flows. In this post, we help you bring all the pieces together. You’ll learn how draft an interaction model to deliver natural",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-to-approach-conversation-design-with-amazon-lex-building-and-testing/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-to-approach-conversation-design-with-amazon-lex-building-and-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/17/ML-5750image003.png",
+          "width": 1276,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T12:21:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-deploying-ml-models-using-sagemaker-serverless-inference-preview.md",
+      "title": "Deploying ML models using SageMaker Serverless Inference (Preview)",
+      "excerpt": "Amazon SageMaker Serverless Inference (Preview) was recently announced at re:Invent 2021 as a new model hosting feature that lets customers serve model predictions without having to explicitly provision compute instances or configure scaling policies to handle traffic variations. Serverless Inference",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-ml-models-using-sagemaker-serverless-inference-preview/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-ml-models-using-sagemaker-serverless-inference-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/03/ML-6976-image003.png",
+          "width": 552,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T12:03:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-telanganas-facial-recognition-technology-comes-under-scanner.md",
+      "title": "Telangana’s facial recognition technology comes under scanner",
+      "excerpt": "A division bench of the state high court issued a notice to the state government and the Hyderabad city police commissioner, seeking an explanation over the propriety of the usage of technology and whether it infringes on one’s privacy while being in public places.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024.html",
+      "originalUrl": "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/01/05/1600x900/aa424bd6-6e53-11ec-9428-b30a84c15666_1641409525856.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html",
+      "publishedDateTime": "2022-01-05T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-amazon-announces-broad-cloud-and-ai-collaboration-with-auto-giant-stellantis.md",
+      "title": "Amazon announces broad cloud and AI collaboration with auto giant Stellantis",
+      "excerpt": "Stellantis NV, one of the world’s top automakers, that will encompass smart vehicles, a cloud-based data mesh and other ambitious technology initiatives. Stellantis was formed in 2021 from the merger of Chrysler Automobiles and PSA Group.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/01/05/amazon-announces-broad-cloud-ai-collaboration-auto-giant-stellantis/",
+      "originalUrl": "https://siliconangle.com/2022/01/05/amazon-announces-broad-cloud-ai-collaboration-auto-giant-stellantis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/amazon.png",
+          "width": 718,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman.md",
       "title": "Australian man plans to marry robot after failing to find loving woman",
       "excerpt": "Australian man wants to marry his expensive AI robot Emma and doesn't want to change anything about their relationship",
@@ -922,237 +1164,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-china-develops-an-ai-prosecutor-this-ai-powered-robot-is-your-new-desk-buddy.md",
-      "title": "🎯 China develops an AI prosecutor - This AI powered robot is your new desk buddy",
-      "excerpt": "Dear reader, I want to start off by saying happy 2022 🎉. Let's make this year the best one in the AI-transformation yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/china-develops-ai-prosecutor-powered-robot-your-new-remy-gieling",
-      "originalUrl": "https://www.linkedin.com/pulse/china-develops-ai-prosecutor-powered-robot-your-new-remy-gieling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQEEY2SB1rqKtw/article-cover_image-shrink_720_1280/0/1641386434707?e=1648080000&v=beta&t=0fWWRLHB4HtIY3BHDi94ub-ojmlDCbOwXz_-PrshpnE",
-          "width": 1280,
-          "height": 711,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T04:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-infiniq-reveals-ai-based-autonomous-driving-data-and-next-generation-retail-tech-at-ces-2022.md",
-      "title": "INFINIQ Reveals AI-based Autonomous Driving Data and Next-Generation Retail Tech at CES® 2022",
-      "excerpt": "INFINIQ, a leading artificial intelligence (AI) and autonomous driving data service company, unveiled its groundbreaking autonomous driving and retail innovation technology at",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/infiniq-reveals-ai-based-autonomous-driving-data-and-next-generation-retail-tech-at-ces-2022/article_f4e5d4d7-69b1-518f-b525-990c82fce1f4.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/infiniq-reveals-ai-based-autonomous-driving-data-and-next-generation-retail-tech-at-ces-2022/article_f4e5d4d7-69b1-518f-b525-990c82fce1f4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/0c/b0cbb410-ec9a-52f3-b874-766c6503e339/61d5a1623b457.image.jpg?crop=1280%2C672%2C0%2C54&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T04:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users.md",
-      "title": "China reveals new algorithm rules to weaken platforms' control of users",
-      "excerpt": "China’s apps have flourished thanks to their ability deliver videos, product offers, or stories perfectly tailored to their users. But the country’s first rules governing algorithms appear aimed at reining in tech giants’ ability to do that.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/ar-AASsiph",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2017/05/rtr3ey7n-e1495200561374.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/amp/",
-      "publishedDateTime": "2022-01-05T03:56:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https://qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/",
-        "domain": "https://qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-automotive-artificial-intelligence-market-forecast-to-2028-global-analysis-by-offering.md",
-      "title": "Automotive Artificial Intelligence Market Forecast to 2028 Global Analysis By Offering",
-      "excerpt": "Automotive artificial intelligence is used for improving the ... Otto Motors (Clearpath Robotics, Tesla, Waymo LLCInc. On January 30, 2020, the International Health Regulations Emergency Committee ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-forecast-to-2028-global-analysis-by-offering",
-      "originalUrl": "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-forecast-to-2028-global-analysis-by-offering",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/Climate-Change-AFP-1K-e1641821177710-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar.md",
-      "title": "Hong Kong Billionaire Professor Adds $2 Billion To His Wealth As Shares Of AI Giant SenseTime Soar",
-      "excerpt": "Shares of SenseTime have almost doubled since its closely watched IPO last week, adding $2 billion to the net worth of Tang Xiao’ou, cofounder and the largest shareholder of the Chinese AI giant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar/",
-      "originalUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d576d8aceb0ad88f55465d%2F0x0.jpg",
-          "width": 1200,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar/amp/",
-      "publishedDateTime": "2022-01-05T02:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

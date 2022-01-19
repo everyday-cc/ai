@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-24-global-2274-bn-ai-in-fintech-markets-to-2026.md",
+      "title": "Global $22.74 Bn AI in Fintech Markets to 2026",
+      "excerpt": "The \"Global AI in Fintech Market (2021-2026) by Component, Application, Deployment Mode, Geography, Competitive Analysis and",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24768225/global-22-74-bn-ai-in-fintech-markets-to-2026",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24768225/global-22-74-bn-ai-in-fintech-markets-to-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24768225",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24768225",
+      "publishedDateTime": "2021-12-24T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-cfte-with-its-mission-of-education-at-scale-in-fintech-with-2021-a-year-of-limitless-possibilities.md",
       "title": "CFTE with its mission of education at scale in Fintech with 2021 a year of limitless possibilities",
       "excerpt": "And it's a wrap for 2021 ! What a year ! ✨ as the Co-founder of CFTE, I find myself reflecting on the past year. 2021 has brought a lot of ups and downs to everyone, and we hope that you were safe this year.",
@@ -1260,58 +1294,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-the-fintech-revolution-in-china.md",
-      "title": "The FinTech Revolution In China",
-      "excerpt": "China has seen an incredible transformation over the past few decades. It's gone from being one of the poorest countries in Asia to a thriving, industrialised nation that is now the second-largest economy in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/fintech-revolution-china-banq-ai",
-      "originalUrl": "https://www.linkedin.com/pulse/fintech-revolution-china-banq-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQERJsVp4-GWkA/article-cover_image-shrink_600_2000/0/1638896477318?e=1645056000&v=beta&t=Wu9KRdTKpjhJgYLbVfxCTqw4bkOwfHE4iF-IUWuDt9k",
-          "width": 770,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
