@@ -2,6 +2,211 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-19-the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai.md",
+      "title": "The diversity hiring disconnect: Addressing the broken approach to inclusion with AI",
+      "excerpt": "While recent metrics suggest that workplace equality is improving, a deeper dive into workplace statistics tell a different story.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-978531552-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/amp/",
+      "publishedDateTime": "2022-01-19T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns.md",
+      "title": "Ambient’s computer vision detects dangerous behaviors, but raises privacy concerns",
+      "excerpt": "Ambient, which is using computer vision to develop security systems, is emerging from stealth. But its software raises privacy concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/",
+      "originalUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1134171213.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/amp/",
+      "publishedDateTime": "2022-01-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-turing-labs-which-uses-ai-to-help-formulate-cpg-products-raises-165m.md",
+      "title": "Turing Labs, which uses AI to help formulate CPG products, raises $16.5M",
+      "excerpt": "Working remotely has become the norm for a lot of desk-based employees, and there have been a number of tech companies that have seen their business explode in catering to that shift. But today comes news of a different kind of startup called Turing Labs,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/19/turing-labs-which-uses-ai-to-help-formulate-cpg-products-raises-16-5m/",
+      "originalUrl": "https://techcrunch.com/2022/01/19/turing-labs-which-uses-ai-to-help-formulate-cpg-products-raises-16-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-519742134.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/19/turing-labs-which-uses-ai-to-help-formulate-cpg-products-raises-16-5m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/19/turing-labs-which-uses-ai-to-help-formulate-cpg-products-raises-16-5m/amp/",
+      "publishedDateTime": "2022-01-19T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-the-opportunity-and-the-danger-of-artificial-intelligence-at-retail.md",
+      "title": "The Opportunity And The Danger Of Artificial Intelligence At Retail",
+      "excerpt": "Technology is creating a new era of decision-making in retail but it's not clear that it will always be good. Now is the time for the industry to act.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/",
+      "originalUrl": "https://www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61e61880addd8c337c94bb6d/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/amp/",
+      "publishedDateTime": "2022-01-19T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-israeli-fintech-personetics-raises-85m-for-tools-to-help-incumbents-personalize-banking-services-to-compete-with-neobanks.md",
       "title": "Israeli fintech Personetics raises $85M for tools to help incumbents personalize banking services to compete with neobanks",
       "excerpt": "Big banks are under a lot of pressure to modernize their services to meet demands of consumers who now view things like mobile apps that identify who and where you are; or instant, on-demand products,",
@@ -10,7 +215,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/19/israeli-fintech-personetics-raises-85m-for-tools-to-help-incumbents-personalize-banking-services-to-compete-with-neobanks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -259,7 +464,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -301,7 +506,8 @@
         "Google AI",
         "AI",
         "Facebook AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "IBM AI"
       ]
     },
     {
@@ -444,6 +650,58 @@
       ]
     },
     {
+      "path": "_news/2022-01-19-confused-replika-ai-users-are-standing-up-for-bots-and-trying-to-bang-the-algorithm.md",
+      "title": "Confused Replika AI users are standing up for bots and trying to bang the algorithm",
+      "excerpt": "It should go without saying, but you can't have sex with an algorithm. That doesn't stop some people from trying.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/confused-replika-ai-users-are-standing-up-for-bots-trying-bang-the-algorithm",
+      "originalUrl": "https://thenextweb.com/news/confused-replika-ai-users-are-standing-up-for-bots-trying-bang-the-algorithm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Freplikaskull.jpg&signature=926f0f4500827c7456dd328ad9e35e92",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T17:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-report-how-ai-and-ml-optimize-the-diagnosis-process-in-health-care.md",
       "title": "Report: How AI and ML optimize the diagnosis process in health care",
       "excerpt": "Medical diagnostics using AI and ML are expanding, and automation is helping to detect life-threatening conditions in their earliest stages.",
@@ -547,7 +805,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -659,6 +917,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-clockwise-raises-45m-to-help-employees-better-manage-time.md",
+      "title": "Clockwise raises $45M to help employees better manage time",
+      "excerpt": "Clockwise, which leverages AI to reschedule meeting times and ensure employees have enough individual work time, has raised $45 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/18/clockwise-raises-45m-to-help-employees-better-manage-time/",
+      "originalUrl": "https://venturebeat.com/2022/01/18/clockwise-raises-45m-to-help-employees-better-manage-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1125239409.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/18/clockwise-raises-45m-to-help-employees-better-manage-time/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/clockwise-raises-45m-to-help-employees-better-manage-time/amp/",
+      "publishedDateTime": "2022-01-18T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -886,21 +1195,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-19-machine-learning-model-uses-blood-tests-to-predict-covid-19-survival.md",
-      "title": "Machine learning model uses blood tests to predict COVID-19 survival",
-      "excerpt": "A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival, weeks before the outcome, according to a new study published this week in the open-access journal PLOS Digital Health by Florian Kurth and Markus Ralser of the Charité—Universitätsmedizin Berlin,",
+      "path": "_news/2022-01-19-machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test.md",
+      "title": "Machine Learning AI Can Predict COVID-19 Survival From Single Blood Test",
+      "excerpt": "Levels of 14 proteins in the blood of critically ill COVID-19 patients are associated with survival. A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival,",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-01-machine-blood-covid-survival.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-01-machine-blood-covid-survival.html",
+      "webUrl": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000007",
+      "originalUrl": "https://scitechdaily.com/machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 213,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-model-1.jpg",
-          "width": 2480,
-          "height": 1181,
+          "url": "https://journals.plos.org/resource/img/logo-plos.png",
+          "width": 300,
+          "height": 236,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -908,13 +1217,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-01-machine-blood-covid-survival.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-blood-covid-survival.amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-01-18T11:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -924,294 +1233,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-aigens-swarm-of-agtech-robots-want-to-make-agriculture-carbon-negative.md",
-      "title": "Aigen’s swarm of agtech robots want to make agriculture carbon negative",
-      "excerpt": "Even though the only thing the robot can do right now is pull weeds, Aigen is adamant it isn’t building a weed-whacking robot. It claims to be on a mission to terraform the earth, and says it has a path toward making agriculture carbon negative.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/18/aigen-fund-round/",
-      "originalUrl": "https://techcrunch.com/2022/01/18/aigen-fund-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/robot1.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/18/aigen-fund-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/18/aigen-fund-round/amp/",
-      "publishedDateTime": "2022-01-18T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-ai-is-the-key-to-fixing-identity-security-forgerock-ceo-says.md",
-      "title": "AI is the key to fixing identity security, ForgeRock CEO says",
-      "excerpt": "ForgeRock CEO Fran Rosch says the company's zero trust approach to identity security is driven by advanced AI algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/18/ai-is-the-key-to-fixing-identity-security-forgerock-ceo-says/",
-      "originalUrl": "https://venturebeat.com/2022/01/18/ai-is-the-key-to-fixing-identity-security-forgerock-ceo-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/forgerock-Fran-Rosch.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/18/ai-is-the-key-to-fixing-identity-security-forgerock-ceo-says/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/ai-is-the-key-to-fixing-identity-security-forgerock-ceo-says/amp/",
-      "publishedDateTime": "2022-01-18T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-digital-marketing-platform-otis-ai-raises-25m-to-make-digital-marketing-simple-and-effective-for-smbs.md",
-      "title": "Digital marketing platform Otis AI raises $2.5M to make digital marketing simple and effective for SMBs",
-      "excerpt": "Otis AI ( the digital marketing assistant for SMBs, recently raised a seed round bringing their total funding to $2.5M. With Otis, an all-in-one digital marketing solution, a small business can launch a data-driven multi-channel campaign across Facebook,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/digital-marketing-platform-otis-ai-raises-2-5m-to-make-digital-marketing-simple-and-effective-for-smbs-1031109601",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/digital-marketing-platform-otis-ai-raises-2-5m-to-make-digital-marketing-simple-and-effective-for-smbs-1031109601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1726856/OTIS_AI_Founders.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings.md",
-      "title": "TD SYNNEX (SNX) Signs SCA With AWS, Boosts Digital Offerings",
-      "excerpt": "TD SYNNEX SNX recently inked a strategic collaboration agreement (“SCA”) with Amazon’s AMZN subsidiary, Amazon Web Services (“AWS”), to invest in resources that will help in developing advanced cloud solutions for its partners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings",
-      "originalUrl": "https://www.nasdaq.com/articles/td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings?amp",
-      "publishedDateTime": "2022-01-18T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-aiml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes.md",
-      "title": "AI/ML in 2022: More Real-World Deployments, Focus On AI Ethics and Blockchain Hopes",
-      "excerpt": "Prominent industry experts share their predictions for the year aheadVILNIUS, LITHUANIA / ACCESSWIRE / January 18, 2022 / Artificial intelligence (AI) and",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/AAA-8-1-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-a-new-use-for-ai-summarizing-scientific-research-for-seven-year-olds.md",
-      "title": "A new use for AI: summarizing scientific research for seven-year-olds",
-      "excerpt": "Academic writing often has a reputation for being hard to follow, but what if you could use machine learning to summarize arguments in scientific papers so that even a seven-year-old could understand them?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/1/18/22889180/ai-language-summary-scientific-research-tldr-papers",
-      "originalUrl": "https://www.theverge.com/2022/1/18/22889180/ai-language-summary-scientific-research-tldr-papers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/Ou0KDi8DWHCoKfoTps2PAq_PiqM=/102x0:778x455/1400x933/filters:focal(365x197:503x335):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70403553/tldr_paper_hero.0.jpg",
-          "width": 868,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2022/1/18/22889180/ai-language-summary-scientific-research-tldr-papers",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/1/18/22889180/ai-language-summary-scientific-research-tldr-papers",
-      "publishedDateTime": "2022-01-18T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

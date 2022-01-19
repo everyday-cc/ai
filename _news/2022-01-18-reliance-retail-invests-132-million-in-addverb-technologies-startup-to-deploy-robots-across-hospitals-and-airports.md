@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Reliance Retail buys 54% stake in robotics firm Addverb Tech for $132 million"
+    excerpt: "Leading homegrown robotics company Addverb Technologies on Tuesday said that Reliance is investing up to $132 million in the company to become its largest"
+    publishedDateTime: 2022-01-18T10:00:00Z
+    webUrl: "https://www.businessinsider.in/business/news/reliance-retail-buys-majority-stake-in-robotics-firm-addverb-tech-for-132-million/articleshow/88971842.cms"
+    ampWebUrl: "https://www.businessinsider.in/business/news/reliance-retail-buys-majority-stake-in-robotics-firm-addverb-tech-for-132-million/amp_articleshow/88971842.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/reliance-retail-buys-majority-stake-in-robotics-firm-addverb-tech-for-132-million/amp_articleshow/88971842.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 186
+    images:
+      - url: "https://www.businessinsider.in/thumb/88971930.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
   - title: "Reliance Retail acquires 54% stake in robotics firm Addverb Technologies"
     excerpt: "This round of funding, a mix of primary and secondary capital, will accelerate the companys expansion in Europe and US and enable it to set up a large robotic manufacturing facility."
     publishedDateTime: 2022-01-18T09:28:00Z

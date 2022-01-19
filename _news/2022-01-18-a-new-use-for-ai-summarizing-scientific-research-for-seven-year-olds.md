@@ -8,8 +8,8 @@ webUrl: "https://www.theverge.com/2022/1/18/22889180/ai-language-summary-scienti
 ampWebUrl: "https://www.theverge.com/platform/amp/2022/1/18/22889180/ai-language-summary-scientific-research-tldr-papers"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/1/18/22889180/ai-language-summary-scientific-research-tldr-papers"
 type: article
-quality: 87
-heat: 87
+quality: 187
+heat: 187
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 531
     isCached: true
 
-secured: "sflAiMXKnCF1tksfwhteLIwgRcOKeS+pJV58ddjG4WaMTGnlpGvc2k/mn8aBDbskNmwm1/CC/d+8tClMWPR4cPXXBB0EvPSTdGTAytOCI1X1SBWkkrDG/xHKI4hiGIUkVd+ipPG7WYnE+rTKO0ezUPhTvRPgjoXIcnpiUBH2mYPLfSBQyMHC1IVeOmTneFDQeGbM6fatmGDeclFxolJ3TuU4QBBZJ9wOy+eUU2xDJ1xjznfMaBnSWQOYa4iWfgMrdG9nf3ukHKJck7D2Uao0VMf2WNJLlZzmFqlwwmd04EvJsJCz6r2qFgd69t6e4kP7CujkKxuXYBSROXzPpktp79YpbqZwk9eXhMSnLXtHEvJUC+I3t/Jg3P6OFflJxQfddNjSEkiTYnrW+bSfDndqBFHWYJKdFhyuB9ExoFBgl8jnT/Pn4JcoNTtPiOKxAfew+nv5Bh9SnU3e20mElGB0MxDRgGo2Stba+ZIaWkY9H6Kp1vlQiRrIf3ZUBrNIvs+IVroIWpTz/Zv/lhVR5UQteA==;HMrWSmY8BxJFYctoWVm+FQ=="
+secured: "TiDg+GmWALJiLRQTeQyPRIzb7vwaLgRK+wr/4hxNsYk8EL/Tvl0NXUFikHUa4thbZ2aYC783uZxjut5Uql89b1m/MswcRYRvxs5dgyIeAwqwtfMZShOL90P3K9A3Lr0Dov/LTHVwF1h62VEFISHEEtr4O08S29xv55aKJSRR62tVmcLdRcsskkpjhEV90YAXPfBgA1B3X9InHOMTTlslWcf4E5H1aM4Iq1eDMybX28Q2rTce6nwuJdRAV40KQskT/1cWu7AAehXLyPdBWNXBU0Q1SBfaJPqAl+fflsEyRnVhrWOnVAF4q7ovCwBEgckXF7vEdhaiynJuPMhp7L/9tIcenRcCZxt88Y1dR1yqdjcuM5DWGtDUFHy2ueIwtQWcf1Ae7t2nRdg9kX2zFvLqVUSI83dD4Pz930+QyUpVRL14KP7HfJ6+4OqDzmi5WkA2b7v0OS4gRivw2zIDTPyj4AvHaLoFisF2Jm8UIoiWgDCaZGFTNxbRiCsuAHRtHG5i7qPQgjJzdUviCbu44MFVFIp54eoZ0vreLTFRRVqH5q8=;TEaMXhQdW6TsUe8VHKjZ1Q=="
 ---
 

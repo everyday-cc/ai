@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_278890775/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_278890775/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Checkout.com crowned UK’s most valuable fintech"
+    excerpt: "Checkout.com has become the country's most valuable private fintech company after its latest fundraising valued at US$40 billion."
+    publishedDateTime: 2022-01-19T14:21:00Z
+    webUrl: "https://techhq.com/2022/01/checkout-com-crowned-uks-most-valuable-fintech/"
+    ampWebUrl: "https://techhq.com/amp/2022/01/checkout-com-crowned-uks-most-valuable-fintech/"
+    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/01/checkout-com-crowned-uks-most-valuable-fintech/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 44
+    images:
+      - url: "https://techhq.com/white.png"
+        width: 614
+        height: 250
+        isCached: true
   - title: "Why Cloud is The Booster Shot For Fintech?"
     excerpt: "Home » Cybersecurity » Cloud Security » Why Cloud is The Booster Shot For Fintech? Fintech and cloud technology is a match made in heaven! What’s your say on this? Well, that’s true. It’s evident that cloud native services have turned into the new normal in the financial sector."
     publishedDateTime: 2022-01-19T05:56:00Z

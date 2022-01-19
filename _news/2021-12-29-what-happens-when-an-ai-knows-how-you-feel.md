@@ -2,25 +2,31 @@
 category: news
 title: "What Happens When an AI Knows How You Feel?"
 excerpt: "The following month, Facebook announced AI “conflict alerts” for groups ... or detect them remotely.” Timmons’ research, which involves building computational models of human behavior ..."
-publishedDateTime: 2021-12-29T12:00:00Z
-originalUrl: "https://www.wired.co.uk/article/artificial-emotional-intelligence"
-webUrl: "https://www.wired.co.uk/article/artificial-emotional-intelligence"
+publishedDateTime: 2021-12-29T12:11:00Z
+originalUrl: "https://www.wired.com/story/artificial-emotional-intelligence/"
+webUrl: "https://www.wired.com/story/artificial-emotional-intelligence/"
+ampWebUrl: "https://www.wired.com/story/artificial-emotional-intelligence/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-emotional-intelligence/amp"
 type: article
 
 provider:
-  name: Wired UK
-  domain: wired.co.uk
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://media.wired.co.uk/photos/61a89ffd4895f86a1b3b1186/16:9/w_1280,c_limit/1822-WIRED-01%20copy.jpg"
-    width: 1280
-    height: 720
+  - url: "https://media.wired.com/photos/61bc7f6c70540627801a5b48/master/pass/Business-AI-Emotions-1290287917-648538841-2.jpg"
+    width: 2400
+    height: 1600
     isCached: true
 
-secured: "70CUk0DalVnx8ZGUJTJOu6RHhNON5m/9u3uspIyPeAcIykOwos92bRfsE9NkijdtyGhT2e2i3UezIh7oRJRBxXFF3j40+8DJX0boCy9YrHz+Uv5jw4LvInAQHvfeWjkiIGKB3kH8eEAo2bQb6YhsQ66V01IT9cJl9TaONdpd47p6GoVYuydkhFMq1wOJo0mwVH/49Bgi3/l/O/a+lBYoZK2o7FcR65mVZfdL0diXeXOHjWfJcnsVO4WJ8N1efpitfwQVBW5GtotGaFKpV0/upcWbChUT49mHon409dPU1OvHi9BWfZ9rbPPGzsNEuVTa6HLV8GSjRXrxfe9VMRjfegVkrH7swWUSWiSon4HjqRo=;QbrNbuS/r7NMBjMiszfy+Q=="
+secured: "XttChXczBVFVAssZTpx5OHlMyjiZac0q38Od0JPkcjfGIPF/ybm2vCiBcVDDSjZEBjwJgg9lQkVpTtIupTckmNTukufHn109te52cvGhU/My7UdPvsqouhIxBg2p27ZM8bsVckIAUjOGSdWw0Xhn4w5246ipgYyINQynkBqVenzUsMH+sYszH6gV699bVSZ/QHzSUde0keAHA1u7l/ckmXixOtX6HUQtXM9w3zk8/V5atNK6mxvkCZUPhjQHjIV9LQQyBYa6PepcwirNZlDx8cISt3MAOoHPBpgoixe1xT4s3yJ7Ka9kBp7+aUkQvxRn3ppBF5Jbw3PGlREC+0FrADiUka4yrTWcTNQsmUKZVvE=;5VDaqZApeAKjgZ6jt09RkA=="
 ---
 

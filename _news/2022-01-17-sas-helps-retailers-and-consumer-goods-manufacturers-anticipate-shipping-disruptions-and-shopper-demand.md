@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sas-helps-retailer
 webUrl: "https://markets.businessinsider.com/news/stocks/sas-helps-retailers-and-consumer-goods-manufacturers-anticipate-shipping-disruptions-and-shopper-demand-1031106645"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 400
     height: 267
     isCached: true
+
+related:
+  - title: "SAS helps retailers and consumer goods manufacturers anticipate shipping disruptions and shopper demand"
+    excerpt: "With the global supply chain crisis still raging, the need for agile, accurate demand planning has never been greater. With SAS Cloud for Intelligent Planning, retailers and consumer goods manufacturers can anticipate shopper needs and shipping disruptions more effectively."
+    publishedDateTime: 2022-01-19T12:29:00Z
+    webUrl: "https://www.retailtimes.co.uk/sas-helps-retailers-and-consumer-goods-manufacturers-anticipate-shipping-disruptions-and-shopper-demand/"
+    type: article
+    provider:
+      name: Retail Times
+      domain: retailtimes.co.uk
+    quality: 23
+    images:
+      - url: "http://www.retailtimes.co.uk/wp-content/uploads/2013/10/RTnewsletter-logo.jpg"
+        width: 560
+        height: 420
+        isCached: true
 
 secured: "qYU0re9v+Snvh3GCqEWE4NfuXDxCB52wVZ8jnMasN+pOcl0ZFvacGmk3mbxhUUqJy0N8wKalLAOlmHJeUH/nNFLb+RDCeY9eN2q55pwZMuLHUmBQl+qisn9t5XRaBCT0Q3LtkbGbVk56mLKBGKEunnZgGXrr8d0gKnRK9e0Be8Xvdmo3hoBWjzpTgPtuxmDlBf+wr0sFU6aeRigD758592vILqDeqLEz7QS91iB8qhObnIiXEqhI69zvcgY6wEUZQmAg5XnPue7Yr4zYs25ZWO7vP/GlZ/51MbBaP9uyDX4XwuSvNwOkyBtAz5qpAm7QZYPc6/AbepyJCR6NzHbFEFMarF3Ns2WgczmpYGKV7yx0t4A2XucLfeJVC3gY/J3fZFZDDzr2am/6pxbIZMPhyXU3vkYOihag4cs55MHPMNzTXpMUEtqbAXUcVpMj/ZTmY4siyfe0+kK3Hed9JQA1MwqdoNzoFVBZPY2z+4/qV9/Epi4aCbArtph5bKUxQH6SHyT+ZuJj7i22rTBEhHj/xg==;p0A/YNl7Yepfd0DODfATxQ=="
 ---

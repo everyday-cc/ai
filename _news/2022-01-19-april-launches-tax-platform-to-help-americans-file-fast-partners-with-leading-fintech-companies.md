@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-18T18:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/april-launches-tax-platform-to-help-americans-file-fast-partners-with-leading-fintech-companies/article_fde56abb-39c7-531b-99e3-83dffc719e0e.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/april-launches-tax-platform-to-help-americans-file-fast-partners-with-leading-fintech-companies/article_fde56abb-39c7-531b-99e3-83dffc719e0e.html"
 type: article
-quality: 11
+quality: 13
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/4e/24e60266-a042-51bd-9367-20058fbcd97d/61e70f26bbdba.image.jpg?crop=1160%2C609%2C0%2C328&resize=1160%2C609&order=crop%2Cresize"

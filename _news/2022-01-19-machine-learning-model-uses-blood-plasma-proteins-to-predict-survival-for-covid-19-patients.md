@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning AI Can Predict COVID-19 Survival From Single Blood Test"
+    excerpt: "Levels of 14 proteins in the blood of critically ill COVID-19 patients are associated with survival. A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival,"
+    publishedDateTime: 2022-01-18T19:00:00Z
+    webUrl: "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000007"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 153
+    images:
+      - url: "https://journals.plos.org/resource/img/logo-plos.png"
+        width: 300
+        height: 236
+        isCached: true
+  - title: "AI Innovations Accelerated By Government And Business Leadership Fight Against COVID-19."
+    excerpt: "There is nothing more important in our economy than the health and wellness of all citizens during COVID-19. AI is playing a major role in advancing research and enable new innovations. Government Grants,"
+    publishedDateTime: 2022-01-16T20:03:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e46c533aba23572e6b1daf%2F0x0.jpg"
+        width: 1200
+        height: 593
+        isCached: true
   - title: "Machine learning model uses blood tests to predict COVID-19 survival"
     excerpt: "A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival, weeks before the outcome, according to a new study published this week in the open-access journal PLOS Digital Health by Florian Kurth and Markus Ralser of the Charité—Universitätsmedizin Berlin,"
     publishedDateTime: 2022-01-18T19:00:00Z
@@ -74,6 +104,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/4021642523974/2022/1/e75357055f4d4b3aee83972eb6aeb6b4/v1.5/Study-Blood-tests-assessed-via-machine-learning-can-predict-COVID-19-survival.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Oral Medication for COVID-19 Discovered Using Artificial Intelligence"
+    excerpt: "Kishor Wasan, says the double-blind intervention is being conducted among volunteers being treated on an outpatient basis. LSU DeepDrug Pr"
+    publishedDateTime: 2022-01-18T20:44:00Z
+    webUrl: "https://menafn.com/1103558656/Oral-Medication-for-COVID-19-Discovered-Using-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?436664"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "9HVFszGHbfOzqRtPmqiSbVRoofZ2WkcGsG+O/J/t2nnw0kjmrigklhIjh4hnQuAUM38gsx/m1XQw1EjbYucYn9jvEEIrOCBqtfVJT2mvPr4R82uiPE4MSZylE2oEtGOgDQTK98jIDHdP0VgnB46KLtwvMp/VoTIulEGKAZ1Lm+qE1bHXJIphRwEMCU9YLNkr3QICrlM+lM9c56qPRkfglnmxDd2dGNza/hO4pbnmG7GijPq3oqcCuyoAPdxZXv6Q7gr3Awrhg1cUJnPSlyEQTVsC5Y5K8nJokM2S8p8wW4DhbZCHu9KdHqL0wu5bOocgqqQ7wNS3rVktkkmAQMhpOaDOGrw3zYo+IYtAVQommUs=;NtliJBmQwDinQzxn8MhvqQ=="

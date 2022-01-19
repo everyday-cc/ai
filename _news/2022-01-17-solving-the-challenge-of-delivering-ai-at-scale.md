@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "With surge of online buying, retailers now looking to artificial intelligence to help boost sales"
-    excerpt: "Retailers are looking at new ways to boost their bottom lines, especially after a disappointing holiday season where sales fell nearly 2 percent in December. To help"
-    publishedDateTime: 2022-01-18T12:49:00Z
-    webUrl: "https://www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/"
-    ampWebUrl: "https://www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/"
-    cdnAmpWebUrl: "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/on-your-side/consumer-watch/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/"
+  - title: "The Opportunity And The Danger Of Artificial Intelligence At Retail"
+    excerpt: "Technology is creating a new era of decision-making in retail but it's not clear that it will always be good. Now is the time for the industry to act."
+    publishedDateTime: 2022-01-19T12:34:00Z
+    webUrl: "https://www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/"
+    ampWebUrl: "https://www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/amp/"
     type: article
     provider:
-      name: WNCT
-      domain: wnct.com
-    quality: 78
+      name: Forbes
+      domain: forbes.com
+    quality: 102
     images:
-      - url: "https://www.wnct.com/wp-content/uploads/sites/99/2022/01/shopping.jpg?w=1280"
-        width: 700
-        height: 393
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61e61880addd8c337c94bb6d/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 639
         isCached: true
 
 secured: "AfswHrY4uvC8PD6P134Od0Ezp42BsMk7MqOiZmesPPdIxfNaTbyUPdTzXgjfImdnTI7DOY32g2OaKHN/DwUG2rLIeLqt+2C+5JCKP4gdbNFYRMBltuXVWsdTyAwwYSSOPz9XRK8gU1mDY1c3eFApp2yFxGF2NBr8kCEDKIQFNZEuMqzNCmVonflZZvk9yGF0QimAawSh9MSP8RBnZiNYoHIgCOMtgAnyqtTEfP1OXmSWwr5yBEIfAFtk2YGycilM8Yxcfn4OymzlIejOy29UXJyp+3IgxgXR5tdayzYi0+eDtZrO8mzE69XOXx0h9rGLF6/djJCETmsfUXXMIjjv2v4OFJWdurEZ3Uvrbkzs3GI=;BrP8TBIXnLiahacRCweORA=="

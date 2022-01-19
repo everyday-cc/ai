@@ -127,6 +127,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "UK self-driving startup gets backing from Virgin and Microsoft"
+    excerpt: "Eclipse Ventures led the round of funding with additional investors Microsoft and Virgin. Wayve’s system is designed to be an adaptable self-driving system for fleet operators using artificial intelligence and a camera-first sensing suite."
+    publishedDateTime: 2022-01-19T13:36:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17662/uk-self-driving-startup-gets-backing-from-virgin-and-microsoft"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 41
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/662/17662/Wayve.jpg"
+        width: 752
+        height: 400
+        isCached: true
   - title: "A new health care AI coalition & Google lands a big client"
     excerpt: "In the latest edition of STAT Health Tech: a new health care AI coalition launches, Google Cloud lands a big client, and telehealth companies steer clear of abortion care."
     publishedDateTime: 2022-01-18T15:52:00Z
@@ -155,6 +169,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Industry Leaders Announce Artificial Intelligence Coalition"
+    excerpt: "In a collaborative effort, US healthcare and life science leaders are forming an AI coalition to advance innovation."
+    publishedDateTime: 2022-01-19T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/industry-leaders-announceartificial-intelligence-coalition"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/industry-leaders-announceartificial-intelligence-coalition"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/industry-leaders-announceartificial-intelligence-coalition"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
 
 secured: "NbRUw41ynM+UibjkOPwQRVMdqGbXa6Gn+AAAVBffYIBQRBHqNMo8Fzg3Ud3i3Ga8ZAi8o8LNMbKO6TnqKS3pkZG1Xe8ZsB5lu/iMob/59DbCSIMqDzaOn1G4axU0+zPcybs+oszjqfXSYOU28buf4Ophdl06A+n5r+gkPZOw9QIy4CHNRWk7CE0tVMGMIOaDgfqxAV5YCktIFCVoGZesR1ptSih4cZ7eKiUe6kI/o+dbxX4UDVj0pQ6ATBc+9FMqkdgWpE9yWsWjZEdsZZZMMxfXgKMWKkZPVmMa7Ncn7ex9LH1+YrBP2fHOmUN0wtP8uRZx+bM6Y18YsE5zCE1Q7dfn8beSFu+0I0NLad0Kln4/NBzTQXl7Blnr1Q2Ek8G7FnG9fLjclIfVlWMbwN4QtcznOx1mTsV1Ncw8a7aUiaIkEv8UUsZLcEZePk0H57HhkzpDOZcHVsPun16t3VSTfltMQu36UDBbcPe+xJnEfdg0SXRiKUiqaTajAF5O8lnV+YN4G+LseKA/8SrQ13A8/Q==;kK8PDKqAeBjNYkniLbNeTg=="
 ---

@@ -39,15 +39,6 @@ related:
         width: 516
         height: 250
         isCached: true
-  - title: "Global Data Governance Market Report 2022: Market to"
-    excerpt: "The \"Data Governance - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global market for Data Governance estimated at US$1.8 Billion in the year 2020,"
-    publishedDateTime: 2022-01-14T21:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-data-governance-market-report-2022-market-reach-/2022/01/14/9526844.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "gn5NU4qa0HKFahaV8Zer8XOkBnuMU28ZVBHPKMnx1OqWTGiiUTy07ZOm9Zsi+UJrCY5oYdvHFelUzlg2a+bzLX6meoGzpf/t+aKKs+Bh16JYuh0SxtJi6g50WK9q/Upykdh3ryVXgOSsxuP25JFzoGlNYI3L9DrXtpjU4dNxNX2G88cp0hpIAT7npeCpUmcn/0gxCBacQDCuceTodNNzDCNWrEKu27Wg8ttfZ/NySApKfDnpk5+XLGYF2epas9Ue14GpprRxLai87+MvXhOhWDezRTag0R43T1VY+2z9z7xQASVeszEDXIrrJocbCKeCifJKKigV3tQ3tCL5h3EjxZ4SJAXzfgrad9NLr3VAg+c=;UOS0u1TxUodOV98BTlF3+Q=="
 ---

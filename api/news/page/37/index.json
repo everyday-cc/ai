@@ -2,6 +2,299 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-12-17-meta-releases-bean-machine-to-help-measure-ai-model-uncertainty.md",
+      "title": "Meta releases Bean Machine to help measure AI model uncertainty",
+      "excerpt": "Meta (formerly Facebook) has released Bean Machine, a tool designed to help measure uncertainty in AI and machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/",
+      "originalUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color-e1638226936634.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/amp/",
+      "publishedDateTime": "2021-12-16T11:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-artificial-intelligence-in-platform-as-a-service-paas-market.md",
+      "title": "Artificial Intelligence in Platform as a Service (PaaS) Market",
+      "excerpt": "Latest Study on Industrial Growth of Global Artificial Intelligence in Platform as a Service (PaaS) Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "originalUrl": "https://www.openpr.com/news/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc16495437_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "publishedDateTime": "2021-12-16T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode.md",
+      "title": "Waymo says self-driving car that struck pedestrian in San Francisco was in manual mode",
+      "excerpt": "A Waymo self-driving Jaguar I-Pace that struck a pedestrian in San Francisco on Wednesday evening was in manual mode, the company told TechCrunch in response to an initial report posted on Reddit. Waymo says the vehicle was in manual mode at the time,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/",
+      "originalUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/waymo-ipace.jpeg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/",
+      "publishedDateTime": "2021-12-16T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-21st-century-problems-insuring-ai-and-smart-devices.md",
+      "title": "21st Century Problems: Insuring AI and Smart Devices",
+      "excerpt": "How the insurance industry is grappling with covering AI, smart devices, and driverless cars Key takeaways: The insurance industry must evolve along with technology Changes relate to new analyses and",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/21st-century-problems-insuring-ai-smart-devices",
+      "originalUrl": "https://www.linkedin.com/pulse/21st-century-problems-insuring-ai-smart-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGUOs5a8rDx0w/article-cover_image-shrink_720_1280/0/1639675674648?e=1646265600&v=beta&t=3NBOtTROKhnxyceGRvCDbv1Y967Inrs0Aw2xoSFoymc",
+          "width": 1279,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey.md",
+      "title": "Most Indian firms able to pay back on artificial intelligence investments in 2 years: Survey",
+      "excerpt": "The study laid an additional focus on measures taken by AI leaders and global capability centres (GCCs) or to embrace AI for their business growth.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
+      "originalUrl": "https://www.msn.com/en-in/money/news/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/ar-AART0JN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-37818,msid-88326059/1.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/amp_articleshow/88325990.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/amp_articleshow/88325990.cms",
+      "publishedDateTime": "2021-12-16T09:04:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
+        "domain": "com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-flexxon-ssds-laptops-have-ai-based-data-security-inside.md",
+      "title": "Flexxon SSDs, Laptops Have AI-Based Data Security Inside",
+      "excerpt": "The X-PHY AI Embedded Cyber Secure SSD is an internal SSD designed to detect any threats, known or unknown, to your data's security. The company also teamed with Lenovo on three lines of ThinkPad-based laptops.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside",
+      "originalUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/07HRzuCVmrWvQRtlZ8AzTCg-1.fit_lim.size_1200x630.v1639629116.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside?amp=true",
+      "publishedDateTime": "2021-12-16T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-artificial-intelligence-accurately-predicts-who-will-develop-dementia-in-two-years.md",
       "title": "Artificial intelligence accurately predicts who will develop dementia in two years",
       "excerpt": "Artificial intelligence can predict which people who attend memory clinics will develop dementia within two years with 92 percent accuracy, a largescale new study has concluded.",
@@ -921,272 +1214,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-samsung-rolls-out-chips-for-self-driving-cars.md",
-      "title": "Samsung rolls out chips for self-driving cars",
-      "excerpt": "Samsung unveiled the industry‘s first universal flash storages for self-driving cars in 2017 ... Both products are used for servers and artificial intelligence-powered accelerators. The latest technology will better support complex processing of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20211216000657",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20211216000657",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2021%2F12%2F16%2F20211216000591_0.jpg",
-          "width": 630,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20211216000657",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20211216000657",
-      "publishedDateTime": "2021-12-15T22:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-3-startups-spearheading-ai-growth-in-south-korea.md",
-      "title": "3 startups spearheading AI growth in South Korea",
-      "excerpt": "According to McKinsey & Company, at least 70% of businesses worldwide would have adopted at least one type of AI technology by 2030. However, South Korea aims to be one step ahead of the rest. In line with its national strategy for artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/3-startups-spearheading-ai-growth-south-korea",
-      "originalUrl": "https://www.techinasia.com/3-startups-spearheading-ai-growth-south-korea",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T20:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us.md",
-      "title": "Tesla self driving Beta went against the most dangerous roads in the US",
-      "excerpt": "American Irish Youtuber CGP Gray released a video showing how Tesla Model 3 with Full Self Driving technology against the Tail of Dragon.",
-      "sourceUrl": null,
-      "webUrl": "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/",
-      "originalUrl": "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techstory.in/wp-content/uploads/2021/12/Screen-Shot-2021-12-15-at-3.00.18-PM-1024x570-1.png",
-          "width": 1024,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T20:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech",
-        "domain": "techstory.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-announcing-apperture-3d-computer-vision-for-connected-coaching-form-tracking.md",
-      "title": "Announcing (APP)ERTURE: 3D Computer Vision For Connected Coaching Form-Tracking",
-      "excerpt": "Today we’re announcing the (APP)ERTURE blueprint to sit alongside our (APP)AREL blueprint for 3D form-tracking for consumer fitness product. With the addition of 3D Motion Capture using advanced computer vision to the asensei.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/announcing-apperture-3d-computer-vision-connected-coaching-form-tracking-",
-      "originalUrl": "https://www.linkedin.com/pulse/announcing-apperture-3d-computer-vision-connected-coaching-form-tracking-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH1cEpl6s0bbA/article-cover_image-shrink_720_1280/0/1639609841188?e=1645660800&v=beta&t=5c5NycySk7y80iZeufdnmxALd8jtjexSB-BRVYOYC8s",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T18:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027.md",
-      "title": "Global Facial Recognition Readers Solution Market 2021 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2027",
-      "excerpt": "Another report by named, Global Facial Recognition Readers Solution Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report presents a far-reaching investigation of the market assessing the market on a worldwide,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-12-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-12-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T16:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-breakfast-skipping-and-cognitive-and-emotional-engagement-at-school-a-cross-sectional-population-level-study.md",
-      "title": "Breakfast skipping and cognitive and emotional engagement at school: A cross-sectional population level study",
-      "excerpt": "This study investigated the association between breakfast skipping and cognitive and emotional aspects of school engagement. Design: Cross-sectional study using data from a population level survey of children and adolescents’ wellbeing and engagement at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/public-health-nutrition/article/breakfast-skipping-and-cognitive-and-emotional-engagement-at-school-a-crosssectional-population-level-study/1468D5C45FDA98D16D29A99CA6C4373B",
-      "originalUrl": "https://www.cambridge.org/core/journals/public-health-nutrition/article/breakfast-skipping-and-cognitive-and-emotional-engagement-at-school-a-crosssectional-population-level-study/1468D5C45FDA98D16D29A99CA6C4373B",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

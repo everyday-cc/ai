@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-difference
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/amp/"
 type: article
 quality: 119
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 827
     isCached: true
+
+related:
+  - title: "Ambient.ai aims to provide AI-powered building security, minus bias and privacy pitfalls"
+    excerpt: "Security — as in “hey you, you can’t go in there” — quickly becomes a complex, arguably impossible job once you get past a few buildings and cameras. Who can watch everywhere at once, and send someone in time to prevent a problem?"
+    publishedDateTime: 2022-01-19T14:02:00Z
+    webUrl: "https://techcrunch.com/2022/01/19/ambient-ai-security-without-facial-recognition/"
+    ampWebUrl: "https://techcrunch.com/2022/01/19/ambient-ai-security-without-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/19/ambient-ai-security-without-facial-recognition/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/ambient-ai-header.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "rcHnkVDszZJEFCXjs8llW545Cg0+5n/DN4KEF97e1mR7cz0lP66fHxTlQ2BEn2YxK/9tYa/ap8d3guEykDozlvT+4M0PcTh6vh/6PqnKLRi5pFBz/UHiUtcYOlST+FHyG2+qcGfJBVutgnVAfO7nHWuoZTbySBxT8mYRIUnb1/Tc7jTlEakN911H91atQAh582MxdWy/xL2vSHqY8tjXRH2HhgS575TxttnDDm0Bo8rKYf+F9noxyYy0UWN64YfK+xuh6vmrBdUzq6UqOVGK2SqjSTje/+tF8U/OSosAatKfAcCJSp5/+k3dS5ZDLUKXiqRU6hwLpWCc9a8CUrXc3/1RtDcjQRreAVRypn/eTOHftRz6WovUrARTzP51CHcmK69i/usc3bSDDbJRZQ4T44c9wnFWnOiF6QrT5K0gnhGTAlAAppgaG8dCRPyD5KhHQZ8byfyOFLtXolawiCB11gRqkIEJssKmkntDVkgl0UjCZymMySPq3ptVucDIwA42QKypjPEVXhioZKEnGfWJOw==;/2QCIP4g0hhkeEiGVOxRsg=="
 ---

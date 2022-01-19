@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 651
         isCached: true
+  - title: "Thoma Bravo invests $85m in Israeli fintech co Personetics"
+    excerpt: "Israeli fintech company Personetics today announced it has raised $85m in growth funding from US private equity growth capital firm Thoma Bravo. Personetics raised $75 million in February 2021 from Warburg Pincus and other investors include Viola Ventures,"
+    publishedDateTime: 2022-01-19T13:37:00Z
+    webUrl: "https://en.globes.co.il/en/article-thoma-bravo-invests-85m-in-israeli-fintech-co-personetics-1001399169"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 24
+    images:
+      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1633532850/direct/shutterstock_1407910778_vyx3i0.jpg"
+        width: 800
+        height: 392
+        isCached: true
 
 secured: "ZeQZMiRPqb17knGZ5yLGOZNIVLUWIEyIctXl2SBcjM7xO/W4QQs7ER385dl8GVSDgIwVM0OtRucFbxItX4I735ZhXICMD1KnuuKEFWEq9s39r5JWmkcRFR2dhZsDRDF2qFHSZt03gEEcKTqWzkiEWxjwBBbfAmjHD2IvyeS/5/OLam6iM2+W8+jcGfMAeHouF7kxgiiIZdRWNrlKVx5setDCdMD5amwPRCKrQ+ve0Xu1c1Ly/kx+DtJNqRyQQbQfNcGj/kQ1UKuRqhh/nqw8fSCb8A27bCWPbTQWs/jcsyzo8eUeRYKFb7u/G0YG7MwXWgEug3YYZ8191lb68+VZ+iMwi1aoJJ8Ka3lOh3a3Eck=;55PjXNPWt1rBhicm5OhR1A=="
 ---

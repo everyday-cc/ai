@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-01-machine-blood-covid-survival.
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-blood-covid-survival.amp"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning AI Can Predict COVID-19 Survival From Single Blood Test"
+    excerpt: "Levels of 14 proteins in the blood of critically ill COVID-19 patients are associated with survival. A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival,"
+    publishedDateTime: 2022-01-18T19:00:00Z
+    webUrl: "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000007"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 153
+    images:
+      - url: "https://journals.plos.org/resource/img/logo-plos.png"
+        width: 300
+        height: 236
+        isCached: true
+  - title: "AI Innovations Accelerated By Government And Business Leadership Fight Against COVID-19."
+    excerpt: "There is nothing more important in our economy than the health and wellness of all citizens during COVID-19. AI is playing a major role in advancing research and enable new innovations. Government Grants,"
+    publishedDateTime: 2022-01-16T20:03:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e46c533aba23572e6b1daf%2F0x0.jpg"
+        width: 1200
+        height: 593
+        isCached: true
   - title: "Machine learning model for prediction of COVID-19 patient mortality risk"
     excerpt: "A new preprint reports a novel machine learning model that purportedly predicts the mortality risk of COVID-19 in patients accurately and at an early stage of infection."
     publishedDateTime: 2022-01-18T09:52:00Z
@@ -74,6 +104,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Intensive_Care-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Oral Medication for COVID-19 Discovered Using Artificial Intelligence"
+    excerpt: "Kishor Wasan, says the double-blind intervention is being conducted among volunteers being treated on an outpatient basis. LSU DeepDrug Pr"
+    publishedDateTime: 2022-01-18T20:44:00Z
+    webUrl: "https://menafn.com/1103558656/Oral-Medication-for-COVID-19-Discovered-Using-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?436664"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "0V5fpqgKnLM65Zlrhx3tDgEvpOe0VguVCgO51aU/W6uCSpVvgaJgYn85bxfTwAf6FRfSYlU7jqOIo/Gf2iy3z+xJlgN3Qt1AZ9oCNBaQUQoK1K4yqmU0TVVBIhXUJMRX8grciIv/f92Ij0rX2hR7DR25YcLjg+zh08GkCN5okgpmgTkaWja2cJ5+FPdBDbKHGtqfRN28cD40KGMPe/RJtKN8YEnOz3bLVwmEGN9p0BwzqFb1jsP1PbEE3yC9D49ZluzFJrL5hO6THgo/a4cSrEq4aqRVVZqnjLZcn7sicAgFceZRT3V35rXKZKK72idrJoPedP3A2M/tSZAt5fIW6PHCPtU+m/ptPkl5iUfifhiwIc39JwLzI2lZ3prKjh3jveXEGZSJgZ5qHFBo6w5iqE47bagqOUZqM7UwMkNbXPtutGma2MVj00VQJYOeZPN44UEgKQBvBWmg/1bLt/KIp1cpJPwU0JIWVLtCmN0qnvMqj3VN656hLyzTPcvjgLe3TByT+jDSBuamARvZ0WDG1g==;+UEfNVdAl59S9grIDIrrAQ=="

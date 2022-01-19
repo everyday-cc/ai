@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Wayve raises $200M Series B led by Eclipse for its AI for autonomous delivery vehicles"
-    excerpt: "British autonomous vehicle startup Wayve has raised a $200 million Series B funding round from investors to scale its technology and expand its partnerships with commercial fleets. Wayve is aiming to be a major player in the arena of Robo-deliveries and logistics."
-    publishedDateTime: 2022-01-18T12:20:00Z
-    webUrl: "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/"
-    ampWebUrl: "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/amp/"
+  - title: "Autonomous driving start-up Wayve bags $200 million from Microsoft, Virgin and Baillie Gifford"
+    excerpt: "London-based Wayve has been backed by a host of big name investors in a funding round that brings total investment in the company up to $258 million."
+    publishedDateTime: 2022-01-18T00:38:04Z
+    webUrl: "https://www.cnbc.com/2022/01/18/wayve-series-b-microsoft-virgin.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/01/18/wayve-series-b-microsoft-virgin.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/01/18/wayve-series-b-microsoft-virgin.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
+      name: com/2022/01/18/wayve-series-b-microsoft-virgin.html
+      domain: com/2022/01/18/wayve-series-b-microsoft-virgin.html
+    quality: 162
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/Alex-Kendall-CEO-2.jpg?w=831"
-        width: 831
-        height: 554
+      - url: "https://image.cnbcfm.com/api/v1/image/107002167-1642416708532-Alex_Kendall_CEO_2_002.jpg?v=1642416822"
+        width: 5537
+        height: 3691
         isCached: true
   - title: "UK self-driving startup Wayve raises $200 mln to scale up technology"
     excerpt: "British self-driving technology startup Wayve said on Tuesday it has raised $200 million from investors to scale up its autonomous driving technology globally and launch more pilot projects with commercial fleet partners."
@@ -104,20 +104,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--dpfl6nPT--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2022/01/18/wayve.jpg?itok=LCo8ldiO"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Self-driving car startup Wayve, co-founded by Kiwi Alex Kendall, raises US$200m"
-    excerpt: "Wayve, a London-based startup led by Kiwi Alex Kendall, has raised US$200 million ($292m) in a Series B round to develop its unique take on self-driving vehicle technology. Silicon Valley venture capital company Eclipse Ventures led the round,"
-    publishedDateTime: 2022-01-18T16:00:00Z
-    webUrl: "https://www.nzherald.co.nz/business/self-driving-car-startup-wayve-co-founded-by-kiwi-alex-kendall-raises-us200m/7AI2LFYDGOQJA75KDYS2EBGT3M/"
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 35
-    images:
-      - url: "https://www.nzherald.co.nz/resizer/FNiO63Ti1KZMxg69U5ZnBMijIn0=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/O3PYP55NV67KRSQDHMERJ5BEBQ.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Autonomous mobility company Wayve raises USD 200 million"
     excerpt: "Wayve, London-based autonomous mobility start-up, has announced a USD 200 million Series B funding round led by a leading group of global financial and strategic investors. This brings total equity raised to more than USD 258 million since launch."

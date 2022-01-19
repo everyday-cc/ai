@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/19/israeli-fintech-personetics-raises
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/19/israeli-fintech-personetics-raises-85m-for-tools-to-help-incumbents-personalize-banking-services-to-compete-with-neobanks/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -61,7 +61,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Thoma Bravo invests $85m in Israeli fintech co Personetics"
+    excerpt: "Israeli fintech company Personetics today announced it has raised $85m in growth funding from US private equity growth capital firm Thoma Bravo. Personetics raised $75 million in February 2021 from Warburg Pincus and other investors include Viola Ventures,"
+    publishedDateTime: 2022-01-19T13:37:00Z
+    webUrl: "https://en.globes.co.il/en/article-thoma-bravo-invests-85m-in-israeli-fintech-co-personetics-1001399169"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 24
+    images:
+      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1633532850/direct/shutterstock_1407910778_vyx3i0.jpg"
+        width: 800
+        height: 392
+        isCached: true
 
-secured: "bLbol+OTLxP3oDxXijXmsVHUcUrUNJLEGUwFIT5+z2vXQUzR7awNIHZIdfJ3wlPADcq/dN+3nmLz5IOlfmzTzQnDIgP6c1llZk3qDlXzI2IVJFS5KGXQgAACXUICIw5/2wnJAK+WUzsIpLavD2mj8aYLyy66W4+bxzjw3lwBW3hPrQCE44uQSUjidO4OdTRGe1nkzNA7PAIXBw+AZ3uzcAgD2ufITsawenVUinUSU3sAsvMe7568p1E8h/ThW1pZFkC4Or7MNy0frkl61EZF8V3bUzuiayLADvJf0cCUd79S4iarOVBeXIfzjAUIKhP1Kbwcf6aA0XBOd2Bkk+mRubo+hfJEkPRwyPArxuGn2is=;fcJ+cFbPDaBgzSoUflg5dg=="
+secured: "xlilTpdVQJuuiSZ6RPgp+IHKRIwpa3Em/cNiXwUXQGVnadQ26qZF6PPmMgkcoeJ1CVwJaWOstKopHYf4N/AMy89M7NxeRow5oBt13OB9hIM+8wT60Ul2qxoUiuVj5KufXpUCfyKizBPAUtHIoeEKd03WWnWsQ9xQdsAeDMPGbWCWLLHysgRmcPvi0diTdRFVakF5yjF20RCI8Ht66tYVrAW2MewsBvEYLJqMlCmPUhV44kCr1XafRXqPdxnO77EtM0oqLCEcRolI0uTyasLqFvACKKHFCq/IYVIc0TXmNuyoAyCQqHXk5p7R9LtfSgBIzu8Ucc0NA/Rxu5orTtgCGvPEKDpBt79iVA1IgWX+TsgyMOw5BYaQQtzkBT9+bhg515duPP10o0PxXzD6YOCGlJjIQVRyyiOs6dgBhjeZulvIzF7NKUJIm+1KlaJKXtDwsOQqtgFMkK7d5cPet4N0ncWGX3chnan7IPbCpeJXiriRsw5ldtkF77Q7A52LA+ygR+eDQ+hHf2ZQCzvJlsU4VA==;H0Jf7c4TDeYPSiTeswEFSA=="
 ---
 

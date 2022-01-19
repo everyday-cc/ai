@@ -2,6 +2,300 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-12-21-artificial-intelligence-ai-helps-improve-patient-and-doctor-communication.md",
+      "title": "Artificial Intelligence (AI) Helps Improve Patient and Doctor Communication",
+      "excerpt": "Understanding between a patient with low health literacy and doctors can be improved with the help of artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/doctor-patient.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
+      "publishedDateTime": "2021-12-20T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-ai-chip-maker-kneron-raises-25m-for-autonomous-driving-push.md",
+      "title": "AI chip maker Kneron raises $25M for autonomous driving push",
+      "excerpt": "AI chips, which are semiconductors designed to accelerate machine learning, have many applications. One of the promising use cases, according to Albert Liu, is using AI chips in autonomous driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/",
+      "originalUrl": "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RLdt3wgnuDs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/amp/",
+      "publishedDateTime": "2021-12-20T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-use-of-blockchain-technology-could-increase-human-trust-in-ai.md",
+      "title": "Use of blockchain technology could increase human trust in AI",
+      "excerpt": "Applying the benefits of blockchain technology can help address AI shortcomings and increase people's trust in AI-based applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/",
+      "originalUrl": "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1279332201.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/amp/",
+      "publishedDateTime": "2021-12-20T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-eight-effective-ways-to-leverage-machine-learning-ad-tools.md",
+      "title": "Eight Effective Ways To Leverage Machine Learning Ad Tools",
+      "excerpt": "Rather than guess at what approach will work best to reach target audiences, brands can generate predictive models using ML and AI to identify optimal creative, content, placements and more to boost the effectiveness,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/eight-effective-ways-to-leverage-machine-learning-ad-tools/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/eight-effective-ways-to-leverage-machine-learning-ad-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0c3b1170ebe018990ec0d%2F0x0.jpg",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/12/20/eight-effective-ways-to-leverage-machine-learning-ad-tools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/12/20/eight-effective-ways-to-leverage-machine-learning-ad-tools/amp/",
+      "publishedDateTime": "2021-12-20T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-bias-in-artificial-intelligence-impacts-drug-development-aicure.md",
+      "title": "Bias in artificial intelligence impacts drug development: AiCure",
+      "excerpt": "According to an expert from the clinical insights company, prejudice in AI can impact patient outcomes as well as the ability to develop effective treatments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure",
+      "originalUrl": "https://www.outsourcing-pharma.com/Article/2021/12/20/Bias-in-artificial-intelligence-impacts-drug-development-AiCure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/bias-in-artificial-intelligence-impacts-drug-development-aicure/13109371-1-eng-GB/Bias-in-artificial-intelligence-impacts-drug-development-AiCure.jpg",
+          "width": 750,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outsourcing-pharma",
+        "domain": "outsourcing-pharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights.md",
+      "title": "Reinventing Game Day: How The Bundesliga Uses Machine Learning To Deliver Real-Time, Data-Driven Soccer Insights",
+      "excerpt": "Machine learning is making this level of insight on matches possible for hundreds of millions of soccer fans globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0c778170ebe018990ec14%2F0x0.jpg",
+          "width": 1200,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/amp/",
+      "publishedDateTime": "2021-12-20T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech.md",
       "title": "Overjet sinks its teeth into another round of capital for its dental AI tech",
       "excerpt": "Just four months after announcing $27 million in Series A funding, Overjet, a company developing dental artificial intelligence software, came forward again with another $42.5 million in Series B financing backed by existing investors.",
@@ -844,290 +1138,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-global-computer-vision-in-aerospace-and-defense-market-2021-in-depth-analysis-data-synthesis-growth-objectives-and-forecast-to-2027.md",
-      "title": "Global Computer Vision in Aerospace and Defense Market 2021 In-Depth Analysis, Data Synthesis, Growth Objectives and Forecast to 2027",
-      "excerpt": "The Global Computer Vision in Aerospace and Defense Market by MarketQuest.biz report offers the most recent market trends and the targeted inflation prediction for the projected",
-      "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/45491102/global-computer-vision-in-aerospace-and-defense-market-2021-in-depth-analysis-data-synthesis-growth-objectives-and-forecast-to-2027",
-      "originalUrl": "https://www.wboc.com/story/45491102/global-computer-vision-in-aerospace-and-defense-market-2021-in-depth-analysis-data-synthesis-growth-objectives-and-forecast-to-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T21:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-cognitive-analytics-market-2021-consumption-volume-competitive-dynamics-industry-outlook-and-forecast-2030.md",
-      "title": "Cognitive Analytics Market 2021 Consumption Volume, Competitive Dynamics, Industry Outlook and Forecast 2030",
-      "excerpt": "The Cognitive Analytics Market is anticipated to grow primarily on account of the growing trade of ICT goods and services worldwide. According to the statistics by the World Bank, the exports of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-consumption-volume-competitive-dynamics-industry-outlook-and-forecast-2030-2021-12-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-consumption-volume-competitive-dynamics-industry-outlook-and-forecast-2030-2021-12-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-natural-language-processing-market-size-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2030.md",
-      "title": "Natural Language Processing Market Size 2021 Movements by Latest Trend Analysis, Progression Status, Revenue Expectation to 2030",
-      "excerpt": "Dec 20, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Natural Language Processing Market for 2021 till 2030. Report further now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2030-2021-12-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2030-2021-12-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-sensetime-reopens-ipo-gets-512-million-from-cornerstones.md",
-      "title": "SenseTime Reopens IPO, Gets $512 Million From Cornerstones",
-      "excerpt": "Chinese artificial intelligence firm SenseTime Group Inc. secured about $512 million from nine cornerstone investors, as it reopened orders Monday for a Hong Kong initial public offering delayed by concerns over U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relaunches-hong-kong-ipo-trading-to-start-dec-30",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-19/sensetime-relaunches-hong-kong-ipo-trading-to-start-dec-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3gQtKWmgqb8/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-5-artificial-intelligence-stocks-in-cathie-woods-portfolio.md",
-      "title": "5 Artificial Intelligence Stocks in Cathie Wood’s Portfolio",
-      "excerpt": "(NYSE:TDOC) represented 5.01% of Cathie Wood’s portfolio. In Q3, the company reported revenue of $521.6 million, up 80.6% from the prior-year quarter. Of the 867 hedge funds tracked by Insider Monkey,",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-artificial-intelligence-stocks-in-cathie-woods-portfolio-1014281/5/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-artificial-intelligence-stocks-in-cathie-woods-portfolio-1014281/5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/08164427/Cathie-Wood-ARK-Investment-Management-1267.jpg",
-          "width": 1613,
-          "height": 2048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T11:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai.md",
-      "title": "Sheikh Mohammed attends first-ever Arabic Language Summit at Expo 2020 Dubai",
-      "excerpt": "Dubai Ruler witnesses signing of UAE Declaration on the Arabic Language  Dubai: His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, on Sunday attended the first edition of the Arabic Language Summit at Expo 2020 Dubai.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/expo-2020/sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai-1.84505660",
-      "originalUrl": "https://gulfnews.com/expo-2020/sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai-1.84505660",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/12/19/MBR-Arabic-Language-Summit-1639923960465_17dd315caab_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/expo-2020/sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai-1.84505660",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai-1.84505660",
-      "publishedDateTime": "2021-12-19T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

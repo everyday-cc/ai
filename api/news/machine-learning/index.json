@@ -194,21 +194,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-19-machine-learning-model-uses-blood-tests-to-predict-covid-19-survival.md",
-      "title": "Machine learning model uses blood tests to predict COVID-19 survival",
-      "excerpt": "A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival, weeks before the outcome, according to a new study published this week in the open-access journal PLOS Digital Health by Florian Kurth and Markus Ralser of the Charité—Universitätsmedizin Berlin,",
+      "path": "_news/2022-01-19-machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test.md",
+      "title": "Machine Learning AI Can Predict COVID-19 Survival From Single Blood Test",
+      "excerpt": "Levels of 14 proteins in the blood of critically ill COVID-19 patients are associated with survival. A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival,",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-01-machine-blood-covid-survival.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-01-machine-blood-covid-survival.html",
+      "webUrl": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000007",
+      "originalUrl": "https://scitechdaily.com/machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 213,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-model-1.jpg",
-          "width": 2480,
-          "height": 1181,
+          "url": "https://journals.plos.org/resource/img/logo-plos.png",
+          "width": 300,
+          "height": 236,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -216,13 +216,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-01-machine-blood-covid-survival.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-blood-covid-survival.amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-01-18T11:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -232,8 +232,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -805,6 +805,50 @@
       ]
     },
     {
+      "path": "_news/2022-01-13-ai-and-advance-machine-learning-in-bfsi-market-evolving-trends-and-opportunities-in-covid-19-pandemic-end-by-2027.md",
+      "title": "AI and Advance Machine Learning in BFSI Market Evolving Trends and Opportunities in COVID-19 pandemic end by 2027",
+      "excerpt": "AI and Advance Machine Learning Market OREGAON, PORTLAND, UNITED STATES, January 12, 2022 /EINPresswire.com / -- Allied Market Research r",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103528067/AI-and-Advance-Machine-Learning-in-BFSI-Market-Evolving-Trends-and-Opportunities-in-COVID-19-pandemic-end-by-2027&source=29",
+      "originalUrl": "https://menafn.com/1103528067/AI-and-Advance-Machine-Learning-in-BFSI-Market-Evolving-Trends-and-Opportunities-in-COVID-19-pandemic-end-by-2027&source=29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-01/12/EP_a6b55image_story.jpeg",
+          "width": 790,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-machine-learning-ai-used-to-rapidly-detect-sepsis.md",
       "title": "Machine learning, AI used to rapidly detect sepsis",
       "excerpt": "Sepsis strikes roughly 2 million people each year and is the cause of one in three hospital deaths in the United States, according to the Centers for Disease Control and Prevention. “Sepsis is the body’s extreme response to an infection and,",
@@ -1349,49 +1393,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-google-prediction-framework-addresses-data-pipeline-drudgery.md",
-      "title": "Google Prediction Framework addresses data pipeline drudgery",
-      "excerpt": "Framework weaves together Google Cloud Platform services to simplify the implementation of prediction projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/694299/google-prediction-framework-addresses-data-pipeline-drudgery/",
-      "originalUrl": "https://www.reseller.co.nz/article/694299/google-prediction-framework-addresses-data-pipeline-drudgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_17.jpg",
-          "width": 472,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-09T20:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

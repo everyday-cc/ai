@@ -113,6 +113,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "UK self-driving startup gets backing from Virgin and Microsoft"
+    excerpt: "Eclipse Ventures led the round of funding with additional investors Microsoft and Virgin. Wayve’s system is designed to be an adaptable self-driving system for fleet operators using artificial intelligence and a camera-first sensing suite."
+    publishedDateTime: 2022-01-19T13:36:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17662/uk-self-driving-startup-gets-backing-from-virgin-and-microsoft"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 41
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/662/17662/Wayve.jpg"
+        width: 752
+        height: 400
+        isCached: true
   - title: "A new health care AI coalition & Google lands a big client"
     excerpt: "In the latest edition of STAT Health Tech: a new health care AI coalition launches, Google Cloud lands a big client, and telehealth companies steer clear of abortion care."
     publishedDateTime: 2022-01-18T15:52:00Z
@@ -141,6 +155,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Industry Leaders Announce Artificial Intelligence Coalition"
+    excerpt: "In a collaborative effort, US healthcare and life science leaders are forming an AI coalition to advance innovation."
+    publishedDateTime: 2022-01-19T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/industry-leaders-announceartificial-intelligence-coalition"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/industry-leaders-announceartificial-intelligence-coalition"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/industry-leaders-announceartificial-intelligence-coalition"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
   - title: "CVS Health and Microsoft alliance: an example of an extended partnership"
     excerpt: "Microsoft and CVS Health have announced a new strategic alliance focusing on personalised care and accelerating digital transformation for the benefit of CVS customers and its employees."
     publishedDateTime: 2022-01-18T13:23:00Z

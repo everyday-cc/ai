@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "StructionSite raises $10 million to apply AI to construction project management"
+    excerpt: "StructionSite, a startup developing a platform that monitors construction sites using computer vision, has raised $10 million."
+    publishedDateTime: 2022-01-19T14:00:00Z
+    webUrl: "https://venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/"
+    ampWebUrl: "https://venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/04/GettyImages-552721783.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "lkiD+D4xkJE2QJ5JVw3xHGnKPC1Ree2xqqzgWoykhIF0NisYxhYa6nIfdBzGT9wrLuaqwowKdGh3h/mFgjuYnxwNkuAMaw8J8OxclnjtNStpjvbUPj23a0OjbZQ9pwUXg09JJJTutfWJrHKd5BSDmva1KksE3fkqkELbepSDH1VZUwAR28hu1nyCPTDJoib56Un1VNusE/3WoT1pQhaUQQjWNRtrGzZpONujesPrwfzs/O+xdH+Pr0SGF8ZxOWZmEigBkPrV73HobaJ/xATguq0kOBNOi2dd+yP3qmgzpx39JbjRcgScR2XlcLNV6aSnfNgUPGJfPurydv8pb/KC0Zz2kdPKLfZht1EUq8atbzFD4auzUFAHE0w4+jSupzQaN7WScy0U+nPhDNXim/UcxhaF9ZVTAas+0ef7RYujW8slNy5eMr3JHIqhM8cR1T+Onx4JLoFgaIKM68kVuNl7xWqTO6pPe0Ypj6MQh4pJiEd0ii5aiMGLv0bXHvq6OYWTPeJJ8XdJ9Z5m3PxD882eyg==;Tmr0XqiGore+j0JKnvxnLA=="
 ---

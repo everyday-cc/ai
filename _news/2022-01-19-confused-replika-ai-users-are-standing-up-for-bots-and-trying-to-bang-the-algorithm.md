@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/confused-replika-ai-users-are-standing
 webUrl: "https://thenextweb.com/news/confused-replika-ai-users-are-standing-up-for-bots-trying-bang-the-algorithm"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: The Next Web
@@ -27,6 +27,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Why AI Writing Assistants are a Good Thing for Content Creation"
+    excerpt: "AI writing assistants are software tools that are disrupting copywriting and content creation. So you've heard of AI writing assistants, but how do they work? AI writing assistants are software tools that automatically generate content for a set of parameters."
+    publishedDateTime: 2022-01-17T03:08:00Z
+    webUrl: "https://www.chron.com/business/article/Why-AI-Writing-Assistants-are-a-Good-Thing-for-16780295.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/50/44/21924126/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "7LEfsKlE9befBxp/eMNUi2FQFzPtJa32PJv/jxtBtnvIbTDula9XQRAeu8KR4TDP+2FYrJGsFbcMv4EB/jXAb87LQQlF3YiPUAC0wvMWpkvQ67fM2hNzS6ylwGtMMPUGIo9t5UKbOJXw2NGhjD2lvAsohLddKL8Q2hdg0D5cdsxYpitR2hPVN81eMWP2PdHg/u19qeGTG1FORK4ye6VtRLRLFqPPmnCHear/0vqq1KfBlmIKI/+dDHwkJ+/zG47nVs9Y3CNHX3URmRUcAOfp73ZUEvBW18qBAv2hCyyhIvgXUIxPXzWk0Exer+xyoJRkWoSthbdlcRbaWbK6vX+qqv/aT5odH85P+JRnrUmJTZ62S2Qy2VJcol+rOzZHCvQWzmaSIBIjLFalf5eIylt5Xn80YucOwyk/lvnlbbFoy/OPmKgfFPMKgbFm0evO71zezr8L8Fr25K/PW5uuFRbIVw8onymsTVg4PlPrC3ooFCWY4lKIteBcPltMpam8qpfOO8OTZYaDGMFCC01WN6T/jg==;Uod79NyEjYoAyPID1zRofg=="
 ---

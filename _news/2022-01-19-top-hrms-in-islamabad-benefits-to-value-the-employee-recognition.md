@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-19T11:39:00Z
 originalUrl: "https://www.linkedin.com/pulse/top-hrms-islamabad-benefits-value-employee-qaisar-shahzad"
 webUrl: "https://www.linkedin.com/pulse/top-hrms-islamabad-benefits-value-employee-qaisar-shahzad"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGacXwRkrrYTw/article-cover_image-shrink_600_2000/0/1642592328782?e=1648080000&v=beta&t=Ndo3KISecGeEKZi6lnSl7HFquD24sx2jODOSmFKv1YM"
@@ -28,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "v0rb35KSae7RGwk8DeTRPwT4B31XjcJc7JEFyOEibZUEDCf/Lujoh2aWgCIiBESYqU1AlXYSFGY3fLunCYwV8TfVcavwjU06UFX/NdBKCLUTUHMyAiu7cE+oagGtYx5fNTkyeDILwuLG+yMgEZUcfbpMRXSEaUD/muO3PTycFnot6SuS4GKTq9yEttp5nUtFYMJp6BEUh+li6aboaEPcIMnEC+0XapC+JxRSqLE5JezFoKWDstCRZ63eAeaNlT3eRGo0RYt7D1Vv3eCDHA5rjriIsKrzQbUgkrqQfYMj6sm1TTiCTj/IUvItYnkVuykq2OZ/CbP75KmiVwFYjtsamB3FkwuzY6OdaRDTzufdyns=;l8ttcXOKp1ULIO7kUKBGQg=="
+secured: "ADzlY+58wQIc3fquuIUjjo9Phg7fEQKH/fNBFw6Bj6cCnMazRwXZECu58hc4+eAF/tp707xVgXchK0V4iAGGf+5PfbLeHYlZJYrWUWahvR4Ops5GSyPsH+30ZMlanKinkNonLiSbSzYFYahYcJ5c6jojFt66RuoUerjBtkyfeO+UphF25b0QBR6WDTKcKDmhHSld5jy3xd3FitLcBYw1oPVvVvHpwDCeA6Fs4JJzHLmZDPyJAKFrexyTptaDpFdoCxy5ZoiPr9ipnubEu/f9KESJ3SvPI1VcqQ5fvNYFjE9xm4IOpmJgEAPn/9lYLhVo8/RMn/p9l0ahg83t27Wjgl1F9RoqIxWSulUHK1v6j1ImPw5urAttvjMPvc+dqgcjfiq8DGqxemLUNtZ+CXo8JgYlKGPs6w0amBYvl/pI9jjjcX/vodNiOR3JCRfXzhQI5bevYiLqXp8mefbRBWwnU+hqdcItO9PfgavC2/dbQnvn8l2/t1R2pa9V80PHxI3rd42lDJXsGj418qovvg3vUg==;fmX7zfxSw/3nU1vjP6cglA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adigaskell/2022/01/18/ai-creates-job-di
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adigaskell/2022/01/18/ai-creates-job-disruption-but-not-job-destruction/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "StructionSite raises $10 million to apply AI to construction project management"
+    excerpt: "StructionSite, a startup developing a platform that monitors construction sites using computer vision, has raised $10 million."
+    publishedDateTime: 2022-01-19T14:00:00Z
+    webUrl: "https://venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/"
+    ampWebUrl: "https://venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/04/GettyImages-552721783.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI learns to create images from text descriptions by destroying data"
     excerpt: "A fresh approach to generating images based on text descriptions with AI, called a diffusion model, effectively un-destroys new images into existence"
     publishedDateTime: 2022-01-18T12:00:00Z

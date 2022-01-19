@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchm
 ampWebUrl: "https://venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/amp/"
 type: article
-quality: 93
-heat: 103
+quality: 95
+heat: 105
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - Facebook AI
   - Natural Language Processing
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/06/195A8963_cropped.jpg?w=1200&strip=all"
