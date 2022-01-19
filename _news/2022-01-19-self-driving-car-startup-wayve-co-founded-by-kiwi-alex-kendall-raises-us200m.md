@@ -119,6 +119,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Autonomous mobility company Wayve raises USD 200 million"
+    excerpt: "Wayve, London-based autonomous mobility start-up, has announced a USD 200 million Series B funding round led by a leading group of global financial and strategic investors. This brings total equity raised to more than USD 258 million since launch."
+    publishedDateTime: 2022-01-19T09:21:00Z
+    webUrl: "https://www.telecompaper.com/news/autonomous-mobility-company-wayve-raises-usd-200-million--1411033"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "D9RH8GcuzgwGOkYvzs/qa0Pr8pUJK7mw0aIK3T0Odbr1yruqOpxqJ34ks1r0bG6On2VPoFXZ+W2ZU+494HLvk9YNIXlb5vQou9IZ7nDhffiwF6tYDoUG72BV4WIpopgGdwfX0/htLckB9shxtc9lcft1Hie3XRLb7S/Y2d+R0FqNU4I0tGOtp+HOZg1NqeNLxHfS8/221kk/QiTlnuvuGgCi6+wF6c1A2BbxB9pfc1D/+K7zwirUOuCnSDNtfPKAzoaFOxRSpRaDn+058ofNcRZNFgybDPnKgtPGCO0TFUYhW+jxAJnj+x52//xG6i/knMu/2iZQZMjCeCQLG/Hx1LHDdtrADCEBddDfr9qInqY=;qXL+J9c5LSVX+6RiyIKuDQ=="
 ---

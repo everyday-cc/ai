@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/amp/"
 type: article
 quality: 81
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -123,6 +123,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Autonomous mobility company Wayve raises USD 200 million"
+    excerpt: "Wayve, London-based autonomous mobility start-up, has announced a USD 200 million Series B funding round led by a leading group of global financial and strategic investors. This brings total equity raised to more than USD 258 million since launch."
+    publishedDateTime: 2022-01-19T09:21:00Z
+    webUrl: "https://www.telecompaper.com/news/autonomous-mobility-company-wayve-raises-usd-200-million--1411033"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "5rY8L1FHU1P3MjgQpODYwp9416gzfv1GPJmEIwivftKX/LMjdHvq/6nmh7yYOTECk1903xgSCrxAbfSqqHv0nxsGeuV4dHF8E5wOAnlcnQHCOp9nDttyIv9/CIhm2wa8McAY/QUUuj8phQEdvgwfwge/rzmNHMC5ZAFsHjyPKxk74n0Bx+bbrPC3GGcqydzOJAYa0Gaue+L44ObpHVlLExlsux8hNpSlSa9BBaGtT6963j4Zn1xloIAppuhH+NGxITPPlSUa7I93S08FfE9nD4y0Q56oo6OBc2FaO3YBMbxzM2jxaRmpRs9cDH5CYjVFNWQuB4nsHknVy7fsPx5dKMH/Zx3OQbWY9lg8sEHg10dz61t9TKbtbGl0tO/rpTTqjL16cn/ex8fSh284dqApkhloWZfXB7s0ZLrdQHJ982wHNLipdGxB+J+9J340N9xWrzk3cVLUbPhvRYgKN5Ek0SW/MtqpcuvdU8lTx7GWd1jhzpL7yBQejQ8zttpv80hDZmtmRfMAjn45zULnSYn9vA==;QW/QISD+oqN0N2jPpBpPUw=="
 ---

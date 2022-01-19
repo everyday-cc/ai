@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/what-ai-could-be-like-when-you-plug-a-
 webUrl: "https://thenextweb.com/news/what-ai-could-be-like-when-you-plug-a-computer-into-your-brain-syndication"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/661252/battery-storage.jpg"
         width: 2291
         height: 1309
+        isCached: true
+  - title: "Would You Trust AI To Do Your Trading?"
+    excerpt: "Artificial intelligence can do more than the human brain could ever imagine. Computers have indeed taken over in that regard. But what about trading? Discover here.. Page Body Content"
+    publishedDateTime: 2022-01-18T21:25:00Z
+    webUrl: "https://news.tmcnet.com/topics/articles/2022/01/18/451217-would-trust-ai-do-trading.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-jan/7515664986-IT-tech2.jpg"
+        width: 387
+        height: 581
         isCached: true
 
 secured: "yxn+Ky4TYgz/6H+I21RvCdoLGnHbowC6RA8/u7nRgRf5vHXo6/SwXcTWw4DbG7qyJRe+oaQvQwn4TQPDr+psHNCPZnxZIATpOdJ5LHIs2PeuK0fp9ZZ/IO2k4VXWLGFFAUzBqV7/hc6NV+uyvWqVLfVf5CbTL3sNL4WNa0XEHvQZ/TVNUjEFQj52ucI7K0jTyA47yFRL7vJ2CasI4xO2jNXeEda7NjXVG5AKqyOgWax2XE6kiSH4ShWk/ZKPX5kGFQGbvQQFJw553UyLvhBueupNa2zM9aFOVAu7501xLALtufQO+tIq+R5E5vzkK7gUdF8S2RVrQWlmzmPVH27Nqo5k+W4qdlLtRB26XOpTjhZ1j4GFNNPIvTwMDxwOPWkKJwKONyZLzmuAkb3h8huU88YuD52RlKDKZTYpbiy3WLMToUIJ6q+XtABaC7msXXF5HW9w4acZ3w4wSeJl8TF7vH/5wo8UlvWgntc8UYn8z8yqCIsZ6l58aKY8y7ISMYfqkdv+7Fwucw6g40toJ6ttFQ==;D6DK1F60f+eMK3WAa7J3jQ=="

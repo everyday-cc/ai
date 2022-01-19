@@ -24,6 +24,17 @@ images:
     height: 536
     isCached: true
 
+related:
+  - title: "How Artificial Intelligence Drives Sustainable Frugal Innovation: A Multitheoretical Perspective"
+    excerpt: "Recent globalization and industrialization efforts have pushed many companies to seriously consider innovation efficiency and its effectiveness. Industries seek to integrate innovation thinking in the company,"
+    publishedDateTime: 2022-01-18T17:19:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9669166"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 19
+
 secured: "g0VuzBmURSDSYuXDHEEy0nm3bp0veVBcfkXCr+Ip1+rS3ub1fQekPPhTy/FqnyuHLMJXZQoBHYFk7BjIG0cPMCTl7+EoTsvZLY8S10paou3+AV1czwFWgfNLdz5QSiU4Mbjz8Pp4IpNSDssfyp1rWtIKUX6vKVB9opG3tDT/1WWxH7gSS3z98LHs5NyG+vp5PLlPZRyukEOa1mg3le+mRkdMLiyaRAC5+/+bW0rRF3VKfycfV7FpCtwHGWzzVQRrIXo6wBhrBe8YlCh5/sWMNEELFMny2y2/wFu8is1rRBa7L6eSWG7+xf2GKUl2feEnoejBmx8F6kCjb4+uP4rMECpglIjnrrbFlhUywoRDGl0=;01xyl/3h7OFs2TVckh55LQ=="
 ---
 

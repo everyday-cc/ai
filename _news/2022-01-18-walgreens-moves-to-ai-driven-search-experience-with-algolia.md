@@ -1,31 +1,35 @@
 ---
 category: news
 title: "Walgreens moves to AI-driven search experience with Algolia"
-excerpt: "Search and discovery API provider Algolia last week announced that retailer Walgreens has joined its customer base and will use the solution."
-publishedDateTime: 2022-01-18T13:32:00Z
-originalUrl: "https://enterprisetalk.com/quick-bytes/walgreens-moves-to-ai-driven-search-experience-with-algolia/"
-webUrl: "https://enterprisetalk.com/quick-bytes/walgreens-moves-to-ai-driven-search-experience-with-algolia/"
-ampWebUrl: "https://enterprisetalk.com/quick-bytes/walgreens-moves-to-ai-driven-search-experience-with-algolia/amp/"
-cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/walgreens-moves-to-ai-driven-search-experience-with-algolia/amp/"
+excerpt: "The companies hope to provide an AI-driven solution that analyzes users' search terms, predict their intent, and deliver more search results."
+publishedDateTime: 2022-01-18T03:20:00Z
+originalUrl: "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/"
+webUrl: "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/"
+ampWebUrl: "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/amp/"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
-  name: enterprisetalk
-  domain: enterprisetalk.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/Walgreens-moves-to-AI-driven-search-experience-with-Algolia-01.jpg"
+  - url: "https://venturebeat.com/wp-content/uploads/2015/09/Walgreens_store-e1621433287338.jpg?w=1200&strip=all"
     width: 1200
-    height: 676
+    height: 600
     isCached: true
 
-secured: "Lbg54S1v8gOUyQRaVnyJlS52sMY+s+Wu9Ifkqf+ba6O0vAnzr77YZICAwx6wYyTKuKPls7p/yj9AkvJgVpSlmYPnRJBse6cR/KJS3pZY5dqMRJhGTbyPLrGsOZOTBi8ssKPY3SQFAaI3/oPuQ9zgVUANrnI0DyZDS91/MMiZmqBlu1BMzidDv9CMwvXYEpYlY96XyI7UY4yplBtnGvTW2AAQhSxq24r6gbtAkpRbUU6X23Q9V1PpskTuihsG5VDYrIVYHyqW9BfWRHpCozJqHeqJvDGUjojFcJujaQL/lROY87xVoZnDlCdezvxcLk9zQh+sN+e/arY+jc/ZyfuA7XuxcNqbMwoCoLrfm37gCZA=;FVO3C4RlDMxlvVqjF0FdBg=="
+secured: "p3arg89o+9jFzmTam6RHdYOCJlwxhpqtMB4EXZlE3hFS4Jl9PbwlHOjK5h9CyHqkCa8aAZpdz7j3e8yEd/Ro/okjd1UP42jrQUNcD3oOvmRbLmeXg1/6KavnQfl0fe1+hzu8h45OegNaCwPbIyCc/Xkd4PFkcdTOi1wu+WT8E6dqpCNm0nttJqwYFGqYOJoxl2RowC2+/9gug9rMdxD8FFQ8aUvpj015oqIyA1LSGw1Y1cPdA2xn2HmoKBus5BWp6jVVb5eO0HgiRZsfjrXr7PW2e43hSee3V9ugAQ3Jq9c7rE+NAIotuIPOcVCXVMnQLUItSefXVr7ugRTO83xTQXdK65yWqvcOOZp7+L4dGoU=;KG3gX/O1+JR/glCgtOIJRA=="
 ---
 

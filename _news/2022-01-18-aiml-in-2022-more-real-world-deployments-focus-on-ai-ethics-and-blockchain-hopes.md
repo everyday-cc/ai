@@ -1,28 +1,28 @@
 ---
 category: news
 title: "AI/ML in 2022: More Real-World Deployments, Focus On AI Ethics and Blockchain Hopes"
-excerpt: "Prominent industry experts share their predictions for the year aheadVILNIUS, LITHUANIA / ACCESSWIRE / January 18, 2022 / Artificial intelligence (AI) and"
-publishedDateTime: 2022-01-18T14:23:00Z
-originalUrl: "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes"
-webUrl: "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes"
+excerpt: "Prominent industry experts share their predictions for the year ahead VILNIUS, LITHUANIA / ACCESSWIRE / January 18, 2022 / Artificial intelligence (AI) and machine learning (ML) are maturing from tech world’s favorite buzzwords to indispensable solutions for real-world problems."
+publishedDateTime: 2022-01-18T14:26:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-science-blockchain-artificial-intelligence-f455ebd196f2a5db2fb907a2deb5cd20"
+webUrl: "https://apnews.com/press-release/accesswire/technology-science-blockchain-artificial-intelligence-f455ebd196f2a5db2fb907a2deb5cd20"
 type: article
 quality: 65
 heat: 75
 published: true
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Ethics
   - AI
   - Machine Learning
+  - AI Ethics
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/AAA-8-1-600x337.png"
-    width: 600
-    height: 337
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -36,6 +36,6 @@ related:
       domain: finanznachrichten.de
     quality: 40
 
-secured: "7MKtAEHb5ELePNiI+bhurEpZtPQZlTi//p1G7hPpRsdJwX7JHijYJkK83UexTIL7R4iCFmJhfmkI9yUro5PawDAu2cEwh/ncSnvG3O6D8VXfWcUI7iWctKyBntu457z+fOtdg6nVNc61zdz++px1x6PdNGeIkBhSsX5bTQ/J+OwL2TNkb+Fk+K2PFHJ09cFusNrR1iuwTpLf6Gd3tBkQdOX04lE/XOCDYokL7604T4maAgBw9lhuBfoc7StGQQSmBMfwrwgAegIPrGuRzIQ7fiF7sNOJg6VtFkFxOAAOAaMjroS1UcY/XFHSQT2LsmUmD0oz2aOHfpHoubOBi8EIQlOV1qBYeoePq23Js33t3CdQpTcx9GdvIeq/OnVZsgSHLqshYQnraHS2H56tlycZXao/rJSFuyWvEDDoHqFTHWV/w9XHitvuhCnpsVKIKSIBzOk0dOn2I+5OynoMs92qqLjGiMpCwotr4+Zc8KeGOkv2/i1GR30sc9BpaWp+j+ONwpwBrpjS3SjRVgxsbEOx9Q==;GNywk39I7efTGOvtacfbpA=="
+secured: "EjCPMF4WPSoSrCfsKDsrbW3brmQfHFCjMyfhMREyKwp0h08jD8U8F6V+u24Pq1h9gDuQoVpJdXeI/6Okz1iakP/o1Cp3b5FgOa5SYpEGu/Va5CgVJMFnMh/B0N0big03OiCq2zwAmrSRCmpEoS+28LHsAiyBfOQFfa8lH304z3G24eZBQRPDNNFtRAX/jdZg9S2iCYqeBGRPUSnU54V/4rSq9dt0vXDbU4ZvnTFhHjq4njApMFwVqOgFAMQrzanZUS7LEvPgVI7g03HCXhnYYQETVwmL3Pty4avk+LF3nJCzispN15PFrSKQj6jitmFoXp+SJG5qdfdlGAWj7TofyKGG8g4x1b36VGUCc/FwA2Y=;qcEDKzhnfg2TL8rHyPS+KQ=="
 ---
 

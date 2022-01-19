@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-19-uk-police-lack-framework-for-adopting-new-tech-like-ai-and-face-recognition-lords-told.md",
+      "title": "UK police lack framework for adopting new tech like AI and face recognition, Lords told",
+      "excerpt": "UK police forces have no overarching rules for introducing controversial technologies like AI and facial recognition, the House of Lords has heard. Baroness Shackleton of the Lords' Justice and Home Affairs Committee said the group had found 30 organisations with some role in determining how the police use new technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/01/19/uk_police_lack_framework_for/",
+      "originalUrl": "https://www.theregister.com/2022/01/19/uk_police_lack_framework_for/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2019/10/24/shutterstock_uk_cop.jpg",
+          "width": 648,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/19/uk_police_lack_framework_for/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/19/uk_police_lack_framework_for/",
+      "publishedDateTime": "2022-01-19T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-computer-vision-based-anomaly-detection-using-amazon-lookout-for-vision-and-aws-panorama.md",
       "title": "Computer vision-based anomaly detection using Amazon Lookout for Vision and AWS Panorama",
       "excerpt": "This is the second post in the two-part series on how Tyson Foods Inc., is using computer vision applications at the edge to automate industrial processes inside their meat processing plants. In Part 1, we discussed an inventory counting application at packaging lines built with Amazon SageMaker and",
@@ -1380,58 +1423,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-waking-up-on-indias-first-legal-challenge-to-the-deployment-of-facial-recognition-technology.md",
-      "title": "Waking up on India's First Legal Challenge to the deployment of Facial Recognition Technology",
-      "excerpt": "The Telangana high court issued notices on Monday to the state and Hyderabad police commissioner to respond to a PIL questioning the alleged use of face recognition technology (FRT) by officials without the sanction of law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/waking-up-indias-first-legal-challenge-deployment-facial-kapat",
-      "originalUrl": "https://www.linkedin.com/pulse/waking-up-indias-first-legal-challenge-deployment-facial-kapat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGjOZzgeJ5iQA/article-cover_image-shrink_720_1280/0/1641313661810?e=1647475200&v=beta&t=21jmnJ2hhv9pbckNo9OL63WRwXockzu2e-aHASsg-j8",
-          "width": 1216,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T08:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

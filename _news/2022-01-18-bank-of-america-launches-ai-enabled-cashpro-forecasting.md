@@ -36,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 101
+  - title: "Bank of America’s latest AI and machine learning product, CashPro Forecasting"
+    excerpt: "The debut of CashPro Forecasting, an artificial intelligence (AI) and machine learning (ML) cash flow forecasting tool, by Bank of America was announced on Friday. It creates accurate financial projections using machine learning models based on a company’s cash flow history."
+    publishedDateTime: 2022-01-19T09:50:00Z
+    webUrl: "https://bestgamingpro.com/bank-of-americas-latest-ai-and-machine-learning-product-cashpro-forecasting/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 68
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/CashPro-Forecasting-Bank-of-Americas-new-AI-and-machine-learning-tool.png"
+        width: 600
+        height: 375
+        isCached: true
 
 secured: "E+yKPyBHCDpqu9kb7sbxS91wfJPWASv3+26E6yDy908k10yhd9b0PkUanHy1j6dSJYdYawhHu8Vl8JynPEvguIg9m/AdRGlwlvOQPGDlBFWFrh/4+ZTylcBcpDh9ZWmhd64c2s1i5WdyWZpE08ytM+EIffZlau84XBLtSuyUM1YSZyBkyTZXofZgpfFxRW7OnfkdWEtPDwR5cIP7euovqnFWCaQLk2wRce+ayZ6vLQT0ASeIaAQIBjJnbvuyKbqJ3bZjFJ+X0yAo4Q06QJsP0bH6+5JX/OMsAU5wG2BspjBe4CXHH62PB7h2FNT5lcJhHQ2gekYvygO3TXbPfoZBkvBcAC+Rytbkm8cilyiS7T8=;XCt4bLZvNtn5dryogNS2UA=="
 ---

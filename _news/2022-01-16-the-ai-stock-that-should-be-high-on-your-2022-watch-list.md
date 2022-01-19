@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Would You Trust AI To Do Your Trading?"
+    excerpt: "Artificial intelligence can do more than the human brain could ever imagine. Computers have indeed taken over in that regard. But what about trading? Discover here.. Page Body Content"
+    publishedDateTime: 2022-01-18T21:25:00Z
+    webUrl: "https://news.tmcnet.com/topics/articles/2022/01/18/451217-would-trust-ai-do-trading.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-jan/7515664986-IT-tech2.jpg"
+        width: 387
+        height: 581
+        isCached: true
 
 secured: "z+5mvaqSzxwFEvENU8lFr0jjeEl26CdtOtBhoMTl6pFj+Rgtsbf+0Jr+n0nGIUkgb6Ld2jpRwr3H9eFKZBJp95L8NMqjl0ky+52KiWfHmMeO1y+qNANUBowP3bfslSzJJnvvP79WhtiQgGToirLrd8MQ2pAQ6fyIwO8SHBQpiKLE7C55U70xVIVOwVb5wYT0leUcR/RgZ4QI+xB8NNAPG3aqS9dVjVA5ao17C3DNWuu4gAmiH46MyfuUDttLwiC4DoD2E/5KiBg6rRk6RQnLLjSYLqj/UkOarh2n5F9nUDry+PQSeD5GRLaq1fZ61A/UlfSmDGlVA7FhlKjgk32nkOXhWcZffUayFJ+JTEFbsQfxDfgs0dS1J0mL3lf4GQOuosdTCLcp9mGEGVSk7eyQJ62nYfIMOCqFSRTUv7oZXxOOpwWI5f/EWBTi+zDV/wybJnVpb13J5U2yFCNF9xjwa9Agg607O22wbUDlmPOZPGlC0dQdVadd9qPAovycnZgf4dWXQK6Z10eLCI6yp3/uzw==;yNB6oEjbGRMIG4ZHHQTJWQ=="
 ---
