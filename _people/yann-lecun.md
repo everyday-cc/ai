@@ -14,7 +14,7 @@ website: http://yann.lecun.com/
 twitter:
   username: ylecun
   url: https://twitter.com/ylecun
-  followers: 294425
+  followers: 294451
 
 googleScholar:
   url: https://scholar.google.com/citations?user=WLN3QrAAAAAJ
@@ -30,7 +30,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg
+  - url: https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg
     width: 400
     height: 400
     isCached: true
