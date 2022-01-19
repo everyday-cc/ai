@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/business/technology/2022/01/14/waymo-jb-h
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2022/01/14/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years/?outputType=amp"
 type: article
 quality: 148
-heat: 178
+heat: 168
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.cnet.com/a/img/QuBZCKQalShPdGt42jTbBsCuB9Q=/2021/06/09/0de5bc3e-0dba-4b63-a565-0627fe3040d0/1-9mdaeoy-fpxsle9usrp7pa.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Waymo, J.B. Hunt Sign Deal to Use Self-Driving Trucks in Texas"
-    excerpt: "Alphabet Inc.’s Waymo signed a multiyear deal with J.B. Hunt Transport Services Inc. to haul freight using autonomous trucks in Texas, its latest bid to reshape transportation with self-driving technology."
-    publishedDateTime: 2022-01-14T14:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-01-14/waymo-j-b-hunt-sign-deal-to-use-self-driving-trucks-in-texas"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioERp1mVKf04/v1/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Waymo Lands Big Deal with J.B. Hunt for Self Driving Truck Tech"
     excerpt: "J.B. Hunt Transport Services Inc. announced a long-term, strategic alliance with Waymo Via as the two companies expand efforts to integrate commercial autonomous driving technology in transportation and logistics."

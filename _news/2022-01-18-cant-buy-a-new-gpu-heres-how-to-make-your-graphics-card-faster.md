@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/604703/cant-buy-a-gpu-heres-how-to-m
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/604703/cant-buy-a-gpu-heres-how-to-make-your-current-graphics-card-faster.html/amp"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

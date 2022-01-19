@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk Says Tesla's Full Self-Driving Beta Is Crash-Free Now. Is He Right?"
+    excerpt: "Elon Musk had been tweeting about what the future will bring for FSD, stating that Tesla Vision will soon detect turn signals on other vehicles, hazard lights, police and ambulance lights, as well as hand gestures."
+    publishedDateTime: 2022-01-18T22:08:00Z
+    webUrl: "https://interestingengineering.com/elon-musk-says-teslas-full-self-driving-beta-is-crash-free-now-is-he-right"
+    ampWebUrl: "https://amp.interestingengineering.com/elon-musk-says-teslas-full-self-driving-beta-is-crash-free-now-is-he-right"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/elon-musk-says-teslas-full-self-driving-beta-is-crash-free-now-is-he-right"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/ZKwJll7NGM/sizes/tesla_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Elon Musk Reacts to Tesla Competitor’s Sunday NYT Ad Smearing Full Self-Driving"
     excerpt: "Twitter Tesla’s Full Self-Driving system is (again) stirring up a storm of controversy on the internet. The EV maker on Monday released the newest (version 10.9) updates of its FSD Beta to a select group of Tesla owners."
     publishedDateTime: 2022-01-18T17:17:00Z

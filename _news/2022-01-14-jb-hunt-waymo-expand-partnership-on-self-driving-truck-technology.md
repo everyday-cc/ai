@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "J.B. Hunt will be Waymo’s first self-driving freight customer"
-    excerpt: "Waymo Via, the autonomous vehicle company’s trucking and cargo transportation unit, is expanding its existing partnership with logistics company J.B. Hunt Transport Services from a pilot into a long-term strategic alliance."
-    publishedDateTime: 2022-01-14T14:00:00Z
-    webUrl: "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/"
-    ampWebUrl: "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/Waymo-Via_JBH.png?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Waymo and Trucker J.B. Hunt Partner Up. This Isn’t Just About Self-Driving Vehicles."
     excerpt: "The agreement gives both companies two ways to benefit, but shares of the trucking company were lower on Friday."
     publishedDateTime: 2022-01-14T17:36:00Z

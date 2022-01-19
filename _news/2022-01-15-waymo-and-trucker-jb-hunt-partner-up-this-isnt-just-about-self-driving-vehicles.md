@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/waymo-j-b-hunt-self-driving-tru
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/waymo-j-b-hunt-self-driving-trucks-51642181706"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "J.B. Hunt will be Waymo’s first self-driving freight customer"
-    excerpt: "Waymo Via, the autonomous vehicle company’s trucking and cargo transportation unit, is expanding its existing partnership with logistics company J.B. Hunt Transport Services from a pilot into a long-term strategic alliance."
-    publishedDateTime: 2022-01-14T14:00:00Z
-    webUrl: "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/"
-    ampWebUrl: "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/Waymo-Via_JBH.png?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "J.B. Hunt, Waymo expand partnership on self-driving truck technology"
     excerpt: "J.B. Hunt Transport Services Inc. announced Friday (Jan. 14) a long-term, strategic alliance with Waymo Via as the two companies expand efforts to integrate commercial autonomous driving technology in"
     publishedDateTime: 2022-01-14T15:23:00Z

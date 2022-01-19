@@ -51,6 +51,15 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 33
+  - title: "Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI"
+    excerpt: "The second edition of Deep Learning Interviews is home to hundreds of fully-solved problems, from a wide range of key topics in AI. It is designed to both rehearse interview or exam specific topics and provide machine learning MSc / PhD. students ..."
+    publishedDateTime: 2022-01-19T04:57:00Z
+    webUrl: "https://www.bibsonomy.org/bibtex/04d161630cc1d0502bf12633f27f8dfd"
+    type: article
+    provider:
+      name: BibSonomy
+      domain: bibsonomy.org
+    quality: 13
 
 secured: "LhLJunIIbtrxOaDFk0LHRBOM8kjSbBHzluKBLvAl0Kp4S52DjXvFHWl2pK2SZoYF8/1OTZ4T6+a1ZVI2mTAp9vScxDJTJwxGSlRmJLo87nzBdCoYgPunFCu1dG4fGGLCVftlLSB1rXKVe+ZUl/FjNIae/n9unpNquLHAMLXJSasbpXb0AR2lDEDmE1bqUx6UM8ZB+NamWIAmgjYpCkkx8WILvy4IQIMs/ZXZKPBbb/dFPIFOwFYSc6XO4K7cbnktuGMqmMMoAxtL/JjSKycxL4ZhUo7OjE4qy7DXJH9XphUDIaiBmCK/3NusEW/SuEmGiC48eR/cGS6Z3804u7mJEob9gAi+WawbZVUZgEpbkKVABra1aqQBR/3tRfwxr3RbHD44Cf2mCnSkMX89v7UUZP9DgyERNEMmhwVKW0QS/Ne0MTDzlPrcfam4QBHiFbm+sEszjMqnMU+981jgGAo/ZABGVkYdjU42yN1p17FOawGKTRJBhSlpk2rxwGhyu7NswtgfPmonQf62+2xVECJUdg==;4vQ50qcVGOmcB36Bl5Gdnw=="
 ---

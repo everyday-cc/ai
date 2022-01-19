@@ -44,22 +44,6 @@ related:
         height: 480
         isCached: true
   - title: "The free-energy principle explains the brain"
-    excerpt: "This finding will be useful for analyzing impaired brain function in thought disorders as well as for generating optimized neural networks for artificial intelligences. Biological optimization is ..."
-    publishedDateTime: 2022-01-14T14:57:00Z
-    webUrl: "https://medicalxpress.com/news/2022-01-free-energy-principle-brain.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-01-free-energy-principle-brain.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-free-energy-principle-brain.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/the-free-energy-princi.jpg"
-        width: 1789
-        height: 679
-        isCached: true
-  - title: "The free-energy principle explains the brain"
     excerpt: "The free-energy principle can explain how neural networks are optimized for efficiency, according to new research. This finding will be useful for analyzing impaired brain function in thought disorders as well as for generating optimized neural networks for artificial intelligences."
     publishedDateTime: 2022-01-16T14:22:00Z
     webUrl: "https://www.sciencedaily.com/releases/2022/01/220114074515.htm"

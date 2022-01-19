@@ -25,65 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese restaurant chain is forced to use ROBOT waiters during the Covid pandemic"
-    excerpt: "Directors at The Chinese Buffet unveiled one BellaBot in each of four restaurants in Liverpool, St Helens, Bolton and Wigan, to serve food to diners in place of humans."
-    publishedDateTime: 2022-01-14T13:02:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10402701/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
+  - title: "Somaliland offers to resist growing Chinese influence in Africa as it seeks US recognition"
+    excerpt: "The territory, which split from Somalia 30 years ago and has growing links with Taiwan, is trying to win diplomatic support in Washington."
+    publishedDateTime: 2022-01-15T18:00:00Z
+    webUrl: "https://www.scmp.com/news/china/diplomacy/article/3163472/somaliland-offers-resist-growing-chinese-influence-africa-it"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 69
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 44
     images:
-      - url: "https://i.dailymail.co.uk/1s/2022/01/14/13/52927541-0-image-a-63_1642165520636.jpg"
-        width: 636
-        height: 382
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/14/e871fd38-1bfa-488f-9cfe-f9bf252a98ba_c8ccf4b0.jpg?itok=GbhcSgsG&v=1642167452"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Machine learning model uses blood tests to predict COVID-19 survival"
-    excerpt: "A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival, weeks before the outcome, according to a new study published this week in the open-access journal PLOS Digital Health by Florian Kurth and Markus Ralser of the Charité—Universitätsmedizin Berlin,"
-    publishedDateTime: 2022-01-18T19:00:00Z
-    webUrl: "https://medicalxpress.com/news/2022-01-machine-blood-covid-survival.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-01-machine-blood-covid-survival.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-blood-covid-survival.amp"
+  - title: "Machine Learning Can Solve Some Of Africa’s Biggest Challenges"
+    excerpt: "TechFinancials is a reliable tech media property, dedicated to obsessively analyzing digital revolution and breaking tech news."
+    publishedDateTime: 2022-01-18T08:12:00Z
+    webUrl: "https://www.techfinancials.co.za/2022/01/18/machine-learning-can-solve-some-of-africas-biggest-challenges/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 43
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-model-1.jpg"
-        width: 2480
-        height: 1181
-        isCached: true
-  - title: "Chinese robot companies increase investment as country aims to become global hub"
-    excerpt: "China recently unveiled a plan to become a global robotics hub by 2025. CGTN's Wu Lei visited two robot and AI companies to learn about the opportunities and challenges in the sector."
-    publishedDateTime: 2022-01-16T07:48:00Z
-    webUrl: "https://news.cgtn.com/news/2022-01-16/Chinese-robot-companies-increase-investment-16RPGm7kkUg/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 49
-    images:
-      - url: "https://video.cgtn.com/news/2022-01-16/Chinese-robot-companies-increase-investment-16RPGm7kkUg/video/d7bb7a7605ff4190bc1d1a30d679a78d/d7bb7a7605ff4190bc1d1a30d679a78d-1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "GT Voice: Pacific island countries need Chinese investment"
-    excerpt: "The massive eruption of an underwater volcano off Tonga, which triggered tsunami waves to hit the Pacific island nation and other locations in the Pacific, has become a focus of global headlines. Tonga is in need of emergency aid,"
-    publishedDateTime: 2022-01-17T12:13:00Z
-    webUrl: "https://www.globaltimes.cn/page/202201/1246180.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 24
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-01-16/08271bee-a89f-4676-927f-38be49a6cd2d.jpeg"
-        width: 2000
-        height: 1200
+      - url: "https://www.techfinancials.co.za/wp-content/uploads/2021/05/Marilyn-Moodley.jpg"
+        width: 700
+        height: 466
         isCached: true
 
 secured: "dvnbemhv8fw3AiinUstK56LuF3ZjlSpoam0OmzsE5Mk0aTLtOI8gkcuCHVqGpud8vlbH5pJa6iCt7bmRLhImppQGDv6DzZavxlahBQ8NzQFFyiVnK4AnUpL5JEuHMlhQg7MEzFGTW73JPMJXyP0ix2XvzO9g1HTNQbrfetipZdEJKJbfUa5t+aLwLiTyp0mEIx3ffISrPEJp8yPFgAtVCJUcv4IJ1N7NpResDJNWxgfE9ykpKBECWnAUAUiJAjm7747fk3UPR3FIvjaCnJpmFAoYaHM0U/CjFrfdcUpTZLtkZE5U/PF53Y2Zj8QIVCeuiPVGhvB8q6fXrDOrp8bOlgeXJ4bN7owS8QbwXBLUUdo=;OoE5Sl4v42kqqUPlp2FZBw=="

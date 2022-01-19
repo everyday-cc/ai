@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebil
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 95
 published: true
 
 provider:

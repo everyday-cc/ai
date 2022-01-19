@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone/amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Four Wheeled Fully Autonomous Delivery Robot Has an Airbag for Pedestrians"
-    excerpt: "Autonomous driving companies talk about AI and collision-avoidance tech. But this bot maker has put in a measure if other things fail."
-    publishedDateTime: 2022-01-14T14:30:00Z
-    webUrl: "https://interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians"
-    ampWebUrl: "https://amp.interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 71
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/XD6KkKyz6v/sizes/nuro-1920_resize_md.png"
-        width: 744
-        height: 419
-        isCached: true
   - title: "KT, Yandex Self-Driving to jointly develop autonomous delivery robots"
     excerpt: "South Korean operator KT has partnered with Yandex Self-Driving Group, an affiliate of Russian internet group Yandex, to jointly develop delivery robots, Yonhap news agency reports. KT and Yandex Self-Driving Group have signed a partnership deal in Moscow to develop and roll out an autonomous delivery robot this year,"
     publishedDateTime: 2022-01-18T08:42:00Z

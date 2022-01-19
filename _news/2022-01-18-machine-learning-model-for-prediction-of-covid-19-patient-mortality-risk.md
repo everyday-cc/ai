@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220118/Machine-learning-mode
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220118/Machine-learning-model-for-prediction-of-COVID-19-patient-mortality-risk.aspx"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning model uses blood tests to predict COVID-19 survival"
+    excerpt: "A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival, weeks before the outcome, according to a new study published this week in the open-access journal PLOS Digital Health by Florian Kurth and Markus Ralser of the Charité—Universitätsmedizin Berlin,"
+    publishedDateTime: 2022-01-18T19:00:00Z
+    webUrl: "https://medicalxpress.com/news/2022-01-machine-blood-covid-survival.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-01-machine-blood-covid-survival.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-blood-covid-survival.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-learning-model-1.jpg"
+        width: 2480
+        height: 1181
+        isCached: true
   - title: "Study: Blood tests assessed via machine learning can predict COVID-19 survival"
     excerpt: "Blood samples collected from patients with severe COVID-19 can be analyzed by a machine learning approach to predict whether they will recover and survive or die from the disease, a PLOS Digital Health study found."
     publishedDateTime: 2022-01-18T18:00:00Z
@@ -42,6 +58,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/4021642523974/2022/1/e75357055f4d4b3aee83972eb6aeb6b4/v1.5/Study-Blood-tests-assessed-via-machine-learning-can-predict-COVID-19-survival.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Machine learning model uses blood plasma proteins to predict survival for COVID-19 patients"
+    excerpt: "A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival, weeks before the outcome, according to a new study published this week in the open-access journal PLOS Digital Health by Florian Kurth and Markus Ralser of the Charité – Universitätsmedizin Berlin,"
+    publishedDateTime: 2022-01-19T06:09:00Z
+    webUrl: "https://www.news-medical.net/news/20220119/Machine-learning-model-uses-blood-plasma-proteins-to-predict-survival-for-COVID-19-patients.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220119/Machine-learning-model-uses-blood-plasma-proteins-to-predict-survival-for-COVID-19-patients.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220119/Machine-learning-model-uses-blood-plasma-proteins-to-predict-survival-for-COVID-19-patients.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 49
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Intensive_Care-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "TCJjOEw5Ioiuk+/JhEdsH4ijY8SH56Lrj7107JyxlYQbntHXArGv7Xgr2dq+mItosuHDKqtxH34T6nrWFYE43L26P3ms96m4VEGOG7hTvLbgd3B71XB+mQjhdKIQamN223SpcJc71f1+6ntZarrveXZ6YO2ki/51Peh1HiiwkDEufbQKBVaII5fjt3kF2sjl2IncAKO1lGm2f0I49FeBOmqTHMsQ169Ycgtmf12i5gWorCWUyg1mvTPEsj3KRBG0ev6RGxAUiwkOCzcp1ZkMMgyXflGhStA840N/yh7zDKu9Jmj1p1oJiJ3+O1nVgdWCxxjY6rTUvCtJAT/UVItvT/xllVzqhR5/lBD/nKrtXrQGKbVPyhn+yG+IqsBrOUoe1PLzO95/FGof2+vyQ378DN2zDObPn7icQ8CvikeqizZScdvbMIT9oiTzsThYh6FZRy3GTWtL/witGotL6RN8mOPiR4f4bxjgVubG43NGRBP4y8SabkyHICsY0AdYycWL7udM2yOfE7IJwxCCGODHhw==;nmKmjiJg9HoqV//iISYkzg=="

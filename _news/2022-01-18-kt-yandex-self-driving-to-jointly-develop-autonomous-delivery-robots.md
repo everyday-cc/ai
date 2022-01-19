@@ -35,22 +35,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "A Four Wheeled Fully Autonomous Delivery Robot Has an Airbag for Pedestrians"
-    excerpt: "Autonomous driving companies talk about AI and collision-avoidance tech. But this bot maker has put in a measure if other things fail."
-    publishedDateTime: 2022-01-14T14:30:00Z
-    webUrl: "https://interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians"
-    ampWebUrl: "https://amp.interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 71
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/XD6KkKyz6v/sizes/nuro-1920_resize_md.png"
-        width: 744
-        height: 419
-        isCached: true
 
 secured: "y9GWkSuJX2D2v0l4sf+M4sbul6AfOzqD9ynaCG8r2oGDU3B2BvGhQ+OcQ2HFJErwyS8pVGy/owtltEB+N0ca4x5urVyojIB/yyeD2AQmr1luNpA2vNDL4MCufX9UuRRvBRCCqAuyW+805zsNI6zGPrE4JU44ZR5Ohgz+CtyxhbSLnYufrgBE1yvZ57OsxBdr7RqAkVKBBeBLX8kzlFBDN7jVyGI9rUISLhYo0xuUP1BP6HHLyS7hpJLrYA1Ra7e0Bw4OLPqH/9Dyp6GwcRMXsF98Bh+iwCTE7VzWWOox6xDCqg47FscaiB5hbwRpmyMiTettBRBjSYev6Gwdj6+Pk2Oj1odoHV57VqKS2rptGYg=;zseM2aN2Z4dOYt7tQoT2iw=="
 ---

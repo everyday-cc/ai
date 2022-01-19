@@ -50,6 +50,15 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI"
+    excerpt: "The second edition of Deep Learning Interviews is home to hundreds of fully-solved problems, from a wide range of key topics in AI. It is designed to both rehearse interview or exam specific topics and provide machine learning MSc / PhD. students ..."
+    publishedDateTime: 2022-01-19T04:57:00Z
+    webUrl: "https://www.bibsonomy.org/bibtex/04d161630cc1d0502bf12633f27f8dfd"
+    type: article
+    provider:
+      name: BibSonomy
+      domain: bibsonomy.org
+    quality: 13
 
 secured: "qLhNu6BSsenngoO7VWpfkOrcZF4x77IDJLJZ/kdgZS0JsHZgk0ptLZjr2ZI7t5w3pBAZMg5VRrc/vis+LSNew+fG0dD9Mz5yLMShX7H374h/ZibEJzJ9xIhAxS10XN713xwau5YTTl5sy/MGsTg+GrcJUDtrRfldZuydHGFi+sPkQcc/KnaDB99PZSCwhHaZDiZHtlvP0CZHDb20/M1cRUBOJWqvTEyEWu4Jo3oP+D0NRHxa7Reb8vzjYzBtfRlpFnRbO+h0n9zx48OaiBFnD4Gu6Kz5G/H4/CVftSeKPwXROWAqwDBk1GW7a4XuujNshLWUQKmvie4446qBwgHFh4O/EcBbatW03nn6AsSBEq3Mw+Tzow8RIhcWsPHXZE0L6r2SlvrdTrkyxNY8UmaT65/T3R3gfxANZj8eWD/YsjGqiBfTD1cGlfZ2QY91BfTSpNdQdHAl/3KgIJkylyb58+UCOPHyz7lmiJkd5H4gW2iQ4M5RIXaK+n86C/Kl8/lgEV2LuemonhAxxYRWt33L3w==;QGcZywKNb0zG4uuqE/JoBA=="
 ---

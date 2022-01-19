@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/The-AP-Interview-Exiled-artist-Ai-Wei
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-AP-Interview-Exiled-artist-Ai-Weiwei-on-16783772.php"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 33
+  - title: "Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI"
+    excerpt: "The second edition of Deep Learning Interviews is home to hundreds of fully-solved problems, from a wide range of key topics in AI. It is designed to both rehearse interview or exam specific topics and provide machine learning MSc / PhD. students ..."
+    publishedDateTime: 2022-01-19T04:57:00Z
+    webUrl: "https://www.bibsonomy.org/bibtex/04d161630cc1d0502bf12633f27f8dfd"
+    type: article
+    provider:
+      name: BibSonomy
+      domain: bibsonomy.org
+    quality: 13
 
 secured: "FVUIKd5LUZm65K0r6HryIa1RqNXTn1A1NhC96KlH+jBgtWM3uO3zsY2nePP02aNLTw6eDBpK1zrM9qcCIP8k/fmCcDm1kEDA3YW9Y7nmm8sh1UVpuHjG5NJHUppTBqIjZkPPbEbTT2/Eu8iNs9aOlpxCxmv9yyIKZCrnC6o2raHVlmwpWk9LpfvkgpJ9y3Ii9QjAzZAj2rqHdMJNN/ry5ufy9W4f0N9ljWh+nR5P3GXCV5M3FaLZc72Ah9QTcBmkFsdiGLcbxtgKfpBe8PAHzCrJhUAdGajVVuEbw+O2xTjBcHhK4Zw9WBwjxf2Q+AlEt1fFqlHW/JW/Wr926Je6UNRWR/n2fVhWQ5h78exyc8c=;2GL5hBPfee1xUaBt7nRSlA=="
 ---

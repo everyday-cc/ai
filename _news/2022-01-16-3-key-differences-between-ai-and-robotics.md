@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-difference
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/amp/"
 type: article
 quality: 119
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 827
     isCached: true
-
-related:
-  - title: "Cannabis firm to use AI, robotics-based logistics system"
-    excerpt: "A robotic and artificial intelligence (AI) startup is providing retail logistics and workflows for Collective Cannabis, a cannabis dispensary. Wings will provide its EXO delivery system that is designed to automate retail logistics."
-    publishedDateTime: 2022-01-14T13:38:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17653/cannabis-firm-to-use-ai-robotics-based-logistics-system"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 69
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/653/17653/cannibis.jpg"
-        width: 752
-        height: 423
-        isCached: true
 
 secured: "rcHnkVDszZJEFCXjs8llW545Cg0+5n/DN4KEF97e1mR7cz0lP66fHxTlQ2BEn2YxK/9tYa/ap8d3guEykDozlvT+4M0PcTh6vh/6PqnKLRi5pFBz/UHiUtcYOlST+FHyG2+qcGfJBVutgnVAfO7nHWuoZTbySBxT8mYRIUnb1/Tc7jTlEakN911H91atQAh582MxdWy/xL2vSHqY8tjXRH2HhgS575TxttnDDm0Bo8rKYf+F9noxyYy0UWN64YfK+xuh6vmrBdUzq6UqOVGK2SqjSTje/+tF8U/OSosAatKfAcCJSp5/+k3dS5ZDLUKXiqRU6hwLpWCc9a8CUrXc3/1RtDcjQRreAVRypn/eTOHftRz6WovUrARTzP51CHcmK69i/usc3bSDDbJRZQ4T44c9wnFWnOiF6QrT5K0gnhGTAlAAppgaG8dCRPyD5KhHQZ8byfyOFLtXolawiCB11gRqkIEJssKmkntDVkgl0UjCZymMySPq3ptVucDIwA42QKypjPEVXhioZKEnGfWJOw==;/2QCIP4g0hhkeEiGVOxRsg=="
 ---

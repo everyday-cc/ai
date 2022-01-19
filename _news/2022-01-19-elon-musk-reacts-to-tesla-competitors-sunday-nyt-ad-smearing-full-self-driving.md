@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk Says Tesla's Full Self-Driving Beta Is Crash-Free Now. Is He Right?"
+    excerpt: "Elon Musk had been tweeting about what the future will bring for FSD, stating that Tesla Vision will soon detect turn signals on other vehicles, hazard lights, police and ambulance lights, as well as hand gestures."
+    publishedDateTime: 2022-01-18T22:08:00Z
+    webUrl: "https://interestingengineering.com/elon-musk-says-teslas-full-self-driving-beta-is-crash-free-now-is-he-right"
+    ampWebUrl: "https://amp.interestingengineering.com/elon-musk-says-teslas-full-self-driving-beta-is-crash-free-now-is-he-right"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/elon-musk-says-teslas-full-self-driving-beta-is-crash-free-now-is-he-right"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/ZKwJll7NGM/sizes/tesla_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Tesla Full Self Driving beta comes to Canada in 2-4 weeks"
     excerpt: "Elon Musk himself has said that Tesla will roll out the Full Self Driving (FSD) beta in Canada over the next 2-4 weeks. If I had to guess, we’ll likely see it in 2-4 months, but on occasion, Musk’s tweets have been known to accurately reflect Tesla ..."
     publishedDateTime: 2022-01-17T22:54:00Z

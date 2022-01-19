@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Co-op stores using risky Chinese facial recognition technology to track their shoppers"
+    excerpt: "Facial recognition technology, made by a Chinese state-owned company that is currently listed as a security threat by the Ministry of Defence, has been"
+    publishedDateTime: 2022-01-16T15:27:00Z
+    webUrl: "https://www.euroweeklynews.com/2022/01/16/co-op-stores-using-risky-chinese-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Euro Weekly News
+      domain: euroweeklynews.com
+    quality: 31
+    images:
+      - url: "https://cdn.euroweeklynews.com/wp-content/uploads/2022/01/joe-gadd-DYLsNF8hNho-unsplash.jpg?x15995"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "Cqs0bAu6roC62mZVCeOrbMKfndC8XgJdSzOsOjsgCYAfo+I8q8rNFbvB6BiwVcQP9F0+iCBpM3HFoYji4wu7xWRDuIUbNtp/d2+APs516zTEAixrCNuT3q+lkhbvMPm48ZmQiYO7d2K95JOLLe5EPXbNC8w7rhkbdiqzBEnG9koMZlm+O8JebWmXyaVLcRYzCAAnQsTakqw41fZU6qdVAqsblHH9fvdS8lB6iIxellmVGn1fozEFXpTD7L3AtDeszS8o5/yDMMTZKBleJR/mjwDiMY86jJyRPx2UJv4ZIJRy96TWA9RCrSHpIFzNxFmsllptgRcICoPM6AyAV1XikuIEZvgmvzfahu2yNlrzRtpsn4nx9PX9vYct42gs+jfkBTdQWgMIoKNB8GlRaQmAT/ROLVvDNxfvWih/bUsWif2e84zxFlgtqa1FRzscPspZeQwocdBMzewXDGVDVDUMre7v/w/RdaejztufKfqEe4//AykGYRG++STmJBhBjkjPNFhhQu7mFJZZe5GAx0GoCw==;L+cSr5Sz8Qh16tktujkJRg=="
 ---
