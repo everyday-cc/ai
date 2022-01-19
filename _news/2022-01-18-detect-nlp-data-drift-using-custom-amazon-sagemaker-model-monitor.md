@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drif
 webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor/"
 type: article
 quality: 106
-heat: 116
+heat: 117
 published: true
 
 provider:

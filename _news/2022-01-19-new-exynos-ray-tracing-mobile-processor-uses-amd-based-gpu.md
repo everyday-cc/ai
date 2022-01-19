@@ -41,6 +41,22 @@ related:
         width: 935
         height: 514
         isCached: true
+  - title: "Samsung’s Exynos 2200 SoC revealed with AMD RDNA2 ray tracing GPU"
+    excerpt: "Its new neural engine is also said to offer twice the AI performance as before. The GPU side of the E2200 is where things get particularly interesting. Samsung has partnered with AMD for what will be the first of many mobile GPUs to come from this new ..."
+    publishedDateTime: 2022-01-18T23:50:00Z
+    webUrl: "https://www.slashgear.com/samsungs-exynos-2200-soc-revealed-with-amd-rdna2-ray-tracing-gpu-18707777/"
+    ampWebUrl: "https://www.slashgear.com/samsungs-exynos-2200-soc-revealed-with-amd-rdna2-ray-tracing-gpu-18707777/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/samsungs-exynos-2200-soc-revealed-with-amd-rdna2-ray-tracing-gpu-18707777/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/samsung-exynos.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Finally, Samsung launches new Exynos 2200 with AMD RDNA2 GPU"
     excerpt: "After a lot of debate, rumours and tantrums, yes, finally, the Samsung Exynos 2200 mobile chipset has been announced by Samsung. Obviously, the key feature of this flagship chip is its new iGPU made by AMD,"
     publishedDateTime: 2022-01-18T04:57:00Z

@@ -24,6 +24,7 @@ topics:
   - AI
   - AI Ethics
   - Facebook AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/10/YouFirst-AI-emotion-tracking-brand-video-campaigns.jpg?w=1200&strip=all"

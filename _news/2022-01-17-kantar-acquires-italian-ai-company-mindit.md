@@ -9,7 +9,7 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5094492&name=kantar-a
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5094492&name=kantar-acquires-italian-ai-company-mindit"
 type: article
 quality: 57
-heat: 88
+heat: 87
 published: true
 
 provider:

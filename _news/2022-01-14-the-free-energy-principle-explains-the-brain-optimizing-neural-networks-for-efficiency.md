@@ -41,22 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "The free-energy principle explains the brain"
-    excerpt: "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency. Published in the scientific journal Communications Biology,"
-    publishedDateTime: 2022-01-14T14:56:00Z
-    webUrl: "https://medicalxpress.com/news/2022-01-free-energy-principle-brain.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-01-free-energy-principle-brain.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-free-energy-principle-brain.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/the-free-energy-princi.jpg"
-        width: 1789
-        height: 679
-        isCached: true
   - title: "Learn the Basis for Optimized Neural Network"
     excerpt: "‘Free-energy principle may be the basis for the optimized efficiency of any neural network that may further help in analyzing impaired brain function and for artificial intelligence."
     publishedDateTime: 2022-01-14T23:58:00Z
@@ -82,6 +66,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "The free-energy principle explains the brain"
+    excerpt: "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency. Published in the scientific journal Communications Biology, the study first ..."
+    publishedDateTime: 2022-01-14T10:04:00Z
+    webUrl: "https://www.riken.jp/en/news_pubs/research_news/pr/2022/20220114_3/index.html"
+    type: article
+    provider:
+      name: RIKEN
+      domain: riken.jp
+    quality: 39
+    images:
+      - url: "https://www.riken.jp/news-pubs-en/research-news-en/2022-research-en/20220114_3_twitter.png"
+        width: 700
+        height: 366
+        isCached: true
 
 secured: "tfAH3L2Xnr2OiwHuteauwy21+ezxnx6Nyv1g+aG5QBrsPe3xJjS4IXmgNzIhtgLj2YSwjJnn0w4Flhj8I7NhdZH5iaPoswhLVKxBqUtwZRGWLj4r94SJVsSHMeZ7GqzZr85aAo4cEJuE+szJej1f/RW/Z9wsS5kGWP1dISg7hXHG6JOI3TZjdDu6zrU/vr3uC93QpoaGZs7q+x5RYGV681by7dB5C2Bk521DTGMV3YvA9dFBCQI4xDLT2cafqaopiyhyap3pIRyG5N3IA+RVxAJdmAwzkuVbiChArKWr23PsyOEiSSSJ0eB9MPgvLv8b7vE9kCGABDQtH1LkHe4eM2AK3wyBkas2qkEdVHVO4vPTRL78vBWLWHd5rR0piBhDEQjHTvTk5rs6Yft8nXoIPXYgnqpND0zn7WmK3PJCq4xQyNzluCs5OoEl59oKOXFQX6TL1ItBHUgoh5rI0WkogU0L99eMzLKy1zRclhbPIAKcSN/sHFI9FeO7sDkV+Fl0/E3YQopKDhKU74oSSFucVw==;rcyyXEHK0f95IRjaR7NHDw=="
 ---

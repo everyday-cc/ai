@@ -44,22 +44,6 @@ related:
         height: 480
         isCached: true
   - title: "The free-energy principle explains the brain"
-    excerpt: "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency. Published in the scientific journal Communications Biology,"
-    publishedDateTime: 2022-01-14T14:56:00Z
-    webUrl: "https://medicalxpress.com/news/2022-01-free-energy-principle-brain.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-01-free-energy-principle-brain.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-free-energy-principle-brain.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/the-free-energy-princi.jpg"
-        width: 1789
-        height: 679
-        isCached: true
-  - title: "The free-energy principle explains the brain"
     excerpt: "The free-energy principle can explain how neural networks are optimized for efficiency, according to new research. This finding will be useful for analyzing impaired brain function in thought disorders as well as for generating optimized neural networks for artificial intelligences."
     publishedDateTime: 2022-01-16T14:22:00Z
     webUrl: "https://www.sciencedaily.com/releases/2022/01/220114074515.htm"
@@ -81,6 +65,20 @@ related:
       - url: "https://scitechdaily.com/images/Brain-Maze-Illustration.jpg"
         width: 2000
         height: 1500
+        isCached: true
+  - title: "The free-energy principle explains the brain"
+    excerpt: "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency. Published in the scientific journal Communications Biology, the study first ..."
+    publishedDateTime: 2022-01-14T10:04:00Z
+    webUrl: "https://www.riken.jp/en/news_pubs/research_news/pr/2022/20220114_3/index.html"
+    type: article
+    provider:
+      name: RIKEN
+      domain: riken.jp
+    quality: 39
+    images:
+      - url: "https://www.riken.jp/news-pubs-en/research-news-en/2022-research-en/20220114_3_twitter.png"
+        width: 700
+        height: 366
         isCached: true
 
 secured: "iAdfjKPZfo8pCd+A3H242b1Su/tNiorvhkPWXdzqz+E+d3WNuUSaXci0yG7GPs3Z4S8CM/w83OYv4BfGk1c6Qwqbo/GoU3pnqGfjrxDcGcJytT44UNrvoAKvv2Zf2gPqIdmw9G2C/i/mkVKmiIqRcv00vth2RNlepohOKXqRQI/A6t8cXf93YgzOOPQw4EVnYAXQr7q+1DiLo2wxY/9N84SSJhKIOArb7IUEMqqpAry8RGeemxMl+4jyQjILvh8DJ64LI0etwPU+/vwns48Go/keDcWb2nSM4ZJmkIQOO7t1WB4Ao7D5OwPptBo2QKuZBxzCNDtOY4z8ke220+SACSatDpTk9xZ828x0ZvM9VSE=;0oMuSroUX67VfC5n5zMwtQ=="

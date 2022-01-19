@@ -2,6 +2,315 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-12-17-how-ai-and-data-analytics-drive-value-in-the-finance-function.md",
+      "title": "How AI And Data Analytics Drive Value In The Finance Function",
+      "excerpt": "The era of AI and “Big Data” offers immense opportunity for finance teams to automate routine tasks, allowing professionals to focus on higher-value activities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/",
+      "originalUrl": "https://www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb58a362058dd89c077731%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/amp/",
+      "publishedDateTime": "2021-12-17T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit.md",
+      "title": "Intel steers toward driverless future with Mobileye self-driving car unit",
+      "excerpt": "Intel Corp's Mobileye is piloting a robotaxi service in Paris presently, and plans to take its self-driving car unit public in the US in mid-2022",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
+      "originalUrl": "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techhq.com/wp-content/uploads/2021/12/063_902802574-375x210.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
+      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
+      "publishedDateTime": "2021-12-17T02:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-mediatek-officially-launches-dimensity-9000-flagship-chip.md",
+      "title": "MediaTek Officially Launches Dimensity 9000 Flagship Chip",
+      "excerpt": "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered devices will be available in Q1 of 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip",
+      "originalUrl": "https://www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/12/MediaTek-Dimensity-9000-Infographic-1221-e1639737497396.jpg",
+          "width": 437,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip?amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/press-releases/mediatek-officially-launches-dimensity-9000-flagship-chip?amp",
+      "publishedDateTime": "2021-12-17T02:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-nauticus-robotics-to-go-public-in-560-million-spac-merger.md",
+      "title": "Nauticus Robotics to Go Public in $560 Million SPAC Merger",
+      "excerpt": "The ocean software startup is working to replace large ships with robots in industries including energy and fishing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
+      "originalUrl": "https://www.wsj.com/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-453691/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
+      "publishedDateTime": "2021-12-17T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-mind-controlled-robots-now-one-step-closer.md",
+      "title": "Mind-controlled robots now one step closer",
+      "excerpt": "(Nanowerk News) Tetraplegic patients are prisoners of their own bodies, unable to speak or perform the slightest movement. Researchers have been working for years to develop systems that can help these patients carry out some tasks on their own. “People ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=59395.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=59395.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T00:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-artificial-intelligence-ai-helps-predict-dementia-risk.md",
+      "title": "Artificial Intelligence (AI) Helps Predict Dementia Risk",
+      "excerpt": "Artificial intelligence was found to help predict which people who attend memory clinics will develop dementia within two years with 92% accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-pros-and-cons.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm",
+      "publishedDateTime": "2021-12-17T00:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-samsung-jetbot-ai-review.md",
+      "title": "Samsung JetBot AI+ review",
+      "excerpt": "This intelligent and gentle cleaner is packed with features like livestream home monitoring, object recognition, multiple cleaning pattern options, and a self-emptying base. On paper, it’s one ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/reviews/samsung-jetbot-ai-plus",
+      "originalUrl": "https://www.tomsguide.com/reviews/samsung-jetbot-ai-plus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/BLS6YRHSXT9fdVWemg9qvD-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-machine-learning-certification-platforms-that-work.md",
       "title": "Machine Learning Certification Platforms That Work",
       "excerpt": "According to International Data Corporation, more than half of the world's economy will be digitised by 2023. As a result, businesses can expect to increase their investments in advanced technologies in order to prepare for the transition to a new digitised economy.",
@@ -820,331 +1129,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-21st-century-problems-insuring-ai-and-smart-devices.md",
-      "title": "21st Century Problems: Insuring AI and Smart Devices",
-      "excerpt": "How the insurance industry is grappling with covering AI, smart devices, and driverless cars Key takeaways: The insurance industry must evolve along with technology Changes relate to new analyses and",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/21st-century-problems-insuring-ai-smart-devices",
-      "originalUrl": "https://www.linkedin.com/pulse/21st-century-problems-insuring-ai-smart-devices",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGUOs5a8rDx0w/article-cover_image-shrink_720_1280/0/1639675674648?e=1646265600&v=beta&t=3NBOtTROKhnxyceGRvCDbv1Y967Inrs0Aw2xoSFoymc",
-          "width": 1279,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey.md",
-      "title": "Most Indian firms able to pay back on artificial intelligence investments in 2 years: Survey",
-      "excerpt": "The study laid an additional focus on measures taken by AI leaders and global capability centres (GCCs) or to embrace AI for their business growth.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
-      "originalUrl": "https://www.msn.com/en-in/money/news/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/ar-AART0JN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-37818,msid-88326059/1.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/amp_articleshow/88325990.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/amp_articleshow/88325990.cms",
-      "publishedDateTime": "2021-12-16T09:04:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
-        "domain": "com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-flexxon-ssds-laptops-have-ai-based-data-security-inside.md",
-      "title": "Flexxon SSDs, Laptops Have AI-Based Data Security Inside",
-      "excerpt": "The X-PHY AI Embedded Cyber Secure SSD is an internal SSD designed to detect any threats, known or unknown, to your data's security. The company also teamed with Lenovo on three lines of ThinkPad-based laptops.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside",
-      "originalUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/07HRzuCVmrWvQRtlZ8AzTCg-1.fit_lim.size_1200x630.v1639629116.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside?amp=true",
-      "publishedDateTime": "2021-12-16T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-artificial-intelligence-accurately-predicts-who-will-develop-dementia-in-two-years.md",
-      "title": "Artificial intelligence accurately predicts who will develop dementia in two years",
-      "excerpt": "Artificial intelligence can predict which people who attend memory clinics will develop dementia within two years with 92 percent accuracy, a largescale new study has concluded.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dementia.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp",
-      "publishedDateTime": "2021-12-16T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-continual-raises-4m-for-its-ai-powered-data-platform.md",
-      "title": "Continual raises $4M for its AI-powered data platform",
-      "excerpt": "Continual, a startup that aims to bring operational AI to the modern data warehouse-centric data stack, today announced that it has raised a $4 million seed round led by Amplify Partners, with Illuminate Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/",
-      "originalUrl": "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/continual_graph.jpg?w=680",
-          "width": 680,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/",
-      "publishedDateTime": "2021-12-16T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies.md",
-      "title": "Why Some Psychedelic Assisted Therapy Clinics Are Turning To Artificial Intelligence for Digital Mental Therapies",
-      "excerpt": "The bottom line: Psychedelic therapy is still in its early days ... evidence-backed protocols and Artificial Intelligence data systems. Geoff Belair, MINDCURE's Chief Technology Officer, said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-301446468.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-301446468.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises.md",
-      "title": "Unbabel acquires Lingo24 to bolster AI-driven translations for enterprises",
-      "excerpt": "Unbabel, a startup delivering AI-driven translations, today announced the decision to acquire Lingo24, a UK-based language service provider.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/",
-      "originalUrl": "https://venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-6089103_1280-e1631120702283.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/amp/",
-      "publishedDateTime": "2021-12-16T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

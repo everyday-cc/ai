@@ -1,29 +1,27 @@
 ---
 category: news
 title: "The free-energy principle explains the brain"
-excerpt: "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency. Published in the scientific journal Communications Biology,"
-publishedDateTime: 2022-01-14T14:56:00Z
-originalUrl: "https://medicalxpress.com/news/2022-01-free-energy-principle-brain.html"
-webUrl: "https://medicalxpress.com/news/2022-01-free-energy-principle-brain.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-01-free-energy-principle-brain.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-free-energy-principle-brain.amp"
+excerpt: "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency. Published in the scientific journal Communications Biology, the study first ..."
+publishedDateTime: 2022-01-14T10:04:00Z
+originalUrl: "https://www.riken.jp/en/news_pubs/research_news/pr/2022/20220114_3/index.html"
+webUrl: "https://www.riken.jp/en/news_pubs/research_news/pr/2022/20220114_3/index.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: RIKEN
+  domain: riken.jp
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/the-free-energy-princi.jpg"
-    width: 1789
-    height: 679
+  - url: "https://www.riken.jp/news-pubs-en/research-news-en/2022-research-en/20220114_3_twitter.png"
+    width: 700
+    height: 366
     isCached: true
 
 related:
@@ -83,6 +81,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "jI8+F7Yryp1AhIr8tnhX9yOa8mMHjwIR7b900B8QvUy19D2BRAInM058O4EaCHuvYC3NnxaMvZeGcCw7DzKyyxveEN/2LP/Y0j26aY4RXkHn7PLgw9hk/SwOenHI2dYlOt59s0YijuYAg3vaVDa126TV3G76LFlzam2dPoqtGpx/ANmbw/nXe3d7jcdN+8GKZJgXFkmQuJY4ZT2Wa/Ssu5WdYys/cNMkKvitl533hYz280ajuLg3tQ0F68YWA4GSXYjvW8pYI7k6Xw9avuaKoNYlVPP43EHh4FQHJIVbRwyQm3pnOeVW7VVA6rQ20xFLaJPvaJUdRFJUtgQwnL5pgHvMW1RdOx8OIs0cWGS5gFr0UW/O4iP8SMbGd7mJv0yHQsgMx/xV1GBo0V0BewZM+lXUvY9ViSRqbQo96N0Xdz0l/i6t7wrrr6pNPpptdvXMuIK7DMrtzb8A4TK8WPxX9XZh+WzLqWhxwsO2SmpNtmwYgdL/1M3L5sd+EMZGzn5cPmPUBWNGbphk5QbsrMJjvg==;rR2+VrRDnt2ocWUD98bNgw=="
+secured: "Yg3vhQaQM7QRfDaJ0cwVSnYxk/w6V+w1XUOjOZX/cl6jITSJiAi3tYryGHvrALPo4PzMbiU1yoj4vgT/kcpBHb2QDRL1R5+T05qBlK0ne0P1h/Z6SnXa6xVj+enSYm9mGOTO9L1teA9tl3j0x2Vaad72eVg1755J8GM0PyVz1hAwDn156zo3AfXFMob5xobvT4oIC+1Xpx/JQzyN2k0279cFgGVf/slW1uAt0HQlUf7PKZqvaKz/uK1CUu3MyUcHiRRjpvjdEYaxOyzTKRjtlBh4XKh1BxB8sGPfQMyj110aCLJNRIHsEXidnnZGt0P0II6XHHa/5fvG/0bTCQNWhp2ayaLt+HNY6b8nowF0zEs=;+bYGGFyrJylXxf0tbb60/A=="
 ---
 

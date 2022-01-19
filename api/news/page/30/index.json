@@ -2,6 +2,322 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-12-22-hosting-infrastructure-services-market-size-2021-global-industry-share-top-players-opportunities-and-forecast-to-2029.md",
+      "title": "Hosting Infrastructure Services Market Size 2021 Global Industry Share, Top Players, Opportunities And Forecast To 2029",
+      "excerpt": "The global hosting infrastructure services market is estimated to reach a value of US 12 billion in 2019 up from US 11 billion in 2018 according to a recently published report by Future Market Insights FMI Gains remain underpinned by",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2506997/hosting-infrastructure-services-market-size-2021-global",
+      "originalUrl": "https://www.openpr.com/news/2506997/hosting-infrastructure-services-market-size-2021-global",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2506997/hosting-infrastructure-services-market-size-2021-global",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2506997/hosting-infrastructure-services-market-size-2021-global",
+      "publishedDateTime": "2021-12-21T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations.md",
+      "title": "Nanome uses VR to build molecules and reality check AI recommendations",
+      "excerpt": "Chemists can manipulate molecules, watch proteins interact and share their work with colleagues in the virtual reality platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
+      "originalUrl": "https://www.techrepublic.com/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/21/8d1dbbcf-b504-4280-bcbb-446527541fbc/resize/1200x/6a99c0ca19d2f3cf1532999ac411c2b1/nanome01.jpg",
+          "width": 1200,
+          "height": 589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
+      "publishedDateTime": "2021-12-21T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-introducing-timekettle-wt2-edge-translator-earbuds-with-trending-features-and-specifications.md",
+      "title": "Introducing Timekettle WT2 Edge Translator Earbuds with Trending Features and Specifications",
+      "excerpt": "Founded in 2016, Timekettle Technologies is committed to building a global brand of AI translator ... directional simultaneous translation earbuds with support for 40 languages and 93 accents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/introducing-timekettle-wt2-edge-translator-earbuds-with-trending-features-and-specifications",
+      "originalUrl": "https://www.digitaljournal.com/pr/introducing-timekettle-wt2-edge-translator-earbuds-with-trending-features-and-specifications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/DDD-9-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-the-single-misconception-holding-back-conversational-ai.md",
+      "title": "The Single Misconception Holding Back Conversational AI",
+      "excerpt": "\"The execution of conversational AI has failed to live up to its potential—at least so far.\" Jason Mars explores the single greatest hurdle in the way of conversational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-single-misconception-holding-back-conversational-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-single-misconception-holding-back-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c20728170ebe018990ee92%2F0x0.jpg",
+          "width": 1200,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-the-global-deep-learning-market-is-projected-to-reach-us605-billion-by-2025.md",
+      "title": "The Global Deep Learning Market is Projected to Reach US$60.5 Billion by 2025",
+      "excerpt": "Deep learning is a division of machine learning that uses layered algorithmic models for analyzing data. The deep learning market is gaining prominence on account of its complex data-driven applications including voice and image recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/the-global-deep-learning-market-is-projected-to-reach-us60-5-billion-by-2025/",
+      "originalUrl": "https://www.analyticsinsight.net/the-global-deep-learning-market-is-projected-to-reach-us60-5-billion-by-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/The-Global-Deep-Learning-Market-is-Projected-to-Reach-US60.5-Billion-by-2025.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-unique-material-could-further-artificial-intelligence-research.md",
+      "title": "Unique Material Could Further Artificial Intelligence Research",
+      "excerpt": "A unique material, nickel oxide, demonstrates the ability to learn things about its environment in a way that emulates the most basic learning abilities of animals, as my colleagu",
+      "sourceUrl": null,
+      "webUrl": "https://www.manufacturing.net/home/news/21965008/unique-material-could-further-artificial-intelligence-research",
+      "originalUrl": "https://www.manufacturing.net/home/news/21965008/unique-material-could-further-artificial-intelligence-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2021/12/16x9/iStock_1179697528.61c1f2c000c27.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "manufacturing.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-the-meaning-of-life-but-its-in-estonian-leading-in-the-age-of-ai.md",
+      "title": "“The Meaning Of Life, But It’s In Estonian”: Leading In The Age Of AI",
+      "excerpt": "Leading is choosing. Choosing well requires understanding your options – and the advice you’re given about which one to pick. But in the world that’s coming, AI will help leaders make choices. They might even make choices for them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gautammukunda/2021/12/21/the-meaning-of-life-but-its-in-estonian-leading-in-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/gautammukunda/2021/12/21/the-meaning-of-life-but-its-in-estonian-leading-in-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bfe3fccfccd6765a41ffb0%2F0x0.jpg",
+          "width": 1188,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gautammukunda/2021/12/21/the-meaning-of-life-but-its-in-estonian-leading-in-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gautammukunda/2021/12/21/the-meaning-of-life-but-its-in-estonian-leading-in-the-age-of-ai/amp/",
+      "publishedDateTime": "2021-12-21T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-airtable-acqui-hires-walrusais-founding-team.md",
       "title": "Airtable acqui-hires Walrus.ai’s founding team",
       "excerpt": "Airtable today announced that it quietly acquired Walrus.ai, a no-code software testing platform, earlier this year. ‘Acquired’ may be overstating things a bit, though. Best I can tell, Walrus.ai’s homepage became unavailable a few months ago and Airtable tells me it has no plans",
@@ -790,318 +1106,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-these-will-be-the-5-most-in-demand-tech-jobs-in-2022.md",
-      "title": "These will be the 5 most in-demand tech jobs in 2022",
-      "excerpt": "So, if you’re wondering what the most in demand tech jobs will be in 2022 ... A data scientist’s job is to use machine learning to predict and analyze data. Specific tasks include things ...",
-      "sourceUrl": null,
-      "webUrl": "https://insights.dice.com/2022/01/04/what-tech-jobs-demand-a-i-and-machine-learning-skills-in-2022/",
-      "originalUrl": "https://venturebeat.com/2021/12/21/these-will-be-the-5-most-in-demand-tech-jobs-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insights.dice.com/wp-content/uploads/2021/04/shutterstock_1379131412.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://insights.dice.com/2022/01/04/what-tech-jobs-demand-a-i-and-machine-learning-skills-in-2022/?amp",
-      "cdnAmpWebUrl": "https://insights-dice-com.cdn.ampproject.org/c/s/insights.dice.com/2022/01/04/what-tech-jobs-demand-a-i-and-machine-learning-skills-in-2022/?amp",
-      "publishedDateTime": "2021-12-21T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-microsoft-partners-with-royal-spanish-academy-for-language-resources.md",
-      "title": "Microsoft partners with Royal Spanish Academy for language resources",
-      "excerpt": "The Royal Spanish Academy (RAE) and Microsoft have signed an agreement to promote the correct use of Spanish online as part of the Spanish Language and Artificial Intelligence (LEIA) project. The RAE will provide Microsoft with access to the Diccionario de la lengua española or Dictionary of the Spanish Language – comprising of around 375,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyrecord.com/Home/microsoft-partners-with-royal-spanish-academy-for-language-resources-127709",
-      "originalUrl": "https://www.technologyrecord.com/Home/microsoft-partners-with-royal-spanish-academy-for-language-resources-127709",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10652/img-Microsoft-REA-partnership_940x443.jpg",
-          "width": 940,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologyrecord.com",
-        "domain": "technologyrecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-aws-offers-free-online-course-in-machine-learning.md",
-      "title": "AWS Offers Free Online Course in Machine Learning",
-      "excerpt": "AWS is offering a free online course called Math for Machine learning which can be taken up by anybody who is interested",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/",
-      "originalUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/",
-      "publishedDateTime": "2021-12-21T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals.md",
-      "title": "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals",
-      "excerpt": "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals. Program to work on creating products and solutions from research. Take courses under Pro",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/12/21/9515116.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/12/21/9515116.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
-          "width": 1577,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T02:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-what-does-an-ai-actually-think-of-ai-ethics.md",
-      "title": "What Does An AI Actually Think Of AI Ethics?",
-      "excerpt": "We can imagine that AI will not only be the subject of the debate for decades to come – but a versatile, articulate, morally agnostic participant in the debate itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "originalUrl": "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.boomlive.in/h-upload/2021/12/21/965896-ai-megatron-oxford-union.jpg",
-          "width": 1280,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "cdnAmpWebUrl": "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "publishedDateTime": "2021-12-21T01:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BOOM",
-        "domain": "boomlive.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-explained-why-eu-needs-to-invest-in-chip-design-and-packaging.md",
-      "title": "Explained: Why E.U. needs to invest in chip design and packaging",
-      "excerpt": "Researchers have urged the E.U. to invest a lot more in chip design with a view to becoming less dependent on China.",
-      "sourceUrl": null,
-      "webUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece",
-      "originalUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fl.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/",
-      "cdnAmpWebUrl": "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/",
-      "publishedDateTime": "2021-12-21T00:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-visually-impaired-persons-try-their-hand-at-offering-massage-therapy.md",
-      "title": "Visually impaired persons try their hand at offering massage therapy",
-      "excerpt": "Massage therapy business is among the most affected businesses as it was restricted severally yet the business has been increasingly viable for visually impaired people. Beth Gatonye, founder of Seeing Hands Rwanda- an organization aimed to improve the social and economic wellbeing of people with visual impairments-said that she runs a massage therapy centre that employs visually impaired people but where operations were severely affected following the Covid-19 pandemic times.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newtimes.co.rw/business/visually-impaired-persons-try-their-hand-offering-massage-therapy",
-      "originalUrl": "https://www.newtimes.co.rw/business/visually-impaired-persons-try-their-hand-offering-massage-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newtimes.co.rw/sites/default/files/main/articles/2021/12/21/beth.jpg",
-          "width": 847,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T23:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Times",
-        "domain": "newtimes.co.rw",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

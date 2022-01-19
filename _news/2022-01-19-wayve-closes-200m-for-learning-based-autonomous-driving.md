@@ -37,7 +37,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 79
+    quality: 81
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2022/01/Alex-Kendall-CEO-2.jpg?w=831"
         width: 831

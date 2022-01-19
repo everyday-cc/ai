@@ -2,6 +2,160 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-12-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines.md",
+      "title": "Fomo launches “Fomo Robotics” to offer UV Disinfection Machines",
+      "excerpt": "IAQ Technologies LLC, a wholly owned subsidiaries of Fomo (FOMC) and Energy Intelligence Center LLC plans to offer UV Disinfection Robots, designed and sold by a leading provider",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "originalUrl": "https://seekingalpha.com/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "publishedDateTime": "2022-01-12T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-aiml-at-scale-the-next-horizon-for-ppgs-data-strategy.md",
+      "title": "AI/ML at scale: The next horizon for PPG’s data strategy",
+      "excerpt": "At PPG, data is key not only to IT strategy, but to enabling business strategy, says Jeff Lipniskis, global IT director. With a solid foundation in place, his focus now is on being AI ready.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html",
+      "originalUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/01/horizon_transformation_change_future_hope_bright-100746109-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html/amp",
+      "publishedDateTime": "2022-01-12T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-government-backs-turing-institute-in-bid-to-set-global-ai-technical-standards.md",
+      "title": "Government backs Turing Institute in bid to set global AI technical standards",
+      "excerpt": "The DCMS has announced an AI Standards Hub, comprising The Alan Turing Institute, the National Physical Laboratory and the British Standards Institution to set a global bar for AI technical standards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards",
+      "originalUrl": "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1",
+      "publishedDateTime": "2022-01-12T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-dldsr.md",
+      "title": "Upcoming NVIDIA Game-Ready Driver Release Receives Deep Learning Dynamic Super Resolution (DLDSR)",
+      "excerpt": "In a blog post released yesterday, NVIDIA detailed the features of their next game-ready GeForce driver, which will be available to the general public on January",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html",
+      "originalUrl": "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T23:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-how-managed-services-will-evolve-in-2022-the-data-analytics-revolution.md",
       "title": "How managed services will evolve in 2022: The data analytics revolution",
       "excerpt": "In 2022, cloud managed service providers look to support decision-makers in configuring and maintaining data stored in cloud environments.",
@@ -97,6 +251,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-12-richardsons-skyven-raises-65m-in-oversubscribed-seed-round-and-grants-for-its-clean-tech.md",
+      "title": "Richardson’s Skyven Raises $6.5M in Oversubscribed Seed Round and Grants for Its Clean Tech",
+      "excerpt": "The energy-as-a-service company aims to reduce industrial emissions through AI and an IoT platform that identifies areas to lower fuel consumption.",
+      "sourceUrl": null,
+      "webUrl": "https://dallasinnovates.com/richardsons-skyven-technologies-announces-4-million-seed-round-6-5m-in-total-new-capital/",
+      "originalUrl": "https://dallasinnovates.com/richardsons-skyven-technologies-announces-4-million-seed-round-6-5m-in-total-new-capital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s24806.pcdn.co/wp-content/uploads/2018/04/ArunGupta_970-Skyven-Technologies.jpg",
+          "width": 970,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T20:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dallasinnovates.com",
+        "domain": "dallasinnovates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands.md",
       "title": "An AI-Created Politician Draws the Attention as Deep Learning Technology Expands",
       "excerpt": "In Seoul, South Korea, an AI-created model, an avatar of a politician — candidate Al Yoon Suk-yeol — draws the attention of the crowds on a big screen. DeepBrain AI’s human model was the result of hundreds of hours of recorded video used to learn the person’s voice,",
@@ -144,8 +341,8 @@
       "title": "Cogniteam’s Nimbus Supports Cloud-Enabled Robot Deployment Powered by NVIDIA Jetson Edge AI Platform",
       "excerpt": "Cogniteam integrates NVIDIA Isaac GEMs into Nimbus, streamlining robotics from development to deployment leveraging the NVIDIA Jetson platform",
       "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/content.php?post=18055",
-      "originalUrl": "https://www.roboticstomorrow.com/content.php?post=18055",
+      "webUrl": "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/",
+      "originalUrl": "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -994,249 +1191,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-free-ai-protein-software-packages-nearly-predicted-structure-of-the-omicron-coronavirus-variant-correctly.md",
-      "title": "Free AI protein software packages nearly predicted structure of the Omicron coronavirus variant correctly",
-      "excerpt": "In brief Using two different free protein-predicting AI algorithms, computer scientists were almost able to model Omicron before the coronavirus variant had been physically mapped. Colby Ford, a researcher at the University of North Carolina,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/01/11/ai_in_brief/",
-      "originalUrl": "https://www.theregister.com/2022/01/11/ai_in_brief/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/07/15/shuttersock_vaccine.jpg",
-          "width": 1300,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/11/ai_in_brief/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/11/ai_in_brief/",
-      "publishedDateTime": "2022-01-11T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-global-artificial-intelligence-ai-in-security-market-emerging-trends-major-key-players-nvidia-corporation-us-and-intel-corporation-us.md",
-      "title": "Global Artificial Intelligence (AI) in Security Market: Emerging Trends, Major Key Players NVIDIA Corporation (US) and Intel Corporation (US)",
-      "excerpt": "According to the report The global Artificial AI in Security market size is expected to reach 20 94 Billion by 2028 growing at the CAGR of 18 65 from 2021 to 2028 The major factor driving the growth of",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2523696/global-artificial-intelligence-ai-in-security-market",
-      "originalUrl": "https://www.openpr.com/news/2523696/global-artificial-intelligence-ai-in-security-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/V/1/V111113641_g.jpg",
-          "width": 603,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2523696/global-artificial-intelligence-ai-in-security-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2523696/global-artificial-intelligence-ai-in-security-market",
-      "publishedDateTime": "2022-01-11T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-has-ai-found-a-treatment-for-fragile-x.md",
-      "title": "Has AI found a treatment for Fragile X?",
-      "excerpt": "What if AI can substantially speed it up? That's the premise of Quris, an artificial intelligence company hoping to disrupt the pharmaceutical arena. The company just announced the final close of $28 million in seed funding to support its clinical prediction platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/has-ai-found-a-treatment-for-fragile-x/",
-      "originalUrl": "https://www.zdnet.com/article/has-ai-found-a-treatment-for-fragile-x/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a735ce92987d1c2468957f5b2ba40babd8f10947/2022/01/10/774ba7aa-3d2e-48aa-a3e0-4f7599319aaa/fragile-x.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/has-ai-found-a-treatment-for-fragile-x/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/has-ai-found-a-treatment-for-fragile-x/",
-      "publishedDateTime": "2022-01-11T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-getting-smart-about-five-2022-ai-and-machine-learning-predictions.md",
-      "title": "Getting Smart About Five 2022 AI And Machine Learning Predictions",
-      "excerpt": "As new technologies exit the realm of dreams and enter the realm of possibility and reality, there’s always a reckoning with their true capabilities. In 2021, I saw teams build the foundations for some really important AI changes in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dcad5888028e02db6660ac%2F0x0.jpg",
-          "width": 1200,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/",
-      "publishedDateTime": "2022-01-11T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-humans-are-still-significantly-better-at-predicting-the-weather-than-ai.md",
-      "title": "Humans are still significantly better at predicting the weather than AI",
-      "excerpt": "Despite all the progress that has been made in the realm of technology, AI, and machine learning, weather companies have not yet handed over the keys",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/92936-humans-significantly-better-predicting-weather-than-ai.html",
-      "originalUrl": "https://www.techspot.com/news/92936-humans-significantly-better-predicting-weather-than-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-10-image-37.jpg",
-          "width": 2138,
-          "height": 1402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/92936-humans-significantly-better-predicting-weather-than-ai.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92936-humans-significantly-better-predicting-weather-than-ai.html",
-      "publishedDateTime": "2022-01-11T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

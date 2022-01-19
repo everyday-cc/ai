@@ -2,6 +2,331 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-12-17-21st-century-problems-insuring-ai-and-smart-devices.md",
+      "title": "21st Century Problems: Insuring AI and Smart Devices",
+      "excerpt": "How the insurance industry is grappling with covering AI, smart devices, and driverless cars Key takeaways: The insurance industry must evolve along with technology Changes relate to new analyses and",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/21st-century-problems-insuring-ai-smart-devices",
+      "originalUrl": "https://www.linkedin.com/pulse/21st-century-problems-insuring-ai-smart-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGUOs5a8rDx0w/article-cover_image-shrink_720_1280/0/1639675674648?e=1646265600&v=beta&t=3NBOtTROKhnxyceGRvCDbv1Y967Inrs0Aw2xoSFoymc",
+          "width": 1279,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey.md",
+      "title": "Most Indian firms able to pay back on artificial intelligence investments in 2 years: Survey",
+      "excerpt": "The study laid an additional focus on measures taken by AI leaders and global capability centres (GCCs) or to embrace AI for their business growth.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
+      "originalUrl": "https://www.msn.com/en-in/money/news/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/ar-AART0JN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-37818,msid-88326059/1.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/amp_articleshow/88325990.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/amp_articleshow/88325990.cms",
+      "publishedDateTime": "2021-12-16T09:04:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
+        "domain": "com/news/company/corporate-trends/most-indian-firms-able-to-pay-back-on-artificial-intelligence-investments-in-2-years-survey/articleshow/88325990.cms",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-flexxon-ssds-laptops-have-ai-based-data-security-inside.md",
+      "title": "Flexxon SSDs, Laptops Have AI-Based Data Security Inside",
+      "excerpt": "The X-PHY AI Embedded Cyber Secure SSD is an internal SSD designed to detect any threats, known or unknown, to your data's security. The company also teamed with Lenovo on three lines of ThinkPad-based laptops.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside",
+      "originalUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/07HRzuCVmrWvQRtlZ8AzTCg-1.fit_lim.size_1200x630.v1639629116.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside?amp=true",
+      "publishedDateTime": "2021-12-16T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-artificial-intelligence-accurately-predicts-who-will-develop-dementia-in-two-years.md",
+      "title": "Artificial intelligence accurately predicts who will develop dementia in two years",
+      "excerpt": "Artificial intelligence can predict which people who attend memory clinics will develop dementia within two years with 92 percent accuracy, a largescale new study has concluded.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dementia.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp",
+      "publishedDateTime": "2021-12-16T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-continual-raises-4m-for-its-ai-powered-data-platform.md",
+      "title": "Continual raises $4M for its AI-powered data platform",
+      "excerpt": "Continual, a startup that aims to bring operational AI to the modern data warehouse-centric data stack, today announced that it has raised a $4 million seed round led by Amplify Partners, with Illuminate Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/",
+      "originalUrl": "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/continual_graph.jpg?w=680",
+          "width": 680,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/",
+      "publishedDateTime": "2021-12-16T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies.md",
+      "title": "Why Some Psychedelic Assisted Therapy Clinics Are Turning To Artificial Intelligence for Digital Mental Therapies",
+      "excerpt": "The bottom line: Psychedelic therapy is still in its early days ... evidence-backed protocols and Artificial Intelligence data systems. Geoff Belair, MINDCURE's Chief Technology Officer, said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-301446468.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies-301446468.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises.md",
+      "title": "Unbabel acquires Lingo24 to bolster AI-driven translations for enterprises",
+      "excerpt": "Unbabel, a startup delivering AI-driven translations, today announced the decision to acquire Lingo24, a UK-based language service provider.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/",
+      "originalUrl": "https://venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-6089103_1280-e1631120702283.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/unbabel-acquires-lingo24-to-bolster-ai-driven-translations-for-enterprises/amp/",
+      "publishedDateTime": "2021-12-16T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains.md",
       "title": "Amira Learning CEO Personalizes Artificial Intelligence For Literacy Gains",
       "excerpt": "Amira Learning CEO, Mark Angel, talks AI within the literacy world and the strides being made to support our youngest learners.",
@@ -871,309 +1196,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-announcing-apperture-3d-computer-vision-for-connected-coaching-form-tracking.md",
-      "title": "Announcing (APP)ERTURE: 3D Computer Vision For Connected Coaching Form-Tracking",
-      "excerpt": "Today we’re announcing the (APP)ERTURE blueprint to sit alongside our (APP)AREL blueprint for 3D form-tracking for consumer fitness product. With the addition of 3D Motion Capture using advanced computer vision to the asensei.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/announcing-apperture-3d-computer-vision-connected-coaching-form-tracking-",
-      "originalUrl": "https://www.linkedin.com/pulse/announcing-apperture-3d-computer-vision-connected-coaching-form-tracking-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH1cEpl6s0bbA/article-cover_image-shrink_720_1280/0/1639609841188?e=1645660800&v=beta&t=5c5NycySk7y80iZeufdnmxALd8jtjexSB-BRVYOYC8s",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T18:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027.md",
-      "title": "Global Facial Recognition Readers Solution Market 2021 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2027",
-      "excerpt": "Another report by named, Global Facial Recognition Readers Solution Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report presents a far-reaching investigation of the market assessing the market on a worldwide,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-12-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-12-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T16:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-breakfast-skipping-and-cognitive-and-emotional-engagement-at-school-a-cross-sectional-population-level-study.md",
-      "title": "Breakfast skipping and cognitive and emotional engagement at school: A cross-sectional population level study",
-      "excerpt": "This study investigated the association between breakfast skipping and cognitive and emotional aspects of school engagement. Design: Cross-sectional study using data from a population level survey of children and adolescents’ wellbeing and engagement at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/public-health-nutrition/article/breakfast-skipping-and-cognitive-and-emotional-engagement-at-school-a-crosssectional-population-level-study/1468D5C45FDA98D16D29A99CA6C4373B",
-      "originalUrl": "https://www.cambridge.org/core/journals/public-health-nutrition/article/breakfast-skipping-and-cognitive-and-emotional-engagement-at-school-a-crosssectional-population-level-study/1468D5C45FDA98D16D29A99CA6C4373B",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-mind-controlled-robots-now-one-step-closer.md",
-      "title": "Mind-controlled robots now one step closer",
-      "excerpt": "Tetraplegic patients are prisoners of their own bodies, unable to speak or perform the slightest movement. Researchers have been working for years to develop systems that can help these patients ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/938162",
-      "originalUrl": "https://www.eurekalert.org/news-releases/938162",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-plasma-vitamin-b12-concentration-is-positively-associated-with-cognitive-development-in-healthy-danish-3-year-old-children-the-skot-cohort-studies.md",
-      "title": "Plasma vitamin B12 concentration is positively associated with cognitive development in healthy Danish 3-year-old children; the SKOT cohort studies",
-      "excerpt": "Sophie H Christensen [Opens in a new window], HTML view is not available for this content. However, as you have access to this content, a full PDF is available via the ‘Save PDF’ action button. Adequate vitamin B12 and folate concentrations are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/plasma-vitamin-b12-concentration-is-positively-associated-with-cognitive-development-in-healthy-danish-3yearold-children-the-skot-cohort-studies/4A324620BEE475E8AAB414D683A8B83F",
-      "originalUrl": "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/plasma-vitamin-b12-concentration-is-positively-associated-with-cognitive-development-in-healthy-danish-3yearold-children-the-skot-cohort-studies/4A324620BEE475E8AAB414D683A8B83F",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-companies-must-assess-threats-to-ai-ml-systems-in-2022-microsoft.md",
-      "title": "Companies Must Assess Threats to AI & ML Systems in 2022: Microsoft",
-      "excerpt": "Most companies lack the proper tools to assess their vulnerability to threats facing their AI systems and ML pipelines, prompting Microsoft to release a risk assessment framework.",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/risk/companies-must-assess-threats-to-ai-ml-systems-in-2022-microsoft",
-      "originalUrl": "https://www.darkreading.com/risk/companies-must-assess-threats-to-ai-ml-systems-in-2022-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte4689bb9d4891a78/61ba7e150c86f53774da5d45/MachineLearning_AlexeyKotelnikov_Alamy.jpg",
-          "width": 1400,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T15:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-achieve-35-faster-training-with-hugging-face-deep-learning-containers-on-amazon-sagemaker.md",
-      "title": "Achieve 35% faster training with Hugging Face Deep Learning Containers on Amazon SageMaker",
-      "excerpt": "Natural language processing (NLP) has been a hot topic in the AI field for some time. As current NLP models get larger and larger, data scientists and developers struggle to set up the infrastructure for such growth of model size. For faster training time, distributed training across multiple machines",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-35-faster-training-with-hugging-face-deep-learning-containers-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-35-faster-training-with-hugging-face-deep-learning-containers-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/30/ML-5271-image003.jpg",
-          "width": 2286,
-          "height": 1056,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T14:46:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

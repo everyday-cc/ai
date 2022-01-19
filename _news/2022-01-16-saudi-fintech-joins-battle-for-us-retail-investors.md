@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_278890775/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_278890775/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "http://cpatwpe.s3.amazonaws.com/cpatrendlines/wp-content/uploads/2017/12/Jody-Padar-2018-SQUARE.png"
         width: 513
         height: 502
-        isCached: true
-  - title: "Top 5 Fintech Trends to Watch in 2022"
-    excerpt: "An astonishingly rapid rise in demand for innovations after the COVID-19 outburst in early 2020 has been a reminder of the power technologies have over the whole world. Fintech is not an exception."
-    publishedDateTime: 2022-01-14T08:03:00Z
-    webUrl: "https://financialit.net/blog/fintech-trends-banking-nft-blockchain-payment-bnpl/top-5-fintech-trends-watch-2022"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/img_4252.jpg"
-        width: 6000
-        height: 4000
         isCached: true
   - title: "The Fintech Digital Revolution Will Continue in 2022"
     excerpt: "The Fundamentals of Fintech Tackling the Security Issues For the Future E-Book $12.95 ORDER- Call +1 888 857 9203 +2348133877820 meritgroupinternational@yahoo."

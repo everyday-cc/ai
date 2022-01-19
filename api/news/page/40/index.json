@@ -2,6 +2,308 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-12-14-cellworks-personalized-therapy-biosimulation-study-identifies-novel-biomarkers-predictive-of-response-in-aml-patients.md",
+      "title": "Cellworks Personalized Therapy Biosimulation Study Identifies Novel Biomarkers Predictive of Response in AML Patients",
+      "excerpt": "Cellworks Group, Inc., a world leader in Personalized Medicine in the key therapeutic areas of Oncology and Immunology, today announced results from a clinical study using the Cellworks Biosimulation Platform and Computational Omics Biology Model (CBM) to predict therapy response for individual Acute Myeloid Leukemia (AML) patients were featured in a poster presentation at the 63rd American Society of Hematology (ASH) Annual Meeting and Exposition held December 11-14,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cellworks-personalized-therapy-biosimulation-study-identifies-novel-biomarkers-/2021/12/14/9510699.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cellworks-personalized-therapy-biosimulation-study-identifies-novel-biomarkers-/2021/12/14/9510699.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-mycare-023-finds-cellworks-personalized-biosimulation-a-stronger-predictor-of-therapy-response-for-aml-patients-than-physician-prescribed-treatment.md",
+      "title": "myCare-023 Finds Cellworks Personalized Biosimulation a Stronger Predictor of Therapy Response for AML Patients than Physician Prescribed Treatment",
+      "excerpt": "Cellworks Group, Inc., a world leader in Personalized Medicine in the key therapeutic areas of Oncology and Immunology, today announced results from the myCare-023 clinical trial, which found that the Cellworks Biosimulation Platform with its Therapy Response Index (TRI) reliably predicts complete response (CR) and overall survival (OS) for individual Acute Myeloid Leukemia (AML) patients beyond physician prescribed treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-mycare-023-finds-cellworks-personalized-biosimulation-stronger-predictor-/2021/12/14/9510686.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mycare-023-finds-cellworks-personalized-biosimulation-stronger-predictor-/2021/12/14/9510686.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-apexai-raises-over-56-million-in-series-b-funding-round.md",
+      "title": "Apex.AI raises over $56 million in Series B funding round",
+      "excerpt": "Mobility software developer Apex.AI announced Series B funding of $56.5 million, bringing its total funding to $74 million raised to date.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/",
+      "originalUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 257,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/04/Apex.AI-Lexus-and-Logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/14/apex-ai-raises-over-56-million-in-series-b-funding-round/amp/",
+      "publishedDateTime": "2021-12-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group.md",
+      "title": "Bias in AI-driven recruiting subject of tech watchdog group",
+      "excerpt": "Artificial intelligence software is increasingly used by HR departments to screen job applicants. A new organization plans to prevent \"AI\" from producing biased results that influence hiring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/explore/careers/bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group/",
+      "originalUrl": "https://www.seattletimes.com/explore/careers/bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/explore/careers/bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/explore/careers/bias-in-ai-driven-recruiting-subject-of-tech-watchdog-group/?amp=1",
+      "publishedDateTime": "2021-12-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-machine-learning-mlperf-and-ai-benchmark-4.md",
+      "title": "Machine Learning: MLPerf and AI Benchmark 4",
+      "excerpt": "Even as a new benchmark in the space, MLPerf has been made available that runs representative workloads on devices and takes advantage of both common ML frameworks such as NNAPI as well as the respective chip libraries for each vendor. Using this benchmark on retail phones to date, Qualcomm has had the lead in almost all the tests, but given that the company is promoting a 4x increase in AI performance, it will be interesting to see if that comes across all of MLPerf’s testing scenarios. It should be noted that Apple’s CoreML is currently not supported, hence the lack of Apple numbers here. Across the board in these first four tests Qualcomm is making a sizeable lead, going above and beyond what the S888 can do. Here we’re seeing up to a 2.2x result, making an average +75% gain. It’s not quite the 4x that Qualcomm promoted in its materials, but there’s a sizeable gap with the other high-end silicon we’ve tested to date. The only non-lead is with the language processing, where Google’s Tensor SoC is almost 2x what the S8g1 scores. This test is based on a mobileBERT model, and either for software or architecture reasons, it fits a lot better into the Google chip than any other. As smartphones increase their ML capabilities, we might see some vendors optimizing for specific workloads over others, like Google has, or offering different accelerator blocks for different models. The ML space is also fast paced, so perhaps optimizing for one type of model might not be a great strategy long-term. We will see. In AI Benchmark 4, running in pure NNAPI mode, the Qualcomm S8g1 takes a comfortable lead. Andrei noted in previous reviews with this test that the power consumed during this test can be quite high, up to 14 W, and this is where some chips might be able to pull ahead an efficiency advantage. Unfortunately we didn’t record power at the same time as the test, but it would be good to monitor this in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.anandtech.com/show/17102/snapdragon-8-gen-1-performance-preview-sizing-up-cortex-x2/3",
+      "originalUrl": "https://www.anandtech.com/show/17102/snapdragon-8-gen-1-performance-preview-sizing-up-cortex-x2/3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.anandtech.com/doci/17102/P1010318a_678x452.JPG",
+          "width": 678,
+          "height": 291,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AnandTech",
+        "domain": "anandtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-what-challenges-in-education-can-ai-solve-today.md",
+      "title": "What Challenges In Education Can AI Solve Today?",
+      "excerpt": "The core idea of e-learning mobile and web applications is making the process available anytime and anywhere through personal devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/what-challenges-in-education-can-ai-solve-today/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/what-challenges-in-education-can-ai-solve-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5b7a6ef32363c07c9a0c8b%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/14/what-challenges-in-education-can-ai-solve-today/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/14/what-challenges-in-education-can-ai-solve-today/amp/",
+      "publishedDateTime": "2021-12-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-2022-a-major-revolution-in-robotics.md",
+      "title": "2022: A major revolution in robotics",
+      "excerpt": "For a while now, those who track robotics development have taken note of a quiet revolution in the sector. While self-driving cars have grabbed all the headlines, the work happening at the intersection of AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
+      "originalUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/973d8007f08fa9b55dc91f02b215eb7b896350b4/2020/12/29/fa09a230-70f1-4a74-8169-e198645005b3/robot-robot-arm-strong-machine.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/",
+      "publishedDateTime": "2021-12-14T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-algorithms-that-detect-cancer-can-be-fooled-by-hacked-images.md",
       "title": "Algorithms that detect cancer can be fooled by hacked images",
       "excerpt": "Artificial intelligence programs that check medical images for evidence of cancer can be duped by hacks and cyberattacks, according to a new study. Researchers demonstrated that a computer program could add or remove evidence of cancer from mammograms,",
@@ -799,327 +1101,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-tectona-releases-ai-generated-nft-collection-in-major-metaverse-move.md",
-      "title": "Tectona releases AI-generated NFT collection in major metaverse move",
-      "excerpt": "Israel's leading public blockchain technology company has launched a platform allowing anyone to generate unique art with a sophisticated AI for minting as NFTs.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move",
-      "originalUrl": "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMmI2ZDgxOWY4N2RkMDU4N2YzODU4YmI4YjMwMTE4ZS5qcGc=.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp",
-      "publishedDateTime": "2021-12-13T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-a-leader-of-ubers-doomed-self-driving-car-project-now-runs-her-own-startup-heres-what-she-says-the-industry-should-be-doing-today.md",
-      "title": "A leader of Uber's doomed self-driving car project now runs her own startup. Here's what she says the industry should be doing today.",
-      "excerpt": "Earlier this year, Raquel Urtasun founded Waabi, a self-driving startup ... throughout her career, and is driving her company with artificial intelligence. Urtasun spoke with Insider about her ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12",
-      "originalUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61afd04006b6770018c47e7e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12?amp",
-      "publishedDateTime": "2021-12-13T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-latest-study-on-natural-language-generation-nlg-market-hints-a-true-blockbuster-artificial-solutions-aws-ibm-narrative-science.md",
-      "title": "Latest Study on Natural Language Generation (Nlg) Market Hints a True Blockbuster : Artificial Solutions, AWS, IBM, Narrative Science",
-      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 12/13/2021 -- HTF Market Intelligence added research publication document",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/latest-study-on-natural-language-generation-nlg-market-hints-a-true-blockbuster-artificial-solutions-aws-ibm-narrative-science",
-      "originalUrl": "https://www.digitaljournal.com/pr/latest-study-on-natural-language-generation-nlg-market-hints-a-true-blockbuster-artificial-solutions-aws-ibm-narrative-science",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/Spider-Man-Sony-1K-e1640613949235-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides.md",
-      "title": "Can an Artificial Intelligence Be Ethical? Researchers Asked AI, and It Sees Both Sides",
-      "excerpt": "A team of researchers asked an artificial intelligence program whether or not it can be ethical! And it turns out AI ethics might depend on us.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
-      "originalUrl": "https://interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DMqo0wx/sizes/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
-      "publishedDateTime": "2021-12-13T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass.md",
-      "title": "Machine learning inference at the edge using Amazon Lookout for Vision and AWS IoT Greengrass",
-      "excerpt": "Discrete and continuous manufacturing lines generate a high volume of products at low latency, ranging from milliseconds to a few seconds. To identify defects at the same throughput of production, camera streams of images must be processed at low latency. Additionally, factories may have low network",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/26/hero-image.png",
-          "width": 1028,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T10:44:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme.md",
-      "title": "Mohammed bin Rashid honours 240 graduates of the ‘Artificial Intelligence Programme’",
-      "excerpt": "Dubai: His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, honoured the graduates of the second and third batches of the ‘Artificial Intelligence Programme’ organised by the National Programme for Artificial Intelligence and the Kellogg College - University of Oxford.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "originalUrl": "https://gulfnews.com/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/12/13/Expo-2020-Dubai_17db5173489_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
-      "publishedDateTime": "2021-12-13T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-machine-learning-trends-for-marketers-to-watch-in-2022.md",
-      "title": "Machine Learning Trends for Marketers to Watch in 2022",
-      "excerpt": "Machine learning and AI research are making strides daily, with interesting implications for business. While it feels like a lot of the cool innovations are happening only in the scientific fields, progress can be seen in the marketing discipline too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/94a7c49ae3ef4fc7ba5b3c945e91b28b.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/",
-      "publishedDateTime": "2021-12-13T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,334 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-12-27-aterian-signs-a-50-million-credit-facility-with-midcap-financial-trust.md",
+      "title": "Aterian Signs A $50 Million Credit Facility With MidCap Financial Trust",
+      "excerpt": "(Nasdaq: ATER) (“Aterian”) announced today that it has signed an asset backed credit facility with MidCap Financial Trust (“MidCap”), which is managed by a subsidiary of Apollo Global Management, Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aterian-signs-50-million-credit-facility-with-midcap-/2021/12/27/9517095.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aterian-signs-50-million-credit-facility-with-midcap-/2021/12/27/9517095.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-if-ai-is-predicting-your-future-are-you-still-free.md",
+      "title": "If AI Is Predicting Your Future, Are You Still Free?",
+      "excerpt": "Yet the more we use AI to categorize people, predict their future, and treat them accordingly, the more we narrow human agency, which will in turn expose us to unchartered risks. Human beings have been using prediction since before the Oracle of Delphi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/algorithmic-prophecies-undermine-free-will/",
+      "originalUrl": "https://www.wired.com/story/algorithmic-prophecies-undermine-free-will/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61ba97fda08cdc8657dc495b/master/pass/Algorithmic-Prophecies-Undermine-Our-Free-Will.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/algorithmic-prophecies-undermine-free-will/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithmic-prophecies-undermine-free-will/amp",
+      "publishedDateTime": "2021-12-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-the-year-everyone-remembered-that-chips-matter.md",
+      "title": "The Year Everyone Remembered That Chips Matter",
+      "excerpt": "Shortages of semiconductors messed up production of everything from cars to toys. Plans are in the works for more factories, but they'll take years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/year-everyone-remembered-chips-matter/",
+      "originalUrl": "https://www.wired.com/story/year-everyone-remembered-chips-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61b7b723afed9525c50efcac/master/pass/YIR-Jennysharaf-Importance-of-Chips-1313967169.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/year-everyone-remembered-chips-matter/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/year-everyone-remembered-chips-matter/amp",
+      "publishedDateTime": "2021-12-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-your-rpa-is-only-as-good-as-the-data-it-understands.md",
+      "title": "Your RPA Is Only As Good As The Data It Understands",
+      "excerpt": "In comparison to traditional robotic process automation (RPA), hyperautomation is focused on expanding RPA's boundaries to encompass decision-making and analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/27/your-rpa-is-only-as-good-as-the-data-it-understands/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/27/your-rpa-is-only-as-good-as-the-data-it-understands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ca10c91854bb852614d23b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/27/your-rpa-is-only-as-good-as-the-data-it-understands/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/27/your-rpa-is-only-as-good-as-the-data-it-understands/amp/",
+      "publishedDateTime": "2021-12-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-robotics-firm-arapl-raas-raises-funding-for-warehouse-automation.md",
+      "title": "Robotics firm ARAPL Raas raises funding for warehouse automation",
+      "excerpt": "ARAPL RaaS, a robotics and automation company, said on Monday it has raised $0.7 million funding within two months of its existence as it strengthens its 10-minute delivery in supply management. The start-up,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/06/full/1609874455-1747.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/robotics-firm-arapl-raas-raises-funding-for-warehouse-automation-121122700705_1.html",
+      "publishedDateTime": "2021-12-27T03:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-how-machine-intelligence-is-changing-the-modern-world.md",
+      "title": "How Machine Intelligence Is Changing The Modern World",
+      "excerpt": "Specialists and mass media expect technology advancements to allow complete redefining of the role of machine intelligence in modern life. This is about the development of computer vision, natural language processing and neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6166fb6f1b212a984a12fd25%2F0x0.jpg",
+          "width": 1200,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/amp/",
+      "publishedDateTime": "2021-12-27T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-artificial-intelligence-in-education-market-analysis-size-share.md",
+      "title": "Artificial Intelligence in Education Market Analysis, Size, Share",
+      "excerpt": "The global artificial intelligence in education market is expected to surpass US$ 4,340 million by 2027, growing at a CAGR of 31%. The primary market participants in the global artificial intelligence in education market include Amazon Web Services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pr-inside.com/artificial-intelligence-in-education-market-analysis-size-share-r4860169.htm",
+      "originalUrl": "https://www.pr-inside.com/artificial-intelligence-in-education-market-analysis-size-share-r4860169.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.pr-inside.com/images/uploads/pr/2021/109014/20211227_ami_109014.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR-Inside",
+        "domain": "pr-inside.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-in-africa-research-coalition-works-to-rescue-languages-that-western-tech-ignores.md",
       "title": "In Africa, research coalition works to rescue languages that Western tech ignores",
       "excerpt": "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world's dominant languages.",
@@ -840,308 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-taiwans-opposition-kmt-rushes-to-regain-lost-voice-in-america.md",
-      "title": "Taiwan’s opposition KMT rushes to regain lost voice in America",
-      "excerpt": "High-level Kuomintang official is in Washington to speed up reopening of liaison office and counter the influence of Taiwan’s ruling DPP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "originalUrl": "https://www.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/24/01bf6034-a56d-4eaf-a516-1f55929838b3_9ced3255.jpg?itok=Jhq02AR0&v=1640357815",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "publishedDateTime": "2021-12-25T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-guardforce-ai-co-ltd-shares-close-the-day-172-higher-daily-wrap.md",
-      "title": "Guardforce AI Co Ltd Shares Close the Day 17.2% Higher - Daily Wrap",
-      "excerpt": "Guardforce AI Co Ltd shares closed today 17.2% higher than it did at the end of yesterday. The stock is currently down 65.7% year-to-date, down 65.7% over the past 12 months, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap",
-      "originalUrl": "https://www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/guardforce-ai-co-ltd-shares-close-the-day-17.2-higher-daily-wrap?amp",
-      "publishedDateTime": "2021-12-25T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-25-unmanned-aerial-system-based-weed-mapping-in-sod-production-using-a-convolutional-neural-network.md",
-      "title": "Unmanned Aerial System-Based Weed Mapping in Sod Production Using a Convolutional Neural Network.",
-      "excerpt": "Weeds are a persistent problem on sod farms, and herbicides to control different weed species are one of the largest chemical inputs. Recent advances in unmanned aerial systems (UAS) and artificial intelligence provide opportunities for weed mapping on sod farms.",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/34899768",
-      "originalUrl": "https://europepmc.org/article/MED/34899768",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-24T21:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-25-automation-is-driving-us-toward-self-employment.md",
-      "title": "Automation Is Driving Us Toward Self-Employment",
-      "excerpt": "Self-employment often seems like a dream for most, but with the onset of automation in traditional jobs and the evolving gig economy, we may be moving toward a new normal where self-employment is a traditional route.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php",
-      "originalUrl": "https://www.stamfordadvocate.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/23/30/65/21859668/3/rawImage.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-24T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-25-object-detection-with-tensorflow.md",
-      "title": "Object Detection, With TensorFlow",
-      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "originalUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-12-25-report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data.md",
-      "title": "Report: Computer vision teams worldwide say projects are delayed by insufficient data",
-      "excerpt": "The scarcity of domain-specific training data is compounded by the fact that computer vision lacks well-defined standards or best practices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/",
-      "originalUrl": "https://venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/computer_vision-e1640111168754.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/amp/",
-      "publishedDateTime": "2021-12-24T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-25-african-researchers-aim-to-rescue-languages-that-western-tech-ignores.md",
-      "title": "African researchers aim to rescue languages that Western tech ignores",
-      "excerpt": "More mundane translation glitches have been turned ... trying to improve technology for so-called \"low-resource\" languages that AI systems don't have enough data for. Computer scientists at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2021/12/24/ai-enabled-language-translations-made-better-african-researchers/9015895002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2021/12/24/ai-enabled-language-translations-made-better-african-researchers/9015895002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/12/24/USAT/11aa417c-c8b6-483c-a348-058293f9c6cf-Languages.jpg?auto=webp&crop=338,191,x0,y17&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/9015895002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/9015895002",
-      "publishedDateTime": "2021-12-24T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
