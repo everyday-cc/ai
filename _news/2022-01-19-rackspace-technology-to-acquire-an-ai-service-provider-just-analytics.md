@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3789055-rackspace-technology-to-ac
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3789055-rackspace-technology-to-acquire-an-ai-service-provider-just-analytics"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,70 +25,6 @@ images:
     width: 1200
     height: 1200
     isCached: true
-
-related:
-  - title: "What Really Matters When Selecting A Cloud Data Analytics Platform"
-    excerpt: "Just like with an electrical grid, the next wave of analytical workloads will “plug in” to whatever compute/storage grid that makes the most sense at the time, whether it be location, pricing, regulations and more."
-    publishedDateTime: 2022-01-18T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/18/what-really-matters-when-selecting-a-cloud-data-analytics-platform/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/18/what-really-matters-when-selecting-a-cloud-data-analytics-platform/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/18/what-really-matters-when-selecting-a-cloud-data-analytics-platform/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede30bbf9898700074a916c%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Foot Traffic Analytics Firm Placer.ai Raises $100M At $1B Valuation"
-    excerpt: "Israeli-founded firm Placer.ai provides analysis about foot traffic in retail centers, theme parks, stadiums, and other areas."
-    publishedDateTime: 2022-01-16T00:01:00Z
-    webUrl: "https://nocamels.com/2022/01/foot-placer-ai-analytics-retail/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/01/high-grass-ge20682a07_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "PINC AI™ Launches INsights, an Enhanced Technology Offering for Customized, On-Demand Healthcare Analytics"
-    excerpt: "PINC AI™, the technology and services platform of Premier, Inc (NASDAQ: PINC), today launched INsights, an enhanced self-service healthcare solution for the creation of customized, on-demand analytics."
-    publishedDateTime: 2022-01-18T13:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pinc-aitrade-launches-insights-an-enhanced-technology-offering-/2022/01/18/9527595.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-  - title: "Rackspace Technology to Acquire Just Analytics, a Leading Provider of Cloud-based Data, Analytics, and Artificial Intelligence Services"
-    excerpt: "Rackspace Technology ® (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company, today announced that it has agreed to acquire Just Analytics, a leading provider of cloud-based data,"
-    publishedDateTime: 2022-01-19T01:03:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-4dea1b6b53e6dfefa7af89e09d309e9a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 5
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Temedica Introduces Permea: First Analytics Platform Integrating Patient-Generated Health Data"
-    excerpt: "Temedica GmbH, a leading digital health and data analytics company, today announces the launch of Permea. Permea is a unique platform providing medically sound analyses and actionable insights to a whole range of questions and challenges arising along the value chain in the healthcare market."
-    publishedDateTime: 2022-01-18T15:27:00Z
-    webUrl: "https://www.dgap.de/dgap/News/corporate/temedica-introduces-permea-first-analytics-platform-integrating-patientgenerated-health-data/?newsID=1504656"
-    type: article
-    provider:
-      name: dgap.de
-      domain: dgap.de
-    quality: 0
 
 secured: "FI/F+rmozraRyqL+yGERLFAzBBwxsyIbYRFRvQ8CWFBIzU6MC8wAPZ3koVdlTqqErhNRKcObz1o2/tSKcDGP0hyBTa8Yr5jyAscR79PY1ImK7LeH/YA8jVkRhXxFnawT67e9ByYBvWM1IYv455Enf2Q/8zHZmfp1WDpz2+6K/4ltOuFIPfST2f+c7N3VECz3aSXEvsQoqmunFnqJ5S9raIigcRDjHrkTTuPklGZKio2BEfm4vcXMxa1kpY213IP+28incSvf7RTJ+mXu1XkbcVMBbrd68GGmDc8CVw6ePjqIjTlXzAedSqYH5yW7ubGztMIL3x+NKjZX2qU/6zdmrN1NbinnZ+uOEyWkUDc31oU=;ZOZ42WwXFMvC39NfIkPMeQ=="
 ---

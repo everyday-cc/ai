@@ -11,12 +11,13 @@ provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d631a168710f2ab3034eaa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1599%26cropY1%3D0%26cropY2%3D1066"
@@ -24,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "NOXRL66jWH/CRnzi9mlCc16ccjL1Q88JZmr/43B+TEmvC4KJ/q+l/+6Aa/VxBUpt/rq5jj8nqVuShm088Y5E0f86z6PXd+oJopcW3SwZljLeL+EXfwvdIbFGf841iTpOC1q7EXuWL7m0N0EBikjyZrsE9qQpOLwSUjzuVX7GDf/OVL4Bl5jheE5xBcmZy6/usoAVHL9FNVHfpjUIga5L/rPyX7dy9cQQeKore+LPD9KcocoySABLa4cbgJy66l8RIuhiRoLpqs6q3sJpLv1nIFFRpm32GDLejGi4jEoE6XYkAwFrsB0OWu9Y+/IVVYMni2vFwBSyjlcrK8Wu/9Z5NCi9Ws2KgeiRhLv+M2w9bMA=;wzpZMJXHz49ywX0cLS+mcw=="
+secured: "8T92dxHLd7sWeRuakjoYpZ48C5yx4uF1nYQARjrnKeGv5k6PVDX8ag4tDdWJTJYiUdeTJIRwBv6GZc4F12dBVN6MAWH+Qb6HONbFPDfzVHjbkL0vgMOKPp7Tp1MRdQXpBL4fIpu6N2DKeAXCXcE+oWxlI1aSj6zZZSgx1ZiJKxMnjsZGFz0QjRD3xljaWWFrtwAopXWJRxPG4rx+fnsyoVFkNGvTVMpH5ml94CmFRcTlvf5gN/0q2bRyNQKHpBmHIQ84JYFjhxG5YrFeh5ZiJUa/OIecBqA5gWZmxxxqtfSjXuz320LSKBM/ZOxiGy52CCNsFHsFKYzESTWvnkzK5RBRVb30yNrhneHgVK3W1jk9umWP2APghabzYZ24KirGwjDWYvUKtK3RdTxGFM2ag7BuiE+MUEouhCCB0C2v+WZh6BHOEt3ihOtyqSgKgDkYR2zPoZAvXY7IXZwfZP9BJKLk+zjvU59t5o7PW/UOcKvhv6mjoPt2W1Y1eNM64lPdrWxolvYQdSozUYCJ07jA6HmJ0qd6v4N558mAkZ2gjpA=;JZTx4iHrGR/M9cVSXRHOAQ=="
 ---
 

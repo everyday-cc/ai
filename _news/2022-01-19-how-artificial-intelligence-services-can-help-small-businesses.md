@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/19/how-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/19/how-artificial-intelligence-services-can-help-small-businesses/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 90
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     height: 673
     isCached: true
 
-related:
-  - title: "ServiceNow’s new AI-powered service aims to support digital transformation efforts"
-    excerpt: "ServiceNow Impact, a new offering from ServiceNow, uses AI to estimate the return on investment from tech adopted for business transformation."
-    publishedDateTime: 2022-01-18T21:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/18/servicenows-new-ai-powered-service-aims-to-support-digital-transformation-efforts/"
-    ampWebUrl: "https://venturebeat.com/2022/01/18/servicenows-new-ai-powered-service-aims-to-support-digital-transformation-efforts/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/servicenows-new-ai-powered-service-aims-to-support-digital-transformation-efforts/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1311757065.jpg?w=1200&strip=all"
-        width: 1200
-        height: 659
-        isCached: true
-
-secured: "foyC/ESs2srv85aE86iWlSBTxdWE4OQEOS9Cd2/YcCCsKbtdNeeyx8N6IHdAIVWDxmrVb04yP+pqfDPoy8wsCpRfroDwaoXejC8bRns8V8rvpWfhbJ/Hcf9p6Zlr9onO8rR5L7Al5NZWpA1ssK4N9vXL3BCxXSbCb6akYBTkxHMFzgwZWQaxLrBRK+sOORY6Jy/hI76wqBlN1fSUUYl45GY/+DOem+uIHA1/ltNzjKxK+9C+1sKZSdiRJi4k4whDPPCE1h8BUskNRaWxBjA0qIs4f8w+v1SnKkM4dmncNcHZsieuTveO16T/Ks0B/7U/ZBkU72UOq/uZMn1iKY9ttHPrxe+Gd+M8CiZdsF7AzRM=;wZO8g8DE/5AwcnI67ik9Sw=="
+secured: "9er2QEdT2jhHZ/X9QN5zetUyHm4R+X7GB7gYWWoGsIb5AIezkSlYSfVJmBbiVCWRBKPMS4eysx2Fts5nmASn0sj8dJs5AtC4p3cE5RNc4qu1+KcH0lXuKqPVmFSi1/YFLPRMylnLad1abtXmp46Zab6xA1L2aXP4JkA1GZtnD/1XiPev/Ju0EBA5N2LWmSOZQ56mbPPvRtXYI5I5cStJQf78OeBpcqBre/ZRWhbv3EHhzwP4AxUAcmF5rgL68XRBijNOynJzz8UokQeXM2DwfTnQW/Q5NVl5FSEL6ze59333GfLy+UpDUB2UTV/s2wRC6Q1WZmFTmxD5ItmVuve6ws5i9wk4e34PyaICAgS6TbK2lDmJARridIbOV6ZwldhA62P8LyD5e9PWejEwHD/jgUxzvrLhFLAdDtcL8/X8t8CCG99wF317DRhqxDXRK6ZjPpM8B16+teQbmXksR7S3Nodztisp7ZL0dozgCfnAyvkV1oLBUqImGazkLxGIXD1hyKO4EsTBfFVPwkn9gULAbQ==;m/rN2+johFIfd8A7Y0Be3A=="
 ---
 

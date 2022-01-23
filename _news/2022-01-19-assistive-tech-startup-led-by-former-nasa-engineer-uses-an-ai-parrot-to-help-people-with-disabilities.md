@@ -8,8 +8,8 @@ webUrl: "https://www.geekwire.com/2022/assistive-tech-startup-led-by-former-nasa
 ampWebUrl: "https://www.geekwire.com/2022/assistive-tech-startup-led-by-former-nasa-engineer-uses-an-ai-parrot-to-help-people-with-disabilities/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/assistive-tech-startup-led-by-former-nasa-engineer-uses-an-ai-parrot-to-help-people-with-disabilities/amp/"
 type: article
-quality: 71
-heat: 71
+quality: 73
+heat: 73
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.ytimg.com/vi/Com52JoOjj4/hqdefault.jpg"
@@ -29,6 +30,6 @@ images:
     height: 360
     isCached: true
 
-secured: "UXlxXXk0UrgpTopton2AOQJ5eEBFtxBB+PtKBBjQElOihZRzioWaDHoLzz7BLOc/K2gzgNmOMNnyp1kk1EmJZAh+YtYCxz6knFgz3uivTpjHIzgGt0c1p6MaC+MfDcyrCXdh2ayn3rGLpm944HRQDf6lzQa4IS3BcDZ1yqw5v3Guy/ouo0myr0sw6PU9djx7rToRi9Lwlnng1hzUfQorFogHxUiNbEoHIP0gl/P7oJ0gFkoFfzZcHqID08MOVK+w3hqL/1ep0Bu5J/w6RHi0a0Ti4RdeiIn+lBA9Qx5XWPNaXmHAVtYeAjOlfossdr+Q0eAo/x/NTJhtn9jUVy/JfjdB9TfxRC705qLWDLI9t0s=;dkPjXK1kSsjjZXwzQwDpLA=="
+secured: "iNd/NmHkmPJh4YkreIBRzLMVzrwfFfyRMJ5CHWgLDZFl11x4hy1s/rzn56dysYLjhHSXRCQ5r+gneIUdF4oiBRnYXb7gf4LooOdyfO7XEV+yZ4DVAvy+JgsF4jx1ysWfeDx+MNr11esHgnM1eg5aNKZHlij00EWySFBR9q/4Uo4BlEaER+UhHDXJkDAJqIP5bZZDviOVrSBL3XVFuot3GSImB2LLqUxm3d2mt3Fv0fA1nCue8fpmKo+zNr+PsN1uDpO6guINproXGlwUm4tjWLUBldEmjrpeseXiJfF0Su1W7FRiP5Ag/+xr7/G4XbjLyd7kP9qtJD38LksDF4mJvWqEIIPJZaEnKZz5yTx1EhB+Q3v+iDSDvN8Sh2MGJS5lyBSjdTPaCIkzu+Ql23bP+tNhhsFlQbbwRtcTddMvvTQPcXkDVkgLcfMku5jUwFxZXDHIeKqAvXAbya5N0t9wUZ7+j8XNSSEHYMAgvVtz7ShNea3DF/xrCIbJuUn9rPAabjAAsZP1TC9sTk/Eyfx0qQ==;aOGlebZzXdMWOIawWVv0Wg=="
 ---
 

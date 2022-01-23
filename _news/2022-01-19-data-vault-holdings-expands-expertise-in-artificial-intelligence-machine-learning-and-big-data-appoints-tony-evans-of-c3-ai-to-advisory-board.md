@@ -1,27 +1,30 @@
 ---
 category: news
 title: "Data Vault Holdings Expands Expertise In Artificial Intelligence, Machine Learning, and Big Data; Appoints Tony Evans of C3 AI To Advisory Board"
-excerpt: "Data Vault Holdings Inc., the emerging leader in metaverse data visualization, valuation, and monetization announced today the appointment of Tony Evans, General Manager of Financial Services for C3 AI (NYSE: AI),"
-publishedDateTime: 2022-01-19T12:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony-evans-of-c3-ai-to-advisory-board-1031112161"
-webUrl: "https://markets.businessinsider.com/news/stocks/data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony-evans-of-c3-ai-to-advisory-board-1031112161"
+excerpt: "Data Vault Holdings Inc., the emerging leader in metaverse data visualization, valuation, and monetization announced today the appointment of Tony Evans, General Manager"
+publishedDateTime: 2022-01-19T11:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony/article_e62e0c7c-8d5b-54cb-b7d3-d15edeb513ae.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony/article_e62e0c7c-8d5b-54cb-b7d3-d15edeb513ae.html"
 type: article
-quality: 42
-heat: 42
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-secured: "dptyBuesVRJGMlDLqIrS/i5GPxwE4PJhspE1sKe87Tnhd0skxt0k+DRN3nXMSk0rNsAgPD3czs6pLPlFBAnnKhXFZwlsNbhi8y0CfOg8DMRg4D+urLcJpE7cHJpF6H3Inqm3cZbHl6QbkWqxnrYAmmQqok8eQv2zcz5mPFl2zgsJqBsF0YHhEdRcH+ayrXE1mlUmiFNXxO+LmTa5VTWNz/S/uur4dbzfU7pfC/i9dp0nXSevsKOGgs6j3KOd6ggz9ED4wThaMyso7RJqKbkl3tnnsYAHqEJGPDT7Q6bnH+/xpkIOmYE5j+zZY/BFgWeB55uoqWRi4W3blpSYDQ9lftsdsRqWGi85nchGt8wVr84=;zRLzAWMC9wc0oLaMgABSrA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/52/f527d5c1-2445-52d1-acf9-b79850564148/6177e1252e341.image.jpg?crop=890%2C467%2C305%2C0&resize=890%2C467&order=crop%2Cresize"
+    width: 890
+    height: 467
+    isCached: true
+
+secured: "POFtSVPNyCIQ5vuOKlXXOR5NBBZhEP3AnhA5qTvr9vcrDLBRQsmupMTpziso3OXfX/tBZCG6kcwc0PvX7CiWcCsF1wx7D8TttgHdPAQ9p15uGxvCzOhjLPHm4xycBAaxipvX5SBVbUAl8+4fTKg83FokWNSsuLVMVOC56febZzXWaf+vfaeZ6047O7fEM15dwO2HqnFlhxIV+AU7aPDCnGQUXXQdSe1gwc2iVAsGuFoAOfpEHgCZwVUcvxAqHm3+yI1bA3QM+P/fYhcewGuLIsGSeeIdRMM6XmA7hJrR6M7cj+LojPEE+YDG+IaiHbjR+okCSZOx9lVJZbN1wzE4zoA4QcSIx98NtmI/298+6Mx8ru/qnd4GNXzEx16/DBf+71WWpJK++2ea226ljHelETSCBhzw7NUri+7NTHN09PY0ZuXJkJRNtlf+5PElQSCqN3u1DSIndzqzqsM2zqarkuU8sle4QYXEJ7Tau8/ZdCg6vOrdjCINsDpQyCrR8xvsJ/fgsuqkaJY+vBr6Hw4xIA==;MEJ7hP7sOzYd9SPTVXMmOg=="
 ---
 

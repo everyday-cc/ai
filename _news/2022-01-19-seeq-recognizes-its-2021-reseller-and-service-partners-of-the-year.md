@@ -25,6 +25,17 @@ images:
     height: 314
     isCached: true
 
+related:
+  - title: "Seeq Recognizes its 2021 Reseller and Service Partners of the Year"
+    excerpt: "Seeq’s annual partner awards program honors excellence in delivering the next generation of process manufacturing improvements."
+    publishedDateTime: 2022-01-20T23:14:00Z
+    webUrl: "https://www.automationworld.com/supplier-news/news/22005998/seeq-seeq-recognizes-its-2021-reseller-and-service-partners-of-the-year"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 6
+
 secured: "/D41Tcqws9i0nvtfF+YtXz7qYi6l1s8RnlG1q9XHZI3DKRih5cZnqOZ8YeKjq+I6zUE/Olo3RsRMZGOKoyucNpKBOJR8uVx/bCWOaNAL/p7ZoHPIb1PfWN8ywktbyg2YyBz1h3fwkjlbD7sIO0mpClK9bXmAzvtlzS7S8U/ZuMCiBK+9Un9rnPRigUFR0RhHaAHy9htXBz+b/+/VhIRlVdMJ4hVl1bo/tJ/lJTFRT29w3N9NAWwn+jWV7BdCopykIJYNbKZL1rT891JJo1TLpg3UsHU8205li33/kXgYkiTcAHqSM36eL64jtbu0NMiGvKcf3QGTnp9upiR0jyewJCgKEnRgnEZa8ukbbM4aLis=;Mp582/cG7/6LD2QOhtfBgg=="
 ---
 

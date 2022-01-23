@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/19/turing-labs-which-uses-ai-to-help-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/19/turing-labs-which-uses-ai-to-help-formulate-cpg-products-raises-16-5m/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
+  - title: "Using artificial intelligence to help humans"
+    excerpt: "In the right hands, artificial intelligence can do a lot more than beat chess masters or drive a vehicle.  It can save lives.  Four years ago, Dr. Nidhal C. Bouaynaya founded MRIMath, LLC, with Dr. Hassan Fathallah-Shaykh,"
+    publishedDateTime: 2022-01-19T18:15:00Z
+    webUrl: "https://today.rowan.edu/news/2022/01/meet-dr-nidhal-bouaynaya.html"
+    type: article
+    provider:
+      name: Rowan
+      domain: rowan.edu
+    quality: 41
+    images:
+      - url: "https://today.rowan.edu/news/2022/01/images/rowan_drnidhalbouaynaya-rt1.jpg"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "hLCitdD6jM1dK4TmxVbLWT3sqyVsLPlCrWhVhgmVE6hBwli3HIUubgnjQUBfrD1/tzmA9LvTz6duEBuU3jWx7XiW2KJkE0BqSG8j2+iX7/fsZM3rKgD7m+rnzXp/EpGsb0X4o43og5sdpqq3MNNCt75NhhCDCmvvt4SAdlv2UY+TrM+ce1X7X4u/LvBn/QK9EjK+4IRegiLPEEAEygiknibDNgPD+GXItebYAKtPZpKltlBEzP85PpcTvnZCljaO1g/7i7hk6iGd0A0SxluYIzTYpZhqj/SUimgUgCfLumclHGYRpK5R23g3oH3fcizGXOtQrVD4FDe8y0N4UvS2OV++Q0aZY77lTLo3Z2jLGb4/Fnlhg261tUfI1IAvReE9knYz1hwI0/G26nUQhqcZkQvPWs9hRzjjyxWBbYwe2Bic4pwsqErtnO5C2ZA9b04BC+dCLXJKApOlhTF+1J/QnRpO+hH3SZJL7uTQQK5FXU1KFJNs5+VgUS6bQZPHQI5uE9ROzlbNt3xo3o5JFqdM2w==;e1lmDeI+3kwTnUrO1WSldA=="
 ---

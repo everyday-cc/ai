@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2021/08/18/PNDN/79739924-63a7-4d06-8e8b-d51091b71099-Cade_Metz_photo.jpg?auto=webp&crop=797,449,x0,y120&format=pjpg&width=1200"

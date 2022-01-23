@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Using artificial intelligence to help humans"
+    excerpt: "In the right hands, artificial intelligence can do a lot more than beat chess masters or drive a vehicle.  It can save lives.  Four years ago, Dr. Nidhal C. Bouaynaya founded MRIMath, LLC, with Dr. Hassan Fathallah-Shaykh,"
+    publishedDateTime: 2022-01-19T18:15:00Z
+    webUrl: "https://today.rowan.edu/news/2022/01/meet-dr-nidhal-bouaynaya.html"
+    type: article
+    provider:
+      name: Rowan
+      domain: rowan.edu
+    quality: 41
+    images:
+      - url: "https://today.rowan.edu/news/2022/01/images/rowan_drnidhalbouaynaya-rt1.jpg"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "wm9mLb7Ep7o3bvMxzvbhjiHHG5htG4PVISdTgtWWFuicGbhcLHdFzSkNGrAB/ubUflug9sY03YE5lCt1jrmPMoMb2szdTUyv0hMsuFnYkem7RZ4PuIS/usf3poLR11tbp3ZXFKhrtPHUJQZnSb5PvJ/8n8BD73qDajTN4Qiuf4Y3Vh+tN8KgKH+61+ZaEDOWJuwQkaHUvvkSWpu2ct420tX3yiDqm/BeTEIJBpdFUljPsx7SwYgCsAZpkiKPvJLoXbmx8AfueF92IYZZYnHcGUXiCUsAd3TCXZJYQc37b9Bv7FTlNzoA4tgn2x8uAV5j5j1fNXfcmFN2iG+84Vfs6bBnHoKsTCWRmypPbSBc260Hrn+SwOqjk1hvmEHen5sQcfUohEQgsJYGHmccOhtTbNToXjJMGh2/dthdao74PgdQR6Hx1ycgvd5PftrXa7ULMnTEl4ublNV7RQFJ8CYeLfdNt6zkg3HqE0AqLd+bcSqTLrqODxqYR7qoB/ugobiawROy8NzMLn1tKZIkzIUauA==;XdLHPS9HPPgndyMcse7agA=="
 ---

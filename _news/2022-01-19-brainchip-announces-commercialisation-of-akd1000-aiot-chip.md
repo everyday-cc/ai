@@ -41,6 +41,20 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "BrainChip Granted New US Patent for Event-Based Classification"
+    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / January 18, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), a leading provider of ultra-low power high performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,"
+    publishedDateTime: 2022-01-19T03:16:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-brainchip-holdings-ltd-artificial-intelligence-patents-bc4fea33563056063984e0bfdcf811e2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "rfknXXvIVUmshIw03sSZ3E1ScHCRZMU9Hh0iCbk2QvG9pbd3xjwIIvYlN/zv8Y19XjUvCIzzyomiBcsz3xAsT9BEt85zqMyCfnOfn3dAkiu/Y7N264vdGVjhpzAxjE56+m7/1kHPmNMO4U8WwG9Ewst2rE8C8zSfbpYdn9oEEOirNTQwu0bS3cDTzYnQhgSUtNw/eQAPLu0xdTnKv6DA0p18KgXhFh6Gd9xdB55kaas8lioPzeDhwHjR7UswizBvizlr+7ADd1/QEqjvcUN5kyB6HH8PJdn72zGf2/7+EZEBtNDNsDCPNRE5BSDMNHuUuN+X+9D2/6bfZ4fd9FC1+CO/HROABn/TKc+z/txRYss=;QwaVonXcDj2OpDFrkX6Yqg=="
 ---

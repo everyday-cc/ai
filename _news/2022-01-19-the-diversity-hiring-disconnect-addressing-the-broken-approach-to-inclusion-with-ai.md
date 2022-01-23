@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 83
 published: true
 
 provider:

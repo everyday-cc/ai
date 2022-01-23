@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/18/why-games-may-not-be-the-best-ben
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/amp/"
 type: article
 quality: 95
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -33,22 +33,6 @@ images:
     height: 616
     isCached: true
 
-related:
-  - title: "Victor AI on the Forbes China Top 100 Investor List"
-    excerpt: "Victor AI on the Forbes China Top 100 Investor List Shanghai, China--(Newsfile Corp. - January 17, 2022) - The '2021 Forbes China Venture Capital"
-    publishedDateTime: 2022-01-17T12:40:00Z
-    webUrl: "https://menafn.com/1103550149/Victor-AI-on-the-Forbes-China-Top-100-Investor-List"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/17/NC_7fd1636a-a_Image_In_Body.jpg"
-        width: 550
-        height: 829
-        isCached: true
-
-secured: "npDbCJWHcd65GPHVVJI/yEuClDKeVUpNuUopS/nleeC5Ix/3Al/lJziLNw7i0OYzBTfdpZFpl52GyuFaw2n/J3/otf6my8hVEOnnuCEE/x9Vvbzs8uTKZbHRnOZeiwxuTvunpv2Ey7Od/8z3dgFgmFGtZT4Wcl+rBT6dg8rsxKKjPFwg3+IMMtQbMEiYuqbCNefzW61c2QBH5O9aoY7ebbSFOYaflvjVoJXd7/2qfRVrfV6KzUi2CIOps6AUaHiL9RMepyfL3M0HsZGgD1c5yC4Lj5Xv8adEmBETj4LKoTWcMMt+VNzoWfKgK+rcl4ofOOGPbMOxt6v4RDPVIXPCF7jv9tFzXJ35Cr9Q9cTVYj0=;lgYcOVYxbgeYZqQn1TSN5Q=="
+secured: "OZIdzVXc9A/iIHNd58B7RE5De7JsePX1SN9+4OqTwRp31xxmrk7FytMAVt1V2HNe7VUI4k+kiUA8IdFZlhr1iAtDkryNTSamYFTA8pzfc+9pzeXIzm527n9SwShV0t69HEtHcgEXhqu7Qu75lbORt03Mcik3cau8uVz9UDt7fvYJdYqOMhSxnXcudYNUupK8kZVbYc73+TQF5SJvd7wD+ZFXqErZ0CQcwhuosriN7fuSkBFo9Ivv9Yh6pP3lmm45v/RJHN/7Bl4nH1B+ZbufakYx/EOzPEB07aLruDDTyver6OykkDiF8uZKpeWfuwOO0B5UhAEtHbi4oVs8umLNe6MKvrQbeYfuhyOcVets+qjxLglRUUWSXMg1coF+ZR82XCmAGBAoSsv0Hh6iSY2blCGf8fykJcSGrtqVpesdg2Pe7yjkAVzIGj8dBhjmNnVV726yxG3WMARlTZfousP+V7FTsubkySvX15hnv9dg0BEeqJe3t1p6z6K63MjupXMCqJebYia8AHZBNvoyOL3zOw==;MLu5jWrwZ89e/IvIArSscA=="
 ---
 

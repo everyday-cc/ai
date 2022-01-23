@@ -395,6 +395,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-13-navrina-singh-ceo-and-founder-of-credo-ai-interview-series.md",
+      "title": "Navrina Singh, CEO and Founder of Credo AI – Interview Series",
+      "excerpt": "Navrina Singh is CEO and Founder of Credo AI, a company designing the first comprehensive AI governance SaaS platform that enables companies and individuals to better understand and deliver trustworthy and ethical AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/navrina-singh-ceo-and-founder-of-credo-ai-interview-series/",
+      "originalUrl": "https://www.unite.ai/navrina-singh-ceo-and-founder-of-credo-ai-interview-series/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:941/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/NavrinaSingh2021_Headshot.png",
+          "width": 899,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T09:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-ai-standards-hub-will-help-uk-businesses-improve-ai-governance.md",
       "title": "AI Standards Hub will help UK businesses improve AI governance",
       "excerpt": "The launch of the initiative, led by the Alan Turing Institute, comes as 1.3 million UK businesses are expected to use AI by 2040",
@@ -1388,49 +1431,6 @@
       "provider": {
         "name": "techwireasia.com",
         "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-2021-in-review-oversight-questions-loom-over-federal-ai-efforts.md",
-      "title": "2021 in review: Oversight questions loom over federal AI efforts",
-      "excerpt": "The Biden administration established several artificial intelligence bodies in 2021 likely to impact ... implementation and sustainability of a national AI research resource, irrespective of the uncertainty surrounding federal oversight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ai.gov/ai-researchers-portal/",
-      "originalUrl": "https://www.fedscoop.com/questions-around-federal-ai-oversight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ai.gov/wp-content/uploads/2021/12/RESEARCH-PROGRAM-REPOSITORY.png",
-          "width": 491,
-          "height": 317,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
         "images": null,
         "publishers": null,
         "authors": null

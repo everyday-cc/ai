@@ -15,10 +15,15 @@ published: true
 provider:
   name: com/2022/01/18/wayve-series-b-microsoft-virgin.html
   domain: com/2022/01/18/wayve-series-b-microsoft-virgin.html
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Microsoft AI
+  - AI in Autos
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/107002167-1642416708532-Alex_Kendall_CEO_2_002.jpg?v=1642416822"
@@ -115,6 +120,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "8EKX8VEzONJxg5Q1NbrY9I4tUCJc8Lmlytdc94MEZ4TaT/A7ayO47iPd7n2kBBvZnGzjv/liGlVpKvkBCpUgA4+n6S/VnKb9PmPab+AGucGglruQhpf3rnnSFPX6+JtgyrMWUizw5sTpvik7fQdIUDG4HD2N6t3eVvUtoP+5RTX0RB2koP1x9u33avHwipmM4oWbhMVDnpaVRkJIHuUuvbimr/ejIcIs7dBiKWfIZYzbxLECAAsDZNc/s8sW6IUeMiTStPPbD4gCJZ+oLajTEnElmJPs3RRxmomxNMdTF9E/5l7td5m+pPgv3OC8lPvshpX4GOQrn4EtqQnLB6EDQ0cQMslP0MBUoSwe9k9Y9qs=;g6HTsljpYkRHq9Z1essAqw=="
+secured: "wRtX6rhifxoURWcf6x735DiutXZGQC7/2wJQdQfHcxh554odZXt2jKIImshcrhK1Snso0glp4AgiE4sAcRfOywuFcxDKZA4R2PJdHkK+x2FFyK+zczZs1G2JyCn0Rs2yJPQguBa6NOIFXvbDViv1+GJrRPp8jrClHs2KtOr0ih/ryoqyUUrPmzwomoB1v6g7cLfumDZI9HDvm16B3bKDlQYsaUSfiuK/iJ6kCRfCiRUOOeZmmKwvLVGZm3MKF8SDJlVN8K9jANb/a4U8SlXXb6WjJiAiBPBz6jdtMpfyiJO4skz5lYf4CCr0pXGHMj426oRybk6/L2FgCgWfkrKCb9qBfBbqAOZKoBVMYuHqwbo9SRCOUUs/BfzRBlgf7Hf8;WdqyN9LgAIbgTYzK2Rpm2w=="
 ---
 

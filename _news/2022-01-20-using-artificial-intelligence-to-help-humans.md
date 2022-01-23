@@ -1,0 +1,57 @@
+---
+category: news
+title: "Using artificial intelligence to help humans"
+excerpt: "In the right hands, artificial intelligence can do a lot more than beat chess masters or drive a vehicle.  It can save lives.  Four years ago, Dr. Nidhal C. Bouaynaya founded MRIMath, LLC, with Dr. Hassan Fathallah-Shaykh,"
+publishedDateTime: 2022-01-19T18:15:00Z
+originalUrl: "https://today.rowan.edu/news/2022/01/meet-dr-nidhal-bouaynaya.html"
+webUrl: "https://today.rowan.edu/news/2022/01/meet-dr-nidhal-bouaynaya.html"
+type: article
+quality: 41
+heat: -1
+published: false
+
+provider:
+  name: Rowan
+  domain: rowan.edu
+
+topics:
+  - AI in Autos
+  - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://today.rowan.edu/news/2022/01/images/rowan_drnidhalbouaynaya-rt1.jpg"
+    width: 600
+    height: 314
+    isCached: true
+
+related:
+  - title: "Turing Labs, which uses AI to help formulate CPG products, raises $16.5M"
+    excerpt: "Working remotely has become the norm for a lot of desk-based employees, and there have been a number of tech companies that have seen their business explode in catering to that shift. But today comes news of a different kind of startup called Turing Labs,"
+    publishedDateTime: 2022-01-19T13:10:00Z
+    webUrl: "https://techcrunch.com/2022/01/19/turing-labs-which-uses-ai-to-help-formulate-cpg-products-raises-16-5m/"
+    ampWebUrl: "https://techcrunch.com/2022/01/19/turing-labs-which-uses-ai-to-help-formulate-cpg-products-raises-16-5m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/19/turing-labs-which-uses-ai-to-help-formulate-cpg-products-raises-16-5m/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-519742134.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Turing Labs Raises $16.5 Million to Expand AI-Powered Platform for Product Formulation"
+    excerpt: "Turing Labs, a Software-as-a-Service (SaaS) platform that uses artificial intelligence tools to assist with Consumer Packaged Goods (CPG) formulations, today announced a $16.5 million Series A raise to continue its mission to become the default AI platform for developing breakthrough CPG in record time."
+    publishedDateTime: 2022-01-19T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/turing-labs-raises-16-5-million-to-expand-ai-powered-platform-for-product-formulation-1031112437"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+
+secured: "T2fwXVQIa++j6rnDvJ7yMwFr9CxU4ki9ZR0c6JKuiRqFyo4BSaPLJiATtBybWCZC+0YDMNOnVj1lRHUamLE3fZ4IwdVBVRCqT5Yu3rrCgLx2RhdzSjkrmSVlYwxri3XaCIIzZC2MGcDe/sAhyhI/lP841eVXEwSuDzXReywCZE6NLpdCR1BMyMJOicHKCYYDDbukMXYVfYAaaY3osc6B3RwCgUK9ihreFuRhZGtwXn7ummKQzrCW0PsvbHivN6FGZHVjoEnBfmiF8TEt0J7YRfk71Wx/3bOBDWtgpwyRc8Cio1bhl63PpmQsvJyCFZUpZGGtmvJoqQqlORcHxEz1ZwogfVLKEWHFy82gcApa+2U=;pXskeR4YvrUEgKJjr7toJQ=="
+---
+

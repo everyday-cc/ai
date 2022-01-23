@@ -7,7 +7,7 @@ originalUrl: "https://www.cioapplications.com/news/key-deep-learning-trends-to-w
 webUrl: "https://www.cioapplications.com/news/key-deep-learning-trends-to-watch-for-in-2022-nid-9094.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 308
     isCached: true
 
-secured: "/4muBxxOZm6ZaNWw0qMXOhX3p44FCDVg53Wl7VuVZEgmtNxHcfYNT2JR6W6t4e5oEEDfUEVJGyg+ytK4BBgtVVK2vk0bt/nrLn4Dl+QCacLQnHkM6AWo7XeyFY6Y1Us+K6NKnroXxu9kkykDtFL6wsMS0bsGng9waB7H+sFqYKb659AqViLs678NSNOgO4IZBRiBMgeBBXpJlP/v7Z4GkvAlEdyBjvnezQS71okTbcWpp97QFAjwS6LZTXC1UGiV7MCnby2CX9mMwt0osQjpbBFv4SRB8c1NlItG1ZD+QbVNrIB2Wb5vJr0gJqHe4MobTw1R0uTkFDLhJJAFQuESoPxeo1sQh9u6rWWadu7IIUU=;O/o/3rUTVakbm96MXFWYVA=="
+related:
+  - title: "Robotics and automation stocks to watch in 2022"
+    excerpt: "Robotics stocks are companies related to the booming industries of automation and robots, which are having an increasingly important role in our everyday lives. The use of automation and robotics is only growing,"
+    publishedDateTime: 2022-01-23T00:27:00Z
+    webUrl: "https://www.cmcmarkets.com/en-gb/investing-guides/robotics-stocks"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 54
+    images:
+      - url: "https://assets.cmcmarkets.com/images/earhart_chooseyourpath_bg.png"
+        width: 1344
+        height: 964
+        isCached: true
+
+secured: "v99FPsMizundJztwNYFWG0yRg1CopOfkqoH3pGQoPKy/C8+OF0kNkhvYWNzuKpMYfWUOB92ebFobOym6OYQplJMVfBCBVlUUAVA5ls8p3n19+PkZqOaiukWW/pUBRvmKrvqBzjQu66mjIER0wps02TNl+mzs4+4biuz8r3jKFs/2tgOGlnxXJOw8rLLVLxUUAU1ak2LnrE/+nzg5BfKwo3sJPg/06semreb1VmLnZb0hqNssgdYyUnXIaixdzbtAM7EksWlzqdemus55vA2JJW3aiiaeNiqUq1zPmjt38mcdk5wG73mX0YZrMxiewnUHtkJZTwWGYMN+0yptknThFDvhcIS9zclUYI9NPCddqHFiabNzZjffP/LAuPZ4CAnq8Gj6bbEj5amogF2J58Uz49D4cD3Lhcw+5QxmmBu0K4t+WraUeNKAyONKrKsp+LI03pzbks7vcD45SbHBJNjbANMC91lPgRXY2lo9E/SzR5WOB225x7JH8edvowzXZUwqZUOpojTejlU8pq9RIuBDnA==;KndfMwEhzMMWEuVL6Jbgjg=="
 ---
 

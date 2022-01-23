@@ -7,8 +7,8 @@ originalUrl: "https://bestgamingpro.com/bank-of-americas-latest-ai-and-machine-l
 webUrl: "https://bestgamingpro.com/bank-of-americas-latest-ai-and-machine-learning-product-cashpro-forecasting/"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: bestgamingpro
@@ -26,30 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "CashPro Forecasting: Bank of America's new AI and machine learning tool"
-    excerpt: "Looking for a way to make informed financial decisions for your business? Bank of America might be able to help."
-    publishedDateTime: 2022-01-18T21:44:00Z
-    webUrl: "https://www.zdnet.com/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/"
+  - title: "Google Cloud Announces Vertex AI Tool for Demand Forecasting"
+    excerpt: "In a blog post, Google Cloud has announced Vertex AI Forecast, a machine learning tool for advancing demand forecasting. The forecasting tool is an"
+    publishedDateTime: 2022-01-21T15:42:00Z
+    webUrl: "https://www.datanami.com/2022/01/21/google-cloud-announces-vertex-ai-tool-for-demand-forecasting/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-  - title: "Bank of America launches AI-enabled CashPro Forecasting"
-    excerpt: "Bank of America today announced the launch of CashPro Forecasting, a tool that uses artificial intelligence (AI) and machine learning (ML) technology to more accurately predict future cash positions across clients’ accounts at Bank of America and other financial institutions."
-    publishedDateTime: 2022-01-18T15:50:00Z
-    webUrl: "https://www.finextra.com/pressarticle/91040/bank-of-america-launches-ai-enabled-cashpro-forecasting"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/shutterstock_google_cloud.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "VKFQ54GW9I3j3Ceae95j7XZfuX+ESGBIjvOam/kLg2/V4aLhV+NlgVWuylJf6MztwkZ7gEVbKK6flhP+Rpj+F5HL1oZIk6zcwjL97KmdPAfNnedgNemGywmzi+eFOQevQ+J6tjd2CaTISjrf/885X/KS3SM2qMIOmgYBMa7yrNjwcYzhipQ1vyt5ZyDElmPzKI/7ttSowYZEQOiiU9VCEIj7bPyVKU1WcLrAWOgtDxFDCqTmMhztxzqm9gCNAny8uvB1mLcVAOs6WQClkZQgyo+jR6N1r9eZBBnYIzpujEKFfblB6TKiYoBeK+oTtS0YlFgOmlToE2syEhwGEFc7dwCKtaesofYxXNds86x7XMohd8L/0Xe8U0EkyvkjtDlGXhFmZNKYEvRdGfyKEQKOG/s0mlZ+SstpLQrCtGATFHXn+Y9/pC1bY6oCeiYfJDcu585pHm36WxyuqEjxI/r87LU9MWXpL96Xp+bv/skSV1mSl7UeV0ViyDbxVvFIY7GrAvxT+LFUxaltrSdRLrf0YQ==;38AcFJfDKw7H3Cut3gR12Q=="

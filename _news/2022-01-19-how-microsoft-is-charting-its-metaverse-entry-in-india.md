@@ -27,158 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft forms new coalition for AI in healthcare"
-    excerpt: "Microsoft has created the Artificial Intelligence Industry Innovation Coalition (AI3C) to drive the use of artificial intelligence (AI) in healthcare by providing recommendations, tools and best practices."
-    publishedDateTime: 2022-01-17T19:57:00Z
-    webUrl: "https://www.technologyrecord.com/Article/microsoft-forms-new-coalition-for-ai-in-healthcare-128027"
+  - title: "Machine Learning in Education Market is Going to Boom with IBM, Microsoft, Google, Amazon"
+    excerpt: "The ‘ Machine Learning in Education market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size,"
+    publishedDateTime: 2022-01-20T05:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-in-education-market-is-going-to-boom-with-ibm-microsoft-google-amazon"
     type: article
     provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 171
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 64
     images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10675/img-Microsoft_AI_healthcare_web.jpg"
-        width: 940
-        height: 443
-        isCached: true
-  - title: "Microsoft and Virgin Invest in Tesla-Like Self-Driving Company Wayve"
-    excerpt: "Self-driving start up Wayve is getting $200 million to develop its business from Microsoft, Baillie Gifford and Virgin Group."
-    publishedDateTime: 2022-01-18T13:20:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-virgin-tesla-wayve-self-driving-51642511960"
-    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-virgin-tesla-wayve-self-driving-51642511960"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-virgin-tesla-wayve-self-driving-51642511960"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 76
-    images:
-      - url: "https://images.barrons.com/im-469228/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Microsoft, Cleveland Clinic and Providence join coalition to innovate AI in healthcare"
-    excerpt: "Microsoft has formed a coalition to build and track new AI innovations with some big names in healthcare, including Cleveland Clinic, Intermountain Healthcare, Providence and more."
-    publishedDateTime: 2022-01-18T17:00:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/microsoft-cleveland-clinic-providence-and-more-form-ai-healthcare-coalition"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 63
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1642523478/Pixtum.jpg/Pixtum.jpg?VersionId=uiHhyZoVZBFcOq3DVbMN4Db5T5v1KFk."
-        width: 2190
-        height: 1369
-        isCached: true
-  - title: "How Microsoft just got into LiDAR Free Self-Driving AI"
-    excerpt: "When I was doing my research on the AV sector, one startup stood out to me as working significantly on Deep learning of autonomous vehicles and that company was Wayve. So when I woke up this morning and found Microsoft has invested heavily in them,"
-    publishedDateTime: 2022-01-18T13:32:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-microsoft-just-got-lidar-free-self-driving-ai-michael-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHRaaVA8wVu0Q/article-cover_image-shrink_600_2000/0/1642511162101?e=1648080000&v=beta&t=hE4DM9zx6agsxEuhKcAEA187D5GneGkaViy9_8VaUcc"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg"
         width: 600
-        height: 319
+        height: 337
         isCached: true
-  - title: "Microsoft calling for UK AI/environmental startups"
-    excerpt: "Microsoft is on the lookout for UK startups to join the 2022 AI for Environmental Sustainability Accelerator. Run in partnership with The Met Office and Social Tech Trust, the programme aims to attract startups using AI as part of a product or solution idea that tackles environmental challenges,"
-    publishedDateTime: 2022-01-18T01:20:00Z
-    webUrl: "https://www.techmarketview.com/ukhotviews/archive/2022/01/18/microsoft-calling-for-uk-aienvironmental-startups"
+  - title: "Artificial Intelligence in Retail Market is Booming Worldwide | Google, IBM, Apple"
+    excerpt: "Latest Report Available at Advance Market Analytics, “Artificial Intelligence in Retail Market” provides pin-point analysis for changing competitive"
+    publishedDateTime: 2022-01-20T10:03:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-retail-market-is-booming-worldwide-google-ibm-apple"
     type: article
     provider:
-      name: TechMarketView
-      domain: techmarketview.com
-    quality: 54
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 46
     images:
-      - url: "https://www.techmarketview.com/assets/TMV_Building-Resilience-2022_dropdown_300px_(1).jpg"
-        width: 300
-        height: 300
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Why AI in healthcare is at a standstill"
-    excerpt: "The Alan Turing Institute published a report in 2020 that looked at how AI helped during the COVID-19 pandemic. The study's findings showed that AI had little effect, as experts were faced with bias and lack of access to health data."
-    publishedDateTime: 2022-01-18T19:50:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/why-ai-in-healthcare-is-at-a-standstill.html"
+  - title: "Machine Learning in Communication Market Is Likely to Experience a Tremendous Growth in Near Future | Amazon, IBM, Microsoft, Google"
+    excerpt: "The ‘ Machine Learning in Communication market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size,"
+    publishedDateTime: 2022-01-20T05:49:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-in-communication-market-is-likely-to-experience-a-tremendous-growth-in-near-future-amazon-ibm-microsoft-google"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "UK self-driving startup gets backing from Virgin and Microsoft"
-    excerpt: "Eclipse Ventures led the round of funding with additional investors Microsoft and Virgin. Wayve’s system is designed to be an adaptable self-driving system for fleet operators using artificial intelligence and a camera-first sensing suite."
-    publishedDateTime: 2022-01-19T13:36:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17662/uk-self-driving-startup-gets-backing-from-virgin-and-microsoft"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 41
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/662/17662/Wayve.jpg"
-        width: 752
-        height: 400
-        isCached: true
-  - title: "A new health care AI coalition & Google lands a big client"
-    excerpt: "In the latest edition of STAT Health Tech: a new health care AI coalition launches, Google Cloud lands a big client, and telehealth companies steer clear of abortion care."
-    publishedDateTime: 2022-01-18T15:52:00Z
-    webUrl: "https://www.statnews.com/2022/01/18/health-care-cloud-google-va/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 39
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/03/GettyImages-908368194-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Perth start-up scores key role in Microsoft’s ambitious cloud project"
-    excerpt: "Tape Ark will transfer UK Meteorological Office data from magnetic tapes to the cloud, in one of the biggest ever data migrations."
-    publishedDateTime: 2022-01-18T06:16:00Z
-    webUrl: "https://www.afr.com/technology/perth-start-up-scores-key-role-in-microsoft-s-ambitious-cloud-project-20220118-p59p5w"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.219%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_108/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/07df9a65302a49218b68ab137c5cabc1f7f4aa39"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Industry Leaders Announce Artificial Intelligence Coalition"
-    excerpt: "In a collaborative effort, US healthcare and life science leaders are forming an AI coalition to advance innovation."
-    publishedDateTime: 2022-01-19T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/industry-leaders-announceartificial-intelligence-coalition"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/industry-leaders-announceartificial-intelligence-coalition"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/industry-leaders-announceartificial-intelligence-coalition"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-  - title: "CVS Health and Microsoft alliance: an example of an extended partnership"
-    excerpt: "Microsoft and CVS Health have announced a new strategic alliance focusing on personalised care and accelerating digital transformation for the benefit of CVS customers and its employees."
-    publishedDateTime: 2022-01-18T13:23:00Z
-    webUrl: "https://pharmaphorum.com/digital/cvs-health-microsoft-alliance-extended-partnership/"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 38
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2022/01/partnership.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "WiKGaT0EmWpTT9/48GqoSNSRZDAROA03joY9HyfNv5zg7MJL89l6qGclhlSHPgzs0x3wPdCn/+U6l+jIbVn6SzwBRDrb7G5H+fgDrP2X1IOhhZfO7AFu9lCYDtswFcvmke+KSp5uXjywCud94JdGPUw71aFHSSJu8xm2ivuB3l5uTZ+I7v3K+qYh11fUF89U9pnpORJxn6zn4rbN+edGIs79IglSm1pgLZUsc4XdfqTgE3VnrnX8/fCoUh9tqJ1CSKu3AVcB4fqrjgBSSv19Oc4rlnkxTrS3z53oMFhSnA84sDWhvgMYQ57Ua5HcGUIiYuvVhQKm9kWzesAFPexiJHavbDLHZ3o2OKeIDUZ/OEw=;/A7A/PJAYQMPl+SnjcRN0A=="

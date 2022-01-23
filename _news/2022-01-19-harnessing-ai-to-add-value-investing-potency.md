@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/harnessing-ai-to-add-value-investing
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/harnessing-ai-to-add-value-investing-potency?amp"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -20,44 +20,37 @@ topics:
   - AI
 
 related:
-  - title: "RadNet Bringing AI to Imaging Centers"
-    excerpt: "After taking a hit during the initial Covid-19 lockdown, Sawtelle-based RadNet Inc., the nation’s largest operator of stand-alone diagnostic imaging centers, is revolutionizing the industry through its use of artificial intelligence and joint ventures with hospital networks."
-    publishedDateTime: 2022-01-17T08:06:00Z
-    webUrl: "https://labusinessjournal.com/news/2022/jan/17/radnet-bringing-ai-imaging-centers/"
+  - title: "The never-ending effort to bake common business sense into artificial intelligence"
+    excerpt: "There needs to be a feedback loop to ensure customers are enjoying the experience as much as you're enjoying creating the experience.'"
+    publishedDateTime: 2022-01-22T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/"
     type: article
     provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 37
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
     images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2022/01/14/RADNET_Technician_guiding_patient_into_Imaging_machine_at_RadNet_imaging_center_in_pre-Covid_photo_0117_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
-        width: 500
-        height: 334
+      - url: "https://www.zdnet.com/a/img/resize/27c067b844739f5797fc93d4b7c4a8028a4b0244/2022/01/21/49e6021c-8611-4222-bd2d-404ef13c80fe/buildings-hudson-yards-as-see-from-javits-center-january-2022-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 1600
         isCached: true
-  - title: "Using artificial intelligence to improve reporting of medication errors"
-    excerpt: "A novel machine-learning method has teased out factors that are responsible for nurses reporting, or failing to report, non-critical errors in dispensing medication"
-    publishedDateTime: 2022-01-19T15:52:00Z
-    webUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-medication-errors.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-medication-errors.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-medication-errors.amp"
+  - title: "Harnessing noise in optical computing for AI"
+    excerpt: "Artificial intelligence and machine learning are currently affecting our lives in many small but impactful ways. For example, AI and machine learning applications recommend entertainment we might enjoy through streaming services such as Netflix and Spotify."
+    publishedDateTime: 2022-01-21T19:00:00Z
+    webUrl: "https://techxplore.com/news/2022-01-harnessing-noise-optical-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2022-01-harnessing-noise-optical-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-harnessing-noise-optical-ai.amp"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 37
-  - title: "How artificial intelligence and linguistic intelligence are assisting workers in their learning"
-    excerpt: "Language Artificial intelligence is now commonplace. It assists us in filtering information in a variety of ways, from search engines to chatbots. However, AI has untapped potential when it comes to assisting humans in the processing of information."
-    publishedDateTime: 2022-01-16T17:50:00Z
-    webUrl: "https://bestgamingpro.com/how-artificial-intelligence-and-linguistic-intelligence-are-assisting-workers-in-their-learning/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 27
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
     images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/How-AI-and-language-intelligence-are-helping-employees-learn.png"
-        width: 600
-        height: 375
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/15-artificialin.jpg"
+        width: 1920
+        height: 1633
         isCached: true
 
 secured: "lvMUPAHxajrmMEAq9ExXHlsxmRaSfCb7k98vQY4AlLrwaZ6nqvlH45Nh9T/uEjdCEgAbWuS9Qs85NyvMt+X6Wm01+B9lExyhzuY9bec2aVez9F4rkxhUbvvYWV6G5byilHJLIOZMsnVCXdoUcDirRt1CSQryazpzSYFghqoWi6P2D8NTrQv7AAmTWaeXzcLY8l9cDjnclc6Dbrcfo7toe3dLnG/hqtwW70nfmcw9lGqQzzQqPtB9NW+rbQz+7v/hZl7RaDY3xys7Xhg4ubSYZx51S5or2nkaqLVi7ErkNOwJsGhEMwBsScQkOUSE3sScIAXc52iL0IkR1T/pLqaJSjuwYBrn5f89xAWxIbAQw+WaAlTchX4YmHWyzj4h2Ek/9oiEATGsYZk444BTsvdVK7XmsBBdA9PRNhsgbIQ9ebk9Z6V6zQpsnlKBSgWFito5gXUfePe4Z4N4zy26dlIknaXf+py1xalDbLTC0DRuNuP9oZoVRc0ourbNJKFppqp2DZO3UD+xnYlaDZRR5SLfSA==;CQE4U73gSiUjcMXut0Ay6A=="

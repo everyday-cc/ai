@@ -7,7 +7,7 @@ originalUrl: "https://www.pv-magazine.com/2022/01/19/funding-boost-for-5bs-solar
 webUrl: "https://www.pv-magazine.com/2022/01/19/funding-boost-for-5bs-solar-installation-robots/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 713
     height: 444
     isCached: true
-
-related:
-  - title: "Solaris ex machina: 5B gets funding boost for solar installation robots"
-    excerpt: "Sydney-based solar pioneer 5B has launched a $33.4 million tech innovation program, including a $14 million grant from the Australian Renewable Energy Agency, designed to accelerate the delivery of ultra low cost solar."
-    publishedDateTime: 2022-01-18T10:39:00Z
-    webUrl: "https://www.pv-magazine-australia.com/2022/01/18/solaris-ex-machina-5b-gets-funding-boost-for-solar-installation-robots/"
-    type: article
-    provider:
-      name: pv-magazine-australia
-      domain: pv-magazine-australia.com
-    quality: 39
-    images:
-      - url: "https://www.pv-magazine-australia.com/wp-content/uploads/sites/9/2021/10/carosue-dam-solar.jpg"
-        width: 1007
-        height: 671
-        isCached: true
 
 secured: "CcZHg/vq9yLS2ajNmS31xE2v+dtWGtGqUWNFGXfdUyIUTlJuTT269VMLmRLTaMNhAqocdi55PQZl2v+PZpAagd9zfFFXqhrLuRKGhvA5yVkdKosxMNMnx8879KSucQIYfaci9MNuPpa8V6ulF+HRJj/8g3fONlrFf1jo8WFwtxJLPnoHXTzXeW3vRJ/ACk/9lyT4Abd2CiLV2xNqDQ/aXRvUK1Vvy3PFMYjbwjThIRnYF2cKo547sxlXoUAIbYb9ZQS0C5R1osJFsUvYhKVaOCuwg6qcotgbPm3ZzJnQ1o3my4NqebB0njprl/o+mdv14L1O6Zq2zMIPXpZZCeauB5+9GTvW2Dq1+TNlpW6SbF2bVdbb4H4FDvF2693x1wPK3Ig0YZN+jDRNMBdJ8WpbClaHOid71ah0Cqj2cnwVTY36nQocpdqzKy7/AlRPboFsKGkdDm8hnF1/k5uJEtOFx7abLgTQY2FAuAAmbcdgnGTBLHmXGgZ96roW5FWuZsVz2KSM/cYTJGU5pHXqqfTz4g==;CGeLjXhQBwIVqeYjRbf8qQ=="
 ---

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi fintech joins battle for US retail investors"
-    excerpt: "RIYADH: Saudi entrepreneur Nezar Bakhsh has joined the battle for US retail investors after launching a financial technology startup that sells stock trading advice to traders. His Quant Alpha platform offers artificial intelligence-powered software for investors,"
-    publishedDateTime: 2022-01-16T15:18:00Z
-    webUrl: "https://www.zawya.com/uae/en/business/story/Saudi_fintech_joins_battle_for_US_retail_investors-SNG_278890775/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_278890775/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_278890775/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/210516074158XLWJ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Checkout.com crowned UK’s most valuable fintech"
     excerpt: "Checkout.com has become the country's most valuable private fintech company after its latest fundraising valued at US$40 billion."
     publishedDateTime: 2022-01-19T14:21:00Z
@@ -59,29 +43,50 @@ related:
         width: 614
         height: 250
         isCached: true
-  - title: "Padar Joins VC-Backed Tax Fintech for Banks"
-    excerpt: "April Tax Solutions targets banks and financial institutions. Jody Padar, CPA, also known as “The Radical CPA,” has exited Botkeeper after three years and joined April"
-    publishedDateTime: 2022-01-18T14:59:00Z
-    webUrl: "https://cpatrendlines.com/2022/01/18/padar-joins-vc-backed-tax-fintech-for-banks/"
+  - title: "Global Fintech Arabesque Teams Up with Snowflake, a Data Cloud Company"
+    excerpt: "Arabesque has partnered with Snowflake, the Data Cloud firm, enabling financial institutions to \"integrate Arabesque's suite of data assets.\" \""
+    publishedDateTime: 2022-01-21T21:12:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/amp/"
     type: article
     provider:
-      name: CPA Trendlines
-      domain: cpatrendlines.com
-    quality: 39
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
     images:
-      - url: "http://cpatwpe.s3.amazonaws.com/cpatrendlines/wp-content/uploads/2017/12/Jody-Padar-2018-SQUARE.png"
-        width: 513
-        height: 502
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/cloud-sky-sun.jpeg"
+        width: 594
+        height: 803
         isCached: true
-  - title: "Startup of the Week: Saudi fintech joins battle for US retail investors"
-    excerpt: "RIYADH: Saudi entrepreneur Nezar Bakhsh has joined the battle for US retail investors after launching a financial technology startup that sells stock trading advice to traders. His Quant Alpha platform offers artificial intelligence-powered software for investors,"
-    publishedDateTime: 2022-01-18T10:09:00Z
-    webUrl: "https://tynmagazine.com/startup-of-the-week-saudi-fintech-joins-battle-for-us-retail-investors/"
+  - title: "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity"
+    excerpt: "Comserve / -- AI in Fintech Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast 'A research report on AI in Fintech Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail."
+    publishedDateTime: 2022-01-21T13:44:00Z
+    webUrl: "https://menafn.com/1103574554/AI-in-Fintech-Market-Growth-Analysis-By-Size-Share-News-Demand-Opportunity"
     type: article
     provider:
-      name: tynmagazine.com
-      domain: tynmagazine.com
-    quality: 19
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?383249"
+        width: 450
+        height: 250
+        isCached: true
+  - title: "Cyber Threats to the Fintech Industry a Growing Concern"
+    excerpt: "Rising costs of cybercrime track with the failure of legacy identity authentication providers to guard us against increasingly skilled hacker networks"
+    publishedDateTime: 2022-01-21T09:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/cyber-threats-fintech-industry-growing-concern"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/security-lock-on-keyboard-with-credit-cards.jpg.png?itok=aEyBIAZk"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lLq42Nl6uOGEVZudKgQy0rMGj1FRM5H9Za18YNzpItyiZbpVegGp0YTFPVQwxe4Cr4J/KPB2cLp1jb+ms9umwJBSjUoK7Z+u2+skEpgftnJX24Lvj0nRfkUUZfXltnqNvg5Nzsk7vvoid2cdLQtjazBqatpjEGm1NLT7/WfOlID4abSmBzjBR4Em6LPof/J1sh/ASZI0TvYpF9NtWnCm7YNt62bydzkn2o4lJ05yedfyUz9VDirPcOMpUW/YVqGfZTLSVsZa/vIYPxafxXhe3rO4SNjIbGWDWdhZSINvWbN2huf7GmslT6MED2yBG5ZqnD2LO/utmIX3LqKesHgtAs7ELDN3A69np2rlKEDtAj7QhwtNvk95Fu2rUQhMntZVnZsRKbLEbkXZPp9GwGz8BV32IfQSl0v/42uitw5rfAaFJ8exHeo+lWsGUgiWSck0BYbq6KMix6uTIJGHvxcUt+b/o68lIjle3y3uTEKmRLPPWaQXLoQNy28zG/uIU0ySTG8xE0+z5eh+rY5Dlpp6hw==;FM6oFG82VKGYz2wULfXWvQ=="
 ---

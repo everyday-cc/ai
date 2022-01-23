@@ -17,6 +17,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "AULloAzl+tJsfjXPKr7JrlKaE1OWpcxgokyIlnGpxJi0Z1sh1TUJd0+YEdbs0tkwwj0SU3DTgF8xFNSV3SnUH5nvVYnuU4Q7P1yBykOmIETrnXuifKIwHospmfnVC7MooxvoiCjFFv9k3DPzWrkxPFyKomcwTXSw3iGBwYkTntqPotmmf4BxPHsylMH9eIAGycHecURxOTuAn3YpWVGBcKCbJ9KNezWKlITO1H5OGKKaCjLG0bVLYbm5VpT5j4zvFnTl8JiTseXKfSwXjORHofkx3pGCdjk50tWLHug1GGB5Cqz3n/nxEdGigkuth+gtEqsMjiPD3Hp6e0yePU+E2CO/QajMuUNhZGEeEVoUmbw=;AWoZBWQ/MNgtx2zGyey4FA=="
+images:
+  - url: "https://benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "boZ+hpgY1s1dbWaMDK6oI8gT5y708eqt3tyN7OoppERe0/7lPuM+tF04FegTcLVNjSHmhV5lPXJHXyfLZqyPP+N8uqowNw7Dh4uAEmKih0Y3Z8LlVbwcgDbBNJlO7p52T8n9QHBgSW/D4gXK5EtmvgnVrSce41EoEZYxeDQ7ch/eecBKIplCPRhLwVFsWapmlfwa36mwxsNvp38iCv6VtT7IwWSr6e8shYAnWUwiExVVEHxJD3ZMBgrIxISPCoX8OyFHOUMIvtTeXms2p7HP4gXx4vRv2BSZy1MIoNrcwQEM9yDVAQrRbOlAH5ymqXB/oh/NTDEkweqY36iMLuhIB3q/9rMhnSz0xeBGcZK1xhE=;Qnq3eNcejt27Cuf526iTBQ=="
 ---
 
