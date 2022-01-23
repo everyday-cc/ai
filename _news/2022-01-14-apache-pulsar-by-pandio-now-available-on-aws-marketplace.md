@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Apache Pulsar® by Pandio Now Available on AWS Marketplace"
-excerpt: "Pandio, the leader in AI orchestration, announced today that its Apache Pulsar® product is now available in AWS Marketplace. SAN DIEGO (PRWEB) January 13, 2022 Pandio,"
+excerpt: "Pandio, the leader in AI orchestration, announced today that its Apache Pulsar® product is available in AWS Marketplace, a digital catalog with thousands"
 publishedDateTime: 2022-01-13T23:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/p25049283/apache-pulsar-by-pandio-now-available-on-aws-marketplace"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/p25049283/apache-pulsar-by-pandio-now-available-on-aws-marketplace"
-ampWebUrl: "https://www.benzinga.com/amp/content/25049283"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25049283"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apache-pulsar-by-pandio-now-available-on-aws-marketplace/article_52097533-ee39-5256-9e3f-aecc9adedba8.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apache-pulsar-by-pandio-now-available-on-aws-marketplace/article_52097533-ee39-5256-9e3f-aecc9adedba8.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "boZ+hpgY1s1dbWaMDK6oI8gT5y708eqt3tyN7OoppERe0/7lPuM+tF04FegTcLVNjSHmhV5lPXJHXyfLZqyPP+N8uqowNw7Dh4uAEmKih0Y3Z8LlVbwcgDbBNJlO7p52T8n9QHBgSW/D4gXK5EtmvgnVrSce41EoEZYxeDQ7ch/eecBKIplCPRhLwVFsWapmlfwa36mwxsNvp38iCv6VtT7IwWSr6e8shYAnWUwiExVVEHxJD3ZMBgrIxISPCoX8OyFHOUMIvtTeXms2p7HP4gXx4vRv2BSZy1MIoNrcwQEM9yDVAQrRbOlAH5ymqXB/oh/NTDEkweqY36iMLuhIB3q/9rMhnSz0xeBGcZK1xhE=;Qnq3eNcejt27Cuf526iTBQ=="
+secured: "RiB07ol8v5Sgcvoti28qwTHGx3HW96/uc/GCfleOAFxQaWAN6lnBHB/0EF1VnBVNPI10Qn68U9t1Yr+TMq2zrDpCuOTtSuZd+hjU5JidmoZEPdr4NaOMwXCq/YDf6c6rukBifFYyZr+BeoNMj5IBCNIRQuZ9RitI/l4U+d6SVXKPKQTkNwEeKP3Sy1+M+ObJFXJu99cGA0R6NbzFxu+i76OqF1MOH1Gwe/5u5nC28PBrQi4dnZQ/mCsP6d7mAZzgcEGBPdLF9IfLNz1/Atx9AqpECwR73z5/+C5WWGc72keC50yR79tS0dpAk9pDgZIbW31eUoSfLc0JeJ+j4ajd6BPxo6OB0DnbZ8+ARSwWP5r7GEV32c9kqcxsG+ki30a7DoXPTksYKWD+2yb1/ScBlms7+r1tqvrviZOscQ+fd1JsqmMN05gmFqXEHLPePZGI7k6efIFsRlKsbpp6gTL79agUy+XfQyGJIF/HupVGBywT8yNt6h6BZ5fnTNH6AbVwj09lyxhY5HwfFQPlBySCKQ==;0R7Az05V3IJqqoQlZ1pW+Q=="
 ---
 

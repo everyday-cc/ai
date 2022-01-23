@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/19/israeli-fintech-personetics-raises
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/19/israeli-fintech-personetics-raises-85m-for-tools-to-help-incumbents-personalize-banking-services-to-compete-with-neobanks/amp/"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Personetics, an AI-powered customer engagement and insights platform for banks, raises $85M"
-    excerpt: "Personetics offers banks a data-driven approach to delivering personalized customer engagement -- it's all part of the \"Netflix effect.\""
-    publishedDateTime: 2022-01-19T11:58:00Z
-    webUrl: "https://venturebeat.com/2022/01/19/personetics-an-ai-powered-customer-engagement-and-insights-platform-for-banks-raises-85m/"
-    ampWebUrl: "https://venturebeat.com/2022/01/19/personetics-an-ai-powered-customer-engagement-and-insights-platform-for-banks-raises-85m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/personetics-an-ai-powered-customer-engagement-and-insights-platform-for-banks-raises-85m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 77
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/feat-1.png?w=1200&strip=all"
-        width: 1200
-        height: 651
-        isCached: true
   - title: "Israeli Fintech on the Up: Personetics Raised $160m+ in 2021"
     excerpt: "The rise of financial technology in Israel is continuing, with AI and customer-centric fintech company Personetics raising over $160m in funding last year"
     publishedDateTime: 2022-01-19T12:37:00Z

@@ -89,20 +89,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "IBM sells its Watson healthcare assets to Francisco Partners"
-    excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson He"
-    publishedDateTime: 2022-01-22T05:41:00Z
-    webUrl: "https://menafn.com/1103576554/IBM-sells-its-Watson-healthcare-assets-to-Francisco-Partners"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?196361"
-        width: 448
-        height: 249
-        isCached: true
   - title: "IBM sells pieces of Watson Health business to private equity firm reprtedly for $1B+"
     excerpt: "IBM's long rumored sale of assets from its artificial intelligence-based Watson Health business became reality Friday morning. Here are the details."
     publishedDateTime: 2022-01-21T17:51:00Z
@@ -189,6 +175,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "IBM sells its Watson healthcare assets to Francisco Partners"
+    excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion."
+    publishedDateTime: 2022-01-22T11:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220122/3898044.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 36
   - title: "Once billed as a revolution in medicine, IBM’s Watson Health is sold off in parts"
     excerpt: "I BM said Friday it will sell the core data assets of its Watson Health division to a San Francisco-based private equity firm, marking the staggering collapse of its ambitious art"
     publishedDateTime: 2022-01-21T16:44:00Z

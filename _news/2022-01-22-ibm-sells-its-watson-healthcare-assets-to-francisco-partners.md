@@ -1,29 +1,23 @@
 ---
 category: news
 title: "IBM sells its Watson healthcare assets to Francisco Partners"
-excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson He"
-publishedDateTime: 2022-01-22T05:41:00Z
-originalUrl: "https://menafn.com/1103576554/IBM-sells-its-Watson-healthcare-assets-to-Francisco-Partners"
-webUrl: "https://menafn.com/1103576554/IBM-sells-its-Watson-healthcare-assets-to-Francisco-Partners"
+excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion."
+publishedDateTime: 2022-01-22T11:26:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20220122/3898044.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20220122/3898044.html"
 type: article
-quality: 56
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - IBM AI
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?196361"
-    width: 448
-    height: 249
-    isCached: true
 
 related:
   - title: "IBM Sells Watson Health Assets to Investment Firm"
@@ -233,6 +227,6 @@ related:
         height: 576
         isCached: true
 
-secured: "xDvaHhZ1Zv0J9KFRQ5f0ApKJg0Mj+Y5dJv08jRmDeq07bA2hA21ltvPV4uIINBkxe0skZM7/Hn9dlYgTjeCJKucMXjoxoszoaC7BxCc6NAZ6s+3X2jLtMc44ZYyTmPkUtUwG7yxk4XtmwqWmQ47Ek8U8GAhCc3ekK+FXquxuvXkSJIVtYPudA0vbAyjgGX8/TYBKA24vBmQKRHVTqJ6nPDHMmaP/v7ay2jawJpp46xnN1Upufni2Yfn7QmKGBuhWy8sEnU9ki6GE8sdVf1KDmmpUpTNcU4j0CL/42N/Qe/uWZdjmm389H5kL+EaFk18NmcNMS9Q4T+q33CYW25eTY4ztlote4+yaO/qBUh5TZc8=;8D07YaUP7G44ZUtJtYJBZw=="
+secured: "hXCjTBE9a/G8sHoLH/F89gNfiNBWodrBnH8LloYAisiScy9LAJvlDIII0SKfVYTv3irOaXXnkMzKthhxUJEZAIGCo0T6DlUqS1ZoDKWjfoDhEy51+iGNKM+PGiEBFKnUDx4VOMS7T00nTnDDNM1XVM3WIaIHuWA0wxLn+79xZxFGgxufZ9RqIvIv4su6CZUhHb3igGZaLv2NWffwPxzvuw70QhckHW7Dv+qcCKikOm6wj88lyBYnjn7B13nb/ZfzMCLR/KVPuyxkIz+IlqPPWAPf2ELqzQSblrCiW9IMuYD9ewSEWjrGrfEWstRCjfbxIOohEdZlwIZDsayODwR+TEpnTJSLH6WbNlq3vOBKtlc=;92eFUuXg9FaW0CgxJLaJQQ=="
 ---
 

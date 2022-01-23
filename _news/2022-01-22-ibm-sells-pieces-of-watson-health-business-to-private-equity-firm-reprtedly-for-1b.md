@@ -91,20 +91,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "IBM sells its Watson healthcare assets to Francisco Partners"
-    excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson He"
-    publishedDateTime: 2022-01-22T05:41:00Z
-    webUrl: "https://menafn.com/1103576554/IBM-sells-its-Watson-healthcare-assets-to-Francisco-Partners"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?196361"
-        width: 448
-        height: 249
-        isCached: true
   - title: "IBM Watson Advertising And The 4A’s Investigate How AI Can Be Used To Address Bias In Advertising"
     excerpt: "IBM and the 4A’s released findings from a project that used the AI Fairness 360 toolkit to analyze data from The Ad Council’s vaccine education campaign."
     publishedDateTime: 2022-01-19T15:08:00Z
@@ -189,6 +175,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "IBM sells its Watson healthcare assets to Francisco Partners"
+    excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion."
+    publishedDateTime: 2022-01-22T11:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220122/3898044.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 36
   - title: "Once billed as a revolution in medicine, IBM’s Watson Health is sold off in parts"
     excerpt: "I BM said Friday it will sell the core data assets of its Watson Health division to a San Francisco-based private equity firm, marking the staggering collapse of its ambitious art"
     publishedDateTime: 2022-01-21T16:44:00Z
@@ -232,6 +227,6 @@ related:
         height: 576
         isCached: true
 
-secured: "Ml+7bvm39xsw3q7W89p9ohqCJc0XN4y7KLRkt+VwZFzbldpG5x0cCq+ge2iB87gYlYxm7NOnsWh9q164TLMxmP+jrCt0V1Ad0dCLpw/reZosR4PWqCE1HYW+C5AZGCOFnBRd+/qNbud5OQiElCrtKi/i4a7SBFwBGmy95FPZc79e4ghLrY0KWKMxvlntIV0FNk205cHqosxymT9L90tMtpDChbSgjaoODocTU//Ybv3pOEb/lguin3jhFwEQdZwmAvXsc4Vy0VlGqbbcqlrJAhF/ZeOT3rK8RxzZdp4dwXmGxtagdbSr0fZjVaH/+oHu+DUA/2gskGbol7vtlpBSLqDznPCxlRyjzXuxxdaDzSM=;y2kW/K319uvFJMJGn0yNsQ=="
+secured: "6ybSsOutbPHwsSVZb1ThFVHRxcHT9XiRDzv2jOpU8AnrNrnpFLP8San9KOIuRkX8ObjgpX+KPddCzejkK6k3zYE1ds2RHiCejy7WMkxDZXfroXlK2asgXGenMoRG0L8/uNsKBhioP4WR1ZYl5DadKQjC2PHY87Po3phCXhFTjbj7eXzXnzL31yXGHDaYaAV7H28VnkKiFD4wdtwWmksRbC7U/g3G3RMJdLI3OPDRqBrs1EjjEseTPr4SPIrH8daFYjenc9YO8VXqN7jAWqBhUO/fyX4MvwuC3mjxSDdG841m8/OmG/xK1KW2Ltl48h+fXrk8SNZ6VRzq6NNMqLeCAE8/8Ar1E45uxXJi91IrJgdBmfe9CEaJmbiLOyzKQ7h0JFxQJZEq1zn2NhlAXAB+ANPOt3M31gXESTVMBFfa+mq6HoJnBlrvsPunMZurGF8FCzFSz8fsIlfj7bghPSWch8rmoUvw458D25/fQr0iFdTL7VnAdZmj4WaZa56iLaSfbizVFI08VhDOJJVbmndf+A==;VJqFeTGU7HAV4d8wmTwLSQ=="
 ---
 

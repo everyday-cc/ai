@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/23/that-viral-video-of-
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/23/that-viral-video-of-a-tycoon-driving-at-speeds-over-250-miles-per-hour-on-public-roadways-is-quite-hair-raising-even-for-ai-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/23/that-viral-video-of-a-tycoon-driving-at-speeds-over-250-miles-per-hour-on-public-roadways-is-quite-hair-raising-even-for-ai-self-driving-cars/amp/"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/61ecde12a5ab6bf72ef6699b/0x0.jpg?format=jpg&crop=3199,1798,x25,y415,safe&fit=crop"
@@ -29,6 +30,6 @@ images:
     height: 1798
     isCached: true
 
-secured: "8ZiwNhZhJDywPVXTNT/X+Rv9/eJR+iZXbPVMYvWqpO/5NIgaIh1hzQovtJXoblkHycOn+xZWONBrIXu8HCWrO/A2MMZ0cYSDi4AF/t1XceyQ4V/vwAF/cpT/1CEuLP7db7l4Q9khQoXGsbNXEu8lYFDTKC9B0VOVMrQWgyyYFIZNOjrjJ9Fc6pqvbX0Lq0O7kD46JFGBeN2Ko9VSspjDtMsxhQQ/HxjD/yEGS2ObAtfAO0cCH+vVjNUKKCqT7KyXPr6+Ew1dMuybPkBpc7XDYHCMWL9zZefwhcuReseGAIIyy7P3bB75q+7PwKNKDgr/sRghwk8/fGPTYAoIJ2e+gNQMRx2DHQ9/Nz5yXmoLarg=;ZRpW9j/CWLFx6BBDgjaWtg=="
+secured: "iT8lwruR5T76QXtQXy4gwr0w1Nb2uUngnZfGsHCBOrFcDv4/ChP8oaTGkbmS7GOVZt7PQIjb451l4XFc0v6CZ+DrER3/Rd7HSzPMYWAYrmPFihDACEYaATEN4I9mdluoGh4fkqpPPXXfdFjccPjTwShe9ocFq5TFcK+22OcWLDgJOClrpSluB5JQTQnZBdxXYjLaxBjCt2Rc5Pl1TmbwBA9QaynJEwJry+xkVDQ8QfEfgIz6M/SXkVhRV9WgNIjeKX4FDY5Ackk0HWlllBMIuU0CPF+98AY44vtM9gZw6mSgjvU5mt+senVk1+8yJOCrzpLLDL9+LwJy0FjtKgefaLASy70gMvxiKIaaEg1rV5ao6duBtYXVp9SxpPy9SKWmX8Hul+2J8ri9Tx4bttYfrdv6BcnEuE80MPv/MwnT4MUfqjoxuaVvxuNAqCF/VPzDA5w0hPfCceZFWAer1ekrIObRlDVDwFCvyTChTkKfC+jrxgCHngsCridhCk3Rj4ZbBKEmxRkxuiFfC8mXOerxxQ==;ERTG+us9QdWEYYl52eDaWw=="
 ---
 

@@ -89,20 +89,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "IBM sells its Watson healthcare assets to Francisco Partners"
-    excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson He"
-    publishedDateTime: 2022-01-22T05:41:00Z
-    webUrl: "https://menafn.com/1103576554/IBM-sells-its-Watson-healthcare-assets-to-Francisco-Partners"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?196361"
-        width: 448
-        height: 249
-        isCached: true
   - title: "IBM sells pieces of Watson Health business to private equity firm reprtedly for $1B+"
     excerpt: "IBM's long rumored sale of assets from its artificial intelligence-based Watson Health business became reality Friday morning. Here are the details."
     publishedDateTime: 2022-01-21T17:51:00Z
@@ -203,6 +189,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "IBM sells its Watson healthcare assets to Francisco Partners"
+    excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion."
+    publishedDateTime: 2022-01-22T11:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220122/3898044.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 36
   - title: "IBM Watson Health data and analytics sale to include imaging, population health software"
     excerpt: "IBM has incrementally sold off parts of its Watson Health enterprise, illustrating the complexity of applying budding technology to the highly regulated healthcare industry."
     publishedDateTime: 2022-01-21T20:44:00Z
@@ -232,6 +227,6 @@ related:
         height: 576
         isCached: true
 
-secured: "tgEvtj1x6AuFtDWePfNhTki7wzeSW79Q5sXKFNx7pyiNyXhKLjkxpeu+AKZ+2ctxDDAe9KWT+mR50gGXTQmhgfYWzjKJDOzcq/nBUuiJ3qGLJ6zhRov22D4e2R8dV20ZCqB/mZgIaoE2l23xqZXva7oStXJBVYix0v7mNaIf8BEFrmXcq/ktJTB0d0iAZb3wRAhKek3JmMh21f98aSqcYRpjU7se5p+D/ip3rVSfJ9hswjnOteSS0GeEj+RGO4bvCdZ98coAVO6g5CgoWGhtU9Kd3AmB53kxF7K0juDoCT5viTyTn0P2lyjxXcS/66yNjqgbo2tWsO5k0A9EHGsGqNcxOBCJ4/jeV4bipZyCOJw=;WzE+Qrb+eztvRddd261Cxg=="
+secured: "OBGFPQgIhg58wwIO5xjkTAY4eeBGGU+RGEvxZXZ16lGkycmB24vA4snegwk+21KX5FQsF7TV813zHcBSsE4VKtI4khdtEzYZAlazQ2nAGInqKVmEFAAsd0ze87jcju81n+ejRsmVmWiBfcxuiWfXqlGWq0AzNmJt6TPdFwXcUET+mcNJzudBSdfQ1Byct8JEo1V3Kuav68XmDgJR3IKhZfoP+VqRcDMjxGEciXMYoKDtSWGJ90qZp5kKw9yiE6mJ04uUp7YsGkNRq7bFGAJx5vmUFng2q9U9kftWg3HxlM6N96dQYH73QIx56yICUmsvzQpNSYKepbMcBfzkbY2Y/YJ5U85Qlf55Q9x6EPMhva7shgfuBgcvAzt9JOtCzxicxI5L8riHUk9S17Uwr/puRf7CCHqqaxH2Vkxcy1HHWyqSa39mPb4jBcb5oDwecOTwOdXz2ZbC67GlPPL3//muYPhCTdEvNciilgao2bcjlRpZW1eqnUYdqk++Cx12B4Xi21RbTlP7EwBpYcz77XAWWw==;HoZA4HI3xXncp7zc4N2LkQ=="
 ---
 

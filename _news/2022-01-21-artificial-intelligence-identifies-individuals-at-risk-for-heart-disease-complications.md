@@ -1,29 +1,30 @@
 ---
 category: news
-title: "Artificial Intelligence Identifies Individuals at Risk for Heart Disease Complications"
-excerpt: "For the first time, University of Utah Health scientists have shown that artificial intelligence could lead to better ways to predict the onset and course of cardiovascular disease."
-publishedDateTime: 2022-01-20T20:16:00Z
-originalUrl: "https://healthcare.utah.edu/publicaffairs/news/2022/01/ai-cardio.php"
-webUrl: "https://healthcare.utah.edu/publicaffairs/news/2022/01/ai-cardio.php"
+title: "Artificial intelligence identifies individuals at risk for heart disease complications"
+excerpt: "For the first time, University of Utah Health scientists have shown that artificial intelligence could lead to better ways to predict the onset and course of cardiovascular disease. The researchers, working in conjunction with physicians from Intermountain Primary Children's Hospital,"
+publishedDateTime: 2022-01-21T14:37:00Z
+originalUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-individuals-heart-disease.html"
+webUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-individuals-heart-disease.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-individuals-heart-disease.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-individuals-heart-disease.amp"
 type: article
-quality: 31
-heat: 31
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: UUHC Health Feed
-  domain: utah.edu
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://healthcare.utah.edu/publicaffairs/news/2022/images/1-yandell-tristani.jpg"
-    width: 400
-    height: 280
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-5.jpg"
+    width: 2241
+    height: 1197
     isCached: true
 
-secured: "zJUK9zda379WYq9yre2kz98g9R+ToM+s9csL9URqO+v1HQST3s7bKR81nXHhCNUWGiKgqaqAopsN1aJ5tVYzzG+WLrdu1ftxk7fBxGPNrmIfXrYa8G5RlqHeroP+Zp3E5B5AW+KbKDAEUCOQiTD3JKagHTE8bvp1wgZ8X9qvTCa4TLqaTh/8aLLgd6K0s2jMlELVepbvXZa65BeJPNdSbpvUTqxkzXYX/Y+bqFXJMmutzjB7Gw5BGQiPbmw6rLAGN2ua8P3+Hhu3OtHsk/IDWwu/J2DbaCt64qMYbtoZuoQI+QjQpRGexGn+bc6GEQdDJNrxPvP28W6AlSE6S0yS1IXMYsKsJOVMmsl7QazVvlA=;p73LNZQXaNbLIvgGMCNkcQ=="
+secured: "dGw+tToSI7v0aSmt2BFzfINKAJ/AetBvww7uHdQtZ24+41qEuOufJc/j4BR2O2Km/7xci8Ai8cjp026JYZZ9d/vXH2aNywJyfLIOZG8aIC2f7NmVNNZmgseBqqZoKmpO4JGWn2WKTvF63ucYF0kinMZFLSRBqIXlNCbK3h3uWjnZ0Zr6UnTXfyf8UelW8wx2MhahW0msBMZ9+UBDTEncsoZr5Yd5bfUkBd/4SaX7rRVqOeUBhkKXOJe60M5OOCh4xkgKPjtYTLn+ZtddjjuOG1WHYF8ryIMfdo7H0yLZgHWOXgHzJAf49Qs5eAcfPmYe0sz6Y4k9sktr/4Wpaoqo8fwlHWWzywAuwdP2pUTeuig=;/LSTdtGQqODLqpvX96M/XQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technowize.com/samsung-announces-exynos-2200-with-amd-ra
 cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/samsung-announces-exynos-2200-with-amd-ray-tracing-gpu/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 500
     height: 500
     isCached: true
-
-related:
-  - title: "Samsung finally unveils Exynos 2200: Xclipse GPU based on AMD RDNA 2"
-    excerpt: "Samsung reveals its 'freshly designed mobile processor' in the Exynos 2200: a new AMD RDNA 2-based Samsung Xclipse GPU included."
-    publishedDateTime: 2022-01-19T02:39:00Z
-    webUrl: "https://www.tweaktown.com/news/84076/samsung-finally-unveils-exynos-2200-xclipse-gpu-based-on-amd-rdna-2/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
 secured: "gwZqhkH1Mg9C91RAo+2kL9VpGSY9LLkWKdYu+etJxfaET+WVMhk8/aMijcMr3LeMdlRyJkm+Vr4uZitjr0xJJocDgrtNs0cuUmq/OpLPh2TGkNHzuzfV8KoLYVUOO+JnzXpGiR9yEYjWOkuE22I0SpnNf9OihjiNpLFKgt45h54vuIQLNUam/bTXQSP9jakV0A2HVQgJrbr75CToXlIphWn0LJRBwkmf/sE4QJ8bDJWT8aH0lKUje1MX+ZZ3TgynmNhWrqBn7wyYM35+Atl3E1gx8e1Z0i10aGz0T7eE/6vH3yyBzZctFkVGfdu5QBCc0rn05DsphL8T4/OiMcF+xwjKi2cGQw9YncMvO7tY/qzH8RIGffzKcbuTd5XIhFR/a89RMVlX0iWlbortPl5GGkW4Crkc01p443P4Usjc8oa4TZzdfHjWVrc5n7JoXF5bjOm2Uef9UqfGNCeUVrWZDFVikcQ2nq97m0MDQWOaYR1JCumCR2yRrfzXUxLXLsuaCtQ9LAeVEZCZLvAeeSzfnw==;2yyY4QUAZoR64toz3X/ETQ=="
 ---

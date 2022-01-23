@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Personetics, an AI-powered customer engagement and insights platform for banks, raises $85M"
-    excerpt: "Personetics offers banks a data-driven approach to delivering personalized customer engagement -- it's all part of the \"Netflix effect.\""
-    publishedDateTime: 2022-01-19T11:58:00Z
-    webUrl: "https://venturebeat.com/2022/01/19/personetics-an-ai-powered-customer-engagement-and-insights-platform-for-banks-raises-85m/"
-    ampWebUrl: "https://venturebeat.com/2022/01/19/personetics-an-ai-powered-customer-engagement-and-insights-platform-for-banks-raises-85m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/personetics-an-ai-powered-customer-engagement-and-insights-platform-for-banks-raises-85m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 77
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/feat-1.png?w=1200&strip=all"
-        width: 1200
-        height: 651
-        isCached: true
   - title: "Thoma Bravo invests $85m in Israeli fintech co Personetics"
     excerpt: "Israeli fintech company Personetics today announced it has raised $85m in growth funding from US private equity growth capital firm Thoma Bravo. Personetics raised $75 million in February 2021 from Warburg Pincus and other investors include Viola Ventures,"
     publishedDateTime: 2022-01-19T13:37:00Z

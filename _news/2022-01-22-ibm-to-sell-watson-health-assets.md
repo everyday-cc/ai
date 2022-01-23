@@ -75,20 +75,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "IBM sells its Watson healthcare assets to Francisco Partners"
-    excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson He"
-    publishedDateTime: 2022-01-22T05:41:00Z
-    webUrl: "https://menafn.com/1103576554/IBM-sells-its-Watson-healthcare-assets-to-Francisco-Partners"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?196361"
-        width: 448
-        height: 249
-        isCached: true
   - title: "IBM sells pieces of Watson Health business to private equity firm reprtedly for $1B+"
     excerpt: "IBM's long rumored sale of assets from its artificial intelligence-based Watson Health business became reality Friday morning. Here are the details."
     publishedDateTime: 2022-01-21T17:51:00Z
@@ -189,6 +175,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "IBM sells its Watson healthcare assets to Francisco Partners"
+    excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion."
+    publishedDateTime: 2022-01-22T11:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220122/3898044.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 36
   - title: "Once billed as a revolution in medicine, IBM’s Watson Health is sold off in parts"
     excerpt: "I BM said Friday it will sell the core data assets of its Watson Health division to a San Francisco-based private equity firm, marking the staggering collapse of its ambitious art"
     publishedDateTime: 2022-01-21T16:44:00Z
@@ -232,6 +227,6 @@ related:
         height: 576
         isCached: true
 
-secured: "S8glf9EZ1f3CbRfh5U4zznyRB2g3+EQUZrweewl/EgZgnoFzHE4TtFbZPOq92iHmfhJbwW1rYvdre5pBwhYU2eVoLw0KUbUqegW3g0UWPj0OXeLzil7NV8GUAQ5Qk1mknKoCOxVZK6TZaX3iKf7qkRyzrrbgbnAH2qnNxRT12g2Ta3PqA06uBs9jnK2Xp6Pcbp1e6hB697KFNABBAowlW1NcHF3ge6X3UPtBTwd6fjfzZtcFHCqULNroMFXfggo8l72GBUah3KK4GP3saIk8HRceLzATGbDnZKFyCaEe1R/rGwUGoQo3M5dMzwDt7Up9v/YICsa9YdSL9p9R4PMrTdVCNZeTBawTJRc1Va7zq2Q=;6sThbtt6jMAgcuzuAY+ccA=="
+secured: "xUHV3M1AYOjwODtQZmTl8zpP+hDMB0slMvSdbZxHtzrXgpe1cE0ibA02FEths5OjbYeaSclSUEf6EEgyIW3AjxLFHOCTGBmilioAI4E7bj6CC0riCqqXScmrJFeVjxfnGR2YY68LlTOx7WdRJkWIF2LpEB+iDvFdTyVSTmlaV/ajCZMynvffHGdBjYVzIXoWgIsQu4aIdB8cfKSCCWZ4GjoOfjpQW0O2972gNUtPgJjXhmN9Z2JGrYcU1XCryn9SEyA1/V6B3WNU2I2hf9ojDsagZlXr4PCtHyQRFHlHAIE7DFrl0Szzp92UxlFVrwias+bHML1GBoOCK0Go45cTFD2X0cJec0FT6Y6mLzyFql2tNOlIz+tFbsZ0GkQYXSGYsHsbabUHL3/35xFVWo14EpuahrORBeNm90q+UipcnqQZwVALMGY2GMoFt8CjtzSP2ZKH8QzKaV6heDhs37zVDPy7lgOgK3nblZhN4pnJgEHpEGNBqJFKSEa8Y6+P46oLbjFwchOpZp3Wp1gpn7K6mQ==;Cb3FnxKXYnuHCAXG0v5Tkg=="
 ---
 
