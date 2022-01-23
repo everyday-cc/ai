@@ -1,20 +1,26 @@
 ---
 category: news
 title: "XPENG Integrates Text-to-Speech Service From Microsoft in P7 Smart Sedan"
-excerpt: "These innovations have been integrated into commercially-available speech and language capabilities within Azure Cognitive Services and other Microsoft products, so that companies like XPENG can ..."
-publishedDateTime: 2022-01-05T23:53:00Z
-originalUrl: "https://www.businesswire.com/news/home/20220105005732/en/XPENG-Integrates-Text-to-Speech-Service-From-Microsoft-in-P7-Smart-Sedan/?feedref=JjAwJuNHiystnCoBq_hl-bsjWlVyeNLyq_m2tvaHJJaD1w08bW43U_zsPK9s38B4rCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3miu0ZZ-LtXjCwD3Ec3ldN_zZCGORvG0LE20YOvo49uqw=="
-webUrl: "https://www.businesswire.com/news/home/20220105005732/en/XPENG-Integrates-Text-to-Speech-Service-From-Microsoft-in-P7-Smart-Sedan/?feedref=JjAwJuNHiystnCoBq_hl-bsjWlVyeNLyq_m2tvaHJJaD1w08bW43U_zsPK9s38B4rCOi9QzgjCezTS3Nw_X6kJUrpSBm-Hav1w-UkdSlG3miu0ZZ-LtXjCwD3Ec3ldN_zZCGORvG0LE20YOvo49uqw=="
+excerpt: "XPENG has upgraded its auto-grade voice assistant using Microsoft custom neural voice capability, based on Neural Text-to-Speech (TTS), a feature of Azure AI. This press release features multimedia. View the full release here:  XPENG P7 smart cockpit (Photo: Business Wire) XPENG installed the new voice assistant functionality via a major over-the-air (OTA) upgrade for its P7 smart sedan customers in China."
+publishedDateTime: 2022-01-05T16:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-china-guangzhou-ea429fb4476642e7813d438aa9b2b301"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-china-guangzhou-ea429fb4476642e7813d438aa9b2b301"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "pXYY1khKwHizFIA8TlTH52j8/QyIm9SKP7AEtvaILdpJNUJb7oDXPC0KP+USnYrU9TLDeCa+jXZ5M+5WM1LYcoPUaOYxgNkMzTEeAJBWPgUCtIqUSbkY8tQWIRcfGkqRo7WD4SeE5QPHgRZa/Z1+slkFLwCZDWueswZYXetN/xbjyeh7DRxYwGiTIxEetrPjtr7CUQ9kkG3jIxtY6gSByHIiLB/0BKR5jwQVVlP2igIMk2EdRLLxSVtr9bZ9IbNJxq3CDkLRc/QltgagbOVBk9Fwb+z2N7nc7/gQ9Kx5lo7u4ODPcg1cvqRYexFU876ckNlb4KYsr5+ytrxtxDPHGYIz2Xt3zPIsb2mR+va2w9Y=;MoylTOMWcmF9m+8MO9Uw3A=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "xpjsgNA8KCMRwxptAOyMMXDEiuxavSNiz81zTBwFNooZUcVooVWjg0lSziP4vlIT762rwkTu9/TzIFpJduGHYd65NasGGrV6Koutcef3ZvkRovZL1th62egHGmuTvmNSHuCdZKuLXbJnttyf7yAZ4Cii1lADVC/x0zY/eak0gkR6zAQjchaXK1mV92Hj93AKE9tBf40ESVUl/HW6h0jCDlZj9y4AN3JDvoMF7wD7S4SPqsPcMBzlt4Fiqw27ke4sf6u5cW4hXI92sYGmaBPi74kLWGgSnM5eWvTIFnVLG52NVht26nZ+bi35e7Meoiay4J4C6hSYYFQoZt+zwmRUH0Tzngi0ASuKiMXKp8JHQ2Y=;uaAx8gJ178fR5bq+UMgZJA=="
 ---
 

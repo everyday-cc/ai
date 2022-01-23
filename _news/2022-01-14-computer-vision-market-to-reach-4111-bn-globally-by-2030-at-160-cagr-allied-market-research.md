@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research"
-excerpt: "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product"
-publishedDateTime: 2022-01-13T23:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301460566.html"
-webUrl: "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301460566.html"
+excerpt: "Faster processing, better accuracy, and economic advantage of computer vision system drive the growth of the global computer vision market. Faster processing, better accuracy, and economic ..."
+publishedDateTime: 2022-01-14T00:38:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-850701489.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-850701489.html"
 type: article
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - Computer Vision
@@ -21,6 +21,6 @@ images:
     height: 1046
     isCached: true
 
-secured: "/IbtaVFY2uzDu48KcH84zzgtXFyOo+GdIHPuBE061WV5QiZURwpcNlj24HFAm76yoF5UT7pq8nCTNBHNGmoL2RnZTh6yxjT+yY9ZOzZSe42QpHdmjLE2ASMXpPClXDsWz/WSqUvIDRuU0VcIk+8336jgghuHSDmPN0Q+LcdmZe2mCI3jOAkFlYvFjQZBHXYmNNo9N35o3PnL2cxgYtU7KnQzoybO2gO5GSHGPJ1SNvBtBNKM8jablWn6qa9fz8QTAmXlfireWljPD7zpVNiwRf6RTjdreUKkAr1snFDBhYIkwmZu1jEig3iXJFU31CSXpQsxYtGMq/qcUsuG4f8UIkEGoxjot5zJV/uhA/rgXvY=;BJPN3KPfgTN3AkSqC6b8tw=="
+secured: "A+GWByB7Uokhb3x8lg1RTbP1nxldkpQlh7D8RR7GNGoBf089FQywHPCKHdk8zVX1ySm4p2gSmz7+U8BBu97dEs8lH6ZzPPdR6wV1IzEhUeZfqPeAcx5Xk+nZebLUBTGim9v3ZqvuHfx+smaArM8EKu829TFl/LgS8rnzBOT2LlGru+pK0Xz36AKzBxyCxurjRmEbit3bKAfOd5xxQ7gEFg3BrLtkONbLnAHdIhSuXm+xoxJvOJmWy7nEaNObd2VJyFR79IB/ZmY7Q9a1nd5noeVKUNcHG4Rbdvz8+9DQDASKMIKifAwY5g/CB/fpW/20uqaEnHYL2t+Z+gyvHLRyAgzZccw/91OH6ste/awtLqY=;VlF+Jgh0zg2za7FLSz7KHg=="
 ---
 

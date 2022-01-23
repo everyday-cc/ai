@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-22-elon-musks-brain-chip-startup-prepares-for-first-ever-human-trials.md",
+      "title": "Elon Musk’s brain chip startup prepares for first ever human trials",
+      "excerpt": "Elon Musk appears close to beginning the first ever human trials of his brain-computer interface technology. A new job posting for a ‘Clinical Trial Director’ at Neuralink reveals that the neurotech startup is preparing to take its brain chip research to the next stage.",
+      "sourceUrl": null,
+      "webUrl": "https://boards.greenhouse.io/neuralink/jobs/4723041003",
+      "originalUrl": "https://www.independent.co.uk/tech/elon-musk-neuralink-human-trials-b1998521.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/497/300/original/Neuralink_logo.jpg?1632771349",
+          "width": 820,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-22T00:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-cambrian-ai-2022-predictions-expect-more-than-just-new-chips.md",
       "title": "Cambrian-AI 2022 Predictions: Expect More Than Just New Chips",
       "excerpt": "The new year will see new chips, 2021 was another banner year for AI hardware platform innovations, as we predicted. Ok, not ALL of our prognostications came to pass, notably the stall (ok, death) of the NVIDIA/Arm deal.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.electronicsforu.com/press-releases/brainchip-achieves-full-commercialisation-of-akd1000-aiot-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1343,49 +1386,6 @@
       "provider": {
         "name": "Sharecast",
         "domain": "sharecast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-car-makers-lock-in-long-term-deals-with-chip-giants-for-future-autonomous-vehicles.md",
-      "title": "Car makers lock in long-term deals with chip giants for future autonomous vehicles",
-      "excerpt": "The battle between chip giants in the autonomous vehicle space isn't a two-horse race like it was for desktop PCs. Car makers have a somewhat wider choice of silicon vendors. At CES, Intel, Qualcomm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/01/06/self_driving_car_makers_chips/",
-      "originalUrl": "https://www.theregister.com/2022/01/06/self_driving_car_makers_chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/12/07/car_shutterstock.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/06/self_driving_car_makers_chips/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/06/self_driving_car_makers_chips/",
-      "publishedDateTime": "2022-01-06T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null

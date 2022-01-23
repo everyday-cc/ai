@@ -2,6 +2,134 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-01-13-rta-forum-reviews-traffic-rules-of-driverless-flying-taxis-in-dubai.md",
+      "title": "RTA forum reviews traffic rules of driverless flying taxis in Dubai",
+      "excerpt": "DUBAI- Dubai’s Roads and Transport Authority (RTA) has recently held the first legal forum to review the rules and regulations governing operations for passenger transport autonomous air vehicles. This preliminary step aims to chart out suitable structures and develop rules and regulations required for the operation of this ultra-advanced mode of future transportation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/uae/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/",
+      "originalUrl": "https://www.zawya.com/uae/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/170926082913CCGH.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/WAM20220112142948653/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/WAM20220112142948653/",
+      "publishedDateTime": "2022-01-12T22:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-ai-comes-alive-in-industrial-automation.md",
+      "title": "AI Comes Alive in Industrial Automation",
+      "excerpt": "Artificial intelligence (AI ... With RL, you have deep learning and within the deep neural network of an ML learning network,” said Nicholson. “You can apply the algorithms to robots. As the robots learn their tasks, they get a numerical reward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/ai-comes-alive-industrial-automation",
+      "originalUrl": "https://www.designnews.com/automation/ai-comes-alive-industrial-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/2A8YM6D.jpg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-just-in-pentagon-research-priorities-to-include-microelectronics-next-g.md",
+      "title": "JUST IN: Pentagon Research Priorities to Include Microelectronics, 'Next-G'",
+      "excerpt": "The Pentagon's research and engineering office's list of 14 technology priorities will be revealed as early as Jan. 17, Undersecretary of Defense for Research and Engineering Heidi Shyu told reporters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationaldefensemagazine.org/articles/2022/1/13/pentagon-re-chief-to-prioritize-microelectronics-ai",
+      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2022/1/13/pentagon-re-chief-to-prioritize-microelectronics-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2022/shyu_jh.ashx?h=500&w=878&la=en&hash=EAA527C73047AE120D324B6AA277E215",
+          "width": 878,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Defense Magazine",
+        "domain": "nationaldefensemagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantitative-analysis-forecast-up-to-2030.md",
       "title": "Artificial Intelligence in Military Market: Revenue Growth, Key Players, Qualitative Analysis, Quantitative Analysis, Forecast up to 2030",
       "excerpt": "The artificial intelligence in military market is projected to grow from USD 6.26 billion in 2017 to USD 18.82 billion by 2025, at a CAGR of 14.75% during the forecast period. \"Increasing investments to develop AI integrated systems and rising adoption of cloud-based applications are key factors driving the growth of the artificial intelligence in military market.",
@@ -990,153 +1118,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-snowflake-stock-looks-like-a-buy-at-300.md",
-      "title": "Snowflake Stock Looks Like A Buy At $300",
-      "excerpt": "Cloud-based data warehousing specialist Snowflake stock (NYSE: SNOW) stock has declined by almost 15% over the last month, trading at about $300 per share currently. The decline comes on the back of a broader sell-off in software names and high-multiple",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b4a0f0e0601e4e30a76c44%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/amp/",
-      "publishedDateTime": "2022-01-12T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants.md",
-      "title": "Daring more raw AI-ness, a critique of personified voice assistants",
-      "excerpt": "Personality and gender in voice assistants is not something that emerges due to the nature of “AI systems”. Rather, it is",
-      "sourceUrl": null,
-      "webUrl": "https://uxdesign.cc/daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants-a700ec8cc7fe",
-      "originalUrl": "https://uxdesign.cc/daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants-a700ec8cc7fe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*aL6JXr0isbYlFpddX1l0ZA.png",
-          "width": 1200,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "uxdesign.cc",
-        "domain": "uxdesign.cc",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-five-revenue-models-that-can-drive-growth-for-ai-startups.md",
-      "title": "Five Revenue Models That Can Drive Growth For AI Startups",
-      "excerpt": "However, true AI startups — ones whose products are built on proprietary, computational, deep-tech AI — are just now emerging in larger numbers, finding markets for their technology among a wide range of industries eager to automate their businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-revenue-models-that-can-drive-growth-for-ai-startups/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-revenue-models-that-can-drive-growth-for-ai-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dd841f3f24fc2994034ea8%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-revenue-models-that-can-drive-growth-for-ai-startups/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-revenue-models-that-can-drive-growth-for-ai-startups/amp/",
-      "publishedDateTime": "2022-01-12T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

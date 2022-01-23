@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Self-driving sensor maker Luminar shares rally on Mercedes-Benz tie-up"
-excerpt: "The Mercedes-Benz logo is pictured at the 2019 Frankfurt Motor Show (IAA) in Frankfurt, Germany, September 10, 2019. REUTERS/Ralph Orlowski/File Photo"
+excerpt: "Luxury carmaker Mercedes-Benz will partner with self-driving sensor maker Luminar Technologies Inc to enable fully automated driving on highways for its next-generation vehicles, Luminar's founder said."
 publishedDateTime: 2022-01-20T19:07:00Z
-originalUrl: "https://www.reuters.com/news/picture/self-driving-sensor-maker-luminar-shares-idUSKBN2JU1KY"
-webUrl: "https://www.reuters.com/news/picture/self-driving-sensor-maker-luminar-shares-idUSKBN2JU1KY"
+originalUrl: "https://www.reuters.com/business/autos-transportation/self-driving-sensor-maker-luminar-shares-rally-mercedes-benz-tie-up-2022-01-20/"
+webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-sensor-maker-luminar-shares-rally-mercedes-benz-tie-up-2022-01-20/"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 54
+heat: 94
+published: true
 
 provider:
   name: Reuters
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/1ADIm3zEYd9gwwsrRSyl6Rs2q7o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UQO6R4AMZZJV5HOVQS7YH5BFSU.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Luminar stock surges 23% on Mercedes self-driving deal"
@@ -76,6 +82,6 @@ related:
       domain: barrons.com
     quality: 21
 
-secured: "kk4t6zyCNVksTdJ71jHQQaRXzmb1fqbbP5w5/1DNxauh+r20tUxz2TirBg88c9BLRsuk/dMcyqsO5ccbfHp+cJbLMiu9V1HDOE2lXJfGJ6Yuh41T9F7lJW94PcdKFo+F5qm3GrnL5Bgt0+D1vXxDERYPOrfedWDyknLA9qkfsCmJEx+lxzat8n6TRm79pP5DIxYlO6I61JgmWS6p6PPT4wp9w47GbSGkZvOryW09cm7NLTn1NiH24K1RH2ysHnvM98qCWrRQPyUAHTs1WijYkln9fabL+CAbrqbOo/iF1YjLi42cYI+iaUUW+Km2X7k4He1ndjGcOkPBX9hAG8RiNJcqyHerfht5RYhbyuL166qxa2UR5XHEwM2yY1MLgln2Pl8mlgfUsbZGc0gYn44HlCgz0zfcCkQhjAUI/qxGp3zzVNL0XjoeABP90Wwc5onePVqtYbQHyA6vmYtYj5u5vNzTWt+VV5H289T50jApJFO9EiROslzeU0V/WPNH9uvQsnvXDqxzMGZnYW+pVeIx7w==;OdE3UZYj5SFPqFTDxwpbRQ=="
+secured: "YpjSY/iuidkXKVAJUfbNJbkJP2aLXMz9Wfb5z3GyMWK/1ZWco4pjeKL28w0hq7X4DUn6B2CV2Qz5ACZpLyPgMMZqd2vciEGHxz/cFqRgVeAPYg8yfEa+d5eQOJVaGvbVPqwA0IKXXgS2HGo7VtR9zmpyQhMi7aLreuCaVEdcKV3RRCulu5UMGvUihWJHSQgkzckqgQKEYpNbGZbVaryYTeaSpxtalLAul8qjiyEqDqZDOmnpw6l71bgR9XbWhqtx1FJVew04S7t/36O7kv5slzktVFTrRPcvpfRbl5cyw7KRGCbIoDuj/cQKj2jaDknxSZBe8JIc2ENAGl/NVjkwYi8Psyggqx/dbYKe0zufjng=;yGKl1jaAXQS97RkbAEPVVg=="
 ---
 

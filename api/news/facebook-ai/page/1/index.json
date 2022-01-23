@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-24-ethics-and-ownership-of-ai-powered-identities.md",
+      "title": "Ethics and ownership of AI-powered identities",
+      "excerpt": "People will soon be asked to decide how their voices, images, and AI-powered identities can be used both today and long after they're gone.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/",
+      "originalUrl": "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-478952698.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/amp/",
+      "publishedDateTime": "2022-01-23T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-meta-researchers-build-an-ai-that-learns-equally-well-from-visual-written-or-spoken-materials.md",
       "title": "Meta researchers build an AI that learns equally well from visual, written or spoken materials",
       "excerpt": "Advances in the AI realm are constantly coming out, but they tend to be limited to a single domain: For instance, a cool new method for producing synthetic speech isn’t also a way to recognize expressions on human faces.",
@@ -106,6 +159,40 @@
         "Facebook AI",
         "Natural Language Processing",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "They expect its growth to decelerate in 2022, but it remains one of the cheapest FAANG stocks at just 26 times forward earnings. Ambarella (NASDAQ: AMBA) sells image processing system-on-chips (SoCs),",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0?amp",
+      "publishedDateTime": "2022-01-18T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {

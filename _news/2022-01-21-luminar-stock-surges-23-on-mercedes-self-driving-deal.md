@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/01/20/luminar-stock-surges-23-on-mercedes-se
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/01/20/luminar-stock-surges-23-on-mercedes-self-driving-deal/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -28,14 +28,19 @@ images:
 
 related:
   - title: "Self-driving sensor maker Luminar shares rally on Mercedes-Benz tie-up"
-    excerpt: "The Mercedes-Benz logo is pictured at the 2019 Frankfurt Motor Show (IAA) in Frankfurt, Germany, September 10, 2019. REUTERS/Ralph Orlowski/File Photo"
+    excerpt: "Luxury carmaker Mercedes-Benz will partner with self-driving sensor maker Luminar Technologies Inc to enable fully automated driving on highways for its next-generation vehicles, Luminar's founder said."
     publishedDateTime: 2022-01-20T19:07:00Z
-    webUrl: "https://www.reuters.com/news/picture/self-driving-sensor-maker-luminar-shares-idUSKBN2JU1KY"
+    webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-sensor-maker-luminar-shares-rally-mercedes-benz-tie-up-2022-01-20/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/1ADIm3zEYd9gwwsrRSyl6Rs2q7o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UQO6R4AMZZJV5HOVQS7YH5BFSU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Mercedes self-driving cars will use Luminar lidar sensors"
     excerpt: "Mercedes-Benz said on Thursday that it selected America's Luminar for the supply of lidar systems to be used in its electronic driver-assist systems and eventual full self-driving systems. Mercedes has also acquired a small stake in Orlando,"
     publishedDateTime: 2022-01-21T13:00:00Z

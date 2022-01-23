@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investme
 ampWebUrl: "https://www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712"
 type: article
-quality: 89
-heat: 229
+quality: 189
+heat: 339
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 506
         height: 337
         isCached: true
+  - title: "IBM has sold Watson Health. It was a long time coming."
+    excerpt: "IBM announced today that it has sold its Watson Health data and analytics assets to private equity firm Francisco Partners. The highly-anticipated sell-off includes data sets and analytics products such as Health Insights,"
+    publishedDateTime: 2022-01-21T17:05:00Z
+    webUrl: "https://www.protocol.com/bulletins/ibm-watson-health-sale?share_id=6878351"
+    ampWebUrl: "https://www.protocol.com/amp/ibm-watson-health-sale-2656446582"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ibm-watson-health-sale-2656446582"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 59
+    images:
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-ibm-software-svp-tom-rosamilia-called-the-sale-a-move-to-align-the-company-with-its-hybrid-cloud-and-ai-strategy-less-than-p-greater-than.jpg?id=27028346"
+        width: 2832
+        height: 1593
+        isCached: true
   - title: "IBM to sell Watson Health assets"
     excerpt: "IBM announced today that it will sell healthcare data and analytics assets from its Watson Health business to Francisco Partners."
     publishedDateTime: 2022-01-21T16:17:00Z
@@ -78,6 +94,20 @@ related:
       - url: "https://healthitanalytics.com/images/sized/GettyImages-1164501571-e4b00c1efb9503a805928b101c78b499.jpg"
         width: 480
         height: 278
+        isCached: true
+  - title: "IBM sells its Watson healthcare assets to Francisco Partners"
+    excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson He"
+    publishedDateTime: 2022-01-22T05:41:00Z
+    webUrl: "https://menafn.com/1103576554/IBM-sells-its-Watson-healthcare-assets-to-Francisco-Partners"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?155798"
+        width: 288
+        height: 249
         isCached: true
   - title: "IBM sells pieces of Watson Health business to private equity firm reprtedly for $1B+"
     excerpt: "IBM's long rumored sale of assets from its artificial intelligence-based Watson Health business became reality Friday morning. Here are the details."
@@ -179,15 +209,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "IBM sells its Watson healthcare assets to Francisco Partners"
-    excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion."
-    publishedDateTime: 2022-01-22T11:26:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220122/3898044.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 36
   - title: "Once billed as a revolution in medicine, IBM’s Watson Health is sold off in parts"
     excerpt: "I BM said Friday it will sell the core data assets of its Watson Health division to a San Francisco-based private equity firm, marking the staggering collapse of its ambitious art"
     publishedDateTime: 2022-01-21T16:44:00Z
@@ -231,6 +252,6 @@ related:
         height: 576
         isCached: true
 
-secured: "gCOsHYIs85/auwBnZonCfVC36+l6A+UNDjX/WA2+qBeX5D+yLe4NSg1CBeDdRUGDzjMhNsZNSuYlioH34Q67maZVCvZNV6nlvducGpEq8+OAQHq4t8ZiNwVt0F3V00ilep2YgTXMKlbH1m9pzFhqS5Z+yXU78RMvPno1JH1PBi6JrNIsIz5KKWxY/hhC0E9EpRSCT6s9rrAGOPysTiBZFHtMkrjiUQIz9ju/+I9sqerrQoHcnJHR3SS6gCYxqkVRQy7FFJYdx4oKarCTGSxwQ8RAlw80kBXATKVRVNucUnDc5sykhMLvCYn9DRhF2X5qC7iXxxfJIgyEXZ3NE7p53/9cH+08a4VCmVrcF5W4xr8Z7Kvy1xwkmdJctFcjY219us3eIgM3bOeLdCDOkTEYeTdAFBj22XUGXyqa+e9XxkT5D5KygcNJKRAoMyRdg7LJdLYsKRJ8O4Qj2pEf+I01Zr5+cvu4wj+wbNXPm1RDynEerNGUHSfehKhQbfiEkdIjhGYCABwC3FmvrZz75pVCDA==;ECExLQS3EHvN9A17CZlYrw=="
+secured: "EbOTpppTQDpTJqf3dRlAZYES3PzGL0kq87U5fHuURcG/krn6yASwD7j9k/uP/oW7ffPOEwGlEtSl805wTR1qkPUS8LguNxTnWwV1mba4s5e6tuxHlk4i/DUMbPML2hlQP2v6wut6U+Lq3nIPKo4jNLef6l++fi+0WvIdrWT7w1e9O7gAF0zhCIJtu3ZLYtx7UqJXXMFSIp42H/OGBYJxwVfLbBJCX180WDPKdHob43/l1FDRQxK2fJo8Q6wwLe0p5MEVXirv1FsdIF5LD1GhrzkSHCdZuGZ1x8E6KKXS+ty6+l2MvzbrL0JovBuCKWlCKhmbJZt1nUW2STNXrzygS8qViCLuaZURpxbwH3vE36nkj26EOQGCpgWoAiG4Sozrio36vinIBpj3AYs1+lUYcSumSbNH5ypienHVsD6Bkdp8i7mPJG6xEcLCiCa+2pkEHi+idaMb55qCZTPpMHQwM0YZpkg3+VDSMNraEo4P0GPj+NQvYLWQq8YCET6SCjBkNtz8RjGwEK0YJZMnBZNgUY2iKGzoY8VyoB0feJVhV/M=;2pozc9zSWVE5yaKMfcNn1w=="
 ---
 

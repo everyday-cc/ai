@@ -2,6 +2,154 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-19-customization-basics-tensors-and-operations.md",
+      "title": "Customization basics: tensors and operations",
+      "excerpt": "To get started, import the tensorflow module. As of TensorFlow 2, eager execution is turned on by default. This enables a more interactive frontend to TensorFlow, the details of which we will discuss much later. import numpy as np ndarray = np.ones([3, 3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=da",
+      "originalUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=da",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=da",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-robots-needed-to-repair-satellites-in-orbit.md",
+      "title": "Robots needed to repair satellites in orbit",
+      "excerpt": "Listen to this article The US Space Force (USSF) became an official branch of the US military on December 20, 2019. In the two years since its launch, the USSF has begun to recruit new service members and plan how to fulfill its mission to protect US assets in space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/robots-needed-to-repair-satellites-in-orbit/",
+      "originalUrl": "https://www.therobotreport.com/robots-needed-to-repair-satellites-in-orbit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/01/ussf-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T15:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor.md",
+      "title": "Detect NLP data drift using custom Amazon SageMaker Model Monitor",
+      "excerpt": "Natural language understanding is applied in a wide range of use cases, from chatbots and virtual assistants, to machine translation and text summarization. To ensure that these applications are running at an expected level of performance, it’s important that data in the training and production environments",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/14/ML-5335-image001-fixed-1260x560.png",
+          "width": 1260,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T14:19:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-cashpro-forecasting-bank-of-americas-new-ai-and-machine-learning-tool.md",
       "title": "CashPro Forecasting: Bank of America's new AI and machine learning tool",
       "excerpt": "Looking for a way to make informed financial decisions for your business? Bank of America might be able to help.",
@@ -799,58 +947,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-18-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "and driverless cars. Ambarella is a rising star in the computer vision market. Qualcomm offers investors a balanced way to profit from the growth of the 5G and AI markets. Artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/01/18/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2022/01/18/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/661360/gettyimages-1321058095.jpg",
-          "width": 2644,
-          "height": 1133,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-18-a-new-use-for-ai-summarizing-scientific-research-for-seven-year-olds.md",
       "title": "A new use for AI: summarizing scientific research for seven-year-olds",
       "excerpt": "Academic writing often has a reputation for being hard to follow, but what if you could use machine learning to summarize arguments in scientific papers so that even a seven-year-old could understand them?",
@@ -1100,101 +1196,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles.md",
-      "title": "Wayve raises $200M Series B led by Eclipse for its AI for autonomous delivery vehicles",
-      "excerpt": "British autonomous vehicle startup Wayve has raised a $200 million Series B funding round from investors to scale its technology and expand its partnerships with commercial fleets. Wayve is aiming to be a major player in the arena of Robo-deliveries and logistics.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/",
-      "originalUrl": "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Alex-Kendall-CEO-2.jpg?w=831",
-          "width": 831,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/18/wayve-raises-200m-series-b-led-by-eclipse-for-its-ai-for-autonomous-delivery-vehicles/amp/",
-      "publishedDateTime": "2022-01-18T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-artificial-intelligence-searches-for-the-human-touch.md",
-      "title": "Artificial intelligence searches for the human touch",
-      "excerpt": "There is a dawning recognition that, in tech such as artificial intelligence, “data” equals human beings. AI-driven algorithms are increasingly impinging upon our everyday lives. They assist in making decisions across a spectrum that ranges from advertising products to diagnosing medical conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/e3f36d82-89b8-41df-ae11-0653ce7e7944",
-      "originalUrl": "https://www.ft.com/content/e3f36d82-89b8-41df-ae11-0653ce7e7944",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F93071c65-3903-4610-b8dc-6b0141fe8216.jpg?source=amp&fit=scale-down&width=2400",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/e3f36d82-89b8-41df-ae11-0653ce7e7944",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e3f36d82-89b8-41df-ae11-0653ce7e7944",
-      "publishedDateTime": "2022-01-18T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

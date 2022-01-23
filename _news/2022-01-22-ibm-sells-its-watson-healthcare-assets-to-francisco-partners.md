@@ -1,23 +1,29 @@
 ---
 category: news
 title: "IBM sells its Watson healthcare assets to Francisco Partners"
-excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion."
-publishedDateTime: 2022-01-22T11:26:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20220122/3898044.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20220122/3898044.html"
+excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson He"
+publishedDateTime: 2022-01-22T05:41:00Z
+originalUrl: "https://menafn.com/1103576554/IBM-sells-its-Watson-healthcare-assets-to-Francisco-Partners"
+webUrl: "https://menafn.com/1103576554/IBM-sells-its-Watson-healthcare-assets-to-Francisco-Partners"
 type: article
-quality: 36
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - IBM AI
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?155798"
+    width: 288
+    height: 249
+    isCached: true
 
 related:
   - title: "IBM Sells Watson Health Assets to Investment Firm"
@@ -30,7 +36,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 89
+    quality: 189
     images:
       - url: "https://images.wsj.net/im-471681/social"
         width: 1280
@@ -51,6 +57,22 @@ related:
       - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/G0unhIVJfId_xgnW2c2onCtLAxM=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/FJUOSATOEEI6NLVIJUCIZMB4QI.jpg"
         width: 506
         height: 337
+        isCached: true
+  - title: "IBM has sold Watson Health. It was a long time coming."
+    excerpt: "IBM announced today that it has sold its Watson Health data and analytics assets to private equity firm Francisco Partners. The highly-anticipated sell-off includes data sets and analytics products such as Health Insights,"
+    publishedDateTime: 2022-01-21T17:05:00Z
+    webUrl: "https://www.protocol.com/bulletins/ibm-watson-health-sale?share_id=6878351"
+    ampWebUrl: "https://www.protocol.com/amp/ibm-watson-health-sale-2656446582"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ibm-watson-health-sale-2656446582"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 59
+    images:
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-ibm-software-svp-tom-rosamilia-called-the-sale-a-move-to-align-the-company-with-its-hybrid-cloud-and-ai-strategy-less-than-p-greater-than.jpg?id=27028346"
+        width: 2832
+        height: 1593
         isCached: true
   - title: "IBM to sell Watson Health assets"
     excerpt: "IBM announced today that it will sell healthcare data and analytics assets from its Watson Health business to Francisco Partners."
@@ -227,6 +249,6 @@ related:
         height: 576
         isCached: true
 
-secured: "hXCjTBE9a/G8sHoLH/F89gNfiNBWodrBnH8LloYAisiScy9LAJvlDIII0SKfVYTv3irOaXXnkMzKthhxUJEZAIGCo0T6DlUqS1ZoDKWjfoDhEy51+iGNKM+PGiEBFKnUDx4VOMS7T00nTnDDNM1XVM3WIaIHuWA0wxLn+79xZxFGgxufZ9RqIvIv4su6CZUhHb3igGZaLv2NWffwPxzvuw70QhckHW7Dv+qcCKikOm6wj88lyBYnjn7B13nb/ZfzMCLR/KVPuyxkIz+IlqPPWAPf2ELqzQSblrCiW9IMuYD9ewSEWjrGrfEWstRCjfbxIOohEdZlwIZDsayODwR+TEpnTJSLH6WbNlq3vOBKtlc=;92eFUuXg9FaW0CgxJLaJQQ=="
+secured: "ZELJ2nRZrPAEIMpCzRFU2C9tV14j1XEmqhWEMlUX25QetTO5vvkD3iGeumHDNXvWUF7/fRUYzJzRZYZnhLg3iWMk9Bv6gsDpjCJhTZXJ1U4WAEGz+1AZ1oGTtXWO82+xloOQbyonVHottiJHLtJVyEoKQsVrYiQxURXNUFN/jzCeul8XsdCL272sKXrzLyRxG+VbMd/0k6k1JESZw+Na1fUB9rGaL9Ja3rBGzCBPxufKqQUIogkVwySoPdE8RXaCSVRSpDzcY0ywPX1i149RFYX6/xC7rL0Tj2HAHAL5guXcigQd5cWxOgh5u6xRG/zOkRnhayoH00uqL9nbdl+ouuny2kWX6Bg7WLDJv8csvPw=;uAfk/esfcfFxPFtMXxAX1Q=="
 ---
 

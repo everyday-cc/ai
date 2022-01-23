@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-i
 ampWebUrl: "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/amp/"
 type: article
-quality: 104
-heat: 114
+quality: 106
+heat: 116
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-478952698.jpg?w=1200&strip=all"
@@ -48,6 +49,6 @@ related:
         height: 651
         isCached: true
 
-secured: "vDEcymQrmN09qr23IGLjWVuk3DowKMnDx4Aq7Otyq3s92jwgVrMs2Xv94L6+1vyNiKcK6IWZAAAiAKklhODbG5Z8RXXmd6fCA/EugvB2eP3wC+sVg/mKTYrPhrb4xTya6ia6gBp63+Bl10CAl0hblY+FBa2iuqLH8EXvtup1oaBwHqDIaFiYcX/S59fC/DUFr94K44/kAGMyJtr/15h223K0OiXePhSF2uivalFwCWBBLBTy64grIZGQ8tWAqDvMLt9AkhKrtJU7wUZ3h+KLZWJpD8Vmk9QwyO/Lnmv59ac4xJShWC8RglXteqJ1H4y7Xv9VRkjcj9B8QGML6ysc8TmPpLT9D/zD2wHrkySgZNw=;64N8TsGNuSd3fWvQBg5ouA=="
+secured: "wwNr3l02e8nfgH5uB/myTkc1VaZTbULDiKCJDr8ZrNnbdQdykN4MHEmdwmSnLX91ZeTA04/hH536hvonIscJonzorXSYoD+GRJ5xjVDuBEYhh5mqhCUGMQe3pYRScQS00zB1Jnd9mIYCSXfmxmsOwzsA4gRybVmINU7c500yAnbMu4eXJSMc0eQaZLNze8KNfc+KNVoOHNpyL/zlmvJEnZfE4VFpg1oIleMYCi2q7DiDurFGnS2fmDn+vV14w3fRb1EQdLVbOmyEpD0ag0ljrD8ERmCYsSLDyIvqBtjQO0sywcfqFe2111/vmxj9gZ//Lje9/qb8B0I79wwmt6eJPS2DjkUP1SdcGzbOcKLu5EZdVroG2iA0yHWs3RWNt9sRTsiXS6VmZyw4v/ViwoJrgjqCfiiKPA7bnHkah1jLa4ewrOuy8ejcxxRiqUyG3NACsvywK2TPWPCLMlQ8pyEubg8qHCve+QHvFiTFE/23sKnAle1fCX8vHQIqDZ415G+ulPR4ZRms3tRTLKcDeUIWaw==;bOxjDHJK5kkcI0KxnLGuzw=="
 ---
 
