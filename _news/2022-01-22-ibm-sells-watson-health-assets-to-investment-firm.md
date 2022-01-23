@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-i
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712"
 type: article
 quality: 189
-heat: 339
+heat: 349
 published: true
 
 provider:
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "IBM sells some Watson Health assets for more than $1 billion"
-    excerpt: "IBM launched Cambridge-based Watson Health in 2015 with the aim of using its core artificial intelligence platform to help health care providers analyze troves of data and ultimately revolutionize cancer treatment."
-    publishedDateTime: 2022-01-21T14:52:00Z
-    webUrl: "https://www.bostonglobe.com/2022/01/21/business/ibm-sells-some-watson-health-assets-more-than-1-billion/"
-    ampWebUrl: "https://www.bostonglobe.com/2022/01/21/business/ibm-sells-some-watson-health-assets-more-than-1-billion/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2022/01/21/business/ibm-sells-some-watson-health-assets-more-than-1-billion/?outputType=amp"
+  - title: "IBM is selling off its Watson Health assets"
+    excerpt: "Watson Health was borne out of IBM's larger Watson effort, which aims to use artificial intelligence to solve a range of problems for businesses and consumers — from creating a computer that can ..."
+    publishedDateTime: 2022-01-22T05:31:00Z
+    webUrl: "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 59
+      name: CNN
+      domain: cnn.com
+    quality: 89
     images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/G0unhIVJfId_xgnW2c2onCtLAxM=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/FJUOSATOEEI6NLVIJUCIZMB4QI.jpg"
-        width: 506
-        height: 337
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220121123649-ibm-office-californie-file-0120-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "IBM has sold Watson Health. It was a long time coming."
     excerpt: "IBM announced today that it has sold its Watson Health data and analytics assets to private equity firm Francisco Partners. The highly-anticipated sell-off includes data sets and analytics products such as Health Insights,"
@@ -138,6 +138,20 @@ related:
       - url: "https://www.adexchanger.com/wp-content/uploads/2022/01/ai-machine-learning-bias-mitigation-scaled.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "IBM Sells Some Watson Health Assets for More Than $1 Billion"
+    excerpt: "(Bloomberg) --International Business Machines Corp. agreed to sell part of its IBM Watson Health business to private equity firm Francisco Partners, scaling back the technology company’s once-lofty ambitions in health care. The value of the assets ..."
+    publishedDateTime: 2022-01-21T14:36:00Z
+    webUrl: "https://www.bloombergquint.com/business/ibm-is-said-to-near-sale-of-watson-health-to-francisco-partners"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
   - title: "IBM sells Watson Health assets to investment firm Francisco Partners"
     excerpt: "IBM has reached a deal to sell the healthcare data and analytics assets from its Watson Health business to investment firm Francisco Partners, the companies announced Friday."

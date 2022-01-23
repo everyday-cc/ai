@@ -1,29 +1,27 @@
 ---
 category: news
 title: "STAT partners with Applied XL to launch a new clinical trials monitoring platform powered by artificial intelligence"
-excerpt: "Since 2015, our team at STAT has worked tirelessly to deliver trusted and authoritative journalism about health, medicine, and the life sciences to millions of readers around the world. We are thrilled to unveil a new product that has been"
-publishedDateTime: 2022-01-21T20:40:00Z
-originalUrl: "https://www.lelezard.com/en/news-20204007.html"
-webUrl: "https://www.lelezard.com/en/news-20204007.html"
+excerpt: "Developed by artificial intelligence company Applied XL, in conjunction with STAT's national biotech team, STAT Trials Pulse uses machine learning and editorial-driven algorithms to help life sciences and health care professionals identify,"
+publishedDateTime: 2022-01-21T19:58:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence-1031119849"
+webUrl: "https://markets.businessinsider.com/news/stocks/stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence-1031119849"
 type: article
-quality: 16
-heat: 16
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "paeXsRmBxc8VJzLh1YQEAhWdgAuIBQdLzh+miR7bLhfibSnC4mCNOKcvPcHF31F/GDJA6ErDsKDj+KHjzVp+EN+MW01jOQNOnlXQ1ne53imKysmu5PFTElokfX1TDf2HT/f82rX0XU4scQdE92xff9O5ch6gloWUYheHfckuDg5FG9dcI3M4/ZaE+ZMGuYju4515CIP/iHPHX1cSETsZJKG3pPBFeS45Z7gl9n/o6jE2XSB51P9IQmWi5g+KPGGA7IIK55EVCUrjKJzmQ0vevIvZuA9cyQhHfR9YlsvUjZKbXqbcK82Xy0A85F9g6DS5Vhk6fQUSJfmxgjVqOQbSUH/4Hp/nq0y6WfksFK+Y9+k=;MlZkp0oYWlUw4y3BhakOqw=="
+secured: "n6DDFyYnbWOhJS/9arvRaiSbwPu1Hd75P/QrTJX0tHVP1kiYD9fvbbdkhaPi+/hwYAVOi2kySnonYZShV/dmmPIOwjy44P3y+9SVuFAJflvHPUG9nvTmkm5y/q3x0Gf/5ARpTaobaqBmmVZB/95CbEbkdfubGulKNUubBxMMd+xb3jZGJwJ/nCTo6Haj7uOv+IGnS/pv7M/Uq+vEoCMHoY1c+MtjXrHMk8gqV15tmP1CTZf0K4sOUinX6M+eh2xjy2rTuxpA8i82bBQbIVTpy410XyFa7ZWs4/7Jump874opzOJsyupkqS7UE7MxfiwqhYpsMVtTAdq12obxmIkMcSj1Y49v+ngg+EdERrvRjN7fMdp5EFvUXFFA7bWVEqV10jAsoZBOdqnHRxyG6Y6NxmwGYZMbYDlRAvoSJPUOk5rLhTCZl02s4eOz5Vl7GdPAFx0zT6MDfWNRasQHl4HkbxV/C9CyxVm3OwF4GenJ2adz1Swu3PBnsltvuIpioSwkeMTtQwdEwM36G9d405kDuw==;TB+fx/UkzDQxTwzHb4gd6Q=="
 ---
 

@@ -43,22 +43,6 @@ related:
         width: 614
         height: 250
         isCached: true
-  - title: "Why Cloud is The Booster Shot For Fintech?"
-    excerpt: "Home » Cybersecurity » Cloud Security » Why Cloud is The Booster Shot For Fintech? Fintech and cloud technology is a match made in heaven! What’s your say on this? Well, that’s true. It’s evident that cloud native services have turned into the new normal in the financial sector."
-    publishedDateTime: 2022-01-19T05:56:00Z
-    webUrl: "https://securityboulevard.com/2022/01/why-cloud-is-the-booster-shot-for-fintech/"
-    ampWebUrl: "https://securityboulevard.com/2022/01/why-cloud-is-the-booster-shot-for-fintech/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/01/why-cloud-is-the-booster-shot-for-fintech/amp/"
-    type: article
-    provider:
-      name: securityboulevard.com
-      domain: securityboulevard.com
-    quality: 44
-    images:
-      - url: "https://peoplactive.com/wp-content/uploads/2022/01/58-cloud-fintech_inner_01-1024x451.jpg"
-        width: 1024
-        height: 451
-        isCached: true
   - title: "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity"
     excerpt: "Comserve / -- AI in Fintech Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast 'A research report on AI in Fintech Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail."
     publishedDateTime: 2022-01-21T13:44:00Z

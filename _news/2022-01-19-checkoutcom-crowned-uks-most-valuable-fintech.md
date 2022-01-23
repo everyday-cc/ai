@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Cloud is The Booster Shot For Fintech?"
-    excerpt: "Home » Cybersecurity » Cloud Security » Why Cloud is The Booster Shot For Fintech? Fintech and cloud technology is a match made in heaven! What’s your say on this? Well, that’s true. It’s evident that cloud native services have turned into the new normal in the financial sector."
-    publishedDateTime: 2022-01-19T05:56:00Z
-    webUrl: "https://securityboulevard.com/2022/01/why-cloud-is-the-booster-shot-for-fintech/"
-    ampWebUrl: "https://securityboulevard.com/2022/01/why-cloud-is-the-booster-shot-for-fintech/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/01/why-cloud-is-the-booster-shot-for-fintech/amp/"
-    type: article
-    provider:
-      name: securityboulevard.com
-      domain: securityboulevard.com
-    quality: 44
-    images:
-      - url: "https://peoplactive.com/wp-content/uploads/2022/01/58-cloud-fintech_inner_01-1024x451.jpg"
-        width: 1024
-        height: 451
-        isCached: true
   - title: "Global Fintech Arabesque Teams Up with Snowflake, a Data Cloud Company"
     excerpt: "Arabesque has partnered with Snowflake, the Data Cloud firm, enabling financial institutions to \"integrate Arabesque's suite of data assets.\" \""
     publishedDateTime: 2022-01-21T21:12:00Z

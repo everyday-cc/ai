@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/windows-11-is-making-it-eas
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/windows-11-is-making-it-easier-to-control-your-pc-with-your-voice/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to enable Voice Access in Windows 11"
-    excerpt: "Learn how to enable and disable Voice Access in Windows 11. You can also make it autostart by tweaking the Registry. It allows users to control their computers using voice."
-    publishedDateTime: 2022-01-19T05:07:00Z
-    webUrl: "https://www.thewindowsclub.com/how-to-enable-voice-access-in-windows-11"
-    ampWebUrl: "https://www.thewindowsclub.com/how-to-enable-voice-access-in-windows-11?amp"
-    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/how-to-enable-voice-access-in-windows-11?amp"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 44
-    images:
-      - url: "https://www.thewindowsclub.com/wp-content/uploads/2022/01/Enable-Voice-feature.png"
-        width: 700
-        height: 379
-        isCached: true
   - title: "Windows 11 now allows you to type text with your voice"
     excerpt: "Windows 11 now allows you to type text with your voice. The latest build of the Insider program 22538 brings this new feature."
     publishedDateTime: 2022-01-22T11:20:00Z

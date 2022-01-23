@@ -1,29 +1,27 @@
 ---
 category: news
-title: "IBM sells some Watson Health assets for more than $1 billion"
-excerpt: "IBM launched Cambridge-based Watson Health in 2015 with the aim of using its core artificial intelligence platform to help health care providers analyze troves of data and ultimately revolutionize cancer treatment."
-publishedDateTime: 2022-01-21T14:52:00Z
-originalUrl: "https://www.bostonglobe.com/2022/01/21/business/ibm-sells-some-watson-health-assets-more-than-1-billion/"
-webUrl: "https://www.bostonglobe.com/2022/01/21/business/ibm-sells-some-watson-health-assets-more-than-1-billion/"
-ampWebUrl: "https://www.bostonglobe.com/2022/01/21/business/ibm-sells-some-watson-health-assets-more-than-1-billion/?outputType=amp"
-cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2022/01/21/business/ibm-sells-some-watson-health-assets-more-than-1-billion/?outputType=amp"
+title: "IBM Sells Some Watson Health Assets for More Than $1 Billion"
+excerpt: "(Bloomberg) --International Business Machines Corp. agreed to sell part of its IBM Watson Health business to private equity firm Francisco Partners, scaling back the technology company’s once-lofty ambitions in health care. The value of the assets ..."
+publishedDateTime: 2022-01-21T14:36:00Z
+originalUrl: "https://www.bloombergquint.com/business/ibm-is-said-to-near-sale-of-watson-health-to-francisco-partners"
+webUrl: "https://www.bloombergquint.com/business/ibm-is-said-to-near-sale-of-watson-health-to-francisco-partners"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/G0unhIVJfId_xgnW2c2onCtLAxM=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/FJUOSATOEEI6NLVIJUCIZMB4QI.jpg"
-    width: 506
-    height: 337
+  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,6 +40,22 @@ related:
       - url: "https://images.wsj.net/im-471681/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "IBM is selling off its Watson Health assets"
+    excerpt: "Watson Health was borne out of IBM's larger Watson effort, which aims to use artificial intelligence to solve a range of problems for businesses and consumers — from creating a computer that can ..."
+    publishedDateTime: 2022-01-22T05:31:00Z
+    webUrl: "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220121123649-ibm-office-californie-file-0120-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "IBM has sold Watson Health. It was a long time coming."
     excerpt: "IBM announced today that it has sold its Watson Health data and analytics assets to private equity firm Francisco Partners. The highly-anticipated sell-off includes data sets and analytics products such as Health Insights,"
@@ -248,6 +262,6 @@ related:
         height: 576
         isCached: true
 
-secured: "6HNygW880aT6/LxtQDNYd6Y1R5WxIph0Xy+07SAJmZ/0ODYGi49ZFh3V/f+gPw6JbTpe7hXyD7xOv91pCL0TPc76BIim5Wovq+1XatcOTxrUhQ/KhkLOSNMS1Z79W4AvtG+g/qYdpGLW+uGM4odAmyxi3xGzmam5Aj3kY01hh2Wy5YciIWvHAuvsnSfKu7zl178FwTM4np7yvFfA1eqKvlU8qZ/U4KglIl7iLHx6M9rXuWFKvT10SdoAXxRZWqcrqfpPhXeFzvNrRmUWy78i53L54HH5b1JHpC4LjsmRSIyxDJKfv2a6ew/QFtL05w8Ulmt8KmlCfuvM97p+SfAIkTFnNh2a1tccysl+AaqlkjCvXPmA6fUloAQIB9dbG0i2JmxrADIUbOuzeszNACD5GEHQP73VF9LoXwZDO/qIBLUYtrt0MF4gVL7DJ/zkMbWiKC/gszP6UlXe1TEbta/n97HHXMUDNE34C/W396clSvx7JjGWDfTdL58i0t7DLrNq10L1NPmXzI2kOW7V8xWk2A==;dz1dH3+nvO36G+ocRlDEBQ=="
+secured: "oMTm78xqawjkEn3BkBzrvHbhj/TLfB1lNFC1I9RZ7USFNVD2Xr4AiO18bbdj+XogW3yYENYry1jvMkn/W+g9o3KkkNLDLl/4+c2g9Nuo5bmiWKXWvNO7GEZKCyI4c8/fP4LKXmb2kotgYKABLlCHTGChhQAuCBTo+sCK+9H0dqcCvkvx9TOWPGoVdtkoB284XPr7IxXi0q8HAQTrFekVb7TIFIMlHqyu2Mgl3m7InZE4lcXOyA1V4oFB3qYx62Il1wTevhaZV9Q7Rz6D7dwa3sIIq/PEv7HmY4v1Naa8IIz8+KpiBABnJmMA/cC+ymftW7vZ+oFuw2x2RoqvYsJlh+6CjxwWcE8VJn7C0bLY0h4=;wX7OEsQSfj0BLBujS34rBg=="
 ---
 

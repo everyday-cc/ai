@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How to enable Voice Access in Windows 11"
-    excerpt: "Learn how to enable and disable Voice Access in Windows 11. You can also make it autostart by tweaking the Registry. It allows users to control their computers using voice."
-    publishedDateTime: 2022-01-19T05:07:00Z
-    webUrl: "https://www.thewindowsclub.com/how-to-enable-voice-access-in-windows-11"
-    ampWebUrl: "https://www.thewindowsclub.com/how-to-enable-voice-access-in-windows-11?amp"
-    cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/how-to-enable-voice-access-in-windows-11?amp"
-    type: article
-    provider:
-      name: TWCN Tech News
-      domain: thewindowsclub.com
-    quality: 44
-    images:
-      - url: "https://www.thewindowsclub.com/wp-content/uploads/2022/01/Enable-Voice-feature.png"
-        width: 700
-        height: 379
-        isCached: true
 
 secured: "GL0RIRtGqMT5lxbEWMoHFBwN+f6T6w5sQyK1AYZj87kIyxyjAJqk8fQRpm3BirQ9V5kkf/eBFCOcuzJUOtnCxoXquyd6WpwpiCA9Lk+vK/CcKmVOCjipnR5+QnE5gXR0yRKFoKpYvyF91k5U0iFV7PdMeIuYRNgf5rOrJuG0dIcOyprENuYUl1G75cgqkZa/S7yW29I+FEfqHj+WubD35RPEjWw/333NESG1Ghf6XJFQFEzTgpLaIiu/TRxpNJu2QMfl3KCI9/iN+JVR59gaXekVDnvu388MFTVByqA2j/8SFFUnc3VnT/ZAq6dihsgAK0tkHWP7xXoMd9GKZ0ayQlLrReLCQPtgwGUrEIK75authS1zArHJS8vzOefUep3kirTFFn6HEQNDgfgMEDU4caYer8YpaCevWuVQ7mA1vu4rkp3RgCevsT3A+V6gsjM0Dix04V9SbMv/toCXos9qn7muKGXbsvDzsUZpJiaN8v+zgWW9ytHYjRJk+nNDIDFd9sk3ZNnHsT0M7H3ycJtKSQ==;CVp+Psw0oTQ4tVJmmH0+Gw=="
 ---

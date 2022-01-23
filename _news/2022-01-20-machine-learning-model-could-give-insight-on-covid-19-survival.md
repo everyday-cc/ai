@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning model uses blood plasma proteins to predict survival for COVID-19 patients"
-    excerpt: "A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival, weeks before the outcome, according to a new study published this week in the open-access journal PLOS Digital Health by Florian Kurth and Markus Ralser of the Charité – Universitätsmedizin Berlin,"
-    publishedDateTime: 2022-01-19T06:09:00Z
-    webUrl: "https://www.news-medical.net/news/20220119/Machine-learning-model-uses-blood-plasma-proteins-to-predict-survival-for-COVID-19-patients.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220119/Machine-learning-model-uses-blood-plasma-proteins-to-predict-survival-for-COVID-19-patients.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220119/Machine-learning-model-uses-blood-plasma-proteins-to-predict-survival-for-COVID-19-patients.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 49
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Intensive_Care-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Machine learning model predicts the likelihood of recovering from Covid"
     excerpt: "A new study has found that 14 proteins in the blood of critically ill patients are associated with recovering from Covid."
     publishedDateTime: 2022-01-19T14:03:00Z

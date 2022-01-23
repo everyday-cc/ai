@@ -1,27 +1,33 @@
 ---
 category: news
-title: "IBM sells Watson Health assets to investment firm Francisco Partners"
-excerpt: "IBM has reached a deal to sell the healthcare data and analytics assets from its Watson Health business to investment firm Francisco Partners, the companies announced Friday."
-publishedDateTime: 2022-01-21T13:55:00Z
-originalUrl: "https://www.fiercehealthcare.com/tech/ibm-sells-watson-health-assets-to-investment-firm-francisco-partners"
-webUrl: "https://www.fiercehealthcare.com/tech/ibm-sells-watson-health-assets-to-investment-firm-francisco-partners"
+title: "IBM is selling off its Watson Health assets"
+excerpt: "Watson Health was borne out of IBM's larger Watson effort, which aims to use artificial intelligence to solve a range of problems for businesses and consumers — from creating a computer that can ..."
+publishedDateTime: 2022-01-22T05:31:00Z
+originalUrl: "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html"
+webUrl: "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html"
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Fierce Healthcare
-  domain: fiercehealthcare.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://qtxasset.com/fiercehealthcare/1642776250/GettyImages-1029427612.jpg/GettyImages-1029427612.jpg?VersionId=xWpwtJS6I05Z5rwv53927sDYamE5GNh5"
-    width: 2121
-    height: 1414
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220121123649-ibm-office-californie-file-0120-restricted-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -40,22 +46,6 @@ related:
       - url: "https://images.wsj.net/im-471681/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "IBM is selling off its Watson Health assets"
-    excerpt: "Watson Health was borne out of IBM's larger Watson effort, which aims to use artificial intelligence to solve a range of problems for businesses and consumers — from creating a computer that can ..."
-    publishedDateTime: 2022-01-22T05:31:00Z
-    webUrl: "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220121123649-ibm-office-californie-file-0120-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "IBM has sold Watson Health. It was a long time coming."
     excerpt: "IBM announced today that it has sold its Watson Health data and analytics assets to private equity firm Francisco Partners. The highly-anticipated sell-off includes data sets and analytics products such as Health Insights,"
@@ -163,6 +153,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM sells Watson Health assets to investment firm Francisco Partners"
+    excerpt: "IBM has reached a deal to sell the healthcare data and analytics assets from its Watson Health business to investment firm Francisco Partners, the companies announced Friday."
+    publishedDateTime: 2022-01-21T13:55:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/ibm-sells-watson-health-assets-to-investment-firm-francisco-partners"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 39
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1642776250/GettyImages-1029427612.jpg/GettyImages-1029427612.jpg?VersionId=xWpwtJS6I05Z5rwv53927sDYamE5GNh5"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "IBM Bids Farewell to Watson Health Assets"
     excerpt: "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion,"
     publishedDateTime: 2022-01-21T22:39:00Z
@@ -262,6 +266,6 @@ related:
         height: 576
         isCached: true
 
-secured: "cbsYP/cjEuHi5Jp1W34MC5VtNl49uhJLNvYlDhecRUa1uMm0HKdBDeilwQambWfnwuTS7tnMfpdFSaO562fbUASJUN7OLSaTt97dB3kCn3v7Rc5jB8hNQ947wFJDTSDuSie0z2Uq8fp76XPSdd4v+5BIojDz2Hj4yrCzVqDi13SkuqZJqRHwgMboxClviCWollzVPvZbdTHc8+6X3payHAAApSM+JYvCTSZFIOQqHnrPhYsD1eFmoXTprv7aq7x1ei+XtkXNh8nkupio/srdaG9Y5E5HgydHYk+B2hbciW0LvINPG2eFhwDY4gV0CNoFJpn2xle6an5a+WTlWN+Kbdrm7KDGyMtSG6SNd8hbQ1I6qIOliPTuIBvvIVfE7V2zziUvBjbvE+cl1DZaWG9ew8ARTxxG7FGWBLFkUSHODjKvZepiCSjYQq06GVtCaRbxHL1N36qM4KwUl6RkjPJ/zh5qvvYwsHaT5+ooSDhE/BqiFl0agoDqO6alGNRl6PL8iwl1zRofzC+P0qsf4pOsGg==;Oh0HGlXpBILvexKQ4e3jbQ=="
+secured: "DkRVZkLRA33su9MlCd7hoJrdIAZDTOkghhSL0QaOxFL2ljppbL+Uunu+tPZ6G3qxpxFQUIt6UZz+fV/kO6GbWEujpQVOXZnrmTcEF/y5Tpqtnl+yHq3JzR9tAAnatOQhTSTM2GlqD8tpx2e8bEwnHjX4acoLIS7wPHSuufDdD6MSov26v8LEjLCZAqGbepbUS6daWp3am3TQMXJTIq1wzMGuxqVMqQNfpNH4xgQ56uV/piklHQUeByxLQauh3UpT0Q1L1JyOG8tM2aq2lFZAtBiWG0SP+IVwEpWZC3qSw52OmfWin16U89JOWMY0LIU5kPTBNiOEFh/KzL5Mjsb+We3LWy027VLEPnoY5E0+NfQ=;0tuhUXgcPpk7CXqwORcOcQ=="
 ---
 
