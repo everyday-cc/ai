@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "clarifyhealth"
   url: "https://twitter.com/clarifyhealth"
-  followers: 992
+  followers: 1004
 
 size: 51-200 employees
 yearFounded: 2015
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=j4LXE1HWZBk"
 
-secured: "qGAKc/f2WbaLRihVMy93UaRudYUFqFmEg0+Yj/dC9zh0nx3PHHxngShHwuXoIOssdYRQ1IRq8uvucactCXoJAZVafwZLXyuwCRbPxOIBk7fbeNIXdQV+PwAvS0DCNurJyITyQA++sh5P899TqBMWh7zr9xYEFB2NAfEuInanQea72ncZ0pNtQ3ogGsKAkrD5xn1Mvn/dKKZM+sXEm3eBTbBpmn1YFSzctIRc1nEYdG0ORS3OdM90Oy/rPScroDRAjGzSRw4q7R59vUfLz6pZQCeIvWyDAV8/aQxfgs4+zQCOAeCY9je+zPWjW7JPZ86YmQo37lnCF82gG18MWQqbk7ZcjNiPkbbKr9kPUU46j1Hg49vU/TsUiXTB+AoHf6J2MRViqf0/WLBkDA5woMR2ww==;b5csY3vO3RCGPLauxEkY9g=="
+secured: "9YZyqFj8NlkTj6X0/wSNVz+KztOblU0GUNDgYi+oQXNfqIa60pLloU6uRxm1Ew1mAFf6hlT7B/Eh+PL23zp1Ruom2QnbXd967uDrfQOZo4+J5YznOn4vrs3DmiWd2nm5addUhU5BJSWZ2STELxUWU8BBLXKC8syqxSl4M75DrN+HeDGkjHku4t9q7Fl0UkIbC9tilErXpGrbMdANlA6yqE3+HkIICzPG2XIjigH8YjW1yJ6/JZSLyBccrLxob81JYYYKdfmY3pLYPHEY2GZHjwpPkFk0F5rH5zEdqKHv3CpCnZTPhXpYRYvNhs/Ft350xEKe3Qk1EabH7xYUzo5/k5j1t3dfBpIHDi4ELyyDtVZnO9v4M1/443Ipp0IuYLvVxCajBrQ3uUA/HTT792aVx6uoUmbbneMhd3ywjOAaBkI=;0efwsRQrHD1Ki19FucNkcw=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "robinhealthco"
   url: "https://twitter.com/robinhealthco"
-  followers: 100
+  followers: 102
 
 size: 51-200 employees
 yearFounded: 2017
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=OeJ_m-PYEJ8"
 
-secured: "Or3xAWjL5DQQXmjlYtyLJ/T/GP4WquUIZazpaeQhh4FotW1E+WWqpfsBpGH+a9og42lNaSg5XQ8EJtZ//UKUjo4I5B7AttTemodVvz9N6lvy4Or2Kb/qlIgkSI9PFa1dONM7I1ftmqKoZoBdCl3E1BHY4Rw9v2LiblfLBUBqe2xbRfIMkJZiP0A3HOuVEw+pEFfAupWhNzM+3/wSguDDmrD4TNwZQUJSmwfsnAvGczo3QMArboB4b8zripd+tb282Nl46o+QW6n3aHSqJx7TaW/RGOBcyXYVsqAAuACD4svs1LUqRgAwQlYQQDAa14A6u4/76TGdURuada2jexNQwqaKPmKZIw/N05ZwKz9hokqUW3WYBXos6RT0sbJHK2tLPYYAdzhrVmvz++lJUhzY9g==;bwpeSmrEwfnur+IfNOSPdQ=="
+secured: "bTCltZmhbgbYtGfwozgnKrf2bZcVAJgfx1aGJnAVTy0XshrHEik5kXOlElgtlnhm4U/65KtEU0pIu48y9FZNXMcN26t/+KHhuIbv5MchGPKsIbNToamq2zY6QJEmF6oK9mdLX50qUxqxpvJk1Layr3Sp6jh1lOAXt5ooME+umRIKD11NbZ4ofv1/fQtS2VABH7rxRotvtsuS1KxHuccs7LnXSKMUHx9pulxa/Mm0wCAZkNcoN6vjRKHd6f5gdp7TrqPd2En86jTpwEBG+S5nyO7IhrLf0e1EAnnvxIhRWHXjsguRgBfFUQ8gu4EZJuDVTgPmkFQeId0czb11u1+BralA847Sclt6nS41kBbJUyiICKYH/XQUZbyFhJJuAkc3E9RxoUvkJPneeJQOxRFmhw==;1RVlSTh44WlfjWyCU1IIxA=="
 ---
 

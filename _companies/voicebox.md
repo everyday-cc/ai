@@ -2,7 +2,7 @@
 name: "VoiceBox Technologies"
 overview: "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI"
 type: "profile"
-heat: 58
+heat: 52
 
 website: http://www.voicebox.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "VoiceBox_Tech"
   url: "https://twitter.com/VoiceBox_Tech"
-  followers: 745
+  followers: 746
 
 size: 201-500 employees
 yearFounded: 2001
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=76HL2Kr3Ho4"
 
-secured: "A+Eyc/i4f4L2KgBQvbufQb36Ld+qp9/kQsdpL2B7AtkvDdlVN+BgwFJgDB/Vh+38DTwtW7FQJQ1dvjP4uhdp+zJB9fwt/wOUyBrt2j2ms/p/u4cj8VLoTkpPC4wxTthhgY3EknG1x79slbRajUNcNGBfftOMzNR9vsK+shsboO7A2gymqo8ZA1adJiPJC9c7ywBfg2D1LFVe0M7oZcdYQ+BpzmA4nYVj/f1zBJrBZTHLYsJyVs3PaVZcMXIo/lG5nLHXWZ/kj4cjLZ3KVjar0OL8f312gZ/rEXjUnKlC9Rre38mqRgEKmY/H/z31XjtkWR/6aOZ3YQ2Nxoj9InRory8dYfrFq2yui0pwU85V5t9iD7w73/Cn6nGAsRjF5lqCfjcv9vDhF92JoV2AQaJHZg==;frQ2B+N9XBm7yFXr9EACOA=="
+secured: "IO8ebaWxIqxDCgi9cdFLaPC2rKLJdujFHMhgNCVDjH3WqrwxUQJSB4OYdXj+J9buTwxduU5OwH19oNr1yrrgspOJPy9273nFzdKtpsZL4uZ+UdIA4QKhKBtgAiVjktYQkNpBYNL4Jl/EVh6r0lQkDUeloX2vqUCyxnH1tYBAN/bvBH7H7KnCZBI13AxOkOkUXTx1WZT0G6W+0jLkkJsnAjY+RTL5UoFRHoYU/KtDedpacY+nawECC5TPR6mnLMYCit+qyHpAEgneYGkKL/q4B6fbhf9/OGBFsNFpgWnOMR6Ad/xyq59/Yi4o7kN9Ajalz9j2kzyJ4Nt8s9jileHk/i4mj8tPSaj5LO/UloLfww9YfoSDICR8LxE/rcjiS8wHktGXadqrsdbVpLjrmB4zPg==;2BdQakdDSFqPIPFGUg8njw=="
 ---
 

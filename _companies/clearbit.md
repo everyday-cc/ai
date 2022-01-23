@@ -2,7 +2,7 @@
 name: "Clearbit"
 overview: "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud."
 type: "profile"
-heat: 78
+heat: 42
 
 website: https://www.clearbit.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "clearbit"
   url: "https://twitter.com/clearbit"
-  followers: 4305
+  followers: 4301
 
 locations:
   - San Francisco
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Clearbit"
 
-secured: "5TcJB5xSN7qicyEfjFuJ955Kmfq32wtqnGGqV6d/3BVdlw56BKkkLxhkwJBUeY7xE7MK4E4lrUyzWIzfnuFbFEJOLs7SG1E+2lpycIvu4ZWphQ25eYuIP2fNxzYJNHLPY97XnD7pEbLTgNM3QVNYhDp0GzTC3rYp4+ir+qZgrqrJdpoA3Zknsxe4fUHvaOn4oawuU2/VNFE6k+TNzfv1b2lZEG9pJo/0UauGzT8ilgFM3tY5aNATOf+T1UqT3wl2rths35prOLcJpqbwJrxaRdwvl4bx89ayImF+jOXp+ur887Ik/OQXVYENY6IQdyEztXdJPcP9dJQNU9MPyKOJ5RzKYZgWReIQs6HXUEL3ShM4JszyNfB3XUWI+R40LpXtI8Hu48PtLjaUCysFVruZL/vqW9qM+ncOkiUSgU0h2ao=;WDr+kA9MMbGClPnDue1y6Q=="
+secured: "lftMpXySagjAJ7cjgMYdmed5ZUS7/ZPf5MosRwYaTdPjTcQvydAUsdJzfd/LXWO21+huSLk92d/PpEJMbgHXv/sP+aDHOLnqR4c21azS7RAlKpq2p9uI2ToATqohdi1+k8fSFRm9855QpxCouwY5mgSAMBl+E/QgYDCl731pTEh4Dzwz4KafZMF1uJobMb8jDFIWEJ6AR12i37SqwbO9RVjgZN9vN/7igyt47LBu8cHvYvOfoMvDZd7P6IUpQse0K3u14pJI2iBazzpoWPfhynHFXOYeNMaPQzGhnwDkNhE1dPDI+kAQCcl+FmHJncyVWWfdQUFlDBnKR3TX50ChJbxNRikKDnTgSZ12bWIVwkt2HxnyPCtaTnroyqVu8POOFnoLMlFMMDeZioNZHh442sYSFXGDJTgaf5GP/x/cYwo=;bnmfNpRyIMPNdg3opamcDw=="
 ---
 

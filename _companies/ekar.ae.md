@@ -2,7 +2,7 @@
 name: "Ekar"
 overview: "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use."
 type: "profile"
-heat: 41
+heat: 50
 
 website: https://ekar.ae/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "MyEKar"
   url: "https://twitter.com/MyEKar"
-  followers: 886
+  followers: 887
 
 size: 11-50 employees
 yearFounded: 2015
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "Ekar"
 
-secured: "2Bz3Jv6TTEn93PQKuJ6L8DvXZUJiHbGhoLWQk01Y6BeJuiPmPSSzwVn5xWU2vq1guO+lOl6XHgU8hsxFXvwLzwSYzK+P0Rimnm90wtNB+YUZlc2RGa+FpWlrPxH2RyQMly7funOdsZyUAmLvRtHZtL/aZToTopIGVPq57A/ThagCvA3pS5hUV2ZfDffWrJzDvQleEGHP/jU+/Yd31fsnkVk3pbOnFVOQPc9ZlEq07vDlr4ku/Fc8KqJJ4CNd1wJciFmbg5asWs0+gAKFfKojhp9dK9t3Avlc6YWfilbzus6YalUThOxh87YigW4gOougciIhpVtq7foxUipbjoBseA1vvhOg7Rs8Atkn13GlV1V5qxbPRbwLC5BNki3h130AXBizYXQ9ZxtqCKPlQFm1Cw==;sF80SP/6nYm5JsR0npEcFQ=="
+secured: "4J1G4sttiH5Nmt9NEHH+PV93lP+AbYabwuqyrvdLS7Ug7/jMMR1tHu2oMy703mHdBqjuHy0tS4CQfX1MG7FxRop7qw90G7h02etZfGJfTaMEPgcEbOOgsYu+4MT+2Tf19IhZGeqQcL3vxf9CxsVVGXXgNHfD21tTb22F3G3x1p35fQIPRC8Xg2ob54LmHPoP6J8TQ/BkkwAANP7/DrDXV2shG3MqLoHJ1jORkZDSIws3monCHKaR8bV4QrcblAZAZSxV6SGvSoe/C1Wwi0o89h93vmbifjZOopmEg7uMrp33pJT82Na55zqEX6bs0JJxtm4Q+K/b7RFeA6+G0Esrxqo34bpCWFweXwbzZD0tIywlqvPQxRM4YXDFLvgADytrOsS6YAR5KwWPP0+R1dJrDg==;xRHAFxRSPr1+e3T1OVbmCA=="
 ---
 
