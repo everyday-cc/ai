@@ -4,214 +4,73 @@
   "page": 2,
   "value": [
     {
-      "path": "_people/harry-shum.md",
-      "title": "Harry Shum",
-      "excerpt": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/harry-shum/index.json",
-      "webUrl": "https://everyday.cc/ai/people/harry-shum/",
+      "path": "_people/laurence-moroney.md",
+      "title": "Laurence Moroney",
+      "excerpt": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/laurence-moroney/index.json",
+      "webUrl": "https://everyday.cc/ai/people/laurence-moroney/",
       "type": "profile",
-      "name": "Harry Shum",
-      "bio": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "location": "Redmond, WA",
-      "website": "http://t.co/NY3kFUGs7a",
+      "name": "Laurence Moroney",
+      "bio": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
+      "location": "Sammamish, WA",
+      "website": "https://research.google/people/RajatMonga/",
       "twitter": {
-        "username": "harryshum",
-        "url": "https://twitter.com/harryshum",
-        "followers": 17368
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
-        "citations": 48136
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Harry_Shum"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Computer Vision"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Harry Shum",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/john-krafcik.md",
-      "title": "John Krafcik",
-      "excerpt": "We're building the world's most experienced driver.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-krafcik/index.json",
-      "webUrl": "https://everyday.cc/ai/people/john-krafcik/",
-      "type": "profile",
-      "name": "John Krafcik",
-      "bio": "We're building the world's most experienced driver.",
-      "location": "Mountain View, CA",
-      "website": "https://t.co/i1uBCCpct5",
-      "twitter": {
-        "username": "johnkrafcik",
-        "url": "https://twitter.com/johnkrafcik",
-        "followers": 15970
+        "username": "lmoroney",
+        "url": "https://twitter.com/lmoroney",
+        "followers": 25505
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/johnkrafcik/"
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/John_Krafcik"
+        "url": "https://www.linkedin.com/in/laurence-moroney/"
       },
       "topics": [
         "AI",
-        "AI in Autos"
+        "Google AI",
+        "Machine Learning",
+        "TensorFlow"
       ],
-      "heat": 72,
+      "heat": 67,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1161446779310632961/RGg-GhC6_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1438898262602256386/CiWrR6Gi_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "John Krafcik",
+          "title": "Laurence Moroney",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/noramay-cadena.md",
-      "title": "Noramay Cadena",
-      "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/noramay-cadena/index.json",
-      "webUrl": "https://everyday.cc/ai/people/noramay-cadena/",
+      "path": "_people/andrew-moore.md",
+      "title": "Andrew Moore",
+      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-moore/index.json",
+      "webUrl": "https://everyday.cc/ai/people/andrew-moore/",
       "type": "profile",
-      "name": "Noramay Cadena",
-      "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "location": "Los Angeles, CA",
-      "website": "https://t.co/t9CFIWFMbw",
+      "name": "Andrew Moore",
+      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
+      "location": "Pittsburgh, PA",
+      "website": "http://www.cs.cmu.edu/~awm/",
       "twitter": {
-        "username": "noramayc",
-        "url": "https://twitter.com/noramayc",
-        "followers": 17600
+        "username": "awmcmu",
+        "url": "https://twitter.com/awmcmu",
+        "followers": 6119
       },
-      "topics": [
-        "AI"
-      ],
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Noramay Cadena",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/christopher-m-bishop.md",
-      "title": "Christopher M. Bishop",
-      "excerpt": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-m-bishop/index.json",
-      "webUrl": "https://everyday.cc/ai/people/christopher-m-bishop/",
-      "type": "profile",
-      "name": "Christopher M. Bishop",
-      "bio": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "location": "Cambridge, England",
-      "website": "https://t.co/qaAoprog1k",
-      "twitter": {
-        "username": "chrisbishopmsft",
-        "url": "https://twitter.com/chrisbishopmsft",
-        "followers": 5641
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
-        "citations": 134584
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
       },
       "topics": [
         "AI",
+        "Google AI",
         "Machine Learning"
       ],
-      "heat": 65,
+      "heat": 63,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Christopher M. Bishop",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/rosalind-picard.md",
-      "title": "Rosalind Picard",
-      "excerpt": "Rosalind Wright Picard is an American scholar who is Professor of Media Arts and Sciences at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the startups Affectiva and Empatica.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rosalind-picard/index.json",
-      "webUrl": "https://everyday.cc/ai/people/rosalind-picard/",
-      "type": "profile",
-      "name": "Rosalind Picard",
-      "bio": "Rosalind Wright Picard is an American scholar who is Professor of Media Arts and Sciences at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the startups Affectiva and Empatica.",
-      "location": "Cambridge, MA",
-      "website": "http://t.co/M6c0l3S5lb",
-      "twitter": {
-        "username": "rosalindpicard",
-        "url": "https://twitter.com/rosalindpicard",
-        "followers": 12073
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rosalind-picard-0111bb/"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=1-hcASEAAAAJ",
-        "citations": 69498
-      },
-      "affiliation": {
-        "path": "",
-        "name": "MIT",
-        "domain": "mit.edu"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/423189890545643520/w6Fjk14f_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Rosalind Picard",
+          "title": "Andrew Moore",
           "isCached": true
         }
       ],
@@ -242,7 +101,7 @@
             "AI",
             "AI in Autos"
           ],
-          "heat": 41,
+          "heat": 52,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
@@ -285,7 +144,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 72,
+          "heat": 109,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
@@ -307,7 +166,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 50,
+          "heat": 48,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/852213397386969088/8zewUndt_400x400.jpg",
@@ -320,7 +179,7 @@
         }
       ],
       "size": 8,
-      "heat": 60,
+      "heat": 62,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
@@ -333,80 +192,90 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/andrew-moore.md",
-      "title": "Andrew Moore",
-      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-moore/index.json",
-      "webUrl": "https://everyday.cc/ai/people/andrew-moore/",
+      "path": "_people/harry-shum.md",
+      "title": "Harry Shum",
+      "excerpt": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/harry-shum/index.json",
+      "webUrl": "https://everyday.cc/ai/people/harry-shum/",
       "type": "profile",
-      "name": "Andrew Moore",
-      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "location": "Pittsburgh, PA",
-      "website": "http://www.cs.cmu.edu/~awm/",
+      "name": "Harry Shum",
+      "bio": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
+      "location": "Redmond, WA",
+      "website": "http://t.co/NY3kFUGs7a",
       "twitter": {
-        "username": "awmcmu",
-        "url": "https://twitter.com/awmcmu",
-        "followers": 6118
+        "username": "harryshum",
+        "url": "https://twitter.com/harryshum",
+        "followers": 17369
       },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
+        "citations": 48158
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Harry_Shum"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "AI",
-        "Google AI",
-        "Machine Learning"
+        "Microsoft AI",
+        "Computer Vision"
       ],
-      "heat": 58,
+      "heat": 60,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Andrew Moore",
+          "title": "Harry Shum",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/clement-farabet.md",
-      "title": "Clément Farabet",
-      "excerpt": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/clement-farabet/index.json",
-      "webUrl": "https://everyday.cc/ai/people/clement-farabet/",
+      "path": "_people/rana-el-kaliouby.md",
+      "title": "Rana el Kaliouby",
+      "excerpt": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rana-el-kaliouby/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rana-el-kaliouby/",
       "type": "profile",
-      "name": "Clément Farabet",
-      "bio": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "location": "San Francisco, CA",
-      "website": "http://www.clement.farabet.net/",
+      "name": "Rana el Kaliouby",
+      "bio": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
+      "location": "Boston",
+      "website": "https://t.co/CptEKpnJzd",
       "twitter": {
-        "username": "clmt",
-        "url": "https://twitter.com/clmt",
-        "followers": 11005
+        "username": "kaliouby",
+        "url": "https://twitter.com/kaliouby",
+        "followers": 24590
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/clementfarabet"
+        "url": "https://www.linkedin.com/in/kaliouby/"
       },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
-        "citations": 9550
-      },
-      "affiliation": {
-        "path": "",
-        "name": "nyu.edu - Homepage",
-        "domain": "nyu.edu - Homepage"
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Rana_el_Kaliouby"
       },
       "topics": [
-        "AI",
-        "AI in Hardware"
+        "AI"
       ],
-      "heat": 58,
+      "heat": 60,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/953003983307550720/GhDHdn42_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/667860223512612864/sK_qnOSx_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Clément Farabet",
+          "title": "Rana el Kaliouby",
           "isCached": true
         }
       ],
@@ -426,11 +295,11 @@
       "twitter": {
         "username": "jmgduarte",
         "url": "https://twitter.com/jmgduarte",
-        "followers": 369
+        "followers": 370
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
-        "citations": 156372
+        "citations": 156546
       },
       "affiliation": {
         "path": "",
@@ -441,7 +310,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 58,
+      "heat": 55,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1442955547343343616/vvBBIGGR_400x400.jpg",
@@ -454,67 +323,129 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/martin-ford.md",
-      "title": "Martin Ford",
-      "excerpt": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/martin-ford/index.json",
-      "webUrl": "https://everyday.cc/ai/people/martin-ford/",
+      "path": "_people/clement-farabet.md",
+      "title": "Clément Farabet",
+      "excerpt": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/clement-farabet/index.json",
+      "webUrl": "https://everyday.cc/ai/people/clement-farabet/",
       "type": "profile",
-      "name": "Martin Ford",
-      "bio": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
-      "location": "Silicon Valley, CA",
-      "website": "https://t.co/NRuuR6oILg",
+      "name": "Clément Farabet",
+      "bio": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
+      "location": "San Francisco, CA",
+      "website": "http://www.clement.farabet.net/",
       "twitter": {
-        "username": "MFordFuture",
-        "url": "https://twitter.com/MFordFuture",
-        "followers": 48958
+        "username": "clmt",
+        "url": "https://twitter.com/clmt",
+        "followers": 11006
       },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/clementfarabet"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
+        "citations": 9561
+      },
+      "affiliation": {
+        "path": "",
+        "name": "nyu.edu - Homepage",
+        "domain": "nyu.edu - Homepage"
       },
       "topics": [
-        "AI"
+        "AI",
+        "AI in Hardware"
       ],
-      "heat": 58,
+      "heat": 52,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/539018046287790080/Wvt135w6_400x400.jpeg",
+          "url": "https://pbs.twimg.com/profile_images/953003983307550720/GhDHdn42_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Martin Ford",
+          "title": "Clément Farabet",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/verity-harding.md",
-      "title": "Verity Harding",
-      "excerpt": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/verity-harding/index.json",
-      "webUrl": "https://everyday.cc/ai/people/verity-harding/",
+      "path": "_people/jean-liu.md",
+      "title": "Jean Liu",
+      "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jean-liu/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jean-liu/",
       "type": "profile",
-      "name": "Verity Harding",
-      "bio": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
-      "website": "https://t.co/7skid8sUXc",
+      "name": "Jean Liu",
+      "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+      "location": "Beijing, China",
       "twitter": {
-        "username": "verityharding",
-        "url": "https://twitter.com/verityharding",
-        "followers": 2508
+        "username": "jeanliuqing",
+        "url": "https://twitter.com/jeanliuqing",
+        "followers": 1421
+      },
+      "weibo": {
+        "url": "https://www.weibo.com/u/2209030102",
+        "followers": 1906714
       },
       "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Verity_Harding"
+        "url": "https://en.wikipedia.org/wiki/Liu_Qing_(businesswoman)"
       },
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ],
-      "heat": 58,
+      "heat": 52,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1179858918132142080/UucjikYj_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Verity Harding",
+          "title": "Jean Liu",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/rodney-brooks.md",
+      "title": "Rodney Brooks",
+      "excerpt": "Rodney Brooks is the Panasonic Professor of Robotics (emeritus) at MIT. He is a robotics entrepreneur and most recently was Founder and CTO of Robust.ai",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rodney-brooks/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rodney-brooks/",
+      "type": "profile",
+      "name": "Rodney Brooks",
+      "bio": "Rodney Brooks is the Panasonic Professor of Robotics (emeritus) at MIT. He is a robotics entrepreneur and most recently was Founder and CTO of Robust.ai",
+      "location": "San Francisco, CA",
+      "website": "https://rodneybrooks.com/",
+      "twitter": {
+        "username": "rodneyabrooks",
+        "url": "https://twitter.com/rodneyabrooks",
+        "followers": 25154
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rodney-brooks-1a137517/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.ca/citations?user=BCGgwlEAAAAJ",
+        "citations": 50351
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Rodney_Brooks"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "MIT",
+        "domain": "mit.edu"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1443383839779213313/8bSPkSxQ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rodney Brooks",
           "isCached": true
         }
       ],
@@ -563,7 +494,7 @@
       "bio": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=UZ5wscMAAAAJ",
-        "citations": 288733
+        "citations": 289095
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Andrew_Zisserman"
@@ -600,7 +531,7 @@
       "bio": "Michigan State University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
-        "citations": 233948
+        "citations": 233967
       },
       "affiliation": {
         "path": "",
@@ -635,7 +566,7 @@
       "bio": "Professor of Computer Science, National Chiao Tung University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=_0PCbyUAAAAJ",
-        "citations": 170184
+        "citations": 170338
       },
       "affiliation": {
         "path": "",
@@ -671,7 +602,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=910z20QAAAAJ",
-        "citations": 52865
+        "citations": 52952
       },
       "wikipedia": {
         "url": "http://en.wikipedia.org/wiki/Daniela_L._Rus"
@@ -726,7 +657,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
-        "citations": 164281
+        "citations": 164460
       },
       "affiliation": {
         "path": "",
@@ -766,7 +697,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=P6krKIkAAAAJ",
-        "citations": 174306
+        "citations": 174370
       },
       "affiliation": {
         "path": "",
@@ -804,7 +735,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=4mF2FgcAAAAJ",
-        "citations": 332210
+        "citations": 332193
       },
       "affiliation": {
         "path": "",
@@ -838,7 +769,7 @@
       "bio": "National Research University Higher School of Economics",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=vbLFLLEAAAAJ",
-        "citations": 152202
+        "citations": 152296
       },
       "affiliation": {
         "path": "",
@@ -877,7 +808,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
-        "citations": 264588
+        "citations": 264818
       },
       "affiliation": {
         "path": "",
@@ -921,7 +852,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Bgzrdc8AAAAJ",
-        "citations": 163064
+        "citations": 163154
       },
       "affiliation": {
         "path": "",
@@ -988,7 +919,7 @@
       "bio": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=oY9R5YQAAAAJ",
-        "citations": 224426
+        "citations": 224516
       },
       "affiliation": {
         "path": "",
@@ -1049,7 +980,7 @@
       "bio": "Queen Mary University of London",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1DS8DjgAAAAJ",
-        "citations": 238835
+        "citations": 238810
       },
       "affiliation": {
         "path": "",
@@ -1083,7 +1014,7 @@
       "bio": "PhD Physics, Stanford University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=_EPCKe0AAAAJ",
-        "citations": 219914
+        "citations": 220097
       },
       "affiliation": {
         "path": "",
@@ -1131,7 +1062,7 @@
       "bio": "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=paTAXiIAAAAJ",
-        "citations": 192697
+        "citations": 192814
       },
       "affiliation": {
         "path": "",
@@ -1169,7 +1100,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=3VyGrdwAAAAJ",
-        "citations": 17803
+        "citations": 17859
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Karl_Iagnemma"
@@ -1206,7 +1137,7 @@
       "bio": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=mXSv_1UAAAAJ",
-        "citations": 195515
+        "citations": 195714
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Leo_Breiman"
@@ -1228,6 +1159,74 @@
           "width": 128,
           "height": 89,
           "title": "Leo Breiman",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/lev-dudko.md",
+      "title": "Lev Dudko",
+      "excerpt": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lev-dudko/index.json",
+      "webUrl": "https://everyday.cc/ai/people/lev-dudko/",
+      "type": "profile",
+      "name": "Lev Dudko",
+      "bio": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=zEQGLhoAAAAJ",
+        "citations": 196845
+      },
+      "affiliation": {
+        "path": "",
+        "name": "sinp.msu.ru",
+        "domain": "sinp.msu.ru"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+          "width": 128,
+          "height": 128,
+          "title": "Lev Dudko",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/lily-asquith.md",
+      "title": "Lily Asquith",
+      "excerpt": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lily-asquith/index.json",
+      "webUrl": "https://everyday.cc/ai/people/lily-asquith/",
+      "type": "profile",
+      "name": "Lily Asquith",
+      "bio": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=cFhAMkoAAAAJ",
+        "citations": 211466
+      },
+      "affiliation": {
+        "path": "",
+        "name": "University of Sussex",
+        "domain": "sussex.ac.uk"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+          "width": 128,
+          "height": 128,
+          "title": "Lily Asquith",
           "isCached": false
         }
       ],

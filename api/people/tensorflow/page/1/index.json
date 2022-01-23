@@ -17,7 +17,7 @@
       "twitter": {
         "username": "lmoroney",
         "url": "https://twitter.com/lmoroney",
-        "followers": 25493
+        "followers": 25505
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/laurence-moroney/"
@@ -28,7 +28,7 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 78,
+      "heat": 67,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1438898262602256386/CiWrR6Gi_400x400.jpg",
@@ -61,7 +61,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
-        "citations": 45789
+        "citations": 45927
       },
       "affiliation": {
         "path": "",
