@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/01/19/uk_police_lack_framework_
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/19/uk_police_lack_framework_for/"
 type: article
 quality: 66
-heat: 68
+heat: 66
 published: false
 
 provider:

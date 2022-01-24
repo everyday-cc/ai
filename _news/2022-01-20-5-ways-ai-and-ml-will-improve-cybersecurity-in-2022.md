@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/19/5-ways-ai-and-ml-will-improve-cyb
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/5-ways-ai-and-ml-will-improve-cybersecurity-in-2022/amp/"
 type: article
 quality: 106
-heat: 145
+heat: 142
 published: true
 
 provider:

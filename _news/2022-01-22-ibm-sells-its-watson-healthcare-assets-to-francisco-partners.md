@@ -1,29 +1,23 @@
 ---
 category: news
 title: "IBM sells its Watson healthcare assets to Francisco Partners"
-excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson He"
-publishedDateTime: 2022-01-22T05:41:00Z
-originalUrl: "https://menafn.com/1103576554/IBM-sells-its-Watson-healthcare-assets-to-Francisco-Partners"
-webUrl: "https://menafn.com/1103576554/IBM-sells-its-Watson-healthcare-assets-to-Francisco-Partners"
+excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion."
+publishedDateTime: 2022-01-22T11:26:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20220122/3898044.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20220122/3898044.html"
 type: article
-quality: 56
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - IBM AI
   - AI
   - AI in Healthcare
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?155798"
-    width: 288
-    height: 249
-    isCached: true
 
 related:
   - title: "IBM Sells Watson Health Assets to Investment Firm"
@@ -57,6 +51,33 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/220121123649-ibm-office-californie-file-0120-restricted-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "IBM sells Watson Health assets to investment firm Francisco Partners"
+    excerpt: "IBM is selling parts of its Watson Health Unit to the global investment firm Francisco Partners, the companies confirmed Friday. The deal is expected to close in the second quarter of this year."
+    publishedDateTime: 2022-01-21T17:39:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-sells-watson-health-assets-to-investment-firm-francisco-partners/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-sells-watson-health-assets-to-investment-firm-francisco-partners/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-sells-watson-health-assets-to-investment-firm-francisco-partners/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "IBM sells some Watson Health assets for more than $1 billion"
+    excerpt: "IBM launched Cambridge-based Watson Health in 2015 with the aim of using its core artificial intelligence platform to help health care providers analyze troves of data and ultimately revolutionize cancer treatment."
+    publishedDateTime: 2022-01-21T14:52:00Z
+    webUrl: "https://www.bostonglobe.com/2022/01/21/business/ibm-sells-some-watson-health-assets-more-than-1-billion/"
+    ampWebUrl: "https://www.bostonglobe.com/2022/01/21/business/ibm-sells-some-watson-health-assets-more-than-1-billion/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2022/01/21/business/ibm-sells-some-watson-health-assets-more-than-1-billion/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 59
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/G0unhIVJfId_xgnW2c2onCtLAxM=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/FJUOSATOEEI6NLVIJUCIZMB4QI.jpg"
+        width: 506
+        height: 337
         isCached: true
   - title: "IBM has sold Watson Health. It was a long time coming."
     excerpt: "IBM announced today that it has sold its Watson Health data and analytics assets to private equity firm Francisco Partners. The highly-anticipated sell-off includes data sets and analytics products such as Health Insights,"
@@ -135,20 +156,6 @@ related:
       - url: "https://www.adexchanger.com/wp-content/uploads/2022/01/ai-machine-learning-bias-mitigation-scaled.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "IBM Sells Some Watson Health Assets for More Than $1 Billion"
-    excerpt: "(Bloomberg) --International Business Machines Corp. agreed to sell part of its IBM Watson Health business to private equity firm Francisco Partners, scaling back the technology company’s once-lofty ambitions in health care. The value of the assets ..."
-    publishedDateTime: 2022-01-21T14:36:00Z
-    webUrl: "https://www.bloombergquint.com/business/ibm-is-said-to-near-sale-of-watson-health-to-francisco-partners"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
         isCached: true
   - title: "IBM sells Watson Health assets to investment firm Francisco Partners"
     excerpt: "IBM has reached a deal to sell the healthcare data and analytics assets from its Watson Health business to investment firm Francisco Partners, the companies announced Friday."
@@ -263,6 +270,6 @@ related:
         height: 576
         isCached: true
 
-secured: "ZELJ2nRZrPAEIMpCzRFU2C9tV14j1XEmqhWEMlUX25QetTO5vvkD3iGeumHDNXvWUF7/fRUYzJzRZYZnhLg3iWMk9Bv6gsDpjCJhTZXJ1U4WAEGz+1AZ1oGTtXWO82+xloOQbyonVHottiJHLtJVyEoKQsVrYiQxURXNUFN/jzCeul8XsdCL272sKXrzLyRxG+VbMd/0k6k1JESZw+Na1fUB9rGaL9Ja3rBGzCBPxufKqQUIogkVwySoPdE8RXaCSVRSpDzcY0ywPX1i149RFYX6/xC7rL0Tj2HAHAL5guXcigQd5cWxOgh5u6xRG/zOkRnhayoH00uqL9nbdl+ouuny2kWX6Bg7WLDJv8csvPw=;uAfk/esfcfFxPFtMXxAX1Q=="
+secured: "RTlgoXU1c5CNJeg3xRF1q9HFRmRK4xiykcjNs0PDkVhK9ZZ7d4j3sOd9DS10okisc49Bkn7zaRFKp7/Pzv9N+YZcHccyEj9WH7jStmqVhIAiYvA8R31EC6bsKVuFTKPNKD0Zi8xTseU7JqXB4iuMTru34ox7hLWhGox5r4fwptWWO8dqbh0EflIxoVxsqX/Gk75I93GVVofi1iyWpzH2xmajA4qCwWVleTrgFbeaQL9M1P8B7k2q6FeLM2UVd1E8ZiRfYQoltJz6LECr6vjSF2167oyq+d3j5Z08bI8QipB7CoY8Rr5yclUnKj8pMva0uN13Y2oRym1BOyXW0zTA9FjuhRokZoA8BSJ7JTsR1xM=;ZICwpUMlpDCizD0+YCjfcg=="
 ---
 

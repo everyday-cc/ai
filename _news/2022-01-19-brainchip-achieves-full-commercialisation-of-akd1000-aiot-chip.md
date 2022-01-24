@@ -9,7 +9,7 @@ ampWebUrl: "https://www.electronicsforu.com/press-releases/brainchip-achieves-fu
 cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/brainchip-achieves-full-commercialisation-of-akd1000-aiot-chip/amp"
 type: article
 quality: 74
-heat: 87
+heat: 86
 published: true
 
 provider:

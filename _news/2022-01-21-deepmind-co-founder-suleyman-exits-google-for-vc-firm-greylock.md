@@ -1,8 +1,8 @@
 ---
 category: news
 title: "DeepMind Co-Founder Suleyman Exits Google for VC Firm Greylock"
-excerpt: "The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure."
-publishedDateTime: 2022-01-21T08:41:00Z
+excerpt: "The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman ..."
+publishedDateTime: 2022-01-21T11:59:00Z
 originalUrl: "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
 webUrl: "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
 type: article
@@ -124,6 +124,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "MRU8JwdM16ZDyTakZ8uJZek67cm373q596/PL+KK0xhMgaZ64+g9MUtCQbPv3DnoDfHqTo8YOlpKp908rDVjoUr8ddMIDZvitgV5CJu+hwOG4SBwOD4HzP9rHVXxEz08FA3F8x+/Yp2b1Jfh6rEGy02l8H1T2LEixOgl4+tB457nfUfQD0Nzxk2/oVP5hLFUyG4NKAv+6+rGGy8Wke4SmMSbL8cKqklxDpyVjqpwFI3Oznqc0C0VAa7TseoJCDBK3zNdVP3YXIyoBJNdhCf+kM3htVkDAV5TTFBsp+WD+fEgXMj742Rv62KnMglkkX1zqM43D2z/wZg5KSfWF6MQNPXNJJ5RUcztoI922AVA/gR4C3cDY344poW2P3sMg/XZ6u7iM3o5BNjS+8oWEu9VaWbK/6oT24Xm3ZaxYRGBvA7Yk1NrNbBvSswonWQ+J4wKCPq0zJ+Ggf0thUlY70aiPX+oa6uU54dumB/cRlDqvAJw3Rxzr5H9GZSZ1r10iO2b5J+vVq1VKAarZ6ukh6zw7g==;lSLdrJkDEIfdvYmOpq4H7A=="
+secured: "w9KrvtPVwXulPr9cbsnedd857yJpfMh6XGmzgr+kgSCKTQAxJ6Atd7wh3JhTpS2pGRDKTFjwHGpL28nZpmfbf7iZlDUpeKsvRzLrdgj4L2u1qvwiuc8VbrZhtjeGpZDyNCaTyT+ZlmKegHvY2X1CAeEr18Hb3qUQyHt4y+nsGo7wuPwTijEvAs9D883MqQ5HWweOs+rIn4HTotpeonC3CZv5TXUnwWonk5oJ0pBFZqwYDzoSNU1H1AnaC4ZAmbDU3hM+flEspZcGaxZpCcwQcIJ3H6siJx9CsqtMI4uooxbh4aBwV/r+I4Z4mvQb18w0ozQUH6TE4aVEdNym5wNssnw0bD0spvK3Wm+H0+QP2po=;pkV0L5OcDPHJoyrGR08eFA=="
 ---
 
