@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Google Prediction Framework addresses data pipeline drudgery"
-excerpt: "Framework weaves together Google Cloud Platform services to simplify the implementation of prediction projects."
-publishedDateTime: 2022-01-10T04:38:00Z
-originalUrl: "https://www.reseller.co.nz/article/694299/google-prediction-framework-addresses-data-pipeline-drudgery/"
-webUrl: "https://www.reseller.co.nz/article/694299/google-prediction-framework-addresses-data-pipeline-drudgery/"
+excerpt: "Google’s Prediction Framework stitches together Google Cloud Platform (GCP) services, from Cloud Functions to Pub/Sub to Vertex AutoML to BigQuery, to help users implement data prediction ..."
+publishedDateTime: 2022-01-10T04:43:00Z
+originalUrl: "https://www.arnnet.com.au/article/694299/google-prediction-framework-addresses-data-pipeline-drudgery/"
+webUrl: "https://www.arnnet.com.au/article/694299/google-prediction-framework-addresses-data-pipeline-drudgery/"
 type: article
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_17.jpg"
-    width: 472
-    height: 315
-    isCached: true
-
-secured: "UVt3ofyH+7spENQttIBOWFpDBOj/0iCBFaSNuMWrlSThVsdknvfDUETj6DDJUX8L+u4ZHjBL0sFMOHbGHRQXxZBq0o7vTFtXeIBHOB1MNuSiIhD/DMBF3qDAA3VgbKoADBAuT74BUZMDdiXIsz9Dsfu2gphSENUpqFTl43u8YN2gl/Qjqt5LBhqH/9pD22p3/wgNT9L4wVPiE1nifDPS3mFc76JkI45mhoQJ9XYTt4JdOmxX6N6rMngk/Z8anTk+DiQ7113BeXZctjJrKKe+L5wcyPNbxTWcbyH7E+lsW6h+Aa/wKUaCTFKojh99YFQDbbuM+beBMcj66ZRTMkc1rtpUt6do98KnWib2lpgdrFLA/7HnpboOA8IoP2qYFwU2bF4+9yMQSI/u8Dr0tDgmodu0zY+o8IxOopchirE7ogMa35p7bv00W3WTMlW63/NGUUnX9AxpgAkM2ttHZAI3dJ1iGkPKE9oQJUSftRIYchxZduVyp8i/rKYD0IcQUecbZuUXhFZmRmqbr6r43pPUpQ==;/xGBPmrcSWdEj7eIzqdxtQ=="
+secured: "zXpCGypxRX/L/roBQ/SAEC5DhqpgWV9eYBJgwD9ohxjkhldLlvFtGX/xv1Pc15oaXFxUB9O2CjTIAF1o6BWNjNBuKWjNAc3LbXYZv6ZVAdwo8i/An9DGftxczXcEH11LSyp1zMFN5IX32WPU4Z1uyNzHJbeYXqpNFZ7na+Vb/cYMqisKWz2EMKoiN4kDfPRCRDgP9Z0hayftjny9zUlWqTUq6BEhhXEFplIbZhZBiEq7XWLBvVKInB/BA50k6AWiNAYHcOPBOhJmjNRZQ+EWAXrK1WF+TmhHWRIxblBGjIj06OzrYPmdCKBGsawEAW5eD47KtLlobTaGrky9BMg8TAqQgR50N7aifbSZBBDitr0=;8quKdjzKz4Bfca0ktgzhDw=="
 ---
 
