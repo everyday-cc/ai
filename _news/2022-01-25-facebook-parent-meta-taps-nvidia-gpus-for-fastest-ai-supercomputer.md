@@ -141,6 +141,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Facebook Parent Meta Building Supercomputer For AI Research"
+    excerpt: "Meta on Monday announced its new AI Research SuperCluster (RSC), a supercomputer meant to be used for AI research projects."
+    publishedDateTime: 2022-01-24T12:29:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/?amp"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 39
   - title: "Meta is building an AI supercomputer"
     excerpt: "By Rachel Metz, CNN Business Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions"
     publishedDateTime: 2022-01-24T17:24:00Z
@@ -170,6 +181,6 @@ related:
         height: 315
         isCached: true
 
-secured: "QXEn0mMEO8tzLiZdSTXTLC7w1XpS/aCU3Ubc7luNif9qj/TR1A74IldDbnUYtiYq1iwGOTRm5YAylaG71inMDa2NZdTRzzPDHf+8HbFbH/Vnz931bKef6x44yjGhrS+2MNquDsDj9mLudLdSWtqliGfyTxYIq3+lKFgAszWw1yBlUzQE69RLwmV07ROAImsYMlEWFAsdVruFjdB/+bUOfkXcDpENHMy5Ct34xSV2IbzsCfYf0UV8A7SV/rDrfQJ4S4vdGSP4qzKicMLCLr7vvON/2CJUCw/qCq/sFZF/azTfELR/VqHe5RBMkfYLSEiW8tLkNikY9oi0GqroqWqWObUn04vYZW17FWfn6vTJoIQ=;hGY/D93PzZ3tnj40Iic+gw=="
+secured: "MaISlijhVu9Tp06xUzEMRXrHnfBDyHWRPMVQAAzFEmDDyO6RUN8Omjg2rb+g0/BB/pJbmlNRdSNj8qOU1Hd2QCGxnqX/twUNvzVO9nbnPGpwSJZhFHPp5vXwxI8uZF/jnyz2epX5sFOfVstYcH+5hJVMdb2BOaCpdkhkYWk8aOm4aaVOhdgd9zx07mtI6iLS6IdLoSZVGZI+zZjk68PG62zZaoEcBwHURHt6Au/ifM6pELkcMjeq/s+bc12nJX0gdDbI+dTB6zljKoHrKye7zTYxaXKt3cmx/b9ZIG7iMtIbQHVm8SI2qFYWrJCwGbEjj5qObS0AOQswg+0HvyAqYtiIL5WbVYp/+SOHrkCkOdZX6esF1r7Oy2X0Sf/nuKrft+EHjOwqsTPPlyQpS3h2/PMK6cp6Fz2LIggPYVcngc+KW6nP3GPZ6ZFn1LZrhFVIobbcB63kiv4N6tO1l5yjQkS/5mR3SKvCrovJT6HY84YGP05IMAOMaPBOCEN4I2NVhm6lt9IdCTukuVCcTv6Vmg==;0Ey4H4BLnBMPV6QMzFanTQ=="
 ---
 

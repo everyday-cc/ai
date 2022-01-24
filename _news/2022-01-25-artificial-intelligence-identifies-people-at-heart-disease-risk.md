@@ -22,14 +22,14 @@ topics:
 related:
   - title: "Could artificial intelligence help people survive one of the world's deadliest diseases?"
     excerpt: "Sepsis is responsible for one in five deaths worldwide, and is likely an underlying cause of COVID-19 deaths. Now a Vancouver immunologist says he's found a key solution using artificial intelligence"
-    publishedDateTime: 2022-01-24T16:23:00Z
-    webUrl: "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-    ampWebUrl: "https://www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-    cdnAmpWebUrl: "https://www-bowenislandundercurrent-com.cdn.ampproject.org/c/s/www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+    publishedDateTime: 2022-01-24T16:25:00Z
+    webUrl: "https://www.richmond-news.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+    ampWebUrl: "https://www.richmond-news.com/amp/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+    cdnAmpWebUrl: "https://www-richmond--news-com.cdn.ampproject.org/c/s/www.richmond-news.com/amp/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
     type: article
     provider:
-      name: Bowen Island Undercurrent
-      domain: bowenislandundercurrent.com
+      name: Richmond News
+      domain: richmond-news.com
     quality: 50
     images:
       - url: "https://www.vmcdn.ca/f/files/glaciermedia/images/health/neeta-long.jpg;w=1000;h=734;mode=crop"

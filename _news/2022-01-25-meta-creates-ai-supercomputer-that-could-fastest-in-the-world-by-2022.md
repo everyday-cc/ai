@@ -139,6 +139,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Facebook Parent Meta Building Supercomputer For AI Research"
+    excerpt: "Meta on Monday announced its new AI Research SuperCluster (RSC), a supercomputer meant to be used for AI research projects."
+    publishedDateTime: 2022-01-24T12:29:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/?amp"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 39
   - title: "Meta is building an AI supercomputer"
     excerpt: "By Rachel Metz, CNN Business Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions"
     publishedDateTime: 2022-01-24T17:24:00Z

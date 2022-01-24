@@ -2,19 +2,19 @@
 category: news
 title: "Could artificial intelligence help people survive one of the world's deadliest diseases?"
 excerpt: "Sepsis is responsible for one in five deaths worldwide, and is likely an underlying cause of COVID-19 deaths. Now a Vancouver immunologist says he's found a key solution using artificial intelligence"
-publishedDateTime: 2022-01-24T16:23:00Z
-originalUrl: "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-webUrl: "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-ampWebUrl: "https://www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-cdnAmpWebUrl: "https://www-bowenislandundercurrent-com.cdn.ampproject.org/c/s/www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+publishedDateTime: 2022-01-24T16:25:00Z
+originalUrl: "https://www.richmond-news.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+webUrl: "https://www.richmond-news.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+ampWebUrl: "https://www.richmond-news.com/amp/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+cdnAmpWebUrl: "https://www-richmond--news-com.cdn.ampproject.org/c/s/www.richmond-news.com/amp/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
 type: article
 quality: 50
 heat: 60
 published: false
 
 provider:
-  name: Bowen Island Undercurrent
-  domain: bowenislandundercurrent.com
+  name: Richmond News
+  domain: richmond-news.com
 
 topics:
   - AI in Healthcare
@@ -39,6 +39,6 @@ related:
       domain: medindia.net
     quality: 37
 
-secured: "wDfAK9j+9PD0dA7dtZ/239oiKVCmviFQOG/jEkynUg1sgPSE1bb3KYPNR5nMEPyH4WYLqL8ZisCs3uqhhqHQZXOmHKSt0JLkRyt/UKVUnzehPIZTigVmBAS78/O42LHcHniGj833hD9EAS/w3x12V0MmJDun5Tglu0V7s3rVcuqhi2QtylY9ZzHjeA8bTd1BqgKhUKEgD6m1NK4BcPUbYMGDVzJ9Sd1pZbm6gY8MDykNmDdsddizJRflhSixFN52NcmKvzx95kx9RLM6v0xL2mTiWjcvPUQgN6VttgkNHXSPr947kHC0tCXpJpUQZLQ+OCTDOF7KVT+0ipZGVlCzZbmecR/Xw3mut4g7tYaMtcE=;F7Mil1W1lnR7MHHpjbrtXQ=="
+secured: "X7sl+jT6Paczh54U94fiYWK9SYx/hg6mOGg6ixT5wlIMPshXK5E0ZCMChNZYw71Jmxo0PZrZh0juBeytnOCt8bs1kVHVo8ehdEQXXOci5EAkpXkdmntoD0IR6NeVb12KGxDpGLh0Xba06eUl9TiqCsYrYw5HPVD8A/b62qeRXX0jjWT08OU2I36Y+t/acn6gRmSYpLY9yXph2FmJmDNaGyi7qpCSslO6aX+Vwc4myypeSYLNBLVNv9XosEvJpc4/K62jcFSHRzuPw369Oi4P1FEHOArxpPiqE9/PU8Z9W6GMVMH1e6cE5O/n7u1jdk7osJOHvkj2Udp47r3HPx8kYBz6ROwo4VVH0etRUu5w4uM=;jmfotHQ8xst7rC6sBj6jxQ=="
 ---
 

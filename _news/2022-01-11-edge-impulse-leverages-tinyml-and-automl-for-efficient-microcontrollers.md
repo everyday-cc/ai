@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Edge Impulse Leverages TinyML and AutoML for Efficient Microcontrollers"
-excerpt: "Concept: San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers. TinyML is an ML technique that can be implemented in low-energy systems including sensors to perform automated ..."
-publishedDateTime: 2022-01-11T12:21:00Z
-originalUrl: "https://www.just-style.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
-webUrl: "https://www.just-style.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
+excerpt: "San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers."
+publishedDateTime: 2022-01-11T12:47:00Z
+originalUrl: "https://www.retail-insight-network.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
+webUrl: "https://www.retail-insight-network.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
 type: article
 
 provider:
-  name: Companies
-  domain: just-style.com
+  name: Verdict Retail
+  domain: retail-insight-network.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.just-style.com/wp-content/uploads/sites/34/2022/01/shutterstock_767487700.jpg"
+  - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/01/shutterstock_767487700.jpg"
     width: 500
     height: 277
     isCached: true
 
-secured: "8RUiScu9iN7t772rAHQJKoDsVNjpXr+klz3cX1XumFmQ5Mbqo84a/65nli2Tq28gV8cUlBxvMNnyPO9Yy9s/4NV1+m75fl3EqKIxyNQRVa5HgjKePRekgWmC9/hPiTZ+2EK6/A/+BNgpvNZl6bv0piI63iKiyGVTtRGi38pbWHB2PiTao+zKDw+EwD2jRLe3TAw+RfVl9y+F/F9W2ILQCtbdoJycmPWy17NxNBC471y8GU0YVWksxG3FdVM+RG84Twu7LqerLt4N9MuzGwaC32Mq0yl7Xbpu0FvVguaRt7zOoTM11eYcgjfT8xmAyHI0aYR5gK3MkM41RnMvn223LRMmybx9cgTn4bCIboUZoug=;iimKbFZ3GPX6tU72prXGdQ=="
+secured: "RJ880V+jJ68f4kVTatIcBschRNT8q/Xfu00O0Hjn+2GLwfF/xDAaZqfcNAQtbZZ+U+UXfOlAG6fpb2fW2Wf59GBa6PKLs6QAqNWNXmGNepNmB8D4QgOTQ8/F2WWcdmGiQ9mvZOMU/UmzQrLCeXrkfYzOKqwmF/W1vrsXQuxNLqPCRGzHeF9u2WvXE2ZGzQ8EVOlNRS9gKp7G3bWRto+08cRK0dfblSPBMONYVbjbbz7ySidgKjqZqsTcxruOJZWBBl0ntz2Yq5vdBzTjq8QaqMnKzKRxQbzWySP0t/TOzGDmlabw1t/bz2POTEmqpG90TfhDRK6iWJU7X3QrmR+dh82DFrAn2aQyyY0IDvUjT00=;9fL6NJdKVHrsjLo559Hy3g=="
 ---
 

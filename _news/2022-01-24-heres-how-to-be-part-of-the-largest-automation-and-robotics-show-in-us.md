@@ -7,7 +7,7 @@ originalUrl: "https://www.crainsdetroit.com/sponsored-content/heres-how-be-part-
 webUrl: "https://www.crainsdetroit.com/sponsored-content/heres-how-be-part-largest-automation-and-robotics-show-us"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Robotics and automation stocks to watch in 2022"
-    excerpt: "Robotics stocks are companies related to the booming industries of automation and robots, which are having an increasingly important role in our everyday lives. The use of automation and robotics is only growing,"
-    publishedDateTime: 2022-01-23T00:27:00Z
-    webUrl: "https://www.cmcmarkets.com/en-gb/investing-guides/robotics-stocks"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 54
-    images:
-      - url: "https://assets.cmcmarkets.com/images/earhart_chooseyourpath_bg.png"
-        width: 1344
-        height: 964
-        isCached: true
 
 secured: "gxtfqT1Gy3BNtMkZhV/JnZ+68dIZ5iryJJU5H3J1R++TUEaXJyNBhq4lRUkRSv6bpz3emJen51j7Gre1QXoG9Jy97dN3ZA+2HG4FubvA514dklH9evId5I159tdpyikyXnIVTw0vRDF03GHULQche+QDM1MqBUfX3G71TNgwSyCvLOefT7ZApC/WG3R+Z5yIaPi2EnQYBWbbadPIK5F5vYdOqaHU4j5lLsN93Cs8SnaiL0F8jPS1eAbYsHL3W3gCa5v6tKMBl0ZCTJ1ELDZS+8/awUSxB9CkPGBdY++F0BxdtMtNGS7LutbOIBflRcyr1I1F4s6eKfhYyKhd0cG2CUIBW7gXtH+Wq/WWtFtg92fXt2rxVtIEK/gwhtSXmI0Gczr0bge5jJzA6y7LR7Ak8zfdUVw1nkAs2codEvASlqqouzEb5HOJ/q9CstQrYxTpguGxrbOrKQWPDGN93k1gef3N/RJlNYpNvMdrkPiPoG1rf11pVuOFteZ0VSeF2G4VTGoaTEyJ9Q9vacEvBOVCCw==;TU1BPsk9Ybo4gmN89aiCYQ=="
 ---

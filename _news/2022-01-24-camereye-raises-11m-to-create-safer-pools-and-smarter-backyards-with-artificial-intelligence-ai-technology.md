@@ -3,8 +3,8 @@ category: news
 title: "CamerEye Raises $1.1M to Create Safer Pools and Smarter Backyards with Artificial Intelligence (AI) Technology"
 excerpt: "CamerEye(™), a San Diego company that is reinventing swimming pool and backyard safety with the first Artificial Intelligence (AI) Smart Fence and safety"
 publishedDateTime: 2022-01-24T13:41:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/camereye-raises-1-1m-to-create-safer-pools-and-smarter-backyards-with-artificial-intelligence-ai/article_9843879d-b6b3-5460-b096-1acadcad2340.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/camereye-raises-1-1m-to-create-safer-pools-and-smarter-backyards-with-artificial-intelligence-ai/article_9843879d-b6b3-5460-b096-1acadcad2340.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/camereye-raises-1-1m-to-create-safer-pools-and-smarter-backyards-with-artificial-intelligence-ai/article_9843879d-b6b3-5460-b096-1acadcad2340.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/camereye-raises-1-1m-to-create-safer-pools-and-smarter-backyards-with-artificial-intelligence-ai/article_9843879d-b6b3-5460-b096-1acadcad2340.html"
 type: article
 quality: 32
 heat: 32
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "zaTml7oH8hwtV2mxT4zb1dA9RrPHDymLGseu+XkCq8E/7b/HF5fActLMOKtvgPdBNeDirTUWCvTKoT7C4CeKRDKvnhJHe40dOjgLixDWbf+sv3avoXvb/P7U2AeuaEg8s9+LEURAIyqwqwhUZ1ZT0ewvs1700sdgANxTpRtgQiCdo+HCsSkWnI+47b19p/YlZdsXC93OqR4fJAX6mSLRHQIiDI8+6uM7JnO6EqIclq9R8QxxwXUcanBUbXnq4FHu/rwR2WNtNhZBZQdHaETVaMeQpxYVJuThSIhMrK+6C+6OnWf5KiBZFrobDLXTBYUM8kRHgEMC66D7avw5FF2SkmhR2fOiPcsYZ6VKvtbXgQk0NZ2dTOzJNWf2z/LwqrRf3Ja0JVbLu33upwtHSirXyUn3lNDlE9wJpfkU32moOdhlTrdckJ+YmPuMY+D4ackNW+7uLyjjqz9JOEP8/WQAzMP/V3+h/hac8egynbHL8Pbwz9ttipQRWXHCj1zEuqLHID9S2a7kjnZLDqXnKHJ+lg==;pkpWgvqP670rfcvb7uluHw=="
+secured: "yP1jZ6R9BFSo8SULP49vkmk45bO1Bpj6wfBPyncBxewfTd4r4PZn0uVj5B1/DwqbPh+NnfV9WV/lwXhM6WmFoWXeD9dAmPXQROTlPfzawt0LiJnLkPme7I48tQ3unVha6DAmDUwoo0nTisTWLUspFuVl0AtdzLqcv8ms0cjNtKgzAB0HVPLeBce1EWi9dzr/SBnPK1b+sNq3zMG0dAx+JgF8olJ7SRzA0VdZDsqhlPtp9ZgA3n1YmsJgGHrEPuMuXyhkvLw8sBhKfJ/9lvem6TBDEWxH4PC6PB+M7CViewkPL+phoRX8ShC0C9agxf/3tjuspStfcBM0DESM51NfZTOkBm1MQ/uGBG0wnU5coxY=;quAx1NfYWx7MQkjN5mBULg=="
 ---
 

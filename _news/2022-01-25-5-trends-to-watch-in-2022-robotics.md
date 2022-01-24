@@ -1,0 +1,47 @@
+---
+category: news
+title: "5 Trends to Watch in 2022 Robotics"
+excerpt: "Growing Investment in Robotics Companies – Investors continue funding the latest robotics innovations in various industries, including the medical, manufacturing, logistics, hospitali"
+publishedDateTime: 2022-01-24T19:11:00Z
+originalUrl: "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics"
+webUrl: "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics"
+ampWebUrl: "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics?amp"
+cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/5-trends-to-watch-2022-robotics?amp"
+type: article
+quality: 74
+heat: 84
+published: true
+
+provider:
+  name: The National Law Review
+  domain: natlawreview.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+    width: 1426
+    height: 808
+    isCached: true
+
+related:
+  - title: "Robotics and automation stocks to watch in 2022"
+    excerpt: "Robotics stocks are companies related to the booming industries of automation and robots, which are having an increasingly important role in our everyday lives. The use of automation and robotics is only growing,"
+    publishedDateTime: 2022-01-23T00:27:00Z
+    webUrl: "https://www.cmcmarkets.com/en-gb/investing-guides/robotics-stocks"
+    type: article
+    provider:
+      name: CMC Markets
+      domain: cmcmarkets.com
+    quality: 54
+    images:
+      - url: "https://assets.cmcmarkets.com/images/earhart_chooseyourpath_bg.png"
+        width: 1344
+        height: 964
+        isCached: true
+
+secured: "LxH4yTeEoOE04ikkNbtymC363TAV/JXcf4IaerMcPpuw4IXHLF3BXVLVszQPBg7gF7vkdaBU656uoSjJHLCgTOUH3fU9zPJ/XMpd1sD2vRLB+7uzqndcRqN5FSiPWq/Sr0Sz1uUJgbAaSX3n4a06LMAzXW3FJwDQQOB546n+3686boLDhooamSlTLHJUqGsBmzB7pyCl97S7PcM78FA/Njs0aiMOsnKwupqaJ0MhjDQYyU2Q3hs8Ud4od0VBTkrRfV6Djgkpoj3366rlW4ixVA3BWNQdEcm37RxVtB2YYHNNc4nlYfEIs+PoZI0zu8vG+h1/LQGKMzofqn9Ctm/FQuigeuZfc6299i7IRyrNspo=;E7iHCkHntZ72U2vn4CBaaA=="
+---
+

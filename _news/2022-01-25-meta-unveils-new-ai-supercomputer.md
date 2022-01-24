@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/meta-unveils-new-ai-supercomputer-1
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/meta-unveils-new-ai-supercomputer-11643043601"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -143,6 +143,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Facebook Parent Meta Building Supercomputer For AI Research"
+    excerpt: "Meta on Monday announced its new AI Research SuperCluster (RSC), a supercomputer meant to be used for AI research projects."
+    publishedDateTime: 2022-01-24T12:29:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/?amp"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 39
   - title: "Meta is building an AI supercomputer"
     excerpt: "By Rachel Metz, CNN Business Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions"
     publishedDateTime: 2022-01-24T17:24:00Z
@@ -172,6 +183,6 @@ related:
         height: 315
         isCached: true
 
-secured: "DLgFz6r8M30aDUJ0vja31zrrAtm9MKAPhosWkpBs06gxFwym6ISJPV8iHKI5XQlN2TdROmyHpucd0J53eDlFi0kZ6PJU9cN5Lh/AgN7JeyAHlZGh7xA9Oqqu0QWx/spm4t+2tYr2TlusmFuvbsw4OUuwzXwEiPZKe/UfbFe3n14zFeR+INsVbcwLGRBhFrpDwv5YyzxcIXauaSGXdAMVPKSU07i5GfRVu3P/PHQoPwRIPZWlgqLSfm/0AHbT+jd0r1wipJmf3ERuv7SGjqtB+4vhsRJpO3a1XLZMQ/dsEq0Ieer/VFrlVX97P0FyItWw9GEw3GcbVzxwvBi7gf98n9s5SbVqNt+mFU2d/GjGKwk=;pKdBPECJ1P8gMMB8XrK2Yw=="
+secured: "txVgIC0dQnVaMSo3FbwO8MvgBBgeSKQyPZeavIUCHl/3XgU8kmJZyrABQtqFOZzAvbhiPouj4qK1tnBP82s86ysUauJ5YdUhzQ0uFxux1jcyjkWFOZAYwM1pMkNETzTR/LfIHTQfu0iq72ATaZSoLSWcYPpGq5Xtfzwh3s9bgA1jKb75zAhWti/yQ/cvh/r7XjiYpvIHfJnOT42jqQyqScm/wcw/Rs1OP/1DpJ/oxSevuKVOxp628te3f2JdkS/XVjPwlADV7/bNvUVu8QpnMqi59qRMQBUo7r8TweEbQd6Fl1gvytu6XngPztp/0OGOoigRIm8nXLv7722kru3aPJpCoA8hecfppCwRuNZTL7bseA4tPv+ECl5/t0HqqX4rxtZ3uxTO7pbzH2VbVAgjqqM9gC3yzIhkv+jisKL3ZhfnBUglTqKRxtjSRcb+BI8CHRgVFMX+WRNONjmRLhc1fAgb8t6dO5jJiq5NmJCCmoxi1nvV0KwTenTpllAMwwnQDm0mxJWKOPJJS4cQus7hfg==;CJD3d/dZKOCZFiVbMytzOg=="
 ---
 

@@ -143,6 +143,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Facebook Parent Meta Building Supercomputer For AI Research"
+    excerpt: "Meta on Monday announced its new AI Research SuperCluster (RSC), a supercomputer meant to be used for AI research projects."
+    publishedDateTime: 2022-01-24T12:29:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/?amp"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 39
   - title: "Meta is building an AI supercomputer"
     excerpt: "By Rachel Metz, CNN Business Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions"
     publishedDateTime: 2022-01-24T17:24:00Z
@@ -172,6 +183,6 @@ related:
         height: 315
         isCached: true
 
-secured: "x5FrwUI5r/W6wkUaAqyFJZm12vV5MJM6YKqHGZDgEa51tRmJQlgxYFbbJQzUR0bljBTNceM5jfKFuga4ooJVc+wU2y1trHcwgf9c81ZtaoGlI1ZbfbZ+uemnwtO6kR+Ep/rkpI1WrKmtUux7Ie1VA5/iE/MsGoEPMfcctNMsVPa/dzmZchRI/mSMJBHED6jnZKE6CgjsHx7/IECSVo0A7DVEkhwaNdObgeFxWYo+I5F/ocTVaHPI18BheX5lARjxUymJoXar/0e98D3lBgsVH/3CQzeZaxg3xpvUyLYuAfBu0O4Q3W7KD0jdDlMO5NaG5nsyGx4dA0j/k0PbUjAM59KPArgnqd/LkWUeYYGfXFA=;VF2LmPRcv1ePISwi8i+Jeg=="
+secured: "NvKR835TyTQ6bW3YqFwDuQ5q1WDc7XA0oT3onrH3j6U/sBdZGBq0ZjveIinp5d3XikTTI1ufrTYUhdRy0pbdS3mP1ye3RxG5jbnNbG57A3vr3Qoby5snyJl+0zT2JKYvm7ZkUAPXIwUfQGPCUIzTN6HzTwpsDIaDAEd5yQzJKU9QmhMKYquow5BpvIENuUo2sipHSnCY2hWbhD0msNUvPsBo/EqIBOaZOtYuhCGxLgcP+UW5DwyptIcCLO8S9oJVYZ7PdGMXYUZxv9Xbv18yI51CM9+M3uviy8QvCiyr58ueWGRcVEQCuMp7bvvbudCXVO8IvQIw0HOfSkcyDjbC3JY8R41IgNw9bsv9F9oI4XAaWtwXYZvG295qzDPZ/mV2v4pb/UGdEy19QESPdKzMLIYtZOVnEZAdx/XIY3/1HQlncvBFlKaR0SWMiWX8bA11aKaGR3Th5naaXODCy+jWDrzz08JSEhRw3Qdm7ZUes7zc7w2gXnJwH8cLx+rZE3KVqjcd5D1k2pnug2nevDc9jw==;iM0IeddPvHXoWT8kiJfG3Q=="
 ---
 

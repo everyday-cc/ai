@@ -7,7 +7,7 @@ originalUrl: "https://www.cmcmarkets.com/en-gb/investing-guides/robotics-stocks"
 webUrl: "https://www.cmcmarkets.com/en-gb/investing-guides/robotics-stocks"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s how to be part of the largest automation and robotics show in U.S."
-    excerpt: "Registration is underway for Automate 2022, North America's largest trade show and conference showcasing the leading advancements in automation and robotics for a broad range of industries, produced by Ann-Arbor based Association for Advancing Automation (A3)."
-    publishedDateTime: 2022-01-24T10:00:00Z
-    webUrl: "https://www.crainsdetroit.com/sponsored-content/heres-how-be-part-largest-automation-and-robotics-show-us"
+  - title: "5 Trends to Watch in 2022 Robotics"
+    excerpt: "Growing Investment in Robotics Companies – Investors continue funding the latest robotics innovations in various industries, including the medical, manufacturing, logistics, hospitali"
+    publishedDateTime: 2022-01-24T19:11:00Z
+    webUrl: "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics"
+    ampWebUrl: "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/5-trends-to-watch-2022-robotics?amp"
     type: article
     provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 53
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 74
     images:
-      - url: "https://s3-prod.crainsdetroit.com/styles/800x600/s3/cd20211025p11-Showfloor147-web.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
 
 secured: "KzbVqr6Tl2MChAHq9Cim4cXGps8qZ5qDk/itk348MVSa3dcR+LOmyJkh0zkYuZd9IZ9oeY8ka9DckdNIDj2c3WRDP3zs1vjjmVaAieasFQ35CmXIZ9blLvJd4GkLuPVy7bkuS6MIx2lPigkqVLwZIvZrIq8c89OJB9dqjGhI/zYT61rIEThTzY5cUYgNURiolG1e5MuUS5WeQdLqSXi/zT+eTs+PhIUPUS5kcBFdAIR7vDsRdyFRFpOaE6hGhRGFBqv9JzGrr9hOI7Tb2/lnSoAB59ROgllzajSQJlS7XYov5+HIPGbTNmKcCWHc5Z0j4cK8TqV8/QhZrwTzRixxSywn5hdtRD1QHOs1eUSPcw8=;Apv3iEbShE2/xmfVmrBmdw=="
