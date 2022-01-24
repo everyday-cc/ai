@@ -194,6 +194,40 @@
       ]
     },
     {
+      "path": "_news/2022-01-07-natural-language-processing-nlp.md",
+      "title": "Natural Language Processing (NLP)¶",
+      "excerpt": "nowadays, a lot of natural language processing is statistical in nature, i.e. it uses statistical and probabilistic algorithms to learn rules for solving language problem such techniques don’t have a deep understanding of language in the way that humans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfu.ca/~tjd/310summer2019/chp22_nlp.html",
+      "originalUrl": "https://www.sfu.ca/~tjd/310summer2019/chp22_nlp.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T15:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Simon Fraser University",
+        "domain": "www.sfu.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology.md",
       "title": "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology",
       "excerpt": "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,",
@@ -1371,58 +1405,6 @@
         "name": "USA Today",
         "domain": "usatoday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-25-flurry-of-language-industry-investments-and-mergers-acquisitions-wrap-up-2021.md",
-      "title": "Flurry of Language Industry Investments and Mergers & Acquisitions Wrap Up 2021",
-      "excerpt": "Four noteworthy announcements over the last two weeks provide several object lessons in how the language services and technology industry works and is evolving: Smartling and Lokalise both received substantial infusions of venture capital (VC),",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/flurry-language-industry-investments-mergers-wrap-up-2021-don-depalma/",
-      "originalUrl": "https://www.linkedin.com/pulse/flurry-language-industry-investments-mergers-wrap-up-2021-don-depalma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFEZa2oJ5ZIyw/article-cover_image-shrink_600_2000/0/1640353281181?e=1646870400&v=beta&t=2kmZMuUZTYk13NYbWeju331op4zE2sa4Ye0fBVyIuLE",
-          "width": 800,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-24T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

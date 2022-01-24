@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-25-boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.md",
+      "title": "Boeing to pour $450 million into program for self-driving air taxi",
+      "excerpt": "Aviation company Boeing said Monday that it's investing almost a half-billion more dollars into its sky taxi startup Wisk Aero, in a bid to bring the first self-flying air taxi to the market before the decade is out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/6161643040260/2022/1/7a2b04a5d4d56049d60ea43bce3c9397/v1.5/Boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.jpg",
+          "width": 533,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "publishedDateTime": "2022-01-24T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m.md",
+      "title": "Ceremorphic addresses AI, HPC, and the metaverse with QS 1 chip, lands $50M",
+      "excerpt": "Ceremorphic, a startup, is coming out of stealth mode with $50 million of series A funding along with the announcement of the QS 1 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
+      "originalUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340728386-e1643043402598.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
+      "publishedDateTime": "2022-01-24T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-new-emerging-fintech-security-trends-in-2022.md",
       "title": "New & emerging Fintech Security Trends in 2022",
       "excerpt": "The unexpected and rapid shift of the global workforce to WFH setup prompted by the coronavirus pandemic has caused enterprises around the world to make significant infrastructure adjustments to support employees as they work",
@@ -46,6 +141,109 @@
       ]
     },
     {
+      "path": "_news/2022-01-25-fathom-raises-37m-for-its-ai-notetaker.md",
+      "title": "Fathom raises $3.7M for its AI notetaker",
+      "excerpt": "Fathom, a startup that is building an AI notetaker for Zoom, today announced that it has raised a $3.7 million seed round from a range of early-stage investors, including Zoom’s own Apps Fund. Other investors include the likes of early Zoom investors Maven Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/",
+      "originalUrl": "https://techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kuzs0xkXo3U/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/amp/",
+      "publishedDateTime": "2022-01-24T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-meta-unveils-new-ai-supercomputer.md",
+      "title": "Meta Unveils New AI Supercomputer",
+      "excerpt": "When the AI Research SuperCluster is fully built it will be the fastest AI supercomputer in the world, the Facebook-parent says",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601",
+      "originalUrl": "https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-472356/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/meta-unveils-new-ai-supercomputer-11643043601",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/meta-unveils-new-ai-supercomputer-11643043601",
+      "publishedDateTime": "2022-01-24T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-states-augment-fraud-detection-with-ai-technology.md",
       "title": "States Augment Fraud Detection with AI Technology",
       "excerpt": "As bad actors become bolder, agencies must get smarter and they are using artificial intelligence to to do so.",
@@ -84,6 +282,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-microsoft-and-customer-fedex-partner-on-logistics-as-a-service.md",
+      "title": "Microsoft and customer FedEx partner on 'logistics as a service'",
+      "excerpt": "Microsoft and FedEx reveal more about their partnership around analytics, supply-chain and logistics management and specifically how Dynamics 365 will play a role.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/361dfa27d5375b1220767d0a3791d5367e4aeef1/2022/01/24/7b2e92e8-299c-4bfc-8871-80dbf6c8e4ce/microsoftfedexlogistics.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 925,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "publishedDateTime": "2022-01-24T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -147,7 +397,7 @@
       "originalUrl": "https://www.electronicsforu.com/press-releases/silicon-labs-brings-ai-and-machine-learning-to-the-edge",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -232,6 +482,49 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-lg-to-showcase-self-driving-vehicle-next-month.md",
+      "title": "LG to showcase self driving vehicle next month",
+      "excerpt": "The LG Omnipod, a mobility concept solution that can serve as \"a home office, an entertainment center or even a lounge,\" will be on display at a mobility fair at the COEX convention center in southern Seoul on Feb.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "originalUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgk.timesnownews.com/story/1200_x_900_62.png?tr=w-400,h-300,fo-auto",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "publishedDateTime": "2022-01-24T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews.com",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -669,59 +962,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-24-overcoming-ai-and-ml-roadblocks-in-financial-services.md",
-      "title": "Overcoming AI and ML Roadblocks in Financial Services",
-      "excerpt": "Artificial intelligence and machine learning have become critically important to financial services companies —86% say it’s important to their success in the next two years. A recent survey from Red Hat and IDG explores the challenges around AI and ML deployment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services",
-      "originalUrl": "https://www.infoworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-23T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-01-23-why-user-education-is-necessary-to-avoid-ai-failure.md",
       "title": "Why User Education Is Necessary To Avoid AI Failure",
       "excerpt": "AI failure, in most cases, is attributed to technology-centric factors like the quality of data or the capabilities of algorithms and hardware used, ignoring the most crucial aspect of AI success—the end user.",
@@ -826,6 +1066,57 @@
       ]
     },
     {
+      "path": "_news/2022-01-22-how-the-us-department-of-energy-is-transforming-ai.md",
+      "title": "How The US Department Of Energy Is Transforming AI",
+      "excerpt": "The DOE is maximizing the impacts of AI through strategic coordination, planning and customer service excellence including addressing AI ethics, AI principles, and AI risk management playbook highlights helping to transform the use of AI within the agency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ec05324e09a09bf5f6699b/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/amp/",
+      "publishedDateTime": "2022-01-22T04:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-22-the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence.md",
       "title": "The never-ending effort to bake common business sense into artificial intelligence",
       "excerpt": "There needs to be a feedback loop to ensure customers are enjoying the experience as much as you're enjoying creating the experience.'",
@@ -918,301 +1209,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai.md",
-      "title": "AI Weekly: Watson Health and semi-autonomous driving failures show the dangers of overpromising AI",
-      "excerpt": "AI technologies can fall short of their promise, as news from this week about Watson Health and semi-autonomous driving systems showed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/",
-      "originalUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/ibm_watson_avatar_pos-e1560280426131.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/amp/",
-      "publishedDateTime": "2022-01-21T21:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-sells-watson-health-assets-to-investment-firm.md",
-      "title": "IBM Sells Watson Health Assets to Investment Firm",
-      "excerpt": "The tech giant said its deal with Francisco Partners wouldn’t weaken its commitments to other artificial-intelligence technology and healthcare clients that use its IT services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "originalUrl": "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 419,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-471681/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "publishedDateTime": "2022-01-21T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-cervical-cancer-patient-given-all-clear-after-revolutionary-ai-therapy-in-uk-first.md",
-      "title": "Cervical cancer patient given all-clear after revolutionary AI therapy in UK first",
-      "excerpt": "Emma McCormick was given the all-clear after ­radiotherapy that targeted specific areas. The AI technology uses daily CT scans to map the parts that need treatment",
-      "sourceUrl": null,
-      "webUrl": "https://www.mirror.co.uk/lifestyle/health/cervical-cancer-patient-given-clear-26016448",
-      "originalUrl": "https://www.mirror.co.uk/lifestyle/health/cervical-cancer-patient-given-clear-26016448",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/incoming/article26016452.ece/ALTERNATES/s615/0_Hospital-uses-AI-to-treat-cervical-cancer-patient.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/lifestyle/health/cervical-cancer-patient-given-clear-26016448.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/lifestyle/health/cervical-cancer-patient-given-clear-26016448.amp",
-      "publishedDateTime": "2022-01-21T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model.md",
-      "title": "Microsoft will force update your PCs to Windows 10 21H2 to train its own ML Update model",
-      "excerpt": "Microsoft has begun the forced rollout of Windows 10 21H2 update to Windows 10 20H2 devices in order to help train its Machine Learning-assisted intelligent Windows Update rollout model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/06/1624557503_windows_10_21h2_pc_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "publishedDateTime": "2022-01-21T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-how-artificial-intelligence-ai-is-aiding-healthcare.md",
-      "title": "How Artificial Intelligence (AI) is Aiding Healthcare",
-      "excerpt": "Artificial Intelligence (AI) has transformed into one of the most powerful agents of change in healthcare over the past decade. The opportunities for healthcare organizations to start using AI and deliver more efficient,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/",
-      "originalUrl": "https://techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/01/how-ai-is-aiding-healthcare.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/amp/",
-      "publishedDateTime": "2022-01-21T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-what-learning-can-learn-from-machine-learning.md",
-      "title": "What Learning Can Learn From Machine Learning",
-      "excerpt": "Taking a few bits and bytes from machine learning could go a long way to improving K-12 and postsecondary learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604060ec040608a6a8d30b0e%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/amp/",
-      "publishedDateTime": "2022-01-21T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-25-ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m.md",
+      "title": "Ceremorphic addresses AI, HPC, and the metaverse with QS 1 chip, lands $50M",
+      "excerpt": "Ceremorphic, a startup, is coming out of stealth mode with $50 million of series A funding along with the announcement of the QS 1 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
+      "originalUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340728386-e1643043402598.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
+      "publishedDateTime": "2022-01-24T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-22-elon-musks-brain-chip-startup-prepares-for-first-ever-human-trials.md",
       "title": "Elon Musk’s brain chip startup prepares for first ever human trials",
       "excerpt": "Elon Musk appears close to beginning the first ever human trials of his brain-computer interface technology. A new job posting for a ‘Clinical Trial Director’ at Neuralink reveals that the neurotech startup is preparing to take its brain chip research to the next stage.",
@@ -1354,49 +1406,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-seeing-machines-launches-partnership-with-ai-firm-ambrella.md",
-      "title": "Seeing Machines launches partnership with AI firm Ambrella",
-      "excerpt": "Driver monitoring technology company Seeing Machines announced a collaboration with artificial intelligence (AI) silicon company Ambarella on Thursday, to bring integrated advanced driver assistance system (ADAS) and occupant and driver monitoring system (OMS and DMS) products to market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sharecast.com/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
-      "originalUrl": "https://www.sharecast.com/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img1.s3wfg.com/web/img/images_uploaded/e/1/dl-seeing-machines-aim-technology-computer-vision-driving.jpg",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sharecast.com/amp/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
-      "cdnAmpWebUrl": "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
-      "publishedDateTime": "2022-01-06T03:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sharecast",
-        "domain": "sharecast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

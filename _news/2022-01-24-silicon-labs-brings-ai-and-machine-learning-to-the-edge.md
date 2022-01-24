@@ -9,7 +9,7 @@ ampWebUrl: "https://www.electronicsforu.com/press-releases/silicon-labs-brings-a
 cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/silicon-labs-brings-ai-and-machine-learning-to-the-edge/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-89084442,imgsize-52818,width-1200,height-628,overlay-etcio/ai-is-bringing-science-fiction-to-life.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "IBM on AI and Manufacturing in 2022"
+    excerpt: "Kendra DeKeyrel, Vice President Asset Management Products Leader at IBM Software, offers her thoughts on AI and manufacturing in 2022"
+    publishedDateTime: 2022-01-21T10:37:00Z
+    webUrl: "https://manufacturingglobal.com/ai-and-automation/ibm-ai-and-manufacturing-2022"
+    type: article
+    provider:
+      name: manufacturingglobal.com
+      domain: manufacturingglobal.com
+    quality: 37
+    images:
+      - url: "https://manufacturingglobal.com/sites/default/files/styles/og_image/public/image/GettyImages-1275786906_2.jpg.png?itok=RC5GR5b1"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "xo90q83NdyL96I1P1z6iEvmqt0qKP/TEJhk53vrp1HtixrC1whI4YxxdE7JDaxDiLT/zz4Miwbx2lvfOzo5/L65P+o29SyLvmxAmVmfXUSYNfeuRDiZkMOysKuw764mPrawVe2FSHk7Xkx8v5sKFJeazq8b7Nivhwb/TMRzx9Zh6ND8j8E82jHZGK0YWjDowQfezfg1qwHkSfN1otCs2LeaGN1f+2nEFWI8sCrNeXjkF7EniRy1F30wZYuvgwFDok4PxtwQejfQlBzCm6yWcV3zpp32OFzjBoAr7P3JSFdxCMujFDpiZaV0SEyqAnxKOhBfZTB8RC/divubsuuo/Sth3Kmr18jGXh1q2pZUeGW8=;4cnNMxiYzhndhUv3aC1VhA=="

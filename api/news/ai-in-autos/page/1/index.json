@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-25-boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.md",
+      "title": "Boeing to pour $450 million into program for self-driving air taxi",
+      "excerpt": "Aviation company Boeing said Monday that it's investing almost a half-billion more dollars into its sky taxi startup Wisk Aero, in a bid to bring the first self-flying air taxi to the market before the decade is out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/6161643040260/2022/1/7a2b04a5d4d56049d60ea43bce3c9397/v1.5/Boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.jpg",
+          "width": 533,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "publishedDateTime": "2022-01-24T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-lg-to-showcase-self-driving-vehicle-next-month.md",
+      "title": "LG to showcase self driving vehicle next month",
+      "excerpt": "The LG Omnipod, a mobility concept solution that can serve as \"a home office, an entertainment center or even a lounge,\" will be on display at a mobility fair at the COEX convention center in southern Seoul on Feb.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "originalUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgk.timesnownews.com/story/1200_x_900_62.png?tr=w-400,h-300,fo-auto",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "publishedDateTime": "2022-01-24T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews.com",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-new-ratings-aim-to-make-partial-self-driving-safer.md",
       "title": "New Ratings Aim To Make Partial ‘Self Driving’ Safer",
       "excerpt": "Many partially automated systems that “share” the driving with motorists, like Autopilot, Pilot Assist and Super Cruise, don't provide enough back-up protections, according to a new ratings system.",
@@ -1317,101 +1403,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-tesla-could-be-forced-to-report-full-self-driving-beta-data-to-dmv-after-videos-showing-dangerous-use.md",
-      "title": "Tesla could be forced to report Full Self-Driving Beta data to DMV after ‘videos showing dangerous use’",
-      "excerpt": "Tesla, who managed to avoid reporting autonomous driving data to the DMV, could be forced to open the books on its Full Self-Driving (FSD) Beta to the California DMV after what the latter called “videos showing dangerous use”.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
-      "originalUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/",
-      "publishedDateTime": "2022-01-12T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-richardsons-skyven-raises-65m-in-oversubscribed-seed-round-and-grants-for-its-clean-tech.md",
-      "title": "Richardson’s Skyven Raises $6.5M in Oversubscribed Seed Round and Grants for Its Clean Tech",
-      "excerpt": "The energy-as-a-service company aims to reduce industrial emissions through AI and an IoT platform that identifies areas to lower fuel consumption.",
-      "sourceUrl": null,
-      "webUrl": "https://dallasinnovates.com/richardsons-skyven-technologies-announces-4-million-seed-round-6-5m-in-total-new-capital/",
-      "originalUrl": "https://dallasinnovates.com/richardsons-skyven-technologies-announces-4-million-seed-round-6-5m-in-total-new-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s24806.pcdn.co/wp-content/uploads/2018/04/ArunGupta_970-Skyven-Technologies.jpg",
-          "width": 970,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T20:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dallasinnovates.com",
-        "domain": "dallasinnovates.com",
         "images": null,
         "publishers": null,
         "authors": null

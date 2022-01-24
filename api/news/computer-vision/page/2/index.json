@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-06-ecovacs-new-deebot-x1-cleans-your-home-and-itself.md",
+      "title": "Ecovacs’ new Deebot X1 cleans your home and itself",
+      "excerpt": "Well-known robot vacuum maker Ecovacs has revealed its newest robot floor cleaner as part of CES 2022: The Ecovacs Deebot X1, and this one is a pretty significant upgrade, with useful new tech. By now we’re all familiar with robot vacuums and mops,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/",
+      "originalUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-deebot-x1-family.jpg",
+          "width": 500,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/?amp",
+      "publishedDateTime": "2022-01-05T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-telanganas-facial-recognition-technology-comes-under-scanner.md",
       "title": "Telangana’s facial recognition technology comes under scanner",
       "excerpt": "A division bench of the state high court issued a notice to the state government and the Hyderabad city police commissioner, seeking an explanation over the propriety of the usage of technology and whether it infringes on one’s privacy while being in public places.",
@@ -195,24 +247,33 @@
     {
       "path": "_news/2022-01-05-277-billion-worldwide-image-recognition-industry-to-2026-key-drivers-and-challenges-researchandmarketscom.md",
       "title": "$27.7 Billion Worldwide Image Recognition Industry to 2026 - Key Drivers and Challenges - ResearchAndMarkets.com",
-      "excerpt": "facial recognition, object recognition, pattern recognition, and optical character recognition. The facial recognition technology is expected to witness significant growth in the forecast period ...",
+      "excerpt": "By Technology (Digital Image Processing, Code Recognition, Facial Recognition, Others), By Deployment, By Application, By End User, By Region, Competition, Forecast",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20220105005623/en/27.7-Billion-Worldwide-Image-Recognition-Industry-to-2026---Key-Drivers-and-Challenges---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
-      "originalUrl": "https://www.businesswire.com/news/home/20220105005623/en/27.7-Billion-Worldwide-Image-Recognition-Industry-to-2026---Key-Drivers-and-Challenges---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
+      "webUrl": "https://www.lelezard.com/en/news-20178301.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20178301.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/covid-19.jpg",
+          "width": 421,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T04:33:00-08:00",
+      "publishedDateTime": "2022-01-05T05:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1288,49 +1349,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation.md",
-      "title": "MOL, JRCS to Research Potential of AI-based Object Recognition Technology to Support Watchkeeping Aboard Vessels ~ Aiming for Safer Operation",
-      "excerpt": "Mitsui O.S.K. Lines, Ltd. and JRCS Co., Ltd. announced joint research on the use of AI-based object recognition technology by leveraging each company’s knowledge and technologies, with the aim ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hellenicshippingnews.com/mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation/",
-      "originalUrl": "https://www.hellenicshippingnews.com/mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/o2c64VdVtTA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hellenicshippingnews.com/mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation/amp/",
-      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation/amp/",
-      "publishedDateTime": "2021-12-20T02:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hellenic Shipping News Worldwide",
-        "domain": "hellenicshippingnews.com",
         "images": null,
         "publishers": null,
         "authors": null

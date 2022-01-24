@@ -53,14 +53,14 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Potential Opportunities Worth ~USD 50 Bn Opening Up for Artificial Intelligence Companies - Exclusive Research Published by MarketsandMarkets"
-    excerpt: "Disruption - Opportunities worth USD 50+ Bn are opening up for AI companies, which is going to become a USD 300+ Bn market by 2026. Various factors such"
-    publishedDateTime: 2022-01-24T13:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/55049774-potential-opportunities-worth-usd-50-bn-opening-up-for-artificial-intelligence-companies-exclusive-research-published-by-marketsandmarkets-008.htm"
+  - title: "Potential Opportunities Worth ~USD 50 Bn Opening Up for Artificial Intelligence Companies - Exclusive Research Published by MarketsandMarkets™"
+    excerpt: "Opportunities worth USD 50+ Bn are opening up for AI companies, which is going to become a USD 300+ Bn market by 2026. Various factors such as growth of data-based AI and advancement in deep learning and the growing need to achieve robotic autonomy to stay competitive in a global market are expected to drive the adoption of the AI solutions and services in the coming years."
+    publishedDateTime: 2022-01-24T13:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/01/24/9531386.htm"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "o4NlsAwZ80nZQasUzuRLjHo8Vqh+Vqo8wHGE6nOtPkxomFNp44q1QlxdjwJWd/q9uXIn9L6xC7hZ+io1zpfuphhuV4V4Vjs2FHWJzuBtUWpFaXrytkHXj1VVpySRM6sbIzugNXVs3Lgi5wB0bHkyIy6QMpJ5DdIDZocltG16yQwDKqY0R0mEYoG/3LeH+S3k56yBo2dCZc4/R7psQ4DATXaPpmAEw9sNV9RXYYOVu1k+7qzU/5ssIi2jahcs+nPUtRfrzCe8/9mdCh5EKF8p4jfvhzUoNDgHpK8om9xBDrJ/leUICZOwIySF2Q5jBE2IGMkvG15eTOmJ3VO0YMFWMm7DdMSN+r5HGd7tp/wpmcs=;DEwR2ptqXr9jwj6HvfAI7A=="

@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Potential Opportunities Worth ~USD 50 Bn Opening Up for Artificial Intelligence Companies - Exclusive Research Published by MarketsandMarkets"
-excerpt: "Disruption - Opportunities worth USD 50+ Bn are opening up for AI companies, which is going to become a USD 300+ Bn market by 2026. Various factors such"
-publishedDateTime: 2022-01-24T13:06:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/55049774-potential-opportunities-worth-usd-50-bn-opening-up-for-artificial-intelligence-companies-exclusive-research-published-by-marketsandmarkets-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/55049774-potential-opportunities-worth-usd-50-bn-opening-up-for-artificial-intelligence-companies-exclusive-research-published-by-marketsandmarkets-008.htm"
+title: "Potential Opportunities Worth ~USD 50 Bn Opening Up for Artificial Intelligence Companies - Exclusive Research Published by MarketsandMarkets™"
+excerpt: "Opportunities worth USD 50+ Bn are opening up for AI companies, which is going to become a USD 300+ Bn market by 2026. Various factors such as growth of data-based AI and advancement in deep learning and the growing need to achieve robotic autonomy to stay competitive in a global market are expected to drive the adoption of the AI solutions and services in the coming years."
+publishedDateTime: 2022-01-24T13:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/01/24/9531386.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/01/24/9531386.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
+  - Facebook AI
   - AI
 
 related:
@@ -62,6 +62,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Rv8eybt8mMkyV/Mkz9s4OpelN61pvIG0WVLkl26AIwTKLyNcT8naGQEPQBVRS86b7tB3UbDUZm0VSfoJLSTXitgRjzszZTCflj4Le+aYy793pHmaFK9QfVZOS+SolC1CG7Lt1ijXygdVDGKLlLo9HB1gzhl0NrBL/7MpexWubpAlP0Wxa3S5hLfnSZPVD5FYDHacuxmokVSXAbmCE636NNc6tN1R0grWpR3V0acClcO6jHpgRb8puVD5gV5aAvF9PUNJ0VSWA5ScgnYXGidFuOprFN0re+DwduNNbJs7Zc8Ce8bLM45o7S5n8yLMvsAXJ4hs4frOQvWEFuz3bYBX5CY0VBq/gmi5R2bv2fE7W0M=;wQlFWHshkZhbWtID/NX/eg=="
+secured: "hlWzn2OmoeZr1rwECZOgCVcBP3eeH/gwCAR3oGvKSpBbE+diw7CKriymBOu5e60w5MRHOV8AyNmnmwl7CryxqUCdCJboqmUatujRxaB2fRN1Hz73crJOrtkSfox+zyBqnn99vZgelxNH3/njBlMpe3rwATxxI97Mr8Z+0NVawZvrBMyRxEKkgEEq+hYQnL40qV8rRJ8ezPPihOi21UwKZ0Sh/ebmbP2f7X1VZXmYTfcW4S5P/o1W6lBmpmeO7d5RUv+EJuArE8GRZzRcFVjcEgbNhSHwOsIkmzlkbi/yiI31kzo2fybspipe92AwtFtcxLg+oAWc8s4Bd59SjVHLHAer9Wd+3667+z4P0wrGccTzJhMD5geODJAIrnw7FFzw9VDhi8oIv27DxOUnX1qe3InNZ16acxWIk/POWsdBytoIT3mgiVLZ8J1SYyRzCNuwuFVV7nmM+joFz8Db5qxcME2ygGVA0R/SVoVcJ7vpnGmQPyw1YkY9hbKkL8U0cb2qvj7ezlACm/3j83cQnvjPoA==;muwJAnE2reHKr0lpoFQefQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesnownews.com/amp/auto/features/article/lg-to-showcas
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: timesnownews.com
@@ -41,6 +41,15 @@ related:
         width: 324
         height: 236
         isCached: true
+  - title: "LG to unveil life-size self-driving concept car"
+    excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as \"a home office,"
+    publishedDateTime: 2022-01-24T18:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220124/3899559.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "CsJ7kZnJX0Wsl5tO7MMbSO2Y9UlLrPtgPSB/jkaLUe+anLobZEwvYNnheMj2qQ03RmL+RQaMkNSpcWrhWOnkxfF59EAkBQAzHcpoh/kdZ2kDUGRGCJ+mkwp7rxADSL/+AhGxAlJVXvs9E0UwdyuoFdnrjvQVQ7K/NTSuQlDgVWs9iwB6vrvffhPild7el2CCmMVE7Qs15ViDyMg65yuqD9oNdZiP/CD/Kf8xT123SRXXQ+47Uf8Ck+8udnf1QBtzp7wNSuR3B4VQNd1N6EXqvzl3oufr/P1XVCObHlNL4hN/03PAzqVJl2Ys3KMJ+A248ToD82EWWLvCZOzKiUKwEV6qf7Q7zlfCyfUVNsed144=;l2f8UZwbwKXKcPg6Saismg=="
 ---

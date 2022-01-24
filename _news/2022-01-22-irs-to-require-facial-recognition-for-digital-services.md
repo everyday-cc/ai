@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/gov-experience/irs-to-require-facial-recogni
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Government Technology
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IRS Will Require Facial Recognition Scans to Access Your Taxes"
-    excerpt: "Users will have to submit sensitive government documents, their social security number, credit history, and a facial scan to third-party company ID.me."
-    publishedDateTime: 2022-01-20T02:25:00Z
-    webUrl: "https://gizmodo.com/irs-will-require-facial-recognition-scans-to-access-you-1848387715"
-    ampWebUrl: "https://gizmodo.com/irs-will-require-facial-recognition-scans-to-access-you-1848387715/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/irs-will-require-facial-recognition-scans-to-access-you-1848387715/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/88c8412542d5104907dbc8089b769431.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "IRS to start using facial recognition this summer; selfies will be required"
     excerpt: "The IRS will require users of its online portal to create an ID.me account starting this summer. Citing security blogger Brian Krebs, Business Insider reported on a new message on the IRS website directing users to create an account with ID."
     publishedDateTime: 2022-01-21T14:28:00Z
@@ -59,6 +43,20 @@ related:
         width: 4992
         height: 3328
         isCached: true
+  - title: "ID.me Comments on Adherence to Federal Rules on Facial Recognition \"Selfies\" that Protect Identities from Theft"
+    excerpt: "ID.me provided the following comments today. Statement from ID.me CEO and Founder, Blake Hall: \"We are committed to ensuring everyone can verify their identity online and use it to access essential services."
+    publishedDateTime: 2022-01-24T12:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/id-me-comments-on-adherence-to-federal-rules-on-facial-recognition-selfies-that-protect-identities-from-theft-1031122288"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/1732098/IDme_Face_Matching.jpg"
+        width: 400
+        height: 273
+        isCached: true
   - title: "IRS will require facial-recognition to access online system"
     excerpt: "The Internal Revenue Service will require taxpayers to take selfies and verify their identities through ID.me to access online accounts starting this summer."
     publishedDateTime: 2022-01-21T15:57:00Z
@@ -74,6 +72,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/3361642779267/2022/1/663cd84d126d3399aad535ceab6d5cb4/v1.5/IRS-will-require-facial-recognition-to-access-online-system.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "Is It Time for Facial Recognition in Restaurants?"
+    excerpt: "Biometric technology, such as facial recognition, offers this exact benefit. Today, it ensures restaurants are running safely by equipping entrances with health screenings to detect masks are not only being worn,"
+    publishedDateTime: 2022-01-21T21:04:00Z
+    webUrl: "https://www.qsrmagazine.com/outside-insights/it-time-facial-recognition-restaurants"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-01/fastfoodrestaurant.jpg?itok=1S6fBBHf"
+        width: 765
+        height: 446
         isCached: true
   - title: "Smile! The IRS Wants You To Send Selfies to a Facial Recognition Company"
     excerpt: "\"No Identity Left Behind.\" Americans who want to access tax return transcripts, check on child tax credits, or do"
@@ -100,6 +112,15 @@ related:
         width: 1500
         height: 900
         isCached: true
+  - title: "Targeted Memory Reactivation During Slow-Wave Sleep May Facilitate Facial Recognition"
+    excerpt: "Recent research suggests targeted memory reactivation might help with facial recognition and name recall, but quality and quantity of sleep may be important factors in effectiveness."
+    publishedDateTime: 2022-01-20T21:52:00Z
+    webUrl: "https://www.ajmc.com/view/targeted-memory-reactivation-during-slow-wave-sleep-may-facilitate-facial-recognition"
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 12
 
 secured: "UIG2VTfZvzhnL9XL0QbnPXyTj1AXXS8nL18tpT3/dq/HT+bwqSPDkZUv842o7oQPIWMeDJN21vUXXIfw5eArs9DDa0fz+MoGWBhscNRnFgNVJPYdJvGrQRnQbpBoXR9RYxY9Iyz/g9Driw247kq20l08eoTHjTgKqLn/Wmd/O0T2qrcE50B2Vv3D7QI54tKPVghLgaA78glm4x/2l2dKRIlDf84rTzDfgYpF5ghvASWo4EcNl7e5sOsX9HzDsqVNvFPvkEIQ+B9Uocj6x3VBwc7Bak9yjorIRIjA12Gr/dLpYT1SzBMfJylALaXJFPxWYab0b1B6GI5RgiT5ojzz8RXottmi75z7DjcZa7YlyYeQazDDwC6Fa9YFeRkTIiy36EXTclqqHaIcFrdodyfuMWgW+HhRj4z/mrthDraZB5YaCUxfYdXQDz8bN1HhPgu0H/50sUYntYgLKGTtMG9evcUiXEC8MsIGU3ZpEO7Vdxa3/gOFMf0wX6ACsWJh62FwP3MhXrTLjfYwSzICk0UJTA==;Fvzsw5xgB8pOGlvOPslltQ=="
 ---

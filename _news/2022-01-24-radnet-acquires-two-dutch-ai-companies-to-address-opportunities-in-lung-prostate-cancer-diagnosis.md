@@ -25,6 +25,22 @@ images:
     height: 422
     isCached: true
 
+related:
+  - title: "RadNet broadens AI focus with acquisitions of Aidence, Quantib"
+    excerpt: "Imaging services provider RadNet has acquired Dutch artificial intelligence (AI) software developers Aidence and Quantib in deals that the company hopes will enable wide-scale screening programs for lung and prostate cancer."
+    publishedDateTime: 2022-01-24T17:56:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=134806"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 37
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_16_16_27_9194_artificial_intelligence_AI_abstract_social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "UykEhQ6w54BQ+aex27YRMXHVGtwqQsQK03N6u9xSu66OnoqTNrkqo7mJ75vvdbuZIFecsTbsQHGf6pVspO+jE3EKtltRopwXU+EWriwSf+d75mdezD572tGRV9jJCx91ENT7DGpeFLLlDU7SyYg7tuC+ZoozOiCWWVDRTRvMp/gHdT8MDH1KcvzPx04wDhNAuO6//yue9Ztmnd2FKs7hfoVaILuze9we3yLJ7HvvNG6GrFSCxLUKFVUbd8hjUpOtPA9VZdM2//bL/C6J6LBOLK3x+fINIRRgbY2u9FICgFLvKY/HeYIqTHDliKwytv1Z8z77C9BKTm7fUuXBa2x72J8/qzIfZrNHynEXz8Az3i7gu2DWV1QN8rLLpXHJRgtI/vYtpCdADMFkjhJFFetebDQXr7Wn2br41WcU7OFn/Jrslxm2HCPGdsSYCV7+MaVOs3vg+QTM/Gh7WlTkTz8xEp4pqVQ0SjPtt27gvYNYcLWMyjCnBn/+ANGvPkvnSWGCVa4j7GckP98ILD+i6p6IKg==;6MXYw80c0qokbbsYkFjQqA=="
 ---
 
