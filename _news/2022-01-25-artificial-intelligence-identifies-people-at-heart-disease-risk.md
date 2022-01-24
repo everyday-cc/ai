@@ -22,14 +22,14 @@ topics:
 related:
   - title: "Could artificial intelligence help people survive one of the world's deadliest diseases?"
     excerpt: "Sepsis is responsible for one in five deaths worldwide, and is likely an underlying cause of COVID-19 deaths. Now a Vancouver immunologist says he's found a key solution using artificial intelligence"
-    publishedDateTime: 2022-01-24T16:25:00Z
-    webUrl: "https://www.richmond-news.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-    ampWebUrl: "https://www.richmond-news.com/amp/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-    cdnAmpWebUrl: "https://www-richmond--news-com.cdn.ampproject.org/c/s/www.richmond-news.com/amp/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+    publishedDateTime: 2022-01-24T16:47:00Z
+    webUrl: "https://www.delta-optimist.com/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+    ampWebUrl: "https://www.delta-optimist.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+    cdnAmpWebUrl: "https://www-delta--optimist-com.cdn.ampproject.org/c/s/www.delta-optimist.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
     type: article
     provider:
-      name: Richmond News
-      domain: richmond-news.com
+      name: Delta Optimist
+      domain: delta-optimist.com
     quality: 50
     images:
       - url: "https://www.vmcdn.ca/f/files/glaciermedia/images/health/neeta-long.jpg;w=1000;h=734;mode=crop"

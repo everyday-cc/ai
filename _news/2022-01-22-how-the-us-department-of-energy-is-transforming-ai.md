@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-de
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Transforming Modern Medical Devices with Machine Learning & AI Inference"
+    excerpt: "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,"
+    publishedDateTime: 2022-01-24T20:36:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 57
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/X1P1_web.jpeg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "How Artificial Intelligence will Transform Businesses"
     excerpt: "All around us, we see technology blooming starting from cars, to transport, to entertainment and now in businesses as well. Businesses have been making use of technical advancements in order to boost their productivity and those that are doing it have proved to be very efficient in the market."
     publishedDateTime: 2022-01-23T12:49:00Z

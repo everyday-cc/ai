@@ -302,6 +302,40 @@
       ]
     },
     {
+      "path": "_news/2022-01-18-cyndx-private-market-data-now-available-in-eight-languages.md",
+      "title": "Cyndx Private Market Data Now Available In Eight Languages",
+      "excerpt": "Cyndx can now translate private company information to English from seven languages - French, German, Italian, Japanese, Portuguese, Russian, and Spanish. This allows Cyndx's AI-powered platform ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/cyndx-private-market-data-now-available-in-eight-languages/article_c8b94069-8cdf-568f-884a-f29475a0e868.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/cyndx-private-market-data-now-available-in-eight-languages/article_c8b94069-8cdf-568f-884a-f29475a0e868.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-google-ais-plan-for-2022-and-beyond.md",
       "title": "Google AI’s plan for 2022 and beyond",
       "excerpt": "Google is pursuing research, called Pathways, to enable this next-gen architecture through an umbrella effort.",
@@ -1422,40 +1456,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-09-ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party.md",
-      "title": "Ramaphosa uses ANC anniversary speech to stamp his authority on the party",
-      "excerpt": "South African President Cyril Ramaphosa delivered a speech to mark the anniversary of the formation of the African National Congress (ANC) over which he also presides as president. It was",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174596",
-      "originalUrl": "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174596",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-08T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

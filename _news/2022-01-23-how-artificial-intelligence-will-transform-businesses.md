@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Transforming Modern Medical Devices with Machine Learning & AI Inference"
+    excerpt: "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,"
+    publishedDateTime: 2022-01-24T20:36:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 57
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/X1P1_web.jpeg"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "U6zs7zcvUYpRGuBbsgiKZ5MG4yBB2v7qe5aSdWmzGdcdF1OnkhiKSi7kNKu/LaObq+iquDAsA9OFS24LCyPKViFWcWTvb2VyLfjx3vUs9sShsScRE1k1Snn/+3J9W/r2pw9g/r3YEeX8bBHC5Uknqg6gXiHnWcJpYkViyLlQ0EMoBBYAEGvMI1J0QyF3C2HM7JID4x9lzeiOTs/HzzXKFB9v6nsUM8oKcbJ/lDkvpYPXDcHZH7kQ4QFNjzjhwDLD/AeD1ODnDHm13sSmRRRFeYC2m2hV2G27KUf3NWjsFM6fUgpZQ7y1L7p7p8+7EBpzCOuKdRyADha4cgYnkcWB/3jVpxEEGWLO/xifos0l3iU=;te381+yXW1FVtbvgEiE5Xg=="
 ---

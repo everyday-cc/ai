@@ -1,27 +1,20 @@
 ---
 category: news
 title: "Cyndx Private Market Data Now Available In Eight Languages"
-excerpt: "Cyndx can now translate private company information to English from seven languages - French, German, Italian, Japanese, Portuguese, Russian, and Spanish. This allows Cyndx's AI-powered platform to capture and translate native language-only company websites,"
-publishedDateTime: 2022-01-18T13:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cyndx-private-market-data-now-available-in-eight-languages-1031108824"
-webUrl: "https://markets.businessinsider.com/news/stocks/cyndx-private-market-data-now-available-in-eight-languages-1031108824"
+excerpt: "Cyndx can now translate private company information to English from seven languages - French, German, Italian, Japanese, Portuguese, Russian, and Spanish. This allows Cyndx's AI-powered platform ..."
+publishedDateTime: 2022-01-18T13:25:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/cyndx-private-market-data-now-available-in-eight-languages/article_c8b94069-8cdf-568f-884a-f29475a0e868.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/cyndx-private-market-data-now-available-in-eight-languages/article_c8b94069-8cdf-568f-884a-f29475a0e868.html"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "LjeZ9LXWbtfMKwwvtw9Xdp06S4S8D8WgWfOK/ion0JMCRRHAviKxwbawGjvgxX5cLLdZw1zU7pwwY13mndg51WZxKeG/lXKuWNLXL1SYKnzw5gk7+7kfxAPHHZHbHqGkATRAxeKa50+Wj8qKlOfK+2n9ij+SrLTliZ3S4Xmf3TaXTLkYvMq3kCbcWcqHy5gaZCLchcDxWzkKRacOFx/AFWVqKuBA5dibcvNxic6MGCBZuYAl6G5tf+GRBe8rExiQkcOFljuWWfClEwtXFBLXEhQuJQKuI7XuzfWxDsv+zqr1JdW9nvUK77H7L53b+AQKwzWSKpQ6fsHC1vw+/i8XshUNFWGra2rsfvGOC4uQRoc=;+C0XidseII0ero8Sl8qTTg=="
+secured: "PevTLOhx3csbHsqpVl67fHzHgsThChw0zM+9X4TaUJzTJR54q7sT2nOmGG86U7a9IBnYsdgdI7WUaGuizQsk/ARVVTxZrGTB4dSSS6rm7QmZ9TQtsJLXG0ctj9rmzBW+infIpw2tFgqbghrallFhIDGpM+GCaMGhhiTl5CDD+j9QhHQWlPtCywFZJnWT0ennVwEF8vw9F2PtAj8HBLzWGzYfvMVcxaFJyMR4CLibObKr60GV0KVrJ6Doo9DojsjJUAJDBVbMIbArzR65HgDXW9fI0iLwrHVbb1gtbPd/x8RbWz9ePNRxjePSGDQOqV98w1aqBEkB07re/tGjeIvc/u/2A1IXM/tffcQPLMiONQw=;KwrZwUG/cX8SpnebOnynUQ=="
 ---
 

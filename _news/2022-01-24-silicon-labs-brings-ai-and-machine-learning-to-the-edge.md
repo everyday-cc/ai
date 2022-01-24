@@ -9,8 +9,8 @@ ampWebUrl: "https://www.electronicsforu.com/press-releases/silicon-labs-brings-a
 cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/silicon-labs-brings-ai-and-machine-learning-to-the-edge/amp"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electronics For You
@@ -27,15 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Silicon Labs Brings AI and Machine Learning to the Edge with Matter-Ready Platform"
-    excerpt: "Silicon Labs, a leader in secure, intelligent wireless technology for a more connected world, today announced the BG24 and MG24 families of 2.4 GHz wireless SoCs for Bluetooth and Multiple-protocol operations,"
-    publishedDateTime: 2022-01-24T04:01:00Z
-    webUrl: "https://www.nasdaq.com/press-release/silicon-labs-brings-ai-and-machine-learning-to-the-edge-with-matter-ready-platform"
+  - title: "Getting AI from the lab to production"
+    excerpt: "The enterprise is eager to push AI out of the lab and into production environments, where it will hopefully usher in a new era of productivity and profitability. But this is not as easy as it seems because it turns out that AI tends to behave much differently in the test bed than it does in the real world."
+    publishedDateTime: 2022-01-24T21:10:00Z
+    webUrl: "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/"
+    ampWebUrl: "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 58
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI is bringing science fiction to life"
     excerpt: "AI's use in bespoke medicines can truly revolutionize the healthcare industry and that's why in today's lead story, we delve into this topic and expla.."
     publishedDateTime: 2022-01-24T03:41:00Z
@@ -52,20 +59,29 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "IBM on AI and Manufacturing in 2022"
-    excerpt: "Kendra DeKeyrel, Vice President Asset Management Products Leader at IBM Software, offers her thoughts on AI and manufacturing in 2022"
-    publishedDateTime: 2022-01-21T10:37:00Z
-    webUrl: "https://manufacturingglobal.com/ai-and-automation/ibm-ai-and-manufacturing-2022"
+  - title: "Using Artificial Intelligence to Accelerate Wildlife Conservation"
+    excerpt: "While Artificial Intelligence (AI) is revolutionising multiple aspects of our lives, there is limited uptake of AI in supporting ecological well-being and protecting the nearly 1 million species currently threatened with extinction. Wildlife.ai is a New ..."
+    publishedDateTime: 2022-01-24T21:44:00Z
+    webUrl: "https://www.gu.se/en/event/using-artificial-intelligence-to-accelerate-wildlife-conservation"
     type: article
     provider:
-      name: manufacturingglobal.com
-      domain: manufacturingglobal.com
-    quality: 37
+      name: University of Gothenburg
+      domain: www.gu.se
+    quality: 39
     images:
-      - url: "https://manufacturingglobal.com/sites/default/files/styles/og_image/public/image/GettyImages-1275786906_2.jpg.png?itok=RC5GR5b1"
-        width: 1200
-        height: 630
+      - url: "https://www.gu.se/sites/default/files/styles/100_10_5_xlarge_1x/public/2022-01/Victor%20Anton.jpg?h=790be497&itok=BhZA7uwh"
+        width: 1280
+        height: 640
         isCached: true
+  - title: "Pony.ai to begin mass production of autonomous systems in 2022"
+    excerpt: "Chinese autonomous driving technology company Pony.ai said it planned to begin mass production of automotive grade equipment by the end of 2022 as it brings forward the roll out of Level 4 autonomous driving technology,"
+    publishedDateTime: 2022-01-21T14:42:00Z
+    webUrl: "https://www.just-auto.com/news/pony-ai-to-begin-mass-production-of-autonomous-systems-in-2022/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
 
 secured: "xo90q83NdyL96I1P1z6iEvmqt0qKP/TEJhk53vrp1HtixrC1whI4YxxdE7JDaxDiLT/zz4Miwbx2lvfOzo5/L65P+o29SyLvmxAmVmfXUSYNfeuRDiZkMOysKuw764mPrawVe2FSHk7Xkx8v5sKFJeazq8b7Nivhwb/TMRzx9Zh6ND8j8E82jHZGK0YWjDowQfezfg1qwHkSfN1otCs2LeaGN1f+2nEFWI8sCrNeXjkF7EniRy1F30wZYuvgwFDok4PxtwQejfQlBzCm6yWcV3zpp32OFzjBoAr7P3JSFdxCMujFDpiZaV0SEyqAnxKOhBfZTB8RC/divubsuuo/Sth3Kmr18jGXh1q2pZUeGW8=;4cnNMxiYzhndhUv3aC1VhA=="
 ---

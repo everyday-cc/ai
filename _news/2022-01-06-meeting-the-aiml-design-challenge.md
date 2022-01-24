@@ -15,6 +15,7 @@ topics:
   - Computer Vision
   - AI
   - Machine Learning
+  - AI Hardware
 
 images:
   - url: "https://www.newelectronics.co.uk/article-images/243330/AdobeStock_405123819.jpg?width=375&height=250&scale=canvas"

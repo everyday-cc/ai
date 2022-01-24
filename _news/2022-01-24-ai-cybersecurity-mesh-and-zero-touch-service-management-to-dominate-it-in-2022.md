@@ -7,7 +7,7 @@ originalUrl: "https://www.smechannels.com/ai-cybersecurity-mesh-and-zero-touch-s
 webUrl: "https://www.smechannels.com/ai-cybersecurity-mesh-and-zero-touch-service-management-to-dominate-it-in-2022/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber Intelligence House and Cyberwatch Finland Sign Agreement To Enable AI-based DARKSOC™ Service"
-    excerpt: "Cyberwatch Finland, the leading strategic cyber security analysis company, announced today that it has chosen Cyber Intelligence House as their Cyber Exposure Platform for the new real-time situational awareness service DARKSOC™."
-    publishedDateTime: 2022-01-24T08:41:00Z
-    webUrl: "https://menafn.com/1103582318/Cyber-Intelligence-House-and-Cyberwatch-Finland-Sign-Agreement-To-Enable-AI-based-DARKSOC™-Service"
+  - title: "IRS plans for facial recognition draw scrutiny from privacy, cybersecurity advocates"
+    excerpt: "An IRS plan to use ID.me and facial recognition software would represent a massive expansion of the federal government's (long and controversial) biometric surveillance record and carries real privacy and cybersecurity concerns,"
+    publishedDateTime: 2022-01-21T20:16:00Z
+    webUrl: "https://www.scmagazine.com/analysis/identity-and-access/irs-plans-for-facial-recognition-draw-scrutiny-from-privacy-cybersecurity-advocates"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 23
+      name: SC Media
+      domain: scmagazine.com
+    quality: 32
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?773481"
-        width: 449
-        height: 250
+      - url: "https://files.scmagazine.com/wp-content/uploads/2022/01/GettyImages-1137410589.jpg"
+        width: 1500
+        height: 900
         isCached: true
 
 secured: "ljckssxSL83VQlrzri3jDnbgtNcl0DYqCiaIpIogPsoE7mQ/9gAAejqE6WWJMesWWmKVzsGzms5mfbY8et5sn+peET5b4DNZWLBPGa18ligLgGIDfoj0vZTm35W7fUn+JAInmN9D/Ilbq7irWaZPOTepTJx7ikQi0zrmOugMLpOFxeBUid9FnUxuQ/773S9ZpiWRy2c3PBDRv3uONSvh9Vo9rVEpkjEDXUWMk/8T6i78XvMCXb03LvBoq71Y1GbtNPLKrMTWzEuyo/XBdu7qnFl9yhLEgnE6OpNSS/qJhaKVBhfdP9mbP391oA5pXpFRG3NJ9eVnlKgKH0JkxdEst4DgC3sV1Dec0SuUYiHec24=;8KPxitJvwcUIm9Tc0fFSfw=="

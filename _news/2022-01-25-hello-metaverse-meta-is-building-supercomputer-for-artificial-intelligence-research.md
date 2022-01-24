@@ -100,6 +100,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta Buys, Rather Than Builds And Opens, Its Massive AI Supercomputer"
+    excerpt: "If you thought it took a lot of compute and storage to build Facebook’s social network, you ain’t seen nothing yet. The immersive and AI-enhanced"
+    publishedDateTime: 2022-01-24T22:09:00Z
+    webUrl: "https://www.nextplatform.com/2022/01/24/meta-buys-rather-than-builds-and-opens-its-massive-ai-supercomputer/"
+    ampWebUrl: "https://www.nextplatform.com/2022/01/24/meta-buys-rather-than-builds-and-opens-its-massive-ai-supercomputer/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/01/24/meta-buys-rather-than-builds-and-opens-its-massive-ai-supercomputer/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/meta-facebook-rsc-supercluster.jpg"
+        width: 1331
+        height: 797
+        isCached: true
   - title: "Facebook Parent Meta Taps Nvidia GPUs For ‘Fastest AI Supercomputer’"
     excerpt: "Facebook parent company Meta said it is building the world's \"fastest AI supercomputer” with the largest deployment of Nvidia’s DGX A100 systems to date."
     publishedDateTime: 2022-01-24T17:00:00Z
@@ -150,6 +166,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
+  - title: "Facebook's Meta creates AI supercomputer"
+    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
+    publishedDateTime: 2022-01-24T21:57:00Z
+    webUrl: "https://www.dairynewsaustralia.com.au/world/facebooks-meta-creates-ai-supercomputer/"
+    type: article
+    provider:
+      name: Dairy News Australia
+      domain: dairynewsaustralia.com.au
+    quality: 39
+    images:
+      - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=be9bf114-dae3-57c8-a3f0-4a6a06411aab&function=original&type=preview"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Meta is building an AI supercomputer"
     excerpt: "By Rachel Metz, CNN Business Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions"
     publishedDateTime: 2022-01-24T17:24:00Z
@@ -163,6 +193,20 @@ related:
       - url: "https://keyt.b-cdn.net/2022/01/nc312-combined-commercial-slate.png"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Meta Announces AI Research SuperCluster: 16,000 GPUs, 1 Exabyte of Storage, 5 ExaFLOPS of Compute"
+    excerpt: "Meta, formerly Facebook, announced it has designed and built what it calls the AI Research SuperCluster (RSC), “the fastest AI supercomputers running today and will be the fastest AI supercomputer in the world when it’s fully built out in mid-2022” delivering nearly 5 exaFLOPS,"
+    publishedDateTime: 2022-01-24T22:33:00Z
+    webUrl: "https://insidehpc.com/2022/01/meta-announces-ai-research-supercluster-16000-gpus-1-exabyte-of-storage-5-exaflops-of-compute/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 26
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/12/Meta-logo.png"
+        width: 340
+        height: 283
         isCached: true
   - title: "Facebook/Meta builds huge Nvidia DGX A100 system, will become \"the fastest AI supercomputer in the world\""
     excerpt: "Meta, the company formerly known as Facebook, has developed a huge artificial intelligence supercomputer which it says will become the fastest AI system in the world once fully built out in mid-2022."

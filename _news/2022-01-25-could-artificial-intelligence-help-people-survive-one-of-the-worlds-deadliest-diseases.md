@@ -2,19 +2,19 @@
 category: news
 title: "Could artificial intelligence help people survive one of the world's deadliest diseases?"
 excerpt: "Sepsis is responsible for one in five deaths worldwide, and is likely an underlying cause of COVID-19 deaths. Now a Vancouver immunologist says he's found a key solution using artificial intelligence"
-publishedDateTime: 2022-01-24T16:25:00Z
-originalUrl: "https://www.richmond-news.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-webUrl: "https://www.richmond-news.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-ampWebUrl: "https://www.richmond-news.com/amp/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-cdnAmpWebUrl: "https://www-richmond--news-com.cdn.ampproject.org/c/s/www.richmond-news.com/amp/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+publishedDateTime: 2022-01-24T16:47:00Z
+originalUrl: "https://www.delta-optimist.com/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+webUrl: "https://www.delta-optimist.com/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+ampWebUrl: "https://www.delta-optimist.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+cdnAmpWebUrl: "https://www-delta--optimist-com.cdn.ampproject.org/c/s/www.delta-optimist.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
 type: article
 quality: 50
 heat: 60
 published: false
 
 provider:
-  name: Richmond News
-  domain: richmond-news.com
+  name: Delta Optimist
+  domain: delta-optimist.com
 
 topics:
   - AI in Healthcare
@@ -39,6 +39,6 @@ related:
       domain: medindia.net
     quality: 37
 
-secured: "X7sl+jT6Paczh54U94fiYWK9SYx/hg6mOGg6ixT5wlIMPshXK5E0ZCMChNZYw71Jmxo0PZrZh0juBeytnOCt8bs1kVHVo8ehdEQXXOci5EAkpXkdmntoD0IR6NeVb12KGxDpGLh0Xba06eUl9TiqCsYrYw5HPVD8A/b62qeRXX0jjWT08OU2I36Y+t/acn6gRmSYpLY9yXph2FmJmDNaGyi7qpCSslO6aX+Vwc4myypeSYLNBLVNv9XosEvJpc4/K62jcFSHRzuPw369Oi4P1FEHOArxpPiqE9/PU8Z9W6GMVMH1e6cE5O/n7u1jdk7osJOHvkj2Udp47r3HPx8kYBz6ROwo4VVH0etRUu5w4uM=;jmfotHQ8xst7rC6sBj6jxQ=="
+secured: "iQzXJ03FbTYU7YVQE8ofeKygYnKzkXSeeliXOtZHAb/Zdrp/v5xrcPyFtodVHOukfp4RWI8/bHQWzl9xLtFkfuJ3A9+Ng5EZKDERe8SUp7FvaIuv5v25oYGTa9ydyks/Odo/Jjk00MVXWTIY5nFX7Y27yvn3S9xxGBG0+H6KoWP+rr5X52a8CwaZ5nILimDbkvGeMD7Pj3/oSck4/XZdJYuuK1vC6DXzYBPMJxhLHpTXRqeD8CiWoqtFy1HHDZ7aHtxN0b9hXlWu3SvhXUp3C3QXmNyx78U9sTz1jENUEoAszWrGm3KE6A7gbY2Mrz7t6qMk0FqF9jxgjOB1sxzhA/8jHdeKZErAF7GZaUdhoRs=;NSSd69aYuLEtSfA43Iaylg=="
 ---
 
