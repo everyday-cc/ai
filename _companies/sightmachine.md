@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sightmachine"
   url: "https://twitter.com/sightmachine"
-  followers: 1173
+  followers: 1172
 
 size: 51-200 employees
 yearFounded: 2011
