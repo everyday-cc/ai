@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityam.com/ai-driven-fintech-mdotm-bets-on-game-theory/?
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/ai-driven-fintech-mdotm-bets-on-game-theory/?amp=1"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://lh3.googleusercontent.com/nBikaT3usYWrl_WehhfhbwTWMBv5Hwr8vJN_TSAIr44u9Y9DkSaH0TzSJBmgNSvtzF81fpK286WhM6zW_rzHkyFIgSs_i4DcB9YfIg=w816-h428"
         width: 761
         height: 428
+        isCached: true
+  - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
+    excerpt: "Increasing demand for AI in fintech in the cloud deployment mode coupled with high investment in R&D of AI in fintech are fueling the market growth."
+    publishedDateTime: 2022-01-24T12:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-expected-to-reach-usd-49-33-billion-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/DDD-11-600x337.png"
+        width: 600
+        height: 337
         isCached: true
   - title: "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity"
     excerpt: "Comserve / -- AI in Fintech Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast 'A research report on AI in Fintech Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail."

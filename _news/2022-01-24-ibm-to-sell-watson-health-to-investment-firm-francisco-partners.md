@@ -84,6 +84,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "IBM to sell off Watson Health assets"
+    excerpt: "Private equity firm Francisco Partners is buying a large portion of the AI healthcare unit \"more than $1 billion\""
+    publishedDateTime: 2022-01-24T12:37:00Z
+    webUrl: "https://www.itpro.co.uk/business-strategy/acquisition/362052/ibm-sell-watson-health"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 69
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596721605/itpro/IBM_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "IBM sells some Watson Health assets for more than $1 billion"
     excerpt: "IBM launched Cambridge-based Watson Health in 2015 with the aim of using its core artificial intelligence platform to help health care providers analyze troves of data and ultimately revolutionize cancer treatment."
     publishedDateTime: 2022-01-21T14:52:00Z
@@ -250,20 +264,17 @@ related:
         width: 900
         height: 659
         isCached: true
-  - title: "IBM to sell off Watson Health assets"
-    excerpt: "Private equity firm Francisco Partners is buying a large portion of the AI healthcare unit for \"more than $1 billion\""
-    publishedDateTime: 2022-01-24T12:43:00Z
-    webUrl: "https://www.cloudpro.co.uk/operations/business-management/9385/ibm-to-sell-off-watson-health-assets"
+  - title: "IBM Sells Watson Health to Private Investment Company"
+    excerpt: "IBM announced that it is selling its healthcare data and analytics assets—part of Watson Health—to global investment company Francisco Partners. Financial details of the deal, which is expected to close in the second quarter of 2022,"
+    publishedDateTime: 2022-01-24T14:31:00Z
+    webUrl: "https://www.medtechintelligence.com/news_article/ibm-sells-watson-health-to-private-investment-company/"
+    ampWebUrl: "https://www.medtechintelligence.com/news_article/ibm-sells-watson-health-to-private-investment-company/amp/"
+    cdnAmpWebUrl: "https://www-medtechintelligence-com.cdn.ampproject.org/c/s/www.medtechintelligence.com/news_article/ibm-sells-watson-health-to-private-investment-company/amp/"
     type: article
     provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
+      name: medtechintelligence.com
+      domain: medtechintelligence.com
     quality: 39
-    images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/05/ibm_cloud.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "IBM selling Watson Health data and analytics business to Francisco Partners"
     excerpt: "IBM announced Friday that Francisco Partners will acquire its healthcare data and analytics assets, currently part of Watson Health."
     publishedDateTime: 2022-01-21T14:17:00Z
@@ -344,6 +355,6 @@ related:
         height: 576
         isCached: true
 
-secured: "1Z1DP5oB+8Z0TgEPFZg1A9Qeo0uDRrmhS4XAe0sTwDRGDaihlAkabo0jztzmTY3I7KLdcs/3ZXUt0ciHGljAWP/8dr16zreVvQfkq9GXo5IwMnGL+sSAbTOdVrRDJcLi6dYQ5YikM0we+UZ9+C4BYv4yhFERpn4co5eOXLQNMisAEOq+W/63zZsnVaPq7xmMcR5dg0r/BCCdal9+dH48yyF2C/1q7jAtd6wDybIkswu7siEovLmDyBAb2tfLJ1tj+unN6tQDAqgBoteGC5b0LIggEscQhm+ljGRlOUOx88gQ2i0PXJ3n/ROl12pEsCPMmVgJdYH8bcfhgRDdDhw4DapxaCBWlF6hYI74YUuRi/I=;Ul9F5Ek8kWIrisFhdCZULg=="
+secured: "E/j3il0NxQG+3r5+Vx6SRE3cHjdubV8/WMV1HqA4ay67r0ypANx/g0LYxgZVNFvzaPRwRswMVu2hlDNR+kotq3wuSdr0FDBUtP5clMNNSi8vMXDYzFFlHrRUb6l9LwuWSNKR0dDZO9OBT2J89s9bEPL2aNIH/5uwfQMdVfoHZvDtFzJiH+xu9UbGsqV9q1ADs/DhgmvSFs1CQX7grlxRY3BSh2XgCncIHvFAvTej+a1e9F5J1EgfaZLJmY/82hlQIo3Jzyt0OfGGU11SQtWtt/JuQGNOUdR+cBGy6l1FjNyz+n2LqJ9mhd6z9kMRgSqDQsPdpbjlvKjnG3WffhsNGNOhut+L4HJUUQnJ6kcXQrC/rftPhTJwU4bMGv2sWw8UoJjSf8iEtNGFJCUj4gu9nGBTbQH37GpXjU/tKFzCDut+6taNo2lFXBQ/nHAp9bKBmalIxSz82ys9GZMZAOIPjWVcYK6lQuipZYB2iUhIM+40DfFz34Gz3NMG7mDo67CmXYe9eOYHg6l4DwBcEtkigA==;afPGX6QrIFg0K5H6Q1KpWg=="
 ---
 

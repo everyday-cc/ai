@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,44 @@ images:
     isCached: true
 
 related:
-  - title: "Robot science fiction books of 2021"
-    excerpt: "produced four new scifi books with good hard science underpinning their description of robots and three where there was less science but lots of interesting ideas about robot"
-    publishedDateTime: 2022-01-23T10:02:00Z
-    webUrl: "https://robohub.org/robot-science-fiction-books-of-2021/"
+  - title: "Silicon Labs Brings AI and Machine Learning to the Edge"
+    excerpt: "GHz wireless SoCs improve AI/ML performance by 4x using 1/6th the energyNew AI/ML Software Toolkit Optimizes TensorFlow for all Silicon Labs SoCs"
+    publishedDateTime: 2022-01-24T14:14:00Z
+    webUrl: "https://www.electronicsforu.com/press-releases/silicon-labs-brings-ai-and-machine-learning-to-the-edge"
+    ampWebUrl: "https://www.electronicsforu.com/press-releases/silicon-labs-brings-ai-and-machine-learning-to-the-edge/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/silicon-labs-brings-ai-and-machine-learning-to-the-edge/amp"
     type: article
     provider:
-      name: Robohub
-      domain: robohub.org
-    quality: 39
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 74
     images:
-      - url: "https://robohub.org/wp-content/uploads/2022/01/06416c_0018d7a0665046e78c8996df1fb31a0amv2-425x301.jpg"
-        width: 425
-        height: 301
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/01/Image_1-e1643033650591.jpg"
+        width: 652
+        height: 400
+        isCached: true
+  - title: "Silicon Labs Brings AI and Machine Learning to the Edge with Matter-Ready Platform"
+    excerpt: "Silicon Labs, a leader in secure, intelligent wireless technology for a more connected world, today announced the BG24 and MG24 families of 2.4 GHz wireless SoCs for Bluetooth and Multiple-protocol operations,"
+    publishedDateTime: 2022-01-24T04:01:00Z
+    webUrl: "https://www.nasdaq.com/press-release/silicon-labs-brings-ai-and-machine-learning-to-the-edge-with-matter-ready-platform"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 58
+  - title: "IBM on AI and Manufacturing in 2022"
+    excerpt: "Kendra DeKeyrel, Vice President Asset Management Products Leader at IBM Software, offers her thoughts on AI and manufacturing in 2022"
+    publishedDateTime: 2022-01-21T10:37:00Z
+    webUrl: "https://manufacturingglobal.com/ai-and-automation/ibm-ai-and-manufacturing-2022"
+    type: article
+    provider:
+      name: manufacturingglobal.com
+      domain: manufacturingglobal.com
+    quality: 37
+    images:
+      - url: "https://manufacturingglobal.com/sites/default/files/styles/og_image/public/image/GettyImages-1275786906_2.jpg.png?itok=RC5GR5b1"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "1USzQzYEJieli5ARMojkYpKWOfpBWI6y/EKXT8A3mV7pqPrN4pJSH/oFmCDbp/nYTSHQvAoDJja/+gm+BhbF5npB9147T3Df5Jn8AmMyarS271UOOQFODg4LeI72NzzKaza8valDBd2eX0YNc1tpzvQIOhccQnQgmJfZRZWl5Hsz0c6TN1vbfmdhkS76WpKDmwbKU5+Chx0I4ntyw18nr1wfmwmNhsbUDNb1BbjmGUYwnuEj7mmDM4reJAkrxEhLDT1dECG3bD5M3R/k/eK9r9QFB/g1A7tiUeYQIVu/OOAf9hws9ZGtskfp5KGZto5NVUTQUDeLN1oSOiYR/F7R4F+5TPPE7WnsjLA0nRm/bss=;eqQhPZKGDceCVyDboQrB4A=="

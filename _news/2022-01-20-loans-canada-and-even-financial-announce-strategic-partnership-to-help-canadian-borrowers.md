@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Three Canadian regions ranked among the best global cleantech ecosystems by Startup Genome"
+    excerpt: "Startup Genome has published its first cleantech report, naming a trio of Canadian ecosystems to its list of the best 35 cities for cleantech in the world."
+    publishedDateTime: 2022-01-24T14:56:00Z
+    webUrl: "https://betakit.com/three-canadian-regions-ranked-among-the-best-global-cleantech-ecosystems-by-startup-genome/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 12
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/04/cleantech.jpg"
+        width: 1050
+        height: 700
+        isCached: true
 
 secured: "LILvYCfUA2pS8NzfE3lLZZNeMOTMGAa49rlC78+z3pVvh969BOotojOoNTgiGZZoeIXq4BLeeMN+msWmCb0et9GHOeIIq4M3zezfUm6/9fDWwytAlYhS1k3tLz5t4brnt+hwFBRdziZE3wxQPNbkduiQ6xO6sErDerRIb9byvYcjFEOr5UyhLsr8dz+ModQpK3qLxKxlyEyop3Uq8RvuXMFlyC1KrUEC7sv0hRmbXT5BfnhYKSgTAPbc0SKfgnVWasOGIc/ySRiLOflisdhqK9xvq25eI5pOawK4fwrH67vPXpiImUGubzzW1Jn+cCbGjM84cOVb7g4qXxZ2hhdvqMui611fXhf2h4UcetXWAK/Lz+oGkpDcAwTJxsfDdOjaG9KgZqHereOuoMDklSK8rG+kPzRFuo8ewX9aqn9EVyo/D1RHqZepFc3FHP9N5de7tV0Ry+9s1fXqqY2PS5GPlKfVbVwFv0F6y4KNeiMBlajgvJoPwm98HS1d51Jfjp5Tp/t+p7bJVwT4EWcF1pvgSw==;l4C1COj0tIPwxLmhE822Rg=="
 ---

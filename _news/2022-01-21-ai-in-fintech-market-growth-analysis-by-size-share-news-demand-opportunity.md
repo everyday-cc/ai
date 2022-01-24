@@ -57,6 +57,20 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
+    excerpt: "Increasing demand for AI in fintech in the cloud deployment mode coupled with high investment in R&D of AI in fintech are fueling the market growth."
+    publishedDateTime: 2022-01-24T12:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-expected-to-reach-usd-49-33-billion-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/DDD-11-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Cyber Threats to the Fintech Industry a Growing Concern"
     excerpt: "Rising costs of cybercrime track with the failure of legacy identity authentication providers to guard us against increasingly skilled hacker networks"
     publishedDateTime: 2022-01-21T09:00:00Z

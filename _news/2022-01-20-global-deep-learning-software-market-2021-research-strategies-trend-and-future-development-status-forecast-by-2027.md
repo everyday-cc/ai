@@ -43,6 +43,20 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Global Marketing Automation Market Report 2021-2026 - Integration of Artificial Intelligence (AI) is Anticipated to Drive the Market - ResearchAndMark"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global marketing automation market grew at a CAGR of around 13% during 2015-2020."
+    publishedDateTime: 2022-01-24T12:21:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=604666"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 31
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Natural Language Processing Market Overview, SWOT Analysis, Applications, Trends and Forecast 2021 - 2030"
     excerpt: "In a recently published report,  Natural Language Processing Market  report for till 2030. The report further now discusses; th"
     publishedDateTime: 2022-01-24T10:40:00Z
@@ -70,6 +84,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEgUuEpO7AxVA/article-cover_image-shrink_600_2000/0/1642685662761?e=1648684800&v=beta&t=2V5hRn_zzEs-PKOlLbGRbF4ZTQS5kUEQEQy2IjYkYAA"
         width: 640
         height: 426
+        isCached: true
+  - title: "Automotive Smart Display Market Analysis 2021-2028 | Key Driving Factors, Application, Manufacturers, And Future Trends | Grand View Research, Inc."
+    excerpt: "Market Research And Consulting.\"\"According to a new report published by Grand View Research, increasing demand for advanced"
+    publishedDateTime: 2022-01-24T14:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-smart-display-market-analysis-2021-2028-key-driving-factors-application-manufacturers-and-future-trends-grand-view-research-inc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.abnewswire.com/uploads/1642857106.png"
+        width: 1007
+        height: 768
         isCached: true
 
 secured: "mhRrkGZZItGOyzZIZvl9qmJyryU/NTOSJQmM+WM7+ZfMql83Z8zfU51Nn69WFTWDUNMNI4QeTnRBzLFsd4mfAMmsyvZAu/ZcwChwKUE6zlaoRyift4hQx1RkHiJvIBKnqg56+4gwCfWX0668tPUIcxIPBiA0LmQEBYbW3PuMx+508cCXNXWM7tRX5PICxWhmiDNR1aLqGlo4gqKvDkgREYVtJIrfoqgc+wF95ghmD2VZOMdbQCZNm96E2y/7Gt/DSdSqf9aDtnf6psuTOZUQxiqbniToj5VVrT8CooCqKQ/mA0lEJEfZJk4b/mBb4crdwWtgOY+yT+KVWeeIQ2dSnLbxd6yfY3PbWleUvQJrtqM=;NO+bIB7BA24rAkZiOsbzmQ=="

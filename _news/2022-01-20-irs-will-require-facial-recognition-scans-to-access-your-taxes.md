@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/irs-will-require-facial-recognition-scans-to-acc
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/irs-will-require-facial-recognition-scans-to-access-you-1848387715/amp"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -79,6 +79,17 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Smile! The IRS Wants You To Send Selfies to a Facial Recognition Company"
+    excerpt: "\"No Identity Left Behind.\" Americans who want to access tax return transcripts, check on child tax credits, or do"
+    publishedDateTime: 2022-01-24T14:32:00Z
+    webUrl: "https://reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/"
+    ampWebUrl: "https://reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 38
   - title: "IRS plans for facial recognition draw scrutiny from privacy, cybersecurity advocates"
     excerpt: "An IRS plan to use ID.me and facial recognition software would represent a massive expansion of the federal government's (long and controversial) biometric surveillance record and carries real privacy and cybersecurity concerns,"
     publishedDateTime: 2022-01-21T20:16:00Z

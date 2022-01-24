@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/page/202201/1246734.shtml"
 webUrl: "https://www.globaltimes.cn/page/202201/1246734.shtml"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Giant SenseTime Buys Into Lingang Developer to Partner on Smart Parks"
-    excerpt: "Chinese computer vision pioneer SenseTime Group has purchased a stake in state-backed industrial park developer Lingang Holdings to deepen their collaboration on smart facilities. A unit of the camera equipment maker has bought a 1."
-    publishedDateTime: 2022-01-24T09:58:00Z
-    webUrl: "https://www.yicaiglobal.com/news/ai-giant-sensetime-buys-into-lingang-developer-to-partner-on-smart-parks"
+  - title: "Asia's largest artificial intelligence data center opens in Shanghai"
+    excerpt: "One of Asia's largest artificial intelligence (AI) data centers has officially been put into operation in Shanghai's Lin-gang Free Trade Zone."
+    publishedDateTime: 2022-01-24T14:56:00Z
+    webUrl: "https://news.cgtn.com/news/2022-01-24/Asia-s-largest-artificial-intelligence-data-center-opens-in-Shanghai-175Bn6pICju/index.html"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 36
+      name: CGTN
+      domain: cgtn.com
+    quality: 52
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/ai-giant-sensetime-buys-into-lingang-developer-to-partner-on-smart-parks/19170667086479360.jpg"
-        width: 720
-        height: 480
+      - url: "https://video.cgtn.com/news/2022-01-24/Asia-s-largest-artificial-intelligence-data-center-opens-in-Shanghai-175Bn6pICju/video/4a697e21405348e58c74b23813875757/4a697e21405348e58c74b23813875757-1280.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "dEAdGWVZmW7USRhnhpQ/vKk0g5KiMP06DTadpX+WWnnCVILeRpWnhjzxQs4Hf3IKcVywYI4zUW5oFVwEF6LTaJOyIVVURgk7f4J0nKSkjTR+DPQagxzGa1QTQ+e+KDALW8i9IQnXBUEK8d7HA6/U+wlNgUohNoXQSprKa/0zG+G3WdEd+4gz4cXRL+GiMPSldemgQ24MLoRGIVHrc+lCvaTndUGMWpcrAzl0lWNISxG59akGWEHy5X0iN4+T0Pb7QjkDmk7ex47ym2rlWKUrvKhUbwQ5CYte+jkaBRJezZN4jNFmtxVk4GVHGwcdIh/JYbskx2a92F/AUuRlyNHNf6uCGUS4F2n5EZ1jKEUlDl0=;aFO1MbezC6e2JGJI80Rchw=="

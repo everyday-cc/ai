@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/dental-care-startup-smilesai-rais
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/dental-care-startup-smilesai-raises-$23-million-in-funding-1642953041191"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Smiles.ai Raises $23 Million in Series A"
+    excerpt: "The funds will be utilized to expand footprint nationally, strengthen the leadership team and build innovative tech-driven dental care solutions"
+    publishedDateTime: 2022-01-24T14:22:00Z
+    webUrl: "https://www.entrepreneur.com/article/414713"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1643033928-Myproject30.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Dental Care Startup Smiles.ai Secures $23 Mn To Build Digital Dental Care Network"
     excerpt: "Dental care startup Smiles.ai has raised $23 Mn (INR 171 Cr)  in a Series A funding round led by Alpha Wave Incubation."
     publishedDateTime: 2022-01-24T06:40:00Z

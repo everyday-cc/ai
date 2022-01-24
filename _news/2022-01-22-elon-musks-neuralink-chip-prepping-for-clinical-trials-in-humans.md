@@ -39,6 +39,20 @@ related:
         width: 820
         height: 698
         isCached: true
+  - title: "Elon Musk's Brain-Chip Startup Neuralink Looking To Hire Clinical Trial Director In California As It Nears Human Trials"
+    excerpt: "CEO Elon Musk-led brain-machine interface startup Neuralink is recruiting a clinical trial director and a coordinator to realize plans for clinical"
+    publishedDateTime: 2022-01-24T12:00:45Z
+    webUrl: "https://boards.greenhouse.io/neuralink/jobs/4723041003"
+    type: article
+    provider:
+      name: greenhouse.io/neuralink/jobs/4723041003
+      domain: greenhouse.io/neuralink/jobs/4723041003
+    quality: 130
+    images:
+      - url: "https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/497/300/original/Neuralink_logo.jpg?1632771349"
+        width: 820
+        height: 698
+        isCached: true
 
 secured: "Iq/3uKlaIdS2Ast9POhTS1GwWCyHy5bUVVc/aNbag+AsmxpCC0RUyh8F+iDnLDxs9bPltHJc8Sfa0HJCfA+kGXnQnafODskYHGr3QNWMZ500IsCyR4z9+8wQRAqiUtYOkxfmyL2egR1S2AH7FebSW9B6gpthr2KWkvklIG5xo2JV3mkpeywhvUzQhNIU22mBdJ+A4ZqdBOKR7/BJg15RwAgcSQElfn+bviZyFRTYd1Yhno95frsh8WsLcLZaVSwVcklndjIihcpnz93c/rzj6CegnqUFxAE8P+Bd0brzUci22vU4SQZH9zvbEki767iK9aJfGt5gW0vQeoKwJQNC9qy04utp2tKUIf00YyTlu14=;B6BqeTkpBrcvFnkjXhDwTA=="
 ---

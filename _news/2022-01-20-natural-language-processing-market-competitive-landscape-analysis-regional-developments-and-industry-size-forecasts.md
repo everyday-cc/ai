@@ -57,6 +57,20 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Global Marketing Automation Market Report 2021-2026 - Integration of Artificial Intelligence (AI) is Anticipated to Drive the Market - ResearchAndMark"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global marketing automation market grew at a CAGR of around 13% during 2015-2020."
+    publishedDateTime: 2022-01-24T12:21:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=604666"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 31
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Natural Language Processing Market Overview, SWOT Analysis, Applications, Trends and Forecast 2021 - 2030"
     excerpt: "In a recently published report,  Natural Language Processing Market  report for till 2030. The report further now discusses; th"
     publishedDateTime: 2022-01-24T10:40:00Z
@@ -70,6 +84,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?899994"
         width: 333
         height: 250
+        isCached: true
+  - title: "Automotive Smart Display Market Analysis 2021-2028 | Key Driving Factors, Application, Manufacturers, And Future Trends | Grand View Research, Inc."
+    excerpt: "Market Research And Consulting.\"\"According to a new report published by Grand View Research, increasing demand for advanced"
+    publishedDateTime: 2022-01-24T14:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automotive-smart-display-market-analysis-2021-2028-key-driving-factors-application-manufacturers-and-future-trends-grand-view-research-inc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 0
+    images:
+      - url: "https://www.abnewswire.com/uploads/1642857106.png"
+        width: 1007
+        height: 768
         isCached: true
 
 secured: "t2cuQrnOdQlBuv6ImZqUiaifEFaeO9tQbyRHzPryA3xiu8SyyPB7pxoQeszel8/GRwzNIJmTDWwMEma5gkhRdBW7knaZaJRiFQlZsDBrIffffU1KYjHLrG4GfmLP+yDQkGelBQqQ5smc1pFo84+IoXcih9tAclodKpv3B6w4uZz5Cn9bTl7BgMrhUrb+K4TWvAq1+j3+OwrjXnEGXzrnBBmHBc1PFpIUFckByjnn5dLZksURW+qaBDPS2cwpa11F4rwbnh+Av1HEYjV1f0Q6PmrYw4UwCeSn6eZI2BQl0ASg2E4MXuLZBJj6na6kifLiM468Z8Rt14eCbZkclIGzbgN5GRehUZUaCklXw47gsVa6bYjjqCCwOCkZ5YhalKJj7T1dYTjY8FL1TuuH3pEydK0R5Ddo8ZTUIOK79+RG7iODcAobCtnxSNM38J/3fKKKoz0cjg2kz2BivDeeS16HnE5Ep5TCSMDBarT/VSpCSUtJLiHFRYZ8JY9txI2hOHlVw5ObwUU6KqF+7r56OcRAOA==;pU12hhEqcA3efE75YWY5kw=="

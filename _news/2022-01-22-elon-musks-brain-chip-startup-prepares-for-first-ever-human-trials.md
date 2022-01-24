@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/tech/elon-musk-neuralink-human-trial
 webUrl: "https://boards.greenhouse.io/neuralink/jobs/4723041003"
 type: article
 quality: 154
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk's Brain-Chip Startup Neuralink Looking To Hire Clinical Trial Director In California As It Nears Human Trials"
+    excerpt: "CEO Elon Musk-led brain-machine interface startup Neuralink is recruiting a clinical trial director and a coordinator to realize plans for clinical"
+    publishedDateTime: 2022-01-24T12:00:45Z
+    webUrl: "https://boards.greenhouse.io/neuralink/jobs/4723041003"
+    type: article
+    provider:
+      name: greenhouse.io/neuralink/jobs/4723041003
+      domain: greenhouse.io/neuralink/jobs/4723041003
+    quality: 130
+    images:
+      - url: "https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/497/300/original/Neuralink_logo.jpg?1632771349"
+        width: 820
+        height: 698
+        isCached: true
   - title: "Elon Musk’s Neuralink Chip Prepping For Clinical Trials In Humans"
     excerpt: "Elon Musk-run brain-machine interface company Neuralink is preparing to launch clinical trials that will implant brain chips in humans."
     publishedDateTime: 2022-01-22T00:21:00Z

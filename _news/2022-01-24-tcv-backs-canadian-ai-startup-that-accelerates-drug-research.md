@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canad
 webUrl: "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canadian-ai-startup-that-accelerates-drug-research"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,7 +42,21 @@ related:
         width: 400
         height: 205
         isCached: true
+  - title: "Three Canadian regions ranked among the best global cleantech ecosystems by Startup Genome"
+    excerpt: "Startup Genome has published its first cleantech report, naming a trio of Canadian ecosystems to its list of the best 35 cities for cleantech in the world."
+    publishedDateTime: 2022-01-24T14:56:00Z
+    webUrl: "https://betakit.com/three-canadian-regions-ranked-among-the-best-global-cleantech-ecosystems-by-startup-genome/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 12
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/04/cleantech.jpg"
+        width: 1050
+        height: 700
+        isCached: true
 
-secured: "S7Bj4yX3PiTzWLVJ4/X9IK4THgWzsSxluZO0Pm/ZrDa2IMOQtk/IGF5KqGxBIi0hFakQPa6sF3t0+TcPfN6lV85JojeView32VIKEX5sOjYdULIc/I85SjAXiapOiQ48NYnwGy8/BHqVwNYQBowD/CWdS5nslzWcSBnSGPNBuDIPxcSR2SMyTx348UC55ozuneS/ZQAiPRj4oC9vsTNo1/keYD+5xEYHqSFFzXdfF0q0Gnr7K5jvImlgD2em9OwF2zQtlEVFak4/ivB58hxRnCr7DHNAMzdkSvJ2HkH6K57pAiGZyBYfXJpqjQBodPr6/68sh4+eIBcktZUF0QWO9hg0riHztFCejX21HRdHERw=;hnugIu4Frg0JJd83rUoInQ=="
+secured: "iX2na+PqvCL7UZqLhkPKa6I85O4160xmaRVrW+guj1PY0T2xsH96InF7fOWADgY4h1iT26xlZ9gTbZrE6tGkWSLNIKJr0ExZ6A5t4EPRsF7/l9Q7Vye7rmXAva0SfK54j79QFiKqqidsOw5BEGI/+agmSX5KkgTWtkhgv580pFR1RYMJk77aEKheXnfW1zFyodH4z+mgN88sIuZlMX/pfJXb8tei0uzX7HKXK6idlSK5XFx+xV1o9f9h4Dei9fxYdgHz7SRAKojGIzubt2pUrzKGNvwA4Za+z8Jz7fT/r0PxGwwubZ1FW46qNYtlxERJe0cmGB3xdeGLkS7JEiyM8ZAkAcPzVzMHGkPuDkQlqM8NFWXs9hHGolXwOLfbH5Kuc6oE/HB5iTxi7zSQMVLDQq6lpAP1bSLVnhLoBw/i6wtAw17v161Y9zokZ87SqjiKLuWnb/VOhAIm7ocEIZZbZ/3f/OnZf++YYFe/6u1XWSkEOkYSAMYayzRkeHGCP4JmXh1/ybgfzHAIh5B1jOp+Eg==;45pcWota4QNObc2zxh6Qjw=="
 ---
 
