@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/01/185871-global-fintech-arabe
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,126 @@ images:
     width: 594
     height: 803
     isCached: true
+
+related:
+  - title: "New & emerging Fintech Security Trends in 2022"
+    excerpt: "The unexpected and rapid shift of the global workforce to WFH setup prompted by the coronavirus pandemic has caused enterprises around the world to make significant infrastructure adjustments to support employees as they work"
+    publishedDateTime: 2022-01-24T16:08:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 61
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
+  - title: "AI-driven fintech MDOTM bets on game theory"
+    excerpt: "MDOTM, a London-based fintech providing AI-driven investment strategies, has acquired the team of Mercurius Betting Intelligence, a company specialized in"
+    publishedDateTime: 2022-01-24T08:00:00Z
+    webUrl: "https://www.cityam.com/ai-driven-fintech-mdotm-bets-on-game-theory/"
+    ampWebUrl: "https://www.cityam.com/ai-driven-fintech-mdotm-bets-on-game-theory/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/ai-driven-fintech-mdotm-bets-on-game-theory/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 59
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/12/GettyImages-893682676.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Fintech redefined through buy-now-pay-later"
+    excerpt: "Traditional lenders like banks are increasingly competing with fintech firms, so they will need to upgrade ... Ramkissoon, who writes in her personal capacity, is an AI mentor, strategist and trailblazer standing for the unification of the African tech ..."
+    publishedDateTime: 2022-01-24T06:27:00Z
+    webUrl: "https://www.itweb.co.za/content/DZQ58vVPgDOMzXy2"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/DZQ58vVPgDOMzXy2"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/DZQ58vVPgDOMzXy2"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/nBikaT3usYWrl_WehhfhbwTWMBv5Hwr8vJN_TSAIr44u9Y9DkSaH0TzSJBmgNSvtzF81fpK286WhM6zW_rzHkyFIgSs_i4DcB9YfIg=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
+  - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
+    excerpt: "Increasing demand for AI in fintech in the cloud deployment mode coupled with high investment in R&D of AI in fintech are fueling the market growth."
+    publishedDateTime: 2022-01-24T12:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-expected-to-reach-usd-49-33-billion-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/DDD-11-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity"
+    excerpt: "Comserve / -- AI in Fintech Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast 'A research report on AI in Fintech Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail."
+    publishedDateTime: 2022-01-21T13:44:00Z
+    webUrl: "https://menafn.com/1103574554/AI-in-Fintech-Market-Growth-Analysis-By-Size-Share-News-Demand-Opportunity"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?383249"
+        width: 450
+        height: 250
+        isCached: true
+  - title: "21/01 – Weekly Fintech Recap – What’s Interesting This Week?"
+    excerpt: "Partnerships Altura Credit Union taps Scienaptic’s AI-powered credit decisioning platform Leading global AI-powered credit decision platform provider, Scienaptic AI announced that Altura Credit Union has collaborated with its platform for enhanced credit decisioning."
+    publishedDateTime: 2022-01-21T12:40:00Z
+    webUrl: "https://financialit.net/news/regtech/2101-weekly-fintech-recap-whats-interesting-week"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_0.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Cyber Threats to the Fintech Industry a Growing Concern"
+    excerpt: "Rising costs of cybercrime track with the failure of legacy identity authentication providers to guard us against increasingly skilled hacker networks"
+    publishedDateTime: 2022-01-21T09:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/cyber-threats-fintech-industry-growing-concern"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/security-lock-on-keyboard-with-credit-cards.jpg.png?itok=aEyBIAZk"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fintech Market Size, Segments Analysis, Future Opportunity, Emerging Trends and Forecasts 2021-2030"
+    excerpt: "North America region was the largest revenue contributor to the AI in fintech market. This is mainly attributed to the developed IT"
+    publishedDateTime: 2022-01-24T15:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-segments-analysis-future-opportunity-emerging-trends-and-forecasts-2021-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.abnewswire.com/uploads/1643003999.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "XECPUgeL1hDDbKEnoJEFyrkrtKiFJDy9kxASKinRuWY8QVWVoIReUM/0bWyL7wAD78VlhYncVM07h7Or9dPjDpPfP7/8idfp7jPfuQA4F+XjIU3gYGyGbtOKTzag137QD21t/e5f6AfrD2/+T9d232N42EQKBj/zHjJ8lAe1ja6msM2AWq0UhRVPEuePVEjtqBd5cqxM2O6n6d9PsqBjPR8JiLSNTQCAmc37xJOKPcryx3SWna3EOlv6shREw21X9vsssjtPYZzCW2qfHcwzpWEIZWGyC4GeJCFuVudNj2+gqdXXMsRcnKBPuwEN9iE50f+QdpkLdenhtWsOS2adHYPdGMpt4sTFhmtVbV2GyALGlnQTCvI9q6z1qA0HpeDWoAujHEqh+qVDbx4g9KYVcC+ANE+cgRJptYmY7cPmy3LFcyriTmLda72rNu2jKwWysdURCfC4eQ+OcuQ2IbWuZ6QtQlNvNCgibaP5qanMXvcpqwyVlSt0OA44+I9nLWTZp9jQs3AW+neXwjQxiOSIIA==;xI0GuIAOK9GvKcI1sKNpHA=="
 ---

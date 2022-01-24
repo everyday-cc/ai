@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "New & emerging Fintech Security Trends in 2022"
+    excerpt: "The unexpected and rapid shift of the global workforce to WFH setup prompted by the coronavirus pandemic has caused enterprises around the world to make significant infrastructure adjustments to support employees as they work"
+    publishedDateTime: 2022-01-24T16:08:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 61
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "AI-driven fintech MDOTM bets on game theory"
     excerpt: "MDOTM, a London-based fintech providing AI-driven investment strategies, has acquired the team of Mercurius Betting Intelligence, a company specialized in"
     publishedDateTime: 2022-01-24T08:00:00Z
@@ -42,6 +58,22 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2021/12/GettyImages-893682676.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Global Fintech Arabesque Teams Up with Snowflake, a Data Cloud Company"
+    excerpt: "Arabesque has partnered with Snowflake, the Data Cloud firm, enabling financial institutions to \"integrate Arabesque's suite of data assets.\" \""
+    publishedDateTime: 2022-01-21T21:12:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/cloud-sky-sun.jpeg"
+        width: 594
+        height: 803
         isCached: true
   - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
     excerpt: "Increasing demand for AI in fintech in the cloud deployment mode coupled with high investment in R&D of AI in fintech are fueling the market growth."
@@ -71,6 +103,20 @@ related:
         width: 450
         height: 250
         isCached: true
+  - title: "21/01 – Weekly Fintech Recap – What’s Interesting This Week?"
+    excerpt: "Partnerships Altura Credit Union taps Scienaptic’s AI-powered credit decisioning platform Leading global AI-powered credit decision platform provider, Scienaptic AI announced that Altura Credit Union has collaborated with its platform for enhanced credit decisioning."
+    publishedDateTime: 2022-01-21T12:40:00Z
+    webUrl: "https://financialit.net/news/regtech/2101-weekly-fintech-recap-whats-interesting-week"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_0.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cyber Threats to the Fintech Industry a Growing Concern"
     excerpt: "Rising costs of cybercrime track with the failure of legacy identity authentication providers to guard us against increasingly skilled hacker networks"
     publishedDateTime: 2022-01-21T09:00:00Z
@@ -84,6 +130,20 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/security-lock-on-keyboard-with-credit-cards.jpg.png?itok=aEyBIAZk"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI in Fintech Market Size, Segments Analysis, Future Opportunity, Emerging Trends and Forecasts 2021-2030"
+    excerpt: "North America region was the largest revenue contributor to the AI in fintech market. This is mainly attributed to the developed IT"
+    publishedDateTime: 2022-01-24T15:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-segments-analysis-future-opportunity-emerging-trends-and-forecasts-2021-2030"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.abnewswire.com/uploads/1643003999.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "knZ8E6n4GEvFE47nuzkjQjklTDWPRluHM1GKzTa4VaQlWPZ6DKxIs9Kq6wEZVPsam2l0UFIb/4ONCV1KLp48iXpBn5m9HqIvgQDhJkT55a8FbJV4S2MMuMvfdpFg+mOfBR4X66qR9JJofWxvNmaXcA88vg1dAsaaKY2jA46QXqEwUQFs9V3s9/dD1uLV7hj2Wq183WIAmyq9BuT1w2xlXZCcBpM4oF97u7iCDIMWeFl7bN95RgUs+9+H/0LaURRsv+zTeDZ9d55w+sn5HCrLSXY7ytAoKDa8UYqnZ8CAQgfem1NhtvwoWzpjlCmW73ipio0SjbIJK0f+6NsTUv36SZmDAu46m4H7RlMSkKK8QbnCk80rj4fbqF1DAujKQxOY62A45Ne28EWdcmAx3hduO8IntlLhtkegnHQFB4oAOFEX6tEB40OkibLTD0TYhzxr4dW9MU0ZwpeUc7efLMwU6DRzxt5VhKEtIhvRpeh9J2MLwqT0kyUKtAkiTLbtaCstc2lOMoTfE1eC6bbgYCuqPA==;zMGj83dRHl0HmH7WBZ4nNw=="

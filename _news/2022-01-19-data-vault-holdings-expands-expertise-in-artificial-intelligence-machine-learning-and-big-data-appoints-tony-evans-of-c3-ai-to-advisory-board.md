@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Data Vault Holdings Expands Expertise In Artificial Intelligence, Machine Learning, and Big Data; Appoints Tony Evans of C3 AI To Advisory Board"
-excerpt: "Data Vault Holdings Inc., the emerging leader in metaverse data visualization, valuation, and monetization announced today the appointment of Tony Evans, General Manager"
-publishedDateTime: 2022-01-19T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony/article_e62e0c7c-8d5b-54cb-b7d3-d15edeb513ae.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony/article_e62e0c7c-8d5b-54cb-b7d3-d15edeb513ae.html"
+excerpt: "General Manager of Financial Services for C3 AI (NYSE: AI), to its advisory board, fortifying Data Vault Holding's expertise in artificial intelligence, machine learning, fintech, e-commerce and security. A preeminent expert in business and sales ..."
+publishedDateTime: 2022-01-19T10:59:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony/article_e62e0c7c-8d5b-54cb-b7d3-d15edeb513ae.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/data-vault-holdings-expands-expertise-in-artificial-intelligence-machine-learning-and-big-data-appoints-tony/article_e62e0c7c-8d5b-54cb-b7d3-d15edeb513ae.html"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
   name: WFMZ-TV
@@ -25,6 +22,6 @@ images:
     height: 467
     isCached: true
 
-secured: "POFtSVPNyCIQ5vuOKlXXOR5NBBZhEP3AnhA5qTvr9vcrDLBRQsmupMTpziso3OXfX/tBZCG6kcwc0PvX7CiWcCsF1wx7D8TttgHdPAQ9p15uGxvCzOhjLPHm4xycBAaxipvX5SBVbUAl8+4fTKg83FokWNSsuLVMVOC56febZzXWaf+vfaeZ6047O7fEM15dwO2HqnFlhxIV+AU7aPDCnGQUXXQdSe1gwc2iVAsGuFoAOfpEHgCZwVUcvxAqHm3+yI1bA3QM+P/fYhcewGuLIsGSeeIdRMM6XmA7hJrR6M7cj+LojPEE+YDG+IaiHbjR+okCSZOx9lVJZbN1wzE4zoA4QcSIx98NtmI/298+6Mx8ru/qnd4GNXzEx16/DBf+71WWpJK++2ea226ljHelETSCBhzw7NUri+7NTHN09PY0ZuXJkJRNtlf+5PElQSCqN3u1DSIndzqzqsM2zqarkuU8sle4QYXEJ7Tau8/ZdCg6vOrdjCINsDpQyCrR8xvsJ/fgsuqkaJY+vBr6Hw4xIA==;MEJ7hP7sOzYd9SPTVXMmOg=="
+secured: "/vvpJHmQ+djK+hg0y9Yo0v6C2V9UGcDbOW/DjRUFDiBUa1pUlJ7uqeqYm/l9uise9+EDX+34Y/V+XRTT+UJa7IoJcHHK0hMPn6c0RiSbdh7rqtO+LUmtWjxaSFljU6YAIhROHtSO0kjBBU/qQixrmigDJ3X7YeAM5GYxvw2KW164vKGKrIcU0YgIktUG+576ahfXa5WJ5awwn+Uq9BX4BwQjH76tjRhKbO1SntsjJ/AWLqGVBhHxt+/GrT4VKfPMrU0TAm1ygNY/ROh+JhZlgjAmsBOcI9auSIqT1Eb7DMj9KdwzRvo68srN8x90gxm7hETEeu3qN7Cj/L5K/ZV5GKMR++4/ooLVz5Ok+1g6IiY=;TSEIz1wwaMfciSbQk2pRag=="
 ---
 

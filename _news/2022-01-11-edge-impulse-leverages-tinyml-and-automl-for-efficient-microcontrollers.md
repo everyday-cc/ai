@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Edge Impulse Leverages TinyML and AutoML for Efficient Microcontrollers"
-excerpt: "San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers."
-publishedDateTime: 2022-01-11T12:47:00Z
-originalUrl: "https://www.retail-insight-network.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
-webUrl: "https://www.retail-insight-network.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
+excerpt: "Concept: San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers. TinyML is an ML technique that can be implemented in low-energy systems including sensors to perform automated ..."
+publishedDateTime: 2022-01-11T12:21:00Z
+originalUrl: "https://www.just-style.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
+webUrl: "https://www.just-style.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
 type: article
 
 provider:
-  name: Verdict Retail
-  domain: retail-insight-network.com
+  name: Companies
+  domain: just-style.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/01/shutterstock_767487700.jpg"
+  - url: "https://www.just-style.com/wp-content/uploads/sites/34/2022/01/shutterstock_767487700.jpg"
     width: 500
     height: 277
     isCached: true
 
-secured: "bsrO3uGmRSWCPsuTibL3kcMwkXy9VEYjBkGHb69CI4s9aN4S6Lvylcs5ePCB0sngjX4AhhdITwvt7uZzKz2+ClrOniLbpLuw+tTKS5XQZyXZYgj+q1MtKJ6VcwKC35h2uRcpY3N4xq2svoADSgiGs9IdY0Lrq0Z85JFlnKVWPRHzsi3bmug4ntB1y8XrGevhc5DpJ3weU2fCdSh3Rm70ZOrbPhWo6GZRsj95L9icOq3jzfTyyI2SstTU/LRX85XHfwOIkOrNBBQmJT2tetpsngNxh+cGtBCvqsR4w1Se+P5/TzqjR80cz018n6HqtNz3xQV4bQoVd3cCcXjGJ4Y/pFC/t+rxLPgE3qdZpd1+sGSAx2kRCvZoNcD0ebN2gHv6yR8sNDg8sZR5cKXmGnJX6R7IF9BZonF2I7ulWu09m4ywgCOjcfVxP0Lsr3WXXGn9O9oXtZmvhqwokMKkmRVcg32KgDkYV4qZ3dca+jN+okyVSHcFEv/muekpIqfgRGcXla/4l1gRg3zvnM4y/RopHQ==;2ZO6b4/Gq2H6vC9l4+uqiw=="
+secured: "8RUiScu9iN7t772rAHQJKoDsVNjpXr+klz3cX1XumFmQ5Mbqo84a/65nli2Tq28gV8cUlBxvMNnyPO9Yy9s/4NV1+m75fl3EqKIxyNQRVa5HgjKePRekgWmC9/hPiTZ+2EK6/A/+BNgpvNZl6bv0piI63iKiyGVTtRGi38pbWHB2PiTao+zKDw+EwD2jRLe3TAw+RfVl9y+F/F9W2ILQCtbdoJycmPWy17NxNBC471y8GU0YVWksxG3FdVM+RG84Twu7LqerLt4N9MuzGwaC32Mq0yl7Xbpu0FvVguaRt7zOoTM11eYcgjfT8xmAyHI0aYR5gK3MkM41RnMvn223LRMmybx9cgTn4bCIboUZoug=;iimKbFZ3GPX6tU72prXGdQ=="
 ---
 

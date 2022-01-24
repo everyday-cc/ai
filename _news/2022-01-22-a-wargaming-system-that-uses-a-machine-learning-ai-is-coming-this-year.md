@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamesn.com/general-staff/release-date"
 webUrl: "https://www.pcgamesn.com/general-staff/release-date"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Teaching rural children, organic farming and ethics in Artificial Intelligence"
-    excerpt: "A mentor of two rural schools, he harbours a dream of seeing a child from his school ace the JEE, join his department and do a project with him. He was elated when on the day he was selected (as director),"
-    publishedDateTime: 2022-01-20T20:50:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/teaching-rural-children-organic-farming-and-ethics-in-artificial-intelligence/article38300296.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/teaching-rural-children-organic-farming-and-ethics-in-artificial-intelligence/article38300296.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/teaching-rural-children-organic-farming-and-ethics-in-artificial-intelligence/article38300296.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 50
 
 secured: "L54pnG2oltJH4W0X+l4WCFaNC5cqOD6IdCTA1Ujn5WwqkBUVDvvBFXbi93r3DIjrZ19w5CT6UsQNnZgGV/XiqEm+DdpDwGUFOTEPpKK7GHPJaQWhxt5apGhI1vBxZxMPI/NoWOby8iw39HsAKtSwt+exvacF5V15n1Gh1pURgfLwUNjXtl5X55+wJDXwxZE+1X61AkVr8x0/oq/vmHYi535CXwpdjV2CoQc1WMQIKzY3/kDDjjt7sGjiktBfamKWBVl2SP7NpMFreO/M+mFT5f2wihNal5gUuIO3TGBiFEwT0KgPZ6UZz2aV75lztt9X3kddrMjewvTjH8xyrHxErergKyp5kxDJ+UzoOsURkUQpenVl6dskYwf08Ylq+tOl346PBllzQk8BNX2hsffMGdJaLAd3yhibL+zspgpcD6Xsi1YtUxaZoU9Bc+wiFpPEp2Qg15w88o+iS9bOEhuw/THovW6+Ub98kdvS4/xhqjfUmz1tmRs581iUNl0v9kJ8EG492yrM1D43RBedJXSBKQ==;U+726mDz/UpI1yCiBdNxmQ=="
 ---

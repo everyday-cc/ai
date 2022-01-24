@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-21T19:58:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence-1031119849"
 webUrl: "https://markets.businessinsider.com/news/stocks/stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence-1031119849"
 type: article
-quality: 26
-heat: 26
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "8dV4W1flxFi4ZerqyYbTn+zaKsKOFCw93F49V0dwuIhkkIWggGkTkSyNc9XyP74Jh63z5LwXI35whOsJabGaj20uNAjj6Fau7+lPoG8sLKLep8alESoO3yQJXqpxqLHIshyGOrli+TfJH8Wmbvn1lXNiQ4TsphoaBitg9rrHo+YF6ImznRMRxVl1/+r2/GZFqn1JFCdIhsLft0VwhP+lRD0lpy0r1FH1Ql4ggZCNTW6vh8z2ViglOkxCXpMe/mspMGRA1IjYJCE03o04fZF8rV+kfV00y4NQ2tfeiB6N4HTFmSNPTK0CrgqFs1aeWTLuZqILw+KW7ZoAx8DMbMInYgKto0YT/Vf4mAHGJu+/fi949Z0j0+s6IWLU5R+PftHbP/1y55aYfrKfZMjp8In24mww7ZhIsMr+KNmarkxqyBfM4Gez/j7ZvIcYGQU+mdD0kR2hhtDKulagA/To+HSamUXBg8zj4+CkTOCuMHCQXFir/Akqq/VTT+BqVaQnKPKZAfXAyZy7tU+RtwY6KDOHXw==;IrO1OdhcpwaCkeTNnYy6FQ=="
+secured: "dhbDMFnc2qcYoPoAv+ZjaVtYNzOftTpnqswyaS399RiaAsvsuAoV411Y1ekunsUbh2Gd/U2MfCXR40tTp53dLtVdpcFrxfQcUEmymMLy/H0vB3DvS6YcCD5Vn+pVaGbosYG+txlcq2cMSpnhr857itKknlVkSGHVvDSfMtt80X8gTkT422iZKBLjztwbFjDS6tBw97RtSE4HpUwlsg4YxxsKsJe6YXwP/eM38fJv7tL7paQgZuUV+QhLVcH0D4O8iUz4Xh3akmDlJtnmMYP9McXujnFAhoScm7qWiswQEmq4ZvOeIgMtK8JS4hrZmXP4wvkdQk25UWX86rmbCphTz9ZJwjbuB+c1Dja4H5JBm7goyo0dWz6y9pFlxj0+MlKAE8PumVrUmZoMiyMai26R5u3xF04Sb+JjzKNQjZWAEcJaaZq2UFaWRPPFKzPAZMIE4Xn48CTKa4Vbx3hEYysgxftYXAzcf312YUG6xBlrO0EkBokBtHyw/AJPioo6c91mqayCHybwXNTaJFTTwvEPWw==;5y+uSNYxvsIlr3ICgSqpaQ=="
 ---
 
