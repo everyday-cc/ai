@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Using artificial intelligence to improve reporting of medication errors"
-    excerpt: "A novel machine-learning method has teased out factors that are responsible for nurses reporting, or failing to report, non-critical errors in dispensing medication"
-    publishedDateTime: 2022-01-19T15:52:00Z
-    webUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-medication-errors.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-medication-errors.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-medication-errors.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 37
 
 secured: "fOFzvQnky0VCgTVJGK15H2B1GMYh+hNjNpdHuxJ9g50zN4qZXBPs4mXBwAQARpn45N4GTe49y8MyXFoxzZ6i5WZ2gS1aQlV/GR0sLbwMjZQNP5jwrwV0ecHe8zWca2qdPnN/Jio3xSvox+yCc2zgiYu1v6ypSdGi/76X/ovMwhfpr/ALiSFeOsopcJWJW5hUTl4gZ2EGIKwdLzqa/pm6GayAFkbLuN473/NAV8orO+l6FYtX9twb8sq9KQtBf+GJ/JnJCcvk7aWFk6+rT4JXc2I2+33xdetKewhOFx1S+3XOnocu+0aeYssI9qbZhOaslrwCwmHOOqlEh2Lw4A1pncIuAJi3oFUiWDSRmT6vs6y8dlkRUm8MqUUdPk/kTrkTt8mWS7AIjQTsdmWXtV4ur4oSpm402vrRfwmrYUE2KxgDAXyRGxlyV+ZrOIyk4nmo9+MU+OpnwgIfdDbl+ndCB86D0T5/uHQ7nGmDO0pdU9QBoXajJPvjzxB9lVF8jxKOu2ZXkz6vmt8Z4lhgOao+VA==;7k378hUb/dWZtOXQ6rqRQg=="
 ---

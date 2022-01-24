@@ -38,6 +38,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial intelligence (AI) in Logistics Market Report Covers Future Trends with Research 2022-2029 | IBM, Google, Microsoft Corporation"
+    excerpt: "In logistics, AI unlocks the true potential of Big Data. Thanks to the power of Big Data, logistics companies will be able to make accurate forecasts and"
+    publishedDateTime: 2022-01-20T17:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-report-covers-future-trends-with-research-2022-2029-ibm-google-microsoft-corporation"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 38
+    images:
+      - url: "https://www.market-news.org/wp-content/uploads/2022/01/Artificial-intelligence-AI-in-Logistics.jpg"
+        width: 600
+        height: 401
+        isCached: true
   - title: "Machine Learning in Communication Market Is Likely to Experience a Tremendous Growth in Near Future | Amazon, IBM, Microsoft, Google"
     excerpt: "The ‘ Machine Learning in Communication market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size,"
     publishedDateTime: 2022-01-20T05:49:00Z

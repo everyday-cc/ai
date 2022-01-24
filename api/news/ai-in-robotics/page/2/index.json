@@ -437,19 +437,19 @@
     {
       "path": "_news/2022-01-11-tomahawk-robotics-appoints-the-honorable-ryan-d-mccarthy-to-the-board-of-directors.md",
       "title": "Tomahawk Robotics Appoints The Honorable Ryan D. McCarthy To The Board Of Directors",
-      "excerpt": "Tomahawk Robotics, the leading innovator of common control solutions, is pleased to announce that former Secretary of the Army Ryan D.",
+      "excerpt": "Tomahawk Robotics, the leading innovator of common control solutions, is pleased to announce that former Secretary of the Army Ryan D. McCarthy has been appointed to its Board of Directors. \"Tomahawk's Kinesis enables the efficient deployment and use of unmanned systems by front line troops,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/tomahawk-robotics-appoints-the-honorable-ryan-d-mccarthy-to-the-board-of-directors-301457471.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/tomahawk-robotics-appoints-the-honorable-ryan-d-mccarthy-to-the-board-of-directors-301457471.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-appoints-the-honorable-ryan-d-mccarthy-to-the-board-of-directors-1031091792",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-appoints-the-honorable-ryan-d-mccarthy-to-the-board-of-directors-1031091792",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1723236/ryan_mccarthy_press_release.jpg?p=facebook",
-          "width": 1920,
-          "height": 1005,
+          "url": "https://mma.prnewswire.com/media/1723236/ryan_mccarthy_press_release.jpg",
+          "width": 400,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -459,12 +459,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T09:57:00-08:00",
+      "publishedDateTime": "2022-01-10T11:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

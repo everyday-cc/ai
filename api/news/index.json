@@ -2,48 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-24-ai-is-bringing-science-fiction-to-life.md",
-      "title": "AI is bringing science fiction to life",
-      "excerpt": "AI's use in bespoke medicines can truly revolutionize the healthcare industry and that's why in today's lead story, we delve into this topic and expla..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-89084442,imgsize-52818,width-1200,height-628,overlay-etcio/ai-is-bringing-science-fiction-to-life.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442",
-      "publishedDateTime": "2022-01-23T19:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-24-how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good.md",
       "title": "How AI, machine learning are being increasingly used to drive social good",
       "excerpt": "While technologies like artificial intelligence (AI) and machine learning (ML) have become part of many aspects of our daily lives in recent times, they are increasingly being used for the social good as well.",
@@ -189,48 +147,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-23-dental-care-startup-smilesai-raises-23-million-in-funding.md",
-      "title": "Dental care startup Smiles.ai raises $23 million in funding",
-      "excerpt": "Dental care startup Smiles.ai has raised $23 million in Series A funding led by Alpha Wave Incubation. Existing investors Sequoia Capital India and Chiratae Ventures participated in the round along with angel investors like Lenskart Co-founders Peyush Bansal and Amit Chaudhary and Haptik Co-founder Aakrit Vaish.",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/dental-care-startup-smilesai-raises-$23-million-in-funding-1642953041191",
-      "originalUrl": "https://inshorts.com/en/news/dental-care-startup-smilesai-raises-$23-million-in-funding-1642953041191",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/01_jan/23_sun/img_1642952272109_753.jpg?",
-          "width": 1080,
-          "height": 761,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/dental-care-startup-smilesai-raises-$23-million-in-funding-1642953041191",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/dental-care-startup-smilesai-raises-$23-million-in-funding-1642953041191",
-      "publishedDateTime": "2022-01-23T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -492,7 +408,7 @@
       "originalUrl": "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
       "featuredContent": null,
       "highlight": null,
-      "heat": 369,
+      "heat": 379,
       "tags": null,
       "images": [
         {
@@ -794,6 +710,49 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-21-six-steps-to-execute-responsible-ai-in-the-enterprise.md",
+      "title": "Six Steps To Execute Responsible AI In The Enterprise",
+      "excerpt": "While organizations today may see Responsible AI (RAI) as an important part of their AI journey, we will see some significant shifts as new legislation creates reputational and financial risks for businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/six-steps-to-execute-responsible-ai-in-the-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/six-steps-to-execute-responsible-ai-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/six-steps-to-execute-responsible-ai-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/21/six-steps-to-execute-responsible-ai-in-the-enterprise/amp/",
+      "publishedDateTime": "2022-01-21T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1181,6 +1140,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-21-deci-wants-to-help-enterprises-build-computer-vision-models-faster.md",
+      "title": "Deci wants to help enterprises build computer vision models faster",
+      "excerpt": "“The big advantage of SuperGradients is that it enables easy development of a wide range of pre-trained models across all the major computer vision tasks using a few lines of code. These pre ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/",
+      "originalUrl": "https://venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-3-e1628543109807.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/amp/",
+      "publishedDateTime": "2022-01-20T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

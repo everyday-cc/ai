@@ -180,20 +180,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM Watson Advertising And The 4A’s Investigate How AI Can Be Used To Address Bias In Advertising"
-    excerpt: "IBM and the 4A’s released findings from a project that used the AI Fairness 360 toolkit to analyze data from The Ad Council’s vaccine education campaign."
-    publishedDateTime: 2022-01-19T15:08:00Z
-    webUrl: "https://www.adexchanger.com/research/ibm-watson-advertising-and-the-4as-investigate-how-ai-can-be-used-to-address-bias-in-advertising/"
-    type: article
-    provider:
-      name: AdExchanger
-      domain: adexchanger.com
-    quality: 41
-    images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2022/01/ai-machine-learning-bias-mitigation-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "IBM sells Watson Health assets to investment firm Francisco Partners"
     excerpt: "IBM has reached a deal to sell the healthcare data and analytics assets from its Watson Health business to investment firm Francisco Partners, the companies announced Friday."
     publishedDateTime: 2022-01-21T13:55:00Z
@@ -250,6 +236,20 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "IBM sells off large parts of Watson Health business"
+    excerpt: "Tech giant IBM draws back from its digital health aspirations, agreeing a deal to sell a large chunk of IBM Watson Health to private equity group Francisco Partners"
+    publishedDateTime: 2022-01-24T08:42:00Z
+    webUrl: "https://pharmaphorum.com/news/ibm-sells-off-large-parts-of-watson-health-business/"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2016/06/IBM-Watson-2-e1468582633630.jpg"
+        width: 900
+        height: 659
+        isCached: true
   - title: "IBM selling Watson Health data and analytics business to Francisco Partners"
     excerpt: "IBM announced Friday that Francisco Partners will acquire its healthcare data and analytics assets, currently part of Watson Health."
     publishedDateTime: 2022-01-21T14:17:00Z
@@ -264,6 +264,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "IBM to focus on hybrid cloud, AI after selling Watson Health operations"
+    excerpt: "IBM has sold Watson Health's data and analytics operations to Francisco Partners, and will now focus on its platform-based hybrid cloud and AI strategy. No financial details were disclosed about the transaction,"
+    publishedDateTime: 2022-01-24T08:34:00Z
+    webUrl: "https://www.telecompaper.com/news/ibm-to-focus-on-hybrid-cloud-ai-after-selling-watson-health-operations--1411475"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "IBM Watson Health data and analytics sale to include imaging, population health software"
     excerpt: "IBM has incrementally sold off parts of its Watson Health enterprise, illustrating the complexity of applying budding technology to the highly regulated healthcare industry."
     publishedDateTime: 2022-01-21T20:44:00Z

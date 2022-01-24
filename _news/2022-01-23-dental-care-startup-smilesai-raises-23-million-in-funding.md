@@ -9,8 +9,8 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/dental-care-startup-smilesai-rais
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/dental-care-startup-smilesai-raises-$23-million-in-funding-1642953041191"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Inshorts
@@ -41,20 +41,6 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2022/01/dental-social-1.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Artificial intelligence firm Capacity will add staff after raising $38 million"
-    excerpt: "Capacity, a University City firm that uses artificial intelligence to automate help-desk functions, has raised $38 million of capital. The financing, a Series C venture capital round, includes $11 million that was announced in October."
-    publishedDateTime: 2022-01-19T16:10:00Z
-    webUrl: "https://www.stltoday.com/business/columns/david-nicklaus/artificial-intelligence-firm-capacity-will-add-staff-after-raising-38-million/article_69bad5db-47fa-574b-96d1-5c6e776f9074.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 48
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/99/b99e8a5f-2800-5d1c-a427-9029fbb1b1f2/5f99a5370a81d.image.jpg?crop=1265%2C664%2C18%2C211&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "hdWCX4/4cExjH+knOeS6Bs5VQNIWRx1gkCIBxJpEvHTXSTCnteWM+VqHvGO2tZYHyLsgkrohze2rjp9AA7lTJluKC28eilfHJQC1h7vtopAVB6anDAKc328XQFW2jTuGU5NZJh5XdHbnrmHL51u8UGcwWjZieWW0Z4/SZYzo0ACyCeUmIXjnF4tRankJnK2NmpxShKqhqc2ItbTWQzK/PRxF+yBhTnxanICTm46Xz1Cn1QZbHyueNMDOP151cFBmbe83E/wipaZdHhSUlFCyq5q/SaNiPg8SoWLiIIAYRgpg8TGksZso0ydXafTJTO0bG/g2n9mShrGEX1TuNgOxj2p+Dr2CpVRP/uFlgmh2UpvYu6EDHRrUvrHimKWBsblNDV8dLTcDihW77WWDZNnqlnc56B1K8te5qSrto4ohT7LJ4OMVZFWhGowEkG8WzGxbGRWf1gET331VFEneRXxrX8Hh3CHNNZ6/rC+0yPehsJ0ndFOVXzv/RqEhjdvtGTZK40EenU/LvqkRkoXc0OY6OA==;TFRsp9Lx2TbMiVekRnOMPQ=="

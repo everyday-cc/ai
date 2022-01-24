@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/irs-will-require-facial-recognition-scans-to-acc
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/irs-will-require-facial-recognition-scans-to-access-you-1848387715/amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/3361642779267/2022/1/663cd84d126d3399aad535ceab6d5cb4/v1.5/IRS-will-require-facial-recognition-to-access-online-system.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "IRS plans for facial recognition draw scrutiny from privacy, cybersecurity advocates"
+    excerpt: "An IRS plan to use ID.me and facial recognition software would represent a massive expansion of the federal government's (long and controversial) biometric surveillance record and carries real privacy and cybersecurity concerns,"
+    publishedDateTime: 2022-01-21T20:16:00Z
+    webUrl: "https://www.scmagazine.com/analysis/identity-and-access/irs-plans-for-facial-recognition-draw-scrutiny-from-privacy-cybersecurity-advocates"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 32
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2022/01/GettyImages-1137410589.jpg"
+        width: 1500
+        height: 900
         isCached: true
 
 secured: "hwyyW9ft+B1XSR8HZgU7CTwJICyaQu2N3GUlxWcYVS0fDb6oEUadn7kw8NWQRhQ0VoU40vbT03rOvIfd9HRC1yMNfwzKOkIIZZzXxHUNzl/T+/AShXtYpulV/9wiDAlQUcKquvQ8DXxsLNqBo81que6fKJ072/xLA6o5R8JVKw+BN+vIP9Aee/5or6tpv/jODqxd4b0GSnWmXugs+OK7fG7U8EcMbUd/ouJMVGRdps5vsciMXnugA8U1zlY0RGdf7578ssjcJiuYoiKaZWynIZ9HGZ9d1QDeSya6njHXuZc/18RJRcc9FMgX+BA3ZMZfkahhAtePkFvRyyiPSCLYSZFN/lX+i6Sf4Yaqsg7pPvrHWsnFzTDK0/PpOAQwJ8BYh1N4wN+sWDX4bveTyDv2x6RoBszFfWaUq/0HQtBl2Gq9X5oVrktfsP/AHowComuqaFO8DXStWhZcPuMYvYSVj7Vk6ORZKYlNeYkgVug/Ld+zMUQn0z43Vw0SgQVKDFSW3GugKAEaBzS8HTYaUhxrAA==;X+a1PegvNix/WY/817lFIw=="

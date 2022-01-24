@@ -3,10 +3,10 @@ category: news
 title: "MacGuff’s Philippe Sonrier on How Artificial Intelligence Tools Will Revolutionize the VFX Industry"
 excerpt: "French VFX powerhouse MacGuff – with headquarters in Paris and offices in L.A. – is using proprietary artificial intelligence tools, in particular Face Engine and Body Engine, in a"
 publishedDateTime: 2022-01-24T04:04:00Z
-originalUrl: "https://variety.com/2022/digital/news/macguff-face-engine-lupin-hotel-du-temps-une-belle-course-1235161023/"
-webUrl: "https://variety.com/2022/digital/news/macguff-face-engine-lupin-hotel-du-temps-une-belle-course-1235161023/"
-ampWebUrl: "https://variety.com/2022/digital/news/macguff-face-engine-lupin-hotel-du-temps-une-belle-course-1235161023/amp/"
-cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2022/digital/news/macguff-face-engine-lupin-hotel-du-temps-une-belle-course-1235161023/amp/"
+originalUrl: "https://variety.com/2022/digital/global/macguff-face-engine-lupin-hotel-du-temps-une-belle-course-1235161023/"
+webUrl: "https://variety.com/2022/digital/global/macguff-face-engine-lupin-hotel-du-temps-une-belle-course-1235161023/"
+ampWebUrl: "https://variety.com/2022/digital/global/macguff-face-engine-lupin-hotel-du-temps-une-belle-course-1235161023/amp/"
+cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2022/digital/global/macguff-face-engine-lupin-hotel-du-temps-une-belle-course-1235161023/amp/"
 type: article
 quality: 43
 heat: 43
@@ -25,6 +25,6 @@ images:
     height: 563
     isCached: true
 
-secured: "J73ONCpK2J4R61FGYOdxOrzop6L1jLUycKeUXftq7MkEvdrnHl6MkSbBfAaTWpg5ZkLTvRJmwaCDB55imGuw/iAD+/OjqMzV2ENRIpkIQ6/1TjjEKpIy1TEuVOeEmR9ycdecqPQfyDiBnizuhqCmF1oq0G82xOisfbAjeCglSgusjNeMH4uzYJavDcZEEyZQYW+FQkuD5RKJ+hc3gf6Oi0/FcsmGMyLrGmh4C1r3ielc3QUx4vbNKDJ4iqnrmZLSbKm2qly8nM/j1iwsjVJbzOyy5Uc4T9eXHMTt9FGwFKxasUZ2iG2u31rG8qMvGhXYJUqgcGO2XU/8mXiemR5afUwFqt+byaT60ijfY9q7Gro80Pp8i0/iRWASPDXZK5tS8F9TRFtJyBOyaz81P5A58iW2oiKR0Gu5tlr0ps1on35F3HX+BPV3Rq9R2ds3fFCmI2cwImPtxm9ZJ5Gkcepq6mMF/tlATYfMx0LH2gSTStcGTeHj63m1paTRL5FXhFxfkLRlCnJkd4gQ/P2LPpkHDg==;6MAxv6huFNCpM0XLJzOgHA=="
+secured: "QIc57L/IcU+VEUFQKSUeu97mozQ/DS2uE37kba8ehRsf08TlPiSSe+OmqwKHxrhxwS/fjx4Wj/2hhMr0bDgI/t7WS6kgzUsbaH0iw9828LqPLym4L05oa7s8eqGDRL176TfHi7dKni5YMniPlGevTryqSls+L4SX/gUwgTbsVW57b8fMEDo6mbNzZilV/45JODSRohSVEskkPSaY+NSb1W8nUkRaJc/6aEXc7vshkbn2wuXPZMyqpUrH7AFsvweG2aZ9m+R5KZ92gJpSCNFjDKTbHgzxnn+HSBRite7cA/THRSj1m6f3mPsPs8yIUxsuY0Hc7/+ihvU+GokrO0anaj8eXMVuCx2sJlZUP5Gb+E8=;y7+Huoq+tm+xjpxuYO+/DA=="
 ---
 

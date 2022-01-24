@@ -54,6 +54,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial intelligence (AI) in Logistics Market Report Covers Future Trends with Research 2022-2029 | IBM, Google, Microsoft Corporation"
+    excerpt: "In logistics, AI unlocks the true potential of Big Data. Thanks to the power of Big Data, logistics companies will be able to make accurate forecasts and"
+    publishedDateTime: 2022-01-20T17:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-report-covers-future-trends-with-research-2022-2029-ibm-google-microsoft-corporation"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 38
+    images:
+      - url: "https://www.market-news.org/wp-content/uploads/2022/01/Artificial-intelligence-AI-in-Logistics.jpg"
+        width: 600
+        height: 401
+        isCached: true
 
 secured: "59uZnxXnfw/j/LhsZAll487tcnEhuJjoGOjqP2UhPV/gcTB6waicP1DGuQOd+Av9EJK6/nfSyD7o6sdbTUCvTiSv4g8Z5s4OMX0/5cPvAz7WqF/nqPvfC8+LKE993kSIll89U8k2iSjTn5pELAQl+4L6MFZDp6K8GLYZJKR/r11YmocVPZMZiuS4S84gORAM38dEGfTXAhOzdyjJtQ8K7xgKtYuoAm9ERMj9praTMnMl53GOTOQzlkfZAZ7gWaRWEedkujvdc0VPP7AXRyFyTRB5dFHS2Gb1GTCIV9xdriTphE7vUncoIUt1xvBDGjWOA2iu9xtYWVNF9PYEtFI/rtFZ4m7RcsGgG1CpVHvQNJvzVKcliy9BYcgG8nYbDKu2qgDBHGPusR25U7jmtJPj/kNgmmzTU+G71zH48Vdv1U0EzXB8OG7Bh2C9Emb0RDa4v8vn9pEuQ5Ypu7cZ/VBncsVBTNnL/NlrNk9eThO9C10gXNWRguPG9fM4UOfrs4Amg+It98Cn+h6la4e0FGk7Kg==;UsLK/xpwKHi85c9XwD8+GA=="
 ---

@@ -24,6 +24,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "IBM on AI and Manufacturing in 2022"
+    excerpt: "Kendra DeKeyrel, Vice President Asset Management Products Leader at IBM Software, offers her thoughts on AI and manufacturing in 2022"
+    publishedDateTime: 2022-01-21T10:37:00Z
+    webUrl: "https://manufacturingglobal.com/ai-and-automation/ibm-ai-and-manufacturing-2022"
+    type: article
+    provider:
+      name: manufacturingglobal.com
+      domain: manufacturingglobal.com
+    quality: 37
+    images:
+      - url: "https://manufacturingglobal.com/sites/default/files/styles/og_image/public/image/GettyImages-1275786906_2.jpg.png?itok=RC5GR5b1"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "HHjqwswT5/3JOdpNmW8WMtI0VYutRxQDZzN83mRk1omMFAIh/oK0GTgcAjrUvXyjmjboYV/TMtTqjOt02Tr7OyNniq+yfHyhOTQ1REvGLfXTBFnoqL4d2FQyt5OPGcqjoLCNk5M+n9YSTfABrj68AMyDaq2HeiuaNgpubXzPItgOIS96SxOerKXcjDuC6jvIc6KZEC4OIBbOJMIp7O5O7GRn+fekVhJJn4qSqsOwAydNp13sYROhJclWy8ULHgQXRZd1pJEIjEUiMhP0X2R2vuIpDO4yknrZz8IhjVhL5W+64zmi1TpLMxcYqUdOteHzV8y4tOUbv4oa1oBamWJoGX5m2DvsD/awNpJMZklXsabZBOtUNavoS96PkBiJO5vxo4OYqddbP38iqh16okCfaK9f30SoGIyw8BnZs38P54NwxkVYux9UROuxamNwxH5NInarv1PQFni/hryo8KoRQunSIDpUJBg7n+S3E3yiY6jnkYfAB+6cDTRanlUN5y9mNdU+IXPeeEazjt/OOntVtQ==;mIG3v8Re+Cij+46J7DGiyA=="
 ---
 

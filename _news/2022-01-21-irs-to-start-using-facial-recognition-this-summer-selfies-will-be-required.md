@@ -75,6 +75,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "IRS plans for facial recognition draw scrutiny from privacy, cybersecurity advocates"
+    excerpt: "An IRS plan to use ID.me and facial recognition software would represent a massive expansion of the federal government's (long and controversial) biometric surveillance record and carries real privacy and cybersecurity concerns,"
+    publishedDateTime: 2022-01-21T20:16:00Z
+    webUrl: "https://www.scmagazine.com/analysis/identity-and-access/irs-plans-for-facial-recognition-draw-scrutiny-from-privacy-cybersecurity-advocates"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 32
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2022/01/GettyImages-1137410589.jpg"
+        width: 1500
+        height: 900
+        isCached: true
 
 secured: "enUHgAqGFxhSogLH0okapsDrxBOMUwzQLMpu1+6rWnciV2Z55LuYaYhSJJ9rA22r6+IVD/+Z+Dlv8Rmbh+tVu/TtN7Vv4YfHLKSqo8JqbGs1jms3MSA8zXs4Qa+HB+rPVM9fAfXTfvrdiFRu4PS953M9bghBSgiTe/4ogu7IBJAFmvjb44pyyLENqtd1lAvMK1zlvfk13PJRdFcV5w5N7cjVCz5hAm6fr4YiG9qPF20A0+LLtWpzpDzAHFGXaMQKt7ARQeowMqCIz1VRKPjI78xYiKBT3l15mrIMfQfaK0nlt2R9R+Ioc3Q2f0ZpivTP46rmH0N9N/oKeutiR2DO4j7Uz62eZzv+IlbE6PZ0tlg=;X0TL23pY6QCN2Mpi1u/Azg=="
 ---

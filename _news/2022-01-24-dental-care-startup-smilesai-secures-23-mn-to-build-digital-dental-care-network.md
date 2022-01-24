@@ -42,21 +42,7 @@ related:
         width: 1080
         height: 761
         isCached: true
-  - title: "Artificial intelligence firm Capacity will add staff after raising $38 million"
-    excerpt: "Capacity, a University City firm that uses artificial intelligence to automate help-desk functions, has raised $38 million of capital. The financing, a Series C venture capital round, includes $11 million that was announced in October."
-    publishedDateTime: 2022-01-19T16:10:00Z
-    webUrl: "https://www.stltoday.com/business/columns/david-nicklaus/artificial-intelligence-firm-capacity-will-add-staff-after-raising-38-million/article_69bad5db-47fa-574b-96d1-5c6e776f9074.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 48
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/99/b99e8a5f-2800-5d1c-a427-9029fbb1b1f2/5f99a5370a81d.image.jpg?crop=1265%2C664%2C18%2C211&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "ktVtAgdKEvIYBNVguaPdGEcdrf9nK1Nv2v+cKkEVRRFjtHTRkWLt2SgNtGo/6wG8M0y22bbblJDAAAE9DGKLM+tQkLHVCb+ldw5RPZgBO2RLH+qXwQJzYsf2oFYF34WwQ33hPUZ0yaxpuUPCGJ6SWiEkSvlosLWApJNpgoZJDl9CfYFpOngbVL5X7ShW/4AuS3LQuJ5sP5Z5hKtuApaGJoRRdki5XtHMwd0EnbmBELVKdqO0cdZlaJnayyfUAbUii51Ls/yHRVEgEx7Oa6eWM3djQxyMlihqCypmx0UfyB2QuBFhqtQ6nCzGztkNgb8Qc73hIsrAJ4tEgX235Zvw3i7DwPyH/OeWAO5ieVmZnXw=;Hcahe5FzTxGoT1/lf/mpsQ=="
+secured: "HkdAJjcUgBmw3kjBodLzIJGhg/ZKRBH4CUs8TOsjgqWc2zI4IY1tEwCjf34NbcP3Eb/GC5hJ/5KBobFCMdQ7BH1boz9+cyJ0saPbI/rBh4nLXnkzsgkO1njPrX9M995rn5OevM3MnRuQ3GAmNkPchWa+cQ+vL0Zi2lKPoZqxl4ObrWnHIggOTyukc5QCARm8nDQi6w+HXABC8GrZkZDkeyYLQ0a5VTjs4q0lEovmmStxYRKow7ytUOLYHrAukupaTuCIWjQ9/DldysUZSWFcyMj7RgOq8EVbNqpsIJqyFE/L1U0Ne7xCE5lNoEjBWV8J+iFmDrhZKeL8Rov2i7bBGesOEQMbgdcnw2abi3pbmMZbSr4gahdhvikZyUKpzB0wo+TqQ1vu7POx8dIb5refsf2Rwk5nQnlDFAVUVANMpxob9FkmgM9a4HmEtvcqBwi1gZORts62biDWkZpGJKIFah7dgbVC81s9sdzHCw8LuLacBEwSZK0GB77Gv4IrfDlw89o2yxDXDOFmJW4pKkHNHg==;2apf9kXW5LGdGNYG3ikL9A=="
 ---
 

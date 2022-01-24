@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research"
-excerpt: "Faster processing, better accuracy, and economic advantage of computer vision system drive the growth of the global computer vision market. Faster processing, better accuracy, and economic ..."
-publishedDateTime: 2022-01-14T00:38:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-850701489.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-850701489.html"
+excerpt: "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product"
+publishedDateTime: 2022-01-13T23:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301460566.html"
+webUrl: "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301460566.html"
 type: article
 
 provider:
   name: PR Newswire
-  domain: prnewswire.co.uk
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
@@ -21,6 +21,6 @@ images:
     height: 1046
     isCached: true
 
-secured: "XSvupHQyKE4fMhNlPlAoxNrg9Nv7JffQsjfWnDHw9OQrWFwDAvFm+h4tJw4PiJPDbz5UE5MvOoFRiuIXbifo9RUUHDpJx73QCEvduO9LisVIcYTX6vPUUgbfHqspWDwZxqghMhdMkvCaTfSLdYO0rDJWT5v+bs3UOvDp/ozQFqt/8iOOWquGVQqoPIkAAmODPksYDBa5+D5YmLdNJadAJKXch1hIlbIHBTWR0oybaCz+5h4cj1f5Upnl1vLR+gBkyI79kNfsJiY7CFZPYusGjmfCsLHLYNQXDS1XhBAIteIddm4n7ROfXTC2U4v+CmOITpa+AQ1YVPnmLH17EepvYuNbDpyfdLiSDlJwAhoy+ug=;ezQRtBX0K37dnS2jyb1XQg=="
+secured: "LeEi3w/Xfi7h4+0Gc7dgsECdfhMUpJO/q7qetsAp/Kx/liG565PT925yhY1urn7Pc3vnWDZU1t/X1WVQwjIBKCy6q5mIw+JhTX+WrO4l0cwguNfjdqeUMKGZYNl+rYbBAU/7jaiRHZvDCwmVTU9xumYfXsTbNQGNUVCBESapdn2twqNnZXyOUBOnOQUsZCEXSSXo/N7cj5zNgseoj8JmtlDJYmORGCNPabWBo8JPmOPYODnitOpJnR19LgN6e+LSjs1oaaRq/tpsvX0qLkD1ULKAHl+jf9xsE+5gTmZSu7UlR1FKOAvSWKUT3dVSMN2muEbg5opH04MzAmcJ9MgYQMe+IxKTdcSoD8k1E82c4bE=;mO/joaVJF7PLyOappnVruw=="
 ---
 

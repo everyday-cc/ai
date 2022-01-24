@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/01/20/sequoia-makes-middle-east-debut-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/01/20/sequoia-makes-middle-east-debut-with-33-million-investment-in-saudi-fintech.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 2000
     height: 1334
     isCached: true
-
-related:
-  - title: "African fintech Finclusion raises $20 million in debt financing"
-    excerpt: "African fintech platform Finclusion Group has secured $20million in a funding round with leading fintech debt financing provider, Lendable."
-    publishedDateTime: 2022-01-19T15:09:00Z
-    webUrl: "https://www.finextra.com/pressarticle/91072/african-fintech-finclusion-raises-20-million-in-debt-financing"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "xnDvGc26y0dyxvJPVGmxfzHR0FP65IBdq1sRSc6sSHFPzsMTxIpjGMUzZrGsw1hWnzwBUEppw3j5RE6qhiLk+VFbSNKX3y8eOAqw/At8fh/UsmGtyn5PlvsC7XwyjlxDIDdcp6bYu74sTv1YLN7HAR0o5Jay+ExSErjvpv9XmQiUNvDWzx1VKL08r2MFssEhqYMPU3d+Mn9AWvTkZi7nk60dpBOzlVHPz9Ly4375f4mNUNYmkFO6yf9QY9RdN69kEyi4cFIQ58wmhcR5xWjVxHcq9wdaSrAzBqcqCtRhDcBRCmp6duIkq5Gf1Zk8J0Z1OdXZPt3m4C4CXIuaG8wmCxaTvWe5KvVCp+k/Ux8NgjQevS5kAL/gxXl2cEI+5mOHcVqsQSYz6V2G9dXrMEqDmL5ixyD91B08NPhZwUxvhwV0keg+GBAvAYdJSYfaeuRE2CGjdriyU/VdR11E75P/yKeDPq7Gz6SFR8rPTrpWYEpVu2n1n0uOSlS6Z9JuADMqf2qdO29VdQU5a1Nh40GaYA==;5KNWVg43bcwu3IxpgPLdRQ=="
 ---

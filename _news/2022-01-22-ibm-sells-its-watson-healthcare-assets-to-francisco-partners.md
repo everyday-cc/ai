@@ -167,20 +167,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM Watson Advertising And The 4A’s Investigate How AI Can Be Used To Address Bias In Advertising"
-    excerpt: "IBM and the 4A’s released findings from a project that used the AI Fairness 360 toolkit to analyze data from The Ad Council’s vaccine education campaign."
-    publishedDateTime: 2022-01-19T15:08:00Z
-    webUrl: "https://www.adexchanger.com/research/ibm-watson-advertising-and-the-4as-investigate-how-ai-can-be-used-to-address-bias-in-advertising/"
-    type: article
-    provider:
-      name: AdExchanger
-      domain: adexchanger.com
-    quality: 41
-    images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2022/01/ai-machine-learning-bias-mitigation-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "IBM sells Watson Health assets to investment firm Francisco Partners"
     excerpt: "IBM has reached a deal to sell the healthcare data and analytics assets from its Watson Health business to investment firm Francisco Partners, the companies announced Friday."
     publishedDateTime: 2022-01-21T13:55:00Z
@@ -237,6 +223,20 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "IBM sells off large parts of Watson Health business"
+    excerpt: "Tech giant IBM draws back from its digital health aspirations, agreeing a deal to sell a large chunk of IBM Watson Health to private equity group Francisco Partners"
+    publishedDateTime: 2022-01-24T08:42:00Z
+    webUrl: "https://pharmaphorum.com/news/ibm-sells-off-large-parts-of-watson-health-business/"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2016/06/IBM-Watson-2-e1468582633630.jpg"
+        width: 900
+        height: 659
+        isCached: true
   - title: "IBM selling Watson Health data and analytics business to Francisco Partners"
     excerpt: "IBM announced Friday that Francisco Partners will acquire its healthcare data and analytics assets, currently part of Watson Health."
     publishedDateTime: 2022-01-21T14:17:00Z
@@ -265,6 +265,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "IBM to focus on hybrid cloud, AI after selling Watson Health operations"
+    excerpt: "IBM has sold Watson Health's data and analytics operations to Francisco Partners, and will now focus on its platform-based hybrid cloud and AI strategy. No financial details were disclosed about the transaction,"
+    publishedDateTime: 2022-01-24T08:34:00Z
+    webUrl: "https://www.telecompaper.com/news/ibm-to-focus-on-hybrid-cloud-ai-after-selling-watson-health-operations--1411475"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "IBM Watson Health data and analytics sale to include imaging, population health software"
     excerpt: "IBM has incrementally sold off parts of its Watson Health enterprise, illustrating the complexity of applying budding technology to the highly regulated healthcare industry."
     publishedDateTime: 2022-01-21T20:44:00Z
@@ -294,6 +303,6 @@ related:
         height: 576
         isCached: true
 
-secured: "8ea/DYcjk1r65g4+QjYchX5gBDWcj3xIvxQxnfuqBrCS9Nop4FYFDudppFWLMhBk44lVw4Kwwljvi5KEtE+KDpd8Q9NDW20grwxkJYIxNT38XyNjFMfj+0e974xEgRSDCJQISR88gfccwrtyXtiFolKBEM9BJJnUbafAaqfNYLadJQ0SNwjW7Be4/p3jjxs71hzv8K4Ff8WDt/JeCgFCmBPA4P/I+6aWW7J8NwAp8u+eIdSq40j9u32jRLUanIoLToCceO3LDE/79mMrb85anLX+fcKDG0NorjbiTBp3UcMGs+/l/Rvu4JMM+to7mpdveWty/89oawVVdWMt1JDfrWHhHALA8RrgHrxoQh6XJ2A=;uYnsVPhsFGoAfJAH6bSVzw=="
+secured: "Z+4WXcy9rMj8VqBXak2YCigHvdqKKnYKHTKbxvyy5p7skuNBKAZLWjAVWkBgJecgHTRE7OwrXe71sge1RYWvGi724WEZBHdd41bhOclUMlTMCZ5fYkxQTaxEv8j7OLbYsFvLGq7rrOXz8UeQEe3osVDjxcrAtbtoA5Nh72wxroA7dCYTyAjt6V8GYzpb78DvWgR+KT2vjGasMjIMSNtnWLnPgoCMJWj3z4gVDp6YRM9k7ymT56quttGo6dHMN7KzZAdE9V8YryQLlRiCkFnwnPM/A87S793WQVNDa4NJ0R7pe50q6VAhACrct+vf9qMgJy8hE8C3YuxDG6hKks8xZI65h3rzZpUvYSijLgu/+dOcRm6IQ7ztOdY7ngSlcEdE2QZuxhN261ra1KjB3dDtu8UZnTNKw/awm8j0QqPbAC0NztLIEl/QkAqlTlbS2BATx15dQY4JPzEgvatw8DXe3b5Ar4YpP20RD8FMnUZKyrJ8eQYAozhymNSHRosLNHpqzzKZKtxTDtwppmwYWH3ptg==;JyNTVTMYDVHjBq9t9yri1A=="
 ---
 
