@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103574554/AI-in-Fintech-Market-Growth-Analysis
 webUrl: "https://menafn.com/1103574554/AI-in-Fintech-Market-Growth-Analysis-By-Size-Share-News-Demand-Opportunity"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,54 @@ images:
     width: 450
     height: 250
     isCached: true
+
+related:
+  - title: "AI-driven fintech MDOTM bets on game theory"
+    excerpt: "MDOTM, a London-based fintech providing AI-driven investment strategies, has acquired the team of Mercurius Betting Intelligence, a company specialized in"
+    publishedDateTime: 2022-01-24T08:00:00Z
+    webUrl: "https://www.cityam.com/ai-driven-fintech-mdotm-bets-on-game-theory/"
+    ampWebUrl: "https://www.cityam.com/ai-driven-fintech-mdotm-bets-on-game-theory/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/ai-driven-fintech-mdotm-bets-on-game-theory/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 59
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/12/GettyImages-893682676.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Fintech redefined through buy-now-pay-later"
+    excerpt: "Traditional lenders like banks are increasingly competing with fintech firms, so they will need to upgrade ... Ramkissoon, who writes in her personal capacity, is an AI mentor, strategist and trailblazer standing for the unification of the African tech ..."
+    publishedDateTime: 2022-01-24T06:27:00Z
+    webUrl: "https://www.itweb.co.za/content/DZQ58vVPgDOMzXy2"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/DZQ58vVPgDOMzXy2"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/DZQ58vVPgDOMzXy2"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/nBikaT3usYWrl_WehhfhbwTWMBv5Hwr8vJN_TSAIr44u9Y9DkSaH0TzSJBmgNSvtzF81fpK286WhM6zW_rzHkyFIgSs_i4DcB9YfIg=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
+  - title: "Cyber Threats to the Fintech Industry a Growing Concern"
+    excerpt: "Rising costs of cybercrime track with the failure of legacy identity authentication providers to guard us against increasingly skilled hacker networks"
+    publishedDateTime: 2022-01-21T09:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/cyber-threats-fintech-industry-growing-concern"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/security-lock-on-keyboard-with-credit-cards.jpg.png?itok=aEyBIAZk"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "foUrt9dvIWrXoMeid5LCaEOpEXWFP6mGmqF56UQWBJJMNj4qKJnXLPJiYlsndQ3XP4W4ANARnPv7c36spTHMwNVJOxrXfJ3FUBLiTpuyyTtg8MdDxdARJ147YzMI1bK7Llahg6mY1et9l2mgdXWXJMmqMZwHFlzjJBuAF1/C5fd2kUbZwpYZx5pHscA4nWZfEvgySk8q6tCHqnlHkhU9BPFca78VkkkF4XJuIatn0AuUyBTbZKRnW1HJ+6sz9P3/FO0riEqEM9dRgQdDgU1tUa/io6FP2cXBTTqqlhFbP3xpwZWbbkTEyoR/8fNLski+xwXtSAUsCwqvkLeoo+IKalPq4DfkdPma/atUG/FU0rs=;kd5k9L+FuPrNnSuosJCn4A=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "Mixed Reality and AI to aid surgeons with keyhole heart valve surgery"
+    excerpt: "Cardiac surgeons could in the future be conducting procedures virtually before even stepping into an operating theatre, thanks to research at UWE Bristol’s Big Data lab and Faculty of Health and Applied Sciences (HAS)."
+    publishedDateTime: 2022-01-24T10:29:00Z
+    webUrl: "https://info.uwe.ac.uk/news/uwenews/news.aspx?id=4207"
+    type: article
+    provider:
+      name: University of the West of England, Bristol
+      domain: uwe.ac.uk
+    quality: 37
+    images:
+      - url: "https://info.uwe.ac.uk/news/uwenews/imagestore/7593.jpg"
+        width: 760
+        height: 300
+        isCached: true
 
 secured: "C5kkWvilpy4GAg5dpXgkRawOE+MYfS/hX2VeTHcbNdpmWF9R320aVIM6g+zaG7fULfHiwg1tsJxOU0DpMpocelZf0x40a+HCRSmknWz2FHWST+eF3Y4+5lTsP+y6gz4NmxrdMKowS4PPp7jpjBD8VuIYlOm3Pbt1bbZQopTXLF7zN9sOClcWr08KtP66hUfHibtfiPuMkpTKbj8P8KvnDXRY44ObTcRX5nTSMaypiNgMK8qKncgZ8AoyCZanw9g/wGUwVxciG/NeSYqCypG8knwSJgkhijxImUF8XVpOShHN63+HWxi1LlpKp3YFQKVU4guuOgXuJv9nmqmOqeUVxoO6NVKNPglVxCvHQDQzuvq1vZr3TD+Gky8Apw1Ws6SU7gwPX+VztXuac5AtIkH2SlVJqCHohBvl++peQdGOoLjL8ejwJgn6LhgNn+OEU6zj8wrTOUXWNQkVmWUllw51D591RkK+UbdYzNRlq0FQQiqQjsCU8PaJ+QRBX3AOA3g5p1dN+hw81zcAjlbLOoeNYQ==;x5IVateWmanEoF6n8lcl5Q=="
 ---

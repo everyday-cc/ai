@@ -27,21 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Global Fintech Arabesque Teams Up with Snowflake, a Data Cloud Company"
-    excerpt: "Arabesque has partnered with Snowflake, the Data Cloud firm, enabling financial institutions to \"integrate Arabesque's suite of data assets.\" \""
-    publishedDateTime: 2022-01-21T21:12:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/amp/"
+  - title: "AI-driven fintech MDOTM bets on game theory"
+    excerpt: "MDOTM, a London-based fintech providing AI-driven investment strategies, has acquired the team of Mercurius Betting Intelligence, a company specialized in"
+    publishedDateTime: 2022-01-24T08:00:00Z
+    webUrl: "https://www.cityam.com/ai-driven-fintech-mdotm-bets-on-game-theory/"
+    ampWebUrl: "https://www.cityam.com/ai-driven-fintech-mdotm-bets-on-game-theory/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/ai-driven-fintech-mdotm-bets-on-game-theory/?amp=1"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
+      name: City A.M.
+      domain: cityam.com
+    quality: 59
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/cloud-sky-sun.jpeg"
-        width: 594
-        height: 803
+      - url: "https://www.cityam.com/wp-content/uploads/2021/12/GettyImages-893682676.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity"
+    excerpt: "Comserve / -- AI in Fintech Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast 'A research report on AI in Fintech Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail."
+    publishedDateTime: 2022-01-21T13:44:00Z
+    webUrl: "https://menafn.com/1103574554/AI-in-Fintech-Market-Growth-Analysis-By-Size-Share-News-Demand-Opportunity"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?383249"
+        width: 450
+        height: 250
+        isCached: true
+  - title: "Cyber Threats to the Fintech Industry a Growing Concern"
+    excerpt: "Rising costs of cybercrime track with the failure of legacy identity authentication providers to guard us against increasingly skilled hacker networks"
+    publishedDateTime: 2022-01-21T09:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/cyber-threats-fintech-industry-growing-concern"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/security-lock-on-keyboard-with-credit-cards.jpg.png?itok=aEyBIAZk"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "knZ8E6n4GEvFE47nuzkjQjklTDWPRluHM1GKzTa4VaQlWPZ6DKxIs9Kq6wEZVPsam2l0UFIb/4ONCV1KLp48iXpBn5m9HqIvgQDhJkT55a8FbJV4S2MMuMvfdpFg+mOfBR4X66qR9JJofWxvNmaXcA88vg1dAsaaKY2jA46QXqEwUQFs9V3s9/dD1uLV7hj2Wq183WIAmyq9BuT1w2xlXZCcBpM4oF97u7iCDIMWeFl7bN95RgUs+9+H/0LaURRsv+zTeDZ9d55w+sn5HCrLSXY7ytAoKDa8UYqnZ8CAQgfem1NhtvwoWzpjlCmW73ipio0SjbIJK0f+6NsTUv36SZmDAu46m4H7RlMSkKK8QbnCk80rj4fbqF1DAujKQxOY62A45Ne28EWdcmAx3hduO8IntlLhtkegnHQFB4oAOFEX6tEB40OkibLTD0TYhzxr4dW9MU0ZwpeUc7efLMwU6DRzxt5VhKEtIhvRpeh9J2MLwqT0kyUKtAkiTLbtaCstc2lOMoTfE1eC6bbgYCuqPA==;zMGj83dRHl0HmH7WBZ4nNw=="

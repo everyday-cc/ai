@@ -3,18 +3,24 @@ category: news
 title: "Edge Impulse Leverages TinyML and AutoML for Efficient Microcontrollers"
 excerpt: "San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers."
 publishedDateTime: 2022-01-11T12:47:00Z
-originalUrl: "https://www.retail-insight-network.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
-webUrl: "https://www.retail-insight-network.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
+originalUrl: "https://www.airforce-technology.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
+webUrl: "https://www.airforce-technology.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
 type: article
 
 provider:
-  name: Verdict Retail
-  domain: retail-insight-network.com
+  name: Airforce Technology
+  domain: airforce-technology.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "U2KmIU5ACL4wlhoVLlLP18ask9GVuMJRpJgMng2H4qRWjdNyAutTYg4HbY0d+dSu0YNvvKFijzxj6A7zegz+nqnWGOW74ghUPBp/GlV9LrX0cP5xWSFRYzHWWzCYTPhSiRrHR8/drtaGwcg3gf1i0glYii+2KlLwxc+Ha1ADAiz+rfMDMXiyr2lYZ6LEjGz/tbDUGfFL9WLyM6uuWHU4uFlRE05NUvoUfPR582hARM/Zt0NPo+0RNyv/f45zspAvO+BbkwCkjXjQbnJnQWoGWCVbCSp9aJ5arg9bFchtN4nxFobHe/E4XKh3EQy53gwtV/Nvc0kg8tVmJVdv+Y7M/nNMgga/JjemRC43pWaObS6B89mpOnE4Fa9zhrzcFxDhtnXrSW90hV74gLfmebeTZBhbgQv5+PQSFUmVk9X34Ajg5CetQbGy9uqflVeq6GlP1i7mZy0WCrw9uGJ1cVdZYZyaeJIctd1k6SHEzWIBeHBnTzoSAKPW7iZ1eQU5jNjhQ0JcYkKe8/WdL9umxB5z9g==;0tEjBlJCkstMAhEKD5UgLg=="
+images:
+  - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/01/shutterstock_767487700.jpg"
+    width: 500
+    height: 277
+    isCached: true
+
+secured: "zwo4efv/G6zwuh3fi9eoL+5rA+UgQ/r+fG9VO+mwHyQNvYypkBlWXwiYX1ugVUX8hUSRLVwHsX0dao5hSTPfElHRWlK2/P9cD+NqD3boGNZf5jdnWVkwIAjralTfEimnB5UULc6g43Y61CsGSsgqQ9fKwrUuKJ9VoagVXnQ5WsktBf2OhZwKGiFQxvjcSx8chHbQ4LpZJTZy/e/X2j03ykqDZYJAaWgd5DcfFG6laRTjbIEvMZyyDPZ5bE3kgaAaz2BnmpIbZv5JuPNTUZBELpF6jITnoCvjIAjh5GGFx06jwzrfConID7T74D8Hu/6dcWyAJ52zgsXxphz5vv6EStgAwX3bUWl3YZh0A7KkDf0=;CkJd7lFletex91kSCkYcgQ=="
 ---
 

@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Aerospace Robotics Market Analysis, Development, Revenue, Future Growth, Top Players and Forecast to 2027"
+    excerpt: "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. This information is given by Fortune Business Insights™ in a new report,"
+    publishedDateTime: 2022-01-24T10:40:00Z
+    webUrl: "https://menafn.com/1103583025/Aerospace-Robotics-Market-Analysis-Development-Revenue-Future-Growth-Top-Players-and-Forecast-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?899994"
+        width: 333
+        height: 250
+        isCached: true
+  - title: "Natural Language Processing Market Overview, SWOT Analysis, Applications, Trends and Forecast 2021 - 2030"
+    excerpt: "In a recently published report,  Natural Language Processing Market  report for till 2030. The report further now discusses; th"
+    publishedDateTime: 2022-01-24T10:40:00Z
+    webUrl: "https://menafn.com/1103583048/Natural-Language-Processing-Market-Overview-SWOT-Analysis-Applications-Trends-and-Forecast-2021-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?899994"
+        width: 333
+        height: 250
+        isCached: true
   - title: "Natural Language Processing Market - Competitive Landscape Analysis, Regional Developments and Industry Size Forecasts"
     excerpt: "Natural Language Processing Market Analysis Market Research Future (MRFR) expects the global natural language processing market to grow at a CAGR of 24% from 2017-2023 (forecast period). Natural Language Processing (NLP) is generally defined as the automatic manipulation of natural languages,"
     publishedDateTime: 2022-01-20T13:41:00Z

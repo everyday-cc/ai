@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Opinion: To protect Montanans’ privacy, we must address facial recognition technology"
+    excerpt: "We plan to bring legislation to the next session in 2023 addressing facial recognition technology. Throughout this year we’ll be taking input from Montanans on what that legislation should look"
+    publishedDateTime: 2022-01-21T13:30:00Z
+    webUrl: "https://missoulian.com/opinion/columnists/opinion-to-protect-montanans-privacy-we-must-address-facial-recognition-technology/article_5ce21cac-2595-5bf8-8d85-2f0c1d2168db.html"
+    type: article
+    provider:
+      name: Missoulian
+      domain: missoulian.com
+    quality: 34
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/f/db/fdb07621-1dd2-51f4-ac65-de15a8788c25/61eafb6fd187d.image.jpg?crop=1287%2C676%2C0%2C466&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SYjMrV+s1yL0qSsZwqsZnGz2MKJvfudUjGMdrd/FmeWmEMYvZJWcIY8UnXGTDY3wH8ZyKO9OxOSYcQHWEyX7MoiMCMZtZmFXzwlbWETmTR1qgsmRsZ8GPh/AhgH8hIhluPrIl82HxrTSp+fjSMNuVgIua5oZZsKJe2DAcIMu3e1iNyXpLQHioAtb1MzE1RBFRxGjeSe9K9NhKX9GJjAbY4EjmBYRWwQ9voRWG/KFAgm9BF2+oOUyDsiZVKsGAVUddVrfYpXS2VmfWt7HOvELGx8v74Zyzd1yx3gjv5k6dV8CeXDC2/fw4EW7s+/1foPLNLHcZ9qbOXSDuZhKqFopFDVaD/FVfUpoWioe+DXZC3PBkqmn3INR2OIDtmdW60D/CisafFezn1Ss7zQBqCWulloL1p8dWXPUjvdOItgvbe4BaditAwHBGOYhk9/U27RVxkId92thplkTbP89pridbcCUYdfpjgwOSoeY87ZLY1qlqw3lDaiezZqInoXkyLen95GbA0BtH65DLgxAn0ZYVw==;/lQoRQ3kQXJ7Ymm6mc9F8Q=="
 ---

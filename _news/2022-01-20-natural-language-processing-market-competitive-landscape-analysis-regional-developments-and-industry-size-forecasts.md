@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Aerospace Robotics Market Analysis, Development, Revenue, Future Growth, Top Players and Forecast to 2027"
+    excerpt: "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. This information is given by Fortune Business Insights™ in a new report,"
+    publishedDateTime: 2022-01-24T10:40:00Z
+    webUrl: "https://menafn.com/1103583025/Aerospace-Robotics-Market-Analysis-Development-Revenue-Future-Growth-Top-Players-and-Forecast-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?899994"
+        width: 333
+        height: 250
+        isCached: true
+  - title: "Natural Language Processing Market Overview, SWOT Analysis, Applications, Trends and Forecast 2021 - 2030"
+    excerpt: "In a recently published report,  Natural Language Processing Market  report for till 2030. The report further now discusses; th"
+    publishedDateTime: 2022-01-24T10:40:00Z
+    webUrl: "https://menafn.com/1103583048/Natural-Language-Processing-Market-Overview-SWOT-Analysis-Applications-Trends-and-Forecast-2021-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?899994"
+        width: 333
+        height: 250
+        isCached: true
 
 secured: "t2cuQrnOdQlBuv6ImZqUiaifEFaeO9tQbyRHzPryA3xiu8SyyPB7pxoQeszel8/GRwzNIJmTDWwMEma5gkhRdBW7knaZaJRiFQlZsDBrIffffU1KYjHLrG4GfmLP+yDQkGelBQqQ5smc1pFo84+IoXcih9tAclodKpv3B6w4uZz5Cn9bTl7BgMrhUrb+K4TWvAq1+j3+OwrjXnEGXzrnBBmHBc1PFpIUFckByjnn5dLZksURW+qaBDPS2cwpa11F4rwbnh+Av1HEYjV1f0Q6PmrYw4UwCeSn6eZI2BQl0ASg2E4MXuLZBJj6na6kifLiM468Z8Rt14eCbZkclIGzbgN5GRehUZUaCklXw47gsVa6bYjjqCCwOCkZ5YhalKJj7T1dYTjY8FL1TuuH3pEydK0R5Ddo8ZTUIOK79+RG7iODcAobCtnxSNM38J/3fKKKoz0cjg2kz2BivDeeS16HnE5Ep5TCSMDBarT/VSpCSUtJLiHFRYZ8JY9txI2hOHlVw5ObwUU6KqF+7r56OcRAOA==;pU12hhEqcA3efE75YWY5kw=="
 ---
