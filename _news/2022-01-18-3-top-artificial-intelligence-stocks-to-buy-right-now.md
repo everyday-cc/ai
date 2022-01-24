@@ -1,30 +1,22 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
-excerpt: "and driverless cars. Ambarella is a rising star in the computer vision market. Qualcomm offers investors a balanced way to profit from the growth of the 5G and AI markets. Artificial intelligence ..."
-publishedDateTime: 2022-01-18T14:17:00Z
-originalUrl: "https://www.fool.com/investing/2022/01/18/3-top-artificial-intelligence-stocks-to-buy-right/"
-webUrl: "https://www.fool.com/investing/2022/01/18/3-top-artificial-intelligence-stocks-to-buy-right/"
+excerpt: "They expect its growth to decelerate in 2022, but it remains one of the cheapest FAANG stocks at just 26 times forward earnings. Ambarella (NASDAQ: AMBA) sells image processing system-on-chips (SoCs),"
+publishedDateTime: 2022-01-18T11:10:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0"
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0"
+ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0?amp"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Autos
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/661360/gettyimages-1321058095.jpg"
-    width: 2644
-    height: 1133
-    isCached: true
-
-secured: "YpTaliYs06XQ8e/D0U/7kJ2QDcSAJKx1gaYKeC9eiiFzxZQ6tD9KSsfSVWYxQtGWUmibLek69RsZOBEKR7KArNgfPStLGfK2JRO26duJohfZF3hV8axViKHH7Pc1lm0LPD061z5z4pN0L4hwnlfrdqVvnRmx2xRROXSZPxLML+7Q7pCALj/vxqprZpLd+SvqCla7oHw/+ZVmDMnSDg6SHhl8kxOd1Wv1mPkvWJoZ6mzSV9tKHJtL9hE/3vhjAmJtIGiPOevPS1k6+XdEp+BrZhmwfofkGPuNwVJbbRV3xRqzuy0cVM9VxhulMBKSA2gsBEhdYXa6UoRdoVhw+bQrcrBnJo0Zo7SltkyKO4jpKMw=;DlC7ULKM4pgTFsqi826Xqg=="
+secured: "cp7ksfJ2lOsAQTOA3yM3NgL+Xm055ONg2EeuhsnO4vrT34Aoh7QrHs9ns5025ROcJmmlDgV0uJcydVyBCHmPA2hXJj0NbOkwCsbYlunXkyu6Dk2QUIyMcxfM97QCvvO5jGC3WmVh5tgzRtU8WiA4gCblD//E4D3SMqIn6PxWl5G1BsV3wj2me4iBSOdpcAzfVWYwZMVT71R/EvRQxmFxsvSy6LsMnRnwCNjEoRHgzVa2c/xbmSB1qhvWzobtnYJRVIPDwKIJd53GSyRcfPEPiVD/a/IrgHDOwCeSififHqCzjXyubI8VmmqbBicRMyArv8elZ4HlD5lDK4U8FeF0R/aaau2PqiG22HWHFFCCNgU=;LA8HDxUJYdstVM6qDOxG3Q=="
 ---
 

@@ -40,6 +40,22 @@ related:
         width: 1080
         height: 761
         isCached: true
+  - title: "Dental Care Startup Smiles.ai Secures $23 Mn To Build Digital Dental Care Network"
+    excerpt: "Dental care startup Smiles.ai has raised $23 Mn (INR 171 Cr)  in a Series A funding round led by Alpha Wave Incubation."
+    publishedDateTime: 2022-01-24T06:40:00Z
+    webUrl: "https://inc42.com/buzz/dental-care-startup-smiles-ai-secures-23-mn-to-build-network/"
+    ampWebUrl: "https://inc42.com/buzz/dental-care-startup-smiles-ai-secures-23-mn-to-build-network/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/dental-care-startup-smiles-ai-secures-23-mn-to-build-network/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 52
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/01/dental-social-1.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "sFFPBrZY8ZojIx7xrmU18cY2X+ooiToNpuzSpPKZyDf6AfMwbERNXZrd7NwjjWlbUN/4rwXFBjEP6HURXhVeG7BFNbMPM6BDYIM1EPBCeBhyGg5uVwAQOYEgw5c0EBJQATqTXanelRqBmwYWQPGMcbdF88E2X/9I3t0qHGHDtJw+wmMxbJjdQaZ5q3YOO7vGxfi91/fpWOQUQLPhclojdOFTBhDXQVYN5Hjfvg71XTeFMUtFvcYYmpw2kGXB9QYhhquYJdUL9AO5aEZJaL24/774B7IbHUDTH/1wTyrshzMBmF2It8uhmLi9fvURRzXVmx7YtwtJEOJDtrfebqzsSbuMnLQprfJpqvuDXffEbSWOMgOWv9U3Q2nfPdwf0LLuprLatC1VGxKYQ6Px+QTtW7g46zDg81tMbgk/N1gOKQ+dtsSmpQfiKoNCHeqsciYnb7AP6bRyRgRAnDMvi20knh75xSrub09IhvMuZhKn4TwKNFmtDIgv5gIyKqdMAbzEnFdKnyQ+jNBqNsHKPvi5CA==;G0QUGV7rFouxmkomjS9P4Q=="
 ---

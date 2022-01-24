@@ -9,8 +9,8 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/dental-care-startup-smilesai-rais
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/dental-care-startup-smilesai-raises-$23-million-in-funding-1642953041191"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Inshorts
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dental Care Startup Smiles.ai Secures $23 Mn To Build Digital Dental Care Network"
+    excerpt: "Dental care startup Smiles.ai has raised $23 Mn (INR 171 Cr)  in a Series A funding round led by Alpha Wave Incubation."
+    publishedDateTime: 2022-01-24T06:40:00Z
+    webUrl: "https://inc42.com/buzz/dental-care-startup-smiles-ai-secures-23-mn-to-build-network/"
+    ampWebUrl: "https://inc42.com/buzz/dental-care-startup-smiles-ai-secures-23-mn-to-build-network/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/dental-care-startup-smiles-ai-secures-23-mn-to-build-network/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 52
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/01/dental-social-1.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Artificial intelligence firm Capacity will add staff after raising $38 million"
     excerpt: "Capacity, a University City firm that uses artificial intelligence to automate help-desk functions, has raised $38 million of capital. The financing, a Series C venture capital round, includes $11 million that was announced in October."
     publishedDateTime: 2022-01-19T16:10:00Z

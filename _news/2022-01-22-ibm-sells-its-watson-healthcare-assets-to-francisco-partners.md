@@ -1,23 +1,31 @@
 ---
 category: news
 title: "IBM sells its Watson healthcare assets to Francisco Partners"
-excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion."
-publishedDateTime: 2022-01-22T11:26:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20220122/3898044.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20220122/3898044.html"
+excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Francisco Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion."
+publishedDateTime: 2022-01-22T05:25:00Z
+originalUrl: "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners"
+webUrl: "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners"
+ampWebUrl: "https://www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners"
+cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners"
 type: article
-quality: 36
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: The Free Press Journal
+  domain: freepressjournal.in
 
 topics:
   - IBM AI
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://images.assettype.com/freepressjournal/import/2014/05/ibm.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1200
+    height: 917
+    isCached: true
 
 related:
   - title: "IBM Sells Watson Health Assets to Investment Firm"
@@ -286,6 +294,6 @@ related:
         height: 576
         isCached: true
 
-secured: "RTlgoXU1c5CNJeg3xRF1q9HFRmRK4xiykcjNs0PDkVhK9ZZ7d4j3sOd9DS10okisc49Bkn7zaRFKp7/Pzv9N+YZcHccyEj9WH7jStmqVhIAiYvA8R31EC6bsKVuFTKPNKD0Zi8xTseU7JqXB4iuMTru34ox7hLWhGox5r4fwptWWO8dqbh0EflIxoVxsqX/Gk75I93GVVofi1iyWpzH2xmajA4qCwWVleTrgFbeaQL9M1P8B7k2q6FeLM2UVd1E8ZiRfYQoltJz6LECr6vjSF2167oyq+d3j5Z08bI8QipB7CoY8Rr5yclUnKj8pMva0uN13Y2oRym1BOyXW0zTA9FjuhRokZoA8BSJ7JTsR1xM=;ZICwpUMlpDCizD0+YCjfcg=="
+secured: "8ea/DYcjk1r65g4+QjYchX5gBDWcj3xIvxQxnfuqBrCS9Nop4FYFDudppFWLMhBk44lVw4Kwwljvi5KEtE+KDpd8Q9NDW20grwxkJYIxNT38XyNjFMfj+0e974xEgRSDCJQISR88gfccwrtyXtiFolKBEM9BJJnUbafAaqfNYLadJQ0SNwjW7Be4/p3jjxs71hzv8K4Ff8WDt/JeCgFCmBPA4P/I+6aWW7J8NwAp8u+eIdSq40j9u32jRLUanIoLToCceO3LDE/79mMrb85anLX+fcKDG0NorjbiTBp3UcMGs+/l/Rvu4JMM+to7mpdveWty/89oawVVdWMt1JDfrWHhHALA8RrgHrxoQh6XJ2A=;uYnsVPhsFGoAfJAH6bSVzw=="
 ---
 

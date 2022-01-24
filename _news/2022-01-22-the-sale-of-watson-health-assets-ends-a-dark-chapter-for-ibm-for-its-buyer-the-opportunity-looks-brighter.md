@@ -57,6 +57,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "IBM sells its Watson healthcare assets to Francisco Partners"
+    excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Francisco Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion."
+    publishedDateTime: 2022-01-22T05:25:00Z
+    webUrl: "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 76
+    images:
+      - url: "https://images.assettype.com/freepressjournal/import/2014/05/ibm.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 917
+        isCached: true
   - title: "IBM sells Watson Health assets to investment firm Francisco Partners"
     excerpt: "IBM is selling parts of its Watson Health Unit to the global investment firm Francisco Partners, the companies confirmed Friday. The deal is expected to close in the second quarter of this year."
     publishedDateTime: 2022-01-21T17:39:00Z
@@ -248,15 +264,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "IBM sells its Watson healthcare assets to Francisco Partners"
-    excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion."
-    publishedDateTime: 2022-01-22T11:26:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220122/3898044.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 36
   - title: "Once billed as a revolution in medicine, IBM’s Watson Health is sold off in parts"
     excerpt: "I BM said Friday it will sell the core data assets of its Watson Health division to a San Francisco-based private equity firm, marking the staggering collapse of its ambitious art"
     publishedDateTime: 2022-01-21T16:44:00Z
