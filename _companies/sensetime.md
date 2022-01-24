@@ -20,7 +20,7 @@ crunchbase:
 twitter:
   username: "sensetime_ai"
   url: "https://twitter.com/sensetime_ai"
-  followers: 1723
+  followers: 1722
 
 size: 1,001-5,000 employees
 yearFounded: 2018
