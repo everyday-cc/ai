@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-21T11:59:00Z
 originalUrl: "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
 webUrl: "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWEqYz7MJwA8/v1/1200x863.jpg"
+    width: 1200
+    height: 863
+    isCached: true
 
 related:
   - title: "DeepMind co-founder leaves Google after a rocky tenure."
@@ -118,6 +124,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "InhGmJO13Yr/WG8ahR3fooK+prVPTaD6DXfzjdGMmgpxmm0HGN+mAvLxrKE6L8QTwAhqJSHe273JVJRZ4CONL+hm517TPdz6P6i66dBrfOgEwcQbgCZT4jxQg4AS4mjEQONoURWVK7d6YSZ3SXSzbzMNCpz4LuIm3in+pkAVlK/S+Xmvel2c8FOtxNucnoD6vzdwaZoY14S2F7A3BMPBk12Fcf564i0gSotQwwMM2RMtAbozYGtt2OUDKDoEHICF5QymVvr/Lj84Ln8ddDJBDZzgK+Y8QtiEgj06lYB1b7cxeLRkxJZe6JD7pIfdNHyeqjbKOZ86SXiqjP+nuELOKZ75Eu91AslK4xmI4fdejRk=;JA3nyuzuYGcKVgaYQE1ibQ=="
+secured: "wonld9H6w+CsLdjFZEN/v4IgOscbspGc71Mg/jRG/EjlUn//1+RNE9Tvd+fgoDOMOcrjMixsceOLS4Ka/bR0XS7FCx6+C0vd25k66xhCO2qasEhjdsZENvNSlP+n9CRbn/A6I1LNRHLd4DA7GjM+LZTPwdtWp4o3as8Sb43UPTvluhWNi9RIuvBLM0njIFz2dIlA/DtEU8uy6MJ8XSH45EhjtYXsXlofbOtSUhCxg5nYfLKc+65qBVuRLEgiYqmPY9+MLLChwLbjxAnJaoPuRKFNtgrgN6ImupK5SoxdNhHUkQhZLazMooX1m68rYJub37MMT5tiBHx8gihkQqio0wznO/wtnCaT0BF5g8VQVJw=;cUtOYVrzla7gXTnL65LEQA=="
 ---
 

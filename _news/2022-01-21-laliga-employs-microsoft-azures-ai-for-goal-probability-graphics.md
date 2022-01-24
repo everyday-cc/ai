@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvbeurope.com/live-production/laliga-employs-microsoft-a
 cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/live-production/laliga-employs-microsoft-azures-ai-for-goal-probability-graphics?amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1152
     height: 648
     isCached: true
-
-related:
-  - title: "UK self-driving startup gets backing from Virgin and Microsoft"
-    excerpt: "Eclipse Ventures led the round of funding with additional investors Microsoft and Virgin. Wayve’s system is designed to be an adaptable self-driving system for fleet operators using artificial intelligence and a camera-first sensing suite."
-    publishedDateTime: 2022-01-19T13:36:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17662/uk-self-driving-startup-gets-backing-from-virgin-and-microsoft"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 41
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/662/17662/Wayve.jpg"
-        width: 752
-        height: 400
-        isCached: true
 
 secured: "hDob+2ikcSMeXJT4LMVbjz+ah8/LyDTT50nji6qrZAlyxAyDoZMJC+ZVFs1MUQTowpqwuHYDp+jaiYsd6eo8qbhPSLaqQUprouMwlvitTplzSQWmU70VaZ1zb7nUsEbhxM8L0LON9RywIwsLKVaYvyBBLi3bB8V+VTbm5UWSwvH3YTkJo9sQT76f0F6DLaG1GguUVsr6DLe9+9vqu2NZods6ckZSsvc2V6lbwncUj8KOl5EHhmqNbmQ8bTGoNE3cuQzXeqE3doYWYzKLUc2VBf3XhJZJViWkOxGDqbQTnj8AcWfXQDR91ofXIH9PTvq9n8oH/p/wIootrG4G9d9EfAmnX2iGDdXNn6P8KiqkhcV9MnetWphiKc2XeHLXCv24r0MsKR+q9nB74G+cwQtdn/BepneXJ6i3uY9NbkvMGCDubygOj25Dx3leKwMfSCr87V+4fy+Iu8qYorc2pS3Lf2FGBWAQNiM+2Qe6z/Q5W4tdipoHvisnEhMmBeknjXJSqrsFeqdg7TQTDCJeFI9lkw==;62LExrt9146vO+JHgreN7A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.mddionline.com/rd/machine-learning-model-could-give-in
 webUrl: "https://www.mddionline.com/rd/machine-learning-model-could-give-insight-covid-19-survival"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 770
     height: 400
     isCached: true
-
-related:
-  - title: "Machine learning model predicts the likelihood of recovering from Covid"
-    excerpt: "A new study has found that 14 proteins in the blood of critically ill patients are associated with recovering from Covid."
-    publishedDateTime: 2022-01-19T14:03:00Z
-    webUrl: "https://www.healtheuropa.eu/machine-learning-model-predicts-the-likelihood-of-recovering-from-covid/112926/"
-    type: article
-    provider:
-      name: healtheuropa
-      domain: healtheuropa.eu
-    quality: 39
-    images:
-      - url: "https://www.healtheuropa.eu/wp-content/uploads/2022/01/©-iStock-Povozniuk.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "Ff42sHpy2i1wLlryRv0HMVqvXrd2Vr+cqwIUwy9obL3VowUY9R6wahmjofVEm35w5BorWFbghKhJpi/Q+PM13/iiH6UoX6QHsdKTCFCFloIkL5QfT7opDFtYhkEPu+jJ+hhcOQ+UlJZX+aXAtMUYSQjjIBDviIeTWZC3UvqMgimkltrPJ7Cr2jeCi7vPxzXnUe2/R0M23jBW4GmdgUHtxHWZCluXzVRulCRTplVOR/JyUQ5pX2jlC+e6Bb1kGe5BMk+Csq8qD5uxRpYqIF5HUnwyCwQAzLO9KGT4/RF5ned/4FybbruayV5MAdhZKULrPZimDJdA6lc9NiJIOWeNnzOP8SDZ5Y09v1CDc479Ounw9Cak29AvtW4DAdhl78A0XHqk1rOXE+JPbE0rkxlNWc6a7Rm0L/xDVP09PCzz0pBwAXi4zeGID222MHzqR/kyvLzOSmfkYBb1vKirjjYykaJPnzjxxQOAbiVMqZ53tH5WJt2gkBIUpWO/BePKJRDLx96nx8EjO8TmsEKBxUP00g==;K13mQo7I/LSv+mKVV5OUHw=="
 ---

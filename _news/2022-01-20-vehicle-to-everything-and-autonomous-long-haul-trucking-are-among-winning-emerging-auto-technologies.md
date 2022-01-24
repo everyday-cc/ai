@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "As long as employers control employees’ healthcare, life-saving technologies will go underutilized"
-    excerpt: "By transferring healthcare purchasing power (and deductions) to the consumer, we’d see a swifter embrace of life-saving technologies, systems and data."
-    publishedDateTime: 2022-01-19T14:00:00Z
-    webUrl: "https://www.benefitnews.com/advisers/opinion/why-life-saving-healthcare-technologies-are-underutilized"
+  - title: "IIHS to Rate and Test Automotive Autonomous Driving Systems"
+    excerpt: "To earn a good rating, systems will need to ensure that the driver’s eyes are directed at the road and their hands are either on the wheel or ready to grab it at all times. Escalating alerts and appropriate emergency procedures when the driver does not meet those conditions will also be required."
+    publishedDateTime: 2022-01-23T21:03:00Z
+    webUrl: "https://www.autoconnectedcar.com/2022/01/iihs-to-rate-and-test-automotive-autonomous-driving-systems/"
     type: article
     provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 25
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 24
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/6364bd4/2147483647/strip/true/crop/500x263+0+19/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F98%2F0e%2F2b3315394ef2a780f19e3c3a1943%2Fp19tgm8mkte201e7h1crlj96h18.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews2.png"
+        width: 640
+        height: 300
         isCached: true
 
 secured: "+qvvL7i1DiBoSeVfmFT8voAnvPy2UnK6xnk20AvlchkeaB0WtipyARKu/348L4aQZRPWVUbthQc/ui9zObFLI+5ivIoRs4NvvtltL69/D5OMutuGzu79zOqYDpY/Lm8AcVWNhWLR5fuCaX2jmRJl/uQAHiCONAGU9yBRRuSK2CjGOtaDh9U9/qm4QHdk7zs/xbBur35cyBiDljcyY2oQ8nt33CEZdlnHRbHofOPZQF8jvxoZlo2L/DkLxRAE6IL+t7BHg0IYsF1n5d+bXDohU5H9ECL5Uwu4Nmciqe99niENUh/FgIlcxQJh+rPNMrCAtLuvy+N60GyLVCUTAT7oCD7ypTPspAarSv2rF2I+eak=;9UfSDYSsrpIUlJ3tjHqcdA=="

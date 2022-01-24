@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon EC2 Hpc6a Instances"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Hpc6a instances, a new instance type that is purpose-built for tightly coupled high performance computing (HPC) workloads."
-publishedDateTime: 2022-01-11T00:02:00Z
-originalUrl: "https://www.eagletribune.com/region/aws-announces-general-availability-of-amazon-ec2-hpc6a-instances/article_e28729df-e22d-56fb-a31f-0e8010bb2a21.html"
-webUrl: "https://www.eagletribune.com/region/aws-announces-general-availability-of-amazon-ec2-hpc6a-instances/article_e28729df-e22d-56fb-a31f-0e8010bb2a21.html"
+excerpt: "New Amazon EC2 Hpc6a instances powered by AMD EPYC processors are purpose-built for HPC workloads and deliver up to 65% better price performance"
+publishedDateTime: 2022-01-11T05:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20220110005933/en/AWS-Announces-General-Availability-of-Amazon-EC2-Hpc6a-Instances"
+webUrl: "https://www.businesswire.com/news/home/20220110005933/en/AWS-Announces-General-Availability-of-Amazon-EC2-Hpc6a-Instances"
 type: article
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-    width: 300
-    height: 250
-    isCached: true
-
-secured: "DISwPO1tscgnTGVuqcHIXwdyYnBOr45IpHAGE3XSiYxOM3MniDieExUk5h5ycB1qOY7X+Fgn3ixcS7chxiPdmK9ywLaQLbX/6RypQWJ6t6m1SEBmoIerB1dwxoQDb3oHfjRT6ImZa7esMFUchGu4drRroK0FQbDIfBqJsmxzW5yFErjYup4Umi8FZRgs5Cnkn+SIjrP6FQrYu9QSlMldtJRT0JKpJ7DASi6C3KYG8nphesE/B7Jyep6w/ST1+QDUHPDJPP3PuH1J7oLNVFa1pHDaO2hK4oqVKt3otwPvrwXuD2bYLwVHwg8MWJcyXHn2d12wHvLMADfPE4S/z5vf2+t/+0GcGKUlGnNFAbq2V44=;Z7CH89G+OFbvltI8tnCWWw=="
+secured: "wb5LNlnorWJd30253zW/OqGYPc01bDZWbitlLQltjExWUnsgt6cic254SvglOmCJ0t6WUIyfDZCWeqPo11BdpT9hoP9YjQFS+ijD3TsxYFCUWrfwylPXeCw+WApYiPiczsyI57KHRxU/YiwN7JrHNrGz42MzwRFs0RzynQQ6f2/n/ScYKfs3i5TR045iTUW8mcIapKmDulugs6tWWMBraa1wQyY0TUcPFPf6jIAzV8jDfpJZ2sC8/ZrAyHmRBKbES11tujG+jcAiQj6hQYFes/wo4Un1xNgosoF+r5z2zqEy6Q7lNeri1EJadR+jStpQEU7kvOX3ePDPqThlQyj+uOjCH0ww9/P37/XLNDVIrAw=;MhbbNzBWxtFoidYK7QDdjw=="
 ---
 

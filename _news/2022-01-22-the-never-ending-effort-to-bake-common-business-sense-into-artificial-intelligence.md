@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-never-ending-effort-to-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing AI to Add Value Investing Potency"
-    excerpt: "In fact, WisdomTree is tapping AI to bring a fresh look to a pair of new value exchange traded funds born out of two previous funds in the issuer's lineup. The WisdomTree U.S. Dividend ex-Financials Fund (DTN) is now the WisdomTree U."
-    publishedDateTime: 2022-01-19T14:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/harnessing-ai-to-add-value-investing-potency"
-    ampWebUrl: "https://www.nasdaq.com/articles/harnessing-ai-to-add-value-investing-potency?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/harnessing-ai-to-add-value-investing-potency?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "Harnessing noise in optical computing for AI"
     excerpt: "Artificial intelligence and machine learning are currently affecting our lives in many small but impactful ways. For example, AI and machine learning applications recommend entertainment we might enjoy through streaming services such as Netflix and Spotify."
     publishedDateTime: 2022-01-21T19:00:00Z

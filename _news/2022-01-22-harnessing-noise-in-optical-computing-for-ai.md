@@ -42,17 +42,6 @@ related:
         width: 1200
         height: 1600
         isCached: true
-  - title: "Harnessing AI to Add Value Investing Potency"
-    excerpt: "In fact, WisdomTree is tapping AI to bring a fresh look to a pair of new value exchange traded funds born out of two previous funds in the issuer's lineup. The WisdomTree U.S. Dividend ex-Financials Fund (DTN) is now the WisdomTree U."
-    publishedDateTime: 2022-01-19T14:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/harnessing-ai-to-add-value-investing-potency"
-    ampWebUrl: "https://www.nasdaq.com/articles/harnessing-ai-to-add-value-investing-potency?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/harnessing-ai-to-add-value-investing-potency?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
 
 secured: "R5sKM9Fn6A9FdWtoq92PxUK6OXJMc0nfh5PJsYf0RHrx9JMQTFAVv+Le3QuIM5uDJbwF71uQ2RkgRQzLtVTh8jFBGyAa+mRNHUQl6KwmB8kmHEdZ5GOYFyTzqYs7NVmzO6ICApAWbpzEPc5I0npFod7kU5PyTd0Ljz3SfIoh3BVDLKS9AmTV5ZBWlaH11WFL1GO5fmksMWu2qjSZ9Z3/2HWXHTepM4AdlLJtF1AgJwau/EtZ80i0EpamLpmNd0tFwPf8sqfaulsXe0FC1mnr/TGY4G8MReJPVoQdUPY9XgrpWGOG5WzSKeS7Ucqn6xOMwqDnIGKuAQmDR2YWnTnkAy+7M7WJiB7zT1Wao8NXdSqgDFmTkmxWzLWxdui33jmTcv1Lxb6ThQI8sPZkXZFCd9OnNA3rKB1naLR6n2GtBwg4SCThUKzp0GBnQ62yQpIXy9TStI12LkBuao5J5IYyG4SXgPhYgVaiWG5RokpFX0mWguc3MrOKTnt9H7FM5ZPgjoNb5AJcUhdM8MOE2W3LHQ==;3/pMAyEOY2709QPcchUZaw=="
 ---

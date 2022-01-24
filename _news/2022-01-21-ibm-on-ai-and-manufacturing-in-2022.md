@@ -40,22 +40,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Ambient.ai aims to provide AI-powered building security, minus bias and privacy pitfalls"
-    excerpt: "Security — as in “hey you, you can’t go in there” — quickly becomes a complex, arguably impossible job once you get past a few buildings and cameras. Who can watch everywhere at once, and send someone in time to prevent a problem?"
-    publishedDateTime: 2022-01-19T14:02:00Z
-    webUrl: "https://techcrunch.com/2022/01/19/ambient-ai-security-without-facial-recognition/"
-    ampWebUrl: "https://techcrunch.com/2022/01/19/ambient-ai-security-without-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/19/ambient-ai-security-without-facial-recognition/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 97
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/ambient-ai-header.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "IRS plans for facial recognition draw scrutiny from privacy, cybersecurity advocates"
     excerpt: "An IRS plan to use ID.me and facial recognition software would represent a massive expansion of the federal government's (long and controversial) biometric surveillance record and carries real privacy and cybersecurity concerns,"
     publishedDateTime: 2022-01-21T20:16:00Z
