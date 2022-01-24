@@ -404,33 +404,24 @@
     {
       "path": "_news/2022-01-11-edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers.md",
       "title": "Edge Impulse Leverages TinyML and AutoML for Efficient Microcontrollers",
-      "excerpt": "Concept: San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers. TinyML is an ML technique that can be implemented in low-energy systems including sensors to perform automated ...",
+      "excerpt": "San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers.",
       "sourceUrl": null,
-      "webUrl": "https://www.just-style.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
-      "originalUrl": "https://www.just-style.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
+      "webUrl": "https://www.retail-insight-network.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
+      "originalUrl": "https://www.retail-insight-network.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-style.com/wp-content/uploads/sites/34/2022/01/shutterstock_767487700.jpg",
-          "width": 500,
-          "height": 277,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T04:21:00-08:00",
+      "publishedDateTime": "2022-01-11T04:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Companies",
-        "domain": "just-style.com",
+        "name": "Verdict Retail",
+        "domain": "retail-insight-network.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -787,10 +778,10 @@
     {
       "path": "_news/2022-01-10-google-prediction-framework-addresses-data-pipeline-drudgery.md",
       "title": "Google Prediction Framework addresses data pipeline drudgery",
-      "excerpt": "Framework weaves together Google Cloud Platform services to simplify the implementation of prediction projects.",
+      "excerpt": "Google’s Prediction Framework stitches together Google Cloud Platform (GCP) services, from Cloud Functions to Pub/Sub to Vertex AutoML to BigQuery, to help users implement data prediction projects and save time doing so. Detailed in a December 29 blog ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/694299/google-prediction-framework-addresses-data-pipeline-drudgery/",
-      "originalUrl": "https://www.reseller.co.nz/article/694299/google-prediction-framework-addresses-data-pipeline-drudgery/",
+      "webUrl": "https://www.reseller.co.nz/article/694299/google-prediction-framework-addresses-data-pipeline-drudgery/?fpid=1",
+      "originalUrl": "https://www.reseller.co.nz/article/694299/google-prediction-framework-addresses-data-pipeline-drudgery/?fpid=1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -809,7 +800,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-09T20:38:00-08:00",
+      "publishedDateTime": "2022-01-09T23:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reseller News",

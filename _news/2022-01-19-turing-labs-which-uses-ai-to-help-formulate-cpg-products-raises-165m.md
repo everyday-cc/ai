@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/19/turing-labs-which-uses-ai-to-help-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/19/turing-labs-which-uses-ai-to-help-formulate-cpg-products-raises-16-5m/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Turing Labs Raises $16.5 Million to Expand AI-Powered Platform for Product Formulation"
-    excerpt: "Turing Labs, a Software-as-a-Service (SaaS) platform that uses artificial intelligence tools to assist with Consumer Packaged Goods (CPG) formulations, today announced a $16.5 million Series A raise to continue its mission to become the default AI platform for developing breakthrough CPG in record time."
-    publishedDateTime: 2022-01-19T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/turing-labs-raises-16-5-million-to-expand-ai-powered-platform-for-product-formulation-1031112437"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
   - title: "Using artificial intelligence to help humans"
     excerpt: "In the right hands, artificial intelligence can do a lot more than beat chess masters or drive a vehicle.  It can save lives.  Four years ago, Dr. Nidhal C. Bouaynaya founded MRIMath, LLC, with Dr. Hassan Fathallah-Shaykh,"
     publishedDateTime: 2022-01-19T18:15:00Z

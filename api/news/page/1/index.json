@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-24-ai-is-bringing-science-fiction-to-life.md",
+      "title": "AI is bringing science fiction to life",
+      "excerpt": "AI's use in bespoke medicines can truly revolutionize the healthcare industry and that's why in today's lead story, we delve into this topic and expla..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-89084442,imgsize-52818,width-1200,height-628,overlay-etcio/ai-is-bringing-science-fiction-to-life.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442",
+      "publishedDateTime": "2022-01-23T19:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good.md",
       "title": "How AI, machine learning are being increasingly used to drive social good",
       "excerpt": "While technologies like artificial intelligence (AI) and machine learning (ML) have become part of many aspects of our daily lives in recent times, they are increasingly being used for the social good as well.",
@@ -105,7 +147,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -408,7 +450,7 @@
       "originalUrl": "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 369,
       "tags": null,
       "images": [
         {
@@ -599,7 +641,7 @@
       "originalUrl": "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1149,49 +1191,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-growth-alert-robotics-rise-to-70-billion-by-2028.md",
-      "title": "Growth Alert! Robotics Rise to $70 Billion by 2028",
-      "excerpt": "Growth = opportunity. And here’s one: robots. There are currently more than 2.7 million industrial robots and that number is growing by around 400,000 each year!",
-      "sourceUrl": null,
-      "webUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/",
-      "originalUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://banyanhill.com/wp-content/uploads/2022/01/Industrial-robots-2-BPD-20220120.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/amp/",
-      "cdnAmpWebUrl": "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/growth-alert-robotics-rise-70-billion-2028/amp/",
-      "publishedDateTime": "2022-01-20T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Banyan Hill Publishing",
-        "domain": "banyanhill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

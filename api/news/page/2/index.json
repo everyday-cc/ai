@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-21-growth-alert-robotics-rise-to-70-billion-by-2028.md",
+      "title": "Growth Alert! Robotics Rise to $70 Billion by 2028",
+      "excerpt": "Growth = opportunity. And here’s one: robots. There are currently more than 2.7 million industrial robots and that number is growing by around 400,000 each year!",
+      "sourceUrl": null,
+      "webUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/",
+      "originalUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://banyanhill.com/wp-content/uploads/2022/01/Industrial-robots-2-BPD-20220120.jpg",
+          "width": 1000,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/amp/",
+      "cdnAmpWebUrl": "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/growth-alert-robotics-rise-70-billion-2028/amp/",
+      "publishedDateTime": "2022-01-20T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Banyan Hill Publishing",
+        "domain": "banyanhill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-meta-researchers-build-an-ai-that-learns-equally-well-from-visual-written-or-spoken-materials.md",
       "title": "Meta researchers build an AI that learns equally well from visual, written or spoken materials",
       "excerpt": "Advances in the AI realm are constantly coming out, but they tend to be limited to a single domain: For instance, a cool new method for producing synthetic speech isn’t also a way to recognize expressions on human faces.",
@@ -270,7 +313,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-in-education-market-is-going-to-boom-with-ibm-microsoft-google-amazon",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -367,7 +410,7 @@
       "originalUrl": "https://gizmodo.com/irs-will-require-facial-recognition-scans-to-access-you-1848387715",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -524,7 +567,7 @@
       "originalUrl": "https://www.electronicsforu.com/press-releases/brainchip-achieves-full-commercialisation-of-akd1000-aiot-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -772,7 +815,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -823,7 +866,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/19/turing-labs-which-uses-ai-to-help-formulate-cpg-products-raises-16-5m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1219,50 +1262,6 @@
         "Facebook AI",
         "Natural Language Processing",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
-      "title": "Celebal Technologies has earned the Al and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "Celebal Technologies, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep knowledge, extensive experience an",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "originalUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "publishedDateTime": "2022-01-18T17:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -118,6 +118,22 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "IBM finally finds a private equiteer willing to purchase Watson Health"
+    excerpt: "In-brief IBM has offloaded healthcare data and analytics assets from its Watson Health business, with private equity firm Francisco Partners hand over around $1bn for the privilege. The takeover “is a clear next step as IBM becomes even more focused on our platform-based hybrid cloud and AI strategy,"
+    publishedDateTime: 2022-01-24T03:01:00Z
+    webUrl: "https://www.theregister.com/2022/01/24/in_brief_ai/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/01/24/in_brief_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/24/in_brief_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 59
+    images:
+      - url: "https://regmedia.co.uk/2019/01/18/shutterstock_779236312.jpg"
+        width: 648
+        height: 448
+        isCached: true
   - title: "IBM sells pieces of Watson Health business to private equity firm reprtedly for $1B+"
     excerpt: "IBM's long rumored sale of assets from its artificial intelligence-based Watson Health business became reality Friday morning. Here are the details."
     publishedDateTime: 2022-01-21T17:51:00Z

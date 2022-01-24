@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-12-an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands.md",
+      "title": "An AI-Created Politician Draws the Attention as Deep Learning Technology Expands",
+      "excerpt": "In Seoul, South Korea, an AI-created model, an avatar of a politician — candidate Al Yoon Suk-yeol — draws the attention of the crowds on a big screen. DeepBrain AI’s human model was the result of hundreds of hours of recorded video used to learn the person’s voice,",
+      "sourceUrl": null,
+      "webUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/",
+      "originalUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iblnews.org/wp-content/uploads/2022/01/AI-politician.jpg",
+          "width": 860,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/amp/",
+      "cdnAmpWebUrl": "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/amp/",
+      "publishedDateTime": "2022-01-11T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBL News",
+        "domain": "iblnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-basic-classification-classify-images-of-clothing.md",
       "title": "Basic classification: Classify images of clothing",
       "excerpt": "This guide trains a neural network model to classify images of clothing, like sneakers and shirts. It's okay if you don't understand all the details; this is a fast-paced overview of a complete TensorFlow program with the details explained as you go.",
@@ -859,6 +902,40 @@
       ]
     },
     {
+      "path": "_news/2022-01-11-edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers.md",
+      "title": "Edge Impulse Leverages TinyML and AutoML for Efficient Microcontrollers",
+      "excerpt": "San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.retail-insight-network.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
+      "originalUrl": "https://www.retail-insight-network.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T04:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Verdict Retail",
+        "domain": "retail-insight-network.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-global-cognitive-search-tools-market-2021-to-2027-worldwide-industry-analysis-future-demand-and-forecast.md",
       "title": "Global Cognitive Search Tools Market 2021 to 2027: Worldwide Industry Analysis, Future Demand and Forecast",
       "excerpt": "New York, US, The business report released by Market Research Store on Global \"Cognitive Search Tools market\" has been featured by Market Research Store Organization and has Extensive information on factors that will amplify the growth of the Cognitive Search Tools Market over the upcoming seven years.",
@@ -995,49 +1072,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers.md",
-      "title": "Edge Impulse Leverages TinyML and AutoML for Efficient Microcontrollers",
-      "excerpt": "Concept: San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers. TinyML is an ML technique that can be implemented in low-energy systems including sensors to perform automated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-style.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
-      "originalUrl": "https://www.just-style.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-style.com/wp-content/uploads/sites/34/2022/01/shutterstock_767487700.jpg",
-          "width": 500,
-          "height": 277,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Companies",
-        "domain": "just-style.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1193,49 +1227,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-top-free-no-code-ml-platforms-in-2022.md",
-      "title": "Top free no-code ML platforms in 2022",
-      "excerpt": "According to a Gartner Magic Quadrant analysis, 65 percent of application development will be done on no-code/low-code platforms by 2024. No-code application platforms have contributed to productivity gains in a short span of time by assisting businesses in automating and digitising processes.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/top-free-no-code-ml-platforms-in-2022/",
-      "originalUrl": "https://analyticsindiamag.com/top-free-no-code-ml-platforms-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/ML-BANNER_11zon.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://robohub.org/robot-science-fiction-books-of-2021/"
 webUrl: "https://robohub.org/robot-science-fiction-books-of-2021/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Technology & Datascience Trends of 2022"
-    excerpt: "After curating some of the top trends in A.I. in 2022, I wanted to write more about tech trends from a programming, datascience, retail and technology stand point. (I'm not sure I succeeded but this is my first attempt)."
-    publishedDateTime: 2022-01-19T12:08:00Z
-    webUrl: "https://www.linkedin.com/pulse/technology-datascience-trends-2022-michael-spencer-"
+  - title: "AI is bringing science fiction to life"
+    excerpt: "AI's use in bespoke medicines can truly revolutionize the healthcare industry and that's why in today's lead story, we delve into this topic and expla.."
+    publishedDateTime: 2022-01-24T03:41:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGyyw0VrKfIhA/article-cover_image-shrink_600_2000/0/1642593060633?e=1648684800&v=beta&t=ABJZdbZnPvAnKf9TR5prsBN3grHtzC78eVB65Xv2eIk"
-        width: 900
-        height: 500
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89084442,imgsize-52818,width-1200,height-628,overlay-etcio/ai-is-bringing-science-fiction-to-life.jpg"
+        width: 1200
+        height: 628
         isCached: true
+  - title: "Using artificial intelligence to improve reporting of medication errors"
+    excerpt: "A novel machine-learning method has teased out factors that are responsible for nurses reporting, or failing to report, non-critical errors in dispensing medication"
+    publishedDateTime: 2022-01-19T15:52:00Z
+    webUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-medication-errors.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-medication-errors.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-medication-errors.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 37
 
 secured: "fOFzvQnky0VCgTVJGK15H2B1GMYh+hNjNpdHuxJ9g50zN4qZXBPs4mXBwAQARpn45N4GTe49y8MyXFoxzZ6i5WZ2gS1aQlV/GR0sLbwMjZQNP5jwrwV0ecHe8zWca2qdPnN/Jio3xSvox+yCc2zgiYu1v6ypSdGi/76X/ovMwhfpr/ALiSFeOsopcJWJW5hUTl4gZ2EGIKwdLzqa/pm6GayAFkbLuN473/NAV8orO+l6FYtX9twb8sq9KQtBf+GJ/JnJCcvk7aWFk6+rT4JXc2I2+33xdetKewhOFx1S+3XOnocu+0aeYssI9qbZhOaslrwCwmHOOqlEh2Lw4A1pncIuAJi3oFUiWDSRmT6vs6y8dlkRUm8MqUUdPk/kTrkTt8mWS7AIjQTsdmWXtV4ur4oSpm402vrRfwmrYUE2KxgDAXyRGxlyV+ZrOIyk4nmo9+MU+OpnwgIfdDbl+ndCB86D0T5/uHQ7nGmDO0pdU9QBoXajJPvjzxB9lVF8jxKOu2ZXkz6vmt8Z4lhgOao+VA==;7k378hUb/dWZtOXQ6rqRQg=="
 ---

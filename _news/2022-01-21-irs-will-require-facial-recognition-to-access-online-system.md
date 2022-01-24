@@ -59,6 +59,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "IRS to start using facial recognition this summer; selfies will be required"
+    excerpt: "The IRS will require users of its online portal to create an ID.me account starting this summer. Citing security blogger Brian Krebs, Business Insider reported on a new message on the IRS website directing users to create an account with ID."
+    publishedDateTime: 2022-01-21T14:28:00Z
+    webUrl: "https://www.al.com/news/2022/01/irs-to-start-using-facial-recognition-this-summer-selfies-will-be-required.html"
+    ampWebUrl: "https://www.al.com/news/2022/01/irs-to-start-using-facial-recognition-this-summer-selfies-will-be-required.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2022/01/irs-to-start-using-facial-recognition-this-summer-selfies-will-be-required.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HHUTFJY3PFGAXNIE7CPCT7FKJ4.jpg"
+        width: 4992
+        height: 3328
+        isCached: true
 
 secured: "OMd4NDbyVz5uhgUQ/Ahz407qNiRN8oMmuhnuAFKPXSZHrrBrz4XvU8cj6nOqXe74RertkdvyibZYXvUph1ZLyLGXZ0WKJ0GVvJqNOBIpZ+zw3FDX3EhIDru8e7QIGTfHXZD8elM/dsCmyes4swjoUqEfko8mXJIKT+O7xsIrOB9b8OAxcJbi+szSeCAmunwHGZ8ZV5Iz42ZStQxvYSENf0EL8KBuulRmHeHOZYnVLPI9QvrJgH1TZx3xvOwTUzK+qOqqCRJT3Dp/MqGC0JEOwneIubjWWLZU1dxx3tKLeQjoNzUNlXjfmI02FN2zkHFVqQXQtgbdQD5GHmOR7JZ+HtzVRwgpoksyB5+J2Ku72h47F8vBA2ugfbzy07dhorcZ/EYy2OEzd9Kkv9KgtbhUGJgy92/VMQsvwhq1ErJRxZF7EKtt2S50iEEJFy2Z4q/WgeBKPWOy1/0cBeCHmJ8owkjuExQ+3F4v76u8Qa/bWlOcciEoi29ddkbMDGPLYetOTMCsyFXmJSGe+E761jwI5w==;DFZ+gdlsdtmk+Ez3DyN04w=="
 ---

@@ -49,20 +49,6 @@ related:
         width: 5760
         height: 3840
         isCached: true
-  - title: "DeepMind Co-Founder Suleyman Exits Google for VC Firm Greylock"
-    excerpt: "The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman ..."
-    publishedDateTime: 2022-01-21T11:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWEqYz7MJwA8/v1/1200x863.jpg"
-        width: 1200
-        height: 863
-        isCached: true
   - title: "Google exec and DeepMind cofounder Mustafa Suleyman is out after a turbulent few years. 'I really screwed up,' he said."
     excerpt: "DeepMind cofounder Mustafa Suleyman has left Google to join venture capital firm Greylock Partners. Suleyman will focus on backing and advising early-stage companies in the AI space. Insider ..."
     publishedDateTime: 2022-01-20T19:54:00Z
@@ -109,6 +95,15 @@ related:
         width: 1080
         height: 604
         isCached: true
+  - title: "DeepMind Co-Founder Suleyman Exits Google for VC Firm Greylock"
+    excerpt: "The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman ..."
+    publishedDateTime: 2022-01-21T11:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 49
   - title: "DeepMind founder leaves Google"
     excerpt: "Mustafa Suleyman, the co-founder of Google’s DeepMind AI lab has left Alphabet to join venture capital firm Greylock Partners, following a turbulent tenure."
     publishedDateTime: 2022-01-21T16:08:00Z

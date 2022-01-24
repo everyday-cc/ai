@@ -24,22 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Artificial Intelligence in BFSI Market Size and Forecast Research Report by 2028"
-    excerpt: "The report is primarily targeted at the Artificial Intelligence in BFSI industry participants and stakeholders that can capitalize on the contents of this report and make informed business ..."
-    publishedDateTime: 2022-01-19T14:09:00Z
-    webUrl: "https://menafn.com/1103563033/Artificial-Intelligence-in-BFSI-Market-Size-and-Forecast-Research-Report-by-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?245331"
-        width: 375
-        height: 250
-        isCached: true
-
 secured: "1P3cOYGe0t81vnHQJ6sEkkUV+icSUHM1IzKGnod04tJ/NvYDsatNTB0X4EZ0g3E1t8Gmh9RVRkLkbTaQ+3ZlFrYVVlbc3tvBJSsd0ou2I6wpix2hNnwXlMVxCWutHkW8e+eb2Tr/BBlGDvEitxSj/BUYK0UrKumq5VGkh5QUI/Magmg5gnP3nL2FjEOwt/3SH6M398zrwnALVDN+hPHukPQpRIls8TyKudVTJWpByV0MoyNqLLHtzJcNTyctx6VKWLQML4cKWQZwc8KnP7MYH15CVbNNkxz+Jr9Gt5eRmSt6K+3BfQHokkXANmS7Yb+7mfEDQhEe/Le+bEW4V07L97Suu2NHr01VL0XYVyRxVMo=;136qjanQFldEQhf+j1Q9Wg=="
 ---
 

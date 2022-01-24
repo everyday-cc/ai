@@ -43,6 +43,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "IRS to start using facial recognition this summer; selfies will be required"
+    excerpt: "The IRS will require users of its online portal to create an ID.me account starting this summer. Citing security blogger Brian Krebs, Business Insider reported on a new message on the IRS website directing users to create an account with ID."
+    publishedDateTime: 2022-01-21T14:28:00Z
+    webUrl: "https://www.al.com/news/2022/01/irs-to-start-using-facial-recognition-this-summer-selfies-will-be-required.html"
+    ampWebUrl: "https://www.al.com/news/2022/01/irs-to-start-using-facial-recognition-this-summer-selfies-will-be-required.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2022/01/irs-to-start-using-facial-recognition-this-summer-selfies-will-be-required.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HHUTFJY3PFGAXNIE7CPCT7FKJ4.jpg"
+        width: 4992
+        height: 3328
+        isCached: true
   - title: "IRS will require facial-recognition to access online system"
     excerpt: "The Internal Revenue Service will require taxpayers to take selfies and verify their identities through ID.me to access online accounts starting this summer."
     publishedDateTime: 2022-01-21T15:57:00Z

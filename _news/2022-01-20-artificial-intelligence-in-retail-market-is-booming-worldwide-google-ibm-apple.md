@@ -38,22 +38,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "How Microsoft is charting its metaverse entry in India"
-    excerpt: "Calendar year 2022 will be significant for Microsoft in India as it charts the initial progress of its metaverse plans and new product launches. The company told BusinessLine that its Mesh for Teams metaverse offering will go live in the country in the first half of the year."
-    publishedDateTime: 2022-01-19T12:07:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/how-microsoft-is-planning-its-metaverse-entry-into-india/article64910318.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/how-microsoft-is-planning-its-metaverse-entry-into-india/article64910318.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/how-microsoft-is-planning-its-metaverse-entry-into-india/article64910318.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://www.thehindubusinessline.com/incoming/14i6au/article64910383.ece/alternates/LANDSCAPE_615/2022-01-18T182236Z_1640682745_RC2S1S9UGWWU_RTRMADP_3_ACTIVISION-MICROSOFT.JPG"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Machine Learning in Communication Market Is Likely to Experience a Tremendous Growth in Near Future | Amazon, IBM, Microsoft, Google"
     excerpt: "The ‘ Machine Learning in Communication market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size,"
     publishedDateTime: 2022-01-20T05:49:00Z

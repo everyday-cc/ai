@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powere
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1200
     height: 673
     isCached: true
-
-related:
-  - title: "Personetics, an AI-powered customer engagement and insights platform for banks, raises $85M"
-    excerpt: "Personetics offers banks a data-driven approach to delivering personalized customer engagement -- it's all part of the \"Netflix effect.\""
-    publishedDateTime: 2022-01-19T11:58:00Z
-    webUrl: "https://venturebeat.com/2022/01/19/personetics-an-ai-powered-customer-engagement-and-insights-platform-for-banks-raises-85m/"
-    ampWebUrl: "https://venturebeat.com/2022/01/19/personetics-an-ai-powered-customer-engagement-and-insights-platform-for-banks-raises-85m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/personetics-an-ai-powered-customer-engagement-and-insights-platform-for-banks-raises-85m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 77
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/feat-1.png?w=1200&strip=all"
-        width: 1200
-        height: 651
-        isCached: true
 
 secured: "wwNr3l02e8nfgH5uB/myTkc1VaZTbULDiKCJDr8ZrNnbdQdykN4MHEmdwmSnLX91ZeTA04/hH536hvonIscJonzorXSYoD+GRJ5xjVDuBEYhh5mqhCUGMQe3pYRScQS00zB1Jnd9mIYCSXfmxmsOwzsA4gRybVmINU7c500yAnbMu4eXJSMc0eQaZLNze8KNfc+KNVoOHNpyL/zlmvJEnZfE4VFpg1oIleMYCi2q7DiDurFGnS2fmDn+vV14w3fRb1EQdLVbOmyEpD0ag0ljrD8ERmCYsSLDyIvqBtjQO0sywcfqFe2111/vmxj9gZ//Lje9/qb8B0I79wwmt6eJPS2DjkUP1SdcGzbOcKLu5EZdVroG2iA0yHWs3RWNt9sRTsiXS6VmZyw4v/ViwoJrgjqCfiiKPA7bnHkah1jLa4ewrOuy8ejcxxRiqUyG3NACsvywK2TPWPCLMlQ8pyEubg8qHCve+QHvFiTFE/23sKnAle1fCX8vHQIqDZ415G+ulPR4ZRms3tRTLKcDeUIWaw==;bOxjDHJK5kkcI0KxnLGuzw=="
 ---

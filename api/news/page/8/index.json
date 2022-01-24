@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-01-14-janes-news-page.md",
+      "title": "Janes - News page",
+      "excerpt": "Boeing is to expand its F/A-18E/F Super Hornet and EA-18G Growler industrial team for Germany, with ... New Czech Defence Minister Jana Černochová presented her ministry's priorities during a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.securitymagazine.com/articles/96922-swiss-transit-authority-uses-ai-monitoring-to-secure-rails",
+      "originalUrl": "https://www.janes.com/defence-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securitymagazine.com/ext/resources/2022/01/17/transport-g333cdff04_1920.jpg?height=635&t=1642440004&width=1200",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jane's Information Group",
+        "domain": "janes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-an-ibanker-turns-entrepreneur-to-build-better-medical-care.md",
       "title": "An iBanker Turns Entrepreneur to Build Better Medical Care",
       "excerpt": "Former investment banker Daniel Ni (MBA 2018) has long wanted “to dream and to build” for greater social good. Seeking inspiration, he took his entrepreneurial dream to The Chinese University of Hong Kong (CUHK) Business School,",
@@ -1155,57 +1197,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-seel-secures-17m-round-to-infuse-ai-in-customer-product-returns.md",
-      "title": "Seel secures $17M round to infuse AI in customer product returns",
-      "excerpt": "Merchants can add “return assurance” to an order, if it is returned in the next 30 days, Seel, instead of the merchant, will pay for the refund.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/13/seel-secures-17m-round-to-infuse-ai-in-customer-product-returns/",
-      "originalUrl": "https://techcrunch.com/2022/01/13/seel-secures-17m-round-to-infuse-ai-in-customer-product-returns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-664650106-e1640222329615.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/13/seel-secures-17m-round-to-infuse-ai-in-customer-product-returns/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/13/seel-secures-17m-round-to-infuse-ai-in-customer-product-returns/amp/",
-      "publishedDateTime": "2022-01-13T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

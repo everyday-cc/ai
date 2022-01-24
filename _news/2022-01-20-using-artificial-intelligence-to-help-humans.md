@@ -42,15 +42,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Turing Labs Raises $16.5 Million to Expand AI-Powered Platform for Product Formulation"
-    excerpt: "Turing Labs, a Software-as-a-Service (SaaS) platform that uses artificial intelligence tools to assist with Consumer Packaged Goods (CPG) formulations, today announced a $16.5 million Series A raise to continue its mission to become the default AI platform for developing breakthrough CPG in record time."
-    publishedDateTime: 2022-01-19T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/turing-labs-raises-16-5-million-to-expand-ai-powered-platform-for-product-formulation-1031112437"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
 
 secured: "2qXHeGph0lOFs38mMjLlzWa1xtFZqISb5X4YpNSmjm3UEy2iA0Y5Y5Mc8mD32GsOXkxn7Y5nN1uP4fGneF/r6ERH4xNsRPOIbcuAhwdhMZck7QlmFn0OFX/DOkqYkbp3VHvqO2VpNskUKiUeVB1q1qSX6EiJR6aV/YF6+SOyJyv2LbasX08qGKFhs6ZXZZvHuBFsyqgfWevlNU5qIfgHN+EKt5BSq0JZDZStOLIENI2PSGtJ6cHdMbaGbUNVblVA1hpPstdwrpUAFF9DaLEdMr15/vhBfC2DJgub3cNUOdDdtSsaUdWQ7MinbDfIb1GpV5ZFVTKhcWLPI/OE0wwFnQYPxcc3gl0hMUtJBzBkKY5/C4jy0e9SVhq6g0cfVC49A6ZD+VwEqVZRLsktyU5hO9KWw32r7ObN49fB1SVPATYkIi/VXhpyhvooDss6R/xlkSF0clxNxrISnB/nYhZolTddYxnlfUUEcMkx+mau/M24oilLXK+Bt68rv+cnk7pcHjVTmEZt9OklH1GjZr4nzA==;hOBcIwSpvH7gOQvdwgIKow=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "State of the Art: The First AI-Generated Stock Photos of People"
 excerpt: "The future of stock photography is here. And it isn’t real. VAIsual, a tech company that identifies itself as a “synthetic content pioneer,” has partnered with German micro stock agency PantherMedia to offer 100-percent AI-generated stock images of humans who don’t really exist."
 publishedDateTime: 2022-01-23T18:26:00Z
-originalUrl: "https://www.ai-ap.com/publications/article/29463/state-of-the-art-the-first-ai-generated-stock-pho.html"
-webUrl: "https://www.ai-ap.com/publications/article/29463/state-of-the-art-the-first-ai-generated-stock-pho.html"
+originalUrl: "https://www.ai-ap.com/publications/article/29463/state-of-the-art-the-first-ai-generated-stock-pho.html/"
+webUrl: "https://www.ai-ap.com/publications/article/29463/state-of-the-art-the-first-ai-generated-stock-pho.html/"
 type: article
 quality: 17
 heat: 17
@@ -17,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "cPL108KFZemvOipMYV+n3Sr9S0XZTiEzRIPr1zHAKZllyDcQFn3XV2CQQWOciSry26QZ1H6NZPYkQg/aYIiPrrY3zqgheBvAJrRaJQh1h8LQHzPEXOMHZdaHVhO4tS+GoaLlq4sV5GUIeFsC1l7vmsgKVi7HAd6j+876Ht/hcbboqOZIxDUKCBCZAFIf8bkgCx2ThJ4mtmsvUpW6sbEdmnU201+jlYQ5MXgzPuwTptAGV3/CuHk3O5YywSUDhfFPrgqEOdlfvCpz0WXdz7B6eFxmE4aAXupH7pdTCXLU/ksbZtIIQ2SOJkSxfdBsrTpUvi2OY884xajE629wPfGJOZCWYABNIZzQmDAiS2nZtsdozTrmX7gH8N3bh59hrTL5E3l2+m7Lo60phMhSHdY+CTmcLngt7VSY1SHFjOj60OhLtsaLkxHym0YtWticmruuQ60eX8mZ40qLSlsyK2ocXZGJ6Dpfdg97OWwUHmLsoMAV9YIWVXTRp2E7zvrxEBVY9wxPFg7rWENH1XHsdYs/zA==;5ye/zKrRAlWZUNj748Bg2g=="
+secured: "F0IB1SGH4f6L5hDLU/bj2jhFqvOYocZZWI26/g0enJXbOS6ktJAM9c9ZcfB2D8HfOns/VGNWRrLUwKarspBKSiT8rKiEcLv4uYtdDbMnLGmL8/DO7OJeyujcJeY0s1r5VgLG5LmeNhfzz4jCV4SG5YDu1J/BXWBCP5fLfq8ZjGJgSFLfyuuJ9vPcjAnSs0cl8kCHpEL9BvSmoS9x2qtqj9Y2M2jFiQdgYiHgv0j9FiNbjaaN/htxqrf22I8YO76nmWlbU0ljRxfSeMaPvDMy2/VELtKkBQMhnOgvVol5o9HF6MyVncZi2KvgJyFoap5y5ammXRLtyJAwNqHTTahPFe7i5pHKDwDiTyrHyNKJm3aaQwAKxC3eAOR/y7fmCfCMCou44he8B5r8kJvxWPknO2PUUT6atj7oDLIpymSBqTkiAcCcZFURv7NzOjrH8OcXdl8BG+ppupYxgHsEFev99Na7iTHdoaZRRjS5ODZ6Iojt+kV5MEEi5Hctq/evo5lsBzwv2ibPOoKJrIsWKV0r1Q==;KqnwH/WbsH7lH+jw2ITyrQ=="
 ---
 

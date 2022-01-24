@@ -29,33 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Healthcare Market 2022 Size, Share, Key Country Analysis, Growth Factors, Competitive Review, and Regional Forecast to 2028"
-    excerpt: "Intelligence Market Report Publish New Market Research Report On-“Computer Vision in Healthcare Market 2022 Market Analysis; By Key Players, Applications,"
-    publishedDateTime: 2022-01-20T17:07:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-2022-size-share-key-country-analysis-growth-factors-competitive-review-and-regional-forecast-to-2028"
+  - title: "Global Deep Learning Software Market 2021 Research Strategies, Trend and Future Development Status, Forecast by 2027"
+    excerpt: "Global Deep Learning Software Market Research Report 2021-2027 published by MarketQuest.biz depicts the factors that are boosting the market growth. The report sums up the market scenario offering a basic overview of the market with respect to its present position and the industry size,"
+    publishedDateTime: 2022-01-20T00:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-software-market-2021-research-strategies-trend-and-future-development-status-forecast-by-2027-2022-01-19"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Voice Assistant Market Forecasted to Reach USD 7.30 Billion by 2025 | Voice Assistant Market Growth Analysis and Industry Forecast"
-    excerpt: "Market Highlights. The global voice assistant is expected to garner a valuation of USD 7.30 BN by 2025, growing at an impressive CAGR of 24.32"
-    publishedDateTime: 2022-01-20T11:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-assistant-market-forecasted-to-reach-usd-7-30-billion-by-2025-voice-assistant-market-growth-analysis-and-industry-forecast"
+  - title: "Artificial Intelligence in BFSI Market Size and Forecast Research Report by 2028"
+    excerpt: "The report is primarily targeted at the Artificial Intelligence in BFSI industry participants and stakeholders that can capitalize on the contents of this report and make informed business ..."
+    publishedDateTime: 2022-01-19T14:09:00Z
+    webUrl: "https://menafn.com/1103563033/Artificial-Intelligence-in-BFSI-Market-Size-and-Forecast-Research-Report-by-2028"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
     images:
-      - url: "https://marketersmedia.com/wp-content/uploads/2022/01/Logo-MRFR-19.jpg"
-        width: 417
-        height: 455
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?245331"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "t2cuQrnOdQlBuv6ImZqUiaifEFaeO9tQbyRHzPryA3xiu8SyyPB7pxoQeszel8/GRwzNIJmTDWwMEma5gkhRdBW7knaZaJRiFQlZsDBrIffffU1KYjHLrG4GfmLP+yDQkGelBQqQ5smc1pFo84+IoXcih9tAclodKpv3B6w4uZz5Cn9bTl7BgMrhUrb+K4TWvAq1+j3+OwrjXnEGXzrnBBmHBc1PFpIUFckByjnn5dLZksURW+qaBDPS2cwpa11F4rwbnh+Av1HEYjV1f0Q6PmrYw4UwCeSn6eZI2BQl0ASg2E4MXuLZBJj6na6kifLiM468Z8Rt14eCbZkclIGzbgN5GRehUZUaCklXw47gsVa6bYjjqCCwOCkZ5YhalKJj7T1dYTjY8FL1TuuH3pEydK0R5Ddo8ZTUIOK79+RG7iODcAobCtnxSNM38J/3fKKKoz0cjg2kz2BivDeeS16HnE5Ep5TCSMDBarT/VSpCSUtJLiHFRYZ8JY9txI2hOHlVw5ObwUU6KqF+7r56OcRAOA==;pU12hhEqcA3efE75YWY5kw=="

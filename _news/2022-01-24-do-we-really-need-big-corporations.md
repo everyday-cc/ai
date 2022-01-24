@@ -6,6 +6,9 @@ publishedDateTime: 2022-01-24T02:34:00Z
 originalUrl: "https://mises.org/power-market/do-we-really-need-big-corporations"
 webUrl: "https://mises.org/power-market/do-we-really-need-big-corporations"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Mises Institute

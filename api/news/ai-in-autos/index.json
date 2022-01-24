@@ -212,33 +212,24 @@
     {
       "path": "_news/2022-01-18-autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford.md",
       "title": "Autonomous driving start-up Wayve bags $200 million from Microsoft, Virgin and Baillie Gifford",
-      "excerpt": "London-based Wayve has been backed by a host of big name investors in a funding round that brings total investment in the company up to $258 million.",
+      "excerpt": "Founded in London in 2017, Wayve's team of machine learning scientists and roboticists are trying to pioneer an artificial intelligence ... Chris Burgess, ex-Waymo Principal Engineer Dan McCloskey ...",
       "sourceUrl": null,
       "webUrl": "https://www.cnbc.com/2022/01/18/wayve-series-b-microsoft-virgin.html",
-      "originalUrl": "https://www.msn.com/en-us/news/other/autonomous-driving-start-up-wayve-bags-dollar200-million-from-microsoft-virgin-and-baillie-gifford/ar-AASSCZk",
+      "originalUrl": "https://www.cnbc.com/2022/01/18/wayve-series-b-microsoft-virgin.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 232,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107002167-1642416708532-Alex_Kendall_CEO_2_002.jpg?v=1642416822",
-          "width": 5537,
-          "height": 3691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/01/18/wayve-series-b-microsoft-virgin.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/01/18/wayve-series-b-microsoft-virgin.html",
-      "publishedDateTime": "2022-01-17T16:38:04-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T17:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "com/2022/01/18/wayve-series-b-microsoft-virgin.html",
-        "domain": "com/2022/01/18/wayve-series-b-microsoft-virgin.html",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
@@ -257,9 +248,9 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI",
-        "Microsoft AI",
-        "AI in Autos"
+        "Microsoft AI"
       ]
     },
     {

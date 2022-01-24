@@ -6,6 +6,9 @@ publishedDateTime: 2022-01-24T02:38:00Z
 originalUrl: "https://www.infosys.com/industries/aerospace-defense/insights/causing-disruption.html"
 webUrl: "https://www.infosys.com/industries/aerospace-defense/insights/causing-disruption.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Infosys
