@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Frost & Sullivan confers SecureThings AI with Technology Innovation Leadership Award"
-excerpt: "SecureThings AI, a USA based leading Automotive Cybersecurity product company, has been recognised and lauded with the 2020 Technology Innovation Leadership Award by a prominent American business consulting firm Frost & Sullivan."
-publishedDateTime: 2022-01-24T10:51:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20220124/3899248.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20220124/3899248.html"
+excerpt: "SecureThings AI, a USA based leading Automotive Cybersecurity product company, has been recognised and lauded with the 2020 Technology Innovation Leadership Award by a prominent American business"
+publishedDateTime: 2022-01-24T12:01:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/frost-sullivan-confers-securethings-ai-with-technology-innovation-leadership-award-122012400949_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/frost-sullivan-confers-securethings-ai-with-technology-innovation-leadership-award-122012400949_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/frost-sullivan-confers-securethings-ai-with-technology-innovation-leadership-award-122012400949_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/frost-sullivan-confers-securethings-ai-with-technology-innovation-leadership-award-122012400949_1.html"
 type: article
-quality: 10
-heat: 10
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AI
 
-secured: "jCamoMfzoT1FtKBKD9oBpzdO2kr+jg7ey92PgoeCxoCdLutzS8u09POu17P2GGe5pm+AkYeUdsbDSFm4ZDv2rUxH9OieLLSU27cQm6ReyXGHo+QRzQHi5KyWg/CXkYyRkO56LmbjFjdV3aRLwk/huApIyECZW+tntJeMpe+kJCZ7DYEYw44HS7gWshYIP0X/A8G/9nVlSqQkCH+HwaWSTjBKxuoT+hEfr5xD4+Zy8gTwYVmZcmv/2XzrPg3v6CgvXYWEBBKwFJwgUH+Kc3+QugNCk2a1/Tkd3+0ZVwUvXd7WPS2VfBkrwQ26ndBHawYlfyN24dUVVmTlyKknTvN4CXqfFZLhU6YdGLVONzesK44=;sPXkmftLgGhHys6nhTmMsg=="
+images:
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/24/full/20220124153511.jpg"
+    width: 600
+    height: 450
+    isCached: true
+
+secured: "EXvmngzMicW4zYdD9Y3FAVcr7ytPJZkk+iw8prwzKeb9HvGnO198OPVWMCNkDY0MchUWV/5ay7oHOjkjdO8R0QZx/nVb4u85VNh9Vt0K5P+NLfDPwH28Vs9ogyWo00j9Xb1V4CG6bMK3h/oAmZr8GSCPrCPI4RvmrY7EH/wKI39Zt0HqFGEZ71XclFxIGErM2af4101vWgQhHb0BR8mpqsLHXFv/jA1WwHyLHjdB3Hib0L+vqtwohMRzsnLNNMBATjJMU6jVnNuDFQPOx10opB37GZwnHJorJOoWrKQy9K5F+DXk1R/NWyu6VTd+pqp2duEmH39b846VJ6sGQhafxNNRudKVWl8e1hGHWZ41Oj4=;suFUeP/t1Y7SH5ip+xCcMQ=="
 ---
 

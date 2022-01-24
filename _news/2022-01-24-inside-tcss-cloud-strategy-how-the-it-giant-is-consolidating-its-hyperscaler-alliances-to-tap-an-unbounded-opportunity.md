@@ -8,8 +8,8 @@ webUrl: "https://www.forbesindia.com/article/take-one-big-story-of-the-day/insid
 ampWebUrl: "https://www.forbesindia.com/amp/article/take-one-big-story-of-the-day/inside-tcss-cloud-strategy-how-the-it-giant-is-consolidating-its-hyperscaler-alliances-to-tap-an-unbounded-opportunity/73131/1"
 cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/take-one-big-story-of-the-day/inside-tcss-cloud-strategy-how-the-it-giant-is-consolidating-its-hyperscaler-alliances-to-tap-an-unbounded-opportunity/73131/1"
 type: article
-quality: 18
-heat: 18
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.forbesindia.com/media/images/2022/Jan/img_176493_tcs.jpg"
@@ -26,6 +27,6 @@ images:
     height: 600
     isCached: true
 
-secured: "HBO5QEnqZF/bx1zslwK6/ACZoSsJ9t4KTQPUw9iRGaRoFWk1plecS9/3MKJpIapJeYOJ7BLwHymudNEXNNdCsHj4Ds+9zQdRBlRlJf5WorgQfFEsGLnMnPqNzYPDcbEzbyx8l7hAhpcpnwYXTDCyHJX42UDoeJyh2kP5nwKA7ObvhdN3GndLIdsZoJNJcXqM198/nGN3TB7TOIiw1diMiTWW9MEeYCd4eqnSSGyHrrjNNGl62bL9RSlQ9G5vjZte7zz+2w9PU9mCMznpT1GSn2raXSCI+jflsUvWIlAuW5BO5+lMVLZxs5Sgm62u4ZZQqulSDvu0V+Y+U4sdq03Xiiw1B1wYj5QkOvydXmuYMFg=;AgyiMuSsKQhpWokFrFQs/Q=="
+secured: "COyKAoLNEfjjTzLHMr96kMoqV6D5htZyfY8Mxm971EahlM5Lp2F0mO/RwJiebT/j3gznQFWKwLOwkEUH1aKbFhjfOwsh5MR9EDpaoCr5PpdvGVhwKkC2hH372QEjQouzvg25SB+UcusLGfxMWmLy1arphf5zOuwBQ/pbLtNBA4mHM0aeaBkjE7XB3GJo9VLDpKdlQ0FeVHpQY/5ydywCmztYmVv8W+6h9dSjiWaLv69YKuBcr/yUnwXjF1lmsN2XD13MQxymTFImZbMOlWo2M2Wwf6JTC3hW93V76N8wn2tgpbtmr5ccTNvvRP2p/SrfDrrRWzo0KRcFTbmnBy1iysOE4pvZkhREpYeZL5xFidip/1zHceCAPRPB1lmguBduhgVzwtW0V29oydYysyQwbxJov5AVcVfRjqQrsnm6DhMCsRalxygcrseBwvf6BVXFKvI9ziOrS6PULTKLAC4oluu2utSfNngggQBVzKdTYBuv92c/2zGFU/WvMBEGqaNEFJAd9txKkfmZSxAp+1u15g==;waFbuLlNS0MOjKNaLDI6ZA=="
 ---
 

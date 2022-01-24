@@ -28,22 +28,6 @@ images:
     height: 260
     isCached: true
 
-related:
-  - title: "Loans Canada and Even Financial Announce Strategic Partnership to Help Canadian Borrowers"
-    excerpt: "Even Financial (\"Even\"), the category-leading embedded finance marketplace, and LoansCanada.ca (\"Loans Canada\"), the leading loan comparison site in Canada, have announced a strategic partnership to help Canadian borrowers find optimal loans and credit solutions."
-    publishedDateTime: 2022-01-20T15:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-loans-canada-even-financial-announce-strategic-partnership-help-/2022/01/20/9530272.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-    images:
-      - url: "https://mma.prnewswire.com/media/1730010/Loans_Canada_and_Even_Logo.jpg"
-        width: 400
-        height: 205
-        isCached: true
-
 secured: "xnm0NMKtgHZBJxin3YEoL0QE9df+JWMthmxLBsaJt/usqcs9HGjgn+MOwzC1Pbj5iR/Kwr8iWrrvKTXLpJaiHZuMXTG6Ax6yvEFQ7fuJapKUcAFLYTII15R8gsz46IGviE0UNSNXfL5GAzIQvt0TCLbeU+Ap5Maf170/5sRqzJ3qpe0Tjgi/bcDjmiC7iAWHqJgoBA8JZUP9camrHTcZPLFDQFKwiNf8jUgJLSQ+d9enIpanbk7kFieNINRkc9feakOdfvocl8/FJxsz0czY7iBnRiFhWhF4Pl9xB+HKJKDHkUeuymLuXXJEnx39Vb0Uyw3o+84PJ1bDGjXhJ3UFHOd7kmP6cx9KQaVxJSDIMTJqUkIdcVTVrSvIrBCfG34hKVGtfFVm8j858qI8JWygeVn/DWd++WvR/M3YS97IddY6o2GjfZvcFPbEQC9GmOoRSlMabvemcbjpptY660V0CiiXcaC8xICbMk7JEM6wmCwQMTxU7b/7vmlFIgbbm1WY5bT8bDHOQ4Kt3DmN0lUYlA==;m1q+G3ZzrDvmVIREVda/7A=="
 ---
 
