@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "amperity"
   url: "https://twitter.com/amperity"
-  followers: 887
+  followers: 889
 
 size: 51-200 employees
 yearFounded: 2016
