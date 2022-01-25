@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Artificial Intelligence Used by Argonne Scientists to Transform Manufacturing of Airplane Parts"
+    excerpt: "Regarding the manufacture of new lightweight, yet sturdy components for modern passenger jets, researchers are handling the process like attempting to brew the tastiest cup of coffee."
+    publishedDateTime: 2022-01-25T16:53:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12706"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12706"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12706"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 62
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12706_16431113426464338.jpg"
+        width: 534
+        height: 300
+        isCached: true
   - title: "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences"
     excerpt: "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes."
     publishedDateTime: 2022-01-25T14:17:00Z
@@ -79,7 +95,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 23
+    quality: 25
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

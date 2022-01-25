@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-dri
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -70,18 +70,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Pioneer Luminar Seals Deal With Mercedes. The Stock Is Jumping."
-    excerpt: "Luminar Technologies will provide Mercedes with lidar, its laser-based radar. Most auto makers developing self-driving cars are using lidar."
-    publishedDateTime: 2022-01-20T23:11:00Z
-    webUrl: "https://www.barrons.com/articles/luminar-mercedes-self-driving-51642705732"
-    ampWebUrl: "https://www.barrons.com/amp/articles/luminar-mercedes-self-driving-51642705732"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-mercedes-self-driving-51642705732"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 21
 
-secured: "FdS3P0ByBDmROOxvUjQYmchRNumsPp8zfs6UHlRs9s17OqJcFC8qqqG8rJvd6LIve1/Pt8r7Oo92h5Gg+ZJnV22WxN+dykjIgpOkHkYOk/WuiqvhU3Kzdj8251iWzXkQFQ4YT8udEWFxm+WQ1Sc+rdh8MzICc7jdfNRR8yc/yjZtFse+50gtQmnH+lX5f0IJvoRMrCZ0TA7piFkRWwrYfUpS9ZNtRucy0nZ6x9NShRAt04RHUA9O3viXdKBtTKmFxBtvuGjBdDTgv/0G2Ydfricyhus4VAY1S+6cbfpuNzes+BABglxCjeI8I2+wiSLbvXe5D/O+OItSVRNoKH8k98n9L13ryW1rA9TU911BXRU=;1IUacuUnlubOvArQ6jLWMQ=="
+secured: "O54kf72kNIZrlhcZE8HWDBMa1FZyaCUzOdyPrw1TVrIaU8UmCEjfJFPcSecIivTuaTdZHwTOaWMcV4VnAK1NN7gtxWgnvQInWxSEtJzkbvtZKyZiqV6aFZdNhxMSoEzhGu3tXjLmWc1CuyiQdkJcsrSJQZzR17NsAh/Aep9W1DDogeEs0/2H/cPnTLKVgU6Tu3jo89+WHf7HfyX1uJk8aOjyUH4n/d+CzwekyDGS+JX13VMEqY2f8D5X5XW/nu6RONiHELKHW/79Hl9CeJwiz1JTT4eOCReoa7tT1TNyZNwAAOjiivEnz2nFPXh9xOJ+g0zRQd4fVKH13rKMAPngIVjysq7n/AgQBhSV7cHEwBI5Vmg0vLKSTZ4RwEtsp6GtZ2H7DX1xyFgMzRSqJA6f4d8oeMfleGHNl001WyhbqbEkdL8WfJ/oQjOdckHFaIO/6N73+eOxOQUA/4VhDgM8beDFcfs7N3fc8g8m/L2oL8QxsUUI5zvFi/59ye+cFJX6i2+sIkMRhuLueD55omVZpQ==;VOqJeGU2zGmvmnJx3b3pBA=="
 ---
 

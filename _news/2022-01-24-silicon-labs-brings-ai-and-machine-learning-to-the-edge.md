@@ -60,18 +60,20 @@ related:
         height: 628
         isCached: true
   - title: "Studying the big bang with artificial intelligence"
-    excerpt: "Artificial intelligence is being used for many extremely complex tasks. So why not use machine learning to study particle physics? As it turns out, this is not easy, because of some special mathematical properties of particle physics."
-    publishedDateTime: 2022-01-25T14:23:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/941106"
+    excerpt: "It could hardly be more complicated: tiny particles whir around wildly with extremely high energy, countless interactions occur in the tangled mess of quantum particles, and this results in a state of matter known as \"quark-gluon plasma\"."
+    publishedDateTime: 2022-01-25T15:17:00Z
+    webUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.html"
+    ampWebUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-big-artificial-intelligence.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/90ee72b7-a860-44d9-986e-202e79b1f732/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/studying-the-big-bang.jpg"
+        width: 2880
+        height: 1920
         isCached: true
   - title: "Using Artificial Intelligence to Accelerate Wildlife Conservation"
     excerpt: "While Artificial Intelligence (AI) is revolutionising multiple aspects of our lives, there is limited uptake of AI in supporting ecological well-being and protecting the nearly 1 million species currently threatened with extinction. Wildlife.ai is a New ..."

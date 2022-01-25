@@ -117,6 +117,22 @@ related:
         width: 2000
         height: 844
         isCached: true
+  - title: "Facebook’s Parent Meta Is Building The World’s Fastest AI Supercomputer"
+    excerpt: "Facebook parent Meta Platforms Inc. on Monday announced a new artificial intelligence (AI) supercomputer known as the “AI Research SuperCluster or RSC”."
+    publishedDateTime: 2022-01-25T14:53:00Z
+    webUrl: "https://www.techworm.net/2022/01/facebook-meta-fastest-ai-supercomputer.html"
+    ampWebUrl: "https://www.techworm.net/2022/01/facebook-meta-fastest-ai-supercomputer.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/01/facebook-meta-fastest-ai-supercomputer.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 61
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2022/01/meta-ai-super-computer.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta is building the world's largest AI-specific supercomputer"
     excerpt: "Facebook’s owner wants extraordinary computing power to develop AI models to recognise speech, translate languages and power 3D worlds"
     publishedDateTime: 2022-01-24T17:22:00Z
@@ -180,6 +196,22 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/Meta-says-it-will-soon-have-the-worlds-fastest-AI-supercomputer-01-1.jpg"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
+    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
+    publishedDateTime: 2022-01-25T16:13:00Z
+    webUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer"
+    ampWebUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 59
+    images:
+      - url: "https://img.chdrstatic.com/media/85c6e7bd-ac1f-49b6-9a01-b21a20453acf.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Facebook parent Meta is developing the “world’s fastest” AI supercomputer"
     excerpt: "The high-speed computer is designed specifically to train machine learning systems, according to Facebook-owned Meta RSC will be used to train a range of"
@@ -358,6 +390,17 @@ related:
         width: 740
         height: 420
         isCached: true
+  - title: "Facebook parent Meta creates powerful AI supercomputer"
+    excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
+    publishedDateTime: 2022-01-25T04:29:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 41
   - title: "Meta Announces New Supercomputer for AI Research"
     excerpt: "Meta unveils the AI Research SuperCluster — a cutting-edge AI supercomputer for AI research. Developing the next generation of advanced AI will require powerful new computers capable of quintillions of operations per second."
     publishedDateTime: 2022-01-25T12:22:00Z
@@ -383,17 +426,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
-  - title: "Facebook parent Meta creates powerful AI supercomputer"
-    excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
-    publishedDateTime: 2022-01-25T04:29:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+  - title: "Meta Building Massive AI Supercomputer for Metaverse"
+    excerpt: "Meta is building a massive GPU-driven supercomputer to run its artificial intelligence (AI)- and machine learning-driven workloads that will be key to the development of the metaverse."
+    publishedDateTime: 2022-01-25T15:10:00Z
+    webUrl: "https://thenewstack.io/meta-building-massive-ai-supercomputer-for-metaverse/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: thenewstack.io
+      domain: thenewstack.io
     quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2022/01/db5ea1cd-metaverse-gebd5d43ae_640.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Meta builds AI supercomputer"
     excerpt: "What could go wrong? Meta boffins are building a new artificial intelligence supercomputer that the company maintains will soon be the fastest in the world. Dubbed the AI Research SuperCluster, it has taken several hundred people two years to build,"
     publishedDateTime: 2022-01-25T12:17:00Z
@@ -421,6 +467,20 @@ related:
       - url: "https://keyt.b-cdn.net/2022/01/nc312-combined-commercial-slate.png"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Meta, NVIDIA Team Up to Build AI Supercomputer"
+    excerpt: "Meta and NVIDIA have announced that they are working on building a massive AI supercomputer. The AI Research SuperCluster (RSC) is currently training new models to advance AI. The RSC is expected to be the largest customer installation of NVIDIA DGX A100 systems once it is fully deployed."
+    publishedDateTime: 2022-01-25T15:10:00Z
+    webUrl: "https://www.unite.ai/meta-nvidia-team-up-to-build-ai-supercomputer/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:500/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/272129674_454504216213565_903503002058288683_n.jpg"
+        width: 1000
+        height: 417
         isCached: true
   - title: "Meta Says It Is Building the World’s Fastest AI Supercomputer"
     excerpt: "Meta claims that it is “among the fastest AI supercomputers running today” and will be the fastest globally when it is fully built out by mid-2022. The company began designing the new computing infrastructure in early 2020 in order to accelerate the process of training large AI models,"
@@ -558,6 +618,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "WmAk2doS7zufdF718FrnF+NmQ3tQUlzWiukjl+qXu3sHBZfgDNZ4swnJe99Xgk40bAhvIAVkuvUMvMVsVKICYlMfUOlrw5tzfgvM9fi0GhECbJYTdEScQjd4EpBQSkM6AFfsrjhknwz2AbZyVDXlA7ZYrZXY69jhyhq6JHNTSK1wqyjuEq3HbrPygj+F0S3UQAgGU/GVTN8/4EKOnkPkrugo8iZEkcKf3e7S5c9EOzDkHtcvZqgGuQ+MvcofwdRrQ8Z4FLGKY1nDr6VxgUL/nSG17bACATxV51VOltNH8a61kOAqx6RI3RiqHATnrMfPcCBaLF2sxzyX73ICzTp4AVkAIf45qz3hUhTbm9VgkN0=;wnBYpdMaVxpCGHmWYd3Hkw=="
+secured: "gX0ZAXs0ydV64AfHJ+vq+aemNTpU+Ob+TJKfMmppdmahKvnH2g7JPc8xK1Hoil9oWvJ/bRGtJafXTtBVs4gS4G70Qk0su3vje3umoQyrGz0F9oZA5MSLri5Wivgk1L0PsDJpcVz2Swy0UJmc0D5AUv7McrwAXSQ8SumK9D5jQhOEDit5rbbFNv41dQx93zD8RgeCQOUkDzP0I7X9vV2sZXKJnavZL9iMvdYHzfNwY1OzaonIA5G68SbflaAHumn1WmPm+HI1MzQmLl1dx1xQlYC6u15EGh2Tclc7ZG8CyU2X9pE3EPlRNkl9c4EMqMpaMZLTcFw2agdnIwOwOxoCjGLI/o5hruYBG3PpRjTAlTEn5WHlIX0zJECzuIBxrgJAdKWkJTvulsZ88Ov0adEiec3y5IufZsWn9Mxxh/zri0HZ/xuLL5xL396Ig9UESGDxBokfUIcZ3ymeh4fU8cwBhfGL4Vluus7WP25dL7lbd1IEaPm2OQy6H21v1fjtig+3eV0391KBiNttso+WGlLjjQ==;Cu/ilHyQ5QeLMoKAubHCsQ=="
 ---
 

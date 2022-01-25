@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-25T12:58:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-north-america-artificial-intelligence-7626ce60b98412e4c90c1356722964ab"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-north-america-artificial-intelligence-7626ce60b98412e4c90c1356722964ab"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -39,6 +40,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61ec05324e09a09bf5f6699b/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
         height: 1200
+        isCached: true
+  - title: "Artificial Intelligence Used by Argonne Scientists to Transform Manufacturing of Airplane Parts"
+    excerpt: "Regarding the manufacture of new lightweight, yet sturdy components for modern passenger jets, researchers are handling the process like attempting to brew the tastiest cup of coffee."
+    publishedDateTime: 2022-01-25T16:53:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12706"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12706"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12706"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 62
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12706_16431113426464338.jpg"
+        width: 534
+        height: 300
         isCached: true
   - title: "Transforming Modern Medical Devices with Machine Learning & AI Inference"
     excerpt: "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,"

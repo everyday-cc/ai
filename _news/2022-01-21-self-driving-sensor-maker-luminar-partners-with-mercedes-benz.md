@@ -65,17 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Pioneer Luminar Seals Deal With Mercedes. The Stock Is Jumping."
-    excerpt: "Luminar Technologies will provide Mercedes with lidar, its laser-based radar. Most auto makers developing self-driving cars are using lidar."
-    publishedDateTime: 2022-01-20T23:11:00Z
-    webUrl: "https://www.barrons.com/articles/luminar-mercedes-self-driving-51642705732"
-    ampWebUrl: "https://www.barrons.com/amp/articles/luminar-mercedes-self-driving-51642705732"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-mercedes-self-driving-51642705732"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 21
 
 secured: "c0j9ZttGAiYRA8Lrpd0tXUavCia1l7SRP8MLlPewq3OYsNNG5WhuzpMbnt9ALipnbyWkqj1Rbce9mU83CE7kv+NqjJCBui/3FftTNZs7+I8DS67mo9erbYNSv3v0OwpmgIt6y2RifibL/mq1DfXC5/Nnm0cv4e8ZM8t6lkkv6gOzrzjUn+iylW8jeaXjo7wUl6SP2lD+n3gDY/fhDX56AJKOiIMIhC/eYsiyxIhZR/44J8z+BUSGRW/DhAFdWTyhjtFHgrk9n23y7XDOI3cXT6otqppKGo9tD9osXAcnlh3mdHJ1mfQZ4ZAyid6180Fzi2YivAvprGv8iVjnoPfrZXWkzHR/yZQyJ5pk7czkkCSoQBtlJ3HTV+jcnvUOsmi44BMqHPRRLI9KtrM4/qCYpMO0wQFpUL9hOiGLmCsrd20/4fY1WijTv63QBVlQssB40gooLtGwY+3f++/DbbzZ81fo9xjqgM04YcXUSIRz1cWt9iAEv6YpeQPUOZ3XDbHZqPVJtPhG2lOw8XjeSZgryA==;/xsw8JvGv+S6mqYOaXgcGQ=="
 ---

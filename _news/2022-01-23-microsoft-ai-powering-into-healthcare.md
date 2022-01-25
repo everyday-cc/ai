@@ -47,6 +47,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "FedEx and Microsoft announce new cross-platform logistics solution for e-commerce"
+    excerpt: "FedEx Corp. and Microsoft Corp announced the next solution as part of their multiyear collaboration to transform commerce, supply chains and"
+    publishedDateTime: 2022-01-25T15:02:00Z
+    webUrl: "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/"
+    ampWebUrl: "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 54
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/FedEx-and-Microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "UEBzbMIZgwjlzeqdBdtziw0j43I1n2EcDJorq5dF+tRiXihcSaZ0r+qJawEbGi3r+B3xQMkAeFm/RBbq0Reya4a4v1W3nHV0qSdRDep028oz/TcE+Z/wn+bWus/aUiUBjRbiu7DZx27pyraDQqnyCYCT01Qvn2dXHhth1yiVOdE49VCCBefu1uU+/GlBohIUHeAd5M7LAn0/CSghZqwpy34Rh9aeg+rOhaJ1/xj0FqqQkHHTQdszt64uKcMkg16YzFV5+vYR8fh8tbfwAmQVC9fxgCH/MnXGgijTqTdMho6zXZpCYq+SWOqa8lso/ig5e3hwSk8iZKGuciHMgzQM1jRe9z3PCdRnVnPzwFsw5d2e3StbgKJavlDvVHyk7NEfLVA4wWPYeSvUCWQS0lxnq/xb/W2yoWaC9aTXdxAS7XEM9H0EyE9h9hS9VSAnWnsgx3Q7hi/dlR3McgwOWVydo/U1NBN2AJ0ouKpoAcI1QSmhfRrhFG71aJbBgEaTzYvYUoGuoLBucPtMF4g1zKqcqQ==;wvGSVvm2I/Jbc3wJsHrAIA=="
 ---

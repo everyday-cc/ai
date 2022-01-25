@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintec
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/"
 type: article
 quality: 61
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -159,6 +159,20 @@ related:
       - url: "https://www.abnewswire.com/uploads/1643003999.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Torpago analyses the future of the Fintech market basing on the trends for 2022."
+    excerpt: "Brent Jackson is the Chief Executive Officer & Founder of Torpago analyses the future of the Fintech market basing on the trends for 2022."
+    publishedDateTime: 2022-01-25T16:42:00Z
+    webUrl: "https://anthillonline.com/future-of-fintech-market-basing-on-the-trends/"
+    type: article
+    provider:
+      name: Login - Anthill Online
+      domain: anthillonline.com
+    quality: 19
+    images:
+      - url: "https://anthillonline.com/wp-content/uploads/2022/01/fintech-1.png"
+        width: 728
+        height: 800
         isCached: true
 
 secured: "SqkdOqJ5Qzlug0HIq8d5pa5C88/NmpzcnnDIrM0TFQZEij6i5SWNKmgUICtQ9fGBBV8+woIZG0mcEVcrrGtUvaEYyqGRVvQ/UEGpByRUfOj88I2bwP6s4mvucRzMXoTYB1xgmYJhhvurnugmlh/Anfg8+CvRdlQSyEw+Ozc1Oif7ytdkK2EWejYm2V690HGSUClSyGSfRxIVma54H8/+azVFmQeNd1MJgz7H1lBdGnztlO+gzXxv2z/TvJa3QBTPSlx9vCnFDfkLdv4KrW0E54di5sfMdwBKMwLeHStlGssTu5Mi9UmIbMaKJqdtVrFkvbkdidnjMQfeGl3t+MucJLxubGgjkrP+k5FgL8ejg8Q=;XnZBnLc/VAndqmIDLYLbjA=="

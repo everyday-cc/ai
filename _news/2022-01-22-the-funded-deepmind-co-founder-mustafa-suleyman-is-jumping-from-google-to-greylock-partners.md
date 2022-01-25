@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 863
         isCached: true
-  - title: "DeepMind co-founder leaves Google for venture capital firm"
-    excerpt: "Mustafa Suleyman, co-founder of DeepMind, has quit Google after seven years in which the pioneering British operation made breakthroughs in artificial intelligence but struggled to ensure its technology would be used ethically by its giant US owner."
-    publishedDateTime: 2022-01-21T00:22:00Z
-    webUrl: "https://www.ft.com/content/791b9a30-3a84-4d9e-b9fa-22dd1cbb2455"
-    ampWebUrl: "https://amp.ft.com/content/791b9a30-3a84-4d9e-b9fa-22dd1cbb2455"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/791b9a30-3a84-4d9e-b9fa-22dd1cbb2455"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe3e8f283-3783-4b30-90bc-a79696dc10fb.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "DeepMind Co-founder leaves Google for VC Firm Greylock"
     excerpt: "AI research firm DeepMind Co-founder Mustafa Suleyman has left Google to join venture capital firm Greylock Partners. Suleyman will be a Venture Partner at Greylock, advising early-stage companies and investing in artificial intelligence startups."
     publishedDateTime: 2022-01-22T11:36:00Z
@@ -93,24 +77,6 @@ related:
         width: 600
         height: 375
         isCached: true
-  - title: "DeepMind founder leaves Google"
-    excerpt: "Mustafa Suleyman, the co-founder of Google’s DeepMind AI lab has left Alphabet to join venture capital firm Greylock Partners, following a turbulent tenure."
-    publishedDateTime: 2022-01-21T16:08:00Z
-    webUrl: "https://advanced-television.com/2022/01/21/deepmind-founder-leaves-google/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 19
-  - title: "DeepMind co-founder leaves Google"
-    excerpt: "The co-founder of Google's DeepMind, Mustafa Suleyman, has left the company to join Greylock Partners, Engadget reported. Suleyman joined Google when it bought DeepMind in 2014 and worked most recently as the company's vice president of AI product management and"
-    publishedDateTime: 2022-01-24T10:03:00Z
-    webUrl: "https://www.telecompaper.com/news/deepmind-co-founder-leaves-google--1411501"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "GBqLKXYH1518wRLNK6p6cyFcoHFJAkpgWRQPK9qVYxKOumXwfymq4XQXdR+RF7sWw++s8+3fmRI+oBr/k+jrQ3cHn1V/+OI1MSL0UqOSOaMVZq7MHRH+ZPoNR94Vb+ElTNumRW65ijK9svQTAlegUR9lUdpJzM2cyBKONzY+YO8/5bsQzyzwS6KbiAo8mNB94kPDlntRof3XMi4+jmTx9M34bS3bRCHlq6lh8XVIZY8Qi1Yu1ZWa2yVh/6kVsWxg2f9iuXDYQRW7a92Rt2cjkKCppmU2R8P+gOc/RKv+K9cZtufOHhmfVJ6zYYZdJIxfeQ5iv7aztJbm5fYmmVr1byWz50ir+7nlt+J8Ul9JoruqW1xC4WDeoG2LChij/5n/XyjiMTTMIUn4fuBSh9ORI+FaM0EooS0OJhC/saiD+Kj0WXd3jTRslP1HPZvtrX4BY6AmTjIcBCyEYwd3iaOGjmJj0jl9pX1c+YwJi65LuHoWSDLSreEd7JUxi9sy1O6+MwSWKZubkLdkbFyUmcQKXw==;hBSP3nLY2Y0vrezPjaSEtQ=="
 ---

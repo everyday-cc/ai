@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-w
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/"
 type: article
 quality: 112
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGcJY4-mqZNyA/article-cover_image-shrink_720_1280/0/1642869133277?e=1648684800&v=beta&t=A8nuzXFdSF7IpBuwjudTp4SyTwkJDrOw_fhc_99f13o"
         width: 1052
         height: 720
+        isCached: true
+  - title: "FedEx and Microsoft announce new cross-platform logistics solution for e-commerce"
+    excerpt: "FedEx Corp. and Microsoft Corp announced the next solution as part of their multiyear collaboration to transform commerce, supply chains and"
+    publishedDateTime: 2022-01-25T15:02:00Z
+    webUrl: "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/"
+    ampWebUrl: "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 54
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/FedEx-and-Microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce-01.jpg"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "WBOsQ9FHgEfe3ULb52rShC5kT2rFswDit3itj1ZDWpIWZnlAs/t2/uKYxDo8da/HpI2Ahsz8+p0U1WMwvctl9VwSE1yRWnbZHfGeGw11NkV79chrHQtwC6elCu66stVB7eU1dvE68pOhZaYRBMW3KaectmH1IUalnO3qWYKmVzGCfMLhh1pZ1RVc0KOSnff9St+NXtwYUdWPDFMpfhizPWUEQ2aiUEhh2YBUaz4jcX4IlGoAhg5XEBmRqRoHUJ2JHlBm+9c83tDb8fxpA7SIHL1c5FCbmXq81vN2ScNX0bbA6D5LRShljj57QLWT3mvlnSUMR6QJ/YIQtrWSi3QQ+77o4DLrqKMDLaScs3KcxPGrs/pDAbVe3vtZw73/k01YNlX8ai6yVgNGQInpJaiM2JxJyclwpKHr9W+4zU04kbi1D/RXAjqyG3bQ2Zl71KVd+v1qZP6wm+imtSFzty5cSLmv7bdg0mOzJTDazmxqO0ZSTv6PdU+Bsa2BE2kH4hrvf+F8vRlJx+5YTqCKPfTXYg==;9Sy1g9zJtoPMEHdVcCEUhw=="

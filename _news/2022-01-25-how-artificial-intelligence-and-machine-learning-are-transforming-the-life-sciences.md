@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Artificial Intelligence Used by Argonne Scientists to Transform Manufacturing of Airplane Parts"
+    excerpt: "Regarding the manufacture of new lightweight, yet sturdy components for modern passenger jets, researchers are handling the process like attempting to brew the tastiest cup of coffee."
+    publishedDateTime: 2022-01-25T16:53:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12706"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12706"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12706"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 62
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12706_16431113426464338.jpg"
+        width: 534
+        height: 300
+        isCached: true
   - title: "Transforming Modern Medical Devices with Machine Learning & AI Inference"
     excerpt: "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,"
     publishedDateTime: 2022-01-24T20:36:00Z
@@ -78,13 +94,13 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 23
+    quality: 25
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
 
-secured: "oBqWLKalAbRybYXcNz+1QelMRkxwaZ9/vinplMX5Gx6IzSrJ1IlRYBE/SZiYChYVXUyWhSNMO0easoyKlbYdJenfJNVBYY7ctZZPZQEaBHQNl5i3TTqjFRXUKPo8JtpFQRlF7i8iggkb+WVk2zw9xRQA8uDPLX93q76z0zVmx7Ad8+nJcDW5oPswjEfkU83ne6p8+4J7WYPjEBImCu0mhawQt6syfVDNcNYn8UDROHJe2o0A7A1z2h8Tn0GlZW7pieoEbirReEMlvUQjW3J5Uzb/OEGVkJ2r5vL6BgTbxmO6jaCxIz/rIYp4Sx74C1AfoDq6yqbQu2DaT84waWO/4+ZkQ7Fr8rzcQQtvZik+Dx0=;Zb9YX+xdMsmx4cIbF6uR0Q=="
+secured: "24fj3v2oBMsQYH1ocXoFLHUn85JMzBCy8yaaR7wADqcL41yaqv7l7hWn4O7Q02xe7SoLi1BwonL8HpzYgJvDVLoy/yG2v+IUhXsQqxEceLWBhtYPlQhF+jzrqrGRAiTsse4T4cB9YGGh6IdloWnfcfRM7W8WG3sXAhhXaclKjoLJ9e+6dFVWyK5XntdsDHfJdh1bU1TDRBKNGuMuZaYM2moC7Kbs4xRwlUitFH2SficBjwbGue1DK+SwQqTQRmBB33UwxZnNSLZ4TfszKSE21M76ISA2bb8NGR6ZkLxgOGM02TZfVEqwTjUqMdMfv9/nXPZcLUhbW4Ll1yu52euz+ADsVzEuZuohLZrfjF0KLrikJTgXlkBAiPTprtJ/4BaoX757iigm8i1BgGafpF7HcLMjYpimroHH84V0Wy0D4nFeyXhhV3Y/MezOm4QFa4DoaDyXOdTZtP54dRsK7tDYmo7zYeqOZCL7r5Qb16EbSSvQpONgTyfuAZYS6I6fW/bGT9VlJn5CiWAkTzARpn2d1g==;zxOMNuaDJDpnUEjPmbVk5w=="
 ---
 

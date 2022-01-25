@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Studying the big bang with artificial intelligence"
-excerpt: "Artificial intelligence is being used for many extremely complex tasks. So why not use machine learning to study particle physics? As it turns out, this is not easy, because of some special mathematical properties of particle physics."
-publishedDateTime: 2022-01-25T14:23:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/941106"
-webUrl: "https://www.eurekalert.org/news-releases/941106"
+excerpt: "It could hardly be more complicated: tiny particles whir around wildly with extremely high energy, countless interactions occur in the tangled mess of quantum particles, and this results in a state of matter known as \"quark-gluon plasma\"."
+publishedDateTime: 2022-01-25T15:17:00Z
+originalUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.html"
+webUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.html"
+ampWebUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-big-artificial-intelligence.amp"
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
-  - Machine Learning
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/90ee72b7-a860-44d9-986e-202e79b1f732/Rendition/low-res/Content/Public"
-    width: 700
-    height: 467
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/studying-the-big-bang.jpg"
+    width: 2880
+    height: 1920
     isCached: true
 
 related:
@@ -97,6 +98,6 @@ related:
       domain: just-auto.com
     quality: 19
 
-secured: "DkRmhYtrNwbnaO5bev1aQo1ESsV11bqvV7xIwbz3AJKJZKKKYJ2TZzNDZ/OuMPylqSPYbEw/Mx57DXvDWTpdTMvaZ0o1aOEUzK37GnT2YQ72oHg5zHtrz33LEgxNQAHIXquTu17//pynta4bR47THMhhWwID4mIWpw9tVKrBhDH9mX7/1NE/0YNg0+4Beuvvw59AeMpa8PrrdCC3YtjOvJhEUM497oHKWp2v/6eQXHXGbPU9PD6doeAr8QqtR37/HS+gL3MH0ZGsPDbVKEWCUkLeM1APwoI8BxN7SHQqrIO16uU+fqTXK0MpZ/nkVG1cJnqBsb3NLvJPel6iPtkje0ITZWb6C/TuY/T+aF/0Oeg=;8jjO6TAAPrk8anMCCKYQGg=="
+secured: "wtNc1tYlC4FRWsuVAw4neBOznRjW0J05ORCVBI9U+/e8NG+iHiUqKQCiKzINM+VyRTphu7GpOKi/kSSo2E4bI9CySAL+teAnYSrvxZQzIA1Txk/Su8+7p2X3NPEnrNuszlOUm2QOz6AdB9UCHTzcFnGu/uHN43JZhoWSoWCkBlnjcstNf2OxBMUPaZvP2S9CfopzOx8ugCx7Bd/dyr0bTrucD7Dsyp1q2iUwBfma2OGOJ0xG0t3KBUvhpmzUa7VMekyABcjQj9SXbxfZ7msgFLCebQFTHxOm2JGfkc0XULQUrrsSxqq+0cRlyrgs5ZQHj7UP2eMTU0q7HKAJibW2H93k9VIldpLzYuNyv3IYS2Y=;9k5ZSNsFreFxdpND2dexuw=="
 ---
 

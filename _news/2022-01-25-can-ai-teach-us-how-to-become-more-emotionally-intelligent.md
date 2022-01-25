@@ -8,8 +8,8 @@ webUrl: "https://hbr.org/2022/01/can-ai-teach-us-how-to-become-more-emotionally-
 ampWebUrl: "https://hbr.org/amp/2022/01/can-ai-teach-us-how-to-become-more-emotionally-intelligent"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2022/01/can-ai-teach-us-how-to-become-more-emotionally-intelligent"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2022/01/Jan22_25_1339250539.jpg"
@@ -25,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "lKvzYDHZa8U38iIHBQ7XhtFzCX+XN1Mjvyfeg/LiWJCeHreKlV5d/TBWRWEiqzItXHFNAj8Tldz4tD7Qn5qy6wYQT/1HuS7Q1qHgBEch06oFl48Nnq0F9hOPFGIC/ZhwqdoUNvRQHj2gYF6Z368xdshHRsm0F/QDXcArdbgyMVmT1RjeQZYGTr6ieJ38loHrX8ZQ+FSF3pk0x+JzS2Or9UaLGFNcAmV/vLQq45BkBnkGrDZq5+dN/5xI6pOgeAFZ/9qxToYHk4RVYqMAdmPo32cb3RobgDQzgxY5kVArZqb+7Ckl4Lt6PU8vmzn0ixLdiTMlUBAzLbVcE75+i7eyrN+CiUSBkQlOJIgL3HL5mqc=;1RI7OlsyfB2+P+Au1ZcNNg=="
+secured: "G6L4HhXi3rVdGgNeMgHZZVUmw8qyDGZpXpiN4DLG8/Jzso2SBmLQhNv++bG+R/izO8cT3fp+AQ8BB6BHW3itMaC4WKOojdmenIc1rYT7CCSI4yc8VQOpKO12bV4Ml+cMBTUrZTlX3zpiAWmmC09nmocLeRp15q60LODj3oh7Etgsd2623ov8sRoUOMG2XMZ7YwjhnC1X8oam+390pj6/Q5KJ5UN44YYgOQhKOe4rX8RP4Eq+SZiuYN6/zk23tnSd3t9Er6YrlSB0G1rxeQkDOMgvaHoDF5y4LyQeNIDp8sutZEd2/zABNOehI0F0zWqxZjHYHS8VmimAmBy/+WYdsWm0RE+wcRGPCoTqVdCXo8IGXKfcT9om/gxCK82U9RvrxrqRcTLLcKITKPUv3/kDkAJECAEY1aJR22aC59h/4R96I3Xp5Is/5kc/WXopMdRjJLfUCXKwtq7Q5qFPzdi5vnayTy4R5Htqu4W1per1Hkt7rlyTIHcoSzQv55lUlSuOU5Syg/Vpe4UJLS7M2Vi3FQ==;KqBO5y+f74hy+hmobQkFBA=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI can identify people even in anonymized datasets"
+    excerpt: "A neural network identified a majority of anonymous mobile phone service subscribers using details about their weekly social interactions."
+    publishedDateTime: 2022-01-25T16:04:00Z
+    webUrl: "https://www.sciencenews.org/article/ai-identify-anonymous-data-phone-neural-network"
+    ampWebUrl: "https://www.sciencenews.org/article/ai-identify-anonymous-data-phone-neural-network/amp"
+    cdnAmpWebUrl: "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/ai-identify-anonymous-data-phone-neural-network/amp"
+    type: article
+    provider:
+      name: Science News
+      domain: sciencenews.org
+    quality: 57
+    images:
+      - url: "https://www.sciencenews.org/wp-content/uploads/2022/01/012422_no_anonymous-ai_feat.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "How artificial intelligence can be used to identify solar panel defects"
     excerpt: "Solar farm operators are turning to AI-powered inspection to speed up the inspection process and improve accuracy. They use algorithms that can automatically detect solar panel defects from images."
     publishedDateTime: 2022-01-21T09:42:00Z

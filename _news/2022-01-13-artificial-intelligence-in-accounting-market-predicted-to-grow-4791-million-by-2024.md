@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://cdn.openpr.com/V/1/V113358418_g.jpg"

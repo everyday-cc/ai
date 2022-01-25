@@ -66,17 +66,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 24
-  - title: "Self-Driving Pioneer Luminar Seals Deal With Mercedes. The Stock Is Jumping."
-    excerpt: "Luminar Technologies will provide Mercedes with lidar, its laser-based radar. Most auto makers developing self-driving cars are using lidar."
-    publishedDateTime: 2022-01-20T23:11:00Z
-    webUrl: "https://www.barrons.com/articles/luminar-mercedes-self-driving-51642705732"
-    ampWebUrl: "https://www.barrons.com/amp/articles/luminar-mercedes-self-driving-51642705732"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-mercedes-self-driving-51642705732"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 21
 
 secured: "xrQwSu6/lAq66vLlctDPyKdJpWcQN/8gD1cQ8Z64Kv/PhhA+0ns0ukjM61p82rzm/aCdmwMxCJqYi5DaYAoOczRB9hjOXRhxg/FxgczUHClJf1ZPhbIR6DCjwALSdG7gFSnPESInKIkHr+U1J424krQ0Y+//YkA/jt9zYZzAr0aGXN8a2ZpV2AE/a7il1k2XWYtmB4oOq4xRR8Wzu08Wjl4z/YlTlVGlDDiyoKi6BmXQlXyohHlrAxuU0ZKmsao7fxV8tWVFmytBGkMvAFqm0Fr8bQg+FONVcGWJ0Druu0WXDiNBpbeH+R6tUugCJYNDX0HXXAao0KVGqWboQ/Flw+wGJ5n81kKKqiVf2smpwCo=;vsc7uziCscGHkyM8EaqLGQ=="
 ---

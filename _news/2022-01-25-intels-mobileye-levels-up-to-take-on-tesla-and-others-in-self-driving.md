@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobiley
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 675
     isCached: true
 
-secured: "6rfsWeO1Izo0NqP9sxSED1xG0IH8JJIR/LzVBHiW2ylJAix5Vo31I7IcQq+NJMWXuER17QE7HTcoLd998E/b6HH7BFz6OhnkVxWvtJ9YZpJ8vfZBaF8d9ZMPoUxL2DddY+JidM6mP/RH1rQ1fApWbDBWy872yYtO/Ghjmfw8zoJheRxVgxxMm3ROCxsrFZ0Aa5a0SCGzHaOwC/2sZtZVCZ8Gz6oo6+SRI4BYtnavnH678IXBG9gGTWfb8RnZ5UJSv86t1C9E6Zkp6oqyM2D7MkuQ71reeFyBu9+KpgHnYhVc7evEMlctS7IbP8N9046pIi7NO7n3t9fF2yH+/y/8mO6pYVGVOyIGVx0zuzqTncw=;cpoexrenONfDeJLD52tsHg=="
+related:
+  - title: "Volkswagen, Bosch team up on self-driving software to test Tesla"
+    excerpt: "The platform, announced by VW’s Cariad software unit and Bosch on Tuesday, will serve all Volkswagen Group passenger vehicles before being opened to the wider industry. As a first step, the partners plan to roll out technology from next year that will allow drivers to temporarily take their hands off the steering wheel via an over-the-air update."
+    publishedDateTime: 2022-01-25T16:19:00Z
+    webUrl: "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla-11643127103318.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla/amp-11643127103318.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla/amp-11643127103318.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2022/01/25/600x338/VOLKSWAGEN_1639226711911_1643127262293.JPG"
+        width: 600
+        height: 338
+        isCached: true
+
+secured: "mGowvRjqk/ieqmDMPcUpdxML9+XsGZsOF/jjHa7wpPyxdhkTrS9rxYC7pHPhqJclObqg0CXS+tFe1OZvS5gB6hzeyvXl3j7cpfrcSuV3P5zMLyFBq7thYb/UdVx14geoSSL5oT5uHbCWv2AZC7aZqt9++lHV9RD8fcuRJHF5zRUGktdAZXxlIjeFt213BasdmFHKEsvnfAePjfMvYmSr9Y/l4AZXfJkiZzJ4k1GnDaFFS2gzqM89lnHeTco3g3hgs54Ff9BEslv67cflj5CzikVCsXyIBVbROiq7s7a7cMDLM+jF9JQRJKbhrqWAkOpV/i0HXWVVLfcYERe9wExRHESCdsHxK2RNvQ9vc9xMtCa+80UeGNZoWgrNPojLNlQR6umEgGBL6e0vFrDuhy9HCI4GvhSDtVEB/eIT/9FtX7nrRxpSbZpeDf/kOVunT3zM2zFxKGltvXIBulICjzC3KrV8cdQ++6KznlEdoA6QQtOgLbAURIQQtfeBRw3JQBQ4kxhmY0X5X4EYiSJ2mEv+Cg==;+4vnKF3QjYdbISkC9F2l6w=="
 ---
 

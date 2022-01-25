@@ -159,6 +159,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Torpago analyses the future of the Fintech market basing on the trends for 2022."
+    excerpt: "Brent Jackson is the Chief Executive Officer & Founder of Torpago analyses the future of the Fintech market basing on the trends for 2022."
+    publishedDateTime: 2022-01-25T16:42:00Z
+    webUrl: "https://anthillonline.com/future-of-fintech-market-basing-on-the-trends/"
+    type: article
+    provider:
+      name: Login - Anthill Online
+      domain: anthillonline.com
+    quality: 19
+    images:
+      - url: "https://anthillonline.com/wp-content/uploads/2022/01/fintech-1.png"
+        width: 728
+        height: 800
+        isCached: true
 
 secured: "hQSkmTdQlfyGk5C8soPl1G7rtQARMlB99jIagrCvHu7v/dxQuBy/LGZA0UlTdgahEc1IXL4p2OaRrikLyc8siJU5C72uyxjIKqTsjvtyXtn0cOiIb4E4PmYZmsGFhWNknrpHp6391kiziVrtOvOJvHWCvwfFUqQMwhRjG1F7VZEwkbnIIYY+8Oq2x1pRAoNn22XExjmjB6tZcxO9k4IA46BuXY/oPcveOXT3GvUvtTwmNVkunPuiDkQyvLpqGoCEu25FH5ccDl0BsdHbKYtgDh7wy9aDMiPQrXof6jLOE8NiEpiHN7EIYbhyeLPcqyq5yfMas4+0n/0PnuovEgLTrSL3AbqU6IIMsijEKFRifiGiPKIzbA65YY5xt1zblbu0gWLYAS16NsSkuwA4OurJu+Urdp7KWstHnbxLdmFokaEP2avQBtnf8kJ5zwY3EIkJasRqLh/cSCJ0AS7qRk/xQBuSOeZ+OlUezk27JqHJ93gATI7NgnOjZMzklypSPbpcIhiHcwXFOvQxLQxsUkD/GA==;U3TVM3MmBuSjrL0yOAm/5g=="
 ---
