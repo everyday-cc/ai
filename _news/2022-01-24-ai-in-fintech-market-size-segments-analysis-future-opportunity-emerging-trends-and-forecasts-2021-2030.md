@@ -145,6 +145,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Five ways to diversify fintech for future consumer"
+    excerpt: "To seize the opportunities of the future, fintech firms must adapt their services for increasingly diverse markets. We outline five key themes"
+    publishedDateTime: 2022-01-25T10:28:00Z
+    webUrl: "https://www.raconteur.net/finance/diversify-fintech-future-consumer/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 24
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Five-ways-to-diversify-fintech-for-future-consumer.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "rUAs0snVzo2ph929zykc8jrHFkzjhHRWkLzw3HBSh9xpz9gTCw+DFHI+wKB1ziIAZaDnoDhdq9CL8t2KuAprF5+0MetBXASUC/aqjlU1sZR0gZxkFy9EfHZDmWJcYSOKSbKzcmO3YY+IyWMTERl1b/6iffsDckHgJFDpJMnk7FIGo1VGNFCP39mb7eY7kjf6Dotit1P5pMnvjkpLFwrTzvCnbqJ5/g7HRHL2ApEy4MEawHpp5h/LNSh01kubP0FDogS2VUjB30kyGMQSmiMG5ByVi91uJEE247hyTjuk2Q/TmvKd4zYzY8R2URaCWKoVkzZFj28QMcYTfiode/xJBFbmwNsnVkyVY/sycFSxXyCVacgReOohcqkT/dkzr2yHchl+KIOa0oh0xlmeUOr6okOUqJGoJr+mXPPDFtisxgNlPoVn56cPVEjMD+lr5BsyaTG7bIuFLYfXZA1YJHKpijnOFmeZiZF3PS8VfCrJ6KPXRwx1KzUYIA0zxLLmxlNnHN7lzQhbEdLsB+q5p95PNw==;cLB4x0FwPAG2Rj+L/rZ1EQ=="
 ---

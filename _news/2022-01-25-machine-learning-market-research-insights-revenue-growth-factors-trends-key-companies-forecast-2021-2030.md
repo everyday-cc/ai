@@ -53,20 +53,6 @@ related:
         width: 333
         height: 250
         isCached: true
-  - title: "Computer Vision in Healthcare Market 2022 Size, Share, Key Country Analysis, Growth Factors, Competitive Review, and Regional Forecast to 2028"
-    excerpt: "Intelligence Market Report Publish New Market Research Report On-“Computer Vision in Healthcare Market 2022 Market Analysis; By Key Players, Applications,"
-    publishedDateTime: 2022-01-20T17:07:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-in-healthcare-market-2022-size-share-key-country-analysis-growth-factors-competitive-review-and-regional-forecast-to-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI in Fintech Market Research Report 2021 - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "AI in Fintech Market Research Report 2021 - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com. The \"AI in Fintech Market Research Report - Global Indus"
     publishedDateTime: 2022-01-24T16:51:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/mercedes-ben
 webUrl: "https://www.reuters.com/business/autos-transportation/mercedes-benz-teams-up-with-luminar-self-driving-tech-2022-01-20/"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.reuters.com/resizer/1ADIm3zEYd9gwwsrRSyl6Rs2q7o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UQO6R4AMZZJV5HOVQS7YH5BFSU.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Luminar stock surges 23% on Mercedes self-driving deal"
-    excerpt: "Luxury carmaker Mercedes-Benz will partner with self-driving sensor maker Luminar Technologies to enable fully automated driving on highways for its next-generation vehicles,"
-    publishedDateTime: 2022-01-20T17:29:00Z
-    webUrl: "https://nypost.com/2022/01/20/luminar-stock-surges-23-on-mercedes-self-driving-deal/"
-    ampWebUrl: "https://nypost.com/2022/01/20/luminar-stock-surges-23-on-mercedes-self-driving-deal/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/01/20/luminar-stock-surges-23-on-mercedes-self-driving-deal/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/01/luminar-stock-surges-on-mercedes-deal4.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Mercedes self-driving cars will use Luminar lidar sensors"
     excerpt: "Mercedes-Benz said on Thursday that it selected America's Luminar for the supply of lidar systems to be used in its electronic driver-assist systems and eventual full self-driving systems. Mercedes has also acquired a small stake in Orlando,"

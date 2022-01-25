@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Silicon Labs Brings AI and Machine Learning to the Edge with Matter-Ready Platform"
-excerpt: "Silicon Labs, a leader in secure, intelligent wireless technology for a more connected world, today announced the BG24 and MG24 families of 2.4"
-publishedDateTime: 2022-01-24T04:01:00Z
-originalUrl: "https://tylerpaper.com/news/texas/silicon-labs-brings-ai-and-machine-learning-to-the-edge-with-matter-ready-platform/article_ab40cfff-8419-5858-a764-9f82cdb9c555.html"
-webUrl: "https://tylerpaper.com/news/texas/silicon-labs-brings-ai-and-machine-learning-to-the-edge-with-matter-ready-platform/article_ab40cfff-8419-5858-a764-9f82cdb9c555.html"
+excerpt: "Silicon Labs, a leader in secure, intelligent wireless technology for a more connected world, today announced the BG24 and MG24 families of 2.4 GHz wireless SoCs for Bluetooth and Multiple-protocol operations,"
+publishedDateTime: 2022-01-24T05:11:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-silicon-labs-brings-ai-machine-learning-the-edge-/2022/01/24/9531184.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-silicon-labs-brings-ai-machine-learning-the-edge-/2022/01/24/9531184.htm"
 type: article
 quality: 48
 heat: 48
 published: false
 
 provider:
-  name: Tyler Morning Telegraph
-  domain: tylerpaper.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/d/d4/dd48cd23-c0e2-57f3-a2d3-e61a5996d68e/61ee35f9c7777.image.jpg?crop=800%2C420%2C0%2C35&resize=800%2C420&order=crop%2Cresize"
-    width: 800
-    height: 420
+  - url: "https://mma.prnewswire.com/media/1731599/Image_1.jpg"
+    width: 400
+    height: 246
     isCached: true
 
-secured: "GKzu0BfZ2Jj5eZEVT1XNPW2JJRGSuuSwdOrjBn5nnCBOyXxAQqGUtN9RBOQY8PqJWGdZroJK01dCK2Xtrq2qKYPzPADD6pRbY5AqU4B/zJJoi4fgMyB52o4jJbPvXWVvEu+CzOTOFvaJENS6luP8uWm9Q5FbEaxENKD5Ai5alz5YlDpqHNHRBF4h31oVhFVctDTgar5anVLLKUVUv0Fr0HO7EF8nAriz3fTq61LpP6TTT+IaEM/t7k/kdWhOjQsErF91bpryHWzKGwswN3FOWLXq0neFv/EC3yeKX9+kddHdfhyJian+iq9BqF6eD9LdieePiQxZ3LPoUT0h9AsZjPCwqWBGH406gND9GTJFCVA=;UZHcEYT1Mjnbn/wQvfhiEA=="
+secured: "ySQJody04ILo1HbAOaf+8ptCPF0ERT40tKgqRZ/AFyTgQDZ5ifDr6BzFqwjLyXCTnsscIX40Btex2qUlMZaQCSQKjsELshy3HKP2EWFxlvydlhZvofnty5yvKo3CIhPQuPpbzcQ4S8bzcnqOZCozyEr5kw+ltWcD9k9epI21FzyNIhus0nP06fChwL8zjgvCJjhxrKgU7jIjCUDTIDs96+rM7CHnFhQQwjD23HsMXPO2pppocVhc8xOY3W7ibsX8n+Ilzi6dX2XDINVOM9zw3PC0YoAEdZXfZQDMoQwQvs1GjA4QwjbFlGpFbWN1mcrWuUBXoiLdm+I1Y6uLZy5HPdX1ui2YAJpLsk05yOTpFiY=;W6365ehq9OPv4wrHZkUfVA=="
 ---
 

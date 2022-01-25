@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2022/01/24/this-tech-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/01/24/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1200
     height: 799
     isCached: true
+
+related:
+  - title: "This Tech Giant Appears To Be A Better Pick Over Electronic Arts Stock"
+    excerpt: "W e believe that Microsoft stock (NASDAQ: MSFT) currently appears to be an attractive pick over its industry peer Electronic Arts stock (NASDAQ: EA), despite its comparatively higher valuation. MSFT stock trades at 13."
+    publishedDateTime: 2022-01-25T08:27:00Z
+    webUrl: "https://www.nasdaq.com/articles/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock"
+    ampWebUrl: "https://www.nasdaq.com/articles/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "GCG+ROxPq6GixQqHrsGRpU2IqTzvIsTGk3zvMjXTOnp/XYGTZbYRDoZhE8/NaOfhQdxpTU1s0ypPgigEVKP17S1EWOl7Nk/1wocwBn+6v3qIZ0QvaPq7pUi1FEX9+697eVCXcJ7lAFtUbP+CUyrq083jXX9jF7gxdPR5a7BlwEloh9ZWkVgNKgXWsnYTaoIIF3byxoCe0beeiupAdchW0qkXtbaf17yqi73VyaM5ar66HgkM8XUvrWGbgJ2v9fpc7f61X/4Fr+rpXjTBZexKMd9rS5DPC5ZfI4HWcGpoDs4br+bqf3//MLvhPOZsXsPlG5pGiObrVd3vj6GvvXEfbhee06OdGXgLlToNNZ4BBodr/wJwHSL7eneamu5Y50BhHCXYhIfJTIVKdmBr/+pDtscywNQZb2axMlb88vKp8fHGi+JhCLIEp9D/olUGUeoLwGbO92CSapkGccgWCEoGpgc3bL6dZx1OUKrPD2Rz6iDUCsWrnRdVmQyx78xISnaLXIw1K1KF6H65wd7C0RwIxg==;SVBv/8pflYXV8PUyn3yklg=="
 ---

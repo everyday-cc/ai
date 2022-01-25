@@ -131,6 +131,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Five ways to diversify fintech for future consumer"
+    excerpt: "To seize the opportunities of the future, fintech firms must adapt their services for increasingly diverse markets. We outline five key themes"
+    publishedDateTime: 2022-01-25T10:28:00Z
+    webUrl: "https://www.raconteur.net/finance/diversify-fintech-future-consumer/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 24
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Five-ways-to-diversify-fintech-for-future-consumer.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI in Fintech Market Size, Segments Analysis, Future Opportunity, Emerging Trends and Forecasts 2021-2030"
     excerpt: "North America region was the largest revenue contributor to the AI in fintech market. This is mainly attributed to the developed IT"
     publishedDateTime: 2022-01-24T15:00:00Z

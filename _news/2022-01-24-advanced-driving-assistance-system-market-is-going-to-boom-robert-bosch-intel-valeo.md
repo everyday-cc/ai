@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "VW, Bosch partner on advanced driving technologies"
-    excerpt: "VW and Bosch plan to develop Level 2 systems for urban and freeway driving to be installed on VW Group vehicles starting next year."
-    publishedDateTime: 2022-01-25T08:00:00Z
-    webUrl: "https://www.autonews.com/automakers-suppliers/vw-bosch-partner-advanced-driving-technologies"
+  - title: "Full Stack Artificial Intelligence Market is Going to Boom | IBM, Google, Dynatrace"
+    excerpt: "Advance Market Analytics published a new research publication on “Full Stack Artificial Intelligence Market Insights, to 2026″ with 232 pages and enriched"
+    publishedDateTime: 2022-01-25T09:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/full-stack-artificial-intelligence-market-is-going-to-boom-ibm-google-dynatrace"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 31
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Raetzke-MAIN_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/DDD-2-1-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "PrpBNhAuVhjk0A/OEuEu18Up0slRdS5OONAOZoYMoTSGyfFEKbw0Jzs9jq6Xq0aF/il/QBIYlJufMwlqHQovOI/TuASlsNmTnszF7rFyGKpznHLF6AMzEH5yj9416MVKBNSHMj2rpZDf38Nen6f6QNflwdjHMqVZtFpeslzQ3jIir3oRZGSoP6DEptOFPKnd/H8TeIUazUE3BDILi69iN/QJgS9NujCmIKACNZE6yNLsirshNkkKL5u1wnKsXVXQZuxWHlC/0i6afTJkoI3URFFDOmT0q91rfHYIaaZO/Gr+drHRL6VKo9LLYBLAqFfcEWQkrFZyMOlbZqgMo9SEXj7jea1Bm6a+55bBQW3OLTw=;wAdLjJ0h7dWKz6+F4D2wIQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://zeenews.india.com/delhi/republic-day-2022-delhi-police-deplo
 cdnAmpWebUrl: "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/delhi/republic-day-2022-delhi-police-deploys-multi-layer-security-installs-facial-recognition-systems-for-surveillance-2430554.html/amp"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 700
     height: 400
     isCached: true
-
-related:
-  - title: "Facial recognition deployed in Delhi to foil terror threats ahead of Republic Day"
-    excerpt: "The multi-layer security setup includes a facial recognition system with a biometric database of about 50,000 suspected offenders."
-    publishedDateTime: 2022-01-20T18:01:00Z
-    webUrl: "https://www.biometricupdate.com/202201/facial-recognition-deployed-in-delhi-to-foil-terror-threats-ahead-of-republic-day"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/11132055/surveillance-cctv-scaled.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
 
 secured: "pTQrhRb3sW1wunbU/CctQq7X4TrcapliuxAa0UWfgAuhRCXq1fJM70EGN5L1Ni4d6mLWeitBGGBjjt/m9GLcsIS0TmT4SiRkHKSd+zix++bn+3Fw705AziJnE3EJEkpId58+Z/nLAyiQmRS5SzGb3w8LBhdgrBa6NqHjAVeLZhLEQrEgC5UqhwbD1eeY9SONszakL7yTbzEZREww9n1B6DGgEGa4kAZrDjgHzM1Uhuax9MU6CGlTgnpezRbtRG4GvYg1XFLiGZGu9Uym+71EOnzLRgFhiagHLnSBxsJXftMF0DJh4IQadIbkQUL2xxSuwmaJGpVlU/tm5+UG0Kq1uqHdEoFp+gU77Imiw5hvrAU=;A/dvYDSqD8BlLGhvEGB+kg=="
 ---

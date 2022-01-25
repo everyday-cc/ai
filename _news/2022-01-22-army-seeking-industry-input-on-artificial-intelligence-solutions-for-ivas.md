@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Building Responsible AI Solutions For Creating Societal Impact"
-    excerpt: "Artificial intelligence is not just being used to solve business problems, but also to solve social challenges."
-    publishedDateTime: 2022-01-24T12:24:00Z
-    webUrl: "https://www.outlookindia.com/outlook-spotlight/building-responsible-ai-solutions-for-creating-societal-impact-news-47021"
-    ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/building-responsible-ai-solutions-for-creating-societal-impact-news-47021/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/building-responsible-ai-solutions-for-creating-societal-impact-news-47021/amp"
+  - title: "SparkCognition, which develops AI solutions for a range of industries, nabs $123M"
+    excerpt: "SparkCognition, an Austin, Texas-based company developing AI solutions for a range of markets, has raised $123 million in capital."
+    publishedDateTime: 2022-01-25T10:00:00Z
+    webUrl: "https://venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/"
+    ampWebUrl: "https://venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/amp/"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
     images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1643026901.JPG"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1248800431.jpg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 612
         isCached: true
 
 secured: "z1XAnFzkvAAm5Clgvkrsbg5WV5lcCFdamwprTREthj0bVQjnosufl8WeKKM761FxSfT8NEPLRixGhYwkfz4koT+S1Y8oLjwHHNccM9IKJohi0NmiNTXNS8c3DJ5uUhwQurJ+vsHXASJidtkPfxteIr6UcnEPr2icG5ER+EI/wmIMDtPwWFyzvBrYTqHvGUisdzJmTPXSkM0nMK6NFd7AmwCZyuKTrPky46eQ16UNACUI7B8hIx0kTXQFfjdoPTKsHO3IpdwBbEyRdH/dRfY0KTrHf2PQu29aE8wnP6fKfbgjCxHiERIYNhB2/1Mn5Lx5zXmoCfbv8wUj8TwWNOLyU93/gLw+jhAUeqKvXxmCPJnCqgtUTZVCs8QYsmbcvMtPCv+K/xMsEfFRsSYI4yzacKDTUoISAhpyeZ2XK9yuvZi5elqHwLQsi/fwbrcviN7c2setON7CLswQfp/db2MyNuUdAPdMR0d+aDcvWS7Iqq8fJW6TtbxOvAHlHuUr1EU1BZ+JFcYIEnLEppPeJpQi6Q==;Uqor3beZ0XBPUSg6DeJ7SA=="

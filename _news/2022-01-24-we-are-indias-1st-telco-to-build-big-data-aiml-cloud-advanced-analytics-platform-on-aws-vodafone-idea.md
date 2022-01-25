@@ -1,12 +1,12 @@
 ---
 category: news
 title: "We are India's 1st telco to build Big Data AI/ML Cloud Advanced Analytics Platform on AWS: Vodafone Idea"
-excerpt: "Dr Chaube believes that there is a critical need for telecom service providers to transform from 'Telco to Techno' and technologies such as 5G, Artifi.."
-publishedDateTime: 2022-01-24T10:52:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507"
+excerpt: "The Indian telecom industry has been at the heart of the technology driven disruption over the last decade. With over 986 million active wireless subs.."
+publishedDateTime: 2022-01-24T10:31:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127"
+webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127"
 type: article
 quality: 74
 heat: 84
@@ -22,7 +22,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-89093507,imgsize-71636,width-1200,height-628,overlay-ettelecom/we-are-india-s-1st-telco-to-build-big-data-ai-ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.jpg"
+  - url: "https://etimg.etb2bimg.com/thumb/msid-89093127,imgsize-41536,width-1200,height-628,overlay-etcio/we-are-india-s-1st-telco-to-build-big-data-ai-ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.jpg"
     width: 1200
     height: 628
     isCached: true
@@ -43,6 +43,6 @@ related:
         height: 438
         isCached: true
 
-secured: "7DvdTRWbTHC38k2Cxvvlx9bR+jdvPMwyJuzYRboLT4ulD/1+JkQk2cvc1HDwYEuno+IsJslowGzq27o9sqx5pelUwZqgXnGrPAHb1t5H7RMKExX3yMzX5sCCqhcvq7Ir8wp7LwbfDe4//LjEGfgEMIbmBhAE01B3yFzJGsyTaSN44bzhvy4wrJ3cz1yoi1OlcXQLq3cNjRuipjK3mxFtyPHvOC3nIPCvWT/JNOnbcmq+xSSRKpZ7ogAZcGurjRzFRuav4nN9yTy3Y4KZpOkd97LFX/doo+QZzC6iVhdElHJb+ZLrdOM0XxoZlFm0BbfofwOf6Ue6Z1mcDwINHkiuucy5hGYZ1p7mYLf52wxpkxjTo2RuQ5FfILXB+9BltHk62VHf3h0K4cdxJnIYu2KJavAzU6II58qHc8HvVkA8PAw5N1zwtkXj/pkGK+ZYCMeVLvRyv+n7BYVLjN0tTxyCN7YO00cI3WTdxuE/sWKv4kXQwDu26TKWfVMMcabyfjLSMP623iYW5Yh7dC8w6YQwfQ==;ZrAqnKDHjmwELOipN8/XcQ=="
+secured: "T2BO30nAG/u6A40rMtlsICfxeLB/8s6NKjqLyLW/zH//ocmZx7pRwF3pvZtXu4gdw1yaO9WyECZh2xjp4CYrbRhVXFBix8YikFqKppnP9WebQJDYNqbTWqfWcgwWwA0aXT8gyFIBc+q1lJweFTPsb0JS41qV6rQU1kO/LKkjYmLxzFiTG/Ids8toi+hG1bR2l4F6ClvTokh1ulko1LoR9SXjyNC5ODwquP+5y7UFXFy9D0i5+zBBqXsJDDKPaUFv6itdlrrrt/5zuxqYGK9OwaypAsjtRXWI0QjvgEpJm/jeeSVSfQlbBGYj4scPIMRIUvOwEV5lAT0vxOk32+HoEVxAVHo4h/W5GiE1L/Bn1C8=;JPNE+O/JwWeZ0v3C00QaTA=="
 ---
 

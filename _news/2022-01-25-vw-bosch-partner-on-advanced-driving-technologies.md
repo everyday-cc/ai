@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Advanced Driving Assistance System Market is Going to Boom | Robert Bosch, Intel, Valeo"
-    excerpt: "Advance Market Analytics published a new research publication on “Advanced Driving Assistance System Market Insights, to 2026″ with 232 pages and enriched"
-    publishedDateTime: 2022-01-24T09:54:00Z
-    webUrl: "https://www.digitaljournal.com/pr/advanced-driving-assistance-system-market-is-going-to-boom-robert-bosch-intel-valeo"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 16
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/Bitcoin-cryptocurrency-AFP-1K-02-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-
 secured: "zjrXSxJGP2Xf4UO6mKKQL69+j2clzUKrcNbFJVBfuXMdsV4v2luDP0sMnTrZHcKSYYYmt4p22M7hU/whvGfE0fogAizSUA6hE51TsMB4ctwyjORf8FbPV8WnD3/gF2KzGHi4qaikYdMk0uMdMyl6EmXhFDIH6/5eaMuqf8R2+YZkL4Ymah+Xl3vG2VDMZyF3FF8J/hrVgHMnWkKEAtYHHUhtGIenTtmDWsp622C7vLdzoo6CDo/t+gr8KCDW8ql98QpHqauenisSE04xb+Pb5cYhH+mw+BjXVOA+BopjF2A1qf9v0cVDjXISunXB4Cxid7BB6oUqeISFEnJE1EIfnL5yI3V/ZdzwVMaN9mCSsDA=;xj3tGxus6S/mnIqwyPEYCg=="
 ---
 
