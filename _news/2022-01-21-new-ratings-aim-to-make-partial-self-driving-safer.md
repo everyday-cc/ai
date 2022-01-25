@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
+        isCached: true
+  - title: "VW teams with biggest car-parts maker to boost self-driving"
+    excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to bolster its automated driving push and catch up with the likes of Tesla Inc. on software"
+    publishedDateTime: 2022-01-25T10:37:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/25/01/2022/vw-teams-with-biggest-car-parts-maker-to-boost-self-driving"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 24
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20220124_1643022010-187.jpg?1643022010"
+        width: 960
+        height: 637
         isCached: true
 
 secured: "DjC/gcdpGMS81YYpYvdXEDIwX+F6FGJ6muxGFYE02SBFdNaEcMNWDS10BpKSTOexzCSDiT7I+3mwlc/NRz5g5lVmkdWwIeqefUi8lig3x/E+gLk/GjetoZ5Wc/rY0d4JAQ4i3k53Oj7Tzi85Ihoz1M8aKJ6E56I8YivwjtANYw9qRjxUONOALhIvyWuDe+6LAUo97v8UEGWhOvfxE8k0WDjWqcptA2dXmXyg6xFXsmV6Ppe0F2ixzOMBgi9eWSvARcva4fSg6W9JeTY0ONZlNqFw6SpRIvOLoyWFk0PKFPoA7a1SrDDlCYTgx9cnmSsTVSJQJlGBdX6RjZMIZUbpL2AjP9l9BJazNUp/mJD1uPGb1aHmi1DQkrx/LMYUWRsQEElgiOJKMZPDr9ikw6dy6F5OBKm9LO2l59Y75mKCtw8nFVpfoZ6rjotAdtEcRCznitevkCvTHaT9vjdTWvdLzVIyqgn048ipvVOHXKqgvbBVHx5TPqJkmFNLAHeIhMJXDmwn78B6yZvgIFJsq7FBXQ==;5IHTWyW2GTLJ70thill6cQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1134822_mercedes-self-driving-
 webUrl: "https://www.motorauthority.com/news/1134822_mercedes-self-driving-cars-will-use-luminar-lidar-sensors"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mercedes-Benz teams up with Luminar on self-driving tech"
-    excerpt: "Luxury carmaker Mercedes-Benz will partner with self-driving sensor maker Luminar Technologies Inc to enable fully automated driving on highways for its next-generation vehicles, Luminar's founder said."
-    publishedDateTime: 2022-01-20T19:05:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/mercedes-benz-teams-up-with-luminar-self-driving-tech-2022-01-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/1ADIm3zEYd9gwwsrRSyl6Rs2q7o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UQO6R4AMZZJV5HOVQS7YH5BFSU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Self-driving sensor maker Luminar shares rally on Mercedes-Benz tie-up"
-    excerpt: "Luxury carmaker Mercedes-Benz will partner with self-driving sensor maker Luminar Technologies Inc to enable fully automated driving on highways for its next-generation vehicles, Luminar's founder said."
-    publishedDateTime: 2022-01-20T19:07:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/self-driving-sensor-maker-luminar-shares-rally-mercedes-benz-tie-up-2022-01-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/1ADIm3zEYd9gwwsrRSyl6Rs2q7o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UQO6R4AMZZJV5HOVQS7YH5BFSU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Self-Driving Sensor Maker Luminar Partners with Mercedes-Benz"
     excerpt: "Luminar and Mercedes-Benz partnered on development of automated-driving systems for the automaker's cars. And Mercedes took a stake in Luminar."
     publishedDateTime: 2022-01-21T01:44:00Z

@@ -26,33 +26,52 @@ images:
     isCached: true
 
 related:
-  - title: "Could artificial intelligence help people survive one of the world's deadliest diseases?"
-    excerpt: "Sepsis is responsible for one in five deaths worldwide, and is likely an underlying cause of COVID-19 deaths. Now a Vancouver immunologist says he's found a key solution using artificial intelligence"
-    publishedDateTime: 2022-01-24T16:23:00Z
-    webUrl: "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-    ampWebUrl: "https://www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-    cdnAmpWebUrl: "https://www-bowenislandundercurrent-com.cdn.ampproject.org/c/s/www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+  - title: "How AI Could Predict Medical Conditions And Revive The Healthcare System"
+    excerpt: "The health sector stands to benefit greatly from AI, as the increasing demands of an aging global population promises to continue to strain already tired systems."
+    publishedDateTime: 2022-01-25T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/how-ai-could-predict-medical-conditions-and-revive-the-healthcare-system/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/how-ai-could-predict-medical-conditions-and-revive-the-healthcare-system/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/25/how-ai-could-predict-medical-conditions-and-revive-the-healthcare-system/amp/"
     type: article
     provider:
-      name: Bowen Island Undercurrent
-      domain: bowenislandundercurrent.com
-    quality: 50
+      name: Forbes
+      domain: forbes.com
+    quality: 103
     images:
-      - url: "https://www.vmcdn.ca/f/files/glaciermedia/images/health/neeta-long.jpg;w=1000;h=734;mode=crop"
-        width: 1000
-        height: 734
+      - url: "https://imageio.forbes.com/specials-images/imageserve/609e821d654474333e16c7cf/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Artificial Intelligence Identifies People at Heart Disease Risk"
-    excerpt: "Artificial intelligence (AI) could better predict the onset and course of cardiovascular disease, said scientists."
-    publishedDateTime: 2022-01-24T17:30:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-identifies-people-at-heart-disease-risk-205348-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-identifies-people-at-heart-disease-risk-205348-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-identifies-people-at-heart-disease-risk-205348-1.htm"
+  - title: "How Artificial Intelligence (AI) is Aiding Healthcare"
+    excerpt: "Artificial Intelligence (AI) has transformed into one of the most powerful agents of change in healthcare over the past decade. The opportunities for healthcare organizations to start using AI and deliver more efficient,"
+    publishedDateTime: 2022-01-21T15:06:00Z
+    webUrl: "https://techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/"
+    ampWebUrl: "https://techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/amp/"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 37
+      name: Impacts
+      domain: techbullion.com
+    quality: 89
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/01/how-ai-is-aiding-healthcare.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "The robust health of Artificial Intelligence in the medical sector"
+    excerpt: "From improved diagnosis and treatment to streamlined processes and predictive maintenance, Artificial Intelligence is bringing many benefits to the healthcare sector. Beatriz Matesanz, MIS Innovation & IrixX Business Segment Director at Thales,"
+    publishedDateTime: 2022-01-24T13:30:00Z
+    webUrl: "https://www.thalesgroup.com/en/worldwide/group/magazine/robust-health-artificial-intelligence-medical-sector"
+    type: article
+    provider:
+      name: Thales Group
+      domain: thalesgroup.com
+    quality: 39
+    images:
+      - url: "https://www.thalesgroup.com/sites/default/files/styles/article_card/public/database/assets/images/2020-12/TELEHEALTH_THUMBNAIL.JPG?itok=rc-xMSte"
+        width: 550
+        height: 330
+        isCached: true
 
 secured: "RWV6p4iZchCk+ya1Ny+MbaK0zox+dvxgxXPJudeaNaVeBtw5irvdsx6Wy5txnMOq3hePFJxvSxp+odGWHeu2NVHcUSLoT7NBe/fSERblODNFqvA0JrTTAr33oXk3DQMYpPPg/2s2es3OXOejRICveUCQiWcbQXBcAp+BZRq+KVN8IgXP95Iu2xU1RDFz6jYvSYaotTEgB5KH5i7vLBGuYrT3bWjTQsUtYFKqTGoW3wCeXGEKUUtdNXnA2Y6NskFF7p0B+lw6gK55SXeRJ/Keeo0UdoYhEjczaMbBWmEZphnBuZtxJOicAYL7iDK8xdxKrc9wxbgtPYbi/S2H2sltr0Qni2X9FtT7PWAewFPHerw=;QsBln97b10gi1Kcj2FJNrA=="
 ---

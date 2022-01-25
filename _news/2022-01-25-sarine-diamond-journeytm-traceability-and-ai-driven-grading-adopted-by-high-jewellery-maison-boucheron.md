@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Sarine Diamond Journey(TM) Traceability and AI-Driven Grading Adopted by High Jewellery Maison Boucheron"
-excerpt: "Singapore Exchange Mainboard and Tel Aviv Exchange listed Sarine Technologies Ltd. (U77:SI; SARN.TA), is pleased to announce that French High Jewellery"
-publishedDateTime: 2022-01-25T05:00:00Z
-originalUrl: "https://www.asiaone.com/business/sarine-diamond-journeytm-traceability-and-ai-driven-grading-adopted-high-jewellery-maison"
-webUrl: "https://www.asiaone.com/business/sarine-diamond-journeytm-traceability-and-ai-driven-grading-adopted-high-jewellery-maison"
-ampWebUrl: "https://www.asiaone.com/business/sarine-diamond-journeytm-traceability-and-ai-driven-grading-adopted-high-jewellery-maison?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/sarine-diamond-journeytm-traceability-and-ai-driven-grading-adopted-high-jewellery-maison?amp"
+excerpt: "Singapore Exchange Mainboard and Tel Aviv Exchange listed Sarine Technologies Ltd. (U77:SI; SARN.TA), is pleased to announce that French High Jewellery Maison Boucheron, owned by Kering Group (KER.PA),"
+publishedDateTime: 2022-01-25T11:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=604946"
+webUrl: "https://us.acrofan.com/detail.php?number=604946"
 type: article
-quality: 42
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-    width: 299
-    height: 300
+  - url: "http://us.acrofan.com/img/noImg.jpg"
+    width: 500
+    height: 324
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 459
         isCached: true
 
-secured: "yKb/uSRU8CSA+A9SMmNa3JPHKDVQw7kSujkQ1LNgYf19NUp9n4UqWU79KgcghBx0Q44B7cuOq67Xa0Owe2Hp6dv0SABrs/j4+TpEZNE+JAmw0LP4wC4R97oHcnsq+cqcHbop7WTwzdN4BVQt8owDB70sb7XSDGeaU8WPeiC/3R1p92GyvMFPXukbgoHAVmxcRZ42wHY/9ahB80aXNgYf11LWUqjgerbORwDH/GHvCMWJ6Qka5QinMtt+AllrPHWaDlV9o3bWuE5yb1krMEHg2iGE11HQAsQGsWtoUfjXqG18uunEMyoVAhP1qhDG+lRYr7+V6urgUrh9643+78AX2nv0+uOxbocRmpWdHJDGTzs=;DFh/Bdbl7kFe08IjtNmnPQ=="
+secured: "zdH9S4C5er7MgLjKGDOX7Z14+OAq7Gdii556KyjM6Opu+xiYlmd+9CIecMfkK8/5YEnmq9Hg8kQXUWcUcObSm+Fc406hazwtZveUfLFjvJJwKExj5YeuesmwypWFSO1ztAAh8BXj1qdcHHN+Bp0aLorYwB47fQNvVjqE3XAze7TWWl2m9hYOjDEa0KahdwsXJEe/soPwoLCystLwi9KSVuUYi1enVBtOCgsFwWhEoBZq+vT50QoI+R73bj9hqf1ajpWljsocQvY6lwGoi9odXjUlc2vHD774U2arUa1wu3Z2P2M1z/rH02UcpOdzE9t6OkHjRHAIwKEvIAPNS/qcMnVUCsQJYvEa75tAlexTkMs=;d4/GN4/wR8Vmr6wU3ghffQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,38 @@ images:
     height: 579
     isCached: true
 
-secured: "x0oz9/+O38U+iOVBh8E84QYH86GcF7pzvfW34kEgSjMKci57GnCxWK4khJnfEMFgW7rtOAHt4Et+/pct5HXNeoyOzpEkz2/+9i4GFZ/ESrX8ZB/LnLpvOLlcOoRlYxEKGk2qCbylx2v2ZIC2toJGxihlDfUSMjgqne1YEu7u6xhS5UXyVve5V9eDzfHqbxJ+gPQ4cyBnDWXC+YHG1+B8+a6Q7vl+1zRxG+wPpZ+uA2CypObya4rh/oMuoXO9aoOQiLQ13oNJ/ldaFkctB7lrKhfYgMcFG6JFfFIkgUl52cpnY408ZKJAm54HPxqHKXcXD1cNhPgL00kqNsHNZ2lakYgoilXYaAphST1lakeQT9s=;fKCDRVE8QVbSkr6IBVd9xA=="
+related:
+  - title: "Tunisian enterprise AI startup InstaDeep raises $100M from Alpha, BioNTech, Google"
+    excerpt: "A recent survey carried out by CNBC reported that 81% of executives worldwide say AI will play a prominent and critical role in how their businesses operate this year. Companies are phasing from the first generation of AI,"
+    publishedDateTime: 2022-01-25T12:03:00Z
+    webUrl: "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/"
+    ampWebUrl: "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/762AEA63-1005-49DE-8AAD-2DF6AB8A18BA.jpeg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "InstaDeep Raises $100M to Scale Decision-Making AI Products that Solve Real-World Problems"
+    excerpt: "InstaDeep, a leader in advanced AI decision-making systems for solving real-world problems, announced today it has raised $100M and closed a Series B round led by Alpha Intelligence Capital together with CDIB."
+    publishedDateTime: 2022-01-25T12:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-africa-london-d910b8014a784600b6a1c3df3c6108fd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "nmDwJbT8Zy0lYzVZdp6SXWktkVUliKp45k1gCNXTHx3vw4W38rygktfxIFS95QU+Nnl1peEtMWorc1PWRB9trVNnpCooqWQzk2JjzbWGdp3vw16ttRk5cr9YfDvtpQe3Z01SsLWLgQ+RMJwHSt+E4NWY0ZQxr5/wGaAg7L94aX8z+PDDEIo1TglFvR8a0qoynYGgBo+OTCWaN0bZyEbTjlXmNu0JIpI/FS0NHubhSG4eGiT9aa9RBrmqcXlmSDcwiiCxubhghFmgSUhWTQ6dFg8ASLf5J8RcsRSWYiS6yCvtqLBHXZJKojWpf1pxyCiWOlA/mUnVxhMXS6IALDyAR3LlI0toxtmAHSy/+nNlrkipWUAJ2aOVRRPSytrNwp3YskANLZ+x2yjfMJPCTYJUB/E70hzQq0WxgN4e14V+iP0s8GsDKocshi0e8v+OykayzdJzC+5Wol0HwclpBdijc2elXDS4UQTxEe5cmcnRuTiwmovV0vBPZ4KjK/CMLs86TNNA+AUzXtbDo/TDTvScMw==;bcZDufljRLGvQa+917UTYQ=="
 ---
 

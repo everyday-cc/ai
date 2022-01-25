@@ -7,8 +7,8 @@ originalUrl: "https://www.computerworld.com/resources/230070/overcoming-ai-and-m
 webUrl: "https://www.computerworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Computerworld
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Teaching rural children, organic farming and ethics in Artificial Intelligence"
-    excerpt: "A mentor of two rural schools, he harbours a dream of seeing a child from his school ace the JEE, join his department and do a project with him. He was elated when on the day he was selected (as director),"
-    publishedDateTime: 2022-01-20T20:50:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/teaching-rural-children-organic-farming-and-ethics-in-artificial-intelligence/article38300296.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/teaching-rural-children-organic-farming-and-ethics-in-artificial-intelligence/article38300296.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/teaching-rural-children-organic-farming-and-ethics-in-artificial-intelligence/article38300296.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 50
   - title: "IBM on AI and Manufacturing in 2022"
     excerpt: "Kendra DeKeyrel, Vice President Asset Management Products Leader at IBM Software, offers her thoughts on AI and manufacturing in 2022"
     publishedDateTime: 2022-01-21T10:37:00Z

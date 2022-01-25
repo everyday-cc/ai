@@ -41,20 +41,6 @@ related:
         width: 5760
         height: 3840
         isCached: true
-  - title: "Google exec and DeepMind cofounder Mustafa Suleyman is out after a turbulent few years. 'I really screwed up,' he said."
-    excerpt: "DeepMind cofounder Mustafa Suleyman has left Google to join venture capital firm Greylock Partners. Suleyman will focus on backing and advising early-stage companies in the AI space. Insider ..."
-    publishedDateTime: 2022-01-20T19:54:00Z
-    webUrl: "https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-google-i-really-screwed-up-2022-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/61e9b2193bca3a00190d8b30?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "DeepMind Co-founder leaves Google for VC Firm Greylock"
     excerpt: "AI research firm DeepMind Co-founder Mustafa Suleyman has left Google to join venture capital firm Greylock Partners. Suleyman will be a Venture Partner at Greylock, advising early-stage companies and investing in artificial intelligence startups."
     publishedDateTime: 2022-01-22T11:36:00Z

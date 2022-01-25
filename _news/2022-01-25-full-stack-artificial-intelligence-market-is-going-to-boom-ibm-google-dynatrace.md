@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-25T09:46:00Z
 originalUrl: "https://www.digitaljournal.com/pr/full-stack-artificial-intelligence-market-is-going-to-boom-ibm-google-dynatrace"
 webUrl: "https://www.digitaljournal.com/pr/full-stack-artificial-intelligence-market-is-going-to-boom-ibm-google-dynatrace"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/DDD-2-1-600x337.png"

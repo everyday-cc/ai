@@ -7,7 +7,7 @@ originalUrl: "https://www.euractiv.com/section/digital/opinion/how-the-parliamen
 webUrl: "https://www.euractiv.com/section/digital/opinion/how-the-parliaments-aida-report-misdiagnoses-the-risks-and-benefits-of-health-ai/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "How Artificial Intelligence (AI) is Aiding Healthcare"
-    excerpt: "Artificial Intelligence (AI) has transformed into one of the most powerful agents of change in healthcare over the past decade. The opportunities for healthcare organizations to start using AI and deliver more efficient,"
-    publishedDateTime: 2022-01-21T15:06:00Z
-    webUrl: "https://techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/"
-    ampWebUrl: "https://techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 89
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/01/how-ai-is-aiding-healthcare.jpg"
-        width: 700
-        height: 400
-        isCached: true
 
 secured: "aI+obQgp7B9BWVkHvUzBxixQRJ/JAElTCFyRfTbFjbsKE5Y+Gg3SdIOH7k3ZIjoJPgVNEPI2R0bXK5mewkknvblQ2qlVyaiy8hwGmn0lZiMW4GZ37kMNKST6v9i6SLGilXA8goi1VB2E+ImqmvVGRJRJ2BXuBCo4yTGo1fhrZCHHkgZdeciUSAZ9sth+49DYscW3FgqRxPatMqcplGZo16f0tWvpeZh/LRtVYxfzxpMgEjaN7ygqIqvC2HxkzhyziP2oc8Nvda4RNdXn6FpJonxZ003+LeGKqKvTbylVbX5IEu39+VC6t4iFXvGvRN13h5WjGzvL3KwF+VBJYca6pA+agVI/3A7DIDlh7g6IJiGQ7s0b+YWrm5Febv/HcQhMNc8oBc7Q9x44n9uMCeWM6fu7GrQyeqT6rW8j+gFBzPJ9ZxXEn+8tklC/HN5qRijs9iOORYvviMUrBFSq3goprnDfMW1A0ynsW8rqaTSFAxMD2u48rjbkJ2n80uQ9UnSfYdMih9syE0bOYlnp4fbiKw==;5VdE52b3mKDxk+UWuZ6WWQ=="
 ---

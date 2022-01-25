@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/big-techs-ai-massive-multi-trillion
 webUrl: "https://www.linkedin.com/pulse/big-techs-ai-massive-multi-trillion-fraud-azamat-abdoullaev"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     height: 335
     isCached: true
 
-related:
-  - title: "Big Tech's AI as a Massive Multi-Trillion Fraud"
-    excerpt: "What's wrong with the big tech AI? Analysts recommend these 10 best AI stocks to buy, Nvidia, Alphabet, Amazon, Microsoft, IBM, Meta, etc. It is time to tell the general public the truth about AI and,"
-    publishedDateTime: 2022-01-20T19:50:00Z
-    webUrl: "https://www.linkedin.com/pulse/big-techs-ai-massive-multi-trillion-fraud-azamat-abdoullaev/?published=t"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGLCbbYqWMl3g/article-cover_image-shrink_600_2000/0/1642754029469?e=1648684800&v=beta&t=NrxgnuZNvfX-D6hOePPUf7qhRSdYKFaJi5SD6HcbkQk"
-        width: 595
-        height: 335
-        isCached: true
-
-secured: "o4aQrp/KQxZivaSTLZaH7q7zTo7x2JaGfs0kt+PCglGUcHV4O57OLJ7RBJcK7iCZu4FOmYorvb2n5XgifrVuICedottubV9F+aHgr3y/SPfJS9Mlu9kUfgtBQjV0GaKFge4aqq2bFOFOZ591aDeyr5lQx1E09fqeP/I7BxalMbblEkxgTLTTPQu22XegBRaATHIy7VmS+5vltql7LPoq9EQJsvobV44a4UpqtJdv48YTEzo4jJWg7LOgtElxUitiLuui7fiFV8nqSna2neP1YV7+TT9MvR9uFfc4Lujlf2gr9/FkDRIqvSbssKnXmCoLMGMzzYwnSDSUaPu+lu1tTm2s0jjzkIErrKrUDXwMUsE=;HzpZ5YF0dWYqhW56eWBF2Q=="
+secured: "TkZ/BRUOG4/WYkQm0WBkh1nLeSuWAeD3jRokIAi8OxWuu3LsN/mlcUGBsdfabn/Ot2LpsFJe9bX2FVCcDOWdXoRz+bQ+kcOLaq5idA9XEsLCZYJGXv3EMWuOtozzMIUOpRV8w9Bp4t3sMwRSmpvK5tzpA6VRb0qaTzdAw/mKpnfYSMca9gKY4ckGfA84gCWv2YrMZ6Wnf+CrgqVOOHUMAbu+ffAmOQcb6Ml/08TllRhj0CUV4w/H46ptk8WK2fmItnFVK2+4lEzwkvCjYpwoy0yJYgqy3ciAMsPY1oKAUbqO3O8tnirJmWuU348Drik6ZreQRCZwCHqrEovILb208Mtl/LaUqVy/pxpl/TcYYbKTY+rgAt9BtN/lZIzu1s1SYCr+DqZBh1oECbURoKJvRpn+3LsIyypfNm1R1oTztVPMOh59zKgpd9JUGsSi2yxE0Ok9B40Cx4/sLZLyLBEXvyIxDfOMQ0hsLva/xLVgI/N511NMo+vYT1uRpG//FL0ltkTQ5NfRAGT4jazOYfjpzg==;+ROI65nNjZLsOd00wLq+bg=="
 ---
 

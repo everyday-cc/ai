@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "5G in Healthcare Market Size Worth USD 4.2 Billion | 74.5% CAGR by 2028"
-    excerpt: "G in Healthcare Market Overview The global 5G in healthcare market is expected to cross USD 4.2 billion by 2028 at a robust CAGR of 74.5% over the review period. 5G represents a huge advancement in healthcare by enabling a new health ecosystem capable of efficiently,"
-    publishedDateTime: 2022-01-24T11:43:00Z
-    webUrl: "https://menafn.com/1103584494/5G-in-Healthcare-Market-Size-Worth-USD-42-Billion-745-CAGR-by-2028"
+  - title: "Natural Language Processing (NLP) Market is Expected to Reach USD 44.96 Billion By 2028"
+    excerpt: "NEW YORK , NY, UNITED STATES, January 25, 2022 /EINPresswire.com / -- Increasing demand for NLP among various industry verticals is one of the significant factors influencing market growth. The global natural language processing (NLP) market is expected to reach USD 44."
+    publishedDateTime: 2022-01-25T12:42:00Z
+    webUrl: "https://menafn.com/1103591059/Natural-Language-Processing-NLP-Market-is-Expected-to-Reach-USD-4496-Billion-By-2028"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 39
+    quality: 46
     images:
-      - url: "https://menafn.com/updates/pr/2022-01/24/M_7a989784-b_Image_In_Body.jpg"
-        width: 271
-        height: 500
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?129737"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "ElVxykUKZ/Q0Xr8wLbErC6ewDQ9rrYtU7v4d4m4tG5V8IvsKfc6bBLszSmJiOsmiQidDngdOhWfLIHUpJ3U4CXwksD22Kro5U8lHS7g6gOwCJx86GtwjYMtU/OM2H6x1rNY78mNCDZ+QwuMIl3It1/JZemudS3cwOjW7qgrMnqINaHrjWFx4F89nzTv16tDzKSUbDPmZendhAmvXsQS3PeXHta+qxwset9Skozw7xpLrBAIEIpqGiSDFIR2HYSO4YCR0DpmnnYRRtpTkfEAhRgsANBtqbftz2XCWkJfO3ZOKvQCCDrZwJxANwlT5liUitB3aTNRBqoERu4YSQyYnqkJLKA9GtwSBz1LFZZmxlMwdKu+o5uoh6cgJOQs9YH7E2bucB11F5NubteRSI5jqxcXF5COqJqHFJyvVmVToWyejmTSawJq2QdoLKBZd21aCyribDXsGn3/jE3n30DwEH9EfK6E9lJ0b3H8WuokJFz4qCG8QBLq/16c1DDkVh7Q8fGLwfIF/akJjyVhBW7D6VA==;ILvkf77OFy7FjmAUyaxBgQ=="

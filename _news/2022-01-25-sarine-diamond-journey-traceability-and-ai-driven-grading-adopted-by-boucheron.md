@@ -28,20 +28,18 @@ images:
 
 related:
   - title: "Sarine Diamond Journey(TM) Traceability and AI-Driven Grading Adopted by High Jewellery Maison Boucheron"
-    excerpt: "Singapore Exchange Mainboard and Tel Aviv Exchange listed Sarine Technologies Ltd. (U77:SI; SARN.TA), is pleased to announce that French High Jewellery"
-    publishedDateTime: 2022-01-25T05:00:00Z
-    webUrl: "https://www.asiaone.com/business/sarine-diamond-journeytm-traceability-and-ai-driven-grading-adopted-high-jewellery-maison"
-    ampWebUrl: "https://www.asiaone.com/business/sarine-diamond-journeytm-traceability-and-ai-driven-grading-adopted-high-jewellery-maison?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/sarine-diamond-journeytm-traceability-and-ai-driven-grading-adopted-high-jewellery-maison?amp"
+    excerpt: "Singapore Exchange Mainboard and Tel Aviv Exchange listed Sarine Technologies Ltd. (U77:SI; SARN.TA), is pleased to announce that French High Jewellery Maison Boucheron, owned by Kering Group (KER.PA),"
+    publishedDateTime: 2022-01-25T11:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=604946"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 42
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 22
     images:
-      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-        width: 299
-        height: 300
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
 
 secured: "rgbbX426fJQylmcbB0zrufIFXD+4DLXmuNb3Y5293mGgC+3Fybo6KXUdP5Z9FAf73lT/aYoQekrQrkrbEJOdKRMTBUrxoFap2OK/JvzIyUp2fHIjTg++UgBrsNv8KZUYIjByZElqoYjEvqVXT23W/RJRqt2Efm7NZOgqZcz/VEIFpvCOInCBI7B4DlaxuhmCRedgXFIgJfGu/k6ZkPCEVxSz9SB/sPi1LX+Y6FPzyXLaFlHjHRVWnKFXdfhlNBN6cK+CGcSm4qRglnOwssW5tC+DRwsOcv0wKqQpml1qZXNgFVTaX0c1vPOYZnQP76zYAtuINBsimxkThwkOasH7UQpVhVGqV/Kt3tdktdJAugo=;voTEMviQSu158XyIq9ohQg=="

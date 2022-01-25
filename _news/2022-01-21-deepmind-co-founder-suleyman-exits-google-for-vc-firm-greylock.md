@@ -39,20 +39,6 @@ related:
         width: 5760
         height: 3840
         isCached: true
-  - title: "Google exec and DeepMind cofounder Mustafa Suleyman is out after a turbulent few years. 'I really screwed up,' he said."
-    excerpt: "DeepMind cofounder Mustafa Suleyman has left Google to join venture capital firm Greylock Partners. Suleyman will focus on backing and advising early-stage companies in the AI space. Insider ..."
-    publishedDateTime: 2022-01-20T19:54:00Z
-    webUrl: "https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-google-i-really-screwed-up-2022-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/61e9b2193bca3a00190d8b30?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "DeepMind co-founder leaves Google for venture capital firm"
     excerpt: "Mustafa Suleyman, co-founder of DeepMind, has quit Google after seven years in which the pioneering British operation made breakthroughs in artificial intelligence but struggled to ensure its technology would be used ethically by its giant US owner."
     publishedDateTime: 2022-01-21T00:22:00Z
@@ -127,6 +113,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "2N9oi2rP5RmuCxsG7qiEkOjihw4uzYWmmKsKzbE1Tylg3M0Vd4dP18FemAdTKgfXTfJ34Rv88SGbvyziC1NbuHo6TRJwpldWsYLKX8g267Rh7lJHbDeK3O4RHl8N0Jd0oTXwh1tmd2ypfqE53ET0eZjHHXk1l07ES1HsbVjYbSVybRSH2Y2FuodCjtJATsizi5jMrUbsPKhspOlztGO6IEb5vmpE6Eaz7BVsAei2rHRnDpHawT1iZgAhaWQ0mOHUzvlY5LpEH3uMx0S4BQGoT3Vyc4DGd11Ng5VfrMBqwtUiz63Pejt2xjOpxVLZFiUmB//CjCHETtqJ+ZER2xlB1PnR3Zz5XNNMvH8HY8ptfrw=;nI8peyCm9+mB/0DTWpGB5g=="
+secured: "/MmmIt7LpJ/WJQFKzJA5yIKrWAA3oRUfL/3rMRdgX6pgIaZwEbHEAt3UMYStE7CY1YJ1ThmwrUOYmEe79BX8uNoSKVf3fpGPP/+LHFwuySAgniX8eyVaNJh0eB9Acu/fcPKc/XZNsUCeFMzMIvqdhvdyr7LK0OtxmsdqSpKOKcA3R/aeA4dpCmIy+d/loyAl61ZqZVNoD8DgFEBSXxbwygIDvRcga7RdNP7j7tFhCHll2UHI1USIJ6/HB61ja1hLflRA5siJRMVt05o1KXiq3GsP6UD8j1dk+ledqMZBuAqr9cfW3E/zCWk4gGSVePjPURNTfcwTDBWqvJTEQyAytPK4c/EUply4x56Ol1LPLdk=;qSE/QlZttR5HzeQHIv1dGQ=="
 ---
 

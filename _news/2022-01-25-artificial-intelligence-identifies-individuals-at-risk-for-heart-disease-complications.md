@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/941038"
 webUrl: "https://www.eurekalert.org/news-releases/941038"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Artificial Intelligence Identifies Individuals at Risk for Heart Disease Complications"
-    excerpt: "For the first time, University of Utah Health scientists have shown that artificial intelligence could lead to better ways to predict the onset and course of cardiovascular disease."
-    publishedDateTime: 2022-01-20T20:16:00Z
-    webUrl: "https://healthcare.utah.edu/publicaffairs/news/2022/01/ai-cardio.php"
-    type: article
-    provider:
-      name: UUHC Health Feed
-      domain: utah.edu
-    quality: 31
-    images:
-      - url: "https://healthcare.utah.edu/publicaffairs/news/2022/images/1-yandell-tristani.jpg"
-        width: 400
-        height: 280
-        isCached: true
 
 secured: "S6P2WcTj9v4E1llJPWCUOVDbHeLyWXxLFa7xloRH3+tiri9jN+bd3lNH1CaP9dA0i+fwjhMZCi2/fO7z6Rt1mD9LZ74DNYiG0iQsFG4sBm5EcnEgqdxW+qqBsT979ubui7Q+tzgVQKTavF4kMi3CGE1cFKKAUPlclJG8OZtTIJ/qapLKRD3kEzPTx4NGCHq8rgR+i5TxSCQXtko3AbPnsgN14qxeqI/IeUMyWeCfUvbtxXRuoe9XxbyLY+4Mu4uMaNOJs44of9dNuJ6xx+kHGhNtKSJS1Y3pFuI5k/1bt4Zpu0txj2nEew37I7cDRhAxLZyzcPZvJ+flMsA2kpkMB/Y85UjUi7prDW2d84mBjBo=;qnsNhu4QxVxgqK7A2eiBww=="
 ---

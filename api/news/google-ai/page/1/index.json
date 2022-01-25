@@ -10,7 +10,7 @@
       "originalUrl": "https://www.engadget.com/deepmind-ai-mustafa-suleyman-google-greylock-partners-152049755.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -158,6 +158,49 @@
         "Facebook AI",
         "Natural Language Processing",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-ai-medicine-software-market-is-likely-to-experience-a-tremendous-growth-in-near-future-enlitic-atomwise-deepmind-babylon-health.md",
+      "title": "AI Medicine Software Market Is Likely to Experience a Tremendous Growth in Near Future | Enlitic, Atomwise, DeepMind, Babylon Health",
+      "excerpt": "The ‘ AI Medicine Software market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-medicine-software-market-is-likely-to-experience-a-tremendous-growth-in-near-future-enlitic-atomwise-deepmind-babylon-health",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-medicine-software-market-is-likely-to-experience-a-tremendous-growth-in-near-future-enlitic-atomwise-deepmind-babylon-health",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/DDD-2-1-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
