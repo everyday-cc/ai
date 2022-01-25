@@ -1,8 +1,8 @@
 ---
 category: news
 title: "LG to unveil life-size self-driving concept car"
-excerpt: "The self-driving home on wheels is fitted with LG home appliances retooled for in-vehicle use and provided with artificial intelligence concierge services from Reah, the virtual influencer created ..."
-publishedDateTime: 2022-01-25T02:57:00Z
+excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month."
+publishedDateTime: 2022-01-25T02:55:00Z
 originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/lg-to-unveil-life-size-self-driving-concept-car/89105410"
 webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/lg-to-unveil-life-size-self-driving-concept-car/89105410"
 ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/lg-to-unveil-life-size-self-driving-concept-car/89105410"
@@ -13,7 +13,7 @@ heat: -1
 published: false
 
 provider:
-  name: cio.economictimes.indiatimes
+  name: India Times
   domain: indiatimes.com
 
 topics:
@@ -43,6 +43,22 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "LG Electronics to unveil life-size self-driving concept car 'LG Omnipod' in February"
+    excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as \"a home office,"
+    publishedDateTime: 2022-01-25T04:54:00Z
+    webUrl: "https://www.freepressjournal.in/business/lg-electronics-to-unveil-life-size-self-driving-concept-car-lg-omnipod-in-february"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/lg-electronics-to-unveil-life-size-self-driving-concept-car-lg-omnipod-in-february"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/lg-electronics-to-unveil-life-size-self-driving-concept-car-lg-omnipod-in-february"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 37
+    images:
+      - url: "https://images.assettype.com/freepressjournal/import/2016/01/LG-Electronics.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "LG to unveil life-size self-driving concept car"
     excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as “a home office,"
     publishedDateTime: 2022-01-24T11:20:00Z
@@ -58,6 +74,6 @@ related:
         height: 236
         isCached: true
 
-secured: "0fL5tOs5s9n5TlvWUbJUJCWMTPE86Mi1oP6S4/OzyIaaGnzGYAhurLzu8YA11yP+hc8GbifVx/OBuZxAd9Sh6pCHJjghWSkXOzpxxU/2CzRkK1iNkbU3ASCgKmRiFK17B/katW697ZYmqiw79FkVQDfGaI+Vv1PM+N/YFfm9t4fZlP2x43pWYbEZ4w3uzxK+I2XO0dUk5VTuFfKpvD8QKLE9/75Mjob9zhC92Q7orIdYTJd/vAijrLE2M0TsbnVC4/GBKtmTa+jpYHPNnrvuXo713ezHm0MRau4EFLRMqClDMyG58RDoxfNFbXSxlUQ4I0Vd4mVtXRQEFq1YHHqqcbcCsOtY5lAdthTqjZOTF9w=;8YEOa6wq4ymwnmimUlgdqg=="
+secured: "czP9qr/wVzKQ4N8CkgMBc6DeyKarWUKsc0mPy5w29wg3eHnhQL9Xllpn/ZjVaCQwOboZj6Tmbt+WdTdvIJnQFEukzzrUTHKB+tgMQ2W6Ghhy90f5d7/qAmpvJDl+u1H8Hy3+s0ZAfotHcfDba6YYnnqCLegtjuihRwSU12V/9I0qUOmhazTwldpXYcXG5Y49EY+txG1aWFm2CwgbSREpaDmWqx5apmNKoEk8mxxJZx1O7JGa5GGSihbcWMY+URpur96X8wRajehl69tUu29QYYq3P01JgHdaA5Etzk+GP6MDnkcCvLz9ScHAjWKFF2r0ytWIiLLlSrLnzqL885vRGtg+uSJI9aBzayXgvBL5KQI=;C/2thPO9V/jZFM7w60tP4Q=="
 ---
 

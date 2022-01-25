@@ -24,6 +24,22 @@ images:
     height: 533
     isCached: true
 
+related:
+  - title: "Investment in innovation benefits both investor and startup"
+    excerpt: "Wistron attaches great importance to innovation, both within the company and outside of it, according Eric Wu, vice president of Wistron's CVC Office. Since 2010, Wistron has participated in startup activities and investments including Garage+,"
+    publishedDateTime: 2022-01-25T01:11:00Z
+    webUrl: "https://www.digitimes.com/news/a20220124VL210.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 22
+    images:
+      - url: "https://www.digitimes.com/newsshow/20220124VL210_files/2_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
+
 secured: "DmVdDvmn+wM8FTXNv4/SKm1OhCIS8mhpdMzUz04ihhWjSmrlDZvX6jp4UpUWpxNTxO0gJELvPPyxbaK3IQNsBNoQEcrvwUxHKCqfisPkwmwz2Ma3ve2WBwTV5ByFNdeMVVk/9MK/oOigj2L01eKseIAP+5hcDM/70TTrRS1SCG+XSp/RJvn5POAz3T4RnRlvTcVsm44LpdhHl3TprHOj5k5qp1OGg4BUT1RvmMyRYIwzzW7UNZCFn8fvNpxk7A8WygJ8hc3xq+VNL+ix2ckbBeU4c2RctsnCjxep8UWZQ+iS3nE4k9m+j8//tXzQHifsUlaT9f/i/06Tdzm/euEBCbOo1Lb7C0uny1FUNJzPkF6CzSX3TsLLiQ/aMsRzRcFSYe71gx+MGaI/QbF0J01DNj2WOhFE3ls6xboxH16BZGd+0Fql1GuR38pNpq9AjPRquQhFoONeZAcd3rd+51sohomuYggKAspb4LIygrH2X7/3xosHrFJ7XkLIEo51pDXEXKwTlnT6uby4IKucHIEIgQ==;iaYtg1Ah4uLAZc1b2IVfuQ=="
 ---
 

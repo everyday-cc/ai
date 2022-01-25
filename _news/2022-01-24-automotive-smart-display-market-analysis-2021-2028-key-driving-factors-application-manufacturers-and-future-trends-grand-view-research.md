@@ -95,20 +95,6 @@ related:
         width: 1577
         height: 1050
         isCached: true
-  - title: "Voice Assistant Market Forecasted to Reach USD 7.30 Billion by 2025 | Voice Assistant Market Growth Analysis and Industry Forecast"
-    excerpt: "Market Highlights. The global voice assistant is expected to garner a valuation of USD 7.30 BN by 2025, growing at an impressive CAGR of 24.32"
-    publishedDateTime: 2022-01-20T11:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-assistant-market-forecasted-to-reach-usd-7-30-billion-by-2025-voice-assistant-market-growth-analysis-and-industry-forecast"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://marketersmedia.com/wp-content/uploads/2022/01/Logo-MRFR-19.jpg"
-        width: 417
-        height: 455
-        isCached: true
 
 secured: "YGQVyMDumpbD6nOfuBjovSMN9L4nQWqag6d46AhMKEBkUh73fnv52tdzIO6ZBEprhRkZ++jB6W9V+jV6Uq5af5L8sCIfCtYiJdswp+6CcLXgk6wXn8qkxGZuIW8ZNA3GGKV1+wqwwKgRHGOBnsxaWFpguCdX8KBqSCWOwUw7Q28F8HbS3WefnB2HQ0SPnHkN27SH2m8t++8MgckZ6Q6QbfXuy3vrCLhy9lWj6z198mDPwfY10QeRS8HTRIeQWmF1BWg9YNwzb4ABifi5i1LMUIl74+Uii+9bpCaDk+k3ds91ll45gqDEJrQml7LBwoIYMikXgOJVRFgm+LAl4nxcFdmuyvvSwkjFXhsVn2rfOAw=;asWPRS3qmXKeIG2KNHGPMQ=="
 ---

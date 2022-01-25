@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Can a Self-Driving 40-Ton Truck Be Safe? Developers Say Yes"
-    excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the COVID-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
-    publishedDateTime: 2022-01-21T05:42:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/34426-can-a-self-driving-40-ton-truck-be-safe-developers-say-yes"
+  - title: "Self-driving semi-trucks may be part of Texas' future, says Texas A&M professor"
+    excerpt: "Texas is considered one of the largest and most prevalent states for the trucking industry. It’s here that new technologies that could change trucking forever, are being tested."
+    publishedDateTime: 2022-01-25T01:26:00Z
+    webUrl: "https://www.kxxv.com/brazos/self-driving-semi-trucks-may-be-part-of-texas-future-says-texas-a-m-professor"
+    ampWebUrl: "https://www.kxxv.com/brazos/self-driving-semi-trucks-may-be-part-of-texas-future-says-texas-a-m-professor?_amp=true"
+    cdnAmpWebUrl: "https://www-kxxv-com.cdn.ampproject.org/c/s/www.kxxv.com/brazos/self-driving-semi-trucks-may-be-part-of-texas-future-says-texas-a-m-professor?_amp=true"
     type: article
     provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 24
+      name: KXXV News Channel 25
+      domain: kxxv.com
+    quality: 40
     images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2021/0125_CaliforniaTrucker.jpg?height=635&t=1636695519&width=1200"
-        width: 847
-        height: 635
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/bf9/f9d6acf132d844f6947c7bc916fe8033/bf92fd9e52274c6284a0f7da0c85930b/poster_6a9eb8c006fc4caaa9a40def3d4b2a93.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tag Archives: Self-Driving Cabs testing"
     excerpt: "GM and Lyft plan to deploy self-driving cabs for testing in a yet-to-be-named city, where the vehicles will be picking up real Lyft users. This announcement comes shortly after General"

@@ -1,48 +1,36 @@
 ---
 category: news
-title: "Facebook's Meta creates AI supercomputer"
-excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
-publishedDateTime: 2022-01-24T21:57:00Z
-originalUrl: "https://www.dairynewsaustralia.com.au/world/facebooks-meta-creates-ai-supercomputer/"
-webUrl: "https://www.dairynewsaustralia.com.au/world/facebooks-meta-creates-ai-supercomputer/"
+title: "Meta unveils new AI supercomputer destined to be world's fastest"
+excerpt: "Meta has unveiled the AI Research SuperCluster (RSC), a new supercomputer that’s among the fastest in the world. And it’ll only get faster – by the end of the year it should rank number one, with computing power on the exascale."
+publishedDateTime: 2022-01-25T04:16:00Z
+originalUrl: "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/"
+webUrl: "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/"
+ampWebUrl: "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/?amp=true"
+cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/?amp=true"
 type: article
-quality: 43
-heat: -1
-published: false
+quality: 89
+heat: 289
+published: true
 
 provider:
-  name: Dairy News Australia
-  domain: dairynewsaustralia.com.au
+  name: New Atlas
+  domain: newatlas.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
-  - AI
-  - Facebook AI
   - Natural Language Processing
+  - AI
 
 images:
-  - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=be9bf114-dae3-57c8-a3f0-4a6a06411aab&function=original&type=preview"
-    width: 800
-    height: 600
+  - url: "https://assets.newatlas.com/dims4/default/f2fac32/2147483647/strip/true/crop/1200x800+304+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc3%2F17%2F7537049247e4aaaf863110e796e0%2Fmeta-rsc-2.jpeg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
-  - title: "Meta unveils new AI supercomputer destined to be world's fastest"
-    excerpt: "Meta has unveiled the AI Research SuperCluster (RSC), a new supercomputer that’s among the fastest in the world. And it’ll only get faster – by the end of the year it should rank number one, with computing power on the exascale."
-    publishedDateTime: 2022-01-25T04:16:00Z
-    webUrl: "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/"
-    ampWebUrl: "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 89
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/f2fac32/2147483647/strip/true/crop/1200x800+304+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc3%2F17%2F7537049247e4aaaf863110e796e0%2Fmeta-rsc-2.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Meta Unveils New AI Supercomputer"
     excerpt: "When the AI Research SuperCluster is fully built it will be the fastest AI supercomputer in the world, the Facebook-parent says"
     publishedDateTime: 2022-01-24T16:00:00Z
@@ -233,6 +221,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Facebook's Meta creates AI supercomputer"
+    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
+    publishedDateTime: 2022-01-24T21:57:00Z
+    webUrl: "https://www.dairynewsaustralia.com.au/world/facebooks-meta-creates-ai-supercomputer/"
+    type: article
+    provider:
+      name: Dairy News Australia
+      domain: dairynewsaustralia.com.au
+    quality: 43
+    images:
+      - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=be9bf114-dae3-57c8-a3f0-4a6a06411aab&function=original&type=preview"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Facebook Parent Meta Building Supercomputer For AI Research"
     excerpt: "Meta on Monday announced its new AI Research SuperCluster (RSC), a supercomputer meant to be used for AI research projects."
     publishedDateTime: 2022-01-24T12:29:00Z
@@ -312,6 +314,6 @@ related:
         height: 315
         isCached: true
 
-secured: "Ft/SM6c4zppF/TOn1H4MjV3U0ck+zbuEUFMBepDPAp5qxsh3HIxAwwJMeIW/RVR9+N0YSt3CRfLi4dxpK32MTU/h0V0wnu8ExvcPgtReVoeYrYnpn9b4Y/dVxbyaDxEejqp015fdoaRSCmiPE1k92uoyQBiqv0RyFaAn8cjJloIxp03aLP3gJ4lnYGh0CFUPI8TRXYs5PYksVSb8YIfBePzHrTwFNWEaPT05N/Y3OjqipjaojSUdpNGR0RKaVk9NaK7tYEAtFl79wX1bbx87HmWLGPHCJszIPtWs05mUpT4g58qs14h+v7gNEAA95pa5Km+MzHS7aiqQklKiBcss8EcEL1HsM+D7nypu92PAKmiEmmmR4Py2JgvPkG91/wSyXneaR36scGTfWFUUzcLQzfkyu8qSah9MYc7lrzOsbSITe2GJMTXy+3mrAoCulNNvn0uXYtJGD0qFD/FZ1OXuP+NIgxm0BPloNJg/75bjnTdicI44bIPr6Y58HWibq0DK2yI9/HmWn693gFKsS3PWsA==;UFy2Ykgy/7Ioqg8y9tamNw=="
+secured: "3P90L6eiZ/xSlgkZ4MUcsyl5jyPW5VkzXDyYAYCc3fs9T82iZ9Q0sTlNIrQJ+bLgfhWPS7RYGs5sawy6Fz/ICvSbEPiJjgpZ3nPNGEZOv9WcfaSWAF4GVzZ4ZxDX0rYOzeZldiF3A1i6y4BXLAAGHDwBkrbkVUGHLGeGV835VIOBNs7Sx2kI8cIE8+XYCG2YwhssHYbbIAme266/l2ArwBQsrgYr63LGeH3pvcbC/lMUjs3WEoh8QeaxNkoFYw2YP5tYEV0WP9JyGZ40Ej5Lm1G/fBhSuQZsipK3cLcuEcuNApkIBvF0oTe2PZBlNO6KrlZdQoFtgT7EOFA8F0bjfVK+QWmhaWvYab0VcBwRNm4=;Gyecg+BlGuKWfRcviPR3bw=="
 ---
 

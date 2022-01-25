@@ -1,20 +1,26 @@
 ---
 category: news
-title: "AWS Announces General Availability of Amazon EC2 Hpc6a Instances"
-excerpt: "New Amazon EC2 Hpc6a instances powered by AMD EPYC processors are purpose-built for HPC workloads and deliver up to 65% better price performance"
-publishedDateTime: 2022-01-11T05:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20220110005933/en/AWS-Announces-General-Availability-of-Amazon-EC2-Hpc6a-Instances"
-webUrl: "https://www.businesswire.com/news/home/20220110005933/en/AWS-Announces-General-Availability-of-Amazon-EC2-Hpc6a-Instances"
+title: "AWS Announces General Availability Of Amazon EC2 Hpc6a Instances"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Elastic Compute Cloud"
+publishedDateTime: 2022-01-11T14:45:00Z
+originalUrl: "https://www.hostreview.com/news/220111-aws-announces-general-availability-of-amazon-ec2-hpc6a-instances"
+webUrl: "https://www.hostreview.com/news/220111-aws-announces-general-availability-of-amazon-ec2-hpc6a-instances"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Host Review
+  domain: hostreview.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "wb5LNlnorWJd30253zW/OqGYPc01bDZWbitlLQltjExWUnsgt6cic254SvglOmCJ0t6WUIyfDZCWeqPo11BdpT9hoP9YjQFS+ijD3TsxYFCUWrfwylPXeCw+WApYiPiczsyI57KHRxU/YiwN7JrHNrGz42MzwRFs0RzynQQ6f2/n/ScYKfs3i5TR045iTUW8mcIapKmDulugs6tWWMBraa1wQyY0TUcPFPf6jIAzV8jDfpJZ2sC8/ZrAyHmRBKbES11tujG+jcAiQj6hQYFes/wo4Un1xNgosoF+r5z2zqEy6Q7lNeri1EJadR+jStpQEU7kvOX3ePDPqThlQyj+uOjCH0ww9/P37/XLNDVIrAw=;MhbbNzBWxtFoidYK7QDdjw=="
+images:
+  - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "7Op15FjdHeAsb2Lhxl6l1gWneiJHvL7F8yPKNmafAdBQB8rgfNW8tjoT7bKejD8nSJI/KbGhGFsC7nX8YX5A8boxYUnFxTh2NtixJGZ4V/nicCVxzK/m9+4WTRM7kK6Sj1Q5BCx3OLz8/SiEqvTdCa3UvZijCp3Ta7kQarDqah5swKgaeWSPAAJeQ/yTAU7U0PERDN6NRtXXPKt2hz8biPMEIjc/RBv43w00lf8c+B4QapbAi/x013+stOa2cs5BCW7s0zRDA0m8TBXXAGE4Prw9UAeoRtfredOBc8hwS/19+66Cd2xUZhf2Tf/GoiXZ7WNtPmUy9R+0LymuTupczk7vxZ8CgB9wZjWtSdJNVWs=;T4XhleMODNBcFBhEbNFMLg=="
 ---
 

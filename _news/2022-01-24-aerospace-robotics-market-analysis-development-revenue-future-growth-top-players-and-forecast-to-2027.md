@@ -81,20 +81,6 @@ related:
         width: 1577
         height: 1050
         isCached: true
-  - title: "Voice Assistant Market Forecasted to Reach USD 7.30 Billion by 2025 | Voice Assistant Market Growth Analysis and Industry Forecast"
-    excerpt: "Market Highlights. The global voice assistant is expected to garner a valuation of USD 7.30 BN by 2025, growing at an impressive CAGR of 24.32"
-    publishedDateTime: 2022-01-20T11:06:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-assistant-market-forecasted-to-reach-usd-7-30-billion-by-2025-voice-assistant-market-growth-analysis-and-industry-forecast"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://marketersmedia.com/wp-content/uploads/2022/01/Logo-MRFR-19.jpg"
-        width: 417
-        height: 455
-        isCached: true
   - title: "Automotive Smart Display Market Analysis 2021-2028 | Key Driving Factors, Application, Manufacturers, And Future Trends | Grand View Research, Inc."
     excerpt: "Market Research And Consulting.\"\"According to a new report published by Grand View Research, increasing demand for advanced"
     publishedDateTime: 2022-01-24T14:45:00Z
