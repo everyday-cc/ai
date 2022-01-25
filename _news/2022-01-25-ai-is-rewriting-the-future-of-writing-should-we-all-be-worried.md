@@ -1,0 +1,32 @@
+---
+category: news
+title: "AI is Rewriting the Future of Writing - should we all be worried?"
+excerpt: "I’m someone who considers writing a kind of religion. I take time out of my day to listen to the ideas swirling around in my head, churn out words when the muse inspires me, meditate on my progress."
+publishedDateTime: 2022-01-24T22:18:00Z
+originalUrl: "https://www.linkedin.com/pulse/ai-rewriting-future-writing-should-we-all-worried-paul-g-thompson"
+webUrl: "https://www.linkedin.com/pulse/ai-rewriting-future-writing-should-we-all-worried-paul-g-thompson"
+type: article
+quality: 37
+heat: 37
+published: false
+
+provider:
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHyjFzwXkkKeQ/article-cover_image-shrink_720_1280/0/1643045693894?e=1648684800&v=beta&t=jOVbcytPqTWhx7Lk6KoHxGtR9rt96yNx8SI0u7AGJt4"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "BI+s2wSrgeCSsxcBbd4YyfaXgdoTQ0NM37WODxSraT98mNVRLfXyxl+bOSXTb/fu8SqJtyifTVUrL7P2UDioEWv6D7M6lrIZyVGRJCo125EwduUnrKlNjiobJQGO173Tv4QjftwQmgfydWJ4FThAjK/nJ13e3JjLwYP2q9VkPdSBVCbze/U8KPZ2FvahHnoI1He2t+c7c18c+s41HNbiNkBPe57NUNWKTkCc9FuYsaPle0SgCKanqzxfynWl9a2F2o4/H6BCJoTDnrCftWUmigEDiThhPCdPApAT/wM+I8R6MmaF8vcKRK+UNZWMFP382ddnkMys3UgWXrhbrNN4XoGoA1Cg4F4aQPtMyOpBSzA=;5CBHnNkjZONg6S+xtpsjaw=="
+---
+

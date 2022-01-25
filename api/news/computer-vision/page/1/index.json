@@ -194,6 +194,50 @@
       ]
     },
     {
+      "path": "_news/2022-01-20-ambientai-brings-computer-vision-intelligence-to-physical-security.md",
+      "title": "Ambient.ai brings 'computer vision intelligence' to physical security",
+      "excerpt": "It seems the security industry is awash in a plethora of new video analysis solutions that are rapidly making up for the shortcomings of prior technologies. Indeed, today’s artificial intelligence (AI) platforms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21253743/ambientai-brings-computer-vision-intelligence-to-physical-security",
+      "originalUrl": "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21253743/ambientai-brings-computer-vision-intelligence-to-physical-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/ambient_graphic.61e885c95cd0f.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-19T13:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns.md",
       "title": "Ambient’s computer vision detects dangerous behaviors, but raises privacy concerns",
       "excerpt": "Ambient, which is using computer vision to develop security systems, is emerging from stealth. But its software raises privacy concerns.",
@@ -1381,50 +1425,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-launch-factory-raises-6m-to-back-computer-vision-ai-startups.md",
-      "title": "Launch Factory Raises $6M to Back Computer Vision AI Startups",
-      "excerpt": "This round of funding aims to launch new computer vision AI companies. Led by Brad Chisum, CEO, James Hereford, and Kimberly Davis King, Launch Factory is a venture studio which, with this fund ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html",
-      "originalUrl": "https://www.finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2022/01/launch-factory.png",
-          "width": 320,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T13:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
         "AI Hardware"
       ]
     }

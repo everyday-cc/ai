@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Visionet Systems Wins Big at the Recent IBSi Global FinTech Innovation Awards"
-excerpt: "Their product ' DocVu.AI ' has won under the category ' Most Innovative Use of AI/ML ' The awards had over 191 participants in the Financial Technology space across 48 countries The recent edition of IBSi Global FinTech Innovation Awards 2021 by IBS Intelligence,"
-publishedDateTime: 2022-01-24T19:40:00Z
-originalUrl: "https://menafn.com/1103586801/Visionet-Systems-Wins-Big-at-the-Recent-IBSi-Global-FinTech-Innovation-Awards"
-webUrl: "https://menafn.com/1103586801/Visionet-Systems-Wins-Big-at-the-Recent-IBSi-Global-FinTech-Innovation-Awards"
+title: "Visionet Systems wins big at the recent IBSi Global FinTech Innovation Awards"
+excerpt: "The recent edition of IBSi Global FinTech Innovation Awards 2021 by IBS Intelligence, celebrated amazing breakthroughs in FinTech. The awards identified and honoured technology players and banks \"for their excellence in driving impact through banking technology implementations and innovations using emerging technologies."
+publishedDateTime: 2022-01-24T23:21:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Business/20220124/3899266.html"
+webUrl: "https://news.webindia123.com/news/Articles/Business/20220124/3899266.html"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?733809"
-    width: 375
-    height: 250
-    isCached: true
 
 related:
   - title: "Visionet Systems wins big at the recent IBSi Global FinTech Innovation Awards"
@@ -42,6 +36,6 @@ related:
         height: 450
         isCached: true
 
-secured: "HB2AZIdpMIIk95snmuMDXrejykaQ3o6Z3Z4J5OZtwF7b50YNYmVdveydyZwrohOBEyuPfiK/L4V4WgAb+6FNQ4qskEm7o3SNd/QlgOm4oafiQvEtuKx9ier5oi9wMs7OV+hCWEWvpnsjrK8Gos7mK7ML+2Cb806wnSuZm4o+T4TPDNu/ScI8yEA5negXEXb1hMQEJb8ekyenP7uN09GSUwqJXyEfX5xFFo/PkRhu8nJwli/zrVHSR+v6W67k2ELaiRlpVl7p0RG/7XH4Wo8Dr+pCQ3SuILZCxNr2cnYBVWw4gATLk92SM0WNqax0V6uruNOIyCmDNYLqicWNkFUJ+0aT1N3B6xWJVO8MVoUfPp8=;GE6NFeWdTN0E8L0kVeWd4w=="
+secured: "0QbSDLjcikQ1InD8E5iLkx/UMWDkH/B5rYqLYTpF33BXbh4lLuLSKchgAqfsPXd28PpdBWRSTEuvn2s+CvERXFfQPf04lc/9qTR5e/z9oZbOIs5hQTB7gkugweNTE6LfBpc12ldYhUHE5dDnxQPtA+nKohVY0TGO0xuRMevpPzZK7DzsvT4AEi+sSoWLoxZs+5Q+GsPEZP7J60N6mJsI3u+gwQJpKzTshO/5vPAgO9qgua0ra1IOXGMjsICHzl9J1MLXhO9yinMBsW9bCqM5WKepnAaLOPKUmz0OGI1cCGgo3kT8HwmRyjbdAIfwyHDGuBHM1aECILwVzUy0caAdPuGhUzZB40XZmBIzqo6RNR8=;f/5V4SPwpyFXyUbbtfKG3g=="
 ---
 

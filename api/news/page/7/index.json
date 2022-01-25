@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-17-researchers-use-ai-to-analyze-tweets-debating-vaccination-and-climate-change.md",
+      "title": "Researchers use AI to analyze tweets debating vaccination and climate change",
+      "excerpt": "Using artificial intelligence (AI) researchers have found that between 2007 and 2016 online sentiments around climate change were uniform, but this was not the case with vaccination.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.html",
+      "originalUrl": "https://phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg",
+          "width": 2880,
+          "height": 1616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.amp",
+      "publishedDateTime": "2022-01-17T01:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-17-microsoft-or-googlenot-including-apple-since-unix-and-linux-are-similar-operating-systems.md",
       "title": "Microsoft or Google?(Not including Apple since UNIX and Linux are similar Operating Systems)",
       "excerpt": "(declared by Internet Corporation for assigned names and numbers) forced me to migrate to another web cloud host, is when i realised why the Capital Market's has valued Google(founded 20 years back an",
@@ -783,6 +825,50 @@
       ]
     },
     {
+      "path": "_news/2022-01-15-microsoft-and-a_da-rebuild-ancient-olympia-for-new-ar-experience.md",
+      "title": "Microsoft and A_DA rebuild Ancient Olympia for new AR experience",
+      "excerpt": "AI-enabled auto-translation brings the experience to users in more than 20 languages. To create the digital experience, the studio used a “foundational model” of Ancient Olympia, which A_DA says was created using “hundreds of thousands” of images ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designweek.co.uk/issues/10-16-january-2022/microsoft-a_da-rebuild-ancient-olympia/",
+      "originalUrl": "https://www.designweek.co.uk/issues/10-16-january-2022/microsoft-a_da-rebuild-ancient-olympia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://centaur-wp.s3.eu-central-1.amazonaws.com/designweek/prod/content/uploads/2022/01/11135724/Ada_Ancient_Olympia_Exhibition_Still_5-scaled-1.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design Week",
+        "domain": "designweek.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-15-what-to-expect-for-data-prep-and-data-analytics-in-2022.md",
       "title": "What to expect for data prep and data analytics in 2022",
       "excerpt": "general manager of IBM AI Applications in the announcement. In the future, IBM intends to integrate Envizi with some of its existing solutions including IBM Maximo, IBM sterling, IBM Environmental ...",
@@ -1113,110 +1199,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-how-ai-and-language-intelligence-are-helping-employees-learn.md",
-      "title": "How AI and language intelligence are helping employees learn",
-      "excerpt": "Embrace the transformation AI and language intelligence offer to see how human-machine collaboration can help businesses thrive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/",
-      "originalUrl": "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-970562458.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/",
-      "publishedDateTime": "2022-01-14T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement.md",
-      "title": "Duolingo is now mixing A/B testing and copy testing to boost user engagement",
-      "excerpt": "Learning a language is hard, that's why Duolingo is now using a tool called Expurrimenter to help boost user retention by trying out different messaging techniques in-app and in notifications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "originalUrl": "https://www.neowin.net/news/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2022/01/1642181054_duolingo_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "publishedDateTime": "2022-01-14T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

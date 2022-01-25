@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Visionet Systems Wins Big at the Recent IBSi Global FinTech Innovation Awards"
-    excerpt: "Their product ' DocVu.AI ' has won under the category ' Most Innovative Use of AI/ML ' The awards had over 191 participants in the Financial Technology space across 48 countries The recent edition of IBSi Global FinTech Innovation Awards 2021 by IBS Intelligence,"
-    publishedDateTime: 2022-01-24T19:40:00Z
-    webUrl: "https://menafn.com/1103586801/Visionet-Systems-Wins-Big-at-the-Recent-IBSi-Global-FinTech-Innovation-Awards"
+  - title: "Visionet Systems wins big at the recent IBSi Global FinTech Innovation Awards"
+    excerpt: "The recent edition of IBSi Global FinTech Innovation Awards 2021 by IBS Intelligence, celebrated amazing breakthroughs in FinTech. The awards identified and honoured technology players and banks \"for their excellence in driving impact through banking technology implementations and innovations using emerging technologies."
+    publishedDateTime: 2022-01-24T23:21:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220124/3899266.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?733809"
-        width: 375
-        height: 250
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 1
 
 secured: "EMUWw5QpiafgEGKHudFworLIA5Zoa22L82CZ/gHHfM/XJ/g2vYXCTczzAH3CceOa2fttwRMY9nKPX1n1AEV355wZH8KSzpOjFn0lR0hW4gM5/K8IFRAYCKaIaMWI5CHuhmveQ7xqLIe3KXl4AUDlDjbCEisV1aa/Xf5LsApeWrUd4z9PwxTMVrIsixV/H6mXWjUSKJkqRMaxlrPV8jzqygi9wjeDdm+6TeyBeI/08lygyprIYuvI2a1/4DEb2dozXfZQtIW00MRNB4L0FKcALDw5cn1nTMNZrjGQnzth6707+czdKytsxiMmejuI3Uv4FS5U4llxO9tJsOLwZALnWqN6PFnu6j8Q2WlPf+PAkOZkpIQ4JCvuis9HTP6ouxUvZEU7hn3DdIHqfHG0BzDOLTwazWh2GFOvmjhLxxoevMVpWHcbM7o0+21cCMkXjK2grRe8DG8KXYgZTvFcR4JQeRMGKxdIhEiBAKbysSz+6SjbtRLVABP1p2ppFRrXyG0zMdbWcNuRVzJaLFNFVqD44w==;jfuTfqWhCpl97OEpYkgjfw=="
 ---

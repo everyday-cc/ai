@@ -33,8 +33,8 @@ images:
 related:
   - title: "IBM is selling off its Watson Health assets"
     excerpt: "Watson Health was borne out of IBM's larger Watson effort, which aims to use artificial intelligence to solve a range of problems for businesses and consumers — from creating a computer that can ..."
-    publishedDateTime: 2022-01-22T05:31:00Z
-    webUrl: "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html"
+    publishedDateTime: 2022-01-21T19:59:00Z
+    webUrl: "https://www.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html"
     type: article

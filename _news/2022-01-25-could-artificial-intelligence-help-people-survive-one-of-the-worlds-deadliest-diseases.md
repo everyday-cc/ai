@@ -2,19 +2,19 @@
 category: news
 title: "Could artificial intelligence help people survive one of the world's deadliest diseases?"
 excerpt: "Sepsis is responsible for one in five deaths worldwide, and is likely an underlying cause of COVID-19 deaths. Now a Vancouver immunologist says he's found a key solution using artificial intelligence"
-publishedDateTime: 2022-01-24T16:47:00Z
-originalUrl: "https://www.delta-optimist.com/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-webUrl: "https://www.delta-optimist.com/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-ampWebUrl: "https://www.delta-optimist.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-cdnAmpWebUrl: "https://www-delta--optimist-com.cdn.ampproject.org/c/s/www.delta-optimist.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+publishedDateTime: 2022-01-24T16:23:00Z
+originalUrl: "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+webUrl: "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+ampWebUrl: "https://www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+cdnAmpWebUrl: "https://www-bowenislandundercurrent-com.cdn.ampproject.org/c/s/www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
 type: article
 quality: 50
 heat: 60
 published: false
 
 provider:
-  name: Delta Optimist
-  domain: delta-optimist.com
+  name: Bowen Island Undercurrent
+  domain: bowenislandundercurrent.com
 
 topics:
   - AI in Healthcare
@@ -39,6 +39,6 @@ related:
       domain: medindia.net
     quality: 37
 
-secured: "iQzXJ03FbTYU7YVQE8ofeKygYnKzkXSeeliXOtZHAb/Zdrp/v5xrcPyFtodVHOukfp4RWI8/bHQWzl9xLtFkfuJ3A9+Ng5EZKDERe8SUp7FvaIuv5v25oYGTa9ydyks/Odo/Jjk00MVXWTIY5nFX7Y27yvn3S9xxGBG0+H6KoWP+rr5X52a8CwaZ5nILimDbkvGeMD7Pj3/oSck4/XZdJYuuK1vC6DXzYBPMJxhLHpTXRqeD8CiWoqtFy1HHDZ7aHtxN0b9hXlWu3SvhXUp3C3QXmNyx78U9sTz1jENUEoAszWrGm3KE6A7gbY2Mrz7t6qMk0FqF9jxgjOB1sxzhA/8jHdeKZErAF7GZaUdhoRs=;NSSd69aYuLEtSfA43Iaylg=="
+secured: "7IkdXxpjB+llWGvvI/m5EJjW7hD/7M7kphdTPlev2tzM3Oimj8V6x7lvuu2vdEyva+SNqoXjKoBJUjagq7eu5ykmh9EpxUjwRrCAGP8SMF01AZh6Wxls8g/FHNJdq/rXvVX6v69E75Wkm2sekr7ylNCDrTjJh2KEhTrCNjUzx/hjf6s7zjR4/lWcAMst23qj+grBAHKvaSXePhHQ7tajQE7C2LJokXp4fCRR5K30L2UNLyfJfjnjxSURc9qeJLBfom4FebHzzndMeqnFjbqqb3GV2bVpVET2cuzCHG5IqRdbcXSdv/LLwObny+T7HXNV3RhmXlipObaN3W1iQTQqVVJxe3jxFJrgkLX0+8Z1Tq4=;zEqXGAE5j4mTMqw2vfDViQ=="
 ---
 

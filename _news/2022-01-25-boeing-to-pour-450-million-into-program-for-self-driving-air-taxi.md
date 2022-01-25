@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://images.barrons.com/im-466372/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Boeing invests $450 million in air taxi startup"
+    excerpt: "The plane maker is committing another $450 million to the Silicon Valley startup that is developing its technology jointly with Kittyhawk, the self-flying aviation company backed by Google"
+    publishedDateTime: 2022-01-24T23:05:00Z
+    webUrl: "https://nypost.com/2022/01/24/boeing-invests-450-million-in-air-taxi-startup/"
+    ampWebUrl: "https://nypost.com/2022/01/24/boeing-invests-450-million-in-air-taxi-startup/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/01/24/boeing-invests-450-million-in-air-taxi-startup/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/01/boeing_56.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Boeing Invests $450 Million in Wisk to Fund Moonshot Self-Flying Air Taxi Project"
     excerpt: "Boeing said on Monday it has agreed to invest $450 million in the air taxi startup, Wisk Aero, to fund the development of a fully autonomous, electric aircraft that could one day fly millions of commuters in the world’s busiest cities."

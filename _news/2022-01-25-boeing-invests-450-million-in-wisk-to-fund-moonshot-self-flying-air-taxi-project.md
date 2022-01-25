@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Boeing invests $450 million in air taxi startup"
+    excerpt: "The plane maker is committing another $450 million to the Silicon Valley startup that is developing its technology jointly with Kittyhawk, the self-flying aviation company backed by Google"
+    publishedDateTime: 2022-01-24T23:05:00Z
+    webUrl: "https://nypost.com/2022/01/24/boeing-invests-450-million-in-air-taxi-startup/"
+    ampWebUrl: "https://nypost.com/2022/01/24/boeing-invests-450-million-in-air-taxi-startup/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/01/24/boeing-invests-450-million-in-air-taxi-startup/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/01/boeing_56.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "That Viral Video Of A Tycoon Driving At Speeds Over 250 Miles Per Hour On Public Roadways Is Quite Hair Raising, Even For AI Self-Driving Cars"
     excerpt: "Tycoon driving a pricey sports car, a Bugatti Chiron, opted to drive over 250 miles per hour on a public roadway, raising interesting facets about AI self-driving cars and coping with nearby speedy human-driven cars."
     publishedDateTime: 2022-01-23T15:30:00Z

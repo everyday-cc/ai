@@ -144,6 +144,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Facebook's Meta Says Its New AI Supercomputer Will Beat All Rivals by 2022's End"
+    excerpt: "Mark Zuckerberg's Meta has announced it designed a new supercomputing AI! And it could outpace all major rivals by the end of 2022."
+    publishedDateTime: 2022-01-25T00:46:00Z
+    webUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    ampWebUrl: "https://amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 52
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8pNdLGm/sizes/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Hello, metaverse? Meta is building supercomputer for artificial intelligence research"
     excerpt: "Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions of users. Now its parent company is taking a step that could move it closer to that elusive goal: building its first supercomputer."
     publishedDateTime: 2022-01-24T18:44:00Z
@@ -169,6 +185,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Facebook's Meta creates AI supercomputer"
+    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
+    publishedDateTime: 2022-01-24T21:57:00Z
+    webUrl: "https://www.dairynewsaustralia.com.au/world/facebooks-meta-creates-ai-supercomputer/"
+    type: article
+    provider:
+      name: Dairy News Australia
+      domain: dairynewsaustralia.com.au
+    quality: 43
+    images:
+      - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=be9bf114-dae3-57c8-a3f0-4a6a06411aab&function=original&type=preview"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Facebook Parent Meta Building Supercomputer For AI Research"
     excerpt: "Meta on Monday announced its new AI Research SuperCluster (RSC), a supercomputer meant to be used for AI research projects."
     publishedDateTime: 2022-01-24T12:29:00Z
@@ -180,20 +210,17 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
-  - title: "Facebook's Meta creates AI supercomputer"
-    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
-    publishedDateTime: 2022-01-24T21:57:00Z
-    webUrl: "https://www.dairynewsaustralia.com.au/world/facebooks-meta-creates-ai-supercomputer/"
+  - title: "Facebook parent Meta creates powerful AI supercomputer"
+    excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
+    publishedDateTime: 2022-01-24T22:16:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
     type: article
     provider:
-      name: Dairy News Australia
-      domain: dairynewsaustralia.com.au
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 39
-    images:
-      - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=be9bf114-dae3-57c8-a3f0-4a6a06411aab&function=original&type=preview"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Meta is building an AI supercomputer"
     excerpt: "By Rachel Metz, CNN Business Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions"
     publishedDateTime: 2022-01-24T17:24:00Z
@@ -207,6 +234,20 @@ related:
       - url: "https://keyt.b-cdn.net/2022/01/nc312-combined-commercial-slate.png"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "RUAG Space agrees AI partnership for satellite supercomputer"
+    excerpt: "Switzerland’s RUAG Space said Jan. 24 it is teaming up with a software provider to run artificial intelligence solutions on its Lynx, which it says is the most powerful commercially available onboard satellite computer."
+    publishedDateTime: 2022-01-24T23:03:00Z
+    webUrl: "https://spacenews.com/ruag-space-agrees-ai-partnership-for-satellite-supercomputer/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 37
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2020/11/LYNX.jpg"
+        width: 879
+        height: 496
         isCached: true
   - title: "Facebook/Meta builds huge Nvidia DGX A100 system, will become \"the fastest AI supercomputer in the world\""
     excerpt: "Meta, the company formerly known as Facebook, has developed a huge artificial intelligence supercomputer which it says will become the fastest AI system in the world once fully built out in mid-2022."
@@ -223,6 +264,6 @@ related:
         height: 315
         isCached: true
 
-secured: "ku8bSNInY9WHV8Tf7USRHXsMRQhshW3ZniUsyshBibZvk2gUX2BZZlckdfZ4qPVlkb5Iw5diLxk20/6f6AwAtCRg3bNtaSiUrLYMADIP37PWouSRMkd19mtqkdR1q9eZP5bRBWySrYlHlOk9DscaLZLjw0jVRvQADstmLsrJ52tyrQd8RR30cLESAgXYAEVzJuk/1doLEW13xSiw8NGhcqtd2B8ud6824wpXOe7TUNYd7lifD3sd2HacZU2KuWuJSmztlubimlAKfY4DLPLpwmJ5bc2QeHFam5w78ugqvKququ2nMK+D9ryUjAhnK6Q8J7xlFAKMXD1qYrbenzXabdPKKeLWQgpdxBf7z4ImelU=;Uwk4dJHWCsgOdb3u292uMg=="
+secured: "og5xiKjoqf1i/A1TaVL590HRsA+9EkUOyp513byzB/O/cZT7me56oK0IUlQOZa4XJ4cJ1dCcwfC1UnBPA0ZjaQEhJmdCRc9mw/cYfR3rRFD4e/rtiJs1i5t92IfT47nHd68oxButHpjyRu8jcnwOcrUC5adJDuNuToyDZ00yXBd4YZWEs1kgua8gU1zqWqfWnKuEZBRkRkbRF+wFkNEc+u2IDJQVtl0NzCWyDBFDK/yAQitkDpXD2pGzEnX62K8deQ1VtwJVyK4CiqtGoF6qw7lJrlwRQEN0zehoHJPpl4j9UECcScNf/mR/csrktcV27uT3YGrNbVxi63YBuGm29yjUrigUYOi7swJgFMpFvpQOCUfp8oKYa5N6ZWtpmHv6zBKFJiqlnWiEWknSIlwvwpzZ3qWwkDy2o94EU26334qZcYykKSzGL387h6VZoLU9lksZ5JKfgDIzWeYsRcXQuQJ6QX2yQLNjuUQ/hWQ0i6q05SRVT4YK63AvE+wigodzkBh8PHc4R41F+nIGlwGP3g==;rbZ+KKER5YLvuC+8JL3Gfw=="
 ---
 
