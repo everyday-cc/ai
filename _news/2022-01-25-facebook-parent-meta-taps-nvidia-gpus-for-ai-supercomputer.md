@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Facebook's Meta Says Its New AI Supercomputer Will Beat All Rivals by 2022's End"
-excerpt: "Mark Zuckerberg's Meta has announced it designed a new supercomputing AI! And it could outpace all major rivals by the end of 2022."
-publishedDateTime: 2022-01-25T00:46:00Z
-originalUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-webUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-ampWebUrl: "https://amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+title: "Facebook parent Meta taps Nvidia GPUs for AI supercomputer"
+excerpt: "Facebook parent company Meta is building what it said will become the world’s “fastest AI supercomputer” later this year with the largest deployment of Nvidia’s DGX A100 systems to date. The tech giant said that its new AI Research SuperCluster,"
+publishedDateTime: 2022-01-25T00:36:00Z
+originalUrl: "https://www.crn.com.au/news/facebook-parent-meta-taps-nvidia-gpus-for-ai-supercomputer-575042"
+webUrl: "https://www.crn.com.au/news/facebook-parent-meta-taps-nvidia-gpus-for-ai-supercomputer-575042"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Interesting Engineering
-  domain: interestingengineering.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
+  - AI Hardware
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8pNdLGm/sizes/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end_resize_md.jpg"
-    width: 744
-    height: 419
+  - url: "https://i.nextmedia.com.au/News/crn-14_meta_facebook_iStock-1350450876.jpg"
+    width: 1400
+    height: 900
     isCached: true
 
 related:
@@ -194,19 +192,21 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Facebook parent Meta taps Nvidia GPUs for AI supercomputer"
-    excerpt: "Facebook parent company Meta is building what it said will become the world’s “fastest AI supercomputer” later this year with the largest deployment of Nvidia’s DGX A100 systems to date. The tech giant said that its new AI Research SuperCluster,"
-    publishedDateTime: 2022-01-25T00:36:00Z
-    webUrl: "https://www.crn.com.au/news/facebook-parent-meta-taps-nvidia-gpus-for-ai-supercomputer-575042"
+  - title: "Facebook's Meta Says Its New AI Supercomputer Will Beat All Rivals by 2022's End"
+    excerpt: "Mark Zuckerberg's Meta has announced it designed a new supercomputing AI! And it could outpace all major rivals by the end of 2022."
+    publishedDateTime: 2022-01-25T00:46:00Z
+    webUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    ampWebUrl: "https://amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 54
     images:
-      - url: "https://i.nextmedia.com.au/News/crn-14_meta_facebook_iStock-1350450876.jpg"
-        width: 1400
-        height: 900
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8pNdLGm/sizes/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end_resize_md.jpg"
+        width: 744
+        height: 419
         isCached: true
   - title: "Hello, metaverse? Meta is building supercomputer for artificial intelligence research"
     excerpt: "Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions of users. Now its parent company is taking a step that could move it closer to that elusive goal: building its first supercomputer."
@@ -329,6 +329,6 @@ related:
         height: 315
         isCached: true
 
-secured: "H2Kdi+oLO55OflErUFD9gyRV3Hvh/J1UUvsVtmaGSYYBQLKUdqEAREth9WQnu+2GYq3CT+yUi6cVzr3q55cdP6Jd9OGvVR75DVkO/ELazENQRkpFt0scI8fNbtGF5fpGy5hcfueb2GSrz9RcQ5eww+dHQmsHNjKqZyfJJ3qU7hYKYKiY6v3XPAQBESuqUGFgRT0bP1K/NJT8iHDu/s6SGZ4b7cdzs/xFgl9WZcX6HjMBSc5dYJ6b4gUIHvyXzVbJxd4wm0OD2qYe9Tf1C0yEzCEFcXxoeZsqMHfir2oIHOnY4+F9O7Q1zFYgu6J8PcpbrE7c08tZg3R5B9LU01L4uNhYZhLc5FumYwz1dFrWmGOJkYTJlMQxl+Cml1kmydhJF9pMsIQRa10egFIJEWpO2AMJo7w2tCnL2jDxxw1xMsP8Ytb9CCASaUdtTyDhBWFne+RNyARErueOqILOuJTK7spvjhVy5VmjH1FQRU0wx2dSDqXlhelc5c8aYmU7MCKxC9LOmQ72HswV2U+X6enPOw==;dbo2/Ot+3Fg4J6qCW2tmcw=="
+secured: "5ieE3lYjrsGp5kJpT5SiUKhYVL6YeCbV5QKVjytLPPEmwS21a5EL+rjJktkq0c9augi84MV8M2ZKXUtzL92J5lgRyDQm5fWbNeGrXTxJWbyqMvF1+dCdwEqqZjHLQQOm7YQh7hWrQK2OqtjXgjYKM6A/lWd36yHtLpD8jTWGwhHRy/Xm27HQBqBHc1BLOIADYUyf+Q8s3P5HPnjeZIwTb2hGUI0s7lfYm3vIFRzpbPkqY8l1lJZEXXZdbFmejh6caZP9/gISIcTQM1clPGAQMXdNB6XsJtF7zkngaW8C+tiT54qRT0K6DmU//K0KmBdUGfg9vCkkZuUZADE1ePJodqbi9fFYdVtHhaMCG5/xrJs=;ZGthcwQuhQMJsChgomkkxg=="
 ---
 

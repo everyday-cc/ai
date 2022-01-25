@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Facebook's Meta Says Its New AI Supercomputer Will Beat All Rivals by 2022's End"
-excerpt: "Mark Zuckerberg's Meta has announced it designed a new supercomputing AI! And it could outpace all major rivals by the end of 2022."
-publishedDateTime: 2022-01-25T00:46:00Z
-originalUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-webUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-ampWebUrl: "https://amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+title: "Largest Artificial Intelligence Supercomputer Is Zuckerberg's New Boast"
+excerpt: "Facebook's parent company Meta announced on Monday it was launching one of the world's most powerful supercomputers to boost its capacity to process data, despite persistent disputes over privacy and disinformation."
+publishedDateTime: 2022-01-25T01:19:00Z
+originalUrl: "https://www.ndtv.com/world-news/facebook-ai-supercomputer-worlds-largest-supercomputer-is-now-mark-zuckerbergs-new-boast-2727847"
+webUrl: "https://www.ndtv.com/world-news/facebook-ai-supercomputer-worlds-largest-supercomputer-is-now-mark-zuckerbergs-new-boast-2727847"
+ampWebUrl: "https://www.ndtv.com/world-news/facebook-ai-supercomputer-worlds-largest-supercomputer-is-now-mark-zuckerbergs-new-boast-2727847/amp/1"
+cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/facebook-ai-supercomputer-worlds-largest-supercomputer-is-now-mark-zuckerbergs-new-boast-2727847/amp/1"
 type: article
-quality: 54
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Interesting Engineering
-  domain: interestingengineering.com
+  name: NDTV
+  domain: ndtv.com
 
 topics:
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8pNdLGm/sizes/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end_resize_md.jpg"
-    width: 744
-    height: 419
+  - url: "https://c.ndtvimg.com/2021-10/fv7inbjg_mark-zuckerberg-650_625x300_29_October_21.jpg"
+    width: 650
+    height: 400
     isCached: true
 
 related:
@@ -162,22 +161,6 @@ related:
         width: 610
         height: 458
         isCached: true
-  - title: "Largest Artificial Intelligence Supercomputer Is Zuckerberg's New Boast"
-    excerpt: "Facebook's parent company Meta announced on Monday it was launching one of the world's most powerful supercomputers to boost its capacity to process data, despite persistent disputes over privacy and disinformation."
-    publishedDateTime: 2022-01-25T01:19:00Z
-    webUrl: "https://www.ndtv.com/world-news/facebook-ai-supercomputer-worlds-largest-supercomputer-is-now-mark-zuckerbergs-new-boast-2727847"
-    ampWebUrl: "https://www.ndtv.com/world-news/facebook-ai-supercomputer-worlds-largest-supercomputer-is-now-mark-zuckerbergs-new-boast-2727847/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/facebook-ai-supercomputer-worlds-largest-supercomputer-is-now-mark-zuckerbergs-new-boast-2727847/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 57
-    images:
-      - url: "https://c.ndtvimg.com/2021-10/fv7inbjg_mark-zuckerberg-650_625x300_29_October_21.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Meta creates AI supercomputer that could 'fastest ... in the world' by 2022"
     excerpt: "Meta Platforms (FB) has built an artificial intelligence supercomputer that could be the fastest in the world later this year, once it's fully operational.According to a blog"
     publishedDateTime: 2022-01-24T16:58:00Z
@@ -207,6 +190,22 @@ related:
       - url: "https://i.nextmedia.com.au/News/crn-14_meta_facebook_iStock-1350450876.jpg"
         width: 1400
         height: 900
+        isCached: true
+  - title: "Facebook's Meta Says Its New AI Supercomputer Will Beat All Rivals by 2022's End"
+    excerpt: "Mark Zuckerberg's Meta has announced it designed a new supercomputing AI! And it could outpace all major rivals by the end of 2022."
+    publishedDateTime: 2022-01-25T00:46:00Z
+    webUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    ampWebUrl: "https://amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8pNdLGm/sizes/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end_resize_md.jpg"
+        width: 744
+        height: 419
         isCached: true
   - title: "Hello, metaverse? Meta is building supercomputer for artificial intelligence research"
     excerpt: "Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions of users. Now its parent company is taking a step that could move it closer to that elusive goal: building its first supercomputer."
@@ -329,6 +328,6 @@ related:
         height: 315
         isCached: true
 
-secured: "H2Kdi+oLO55OflErUFD9gyRV3Hvh/J1UUvsVtmaGSYYBQLKUdqEAREth9WQnu+2GYq3CT+yUi6cVzr3q55cdP6Jd9OGvVR75DVkO/ELazENQRkpFt0scI8fNbtGF5fpGy5hcfueb2GSrz9RcQ5eww+dHQmsHNjKqZyfJJ3qU7hYKYKiY6v3XPAQBESuqUGFgRT0bP1K/NJT8iHDu/s6SGZ4b7cdzs/xFgl9WZcX6HjMBSc5dYJ6b4gUIHvyXzVbJxd4wm0OD2qYe9Tf1C0yEzCEFcXxoeZsqMHfir2oIHOnY4+F9O7Q1zFYgu6J8PcpbrE7c08tZg3R5B9LU01L4uNhYZhLc5FumYwz1dFrWmGOJkYTJlMQxl+Cml1kmydhJF9pMsIQRa10egFIJEWpO2AMJo7w2tCnL2jDxxw1xMsP8Ytb9CCASaUdtTyDhBWFne+RNyARErueOqILOuJTK7spvjhVy5VmjH1FQRU0wx2dSDqXlhelc5c8aYmU7MCKxC9LOmQ72HswV2U+X6enPOw==;dbo2/Ot+3Fg4J6qCW2tmcw=="
+secured: "l+3lB9zjam263HaknZjZ8HAuKGkE5ghSIN53QczStOLUx79SMbtAjx/C1aieiXRfbTxMQvFzBBBHos6wz1yKvH1NNYyGu+T8wI5jdkkf4Xjwe60HLfaC3f6ut2VOaCz8KEmwdfHOOq2VqH42AZyh2usWsPDW/9DuliMqVCKZu/9jyN+h3Nx7x3UGZ25ZtVaJreTscopykDRRMTVl0QMJDRwAMKr/ha9ekl+WWchjLVVO1JJfzSfuXJLxGkm4lVWzYVxAYojxZ9bxRlJq5M1Yv1cgC0cXJGeDgoEY5Y+662Fr7JoDFHr9v6No19qslSlnGGXffsJ29O1rCjSjsyvPcfUpr+nFrTAxm80Wc6CRcko=;TV3yHaCGYyRdbsvKmbaueg=="
 ---
 

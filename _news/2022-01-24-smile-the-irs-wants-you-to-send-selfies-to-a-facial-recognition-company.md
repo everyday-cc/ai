@@ -87,14 +87,14 @@ related:
         isCached: true
   - title: "IRS to start requiring facial recognition scans to access tax returns"
     excerpt: "The Internal Revenue Service is going to start requiring users of its online tax payment system to provide a selfie to a third-party company in order to access their accounts. Beginning in summer 2022,"
-    publishedDateTime: 2022-01-21T20:35:00Z
-    webUrl: "https://www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns"
-    ampWebUrl: "https://www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
-    cdnAmpWebUrl: "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
+    publishedDateTime: 2022-01-21T21:26:00Z
+    webUrl: "https://www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns"
+    ampWebUrl: "https://www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
     type: article
     provider:
-      name: Q13 FOX News
-      domain: q13fox.com
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
     quality: 39
 
 secured: "a8nDGov/rtgrfsvI3T0mLlpxAAdHE03M9c2thxbP8iysYRCM55chKtmLdoaT79+swew/y9Bx+K2N6SJ9gGvEZVbO7/GW1U/vApob6fMWi0ol/igcaqp2fTnAJlz0WIQTFPX/AdM910DxQzqLxEGAP6Pl8H8/dextmH3AXNBn/UCin96uGvIm/MM7YCQSZkvz0LVMKTGvlVmoeIgbqOXhCqvFAQ6dwMbIeqRk+61q0V2EJ/hyFUkFxMsY464aqXoUNjijFpJsAgT7iEtAz5z7MRycEk9DL/XAg+9JU9/m9p7BwdethPnELsv+JALNMqPwI8by3qKGb6agRRT1qUcoaYqKWuD7fXOgWmEyHVILFY9FK8e5Bd7LEn/EnSDU6qS8q054Dj4IMNT8zkETeEf17ZtFNOj6YbaJGsMdxGcJAm21EQ4OgrpgXzmX+ZSevxmN7rPPclhHRbRHdmO8JteAjFoDFGbdfYcBp29TbwtM07RjhPoBHNpTZLaBWHaszHdcQa6FSSyI5GJk3yf6hWgz/Q==;sJVeQIUwECzSjf/z3I/V6w=="

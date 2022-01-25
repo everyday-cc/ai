@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Facebook's Meta Says Its New AI Supercomputer Will Beat All Rivals by 2022's End"
-excerpt: "Mark Zuckerberg's Meta has announced it designed a new supercomputing AI! And it could outpace all major rivals by the end of 2022."
-publishedDateTime: 2022-01-25T00:46:00Z
-originalUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-webUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-ampWebUrl: "https://amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+title: "Meta says it's building world's largest AI supercomputer out of Nvidia, AMD chips"
+excerpt: "Facebook owner Meta is building the world's largest AI supercomputer to power machine-learning research that will bring the metaverse to life in the future, it claimed on Monday. The new super – dubbed the Research Super Computer,"
+publishedDateTime: 2022-01-25T02:15:00Z
+originalUrl: "https://www.theregister.com/2022/01/25/meta_supercomputer_metaverse/"
+webUrl: "https://www.theregister.com/2022/01/25/meta_supercomputer_metaverse/"
+ampWebUrl: "https://www.theregister.com/AMP/2022/01/25/meta_supercomputer_metaverse/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/25/meta_supercomputer_metaverse/"
 type: article
-quality: 54
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Interesting Engineering
-  domain: interestingengineering.com
+  name: theregister
+  domain: theregister.com
 
 topics:
+  - AI Hardware
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8pNdLGm/sizes/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end_resize_md.jpg"
-    width: 744
-    height: 419
+  - url: "https://regmedia.co.uk/2021/11/09/metaverse_shutterstock.jpg"
+    width: 1000
+    height: 562
     isCached: true
 
 related:
@@ -70,22 +70,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "Meta says it's building world's largest AI supercomputer out of Nvidia, AMD chips"
-    excerpt: "Facebook owner Meta is building the world's largest AI supercomputer to power machine-learning research that will bring the metaverse to life in the future, it claimed on Monday. The new super – dubbed the Research Super Computer,"
-    publishedDateTime: 2022-01-25T02:15:00Z
-    webUrl: "https://www.theregister.com/2022/01/25/meta_supercomputer_metaverse/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/01/25/meta_supercomputer_metaverse/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/25/meta_supercomputer_metaverse/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 69
-    images:
-      - url: "https://regmedia.co.uk/2021/11/09/metaverse_shutterstock.jpg"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "Meta says its new AI supercomputer will be the world's fastest by mid-2022"
     excerpt: "Meta has completed the first phase of a new AI supercomputer. Once the AI Research SuperCluster (RSC) is fully built out later this year, the company believes it will be the fastest AI supercomputer on the planet,"
     publishedDateTime: 2022-01-24T18:48:00Z
@@ -208,6 +192,22 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Facebook's Meta Says Its New AI Supercomputer Will Beat All Rivals by 2022's End"
+    excerpt: "Mark Zuckerberg's Meta has announced it designed a new supercomputing AI! And it could outpace all major rivals by the end of 2022."
+    publishedDateTime: 2022-01-25T00:46:00Z
+    webUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    ampWebUrl: "https://amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8pNdLGm/sizes/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Hello, metaverse? Meta is building supercomputer for artificial intelligence research"
     excerpt: "Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions of users. Now its parent company is taking a step that could move it closer to that elusive goal: building its first supercomputer."
     publishedDateTime: 2022-01-24T18:44:00Z
@@ -329,6 +329,6 @@ related:
         height: 315
         isCached: true
 
-secured: "H2Kdi+oLO55OflErUFD9gyRV3Hvh/J1UUvsVtmaGSYYBQLKUdqEAREth9WQnu+2GYq3CT+yUi6cVzr3q55cdP6Jd9OGvVR75DVkO/ELazENQRkpFt0scI8fNbtGF5fpGy5hcfueb2GSrz9RcQ5eww+dHQmsHNjKqZyfJJ3qU7hYKYKiY6v3XPAQBESuqUGFgRT0bP1K/NJT8iHDu/s6SGZ4b7cdzs/xFgl9WZcX6HjMBSc5dYJ6b4gUIHvyXzVbJxd4wm0OD2qYe9Tf1C0yEzCEFcXxoeZsqMHfir2oIHOnY4+F9O7Q1zFYgu6J8PcpbrE7c08tZg3R5B9LU01L4uNhYZhLc5FumYwz1dFrWmGOJkYTJlMQxl+Cml1kmydhJF9pMsIQRa10egFIJEWpO2AMJo7w2tCnL2jDxxw1xMsP8Ytb9CCASaUdtTyDhBWFne+RNyARErueOqILOuJTK7spvjhVy5VmjH1FQRU0wx2dSDqXlhelc5c8aYmU7MCKxC9LOmQ72HswV2U+X6enPOw==;dbo2/Ot+3Fg4J6qCW2tmcw=="
+secured: "tP6463b1kGstcEX1/2y0g9JPr5RSVgQBLAbQ5BqtLIWy8yWWtkH3VLRFufB+tNrIaHhgx/Fw5qUn7sLoYLQmqVLVV32x+LpwHa4EaMuiHCN/bG7VviIwfNN2HQONoy0l0h/Ckms0HRBXa51kWlJfG3cwyiC2wOjMr+KZg7Cddi4StvJS/intT7eq79fzBOxoNjgaRsW5i4FRx0HkTz0RyqrEIF2VEOtgg3ee40t7Hx/Y17bRZcCMzGjK3I7NS23eWMJzp96QQMdHt/mjjwRHZnHYWxSn8s5Jt22vT8cuNjBvoN13V51WgvIX7tbUaGGnGxqvqxoluDTslKdRwcUcnB5KZ/Su8CJgercPP7c3HFY=;7pa4RNichh8ngjkRGIiPWA=="
 ---
 

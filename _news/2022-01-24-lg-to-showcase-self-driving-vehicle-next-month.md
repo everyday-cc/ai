@@ -28,6 +28,22 @@ images:
 
 related:
   - title: "LG to unveil life-size self-driving concept car"
+    excerpt: "The self-driving home on wheels is fitted with LG home appliances retooled for in-vehicle use and provided with artificial intelligence concierge services from Reah, the virtual influencer created ..."
+    publishedDateTime: 2022-01-25T02:57:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/lg-to-unveil-life-size-self-driving-concept-car/89105410"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/lg-to-unveil-life-size-self-driving-concept-car/89105410"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/lg-to-unveil-life-size-self-driving-concept-car/89105410"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89105410,imgsize-219596,width-1200,height-628,overlay-etcio/lg-to-unveil-life-size-self-driving-concept-car.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "LG to unveil life-size self-driving concept car"
     excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as “a home office,"
     publishedDateTime: 2022-01-24T11:20:00Z
     webUrl: "https://www.canindia.com/lg-to-unveil-life-size-self-driving-concept-car/"
@@ -41,15 +57,6 @@ related:
         width: 324
         height: 236
         isCached: true
-  - title: "LG to unveil life-size self-driving concept car"
-    excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as \"a home office,"
-    publishedDateTime: 2022-01-24T18:26:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220124/3899559.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "CsJ7kZnJX0Wsl5tO7MMbSO2Y9UlLrPtgPSB/jkaLUe+anLobZEwvYNnheMj2qQ03RmL+RQaMkNSpcWrhWOnkxfF59EAkBQAzHcpoh/kdZ2kDUGRGCJ+mkwp7rxADSL/+AhGxAlJVXvs9E0UwdyuoFdnrjvQVQ7K/NTSuQlDgVWs9iwB6vrvffhPild7el2CCmMVE7Qs15ViDyMg65yuqD9oNdZiP/CD/Kf8xT123SRXXQ+47Uf8Ck+8udnf1QBtzp7wNSuR3B4VQNd1N6EXqvzl3oufr/P1XVCObHlNL4hN/03PAzqVJl2Ys3KMJ+A248ToD82EWWLvCZOzKiUKwEV6qf7Q7zlfCyfUVNsed144=;l2f8UZwbwKXKcPg6Saismg=="
 ---

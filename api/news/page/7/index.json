@@ -2,6 +2,152 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-17-industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience.md",
+      "title": "Industrial robotics company Exotec raises $335M to ‘improve supply chain resilience’",
+      "excerpt": "Exotec is a French robotics company used by some of the world's biggest retailers such as Gap, and it's now valued at $2 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/16/industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience/",
+      "originalUrl": "https://venturebeat.com/2022/01/16/industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/Skypod-System_full-view.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/16/industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/industrial-robotics-company-exotec-raises-335m-to-improve-supply-chain-resilience/amp/",
+      "publishedDateTime": "2022-01-17T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-kantar-acquires-italian-ai-company-mindit.md",
+      "title": "Kantar acquires Italian AI company MindIT",
+      "excerpt": "Kantar has acquired MindIT, a Bologna, Italy-based artificial intelligence (AI) company. MindIT, a spin-out from Bologna University, specialises in machine-learning algorithms and AI and has been collaborating with Kantar’s trade optimisation revenue management offer since 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/kantar-acquires-italian-ai-company-mindit/id/5094492",
+      "originalUrl": "https://www.research-live.com/article/news/kantar-acquires-italian-ai-company-mindit/id/5094492",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5094492&name=kantar-acquires-italian-ai-company-mindit",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5094492&name=kantar-acquires-italian-ai-company-mindit",
+      "publishedDateTime": "2022-01-17T02:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-ai-chip-designer-moffett-ai-raises-tens-of-millions-of-dollars-in-series-a-round.md",
+      "title": "AI chip designer Moffett AI raises ‘tens of millions of dollars’ in Series A round",
+      "excerpt": "China’s call to foster semiconductor independence has sent investors chasing after chip startups of all sorts. Moffett AI, a Shenzhen-based chip design company, has received a fresh Series A injection.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/17/moffett-china-series-a-round/",
+      "originalUrl": "https://techcrunch.com/2022/01/17/moffett-china-series-a-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-17-at-5.03.38-PM.png?w=1024",
+          "width": 1023,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/17/moffett-china-series-a-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/17/moffett-china-series-a-round/amp/",
+      "publishedDateTime": "2022-01-17T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-01-17-researchers-use-ai-to-analyze-tweets-debating-vaccination-and-climate-change.md",
       "title": "Researchers use AI to analyze tweets debating vaccination and climate change",
       "excerpt": "Using artificial intelligence (AI) researchers have found that between 2007 and 2016 online sentiments around climate change were uniform, but this was not the case with vaccination.",
@@ -1039,151 +1185,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-why-is-the-nfl-crowd-sourcing-feckless-ai-solutions-to-its-concussion-problem.md",
-      "title": "Why is the NFL crowd-sourcing feckless AI solutions to its concussion problem?",
-      "excerpt": "Some companies have too much data and not enough humans to review. The NFL has the opposite problem. So why is it crowd-sourcing solutions?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-solutions-concussion-problem",
-      "originalUrl": "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-solutions-concussion-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fwtfnfl.jpg&signature=9fa80da85c44e5785b125cf3026e7b65",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-checkers-installing-voice-ai-in-all-company-run-locations.md",
-      "title": "Checkers Installing Voice AI in All Company-Run Locations",
-      "excerpt": "AI voice ordering is rolling out in a big way under a new partnership between the fast-food giant Checkers and tech partner Presto.",
-      "sourceUrl": null,
-      "webUrl": "https://www.franchisetimes.com/franchise_news/checkers-installing-voice-ai-in-all-company-run-locations/article_b4d593ac-7577-11ec-aab8-0fb934cd9896.html",
-      "originalUrl": "https://www.franchisetimes.com/franchise_news/checkers-installing-voice-ai-in-all-company-run-locations/article_b4d593ac-7577-11ec-aab8-0fb934cd9896.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/franchisetimes.com/content/tncms/assets/v3/editorial/c/d0/cd00feee-7577-11ec-b2b3-d3eb5c04a2fe/61e1dbd092a84.image.jpg?crop=749%2C393%2C0%2C0&resize=749%2C393&order=crop%2Cresize",
-          "width": 749,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Franchise Times",
-        "domain": "franchisetimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-ai-training-leverage-your-tech-skills-and-send-your-career-soaring.md",
-      "title": "AI training: Leverage your tech skills and send your career soaring",
-      "excerpt": "If you feel like your tech career is a little stalled, all you have to do is build on the skills you already have to move up in data science, game development, IoT, cybersecurity and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "publishedDateTime": "2022-01-14T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

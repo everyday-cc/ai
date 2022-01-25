@@ -77,14 +77,14 @@ related:
         isCached: true
   - title: "IRS to start requiring facial recognition scans to access tax returns"
     excerpt: "The Internal Revenue Service is going to start requiring users of its online tax payment system to provide a selfie to a third-party company in order to access their accounts. Beginning in summer 2022,"
-    publishedDateTime: 2022-01-21T20:35:00Z
-    webUrl: "https://www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns"
-    ampWebUrl: "https://www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
-    cdnAmpWebUrl: "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
+    publishedDateTime: 2022-01-21T21:26:00Z
+    webUrl: "https://www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns"
+    ampWebUrl: "https://www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
     type: article
     provider:
-      name: Q13 FOX News
-      domain: q13fox.com
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
     quality: 39
   - title: "Smile! The IRS Wants You To Send Selfies to a Facial Recognition Company"
     excerpt: "\"No Identity Left Behind.\" Americans who want to access tax return transcripts, check on child tax credits, or do"

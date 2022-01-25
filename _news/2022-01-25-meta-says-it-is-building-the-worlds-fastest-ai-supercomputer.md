@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Facebook's Meta Says Its New AI Supercomputer Will Beat All Rivals by 2022's End"
-excerpt: "Mark Zuckerberg's Meta has announced it designed a new supercomputing AI! And it could outpace all major rivals by the end of 2022."
-publishedDateTime: 2022-01-25T00:46:00Z
-originalUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-webUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-ampWebUrl: "https://amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+title: "Meta Says It Is Building the World’s Fastest AI Supercomputer"
+excerpt: "Meta claims that it is “among the fastest AI supercomputers running today” and will be the fastest globally when it is fully built out by mid-2022. The company began designing the new computing infrastructure in early 2020 in order to accelerate the process of training large AI models,"
+publishedDateTime: 2022-01-25T02:40:00Z
+originalUrl: "https://hypebeast.com/2022/1/meta-building-worlds-fastest-ai-supercomputer-metaverse"
+webUrl: "https://hypebeast.com/2022/1/meta-building-worlds-fastest-ai-supercomputer-metaverse"
 type: article
-quality: 54
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Interesting Engineering
-  domain: interestingengineering.com
+  name: Hypebeast
+  domain: hypebeast.com
 
 topics:
-  - AI
   - Facebook AI
+  - AI
 
 images:
-  - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8pNdLGm/sizes/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end_resize_md.jpg"
-    width: 744
-    height: 419
+  - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Fmeta-building-worlds-fastest-ai-supercomputer-metaverse-tw.jpg?w=960&cbr=1&q=90&fit=max"
+    width: 960
+    height: 480
     isCached: true
 
 related:
@@ -208,6 +206,22 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Facebook's Meta Says Its New AI Supercomputer Will Beat All Rivals by 2022's End"
+    excerpt: "Mark Zuckerberg's Meta has announced it designed a new supercomputing AI! And it could outpace all major rivals by the end of 2022."
+    publishedDateTime: 2022-01-25T00:46:00Z
+    webUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    ampWebUrl: "https://amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8pNdLGm/sizes/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Hello, metaverse? Meta is building supercomputer for artificial intelligence research"
     excerpt: "Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions of users. Now its parent company is taking a step that could move it closer to that elusive goal: building its first supercomputer."
     publishedDateTime: 2022-01-24T18:44:00Z
@@ -272,20 +286,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Meta Says It Is Building the World’s Fastest AI Supercomputer"
-    excerpt: "Meta claims that it is “among the fastest AI supercomputers running today” and will be the fastest globally when it is fully built out by mid-2022. The company began designing the new computing infrastructure in early 2020 in order to accelerate the process of training large AI models,"
-    publishedDateTime: 2022-01-25T02:40:00Z
-    webUrl: "https://hypebeast.com/2022/1/meta-building-worlds-fastest-ai-supercomputer-metaverse"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 39
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Fmeta-building-worlds-fastest-ai-supercomputer-metaverse-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
   - title: "RUAG Space agrees AI partnership for satellite supercomputer"
     excerpt: "Switzerland’s RUAG Space said Jan. 24 it is teaming up with a software provider to run artificial intelligence solutions on its Lynx, which it says is the most powerful commercially available onboard satellite computer."
     publishedDateTime: 2022-01-24T23:03:00Z
@@ -329,6 +329,6 @@ related:
         height: 315
         isCached: true
 
-secured: "H2Kdi+oLO55OflErUFD9gyRV3Hvh/J1UUvsVtmaGSYYBQLKUdqEAREth9WQnu+2GYq3CT+yUi6cVzr3q55cdP6Jd9OGvVR75DVkO/ELazENQRkpFt0scI8fNbtGF5fpGy5hcfueb2GSrz9RcQ5eww+dHQmsHNjKqZyfJJ3qU7hYKYKiY6v3XPAQBESuqUGFgRT0bP1K/NJT8iHDu/s6SGZ4b7cdzs/xFgl9WZcX6HjMBSc5dYJ6b4gUIHvyXzVbJxd4wm0OD2qYe9Tf1C0yEzCEFcXxoeZsqMHfir2oIHOnY4+F9O7Q1zFYgu6J8PcpbrE7c08tZg3R5B9LU01L4uNhYZhLc5FumYwz1dFrWmGOJkYTJlMQxl+Cml1kmydhJF9pMsIQRa10egFIJEWpO2AMJo7w2tCnL2jDxxw1xMsP8Ytb9CCASaUdtTyDhBWFne+RNyARErueOqILOuJTK7spvjhVy5VmjH1FQRU0wx2dSDqXlhelc5c8aYmU7MCKxC9LOmQ72HswV2U+X6enPOw==;dbo2/Ot+3Fg4J6qCW2tmcw=="
+secured: "JdLUdgl/Io0hoycoxGlI/oyogYxTzsdCPOTQYSEuoom7wi7Z/+BDT81zbw4l31ByY3ojR4GaE1LjYZQMnGF6RsYLWX8rsIOew1MRH7iEMO+93sGyRu4jlaLCZVvrrOZygbBeXVdU74iQS4kLz4WSm+CSAnCc3jYOFUpSQXVO79SfKO5b54j9UODesYwZEEX8iu4/lGN4LDOMsVO3TVDvY7V97ycg8kgGlu4bYoLo/E2KHs6Y2tY3hOrhRVkczGrzlsuU6DbDgg4sagbCr4cr1DI+dO2MembSnQqQ5INNG1FWVvE92q04X5CPe6gUla8fHpa9KYM3V5q3vp0aeyp1f9BQ32LsO1RxFRA/awfim5g=;dJ0qehXD/oG77LdJIKVy9A=="
 ---
 

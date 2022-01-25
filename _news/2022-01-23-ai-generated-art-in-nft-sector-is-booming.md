@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-generated-art-nft-sector-booming
 webUrl: "https://www.linkedin.com/pulse/ai-generated-art-nft-sector-booming-michael-spencer-"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "GPT-3 demystified - spooky-good AI or overrated text generator?"
-    excerpt: "OpenAI's GPT-3 AI-based text generator is one of the most hyped AI developments in recent years. But does it really understand language? Are AI advancements, such as the upcoming GPT-4, really about expanding the computing parameters,"
-    publishedDateTime: 2022-01-20T10:32:00Z
-    webUrl: "https://diginomica.com/gpt-3-demystified-spooky-good-ai-or-overrated-text-generator"
-    ampWebUrl: "https://diginomica.com/gpt-3-demystified-spooky-good-ai-or-overrated-text-generator?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/gpt-3-demystified-spooky-good-ai-or-overrated-text-generator?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2018-03/time-for-review-e1529448878819.jpg"
-        width: 701
-        height: 465
-        isCached: true
 
 secured: "dDOiwL739Mo8lSyMr5p71/YclpgbpBzjBHVY6JdobJPiCovWJT0R7UgIySJzqAXC/sGU8R6EgQrPr1hKS/lFOmQWxFKRNbkthg44PlqAc/l1VSntUfBpfcrmmxNHQh3n/Gqi2YOnDT/vecj3zwCaK1QBeCPWAeHs/YrJQFuBLmtBE7i61m7dHePSyfoYKfH+ckhx/udmvKbvQCavSoQKQzH5q3fckL+x1cvFfPKz/UGNTkK2cXw5wqjaknKMqiYI5TD3fTCBdxwCYrWSIxmBLo3S6UFuTovv2JdZWzZh+4RUzZBSj8VJ0oc0RiCXroxqAFZlXeZDbj5Pcb0Mrd9gsiP/k0VDZKgXMEi3OzBV2EDWAk9VhvY/q7KVEIkvVglpZEhlgzun7/p9yBmSUOHJozKQ3IgQh2kxGZMo8M2PjUSIyK/feIL9I/uK/9umGPQEZy3g+dfJtRZgEW3Oxnqf9ZXKeRwyIs/TkIpHKptPOIsbaIFuoEoV9gclh5KwM7E3hR1DIelTfGWd0HczhM7PyQ==;9L0T3UBFHIXrieTzX1okfA=="
 ---

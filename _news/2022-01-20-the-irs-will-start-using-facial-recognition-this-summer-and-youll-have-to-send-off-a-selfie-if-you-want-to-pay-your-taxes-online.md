@@ -81,14 +81,14 @@ related:
         isCached: true
   - title: "IRS to start requiring facial recognition scans to access tax returns"
     excerpt: "The Internal Revenue Service is going to start requiring users of its online tax payment system to provide a selfie to a third-party company in order to access their accounts. Beginning in summer 2022,"
-    publishedDateTime: 2022-01-21T20:35:00Z
-    webUrl: "https://www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns"
-    ampWebUrl: "https://www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
-    cdnAmpWebUrl: "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
+    publishedDateTime: 2022-01-21T21:26:00Z
+    webUrl: "https://www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns"
+    ampWebUrl: "https://www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
+    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
     type: article
     provider:
-      name: Q13 FOX News
-      domain: q13fox.com
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
     quality: 39
   - title: "Smile! The IRS Wants You To Send Selfies to a Facial Recognition Company"
     excerpt: "\"No Identity Left Behind.\" Americans who want to access tax return transcripts, check on child tax credits, or do"
@@ -102,6 +102,6 @@ related:
       domain: reason.com
     quality: 38
 
-secured: "POd+8KrkpeHUTgN5kTdgsn+BwZ6LjYRPcsSniogqEo6MxBh8eXOgUYCsWQX7SoZwarUhxSKB5EkEesyug9rEK9HU0puNJWxg91l8TTXf/b6CNuDcLm8fh0uaZSfWSgBGgoETTcTpartuBi4sujC1PxFj9QcvfYW0ttDLNqU/lO/RfC7OcuxjT3yrDLUmDiNsor6vHh2tNPrbqnOgV8T4azg0wl+faLjBM2JEinAxlu9yIO9z203dFawX+l7P51bE0C1a7odxxR95zzDgODQzGNWkiCGRBvu3Ig40ahVUXHcibzUQrdZUEmsK1Wqvdl1La341mHFOQi0EfYgTwpBkhkZ0pXqOTSSZMm9A+v7j9MY=;bmxPHj76pO/igbCE+OTA4Q=="
+secured: "KgyoZKzz5LKtvKLc9hhkRJzTRG8kPmyx7UZhHPQHY+ysLmxfeL94eCL+Q8GXgdFRnjTwidlpny8niLWzw4JwFyzb1x/E654PTiG+4iPj58jPu+3N/cIs0mlh19MrIkW+NWRzaeVgAPGqqvOYlcAG6Jsy87PcQToKrxOOq65ii5RrSim80Qs3J4gdCc7XlduD1klNDQGadT005XpvNgnZLmL+2vqv/tZ4iPUnebEC1U1o2n6Ih7zSB9UysrhgjYNE2oASsS66jsFBLs7VlSSUa2JlT12Tk9tMkJDWGtO67aKIvnrY5U47H3gDa9ERJlz81fqKWyCwo5I02q1Vi3kUTFhvCl9AeTSZkC1QGSoNEOHwRT8dVvXOvMfJHu9SVxMEJGRVQzOrmHexPQ2o8MeWU0unqb4pn8GD8BUL3u038u/0iM3TEuDJlBdXNiFvE4gOgB+hCDTQsm7Aik/jcWMQWIQem6ce8CChki61wkeQqKnBpx5gyh6ArRt1bbGx7GH+nKcfHtTQip5icYWcW+NLXQ==;uf4/qonxkB2ubWZymvzu3Q=="
 ---
 
