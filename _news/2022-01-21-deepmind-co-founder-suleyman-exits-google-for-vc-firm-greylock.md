@@ -1,27 +1,31 @@
 ---
 category: news
 title: "DeepMind Co-Founder Suleyman Exits Google for VC Firm Greylock"
-excerpt: "(Bloomberg) --The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman will be a venture partner at Greylock ..."
-publishedDateTime: 2022-01-21T10:57:00Z
-originalUrl: "https://www.bloombergquint.com/business/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
-webUrl: "https://www.bloombergquint.com/business/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
+excerpt: "The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman ..."
+publishedDateTime: 2022-01-21T11:59:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
+webUrl: "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWEqYz7MJwA8/v1/1200x863.jpg"
     width: 1200
-    height: 630
+    height: 863
     isCached: true
 
 related:
@@ -143,6 +147,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "31ehVq10dF+BMkpnl1DQAkI0hslrwYsxq5iw/5T9KBX3pkjE14UL5SLO3TDNPmcsspCHLJPGkRW02nOhrdtY8ICggDFwi8dJmVsQ/L8spsjQlRDWEXMXDOo4nWGrZvIrSB9dcDz9WoY2kLQAo5NvIyDbTBGa75piHpLBaDMckPmb8KaSiuk6zR3jbZwczpflO0CIXNR4HtvLfxFGyt465f114/Bp1YScc/kvEQrH43iWvHDaE3JIfccGoNWJXb67wDdGfjyEK9Q+ge4iYQc9n+EH0mH9m6WjT66HtNnh90QuzouRhf9BG50+IBJPJDnms7YCLC6T4z26Ap2Pv0rRS9s/6CSST4XYMVYxhdcb60Y=;YeHIX4+k4r9fNKy8scm8Rg=="
+secured: "ZcVfIbojdcfZLrbIpjx1gJmETEbDnoMypH0fBjDJ5GReIpdYkOpkuRqxeckLkmDQdiolCzn6dpF30FnSLyFxMyT9GalxGe7oLEkJ9qfNNEgIuHuwU4rfOv4Fn4nOOIQ4xoSp1hGpZQnIuqZgOIXbmV6CsCDlD7B7Cok5SFt6DyJ8WhYqAIqzRkHGzLJCueUHEKBTjLXUD/RWhi2vR/uBtZBGQJOWfhrXk1pkhIsgwYpZP1eXwFEZ+mmCpqpNeHA7CJ13AomB9f7m4reY08m9jtRDRQGYDxnhdPV8WTHW2Vo875b1uTZkaaD91lUCIxkwFzfWUeN3jDAkPHjh7poSu8yh+Yhy8oFoDQ9hw983SaE=;5Fg/FSAHSw5JaxhqqEjy4w=="
 ---
 

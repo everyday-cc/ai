@@ -117,6 +117,22 @@ related:
         width: 2000
         height: 844
         isCached: true
+  - title: "Facebook Parent Meta Built the World's Fastest AI Supercomputer"
+    excerpt: "Meta (formerly Facebook) is the latest company to build an AI supercomputer. Meta's new RSC supercomputer consists of 760 Nvidia GGX A 100 systems containing 6080 GPUs."
+    publishedDateTime: 2022-01-25T06:45:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/facebook-parent-meta-built-the-worlds-fastest-ai-supercomputer-726235"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/facebook-parent-meta-built-the-worlds-fastest-ai-supercomputer-726235"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/facebook-parent-meta-built-the-worlds-fastest-ai-supercomputer-726235"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/01/25/1196841-meta.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Meta Buys, Rather Than Builds And Opens, Its Massive AI Supercomputer"
     excerpt: "If you thought it took a lot of compute and storage to build Facebook’s social network, you ain’t seen nothing yet. The immersive and AI-enhanced"
     publishedDateTime: 2022-01-24T22:09:00Z
@@ -209,6 +225,15 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
+    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
+    publishedDateTime: 2022-01-24T21:32:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Meta Introduces Fastest AI Supercomputer"
     excerpt: "Facebook parent Meta Platforms Inc introduced its new AI Research SuperCluster (RSC) on Monday, which the company believes will be the fastest AI supercomputer in the world. It will be fully built out in mid 2022 and help create the metaverse."
     publishedDateTime: 2022-01-24T17:25:00Z
@@ -242,17 +267,6 @@ related:
     provider:
       name: CBS Local
       domain: cbslocal.com
-    quality: 39
-  - title: "Facebook parent Meta creates powerful AI supercomputer"
-    excerpt: "Facebook’s parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
-    publishedDateTime: 2022-01-25T03:52:00Z
-    webUrl: "https://www.kentucky.com/news/business/article257671783.html"
-    ampWebUrl: "https://amp.kentucky.com/news/business/article257671783.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article257671783.html"
-    type: article
-    provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
     quality: 39
   - title: "Meta is building an AI supercomputer"
     excerpt: "By Rachel Metz, CNN Business Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions"

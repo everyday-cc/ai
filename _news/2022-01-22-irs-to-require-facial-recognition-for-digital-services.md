@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/gov-experience/irs-to-require-facial-recogni
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 159
+published: true
 
 provider:
   name: Government Technology
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The IRS will start using facial recognition this summer — and you'll have to send off a selfie if you want to pay your taxes online"
-    excerpt: "\"You won't be able to log in with your existing IRS username and password starting in summer 2022,\" the IRS said, as spotted by a security blogger."
-    publishedDateTime: 2022-01-20T13:38:00Z
-    webUrl: "https://www.businessinsider.com/irs-online-taxes-facial-recognition-selfies-2022-1"
-    ampWebUrl: "https://www.businessinsider.com/irs-online-taxes-facial-recognition-selfies-2022-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/irs-online-taxes-facial-recognition-selfies-2022-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://i.insider.com/6197ccbf432ef900197ce53e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "IRS to start using facial recognition this summer; selfies will be required"
     excerpt: "The IRS will require users of its online portal to create an ID.me account starting this summer. Citing security blogger Brian Krebs, Business Insider reported on a new message on the IRS website directing users to create an account with ID."
     publishedDateTime: 2022-01-21T14:28:00Z
@@ -58,6 +42,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HHUTFJY3PFGAXNIE7CPCT7FKJ4.jpg"
         width: 4992
         height: 3328
+        isCached: true
+  - title: "ID.me Comments on Adherence to Federal Rules on Facial Recognition \"Selfies\" that Protect Identities from Theft"
+    excerpt: "ID.me provided the following comments today. Statement from ID.me CEO and Founder, Blake Hall: \"We are committed to ensuring everyone can verify their identity online and use it to access essential services."
+    publishedDateTime: 2022-01-24T12:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/id-me-comments-on-adherence-to-federal-rules-on-facial-recognition-selfies-that-protect-identities-from-theft-1031122288"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://mma.prnewswire.com/media/1732098/IDme_Face_Matching.jpg"
+        width: 400
+        height: 273
         isCached: true
   - title: "IRS will require facial-recognition to access online system"
     excerpt: "The Internal Revenue Service will require taxpayers to take selfies and verify their identities through ID.me to access online accounts starting this summer."
@@ -86,6 +84,20 @@ related:
       name: FOX 7 Austin KTBC
       domain: fox7austin.com
     quality: 39
+  - title: "Is It Time for Facial Recognition in Restaurants?"
+    excerpt: "Biometric technology, such as facial recognition, offers this exact benefit. Today, it ensures restaurants are running safely by equipping entrances with health screenings to detect masks are not only being worn,"
+    publishedDateTime: 2022-01-21T21:04:00Z
+    webUrl: "https://www.qsrmagazine.com/outside-insights/it-time-facial-recognition-restaurants"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-01/fastfoodrestaurant.jpg?itok=1S6fBBHf"
+        width: 765
+        height: 446
+        isCached: true
   - title: "Smile! The IRS Wants You To Send Selfies to a Facial Recognition Company"
     excerpt: "\"No Identity Left Behind.\" Americans who want to access tax return transcripts, check on child tax credits, or do"
     publishedDateTime: 2022-01-24T14:32:00Z
@@ -97,6 +109,52 @@ related:
       name: Reason
       domain: reason.com
     quality: 38
+  - title: "IRS plans for facial recognition draw scrutiny from privacy, cybersecurity advocates"
+    excerpt: "An IRS plan to use ID.me and facial recognition software would represent a massive expansion of the federal government's (long and controversial) biometric surveillance record and carries real privacy and cybersecurity concerns,"
+    publishedDateTime: 2022-01-21T20:16:00Z
+    webUrl: "https://www.scmagazine.com/analysis/identity-and-access/irs-plans-for-facial-recognition-draw-scrutiny-from-privacy-cybersecurity-advocates"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 32
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2022/01/GettyImages-1137410589.jpg"
+        width: 1500
+        height: 900
+        isCached: true
+  - title: "The republic, recognition, reconciliation and the constitution"
+    excerpt: "Indigenous lawyer Megan Davis is republican, but she is foremost an advocate for changing the constitution to meet the requirements of the Uluru Statement. She believes that the unfinished business of a voice to parliament needs to be enshrined in the constitution before a republic can be considered."
+    publishedDateTime: 2022-01-25T06:36:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/latenightlive/the-republic,-recognition,-reconciliation-and-the-constitution/13727928"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 24
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13727956-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Are Cow Noses the New Fingerprint to Unlocking Livestock Facial Recognition?"
+    excerpt: "Fingerprint recognition technology for cellphones was first created in 2011 and is the process of verifying a person’s identity by comparing their fingerprints with previously recorded samples. This recognition is then utilized to unlock certain technology features and can even provide specific data on individuals."
+    publishedDateTime: 2022-01-24T21:09:00Z
+    webUrl: "https://www.dairyherd.com/news/education/are-cow-noses-new-fingerprint-unlocking-livestock-facial-recognition"
+    type: article
+    provider:
+      name: Dairy Herd
+      domain: dairyherd.com
+    quality: 16
+  - title: "Targeted Memory Reactivation During Slow-Wave Sleep May Facilitate Facial Recognition"
+    excerpt: "Recent research suggests targeted memory reactivation might help with facial recognition and name recall, but quality and quantity of sleep may be important factors in effectiveness."
+    publishedDateTime: 2022-01-20T21:52:00Z
+    webUrl: "https://www.ajmc.com/view/targeted-memory-reactivation-during-slow-wave-sleep-may-facilitate-facial-recognition"
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 12
 
 secured: "UIG2VTfZvzhnL9XL0QbnPXyTj1AXXS8nL18tpT3/dq/HT+bwqSPDkZUv842o7oQPIWMeDJN21vUXXIfw5eArs9DDa0fz+MoGWBhscNRnFgNVJPYdJvGrQRnQbpBoXR9RYxY9Iyz/g9Driw247kq20l08eoTHjTgKqLn/Wmd/O0T2qrcE50B2Vv3D7QI54tKPVghLgaA78glm4x/2l2dKRIlDf84rTzDfgYpF5ghvASWo4EcNl7e5sOsX9HzDsqVNvFPvkEIQ+B9Uocj6x3VBwc7Bak9yjorIRIjA12Gr/dLpYT1SzBMfJylALaXJFPxWYab0b1B6GI5RgiT5ojzz8RXottmi75z7DjcZa7YlyYeQazDDwC6Fa9YFeRkTIiy36EXTclqqHaIcFrdodyfuMWgW+HhRj4z/mrthDraZB5YaCUxfYdXQDz8bN1HhPgu0H/50sUYntYgLKGTtMG9evcUiXEC8MsIGU3ZpEO7Vdxa3/gOFMf0wX6ACsWJh62FwP3MhXrTLjfYwSzICk0UJTA==;Fvzsw5xgB8pOGlvOPslltQ=="
 ---

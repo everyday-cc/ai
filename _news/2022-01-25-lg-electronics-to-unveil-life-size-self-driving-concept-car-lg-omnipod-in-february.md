@@ -43,21 +43,19 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "LG to unveil life-size self-driving concept car"
-    excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month."
-    publishedDateTime: 2022-01-25T02:55:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/lg-to-unveil-life-size-self-driving-concept-car/89105410"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/lg-to-unveil-life-size-self-driving-concept-car/89105410"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/lg-to-unveil-life-size-self-driving-concept-car/89105410"
+  - title: "Self-driving vehicles are our future. UMaine is showing how."
+    excerpt: "\"Although buses and ride services are also an option, let’s face it, we’re not exactly known for a robust public transit system that adequately meets people’s needs throughout the state,\" Paul Fink writes."
+    publishedDateTime: 2022-01-25T05:00:00Z
+    webUrl: "https://bangordailynews.com/2022/01/25/opinion/opinion-contributor/self-driving-vehicles-are-our-future-umaine-is-showing-how-joam40zk0w/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 39
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89105410,imgsize-219596,width-1200,height-628,overlay-etcio/lg-to-unveil-life-size-self-driving-concept-car.jpg"
-        width: 1200
-        height: 628
+      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2022/01/Autonomous-Electric-Shuttle-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "LG to unveil life-size self-driving concept car"
     excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as “a home office,"
@@ -73,7 +71,16 @@ related:
         width: 324
         height: 236
         isCached: true
+  - title: "LG to unveil life-size self-driving concept car"
+    excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as \"a home office,"
+    publishedDateTime: 2022-01-24T18:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220124/3899559.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
-secured: "1eCmWmozbd3zBw4Uub01VDurGRkB4a1T3nPPp2WZxBDm23N4dx+lbasDu9hwyK1CD4794OmztcjR+2D2IbLCiwtPH9cFONWxITVmM8geNjuWyACXo8hiz0fJjLkU0GLMfXqkUSR5z53rwbioXkUwV2w7AzeVx5zxiAkC19bwimxnOWtx6PHMK7Db1CzSBRqbeEt7PrysFFMdQEUQomG3YqgnC6QngsJlWuGD1pZORo8mEH+5F8YojXvYvYScQpduRLKKsEYLHk5y+wCmIR4TbmAWyAwZRQm4d5dPRTYXdc1Mf0mpqIA6yrqAZkD/OcAV6sOimTIo9t+0QeXFqMnpXTTu/5Et1g5cmtNbiMzgYZo=;35jH7FlRGlnyCztOMSHkXA=="
+secured: "ld95b4HRlsVUME3194McLqT7r0F05aB5U8SjeZMIz0N34umSR7jTcXjT1opjMp/TnSOCZ+g9kj/txNMECPsuAYYbzxI++3eyyG2n6z27og+eYMYrMk6V2twlXxTSaEd5GGsWVrv8dGYU/fgWP/cOCe2xdRekV1hZlj/eh8T1tsOnorl9IJkJiDhVnuLLBOiAj8SwuBBXtru6xXBcwjmE5c/txzhCeMm4cu749kgvKmaj+eGjqfVpMsAetXLnEW9w595KkFCsJt9kAWFL/pUktOzFQ5JXfMBwXaeuqHiymwQJcZkcecVK1THS6aPaFmBLc8sS1TlZFDJ1P2LzjCugyyLV8TYJKTreX1mjBeKTW2fAMqCEjP9UhfrZM1X/sGjvCNkekR0f+oZViGj/5DDTO37mbI0nNseE6wXN9kMPPIb2j9rgmtz/9DFDzEtdrUS8J+aZmAFic71vWcx49hjGBMGhkUntLrUWlL5R+SNvdNm8e7H6nUkqbvBpRmPdnDXbU9E63LsGpRUw5nRq7m6N2w==;R3NYvle0vnHvT57i4D6gfQ=="
 ---
 

@@ -1,23 +1,25 @@
 ---
 category: news
-title: "Facebook parent Meta creates powerful AI supercomputer"
-excerpt: "Facebook’s parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
-publishedDateTime: 2022-01-25T03:52:00Z
-originalUrl: "https://www.kentucky.com/news/business/article257671783.html"
-webUrl: "https://www.kentucky.com/news/business/article257671783.html"
-ampWebUrl: "https://amp.kentucky.com/news/business/article257671783.html"
-cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article257671783.html"
+title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
+excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
+publishedDateTime: 2022-01-24T21:32:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Lexington Herald Leader
-  domain: kentucky.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
 
 related:
@@ -125,6 +127,22 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/01/24154702/PRI_220002623.jpg?width=1200&enable=upscale"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Facebook Parent Meta Built the World's Fastest AI Supercomputer"
+    excerpt: "Meta (formerly Facebook) is the latest company to build an AI supercomputer. Meta's new RSC supercomputer consists of 760 Nvidia GGX A 100 systems containing 6080 GPUs."
+    publishedDateTime: 2022-01-25T06:45:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/facebook-parent-meta-built-the-worlds-fastest-ai-supercomputer-726235"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/facebook-parent-meta-built-the-worlds-fastest-ai-supercomputer-726235"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/facebook-parent-meta-built-the-worlds-fastest-ai-supercomputer-726235"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/01/25/1196841-meta.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Meta Buys, Rather Than Builds And Opens, Its Massive AI Supercomputer"
     excerpt: "If you thought it took a lot of compute and storage to build Facebook’s social network, you ain’t seen nothing yet. The immersive and AI-enhanced"
@@ -309,6 +327,6 @@ related:
         height: 315
         isCached: true
 
-secured: "vWybmTXIHulKcyKqnsidKBHFqcii/p4DHlrYMnFvtNePjJuMpKr58AUuH4ljaGlGPplEKOUG9YPCxgJqY1p38nvjxSa6cyjUo9rOgMjALnmBtfTAtwzbYYywS/+yGjdkBvijX5bfrEnAL20uOxObSswTD6nR0KXRR3qGg5wF4kl3+8M8NoLGuNKrrME722nXt5G07amcElSdAoA+bqfsfKAfYd3FEmZ85qyXvkgIcOebmYP65qiUNuf0BKzVt07oXQzUsdHHzYbfylW4fk6trxQGcAjFmrTJuSr0vzazFGGA+bcQXood2auaQEhKHii6qTeyg6K4EpkMlsh9SDMnRipysm7PqTtFjelQFMSO+069BFCX2G0u04xIInmi5K1p2apasyv/bfDypjozamC13G4D3mFycEid9wT9GGjt9+j7m++0YbXe2Jr6MFzFVmOGkk2BICZlXWLalO0jUoyX6za76aEavVbWDckaBKI31u2f4y1dxHfJNSbpIwFxcasd6uaeEYgrbtQDvS8MAq8yPg==;QM/lgfCslRIAbxcLTcmRRg=="
+secured: "SjLhWM7p+iArkKCmJV+HuMxwLcbHxR2MwDNYb0x3lYJ2QB0JCwiGlDHKh1RNyviW0WwV/Znzi+rKgxQAN+ATAeEO9ExGkSiRiD9c55NrVVx8SBuFbKN4W9cAEx/CIGPZkm6lOdI+855ETPi9NuQeIZzSbh4OdtOLFvqVlaenwcZ7p6qhXyC9OEl8b4tzDq7g+gJ6RqiXYLfftpX8HhGKaFXGYRy0np7oBQ+2xWoF7cZnPdtNaFuHh2smmmdzX9tqFedlEmT76ykCJJwCr/tXvsEtO/8TbdkIN4OITX5BdSkwl6uIRCey8L+6oywL7G71gg9UfJCJr0Q0aGqljPSiRka/B8alcbMOiaJYnwROerK8WO2CGLKPAThkZPe4qaagSDOnZdpiioCUUsAZ561MGPoLo1oQSywKDuseXRiIC897BAT6jSZ+BC5i9iQNUc0SHBEaFHZn/vIHzWcfY4ASujLBqDlzN6ioY79RCYEWqm8CySC1IxayCLZIF2iQmMecMf4OnMjcaeeQrvhnKS9w3A==;aybxur1rzgYqkhgcLKhg/g=="
 ---
 

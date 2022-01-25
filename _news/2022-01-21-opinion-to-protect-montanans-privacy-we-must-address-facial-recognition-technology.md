@@ -42,20 +42,6 @@ related:
         width: 1024
         height: 1280
         isCached: true
-  - title: "To protect Montanans’ privacy, we must address facial recognition technology"
-    excerpt: "Our rights to not have our property or persons searched or seized without a warrant, to not be harassed by the government without good reason, and to conduct our own"
-    publishedDateTime: 2022-01-20T13:30:00Z
-    webUrl: "https://helenair.com/opinion/columnists/to-protect-montanans-privacy-we-must-address-facial-recognition-technology/article_c5e26e43-dde9-51f5-9784-d453666ee70a.html"
-    type: article
-    provider:
-      name: Independent Record
-      domain: helenair.com
-    quality: 38
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/f/e9/fe97198b-cb31-521d-92d5-4a4c3b8a52c2/61ba3594084e0.image.jpg?crop=1287%2C676%2C0%2C466&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Guest opinion: To protect Montanans' privacy, we must address facial recognition technology"
     excerpt: "Our rights to not have our property or persons searched or seized without a warrant, to not be harassed by the government without good reason, and to conduct our own"
     publishedDateTime: 2022-01-21T12:00:00Z

@@ -54,20 +54,6 @@ related:
         width: 333
         height: 250
         isCached: true
-  - title: "Natural Language Processing Market - Competitive Landscape Analysis, Regional Developments and Industry Size Forecasts"
-    excerpt: "Natural Language Processing Market Analysis Market Research Future (MRFR) expects the global natural language processing market to grow at a CAGR of 24% from 2017-2023 (forecast period). Natural Language Processing (NLP) is generally defined as the automatic manipulation of natural languages,"
-    publishedDateTime: 2022-01-20T13:41:00Z
-    webUrl: "https://www.linkedin.com/pulse/natural-language-processing-market-competitive-analysis-bhosale"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 15
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEgUuEpO7AxVA/article-cover_image-shrink_600_2000/0/1642685662761?e=1648684800&v=beta&t=2V5hRn_zzEs-PKOlLbGRbF4ZTQS5kUEQEQy2IjYkYAA"
-        width: 640
-        height: 426
-        isCached: true
   - title: "AI in Fintech Market Research Report 2021 - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "AI in Fintech Market Research Report 2021 - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com. The \"AI in Fintech Market Research Report - Global Indus"
     publishedDateTime: 2022-01-24T16:51:00Z

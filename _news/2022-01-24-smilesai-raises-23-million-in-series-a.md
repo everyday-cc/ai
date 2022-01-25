@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/414713"
 webUrl: "https://www.entrepreneur.com/article/414713"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dental care startup Smiles.ai raises $23 million in funding"
-    excerpt: "Dental care startup Smiles.ai has raised $23 million in Series A funding led by Alpha Wave Incubation. Existing investors Sequoia Capital India and Chiratae Ventures participated in the round along with angel investors like Lenskart Co-founders Peyush Bansal and Amit Chaudhary and Haptik Co-founder Aakrit Vaish."
-    publishedDateTime: 2022-01-23T15:50:00Z
-    webUrl: "https://inshorts.com/en/news/dental-care-startup-smilesai-raises-$23-million-in-funding-1642953041191"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/dental-care-startup-smilesai-raises-$23-million-in-funding-1642953041191"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/dental-care-startup-smilesai-raises-$23-million-in-funding-1642953041191"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/01_jan/23_sun/img_1642952272109_753.jpg?"
-        width: 1080
-        height: 761
-        isCached: true
   - title: "Dental Care Startup Smiles.ai Secures $23 Mn To Build Digital Dental Care Network"
     excerpt: "Dental care startup Smiles.ai has raised $23 Mn (INR 171 Cr)  in a Series A funding round led by Alpha Wave Incubation."
     publishedDateTime: 2022-01-24T06:40:00Z
