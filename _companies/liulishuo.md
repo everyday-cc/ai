@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lingochamp"
   url: "https://twitter.com/lingochamp"
-  followers: 1236
+  followers: 1237
 
 size: 1,001-5,000 employees
 yearFounded: 2012
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=GF8KvuIJUvg"
 
-secured: "Fi917eU9Q8ACcpfIUEytN14z6OIezNj9OMo6x3yg8FRUJuxbjmS7S8CTwNyEndWb6w2VuzdW0IqtNrRqWsvEr1lKV0dzsfSBTjp79zBGnWryy7tNmnFtP+UmwX1Tjf3g2QnGnN92TS5+WsdNOlgUc9MLSUiuQjxCuqzyDCdam0S6YKqcdv37Va1BNUQJqtG+x3OxrPcj+KFnfyyFt8NAbRQHGHtnU2buoY7hJ1xHukaqMldYYDo6Yn4kJLspRga/W9fbgx8IMpxCKbWtfkBnBOzJf0k4qBNYGcksZVg5rLICqzpqGsH5EsgEGMc49bRmMp6DVKvzR3ENQQBPHHFONh2wxhZoNVHPkvyG6h0aKmMTKd/pqcLxsKM3aKy3ohPex2DYBHkV8eyeuYDG62O9pZ1tPv3IwhrX2dAH2alGyhM=;lKsRkR/P1SJ2QT/KJpJV6Q=="
+secured: "mPPKvKxFL2gfG4uF28kRSGNHDd9GPW8r5YYgyts44YZt8dEMbdFI0KAunj6zLDu4/cmns9iTiW0lOIB8Edd6tu28+XyNpzArBM8qp5YcWQ7UlQ7nwczxRYC/cF3LIMnLKiaLQN0wKjJYFyBRdeafznGHB9TdClytv8Am9Ax5mFg2cTXd5cuAnGfPkbM88QtpoaWD7bV/VM7QCd2g93FLlDYd5kre1nDWXmFTEIWR6xqdPRkHNDoAvC/yzbqHsTV1hSPsoEFjDkJjOtlITUIr+mhU+Fx5MPszQlnkJOAm9heNGCMZLjve6tQdB4Y7EyPWCjtaae0zqj3GZKYMiJZrjjh8ben0Tld4OwjdChJ3L6dLLztWS9VE/njrGvmns5sbQe7cXyIyYZb6gIOdY322u4S5QWTerJNbARHRC+M2j/M=;OuWfh+kl7eZrlD+O7Z/UBA=="
 ---
 
