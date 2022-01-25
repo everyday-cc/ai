@@ -57,6 +57,22 @@ related:
         width: 652
         height: 400
         isCached: true
+  - title: "Studying the big bang with artificial intelligence"
+    excerpt: "It could hardly be more complicated: tiny particles whir around wildly with extremely high energy, countless interactions occur in the tangled mess of quantum particles, and this results in a state of matter known as \"quark-gluon plasma\"."
+    publishedDateTime: 2022-01-25T15:17:00Z
+    webUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.html"
+    ampWebUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-big-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/studying-the-big-bang.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "AI is bringing science fiction to life"
     excerpt: "AI's use in bespoke medicines can truly revolutionize the healthcare industry and that's why in today's lead story, we delve into this topic and expla.."
     publishedDateTime: 2022-01-24T03:41:00Z
@@ -72,22 +88,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-89084442,imgsize-52818,width-1200,height-628,overlay-etcio/ai-is-bringing-science-fiction-to-life.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Studying the big bang with artificial intelligence"
-    excerpt: "It could hardly be more complicated: tiny particles whir around wildly with extremely high energy, countless interactions occur in the tangled mess of quantum particles, and this results in a state of matter known as \"quark-gluon plasma\"."
-    publishedDateTime: 2022-01-25T15:17:00Z
-    webUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-big-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/studying-the-big-bang.jpg"
-        width: 2880
-        height: 1920
         isCached: true
   - title: "Pony.ai to begin mass production of autonomous systems in 2022"
     excerpt: "Chinese autonomous driving technology company Pony.ai said it planned to begin mass production of automotive grade equipment by the end of 2022 as it brings forward the roll out of Level 4 autonomous driving technology,"

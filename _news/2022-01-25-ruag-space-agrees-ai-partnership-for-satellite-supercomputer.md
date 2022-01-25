@@ -148,6 +148,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
+    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
+    publishedDateTime: 2022-01-25T16:13:00Z
+    webUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer"
+    ampWebUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 61
+    images:
+      - url: "https://img.chdrstatic.com/media/85c6e7bd-ac1f-49b6-9a01-b21a20453acf.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook Parent Meta Built the World's Fastest AI Supercomputer"
     excerpt: "Meta (formerly Facebook) is the latest company to build an AI supercomputer. Meta's new RSC supercomputer consists of 760 Nvidia GGX A 100 systems containing 6080 GPUs."
     publishedDateTime: 2022-01-25T06:45:00Z
@@ -196,22 +212,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
-    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
-    publishedDateTime: 2022-01-25T16:13:00Z
-    webUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer"
-    ampWebUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
-    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 59
-    images:
-      - url: "https://img.chdrstatic.com/media/85c6e7bd-ac1f-49b6-9a01-b21a20453acf.jpg?width=1200&source=backend&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facebook parent Meta is developing the “world’s fastest” AI supercomputer"
     excerpt: "The high-speed computer is designed specifically to train machine learning systems, according to Facebook-owned Meta RSC will be used to train a range of"
     publishedDateTime: 2022-01-25T11:04:00Z
@@ -241,6 +241,22 @@ related:
       - url: "https://www.crn.com/resources/0271-14477f5c05b8-a38185223eb4-1000/meta_nvidia.png"
         width: 610
         height: 458
+        isCached: true
+  - title: "Facebook parent Meta creates powerful AI supercomputer"
+    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
+    publishedDateTime: 2022-01-24T21:33:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Largest Artificial Intelligence Supercomputer Is Zuckerberg's New Boast"
     excerpt: "Facebook's parent company Meta announced on Monday it was launching one of the world's most powerful supercomputers to boost its capacity to process data, despite persistent disputes over privacy and disinformation."
@@ -389,17 +405,6 @@ related:
         width: 740
         height: 420
         isCached: true
-  - title: "Facebook parent Meta creates powerful AI supercomputer"
-    excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
-    publishedDateTime: 2022-01-25T04:29:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 41
   - title: "Meta Announces New Supercomputer for AI Research"
     excerpt: "Meta unveils the AI Research SuperCluster — a cutting-edge AI supercomputer for AI research. Developing the next generation of advanced AI will require powerful new computers capable of quintillions of operations per second."
     publishedDateTime: 2022-01-25T12:22:00Z
@@ -550,6 +555,20 @@ related:
       - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/01/Meta-supercomputer.jpg"
         width: 1908
         height: 793
+        isCached: true
+  - title: "Meta introduces SuperCluster, an AI supercomputer for metaverse research"
+    excerpt: "Social media giant, Meta has announced that it has designed and built the AI Research SuperCluster (RSC), one of the fastest AI supercomputers running today and will be the fastest AI supercomputer in the world when it’s fully built out in mid-2022."
+    publishedDateTime: 2022-01-25T18:00:00Z
+    webUrl: "https://technext.ng/2022/01/25/meta-introduces-supercluster-an-ai-supercomputer-for-metaverse-research/"
+    type: article
+    provider:
+      name: technext
+      domain: technext.ng
+    quality: 38
+    images:
+      - url: "https://technext.ng/wp-content/uploads/2022/01/PIX-1-1.jpg"
+        width: 1248
+        height: 701
         isCached: true
   - title: "Facebook’s Meta is building a “massive AI research supercomputer” with Nvidia"
     excerpt: "Facebook ‘s parent company Meta is working with Nvidia to create a “massive AI research research supercomputer”. Yesterday (January 24), Nvidia announced that it is building an “AI supercomputer” for Meta."

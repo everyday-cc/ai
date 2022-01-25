@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-26-sri-on-the-future-of-robotics.md",
+      "title": "SRI on the future of robotics",
+      "excerpt": "Thomas Low, the director of the robotics laboratory at SRI International, writes about what roles robotics will grow into in coming years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/sri-on-the-future-of-robotics/",
+      "originalUrl": "https://www.therobotreport.com/sri-on-the-future-of-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/01/featured-web-da-vinci.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T09:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-jd-technology-fintech-unit-of-chinas-jdcom-engages-banks-for-hong-kong-ipo-that-could-raise-up-to-us2-billion-source-says.md",
       "title": "JD Technology, fintech unit of China’s JD.com, engages banks for Hong Kong IPO that could raise up to US$2 billion, source says",
       "excerpt": "JD Technology is targeting as much as US$2 billion in a Hong Kong IPO, which could make it the fourth JD group company to be listed in the city.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.sciencenews.org/article/ai-identify-anonymous-data-phone-neural-network",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -104,7 +147,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -155,7 +198,7 @@
       "originalUrl": "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -311,7 +354,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -352,7 +395,8 @@
       "topics": [
         "AI in Finance",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Autos"
       ]
     },
     {
@@ -563,7 +607,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -959,7 +1003,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1188,49 +1232,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases.md",
-      "title": "Could artificial intelligence help people survive one of the world's deadliest diseases?",
-      "excerpt": "Sepsis is responsible for one in five deaths worldwide, and is likely an underlying cause of COVID-19 deaths. Now a Vancouver immunologist says he's found a key solution using artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
-      "originalUrl": "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vmcdn.ca/f/files/glaciermedia/images/health/neeta-long.jpg;w=1000;h=734;mode=crop",
-          "width": 1000,
-          "height": 734,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
-      "cdnAmpWebUrl": "https://www-bowenislandundercurrent-com.cdn.ampproject.org/c/s/www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
-      "publishedDateTime": "2022-01-24T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bowen Island Undercurrent",
-        "domain": "bowenislandundercurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

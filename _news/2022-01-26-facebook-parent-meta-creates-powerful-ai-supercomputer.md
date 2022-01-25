@@ -8,7 +8,7 @@ webUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supe
 ampWebUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://img.chdrstatic.com/media/85c6e7bd-ac1f-49b6-9a01-b21a20453acf.jpg?width=1200&source=backend&auto=webp"
@@ -229,6 +230,22 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "Facebook parent Meta creates powerful AI supercomputer"
+    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
+    publishedDateTime: 2022-01-24T21:33:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Largest Artificial Intelligence Supercomputer Is Zuckerberg's New Boast"
     excerpt: "Facebook's parent company Meta announced on Monday it was launching one of the world's most powerful supercomputers to boost its capacity to process data, despite persistent disputes over privacy and disinformation."
     publishedDateTime: 2022-01-25T01:19:00Z
@@ -376,17 +393,6 @@ related:
         width: 740
         height: 420
         isCached: true
-  - title: "Facebook parent Meta creates powerful AI supercomputer"
-    excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
-    publishedDateTime: 2022-01-25T04:29:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 41
   - title: "Meta Announces New Supercomputer for AI Research"
     excerpt: "Meta unveils the AI Research SuperCluster — a cutting-edge AI supercomputer for AI research. Developing the next generation of advanced AI will require powerful new computers capable of quintillions of operations per second."
     publishedDateTime: 2022-01-25T12:22:00Z
@@ -538,6 +544,20 @@ related:
         width: 1908
         height: 793
         isCached: true
+  - title: "Meta introduces SuperCluster, an AI supercomputer for metaverse research"
+    excerpt: "Social media giant, Meta has announced that it has designed and built the AI Research SuperCluster (RSC), one of the fastest AI supercomputers running today and will be the fastest AI supercomputer in the world when it’s fully built out in mid-2022."
+    publishedDateTime: 2022-01-25T18:00:00Z
+    webUrl: "https://technext.ng/2022/01/25/meta-introduces-supercluster-an-ai-supercomputer-for-metaverse-research/"
+    type: article
+    provider:
+      name: technext
+      domain: technext.ng
+    quality: 38
+    images:
+      - url: "https://technext.ng/wp-content/uploads/2022/01/PIX-1-1.jpg"
+        width: 1248
+        height: 701
+        isCached: true
   - title: "RUAG Space agrees AI partnership for satellite supercomputer"
     excerpt: "Switzerland’s RUAG Space said Jan. 24 it is teaming up with a software provider to run artificial intelligence solutions on its Lynx, which it says is the most powerful commercially available onboard satellite computer."
     publishedDateTime: 2022-01-24T23:03:00Z
@@ -618,6 +638,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "aLB9XnUeHj1vK7BqbcDOdy8ATcyEkP5E1Q6im2dsIF6zKtFbMNG2d4tL0CT+ACP+sCdBkgLn441oXFe/P8TeHt8TmB5SECp6ulu4SvezGudO/tDI9uinkF4RYDzg5L8bWaU27Mbr76mW7NbX4++qg8u1XbnNGoai0I3nZTswqkuSGU+8aeeYYWXnj/9CoB9JPfZ46tsJ7aUGpYyn2MWn6om07DqkOdo/UE76sCwta1ecXUj/HaEItdpk4ZXhZfcpEYwurNqRLfzWFV0DJi+yEq/X2uKeyNKJypN6gT5z/fyLHPvEJq3PEMgPXE0eFGdMa7/FEavaIyd9UQwiF3Gq7LLAPsxIIXdUOlIhr5HpGjo=;UZ80CxON7zLs0EkOFV9HjA=="
+secured: "QMB+0wVNcC/7NXgVBu+uZkrBA6RW2MVPUhRB3RzfRy8xKf6FXCBCpVodjNudkG2K6avKJmVTAlgaIFt/SPptHf7WR9hHv5htTWKPp4WMdOKdVBkOD3ufeg5IodimCPS3i2szywr9Y944gXUm50SnU9dn6GpvK9cP07hfTAsLM0IVF4OpscpX+BdveMEFmOlLMrg7HxK4sYpm4+QdVLqLH36f0kLR4+dVvndOO0Urj0NjzTTFpryuRhySMbArfXrKgZ4lbuxufJjWX36SCA5ebnVwNLksASfivZGK2H1Kfv0+oBKQRzoq0YJRwrbHmyLtfdb8DtZm8B4Hhp5nRFlb2wG3xifdhtIdvAdc37WpH1/pkq/pSRhcRIHvY8W81g2KL+bll95zBJhCrSdRbQG5RMm3jyqEetOhi9wKulcmh1DfhgUfPUieJaZz5FXrViu9pI/ltr2S8EQuVfU+YHwQ6G2b1Iu4s8rQQd0y8vAU5p1dGNAi068/JUhcFJvKkzyR7vMvUqg9Zhb0B9ycvKp+yg==;I4LM83Mw+T3u4jlidmrflg=="
 ---
 

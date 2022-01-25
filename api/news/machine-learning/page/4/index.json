@@ -2,6 +2,52 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-01-future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change.md",
+      "title": "Future of Machine Learning: Ways ML and AI Will Drive Innovation & Change",
+      "excerpt": "It’s not a surprise that Artificial Intelligence (AI) and Machine Learning (ML) are two of the top buzzwords in today’s technological world. But, how will the two technologies create innovation and change in the near future?",
+      "sourceUrl": null,
+      "webUrl": "https://customerthink.com/future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change/",
+      "originalUrl": "https://customerthink.com/future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CustomerThink",
+        "domain": "customerthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI in Finance",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-data-analytics-ml-and-ai-reflections-on-2021-and-thoughts-on-2022-trends.md",
       "title": "Data, Analytics, ML and AI: Reflections on 2021 and thoughts on 2022 trends",
       "excerpt": "After the pandemic-induced digital transformation of 2020, the year 2021 saw great advancement in the use of data to drive real business decisions. Many organizations accelerated their investment in t",

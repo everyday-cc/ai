@@ -2,6 +2,117 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-12-27-india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai.md",
+      "title": "India Symposium 2021 strengthens India and Europe ties in Fintech and AI",
+      "excerpt": "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the “India Symposium 2021” on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/ani-press-releases/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai/789246/",
+      "originalUrl": "https://theprint.in/ani-press-releases/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai/789246/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2021/12/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/ani-press-releases/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai/789246/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai/789246/?amp",
+      "publishedDateTime": "2021-12-27T04:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-abrupt-decline-in-serious-cognitive-problems-among-older-americans-study-says.md",
+      "title": "‘Abrupt decline’ in serious cognitive problems among older Americans, study says",
+      "excerpt": "From 2008 to 2017, the percentage of adults ages 65 and older in the U.S. with serious cognitive issues dropped ... comment threads to stories from wire services such as the Associated Press ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/?amp=1",
+      "publishedDateTime": "2021-12-27T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-aterian-signs-a-50-million-credit-facility-with-midcap-financial-trust.md",
+      "title": "Aterian Signs A $50 Million Credit Facility With MidCap Financial Trust",
+      "excerpt": "(Nasdaq: ATER) (“Aterian”) announced today that it has signed an asset backed credit facility with MidCap Financial Trust (“MidCap”), which is managed by a subsidiary of Apollo Global Management, Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aterian-signs-50-million-credit-facility-with-midcap-/2021/12/27/9517095.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aterian-signs-50-million-credit-facility-with-midcap-/2021/12/27/9517095.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-if-ai-is-predicting-your-future-are-you-still-free.md",
       "title": "If AI Is Predicting Your Future, Are You Still Free?",
       "excerpt": "Yet the more we use AI to categorize people, predict their future, and treat them accordingly, the more we narrow human agency, which will in turn expose us to unchartered risks. Human beings have been using prediction since before the Oracle of Delphi.",
@@ -1040,152 +1151,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-learn-what-makes-a-self-driving-car-autonomous.md",
-      "title": "Learn what makes a self-driving car autonomous",
-      "excerpt": "Tesla does not build self-driving cars. Neither does General Motors, nor Ford. In fact, there isn't a single self-driving car on sale today. That's because no system packed into a new vehicle meets the SAE Scale of Autonomy's standard to be considered a real autonomous car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/9YiprbK9xrRd1tBOewVjQZT-Pxs=/2021/07/19/f4906df1-4775-4c58-af91-e54e373ad686/tesla-fsd.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/",
-      "publishedDateTime": "2021-12-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-2022-look-ahead-arms-race-will-dominate-us-china-competition.md",
-      "title": "2022 look ahead: Arms race will dominate U.S. - China competition",
-      "excerpt": "Admiral James Stavridis was 16th supreme allied commander of NATO and 12th dean of the Fletcher School of Law and Diplomacy at Tufts University. He spent the bulk of his operational career in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Opinion/2022-look-ahead-Arms-race-will-dominate-U.S.-China-competition",
-      "originalUrl": "https://asia.nikkei.com/Opinion/2022-look-ahead-Arms-race-will-dominate-U.S.-China-competition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F7%252F0%252F3%252F38073077-1-eng-GB%252FA20211223%2520aircraft%2520carrier%2520Liaoning.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-25T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-taiwans-opposition-kmt-rushes-to-regain-lost-voice-in-america.md",
-      "title": "Taiwan’s opposition KMT rushes to regain lost voice in America",
-      "excerpt": "High-level Kuomintang official is in Washington to speed up reopening of liaison office and counter the influence of Taiwan’s ruling DPP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "originalUrl": "https://www.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/24/01bf6034-a56d-4eaf-a516-1f55929838b3_9ced3255.jpg?itok=Jhq02AR0&v=1640357815",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "publishedDateTime": "2021-12-25T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

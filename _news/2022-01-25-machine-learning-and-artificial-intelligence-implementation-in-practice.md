@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learn
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/amp/"
 type: article
-quality: 105
-heat: 105
+quality: 107
+heat: 107
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/61eebc8aace40667193daae5/0x0.jpg?format=jpg&width=1200&fit=bounds"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-dri
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
         width: 1920
         height: 984
         isCached: true
-  - title: "Self-Driving Sensor Maker Luminar Partners with Mercedes-Benz"
-    excerpt: "Luminar and Mercedes-Benz partnered on development of automated-driving systems for the automaker's cars. And Mercedes took a stake in Luminar."
-    publishedDateTime: 2022-01-21T01:44:00Z
-    webUrl: "https://www.thestreet.com/investing/luminar-partners-with-mercedes-autonomous-vehicle-safety-tech"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/luminar-partners-with-mercedes-autonomous-vehicle-safety-tech"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/luminar-partners-with-mercedes-autonomous-vehicle-safety-tech"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 24
   - title: "VW Teams With Biggest Car-Parts Maker to Boost Self-Driving Push"
     excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to bolster its automated-driving push and catch up with the likes of Tesla Inc. on software development. VW’s Cariad software unit will work with the world’s largest auto-parts supplier to introduce features allowing drivers to temporarily take their hands off the steering wheel starting in 2023,"
     publishedDateTime: 2022-01-25T08:24:00Z

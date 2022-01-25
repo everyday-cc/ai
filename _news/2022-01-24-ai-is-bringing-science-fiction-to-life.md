@@ -68,7 +68,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 57
+    quality: 59
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/studying-the-big-bang.jpg"
         width: 2880

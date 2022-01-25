@@ -55,17 +55,6 @@ related:
         width: 1920
         height: 984
         isCached: true
-  - title: "Self-Driving Sensor Maker Luminar Partners with Mercedes-Benz"
-    excerpt: "Luminar and Mercedes-Benz partnered on development of automated-driving systems for the automaker's cars. And Mercedes took a stake in Luminar."
-    publishedDateTime: 2022-01-21T01:44:00Z
-    webUrl: "https://www.thestreet.com/investing/luminar-partners-with-mercedes-autonomous-vehicle-safety-tech"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/luminar-partners-with-mercedes-autonomous-vehicle-safety-tech"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/luminar-partners-with-mercedes-autonomous-vehicle-safety-tech"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 24
 
 secured: "xrQwSu6/lAq66vLlctDPyKdJpWcQN/8gD1cQ8Z64Kv/PhhA+0ns0ukjM61p82rzm/aCdmwMxCJqYi5DaYAoOczRB9hjOXRhxg/FxgczUHClJf1ZPhbIR6DCjwALSdG7gFSnPESInKIkHr+U1J424krQ0Y+//YkA/jt9zYZzAr0aGXN8a2ZpV2AE/a7il1k2XWYtmB4oOq4xRR8Wzu08Wjl4z/YlTlVGlDDiyoKi6BmXQlXyohHlrAxuU0ZKmsao7fxV8tWVFmytBGkMvAFqm0Fr8bQg+FONVcGWJ0Druu0WXDiNBpbeH+R6tUugCJYNDX0HXXAao0KVGqWboQ/Flw+wGJ5n81kKKqiVf2smpwCo=;vsc7uziCscGHkyM8EaqLGQ=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.html"
 ampWebUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-big-artificial-intelligence.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/studying-the-big-bang.jpg"

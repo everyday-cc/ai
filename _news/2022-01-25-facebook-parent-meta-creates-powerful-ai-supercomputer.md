@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Facebook parent Meta creates powerful AI supercomputer"
-excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
-publishedDateTime: 2022-01-25T04:29:00Z
-originalUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
-webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
-ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
+publishedDateTime: 2022-01-24T21:33:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+webUrl: "https://abcnews.go.com/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
 type: article
-quality: 41
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI Hardware
   - AI
-  - Natural Language Processing
+
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Meta Unveils New AI Supercomputer"
@@ -146,6 +150,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
+    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
+    publishedDateTime: 2022-01-25T16:13:00Z
+    webUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer"
+    ampWebUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 61
+    images:
+      - url: "https://img.chdrstatic.com/media/85c6e7bd-ac1f-49b6-9a01-b21a20453acf.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook Parent Meta Built the World's Fastest AI Supercomputer"
     excerpt: "Meta (formerly Facebook) is the latest company to build an AI supercomputer. Meta's new RSC supercomputer consists of 760 Nvidia GGX A 100 systems containing 6080 GPUs."
     publishedDateTime: 2022-01-25T06:45:00Z
@@ -193,22 +213,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/Meta-says-it-will-soon-have-the-worlds-fastest-AI-supercomputer-01-1.jpg"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
-    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
-    publishedDateTime: 2022-01-25T16:13:00Z
-    webUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer"
-    ampWebUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
-    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
-    type: article
-    provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 59
-    images:
-      - url: "https://img.chdrstatic.com/media/85c6e7bd-ac1f-49b6-9a01-b21a20453acf.jpg?width=1200&source=backend&auto=webp"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Facebook parent Meta is developing the “world’s fastest” AI supercomputer"
     excerpt: "The high-speed computer is designed specifically to train machine learning systems, according to Facebook-owned Meta RSC will be used to train a range of"
@@ -538,6 +542,20 @@ related:
         width: 1908
         height: 793
         isCached: true
+  - title: "Meta introduces SuperCluster, an AI supercomputer for metaverse research"
+    excerpt: "Social media giant, Meta has announced that it has designed and built the AI Research SuperCluster (RSC), one of the fastest AI supercomputers running today and will be the fastest AI supercomputer in the world when it’s fully built out in mid-2022."
+    publishedDateTime: 2022-01-25T18:00:00Z
+    webUrl: "https://technext.ng/2022/01/25/meta-introduces-supercluster-an-ai-supercomputer-for-metaverse-research/"
+    type: article
+    provider:
+      name: technext
+      domain: technext.ng
+    quality: 38
+    images:
+      - url: "https://technext.ng/wp-content/uploads/2022/01/PIX-1-1.jpg"
+        width: 1248
+        height: 701
+        isCached: true
   - title: "RUAG Space agrees AI partnership for satellite supercomputer"
     excerpt: "Switzerland’s RUAG Space said Jan. 24 it is teaming up with a software provider to run artificial intelligence solutions on its Lynx, which it says is the most powerful commercially available onboard satellite computer."
     publishedDateTime: 2022-01-24T23:03:00Z
@@ -618,6 +636,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "sh/l1PPGTj+Co+RZad8o7lxbwquTlKCdQ0xm41bXtnOIGNGUECxYtoYZ6jnNOhXrdAdteHCx6ZQXNrovyOApk/5jAwzhoZbz5NDo94hU23n41rhn9u65SrP+TehlTyMqEUIJ9Ul1vLGy4B6m1MBkC2Z2wfQwTL88PzyLSzQ5U5yjAEL0SPoJKVM0em52EjQkiGrDlwQuYUhAJ1EuUZQZmF55VLBq8xEDMfwv1U9503DKja8oQXmYL2VDMWBjlwo0TLrrfUs5p4b70NrSaOXIDnRzpafWoQn3IqzxbxBv9MhmIOkgyjw39fhEb5tK8QErMbqem1bLm/oxuzl2VJfuQGTqA+OarygyBIl2yBFGn86XRlnoLhYhDDZsz5sBwJQomUi7L9KQnDtY7XhVNuEeZbNh2iHSOmZbzMNSOaRJ5TQtcB966CrJbgMWxoBJJD24APevDrKEZ3jCLRvqCuSh9WhZ+CoU8ucTbowkee2QeXzxJSIUxP39XvgaiNNwVI17Ff3yqoeE0lygrNUNFh6h5Q==;TK5pM5LOyRRVXZhuFD4a6Q=="
+secured: "SOLL6EW2WIeGyq7WSQJYd8QeMPl7Dllbz9D22M9UBfb6IteOqqYzE6kmguf8yKs3A0wYKnK0arr1PAyPrhaEeCE1z7TajkFDP7oW3wLfjGTBgminyT0X4OTL6ZBoQgVL8sLCy9LoF4tnqu2HUuyhKazhoXm5ffMZQ+4B46YW6s1Vf/RFNI1YszoKBfXXjl8+R6uDnl2LYiolUrKLcMx5FEF7cUcKSU/sOjlEnKQPkubRudeoIK8OjpS/oB2wiA7tFr7FYDr26h4bdVz9wSsrUm7DejAzuK6RyGVLToxcGEUJYRBgzqEpHgefl7J8TmNomX2Gpcu/ZmxiFVC/5JvhWmkeFTgAwLUMo/TzCiU+fyI=;uwXE5kkmqZrDr80cBhraHQ=="
 ---
 
