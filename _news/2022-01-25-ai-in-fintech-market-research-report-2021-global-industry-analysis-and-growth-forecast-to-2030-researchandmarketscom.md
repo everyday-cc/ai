@@ -67,6 +67,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "AI in Fintech Market Research Report 2021 - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
+    excerpt: "The “AI in Fintech Market Research Report - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market size is projected to increase to $46,"
+    publishedDateTime: 2022-01-24T15:32:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-d194dc63cee442d2ace1cfa3616c6a1d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Automotive Smart Display Market Analysis 2021-2028 | Key Driving Factors, Application, Manufacturers, And Future Trends | Grand View Research, Inc."
     excerpt: "Market Research And Consulting.\"\"According to a new report published by Grand View Research, increasing demand for advanced"
     publishedDateTime: 2022-01-24T14:45:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/gov-experience/irs-to-require-facial-recogni
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true"
 type: article
 quality: 59
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -146,15 +146,6 @@ related:
       name: Dairy Herd
       domain: dairyherd.com
     quality: 16
-  - title: "Targeted Memory Reactivation During Slow-Wave Sleep May Facilitate Facial Recognition"
-    excerpt: "Recent research suggests targeted memory reactivation might help with facial recognition and name recall, but quality and quantity of sleep may be important factors in effectiveness."
-    publishedDateTime: 2022-01-20T21:52:00Z
-    webUrl: "https://www.ajmc.com/view/targeted-memory-reactivation-during-slow-wave-sleep-may-facilitate-facial-recognition"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 12
 
 secured: "UIG2VTfZvzhnL9XL0QbnPXyTj1AXXS8nL18tpT3/dq/HT+bwqSPDkZUv842o7oQPIWMeDJN21vUXXIfw5eArs9DDa0fz+MoGWBhscNRnFgNVJPYdJvGrQRnQbpBoXR9RYxY9Iyz/g9Driw247kq20l08eoTHjTgKqLn/Wmd/O0T2qrcE50B2Vv3D7QI54tKPVghLgaA78glm4x/2l2dKRIlDf84rTzDfgYpF5ghvASWo4EcNl7e5sOsX9HzDsqVNvFPvkEIQ+B9Uocj6x3VBwc7Bak9yjorIRIjA12Gr/dLpYT1SzBMfJylALaXJFPxWYab0b1B6GI5RgiT5ojzz8RXottmi75z7DjcZa7YlyYeQazDDwC6Fa9YFeRkTIiy36EXTclqqHaIcFrdodyfuMWgW+HhRj4z/mrthDraZB5YaCUxfYdXQDz8bN1HhPgu0H/50sUYntYgLKGTtMG9evcUiXEC8MsIGU3ZpEO7Vdxa3/gOFMf0wX6ACsWJh62FwP3MhXrTLjfYwSzICk0UJTA==;Fvzsw5xgB8pOGlvOPslltQ=="
 ---

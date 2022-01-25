@@ -1,26 +1,26 @@
 ---
 category: news
 title: "A2 Bio to Present at ASCO-GI 2022 on Use of Next Generation Sequencing (NGS) to Identify GI Cancer Patients for Future Tmod™ CAR T Therapy"
-excerpt: "Press Release A2 Biotherapeutics, Inc. (\"A2 Bio\") is a biotechnology company focused on the development of a first-in-class, logic-gated Tmod™ CAR T cell therapy platform to tackle the fundamental challenge in solid tumor treatment-the ability of cancer"
-publishedDateTime: 2022-01-19T05:25:00Z
-originalUrl: "https://venturebeat.com/2022/01/18/a2-bio-to-present-at-asco-gi-2022-on-use-of-next-generation-sequencing-ngs-to-identify-gi-cancer-patients-for-future-tmod-car-t-therapy/"
-webUrl: "https://venturebeat.com/2022/01/18/a2-bio-to-present-at-asco-gi-2022-on-use-of-next-generation-sequencing-ngs-to-identify-gi-cancer-patients-for-future-tmod-car-t-therapy/"
-ampWebUrl: "https://venturebeat.com/2022/01/18/a2-bio-to-present-at-asco-gi-2022-on-use-of-next-generation-sequencing-ngs-to-identify-gi-cancer-patients-for-future-tmod-car-t-therapy/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/a2-bio-to-present-at-asco-gi-2022-on-use-of-next-generation-sequencing-ngs-to-identify-gi-cancer-patients-for-future-tmod-car-t-therapy/amp/"
+excerpt: "A2 Biotherapeutics, Inc. (“A2 Bio”) is a biotechnology company focused on the development of a first-in-class, logic-gated Tmod™ CAR T cell therapy platform to tackle the fundamental challenge in solid tumor treatment—the ability of cancer medicines to distinguish between tumor and normal cells."
+publishedDateTime: 2022-01-18T22:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-business-tumors-cancer-0a96daf42067443faf1d277e845e60dd"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-business-tumors-cancer-0a96daf42067443faf1d277e845e60dd"
 type: article
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "+JMEQ/KxnVMgvt7WDaimcELUpts4CPsaao2aHOCfrzM0gq09rtHjzdtLoDIPW+Vv5ouUlLsD4NtowkJWG2hfu92eFHRXttj6oDmWDRpVXKefKzDy5b1ixJpSl0viWr6dEdfk3oiasG/ekaslKJrvytPa65TZHIlkvs5rwv5oeKOUhglXZRs9H+2jdaiXX2E+jBIV/KnVE9H0QoJuRgQRKoLkWLv/P7t37So67mFPkQL2o+iH0ZUPcwljp03A9SUSvr79V3Vkb8K/QGwnK6uaunBUjCe3qqMdhShGat6MQypvEDlqrNi1vDJSbIXD1loxR9G6ZGRqEAWurVY2K6WSKKMVAwKYUO2tNHBxVCaKi+M=;ES7qDqj2v4g/egKUdw7Hng=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "iYGOySY4ExoLwsQjyj4/uysVB7jqlWnLFkqO7L7FlH8azAtcFzS4DDyja/pshpOSfUNhkfpyWBmWTY11POXv1uUzMxGKV/NJysD4JInjYwXsA83r0tBkQ0q7pj6nrJI1379GP6plwWkmUiiN8Mqxavz6ge3hJNOXIGGgiKT2wQPL458mr1SOG6sF3BBgFCXwAL7NJ/6vnkB5JJxqI9OK2A+miD/V3ubLRdqoqmG1E9XAd0y0m8FLi7aRiwxUMyP0LV7ampCAxgYdVxtnjyUsPLCnJSplSo6tLYD8wbcWgT0YjAYA66NkW99YKgVJQ0sqnnz+fF3gEePBgOJRMYGw2SEiTyowh1TW05S3CS0wD80=;SPFpW1e5pOx84eSwMYMKWA=="
 ---
 

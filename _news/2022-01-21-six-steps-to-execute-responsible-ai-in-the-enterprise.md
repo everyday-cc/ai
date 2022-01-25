@@ -4,25 +4,30 @@ title: "Six Steps To Execute Responsible AI In The Enterprise"
 excerpt: "While organizations today may see Responsible AI (RAI) as an important part of their AI journey, we will see some significant shifts as new legislation creates reputational and financial risks for businesses."
 publishedDateTime: 2022-01-21T11:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/six-steps-to-execute-responsible-ai-in-the-enterprise/"
-webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/six-steps-to-execute-responsible-ai-in-the-enterprise/"
-ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/six-steps-to-execute-responsible-ai-in-the-enterprise/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/21/six-steps-to-execute-responsible-ai-in-the-enterprise/amp/"
+webUrl: "https://www.brookings.edu/events/responsible-ai-from-principles-to-practice/"
+ampWebUrl: "https://www.brookings.edu/events/responsible-ai-from-principles-to-practice/amp/"
+cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/events/responsible-ai-from-principles-to-practice/amp/"
 type: article
-quality: 69
-heat: 79
+quality: 187
+heat: 207
 published: true
 
 provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI Ethics
   - AI
+
+images:
+  - url: "https://www.brookings.edu/wp-content/uploads/2022/01/global_south_africa_electrity_pylons.jpg"
+    width: 3905
+    height: 2509
+    isCached: true
 
 related:
   - title: "The Rise Of Conversational AI In Retail"
@@ -39,7 +44,21 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Kanverse.ai Gained Momentum in 2021 on the Strength of AI-Powered Intelligent Document Processing Products for Finance and Insurance"
+    excerpt: "Kanverse, a pioneering Hyper automation company that emerged from stealth in May 2021 with cutting edge solutions to intelligent automate document processing workflows for enterprises of all sizes, reached significant milestones in annual revenue growth,"
+    publishedDateTime: 2022-01-25T07:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-c4a27b7b3fa0433199ae8c410a286976"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "WPgohs7pLSu6MT9o3OFG8ydgKYgEkNvTa08naUubbb5HZ3h2Dj7RRJM88V7rqQjT0GA6HFVdTiFbRZHaBHet9mPHyM4TnYa+7zCFQrDrFaaWB4BuFG0T6pBnIGSFgxObd198medKLIwjWvQlDBuMIQTJ39RF3+c2aAgsuogz9ggSf9Y64d2hQIqvVQUhqC4//Z+EBbgNMQN3MRQX4RKhPqlJfadpffTJAVh/qkKSdTXvYu1Z0TbcLbOuBUmLJ/hnrF+kw8xzhXNSVAp3QK76CGdwkrH6yp3+oz1yJ93KKy151nyOJgRL96KK5S9ZhZzwndBfHd0Qe/6PK2jeW7MPDlQ+UwKAHg2qZvRUqviDf64DeK5glyYuBJio+vCE5UAb7cebHf2QcPd+PETlj618nXqsQTFXemyxBQq/Ky4RVfuX7Rbnz+Pio4kG3zmMkNfgsQo6PGMcfZgqFQNRMRV23AoTIJFnXMejLv5WLIuoSrGP1FRe48oQZdz9Noocbx7/silb0GeOtZ/kUFb789Rm1A==;/QKW+7TpgJcZIqgEURIwyQ=="
+secured: "dXGtJwvyGSTQwkgk9cup+A0tAcLtWm9p7y92/OVzSjPJCaptdUGRhk5HZBYO0MlXDIdv7XYrgy9iW0js6d797qQvcktcPHSr03/HF+eg7cK9bYzxrlIH7u7nL9n4bUlpGJTk7fnTPrnsdZn07B+4//8H1DBp13JOdLAviU/2KXiqYAc8XbXY60yVMHz9rt2o2kLS6f1clP11/djLRtMXpV2t2T9wwRMCBigu3+xbaZbg68jYNmXxWtgdET9XKHLhQFLxiRBOmrnPYQ73lHBOLeWQnIOKvlfbIStTMcnSV5tx0pRQrCN0tWNuJwMxIKoz+JIbSuQBiAMzdr/qkMudH8uqmvWpr1RoBnobgxU/cqo=;xx45YfXKS/PN1jKE3TqXTQ=="
 ---
 

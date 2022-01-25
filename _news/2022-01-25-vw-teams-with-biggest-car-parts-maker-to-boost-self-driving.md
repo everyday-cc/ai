@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "New Ratings Aim To Make Partial ‘Self Driving’ Safer"
-    excerpt: "Many partially automated systems that “share” the driving with motorists, like Autopilot, Pilot Assist and Super Cruise, don't provide enough back-up protections, according to a new ratings system."
-    publishedDateTime: 2022-01-20T21:58:00Z
-    webUrl: "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/"
-    ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/"
+  - title: "Volkswagen collaborates with Bosch to strengthen its self-driving goals"
+    excerpt: "Volkswagen and Bosch have partnered to develop features that will help users temporarily take their hands off the steering wheel."
+    publishedDateTime: 2022-01-25T12:38:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-collaborates-with-bosch-to-strengthen-its-self-driving-goals-41643110842245.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-collaborates-with-bosch-to-strengthen-its-self-driving-goals/amp-41643110842245.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/volkswagen-collaborates-with-bosch-to-strengthen-its-self-driving-goals/amp-41643110842245.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61e9e75f4b77c5fa20f81778/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "VW Teams With Biggest Car-Parts Maker to Boost Self-Driving Push"
-    excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to bolster its automated-driving push and catch up with the likes of Tesla Inc. on software development. VW’s Cariad software unit will work with the world’s largest auto-parts supplier to introduce features allowing drivers to temporarily take their hands off the steering wheel starting in 2023,"
-    publishedDateTime: 2022-01-25T08:24:00Z
-    webUrl: "https://www.bloombergquint.com/business/vw-teams-with-biggest-car-parts-maker-to-boost-self-driving-push"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 24
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
+      - url: "https://images.hindustantimes.com/auto/img/2022/01/25/600x338/2021-04-26T133630Z_33153905_RC2P3N9K1HNF_RTRMADP_3_USA-COURT-VOLKSWAGEN_1619774061235_1643114007943.JPG"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "C09ubJjfaTiYxNziFA/NpDtr9/GGj46jxtfuA27HFWdBGieIr6/ouyDHECFQZB9Lr9wSnYLAQdrQIo6B2Nz8UfT8IyBfpSJa5ZeZLW6PWpZRFlxb6/Ghl4a9riA3PC2hxAaAPMOl3inzvpixtrHTqCNiht6lWg/C/4qpnTSVeItdsZXEEaBMY0JQKosPoXd0JV++vaLYsUrpEz4J6H4jJtErX+Olk20UcNcOzeBpoWhpkTX8Weg2oOS4HWF2lMm1p2u4smGW3K/BcyN5hGqHVC4Ds9Gx7pmRMo1qmKwwvG8GoHQEYHf1Id4kNeVYdt7dU3EbA/bBqEcKBnQZrpZvkqgqKgnz4eMzDBkunLNmuMI=;CbrslUz3iTELujiUHwEPtw=="

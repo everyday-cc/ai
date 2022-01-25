@@ -25,36 +25,58 @@ images:
     isCached: true
 
 related:
-  - title: "New Ratings Aim To Make Partial ‘Self Driving’ Safer"
-    excerpt: "Many partially automated systems that “share” the driving with motorists, like Autopilot, Pilot Assist and Super Cruise, don't provide enough back-up protections, according to a new ratings system."
-    publishedDateTime: 2022-01-20T21:58:00Z
-    webUrl: "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/"
-    ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/"
+  - title: "Mercedes sees Luminar eyes in its self-driving cars"
+    excerpt: "Mercedes-Benz has taken a major step forward in its efforts to produce self-driving cars, partnering with Luminar to include the latter’s Iris lidar technology in Mercedes-Benz vehicles. The"
+    publishedDateTime: 2022-01-25T13:00:00Z
+    webUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/"
+    ampWebUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61e9e75f4b77c5fa20f81778/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1120
-        height: 630
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/mercedes-luminar.jpg"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "VW teams with biggest car-parts maker to boost self-driving"
-    excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to bolster its automated driving push and catch up with the likes of Tesla Inc. on software"
-    publishedDateTime: 2022-01-25T10:37:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/25/01/2022/vw-teams-with-biggest-car-parts-maker-to-boost-self-driving"
+  - title: "Mercedes self-driving cars will use Luminar lidar sensors"
+    excerpt: "Mercedes-Benz said on Thursday that it selected America's Luminar for the supply of lidar systems to be used in its electronic driver-assist systems and eventual full self-driving systems. Mercedes has also acquired a small stake in Orlando,"
+    publishedDateTime: 2022-01-21T13:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1134822_mercedes-self-driving-cars-will-use-luminar-lidar-sensors"
     type: article
     provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
+      name: Motor Authority
+      domain: motorauthority.com
     quality: 24
     images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20220124_1643022010-187.jpg?1643022010"
-        width: 960
-        height: 637
+      - url: "https://images.hgmsites.net/hug/luminar-and-mercedes-benz-logos_100825469_h.jpg"
+        width: 1920
+        height: 984
         isCached: true
+  - title: "Self-Driving Sensor Maker Luminar Partners with Mercedes-Benz"
+    excerpt: "Luminar and Mercedes-Benz partnered on development of automated-driving systems for the automaker's cars. And Mercedes took a stake in Luminar."
+    publishedDateTime: 2022-01-21T01:44:00Z
+    webUrl: "https://www.thestreet.com/investing/luminar-partners-with-mercedes-autonomous-vehicle-safety-tech"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/luminar-partners-with-mercedes-autonomous-vehicle-safety-tech"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/luminar-partners-with-mercedes-autonomous-vehicle-safety-tech"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 24
+  - title: "Self-Driving Pioneer Luminar Seals Deal With Mercedes. The Stock Is Jumping."
+    excerpt: "Luminar Technologies will provide Mercedes with lidar, its laser-based radar. Most auto makers developing self-driving cars are using lidar."
+    publishedDateTime: 2022-01-20T23:11:00Z
+    webUrl: "https://www.barrons.com/articles/luminar-mercedes-self-driving-51642705732"
+    ampWebUrl: "https://www.barrons.com/amp/articles/luminar-mercedes-self-driving-51642705732"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-mercedes-self-driving-51642705732"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 21
 
 secured: "xrQwSu6/lAq66vLlctDPyKdJpWcQN/8gD1cQ8Z64Kv/PhhA+0ns0ukjM61p82rzm/aCdmwMxCJqYi5DaYAoOczRB9hjOXRhxg/FxgczUHClJf1ZPhbIR6DCjwALSdG7gFSnPESInKIkHr+U1J424krQ0Y+//YkA/jt9zYZzAr0aGXN8a2ZpV2AE/a7il1k2XWYtmB4oOq4xRR8Wzu08Wjl4z/YlTlVGlDDiyoKi6BmXQlXyohHlrAxuU0ZKmsao7fxV8tWVFmytBGkMvAFqm0Fr8bQg+FONVcGWJ0Druu0WXDiNBpbeH+R6tUugCJYNDX0HXXAao0KVGqWboQ/Flw+wGJ5n81kKKqiVf2smpwCo=;vsc7uziCscGHkyM8EaqLGQ=="
 ---

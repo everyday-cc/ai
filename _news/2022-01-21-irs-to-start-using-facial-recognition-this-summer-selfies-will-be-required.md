@@ -146,15 +146,6 @@ related:
       name: Dairy Herd
       domain: dairyherd.com
     quality: 16
-  - title: "Targeted Memory Reactivation During Slow-Wave Sleep May Facilitate Facial Recognition"
-    excerpt: "Recent research suggests targeted memory reactivation might help with facial recognition and name recall, but quality and quantity of sleep may be important factors in effectiveness."
-    publishedDateTime: 2022-01-20T21:52:00Z
-    webUrl: "https://www.ajmc.com/view/targeted-memory-reactivation-during-slow-wave-sleep-may-facilitate-facial-recognition"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 12
 
 secured: "enUHgAqGFxhSogLH0okapsDrxBOMUwzQLMpu1+6rWnciV2Z55LuYaYhSJJ9rA22r6+IVD/+Z+Dlv8Rmbh+tVu/TtN7Vv4YfHLKSqo8JqbGs1jms3MSA8zXs4Qa+HB+rPVM9fAfXTfvrdiFRu4PS953M9bghBSgiTe/4ogu7IBJAFmvjb44pyyLENqtd1lAvMK1zlvfk13PJRdFcV5w5N7cjVCz5hAm6fr4YiG9qPF20A0+LLtWpzpDzAHFGXaMQKt7ARQeowMqCIz1VRKPjI78xYiKBT3l15mrIMfQfaK0nlt2R9R+Ioc3Q2f0ZpivTP46rmH0N9N/oKeutiR2DO4j7Uz62eZzv+IlbE6PZ0tlg=;X0TL23pY6QCN2Mpi1u/Azg=="
 ---

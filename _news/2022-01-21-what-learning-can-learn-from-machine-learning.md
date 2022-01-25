@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning: The Future of the Market Manipulation Surveillance Program"
+    excerpt: "FINRA’s Market Regulation and Technology teams recently wrapped up an extensive project to migrate the majority of FINRA’s market manipulation surveillance program to using deep learning in what is perhaps the largest application of artificial intelligence in the RegTech space to date."
+    publishedDateTime: 2022-01-25T14:52:00Z
+    webUrl: "https://www.finra.org/media-center/finra-unscripted/deep-learning-market-surveillance"
+    type: article
+    provider:
+      name: FINRA
+      domain: finra.org
+    quality: 38
+    images:
+      - url: "https://www.finra.org/themes/custom/finra_bootstrap_sass/images/FINRA_Logo_Web_Rev.png"
+        width: 901
+        height: 333
+        isCached: true
   - title: "Determining evolution of COVID-19 mortality rates using machine-learning"
     excerpt: "Researchers predict the evolution of COVID-19 mortality rates across countries using a biological science-guided machine learning-based approach."
     publishedDateTime: 2022-01-24T02:27:00Z

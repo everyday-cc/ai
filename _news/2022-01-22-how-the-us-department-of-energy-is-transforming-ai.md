@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-de
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences"
+    excerpt: "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes."
+    publishedDateTime: 2022-01-25T14:17:00Z
+    webUrl: "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/"
+    type: article
+    provider:
+      name: Contract Pharma
+      domain: contractpharma.com
+    quality: 50
+    images:
+      - url: "https://dev.rodpub.com/images/248/280_main.jpg"
+        width: 1542
+        height: 833
+        isCached: true
   - title: "How Artificial Intelligence will Transform Businesses"
     excerpt: "All around us, we see technology blooming starting from cars, to transport, to entertainment and now in businesses as well. Businesses have been making use of technical advancements in order to boost their productivity and those that are doing it have proved to be very efficient in the market."
     publishedDateTime: 2022-01-23T12:49:00Z
@@ -53,6 +67,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Aurigo Software Launches Engage Platform To Transform Public Feedback Using Artificial Intelligence"
+    excerpt: "Aurigo Software, North America’s leading capital planning and construction management solution provider, announced the launch of Aurigo Engage, an AI-based, secure, cloud-based application designed to collect and incorporate community feedback for public agencies during the capital planning process."
+    publishedDateTime: 2022-01-25T12:58:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-north-america-artificial-intelligence-7626ce60b98412e4c90c1356722964ab"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bowenislandundercurrent.com/amp/coronavirus-covid-19-loc
 cdnAmpWebUrl: "https://www-bowenislandundercurrent-com.cdn.ampproject.org/c/s/www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Bowen Island Undercurrent
@@ -38,6 +38,20 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 37
+  - title: "Artificial Intelligence Could Help Detect Onset of Cardiovascular Disease"
+    excerpt: "Their findings are published in the journal PLOS Digital Health in a paper titled, “ An explainable artificial intelligence approach for predicting cardiovascular outcomes using electronic health records ."
+    publishedDateTime: 2022-01-25T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/artificial-intelligence-could-help-detect-onset-of-cardiovascular-disease/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 36
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/12/GettyImages-1293132839-scaled-e1640204438522.jpg"
+        width: 1400
+        height: 900
+        isCached: true
 
 secured: "0+gZPQRXdmxRWcwlWycECP07kTjm/kPZRWJg37QLNJHIuo+r4VnDBDdZeCnDe7uv674Dq+10BErB/5hd9qjr/wZp8XGSkcEx/NX9kWxL5QF+NMCFV2CMiXXfpZdgIrpDtF5zIxK+eCUcDMUOqzmXFJHIlZeEjAeJwenv7LcE595zXy60d4czoikSvgM2BEBGITuAYJsaK4IW37l1ZL3dv4g+qpZ21DJDfXDm6URUKCfaX9okRk/0cESvnb4BFV1U6oaIoTZz1Q4CyQO17IQJInzlYbaoyj71eJAHbAde5mqZ1thHWJUHCeQIA5vS9vSuz1iObnOfaViP4gjhzKOLQlO+GCkYFXtZDYbq4TwKEFM254Dk+2EZ0CNHX97voe0HqVGe6V87TZqjpvGgyu43Kl6o7uAJ22TJkU6c4OWKkWS08eGu5i8vxIK6eL1YNxOX3xJptkJGLU9fmGVG262V9t28fBWrqpZMT8QOK+XWn8pCFhPP/tpIpIw67tfH6JLdhZ2iOq97dM6kX54Xj/uj5w==;qyAcubE6RMBTliAJCDaeVg=="
 ---

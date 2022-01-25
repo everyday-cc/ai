@@ -26,6 +26,22 @@ images:
     height: 337
     isCached: true
 
-secured: "E2Ca+IDvXs7yusibteIXDsXDllRe9o/6zyTj5was3VMrQ2fbmrJAmPKAzntyAT62w0oAMoA43w8xnga+fo0JXrUq1lHz64DGwM3tzvMcvmf4Z8kOYlF1GA30FyIXNjTRK3C3UROo4pbIy8FDQzG2mrc/IGXrkbrCxF0XVEO6zfJ0e0jAG0dUe7Fqw7V59wSrZ9UzUwPvqnFOL5bSFURBGJiHGKDrQP25fJKfIMXxnFl1YtZM4AchOmrRswJXcVkRFXUa7sIctw7OXkwUW10x6jVPeqxvShTLnGuwR3OxE7XVbZMW5643Kva90EzeMp65YUaEQPLSzLzhkEyPVdrWVG7Jfs/50IOaZyMvK8YHWFo=;/lLTTOAnHJRzuQDAoIA79A=="
+related:
+  - title: "VW teams with biggest car-parts maker to boost self-driving"
+    excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to bolster its automated driving push and catch up with the likes of Tesla Inc. on software"
+    publishedDateTime: 2022-01-25T10:37:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/25/01/2022/vw-teams-with-biggest-car-parts-maker-to-boost-self-driving"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 24
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20220124_1643022010-187.jpg?1643022010"
+        width: 960
+        height: 637
+        isCached: true
+
+secured: "+hlLShAQAkvcPO5gwvvQNNpqqPNmRXz2JLT5bhj3Bw7NCJD2cT7Rxo4ANRY2wH8M90+YHV7rRUnuyje05lCU2pWvJJuT6ww3hhguSaaZi+CUnNdXYweJNsDalJT+TEK0gtIKC7MlJ+YfUmqwTR1M0C5kzfhDDe7oOOCk5fKw4M9SnNN7qoyD8Z79Ek0REwaDDR0bSt2yHXd2zm3wwsJPFOTKbPsOk6XdqrMZ4zQxQeYvTl9nx5pkAkYAT6OSGrzQVxgBgA5wEJ00Zg4wUjybvjWUUJn709zlpeaTUlpkvF9dZ/nIs4JK8WfAU+jyjqsMxBw7x9Xbc5oL20WuGyObIUkbBMil0C7857EQDjHgnY79BHpIDpP4lZvoiTIuRcv3uuHHl368TRgYyHPavJCOCmiYmKep8xPCRbnCXFO2DgfBkxHs7bRElGWqeydQf6w5FqNeH4h546wuWuJrkcxiVR5K+IelGYLdMYkCsd+tCi5ManZgjzrT4GvKNV8QEO5iD4rpEnvwvwAe6m7z3JvppQ==;JfqGYbvZFMWOBlDe1iwrPA=="
 ---
 

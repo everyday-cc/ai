@@ -36,6 +36,20 @@ related:
         width: 1000
         height: 734
         isCached: true
+  - title: "Artificial Intelligence Could Help Detect Onset of Cardiovascular Disease"
+    excerpt: "Their findings are published in the journal PLOS Digital Health in a paper titled, “ An explainable artificial intelligence approach for predicting cardiovascular outcomes using electronic health records ."
+    publishedDateTime: 2022-01-25T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/artificial-intelligence-could-help-detect-onset-of-cardiovascular-disease/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 36
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/12/GettyImages-1293132839-scaled-e1640204438522.jpg"
+        width: 1400
+        height: 900
+        isCached: true
 
 secured: "NoBx8XO/YCSxVdsxpY2zPCEuV9xIqIeeC+4uRku9Ei/iMH49+7GpMnYyZV2I5RWYw5VFNs6iqxRaFt0BQVNFW1etBNBJB+5VQYiMCHfqxs1jX4TGpYIybc7tvL+tVMtweddd3VJQ9gFYVw32rbxLDcbJzLRZ5r0hISK3x6YuV0l651cClMcnqmjK8j8BPngrFnuyZpWzBX7YKhISo3xC8NQUzJEG9pw5K64+ULrgCu56G42a3OwgGaPHh6waGxW8h2/WrLNIhLxheFU2Xroy6eMlvmeRkfjnbQzckyDvMCGpF9nQf0PcqSFoA5EPXyrcpdI8VH09LzSwgZ6n2al/dnBhKLE8uKvwJRIeTHh/9jt2pEUVkpE7qwme+BrXlM6bE6XOZ7Z4o9qCMmSsgrOAKQ1sdb0kjun3612vBhQpQFdIFR5P9eon6lquCM752TepCAjWQ03CBbfm3bJA3rrbyHqg70YhKqcw3kLq+dySIN3s6iwsBa2Hvn/7SRd9PQRJ5B38/W313lBxWv23eABvWg==;cg0o53K1Lfv2G0b/gtCMUg=="
 ---

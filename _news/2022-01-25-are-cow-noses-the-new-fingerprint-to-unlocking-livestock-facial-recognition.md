@@ -145,15 +145,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Targeted Memory Reactivation During Slow-Wave Sleep May Facilitate Facial Recognition"
-    excerpt: "Recent research suggests targeted memory reactivation might help with facial recognition and name recall, but quality and quantity of sleep may be important factors in effectiveness."
-    publishedDateTime: 2022-01-20T21:52:00Z
-    webUrl: "https://www.ajmc.com/view/targeted-memory-reactivation-during-slow-wave-sleep-may-facilitate-facial-recognition"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 12
 
 secured: "BMxdFbRNed2PIJ0Xy7gHksIu9ix4Zm7fybvZ4mWo3TYEvkfA7sD2qHTkr2ULW3EzuAzD98/AnWsRXC23ZVQK/vIoc9lZPzq9AdylLNjYdlBhu+YpqmJwwhSxgEGXTmwicP4qHGej3dZFQaqJtSfsI+c4AXrb9gObfpUqjj9fgF/SK1l4MiF3e/0iEyiEkDqSkHJS31co4/L7xMaJtKjApVqoc/zp6EU6e1JVWSevzOtIG2H1k8lDjXxUMfctbp4pZxG7QBZvRHEKdoHeWfUhMhw9QJkuYEC/JevAgSxGzovsDyL9LORWWwnQnP5pGi5YkgfG7t9CsLaMoQaVjHgciB/u631ECFeKtRd8Qj3EsT8=;Ie78Z9MZ2+R2BjwUNx+TmQ=="
 ---

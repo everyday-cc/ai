@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-produc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-89084442,imgsize-52818,width-1200,height-628,overlay-etcio/ai-is-bringing-science-fiction-to-life.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Studying the big bang with artificial intelligence"
+    excerpt: "Artificial intelligence is being used for many extremely complex tasks. So why not use machine learning to study particle physics? As it turns out, this is not easy, because of some special mathematical properties of particle physics."
+    publishedDateTime: 2022-01-25T14:23:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/941106"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/90ee72b7-a860-44d9-986e-202e79b1f732/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
         isCached: true
   - title: "Using Artificial Intelligence to Accelerate Wildlife Conservation"
     excerpt: "While Artificial Intelligence (AI) is revolutionising multiple aspects of our lives, there is limited uptake of AI in supporting ecological well-being and protecting the nearly 1 million species currently threatened with extinction. Wildlife.ai is a New ..."

@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Studying the big bang with artificial intelligence"
+    excerpt: "Artificial intelligence is being used for many extremely complex tasks. So why not use machine learning to study particle physics? As it turns out, this is not easy, because of some special mathematical properties of particle physics."
+    publishedDateTime: 2022-01-25T14:23:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/941106"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/90ee72b7-a860-44d9-986e-202e79b1f732/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Pony.ai to begin mass production of autonomous systems in 2022"
     excerpt: "Chinese autonomous driving technology company Pony.ai said it planned to begin mass production of automotive grade equipment by the end of 2022 as it brings forward the roll out of Level 4 autonomous driving technology,"
     publishedDateTime: 2022-01-21T14:42:00Z
