@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/australian-space-agency-bel
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/"
 type: article
 quality: 95
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
         width: 421
         height: 421
+        isCached: true
+  - title: "Recognition for giving Indigenous communities a voice in Australia Day Honours 2022"
+    excerpt: "For Caringbah's Sharlene McKenzie, being able to give fellow Indigenous people a strong and supportive voice is a passionate and daily goal. For this dedication she has received an OAM on Australia Day for service to the Indigenous communities of South East Sydney."
+    publishedDateTime: 2022-01-25T19:00:00Z
+    webUrl: "https://www.theleader.com.au/story/7589651/giving-indigenous-communities-a-voice/"
+    type: article
+    provider:
+      name: The Leader
+      domain: theleader.com.au
+    quality: 18
+    images:
+      - url: "https://www.theleader.com.au/images/transform/v1/crop/frm/cmVmMQsbi2AtDjEpmZLhes/587c641d-a4e4-4fe2-ad6f-ff5e41f30cd9.jpg/r0_911_3024_2620_w1200_h678_fmax.jpg"
+        width: 1200
+        height: 678
         isCached: true
 
 secured: "zqM5pSRyiO5nkVjjqJOoJkS76XJ4bDGohwhFHHYNl5iZS/XXHOy9oopZMW4nG8BW4UJo9tbWAk4DFQ8+NTuBEZhwTzkNiD6exsaGr0hKTbuNk/Nq3MGTbU3IR62njf3OMg+UnkECz3cBvUwTv3SEZZHsGny8079vSVoF9rUYROxiBMqHj0cUrdgFePJE30qZNTsbzDszPdGy8lM7DutdimDg/aMYXc584FTzuWOPd7ZbRyRGoW9+yLSWM0pH5mM5MfhiigoSoMvXZqn/MatPOZ6ldltX6VgVdqJm4WVw5vUUTK9lvYjm+1HODnnU/CjiN4ip2eQamRv0lmlSHRmgKZ2ftrY//NYI10ki9NIurl8=;quELJvxBKKteNpymiV5OeQ=="

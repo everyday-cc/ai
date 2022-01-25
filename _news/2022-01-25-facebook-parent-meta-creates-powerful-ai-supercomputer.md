@@ -8,7 +8,7 @@ webUrl: "https://abcnews.go.com/Business/wireStory/facebook-parent-meta-creates-
 ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
@@ -636,6 +637,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "SOLL6EW2WIeGyq7WSQJYd8QeMPl7Dllbz9D22M9UBfb6IteOqqYzE6kmguf8yKs3A0wYKnK0arr1PAyPrhaEeCE1z7TajkFDP7oW3wLfjGTBgminyT0X4OTL6ZBoQgVL8sLCy9LoF4tnqu2HUuyhKazhoXm5ffMZQ+4B46YW6s1Vf/RFNI1YszoKBfXXjl8+R6uDnl2LYiolUrKLcMx5FEF7cUcKSU/sOjlEnKQPkubRudeoIK8OjpS/oB2wiA7tFr7FYDr26h4bdVz9wSsrUm7DejAzuK6RyGVLToxcGEUJYRBgzqEpHgefl7J8TmNomX2Gpcu/ZmxiFVC/5JvhWmkeFTgAwLUMo/TzCiU+fyI=;uwXE5kkmqZrDr80cBhraHQ=="
+secured: "LvtyOE61HRc2Byw1uvoIzqMoPhxb7G/wg6IZrMDEelnwnQouz8u8xXFEs834ngEGW5mwYmSDk8Z/ZeqDACE8ld2nquMYTo6jC0QJONaf7jt6MFqnEfyH4qFmxZ0njpVoJIA6g7R7wirFyT0ms4jqnCy+aDImP3CHGMw67Ugo0cg6QJSDYvbUZIgD2Z5ptc+ZDhrPHRydqw7iB7s59pDLNgLmqbvuIUfAoNZ4nUvnQRFN8uTreeNdw3ZZ7ZW8NCbn/E1JUo7eZ2ht6tfpdE6wxfQqz0G/SJNN8CZMefWTFePVhSWPLJvLmZaFLiJI5TPqcP1MW5N9G9nbJVrKAeEoinZLRx/JhwMiP6zcvpXxvu4kTWDH5NUFjAwknsHyQsHzOpEEqez8DxzuYc3aBVs+7QfpGERLuUunErLtKdsVjqaDOmftbevgAJrrTuLlc1A4s5WkM1rUt1XFHdNAqS/irLVKnvmJ1O46I+5K+uzA08uwwVPvfWEAlko1/VHa8BZnQD3bzII0DtXQtGT5mp9TSQ==;IGdyiOLECRXYpcA+ODWYpg=="
 ---
 

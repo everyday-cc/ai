@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Univfy and PracticeHwy Announce Partnership to Expand Access to Artificial Intelligence/Machine Learning Platform for Fertility Providers and Patients"
-excerpt: "SAN FRANCISCO BAY AREA, Calif. and IRVING, Texas, Jan. /PRNewswire/ -- Univfy, a global leader in using artificial intelligence (AI) and machine learning (ML) to personalize counseling and"
-publishedDateTime: 2022-01-25T13:15:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/univfy-and-practicehwy-announce-partnership-to-expand-access-to-artificial-intelligence-machine-learning-platform-for/article_302f6e58-2dc6-5332-886e-a128644d7803.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/univfy-and-practicehwy-announce-partnership-to-expand-access-to-artificial-intelligence-machine-learning-platform-for/article_302f6e58-2dc6-5332-886e-a128644d7803.html"
+excerpt: "Univfy, a global leader in using artificial intelligence (AI) and machine learning (ML) to personalize counseling and increase access to fertility care, announced today a strategic partnership with PracticeHwy's electronic medical records solution,"
+publishedDateTime: 2022-01-25T14:26:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532607.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532607.htm"
 type: article
-quality: 14
-heat: 14
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI in Healthcare
   - AI
   - Machine Learning
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/d0/8d0a10b9-13a6-5fc8-8f27-db6ecb418362/61f006a77a7f0.image.jpg?crop=1714%2C900%2C294%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
+  - AI in Finance
 
 related:
   - title: "Univfy and PracticeHwy Announce Partnership to Expand Access"
@@ -35,6 +31,6 @@ related:
       domain: tmcnet.com
     quality: 8
 
-secured: "wQTcqayYr+4d02AsGC1BljtOHI+CAW0Lj2Z8GWSpZacp0CO7xE6qUAu7dTpYHhPL1dbIEP4kGq6kfmvuYdhxjXpThoYW0Nlh2boix+CDsR/QS2ilobhh/QQ0gwfLlhkzVh3+B30lovf0+nZ//ePSc9uWqN+51MIiw+BGNHFZRlVfvs5yUHRiOcjJPiQsNCWVYFV3Y/Uu2QcQvFIZf1qqPDhN/LusORbxTgsgVBhsO8ww1F+zfTQQctYeIeGo7SqhLFF4nE+65qxWWG6Y5zBVVUpLUGQHsf7+Vy6oseY1K+l2JsCp+nmS+iLY8XRzqZUQgG9wFFP85IY3qD7ni8jCFeUb/6L+JNmz4NLwM4r56Uk=;KPVmo9ilwnmgEu1vYbxL5w=="
+secured: "lk+0G0K4z9ml96ooAO9/WWQV6/lAq6JwsvL2x6FXm0IhtXmjg1W4EzGgy+eGdHGJvDPyJYbrscvsceMcauyrVnJJcChEUz+2oeqMYlyShkGzCMbWqkIkYaMSrl0ctwNr4hT6ImDK+WOE3hwj5soQZdkRkUbUGB62wuNJMmQShY19Z/8M1NBhHSK0YDMi9ZUQqSvypBREUnVpQ5ZcG2SvQ/b5sW4che4ARXuq6plJzjDipU8dOboX+h0kmZ3uA6ClFcyZmrQd0aP9seDbN1loWUimBgSGojhvGj0WYA4X/SLX0RnnB/ZbicKClDfWuJ5DfsqQa5+/BodzpwgQhrUlCubie3vSYLu1zcx38AmFbF9IX4/vBHGzSNONx30ZPCqczc4uXkZFNQ2gy6qkgXQupMycKIMK0Hn4qxmK9AeTxvz7HlocQqWOxEMdeEe5/vyvvMqv961iTdo91R3Y3i5KX7x0evI57OYf0UTFjfkezLjHWEtkNF7YUD0tepmxHlqLn3YVBq7eGExJaCRRVvP17Q==;hgm9+/PX/QlswTuo5HKX/g=="
 ---
 

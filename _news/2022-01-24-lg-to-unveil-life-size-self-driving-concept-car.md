@@ -1,27 +1,27 @@
 ---
 category: news
 title: "LG to unveil life-size self-driving concept car"
-excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as “a home office,"
-publishedDateTime: 2022-01-24T11:20:00Z
-originalUrl: "https://www.canindia.com/lg-to-unveil-life-size-self-driving-concept-car/"
-webUrl: "https://www.canindia.com/lg-to-unveil-life-size-self-driving-concept-car/"
+excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month."
+publishedDateTime: 2022-01-24T12:41:00Z
+originalUrl: "https://menafn.com/1103584794/LG-to-unveil-life-size-self-driving-concept-car"
+webUrl: "https://menafn.com/1103584794/LG-to-unveil-life-size-self-driving-concept-car"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Canindia.com
-  domain: canindia.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.canindia.com/wp-content/uploads/2022/01/CINEWS_324x235.png"
-    width: 324
-    height: 236
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?920187"
+    width: 444
+    height: 250
     isCached: true
 
 related:
@@ -43,15 +43,15 @@ related:
         isCached: true
   - title: "Self-driving vehicles are our future. UMaine is showing how."
     excerpt: "\"Although buses and ride services are also an option, let’s face it, we’re not exactly known for a robust public transit system that adequately meets people’s needs throughout the state,\" Paul Fink writes."
-    publishedDateTime: 2022-01-25T05:00:00Z
-    webUrl: "https://bangordailynews.com/2022/01/25/opinion/opinion-contributor/self-driving-vehicles-are-our-future-umaine-is-showing-how-joam40zk0w/"
+    publishedDateTime: 2022-01-25T09:59:00Z
+    webUrl: "https://bangordailynews.com/2022/01/25/opinion/self-driving-vehicles-are-our-future-umaine-is-showing-how-joam40zk0w/"
     type: article
     provider:
       name: Bangor Daily News
       domain: bangordailynews.com
     quality: 39
     images:
-      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2022/01/Autonomous-Electric-Shuttle-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2022/01/Autonomous-Electric-Shuttle-scaled.jpg"
         width: 2560
         height: 1707
         isCached: true
@@ -81,6 +81,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "J5aUvRst9mh7QDOQPKuz6easqv0XM6Zw8CHbXbBgXACuWANDFAuGmSpKCjPrKERVVToUY4PQnXm995Ahm0jnYFYrpVPUpIE5huNSEMJ/kAFT367Hv94c5efLIcxXfGnuwxXahNDOEZH5K0wgqmiZNHR+s4QR4+0U+60qfYdZQJ5bHqqClz5qu4UyQRVk+RiR5v/KFjCE6FfBKtCYuuedYQvvEKZ8UiyhF2H8Go1KspZ7qiEn3QYz9q+ATzMtGj8rJFRpWSYEkBZ94OnRsZhQyJ0E5GbTQEGDVUrlnlcO1KwcYPnuYnRAA3DFz9k3zYc9tMhiU4sL+9ygD8jjjjmFJRsiWigwC1+MHrwFIfm6RHyAC7rKvKvEue5EK089I0OfreEmrDfn5sHBHgSdGcbonQSwnr20kMJOel0JuKsvr0UZIfwdYQ29gqBcFIXwq1o/vK7FAzGt7Ui02Uapdx9bZ1BDUVvWlTBbSB0OHQoymewYyvR7sgS07fOyL1+FnCwP37+FvU5dHGPlBjsnVdMu9w==;sVtMJ3jV+ZVT3alJHNzOlg=="
+secured: "zkJG3gZWa8oInKFo2BjiA64WR+AqNvKdxa/qCz9eRjUmlW1yPAiHcxx+3VpCC4nGU++LDk3kf8fXxqqssyNpU4sbiingtk4bZSKG+sfgZfuaBGh5OU48putgwAGxvcz6GFoAYh92qPVjMyLKEL4GSwseykiEE2UpnBeSLfQ/kA1TaDwUjGcIhUxXdg54RNueAfVV6FYzQ6SWsQLd52b6X8IZva0O/q9xoC9yCSDyGDuLCO5vTq7pxDqo+JtycSOqwnfcpgm7eYStuNziX2GaKu1qXeIBbu/tsTbC6i0mctYCyWExrX66glPvxuOs3CooVkukBrtzzdXHBj70rTroJB62jNRYd2cRDD4i3JcumAQ=;67+AOSA7IXhEiNwp/ltupw=="
 ---
 

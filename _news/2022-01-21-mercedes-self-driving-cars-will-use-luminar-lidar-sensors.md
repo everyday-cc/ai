@@ -41,6 +41,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "TECH TUESDAY: The race to self-driving cars"
+    excerpt: "Companies are now testing advanced 3D Lidar systems with that capability, racing to bring self-driving cars a step closer to reality."
+    publishedDateTime: 2022-01-25T19:25:00Z
+    webUrl: "https://www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/"
+    ampWebUrl: "https://www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: WLNS.com
+      domain: wlns.com
+    quality: 44
+    images:
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2019/11/self-driving-cars.jpg?w=1280"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "VW Teams With Biggest Car-Parts Maker to Boost Self-Driving Push"
     excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to bolster its automated-driving push and catch up with the likes of Tesla Inc. on software development. VW’s Cariad software unit will work with the world’s largest auto-parts supplier to introduce features allowing drivers to temporarily take their hands off the steering wheel starting in 2023,"
     publishedDateTime: 2022-01-25T08:24:00Z

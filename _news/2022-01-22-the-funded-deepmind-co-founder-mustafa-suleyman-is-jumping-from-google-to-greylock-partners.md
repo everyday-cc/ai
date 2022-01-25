@@ -63,20 +63,6 @@ related:
         width: 1080
         height: 604
         isCached: true
-  - title: "DeepMind Co-Founder Leaves Google To Join VC Firm Greylock Partners"
-    excerpt: "At Greylock, Suleyman will spend his time advising early-stage companies and investing in promising startups in the AI space, according to Reid Hoffman, venture capitalist at Greylock and co-founder of LinkedIn,"
-    publishedDateTime: 2022-01-21T04:00:00Z
-    webUrl: "https://www.mediapost.com/publications/article/370498/deepmind-co-founder-leaves-google-to-join-vc-firm.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/01/21/mustafasuleyman-600_yCfwatB.jpg"
-        width: 600
-        height: 375
-        isCached: true
 
 secured: "GBqLKXYH1518wRLNK6p6cyFcoHFJAkpgWRQPK9qVYxKOumXwfymq4XQXdR+RF7sWw++s8+3fmRI+oBr/k+jrQ3cHn1V/+OI1MSL0UqOSOaMVZq7MHRH+ZPoNR94Vb+ElTNumRW65ijK9svQTAlegUR9lUdpJzM2cyBKONzY+YO8/5bsQzyzwS6KbiAo8mNB94kPDlntRof3XMi4+jmTx9M34bS3bRCHlq6lh8XVIZY8Qi1Yu1ZWa2yVh/6kVsWxg2f9iuXDYQRW7a92Rt2cjkKCppmU2R8P+gOc/RKv+K9cZtufOHhmfVJ6zYYZdJIxfeQ5iv7aztJbm5fYmmVr1byWz50ir+7nlt+J8Ul9JoruqW1xC4WDeoG2LChij/5n/XyjiMTTMIUn4fuBSh9ORI+FaM0EooS0OJhC/saiD+Kj0WXd3jTRslP1HPZvtrX4BY6AmTjIcBCyEYwd3iaOGjmJj0jl9pX1c+YwJi65LuHoWSDLSreEd7JUxi9sy1O6+MwSWKZubkLdkbFyUmcQKXw==;hBSP3nLY2Y0vrezPjaSEtQ=="
 ---

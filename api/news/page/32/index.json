@@ -2,6 +2,176 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-12-27-the-robot-work-force-isnt-coming-its-already-here.md",
+      "title": "The robot work force isn't coming. It's already here",
+      "excerpt": "Retailers and restaurants are looking to robots and other technology to keep up with demand amid a labor crunch and booming online sales.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
+      "originalUrl": "https://www.cnbc.com/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106991733-1640019336314-IMG_1518.jpg?v=1640019644",
+          "width": 5952,
+          "height": 3968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
+      "publishedDateTime": "2021-12-27T05:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022.md",
+      "title": "Pudu Robotics to Exhibit Leading Commercial Service Robots at CES 2022",
+      "excerpt": "Pudu Robotics, the global leader in commercial service robots, has announced it will participate in CES 2022, which will take place between January 5-8 in Las Vegas, Nevada, United States. Pudu Robotics will exhibit seven service robots at its booth,",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/news/2021/12/27/pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022/17997/",
+      "originalUrl": "https://www.roboticstomorrow.com/news/2021/12/27/pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022/17997/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-artificial-intelligence-collaboration-aims-to-improve-alzheimers-care.md",
+      "title": "Artificial Intelligence Collaboration Aims To Improve Alzheimer’s Care",
+      "excerpt": "By leveraging data on artificial intelligence, consumer informatics, and aging, the University of Pennsylvania’s Collaboratory will aim to improve Alzheimer’s care.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/artificial-intelligencecollaborationaimstoimprove-alzheimers-care",
+      "originalUrl": "https://healthitanalytics.com/news/artificial-intelligencecollaborationaimstoimprove-alzheimers-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/2019-11-04-GettyImages-1003444920-e4b00c1efb9503a805928b101c78b499.png",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/artificial-intelligencecollaborationaimstoimprove-alzheimers-care",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligencecollaborationaimstoimprove-alzheimers-care",
+      "publishedDateTime": "2021-12-27T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world.md",
+      "title": "Second largest in AI talent pool, Bengaluru ranked fifth in the world",
+      "excerpt": "The ranking is derived based on a framework of indicators such as talent pool, investments, diversity of talent, the evolution of the country's digital foundations (TIDE).",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/01/full/1559400341-8581.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html",
+      "publishedDateTime": "2021-12-27T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai.md",
       "title": "India Symposium 2021 strengthens India and Europe ties in Fintech and AI",
       "excerpt": "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the “India Symposium 2021” on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,",
@@ -955,202 +1125,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-reviving-fintech-services-6-steps-to-prevent-false-declines.md",
-      "title": "Reviving Fintech Services: 6 Steps to Prevent False Declines",
-      "excerpt": "From using fraud tools to providing more data,, Managing Director EMEA for Signifyd, uncovers the importance of preventing false declines.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/digital-payments/reviving-fintech-services-6-steps-prevent-false-declines",
-      "originalUrl": "https://fintechmagazine.com/digital-payments/reviving-fintech-services-6-steps-prevent-false-declines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/data_2.jpg.png?itok=kYq70YSF",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-26T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse.md",
-      "title": "How AI, VR, AR, 5G, and blockchain may converge to power the metaverse",
-      "excerpt": "The metaverse could be the killer app for several of the most exciting emerging technologies that haven't yet found their footing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/",
-      "originalUrl": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1311757065-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/amp/",
-      "publishedDateTime": "2021-12-26T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-chinese-scientists-develop-ai-prosecutor-that-can-press-its-own-charges.md",
-      "title": "Chinese scientists develop AI ‘prosecutor’ that can press its own charges",
-      "excerpt": "Machine is so far able to identify eight common crimes such as fraud, gambling, dangerous driving and ‘picking quarrels’, researchers say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own",
-      "originalUrl": "https://www.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/24/4265d674-399a-48e7-9d49-2483db66fb2a_9b813b1f.jpg?itok=DMdLjKwP&v=1640339277",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own",
-      "publishedDateTime": "2021-12-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-how-music-ai-could-create-a-future-grammy-award-winner.md",
-      "title": "How music AI could create a future Grammy award winner",
-      "excerpt": "Watching Paul McCartney create the eponymous song out of seemingly nothing, as George Harrison stands nearby yawning, is one of 2021's cinematic pleasures. The Beatles are arguably the most successful pop group in history and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/features/could-ai-create-a-future-grammy-award-winner-in-music/",
-      "originalUrl": "https://www.cnet.com/features/could-ai-create-a-future-grammy-award-winner-in-music/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/QDQTeZU5bWFyDnABg5xu4myWs1w=/1200x630/2021/12/08/3b88e432-d4c7-4139-8b5d-12067ff652c3/gettyimages-900233104.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/could-ai-create-a-future-grammy-award-winner-in-music/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/could-ai-create-a-future-grammy-award-winner-in-music/",
-      "publishedDateTime": "2021-12-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

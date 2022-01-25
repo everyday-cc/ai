@@ -2,9 +2,9 @@
 category: news
 title: "Could artificial intelligence help people survive one of the world's deadliest diseases?"
 excerpt: "Sepsis is responsible for one in five deaths worldwide, and is likely an underlying cause of COVID-19 deaths. Now a Vancouver immunologist says he's found a key solution using artificial intelligence"
-publishedDateTime: 2022-01-24T16:23:00Z
-originalUrl: "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
-webUrl: "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+publishedDateTime: 2022-01-24T16:47:00Z
+originalUrl: "https://www.bowenislandundercurrent.com/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
+webUrl: "https://www.bowenislandundercurrent.com/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
 ampWebUrl: "https://www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
 cdnAmpWebUrl: "https://www-bowenislandundercurrent-com.cdn.ampproject.org/c/s/www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338"
 type: article
@@ -53,6 +53,6 @@ related:
         height: 900
         isCached: true
 
-secured: "0+gZPQRXdmxRWcwlWycECP07kTjm/kPZRWJg37QLNJHIuo+r4VnDBDdZeCnDe7uv674Dq+10BErB/5hd9qjr/wZp8XGSkcEx/NX9kWxL5QF+NMCFV2CMiXXfpZdgIrpDtF5zIxK+eCUcDMUOqzmXFJHIlZeEjAeJwenv7LcE595zXy60d4czoikSvgM2BEBGITuAYJsaK4IW37l1ZL3dv4g+qpZ21DJDfXDm6URUKCfaX9okRk/0cESvnb4BFV1U6oaIoTZz1Q4CyQO17IQJInzlYbaoyj71eJAHbAde5mqZ1thHWJUHCeQIA5vS9vSuz1iObnOfaViP4gjhzKOLQlO+GCkYFXtZDYbq4TwKEFM254Dk+2EZ0CNHX97voe0HqVGe6V87TZqjpvGgyu43Kl6o7uAJ22TJkU6c4OWKkWS08eGu5i8vxIK6eL1YNxOX3xJptkJGLU9fmGVG262V9t28fBWrqpZMT8QOK+XWn8pCFhPP/tpIpIw67tfH6JLdhZ2iOq97dM6kX54Xj/uj5w==;qyAcubE6RMBTliAJCDaeVg=="
+secured: "XlJyvG4zPBUK6V4OnzRRZpBryDigNdMxPLcPmhbubqlGBpCYtQqd1xnN2rRk4wYXtzubrJu+CUGETh3RH+66bMJn9skkd/5PDpGBmFNgUOFVae82474XG3LJvAlMDjFcLDlAA9q9dfsMWBp8UTYZgtAQ4UZblLJ7KPvDopl01ZelbOCqujW6MC+25AWUKYYiIfvnAIgr3OqaoJw4hYJQlu6EJ+EVpbKKvmwO8LnzyaMsR01bXmVPcmhtEvkPf5W6JBpyNR1sj4pbXYtUmVnZZtBuyaOq9JLpm04SQ0ZA3Tqx1GD9Vdz//yHTZQBnkjLl2gUvD/AezktrSHRnQEsUUk42jwMeBd3b6+bi1tJW1dQ=;lBeFOOA3gzMFWkHcdjH4Hg=="
 ---
 

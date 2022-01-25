@@ -183,6 +183,22 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Facebook parent Meta creates powerful AI supercomputer"
+    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
+    publishedDateTime: 2022-01-24T21:33:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Meta says it will soon have the world’s fastest AI supercomputer"
     excerpt: "Meta will control what he believes will be the world’s fastest AI computer. Called the AI ​​Research SuperCluster (RSC)."
     publishedDateTime: 2022-01-25T12:27:00Z
@@ -228,22 +244,6 @@ related:
       - url: "https://www.crn.com/resources/0271-14477f5c05b8-a38185223eb4-1000/meta_nvidia.png"
         width: 610
         height: 458
-        isCached: true
-  - title: "Facebook parent Meta creates powerful AI supercomputer"
-    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
-    publishedDateTime: 2022-01-24T21:33:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Largest Artificial Intelligence Supercomputer Is Zuckerberg's New Boast"
     excerpt: "Facebook's parent company Meta announced on Monday it was launching one of the world's most powerful supercomputers to boost its capacity to process data, despite persistent disputes over privacy and disinformation."

@@ -29,15 +29,15 @@ images:
 related:
   - title: "Self-driving vehicles are our future. UMaine is showing how."
     excerpt: "\"Although buses and ride services are also an option, let’s face it, we’re not exactly known for a robust public transit system that adequately meets people’s needs throughout the state,\" Paul Fink writes."
-    publishedDateTime: 2022-01-25T05:00:00Z
-    webUrl: "https://bangordailynews.com/2022/01/25/opinion/opinion-contributor/self-driving-vehicles-are-our-future-umaine-is-showing-how-joam40zk0w/"
+    publishedDateTime: 2022-01-25T09:59:00Z
+    webUrl: "https://bangordailynews.com/2022/01/25/opinion/self-driving-vehicles-are-our-future-umaine-is-showing-how-joam40zk0w/"
     type: article
     provider:
       name: Bangor Daily News
       domain: bangordailynews.com
     quality: 39
     images:
-      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2022/01/Autonomous-Electric-Shuttle-scaled.jpg?fit=2560%2C1707&#038;ssl=1"
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2022/01/Autonomous-Electric-Shuttle-scaled.jpg"
         width: 2560
         height: 1707
         isCached: true
@@ -58,18 +58,18 @@ related:
         height: 798
         isCached: true
   - title: "LG to unveil life-size self-driving concept car"
-    excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as “a home office,"
-    publishedDateTime: 2022-01-24T11:20:00Z
-    webUrl: "https://www.canindia.com/lg-to-unveil-life-size-self-driving-concept-car/"
+    excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month."
+    publishedDateTime: 2022-01-24T12:41:00Z
+    webUrl: "https://menafn.com/1103584794/LG-to-unveil-life-size-self-driving-concept-car"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 24
     images:
-      - url: "https://www.canindia.com/wp-content/uploads/2022/01/CINEWS_324x235.png"
-        width: 324
-        height: 236
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?920187"
+        width: 444
+        height: 250
         isCached: true
   - title: "LG to unveil life-size self-driving concept car"
     excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as \"a home office,"

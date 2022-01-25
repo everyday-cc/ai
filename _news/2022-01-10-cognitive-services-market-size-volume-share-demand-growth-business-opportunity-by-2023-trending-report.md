@@ -3,8 +3,8 @@ category: news
 title: "Cognitive Services Market-Size Volume, Share, Demand growth, Business Opportunity by-2023 (Trending Report)"
 excerpt: "The MarketWatch News Department was not involved in the creation of this content. Japan, Japan, Mon, 10 Jan 2022 06:36:43 / Comserve Inc. / -- MarketsandMarkets expects the global cognitive ..."
 publishedDateTime: 2022-01-10T00:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-size-volume-share-demand-growth-business-opportunity-by-2023-trending-report-2022-01-10?tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-size-volume-share-demand-growth-business-opportunity-by-2023-trending-report-2022-01-10?tesla=y"
+originalUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-size-volume-share-demand-growth-business-opportunity-by-2023-trending-report-2022-01-10"
+webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-size-volume-share-demand-growth-business-opportunity-by-2023-trending-report-2022-01-10"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "+s8bTjf9E7fj/GAzANu+EZKITDFpe+J41P8Dv1tIisupnzCI8mVqXXwOeoxQFEbIte3c/BEbTkSlHMQ6X+OgJEakMZNaZEvzDB1szmGU/lJTpuCdz3oSza6NtBZFrSQvcQ86iUxnZku/iQ4yVMTjv5jLrlhkodyLYYOWyW8uGh8rBzCsFdvKsD/8sSoaVV0rFa04D4e9dD7ipkK3e4ISzPVu6ByW07gIU3FSXn9+P8CP/zq7sKEgI9ey/hy5vplULToauP3FSsPR+4+90Q/oVnJZaQwCBI8bAhqLlStmLl9spTuMyO4b+a6CrtOB10V1YlZs2oYsRPEp0vWKHuniVa4Yo0u4vjXCTT9se9io+mQ=;C2idhngyB9IBIVpXMPvg0Q=="
+secured: "g1Pa3sL7VeyW9kvz5BRTG4IfVVh0+z6P8XFwvhfcgaIYcoryPB2L/quV4+TE9jUVEVNi/JzOIIhgwKFt0SnXwG3jJNput3it+Pr3bzIE+OMcmRR8aRf+4VRgwDb/w+GRQA1ZC+nbz+qdRlEnkNrAXxqvp/UrCvV77I+kG+0LZ2Yye0j0HV+yI3V1wCvoUrenAg82IVqRI2+NvbGuI7sPOg4kQwd+LIZBMilW48jzsQeYQWIHDT3Uexkk5PP+a9VWVkspnciWr9KluPV2a4DPAccuMSM3RC05AReNbbirEorRujfDJh6VcPt3LwP9WlM9dXiw54gRXOphz+B6ZLTCGL96X5+yJmnetXvQzLBM08g=;3hDXkvGd123BZ0e7hRSy9g=="
 ---
 

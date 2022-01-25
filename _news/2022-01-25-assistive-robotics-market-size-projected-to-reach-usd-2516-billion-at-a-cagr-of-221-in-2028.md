@@ -53,6 +53,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Global Speech Recognition Market Size is Expected to Reach $29.28 Billion by 2026"
+    excerpt: "Speech recognition technology catches and identifies the audio signals in the form of language and converts these signals into the machine-readabl"
+    publishedDateTime: 2022-01-25T20:41:00Z
+    webUrl: "https://menafn.com/1103593458/Global-Speech-Recognition-Market-Size-is-Expected-to-Reach-2928-Billion-by-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?920187"
+        width: 444
+        height: 250
+        isCached: true
 
 secured: "xfiVhlQlEQCTSOb59yHyQHYnmhLdz8BzXBqC4c6zHDUVpBCM+StRg/SVIcxfkF78KBcu+QT7rWN+TCQhsBIDL9MS19Wgpk0VB/QnBmRlIuqNzuMb4X9DetjB3+tGCqFw+NH5Lbt/6CBJPK+5amnz+1dW34HEr+XJDJrlEY8NTdbVoGlTT2GS8fsPWdDu7voXapIShLT1RHKrfBuhUzwGVWarhDLBUfBwtIGnzGr3D+1eVqoWxoRMP0AHJ9VhMCGngGhqK0fQx3h2vV2bjZPV2ONp1tmh2muKEqbVu6u++FY+z2O5My8SF57r+1ORU44i1bPXepBOFpuaiOLO29HEPmTff79jmO31giUB1Nhwh16uKDaOVQbf8wQIChx9PeQohsvS7e2emUOOiuB+EOQUSRkOBKMwfj/P1kqlIEksdpovJkO1OvlQtUURgElbRExmVXND+j8waN+dKnc1vC8KijSHQxZT8noM4CcXqcJ6mh0gOZi4JY2gQ6Pt1CSAtKZNC1xR0TMxzYDFlP4BUfqZRQ==;13ba8oLJs4fo5GWYLV7y3w=="
 ---

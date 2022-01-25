@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 702
         isCached: true
+  - title: "Recognition for giving Indigenous communities a voice in Australia Day Honours 2022"
+    excerpt: "For Caringbah's Sharlene McKenzie, being able to give fellow Indigenous people a strong and supportive voice is a passionate and daily goal. For this dedication she has received an OAM on Australia Day for service to the Indigenous communities of South East Sydney."
+    publishedDateTime: 2022-01-25T19:00:00Z
+    webUrl: "https://www.theleader.com.au/story/7589651/giving-indigenous-communities-a-voice/"
+    type: article
+    provider:
+      name: The Leader
+      domain: theleader.com.au
+    quality: 18
+    images:
+      - url: "https://www.theleader.com.au/images/transform/v1/crop/frm/cmVmMQsbi2AtDjEpmZLhes/587c641d-a4e4-4fe2-ad6f-ff5e41f30cd9.jpg/r0_911_3024_2620_w1200_h678_fmax.jpg"
+        width: 1200
+        height: 678
+        isCached: true
 
 secured: "nk8SMrskLMOipUJqQ641fgvQqN7epilSWyBLkD2WftGMDMxj8nBlNL6YIQw22hsy63kKijCjqf/ZoFbHUD5dL17qzvmPy7w8L0DMKmpaCUGs9Zuqiz7HHVQKYwggoccUe6I54rHQamVrKgjPy3UkzjcEu/+NrYpfvNH4m5UYFDnxd1dyesohH/ECQRG5b57X+l7hgttQ6tlP35/FouWb+S1EVHMvW2MR1DHr+Qp/V8nH0l921lyX/7NzfsITOgWQKB4YDid+PJBKDIdx8K1v+edHnyT3PhURhjifR9sQAniipDIaO77o0tO1q46RucX8u+Z7FsmL/n103KONeJ0vtuP+Nc6DMSpnIz4aEFr+uQ0=;jXG8IFUUG3Qfke49WEN01g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

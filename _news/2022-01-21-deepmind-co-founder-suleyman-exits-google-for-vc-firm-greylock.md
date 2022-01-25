@@ -59,20 +59,6 @@ related:
         width: 1080
         height: 604
         isCached: true
-  - title: "DeepMind Co-Founder Leaves Google To Join VC Firm Greylock Partners"
-    excerpt: "At Greylock, Suleyman will spend his time advising early-stage companies and investing in promising startups in the AI space, according to Reid Hoffman, venture capitalist at Greylock and co-founder of LinkedIn,"
-    publishedDateTime: 2022-01-21T04:00:00Z
-    webUrl: "https://www.mediapost.com/publications/article/370498/deepmind-co-founder-leaves-google-to-join-vc-firm.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/01/21/mustafasuleyman-600_yCfwatB.jpg"
-        width: 600
-        height: 375
-        isCached: true
   - title: "The Funded: DeepMind co-founder Mustafa Suleyman is jumping from Google to Greylock Partners"
     excerpt: "Greylock Ventures has a new partner — and he has a DeepMind background. Mustafa Suleyman, one of the co-founders of the Google LLC-owned artificial intelligence laboratory, has left the tech giant to join the venture firm."
     publishedDateTime: 2022-01-21T19:21:00Z
@@ -83,6 +69,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "PAFSFjWNXw0JW60SEAEiI/VQnyQ1RR3M7+K/8WIxO8VQZY4QVlqH/l1ka9kpB42so5+RQJermTLc6fqmWdlx9NHpAUu/V7KrwXQO2mrVo3O4VS1rieLU7hJk83D9ioRZRp6gtbDTySSaWJUqtGkWixiZIOo/ZKDuEjGEre5TJTinUddllKwNYUI7T6FNh2R/EKr8b7YYoGL6EF8AXKyxSmbjtXtAwsOVbqBGMDm+SlggNUh0utwYL9yKPiTFMAn5eAdDYzT3eJVIjljAQImBATEZnObklQSDRqWm2Qzup3zLO38nFAlDdYcZul+qPMXYGudObPA7ESKcgLNcRfswqcWMl7e2XUe/ldFt5oorvuE=;4yS5ZWAXMe+SRqeSmmZpLQ=="
+secured: "ug42ZbPi1nwtfKKzdDv9gAcHMmPtmWBd73vo9qQfZeLMWFEKU7PPFsR4kVeR0ZTN3GZ90XPtFix/zSGaY/GFqN/oUbcsrbF8HuZI3csfu6QHQv8PS5rPlgLniTUFt0Oy/Qy+as934rqd7+82iRtQLeSeFf8kAvK24Hp0Dd/piqKIyxEpZncF+zhgpTYpOSneynaSLp6A5KF/R/A3v2Ni5V1SS9by5xUovSwf9Nv3T6WY094l8yUveaQqDgeNr2kpEIy+F1bI49mRiIA4cK2/L2wgrKraMiNGnprfXyPpKnq+8CdpPSrPkO1ZjAnyZv4FRtBvFwOvnxTll0P+W9HICCsq9n1NIzKWtxThwKE5kpc=;HplFMdVymsSNRaFvdlbRTA=="
 ---
 

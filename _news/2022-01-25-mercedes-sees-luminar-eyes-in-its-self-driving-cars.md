@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-dri
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "TECH TUESDAY: The race to self-driving cars"
+    excerpt: "Companies are now testing advanced 3D Lidar systems with that capability, racing to bring self-driving cars a step closer to reality."
+    publishedDateTime: 2022-01-25T19:25:00Z
+    webUrl: "https://www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/"
+    ampWebUrl: "https://www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: WLNS.com
+      domain: wlns.com
+    quality: 44
+    images:
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2019/11/self-driving-cars.jpg?w=1280"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "Mercedes self-driving cars will use Luminar lidar sensors"
     excerpt: "Mercedes-Benz said on Thursday that it selected America's Luminar for the supply of lidar systems to be used in its electronic driver-assist systems and eventual full self-driving systems. Mercedes has also acquired a small stake in Orlando,"
     publishedDateTime: 2022-01-21T13:00:00Z
