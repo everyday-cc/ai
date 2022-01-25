@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/5-trends-to-watch-2022-robotics?amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Emerging artificial intelligence hiring trends to watch out for in 2022"
+    excerpt: "Artificial intelligence has emerged in a lot of recent dialogues with business leaders about their technology plans for the coming year"
+    publishedDateTime: 2022-01-25T07:26:00Z
+    webUrl: "https://www.dqindia.com/emerging-artificial-intelligence-hiring-trends-to-watch-out-for-in-2022/"
+    ampWebUrl: "https://www.dqindia.com/emerging-artificial-intelligence-hiring-trends-to-watch-out-for-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/emerging-artificial-intelligence-hiring-trends-to-watch-out-for-in-2022/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 57
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/face-detection-4762379_640.jpg"
+        width: 898
+        height: 400
+        isCached: true
   - title: "Robotics and automation stocks to watch in 2022"
     excerpt: "Robotics stocks are companies related to the booming industries of automation and robots, which are having an increasingly important role in our everyday lives. The use of automation and robotics is only growing,"
     publishedDateTime: 2022-01-23T00:27:00Z

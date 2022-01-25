@@ -8,8 +8,8 @@ webUrl: "https://www.reviewofreligions.org/36863/will-artificial-intelligence-tr
 ampWebUrl: "https://www.reviewofreligions.org/36863/will-artificial-intelligence-transform-religion/amp/"
 cdnAmpWebUrl: "https://www-reviewofreligions-org.cdn.ampproject.org/c/s/www.reviewofreligions.org/36863/will-artificial-intelligence-transform-religion/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.reviewofreligions.org/wp-content/uploads/2022/01/Artificial-Intelligence-small-shutterstock_1908401050.jpeg"
@@ -26,6 +27,6 @@ images:
     height: 657
     isCached: true
 
-secured: "vXEJli22ZFYJ0LLrvKiR9TSDNESeOv8CvkbxAHz8lqw+qlS50oEhhvmIhg7hrE2WxeVacQMO0aaGcn1pl2lC4K+Prf6PP5v6+M3NeXf+GREK4m9YJJ5vUCDQ8QqwBxFk6RsUm6tHV+uiZcY3tE5NnIIvb9WOmbcMR5bmRjtF9X5QLM3TQU7Fg3cXhqdIzg0jQ9O4pCkfRR4HJkqn4VHAzEO0UewIMgOyBl1dZaAXSBO4P5ApI+Nz8fZ5ZxB3woziTBxOx30cuxoepjHyY9DyFdUk4BBERDDit2IQ4fnhN2/a03z3sXQ0rpVfUBMOfhfomlJbnnrVwZdzDx7NIaFUbhQSXMz0l85niEKcuMrbso4=;8pyZpq8grdfIprJEeaxYbw=="
+secured: "nakhVOeJGJzlB7WvV0vRxlF226zKtHpfgPUzANh1U8gTos7vHY2MlcpQrZSd8QhwvYGScEMtnF1RkZ+pJ1eVsiNU7r+084cnqYYfVuMf4TZnXYzYZS4JSzVm1FkTXC6FSo444IlgWyX/8gfvCrDM93EmRiFvpd20uNME5XtPYZ/eM2rUnzhF0SyhdortKiroGSIrXXQICNLuiqxILIUllxQyDQxC9w3VBX1HoVOthcGre8o4MXW/5/kIzMERQftcnn28zQaEtegPF8mrDGWIkmOfjCbhHQjfXfFYxwZPR2bynvJHzq3IpvGcPWarLxOElov6RUlvPIRZMYcXr62BHVyuHsrOcPK9XyLDJE7Mz2eUJQ2aJ0wHzqnz3J0LD/SEYckZx4KyXmWZsYPrqEpPTgDWnFJWgFII6GppIKOlujVZcmR4E3EiKR7xv9VXgGE1qpbGJ2/11exuTHEKdsrzncFf0LwdEAtZx0zR+USwYI0lpPE08TLWvkpaLNdNyAubonjgETOG+5JtqO+hXv9N8A==;nsTBJ5zGZ4iJWpREqO4Qow=="
 ---
 

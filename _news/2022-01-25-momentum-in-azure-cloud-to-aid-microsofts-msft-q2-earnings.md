@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Momentum in Azure Cloud to Aid Microsoft's (MSFT) Q2 Earnings"
-excerpt: "Microsoft's (MSFT) fiscal second-quarter performance is likely to reflect momentum in the Azure cloud platform due to rapid digital transformation."
-publishedDateTime: 2022-01-24T20:00:00Z
-originalUrl: "https://www.entrepreneur.com/article/414815"
-webUrl: "https://www.entrepreneur.com/article/414815"
+excerpt: "Microsoft’s MSFT second-quarter fiscal 2022 results, scheduled to be reported on Jan 25, are likely to have been driven by the continued strength in its cloud platform — Azure. The platform has been benefiting from the pandemic-led digital transformation across the globe."
+publishedDateTime: 2022-01-24T16:58:00Z
+originalUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings"
+webUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings"
+ampWebUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings?amp"
 type: article
 quality: 99
 heat: 119
 published: true
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-414815.jpeg"
-    width: 635
-    height: 400
-    isCached: true
 
 related:
   - title: "LaLiga employs Microsoft Azure’s AI for goal probability graphics"
@@ -60,6 +52,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Vck5UTmpuDJbkL2zQB0J7y1yyBlvppGKo8yuRpJkZZWyYCAr5N2xkzXhczKFsxha6KooCdPCQpstdKXDYd1htmsYZXTrupc3PzfMaZnNWZl+cPGKEZ02KweHbv6o0WHgalLYgbMSVZ5cu70+KavcDx/IdYXEQwkQIefwROrDays0a+t5tMg6hgFBPg2Y1VJItotH9EAP4jDqBIsjmTia6Rcoa47/0lFY2qoaU2GSCIBu5P8/qjkX7Ql5E2tRTD0hYjpCyETVuwvc2Fmeezgdka/J+XuDTBYl4IlO9U1amFrmKFXl4xQBWcaidTBCLA4N8pnI4YCYaIpz6NPr+r9pm95CglTrR2l9FW6o7dzNFBGIrUR8bnx8IAdGJzbW0SC8ZESxGIr2KSF17fK3RDu6PFKn8ld0PFJK9eeKqKDc0q/zg4CJy69yOYgdO4SeCuQAE0Vi5VhDqEgiAUAYWwXzlWqaMC5qwf92sdxXqZzx2A4h9BTkNepxU5DWHioNK2P8x2EZHdZchKHj7FKxkCJ0Zw==;QNg13xGKMXIhOxKoxxXk3Q=="
+secured: "yk3j1TrmnrXRiK3u9c7Cnt7ArFGUEluNV91pC2XLNtJXoH/ZUZLeociX0FLoOCl/lwreAbIPK7fZhBXEfDsqTtzE/ci9vsBT40hXiPUifr3Twe3r7LeH7EgSjz13k8iy2NMqVwlr8XlGS6jMC/iIphAGvWxFYgwcwiHVJBnVHWsmxZYSiG2bu13d4ghEFITM7oDp3J+AC/xrCcFo+ezXsmEET2FvCNTmq8jGXkn/Pmn03W1LrYnkbYuGqbBlEkwjE3HnUImhDknTmgfBsT01sUu+saeScQ/GBTp4baqxLJ5CQxNmfNemRiu61mYdCBay9GCUXqb3U1rpdwyY4pX8VW55M+3KpighSZi4L6H11Vo=;QgBjc1SKlwICdQbMRZeUnw=="
 ---
 

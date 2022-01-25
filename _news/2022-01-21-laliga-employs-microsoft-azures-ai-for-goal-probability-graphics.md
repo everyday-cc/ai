@@ -28,19 +28,16 @@ images:
 
 related:
   - title: "Momentum in Azure Cloud to Aid Microsoft's (MSFT) Q2 Earnings"
-    excerpt: "Microsoft's (MSFT) fiscal second-quarter performance is likely to reflect momentum in the Azure cloud platform due to rapid digital transformation."
-    publishedDateTime: 2022-01-24T20:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/414815"
+    excerpt: "Microsoft’s MSFT second-quarter fiscal 2022 results, scheduled to be reported on Jan 25, are likely to have been driven by the continued strength in its cloud platform — Azure. The platform has been benefiting from the pandemic-led digital transformation across the globe."
+    publishedDateTime: 2022-01-24T16:58:00Z
+    webUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings"
+    ampWebUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings?amp"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 99
-    images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-414815.jpeg"
-        width: 635
-        height: 400
-        isCached: true
   - title: "Microsoft Details Native Integration of Elastic on Azure"
     excerpt: "Microsoft detailed the native integration of Elastic tech with its Azure cloud computing platform, increasing application observability."
     publishedDateTime: 2022-01-24T20:23:00Z

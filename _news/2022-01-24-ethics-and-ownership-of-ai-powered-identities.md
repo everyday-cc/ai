@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powere
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/amp/"
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 673
     isCached: true
+
+related:
+  - title: "Kanverse.ai Gained Momentum in 2021 on the Strength of AI-Powered Intelligent Document Processing Products for Finance and Insurance"
+    excerpt: "Kanverse, a pioneering Hyper automation company that emerged from stealth in May 2021 with cutting edge solutions to intelligent automate document processing workflows for enterprises of all sizes, reached significant milestones in annual revenue growth,"
+    publishedDateTime: 2022-01-25T07:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-c4a27b7b3fa0433199ae8c410a286976"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "wwNr3l02e8nfgH5uB/myTkc1VaZTbULDiKCJDr8ZrNnbdQdykN4MHEmdwmSnLX91ZeTA04/hH536hvonIscJonzorXSYoD+GRJ5xjVDuBEYhh5mqhCUGMQe3pYRScQS00zB1Jnd9mIYCSXfmxmsOwzsA4gRybVmINU7c500yAnbMu4eXJSMc0eQaZLNze8KNfc+KNVoOHNpyL/zlmvJEnZfE4VFpg1oIleMYCi2q7DiDurFGnS2fmDn+vV14w3fRb1EQdLVbOmyEpD0ag0ljrD8ERmCYsSLDyIvqBtjQO0sywcfqFe2111/vmxj9gZ//Lje9/qb8B0I79wwmt6eJPS2DjkUP1SdcGzbOcKLu5EZdVroG2iA0yHWs3RWNt9sRTsiXS6VmZyw4v/ViwoJrgjqCfiiKPA7bnHkah1jLa4ewrOuy8ejcxxRiqUyG3NACsvywK2TPWPCLMlQ8pyEubg8qHCve+QHvFiTFE/23sKnAle1fCX8vHQIqDZ415G+ulPR4ZRms3tRTLKcDeUIWaw==;bOxjDHJK5kkcI0KxnLGuzw=="
 ---

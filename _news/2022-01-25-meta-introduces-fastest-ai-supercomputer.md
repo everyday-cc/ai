@@ -236,15 +236,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
-    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
-    publishedDateTime: 2022-01-24T21:32:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Facebook's Meta creates AI supercomputer"
     excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
     publishedDateTime: 2022-01-24T21:57:00Z
@@ -259,6 +250,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Facebook parent Meta creates powerful AI supercomputer"
+    excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
+    publishedDateTime: 2022-01-25T04:29:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 41
   - title: "Facebook Parent Meta Building Supercomputer For AI Research"
     excerpt: "Meta on Monday announced its new AI Research SuperCluster (RSC), a supercomputer meant to be used for AI research projects."
     publishedDateTime: 2022-01-24T12:29:00Z

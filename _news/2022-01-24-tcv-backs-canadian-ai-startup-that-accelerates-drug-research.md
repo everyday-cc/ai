@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canad
 webUrl: "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canadian-ai-startup-that-accelerates-drug-research"
 type: article
 quality: 67
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Loans Canada and Even Financial Announce Strategic Partnership to Help Canadian Borrowers"
-    excerpt: "Even Financial (\"Even\"), the category-leading embedded finance marketplace, and LoansCanada.ca (\"Loans Canada\"), the leading loan comparison site in Canada, have announced a strategic partnership to help Canadian borrowers find optimal loans and credit solutions."
-    publishedDateTime: 2022-01-20T15:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-loans-canada-even-financial-announce-strategic-partnership-help-/2022/01/20/9530272.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
-    images:
-      - url: "https://mma.prnewswire.com/media/1730010/Loans_Canada_and_Even_Logo.jpg"
-        width: 400
-        height: 205
-        isCached: true
   - title: "Three Canadian regions ranked among the best global cleantech ecosystems by Startup Genome"
     excerpt: "Startup Genome has published its first cleantech report, naming a trio of Canadian ecosystems to its list of the best 35 cities for cleantech in the world."
     publishedDateTime: 2022-01-24T14:56:00Z

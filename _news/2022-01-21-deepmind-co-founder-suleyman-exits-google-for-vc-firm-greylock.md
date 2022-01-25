@@ -1,50 +1,30 @@
 ---
 category: news
 title: "DeepMind Co-Founder Suleyman Exits Google for VC Firm Greylock"
-excerpt: "The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman ..."
-publishedDateTime: 2022-01-21T11:59:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
-webUrl: "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
+excerpt: "(Bloomberg) --The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman will be a venture partner at Greylock ..."
+publishedDateTime: 2022-01-21T10:57:00Z
+originalUrl: "https://www.bloombergquint.com/business/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
+webUrl: "https://www.bloombergquint.com/business/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWEqYz7MJwA8/v1/1200x863.jpg"
+  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
     width: 1200
-    height: 863
+    height: 630
     isCached: true
 
 related:
-  - title: "DeepMind co-founder leaves Google after a rocky tenure."
-    excerpt: "Mustafa Suleyman, who played a key role in the company’s work on health care technology, is joining Greylock Partners, a Silicon Valley venture capital firm."
-    publishedDateTime: 2022-01-20T16:10:00Z
-    webUrl: "https://www.nytimes.com/2022/01/20/business/google-deepmind-mustafa-suleyman.html"
-    ampWebUrl: "https://www.nytimes.com/2022/01/20/business/google-deepmind-mustafa-suleyman.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/01/20/business/google-deepmind-mustafa-suleyman.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2022/01/20/business/20deepmind/20deepmind-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "DeepMind co-founder Mustafa Suleyman leaves Google"
     excerpt: "Mustafa Suleyman, a co-founder of artificial intelligence research company DeepMind, has left Google to join venture capital firm Greylock Partners. Suleyman has brought to an end an eight-year run at Google,"
     publishedDateTime: 2022-01-21T15:52:00Z
@@ -147,6 +127,6 @@ related:
       domain: bizjournals.com
     quality: 8
 
-secured: "ZcVfIbojdcfZLrbIpjx1gJmETEbDnoMypH0fBjDJ5GReIpdYkOpkuRqxeckLkmDQdiolCzn6dpF30FnSLyFxMyT9GalxGe7oLEkJ9qfNNEgIuHuwU4rfOv4Fn4nOOIQ4xoSp1hGpZQnIuqZgOIXbmV6CsCDlD7B7Cok5SFt6DyJ8WhYqAIqzRkHGzLJCueUHEKBTjLXUD/RWhi2vR/uBtZBGQJOWfhrXk1pkhIsgwYpZP1eXwFEZ+mmCpqpNeHA7CJ13AomB9f7m4reY08m9jtRDRQGYDxnhdPV8WTHW2Vo875b1uTZkaaD91lUCIxkwFzfWUeN3jDAkPHjh7poSu8yh+Yhy8oFoDQ9hw983SaE=;5Fg/FSAHSw5JaxhqqEjy4w=="
+secured: "qGXsCGRRkpZXJdiQY4LfK9DO9CoMVAmqV9dp9wXd45uidN3gxYIBcN9yK2sJTIKAqclEvf/vbbW/F4XoUf7FgMoCtbkcAyvypq8PMZcfTirNE4RdkNibg7r1BQhM+D22pN3OpCYTSYewAeHilNm4swk8VVeNUo662RQP7/ejRTKcF2xfR340OsTCzPsLkl/D8Nnbg3ak4sQdWn7L4bhevR+axtOMmINLTEFATIZd5gfTiYR4w27h30+yk2gCLnxo8jvawM2S5mGu4IsFqDrLJHJecBR1sIIV0KBSaStMjyvv287ropkNsh1HEA+m2wZmhavXUlYk0jpGo4RidpIlZrsMGmDO3iTvkSV53Zc7XeA=;TUxGSjjmjCp77sROSjsMPQ=="
 ---
 
