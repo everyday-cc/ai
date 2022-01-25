@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Vodafone Portugal Launches Universal Electronics' Nevo® Butler Hands-Free, Voice-Enabled Entertainment and Smart Home Hub"
-excerpt: "Vodafone Portugal is launching the Nevo ® Butler entertainment and smart home hub from Universal Electronics Inc. (UEI) (NASDAQ: UEIC) to its residential TV and broadband customers. This press release features multimedia."
-publishedDateTime: 2022-01-25T06:40:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-vodafone-portugal-launches-universal-electronics-nevoreg-butler-hands-/2022/01/25/9531950.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-vodafone-portugal-launches-universal-electronics-nevoreg-butler-hands-/2022/01/25/9531950.htm"
+excerpt: "Vodafone Portugal is launching the Nevo® Butler entertainment and smart home hub from Universal Electronics Inc. (UEI) (NASDAQ:UEIC) to its residential TV and"
+publishedDateTime: 2022-01-25T05:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/b25200792/vodafone-portugal-launches-universal-electronics-nevo-butler-hands-free-voice-enabled-entertainmen"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/b25200792/vodafone-portugal-launches-universal-electronics-nevo-butler-hands-free-voice-enabled-entertainmen"
+ampWebUrl: "https://www.benzinga.com/amp/content/25200792"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25200792"
 type: article
-quality: 0
-heat: 0
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "C1XwYd0r3YSmMtNIvugmayxXbeeTTnx5/IS2VRfcu1cU6IAU92VQWvnodozFl5c/B5cp2GAVXJGEUIEPKg1f8l6T5HedqVo8cQY8OxLIJyAEsJLmDYS/h3a7NwO3l4WQ+MO4drb2k9rBt+w7+CcQ4Mqr3dhYm45JzExB5nDW7/50uBtfCq7RGHWYM1YSO0LTmjz7zyoIrOMJrh35HgdYa71l50CwnDhwArlsOwWgCZui9B4VJ95oa9G3nXM8x7LKXClBmVzX74NfhNIg0Xkls8qwSuaiw9whB4nMv/C1j6V2HHaaQNVZ0at9D0O9YvLdeqoYDDBaGbLF7zAedjm7uGFbxgzK/mYsrtZMn7+z7AFqNlsbuHwC/qVr2KkVwf+f0mVbC3rDU4zKrswF5VP/rt1gmYkhiyMZP62+BM8C7Is5cqqzcHNrCtU0qu/p5s+AguXt39xiesMlROkwRITBP2KExrbw3zyGK1wxzPVS0QMTE4g8gm70Ma8fBuOuAOhN+qlWMYGFKGV3eakOXqVxYA==;5WQNTOuZaRqLAP7kpCAapQ=="
+images:
+  - url: "https://www.benzinga.com/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "fOaH693aQzrd2uljgSkJzRIQB829wNqHKTPGuL1ZVtShV2J+5sUM16UZy2SSsS/yKChRcgjd8+wQ/zAC06Ek8F75yDm+r4XJ134FPmJchS7QOJs9em9JF65LCJpMc1Qb/Vh6VOa5mlLPqmqe3GJDoBDTzDZb4AYJAWZPbxpIWhIE1R+2JHoy3W9NNi/NJe1uWdWudTxJ+2WGuU23qSiGrdb0MZQ1Q5zCMY82qqi+gQ9snUwNOp4myuG5nA//y/sa+1CJHkSf+ekyS2AYGEr62Z7IAIt+bpAHt+HfgbDJ4CfLp8V4XWPE+Tc+7wSWqcAaDUOeXjzI4Fzj2PRoFChRL2wMV1yG1qblnojF7NfaI1E=;zkZfpvEZtKUaeqkrYgrIeg=="
 ---
 

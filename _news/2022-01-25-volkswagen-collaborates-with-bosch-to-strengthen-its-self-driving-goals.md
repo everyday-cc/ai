@@ -41,6 +41,20 @@ related:
         width: 960
         height: 637
         isCached: true
+  - title: "VW, Bosch Team Up on Self-Driving Software"
+    excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to develop a common software platform to bring hands-free driving functions to the German carmaker’s entire fleet in a bid to compete with Tesla Inc."
+    publishedDateTime: 2022-01-25T17:30:00Z
+    webUrl: "https://www.ttnews.com/articles/vw-bosch-team-self-driving-software"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/vw-branding-1200.jpg?itok=Qn_9qjz-"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "+hlLShAQAkvcPO5gwvvQNNpqqPNmRXz2JLT5bhj3Bw7NCJD2cT7Rxo4ANRY2wH8M90+YHV7rRUnuyje05lCU2pWvJJuT6ww3hhguSaaZi+CUnNdXYweJNsDalJT+TEK0gtIKC7MlJ+YfUmqwTR1M0C5kzfhDDe7oOOCk5fKw4M9SnNN7qoyD8Z79Ek0REwaDDR0bSt2yHXd2zm3wwsJPFOTKbPsOk6XdqrMZ4zQxQeYvTl9nx5pkAkYAT6OSGrzQVxgBgA5wEJ00Zg4wUjybvjWUUJn709zlpeaTUlpkvF9dZ/nIs4JK8WfAU+jyjqsMxBw7x9Xbc5oL20WuGyObIUkbBMil0C7857EQDjHgnY79BHpIDpP4lZvoiTIuRcv3uuHHl368TRgYyHPavJCOCmiYmKep8xPCRbnCXFO2DgfBkxHs7bRElGWqeydQf6w5FqNeH4h546wuWuJrkcxiVR5K+IelGYLdMYkCsd+tCi5ManZgjzrT4GvKNV8QEO5iD4rpEnvwvwAe6m7z3JvppQ==;JfqGYbvZFMWOBlDe1iwrPA=="
 ---

@@ -183,22 +183,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Facebook parent Meta creates powerful AI supercomputer"
-    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
-    publishedDateTime: 2022-01-24T21:33:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Meta Buys, Rather Than Builds And Opens, Its Massive AI Supercomputer"
     excerpt: "If you thought it took a lot of compute and storage to build Facebook’s social network, you ain’t seen nothing yet. The immersive and AI-enhanced"
     publishedDateTime: 2022-01-24T22:09:00Z
@@ -230,6 +214,22 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/Meta-says-it-will-soon-have-the-worlds-fastest-AI-supercomputer-01-1.jpg"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Meta-Facebook Has a Giant AI Supercomputer To Shape The Metaverse"
+    excerpt: "Class A Report formerly Facebook, has no intention of letting Microsoft ( MSFT) - Get Microsoft Corporation Report, Samsung ( SSNLF) or Nvidia ( NVDA) - Get NVIDIA Corporation Report take the lead in the race to mold and shape the metaverse,"
+    publishedDateTime: 2022-01-25T22:44:00Z
+    webUrl: "https://www.thestreet.com/technology/meta-facebook-has-a-giant-ai-supercomputer-to-shape-the-metaverse"
+    ampWebUrl: "https://www.thestreet.com/.amp/technology/meta-facebook-has-a-giant-ai-supercomputer-to-shape-the-metaverse"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/meta-facebook-has-a-giant-ai-supercomputer-to-shape-the-metaverse"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc5MzExNjExNTc0NjI1OTg3/microsoft-names-qualcomm-executive-hou-yang-as-new-greater-china-chief.jpg"
+        width: 620
+        height: 400
         isCached: true
   - title: "Facebook Parent Meta Taps Nvidia GPUs For ‘Fastest AI Supercomputer’"
     excerpt: "Facebook parent company Meta said it is building the world's \"fastest AI supercomputer” with the largest deployment of Nvidia’s DGX A100 systems to date."
@@ -416,6 +416,17 @@ related:
     provider:
       name: CBS Local
       domain: cbslocal.com
+    quality: 39
+  - title: "Facebook parent Meta creates powerful AI supercomputer"
+    excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
+    publishedDateTime: 2022-01-25T04:29:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 39
   - title: "Meta Building Massive AI Supercomputer for Metaverse"
     excerpt: "Meta is building a massive GPU-driven supercomputer to run its artificial intelligence (AI)- and machine learning-driven workloads that will be key to the development of the metaverse."

@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Improving AI via chess"
+    excerpt: "Growing up, Casey Richardson was an avid chess player, studying the game religiously and playing in regional and state tournaments. \"One thing I liked about chess is, it's all strategy, not luck,\" says Richardson,"
+    publishedDateTime: 2022-01-25T21:50:00Z
+    webUrl: "https://hub.jhu.edu/magazine/2021/winter/reconnaisance-blind-chess-ai/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 37
+    images:
+      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/blind-chess.jpg?itok=p_wNQW7o"
+        width: 2400
+        height: 1840
+        isCached: true
   - title: "Pony.ai to begin mass production of autonomous systems in 2022"
     excerpt: "Chinese autonomous driving technology company Pony.ai said it planned to begin mass production of automotive grade equipment by the end of 2022 as it brings forward the roll out of Level 4 autonomous driving technology,"
     publishedDateTime: 2022-01-21T14:42:00Z

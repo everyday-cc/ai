@@ -1,27 +1,27 @@
 ---
 category: news
 title: "LG to unveil life-size self-driving concept car"
-excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month."
-publishedDateTime: 2022-01-24T12:41:00Z
-originalUrl: "https://menafn.com/1103584794/LG-to-unveil-life-size-self-driving-concept-car"
-webUrl: "https://menafn.com/1103584794/LG-to-unveil-life-size-self-driving-concept-car"
+excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as “a home office,"
+publishedDateTime: 2022-01-24T11:20:00Z
+originalUrl: "https://www.canindia.com/lg-to-unveil-life-size-self-driving-concept-car/"
+webUrl: "https://www.canindia.com/lg-to-unveil-life-size-self-driving-concept-car/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Canindia.com
+  domain: canindia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?920187"
-    width: 444
-    height: 250
+  - url: "https://www.canindia.com/wp-content/uploads/2022/01/CINEWS_324x235.png"
+    width: 324
+    height: 236
     isCached: true
 
 related:
@@ -81,6 +81,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "zkJG3gZWa8oInKFo2BjiA64WR+AqNvKdxa/qCz9eRjUmlW1yPAiHcxx+3VpCC4nGU++LDk3kf8fXxqqssyNpU4sbiingtk4bZSKG+sfgZfuaBGh5OU48putgwAGxvcz6GFoAYh92qPVjMyLKEL4GSwseykiEE2UpnBeSLfQ/kA1TaDwUjGcIhUxXdg54RNueAfVV6FYzQ6SWsQLd52b6X8IZva0O/q9xoC9yCSDyGDuLCO5vTq7pxDqo+JtycSOqwnfcpgm7eYStuNziX2GaKu1qXeIBbu/tsTbC6i0mctYCyWExrX66glPvxuOs3CooVkukBrtzzdXHBj70rTroJB62jNRYd2cRDD4i3JcumAQ=;67+AOSA7IXhEiNwp/ltupw=="
+secured: "ydIOawa+xV7aRsTNhVxGHx9S1v9PWjBa3GcfBkix8ioiQ7FXVb3E++/adkowQ6wokMIeD4JCqa/g4NgOlBbsZ0TLU9kyOnGjsALiE9YDC47OYp3IhiIJR7EtLzc2mrWyjbObiJXuzrgWbKuoRXjjxZndR59trO0uPDTWWznW7N8VqvPisa84Li7ZsSpMV8kbLmxBrOKg6xnY91jiYYP6eb3eS1rknvWK9xipqRyVNPI8olYmz+q1JuKH6QoSJiB5uC/OQNNFALyNJLcns7ZDwV0aytbMk2zPmZvsvX4i6/yNREKjq4Gre/5oKiavHLMz8YlX20wpsBKE9yKBOWxo7AFggTUOAqRRPT3CiaA6zFk=;9qBM3yps17HQJMyNTAYRnQ=="
 ---
 

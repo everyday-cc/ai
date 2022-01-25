@@ -97,6 +97,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Improving AI via chess"
+    excerpt: "Growing up, Casey Richardson was an avid chess player, studying the game religiously and playing in regional and state tournaments. \"One thing I liked about chess is, it's all strategy, not luck,\" says Richardson,"
+    publishedDateTime: 2022-01-25T21:50:00Z
+    webUrl: "https://hub.jhu.edu/magazine/2021/winter/reconnaisance-blind-chess-ai/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 37
+    images:
+      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/blind-chess.jpg?itok=p_wNQW7o"
+        width: 2400
+        height: 1840
+        isCached: true
 
 secured: "srWLgAp4+5LwdL8mh1/d94TpapkAC8fdIjYMnOyjLQoNV/pL1hB4liUuVIBHwBHaubQX860HVw78j28csH3t7Y8kFLOg9R/k6K8mKAsJBCxFqtjUXRKPNtRH0f2VelW9uqFlbYJ6iqHgZPY7JJ+9SjgOwrm67pTEhfMOdGjLOXkVEkzTjfXNkMpg0HyJeqOgiSZBTp4aarozhZYgptImEHtuaW8RXfezfFmNPK7ioJtEQOx7sfXJyzDKL5BfvAnp3A8hVga/0RY8jMMzd2ss+fWSBIMNGo3XbQdy/c6eAb59rEKebo9q4YTXUnUXx+TdIQXQe19Miqg/lUCNpG8apQSIrwxKY0bPbH6hpR2sTaIIUtuXvAf+7qLi5knyZvYwB2EZ/DClOx+DPeTpdZh1WV5OoqSWXDpiDmD/dpACC3MM60IPCIxpgVAfLxT1VAIy7Q2J3ykSrHhuggJMT6w9Z21tfrBfoMswZ4Emk9WGqlChSz3nTcy+BQEry7Tdkqx6qR0cHeKnTpXyS1L8HWzZFw==;gPliNHh0bHfEut89EQ5qew=="
 ---

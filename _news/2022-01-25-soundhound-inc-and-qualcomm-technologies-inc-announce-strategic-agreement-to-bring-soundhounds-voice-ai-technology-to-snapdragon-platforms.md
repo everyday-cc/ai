@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/01/25/soundhound-inc-and-qualcomm-technolo
 ampWebUrl: "https://venturebeat.com/2022/01/25/soundhound-inc-and-qualcomm-technologies-inc-announce-strategic-agreement-to-bring-soundhounds-voice-ai-technology-to-snapdragon-platforms/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/soundhound-inc-and-qualcomm-technologies-inc-announce-strategic-agreement-to-bring-soundhounds-voice-ai-technology-to-snapdragon-platforms/amp/"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i0.wp.com/mms.businesswire.com/media/20220125005454/en/1337607/4/Qualcomm%2BSoundHound_02_B_Copy_32400x1256_%402x.jpg?strip=all&ssl=1"

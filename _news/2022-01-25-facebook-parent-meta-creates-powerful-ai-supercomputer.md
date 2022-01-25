@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Facebook parent Meta creates powerful AI supercomputer"
-excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
-publishedDateTime: 2022-01-24T21:33:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
-webUrl: "https://abcnews.go.com/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
+publishedDateTime: 2022-01-25T04:29:00Z
+originalUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
+webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
+ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
+  - Facebook AI
   - AI
-  - Natural Language Processing
-
-images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Meta Unveils New AI Supercomputer"
@@ -214,6 +208,22 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/Meta-says-it-will-soon-have-the-worlds-fastest-AI-supercomputer-01-1.jpg"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Meta-Facebook Has a Giant AI Supercomputer To Shape The Metaverse"
+    excerpt: "Class A Report formerly Facebook, has no intention of letting Microsoft ( MSFT) - Get Microsoft Corporation Report, Samsung ( SSNLF) or Nvidia ( NVDA) - Get NVIDIA Corporation Report take the lead in the race to mold and shape the metaverse,"
+    publishedDateTime: 2022-01-25T22:44:00Z
+    webUrl: "https://www.thestreet.com/technology/meta-facebook-has-a-giant-ai-supercomputer-to-shape-the-metaverse"
+    ampWebUrl: "https://www.thestreet.com/.amp/technology/meta-facebook-has-a-giant-ai-supercomputer-to-shape-the-metaverse"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/meta-facebook-has-a-giant-ai-supercomputer-to-shape-the-metaverse"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc5MzExNjExNTc0NjI1OTg3/microsoft-names-qualcomm-executive-hou-yang-as-new-greater-china-chief.jpg"
+        width: 620
+        height: 400
         isCached: true
   - title: "Facebook parent Meta is developing the “world’s fastest” AI supercomputer"
     excerpt: "The high-speed computer is designed specifically to train machine learning systems, according to Facebook-owned Meta RSC will be used to train a range of"
@@ -637,6 +647,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "LvtyOE61HRc2Byw1uvoIzqMoPhxb7G/wg6IZrMDEelnwnQouz8u8xXFEs834ngEGW5mwYmSDk8Z/ZeqDACE8ld2nquMYTo6jC0QJONaf7jt6MFqnEfyH4qFmxZ0njpVoJIA6g7R7wirFyT0ms4jqnCy+aDImP3CHGMw67Ugo0cg6QJSDYvbUZIgD2Z5ptc+ZDhrPHRydqw7iB7s59pDLNgLmqbvuIUfAoNZ4nUvnQRFN8uTreeNdw3ZZ7ZW8NCbn/E1JUo7eZ2ht6tfpdE6wxfQqz0G/SJNN8CZMefWTFePVhSWPLJvLmZaFLiJI5TPqcP1MW5N9G9nbJVrKAeEoinZLRx/JhwMiP6zcvpXxvu4kTWDH5NUFjAwknsHyQsHzOpEEqez8DxzuYc3aBVs+7QfpGERLuUunErLtKdsVjqaDOmftbevgAJrrTuLlc1A4s5WkM1rUt1XFHdNAqS/irLVKnvmJ1O46I+5K+uzA08uwwVPvfWEAlko1/VHa8BZnQD3bzII0DtXQtGT5mp9TSQ==;IGdyiOLECRXYpcA+ODWYpg=="
+secured: "+wYpOQ/wZHNk+QlbM+1fGreWvuoyewqO6o9g4R766svAqBrpKKup1kCFkYFYwW2ZBsAcn9D/KuTAej1mgtIbo52YWGvY58gRmo1TPKvmAiWkvKoicFz2SmzXPF3qGAsXpgxCuFMd+Z4wlVbjMsZsG6wlC/p6zrqUsUAdW7pBwMAF9Nz8YA8gNhpkadWyqC2SJv6A5WPHrNbclObfN1NPMHKqEJbDOTm3oVvTfjHXcc7yFqEckW8TGgq8yN5ejPjB5eqg6eFEecSDGeh8QyjrdygkkqU7P5QN+zdRzXZmXEW95B5rTSgWkPHItiJ8zwP/7NZrnYukRhKIy0RlMEj1q4YrSEY+HGP/Q8iZ6ZKBFY4pRDLKOzE1K8jHuJ5AMfLXgO8pm9wVTwtOklF/fxcRUH54U+lxZflzYM2zz+ZHLb4HO4n2z96vrClq7Utk6kUnQVXzhhe+kBoyJrEdzUQNP5eSMSE2Y+N/ml0YuOLUJhaZWadLku/YAdPWpwveWmY8m8RoGQCoN0JJUEM0oIIZ0A==;/uYTRjq7nO/TuHUI+okvvA=="
 ---
 
