@@ -17,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/DDD-2-1-600x337.png"
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/jon2-600x337.jpg"
     width: 600
     height: 337
     isCached: true
 
-secured: "wE5JGayqQC+aea4eK+UYLPbtconPv9IIrG9BvGJqLNGNSrHGBS89UVjrM8Yf/+3CuXxQq130AzsIcKYwbCVD78S6Vi1mJo49sBLcJgm7FFGOBRM4qsB5gd2+eaP3/N3eUgTNotxdVeNsghSwMaxLvhnpnBlxCx5MFxfdhZ8cuEsq2x40veGTW1fKiCsQqL3DW67DTdN43LloTyAaGSuQJ7DZc+eXLOzVlAcARfHQvlUMiJUlbGHa4CA0VQBVqDe16pL/ZngHcuPan9Ta3nhw98xXjT5SHPG176tHwlgWjcCFINJRsuiFqRzNZhqQT3x+fJHpFtLMokEnPbvCgQYiDGWxSx1g8PFsc8u4Ow7U8Kg=;gUUwmL9iOVIG5PA9FjyTeA=="
+secured: "PoHppb+fIRLVlsK1jE1EhoXldThaNd1yCnPrPac7FeWudpXdP6tXljWZH80YqzO7aZJei0nZSCaXweFJveYLofclTb6Mpsk65GYd5dQRjNtmSN1j4dGywKSu0ZwB6QBprxsNHFXdfFvxFLLF9A2S8cwVuH/sZs2tiUUXKawzvvTIDwRfyRh1YMbln25DvlsEacpsGKeqzVSoB52Mxf0QVOYUsDNvexG3WfBxTvPNRn2qIIXPw8Uq/v34toD8cGAPTImhvyzepiGasmtpZ1LgMoR2//LdqphN/BGcgh/egk1bgeHw1xZV65gHRjRkKXt+UhV0+zviFH0xYtPOPZ1/0y0JgQ35q+hfitUHRGvKchc=;GGhIzXLvkSDlyDSNlBBDeQ=="
 ---
 

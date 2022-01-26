@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sciencenews.org/article/ai-identify-anonymous-data-phone
 cdnAmpWebUrl: "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/ai-identify-anonymous-data-phone-neural-network/amp"
 type: article
 quality: 57
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Science News
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence can be used to identify solar panel defects"
-    excerpt: "Solar farm operators are turning to AI-powered inspection to speed up the inspection process and improve accuracy. They use algorithms that can automatically detect solar panel defects from images."
-    publishedDateTime: 2022-01-21T09:42:00Z
-    webUrl: "https://www.pv-magazine.com/2022/01/21/how-artificial-intelligence-can-be-used-to-identify-solar-panel-defects-2/"
-    type: article
-    provider:
-      name: pv magazine International
-      domain: pv-magazine.com
-    quality: 39
-    images:
-      - url: "https://www.pv-magazine.com/wp-content/uploads/2022/01/09026_Above_Drone_opt1-1536x1152-1-e1642744654422-1200x661.jpeg"
-        width: 1200
-        height: 661
-        isCached: true
   - title: "How artificial intelligence can be used to identify solar panel defects"
     excerpt: "Artificial intelligence (AI), machine learning ... Deep learning algorithms are a type of machine learning algorithm that uses a neural network to learn how to solve a task."
     publishedDateTime: 2022-01-21T16:52:00Z

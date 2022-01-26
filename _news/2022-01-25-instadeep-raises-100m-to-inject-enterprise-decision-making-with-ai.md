@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 130
 published: true
 
 provider:
@@ -46,6 +46,34 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/01/762AEA63-1005-49DE-8AAD-2DF6AB8A18BA.jpeg?w=1024"
         width: 1024
         height: 768
+        isCached: true
+  - title: "AI startup SparkCognition raises $123M on a unicorn valuation of $1.4B"
+    excerpt: "Artificial intelligence startup SparkCognition Inc. revealed today that it has raised $123 million in new funding to expand sales and marketing efforts as well as research and development investments to accelerate its growth."
+    publishedDateTime: 2022-01-26T02:11:00Z
+    webUrl: "https://siliconangle.com/2022/01/25/ai-startup-sparkcognition-raises-123m-unicorn-valuation-1-4b/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/sparkcognition.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
+  - title: "InstaDeep, creator of AI-powered decision-making systems, raises $100M"
+    excerpt: "InstaDeep Ltd., a Tunisian artificial intelligence startup that’s making advanced decision-making systems to solve real-world problems, said today it has closed on a $100 million funding round. The Series B round was led by Alpha Intelligence Capital and CDIB,"
+    publishedDateTime: 2022-01-26T01:44:00Z
+    webUrl: "https://siliconangle.com/2022/01/25/instadeep-creator-ai-powered-decision-making-systems-raises-100m-series-b-funds/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/73515572_1410568199093561_5581692699917942784_n.png"
+        width: 1919
+        height: 868
         isCached: true
   - title: "InstaDeep Raises $100M to Scale Decision-Making AI Products that Solve Real-World Problems"
     excerpt: "InstaDeep, a leader in advanced AI decision-making systems for solving real-world problems, announced today it has raised $100M and closed a Series B round led by Alpha Intelligence Capital together with CDIB."

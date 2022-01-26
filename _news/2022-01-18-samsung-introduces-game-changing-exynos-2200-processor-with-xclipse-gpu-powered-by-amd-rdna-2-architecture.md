@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Samsung Introduces Game Changing Exynos 2200 Processor with Xclipse GPU Powered by AMD RDNA 2 Architecture"
-excerpt: "Seoul, Korea – Jan. 18, 2022 – Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, t"
-publishedDateTime: 2022-01-18T04:32:00Z
-originalUrl: "https://www.samsungsemiconstory.com/global/samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2-architecture/"
-webUrl: "https://www.samsungsemiconstory.com/global/samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2-architecture/"
+excerpt: "The new premium mobile processor comes with hardware-accelerated ray tracing and state of the art Arm-based processing technology Samsung Electronics Co., Ltd., a world"
+publishedDateTime: 2022-01-18T01:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/b25077694/samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2-arch"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/b25077694/samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2-arch"
+ampWebUrl: "https://www.benzinga.com/amp/content/25077694"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25077694"
 type: article
 
 provider:
-  name: samsungsemiconstory
-  domain: samsungsemiconstory.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://img.samsungsemiconstory.com/global/wp-content/uploads/2022/01/500x329_en.jpg"
-    width: 500
-    height: 329
+  - url: "https://www.benzinga.com/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "M7XXrMKl0vQCcGhTbUkdHKicignauPIak0xRwrPmEoPxR8dn2KTUCwKD/RbGxOkhNnZ0O4aV33DcLSOOnig1opg7N8ZOSt/kP8ZKMFO1RuA9zecgxIgAgE9eoLpt9AM8ZBhNrJLc/yPGM8lD6NFMTg7ZjTXd6vzD92Yy4NVFpaPNz9zUPmRmsX37eP9Doe+SCANvxPX5N9LPYP8ey+NMtkfq9xTJ02EtCVAx8vXoUPD1f5yJ9hglqTJ9waUamt5f7369xNaVrMv1LBIXQf6JRLFViGmpHtJFkP4Jy+V2qOdnDeq/WEI/usAMeBZQmFx9IL90Ynf6H9jrB/Y0kYQ/DdTxcjNfiHvv8tU6/LfckwwwNrTBKQr8C5LFyAMw2pJA5UrCZLtYugetPn7x19+tNPJJdUeTQyPGSRxx00e2jfVgkAm5y+JgQUNPmzRQN6r5SBYTWwA/+uIjFLUr48kKv175YXw8u7lKW5hj6XgbvngFJb48/u8JjTq86bGeGs+6dvdjuLiqT3dxykJ0+FG6lw==;Cfnzp3nmaupbOrAw1uAWyA=="
+secured: "Ha8XCOVKY7nCQ6YkApDuFothd5em/3VblgVBl/1ma7A0bwJqmergQnU+bGrlTDEAFynciEtyG3YxEZyWHp7NuYzqfxWLMHBd/IuvqXyKDl/6UPwRC6Q4luV4dppsKV8jJvrOL0Damwtb000FVSHVjzHJ6GC0eCU5Gi8NfC8ULGghedE7E3UJInYJ0X6EOLQxg+hk5bpy3N2aYWQxLiidg5/Ad3tK04ygT3x+p2USrKvMHul7ulVMEuNj/Rbt4tnzs03rL5x4e2zIp7l+GCf65vKZNNge4+U5FGsCQfJo8f6i2/+PA0XcmBhx+yPpsHvDVJLqOIFwdIYkiLT2oO5Rt8ek52uQK2uCsOP5gjiJvU0=;0gayJMSc4YX5s12JDSh/BQ=="
 ---
 

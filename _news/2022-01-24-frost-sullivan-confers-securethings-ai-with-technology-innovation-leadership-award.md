@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/fro
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/frost-sullivan-confers-securethings-ai-with-technology-innovation-leadership-award-122012400949_1.html"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 600
     height: 450
     isCached: true
+
+related:
+  - title: "Dataloop Applauded by Frost & Sullivan for Accelerating Computer Vision AI Model Production with its Data Management and Annotation Platform"
+    excerpt: "Dataloop Applauded by Frost & Sullivan for Accelerating Computer Vision AI Model Production with its Data Management and Annotation Platform Data"
+    publishedDateTime: 2022-01-26T02:39:00Z
+    webUrl: "https://menafn.com/1103593250/Dataloop-Applauded-by-Frost-Sullivan-for-Accelerating-Computer-Vision-AI-Model-Production-with-its-Data-Management-and-Annotation-Platform"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/25/F&S_b3ca7image_story.png"
+        width: 698
+        height: 360
+        isCached: true
 
 secured: "EXvmngzMicW4zYdD9Y3FAVcr7ytPJZkk+iw8prwzKeb9HvGnO198OPVWMCNkDY0MchUWV/5ay7oHOjkjdO8R0QZx/nVb4u85VNh9Vt0K5P+NLfDPwH28Vs9ogyWo00j9Xb1V4CG6bMK3h/oAmZr8GSCPrCPI4RvmrY7EH/wKI39Zt0HqFGEZ71XclFxIGErM2af4101vWgQhHb0BR8mpqsLHXFv/jA1WwHyLHjdB3Hib0L+vqtwohMRzsnLNNMBATjJMU6jVnNuDFQPOx10opB37GZwnHJorJOoWrKQy9K5F+DXk1R/NWyu6VTd+pqp2duEmH39b846VJ6sGQhafxNNRudKVWl8e1hGHWZ41Oj4=;suFUeP/t1Y7SH5ip+xCcMQ=="
 ---

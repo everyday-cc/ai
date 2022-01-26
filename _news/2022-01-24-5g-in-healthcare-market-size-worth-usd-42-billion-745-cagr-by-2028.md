@@ -24,6 +24,24 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "The global self-driving cars market size is projected to grow from 20.3 million units in 2021 to 62.4 million units by 2030, at a CAGR of 13.3%"
+    excerpt: "Reportlinker.com announces the release of the report \"Self-driving Cars Market by Component, Vehicle, Level of"
+    publishedDateTime: 2022-01-25T10:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25202817/the-global-self-driving-cars-market-size-is-projected-to-grow-from-20-3-million-units-in-2021-to-6"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25202817"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25202817"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
+    images:
+      - url: "https://www.benzinga.com/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+
 secured: "YDAJq5y5J4/nD9UFQyraY6yIGay0KzhIruofSxsO2xS64EApaUj7GXpbeWhhMIDSJVk/Wca30Vez+wcpBGZOi4lVrJ4q0Kalkt+2ulZS5OuOCgjJrOPRgUVTlM7oxaZ+XLl9BkV6GAnihqlNQ/Jjt5wzm427That/e7yExs6JmMIT0VIc1NTX0yjLD4hLckF3Y+JSNA0ZletfUZhv2r4UjvKMcpI5rlLBgMdf1hv2SiDeuCuxJinKE5iExrgU+gvFp9YtlyNDfASZ5jQJYycMi8clbpnyk3jrg6sRQw+tUC0HUrcGk+n+EvH0YSA5S3AnUin3OxJ7ruOj39fU1IGA+iZ3/FdiuKY3xP+WcyNTQ0=;2njjJLf9M6vVv0J0xUPR0w=="
 ---
 

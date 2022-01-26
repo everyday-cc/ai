@@ -1,30 +1,23 @@
 ---
 category: news
 title: "Facebook parent Meta creates powerful AI supercomputer"
-excerpt: "Facebook’s parent company Meta on Monday said it has created what it believes is among the fastest artificial-intelligence supercomputers running today."
-publishedDateTime: 2022-01-25T06:47:00Z
-originalUrl: "https://www.spokesman.com/stories/2022/jan/24/facebook-parent-meta-creates-powerful-ai-supercomp/"
-webUrl: "https://www.spokesman.com/stories/2022/jan/24/facebook-parent-meta-creates-powerful-ai-supercomp/"
-ampWebUrl: "https://www.spokesman.com/stories/2022/jan/24/facebook-parent-meta-creates-powerful-ai-supercomp/?amp-content=amp"
-cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/jan/24/facebook-parent-meta-creates-powerful-ai-supercomp/?amp-content=amp"
+excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
+publishedDateTime: 2022-01-25T04:29:00Z
+originalUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
+webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
+ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
 type: article
-quality: 59
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Spokesman-Review
-  domain: spokesman.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - AI Hardware
   - AI
-
-images:
-  - url: "https://thumb.spokesman.com/U5TBuk74viO8r6uT25XjVT9moNs=/480x0/media.spokesman.com/photos/2022/01/24/61ef4a9d0fdfc.hires.jpg"
-    width: 480
-    height: 320
-    isCached: true
 
 related:
   - title: "Meta Unveils New AI Supercomputer"
@@ -199,6 +192,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta plans the world’s largest AI supercomputer"
+    excerpt: "Facebook’s parent company Meta said it is building the world's largest AI supercomputer to power machine-learning and natural language processing for building its metaverse project. The new machine, called the Research Super Computer (RSC),"
+    publishedDateTime: 2022-01-25T23:06:00Z
+    webUrl: "https://www.networkworld.com/article/3648289/meta-plans-the-world-s-largest-ai-supercomputer.html"
+    ampWebUrl: "https://www.networkworld.com/article/3648289/meta-plans-the-world-s-largest-ai-supercomputer.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3648289/meta-plans-the-world-s-largest-ai-supercomputer.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 61
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/22/16/facebook_by_gerd_altmann_cc0_via_pixabay_1200x800-100758881-large-100825209-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook Parent Meta Built the World's Fastest AI Supercomputer"
     excerpt: "Meta (formerly Facebook) is the latest company to build an AI supercomputer. Meta's new RSC supercomputer consists of 760 Nvidia GGX A 100 systems containing 6080 GPUs."
     publishedDateTime: 2022-01-25T06:45:00Z
@@ -262,22 +271,6 @@ related:
       - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc5MzExNjExNTc0NjI1OTg3/microsoft-names-qualcomm-executive-hou-yang-as-new-greater-china-chief.jpg"
         width: 620
         height: 400
-        isCached: true
-  - title: "Meta plans the world’s largest AI supercomputer"
-    excerpt: "Facebook’s parent company Meta said it is building the world's largest AI supercomputer to power machine-learning and natural language processing for building its metaverse project. The new machine, called the Research Super Computer (RSC),"
-    publishedDateTime: 2022-01-25T23:06:00Z
-    webUrl: "https://www.networkworld.com/article/3648289/meta-plans-the-world-s-largest-ai-supercomputer.html"
-    ampWebUrl: "https://www.networkworld.com/article/3648289/meta-plans-the-world-s-largest-ai-supercomputer.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3648289/meta-plans-the-world-s-largest-ai-supercomputer.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/22/16/facebook_by_gerd_altmann_cc0_via_pixabay_1200x800-100758881-large-100825209-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Facebook parent Meta is developing the “world’s fastest” AI supercomputer"
     excerpt: "The high-speed computer is designed specifically to train machine learning systems, according to Facebook-owned Meta RSC will be used to train a range of"
@@ -701,6 +694,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "SizqU4WfK9dWr6T5bUpe0l+YdbVEyG/UZd7DAOIjnc2t8ZsGd9C8Ci7pvg6hi9qpd5naAZiM9Dl3z8tY/tK3FLG77Tu1OyXr3Sgdlp2TfdX7Bk4JuJPH50SfOKeBS/AFY5Y9QTCkIvC9iwH95oXEY8x15cJESTNNGHE3u+U66tXk9NQ9iqV3GAB2CqqhEv/5rQ5Po5KwqRchXoN8j5PfC7RI3kE+2xYT3jG/v4GBLyYFtVzcEtoIru7ozW1eqIEVUJGM4PVXVhmmQklf9/DqPWXHTQDB3GyaKesj+6c4BwGOhefRIr0S5D6KzjFyuXjh/Ea7PoVQBYXxv0lUhab0M3u6i0XiNf8v+lkcp5Q/2rE=;WUbzBzgPRjlS06e8rEZ5Nw=="
+secured: "b018b/ZHKqsz6Ej1ei/CGGxcK5vgJNihTk24xOm/NqfOlhgjLm+42MJ98IvKBQgDsvMvU52cK+w2veELmBA2L7D+wn1I3Gwgqgwpp/ErIPLcUFwrtMHht0DFlgjd8Ki191Rafuq7luIoyjyyYaxBMnhHxKIpFXD4v6+xedyhBNYjCn73RajpYNhKdU/z4HpznlIo/gglzd8HIMnoU5zrDipZRMZeX/viC5x+zWMEuzKDMeNC9tsSMIYpjzAEUJXY3BMDuuidJ1BSBdxKDM06wxQRAtnGMYZLG2orTpUA+e13zAxCkE/AZzb9SqHJwKzwL3wQwm1msX1N3zG5f8FTkKhxNCxfeRtMdNEBjx69D/3WnIkJOOo/H+JUKnGM+s8mUlVBjQdS7r0IAlUvyF3ESAMNMzyUG1jv3F3jQ8jdavPkGfUEXLfuoGp+fmHGpy6md9WHoRI8Z+ljiw1922TtjfcjRX138mMCeO/ZgPI3cLhD7/PKfSoEbSs21bOSP7SXbLGvYemH7AF3f2MDDlt8EA==;4gPDYZj9+G1urLqaiUhqCA=="
 ---
 

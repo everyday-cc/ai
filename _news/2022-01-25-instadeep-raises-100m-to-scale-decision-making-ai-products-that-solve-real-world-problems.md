@@ -56,6 +56,34 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "AI startup SparkCognition raises $123M on a unicorn valuation of $1.4B"
+    excerpt: "Artificial intelligence startup SparkCognition Inc. revealed today that it has raised $123 million in new funding to expand sales and marketing efforts as well as research and development investments to accelerate its growth."
+    publishedDateTime: 2022-01-26T02:11:00Z
+    webUrl: "https://siliconangle.com/2022/01/25/ai-startup-sparkcognition-raises-123m-unicorn-valuation-1-4b/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/sparkcognition.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
+  - title: "InstaDeep, creator of AI-powered decision-making systems, raises $100M"
+    excerpt: "InstaDeep Ltd., a Tunisian artificial intelligence startup that’s making advanced decision-making systems to solve real-world problems, said today it has closed on a $100 million funding round. The Series B round was led by Alpha Intelligence Capital and CDIB,"
+    publishedDateTime: 2022-01-26T01:44:00Z
+    webUrl: "https://siliconangle.com/2022/01/25/instadeep-creator-ai-powered-decision-making-systems-raises-100m-series-b-funds/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/73515572_1410568199093561_5581692699917942784_n.png"
+        width: 1919
+        height: 868
+        isCached: true
 
 secured: "dFlJ4nQ6UMYRfv72d/lUi9nFssC8ES/yhzwa1cxLGhYa0F9jIrDeBJD4ZV2TLwEUx77NQ16E3Dp8MANd7j4VUrfg29q4+v9U8ZHioPSKue9lcJsprl9r7MBsIFSD8xKCLevuiF9VJq/1VcD0Na3arQgTfGkVgVHQRx6sGRhJzBJYhSs8OAH54DJqugpxsvYl8Ac09N6vDghnMcufZfnlY4p9jgD31+6rorahnHn9WkJ+StvgupOLJoyeCqCOCXKNmcOVHJcP6V6MdyD0EizmhhkoF6tfrMkvYdXkPXqtfPcyvwkb4dHbekJ8MxgKsHrYuzqsOYCujw5K9e+LSx7l4uoPKKCmSoMuYQ86hmRI0UI=;42XmPWZa1rNypKnVbSngoA=="
 ---

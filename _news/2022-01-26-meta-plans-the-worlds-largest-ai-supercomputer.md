@@ -8,7 +8,7 @@ webUrl: "https://www.networkworld.com/article/3648289/meta-plans-the-world-s-lar
 ampWebUrl: "https://www.networkworld.com/article/3648289/meta-plans-the-world-s-largest-ai-supercomputer.amp.html"
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3648289/meta-plans-the-world-s-largest-ai-supercomputer.amp.html"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/22/16/facebook_by_gerd_altmann_cc0_via_pixabay_1200x800-100758881-large-100825209-large.jpg?auto=webp&quality=85,70"
@@ -214,22 +215,6 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2022/01/25/1196841-meta.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Facebook parent Meta creates powerful AI supercomputer"
-    excerpt: "Facebook’s parent company Meta on Monday said it has created what it believes is among the fastest artificial-intelligence supercomputers running today."
-    publishedDateTime: 2022-01-25T06:47:00Z
-    webUrl: "https://www.spokesman.com/stories/2022/jan/24/facebook-parent-meta-creates-powerful-ai-supercomp/"
-    ampWebUrl: "https://www.spokesman.com/stories/2022/jan/24/facebook-parent-meta-creates-powerful-ai-supercomp/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/jan/24/facebook-parent-meta-creates-powerful-ai-supercomp/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 59
-    images:
-      - url: "https://thumb.spokesman.com/U5TBuk74viO8r6uT25XjVT9moNs=/480x0/media.spokesman.com/photos/2022/01/24/61ef4a9d0fdfc.hires.jpg"
-        width: 480
-        height: 320
         isCached: true
   - title: "Meta Buys, Rather Than Builds And Opens, Its Massive AI Supercomputer"
     excerpt: "If you thought it took a lot of compute and storage to build Facebook’s social network, you ain’t seen nothing yet. The immersive and AI-enhanced"
@@ -621,6 +606,17 @@ related:
         width: 1248
         height: 701
         isCached: true
+  - title: "Facebook parent Meta creates powerful AI supercomputer"
+    excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
+    publishedDateTime: 2022-01-25T04:29:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "RUAG Space agrees AI partnership for satellite supercomputer"
     excerpt: "Switzerland’s RUAG Space said Jan. 24 it is teaming up with a software provider to run artificial intelligence solutions on its Lynx, which it says is the most powerful commercially available onboard satellite computer."
     publishedDateTime: 2022-01-24T23:03:00Z
@@ -701,6 +697,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "P4p83RmGl5pZ5lsLTm5ZjbVJFcpXIwKaUUuA1j8/xNrLdMLBjUpYU3dzT/nBNssgZkM21S2f6SANugID8NFHwtC4yZgDwNwmSQfa60h+nMkbwli02Dt8FMlVnj2VEad5usscV7AA5pGoaTW25jPfcI8uJzsm5blCcJxuka+zX/J+eOFlznbZ8RwQ7eHknKuYMyBEUM5Q0bLHRk5UNpdCx+XLLEtb61z0zlF7jhq9ZnFOrNHvgbigkzbtxX9f1RGOLHVnjjb0qWAb8DGDFifshsXycVYNsAzOOVw8FKCIXWvKEymNDmhLxR0me3yDwn0XWMCPAGTbzsU9/GbNw7zRoyh6mD1xiRytBzQBxYgzRWo=;Lhcf9wsU9fevMTqWO9U4hw=="
+secured: "OowISeY2a89CHAsuXUgd0YYTcH6vxkli90Zp/wiXeFpjarb8dcHhdY+Fh20Fu9fv5DL/HGWLsawcsgkhuOuISs5Tea7nV60qGT/AxtTNDFDwWdgAnNvxuOX8Ai7FGqVnWisFcd4J9hZmzkNkso5oAJsZ8Dpq0TASsAEaQR+D59M7WhIj/PRTQRZMlgdD+WmQlWShPgUy++GakMbNowkwLXkSTcPeMex71wffVBNEFLiIJIuomdTN3IEJjjBr4wf/ojodrfxWFzzv032pBsPLs9NvNbHEGDCBrr3RE9m64b6+sN4qAH1orhRpgrGk7C1oaxUNOpWzE9aIkH4aLNw+uz3sPpgq/IS0MaLiHGA4OFVBzIbbW+ubqaWybKl5viOywjjMWx0qFMFy9c5nUSbN946V2t1Sf4IBYeKZ3AoUqjKpuWGHQ0Kq835AyNLzWSOtd7TORkP1oaVqScLM42FktPaD+cvKgzr5iX8WungDJxKB6VJVuGH5qoFhf38DA4jW2U9JnZl4JSrEn19kBOSH2A==;8okChYoXhw8fBAk3D32wlQ=="
 ---
 
