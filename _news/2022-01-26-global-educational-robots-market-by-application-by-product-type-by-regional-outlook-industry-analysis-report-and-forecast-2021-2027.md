@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "2021 Global Oil and Gas Automation Industry Report - Robotics for the Upstream Sector Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The “Global Oil and Gas Automation Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. The global oil and gas market is currently going through an unprecedented transformation,"
+    publishedDateTime: 2022-01-26T10:42:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-robotics-b4154ea08aa7429fa77ba94e6711d6e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Global Voice User Interface Market By Vertical, By Offering, By Application, By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027"
     excerpt: "Reportlinker.com announces the release of the report \"Global Voice User Interface Market By Vertical, By Offering,"
     publishedDateTime: 2022-01-25T15:01:00Z

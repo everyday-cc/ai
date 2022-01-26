@@ -43,6 +43,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "2021 Global Oil and Gas Automation Industry Report - Robotics for the Upstream Sector Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The “Global Oil and Gas Automation Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. The global oil and gas market is currently going through an unprecedented transformation,"
+    publishedDateTime: 2022-01-26T10:42:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-robotics-b4154ea08aa7429fa77ba94e6711d6e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Automotive Smart Display Market Analysis 2021-2028 | Key Driving Factors, Application, Manufacturers, And Future Trends | Grand View Research, Inc."
     excerpt: "Market Research And Consulting.\"\"According to a new report published by Grand View Research, increasing demand for advanced"
     publishedDateTime: 2022-01-24T14:45:00Z

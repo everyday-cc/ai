@@ -63,17 +63,6 @@ related:
         width: 1200
         height: 917
         isCached: true
-  - title: "IBM sells Watson Health assets to investment firm Francisco Partners"
-    excerpt: "IBM is selling parts of its Watson Health Unit to the global investment firm Francisco Partners, the companies confirmed Friday. The deal is expected to close in the second quarter of this year."
-    publishedDateTime: 2022-01-21T17:39:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-sells-watson-health-assets-to-investment-firm-francisco-partners/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-sells-watson-health-assets-to-investment-firm-francisco-partners/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-sells-watson-health-assets-to-investment-firm-francisco-partners/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "IBM to sell off Watson Health assets"
     excerpt: "Private equity firm Francisco Partners is buying a large portion of the AI healthcare unit \"more than $1 billion\""
     publishedDateTime: 2022-01-24T12:37:00Z
@@ -87,22 +76,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596721605/itpro/IBM_shutterstock.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "IBM has sold Watson Health. It was a long time coming."
-    excerpt: "IBM announced today that it has sold its Watson Health data and analytics assets to private equity firm Francisco Partners. The highly-anticipated sell-off includes data sets and analytics products such as Health Insights,"
-    publishedDateTime: 2022-01-21T17:05:00Z
-    webUrl: "https://www.protocol.com/bulletins/ibm-watson-health-sale?share_id=6878351"
-    ampWebUrl: "https://www.protocol.com/amp/ibm-watson-health-sale-2656446582"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ibm-watson-health-sale-2656446582"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 59
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-ibm-software-svp-tom-rosamilia-called-the-sale-a-move-to-align-the-company-with-its-hybrid-cloud-and-ai-strategy-less-than-p-greater-than.jpg?id=27028346"
-        width: 2832
-        height: 1593
         isCached: true
   - title: "IBM finally finds a private equiteer willing to purchase Watson Health"
     excerpt: "In-brief IBM has offloaded healthcare data and analytics assets from its Watson Health business, with private equity firm Francisco Partners hand over around $1bn for the privilege. The takeover “is a clear next step as IBM becomes even more focused on our platform-based hybrid cloud and AI strategy,"
@@ -120,22 +93,6 @@ related:
         width: 648
         height: 448
         isCached: true
-  - title: "IBM Agrees to Sale of Watson Data, Analytics Assets to Francisco Partners"
-    excerpt: "IBM and Francisco Partners announced a definitive agreement under which Francisco Partners will acquire data and analytics assets from its Watson Health business, multiple outlets are reporting. The assets acquired by Francisco Partners include extensive and diverse datasets and products such as Health Insights,"
-    publishedDateTime: 2022-01-21T17:05:00Z
-    webUrl: "https://healthitanalytics.com/news/ibmagrees-to-sale-of-watsondata-analytics-assets-to-francisco-partners"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/ibmagrees-to-sale-of-watsondata-analytics-assets-to-francisco-partners"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ibmagrees-to-sale-of-watsondata-analytics-assets-to-francisco-partners"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 58
-    images:
-      - url: "https://healthitanalytics.com/images/sized/GettyImages-1164501571-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
-        isCached: true
   - title: "Three reasons why Watson-based AI might fail"
     excerpt: "This week the story of an IBM Watson asset purchase by Francisco Partners is in the news. Perhaps not covered in this announcement are some of the reasons Watson-like-data-dependent AI might fail to provide the business windfalls anticipated."
     publishedDateTime: 2022-01-26T05:16:00Z
@@ -149,22 +106,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQFUpjKlVrExnw/article-cover_image-shrink_720_1280/0/1643147426919?e=1648684800&v=beta&t=5EEdJPdEpcjnhcos3R9y7AwmkuKnQnM75wHGmolV_i4"
         width: 1080
         height: 720
-        isCached: true
-  - title: "IBM sells pieces of Watson Health business to private equity firm reprtedly for $1B+"
-    excerpt: "IBM's long rumored sale of assets from its artificial intelligence-based Watson Health business became reality Friday morning. Here are the details."
-    publishedDateTime: 2022-01-21T17:51:00Z
-    webUrl: "https://wraltechwire.com/2022/01/21/ibm-sells-pieces-of-watson-health-business-to-private-equity-firm/"
-    ampWebUrl: "https://wraltechwire.com/2022/01/21/ibm-sells-pieces-of-watson-health-business-to-private-equity-firm/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/01/21/ibm-sells-pieces-of-watson-health-business-to-private-equity-firm/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 52
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2017/11/IBM_WATSON_ENGAGEMENT_ADVISOR-1200x813-e1641470668717.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "IBM Bids Farewell to Watson Health Assets"
     excerpt: "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion,"

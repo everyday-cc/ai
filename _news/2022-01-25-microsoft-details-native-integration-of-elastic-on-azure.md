@@ -26,16 +26,19 @@ images:
 
 related:
   - title: "Momentum in Azure Cloud to Aid Microsoft's (MSFT) Q2 Earnings"
-    excerpt: "Microsoft’s MSFT second-quarter fiscal 2022 results, scheduled to be reported on Jan 25, are likely to have been driven by the continued strength in its cloud platform — Azure. The platform has been benefiting from the pandemic-led digital transformation across the globe."
-    publishedDateTime: 2022-01-24T16:58:00Z
-    webUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings"
-    ampWebUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings?amp"
+    excerpt: "Microsoft's (MSFT) fiscal second-quarter performance is likely to reflect momentum in the Azure cloud platform due to rapid digital transformation."
+    publishedDateTime: 2022-01-24T21:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/414815"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 99
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-414815.jpeg"
+        width: 635
+        height: 400
+        isCached: true
   - title: "Microsoft AI Powering into Healthcare"
     excerpt: "With Microsoft consolidating the gaming sector in 2022, in 2023 my prediction is it will go more after AI in Healthcare. If you want to read more of my articles on AI, join AiSupremacy my main Newsletter for all things AI."
     publishedDateTime: 2022-01-22T16:55:00Z

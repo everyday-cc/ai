@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UK needs law for self-driving cars, government bodies say"
+    excerpt: "The law should regulate self-driving vehicles and include sanctions for companies if anything goes wrong when their vehicles take over control from human drivers, two independent governmental bodies said."
+    publishedDateTime: 2022-01-26T08:11:00Z
+    webUrl: "https://europe.autonews.com/automakers/uk-needs-law-self-driving-cars-government-bodies-say"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20autonomous%20a8%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "4Hln7yd1omF6TrtBth+FaLzl9RCQWCENPUOZ1/fQZedLyr2w8lB4rSK0tUnG6wF5ESUl2jS0jmot4gV+b3akXp1qakHlJWKy5T1mnnnstGX6vj1Rkr52gKHSpbvvzCEIMJJQGx9Tl2ZAJ0ubdwJqqlfZvQgnfoQxp+4yEs52FnsgtScsh/SGP3sv1hb/mM+/RebQua+olVOSqQFOD74fuuxra6uN3/t+Z7zgtrhRIJ5R5pqqSikoREZl8aCC/HzvAUsZB1XvZLdn4aBPT3KWJYOf4bFBuzQ95WuP3n4I+klRM7FAnSxOZiC03vBPiQu1aebdTfAZtFczkkio0c4zFGP6FVHmhklBQSLK3fvWAII=;p0ROZ911SJwnYXm9f2jYSg=="
 ---

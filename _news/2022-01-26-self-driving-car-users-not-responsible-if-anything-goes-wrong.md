@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Self-driving car users not responsible if anything goes wrong"
-excerpt: "Drivers behind the wheel of a self-driving car should not be legally responsible for the actions of the vehicle if it goes wrong according to a new proposal. The news comes as the Law Commission of England and Wales and the Scottish Law Commission asked for legal reforms allowing drivers to be immune from prosecution if the self-driving car did anything wrong,"
+excerpt: "Drivers behind the wheel of a self-driving car should not be legally responsible for the actions of the vehicle if it goes wrong according to a new proposal.  The news comes as the Law Commission of England and Wales and the Scottish Law Commission asked for legal reforms allowing drivers to be immune from prosecution if the self-driving car did anything wrong,"
 publishedDateTime: 2022-01-26T08:42:00Z
-originalUrl: "https://www.yorkpress.co.uk/news/national/uk-today/19874983.self-driving-car-users-not-responsible-anything-goes-wrong/"
-webUrl: "https://www.yorkpress.co.uk/news/national/uk-today/19874983.self-driving-car-users-not-responsible-anything-goes-wrong/"
+originalUrl: "https://www.thenorthernecho.co.uk/news/national/uk-today/19874983.self-driving-car-users-not-responsible-anything-goes-wrong/"
+webUrl: "https://www.thenorthernecho.co.uk/news/national/uk-today/19874983.self-driving-car-users-not-responsible-anything-goes-wrong/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Press
-  domain: yorkpress.co.uk
+  name: The Northern Echo
+  domain: thenorthernecho.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.yorkpress.co.uk/resources/images/13412006/"
+  - url: "https://www.thenorthernecho.co.uk/resources/images/13412006/"
     width: 1800
     height: 1200
     isCached: true
@@ -52,6 +52,22 @@ related:
     quality: 49
     images:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7r_ZXR99xWU/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Car makers face legal responsibility for self-driving car crashes"
+    excerpt: "The Law Commission of England and Wales and the Scottish Law Commission have suggested that car makers should be legally responsible for any crashes caused by their self-driving cars."
+    publishedDateTime: 2022-01-26T09:53:00Z
+    webUrl: "https://www.am-online.com/news/car-manufacturer-news/2022/01/26/car-makers-face-legal-responsibility-for-self-driving-car-crashes"
+    ampWebUrl: "https://www.am-online.com/amp/news/car-manufacturer-news/2022/01/26/car-makers-face-legal-responsibility-for-self-driving-car-crashes"
+    cdnAmpWebUrl: "https://www-am--online-com.cdn.ampproject.org/c/s/www.am-online.com/amp/news/car-manufacturer-news/2022/01/26/car-makers-face-legal-responsibility-for-self-driving-car-crashes"
+    type: article
+    provider:
+      name: AM-online
+      domain: am-online.com
+    quality: 44
+    images:
+      - url: "https://cdn.am-online.com/media/1/root/autonomous-car_w1200.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -112,6 +128,6 @@ related:
         height: 630
         isCached: true
 
-secured: "TqP0QfgSOm/HWCHECLvyCZymKSO4U5xde5xc6fNfrd29NiatBf8HZfYkVM4TwhRSv0KCsDgA3CdZoqb2CxEeqMEKikQuvaX+ts5sj8TJJ/OMq59jx52eGQfSPv7lj7VmTcwCXgy/4lxfw3+L76PMlRXcgCtRpBuhRercZqcu9uTJpyMtI4G3i2HTt9XlJU+99iKh+j9oJJyRJ8lfFNHRV0d+nGM0tldk5Mw7uWe3bqvB09CckAJjzuSwZNKkloVU7VSB/n+CxevzqJfWmwzV6+nKBE0U5phqgvvsOtW1jR56a8XiwG/o/psrf6bv+Ig3KOPF+lkncAoraGjWsYHM/c99kUyhAKKuzw7vC013Shc=;oAx5QHl8nnKEmvt8nxGZvA=="
+secured: "oKiS/aqaZtl0gq5uPnDJqgAsbcWCOQKZkqOtIUdacrVS7kM+VKZ4ZPPqWbzaaxabyJxr8volvaOGT1oSJVKbXW8uByBx32NPvvtKC021QDBKiJibAroWxYAISA6ivuu4F+IxsrcmdK9IXfA43+KT7+HPtYn8VM5JltMVQzT56O+ZGPLhi9lT7Dz0a0atV2m5Y5xAqGfCGl+hRkIEhy+JKSzqiMva71bzu2YaTF5oT1RlzBUQndiOPc5QeXM89LrILG3ozv6cFQBGhiWl+QNvZ8h0YFVdjJ2Y0wdsfVB9YamqJpIUH8z8l1bFbiWd+KhZJ/A/koihR+Z6+Hzy3bHcYi+FCFe4mAuk0Ga0kf7Xrf8=;Ne3CbsEA+F/ObJbx0++Q1g=="
 ---
 

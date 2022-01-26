@@ -24,6 +24,22 @@ images:
     height: 938
     isCached: true
 
+related:
+  - title: "Qatar - Local companies explore 5G potential in live sports media"
+    excerpt: "A consortium of locally based media and technology companies, including Ooredoo, Al Jazeera, beIN Sports and Microsoft, p"
+    publishedDateTime: 2022-01-26T09:40:00Z
+    webUrl: "https://menafn.com/1103595414/Qatar-Local-companies-explore-5G-potential-in-live-sports-media"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/26/TP_8a3a5image_story.jpg"
+        width: 600
+        height: 469
+        isCached: true
+
 secured: "re4pj7DtjWkNxS7YyXShW+QR4tkfcgWzTtq2Zb65GKRptgEqhMl4J58cOzrnBqIAx/utfDjrtE74+W8BopWzZ5MUNmqQg5cmhV7PhDls89cDAXQB0E2sLcGYRpHewRPK6Q6TQmCMTz6PKx4FnXLoDZBKxRu9p10u3NsMK4BMSe9x7Moxpg49bkdSkxfTowGy8DmETgL+9mrKnLIg4jzo6se68pARLOyze5Rh/RbvIDxoniyqT8sAN98KDZFNKzmORtn0M8O+QQJektVGLmXFxgZzpG54u7Pp/l1rDPpZJZ+AOmDUX8XtBC2cUdxwgYoqtTheKbCWTp6m47rhiTEKW3iq44qr3+4RwLcj4QBwBmo=;pDJYBkr8QODEoZ5/OBa5aA=="
 ---
 
