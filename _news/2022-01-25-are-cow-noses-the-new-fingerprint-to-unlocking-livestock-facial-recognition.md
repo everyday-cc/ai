@@ -35,22 +35,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "IRS to start using facial recognition this summer; selfies will be required"
-    excerpt: "The IRS will require users of its online portal to create an ID.me account starting this summer. Citing security blogger Brian Krebs, Business Insider reported on a new message on the IRS website directing users to create an account with ID."
-    publishedDateTime: 2022-01-21T14:28:00Z
-    webUrl: "https://www.al.com/news/2022/01/irs-to-start-using-facial-recognition-this-summer-selfies-will-be-required.html"
-    ampWebUrl: "https://www.al.com/news/2022/01/irs-to-start-using-facial-recognition-this-summer-selfies-will-be-required.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2022/01/irs-to-start-using-facial-recognition-this-summer-selfies-will-be-required.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 57
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HHUTFJY3PFGAXNIE7CPCT7FKJ4.jpg"
-        width: 4992
-        height: 3328
-        isCached: true
   - title: "ID.me Comments on Adherence to Federal Rules on Facial Recognition \"Selfies\" that Protect Identities from Theft"
     excerpt: "ID.me provided the following comments today. Statement from ID.me CEO and Founder, Blake Hall: \"We are committed to ensuring everyone can verify their identity online and use it to access essential services."
     publishedDateTime: 2022-01-24T12:00:00Z

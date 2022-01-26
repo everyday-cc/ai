@@ -1,91 +1,77 @@
 ---
 category: news
 title: "Self-driving cars: Companies not the users should be responsible if autonomous vehicles crash, watchdog proposes"
-excerpt: "Completely self-driving cars are not yet legal on the roads of the UK, although some vehicles with autonomous features are in development."
-publishedDateTime: 2022-01-26T01:40:00Z
-originalUrl: "https://news.sky.com/story/self-driving-cars-companies-not-the-users-should-be-responsible-if-autonomous-vehicles-crash-watchdog-proposes-12525312"
-webUrl: "https://news.sky.com/story/self-driving-cars-companies-not-the-users-should-be-responsible-if-autonomous-vehicles-crash-watchdog-proposes-12525312"
-ampWebUrl: "https://news.sky.com/story/amp/self-driving-cars-companies-not-the-users-should-be-responsible-if-autonomous-vehicles-crash-watchdog-proposes-12525312"
-cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/self-driving-cars-companies-not-the-users-should-be-responsible-if-autonomous-vehicles-crash-watchdog-proposes-12525312"
+excerpt: "People in a self-driving car should not be responsible if it crashes, legal watchdogs have proposed. The Law Commission of England and Wales, and the Scottish Law Commission, want legal protections to be introduced for owners of self-driving cars if anything goes wrong with the automation."
+publishedDateTime: 2022-01-26T05:42:00Z
+originalUrl: "https://www.manxradio.com/news/uk-business/self-driving-cars-companies-not-the-users-should-be-responsible-if-autonomous-vehicles-crash-watchdog-proposes/"
+webUrl: "https://www.manxradio.com/news/uk-business/self-driving-cars-companies-not-the-users-should-be-responsible-if-autonomous-vehicles-crash-watchdog-proposes/"
 type: article
-quality: 23
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Sky
-  domain: sky.com
+  name: Manx Radio
+  domain: manxradio.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://e3.365dm.com/22/01/1600x900/skynews-self-driving-care-car_5652425.png?20220125185007"
-    width: 1600
-    height: 900
+  - url: "https://e3.365dm.com/22/01/640x380/skynews-self-driving-care-car_5652425.png?20220125185007"
+    width: 640
+    height: 380
     isCached: true
 
 related:
-  - title: "Self-Driving Car Users Shouldn’t Be Held Responsible For Crashes, U.K. Report Says"
-    excerpt: "Proposed legal reforms would give U.K. self-driving car users immunity from offenses like dangerous driving, speeding and running red lights."
-    publishedDateTime: 2022-01-26T01:23:00Z
-    webUrl: "https://www.forbes.com/sites/zacharysmith/2022/01/25/self-driving-car-users-shouldnt-be-held-responsible-for-crashes-uk-report-says/"
-    ampWebUrl: "https://www.forbes.com/sites/zacharysmith/2022/01/25/self-driving-car-users-shouldnt-be-held-responsible-for-crashes-uk-report-says/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zacharysmith/2022/01/25/self-driving-car-users-shouldnt-be-held-responsible-for-crashes-uk-report-says/amp/"
+  - title: "Mercedes sees Luminar eyes in its self-driving cars"
+    excerpt: "Mercedes-Benz has taken a major step forward in its efforts to produce self-driving cars, partnering with Luminar to include the latter’s Iris lidar technology in Mercedes-Benz vehicles. The"
+    publishedDateTime: 2022-01-25T13:00:00Z
+    webUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/"
+    ampWebUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61f0abef6ac9f3ba6246d1ec/0x0.jpg?format=jpg&crop=4193,2360,x0,y411,safe&fit=crop"
-        width: 4193
-        height: 2360
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/mercedes-luminar.jpg"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Self-Driving Car Users Should Not Be Responsible ‘If Anything Goes Wrong’: Report"
-    excerpt: "Someone behind the wheel of a self-driving car should not be legally responsible if it is involved in a crash, according to new proposals."
-    publishedDateTime: 2022-01-26T00:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-01-26/self-driving-car-users-should-not-be-responsible-if-anything-goes-wrong-repor"
+  - title: "TECH TUESDAY: The race to self-driving cars"
+    excerpt: "Companies are now testing advanced 3D Lidar systems with that capability, racing to bring self-driving cars a step closer to reality."
+    publishedDateTime: 2022-01-25T19:25:00Z
+    webUrl: "https://www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/"
+    ampWebUrl: "https://www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 49
+      name: WLNS.com
+      domain: wlns.com
+    quality: 44
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7r_ZXR99xWU/v0/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2019/11/self-driving-cars.jpg?w=1280"
+        width: 1280
+        height: 960
         isCached: true
-  - title: "Self-driving car owners won’t be to blame for crashes under proposed new laws"
-    excerpt: "UK law chiefs recommend new regulation on autonomous driving, including assigning responsibility for errors and a crackdown on misleading marketing"
-    publishedDateTime: 2022-01-26T00:01:00Z
-    webUrl: "https://www.edinburghnews.scotsman.com/lifestyle/cars/self-driving-car-owners-wont-be-to-blame-for-crashes-under-proposed-new-laws-3541257"
+  - title: "VW Teams With Biggest Car-Parts Maker to Boost Self-Driving Push"
+    excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to bolster its automated-driving push and catch up with the likes of Tesla Inc. on software development. VW’s Cariad software unit will work with the world’s largest auto-parts supplier to introduce features allowing drivers to temporarily take their hands off the steering wheel starting in 2023,"
+    publishedDateTime: 2022-01-25T08:24:00Z
+    webUrl: "https://www.bloombergquint.com/business/vw-teams-with-biggest-car-parts-maker-to-boost-self-driving-push"
     type: article
     provider:
-      name: The Scotsman
-      domain: scotsman.com
-    quality: 21
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 24
     images:
-      - url: "https://www.edinburghnews.scotsman.com/jpim-static/image/2022/01/25/16/shutterstock_1171593577_edited.jpeg?width=2048&enable=upscale"
-        width: 2048
-        height: 1366
-        isCached: true
-  - title: "Users of self-driving car should be immune from sanctions, new proposals suggest"
-    excerpt: "Under the plan, the company or body that obtained authorisation for the technology would take legal responsibility"
-    publishedDateTime: 2022-01-26T00:01:00Z
-    webUrl: "https://www.nottinghampost.com/news/uk-world-news/users-self-driving-cars-immune-6550143"
-    type: article
-    provider:
-      name: Nottingham Post
-      domain: nottinghampost.com
-    quality: 19
-    images:
-      - url: "https://i2-prod.kentlive.news/incoming/article5720434.ece/ALTERNATES/s1200/1_SSR_DCM_1407motsjpgars.jpg"
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
         isCached: true
 
-secured: "9q9Ztbd1qwrEazmxWQ2s2ZWNBf1Pl884dWJgReHHMRPzH232DOvSE04UJxXuWwJj+/ubWtBMGdR9SmDJIhjoATEjDKJv8STmyoI/Xeb1Ae9fvU8vOQDt5IW7VB0EADStef+oeDOuVvlXPVn81xgbLP3vvFpsNOKGOV/iR0R8v4xeQBkRd5JDoaEBMOFyXBz7We4vbkw/eiINimDKFHKsVyHOdPRIb/d+WoEifdMgWeI2NvPzfdefQXhDYjhEMI6n0Ru8wPZszWVovZhixxGLI5/OMJVw753ofrJs7/Le/FEV9tmM+sAXtOsP6RKmn4CynwEYK3ZIAhpYy2eDbsoeB4jRApZFaO4SA/nTUW92w4WA2M9u9FmmIBB387D3U8cOBMnk+a3jyKl3531gw+LIeRbbLY+GhDc8r+tO0X+Y452nAred2P1HaBPQO4fziOamzxCtuNgRI2BRFOFNzDiAhpDvKyABH5IBK9IcKMNNde8lT6OfP3AVG2MXuf+aO5fOCkHgcH7tYiyrcGjL+H4wfg==;CDjsyw0+KNSHuU2VVAJuZg=="
+secured: "4Hln7yd1omF6TrtBth+FaLzl9RCQWCENPUOZ1/fQZedLyr2w8lB4rSK0tUnG6wF5ESUl2jS0jmot4gV+b3akXp1qakHlJWKy5T1mnnnstGX6vj1Rkr52gKHSpbvvzCEIMJJQGx9Tl2ZAJ0ubdwJqqlfZvQgnfoQxp+4yEs52FnsgtScsh/SGP3sv1hb/mM+/RebQua+olVOSqQFOD74fuuxra6uN3/t+Z7zgtrhRIJ5R5pqqSikoREZl8aCC/HzvAUsZB1XvZLdn4aBPT3KWJYOf4bFBuzQ95WuP3n4I+klRM7FAnSxOZiC03vBPiQu1aebdTfAZtFczkkio0c4zFGP6FVHmhklBQSLK3fvWAII=;p0ROZ911SJwnYXm9f2jYSg=="
 ---
 

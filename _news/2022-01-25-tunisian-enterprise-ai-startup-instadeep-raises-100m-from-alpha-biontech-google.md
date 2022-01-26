@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 579
         isCached: true
+  - title: "Infermedica raises $30M to expand its AI-based medical guidance platform"
+    excerpt: "Infermedica, a Poland-founded digital health company that offers AI-powered solutions for symptom analysis and patient triage, has raised $30 million in Series B funding. The round was led by One Peak and included participation from previous investors Karma Ventures,"
+    publishedDateTime: 2022-01-26T05:01:00Z
+    webUrl: "https://techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/"
+    ampWebUrl: "https://techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/Infermedica-team-Funding-round-2022.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "AI startup SparkCognition raises $123M on a unicorn valuation of $1.4B"
     excerpt: "Artificial intelligence startup SparkCognition Inc. revealed today that it has raised $123 million in new funding to expand sales and marketing efforts as well as research and development investments to accelerate its growth."
     publishedDateTime: 2022-01-26T02:11:00Z

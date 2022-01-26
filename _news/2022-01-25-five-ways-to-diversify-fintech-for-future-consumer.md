@@ -103,20 +103,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity"
-    excerpt: "Comserve / -- AI in Fintech Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast 'A research report on AI in Fintech Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail."
-    publishedDateTime: 2022-01-21T13:44:00Z
-    webUrl: "https://menafn.com/1103574554/AI-in-Fintech-Market-Growth-Analysis-By-Size-Share-News-Demand-Opportunity"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?383249"
-        width: 450
-        height: 250
-        isCached: true
   - title: "AI in Fintech Market Size, Segments Analysis, Future Opportunity, Emerging Trends and Forecasts 2021-2030"
     excerpt: "North America region was the largest revenue contributor to the AI in fintech market. This is mainly attributed to the developed IT"
     publishedDateTime: 2022-01-24T15:00:00Z

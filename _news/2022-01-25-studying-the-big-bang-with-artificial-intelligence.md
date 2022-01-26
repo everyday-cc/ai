@@ -119,15 +119,6 @@ related:
         width: 2400
         height: 1840
         isCached: true
-  - title: "Pony.ai to begin mass production of autonomous systems in 2022"
-    excerpt: "Chinese autonomous driving technology company Pony.ai said it planned to begin mass production of automotive grade equipment by the end of 2022 as it brings forward the roll out of Level 4 autonomous driving technology,"
-    publishedDateTime: 2022-01-21T14:42:00Z
-    webUrl: "https://www.just-auto.com/news/pony-ai-to-begin-mass-production-of-autonomous-systems-in-2022/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 19
 
 secured: "wtNc1tYlC4FRWsuVAw4neBOznRjW0J05ORCVBI9U+/e8NG+iHiUqKQCiKzINM+VyRTphu7GpOKi/kSSo2E4bI9CySAL+teAnYSrvxZQzIA1Txk/Su8+7p2X3NPEnrNuszlOUm2QOz6AdB9UCHTzcFnGu/uHN43JZhoWSoWCkBlnjcstNf2OxBMUPaZvP2S9CfopzOx8ugCx7Bd/dyr0bTrucD7Dsyp1q2iUwBfma2OGOJ0xG0t3KBUvhpmzUa7VMekyABcjQj9SXbxfZ7msgFLCebQFTHxOm2JGfkc0XULQUrrsSxqq+0cRlyrgs5ZQHj7UP2eMTU0q7HKAJibW2H93k9VIldpLzYuNyv3IYS2Y=;9k5ZSNsFreFxdpND2dexuw=="
 ---

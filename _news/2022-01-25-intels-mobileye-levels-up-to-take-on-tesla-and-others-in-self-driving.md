@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobiley
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Volkswagen teams up with Bosch for self-driving software to take on Tesla"
+    excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to develop a common software platform to bring hands-free driving functions to the German carmaker’s entire fleet in a bid to catch up to Tesla Inc."
+    publishedDateTime: 2022-01-26T05:13:00Z
+    webUrl: "https://mybroadband.co.za/news/motoring/431514-volkswagen-teams-up-with-bosch-for-self-driving-software-to-take-on-tesla.html"
+    ampWebUrl: "https://mybroadband.co.za/news/motoring/431514-volkswagen-teams-up-with-bosch-for-self-driving-software-to-take-on-tesla.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/431514-volkswagen-teams-up-with-bosch-for-self-driving-software-to-take-on-tesla.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 38
 
 secured: "mGowvRjqk/ieqmDMPcUpdxML9+XsGZsOF/jjHa7wpPyxdhkTrS9rxYC7pHPhqJclObqg0CXS+tFe1OZvS5gB6hzeyvXl3j7cpfrcSuV3P5zMLyFBq7thYb/UdVx14geoSSL5oT5uHbCWv2AZC7aZqt9++lHV9RD8fcuRJHF5zRUGktdAZXxlIjeFt213BasdmFHKEsvnfAePjfMvYmSr9Y/l4AZXfJkiZzJ4k1GnDaFFS2gzqM89lnHeTco3g3hgs54Ff9BEslv67cflj5CzikVCsXyIBVbROiq7s7a7cMDLM+jF9JQRJKbhrqWAkOpV/i0HXWVVLfcYERe9wExRHESCdsHxK2RNvQ9vc9xMtCa+80UeGNZoWgrNPojLNlQR6umEgGBL6e0vFrDuhy9HCI4GvhSDtVEB/eIT/9FtX7nrRxpSbZpeDf/kOVunT3zM2zFxKGltvXIBulICjzC3KrV8cdQ++6KznlEdoA6QQtOgLbAURIQQtfeBRw3JQBQ4kxhmY0X5X4EYiSJ2mEv+Cg==;+4vnKF3QjYdbISkC9F2l6w=="
 ---

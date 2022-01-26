@@ -88,22 +88,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "IBM sells some Watson Health assets for more than $1 billion"
-    excerpt: "IBM launched Cambridge-based Watson Health in 2015 with the aim of using its core artificial intelligence platform to help health care providers analyze troves of data and ultimately revolutionize cancer treatment."
-    publishedDateTime: 2022-01-21T14:52:00Z
-    webUrl: "https://www.bostonglobe.com/2022/01/21/business/ibm-sells-some-watson-health-assets-more-than-1-billion/"
-    ampWebUrl: "https://www.bostonglobe.com/2022/01/21/business/ibm-sells-some-watson-health-assets-more-than-1-billion/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2022/01/21/business/ibm-sells-some-watson-health-assets-more-than-1-billion/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 59
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/G0unhIVJfId_xgnW2c2onCtLAxM=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/FJUOSATOEEI6NLVIJUCIZMB4QI.jpg"
-        width: 506
-        height: 337
-        isCached: true
   - title: "IBM has sold Watson Health. It was a long time coming."
     excerpt: "IBM announced today that it has sold its Watson Health data and analytics assets to private equity firm Francisco Partners. The highly-anticipated sell-off includes data sets and analytics products such as Health Insights,"
     publishedDateTime: 2022-01-21T17:05:00Z
@@ -168,6 +152,20 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "Three reasons why Watson-based AI might fail"
+    excerpt: "This week the story of an IBM Watson asset purchase by Francisco Partners is in the news. Perhaps not covered in this announcement are some of the reasons Watson-like-data-dependent AI might fail to provide the business windfalls anticipated."
+    publishedDateTime: 2022-01-26T05:16:00Z
+    webUrl: "https://www.linkedin.com/pulse/three-reasons-why-watson-based-ai-might-fail-brigitte-piniewski-md"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFUpjKlVrExnw/article-cover_image-shrink_720_1280/0/1643147426919?e=1648684800&v=beta&t=5EEdJPdEpcjnhcos3R9y7AwmkuKnQnM75wHGmolV_i4"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "IBM sells pieces of Watson Health business to private equity firm reprtedly for $1B+"
     excerpt: "IBM's long rumored sale of assets from its artificial intelligence-based Watson Health business became reality Friday morning. Here are the details."
     publishedDateTime: 2022-01-21T17:51:00Z
@@ -183,20 +181,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2017/11/IBM_WATSON_ENGAGEMENT_ADVISOR-1200x813-e1641470668717.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "IBM sells Watson Health assets to investment firm Francisco Partners"
-    excerpt: "IBM has reached a deal to sell the healthcare data and analytics assets from its Watson Health business to investment firm Francisco Partners, the companies announced Friday."
-    publishedDateTime: 2022-01-21T13:55:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/ibm-sells-watson-health-assets-to-investment-firm-francisco-partners"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 39
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1642776250/GettyImages-1029427612.jpg/GettyImages-1029427612.jpg?VersionId=xWpwtJS6I05Z5rwv53927sDYamE5GNh5"
-        width: 2121
-        height: 1414
         isCached: true
   - title: "IBM Bids Farewell to Watson Health Assets"
     excerpt: "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion,"
@@ -306,20 +290,6 @@ related:
       - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/IBM_21.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "IBM selling Watson Health data and analytics business to Francisco Partners"
-    excerpt: "IBM announced Friday that Francisco Partners will acquire its healthcare data and analytics assets, currently part of Watson Health."
-    publishedDateTime: 2022-01-21T14:17:00Z
-    webUrl: "https://www.modernhealthcare.com/technology/ibm-selling-watson-health-data-and-analytics-business-francisco-partners"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/Copy%20of%20deal%20regional_i.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Once billed as a revolution in medicine, IBM’s Watson Health is sold off in parts"
     excerpt: "I BM said Friday it will sell the core data assets of its Watson Health division to a San Francisco-based private equity firm, marking the staggering collapse of its ambitious art"

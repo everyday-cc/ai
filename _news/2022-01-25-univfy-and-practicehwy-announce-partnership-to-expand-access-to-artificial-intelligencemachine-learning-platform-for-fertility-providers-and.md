@@ -18,6 +18,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 related:
   - title: "Univfy and PracticeHwy Announce Partnership to Expand Access"

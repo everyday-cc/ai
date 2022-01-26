@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Self-driving cars: Companies not the users should be responsible if autonomous vehicles crash, watchdog proposes"
-    excerpt: "Completely self-driving cars are not yet legal on the roads of the UK, although some vehicles with autonomous features are in development."
-    publishedDateTime: 2022-01-26T01:40:00Z
-    webUrl: "https://news.sky.com/story/self-driving-cars-companies-not-the-users-should-be-responsible-if-autonomous-vehicles-crash-watchdog-proposes-12525312"
-    ampWebUrl: "https://news.sky.com/story/amp/self-driving-cars-companies-not-the-users-should-be-responsible-if-autonomous-vehicles-crash-watchdog-proposes-12525312"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/self-driving-cars-companies-not-the-users-should-be-responsible-if-autonomous-vehicles-crash-watchdog-proposes-12525312"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 23
-    images:
-      - url: "https://e3.365dm.com/22/01/1600x900/skynews-self-driving-care-car_5652425.png?20220125185007"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Self-driving car owners won’t be to blame for crashes under proposed new laws"
     excerpt: "UK law chiefs recommend new regulation on autonomous driving, including assigning responsibility for errors and a crackdown on misleading marketing"
     publishedDateTime: 2022-01-26T00:01:00Z
@@ -74,6 +58,20 @@ related:
       - url: "https://www.edinburghnews.scotsman.com/jpim-static/image/2022/01/25/16/shutterstock_1171593577_edited.jpeg?width=2048&enable=upscale"
         width: 2048
         height: 1366
+        isCached: true
+  - title: "Self-driving car developers could be held accountable for crashes – not motorists"
+    excerpt: "New laws also propose company bosses could face criminal prosecution if they fail to disclose faults or design flaws"
+    publishedDateTime: 2022-01-26T05:00:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2022/01/26/self-driving-car-developers-could-held-accountable-crashes/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 19
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/news/2022/01/25/TELEMMGLPICT000224409383_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
         isCached: true
   - title: "Users of self-driving car should be immune from sanctions, new proposals suggest"
     excerpt: "Under the plan, the company or body that obtained authorisation for the technology would take legal responsibility"

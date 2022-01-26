@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-dri
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Self-driving cars: Companies not the users should be responsible if autonomous vehicles crash, watchdog proposes"
+    excerpt: "People in a self-driving car should not be responsible if it crashes, legal watchdogs have proposed. The Law Commission of England and Wales, and the Scottish Law Commission, want legal protections to be introduced for owners of self-driving cars if anything goes wrong with the automation."
+    publishedDateTime: 2022-01-26T05:42:00Z
+    webUrl: "https://www.manxradio.com/news/uk-business/self-driving-cars-companies-not-the-users-should-be-responsible-if-autonomous-vehicles-crash-watchdog-proposes/"
+    type: article
+    provider:
+      name: Manx Radio
+      domain: manxradio.com
+    quality: 3
+    images:
+      - url: "https://e3.365dm.com/22/01/640x380/skynews-self-driving-care-car_5652425.png?20220125185007"
+        width: 640
+        height: 380
         isCached: true
 
 secured: "O54kf72kNIZrlhcZE8HWDBMa1FZyaCUzOdyPrw1TVrIaU8UmCEjfJFPcSecIivTuaTdZHwTOaWMcV4VnAK1NN7gtxWgnvQInWxSEtJzkbvtZKyZiqV6aFZdNhxMSoEzhGu3tXjLmWc1CuyiQdkJcsrSJQZzR17NsAh/Aep9W1DDogeEs0/2H/cPnTLKVgU6Tu3jo89+WHf7HfyX1uJk8aOjyUH4n/d+CzwekyDGS+JX13VMEqY2f8D5X5XW/nu6RONiHELKHW/79Hl9CeJwiz1JTT4eOCReoa7tT1TNyZNwAAOjiivEnz2nFPXh9xOJ+g0zRQd4fVKH13rKMAPngIVjysq7n/AgQBhSV7cHEwBI5Vmg0vLKSTZ4RwEtsp6GtZ2H7DX1xyFgMzRSqJA6f4d8oeMfleGHNl001WyhbqbEkdL8WfJ/oQjOdckHFaIO/6N73+eOxOQUA/4VhDgM8beDFcfs7N3fc8g8m/L2oL8QxsUUI5zvFi/59ye+cFJX6i2+sIkMRhuLueD55omVZpQ==;VOqJeGU2zGmvmnJx3b3pBA=="

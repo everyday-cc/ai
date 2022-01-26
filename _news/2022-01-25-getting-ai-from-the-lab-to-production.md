@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-produc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/"
 type: article
 quality: 87
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -122,15 +122,6 @@ related:
         width: 2400
         height: 1840
         isCached: true
-  - title: "Pony.ai to begin mass production of autonomous systems in 2022"
-    excerpt: "Chinese autonomous driving technology company Pony.ai said it planned to begin mass production of automotive grade equipment by the end of 2022 as it brings forward the roll out of Level 4 autonomous driving technology,"
-    publishedDateTime: 2022-01-21T14:42:00Z
-    webUrl: "https://www.just-auto.com/news/pony-ai-to-begin-mass-production-of-autonomous-systems-in-2022/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 19
 
 secured: "b4UN+LKDrGIxSgWhUCgb0j7waGuf3/yD+ac+AffY9Cnos96tyZQ89Ok+5aM+rthpekRKjNSJP9WpsS2qBxIGhlw4TPkRud3n0bAgx+Qb79U4RYTPGe6pJQ2PTw909rxVbCkhpGNa8Sg8GI8xeuHluQQW7rA89JzotT4kHoybT9z9dKqQnxm4gQ/hHD+uBSl9YG7InawcdCmXrjA9CZW/ErehzRXTCfpsWx9d/wmS1tndeAG4LTiNBCHCQhd38rI09AOrz3wK2t/HPU9psufBWVyeDyWQHl2RYiXAQJhwbEIeJ4Tn33FBUYu/71eRdoiiFOM3ZmBp9oNucqErohDtVBB25RWQa4ZFtN5VwpQHdSOJAfF7OfEMiEDvcxBZ0iRT132VBZV4pMg6gOAWA/FPYsOmKbM53Ta8v5+4b0Fyu9D4CuSI2MvTy/iBkPXUbq9DuxKLk0FtxojcrOVwr9lYAb2FSyoZaUZbmb1IgaMRdC1MsoK1CXCC+dYkwDlsRahrSL7jXmEpIontYtt2scYGEg==;76GcwT8h5gJSys2Geu28oQ=="
 ---
