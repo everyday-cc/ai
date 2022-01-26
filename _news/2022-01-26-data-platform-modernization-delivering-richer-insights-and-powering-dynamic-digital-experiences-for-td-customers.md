@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Data platform modernization delivering richer insights and powering dynamic digital experiences for TD customers"
-excerpt: "Data platform modernization delivering richer insights and powering dynamic digital experiences for TD customers"
-publishedDateTime: 2022-01-26T14:12:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/01/26/data-platform-modernization-delivering-richer-insights-and-powering-dynamic"
-webUrl: "https://stockhouse.com/news/press-releases/2022/01/26/data-platform-modernization-delivering-richer-insights-and-powering-dynamic"
+excerpt: "TD accelerates move to Microsoft Azure suite of data services and enters new commitment with Databricks to unlock data at scale  TORONTO, Jan. 26, 2022 /CNW/ - TD today"
+publishedDateTime: 2022-01-26T09:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/n25227624/data-platform-modernization-delivering-richer-insights-and-powering-dynamic-digital-experiences-fo"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/n25227624/data-platform-modernization-delivering-richer-insights-and-powering-dynamic-digital-experiences-fo"
+ampWebUrl: "https://www.benzinga.com/amp/content/25227624"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25227624"
 type: article
-quality: 0
-heat: 0
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "2AT33NHPcmz/5x2Fq7VgzdKe+J1eM6NwcryxJiytBkXXiJOPuS51xC6CvTJcvLMtGtX6c9FYsKiW7YMw8tkCkJbIrUVB8QqIXgJsDVW/2HUCqeeDg4PnNUkVNqMQ8CEZTAvxAL9BSvRFp40U7z4XUZLc96FqkF6FKEO/U2hkUW1cSpJMLZRMjCF9jT5eq6Bu73316rpZadjke+vt5G303ST2mDgspA4zSlG4Cbf/pY54K8r0r4MZHpirkbbuELDy54vIlCnoemLQjpXdws42Qbq7vLKrq8i0pemF+NwCuVwSUpb+gbqSe3Z+GK+ZvYQ+Ln9uhNwNwmlJIKGed9V6a2anLtwl4ENaxllWkm1MGk++3T1rgVMJmrk6ASGOOHz99K6JB6j6Wo7vsh06KzMIm1M4N3hQTIGJiD9O9cTd4D7YbV5gReX7B5JB0SFGOkbB21Kgbr8Bfkf0CM31xPAScscHsROGoGtHSA/LK9g2ikf9Du3aLYlkzlLLq685Sg2+9W9gePkBwqBD391RD+hG2g==;spvnTMSRvYmFE95eq8VWPw=="
+images:
+  - url: "https://www.benzinga.com/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "dM7NNS66Rh9z+fQVetvQwX9v4Lntyyb/rgV++GOr9/IFH+hP618Zdn6BGy4B183W8FOawSKamxYdi62pWcMtAetoIq9nthqQbvb8HNhJbnVQHYLCl8FN6XCj4+/qDoU6B/6rxVlZp11ZdPCMfcFewfcABDyj6BhUhVztDN9wyeKw/Wew7FH07Ao2RVls95bUlbbzWljwifcpl57hYAjbXPiKCMaa2vQfZzCaSjn6qFvdvmsetsfT1CF8i7j8HWpcFg4gHtPwddmR7QPNlYX4v5CNq1RovGnKJ63t9HEqW94pP3L7ei2c4nuIGyrWVjsG7uES999FlKCg/2AIeiWGdUsFQm/vQ67eTglCHBS1J/o=;rK0gy1K3P/GS84/YcXg24A=="
 ---
 

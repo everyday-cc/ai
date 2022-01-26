@@ -135,6 +135,22 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Self-driving car users should have immunity from offences – report"
+    excerpt: "Law commissions recommend that vehicle users should not face regulatory sanctions if something goes wrong"
+    publishedDateTime: 2022-01-25T23:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jan/26/self-driving-car-users-should-have-immunity-from-offences-report"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jan/26/self-driving-car-users-should-have-immunity-from-offences-report"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jan/26/self-driving-car-users-should-have-immunity-from-offences-report"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/1b92b73fec67fe1e27002bf15f897c4e76a7c682/0_37_6720_4032/master/6720.jpg?width=620&quality=85&auto=format&fit=max&s=a805d7a5fe0ef0cc3fcc0273bf08013f"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Self-driving car users not responsible if anything goes wrong"
     excerpt: "Drivers behind the wheel of a self-driving car should not be legally responsible for the actions of the vehicle if it goes wrong according to a new proposal.  The news comes as the Law Commission of England and Wales and the Scottish Law Commission asked for legal reforms allowing drivers to be immune from prosecution if the self-driving car did anything wrong,"
     publishedDateTime: 2022-01-26T08:42:00Z

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-02-covid-is-making-americans-stupid-study-shows-worrying-about-virus-leads-to-people-making-bad-choices-and-performing-poorly-on-simple-cognitive.md",
+      "title": "COVID is making Americans stupid: Study shows worrying about virus leads to people making bad choices and performing poorly on simple cognitive tests",
+      "excerpt": "The basic cognitive abilities measured here are crucial for healthy daily living and decision-making,' said study author and McGill graduate student Kevin da Silva Castanheira in a statement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-10362429/Study-shows-worrying-COVID-leads-bad-choices-performing-poorly-cognitive-tests.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-10362429/Study-shows-worrying-COVID-leads-bad-choices-performing-poorly-cognitive-tests.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/01/02/14/52464417-0-image-a-2_1641135531927.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-10362429/amp/Study-shows-worrying-COVID-leads-bad-choices-performing-poorly-cognitive-tests.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10362429/amp/Study-shows-worrying-COVID-leads-bad-choices-performing-poorly-cognitive-tests.html",
+      "publishedDateTime": "2022-01-02T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-02-ethical-impact-of-ai-on-health-safety-and-wellbeing.md",
       "title": "Ethical impact of AI on health, safety and wellbeing",
       "excerpt": "Across industry, the use of AI has become a key feature of the technological revolution in workplace safety, health and wellbeing.",

@@ -55,6 +55,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Baidu & Geely's New Smart Electric Vehicle Company JiDU Raises $400 Million in Series A Round"
+    excerpt: "Newly formed intelligent electric vehicle company JIDU announced that it has closed on $400 million in Series A financing. The funding round was backed by China’s internet giant Baidu Inc and its strategic partner automaker Zhejiang Geely Holding Group (\"Geely\")."
+    publishedDateTime: 2022-01-26T16:00:00Z
+    webUrl: "https://www.futurecar.com/5157/Baidu-&-Geelys-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 28
+    images:
+      - url: "https://img.futurecar.com/202201/26/l_61f1825e5732d.jpeg"
+        width: 800
+        height: 421
+        isCached: true
 
 secured: "2XxYSgAKfH0baSzgBMwbUsgUE39BHMsy1YjVbRq3ss16Z4MvQrfPlvzTCFEI26LKSCpxl+okWKBqwAvHTYC2DgDNKS4fI492+PE4rC/oK8NdZ0IST4Bt9tHabs5aDy3WKeqNLUv2qmUKmWz+Stv+osY/H9An9g6ckCs2V4lHh979lFliPc0O4T3yPStKhJvEk3BpGuKoXBCXVxQL8zQ895ivZ5OpZ/atOmDSinLXNI8N5DHOyCuwBZTArrJh9AHeQlZhg9aJcFhLl2sbUczt9Vf1P5LyjGteMDxuidXRpHdVVjQfLL9ZLuWnmEbl9I/RkiBijcgjgY000NduxMtsIVLJJAHm1xrozH7ojY7pEexeCRjRmLIVBfKOrwaU3CPS8Ftvy712WY/CFLArrazal4D+HHJN/VKIEqpVpkdz/8+CWjK5IlP/BFoP5a0gbjUCumFi8XHbpLtn3QKOWXbLKctR2t944Uyty+sXG/DWrogk53jdr/tYKIgWguGX5tDcofP5dCKwTJAt7WJR5VUrRQ==;srHpLUWG43t+XlOwRdttJQ=="
 ---

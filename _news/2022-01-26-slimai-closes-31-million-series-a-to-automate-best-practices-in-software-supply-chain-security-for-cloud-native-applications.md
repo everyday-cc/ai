@@ -141,20 +141,6 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "Docupace, JIFFY.ai Partner to Bring Next Generation Automation to the Back Office"
-    excerpt: "Docupace, the leader in cloud-based fintech digital operations software for the wealth management industry, and JIFFY.ai, the innovative provider of true end-to-end intelligent automation applications,"
-    publishedDateTime: 2022-01-26T14:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/01/26/9533511.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1732547/Docupace_JIFFYai_Partnership.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Digitate Propels Digital Transformation Forward with Enhanced AIOps Capabilities and New Solutions"
     excerpt: "Digitate, a leading provider of SaaS-based autonomous enterprise software for IT and business operations, today announced the general availability of its latest release, which adds enhanced product functionalities across the entire ignio™ product line as well as new out-of-the box solutions that help enterprises kickstart and accelerate their digital transformation at scale."
     publishedDateTime: 2022-01-25T15:13:00Z

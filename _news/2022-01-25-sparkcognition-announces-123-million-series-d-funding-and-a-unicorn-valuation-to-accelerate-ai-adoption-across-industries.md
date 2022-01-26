@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sparkco
 webUrl: "https://aithority.com/saas/sparkcognition-announces-123-million-series-d-funding-and-a-unicorn-valuation-to-accelerate-ai-adoption-across-industries/"
 type: article
 quality: 111
-heat: 241
+heat: 231
 published: true
 
 provider:
@@ -125,20 +125,6 @@ related:
       - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
         width: 256
         height: 256
-        isCached: true
-  - title: "Docupace, JIFFY.ai Partner to Bring Next Generation Automation to the Back Office"
-    excerpt: "Docupace, the leader in cloud-based fintech digital operations software for the wealth management industry, and JIFFY.ai, the innovative provider of true end-to-end intelligent automation applications,"
-    publishedDateTime: 2022-01-26T14:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/01/26/9533511.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1732547/Docupace_JIFFYai_Partnership.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Slim.AI Closes $31 Million Series A to Automate Best Practices in Software Supply Chain Security for Cloud-Native Applications"
     excerpt: "Slim.AI, the Boston-based startup focused on optimizing and securing cloud-native applications, announced today that it has raised a $31 million series A round co-led by New York-based global venture capital and private equity firm Insight Partners as well as StepStone Group,"

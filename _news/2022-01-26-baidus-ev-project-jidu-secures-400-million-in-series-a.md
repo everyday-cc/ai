@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-m
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Baidu%20web.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Baidu & Geely's New Smart Electric Vehicle Company JiDU Raises $400 Million in Series A Round"
+    excerpt: "Newly formed intelligent electric vehicle company JIDU announced that it has closed on $400 million in Series A financing. The funding round was backed by China’s internet giant Baidu Inc and its strategic partner automaker Zhejiang Geely Holding Group (\"Geely\")."
+    publishedDateTime: 2022-01-26T16:00:00Z
+    webUrl: "https://www.futurecar.com/5157/Baidu-&-Geelys-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 28
+    images:
+      - url: "https://img.futurecar.com/202201/26/l_61f1825e5732d.jpeg"
+        width: 800
+        height: 421
         isCached: true
 
 secured: "aR5Bqd4mqKXgU4YJ+m476NnVYEc9E9DLsy+O5cIKSnAORZPmGsMBzcJlHOWfp7kLm26yjNysdo4okxb1iQF+Tu9JBbvT+l7S6C+YzNuOCar980+6bOVH/i4f3Vejb2ckFCUakNZuc8so8B8bmedaACRL8dLcpLLvwDuKsjPMXUAk8aKnMr7XiyRw8itvHIAOWp/aB+g2jMPpAKdBYLmdrhLD9aGIC4OMEnu6f8TQgupwUFrQZmuz/MkJ/b5hvKj8MKIpbrlQgbYtdfQBG0nANVLNNjHcWnQfKVW33r2ux5J/D15Ks42GWUcAVXbZxO+mxFSsMUeOJZEUc3RFaMrtb1+/IgLJwks1ZJ+YiJcQ2X2nJ/ZxAauDBWcHjto2JWl7fN92XzulbYFSG4C06iXZM/nh2vvh3GCntF8/dnEuLRtLP93+7/3B4ITZCJ0rHFe6lTQWzkpKai7O5e4psU/+IgUEchG8ytmvpQ2ja+WM1Kk4+h86q6LiarKhVZwPpJjbBXMNXhw9Ga36A0qpgoHMGg==;ecGSRczerwsOfIX35y87uw=="

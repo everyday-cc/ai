@@ -1,45 +1,28 @@
 ---
 category: news
 title: "The Worldwide Far-Field Speech and Voice Recognition Industry is Expected to Reach $3.89 Billion by 2026"
-excerpt: "The 'Global Far-Field Speech and Voice Recognition Market (2021-2026) by Component, Application & Microphone Solution, and Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis' report has been added to ResearchAndMarkets."
-publishedDateTime: 2022-01-14T11:43:00Z
-originalUrl: "https://menafn.com/1103539603/The-Worldwide-Far-Field-Speech-and-Voice-Recognition-Industry-is-Expected-to-Reach-389-Billion-by-2026"
-webUrl: "https://menafn.com/1103539603/The-Worldwide-Far-Field-Speech-and-Voice-Recognition-Industry-is-Expected-to-Reach-389-Billion-by-2026"
+excerpt: "The \"Global Far-Field Speech and Voice Recognition Market (2021-2026) by Component, Application & Microphone Solution,"
+publishedDateTime: 2022-01-14T10:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/g25052541/the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-3-89-billion-by"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/g25052541/the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-3-89-billion-by"
+ampWebUrl: "https://www.benzinga.com/amp/content/25052541"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25052541"
 type: article
-quality: 7
-heat: 7
-published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?139300"
-    width: 370
-    height: 250
+  - url: "https://www.benzinga.com/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-related:
-  - title: "Global Face Recognition Using Edge Computing Market (2021 to 2026) - Rising Demand in On-Premise Devices and Workstations Presents Opportunities - Res"
-    excerpt: "The \"Global Face Recognition Using Edge Computing Market (2021-2026) by Components, Application, Device Type, End-User, and Geography, Competitive Analysis and the Impact of COVID-19 with Ansoff Analysis\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-01-18T15:17:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=601884"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-
-secured: "WK0EnE/Upz+8xKggUK8bvB+dvDmktPnKkesJ6l3XdnEOpjWPW0DohacPRnq3n6uj9uTyMBUEMZB1HBVoGzgCotwl0Q1SoQ5mvlfBG7ET0hCd2j71KocbpP1UpQtTSC2WMsSIUOJKLeRuo5rkNw2RgkA8uAMlLUveh7/PEvZAHEj50McDfMfXgwKIoM7gB5OBidGi6QshbeBzr9+YUkZDYRM9KYPM2oiF4FYLepKyqVL/VqaWYwV6KxEp5p3blB4uDY8G/sGcqZjqngDTTVyamROAzyzNepfVHigtRZahsellbtfbmj4UmnfDmqY6O0SHrJqLhF9+MQVzqU2Sl+NuZr4E6Sq8Dy0dGawGk3DOWH0=;xCo1zZHUN4vT6+USrl1A/A=="
+secured: "gBNO4Z3HhyQ6pqmJpVvI2hY+iYPUhQklJKE27fOeLORGa/gs/Jz/QR9/1Dxpz1fM4o8y6H+ztFwX+Aa71K/1ZCXmIXp+3UmQl/p4dPp0T5LJXbB4k71VZNx5IpSAmYbAW//Au1VXedudiUBY4Wa20x1fHOJd0pOgPuZgFwzKH56bvZiSIHucVIxsepw//3L4NHDQQEqqsugdb7aDBq2s4TC2XzaqH7KacIjWTjVCEe7b1DtDhsZ24NYpU4Lx695yEmAxVIzVJ89h9HFVo+e1fcBEI3bOvrlSuqy/tFjTmXTCpB3OTFvLWi2HNCNLVpLCTM2tJ6n9AvFsMoCyDxMz/+ZwooTKBjU23BKUkgGZ8kQ=;a/uYOTYO/6aXZsawfCyTFg=="
 ---
 

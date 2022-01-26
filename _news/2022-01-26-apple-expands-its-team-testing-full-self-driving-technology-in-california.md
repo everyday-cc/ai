@@ -26,22 +26,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Tag Archives: Self-Driving Cabs testing"
-    excerpt: "GM and Lyft plan to deploy self-driving cabs for testing in a yet-to-be-named city, where the vehicles will be picking up real Lyft users. This announcement comes shortly after General"
-    publishedDateTime: 2022-01-23T15:42:00Z
-    webUrl: "https://www.industrytap.com/tag/self-driving-cabs-testing"
-    type: article
-    provider:
-      name: Industry Tap
-      domain: industrytap.com
-    quality: 24
-    images:
-      - url: "https://www.industrytap.com/wp-content/uploads/2016/05/life.png"
-        width: 740
-        height: 419
-        isCached: true
-
-secured: "HnM69yJSFkorOByrZvU1k3SsgxtfoK6F3+yWE/S/h2D7YWSMwaJ8Mk7jr2RzbEYERvT2CfnUVLHohxQwiEv8WMiGoxj7JshKkagWsjLu4/ZUx0Jy0Z1M1f/W//30Nv+Lfoji3qmXtAEo5uvQjNKTkyRswPSQChvSOEiwQFD9wv9DbfZVIGL14xVF886v8bHu036jhSjQ9zlPjtPcXrdwAm6htph6Nx+lCgC5D0LzHCLtTkYqSpEbaYNT5mdkEudbzUh4pBabV3OB0xuufgsHZBFt/AYGzZxCyIul+y4/4239JRcuKmuGWt2LV9IFcc2hgiLxKgD3GSWKi+aL4NtHW8j1Y7WedzLWQYX1gcpEiOw=;uswc4dwppYhEkGvt56F2hA=="
+secured: "j6UpJOAW8tFvj1oUk+GoCqFiFWEWQw4C19g9qOyCoo0qZbFl/KyzpLHTH2bYTAHUxfoAHj1Su6GF8I7YETybkoMD/2LDSupDaHIEdhi4Od5nLgTschMFT0NasvQIBwzjAN4B/whXNnTOzzVhgfEMFNX9IHzyNGXqYbjlMsqbvXb/OsF2Yr8B/VdPqFzTFEBJKLxjhkTyC1/ogCkpEQOWa3ZC8CKGb2/sLNspiJs/Xc3oLMPjquOXQSrmVn4Lhv8w54epsO6VHYlVs4lsRyNoVjjmIlp4xcdLLmIYI8XHvrGNS95ZKNgRaB4PqcqGVs1G0zyTOfEbuxCZw+evdeCk+i3qnqjqf8NQygoDJY/KeysGaD0pLNawpDbiJAtHvbawuXIoHWr25PnCManDYkzkPvA2t47B/qFJSZONL+7CDtMOOt/Pr/k00Pz7ezsXlk7c60xWoZTpxKlgJLd0trgexlie4Qx3vuQ02p4LzFJxMrgpzjPMhrzgN0LIPL6WlCH1Ib5gN6w6HrWkPeQ+QLsk1A==;gzwP9HKkxBETvOZ/79xlyg=="
 ---
 
