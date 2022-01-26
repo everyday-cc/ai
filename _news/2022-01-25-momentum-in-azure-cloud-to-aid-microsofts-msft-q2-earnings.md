@@ -1,34 +1,40 @@
 ---
 category: news
 title: "Momentum in Azure Cloud to Aid Microsoft's (MSFT) Q2 Earnings"
-excerpt: "Microsoft's (MSFT) fiscal second-quarter performance is likely to reflect momentum in the Azure cloud platform due to rapid digital transformation."
-publishedDateTime: 2022-01-24T21:00:00Z
-originalUrl: "https://www.entrepreneur.com/article/414815"
-webUrl: "https://www.entrepreneur.com/article/414815"
+excerpt: "Microsoft’s MSFT second-quarter fiscal 2022 results, scheduled to be reported on Jan 25, are likely to have been driven by the continued strength in its cloud platform — Azure. The platform has been benefiting from the pandemic-led digital transformation across the globe."
+publishedDateTime: 2022-01-24T16:58:00Z
+originalUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings"
+webUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings"
+ampWebUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings?amp"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-414815.jpeg"
-    width: 635
-    height: 400
-    isCached: true
-
 related:
+  - title: "Microsoft AI Powering into Healthcare"
+    excerpt: "With Microsoft consolidating the gaming sector in 2022, in 2023 my prediction is it will go more after AI in Healthcare. If you want to read more of my articles on AI, join AiSupremacy my main Newsletter for all things AI."
+    publishedDateTime: 2022-01-22T16:55:00Z
+    webUrl: "https://www.linkedin.com/pulse/microsoft-ai-powering-healthcare-michael-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 73
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGcJY4-mqZNyA/article-cover_image-shrink_720_1280/0/1642869133277?e=1648684800&v=beta&t=A8nuzXFdSF7IpBuwjudTp4SyTwkJDrOw_fhc_99f13o"
+        width: 1052
+        height: 720
+        isCached: true
   - title: "Microsoft Details Native Integration of Elastic on Azure"
     excerpt: "Microsoft detailed the native integration of Elastic tech with its Azure cloud computing platform, increasing application observability."
     publishedDateTime: 2022-01-24T20:23:00Z
@@ -44,6 +50,6 @@ related:
         height: 450
         isCached: true
 
-secured: "eiob2+6vKs6/UrNdUSapFuBu98wvAAzlY4SM9lIR+LMdfY9lHwmo2RrGLx/K8XXJC7vlngQD6HQHh9DGbC37W1bfOQpsW0nE+0xNDLx/v+YGtya36jU4joPEIYVOxmbEos3FDcg4/hBzx+Sh5KPnbtshlvQ//GNs5CJ7rcSvgWISvhJjr4zuv+IgQPZQQIhI4iPBFKRJY05souP2R3zpU5EQvy2yH8dLeEGCpej3xxJR2/FFKvonJH2dACqprvGJindbZM1gcEVfAPx2zNUXG9KqFU7g227ys7Y8HTTFi2SlHBQXobRhMSGnUJqhDaJtZT/3Gado2Q1UVITJMbJpLCtvJLpOiyA8Zg0P/+1qTK0poLWfWJEPk41q2ydBk8XpR2TxJmknb5SfBusNEs1wPaXpPdRiyM9pdiLEm8JKoSmdftI+3cPB/bntNLaa1kRJCd6he7Ygu10XnQunCcHUyyQfhGgdrP5zDTAnwV5M9/ldCJHBAIxeg0+x4dOkEdaxM5ujtN22+ivWHkUOX/wp2A==;DGOrNki+Giyqw3gfBMSnlg=="
+secured: "psqk+/6Dc5tCRzaQtFaHPr6ng1d6L6HIpEWIgSLAiybnnnPiBKVoI2GQhO6i6VLte0axM9biiJW/sS3HxfKOUIfT2dRcs8s9V59g+Ml+zLKvvgQDXUWIxyHNQRCrwprBrNQQ3TLNBWQFq1m+/L5QjnsGzYHjhddrzyXCv7vV0arRQy1ErHU84DOQAjQmSoLWF77zreybIkCOmsrvCf45kgnBDAMLe/ur5NYux68t+GJ149SkuYrU20ilTjyHOXIm7d+XdN08vA7z+WFYtksJQUXuhQN6LyVEBt2Ss5EZticATcGSw1l0jtRZdutt0UAk/EORniYTxbzsnoWd2dB6g2ffL6jV0f7WKkO05IU7ATk=;S2P4VpzWvqFHjIhNqVcBEg=="
 ---
 

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Artificial Intelligence (AI) is Aiding Healthcare"
-    excerpt: "Artificial Intelligence (AI) has transformed into one of the most powerful agents of change in healthcare over the past decade. The opportunities for healthcare organizations to start using AI and deliver more efficient,"
-    publishedDateTime: 2022-01-21T15:06:00Z
-    webUrl: "https://techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/"
-    ampWebUrl: "https://techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 89
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/01/how-ai-is-aiding-healthcare.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Artificial intelligence could help better predict the onset and course of cardiovascular disease"
     excerpt: "For the first time, University of Utah Health scientists have shown that artificial intelligence could lead to better ways to predict the onset and course of cardiovascular disease."
     publishedDateTime: 2022-01-25T05:39:00Z

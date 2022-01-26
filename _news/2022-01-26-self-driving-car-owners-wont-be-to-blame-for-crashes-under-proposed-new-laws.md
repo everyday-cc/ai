@@ -55,6 +55,34 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Self-driving car users not responsible if anything goes wrong"
+    excerpt: "Drivers behind the wheel of a self-driving car should not be legally responsible for the actions of the vehicle if it goes wrong according to a new proposal. The news comes as the Law Commission of England and Wales and the Scottish Law Commission asked for legal reforms allowing drivers to be immune from prosecution if the self-driving car did anything wrong,"
+    publishedDateTime: 2022-01-26T08:42:00Z
+    webUrl: "https://www.yorkpress.co.uk/news/national/uk-today/19874983.self-driving-car-users-not-responsible-anything-goes-wrong/"
+    type: article
+    provider:
+      name: The Press
+      domain: yorkpress.co.uk
+    quality: 24
+    images:
+      - url: "https://www.yorkpress.co.uk/resources/images/13412006/"
+        width: 1800
+        height: 1200
+        isCached: true
+  - title: "Self-driving car users should not be responsible ‘if anything goes wrong’"
+    excerpt: "Legal review bodies have made recommendations on legal reforms aimed at allowing the safe introduction of automated vehicles."
+    publishedDateTime: 2022-01-26T08:22:00Z
+    webUrl: "https://www.shropshirestar.com/news/uk-news/2022/01/26/self-driving-car-users-should-not-be-responsible-if-anything-goes-wrong/"
+    type: article
+    provider:
+      name: Shropshire Star
+      domain: shropshirestar.com
+    quality: 23
+    images:
+      - url: "https://www.shropshirestar.com/resizer/AvI4jW-8sfrDZW4eU-YkVW67bDM=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/U23OLELQKVHULO5OFFXIKEPP4E.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Self-driving car developers could be held accountable for crashes – not motorists"
     excerpt: "New laws also propose company bosses could face criminal prosecution if they fail to disclose faults or design flaws"
     publishedDateTime: 2022-01-26T05:00:00Z

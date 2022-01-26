@@ -1,27 +1,29 @@
 ---
 category: news
 title: "STAT partners with Applied XL to launch a new clinical trials monitoring platform powered by artificial intelligence"
-excerpt: "Developed by artificial intelligence company Applied XL, in conjunction with STAT's national biotech team, STAT Trials Pulse uses machine learning and editorial-driven algorithms to help life sciences and health care professionals identify,"
-publishedDateTime: 2022-01-21T19:58:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence-1031119849"
-webUrl: "https://markets.businessinsider.com/news/stocks/stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence-1031119849"
+excerpt: "Since 2015, our team at STAT has worked tirelessly to deliver trusted and authoritative journalism about health, medicine, and the life sciences to millions of readers around the world. We are thrilled to unveil a new product that has been"
+publishedDateTime: 2022-01-21T20:40:00Z
+originalUrl: "https://www.lelezard.com/en/news-20204007.html"
+webUrl: "https://www.lelezard.com/en/news-20204007.html"
 type: article
-quality: 26
-heat: 26
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "ohg1TQ8b2FASwoifK3sNyy07Bmz5RK6/w6Dz2LLwp4FLpvE9n4XN6ATvL6p34azawLZbC5bNQCopCNWxQY62eWTL2P1Ug7UpHBh7zeFAZsy4geTxPEwHUvFJn++yXUsVb/8FWeFua1hpPV72J9XT+34ypjAxSkfbbq7qeSl1wSW4V2Oihv3aENYXShYleeDSryGs0BOljj73T56uuzitLATmtTFsncon6zNc4GqDglcitxHfas5dgGO5nbm2wl2FaeQ3ls1uOfgEJDsNt7XmnLPSUPJea6pTMu7YsfWE8oFedoP+gQBc28m886bWVgoV9kUhHQ41mN9JQUIGanJ4T+W3XBpPL1hI1g/iTXLXPCE57fnzw3rvFaRummlDAAgFiTwoqe//0Cl7HyirZM5f0HspeA2El6PrNUoq8064WKGGRCWnnH6GMpzfjsg7KQ2iuXreS3d4nYZnBnaic2T83mQqYfez8w4agjfRy594HWK3/brMPGHfKZXkQQkEbrhQdU+rL8bBEbTle8GVAUhZHg==;lI6X69fGZMV7GLMpbMHRug=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "n9EG+9Ac3dVEytOzmNxzI+qMEeEOmLbPxatnpjnaN1Bq5xV0qXFuSB0LI1PR2SqVr7hJJOQKygQT72F2ZaSc+NGU4XagdXaNRl4FuXWdU5MOheogD0t8WQ1gy+xAnrGhLjVUhOriVsMpaQVZSrcD92LioPeA2RdRyoQE9vtH7/8JyIs+rawj9HjeiOAwy556INMD5utPMIpMNixgJu+CXOjyQ6KoP6iPZZa5DQoBPSrIMuv/v4uYtScuALy7yU+mgQKdXewIAbkrgP73loPjafDf6pdT2x1aPMvnAnWPXft/ggq9Ml/uIplZ+DN1vxg4kUp1IYBUPup582AQYjMnn9+tg/Uou3HssY/JwgEuBMQ=;kuyLKpMPEoronL6b8WlMOQ=="
 ---
 

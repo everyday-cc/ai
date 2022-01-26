@@ -51,22 +51,6 @@ related:
         width: 400
         height: 273
         isCached: true
-  - title: "IRS will require facial-recognition to access online system"
-    excerpt: "The Internal Revenue Service will require taxpayers to take selfies and verify their identities through ID.me to access online accounts starting this summer."
-    publishedDateTime: 2022-01-21T15:57:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/01/21/IRS-taxpayers-facial-recognition/3361642779267/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/01/21/IRS-taxpayers-facial-recognition/3361642779267/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/01/21/IRS-taxpayers-facial-recognition/3361642779267/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 44
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3361642779267/2022/1/663cd84d126d3399aad535ceab6d5cb4/v1.5/IRS-will-require-facial-recognition-to-access-online-system.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Is It Time for Facial Recognition in Restaurants?"
     excerpt: "Biometric technology, such as facial recognition, offers this exact benefit. Today, it ensures restaurants are running safely by equipping entrances with health screenings to detect masks are not only being worn,"
     publishedDateTime: 2022-01-21T21:04:00Z

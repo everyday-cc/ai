@@ -49,22 +49,6 @@ related:
         width: 400
         height: 273
         isCached: true
-  - title: "IRS will require facial-recognition to access online system"
-    excerpt: "The Internal Revenue Service will require taxpayers to take selfies and verify their identities through ID.me to access online accounts starting this summer."
-    publishedDateTime: 2022-01-21T15:57:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/01/21/IRS-taxpayers-facial-recognition/3361642779267/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/01/21/IRS-taxpayers-facial-recognition/3361642779267/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/01/21/IRS-taxpayers-facial-recognition/3361642779267/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 44
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3361642779267/2022/1/663cd84d126d3399aad535ceab6d5cb4/v1.5/IRS-will-require-facial-recognition-to-access-online-system.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "IRS to start requiring facial recognition scans to access tax returns"
     excerpt: "The Internal Revenue Service is going to start requiring users of its online tax payment system to provide a selfie to a third-party company in order to access their accounts. Beginning in summer 2022,"
     publishedDateTime: 2022-01-21T21:26:00Z

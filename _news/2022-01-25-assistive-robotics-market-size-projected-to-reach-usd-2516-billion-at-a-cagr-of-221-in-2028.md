@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning (ML) Market is Expected to Reach USD 183.89 Billion in 2030"
+    excerpt: "NEW YORK, NY, UNITED STATES, January 26, 2022 /EINPresswire.com / -- Extensive adoption of smartphones, e-commerce, and social media due to rising penetration of the Internet is driving machine learning market revenue growth The global Machine Learning (ML) market size is expected to reach USD 183."
+    publishedDateTime: 2022-01-26T07:43:00Z
+    webUrl: "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 51
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/26/EP_dee60image_story.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Natural Language Processing (NLP) Market is Expected to Reach USD 44.96 Billion By 2028"
     excerpt: "NEW YORK , NY, UNITED STATES, January 25, 2022 /EINPresswire.com / -- Increasing demand for NLP among various industry verticals is one of the significant factors influencing market growth. The global natural language processing (NLP) market is expected to reach USD 44."
     publishedDateTime: 2022-01-25T12:42:00Z
@@ -38,20 +52,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?129737"
         width: 375
         height: 250
-        isCached: true
-  - title: "5G in Healthcare Market Size Worth USD 4.2 Billion | 74.5% CAGR by 2028"
-    excerpt: "G in Healthcare Market: by Component, Application, End User and forecast till 2028New York, United States - January 24, 2022 -- 5G in Healthcare Market"
-    publishedDateTime: 2022-01-25T02:01:00Z
-    webUrl: "https://www.digitaljournal.com/pr/5g-in-healthcare-market-size-worth-usd-4-2-billion-74-5-cagr-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/687379291c06924dc4b2dcd7cf4fbcc251c533a1-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Global Speech Recognition Market Size is Expected to Reach $29.28 Billion by 2026"
     excerpt: "Speech recognition technology catches and identifies the audio signals in the form of language and converts these signals into the machine-readabl"

@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Artificial Intelligence (AI) is Aiding Healthcare"
-    excerpt: "Artificial Intelligence (AI) has transformed into one of the most powerful agents of change in healthcare over the past decade. The opportunities for healthcare organizations to start using AI and deliver more efficient,"
-    publishedDateTime: 2022-01-21T15:06:00Z
-    webUrl: "https://techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/"
-    ampWebUrl: "https://techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-artificial-intelligence-ai-is-aiding-healthcare/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 89
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/01/how-ai-is-aiding-healthcare.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "The robust health of Artificial Intelligence in the medical sector"
     excerpt: "From improved diagnosis and treatment to streamlined processes and predictive maintenance, Artificial Intelligence is bringing many benefits to the healthcare sector. Beatriz Matesanz, MIS Innovation & IrixX Business Segment Director at Thales,"
     publishedDateTime: 2022-01-24T13:30:00Z

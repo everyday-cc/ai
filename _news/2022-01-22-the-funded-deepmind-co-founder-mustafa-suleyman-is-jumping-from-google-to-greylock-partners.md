@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "DeepMind co-founder Mustafa Suleyman leaves Google"
-    excerpt: "Mustafa Suleyman, a co-founder of artificial intelligence research company DeepMind, has left Google to join venture capital firm Greylock Partners. Suleyman has brought to an end an eight-year run at Google,"
-    publishedDateTime: 2022-01-21T15:52:00Z
-    webUrl: "https://www.engadget.com/deepmind-ai-mustafa-suleyman-google-greylock-partners-152049755.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-01/fcd690c0-7acc-11ec-afe2-9c62fe8a75df"
-        width: 5760
-        height: 3840
-        isCached: true
   - title: "DeepMind Co-founder leaves Google for VC Firm Greylock"
     excerpt: "AI research firm DeepMind Co-founder Mustafa Suleyman has left Google to join venture capital firm Greylock Partners. Suleyman will be a Venture Partner at Greylock, advising early-stage companies and investing in artificial intelligence startups."
     publishedDateTime: 2022-01-22T11:36:00Z

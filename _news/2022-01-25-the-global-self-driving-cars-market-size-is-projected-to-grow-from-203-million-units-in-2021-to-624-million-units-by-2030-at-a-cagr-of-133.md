@@ -41,6 +41,20 @@ related:
         width: 271
         height: 500
         isCached: true
+  - title: "5G in Healthcare Market Size Worth USD 4.2 Billion | 74.5% CAGR by 2028"
+    excerpt: "G in Healthcare Market: by Component, Application, End User and forecast till 2028New York, United States - January 24, 2022 -- 5G in Healthcare Market"
+    publishedDateTime: 2022-01-25T02:01:00Z
+    webUrl: "https://www.digitaljournal.com/pr/5g-in-healthcare-market-size-worth-usd-4-2-billion-74-5-cagr-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/687379291c06924dc4b2dcd7cf4fbcc251c533a1-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "Ky/5520tR0f2qIRIu1TZY1kxhQWgxWuCP84LH4dWNPf/WoSPArRKVRvn2KTBgc3vBj7NjZnlbK5xtlpjQHkNDgMw5HU23Zn5vLs62qgBuEKJB889yzBMmlrCU2/rjVRWuiOirfeQ7MWeXu11p+1t09iCs53Os0BF2v0i/Ys5kl7yo2h6JCcfUfO1sVSB5Lszwtp3K0ndpUtdKNojxjLy0rT3fTauG0oIzoV5A28SWEvzJw2n/m+YR20hy2KeR/yH2hX/KXK1oImvTrI7sQBFcf0sKbzBdcd6hJQ+7RhCefkWATCKxxfuVcvAq2so01uNQ15CioykbyfMBp4rnfC9PAmjfdOQwS0fPpxqIxPKrn0=;6J6Mrm9gokrHhkXUmtzYkg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://deepmind.com/blog/article/DeepMind-The-Podcast-returns-for
 webUrl: "https://deepmind.com/blog/article/DeepMind-The-Podcast-returns-for-Season-2"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind founder leaves Google"
-    excerpt: "Mustafa Suleyman, the co-founder of Google’s DeepMind AI lab has left Alphabet to join venture capital firm Greylock Partners, following a turbulent tenure."
-    publishedDateTime: 2022-01-21T16:08:00Z
-    webUrl: "https://advanced-television.com/2022/01/21/deepmind-founder-leaves-google/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 19
   - title: "DeepMind co-founder leaves Google"
     excerpt: "The co-founder of Google's DeepMind, Mustafa Suleyman, has left the company to join Greylock Partners, Engadget reported. Suleyman joined Google when it bought DeepMind in 2014 and worked most recently as the company's vice president of AI product management and"
     publishedDateTime: 2022-01-24T10:03:00Z

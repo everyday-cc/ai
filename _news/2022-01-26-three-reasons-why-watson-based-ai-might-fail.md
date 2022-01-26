@@ -119,22 +119,6 @@ related:
         width: 2832
         height: 1593
         isCached: true
-  - title: "IBM to sell Watson Health assets"
-    excerpt: "IBM announced today that it will sell healthcare data and analytics assets from its Watson Health business to Francisco Partners."
-    publishedDateTime: 2022-01-21T16:17:00Z
-    webUrl: "https://www.massdevice.com/ibm-to-sell-watson-health-assets/"
-    ampWebUrl: "https://www.massdevice.com/ibm-to-sell-watson-health-assets/"
-    cdnAmpWebUrl: "https://www-massdevice-com.cdn.ampproject.org/c/s/www.massdevice.com/ibm-to-sell-watson-health-assets/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 59
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2022/01/IBM.png"
-        width: 770
-        height: 500
-        isCached: true
   - title: "IBM finally finds a private equiteer willing to purchase Watson Health"
     excerpt: "In-brief IBM has offloaded healthcare data and analytics assets from its Watson Health business, with private equity firm Francisco Partners hand over around $1bn for the privilege. The takeover “is a clear next step as IBM becomes even more focused on our platform-based hybrid cloud and AI strategy,"
     publishedDateTime: 2022-01-24T03:01:00Z
@@ -292,20 +276,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Once billed as a revolution in medicine, IBM’s Watson Health is sold off in parts"
-    excerpt: "I BM said Friday it will sell the core data assets of its Watson Health division to a San Francisco-based private equity firm, marking the staggering collapse of its ambitious art"
-    publishedDateTime: 2022-01-21T16:44:00Z
-    webUrl: "https://www.statnews.com/2022/01/21/ibm-watson-health-sale-equity/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 34
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/03/Casey-Fall-of-Watson-2-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "IBM to focus on hybrid cloud, AI after selling Watson Health operations"
     excerpt: "IBM has sold Watson Health's data and analytics operations to Francisco Partners, and will now focus on its platform-based hybrid cloud and AI strategy. No financial details were disclosed about the transaction,"
     publishedDateTime: 2022-01-24T08:34:00Z
@@ -358,6 +328,6 @@ related:
         height: 576
         isCached: true
 
-secured: "YcbSNPtLJV6U830sWVpi/GKH57wX1iF23edWkzJVOMqWjIqUbrq5f61LhZt1mDCR3ueL1TNigGtnGB668CoURErSuU/QOATbSauyscuVvGD8eMPlgKo/2+tOgTtfDf2+0eaaQf13Q8ZH9E9eaQyQa6k+eu/sZOy6X5WBYxuFCN2vJhrtThHhw1s0a3XhF//xvHSAy/F74sqpmoZD0xz9eIbnEhIck/6NFuLHoTj71u3Nur+4zDQBiOBy2TtBRTKhGFhA/ICuiIiHTN/uhDB1Cv2/BZz3tpxzqAJqVyxaPFGD5pxWyYh+WbwmtnDKVEZ5CuJNBdx4wKknwqKC0hxqavcwSLHi2xT7PPf57KsbfGk=;DswjIdIwfMaluazCUoMelw=="
+secured: "f32Ln6p6bQkhhNqEvRYaiPYk+c+nQS+PV0I1T4eDWleiXu+JxAi0CM7FtP7THd9N+e0B8bn2LUEsI+ngLSWTjHyNPgxeN9tHo7imdswdjDHJWwe/Izxricv6UmHUvcklt40ZQCkIXj3l7lug/Q3lWDqxVfLER1DcSk/7jPIv+8nHHgMtaxh6D/GJV6lvJPrhkqjigzdvkED22n/XSDSedGyhxUgmJs0LYaaU/nMhAsfZyNptCDVnyzv9aV75Wjmr7m8O+yW+fpzR/XTj/7XKx+W9+A/ABIYG0OJD+IxWKeV/k1s0h0+XIH120fAxHVbaiztnh5HWwJQ2P0DszqHJKdC8VtztZndNFB2iM1r3HCOwRMQke5NiEnx/Mwxgd43p0y2QBYK0BvNMfRBewiQQTpM9lBo6pFh+QR/CqtVHvE6+b0Pxopx4P/xHXfvvF2m6hgZ/diI83VXHZzDmXbP8a5RfIycTqF6YzSWH2s9vaAe7BjnToJ3y8Ex6aSQ96QOdS5ekFoe25y6oZ7hMZqJ8xQ==;KNBvDs6cg4DZxgKD3aKalQ=="
 ---
 

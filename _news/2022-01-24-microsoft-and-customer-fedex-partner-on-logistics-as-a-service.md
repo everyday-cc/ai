@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-customer-fede
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 925
     isCached: true
+
+related:
+  - title: "FedEx and Microsoft announce new cross-platform logistics solution for e-commerce"
+    excerpt: "FedEx Corp. and Microsoft Corp announced the next solution as part of their multiyear collaboration to transform commerce, supply chains and"
+    publishedDateTime: 2022-01-25T15:02:00Z
+    webUrl: "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/"
+    ampWebUrl: "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 54
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/FedEx-and-Microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "RkB5N0pVQiA1UCJJM/hTsvsuYVjXsd3h7N/4k1jGqqYjN8nRbOooXgvBwUBjsgNNQ95YFYiwIzRwGPWiQXfdVHe1JA4xenMNqXWoJbs2wP66IoPWBxC/BgWlK4klGEVyrAkDuxOylgjut8fswONbYfug+kopFnMV9XmkpKaERx+GIGKB4+PMW//0CMwSAS6k06a90Yzc986D8i0TSwOhlY74cX6qfDtnvhGLNNyaPe/a6xtuqBbll3C2dATvPFUp38EdbAcXQyclMD5polbilcwOZXEjoIjimeXujVsGjX08lu5e1nuYS2SSPhBak3pWiM/ggrMmfAFNwmoBJUIY30+TJw6goqDJky9kH4MinNaScDheALMgbGy6BweVitif+6DtIvCrSPCvkSRNp0QoxsU80rIZecZUAiVAN4A5wUKEU2ENmTbGF0uIOyHjyXIOi+2EWygotc6kKcV6E0liOb0QQxQAouKvxtzvAkqLPdBsK56A0RJQMGc0jWQtoSJjFQAZxJKAW2S9L/V8ck/xQQ==;1MF3YBc2NRa8wauo6L+ixg=="
 ---
