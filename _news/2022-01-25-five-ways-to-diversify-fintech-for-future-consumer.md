@@ -131,20 +131,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Cyber Threats to the Fintech Industry a Growing Concern"
-    excerpt: "Rising costs of cybercrime track with the failure of legacy identity authentication providers to guard us against increasingly skilled hacker networks"
-    publishedDateTime: 2022-01-21T09:00:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/cyber-threats-fintech-industry-growing-concern"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/security-lock-on-keyboard-with-credit-cards.jpg.png?itok=aEyBIAZk"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Fintech Market Size, Segments Analysis, Future Opportunity, Emerging Trends and Forecasts 2021-2030"
     excerpt: "North America region was the largest revenue contributor to the AI in fintech market. This is mainly attributed to the developed IT"
     publishedDateTime: 2022-01-24T15:00:00Z

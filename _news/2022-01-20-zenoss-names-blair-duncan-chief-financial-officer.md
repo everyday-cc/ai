@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Zenoss Names Blair Duncan Chief Financial Officer"
-excerpt: "Duncan will oversee financial and human resources activities for ... to build real-time IT service models that train machine learning algorithms to deliver robust AIOps analytics capabilities. This enables IT Ops and DevOps teams to optimize application ..."
-publishedDateTime: 2022-01-20T14:36:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/b25136865/zenoss-names-blair-duncan-chief-financial-officer"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/b25136865/zenoss-names-blair-duncan-chief-financial-officer"
-ampWebUrl: "https://www.benzinga.com/amp/content/25136865"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25136865"
+excerpt: "Zenoss Inc., a leader in AI-driven full-stack monitoring, today announced Blair Duncan as the company’s new chief financial officer. Duncan is a seasoned executive with more than 25 years of experience leading finance organizations and driving strategy at high-growth companies."
+publishedDateTime: 2022-01-20T15:36:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/business-texas-austin-f7050ea5c6564e43ba009aebeb3d0198"
+webUrl: "https://apnews.com/press-release/BusinessWire/business-texas-austin-f7050ea5c6564e43ba009aebeb3d0198"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "OIZG/EhLnmFmBJGUot5R+t5Y6bAzH01StzyaL7w4ABVdectUKl9q2D/mrPgCHJ+N/nqUPn+EVf47+8ABm6Hm8E0wO9f5QHbt6kBb1zjOe+cyt8fTZlk4uwmAY/pBie+f/LwtGX/1DUQc0UK7qDpdpx1ENDo8YGJtYIKsDntPhh5d87nh5h01PgtcurOW+lXH+NYcisN0J9wFRQ36odnuR6KyU9x3ycHfgCw4hYfUKqz5byxnAv2rmLT/KSfrUsIvwxH/xQwWn2p0Yi1Tx2d2VJBHkR1OC2zND7oipAT/VgwSl5FE/hrjQblVAvu5xF8/4nYIkij+zSm59ZhGYue4JutL+TFldsLe+wqRVIwcHfM=;7U6RQrgWE63p9tDInVkwZw=="
+secured: "h++q4gc34kBhgN8vXKwKYXFtXekjf4h1oFNPc4r9giV0yKMkUcDNaJ0HfCyO3934IqAO3w15/ulFxOZV0CEeO2YZTfJApYQFsbW3iUwy1A43L+QtPOJWCyvJ6Jc9tsgR7BaHKUqJSjnx0Kdx/sXClnQQujS0Br/NoPvjQR53eKKTGcIrAawu74qs5+2AfD8/iu5Amfxgp8Z2fDayaGu9xqq8/nGI6QBFj/EOBpsDuQREf0Z05LPORjD2lT3ext8L3xib6e/w6PHOprDkj8UHCJ4dN+mSsrDou98c1YOS9a9+g8nCvuSosgnZwlelvkIzW89CkHqNncHYR+f/07+Ib6vdIzG4HhzAmLWB0lSfeJ4=;fWNyuc2Qq5zsLoNmYrOrPw=="
 ---
 

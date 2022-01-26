@@ -476,24 +476,33 @@
     {
       "path": "_news/2022-01-05-277-billion-worldwide-image-recognition-industry-to-2026-key-drivers-and-challenges-researchandmarketscom.md",
       "title": "$27.7 Billion Worldwide Image Recognition Industry to 2026 - Key Drivers and Challenges - ResearchAndMarkets.com",
-      "excerpt": "facial recognition, object recognition, pattern recognition, and optical character recognition. The facial recognition technology is expected to witness significant growth in the forecast period ...",
+      "excerpt": "By Technology (Digital Image Processing, Code Recognition, Facial Recognition, Others), By Deployment, By Application, By End User, By Region, Competition, Forecast",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20220105005623/en/27.7-Billion-Worldwide-Image-Recognition-Industry-to-2026---Key-Drivers-and-Challenges---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
-      "originalUrl": "https://www.businesswire.com/news/home/20220105005623/en/27.7-Billion-Worldwide-Image-Recognition-Industry-to-2026---Key-Drivers-and-Challenges---ResearchAndMarkets.com/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ==",
+      "webUrl": "https://www.lelezard.com/en/news-20178301.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20178301.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/covid-19.jpg",
+          "width": 421,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T04:33:00-08:00",
+      "publishedDateTime": "2022-01-05T05:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null

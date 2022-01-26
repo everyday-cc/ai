@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintec
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/"
 type: article
 quality: 61
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -117,20 +117,6 @@ related:
       - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_0.jpeg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Cyber Threats to the Fintech Industry a Growing Concern"
-    excerpt: "Rising costs of cybercrime track with the failure of legacy identity authentication providers to guard us against increasingly skilled hacker networks"
-    publishedDateTime: 2022-01-21T09:00:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/cyber-threats-fintech-industry-growing-concern"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/security-lock-on-keyboard-with-credit-cards.jpg.png?itok=aEyBIAZk"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Five ways to diversify fintech for future consumer"
     excerpt: "To seize the opportunities of the future, fintech firms must adapt their services for increasingly diverse markets. We outline five key themes"

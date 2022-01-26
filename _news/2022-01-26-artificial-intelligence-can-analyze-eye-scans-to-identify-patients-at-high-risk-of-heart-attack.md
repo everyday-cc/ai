@@ -8,8 +8,8 @@ webUrl: "https://scitechdaily.com/artificial-intelligence-can-analyze-eye-scans-
 ampWebUrl: "https://scitechdaily.com/artificial-intelligence-can-analyze-eye-scans-to-identify-patients-at-high-risk-of-heart-attack/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-can-analyze-eye-scans-to-identify-patients-at-high-risk-of-heart-attack/amp/"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scitechdaily.com/images/Eye-As-Window-Into-Heart-Disease-777x917.jpg"
@@ -25,6 +26,6 @@ images:
     height: 917
     isCached: true
 
-secured: "M5b83eL8ZAf1xPnN6lGO3rNw+UjvJ4ns4BKtgQxI5Nt2o6p0kopQq5A4th7CncsnXum8eVTXDvvTbRJPuwFhvE5gw0hNUTlqi21kDPgk1gFGyLXxnCMESgxE+b2XlB3uy6ILrOLG0ZU0RUfEwb7VbfNh42U0JK8zE7+fD0kWDPCYd4uCSO1Uzv3Jp5jx/zdgTzWdyqNDoF8AfZxArk7xcEOoUf4J1co3z5GCwuV2P0wTjTXR/v4/J9F4pScBekDR2loGVY/bBV6rJac1p/jD2d7Ta0Tl1oJFgT/Bpin1I5DruvcFBmY/WVLrtRshTLrF8tgZ320WaU1SGvYxUlhEMPV+WFczPgmF8BRSd4j4VaE=;9sEGckOhwc1mq1ZujzXMwg=="
+secured: "S6g1FoRiBGCZtWXVNW3xmDmVDlFHRkaFgrEQwgX+hY0Mufkz00Rz+BRDBIA4dwB3IcbPmhk6udBzyCSd5twLIsnWoDRZ3Gj9orgGq4/4qgOrXgarOsD2DE3VfIPalhM0BraLdJ7ARW3s/xTYIqERBwRmLUmL/U85UkUSZWkQquDiNTJgOMnZtJp2TIDOuzJ9iesvKV/3WqXNPnNwe0XcJ02gBPzXw5qi69MaRvacFCFnT+thgMkEwQH3hc3Be8zkIRf8E4G84x85D+K7/Z85Totuu5F3pNAKAQkEdp95gsb2UelmFOHxU+g1PSojjzHZiotDw3tUWxUluS8jtEOPgGuTvWc7/xiWBQ0+T6G5M5rG4y/2f9S4o9InR+7TM8l3I/bUho4AJqT90zV/X+k/pZxz9cwtwtv0qw6Siel/in1SdZv6pU3qxwSleB+TVPfKLXXec1ook+UR81C37EM2/xs4/PRQbFc7+jMjt/YmEzYH0whfUMBSMS2zH/GFa3C1uuc7snQS8LpdeZBAXM7IYQ==;oJEjk3JrddJBTI7mOGyeIA=="
 ---
 

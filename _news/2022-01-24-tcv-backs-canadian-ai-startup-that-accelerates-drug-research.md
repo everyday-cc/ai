@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canad
 webUrl: "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canadian-ai-startup-that-accelerates-drug-research"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

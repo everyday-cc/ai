@@ -8,8 +8,8 @@ webUrl: "https://www.theregister.com/2022/01/25/baidu_ai_predicitions_2022/"
 ampWebUrl: "https://www.theregister.com/AMP/2022/01/25/baidu_ai_predicitions_2022/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/25/baidu_ai_predicitions_2022/"
 type: article
-quality: 43
-heat: 43
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -19,6 +19,9 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
+  - AI in Finance
+  - AI in Robotics
 
 images:
   - url: "https://regmedia.co.uk/2022/01/25/2022_shutterstock.jpg"
@@ -26,6 +29,6 @@ images:
     height: 668
     isCached: true
 
-secured: "WRKAcianmVhCEVobTiGVzjEHFARgdfDZI946DuPr7r0tp6Z6Ah9h3wdiHi8fOoHemfOCcJ5wBKakuCG9ZUBznug8vzqSYJhc7CjXLtRK+twO2PEGv9iVWtP9q0W3RtKMf2rAaWaHNi1+0MJf5vd5YLw/Rf1R58ig/+tPA4hWdw2Ky2XSetZ45nfeM42F0gmT+D84RF+SR2cYHNTAwh4D//Th6iXUqH7TT97LuJ5kVe49H4vcqGRpzi5A63TRendlD1H0L7NjxNh2SJFKgdKwpgR8/q0Gd/D5ZN6cnQkPOvzASD90FXh3HBIyfkm9pFHDD6MUUtBoek3hZEcd5oWWaNzxvzB1TV68viTIYAngPNg=;8JVadr6Bijq85oUjbJ13Mg=="
+secured: "KxIxnVs7aYSSlwC2hZERMHaX+m4BXJ9YDVBJ6C2/7VKvEf0r2yzH7FuW8VDtBI5b/tAB6G6yOnYPUkiZbzr84Vhw5ZcU+d6iMr1F/cfzNL+qU9uQspZgn9eKXBon9ThgLYmtMld0meO9KSpNkaOL0KA28EIU0+2y+hwADg2g8JRGojBnkqu17VlGAPrvQUxRac/0w5RkgyzWxgi+jfgcnxuORbtftieiLcViDGTcbhZtrFppCWOPaMGBvzsvJsV0qD5XF213gxdds5MnbqvxSL5nUQvkEeJtmDozUi/6YtHyAYrazRkeKRhwlPNbQIVXgBzhrkIhCgfbl237pNl3ngKSnjz3SfH+GpdzOTR808d2mYK+yWm2uVgL1/jpkNM+q5WiGWNKO9xgTD/Y8ySgk2GOQaczRvDOSBe6EDQcrv5IrdKwapcw8vDjQLVTa7pDUkjD1gHuhW5ocEug44IKlV7nhPuUftd4nKkdB5mrQdWEzML7r4pBpaWAw/t6GcOd1eFKR+cFaUHA8RTm9fKTSQ==;7FJFLIPYUPeZk7BcBC3JCw=="
 ---
 

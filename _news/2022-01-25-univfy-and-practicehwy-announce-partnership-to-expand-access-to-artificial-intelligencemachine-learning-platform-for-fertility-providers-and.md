@@ -1,24 +1,29 @@
 ---
 category: news
 title: "Univfy and PracticeHwy Announce Partnership to Expand Access to Artificial Intelligence/Machine Learning Platform for Fertility Providers and Patients"
-excerpt: "Univfy, a global leader in using artificial intelligence (AI) and machine learning (ML) to personalize counseling and increase access to fertility care, announced today a strategic partnership with PracticeHwy's electronic medical records solution,"
-publishedDateTime: 2022-01-25T14:26:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532607.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532607.htm"
+excerpt: "SAN FRANCISCO BAY AREA, Calif. and IRVING, Texas, Jan. /PRNewswire/ -- Univfy, a global leader in using artificial intelligence (AI) and machine learning (ML) to personalize counseling and"
+publishedDateTime: 2022-01-25T13:15:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/univfy-and-practicehwy-announce-partnership-to-expand-access-to-artificial-intelligence-machine-learning-platform-for/article_302f6e58-2dc6-5332-886e-a128644d7803.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/univfy-and-practicehwy-announce-partnership-to-expand-access-to-artificial-intelligence-machine-learning-platform-for/article_302f6e58-2dc6-5332-886e-a128644d7803.html"
 type: article
-quality: 0
-heat: -1
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
+  - AI in Finance
   - AI
   - Machine Learning
-  - AI in Finance
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/d0/8d0a10b9-13a6-5fc8-8f27-db6ecb418362/61f006a77a7f0.image.jpg?crop=1714%2C900%2C294%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Univfy and PracticeHwy Announce Partnership to Expand Access"
@@ -31,6 +36,6 @@ related:
       domain: tmcnet.com
     quality: 8
 
-secured: "lk+0G0K4z9ml96ooAO9/WWQV6/lAq6JwsvL2x6FXm0IhtXmjg1W4EzGgy+eGdHGJvDPyJYbrscvsceMcauyrVnJJcChEUz+2oeqMYlyShkGzCMbWqkIkYaMSrl0ctwNr4hT6ImDK+WOE3hwj5soQZdkRkUbUGB62wuNJMmQShY19Z/8M1NBhHSK0YDMi9ZUQqSvypBREUnVpQ5ZcG2SvQ/b5sW4che4ARXuq6plJzjDipU8dOboX+h0kmZ3uA6ClFcyZmrQd0aP9seDbN1loWUimBgSGojhvGj0WYA4X/SLX0RnnB/ZbicKClDfWuJ5DfsqQa5+/BodzpwgQhrUlCubie3vSYLu1zcx38AmFbF9IX4/vBHGzSNONx30ZPCqczc4uXkZFNQ2gy6qkgXQupMycKIMK0Hn4qxmK9AeTxvz7HlocQqWOxEMdeEe5/vyvvMqv961iTdo91R3Y3i5KX7x0evI57OYf0UTFjfkezLjHWEtkNF7YUD0tepmxHlqLn3YVBq7eGExJaCRRVvP17Q==;hgm9+/PX/QlswTuo5HKX/g=="
+secured: "IIbtXJo0njIs2yGxWief4DHUMYUGmQxAcExz1ev7bCADCRzD9KoqoNPS5n8c5m5mKeuHiSPMKMekt+EBZAB43IGVjNIea+zJyD+DIJsKHO956Ntx5Oh836bRox+NMcpTk6RjMHJzvkVcbDMmfOVd5Q21pdluiCCOXo06N78XEe17ZpMxBg01YiPrdj2uZEBx8H8B0+kdMPwHM9eop7VLYjaOAGBtHVKzhINAqH8oRQ5P0wD7G1MOGe1sZ9UOBmMKp0ZuWoYyf+TnUNsogiTbPRDoZQwBknTxcUACSsKzeZx6EjcJgpHGrJUOIDXd8XGTBfZ4vDww27vg+tqHe3c0wWVKGO+LrcqutZHHPcejVKw=;Vl4uKmJqdNtbaaNcEOyReQ=="
 ---
 
