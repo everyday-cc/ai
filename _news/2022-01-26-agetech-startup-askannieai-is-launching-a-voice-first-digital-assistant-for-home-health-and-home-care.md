@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AgeTech Startup, AskAnnie.ai, Is Launching a Voice-First Digital Assistant for Home Health and Home Care"
-excerpt: "AgeTech Startup, AskAnnie.ai, Is Launching a Voice-First Digital Assistant for Home Health and Home Care Chicago, Illinois--(Newsfile Corp. - Jan"
-publishedDateTime: 2022-01-25T18:41:00Z
-originalUrl: "https://menafn.com/1103592657/AgeTech-Startup-AskAnnieai-Is-Launching-a-Voice-First-Digital-Assistant-for-Home-Health-and-Home-Care"
-webUrl: "https://menafn.com/1103592657/AgeTech-Startup-AskAnnieai-Is-Launching-a-Voice-First-Digital-Assistant-for-Home-Health-and-Home-Care"
+excerpt: "January 25, 2022) – A Chicago-based startup is launching a voice-first digital assistance platform that will fundamentally transform a historically neglected, but now rapidly expanding part of the US healthcare system."
+publishedDateTime: 2022-01-25T17:45:00Z
+originalUrl: "https://www.digitaljournal.com/pr/agetech-startup-askannie-ai-is-launching-a-voice-first-digital-assistant-for-home-health-and-home-care"
+webUrl: "https://www.digitaljournal.com/pr/agetech-startup-askannie-ai-is-launching-a-voice-first-digital-assistant-for-home-health-and-home-care"
 type: article
 quality: 20
 heat: 20
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?272675"
-    width: 441
-    height: 250
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/9f986fd9b2dd8ca6da945e28a99d772226c714f7-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 450
         isCached: true
 
-secured: "M2BqkJrkkQnL2HdLYqslocyk2Yo6HsrepYmcBWtne9IRThCWVQiFx/oSJFEYTFjbfQE400+ULDKxgLIsW2JJi75gSU4bzkP1dNcllQhszHyEi/IlBkAZ3j+iSmNK/dI53fYoWK5Fjynu+RaQpwsi5xR+eUnAnDR5BA5lm7Uuse7RAojgvWXyHM45PLa5MD3GHL5Njsh9ebJCNf87UsSZ82am7T+cCnxDVbmr/pfaGMJycChSp4fdy7utHY96XZCk1c73/db70iQPa/JloRT12LOBtL6xqG5JMIDlfsM9UkRS7n+ix5Rh/G5a6Em8Q2dGrzHbsXMsjgCCcqnE7zEtkovJbPRxY7NVf3pPJTBbg69khqJffhsiq2OTg56r6GMyFGBku54sBQw+2IZj5fG4tU+dIJ6u/P8claWd7igMJG6n1caPDzhz4kO1qRrLSb1YC6XveLYrYjndJJ5oAM6F6GFb9JLS6gavOJEynE10d0bfasHrDDGyUxz7GknqsKvMoUAngV9LvnSni/fjVh5M4A==;8fR3hxr32nFOA8Ycku/ZyA=="
+secured: "minr0zuPLbvA2HGbr3RKY+2IIef3eNWto2dcK7lQbtdx1bwMjreQxojEy9FItoEQ8r2b8mC9a1OLrNLG/QGsAj9xCdyzPJgQT2paydJm0F97N3ISeDkFjVC8FvZrVQFJnuCJkLNQWIw000zwjKbtV0xNTKjJeS9mhPUAXL/fGSOSgqZzj5FJCTxIUlDCnql+4XWxPByR7K/+sEMDPfzenFwFbXOEr6hwTh9wv5qO7f9DqrfP3bkPB3EXcCeuj8F52q1lpHasj416Gg38OjuYAmYcbLucAB/OElTIIBrN2U9b5l13RfQVyV6s6d84r3FWgV0FN+bXopxgCpAbuySxxX2cymhQGnOnccPM5dqO8ro=;NxJ9YaQRFwx18KG2UzhnzQ=="
 ---
 

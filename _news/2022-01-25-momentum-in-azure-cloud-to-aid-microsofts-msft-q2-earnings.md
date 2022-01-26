@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Momentum in Azure Cloud to Aid Microsoft's (MSFT) Q2 Earnings"
-excerpt: "Microsoft's (MSFT) fiscal second-quarter performance is likely to reflect momentum in the Azure cloud platform due to rapid digital transformation."
-publishedDateTime: 2022-01-24T21:00:00Z
-originalUrl: "https://www.entrepreneur.com/article/414815"
-webUrl: "https://www.entrepreneur.com/article/414815"
+excerpt: "Microsoft’s MSFT second-quarter fiscal 2022 results, scheduled to be reported on Jan 25, are likely to have been driven by the continued strength in its cloud platform — Azure. The platform has been benefiting from the pandemic-led digital transformation across the globe."
+publishedDateTime: 2022-01-24T16:58:00Z
+originalUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings"
+webUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings"
+ampWebUrl: "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings?amp"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-414815.jpeg"
-    width: 635
-    height: 400
-    isCached: true
 
 related:
   - title: "Microsoft AI Powering into Healthcare"
@@ -57,7 +49,21 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft, FedEx Expand Partnership"
+    excerpt: "FedEx and Microsoft are expanding their partnership to offer “logistics as a service” to retailers, using data analytics of FedEx's network."
+    publishedDateTime: 2022-01-26T16:52:00Z
+    webUrl: "https://multichannelmerchant.com/operations/microsoft-fedex-expand-partnership/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 39
+    images:
+      - url: "https://multichannelmerchant.com/wp-content/uploads/2020/05/fedex-microsoft-partnership-logos-feature.jpg"
+        width: 850
+        height: 450
+        isCached: true
 
-secured: "2gkW2szb1hZItuC19X1f9Eketdphv1E5OZjDHgHgKz0ihaGMA3coAzaxjYefVxBhUtNas3MSTf1ImblD5HbCL+BY5NELnSBAiUBrr2AuwkQ0LYUN+h3mpJrUXwMgDqs/wQ62qdhdU0JdNAvGkZQFMM5DKMZqVCB4Wig0j2STVPmiEoRxvMsmHo+eHShl5FmxAFGzQQUAbp/THoCE9EKiw+wbvSSjHAM0ZSz4Q4r+0VjFouT3MVBAGQpQuljBN+dq86QDBkUqj0jOgGysxVRsyD9pvVqGmTyjZW+WsgY5hkEhpcGldDTN4QsssooF7rlISfJhZwuv+ZeZuo37ik+Fe7P2MCGuR9kAvAViMuMid5wmbMcBxYdUtyEEMGNPvaYPr0H7Cj+CKC+1m6G0iBtZA14BpB6MSDUDsXZOxhZHEOnwcCQZeVo/B2bc3U5D7HcojMF6hyLqRbjWAc4yAkD2EAwWH8895C7PL6/d9Z2UBaGh5J48pVXEXQTFtcJNy3RsqfQrUaDmd5fUWNnuhTBjJA==;W/AuSPyIOTqBCpMZvgRMRQ=="
+secured: "X7LD0kqL0Tb4j/AzUXwOXeYYMFNJ2o9vZdlf3IhMsJHnF6PIBcx/aBgWZhIYyK3kSv0v+IckSQR3NS2HXKEZkzGvVxKYGHPg6Fd9Wkj5tTUrAHNhsG2ENGj6/FndhNhswQpcMNCIsL3c+WnKa34vwD/ocGSTr3lodNy7I44XT3UufbHGVMWJAre45cf0X1ISjNDPcyH/PArtBN3jmIpBnRNigXKLgSOV6AXo2cyRh42PFjeOxI/01/G6ohnHT4vhSZI1LFZBnYfkxQBm2FpKmW5aKh/0iXY5AF2MxzCLblHx1OmRjVwOOvFP/8cooOgSSwd3bGNp/shO2t5454/U6On0A/Gr/9j/8DuRvBwLims=;kinN4blfBPEzXokkRDZdpQ=="
 ---
 

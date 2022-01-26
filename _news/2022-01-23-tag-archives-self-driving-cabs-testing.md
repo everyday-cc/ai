@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving trucks set to rule Texas highways and combat driver shortages"
-    excerpt: "Self-driving trucks are increasingly looking like the solution to addressing both driver shortfalls and supply chain breakdowns in the Lone Star State."
-    publishedDateTime: 2022-01-24T06:20:00Z
-    webUrl: "https://techhq.com/2022/01/self-driving-trucks-set-to-rule-texas-highways-and-combat-driver-shortages/"
-    ampWebUrl: "https://techhq.com/amp/2022/01/self-driving-trucks-set-to-rule-texas-highways-and-combat-driver-shortages/"
-    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/01/self-driving-trucks-set-to-rule-texas-highways-and-combat-driver-shortages/"
+  - title: "Apple expands its team testing full-self-driving technology in California"
+    excerpt: "Apple is continuing to slowly expand its autonomous vehicle testing program in California. According to new data published by the California Department of Motor Vehicles, Apple now has 89 drivers registered to its crew."
+    publishedDateTime: 2022-01-26T15:04:00Z
+    webUrl: "https://9to5mac.com/2022/01/26/apple-self-driving-car-team-expands/"
+    ampWebUrl: "https://9to5mac.com/2022/01/26/apple-self-driving-car-team-expands/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/01/26/apple-self-driving-car-team-expands/amp/"
     type: article
     provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 42
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 43
     images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2022/01/000_9W86GT-1-375x210.jpg"
-        width: 375
-        height: 210
-        isCached: true
-  - title: "Self-driving semi-trucks may be part of Texas' future, says Texas A&M professor"
-    excerpt: "Texas is considered one of the largest and most prevalent states for the trucking industry. It’s here that new technologies that could change trucking forever, are being tested."
-    publishedDateTime: 2022-01-25T01:26:00Z
-    webUrl: "https://www.kxxv.com/brazos/self-driving-semi-trucks-may-be-part-of-texas-future-says-texas-a-m-professor"
-    ampWebUrl: "https://www.kxxv.com/brazos/self-driving-semi-trucks-may-be-part-of-texas-future-says-texas-a-m-professor?_amp=true"
-    cdnAmpWebUrl: "https://www-kxxv-com.cdn.ampproject.org/c/s/www.kxxv.com/brazos/self-driving-semi-trucks-may-be-part-of-texas-future-says-texas-a-m-professor?_amp=true"
-    type: article
-    provider:
-      name: KXXV News Channel 25
-      domain: kxxv.com
-    quality: 40
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/bf9/f9d6acf132d844f6947c7bc916fe8033/bf92fd9e52274c6284a0f7da0c85930b/poster_6a9eb8c006fc4caaa9a40def3d4b2a93.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "RJcCs8buY0Xfa2A/06Q5naMrMrBF7jWlKX6XP6kFZVy5VztYqFJwUZxi1bY7qdQiWSjtr0yy72vrBzXpQl43a4n3mjPUxBsPNaJE0gv6JlsAQea5J+tQoTQuK5Q3e1EkqauMqJsaUNJkAbXsYxqwytK/GUG2z0dXu0KDHpMtopUTB0+GxpklawmVmEgHAYpCJuQVz2RpYFrh4Arg0borqujJnYSH0rJaOx5I74RlJC4xzZ/J1HYXiT2xN2FaraPAUta/ZCkxCYBKxXQmLw0dgMztEuGpCBQM4sbvh899UfvtsrL3IWwbBEvNlxZwv8PKBPG/xnZL8kfjZ7cmr6RE7rZjrzEFJiYDTY2vsWbQ3A4=;3JA+V4EhbJvLQGhto3ET3A=="

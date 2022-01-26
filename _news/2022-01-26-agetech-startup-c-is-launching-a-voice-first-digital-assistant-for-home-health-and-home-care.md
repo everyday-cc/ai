@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "AgeTech Startup, AskAnnie.ai, Is Launching a Voice-First Digital Assistant for Home Health and Home Care"
-    excerpt: "AgeTech Startup, AskAnnie.ai, Is Launching a Voice-First Digital Assistant for Home Health and Home Care Chicago, Illinois--(Newsfile Corp. - Jan"
-    publishedDateTime: 2022-01-25T18:41:00Z
-    webUrl: "https://menafn.com/1103592657/AgeTech-Startup-AskAnnieai-Is-Launching-a-Voice-First-Digital-Assistant-for-Home-Health-and-Home-Care"
+    excerpt: "January 25, 2022) – A Chicago-based startup is launching a voice-first digital assistance platform that will fundamentally transform a historically neglected, but now rapidly expanding part of the US healthcare system."
+    publishedDateTime: 2022-01-25T17:45:00Z
+    webUrl: "https://www.digitaljournal.com/pr/agetech-startup-askannie-ai-is-launching-a-voice-first-digital-assistant-for-home-health-and-home-care"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 20
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?272675"
-        width: 441
-        height: 250
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/9f986fd9b2dd8ca6da945e28a99d772226c714f7-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "gkpN3TKCE/02lx/rkwT2G1gXhfS7Kudt/o5GVVYHZWP3KAG8fHLHYbmy23+ugVKsT2iISiCefNy2qVGlwxAcdPNjU7Sg+WAmSvdYEp1PvlqHyNYIkhKj1dJzieXYyMGYJ0C0nppoHlNeU2r78v+H4GxAjiJ8P06xC6EpeeuxrCuCPabPXJ5WJr25jhUFnX6Ag9BCBwi0j2Bckh+43gOoesrKFObEqT/+muxKrUO94DSCyvXCyH5uD8cBhhxV8vQtX4WPrD49UtfPIaCRRsRrXeoKcJBEkYTAMxGjdC3N0yWB+n5WkzHWX41et+Wsr0sQrvmErzvtaEvrITt/F9tsjdrxsg8UJ7xAKhIkEUsslNA=;etRiTyFxZaUnGXRRekxKyw=="

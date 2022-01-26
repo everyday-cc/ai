@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/26/slim-ai-lands-31m-to-make-contain
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/slim-ai-lands-31m-to-make-container-security-easy-for-developers/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 600
     isCached: true
 
-secured: "Zkv0UkqsYoCv6P/MeGxcrUyRJi2Oh+vBFEIAqYD+lt83jkE9tE41K3Nn4J+u7gXp9sAsznJLO6+K6MX5D2FiRofWp0xfGlgGKXWwUduWRNli1+u5mgHwQJoKUHBFH6OdnU/wJFpJw0Jh0aKB7JX3w6qz0d9D035BWjTltKJvVUSys6j8iAsDZlXvRFb/baM5q0qk0B3n4rsdbdlZBFuKMIBDQG35G6bLgIZYRgxFcONnOQABFMa+NAmRVoyndXjbn+OHjxejHdwtKW4gkXYj+4x726Iazt5yWzrXEuAcLMSf0GtM4LWm5pVDOcU1Bp/bvjfeA5lsZ5XchnTQe7zz5anonpoqbXc2EZ8H3qySdk4=;+ERxb/0EiHHAOeN9PEVNkw=="
+related:
+  - title: "Slim.AI lands $31M funding round to automate security best practices in container app development"
+    excerpt: "Slim.AI lands $31M funding round to automate security best practices in container app development - SiliconANGLE"
+    publishedDateTime: 2022-01-26T16:02:00Z
+    webUrl: "https://siliconangle.com/2022/01/26/slim-ai-lands-31m-funding-round-automate-security-best-practices-container-app-development/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/Slimai.png"
+        width: 1250
+        height: 693
+        isCached: true
+
+secured: "i0UhdD/4Wfqb/5ykXGT7uXUPNpYYTkXs/8l3jeSKX2kg309Kce+gN/zy9nOTgSv+1W1eHFHy1IgBxXtwxSF6CnVixChoaEvN3EAKFDb8bDe2XnCi6ZRLTR6hekiNIhehzX/UaXP57boGcZTVBL7DBiIwVh+CVEAs19uYBOEIIvgUWoxK1lCsUqErkPbY8PUkJC3GRHvpyw65VHIzoksshJCapQGrwFTAmsys0P74u+7H77TlGqwPszbxlZ203nd/poU+aBX0Z/dYUtkIU87RQYqKDni+njslABkCGvsmE8XkgQQhvBFuCWkf61bOcw1gr3GVUdHoTSmjOGA+6k6tNk4bgVICoAnjpm68lrRZm2RTf5B5+o+sWLcVHeRsC9Qern1kjinVMFCB4rl/qETMbrds39+NT99/kilPAfnSX1WxTWP70RbJLq/xC2Vuer9OcPD7jT8f73pthMKRXKsPI59Y5MZAwGFk3MXXcJ0mVhuEgv0LWcEnt3IPCs8vA3gjfgC3F3EiWPX/tQ9EeP5KUA==;DbtieEtH9UsJxFV9TOFrwQ=="
 ---
 

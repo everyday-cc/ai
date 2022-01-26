@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/business-strategy/automation/362068/self-dri
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents?amp"
 type: article
 quality: 70
-heat: 190
+heat: 200
 published: true
 
 provider:
@@ -208,6 +208,20 @@ related:
       - url: "https://i2-prod.kentlive.news/incoming/article5720434.ece/ALTERNATES/s1200/1_SSR_DCM_1407motsjpgars.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Self-driving car users shouldn’t be liable if anything goes wrong, say law commissioners"
+    excerpt: "Whoever's behind the wheel of a self-driving car shouldn't be held responsible if it crashes, according to new proposals by legal review bodies. The Law"
+    publishedDateTime: 2022-01-26T14:24:00Z
+    webUrl: "https://cardealermagazine.co.uk/publish/self-driving-car-users-shouldnt-be-liable-if-anything-goes-wrong-say-law-commissioners/253005"
+    type: article
+    provider:
+      name: Car Dealer Magazine
+      domain: cardealermagazine.co.uk
+    quality: 15
+    images:
+      - url: "https://0a411afb0c598242cc95-1df470064133d6bc5c471837468f475c.ssl.cf3.rackcdn.com/publish/wp-content/uploads/2022/01/Driverless-car-being-demonstrated-via-PA.jpg"
+        width: 2000
+        height: 1329
         isCached: true
 
 secured: "QToqIqzsMyziOBKiX9f2DOlFMeX7fAB8MKLuv4JBQ6SPUYzEg7Terl+MbNCbdXGJTdiX5VvZYBfzVVfzIwsHYr5KOfyDAFFttOEz0wKztRgjKPNMah9oroIX+w4n4QU3YqqnFKzGDHBV34NKH/OvxN7FXQBxpRxeacIbCgA9wYiNfOOGin8N06F13kkAGTh23Hy3IaB+cR5WBMdxynPHGARAezOWtJYH060Rkh5zF2aD67QWdx7wsZkJkaCTavhDTwyoEjwwaMiBEGPJi7MuYlRoMnADjSCfLgiPBImfJ4wKHyA3CqEyzKZECtoQWHxiF8kVgci/WYO1fBi4fjzGS508589zv2dl7Wth/vDJGDk=;72+IwaxAbkCa7XAvAIprqw=="

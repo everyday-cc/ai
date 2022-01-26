@@ -21,21 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "IRS to Require Facial Recognition for Digital Services"
-    excerpt: "People who use the IRS digital portal will need to be prepared starting in the summer to submit a live video selfie and various documentation to make and view payments and access tax records."
-    publishedDateTime: 2022-01-21T23:51:00Z
-    webUrl: "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services"
-    ampWebUrl: "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true"
+  - title: "IRS Facial Recognition: Everything we know so far"
+    excerpt: "The IRS will require taxpayers who access and make their procedures online to sign up and verify their identity with a mobile platform that relies on a third party (company) starti"
+    publishedDateTime: 2022-01-26T15:20:00Z
+    webUrl: "https://www.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html"
+    ampWebUrl: "https://amp.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html"
+    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
+      name: MARCA
+      domain: marca.com
     quality: 59
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/a2d6975/2147483647/strip/true/crop/940x490+0+132/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7a%2F7d%2F80c58fef8b932e1f1ad5c9c6f006%2Fshutterstock-camera-lens-up-close.jpg"
-        width: 840
-        height: 438
+      - url: "https://phantom-marca.unidadeditorial.es/1f06094736ba8cd96b4c2ef2f442c13f/resize/1200/f/jpg/assets/multimedia/imagenes/2022/01/26/16432109382520.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "ID.me Comments on Adherence to Federal Rules on Facial Recognition \"Selfies\" that Protect Identities from Theft"
     excerpt: "ID.me provided the following comments today. Statement from ID.me CEO and Founder, Blake Hall: \"We are committed to ensuring everyone can verify their identity online and use it to access essential services."

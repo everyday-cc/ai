@@ -209,6 +209,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving car users shouldn’t be liable if anything goes wrong, say law commissioners"
+    excerpt: "Whoever's behind the wheel of a self-driving car shouldn't be held responsible if it crashes, according to new proposals by legal review bodies. The Law"
+    publishedDateTime: 2022-01-26T14:24:00Z
+    webUrl: "https://cardealermagazine.co.uk/publish/self-driving-car-users-shouldnt-be-liable-if-anything-goes-wrong-say-law-commissioners/253005"
+    type: article
+    provider:
+      name: Car Dealer Magazine
+      domain: cardealermagazine.co.uk
+    quality: 15
+    images:
+      - url: "https://0a411afb0c598242cc95-1df470064133d6bc5c471837468f475c.ssl.cf3.rackcdn.com/publish/wp-content/uploads/2022/01/Driverless-car-being-demonstrated-via-PA.jpg"
+        width: 2000
+        height: 1329
+        isCached: true
 
 secured: "MxTA/02XpEdieKihLMuUHNShixsE5cEl6myOVudFEINez2G6S1+wkvbbHVBQwZoTkyTYJiKOFM9pbcFVWYjb7aYdpMCqwx2rvsoWcDYhWt9i303MrC363P/3AJJnVIpYHIUEMiBxIAg5O3HXs6hoiQxJ6cE2B7v8CpbUqvm4AM2zyZ+t8r/rrlqNWTE8kuQKgGKZK2faOI1emZADsrLMl21JAoVo2N9Jna61VYOhj6e0lMdfTI0p7h+fFyitrAn7NO+YrVdvSbMlNRjg39NaPZ8AayvCkIHdX1ighLSa/57zONAeLtaq0XukADKV2IcKcyqMyKnBywCdjo5+YTp8zKNLCEyLbMjRncZhIjgr2R/BDg5bLmLNpNFDcF4/v7ki0xhrQsTmLu5F/yvqfR/yPaO3lRxCMLU9Zh3zI1z1acOyWwIbJSuvytjbGbsvIZKBPC8IuG3OYsma/qu50McMPvEZrk94/1gvuI4Avo/RPrgmpDHddnse3PiyZ+xcNjD5iNLNctAHD6iftTvam0sizw==;FfMEAUz1XswSWKnT/RMjOQ=="
 ---

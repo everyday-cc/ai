@@ -39,20 +39,6 @@ related:
         width: 820
         height: 698
         isCached: true
-  - title: "Elon Musk’s Neuralink Chip Prepping For Clinical Trials In Humans"
-    excerpt: "Elon Musk-run brain-machine interface company Neuralink is preparing to launch clinical trials that will implant brain chips in humans."
-    publishedDateTime: 2022-01-22T00:21:00Z
-    webUrl: "https://www.techshout.com/neuralink-nears-clinical-human-trials/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 39
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/04/neuralink-monkey-ping-pong.jpg"
-        width: 690
-        height: 480
-        isCached: true
 
 secured: "cTO2pLo2j0R3Jm+j/rGHLX+DvXtUjXEAjfrFknYRs54b+iIA01HvEHTCLAPqnp78FCcLHJn/c+s6IA0ZmT3hMOd8oei1qatBO2Ihput3zXOSkCs3KAaqKeYC1Krdo86w/zutQpjM7Z3dZ6UVJyMs0qpKuX0Kdhylyc1GGQ+FV9WhrLsXDjgTYKeVCCCnlzawGKv/Vg9cc4cBz4wHmuUsSib5airn6FBOId+IwJlruWJK5WDTfDnnC7PRsCavs0FIOCXkoWDnS8w9BKhTOiRXNDgXy5JGLWAPu55AtEvfRPHcsRIDgO5IiMTh/YWVyenjjyu5KQgfolX0H/6ZTjtYigogcf8HP6Spr0S16ey9FgZarhE3aUEODVuI/gxDAcnHIQGKpvEWqJKCBrkmKt6wlNcxRazMEx6Q1d6XN0Sm5AWZjPm5PTalxZuUC0ut7YMIUMkJtaJ6c084PHAGLOdzz9AsFBAeXO9UugU8OOQyYYGKlpQFzqFa7oJFAhJ7t0fCJDDDLzT/nYyxet9SwtWVlnW9R2BYubkyZGHVTRD1NT0=;zzYAMuYhnRiEyKiNmu7M6A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-produc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/"
 type: article
 quality: 87
-heat: 138
+heat: 137
 published: true
 
 provider:

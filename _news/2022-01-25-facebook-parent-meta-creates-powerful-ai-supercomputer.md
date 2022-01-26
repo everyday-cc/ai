@@ -1,26 +1,29 @@
 ---
 category: news
-title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
-excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
-publishedDateTime: 2022-01-24T21:32:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
+title: "Facebook parent Meta creates powerful AI supercomputer"
+excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
+publishedDateTime: 2022-01-24T21:33:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
 type: article
-quality: 49
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Meta Unveils New AI Supercomputer"
@@ -87,6 +90,20 @@ related:
         width: 1190
         height: 628
         isCached: true
+  - title: "Meta Platforms (FB) to Launch World's Fastest AI Computer"
+    excerpt: "Meta Platform's (FB) launches new artificial intelligence supercomputer, which will help lay the groundwork for building Metaverse."
+    publishedDateTime: 2022-01-26T14:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/415191"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 71
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-415191.jpeg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Meta says it's building world's largest AI supercomputer out of Nvidia, AMD chips"
     excerpt: "Facebook owner Meta is building the world's largest AI supercomputer to power machine-learning research that will bring the metaverse to life in the future, it claimed on Monday. The new super – dubbed the Research Super Computer,"
     publishedDateTime: 2022-01-25T02:15:00Z
@@ -116,20 +133,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816559/itpro/2019/04/supercomputer_shutterstock_753459625.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "Meta Platforms (FB) to Launch World's Fastest AI Computer"
-    excerpt: "Meta Platform's (FB) launches new artificial intelligence supercomputer, which will help lay the groundwork for building Metaverse."
-    publishedDateTime: 2022-01-26T14:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/415191"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-415191.jpeg"
-        width: 620
-        height: 413
         isCached: true
   - title: "Meta says its new AI supercomputer will be the world's fastest by mid-2022"
     excerpt: "Meta has completed the first phase of a new AI supercomputer. Once the AI Research SuperCluster (RSC) is fully built out later this year, the company believes it will be the fastest AI supercomputer on the planet,"
@@ -717,6 +720,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Zuckerberg’s Meta builds AI supercomputer"
+    excerpt: "Mark Zuckerberg’s company Meta revealed that it has built one of the world’s fastest ever supercomputers. With 6,080 graphics processing units packaged into 760 Nvidia A100 modules, Meta believes that the Research Super-Cluster (RSC) is the fastest device built for AI tasks,"
+    publishedDateTime: 2022-01-26T14:36:00Z
+    webUrl: "https://www.ebuyer.com/blog/2022/01/zuckerbergs-meta-builds-ai-supercomputer/"
+    type: article
+    provider:
+      name: ebuyer.com
+      domain: ebuyer.com
+    quality: 19
   - title: "Meta unveils a new AI supercomputer, says it will be \"world's fastest\" by mid-2022"
     excerpt: "Meta has unveiled that it is building the world's faster AI supercomputer. The company has outlined what it plans to do with it. Check all the details here!"
     publishedDateTime: 2022-01-25T11:45:00Z
@@ -727,6 +739,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "Xeg34s760IBNvA9qi4IYFJ1+1Mn5iH2LgvOyCTw+NB7yG1ZjdGKJj8BTEYe+AvlA00rVgct9mDHY1DIy7XWL7DJOg+5l3YAyTyGDBnyjUVBdGxpbVs6S7Kk2CDOplDw+B1qHc+sGF1Aa0hBuMWAHYowdhXNXlWT9nbV21njYqYv5pqyUmqeGEcu94ZPkPddJt35o2b2k06UbLKiYK3EsnEsCUHvAA2zb/4Sz45hVTqoQrETjz0nfcTIYVhmP8kgP+OLlzDVfoWhUjKktJYp9O2c7NlelM7uB+ny5Lhop8LcfHTSUtsDDClqXzes3ZiB+t66+52YthmoM+l399OMXXmdkQA+54Or181rmfLyKKmafvlqg3BJLYWL0FpOvp62ZuxcX+UZz3atukr9FnsB7Of8C2/NO7SFcs6hJ4LsVqGedgLfuSUfR6ysZGsilACnP/3UlsY4oKFb5mrqAQiqrnR4B82VdBvxAUtOgfsGf2ae/sslqjrvgdaXxK2qpWPzoSh1EJFw6TsrQzgBXEk7LVg==;5eWVGzyaVNyQNLps9VvCpg=="
+secured: "d0kZ8I07z47Kg89fb9C8NQa7jU0ozSm6WdBi6mE5YM+MkULHOLiRxUdCaWNZ5+s1W0T+qNN0S9mocJ58EKSmkg7iGObXrTE6A4X941JNlYKBeWwjGbB7dpK9pOOZpvR62XkaOTATBnL46ceDXrVeLOoNa4IbggVNGveJR86ieNN3/ghRs2WzXVGob/8e6P+cGp03t/p9RFNvWSO6gvXbQmUxwgVSFDHIzxEeP63hPseK0y65uFOlgQGrdeAFC2+Br1xaexHoqGOjrciP8yB5xaVWNHywFUnKcucODyqp+O91/X6eLibjjZvH0f6spCEala3U78QpRrF9ACu4D97JxX4DZr3MafU2Zmt8y4eYP8s=;/5Pfu2lGMYlC1Csvb1l46A=="
 ---
 
