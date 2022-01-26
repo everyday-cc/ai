@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expect
 webUrl: "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030"
 type: article
 quality: 51
-heat: 91
+heat: 92
 published: true
 
 provider:
@@ -75,7 +75,7 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://menafn.com/updates/pr/2022-01/26/EP_d6121image_story.png"
         width: 1418

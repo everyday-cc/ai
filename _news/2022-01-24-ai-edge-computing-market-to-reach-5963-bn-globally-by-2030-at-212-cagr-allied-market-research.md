@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Graphic Processing Unit (GPU) Market to Reach $200.85 Billion, Globally, by 2027 at 33.6% CAGR: Allied Market Research"
+    excerpt: "Allied Market Research published a report, titled, \"Graphic Processing Unit (GPU) Market by Type (Dedicated, Integrated, and Hybrid), Device (Computer, Tablet, Smartphone, Gaming Console, Television,"
+    publishedDateTime: 2022-01-26T13:40:00Z
+    webUrl: "https://www.lelezard.com/en/news-20209870.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 15
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Potential Opportunities Worth ~USD 50 Bn Opening Up for Artificial Intelligence Companies - Exclusive Research Published by MarketsandMarkets™"
     excerpt: "Opportunities worth USD 50+ Bn are opening up for AI companies, which is going to become a USD 300+ Bn market by 2026. Various factors such as growth of data-based AI and advancement in deep learning and the growing need to achieve robotic autonomy to stay competitive in a global market are expected to drive the adoption of the AI solutions and services in the coming years."
     publishedDateTime: 2022-01-24T13:05:00Z

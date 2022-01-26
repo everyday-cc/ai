@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "UK needs laws for self-driving cars, government bodies say"
+    excerpt: "Government bodies are currently lobbying for the UK to adopt a legislation that regulates self-driving vehicles. According to a joint report from the Law"
+    publishedDateTime: 2022-01-26T12:09:00Z
+    webUrl: "https://www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/"
+    ampWebUrl: "https://www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 44
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UK needs law for self-driving cars, government bodies say"
     excerpt: "The law should regulate self-driving vehicles and include sanctions for companies if anything goes wrong when their vehicles take over control from human drivers, two independent governmental bodies said."
     publishedDateTime: 2022-01-26T08:11:00Z

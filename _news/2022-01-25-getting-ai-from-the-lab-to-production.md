@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-produc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/"
 type: article
 quality: 87
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -93,20 +93,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-89084442,imgsize-52818,width-1200,height-628,overlay-etcio/ai-is-bringing-science-fiction-to-life.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Using Artificial Intelligence to Accelerate Wildlife Conservation"
-    excerpt: "While Artificial Intelligence (AI) is revolutionising multiple aspects of our lives, there is limited uptake of AI in supporting ecological well-being and protecting the nearly 1 million species currently threatened with extinction. Wildlife.ai is a New ..."
-    publishedDateTime: 2022-01-24T21:44:00Z
-    webUrl: "https://www.gu.se/en/event/using-artificial-intelligence-to-accelerate-wildlife-conservation"
-    type: article
-    provider:
-      name: University of Gothenburg
-      domain: www.gu.se
-    quality: 39
-    images:
-      - url: "https://www.gu.se/sites/default/files/styles/100_10_5_xlarge_1x/public/2022-01/Victor%20Anton.jpg?h=790be497&itok=BhZA7uwh"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Improving AI via chess"
     excerpt: "Growing up, Casey Richardson was an avid chess player, studying the game religiously and playing in regional and state tournaments. \"One thing I liked about chess is, it's all strategy, not luck,\" says Richardson,"

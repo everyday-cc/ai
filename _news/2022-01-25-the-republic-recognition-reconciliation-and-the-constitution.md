@@ -25,81 +25,178 @@ images:
     isCached: true
 
 related:
-  - title: "IRS to Require Facial Recognition for Digital Services"
-    excerpt: "People who use the IRS digital portal will need to be prepared starting in the summer to submit a live video selfie and various documentation to make and view payments and access tax records."
-    publishedDateTime: 2022-01-21T23:51:00Z
-    webUrl: "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services"
-    ampWebUrl: "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true"
+  - title: "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries"
+    excerpt: "SparkCognition, a global leader in artificial intelligence (AI) software solutions for business, today announced the close of its $123 million Series D funding"
+    publishedDateTime: 2022-01-25T12:00:00Z
+    webUrl: "https://aithority.com/saas/sparkcognition-announces-123-million-series-d-funding-and-a-unicorn-valuation-to-accelerate-ai-adoption-across-industries/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 111
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/a2d6975/2147483647/strip/true/crop/940x490+0+132/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7a%2F7d%2F80c58fef8b932e1f1ad5c9c6f006%2Fshutterstock-camera-lens-up-close.jpg"
-        width: 840
-        height: 438
+      - url: "https://aithority.com/wp-content/uploads/2022/01/SparkCognition-Announces-123-Million-Series-D-Funding-and-a-Unicorn-Valuation-to-Accelerate-AI-Adoption-Across-Industries.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "ID.me Comments on Adherence to Federal Rules on Facial Recognition \"Selfies\" that Protect Identities from Theft"
-    excerpt: "ID.me provided the following comments today. Statement from ID.me CEO and Founder, Blake Hall: \"We are committed to ensuring everyone can verify their identity online and use it to access essential services."
-    publishedDateTime: 2022-01-24T12:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/id-me-comments-on-adherence-to-federal-rules-on-facial-recognition-selfies-that-protect-identities-from-theft-1031122288"
+  - title: "SparkCognition, which develops AI solutions for a range of industries, nabs $123M"
+    excerpt: "SparkCognition, an Austin, Texas-based company developing AI solutions for a range of markets, has raised $123 million in capital."
+    publishedDateTime: 2022-01-25T10:00:00Z
+    webUrl: "https://venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/"
+    ampWebUrl: "https://venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
     images:
-      - url: "https://mma.prnewswire.com/media/1732098/IDme_Face_Matching.jpg"
-        width: 400
-        height: 273
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1248800431.jpg?w=1200&strip=all"
+        width: 1200
+        height: 612
         isCached: true
-  - title: "IRS to start requiring facial recognition scans to access tax returns"
-    excerpt: "The Internal Revenue Service is going to start requiring users of its online tax payment system to provide a selfie to a third-party company in order to access their accounts. Beginning in summer 2022,"
-    publishedDateTime: 2022-01-21T21:26:00Z
-    webUrl: "https://www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns"
-    ampWebUrl: "https://www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
-    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
+  - title: "Smiles.ai Raises $23 Million in Series A"
+    excerpt: "The funds will be utilized to expand footprint nationally, strengthen the leadership team and build innovative tech-driven dental care solutions"
+    publishedDateTime: 2022-01-24T14:22:00Z
+    webUrl: "https://www.entrepreneur.com/article/414713"
     type: article
     provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1643033928-Myproject30.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Acting New Jersey Attorney General Seeking Public Comment on the Use of Facial Recognition By Law Enforcement"
+    excerpt: "Many states this year are contemplating legislation and/or regulation in regards to biometric information and New Jersey is no exception.  This month Acting Attorney General Andrew J. Bruck annou"
+    publishedDateTime: 2022-01-25T23:32:00Z
+    webUrl: "https://www.natlawreview.com/article/acting-new-jersey-attorney-general-seeking-public-comment-use-facial-recognition-law"
+    ampWebUrl: "https://www.natlawreview.com/article/acting-new-jersey-attorney-general-seeking-public-comment-use-facial-recognition-law?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/acting-new-jersey-attorney-general-seeking-public-comment-use-facial-recognition-law?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 40
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "How Deep Learning Helps Utilities Facilitate Automation and Innovation"
+    excerpt: "Deep learning is one of the most essential building blocks of artificial intelligence, and no one is successfully deploying ‘real’ AI without deep learning."
+    publishedDateTime: 2022-01-25T15:31:00Z
+    webUrl: "https://www.tdworld.com/smart-utility/data-analytics/article/21214976/utility-analytics-institute-how-deep-learning-helps-utilities-facilitate-automation-and-innovation"
+    type: article
+    provider:
+      name: T&D
+      domain: tdworld.com
     quality: 39
-  - title: "Is It Time for Facial Recognition in Restaurants?"
-    excerpt: "Biometric technology, such as facial recognition, offers this exact benefit. Today, it ensures restaurants are running safely by equipping entrances with health screenings to detect masks are not only being worn,"
-    publishedDateTime: 2022-01-21T21:04:00Z
-    webUrl: "https://www.qsrmagazine.com/outside-insights/it-time-facial-recognition-restaurants"
+    images:
+      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2022/01/16x9/MDS_Executive_Summary.61f015c0d07ee.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Using Artificial Intelligence to Accelerate Wildlife Conservation"
+    excerpt: "While Artificial Intelligence (AI) is revolutionising multiple aspects of our lives, there is limited uptake of AI in supporting ecological well-being and protecting the nearly 1 million species currently threatened with extinction. Wildlife.ai is a New ..."
+    publishedDateTime: 2022-01-24T21:44:00Z
+    webUrl: "https://www.gu.se/en/event/using-artificial-intelligence-to-accelerate-wildlife-conservation"
     type: article
     provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
+      name: University of Gothenburg
+      domain: www.gu.se
     quality: 39
     images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-01/fastfoodrestaurant.jpg?itok=1S6fBBHf"
-        width: 765
-        height: 446
+      - url: "https://www.gu.se/sites/default/files/styles/100_10_5_xlarge_1x/public/2022-01/Victor%20Anton.jpg?h=790be497&itok=BhZA7uwh"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Smile! The IRS Wants You To Send Selfies to a Facial Recognition Company"
-    excerpt: "\"No Identity Left Behind.\" Americans who want to access tax return transcripts, check on child tax credits, or do"
-    publishedDateTime: 2022-01-24T14:32:00Z
-    webUrl: "https://reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/"
-    ampWebUrl: "https://reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/?amp"
+  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
+    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
+    publishedDateTime: 2022-01-25T16:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
     type: article
     provider:
-      name: Reason
-      domain: reason.com
-    quality: 38
-  - title: "Are Cow Noses the New Fingerprint to Unlocking Livestock Facial Recognition?"
-    excerpt: "Fingerprint recognition technology for cellphones was first created in 2011 and is the process of verifying a person’s identity by comparing their fingerprints with previously recorded samples. This recognition is then utilized to unlock certain technology features and can even provide specific data on individuals."
-    publishedDateTime: 2022-01-24T21:09:00Z
-    webUrl: "https://www.dairyherd.com/news/education/are-cow-noses-new-fingerprint-unlocking-livestock-facial-recognition"
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Slim.AI Raises $31 Million to Secure Cloud-Native Applications"
+    excerpt: "Cloud-native application security startup Slim.AI today announced that it has raised $31 million in Series A funding, which brings the total raised by the company to $37.6 million. Slim.AI’s latest funding round was led by Insight Partners and StepStone Group and also received participation from Knollwood,"
+    publishedDateTime: 2022-01-26T14:49:00Z
+    webUrl: "https://www.securityweek.com/slimai-raises-31-million-secure-cloud-native-applications"
     type: article
     provider:
-      name: Dairy Herd
-      domain: dairyherd.com
-    quality: 16
+      name: Security Week
+      domain: securityweek.com
+    quality: 37
+    images:
+      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+        width: 256
+        height: 256
+        isCached: true
+  - title: "Slim.AI Closes $31 Million Series A to Automate Best Practices in Software Supply Chain Security for Cloud-Native Applications"
+    excerpt: "Slim.AI, the Boston-based startup focused on optimizing and securing cloud-native applications, announced today that it has raised a $31 million series A round co-led by New York-based global venture capital and private equity firm Insight Partners as well as StepStone Group,"
+    publishedDateTime: 2022-01-26T13:34:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-venture-capital-adbd05e14f9e6404509440107bbba972"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Digitate Propels Digital Transformation Forward with Enhanced AIOps Capabilities and New Solutions"
+    excerpt: "Digitate, a leading provider of SaaS-based autonomous enterprise software for IT and business operations, today announced the general availability of its latest release, which adds enhanced product functionalities across the entire ignio™ product line as well as new out-of-the box solutions that help enterprises kickstart and accelerate their digital transformation at scale."
+    publishedDateTime: 2022-01-25T15:13:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/digitate-propels-digital-transformation-forward-with-enhanced-aiops-capabilities-and-new-solutions/article_982b11a8-0f4a-52d4-8c13-55b02a612b7b.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 25
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Digitate Propels Digital Transformation Forward with Enhanced AIOps Capabilities and New Solutions"
+    excerpt: "Digitate, a leading provider of SaaS-based autonomous enterprise software for IT and business operations, today announced the general availability of its latest release, which adds enhanced product functionalities across the entire ignio™ product line as well as new out-of-the box solutions that help enterprises kickstart and accelerate their digital transformation at scale."
+    publishedDateTime: 2022-01-25T16:13:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-9da5924ba0694a7fa2c6f3e231b5e2ce"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Raven unionisation plans continue without Activision Blizzard recognition"
+    excerpt: "Publisher did not respond to workers' request, says it will respond to National Labor Relations Board petition"
+    publishedDateTime: 2022-01-26T10:20:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2022-01-26-raven-unionisation-plans-move-to-vote-without-activision-blizzard-recognition"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 23
+    images:
+      - url: "https://images.gnwcdn.com/2022/articles/2022-01-26-10-12/game_workers_alliance.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "+B4XUrE8mhR6BjLEjrchFZuqwIH0MhLRjvWIJrUh2Kcgr8KVRCd6RWjdWubJeKaMy2s2CU4y+ZCy9+4vfNVogTciMJeq7AVAdutELjvlAQ1oD0URy9jrtqbkea6DxlkoP4ppr5aK5qznTXg2O6Z6rB8Gj0bmZWFQp2e2AtbTK1pD/tyzH5Q1UFI1B9R0coeRI7BD5+a8XsnrzxRih/GhRoqu5zG1M7P8V/cpfn+yVxHorG7zx73ks2akN2diKM9o8Hh+57mblH5amMlGiqDZ6NcJCfKBJXFCzbkz8gwDZCdbns1/XHRleHatayAQjHYZypX8wFU0GQcF28wdd92GUjyrAoFFSn0XJqggcCs3KuE=;r4PMkfnnp+zFiVf0hcfsTg=="
 ---

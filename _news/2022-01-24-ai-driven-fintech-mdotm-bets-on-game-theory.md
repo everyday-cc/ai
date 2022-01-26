@@ -43,22 +43,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Global Fintech Arabesque Teams Up with Snowflake, a Data Cloud Company"
-    excerpt: "Arabesque has partnered with Snowflake, the Data Cloud firm, enabling financial institutions to \"integrate Arabesque's suite of data assets.\" \""
-    publishedDateTime: 2022-01-21T21:12:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/cloud-sky-sun.jpeg"
-        width: 594
-        height: 803
-        isCached: true
   - title: "Fintech redefined through buy-now-pay-later"
     excerpt: "Traditional lenders like banks are increasingly competing with fintech firms, so they will need to upgrade ... Ramkissoon, who writes in her personal capacity, is an AI mentor, strategist and trailblazer standing for the unification of the African tech ..."
     publishedDateTime: 2022-01-24T06:27:00Z

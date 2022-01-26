@@ -49,31 +49,6 @@ related:
         width: 400
         height: 273
         isCached: true
-  - title: "IRS to start requiring facial recognition scans to access tax returns"
-    excerpt: "The Internal Revenue Service is going to start requiring users of its online tax payment system to provide a selfie to a third-party company in order to access their accounts. Beginning in summer 2022,"
-    publishedDateTime: 2022-01-21T21:26:00Z
-    webUrl: "https://www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns"
-    ampWebUrl: "https://www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
-    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp"
-    type: article
-    provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
-    quality: 39
-  - title: "Is It Time for Facial Recognition in Restaurants?"
-    excerpt: "Biometric technology, such as facial recognition, offers this exact benefit. Today, it ensures restaurants are running safely by equipping entrances with health screenings to detect masks are not only being worn,"
-    publishedDateTime: 2022-01-21T21:04:00Z
-    webUrl: "https://www.qsrmagazine.com/outside-insights/it-time-facial-recognition-restaurants"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2022-01/fastfoodrestaurant.jpg?itok=1S6fBBHf"
-        width: 765
-        height: 446
-        isCached: true
   - title: "Smile! The IRS Wants You To Send Selfies to a Facial Recognition Company"
     excerpt: "\"No Identity Left Behind.\" Americans who want to access tax return transcripts, check on child tax credits, or do"
     publishedDateTime: 2022-01-24T14:32:00Z
@@ -85,20 +60,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 38
-  - title: "The republic, recognition, reconciliation and the constitution"
-    excerpt: "Indigenous lawyer Megan Davis is republican, but she is foremost an advocate for changing the constitution to meet the requirements of the Uluru Statement. She believes that the unfinished business of a voice to parliament needs to be enshrined in the constitution before a republic can be considered."
-    publishedDateTime: 2022-01-25T06:36:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/latenightlive/the-republic,-recognition,-reconciliation-and-the-constitution/13727928"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 24
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/13727956-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "BMxdFbRNed2PIJ0Xy7gHksIu9ix4Zm7fybvZ4mWo3TYEvkfA7sD2qHTkr2ULW3EzuAzD98/AnWsRXC23ZVQK/vIoc9lZPzq9AdylLNjYdlBhu+YpqmJwwhSxgEGXTmwicP4qHGej3dZFQaqJtSfsI+c4AXrb9gObfpUqjj9fgF/SK1l4MiF3e/0iEyiEkDqSkHJS31co4/L7xMaJtKjApVqoc/zp6EU6e1JVWSevzOtIG2H1k8lDjXxUMfctbp4pZxG7QBZvRHEKdoHeWfUhMhw9QJkuYEC/JevAgSxGzovsDyL9LORWWwnQnP5pGi5YkgfG7t9CsLaMoQaVjHgciB/u631ECFeKtRd8Qj3EsT8=;Ie78Z9MZ2+R2BjwUNx+TmQ=="
 ---

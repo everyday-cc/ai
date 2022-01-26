@@ -71,34 +71,6 @@ related:
         width: 648
         height: 448
         isCached: true
-  - title: "IBM Bids Farewell to Watson Health Assets"
-    excerpt: "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion,"
-    publishedDateTime: 2022-01-21T22:39:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/ibm-bids-farewell-watson-health-assets"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IBM%20corporate%20headquarters%20sign.png"
-        width: 770
-        height: 400
-        isCached: true
-  - title: "IBM to sell Watson Health division to private equity firm"
-    excerpt: "Despite the computing giant's big aspirations for the potential of AI applications in medical research and clinical decisionmaking, Watson Health fell short and is now being sold for an undisclosed amount."
-    publishedDateTime: 2022-01-21T22:14:00Z
-    webUrl: "https://www.healthcaredive.com/news/ibm-sell-watson-health-division-private-equity-firm/617526/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 39
-    images:
-      - url: "https://www.healthcaredive.com/user_media/cache/59/e6/59e6ea1826ebb69a05daa1ac9c01f022.jpg"
-        width: 770
-        height: 364
-        isCached: true
   - title: "IBM Sells Watson Health to Private Investment Company"
     excerpt: "IBM announced that it is selling its healthcare data and analytics assets—part of Watson Health—to global investment company Francisco Partners. Financial details of the deal, which is expected to close in the second quarter of 2022,"
     publishedDateTime: 2022-01-24T14:31:00Z
@@ -165,20 +137,6 @@ related:
       - url: "https://www.govconwire.com/wp-content/uploads/2022/01/00P4y00001NOzxlEAD.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "The sale of Watson Health assets ends a dark chapter for IBM. For its buyer, the opportunity looks brighter"
-    excerpt: "The sale of Watson Health marks the end of a dark chapter for IBM. For buyer of its parts, the opportunity looks brighter."
-    publishedDateTime: 2022-01-21T22:26:00Z
-    webUrl: "https://www.statnews.com/2022/01/21/ibm-watson-health-francisco-partners/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 21
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2017/12/AP_664600330976-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "o5zlhoJvFJd4G69BSbPEED9NH0/ZBLGW0wT9hTYf4EMJ8fYgbzOYbpw3J58PSM4UdoQvcnC+j/RsUcCtg/PNWAMXDFacDVHOsF8Q/ZWha28rZDrXek3Fmg6pQeMnetm55i0QAstm+9H45gtpzfRunmXmRKgLeqmN+vimdAfj88ODU7DZ6Wj6MKkuYulTafyy7Q6jhrtkqLhbbp4kxy3Ye26NbxOdmMDCmjupynxhP5rzY0xg0tlBSjx20UM9QBj0A8/C3PciGd+h5xt5/xbyBXxbZEwEKWtDbJ8EyGH2OOxXrweVmFxnK+9ors2xlc9EolaKfAEeSJS2F3LSac09gQA1c0CgFKGG8yKoYsZ3uG445OmLYipfalZ1hSZKcR0VMqOrxkhMMb2B8BcgbX8y8NJtwH0BKZQlQHuIqcZnh6KwN6a1v3fdut45t68CZrXYQ2gsf3cj8n6z2LQKlOOyBEsjk+gTjgWbA/e0UdOOZtfds4GYrRpTA8Gp7cI9DX3uizfeRBOFLZS+lUFSRDUqiQ==;QC4zjwOH37LF7X2XAjJirg=="

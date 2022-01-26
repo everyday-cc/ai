@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-08-the-first-model-from-baidus-new-ev-brand-jidu-to-use-the-nvidia-drive-orin-system-on-a-chip-to-support-l4-autonomous-driving.md",
+      "title": "The First Model From Baidu's New EV Brand JiDU to Use the NVIDIA DRIVE Orin System-on-a-Chip to Support L4 Autonomous Driving",
+      "excerpt": "JiDU Automotive, the new electric vehicle venture formed by China’s internet technology giant Baidu Inc and Chinese automaker Geely, will use the powerful NVIDIA DRIVE Orin system-on-a-chip (SoC) in its first model to support L4 autonomous driving capabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurecar.com/5113/The-First-Model-From-Baidu’s-New-EV-Brand-JiDU-to-Use-the-NVIDIA-DRIVE-Orin-System-on-a-Chip-to-Support-L4-Autonomous-Driving",
+      "originalUrl": "https://www.futurecar.com/5113/The-First-Model-From-Baidu’s-New-EV-Brand-JiDU-to-Use-the-NVIDIA-DRIVE-Orin-System-on-a-Chip-to-Support-L4-Autonomous-Driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.futurecar.com/202201/07/l_61d88307601cb.jpeg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-ai-chipmaker-groq-chases-financial-risk-firms.md",
       "title": "AI Chipmaker Groq Chases Financial Risk Firms",
       "excerpt": "When Tim Sears ran complex portfolio risk analysis on Wall Street in 2004, an eight-hour, overnight run was the best that could be expected, even on",

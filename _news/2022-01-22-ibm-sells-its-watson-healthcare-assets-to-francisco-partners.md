@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/ibm-sells-its-watson-he
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners"
 type: article
 quality: 76
-heat: 186
+heat: 156
 published: true
 
 provider:
@@ -57,34 +57,6 @@ related:
       - url: "https://regmedia.co.uk/2019/01/18/shutterstock_779236312.jpg"
         width: 648
         height: 448
-        isCached: true
-  - title: "IBM Bids Farewell to Watson Health Assets"
-    excerpt: "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion,"
-    publishedDateTime: 2022-01-21T22:39:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/ibm-bids-farewell-watson-health-assets"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IBM%20corporate%20headquarters%20sign.png"
-        width: 770
-        height: 400
-        isCached: true
-  - title: "IBM to sell Watson Health division to private equity firm"
-    excerpt: "Despite the computing giant's big aspirations for the potential of AI applications in medical research and clinical decisionmaking, Watson Health fell short and is now being sold for an undisclosed amount."
-    publishedDateTime: 2022-01-21T22:14:00Z
-    webUrl: "https://www.healthcaredive.com/news/ibm-sell-watson-health-division-private-equity-firm/617526/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 39
-    images:
-      - url: "https://www.healthcaredive.com/user_media/cache/59/e6/59e6ea1826ebb69a05daa1ac9c01f022.jpg"
-        width: 770
-        height: 364
         isCached: true
   - title: "IBM sells off large parts of Watson Health business"
     excerpt: "Tech giant IBM draws back from its digital health aspirations, agreeing a deal to sell a large chunk of IBM Watson Health to private equity group Francisco Partners"
@@ -166,20 +138,6 @@ related:
       - url: "https://www.govconwire.com/wp-content/uploads/2022/01/00P4y00001NOzxlEAD.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "The sale of Watson Health assets ends a dark chapter for IBM. For its buyer, the opportunity looks brighter"
-    excerpt: "The sale of Watson Health marks the end of a dark chapter for IBM. For buyer of its parts, the opportunity looks brighter."
-    publishedDateTime: 2022-01-21T22:26:00Z
-    webUrl: "https://www.statnews.com/2022/01/21/ibm-watson-health-francisco-partners/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 21
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2017/12/AP_664600330976-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "Z+4WXcy9rMj8VqBXak2YCigHvdqKKnYKHTKbxvyy5p7skuNBKAZLWjAVWkBgJecgHTRE7OwrXe71sge1RYWvGi724WEZBHdd41bhOclUMlTMCZ5fYkxQTaxEv8j7OLbYsFvLGq7rrOXz8UeQEe3osVDjxcrAtbtoA5Nh72wxroA7dCYTyAjt6V8GYzpb78DvWgR+KT2vjGasMjIMSNtnWLnPgoCMJWj3z4gVDp6YRM9k7ymT56quttGo6dHMN7KzZAdE9V8YryQLlRiCkFnwnPM/A87S793WQVNDa4NJ0R7pe50q6VAhACrct+vf9qMgJy8hE8C3YuxDG6hKks8xZI65h3rzZpUvYSijLgu/+dOcRm6IQ7ztOdY7ngSlcEdE2QZuxhN261ra1KjB3dDtu8UZnTNKw/awm8j0QqPbAC0NztLIEl/QkAqlTlbS2BATx15dQY4JPzEgvatw8DXe3b5Ar4YpP20RD8FMnUZKyrJ8eQYAozhymNSHRosLNHpqzzKZKtxTDtwppmwYWH3ptg==;JyNTVTMYDVHjBq9t9yri1A=="

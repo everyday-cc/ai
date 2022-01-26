@@ -104,20 +104,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Using Artificial Intelligence to Accelerate Wildlife Conservation"
-    excerpt: "While Artificial Intelligence (AI) is revolutionising multiple aspects of our lives, there is limited uptake of AI in supporting ecological well-being and protecting the nearly 1 million species currently threatened with extinction. Wildlife.ai is a New ..."
-    publishedDateTime: 2022-01-24T21:44:00Z
-    webUrl: "https://www.gu.se/en/event/using-artificial-intelligence-to-accelerate-wildlife-conservation"
-    type: article
-    provider:
-      name: University of Gothenburg
-      domain: www.gu.se
-    quality: 39
-    images:
-      - url: "https://www.gu.se/sites/default/files/styles/100_10_5_xlarge_1x/public/2022-01/Victor%20Anton.jpg?h=790be497&itok=BhZA7uwh"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "VJZ600iGb5rwqNZ+H5+lIqrOuCxp3ge3sRgdtNAk5R1oTx8Yggc+Tw3jqaLcau8HL7CI5hN3lYZq+RZIJZkeccJcBKRjxsOEKgqqtqnoOUGRJmWipiuhpGUKzZRZPlTtzgkki/Q5C1aTHjbTJcIp2wMhFC+d6xRjVXPZpgs/BmBEluxYPj3ZwqYydhBbBWe8PL6D2IdT3XM79FCYYPrqYktgx8nXCSBBxEq8HUkqqK3CRoEXENmATD4tPgtdOetbCkeNfGQ1dUJQa+S/2ljo1N+VXE9rS6vACkViBVqLzrykyp3a6pTZn3Rlq1HaEjx8nfdLY3dooqIUxkIHhnKp/XsZ+jUxFgk3PthGxbfMfgChSq24y2/Oh8mfH/BaSeEnIqIMInb0pP4D71Rzy315PskBBEOH2l/gX7xafLqJ2ImkJKU89JLTGKVCCWunCnrlob/KAowEt82vxwKUUhzesquCVtzWiK0K8xvC/j9EL0tWmR33An04CWr1+oLEFOQMDOoCydLmVf7Fky1Mhca6wA==;4nTxgra/TuAITqEFSP/bTg=="
 ---

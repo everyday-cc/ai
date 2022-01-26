@@ -25,99 +25,177 @@ images:
     isCached: true
 
 related:
-  - title: "Getting AI from the lab to production"
-    excerpt: "The enterprise is eager to push AI out of the lab and into production environments, where it will hopefully usher in a new era of productivity and profitability. But this is not as easy as it seems because it turns out that AI tends to behave much differently in the test bed than it does in the real world."
-    publishedDateTime: 2022-01-24T21:10:00Z
-    webUrl: "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/"
-    ampWebUrl: "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/"
+  - title: "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries"
+    excerpt: "SparkCognition, a global leader in artificial intelligence (AI) software solutions for business, today announced the close of its $123 million Series D funding"
+    publishedDateTime: 2022-01-25T12:00:00Z
+    webUrl: "https://aithority.com/saas/sparkcognition-announces-123-million-series-d-funding-and-a-unicorn-valuation-to-accelerate-ai-adoption-across-industries/"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 111
+    images:
+      - url: "https://aithority.com/wp-content/uploads/2022/01/SparkCognition-Announces-123-Million-Series-D-Funding-and-a-Unicorn-Valuation-to-Accelerate-AI-Adoption-Across-Industries.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "SparkCognition, which develops AI solutions for a range of industries, nabs $123M"
+    excerpt: "SparkCognition, an Austin, Texas-based company developing AI solutions for a range of markets, has raised $123 million in capital."
+    publishedDateTime: 2022-01-25T10:00:00Z
+    webUrl: "https://venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/"
+    ampWebUrl: "https://venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 82
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1248800431.jpg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 612
         isCached: true
-  - title: "Silicon Labs Brings AI and Machine Learning to the Edge"
-    excerpt: "GHz wireless SoCs improve AI/ML performance by 4x using 1/6th the energyNew AI/ML Software Toolkit Optimizes TensorFlow for all Silicon Labs SoCs"
-    publishedDateTime: 2022-01-24T14:14:00Z
-    webUrl: "https://www.electronicsforu.com/press-releases/silicon-labs-brings-ai-and-machine-learning-to-the-edge"
-    ampWebUrl: "https://www.electronicsforu.com/press-releases/silicon-labs-brings-ai-and-machine-learning-to-the-edge/amp"
-    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/silicon-labs-brings-ai-and-machine-learning-to-the-edge/amp"
+  - title: "Smiles.ai Raises $23 Million in Series A"
+    excerpt: "The funds will be utilized to expand footprint nationally, strengthen the leadership team and build innovative tech-driven dental care solutions"
+    publishedDateTime: 2022-01-24T14:22:00Z
+    webUrl: "https://www.entrepreneur.com/article/414713"
     type: article
     provider:
-      name: Electronics For You
-      domain: electronicsforu.com
-    quality: 74
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/01/Image_1-e1643033650591.jpg"
-        width: 652
-        height: 400
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1643033928-Myproject30.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Studying the big bang with artificial intelligence"
-    excerpt: "It could hardly be more complicated: tiny particles whir around wildly with extremely high energy, countless interactions occur in the tangled mess of quantum particles, and this results in a state of matter known as \"quark-gluon plasma\"."
-    publishedDateTime: 2022-01-25T15:17:00Z
-    webUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-big-artificial-intelligence.amp"
+  - title: "Acting New Jersey Attorney General Seeking Public Comment on the Use of Facial Recognition By Law Enforcement"
+    excerpt: "Many states this year are contemplating legislation and/or regulation in regards to biometric information and New Jersey is no exception.  This month Acting Attorney General Andrew J. Bruck annou"
+    publishedDateTime: 2022-01-25T23:32:00Z
+    webUrl: "https://www.natlawreview.com/article/acting-new-jersey-attorney-general-seeking-public-comment-use-facial-recognition-law"
+    ampWebUrl: "https://www.natlawreview.com/article/acting-new-jersey-attorney-general-seeking-public-comment-use-facial-recognition-law?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/acting-new-jersey-attorney-general-seeking-public-comment-use-facial-recognition-law?amp"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 40
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/studying-the-big-bang.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
-  - title: "Studying the Big Bang With Artificial Intelligence"
-    excerpt: "Immediately after the Big Bang, the entire universe was in this state; today it is produced by high-energy atomic nucleus collisions, for example at CERN. Such processes can only be studied using high-performance computers and highly complex computer simulations whose results are difficult to evaluate."
-    publishedDateTime: 2022-01-25T21:34:00Z
-    webUrl: "https://neurosciencenews.com/big-bang-ai-19963/"
-    ampWebUrl: "https://neurosciencenews.com/big-bang-ai-19963/amp/"
-    cdnAmpWebUrl: "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/big-bang-ai-19963/amp/"
+  - title: "How Deep Learning Helps Utilities Facilitate Automation and Innovation"
+    excerpt: "Deep learning is one of the most essential building blocks of artificial intelligence, and no one is successfully deploying ‘real’ AI without deep learning."
+    publishedDateTime: 2022-01-25T15:31:00Z
+    webUrl: "https://www.tdworld.com/smart-utility/data-analytics/article/21214976/utility-analytics-institute-how-deep-learning-helps-utilities-facilitate-automation-and-innovation"
     type: article
     provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 59
+      name: T&D
+      domain: tdworld.com
+    quality: 39
     images:
-      - url: "https://neurosciencenews.com/files/2022/01/ai-big-bang-neurosinces.jpg"
-        width: 770
-        height: 514
-        isCached: true
-  - title: "AI is bringing science fiction to life"
-    excerpt: "AI's use in bespoke medicines can truly revolutionize the healthcare industry and that's why in today's lead story, we delve into this topic and expla.."
-    publishedDateTime: 2022-01-24T03:41:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89084442,imgsize-52818,width-1200,height-628,overlay-etcio/ai-is-bringing-science-fiction-to-life.jpg"
+      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2022/01/16x9/MDS_Executive_Summary.61f015c0d07ee.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "Improving AI via chess"
-    excerpt: "Growing up, Casey Richardson was an avid chess player, studying the game religiously and playing in regional and state tournaments. \"One thing I liked about chess is, it's all strategy, not luck,\" says Richardson,"
-    publishedDateTime: 2022-01-25T21:50:00Z
-    webUrl: "https://hub.jhu.edu/magazine/2021/winter/reconnaisance-blind-chess-ai/"
+  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
+    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
+    publishedDateTime: 2022-01-25T16:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
     type: article
     provider:
-      name: HUB
-      domain: jhu.edu
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Slim.AI Raises $31 Million to Secure Cloud-Native Applications"
+    excerpt: "Cloud-native application security startup Slim.AI today announced that it has raised $31 million in Series A funding, which brings the total raised by the company to $37.6 million. Slim.AI’s latest funding round was led by Insight Partners and StepStone Group and also received participation from Knollwood,"
+    publishedDateTime: 2022-01-26T14:49:00Z
+    webUrl: "https://www.securityweek.com/slimai-raises-31-million-secure-cloud-native-applications"
+    type: article
+    provider:
+      name: Security Week
+      domain: securityweek.com
     quality: 37
     images:
-      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/blind-chess.jpg?itok=p_wNQW7o"
-        width: 2400
-        height: 1840
+      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+        width: 256
+        height: 256
+        isCached: true
+  - title: "Slim.AI Closes $31 Million Series A to Automate Best Practices in Software Supply Chain Security for Cloud-Native Applications"
+    excerpt: "Slim.AI, the Boston-based startup focused on optimizing and securing cloud-native applications, announced today that it has raised a $31 million series A round co-led by New York-based global venture capital and private equity firm Insight Partners as well as StepStone Group,"
+    publishedDateTime: 2022-01-26T13:34:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-venture-capital-adbd05e14f9e6404509440107bbba972"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Digitate Propels Digital Transformation Forward with Enhanced AIOps Capabilities and New Solutions"
+    excerpt: "Digitate, a leading provider of SaaS-based autonomous enterprise software for IT and business operations, today announced the general availability of its latest release, which adds enhanced product functionalities across the entire ignio™ product line as well as new out-of-the box solutions that help enterprises kickstart and accelerate their digital transformation at scale."
+    publishedDateTime: 2022-01-25T15:13:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/digitate-propels-digital-transformation-forward-with-enhanced-aiops-capabilities-and-new-solutions/article_982b11a8-0f4a-52d4-8c13-55b02a612b7b.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 25
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Digitate Propels Digital Transformation Forward with Enhanced AIOps Capabilities and New Solutions"
+    excerpt: "Digitate, a leading provider of SaaS-based autonomous enterprise software for IT and business operations, today announced the general availability of its latest release, which adds enhanced product functionalities across the entire ignio™ product line as well as new out-of-the box solutions that help enterprises kickstart and accelerate their digital transformation at scale."
+    publishedDateTime: 2022-01-25T16:13:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-9da5924ba0694a7fa2c6f3e231b5e2ce"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "The republic, recognition, reconciliation and the constitution"
+    excerpt: "Indigenous lawyer Megan Davis is republican, but she is foremost an advocate for changing the constitution to meet the requirements of the Uluru Statement. She believes that the unfinished business of a voice to parliament needs to be enshrined in the constitution before a republic can be considered."
+    publishedDateTime: 2022-01-25T06:36:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/latenightlive/the-republic,-recognition,-reconciliation-and-the-constitution/13727928"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 24
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13727956-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Raven unionisation plans continue without Activision Blizzard recognition"
+    excerpt: "Publisher did not respond to workers' request, says it will respond to National Labor Relations Board petition"
+    publishedDateTime: 2022-01-26T10:20:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2022-01-26-raven-unionisation-plans-move-to-vote-without-activision-blizzard-recognition"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 23
+    images:
+      - url: "https://images.gnwcdn.com/2022/articles/2022-01-26-10-12/game_workers_alliance.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "VkOHKKRtCj8SYptw6MNUYeSdu7ErVIrG6dU4B7u8mCnQN993lkJjn3/lZDAZpNCJbh0uaLLPG5gE+84hcJ+7PDoC0zQWIY9xoMPv6KmSwn9MpPVR/zdkArQWOvCZ9UCjkWD6NWVITfQooxikRFIn2IzZfhXww5CBuiBAsDkTGLbdu+dpsc1e84WlXKpVGMlc3+B9wYsKP7JW2ehOUmtgMN/F4Z9t7aBgM/RXcAdZToNmGaXfm9SQXvqEQpcz+wgsBWMRligaNcnwNlOfjyHr6z8P57Lr5tTx4w01RF2IbJPJ785frUoJzf6p7R0NoLEvhPXExy90za4nTmz7IrcEa4x4xCaMTqYNgYJQiVJO5PQWoaq42t/h/Y/X5FA/cCdSbB4RlSLnR4iO/frNW/WuJz2P6sr+AiHrVe9VLyltWAFOPUD3WJiaqZlscBDXwNlvHtypd4+65yNYXztmHOS9vVsDTyZZpKa5BAGSqwkpZuRZVO1FNN1u6CrkvQLrqsXNpatBTtsu2URJPFUrSKC0og==;9t8FYNJy1mK+siVP8NJzHA=="

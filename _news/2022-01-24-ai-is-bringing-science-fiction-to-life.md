@@ -90,20 +90,6 @@ related:
         width: 770
         height: 514
         isCached: true
-  - title: "Using Artificial Intelligence to Accelerate Wildlife Conservation"
-    excerpt: "While Artificial Intelligence (AI) is revolutionising multiple aspects of our lives, there is limited uptake of AI in supporting ecological well-being and protecting the nearly 1 million species currently threatened with extinction. Wildlife.ai is a New ..."
-    publishedDateTime: 2022-01-24T21:44:00Z
-    webUrl: "https://www.gu.se/en/event/using-artificial-intelligence-to-accelerate-wildlife-conservation"
-    type: article
-    provider:
-      name: University of Gothenburg
-      domain: www.gu.se
-    quality: 39
-    images:
-      - url: "https://www.gu.se/sites/default/files/styles/100_10_5_xlarge_1x/public/2022-01/Victor%20Anton.jpg?h=790be497&itok=BhZA7uwh"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Improving AI via chess"
     excerpt: "Growing up, Casey Richardson was an avid chess player, studying the game religiously and playing in regional and state tournaments. \"One thing I liked about chess is, it's all strategy, not luck,\" says Richardson,"
     publishedDateTime: 2022-01-25T21:50:00Z

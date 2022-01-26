@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-ente
 ampWebUrl: "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/amp/"
 type: article
-quality: 89
-heat: 150
+quality: 189
+heat: 250
 published: true
 
 provider:
@@ -115,6 +115,6 @@ related:
       domain: engineeringnews.co.za
     quality: 20
 
-secured: "nmDwJbT8Zy0lYzVZdp6SXWktkVUliKp45k1gCNXTHx3vw4W38rygktfxIFS95QU+Nnl1peEtMWorc1PWRB9trVNnpCooqWQzk2JjzbWGdp3vw16ttRk5cr9YfDvtpQe3Z01SsLWLgQ+RMJwHSt+E4NWY0ZQxr5/wGaAg7L94aX8z+PDDEIo1TglFvR8a0qoynYGgBo+OTCWaN0bZyEbTjlXmNu0JIpI/FS0NHubhSG4eGiT9aa9RBrmqcXlmSDcwiiCxubhghFmgSUhWTQ6dFg8ASLf5J8RcsRSWYiS6yCvtqLBHXZJKojWpf1pxyCiWOlA/mUnVxhMXS6IALDyAR3LlI0toxtmAHSy/+nNlrkipWUAJ2aOVRRPSytrNwp3YskANLZ+x2yjfMJPCTYJUB/E70hzQq0WxgN4e14V+iP0s8GsDKocshi0e8v+OykayzdJzC+5Wol0HwclpBdijc2elXDS4UQTxEe5cmcnRuTiwmovV0vBPZ4KjK/CMLs86TNNA+AUzXtbDo/TDTvScMw==;bcZDufljRLGvQa+917UTYQ=="
+secured: "Ia4Qp2JQ3H0aOMhUIYLDxqDE+ncaB3VUxL2wT1tHO4j0z1ZefvOFRH+EJ4P2Vi0z9kMKd3nCcnb0pwSl/jAho+iW7JHZo4QcBDdOaVWYd3vf2nATT/YE309Ln77SJqJImHRH2rrIkC7PRjdlU/Ek78QPf2bn5j336EOPY8U4oQ4AYFTv3ZLUxpAxm4EvPpw8CRFvIr3+6Iuvf/4NqKT82ZEdEd260MSlU0z5sPAuKZL047/LQ+fLM/ee1c3QZ3gtbOD+hzXzB+FgZ+/J1vRdWanO2kPYeNDWQF0iQp5cGQfxGasNRVpqtO9qQVTDaZ9HkKewhmhrKo75yIzOQdJ59XKMUtFyrBTwySK/mLyh24uscCCdR4EO2S30flRVQ9Rnolvv9bJQnnsQYCjWa4SBhQiTcZL1Cz4ep/wsotye4ZEA4uEyyZAhruKmZEZxgKGJzH5TQ5OWCY2moEBkvz/UlV8vUHyquofp8wEoey8lccUPCtgB+wq3UhGaGhMTI7CmWijjFEs2oHc7O74e1FqdPxXHHTraoCpfHIz4r2pKkRc=;db86pqfE69SqtFQxcb2HpQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-dri
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.wlns.com/wp-content/uploads/sites/50/2019/11/self-driving-cars.jpg?w=1280"
         width: 1280
         height: 960
+        isCached: true
+  - title: "UK needs laws for self-driving cars, government bodies say"
+    excerpt: "Government bodies are currently lobbying for the UK to adopt a legislation that regulates self-driving vehicles. According to a joint report from the Law"
+    publishedDateTime: 2022-01-26T12:09:00Z
+    webUrl: "https://www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/"
+    ampWebUrl: "https://www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 44
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "VW Teams With Biggest Car-Parts Maker to Boost Self-Driving Push"
     excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to bolster its automated-driving push and catch up with the likes of Tesla Inc. on software development. VW’s Cariad software unit will work with the world’s largest auto-parts supplier to introduce features allowing drivers to temporarily take their hands off the steering wheel starting in 2023,"

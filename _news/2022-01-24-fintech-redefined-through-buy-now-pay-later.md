@@ -59,22 +59,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Global Fintech Arabesque Teams Up with Snowflake, a Data Cloud Company"
-    excerpt: "Arabesque has partnered with Snowflake, the Data Cloud firm, enabling financial institutions to \"integrate Arabesque's suite of data assets.\" \""
-    publishedDateTime: 2022-01-21T21:12:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/185871-global-fintech-arabesque-teams-up-with-snowflake-a-data-cloud-company/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/cloud-sky-sun.jpeg"
-        width: 594
-        height: 803
-        isCached: true
   - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
     excerpt: "Increasing demand for AI in fintech in the cloud deployment mode coupled with high investment in R&D of AI in fintech are fueling the market growth."
     publishedDateTime: 2022-01-24T12:59:00Z

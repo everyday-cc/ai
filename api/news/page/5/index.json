@@ -2,6 +2,305 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-19-brainchip-achieves-full-commercialisation-of-akd1000-aiot-chip.md",
+      "title": "BrainChip Achieves Full Commercialisation of AKD1000 AIoT Chip",
+      "excerpt": "BrainChip Holdings Ltd, today announced that it has begun taking orders for the first commercially available Mini PCIe board leveraging its AkidaT advanced neural networking processor, rounding out its suite of AKD1000 offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/press-releases/brainchip-achieves-full-commercialisation-of-akd1000-aiot-chip",
+      "originalUrl": "https://www.electronicsforu.com/press-releases/brainchip-achieves-full-commercialisation-of-akd1000-aiot-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/12/Brainchip-53.jpg",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/press-releases/brainchip-achieves-full-commercialisation-of-akd1000-aiot-chip/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/brainchip-achieves-full-commercialisation-of-akd1000-aiot-chip/amp",
+      "publishedDateTime": "2022-01-19T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-artificial-intelligence-can-help-leaders-drive-global-economy-forward-in-2022.md",
+      "title": "Artificial Intelligence Can Help Leaders Drive Global Economy Forward In 2022",
+      "excerpt": "AI will soon become the cornerstone of industry 4.0 but are leaders ready and proactive, given the power that AI can provide to propel the global economy forward?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/benjaminlaker/2022/01/19/artificial-intelligence-can-help-leaders-drive-global-economy-forward-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/benjaminlaker/2022/01/19/artificial-intelligence-can-help-leaders-drive-global-economy-forward-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61e189d8ce7c140b068ec5f9/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1109,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/benjaminlaker/2022/01/19/artificial-intelligence-can-help-leaders-drive-global-economy-forward-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminlaker/2022/01/19/artificial-intelligence-can-help-leaders-drive-global-economy-forward-in-2022/amp/",
+      "publishedDateTime": "2022-01-19T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai.md",
+      "title": "The diversity hiring disconnect: Addressing the broken approach to inclusion with AI",
+      "excerpt": "While recent metrics suggest that workplace equality is improving, a deeper dive into workplace statistics tell a different story.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-978531552-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/amp/",
+      "publishedDateTime": "2022-01-19T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-how-artificial-intelligence-services-can-help-small-businesses.md",
+      "title": "How Artificial Intelligence Services Can Help Small Businesses",
+      "excerpt": "Now, with sophisticated AI tools more accessible and affordable than ever, retailers have new ways to improve customer experiences, augment staffing and streamline their business processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/19/how-artificial-intelligence-services-can-help-small-businesses/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/19/how-artificial-intelligence-services-can-help-small-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6091b504c8b95aaf6849edfe/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/19/how-artificial-intelligence-services-can-help-small-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/19/how-artificial-intelligence-services-can-help-small-businesses/amp/",
+      "publishedDateTime": "2022-01-19T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns.md",
+      "title": "Ambient’s computer vision detects dangerous behaviors, but raises privacy concerns",
+      "excerpt": "Ambient, which is using computer vision to develop security systems, is emerging from stealth. But its software raises privacy concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/",
+      "originalUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1134171213.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/amp/",
+      "publishedDateTime": "2022-01-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-structionsite-raises-10-million-to-apply-ai-to-construction-project-management.md",
+      "title": "StructionSite raises $10 million to apply AI to construction project management",
+      "excerpt": "StructionSite, a startup developing a platform that monitors construction sites using computer vision, has raised $10 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/",
+      "originalUrl": "https://venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/GettyImages-552721783.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/amp/",
+      "publishedDateTime": "2022-01-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-public-relations-and-artificial-intelligence.md",
       "title": "Public Relations and Artificial Intelligence",
       "excerpt": "In the past 25 years there have been few disruptive forces broad enough to impact every corner of the public relations field. As practitioners, we have seen the advent of the Internet and email change the way we communicate with journalists and our other constituents.",
@@ -685,6 +984,48 @@
       ]
     },
     {
+      "path": "_news/2022-01-19-softbanks-china-bets-gear-up-for-hong-kong-ipos.md",
+      "title": "SoftBank's China bets gear up for Hong Kong IPOs",
+      "excerpt": "A string of Chinese technology companies backed by SoftBank Group are gearing up for initial public offerings in Hong Kong, testing the Japanese technology group's path to recovery after racking up losses last year.",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/SoftBank2/SoftBank-s-China-bets-gear-up-for-Hong-Kong-IPOs",
+      "originalUrl": "https://asia.nikkei.com/Business/SoftBank2/SoftBank-s-China-bets-gear-up-for-Hong-Kong-IPOs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F7%252F8%252F3%252F38423879-4-eng-GB%252F2019110son.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T17:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
       "title": "Celebal Technologies has earned the Al and Machine Learning on Microsoft Azure Advanced Specialization",
       "excerpt": "Celebal Technologies, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep knowledge, extensive experience an",
@@ -873,353 +1214,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-report-how-ai-and-ml-optimize-the-diagnosis-process-in-health-care.md",
-      "title": "Report: How AI and ML optimize the diagnosis process in health care",
-      "excerpt": "Medical diagnostics using AI and ML are expanding, and automation is helping to detect life-threatening conditions in their earliest stages.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/18/report-how-ai-and-ml-optimize-diagnosis-process-in-health-care/",
-      "originalUrl": "https://venturebeat.com/2022/01/18/report-how-ai-and-ml-optimize-diagnosis-process-in-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/18/report-how-ai-and-ml-optimize-diagnosis-process-in-health-care/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/report-how-ai-and-ml-optimize-diagnosis-process-in-health-care/amp/",
-      "publishedDateTime": "2022-01-18T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-ai-medicine-software-market-is-likely-to-experience-a-tremendous-growth-in-near-future-enlitic-atomwise-deepmind-babylon-health.md",
-      "title": "AI Medicine Software Market Is Likely to Experience a Tremendous Growth in Near Future | Enlitic, Atomwise, DeepMind, Babylon Health",
-      "excerpt": "The ‘ AI Medicine Software market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-medicine-software-market-is-likely-to-experience-a-tremendous-growth-in-near-future-enlitic-atomwise-deepmind-babylon-health",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-medicine-software-market-is-likely-to-experience-a-tremendous-growth-in-near-future-enlitic-atomwise-deepmind-babylon-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/DDD-2-1-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-boosted-trees-using-estimators.md",
-      "title": "Boosted trees using Estimators",
-      "excerpt": "Note: Modern Keras based implementations of many state of the art decision forest algorithms are available in TensorFlow Decision Forests. This tutorial is an end-to-end walkthrough of training a Gradient Boosting model using decision trees with the tf ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/estimator/boosted_trees?hl=nb",
-      "originalUrl": "https://www.tensorflow.org/tutorials/estimator/boosted_trees?hl=nb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=nb",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-customization-basics-tensors-and-operations.md",
-      "title": "Customization basics: tensors and operations",
-      "excerpt": "To get started, import the tensorflow module. As of TensorFlow 2, eager execution is turned on by default. This enables a more interactive frontend to TensorFlow, the details of which we will discuss much later. import numpy as np ndarray = np.ones([3, 3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=da",
-      "originalUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=da",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=da",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-playing-cartpole-with-the-actor-critic-method.md",
-      "title": "Playing CartPole with the Actor-Critic Method",
-      "excerpt": "Actor-Critic methods are temporal difference (TD) learning methods that represent the policy function independent of the value function. A policy function (or policy) returns a probability distribution over actions that the agent can take based on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/reinforcement_learning/actor_critic?hl=sr",
-      "originalUrl": "https://www.tensorflow.org/tutorials/reinforcement_learning/actor_critic?hl=sr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sr",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-tensorflow-2-quickstart-for-beginners.md",
-      "title": "TensorFlow 2 quickstart for beginners",
-      "excerpt": "Load a prebuilt dataset. Build a neural network machine learning model that classifies images. Train this neural network. Evaluate the accuracy of the model. This tutorial is a Google Colaboratory notebook. Python programs are run directly in the browser ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ur",
-      "originalUrl": "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ur",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=ur",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-robots-needed-to-repair-satellites-in-orbit.md",
-      "title": "Robots needed to repair satellites in orbit",
-      "excerpt": "Listen to this article The US Space Force (USSF) became an official branch of the US military on December 20, 2019. In the two years since its launch, the USSF has begun to recruit new service members and plan how to fulfill its mission to protect US assets in space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/robots-needed-to-repair-satellites-in-orbit/",
-      "originalUrl": "https://www.therobotreport.com/robots-needed-to-repair-satellites-in-orbit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/01/ussf-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

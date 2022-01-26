@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-26T11:41:00Z
 originalUrl: "https://menafn.com/1103595888/Artificial-Intelligence-in-the-Cancer-Market-is-anticipated-to-reach-USD-52928-million-by-2030"
 webUrl: "https://menafn.com/1103595888/Artificial-Intelligence-in-the-Cancer-Market-is-anticipated-to-reach-USD-52928-million-by-2030"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://menafn.com/updates/pr/2022-01/26/EP_d6121image_story.png"
@@ -81,6 +82,6 @@ related:
         height: 250
         isCached: true
 
-secured: "t3yycmsybhOIEVo1OTfWlRIc7fsrLYM4mGcf4xPMs49S2hj0TuD9uqGqrbHS2BFqFE5LTaqueTr2JYYrnyRPkIeElqftH1U4Vmpz7/Ifz8syWFg668NiaSMBJTU5F5L8iSJ520VOHafxcVbqd9PWk14DfXq1a5ChyeZktHHB5cBMi65YiFzPZrSiTx1/NELB/Ao7MHxF9CRpdCjYBNgS3nW/HyGXtTItQXbpqZLfGN75FUfjLLrpA3UFBvXlXmpX2Dt4jbBKod7Fux4Bz2vbeM3edOYID7jAtxLmk6dFGCEMLW5V45tbPKhYXalfKXqaa1lY1ICZrB0Qk4GQvDmJyWocSSEHqeeP7NZlYrX78q4=;hFuIPrNsoXhDjPQj3O0Sbg=="
+secured: "JRckwb7mJQ9FdWc2YL08dBodRD9+bGfDtiK6qlYOQlRVFjYsbp38xmmygfRrKwI5zdqn5BQUDZ2tuxVk8tcmOvZD7TY4j7Zrt/h5FCYadyWAkP9DioZxA7LdMYGsM2VNXiOkE79jerMSYHC28Pa1Jufy3KTsCkK54OY4IXQhdoX3INY90++SvYX0scHIgOSG4QZQdO13fEF6YvcuqmMxdLumSgRD2s4Pbl6RMlbazxftSULKke5i8IEQUcNs1Y6SCWIgQxjBLdsyTeMHDZgV0nbYPv+dBfjk3skvMaGcenRJRvKSXO2omVnFoXuxzZd6EcWArb5tZNubzrHeGHiGm4WMpyY3Kg5PG1x9cXfVcv2CBL1a6Yk1hH78rJ0/15Mv0+CBPgWORSfp3o92nhXSt3LNu7T8z6HP4IcKs+hxp1dLOmcgWqJL8e73YA/w/1miMacvM3ojFkh0rOvqT/zUHu//aHW/44jlPv+B3apQhxHxE6mc+CDLskrhR/cLRJ4N8uYr1RZ6ZeLb7QUsR8sKRw==;86FCFkji7Y8+5RVYlTfVfg=="
 ---
 
