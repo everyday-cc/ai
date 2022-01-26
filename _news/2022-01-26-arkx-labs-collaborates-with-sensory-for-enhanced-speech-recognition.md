@@ -2,22 +2,28 @@
 category: news
 title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
 excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-publishedDateTime: 2022-01-25T16:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-arkx-labs-collaborates-with-sensory-enhanced-speech-recognition-/2022/01/25/9532829.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-arkx-labs-collaborates-with-sensory-enhanced-speech-recognition-/2022/01/25/9532829.htm"
+publishedDateTime: 2022-01-25T16:38:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "rjW6dR9mwdmveob7fiHgWOiBpnWB5LPDuuW7PtAY7G7Heu0pXV0fSzG7EaJ31nR0imzR3Wi16ziQPngOTBFyVSuKeIqxrwSIvM5jmBH61bizO00h4lIpwkrPaEDJY0FXjU780egkegAMtRhm4bpMNhJsA2CNsosx7Kl57E/qnEV7eY3+S1sTWF+c7uY6sff/PdKiT6EFtYhNpYWn0Eh9VOrGCQ56c1TgMqJ8tE2FfswL9PkvyrUzpOyospz80yTfx55Qnv9KZ18MyqaqhmcKvbLiZSeP5IPg2DfZGnhWTfxptl7+fcvb9PoOvY/ZjVl0wPLf04wD3Jzgb8B8tcpwAUiN+ajghV2HNTt6d42gqYI=;vPSL17l/rlCKDTRNf9qZ4g=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "4NJ3eyx2aBSAhAcY79mhN2XYLZNoqIHBieHr4zcwXA1AadwvilZYeK8ilYmjRJnz1X5gyo7aI+sf5/nzGvj783ptxtsisFRcAs9pqXUJh/Rf7Z9k29TGrsZa/3Em7xhFe0pvw9ZrbxI8aESPXjaCJQq5M5ybmEcLNIiDNI327YNEVwkZRYvR+J7PJ2dOzElZC6dqCF57QmyFBW2Cn8wDU9TO3K/RkTCmQX8oOT8HOKrNfed9zLSL7rLZicRXeolcTgyCWuph7N9o5XhrO/hTg4B0iXQBM7+sbu0PhL3QEp7lHzP651Xo1mg2n3UgSGwA1DxgFl2bgoWVO/+Cx419vhGHpjUpngLW45iOK25Prag=;zzoApJmZPNi3MWiV7xBeHA=="
 ---
 

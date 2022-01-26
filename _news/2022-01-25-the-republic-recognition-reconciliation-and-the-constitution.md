@@ -91,20 +91,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 38
-  - title: "IRS plans for facial recognition draw scrutiny from privacy, cybersecurity advocates"
-    excerpt: "An IRS plan to use ID.me and facial recognition software would represent a massive expansion of the federal government's (long and controversial) biometric surveillance record and carries real privacy and cybersecurity concerns,"
-    publishedDateTime: 2022-01-21T20:16:00Z
-    webUrl: "https://www.scmagazine.com/analysis/identity-and-access/irs-plans-for-facial-recognition-draw-scrutiny-from-privacy-cybersecurity-advocates"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 32
-    images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2022/01/GettyImages-1137410589.jpg"
-        width: 1500
-        height: 900
-        isCached: true
   - title: "Are Cow Noses the New Fingerprint to Unlocking Livestock Facial Recognition?"
     excerpt: "Fingerprint recognition technology for cellphones was first created in 2011 and is the process of verifying a person’s identity by comparing their fingerprints with previously recorded samples. This recognition is then utilized to unlock certain technology features and can even provide specific data on individuals."
     publishedDateTime: 2022-01-24T21:09:00Z

@@ -3,8 +3,8 @@ category: news
 title: "How minority languages found an unlikely ally in translation companies"
 excerpt: "Professional translation companies are becoming an unlikely partner in protecting minority languages for future generations."
 publishedDateTime: 2022-01-25T13:13:00Z
-originalUrl: "https://www.openglobalrights.org/how-minority-languages-found-an-unlikely-ally-in-translation-companies/"
-webUrl: "https://www.openglobalrights.org/how-minority-languages-found-an-unlikely-ally-in-translation-companies/"
+originalUrl: "https://www.openglobalrights.org/how-minority-languages-found-an-unlikely-ally-in-translation-companies/?lang=English"
+webUrl: "https://www.openglobalrights.org/how-minority-languages-found-an-unlikely-ally-in-translation-companies/?lang=English"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 1067
     isCached: true
 
-secured: "ACFzxpMAi3jfmpg9dvHK1KdNnvcwVPNhYdNUVGsNAX69wtIRklTOLbUH/8zC4B/6IIGWT8D/OOmWbrinjCb1O8vdpMW5vQgCOavjH+eFiFgixHDjJHPBfhVGq8JltBiYjzNOuj+00rU1nxIOZdHSa3/EP3sCvPm6kw65m2ft5l7uatFI3O+euQLJCz4/OtgyV16Sog1/S2UBWCZLHn51N1M8BMH4pPqZinlcq4a+lyAyvkYzRRKBv86wzgwGMEXOUjWhSTvjAH9lnorRodhnotJGlHimTm/sCG6rszkCFKkmnNhi0NFUWKQ3KNhZ79wTgtm8xoDh1AIIAoISOFDSO9CG0C07XaJLVb02O1ps3AIlgFnWEfZca9VU0+KwJKZS9dVqRXt4hI2tvsaC8cSQXbeb46JTyhjRsypsU91EJzAOhSY244gjzP7QvYo6slF65NHMs0Rn7YNMW5u4wu7un0KIC/DjYVU6aLnBDRQvl0Eu8a1TaJWCDEBqchUq+yu/IWvnECAhooeRy2emgm9nlg==;iPpAALARy2KXjpu3RtPdtA=="
+secured: "S3YVV9ovSXZv5kl+z878MaYkZAW/c2ZkV57pVJEnUDNkyiJvy0PQSJhadfs0sMlrDKF1MOZtX91A43S4GeYB9CMsbRUrxdwh9HBBDEey1dSbejcmNeYr0uDmScnkdGEu7Bi6a0wDuXnBtpoCZhq1nG6wzdjFU1Mo3Dyh2bbWz7QgYXEuOUJGkB4m05EZ3b4W/gkrQQKu+9Eir7tapufJ+XCZkgwm2YMEKcqCrS/7S03P+hGZQ+f+NCRA5DKH2JwAp5HbHFWshr1atKW64aC3iNOqxGjbgEvU2xDvxAJHwPsj6AHKFp0rxYGV7ZNZGkNKLJDrHbeP9Rd6aa8PzyjeK9zzKhCMt6GsXDUMLmf9Yz4=;Wubd3cB67aFoRGIi8jPnAg=="
 ---
 

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-26-self-driving-car-users-shouldnt-be-held-responsible-for-crashes-uk-report-says.md",
-      "title": "Self-Driving Car Users Shouldn’t Be Held Responsible For Crashes, U.K. Report Says",
-      "excerpt": "Proposed legal reforms would give U.K. self-driving car users immunity from offenses like dangerous driving, speeding and running red lights.",
+      "path": "_news/2022-01-26-self-driving-car-users-shouldnt-be-accountable-for-accidents-report-suggests.md",
+      "title": "Self-driving car users shouldn't be accountable for accidents, report suggests",
+      "excerpt": "Drivers should be reclassified when operating a fully autonomous vehicle and not be held legally accountable for any road accidents, a new report has proposed. Rather, the company behind the driving system should be responsible,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/25/self-driving-car-users-shouldnt-be-held-responsible-for-crashes-uk-report-says/",
-      "originalUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/25/self-driving-car-users-shouldnt-be-held-responsible-for-crashes-uk-report-says/",
+      "webUrl": "https://www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 190,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f0abef6ac9f3ba6246d1ec/0x0.jpg?format=jpg&crop=4193,2360,x0,y411,safe&fit=crop",
-          "width": 4193,
-          "height": 2360,
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1643193885/Driverless-car-GettyImages-1212935826.jpg",
+          "width": 1260,
+          "height": 710,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/25/self-driving-car-users-shouldnt-be-held-responsible-for-crashes-uk-report-says/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zacharysmith/2022/01/25/self-driving-car-users-shouldnt-be-held-responsible-for-crashes-uk-report-says/amp/",
-      "publishedDateTime": "2022-01-25T17:23:00-08:00",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents?amp",
+      "publishedDateTime": "2022-01-26T02:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -41,6 +41,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-baidus-ev-project-jidu-secures-400-million-in-series-a.md",
+      "title": "Baidu’s EV project Jidu secures $400 million in Series A",
+      "excerpt": "Baidu’s electric vehicle (EV) project Jidu Auto announced on Wednesday that it has raised nearly $400 million in Series A as the Chinese search engine giant accelerates the development of EVs with self-driving capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "originalUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2019/10/BAIDU1.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "publishedDateTime": "2022-01-25T23:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1413,49 +1456,6 @@
       "provider": {
         "name": "TheStreet.com",
         "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-10-ways-artificial-intelligence-will-change-the-world-in-2022.md",
-      "title": "10 Ways Artificial Intelligence will Change the World in 2022",
-      "excerpt": "From time being AI has been applied in different sectors such as Healthcare, Machine Learning, Education, Enterprise and many other. To know how AI is been applied in 2022 in different sectors read the below article.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/10-ways-artificial-intelligence-will-change-the-world-in-2022/",
-      "originalUrl": "https://www.analyticsinsight.net/10-ways-artificial-intelligence-will-change-the-world-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2022/01/10-Ways-Artificial-Intelligence-will-Change-the-World-in-2022.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
         "images": null,
         "publishers": null,
         "authors": null

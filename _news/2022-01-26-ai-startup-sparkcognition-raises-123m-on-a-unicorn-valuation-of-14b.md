@@ -100,6 +100,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "From Covid to logistics to food security: Born-in-Africa InstaDeep tackles complex problems with AI"
+    excerpt: "Africa’s contribution to the world of artificial intelligence is in the spotlight this week with the announcement by born-in-Africa AI disruptor InstaDeep that it has raised $100 million – while welcoming high-profile backers including BioNTech,"
+    publishedDateTime: 2022-01-26T12:50:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/from-covid-to-logistics-to-food-security-born-in-africa-instadeep-tackles-complex-problems-with-ai-2022-01-26"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 20
 
 secured: "giHjv076Nk7kvWTdrwYwOvsQTHh72HJMzjWBy/+zsSV0nxwany5d29DsX2Mapn6SFsbEkZZg0P3N+meSuPWsX9+9I9u4kU3P4ARjiVdOwdMXDWmXVsiHDfWppKVbRJgEVwAAEzYA7RuhB4mU5/Z2B4pJmN6Hkr0bp2BZaw1G3AqSUIno3kpcpNeA2pN4rPuRfjbM4ybSeStPBn7JkJ1hh6Dj1Fzuh6LZC4AFs/E3t/ZPVQklSBTK4F73KvN50WEEW9EsGg2NZNcOYIvj11q67ZEavbNRPzyy0KqlaTq56cb0wGBei6w2xb4FImPSydWVvwG5IngOClpk6QhiOFd9Vz9HvEkjeV+FrrD5YioXxjtE71kuX1z+N1F0QG1wzuQUq4XPpKjcByvy3r8VfmEsaNZUwQyr5il7B0YnfIIrGwX9NmMmqxnLkvgLMWlf487nf/G+NgLB9a1WKRouPGJ6GR42eYKhtVJZJUmyXo7zzzWrB88g1MpxyZNfS+nb/p2UQaABRwL0RQ1yY8VJWOfGvA==;3VT6tG/ycPQCUjA2NLQ/4Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/amp/"
 type: article
 quality: 89
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -105,6 +105,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "From Covid to logistics to food security: Born-in-Africa InstaDeep tackles complex problems with AI"
+    excerpt: "Africa’s contribution to the world of artificial intelligence is in the spotlight this week with the announcement by born-in-Africa AI disruptor InstaDeep that it has raised $100 million – while welcoming high-profile backers including BioNTech,"
+    publishedDateTime: 2022-01-26T12:50:00Z
+    webUrl: "https://www.engineeringnews.co.za/article/from-covid-to-logistics-to-food-security-born-in-africa-instadeep-tackles-complex-problems-with-ai-2022-01-26"
+    type: article
+    provider:
+      name: Engineering News
+      domain: engineeringnews.co.za
+    quality: 20
 
 secured: "nmDwJbT8Zy0lYzVZdp6SXWktkVUliKp45k1gCNXTHx3vw4W38rygktfxIFS95QU+Nnl1peEtMWorc1PWRB9trVNnpCooqWQzk2JjzbWGdp3vw16ttRk5cr9YfDvtpQe3Z01SsLWLgQ+RMJwHSt+E4NWY0ZQxr5/wGaAg7L94aX8z+PDDEIo1TglFvR8a0qoynYGgBo+OTCWaN0bZyEbTjlXmNu0JIpI/FS0NHubhSG4eGiT9aa9RBrmqcXlmSDcwiiCxubhghFmgSUhWTQ6dFg8ASLf5J8RcsRSWYiS6yCvtqLBHXZJKojWpf1pxyCiWOlA/mUnVxhMXS6IALDyAR3LlI0toxtmAHSy/+nNlrkipWUAJ2aOVRRPSytrNwp3YskANLZ+x2yjfMJPCTYJUB/E70hzQq0WxgN4e14V+iP0s8GsDKocshi0e8v+OykayzdJzC+5Wol0HwclpBdijc2elXDS4UQTxEe5cmcnRuTiwmovV0vBPZ4KjK/CMLs86TNNA+AUzXtbDo/TDTvScMw==;bcZDufljRLGvQa+917UTYQ=="
 ---

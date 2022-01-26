@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powere
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Strategy And Synergy Of AI And Agile Methodologies"
+    excerpt: "What follows is a brief overview of how agile methodologies emerged and why AI delivers such valuable synergies with agile business. Agile methodology was popularized and refined by software developers in the early 2000s,"
+    publishedDateTime: 2022-01-26T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/the-strategy-and-synergy-of-ai-and-agile-methodologies/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/the-strategy-and-synergy-of-ai-and-agile-methodologies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/26/the-strategy-and-synergy-of-ai-and-agile-methodologies/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61ef1f526830d08a3a3daadf/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kanverse.ai Gained Momentum in 2021 on the Strength of AI-Powered Intelligent Document Processing Products for Finance and Insurance"
     excerpt: "Kanverse, a pioneering Hyper automation company that emerged from stealth in May 2021 with cutting edge solutions to intelligent automate document processing workflows for enterprises of all sizes, reached significant milestones in annual revenue growth,"
     publishedDateTime: 2022-01-25T07:36:00Z

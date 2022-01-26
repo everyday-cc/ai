@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/how-insight-partners-vets-ai-startups
 webUrl: "https://www.wsj.com/articles/how-insight-partners-vets-ai-startups-11643029203"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wall Street Journal
@@ -26,6 +26,24 @@ images:
     width: 1279
     height: 640
     isCached: true
+
+related:
+  - title: "How to stand out as a fashion AI startup"
+    excerpt: "Adeptmind, the emerging AI and machine learning tech startup backed by Ulta Beauty, is providing its technology to over 400 retailers, shopping malls and brand clients."
+    publishedDateTime: 2022-01-26T11:00:00Z
+    webUrl: "https://www.voguebusiness.com/companies/how-to-stand-out-as-a-fashion-ai-startup"
+    ampWebUrl: "https://www.voguebusiness.com/companies/how-to-stand-out-as-a-fashion-ai-startup/amp"
+    cdnAmpWebUrl: "https://www-voguebusiness-com.cdn.ampproject.org/c/s/www.voguebusiness.com/companies/how-to-stand-out-as-a-fashion-ai-startup/amp"
+    type: article
+    provider:
+      name: voguebusiness
+      domain: voguebusiness.com
+    quality: 57
+    images:
+      - url: "https://media.voguebusiness.com/photos/61f11f22fd855c197a6d5d9d/16:9/w_1920,c_limit/adeptmind-voguebus-adeptmind-jan-21-social-newsletter.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ZiBcyZb5ik7evmBj2hxSfDT8JgTXu9Vhe6uM0JXdGSbyECSidRftcwBhSOjOwN5dCUFe/dUPyI+gSY4ad21CD+AIVVIXtt3CaQNP/mrVNjMe/hY2Br959ddknHBIgeGh30EG+TewvPogyDc4JUkUZheZ91zQKiylLGnEkQaCRWiUeXllvXb/JF23rOTWZaY206r7jUfUVNhXTwgZhczXpAOgQrcU0q1GGRnnkiij71RdZcAmYRR0zaoW/9RNvTDV84bwTUqNx02dCZN6CfJL2HlpfiF+7SyIqxEwmuGnL1ut9fznqxORZIoF8eMgPYbZitq+qW6z+5B9Y4PfGBfgJNayLTMXWhn6yxuk5JUEj6ot2upExgz/Pco9/18FHuIZ2CrsI2lZm4gOoXUvlKgtETCniNWR0zv37Wez5cxayxe+G6GnFxTKrt3gDkY+HoDQC/OUwPNEyH48n0mTq6hCRlSVngdtCCJgfEGaTiNaYmEmDjeuxLIU3E9q/RyOJ6pD/TGET/D+1LXojv5vcwDUrg==;/VPKtbgOMsTSm/VlOmOEUQ=="
 ---

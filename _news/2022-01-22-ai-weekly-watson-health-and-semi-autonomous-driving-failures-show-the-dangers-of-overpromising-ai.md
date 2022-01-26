@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/amp/"
 type: article
 quality: 90
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "IBM to focus on hybrid cloud, AI after selling Watson Health operations"
+    excerpt: "IBM has sold Watson Health's data and analytics operations to Francisco Partners, and will now focus on its platform-based hybrid cloud and AI strategy. No financial details were disclosed about the transaction,"
+    publishedDateTime: 2022-01-24T08:34:00Z
+    webUrl: "https://www.telecompaper.com/news/ibm-to-focus-on-hybrid-cloud-ai-after-selling-watson-health-operations--1411475"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "+wD9Cjb7mWvfMuaIlookdRgmF8jI5PZzLYqCMaVox3DKn7cB+UvKjWX2O7dxNnS/YZnUr0yyNtNl5H3CHsUsB8SRbdYpaHMj0E45LKN1/LeTcjW1MppXcLWTf4s9BdWanQKh/QKYwlC8+xJQC/EzrZm/Z+0L6Ia4QEWQHA/yY9cbzd/oQ4JFBE4/JgZ7s4H5jvH15CpZ7fVd3OzIjbTdg8nv8wQri60OYEUMhtVa96NqIzOZ1weKQxXdcKCc505Fk0//zMzNzPrRO86VkV6F7L0CEhpZzwIUkic4OuL9e1KUFeMuzh5KajEmF936iDoTKlLOz2CzHIcFnvLse8IIMaXWA9f3kWwaNFWr2+/wnwVHb4jkw7rZIg2vW77uvm9WhrNpq198Bxs9LjmGKgUNOJUbfT8hr3x6XKKfk5D+O/mN7dvWHt0uIGV5E7COj4jUx8Cbxm0Cl7oXyOXYCJalgZp39NDcpNSTjZwlMNAmQ5P/TRA02jAQ6x6cZErgxsSHSXWLNACLPO80zeCkVw/Rfg==;wai1Zi9Hgxxg4dKqbZsCGg=="
 ---

@@ -26,6 +26,24 @@ images:
     height: 267
     isCached: true
 
+related:
+  - title: "Self-driving car owners won't have to pay speeding tickets, lawmaker says"
+    excerpt: "Driverless cars will soon become a reality, in theory making the roads safer - but a debate is raging over what happens if a robot vehicle does make a mistake or breaks a traffic law"
+    publishedDateTime: 2022-01-26T11:41:00Z
+    webUrl: "https://www.mirror.co.uk/money/self-driving-car-owners-wont-26051900"
+    ampWebUrl: "https://www.mirror.co.uk/money/self-driving-car-owners-wont-26051900.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/money/self-driving-car-owners-wont-26051900.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 43
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article26052716.ece/ALTERNATES/s615/2_Commuter-cycling-in-Hackney-London-going-at-work.jpg"
+        width: 615
+        height: 409
+        isCached: true
+
 secured: "Bkps7mmQKjROfW9PY6ZXZq1YrvVCqrXwlYVgGs8CMrkal1I0fP5mZWFv7JIIOuwxkiJFTNEsEs9NaNZGVWExqU5uyrdv4Sq2xaYJdFN8/SqhwuxVvmBg2wUzTCQXLPuPUZsrTZoTftGJ+or1Y2r04p6UTbuxrkF+47wD2YeTpFAt6khRM7eHWDSwycCAQbCczUWLGWkMcKmj7EeZsB09984GZrKttQU70D4FKtU8afuAu7tYxHff+6WbfV1aKCEKQkDWT3WZRJWHdQ/XR3EZ+9rMRlq785DAjMWdCMBjIvCamT6vOFoLmIyo+28+h96kZs8OKSs7CmfLm+7Ja4DSmKqcuuTAtdDIPjX40vUsA3g=;xqFgI1o/GmiOVAlacOnrkg=="
 ---
 

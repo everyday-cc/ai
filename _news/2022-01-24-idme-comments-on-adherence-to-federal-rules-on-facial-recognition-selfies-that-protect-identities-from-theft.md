@@ -81,20 +81,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 38
-  - title: "IRS plans for facial recognition draw scrutiny from privacy, cybersecurity advocates"
-    excerpt: "An IRS plan to use ID.me and facial recognition software would represent a massive expansion of the federal government's (long and controversial) biometric surveillance record and carries real privacy and cybersecurity concerns,"
-    publishedDateTime: 2022-01-21T20:16:00Z
-    webUrl: "https://www.scmagazine.com/analysis/identity-and-access/irs-plans-for-facial-recognition-draw-scrutiny-from-privacy-cybersecurity-advocates"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 32
-    images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2022/01/GettyImages-1137410589.jpg"
-        width: 1500
-        height: 900
-        isCached: true
   - title: "The republic, recognition, reconciliation and the constitution"
     excerpt: "Indigenous lawyer Megan Davis is republican, but she is foremost an advocate for changing the constitution to meet the requirements of the Uluru Statement. She believes that the unfinished business of a voice to parliament needs to be enshrined in the constitution before a republic can be considered."
     publishedDateTime: 2022-01-25T06:36:00Z

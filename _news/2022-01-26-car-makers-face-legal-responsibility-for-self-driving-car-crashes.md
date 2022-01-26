@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving car users shouldn't be accountable for accidents, report suggests"
+    excerpt: "Drivers should be reclassified when operating a fully autonomous vehicle and not be held legally accountable for any road accidents, a new report has proposed. Rather, the company behind the driving system should be responsible,"
+    publishedDateTime: 2022-01-26T10:53:00Z
+    webUrl: "https://www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents"
+    ampWebUrl: "https://www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 70
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1643193885/Driverless-car-GettyImages-1212935826.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Self-Driving Car Users Shouldn’t Be Held Responsible For Crashes, U.K. Report Says"
     excerpt: "Proposed legal reforms would give U.K. self-driving car users immunity from offenses like dangerous driving, speeding and running red lights."
     publishedDateTime: 2022-01-26T01:23:00Z
@@ -43,6 +59,22 @@ related:
         width: 4193
         height: 2360
         isCached: true
+  - title: "Can self-driving car be jailed for causing accident? World wonders who to blame"
+    excerpt: "Autonomous or self-driving cars aren't a fantasy but are already charging down the automotive path in many parts of the world..Are self-driving cars capable and are these safe? Can such vehicles use artificial intelligence to make our own skill and intelligence seem rather redundant?"
+    publishedDateTime: 2022-01-26T04:15:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/can-self-driving-car-be-jailed-for-causing-accident-world-wonders-who-to-blame-41643169240055.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/can-self-driving-car-be-jailed-for-causing-accident-world-wonders-who-to-blame/amp-41643169240055.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/can-self-driving-car-be-jailed-for-causing-accident-world-wonders-who-to-blame/amp-41643169240055.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/01/26/600x338/1304958_Wallpaper2_1643170301498.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Self-Driving Car Users Should Not Be Responsible ‘If Anything Goes Wrong’: Report"
     excerpt: "Someone behind the wheel of a self-driving car should not be legally responsible if it is involved in a crash, according to new proposals."
     publishedDateTime: 2022-01-26T00:01:00Z
@@ -56,6 +88,52 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7r_ZXR99xWU/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Human drivers should NOT be liable if self-driving tech causes a crash"
+    excerpt: "The Automated Vehicle Act would aim to resolve the biggest grey area concerning bringing self-driving technology to our roads."
+    publishedDateTime: 2022-01-26T11:35:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/cars/article-10440363/Human-drivers-NOT-liable-self-driving-tech-causes-crash.html?mrn_rm=rta"
+    ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-10440363/amp/Human-drivers-NOT-liable-self-driving-tech-causes-crash.html"
+    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-10440363/amp/Human-drivers-NOT-liable-self-driving-tech-causes-crash.html"
+    type: article
+    provider:
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 44
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/01/26/09/53387791-0-image-a-3_1643189136871.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Legal changes recommended for self-driving cars in UK"
+    excerpt: "Under proposals, the person in the driving seat will be defined as 'user-in-charge' and will not be responsible for how an automated car drives"
+    publishedDateTime: 2022-01-26T10:40:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/972205/legal-changes-recommended-for-self-driving-cars-in-uk-972205.html"
+    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/972205"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/972205"
+    type: article
+    provider:
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 44
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzAxXC8yMDIyLTAxLTI2LTExLTQ5LTQxLTNiM2I0YTcwZDkzYzM5OWI3ZTQyY2ZlZDkwZDhiNDNkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 740
+        isCached: true
+  - title: "No-fault regime proposed for self-driving cars"
+    excerpt: "The person in the driving seat of a vehicle relying on self-driving features would no longer be held responsible for accidents and infringements under law reforms proposed today. Instead, under a new 'Automated Vehicles Act',"
+    publishedDateTime: 2022-01-26T12:26:00Z
+    webUrl: "https://www.lawgazette.co.uk/law/no-fault-regime-proposed-for-self-driving-cars/5111282.article"
+    type: article
+    provider:
+      name: lawgazette.co.uk
+      domain: lawgazette.co.uk
+    quality: 24
+    images:
+      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/8/1/6/101816_istock676364160.jpg"
+        width: 1024
+        height: 536
         isCached: true
   - title: "Self-driving car users not responsible if anything goes wrong"
     excerpt: "Drivers behind the wheel of a self-driving car should not be legally responsible for the actions of the vehicle if it goes wrong according to a new proposal.  The news comes as the Law Commission of England and Wales and the Scottish Law Commission asked for legal reforms allowing drivers to be immune from prosecution if the self-driving car did anything wrong,"
@@ -85,19 +163,19 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Self-driving car owners won’t be to blame for crashes under proposed new laws"
-    excerpt: "UK law chiefs recommend new regulation on autonomous driving, including assigning responsibility for errors and a crackdown on misleading marketing"
-    publishedDateTime: 2022-01-26T00:01:00Z
-    webUrl: "https://www.edinburghnews.scotsman.com/lifestyle/cars/self-driving-car-owners-wont-be-to-blame-for-crashes-under-proposed-new-laws-3541257"
+  - title: "Legal reform proposals to remove driver liability for self-driving car crashes"
+    excerpt: "New proposals on legal reforms to provide clarity around driver responsibilities and liability for self-driving vehicles have been set out in a new report from the Law Commissions."
+    publishedDateTime: 2022-01-26T11:24:00Z
+    webUrl: "https://fleetworld.co.uk/legal-reform-proposals-to-remove-driver-liability-for-self-driving-car-crashes/"
     type: article
     provider:
-      name: The Scotsman
-      domain: scotsman.com
-    quality: 21
+      name: Fleet World
+      domain: fleetworld.co.uk
+    quality: 20
     images:
-      - url: "https://www.edinburghnews.scotsman.com/jpim-static/image/2022/01/25/16/shutterstock_1171593577_edited.jpeg?width=2048&enable=upscale"
-        width: 2048
-        height: 1366
+      - url: "https://i2.wp.com/fleetworld.co.uk/wp-content/uploads/2021/03/Autonomous-vehicle-release1.jpg?fit=1024%2C768&#038;ssl=1"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Self-driving car developers could be held accountable for crashes – not motorists"
     excerpt: "New laws also propose company bosses could face criminal prosecution if they fail to disclose faults or design flaws"
@@ -128,6 +206,6 @@ related:
         height: 630
         isCached: true
 
-secured: "cw50qPIIJK0lTvTrNv84NgFoFt7UAA1U7jQajnwT/mw0hP/NT5sg/sE43wZZiOs3FpoJrhOqYX7ur4N+Ba+zdPM5bOGY/7Tz1xLa4kh4CE1oPqDpSmgSSgxr9dLYBo59bYJYGXOeOLY2w8HgUsDqWTt3EQWeKQz1i8lR1mg6wk32oP/ZqXn64czQ0dCo/lUAYxmq6hClF6w9WBqbJL2VU+sfI0QQk0rwifnkscBpOn3tdB47rQeGkeHAyxt4ZjlJCYvzMteWqn6jFa+meC11PWNogD0hmtGK3ed6j+/fTH7EVsMxC0+wstj5/AbVo0f+WQ5fIA3rRe+EngPFbUKzdUf98DY6KLyus22yBhD/a3c=;SdU/vk1gacidaEQErYHuew=="
+secured: "j+6/pqw6GHIRG7D1b0wK7N/FW7tdyA4SrLoTjBBl3KyhFkOc/MjIKBfK3WCnwdmwRc+2X5Pa57W3zwwGFvu19eSCyiSeHxS+z69L2c2cHw1m0T1c89ARVc6Fvpsr+Tqi+oPJZ68NNs0PCyOtQnFMSyEc6SY4M1e0ZmObNg2Cp3+JnQlscowvCy8kvippfTfJY77W7l+UVoKR7Gb10SPpQOQI3njxYh0M0PBfds+ouS/tTYxX1OW0cinad0lNzjaUvHhcr5GG8Me5RuKNwekLntpWCUNo7d/0RiKExZRUwrRSXqgzWbEeYnmjkhbdW4Q85cAmr2G3p3sR0q33WVPd+QqWbUX7fuE7A05sn8vcJW73VkBt6cku0ETx6jWqgExfa/EIwTpjejIbfuXhn97HT+JMDhvFmmHTBDK7iEtQgBgcjjAjHeBgYsUyBqOJ4nr+kGlr7CDVUI7kc4ydepRLs49RYOuNqP9+GLPENLKRi1JywXRKVDRAfTQuthEipuUvLP6tzzkgUABjT1YVKs9TTA==;vJyuzQphvMdvPnq++qLpKw=="
 ---
 

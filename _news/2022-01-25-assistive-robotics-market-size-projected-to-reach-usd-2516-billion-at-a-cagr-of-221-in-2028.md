@@ -67,6 +67,20 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "Artificial Intelligence in the Cancer Market is anticipated to reach USD 5,292.8 million by 2030"
+    excerpt: "Artificial Intelligence in Cancer to surpass USD 5,292.8 Million by 2030 from USD 297.3 Million in 2020 at a CAGR of 34.4% in the coming"
+    publishedDateTime: 2022-01-26T11:41:00Z
+    webUrl: "https://menafn.com/1103595888/Artificial-Intelligence-in-the-Cancer-Market-is-anticipated-to-reach-USD-52928-million-by-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/26/EP_d6121image_story.png"
+        width: 1418
+        height: 710
+        isCached: true
 
 secured: "xfiVhlQlEQCTSOb59yHyQHYnmhLdz8BzXBqC4c6zHDUVpBCM+StRg/SVIcxfkF78KBcu+QT7rWN+TCQhsBIDL9MS19Wgpk0VB/QnBmRlIuqNzuMb4X9DetjB3+tGCqFw+NH5Lbt/6CBJPK+5amnz+1dW34HEr+XJDJrlEY8NTdbVoGlTT2GS8fsPWdDu7voXapIShLT1RHKrfBuhUzwGVWarhDLBUfBwtIGnzGr3D+1eVqoWxoRMP0AHJ9VhMCGngGhqK0fQx3h2vV2bjZPV2ONp1tmh2muKEqbVu6u++FY+z2O5My8SF57r+1ORU44i1bPXepBOFpuaiOLO29HEPmTff79jmO31giUB1Nhwh16uKDaOVQbf8wQIChx9PeQohsvS7e2emUOOiuB+EOQUSRkOBKMwfj/P1kqlIEksdpovJkO1OvlQtUURgElbRExmVXND+j8waN+dKnc1vC8KijSHQxZT8noM4CcXqcJ6mh0gOZi4JY2gQ6Pt1CSAtKZNC1xR0TMxzYDFlP4BUfqZRQ==;13ba8oLJs4fo5GWYLV7y3w=="
 ---
