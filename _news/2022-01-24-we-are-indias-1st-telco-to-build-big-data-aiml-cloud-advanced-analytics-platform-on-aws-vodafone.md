@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Building a Smarter Government with Data, Analytics and Machine Learning in the Cloud"
+    excerpt: "A primary issue for federal agencies when it comes to getting the most out of their data is that most of that data never gets used. Research shows that some 90% of organizational data does not get used for analytics and decision-making."
+    publishedDateTime: 2022-01-26T21:38:00Z
+    webUrl: "https://defensesystems.com/assets/building-smarter-government-data-analytics-and-machine-learning-cloud.pdf"
+    type: article
+    provider:
+      name: Defense Systems
+      domain: defensesystems.com
+    quality: 32
+    images:
+      - url: "https://cdn.federalsoup.com/media/screen_shot_2022-01-18_at_3.03.12_pm.png"
+        width: 764
+        height: 927
+        isCached: true
 
 secured: "CSD+2ZvNPuwJKPw762xPNbywlens64nroAUe/z3uqUWws9bVybK8nVop5+ZenSmaBLCC4P7uIBdqPGUHhTiVI/B5hvuSs6SsXhFLDvmcF2q4gvZ4ZU5hl7dTqsbk1pPo97WzavyICZoP6fC3O2RQI1qVxUUzz0TFIDoK1ihIi9e9GCNxmlvt4MpsEbjq6thK1ThQnxXRs7UpQVPbuJIXgAOouMovAcmtWz0Synkl/1VNJmPnyFnz0CB70KBBonjOUN3QToXE09RcHEweIlE+b+qOhhf/NgnGm9W05iZCU09mGe0kC84DhFhNIHKu8AJCeUmneX081rNffy7hKcr8NtxzK6cFGTqXl3uKjIiIDKs=;fD/6bpyNzkTxJEzI8kgDvQ=="
 ---

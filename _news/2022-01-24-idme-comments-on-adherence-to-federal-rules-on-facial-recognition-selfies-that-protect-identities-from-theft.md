@@ -29,33 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "IRS Facial Recognition: Everything we know so far"
-    excerpt: "The IRS will require taxpayers who access and make their procedures online to sign up and verify their identity with a mobile platform that relies on a third party (company) starti"
-    publishedDateTime: 2022-01-26T15:20:00Z
-    webUrl: "https://www.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html"
-    ampWebUrl: "https://amp.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html"
-    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html"
+  - title: "ID.me says it uses more powerful facial recognition than previously claimed"
+    excerpt: "\"ID.me uses a specific '1 to Many' check on selfies tied to government programs targeted by organized crime to prevent prolific identity thieves and members of organized crime fro"
+    publishedDateTime: 2022-01-26T21:22:00Z
+    webUrl: "https://www.engadget.com/idme-ceo-facial-recognition-one-to-many-backtrack-205046356.html"
     type: article
     provider:
-      name: MARCA
-      domain: marca.com
-    quality: 59
+      name: Engadget
+      domain: engadget.com
+    quality: 82
     images:
-      - url: "https://phantom-marca.unidadeditorial.es/1f06094736ba8cd96b4c2ef2f442c13f/resize/1200/f/jpg/assets/multimedia/imagenes/2022/01/26/16432109382520.jpg"
-        width: 1200
-        height: 675
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-06/ea51a200-d11c-11eb-bffb-1da0370bb14a"
+        width: 7952
+        height: 5304
         isCached: true
-  - title: "Smile! The IRS Wants You To Send Selfies to a Facial Recognition Company"
-    excerpt: "\"No Identity Left Behind.\" Americans who want to access tax return transcripts, check on child tax credits, or do"
-    publishedDateTime: 2022-01-24T14:32:00Z
-    webUrl: "https://reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/"
-    ampWebUrl: "https://reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 38
   - title: "Are Cow Noses the New Fingerprint to Unlocking Livestock Facial Recognition?"
     excerpt: "Fingerprint recognition technology for cellphones was first created in 2011 and is the process of verifying a person’s identity by comparing their fingerprints with previously recorded samples. This recognition is then utilized to unlock certain technology features and can even provide specific data on individuals."
     publishedDateTime: 2022-01-24T21:09:00Z

@@ -2,6 +2,185 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-01-07-ust-launches-ai-solution-for-hyperpersonalized-wine-beer-and-food-shopping.md",
+      "title": "UST Launches AI Solution for Hyperpersonalized Wine, Beer and Food Shopping",
+      "excerpt": "Digital transformation solutions company UST, has officially launched UST AiSense, which provides personalized food and beverage recommendations using sensory science. The deployable digital technology AI-led solution powered by Tastry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.winsightgrocerybusiness.com/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping",
+      "originalUrl": "https://www.winsightgrocerybusiness.com/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.winsightmedia.com/platform/files/public/2022-01/background/400x600/Aisenseedit.jpg?VersionId=UEoY_EToLBfZIgtxoekaBEtGMCS4VD6u",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping",
+      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping",
+      "publishedDateTime": "2022-01-06T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Winsight Grocery Business",
+        "domain": "winsightgrocerybusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot.md",
+      "title": "AI in closed-loop manufacturing can benefit edge computing systems: 4 things to consider in IIoT",
+      "excerpt": "The convergence of AI and closed-loop manufacturing is coming. This could change IT thinking about edge IoT. Be prepared with these four things to know about it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2018/02/01/31ad99a6-f326-4598-aebd-9b67d7b2dbaa/resize/1200x/c54bf641da518b3167d8cd47626582af/auto10.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/",
+      "publishedDateTime": "2022-01-06T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-self-driving-vehicles-are-hereif-you-know-where-to-look.md",
+      "title": "Self-Driving Vehicles Are Here—If You Know Where to Look",
+      "excerpt": "Glossy visions of an autonomous future always seem just out of reach. But two insiders say the technology is available on farms, and on clear, dry streets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/self-driving-vehicles-here-if-know-where-look/",
+      "originalUrl": "https://www.wired.com/story/self-driving-vehicles-here-if-know-where-look/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61d608c0fef057d9d3794928/master/pass/Business-John%20Deere-r4f175043.jpg",
+          "width": 2400,
+          "height": 1589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/self-driving-vehicles-here-if-know-where-look/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/self-driving-vehicles-here-if-know-where-look/amp",
+      "publishedDateTime": "2022-01-06T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-platesmart-celebrates-6th-consecutive-astors-win.md",
+      "title": "PlateSmart Celebrates 6th Consecutive ASTORS Win",
+      "excerpt": "PlateSmart Technologies announced today that it had done it again after the company’s ARES® 3.0 enterprise-grade automatic license plate recognition (ALPR) solution earned a Platinum Award at American Security Today’s 2021 ASTORS Homeland Security Awards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswiretoday.com/news/176887/PlateSmart-Celebrates-6th-Consecutive-ASTORS-Win/",
+      "originalUrl": "https://www.newswiretoday.com/news/176887/PlateSmart-Celebrates-6th-Consecutive-ASTORS-Win/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-how-no-code-ai-development-platforms-could-introduce-model-bias.md",
       "title": "How no-code AI development platforms could introduce model bias",
       "excerpt": "Enterprises are embracing no-code AI development tools. But these tools abstract away processes in a way that could lead to issues like bias.",
@@ -942,191 +1121,6 @@
         "IBM AI",
         "Microsoft AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-data-startup-labelbox-reaches-toward-1-billion-valuation-with-softbank-funding.md",
-      "title": "Data Startup Labelbox Reaches Toward $1 Billion Valuation With SoftBank Funding",
-      "excerpt": "When we are talking to the enterprise, we do not see the companies that you may think of as our competition,” says CEO Manu Sharma.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrickcai/2022/01/06/data-startup-labelbox-series-d-funding-from-softbank/?sh=6d9b8c6a2f59",
-      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2022/01/06/data-startup-labelbox-series-d-funding-from-softbank/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d631a168710f2ab3034eaa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1599%26cropY1%3D0%26cropY2%3D1066",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you.md",
-      "title": "John Deere and Naio robot tractor may be heading to a farm near you",
-      "excerpt": "Venerable American farm equipment manufacturer John Deere and French agricultural robot start-up Naio debuted their latest innovations at the Consumer Electronics Show, which began Wednesday in Las Vegas.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2022/01/06/1600x900/US-TECHNOLOGY-SCIENCE-LIFESTYLE-COMPUTERS-ELECTRONICS-31_1641471074615_1641471101321.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
-      "publishedDateTime": "2022-01-06T02:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022.md",
-      "title": "ITRI intros innovations in AI, robotics, and ICT at CES 2022",
-      "excerpt": "Taiwan’s largest and one of the world’s leading high-tech applied research institutions, will introduce AI, robotics, and ICT technologies at its CES 2022 booth",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/",
-      "originalUrl": "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2022/01/ITRI.jpg",
-          "width": 531,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/",
-      "publishedDateTime": "2022-01-06T00:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-nvidia-drive-orin-chip-to-power-baidus-jidu-robot-ev-same-as-nio.md",
-      "title": "Nvidia DRIVE Orin Chip To Power Baidu's JiDU Robot EV, Same As Nio",
-      "excerpt": "U.S. listed Chinese internet giant Baidu Inc (NASDAQ: BIDU) is following in Nio Inc's (NYSE: NIO) footsteps to adopt Nvidia Corp’s (NASDAQ: NVDA) self-driving chip capabilities, cnEVpost ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/01/24922477/nvidia-drive-orin-chip-to-power-baidus-jidu-robot-ev-same-as-nio",
-      "originalUrl": "https://www.benzinga.com/news/22/01/24922477/nvidia-drive-orin-chip-to-power-baidus-jidu-robot-ev-same-as-nio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24922477",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24922477",
-      "publishedDateTime": "2022-01-06T00:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],

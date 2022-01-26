@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-26-irs-facial-recognition-everything-we-know-so-far.md",
-      "title": "IRS Facial Recognition: Everything we know so far",
-      "excerpt": "The IRS will require taxpayers who access and make their procedures online to sign up and verify their identity with a mobile platform that relies on a third party (company) starti",
+      "path": "_news/2022-01-27-idme-says-it-uses-more-powerful-facial-recognition-than-previously-claimed.md",
+      "title": "ID.me says it uses more powerful facial recognition than previously claimed",
+      "excerpt": "\"ID.me uses a specific '1 to Many' check on selfies tied to government programs targeted by organized crime to prevent prolific identity thieves and members of organized crime fro",
       "sourceUrl": null,
-      "webUrl": "https://www.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html",
-      "originalUrl": "https://www.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html",
+      "webUrl": "https://www.engadget.com/idme-ceo-facial-recognition-one-to-many-backtrack-205046356.html",
+      "originalUrl": "https://www.engadget.com/idme-ceo-facial-recognition-one-to-many-backtrack-205046356.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 102,
       "tags": null,
       "images": [
         {
-          "url": "https://phantom-marca.unidadeditorial.es/1f06094736ba8cd96b4c2ef2f442c13f/resize/1200/f/jpg/assets/multimedia/imagenes/2022/01/26/16432109382520.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-06/ea51a200-d11c-11eb-bffb-1da0370bb14a",
+          "width": 7952,
+          "height": 5304,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html",
-      "cdnAmpWebUrl": "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html",
-      "publishedDateTime": "2022-01-26T07:20:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T13:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MARCA",
-        "domain": "marca.com",
-        "images": null,
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -269,6 +278,41 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-20-ambientai-emerges-from-stealth-and-unveils-its-new-computer-vision-intelligence-cvi-platform-for-the-physical-security-industry.md",
+      "title": "Ambient.ai emerges from stealth and unveils its new Computer Vision Intelligence (CVI) platform for the physical security industry",
+      "excerpt": "Ambient.ai has emerged from stealth to introduce the first computer vision intelligence platform. The company has raised US$ 52 million in venture funding led by Andreessen Horowitz (a16z) and launches with five of the largest US tech companies by market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/tags/mobile-access/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/mobile-access/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
+      "publishedDateTime": "2022-01-20T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1380,49 +1424,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-bluru-based-ai-and-computer-vision-startup-avataar-raises-45-mn.md",
-      "title": "B'luru-based AI and computer vision startup Avataar raises $45 mn",
-      "excerpt": "Bengaluru and San Francisco-based AI and computer vision startup Avataar has raised $45 million in Series B funding led by Tiger Global. Existing investor Sequoia Capital India also participated in the round.",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
-      "originalUrl": "https://inshorts.com/en/news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/01_jan/7_fri/img_1641559494701_750.jpg?",
-          "width": 736,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
-      "publishedDateTime": "2022-01-07T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

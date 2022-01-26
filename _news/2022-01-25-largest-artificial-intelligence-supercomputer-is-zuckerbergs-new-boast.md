@@ -308,6 +308,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Meta Is Making a Monster AI Supercomputer for the Metaverse"
+    excerpt: "Meta is building a new supercomputer to train enormous machine learning algorithms. Though only partially complete, the AI Research Supercluster (RSC) already ranks among the most powerful machines on the planet."
+    publishedDateTime: 2022-01-26T21:36:00Z
+    webUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/"
+    ampWebUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 59
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/01/meta-metaverse-ai-explosion-network.jpeg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Facebook parent Meta is developing the “world’s fastest” AI supercomputer"
     excerpt: "The high-speed computer is designed specifically to train machine learning systems, according to Facebook-owned Meta RSC will be used to train a range of"
     publishedDateTime: 2022-01-25T11:04:00Z
@@ -337,22 +353,6 @@ related:
       - url: "https://www.crn.com/resources/0271-14477f5c05b8-a38185223eb4-1000/meta_nvidia.png"
         width: 610
         height: 458
-        isCached: true
-  - title: "Facebook parent Meta creates powerful AI supercomputer"
-    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
-    publishedDateTime: 2022-01-24T21:33:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Meta creates AI supercomputer that could 'fastest ... in the world' by 2022"
     excerpt: "Meta Platforms (FB) has built an artificial intelligence supercomputer that could be the fastest in the world later this year, once it's fully operational.According to a blog"
@@ -650,6 +650,17 @@ related:
         width: 1248
         height: 701
         isCached: true
+  - title: "Facebook parent Meta creates powerful AI supercomputer"
+    excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
+    publishedDateTime: 2022-01-25T04:29:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
+    ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "RUAG Space agrees AI partnership for satellite supercomputer"
     excerpt: "Switzerland’s RUAG Space said Jan. 24 it is teaming up with a software provider to run artificial intelligence solutions on its Lynx, which it says is the most powerful commercially available onboard satellite computer."
     publishedDateTime: 2022-01-24T23:03:00Z

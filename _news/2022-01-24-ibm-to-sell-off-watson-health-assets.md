@@ -7,8 +7,8 @@ originalUrl: "https://www.itpro.co.uk/business-strategy/acquisition/362052/ibm-s
 webUrl: "https://www.itpro.co.uk/business-strategy/acquisition/362052/ibm-sell-watson-health"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 159
+published: true
 
 provider:
   name: IT Pro
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM sells its Watson healthcare assets to Francisco Partners"
-    excerpt: "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Francisco Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion."
-    publishedDateTime: 2022-01-22T05:25:00Z
-    webUrl: "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 76
-    images:
-      - url: "https://images.assettype.com/freepressjournal/import/2014/05/ibm.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 917
-        isCached: true
   - title: "IBM finally finds a private equiteer willing to purchase Watson Health"
     excerpt: "In-brief IBM has offloaded healthcare data and analytics assets from its Watson Health business, with private equity firm Francisco Partners hand over around $1bn for the privilege. The takeover “is a clear next step as IBM becomes even more focused on our platform-based hybrid cloud and AI strategy,"
     publishedDateTime: 2022-01-24T03:01:00Z
@@ -60,6 +44,20 @@ related:
       - url: "https://regmedia.co.uk/2019/01/18/shutterstock_779236312.jpg"
         width: 648
         height: 448
+        isCached: true
+  - title: "Three reasons why Watson-based AI might fail"
+    excerpt: "This week the story of an IBM Watson asset purchase by Francisco Partners is in the news. Perhaps not covered in this announcement are some of the reasons Watson-like-data-dependent AI might fail to provide the business windfalls anticipated."
+    publishedDateTime: 2022-01-26T05:16:00Z
+    webUrl: "https://www.linkedin.com/pulse/three-reasons-why-watson-based-ai-might-fail-brigitte-piniewski-md"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFUpjKlVrExnw/article-cover_image-shrink_720_1280/0/1643147426919?e=1648684800&v=beta&t=5EEdJPdEpcjnhcos3R9y7AwmkuKnQnM75wHGmolV_i4"
+        width: 1080
+        height: 720
         isCached: true
   - title: "IBM sells off large parts of Watson Health business"
     excerpt: "Tech giant IBM draws back from its digital health aspirations, agreeing a deal to sell a large chunk of IBM Watson Health to private equity group Francisco Partners"
@@ -128,6 +126,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "IBM to focus on hybrid cloud, AI after selling Watson Health operations"
+    excerpt: "IBM has sold Watson Health's data and analytics operations to Francisco Partners, and will now focus on its platform-based hybrid cloud and AI strategy. No financial details were disclosed about the transaction,"
+    publishedDateTime: 2022-01-24T08:34:00Z
+    webUrl: "https://www.telecompaper.com/news/ibm-to-focus-on-hybrid-cloud-ai-after-selling-watson-health-operations--1411475"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
   - title: "Francisco Partners to Buy IBM’s Health Care Data, Analytics Assets"
     excerpt: "IBM remains committed to Watson, our broader AI business, and to the clients and partners we support in healthcare IT. Through this transaction, Francisco Partners acquires data and analytics assets that will benefit from the enhanced investment and expertise of a healthcare industry focused portfolio,"
     publishedDateTime: 2022-01-24T11:07:00Z

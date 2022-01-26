@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e
 cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: 69
+published: false
 
 provider:
   name: MARCA
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "ID.me Comments on Adherence to Federal Rules on Facial Recognition \"Selfies\" that Protect Identities from Theft"
-    excerpt: "ID.me provided the following comments today. Statement from ID.me CEO and Founder, Blake Hall: \"We are committed to ensuring everyone can verify their identity online and use it to access essential services."
-    publishedDateTime: 2022-01-24T12:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/id-me-comments-on-adherence-to-federal-rules-on-facial-recognition-selfies-that-protect-identities-from-theft-1031122288"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://mma.prnewswire.com/media/1732098/IDme_Face_Matching.jpg"
-        width: 400
-        height: 273
-        isCached: true
   - title: "Smile! The IRS Wants You To Send Selfies to a Facial Recognition Company"
     excerpt: "\"No Identity Left Behind.\" Americans who want to access tax return transcripts, check on child tax credits, or do"
     publishedDateTime: 2022-01-24T14:32:00Z
@@ -52,15 +38,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 38
-  - title: "Are Cow Noses the New Fingerprint to Unlocking Livestock Facial Recognition?"
-    excerpt: "Fingerprint recognition technology for cellphones was first created in 2011 and is the process of verifying a person’s identity by comparing their fingerprints with previously recorded samples. This recognition is then utilized to unlock certain technology features and can even provide specific data on individuals."
-    publishedDateTime: 2022-01-24T21:09:00Z
-    webUrl: "https://www.dairyherd.com/news/education/are-cow-noses-new-fingerprint-unlocking-livestock-facial-recognition"
-    type: article
-    provider:
-      name: Dairy Herd
-      domain: dairyherd.com
-    quality: 16
 
 secured: "AO00Rha2GVF2mrZ7HN9x6P1foUAoI5ncVL7RvTVy36wgW8xBuD7zwrZYgscntVKbf5SujxhfSsuDit9CaVvh0SHH232dXw1Ew5ZXHIg66S88JkfCkGup19GMhrsLbMC3i/zh1kq0YpsVTB8xnSRdKbm8MgZXHSUpUj+cdFov6sWrmmlKelFWnZd6QYwEhrFMAzU6kRnFWODm0YB90jI3onY14gxq1TDm3y2X2NSJIBPj4EuSK2eS+B4dYdSCLFNtkv2kLWIAi4tzyzPXqvwC2zGzJudC/NU2eB9vxDUG3Rich3pT+tUKDsaXcIq4ewUuqPAhg4Ll83uTFQ5vGr2TwcwBWAO4cBs5KhloXERF1prwLGt2th8i4NQQGsMF/Erc+FWboaJlQVonAdiJHUrRiQCi3KmI7u0GM56YHLATI7vbwcxtAKYcF3+CEWIhhPwPAXJPFtwwUE/I4cMm7eMxSA/klWHTFvAVr0TeQ5U6f+GF0qRsujFXeTztficOJBCW3XuOygaqJPIgDMCgySCKSw==;jdD6WOgOqo/H3by6adgjHA=="
 ---

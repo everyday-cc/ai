@@ -1,27 +1,27 @@
 ---
 category: news
 title: "anch.AI, former AI Sustainability Center, Secures $2.1M in Seed Funding to Launch Ethical AI Governance Platform"
-excerpt: "The B2B SaaS startup emerged from the AI Sustainability Center, a Swedish think tank, and has secured $2.1M in seed funding to further develop and launch their pioneering risk assessment platform. The round was led by Benhamou Global Ventures (BGV), with ..."
-publishedDateTime: 2022-01-26T14:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-anchai-former-ai-sustainability-center-secures-21m-seed-/2022/01/26/9533489.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-anchai-former-ai-sustainability-center-secures-21m-seed-/2022/01/26/9533489.htm"
+excerpt: "Against the rising tide of regulation, anch.AI has released the first horizontally integrated ethical AI governance platform, a one-stop shop for businesses to accelerate responsible AI adoption across their organization."
+publishedDateTime: 2022-01-26T14:00:00Z
+originalUrl: "https://insidebigdata.com/2022/01/26/anch-ai-former-ai-sustainability-center-secures-2-1m-in-seed-funding-to-launch-ethical-ai-governance-platform/"
+webUrl: "https://insidebigdata.com/2022/01/26/anch-ai-former-ai-sustainability-center-secures-2-1m-in-seed-funding-to-launch-ethical-ai-governance-platform/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: insidebigdata.com
+  domain: insidebigdata.com
 
 topics:
   - AI
   - AI Ethics
 
 images:
-  - url: "https://mma.prnewswire.com/media/1731063/anch_AI_Logo.jpg "
-    width: 338
-    height: 400
+  - url: "https://insidebigdata.com/wp-content/uploads/2019/05/Artificial_intelligence_SHUTTERSTOCK.jpg"
+    width: 300
+    height: 203
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "lwI9VlvpV/GevVHZvktIRNnt1m3TchpY6S4e0jACQHgj+j4ySfBILEYZtfCpKNnKDUSJM9w3TJ3cILEOuR1CkUWPmD6E2IZjIKBIxsxIMHcyUQHUMb29g6QGBXMueeOP/j3mPop4195fj/N1jzsXB1D6ti8knQo/sQh8BP1sjDNczZFM9JwxShGXp401O87dg+aYM1Sw/kqbNx2nw6nG1Y4uuPkkwnAnOlTfoHsWqs+IE5HWXqyQ4qeAbsJ2p8U/XLsWnJ8HCfV6lZB9d5yC4W7h6p7hDCknUeIvD12lGGsKuuK4w5iiTfE76GeAWdsr7pM5ydQC2y1cMxPdgK/ASltoEZ870+DkqowBzjy+LUBHID9v3WfUdSXCuEUeE+J9h23wVY5LJUG51g8RGKku8+H0OVDuM3tGnL6TWNTFmQKjf2yC7DdmS4dwo6u4mth5HR/3Zz4IeaK9niP6ArZGHyQfX/AcM9zscZVKN/cjvtxsMWXbVinDrZaR8SZjuCF6oyj/0p3l90+3wvJrc1jlmg==;ykfEtA0TG52wOQdp7yLNOA=="
+secured: "y1/NI10m6mW2Ow0HVXGWOH/OE3k2+AAq7ty7goHHRG23zAhqpkEGhIr1Z5H9TiFmeNZ/V7bFzyuXRxRcd1Sdweh7O23aMQfacgBe0SgcqPVetTbHiV+631PNFx+qx3co22nVeECrBgz91OOz1+Vy950bGk2rFIUdcFeHb5z0fijUlRo4Xqt8ABDlWD49Zes2qj6ArbNYT9k9xypAxTu0UMlX5tHqEzG9k1Xa7odjsCzjS7+yLeXDGv0PT7ghh7KYvFW9oJO7qcKNfzbJuD6TXilN/PrQ01XvLYDkKHhYBY7U7su8wC0f3kCpHVp3Z1lTlXiD9s7DquD8uemKWI0N9MwKrcPbYXVl8alYGep0snk=;/cDzAQnMA2oxtH+yU7QVQg=="
 ---
 

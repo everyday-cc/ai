@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-27-idme-says-it-uses-more-powerful-facial-recognition-than-previously-claimed.md",
+      "title": "ID.me says it uses more powerful facial recognition than previously claimed",
+      "excerpt": "\"ID.me uses a specific '1 to Many' check on selfies tied to government programs targeted by organized crime to prevent prolific identity thieves and members of organized crime fro",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/idme-ceo-facial-recognition-one-to-many-backtrack-205046356.html",
+      "originalUrl": "https://www.engadget.com/idme-ceo-facial-recognition-one-to-many-backtrack-205046356.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-06/ea51a200-d11c-11eb-bffb-1da0370bb14a",
+          "width": 7952,
+          "height": 5304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-digitalowl-raises-20m-to-analyze-medical-records-for-insurers.md",
       "title": "DigitalOwl raises $20M to analyze medical records for insurers",
       "excerpt": "DigitalOwl, a startup developing an AI-powered system to analyze medical records for insurers, has raised $20 million in venture capital.",
@@ -300,49 +352,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-irs-facial-recognition-everything-we-know-so-far.md",
-      "title": "IRS Facial Recognition: Everything we know so far",
-      "excerpt": "The IRS will require taxpayers who access and make their procedures online to sign up and verify their identity with a mobile platform that relies on a third party (company) starti",
-      "sourceUrl": null,
-      "webUrl": "https://www.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html",
-      "originalUrl": "https://www.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://phantom-marca.unidadeditorial.es/1f06094736ba8cd96b4c2ef2f442c13f/resize/1200/f/jpg/assets/multimedia/imagenes/2022/01/26/16432109382520.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html",
-      "cdnAmpWebUrl": "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html",
-      "publishedDateTime": "2022-01-26T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MARCA",
-        "domain": "marca.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },

@@ -37,29 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ID.me Comments on Adherence to Federal Rules on Facial Recognition \"Selfies\" that Protect Identities from Theft"
-    excerpt: "ID.me provided the following comments today. Statement from ID.me CEO and Founder, Blake Hall: \"We are committed to ensuring everyone can verify their identity online and use it to access essential services."
-    publishedDateTime: 2022-01-24T12:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/id-me-comments-on-adherence-to-federal-rules-on-facial-recognition-selfies-that-protect-identities-from-theft-1031122288"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://mma.prnewswire.com/media/1732098/IDme_Face_Matching.jpg"
-        width: 400
-        height: 273
-        isCached: true
-  - title: "Are Cow Noses the New Fingerprint to Unlocking Livestock Facial Recognition?"
-    excerpt: "Fingerprint recognition technology for cellphones was first created in 2011 and is the process of verifying a person’s identity by comparing their fingerprints with previously recorded samples. This recognition is then utilized to unlock certain technology features and can even provide specific data on individuals."
-    publishedDateTime: 2022-01-24T21:09:00Z
-    webUrl: "https://www.dairyherd.com/news/education/are-cow-noses-new-fingerprint-unlocking-livestock-facial-recognition"
-    type: article
-    provider:
-      name: Dairy Herd
-      domain: dairyherd.com
-    quality: 16
 
 secured: "a8nDGov/rtgrfsvI3T0mLlpxAAdHE03M9c2thxbP8iysYRCM55chKtmLdoaT79+swew/y9Bx+K2N6SJ9gGvEZVbO7/GW1U/vApob6fMWi0ol/igcaqp2fTnAJlz0WIQTFPX/AdM910DxQzqLxEGAP6Pl8H8/dextmH3AXNBn/UCin96uGvIm/MM7YCQSZkvz0LVMKTGvlVmoeIgbqOXhCqvFAQ6dwMbIeqRk+61q0V2EJ/hyFUkFxMsY464aqXoUNjijFpJsAgT7iEtAz5z7MRycEk9DL/XAg+9JU9/m9p7BwdethPnELsv+JALNMqPwI8by3qKGb6agRRT1qUcoaYqKWuD7fXOgWmEyHVILFY9FK8e5Bd7LEn/EnSDU6qS8q054Dj4IMNT8zkETeEf17ZtFNOj6YbaJGsMdxGcJAm21EQ4OgrpgXzmX+ZSevxmN7rPPclhHRbRHdmO8JteAjFoDFGbdfYcBp29TbwtM07RjhPoBHNpTZLaBWHaszHdcQa6FSSyI5GJk3yf6hWgz/Q==;sJVeQIUwECzSjf/z3I/V6w=="
 ---
