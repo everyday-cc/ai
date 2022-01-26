@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-27-o9-solutions-raises-295m-to-apply-analytics-to-the-supply-chain-and-beyond.md",
-      "title": "o9 Solutions raises $295M to apply analytics to the supply chain and beyond",
-      "excerpt": "Solutions, a company developing analytics solutions for supply chain challenges and beyond, has raised a whopping $295 million in capital.",
+      "path": "_news/2022-01-27-minios-earns-unicorn-status-for-multicloud-object-storage-apps.md",
+      "title": "MinIO’s earns unicorn status for multicloud object storage apps",
+      "excerpt": "MinIO earned unicorn status based on its multicloud, AWS S3-compatible object storage suite of apps that the companies says reliesversatility and AI separate it from competitors.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/26/o9-solutions-raises-295m-to-apply-analytics-to-the-supply-chain-and-beyond/",
-      "originalUrl": "https://venturebeat.com/2022/01/26/o9-solutions-raises-295m-to-apply-analytics-to-the-supply-chain-and-beyond/",
+      "webUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/",
+      "originalUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/unicorn.jpg?w=1200&strip=all",
+          "width": 1100,
+          "height": 734,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/26/o9-solutions-raises-295m-to-apply-analytics-to-the-supply-chain-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/o9-solutions-raises-295m-to-apply-analytics-to-the-supply-chain-and-beyond/amp/",
-      "publishedDateTime": "2022-01-26T10:08:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/amp/",
+      "publishedDateTime": "2022-01-26T11:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

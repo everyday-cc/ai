@@ -143,18 +143,13 @@ related:
         isCached: true
   - title: "Slim.AI Closes $31 Million Series A to Automate Best Practices in Software Supply Chain Security for Cloud-Native Applications"
     excerpt: "Slim.AI, the Boston-based startup focused on optimizing and securing cloud-native applications, announced today that it has raised a $31 million series A round co-led by New York-based global venture capital and private equity firm Insight Partners as well as StepStone Group,"
-    publishedDateTime: 2022-01-26T13:34:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-venture-capital-adbd05e14f9e6404509440107bbba972"
+    publishedDateTime: 2022-01-26T13:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/slim-ai-closes-31-million-series-a-to-automate-best-practices-in-software-supply-chain-security-for-cloud-native-applications-1031130661"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Digitate Propels Digital Transformation Forward with Enhanced AIOps Capabilities and New Solutions"
     excerpt: "Digitate, a leading provider of SaaS-based autonomous enterprise software for IT and business operations, today announced the general availability of its latest release, which adds enhanced product functionalities across the entire ignio™ product line as well as new out-of-the box solutions that help enterprises kickstart and accelerate their digital transformation at scale."
     publishedDateTime: 2022-01-25T16:13:00Z

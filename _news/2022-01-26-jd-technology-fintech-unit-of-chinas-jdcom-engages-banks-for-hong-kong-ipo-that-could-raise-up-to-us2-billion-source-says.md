@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3164640/jd-tec
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong"
 type: article
 quality: 76
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2022/01/Depositphotos_196650486_XL-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "FinTech & Tech Lending are challenging bank loans"
+    excerpt: "ArK Kapital’s Head of Denmark is doing a series of articles for the Danish tech media @Bootstrapping, where he will cast light on the evolution of tech lending. We will publish the English versions in our web page."
+    publishedDateTime: 2022-01-26T10:01:00Z
+    webUrl: "https://www.linkedin.com/pulse/fintech-tech-lending-challenging-bank-loans-ark-kapital"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE078_o9tHY4g/article-cover_image-shrink_720_1280/0/1643191035445?e=1648684800&v=beta&t=8-bVZlC5gx2yEWHBMrvUTNif6fxjML8ihKcpEd8dHHE"
+        width: 850
+        height: 720
         isCached: true
 
 secured: "sjoCFyK+9Jwk2MfQxwyUeu5UM0E1Yzs9Uf6+TgKQhT0bxfRCQKJYIKRxpTQtW4exFhhiqTzo8q1Kia3twgLbbvaULdVn5qFSgrThKZIeZc3ba6wS2tw8Q7Xa+DUDyjQN/c/Qbu8AHppAYzr1jGzo4NGY8ZGqmtAssvwyzVjrnD+EtYT5Po+gWjrNodGy4lAbDFdgqikUn0k0VmROqtzYFDYS/DIQXisJhnUtjPNCwXdNtQ8JFKUpKVwWB74hqJSiYSCBFHFKUkRMraCbzP/LB0eP8WRlecelmH5V00UUiijzlBQ4Ru54Ya17oWoQUwdSh5tlNgDpQjt3ueHYcCsT0TkCggheoQWywhQHp+b8y/EY6C6anMhTZ+jYK7D3ukK99YOLfIW1uwrLwtkIYmjPBK18KvCrBIwNpr3Quv6ZZYHCAFi9PxZUFilXKp+NarWgrNck5UfBOUwLy3KJMECclfSrTwNzb0qjSSrjB36QnKAUX2TQol25KoY4/q1ehrYyINbZRezzs/vIXBZ7RGzspg==;vwofGdXDba7Ndc8R+aQQNg=="

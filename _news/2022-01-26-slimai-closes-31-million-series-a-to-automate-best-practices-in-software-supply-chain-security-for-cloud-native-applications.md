@@ -2,27 +2,25 @@
 category: news
 title: "Slim.AI Closes $31 Million Series A to Automate Best Practices in Software Supply Chain Security for Cloud-Native Applications"
 excerpt: "Slim.AI, the Boston-based startup focused on optimizing and securing cloud-native applications, announced today that it has raised a $31 million series A round co-led by New York-based global venture capital and private equity firm Insight Partners as well as StepStone Group,"
-publishedDateTime: 2022-01-26T13:34:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-venture-capital-adbd05e14f9e6404509440107bbba972"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-venture-capital-adbd05e14f9e6404509440107bbba972"
+publishedDateTime: 2022-01-26T13:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/slim-ai-closes-31-million-series-a-to-automate-best-practices-in-software-supply-chain-security-for-cloud-native-applications-1031130661"
+webUrl: "https://markets.businessinsider.com/news/stocks/slim-ai-closes-31-million-series-a-to-automate-best-practices-in-software-supply-chain-security-for-cloud-native-applications-1031130661"
 type: article
-quality: 26
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Security
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries"
@@ -198,6 +196,6 @@ related:
         height: 628
         isCached: true
 
-secured: "RGK6uxM+8/rXJHWUnA2GbaBaXJkmT6C5ew9wte08cobA11ecF4hUpUVrPuGx/HnzMgHNH2DLA/jydzCkvxR6othdBRyCHzOa3PIrKHcgxTL/E3xLmuCZb7usduuAaZuZ57x393zuh9sRHlA32ypdz9k5VnIs06akGeE2yGyd6zE3HLhAopNGxDjPefz1+KPafEP8HNsqwcgMmGR92I4WV1WiKiwYTpvI4qsJ+ZjgZaJIJuWoKjMtUJu0oZl/4PIKVneVV2b+dBpQrQTM3VOfVH5pEY1Cq36ofyVjrE4NAfx7TlA3xPsNnOaRDnp9mfyp0HpNvFAI+d0zsocK/mDvPorMnEQcAZJN4mB6ZgvngEY=;tpAlAvFA1NPdRjPpk+DzzA=="
+secured: "wEIxeRfP+ohvUhLw+MlAeG4SUKNEPjSOi8tbamaWKZhpufHaRm0/VSnk4MJDKyTC1nGEPTXxxOWloPrcVBVHloftUaC7lKDO69v3tiBcbNkQf7DDkit+M3HF22JGBdZESWSmg0n05IiG5N9kBN4UVy2W7hvKirnvmwPiDGz6RGtnFt6lslvCnqNFA2OR5TE/2w9ammz1d8vJI9fm3wnrBI1XPlBP0OtQ9vAsKrajhBNyACRPJH+5MnkCiInz7JZmAhZj2ptDOo9lB+kkM8WzcPG0KfRs2XC3ktiBWuUch55PRxHylCcphOufgMqi1nSmF/NuJxCOfxhAn+jA5u1QjXZkw8i6D3WJ7oovnHTYwTE=;ggMGC3/f68Mwpm2S3Bc9DQ=="
 ---
 
