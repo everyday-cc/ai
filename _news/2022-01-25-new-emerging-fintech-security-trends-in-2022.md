@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintec
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/"
 type: article
 quality: 61
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?383249"
         width: 450
         height: 250
-        isCached: true
-  - title: "21/01 – Weekly Fintech Recap – What’s Interesting This Week?"
-    excerpt: "Partnerships Altura Credit Union taps Scienaptic’s AI-powered credit decisioning platform Leading global AI-powered credit decision platform provider, Scienaptic AI announced that Altura Credit Union has collaborated with its platform for enhanced credit decisioning."
-    publishedDateTime: 2022-01-21T12:40:00Z
-    webUrl: "https://financialit.net/news/regtech/2101-weekly-fintech-recap-whats-interesting-week"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_0.jpeg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Five ways to diversify fintech for future consumer"
     excerpt: "To seize the opportunities of the future, fintech firms must adapt their services for increasingly diverse markets. We outline five key themes"

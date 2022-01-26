@@ -117,20 +117,6 @@ related:
         width: 450
         height: 250
         isCached: true
-  - title: "21/01 – Weekly Fintech Recap – What’s Interesting This Week?"
-    excerpt: "Partnerships Altura Credit Union taps Scienaptic’s AI-powered credit decisioning platform Leading global AI-powered credit decision platform provider, Scienaptic AI announced that Altura Credit Union has collaborated with its platform for enhanced credit decisioning."
-    publishedDateTime: 2022-01-21T12:40:00Z
-    webUrl: "https://financialit.net/news/regtech/2101-weekly-fintech-recap-whats-interesting-week"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_0.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI in Fintech Market Size, Segments Analysis, Future Opportunity, Emerging Trends and Forecasts 2021-2030"
     excerpt: "North America region was the largest revenue contributor to the AI in fintech market. This is mainly attributed to the developed IT"
     publishedDateTime: 2022-01-24T15:00:00Z

@@ -41,20 +41,6 @@ related:
         width: 5760
         height: 3840
         isCached: true
-  - title: "DeepMind Co-Founder Suleyman Exits Google for VC Firm Greylock"
-    excerpt: "The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman ..."
-    publishedDateTime: 2022-01-21T11:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWEqYz7MJwA8/v1/1200x863.jpg"
-        width: 1200
-        height: 863
-        isCached: true
   - title: "The Funded: DeepMind co-founder Mustafa Suleyman is jumping from Google to Greylock Partners"
     excerpt: "Greylock Ventures has a new partner — and he has a DeepMind background. Mustafa Suleyman, one of the co-founders of the Google LLC-owned artificial intelligence laboratory, has left the tech giant to join the venture firm."
     publishedDateTime: 2022-01-21T19:21:00Z

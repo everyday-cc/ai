@@ -7,7 +7,7 @@ originalUrl: "https://www.finra.org/media-center/finra-unscripted/deep-learning-
 webUrl: "https://www.finra.org/media-center/finra-unscripted/deep-learning-market-surveillance"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 901
     height: 333
     isCached: true
-
-related:
-  - title: "What Learning Can Learn From Machine Learning"
-    excerpt: "Taking a few bits and bytes from machine learning could go a long way to improving K-12 and postsecondary learning."
-    publishedDateTime: 2022-01-21T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/"
-    ampWebUrl: "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604060ec040608a6a8d30b0e%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Determining evolution of COVID-19 mortality rates using machine-learning"
-    excerpt: "Researchers predict the evolution of COVID-19 mortality rates across countries using a biological science-guided machine learning-based approach."
-    publishedDateTime: 2022-01-24T02:27:00Z
-    webUrl: "https://www.news-medical.net/news/20220123/Determining-evolution-of-COVID-19-mortality-rates-using-machine-learning.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 3
 
 secured: "P1lVcrF8EimhJOhSN88MbpJ+34/ZfjbdY6J/AOnM+gS1oZ/OhljG0iRB1V2vL/PKRo54+NH1Rmha7+8U6JQa8CLTO9DQy8D5G7/xXiJ1YZnMqxz/WCkUbjIzWjaDJE5OfKXwqHL7p33EVO0MvuqCtwxqpEndIXsjTlVLekr5yZ6xTT0TousGDMTj6UMkQsC5z5fQWdQ9zTaOcgH6guZFIFReqEAz5ImhITdADEjJHPtrV5eR99gkLD3+2uVHnVeGkNZ0LvVIq6QHihC3Rb+niVkKGjrBDzZjcWgJXzF+6iQX/lHCIihAiSfhFYxp/u7l1UFgRHy9aWuG6YLNRjTtnYRBA40i5W9yo9EVzyaSMC+2jQtc7FqyIvHntDDlWaBSjroezmOe/+GLQck9BrlLUI2r+51AZvIAMcyLrTOQ2Cr5yYGlL0BpCMASvAZ0ui1CUCx5ToPYGGBdfKxAzUEPjKrFFT34n6diYyQVgA7UXoCAF6jytl7Ch7SzZGmS3yyn4JK9wO+uVfvv4NJv6rbR2Q==;yW849TXGQQaPnUcXk7hK+Q=="
 ---

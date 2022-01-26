@@ -62,6 +62,22 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Studying the Big Bang With Artificial Intelligence"
+    excerpt: "Immediately after the Big Bang, the entire universe was in this state; today it is produced by high-energy atomic nucleus collisions, for example at CERN. Such processes can only be studied using high-performance computers and highly complex computer simulations whose results are difficult to evaluate."
+    publishedDateTime: 2022-01-25T21:34:00Z
+    webUrl: "https://neurosciencenews.com/big-bang-ai-19963/"
+    ampWebUrl: "https://neurosciencenews.com/big-bang-ai-19963/amp/"
+    cdnAmpWebUrl: "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/big-bang-ai-19963/amp/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 59
+    images:
+      - url: "https://neurosciencenews.com/files/2022/01/ai-big-bang-neurosinces.jpg"
+        width: 770
+        height: 514
+        isCached: true
   - title: "AI is bringing science fiction to life"
     excerpt: "AI's use in bespoke medicines can truly revolutionize the healthcare industry and that's why in today's lead story, we delve into this topic and expla.."
     publishedDateTime: 2022-01-24T03:41:00Z
@@ -77,22 +93,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-89084442,imgsize-52818,width-1200,height-628,overlay-etcio/ai-is-bringing-science-fiction-to-life.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Studying the Big Bang With Artificial Intelligence"
-    excerpt: "Immediately after the Big Bang, the entire universe was in this state; today it is produced by high-energy atomic nucleus collisions, for example at CERN. Such processes can only be studied using high-performance computers and highly complex computer simulations whose results are difficult to evaluate."
-    publishedDateTime: 2022-01-25T21:34:00Z
-    webUrl: "https://neurosciencenews.com/big-bang-ai-19963/"
-    ampWebUrl: "https://neurosciencenews.com/big-bang-ai-19963/amp/"
-    cdnAmpWebUrl: "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/big-bang-ai-19963/amp/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 57
-    images:
-      - url: "https://neurosciencenews.com/files/2022/01/ai-big-bang-neurosinces.jpg"
-        width: 770
-        height: 514
         isCached: true
   - title: "Using Artificial Intelligence to Accelerate Wildlife Conservation"
     excerpt: "While Artificial Intelligence (AI) is revolutionising multiple aspects of our lives, there is limited uptake of AI in supporting ecological well-being and protecting the nearly 1 million species currently threatened with extinction. Wildlife.ai is a New ..."

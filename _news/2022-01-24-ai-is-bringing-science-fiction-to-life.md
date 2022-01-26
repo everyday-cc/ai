@@ -84,7 +84,7 @@ related:
     provider:
       name: Neuroscience News
       domain: neurosciencenews.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://neurosciencenews.com/files/2022/01/ai-big-bang-neurosinces.jpg"
         width: 770

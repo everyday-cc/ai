@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Mercedes self-driving cars will use Luminar lidar sensors"
-    excerpt: "Mercedes-Benz said on Thursday that it selected America's Luminar for the supply of lidar systems to be used in its electronic driver-assist systems and eventual full self-driving systems. Mercedes has also acquired a small stake in Orlando,"
-    publishedDateTime: 2022-01-21T13:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1134822_mercedes-self-driving-cars-will-use-luminar-lidar-sensors"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/luminar-and-mercedes-benz-logos_100825469_h.jpg"
-        width: 1920
-        height: 984
-        isCached: true
 
 secured: "xrQwSu6/lAq66vLlctDPyKdJpWcQN/8gD1cQ8Z64Kv/PhhA+0ns0ukjM61p82rzm/aCdmwMxCJqYi5DaYAoOczRB9hjOXRhxg/FxgczUHClJf1ZPhbIR6DCjwALSdG7gFSnPESInKIkHr+U1J424krQ0Y+//YkA/jt9zYZzAr0aGXN8a2ZpV2AE/a7il1k2XWYtmB4oOq4xRR8Wzu08Wjl4z/YlTlVGlDDiyoKi6BmXQlXyohHlrAxuU0ZKmsao7fxV8tWVFmytBGkMvAFqm0Fr8bQg+FONVcGWJ0Druu0WXDiNBpbeH+R6tUugCJYNDX0HXXAao0KVGqWboQ/Flw+wGJ5n81kKKqiVf2smpwCo=;vsc7uziCscGHkyM8EaqLGQ=="
 ---

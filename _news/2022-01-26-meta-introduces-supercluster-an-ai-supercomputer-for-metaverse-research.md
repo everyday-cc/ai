@@ -401,6 +401,15 @@ related:
         width: 945
         height: 532
         isCached: true
+  - title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
+    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
+    publishedDateTime: 2022-01-24T21:32:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Meta Introduces Fastest AI Supercomputer"
     excerpt: "Facebook parent Meta Platforms Inc introduced its new AI Research SuperCluster (RSC) on Monday, which the company believes will be the fastest AI supercomputer in the world. It will be fully built out in mid 2022 and help create the metaverse."
     publishedDateTime: 2022-01-24T17:25:00Z
@@ -605,17 +614,6 @@ related:
         width: 1908
         height: 793
         isCached: true
-  - title: "Facebook parent Meta creates powerful AI supercomputer"
-    excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
-    publishedDateTime: 2022-01-25T04:29:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "RUAG Space agrees AI partnership for satellite supercomputer"
     excerpt: "Switzerland’s RUAG Space said Jan. 24 it is teaming up with a software provider to run artificial intelligence solutions on its Lynx, which it says is the most powerful commercially available onboard satellite computer."
     publishedDateTime: 2022-01-24T23:03:00Z
@@ -696,6 +694,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "abYP6I4ogR8jI4v9NRAi3bUWIjobwcTMfaqpQzhPQhZ2WSdomNxFDpHx+0MJ7cCvMpE/+P7bFz3mZo2QH9W/XRBLE4H3MgvhXOSzaYcBREzvRk53bgPbfM58SCo9PiVoQV3ble757WQ41aHrAuUmkUU+Ho+fPNcW5EEN6amLSpseSNdAA+/g4tES3on1C2nSuGnplNvYQU1pg8PiwlkZpMcZWNABvbmuBZKuSkxpkhyzxf8NYFlLNNBj7bZy8DOvnbC1odJvRHPAuSkUNSq+5AMJPx1EBfW8jmW8f2PPcrKo3XdEBAGtYiFpbqY033F8horKAnAh1ygr0o56ZS6fKebwr+c4bWmseof23MTXW9I=;dGrVzi3XHLGjtPZ8CqWVaw=="
+secured: "THvwyVtq3cgKglJazH9vYD77EhXBP2SYZDRyPxoX/nbvXaFGBkq2JIBKdq5gW+K6xbmSfNoi4mMR6KWmW+q3Vb2O/5rDIcxwcSG2+IFfpbRo5rH2a5MCFEe7lGI127JG9TuvhuBxtxDCaStG7unnep2/zIJpRbH5+1VNcr1p5QchdAqm+jseGCixgNBzs0USv0P/f0IdWJg0jDSsj3RhMvFSer0NMF1JMxxw6j/9Dxj8A12LQsq+WmvINHwL7mLmDE+iDH9SnkzwxUF2thVkpBA969QeLGMNU8t+qUx2pidqaU+WblPIpctUJDf5RfFECuvMZva4SgSKu4Q2wQIO2YcNb6B94fC39CJwrdylSR2w3H4fh9D7RKT2raxaAWdBlxG5WaL8Fvqdsi4TYD57RMtWwjeh8m/KMqdvRgvza8tn4t29R/5GMa6/wcjeuU8q8Exq1cMYBgriaVQkcEruQmpkpxEXdvlTUSlOJUsKKy332K8x8NFbF19l0NrP4NCTzhKx1Ztr08veueum+LhMvg==;8y1pqmG0P+ytxRtC1WaZQQ=="
 ---
 

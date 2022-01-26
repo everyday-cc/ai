@@ -8,7 +8,7 @@ webUrl: "https://neurosciencenews.com/big-bang-ai-19963/"
 ampWebUrl: "https://neurosciencenews.com/big-bang-ai-19963/amp/"
 cdnAmpWebUrl: "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/big-bang-ai-19963/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://neurosciencenews.com/files/2022/01/ai-big-bang-neurosinces.jpg"
@@ -128,6 +129,6 @@ related:
       domain: just-auto.com
     quality: 19
 
-secured: "cdje6IIPDLYU+z7atz6WZ1zZ9+FF5NMkRUfnKK68Jv1t4EvkVGWRcP8ipXNbGk+Y2fJ1Dbj7ePIgLbuMSOfXK1NNOEmpkpD6wXvbk/M0Mwz8orQ9yNkD/9nLWqmpCn1arpiiL9Mz9JKL7TcJLFFaoz2NdEbzaWE/Z+F2uyfG7Gsgo7v87GpvuhRhDg/M3ML11vka8RT3PisI2Xv2C4mWDsstcduHiOorkYSeR4xBsRRsQ7cK37OiVbtQeHXiT7QVUqzE6pIyqvE3MNi9AeGD2+VsCxPnhanfbDd0oKi55aZfFxYBymk+F9bTqiyI2aouTxDpap2rC5wXVUtM/ou4rOrgzvxzC31PZMK/RTJpMMQ=;CxUA8zhjMplB1N7LNwidSQ=="
+secured: "WsNpYPgUUNMsNTt3sUp/fSKPckuaD/fjeFasQXJvD+tvHMZD2YIjZQe5X4+lKqckavzmkl6W6EO2cZU3Mjugy6LPt4nh1eG+XdSd912DZEwGfmq3/UBVKSxRIhcWvPjPB1NeHt4WdsJGUrTeFVB033tG7Tp8IEtYAi6cphmDibFJfc2Dx6ozBgptsDdFquXfXBIzZmYK144swGgJsahENS3mX4zc1MeWUAeG3235+kus01k40pVvUIKy1w9u8eDijQWI1tnUojY0MWWqFdUccjzpL9i6ci9dgAdzp64vMEIXmUCC2kyoRUlLI2rRKttpGqkbgpu3LqA7zDEcD5sZX2sWtHDt2fgi/fN3JIAFyB398/8dpcivmmjrXpIJchXOb5m5YABZ4DB1Q61xvBRFd72daaWBzXrZ1WVRMG4O1ZHEjdpzU4LnP5kj8WcDbSnRkh6ARwBU0kFOv2SFgZkD7Zji4jLqFaHL6Ctj8onWdkkmFLafi3p9TESpfBtFd+ReuTWc57pMF8+EuvPjvAvj/A==;yjfW1dtUqeagqwsrvSTxNw=="
 ---
 

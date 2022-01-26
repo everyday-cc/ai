@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-26T02:36:00Z
 originalUrl: "https://www.goodreads.com/author_blog_posts/22164981-artificial-intelligence-in-2022-where-are-we-now-and-what-does-the-fut"
 webUrl: "https://www.goodreads.com/author_blog_posts/22164981-artificial-intelligence-in-2022-where-are-we-now-and-what-does-the-fut"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.gr-assets.com/authors/1614972635p8/7086757.jpg"
@@ -23,6 +24,6 @@ images:
     height: 933
     isCached: true
 
-secured: "Xtujq+SqeWfIwCALx3PeMGHISz/I3rfgeEHWfhxoyYWuYQ0AbfaCLHfqcKknB5lVO2Jjq7ZK5jh3pSHFB7PyZndjuQOUpuIvQ24CbPJbwN4/UIQlOH7MJBm0ooZVkLVCKwdg2N39vb55B8TxExaS72tdoyqk0B32FdhywQGypAjmUzw9PxNqQ+8c21UyzMo9nTJqNRbkvXbEeVxH2STJu7G3cOlqFMngsxYmBv6OArv97Fsm2F9syJrD3w4q6VXetDoMlupb/U8Fo1KQEdqrlg/LGIenwuaVy3tRMkI9fbBCA1TkvBw12qh7nDXui5iAWHXW//1DpF0JqaD/6dFwUeu2408MQdKeMx+18N9eXh0=;TfAVG1lZzKe2B4ENJL9IPA=="
+secured: "gbBy/fBFkIsYfvgztTgIRz2hhiXjHyoqnit5jlIb1rZoyPJm7fJi+a+ZggSDsR4Wlj9yzhWTyh0MW9aARBUeROrKbGmccpOFfnvC/p53triPnmPLV+Ai+yGVX8PEmIe3W8BjbYUkpQhy1UcjvcUN2FqIABrT6bhtxvBXwaf7ITZS+j9efvP+RSmGsb2X4P+YPynkyVGNDgn08OEEse4x2vpVi+XCiBLIBP/FwVu0V5hEmzUBGxir8j+0G+VTYJ9oWduqG4F2OoaHA1Bv7OeW5pqCaNejIvFIUIn5lQ87/DrW45cZc3JDZ5XwqKvlx+5I13qnees65TcRRMAfuSSScA1Dp+o8RdHpsKebzWB5FUdR61CUz4LgsSjsvxuiuOcAaqg7AOH1B0rCfy8nLYbWJ0Pr9YNbBfu6VJULg4VmkgW0Vh8gVweHbtKxKU/FS6HYhCZZd/TxMnH0rlQgUGVcVEkJmJXVfQdDL9tiJ1Rjtohk/pUEBQ4d0wrZZKW1/bwYXN7a0cj0tjMdTP3m0FWKcw==;tGVK6PApgD8PETTMNHiJgg=="
 ---
 

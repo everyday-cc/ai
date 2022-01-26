@@ -39,22 +39,6 @@ related:
         width: 635
         height: 400
         isCached: true
-  - title: "LaLiga employs Microsoft Azure’s AI for goal probability graphics"
-    excerpt: "LaLiga is using artificial intelligence and machine learning from Microsoft Azure to create new goal probability graphics on its broadcast feed from this weekend. According to LaLiga, the technology is able to calculate in 30 seconds how likely a player was to score a goal."
-    publishedDateTime: 2022-01-21T11:23:00Z
-    webUrl: "https://www.tvbeurope.com/live-production/laliga-employs-microsoft-azures-ai-for-goal-probability-graphics"
-    ampWebUrl: "https://www.tvbeurope.com/live-production/laliga-employs-microsoft-azures-ai-for-goal-probability-graphics?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/live-production/laliga-employs-microsoft-azures-ai-for-goal-probability-graphics?amp"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 89
-    images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2022/01/PG-Real-Madrid-gol-Vinicius-Jr-LR.jpg"
-        width: 1152
-        height: 648
-        isCached: true
 
 secured: "LNT+btyZwJbNSNNunfF1GwEigzeGLtby3Nqc49lM6xwf6LGvVAHk6Jd9QN7d1E++9IzwWJHoT9Yfmf1sTvJyfeH6wbOsCZ7ghJqdXPnzgF6YlaYI+uDnG2TNNeo6Di318Q8KZs4aP1duzS3/qAOdhmIthEhx9LMzv+nEVSXxDVktole9pOtqaHXCG6T3EyR4fnC/2IuYXB4EbLpSLU5fiKYyj4fXSlyv6WkVn4I5EU4mEYXJAhjti9PjBFvZZn48ezbDNc4nmA9v2xmp1+mToi1Jyc7GbrP2MRWhEaIn3eOnMM1GJ+h/CWtCOOzV1uYGkCVoRoyxa9gWNON9Fk1nrRp8lbARThIzCIzpuz5n5Spkn5tm8Vohj2qPH60Iv3rs6FZBv4pO3QkEyClo8HCHTTEJ+onaFOHdrHh9N4tBNPP/i482Ik5xtNXU7glxFUoWwPsvM0L1mzr3g5Po4uBdkt3KCDqZyeYEIA45ezGhOCtPIvkGDkeB5B9MvTL5Mv1x7Ah1MtT7uJdX3IXLF5msuw==;URtc75O36bXl61T8rtV4yQ=="
 ---

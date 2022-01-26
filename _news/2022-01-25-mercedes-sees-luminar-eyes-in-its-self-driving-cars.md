@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-dri
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.wlns.com/wp-content/uploads/sites/50/2019/11/self-driving-cars.jpg?w=1280"
         width: 1280
         height: 960
-        isCached: true
-  - title: "Mercedes self-driving cars will use Luminar lidar sensors"
-    excerpt: "Mercedes-Benz said on Thursday that it selected America's Luminar for the supply of lidar systems to be used in its electronic driver-assist systems and eventual full self-driving systems. Mercedes has also acquired a small stake in Orlando,"
-    publishedDateTime: 2022-01-21T13:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1134822_mercedes-self-driving-cars-will-use-luminar-lidar-sensors"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/luminar-and-mercedes-benz-logos_100825469_h.jpg"
-        width: 1920
-        height: 984
         isCached: true
   - title: "VW Teams With Biggest Car-Parts Maker to Boost Self-Driving Push"
     excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to bolster its automated-driving push and catch up with the likes of Tesla Inc. on software development. VW’s Cariad software unit will work with the world’s largest auto-parts supplier to introduce features allowing drivers to temporarily take their hands off the steering wheel starting in 2023,"

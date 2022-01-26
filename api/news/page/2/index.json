@@ -148,7 +148,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -617,21 +617,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-24-how-insight-partners-vets-ai-startups.md",
-      "title": "How Insight Partners Vets AI Startups",
-      "excerpt": "Lonne Jaffe, a managing director at Insight Partners, talked with WSJ Pro AI about the type of AI companies the New York City-based firm invests in, how it vets those companies and what it sees as the next AI opportunity.",
+      "path": "_news/2022-01-24-spectrum-labs-raises-32m-for-ai-based-content-moderation-that-monitors-billions-of-conversations-daily-for-toxicity.md",
+      "title": "Spectrum Labs raises $32M for AI-based content moderation that monitors billions of conversations daily for toxicity",
+      "excerpt": "Two years into the pandemic, online conversations are for many of us still the primary interactions that we are having every day, and we are collectively having billions of them. But as many of us have discovered,",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-insight-partners-vets-ai-startups-11643029203",
-      "originalUrl": "https://www.wsj.com/articles/how-insight-partners-vets-ai-startups-11643029203",
+      "webUrl": "https://techcrunch.com/2022/01/24/spectrum-labs-b/",
+      "originalUrl": "https://techcrunch.com/2022/01/24/spectrum-labs-b/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-471948/social",
-          "width": 1279,
-          "height": 640,
+          "url": "https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-309903-007.jpg?w=1024",
+          "width": 1024,
+          "height": 695,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -639,16 +639,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T04:00:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2022/01/24/spectrum-labs-b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/24/spectrum-labs-b/amp/",
+      "publishedDateTime": "2022-01-24T04:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -664,7 +664,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1022,7 +1023,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
