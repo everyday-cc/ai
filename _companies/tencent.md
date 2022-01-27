@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "tencentglobal"
   url: "https://twitter.com/tencentglobal"
-  followers: 35283
+  followers: 35285
 
 size: 10,001+ employees
 yearFounded: 1998
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Tencent"
 
-secured: "0y3eU5HEOkt07UyjFbJGD08hE/69Vvw0uOvAEO8aKgnyTIzmMldn4g7sxxo2Spgk1HHdPd8Ro2wAajtS60LzECAytR3b4mBYM5fGW8ZQYT/pC/Cn90/Hh2jJ8twVU7gblCAX9CN4HX0oemdLXVrkkG+YdwqihSK1+bMJqh5d53hBZUOCA5YKfSp4+Xf39gLTdHQPjdIBCx0jAG8xPTPUpq3emDx7VfkI+4ps3Kv8cW0/SYu6+AcsQvWaUVHYSFkqskQS4wXrEnk6rzpMOniKwplFIjDUQWcT2BW2IRpy7mlEY3yzbsfebkCrLsqKlRWgtg6pwZSV+KGpOy35LAm2L5XuJx3I4OFFGq/4FCVdq+UqfyJQcGUqiZbi689Yf73HeEhigAhEn2XH1Lpv4YUBZBH8h/D86uhY5whhrQ1qAa4=;ERbg4zONfP9Xssnwqnyvag=="
+secured: "tQUIodRU1EE2RCANXyB0Q0EzCdWSxGs1/5qvwmsDpl2CbjionwEp+IHKOxt8+oBpFzXM9HTov3eYod8qXJFwsfhMlZKjyphTak6TNPrhZ77FHfz7mc/IjshUtyt61IHfpLAlhrRj65FlXIn25rgEEy8TnlJMq87CAf7d24xlPCjY3Nekd62j5DXTh+uwdAIS5nVYbvr8TDkkR8RxBXZuG0699tsIcEMVHgHNOaWJZVg0Ozj2WKlMxq65h9j1aWm11E/QLrxUXG9zv/MAfBZ5iKHAator66KjSm0edSLz/9IuM3CSt1Aq0eYedBNyDMz6thQyL7pdX41RsKPItn9G5vkzx50VK8aEJV5Fhz3IOba6rf0eRgJmYyRrKKuIU9La2S5HA2BP7YZCwQI9XGjji0oNuIGHQFOfqt8Jgk0Rjw8=;B8AZbKVm7uq0iWvV8fPh4w=="
 ---
 

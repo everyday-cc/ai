@@ -2,7 +2,7 @@
 name: "Tamr"
 overview: "With a co-founding team led by Andy Palmer (founding CEO of Vertica) and Mike Stonebraker (Turing Award winner) and backed by investors including NEA, Google Ventures, and GE Ventures, Tamr is transforming how companies get value from their data."
 type: "profile"
-heat: 31
+heat: 32
 
 website: https://www.tamr.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Tamr_Inc"
   url: "https://twitter.com/Tamr_Inc"
-  followers: 3881
+  followers: 3880
 
 size: 51-200 employees
 yearFounded: 2012
@@ -37,6 +37,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "2D9NdJYdZetCDcbrGXa4JI1ztZ3VZpm57ciSZMBYzohM+1oSITe8Qvph93mxfjZ1l4THbFag7q+juhpHqDCiNmW/er1karOs1vSVVY7u8HCRif7q9kgWYGJmATeKLtCRJRws9LGxQzbiwr10YyKEm9NFnoEbUvUKOoCE53czUgvIQR+6si3R0IDL6dA+9sCJrPRcf9DbztAeFLQeAi473iSDR9cG51Irar/j3+GTJuZsmwRqwgxqwr1M0yHzryrAXJr4UiUQ5r3JjBwyTHIilLmZEr5WX4oKOHrLwZ67GP+rw268HY3CQbmsdiUjEBZSN9ptFG/1h9/QBvRKDuU+y7gSQXhefnCTDBt3ubc8xVKI7apZaSQV+yPODvExhoPuw2cH7KcxoIvmFg5a6KqwqefPMtJmkevmCT1NYeJxLDk=;ak95BQAeQI7lBxnHxrJOrQ=="
+secured: "VifF/jcdP0Q2FCULaRJgLZe1fJsORl6NceYc9FDZGI2ePKBNC08yS0ypUOrOPWN6/20e0KrQgST7LlSlhJgqMVD9mNXJ29X4okywNg1+qgl4cTFtkdcgawrXwo2/n6nPu1d24OIX5DryaXCOBQ8TXsM2AEFAfPL2VvR55uunHiWDSAVSoRfUhm614kxYczlsVcdIN/kj74aI1W8WB5Bbk40gCs5Lyz4Cja714GlzTTV1PpbpAytnbC9hd2+j+W7a53cOooIPhuiruzU7DI2JUUVfbJVuxOEhvXAsWzgmehZSvcDMU86Dlh3Qj0cIbT9mAKeo5mpwN6ZQodnFdFQIvk4yYKGl2BKSgUhuFSaPRbIqU9EHJg3vSYg9d+HQB7yyfEQ8kEUKGrqhqZNkARKYb9PF04oZ7Q7AU4tpRSuVLSo=;eOTILFVj5SWHwOZbrqL2xA=="
 ---
 
