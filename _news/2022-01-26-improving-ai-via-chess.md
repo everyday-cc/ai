@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "How the internet is training AI to make better disinformation"
+    excerpt: "AI is accelerating disinformation creation way beyond deepfakes. The internet is rife with disinformation, and bad actors are becoming more skilled at spreading conspiracy theories and falsehoods online."
+    publishedDateTime: 2022-01-26T13:13:00Z
+    webUrl: "https://www.grid.news/story/technology/2022/01/26/how-the-internet-is-training-ai-to-make-better-disinformation/"
+    type: article
+    provider:
+      name: grid
+      domain: grid.news
+    quality: 37
+    images:
+      - url: "https://www.grid.news/resizer/VLWxS3hYxcqLcjFY1YmXpIO9fKQ=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/KEN3LUEQ6FAJHMBV5YKCGYZEPY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "VJZ600iGb5rwqNZ+H5+lIqrOuCxp3ge3sRgdtNAk5R1oTx8Yggc+Tw3jqaLcau8HL7CI5hN3lYZq+RZIJZkeccJcBKRjxsOEKgqqtqnoOUGRJmWipiuhpGUKzZRZPlTtzgkki/Q5C1aTHjbTJcIp2wMhFC+d6xRjVXPZpgs/BmBEluxYPj3ZwqYydhBbBWe8PL6D2IdT3XM79FCYYPrqYktgx8nXCSBBxEq8HUkqqK3CRoEXENmATD4tPgtdOetbCkeNfGQ1dUJQa+S/2ljo1N+VXE9rS6vACkViBVqLzrykyp3a6pTZn3Rlq1HaEjx8nfdLY3dooqIUxkIHhnKp/XsZ+jUxFgk3PthGxbfMfgChSq24y2/Oh8mfH/BaSeEnIqIMInb0pP4D71Rzy315PskBBEOH2l/gX7xafLqJ2ImkJKU89JLTGKVCCWunCnrlob/KAowEt82vxwKUUhzesquCVtzWiK0K8xvC/j9EL0tWmR33An04CWr1+oLEFOQMDOoCydLmVf7Fky1Mhca6wA==;4nTxgra/TuAITqEFSP/bTg=="
 ---

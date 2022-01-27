@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "How the internet is training AI to make better disinformation"
+    excerpt: "AI is accelerating disinformation creation way beyond deepfakes. The internet is rife with disinformation, and bad actors are becoming more skilled at spreading conspiracy theories and falsehoods online."
+    publishedDateTime: 2022-01-26T13:13:00Z
+    webUrl: "https://www.grid.news/story/technology/2022/01/26/how-the-internet-is-training-ai-to-make-better-disinformation/"
+    type: article
+    provider:
+      name: grid
+      domain: grid.news
+    quality: 37
+    images:
+      - url: "https://www.grid.news/resizer/VLWxS3hYxcqLcjFY1YmXpIO9fKQ=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/KEN3LUEQ6FAJHMBV5YKCGYZEPY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Improving AI via chess"
     excerpt: "Growing up, Casey Richardson was an avid chess player, studying the game religiously and playing in regional and state tournaments. \"One thing I liked about chess is, it's all strategy, not luck,\" says Richardson,"
     publishedDateTime: 2022-01-25T21:50:00Z

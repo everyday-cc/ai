@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/tesla-says-full-self-driving-software-remai
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1"
 type: article
 quality: 102
-heat: 112
+heat: 113
 published: true
 
 provider:

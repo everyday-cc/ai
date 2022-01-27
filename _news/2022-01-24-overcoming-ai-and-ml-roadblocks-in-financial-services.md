@@ -7,7 +7,7 @@ originalUrl: "https://www.infoworld.com/resources/230070/overcoming-ai-and-ml-ro
 webUrl: "https://www.infoworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences"
+    excerpt: "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes."
+    publishedDateTime: 2022-01-25T14:17:00Z
+    webUrl: "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/"
+    type: article
+    provider:
+      name: Contract Pharma
+      domain: contractpharma.com
+    quality: 50
+    images:
+      - url: "https://dev.rodpub.com/images/248/280_main.jpg"
+        width: 1542
+        height: 833
+        isCached: true
   - title: "Making the Most of RegTech for Financial Services"
     excerpt: "In this white paper, you’ll learn: current RegTech developments and promising areas of growth, key challenges to RegTech success, and three guiding principles to RegTech success."
     publishedDateTime: 2022-01-25T09:03:00Z

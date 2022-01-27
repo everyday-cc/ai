@@ -55,6 +55,59 @@
       ]
     },
     {
+      "path": "_news/2022-01-19-text-classification-with-tensorflow-hub-movie-reviews.md",
+      "title": "Text classification with TensorFlow Hub: Movie reviews",
+      "excerpt": "This notebook classifies movie reviews as positive or negative using the text of the review. This is an example of binary—or two-class—classification, an important and widely applicable kind of machine learning problem. The tutorial demonstrates the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tutorials/keras/text_classification_with_hub?hl=ur",
+      "originalUrl": "https://www.tensorflow.org/tutorials/keras/text_classification_with_hub?hl=ur",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=ur",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-examining-the-tensorflow-graph.md",
       "title": "Examining the TensorFlow Graph",
       "excerpt": "TensorBoard’s Graphs dashboard is a powerful tool for examining your TensorFlow model. You can quickly view a conceptual graph of your model’s structure and ensure it matches your intended design. You can also view a op-level graph to understand how ...",

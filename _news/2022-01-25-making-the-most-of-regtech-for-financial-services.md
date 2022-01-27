@@ -39,6 +39,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences"
+    excerpt: "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes."
+    publishedDateTime: 2022-01-25T14:17:00Z
+    webUrl: "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/"
+    type: article
+    provider:
+      name: Contract Pharma
+      domain: contractpharma.com
+    quality: 50
+    images:
+      - url: "https://dev.rodpub.com/images/248/280_main.jpg"
+        width: 1542
+        height: 833
+        isCached: true
 
 secured: "czKyRaMUHU/JJpM1bAwXlUVhwtAV9amZHZzDR6GP47nNyOmLI7dU45i8yuujU3lw32Nkv7G0uVvDH77Ot6pDwp+TOasYuaOa8ndDjNw5lojIvgES9p8h3jDwOhPJUzGnwR3dXQ6osCfD40Uhd2UIXfWa7XZvN8/5ykEx1xiDm7EtOGsTTWwY0AJZX2WAhxtQQBC7gp1SnNMRSewSZhlYBnS/1fqj839xiqm/GQsXALMRMXcuoy9UKaWeNFYks/JQmvUixaU367DHtaIqFLYWjVyEtwh73Yymp+L32XuVStxyw4D1CXRgMc9n8iuG4EiwZ8GPmDsnjqwhlo1cd73kNManLzalrHPeR4giyw1wTzHsl9qYQN0SU9NVIwvxwCIqwnKRU/QMdIc2rEaHl6ux1RzpxxdDtQWh+LHtSKqbNoB+MQMxv/14yMjECrAgtUq+KDA7Mcni5jaaRmMxEmSwrO7X7UhLt/EFGNcZ6moCQoiWSrasszbsOObeD60ve/zcVM8t25OhTjSQ/TMFFOk71Q==;LYJ68PV2TOcJu8yShJ6/wg=="
 ---
