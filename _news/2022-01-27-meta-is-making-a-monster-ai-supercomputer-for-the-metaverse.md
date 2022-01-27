@@ -8,7 +8,7 @@ webUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-super
 ampWebUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
 type: article
-quality: 59
+quality: 63
 heat: -1
 published: false
 
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://singularityhub.com/wp-content/uploads/2022/01/meta-metaverse-ai-explosion-network.jpeg"
@@ -339,6 +341,22 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "Facebook parent Meta creates powerful AI supercomputer"
+    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
+    publishedDateTime: 2022-01-24T21:33:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Largest Artificial Intelligence Supercomputer Is Zuckerberg's New Boast"
     excerpt: "Facebook's parent company Meta announced on Monday it was launching one of the world's most powerful supercomputers to boost its capacity to process data, despite persistent disputes over privacy and disinformation."
     publishedDateTime: 2022-01-25T01:19:00Z
@@ -651,17 +669,6 @@ related:
         width: 1248
         height: 701
         isCached: true
-  - title: "Facebook parent Meta creates powerful AI supercomputer"
-    excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
-    publishedDateTime: 2022-01-25T04:29:00Z
-    webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
-    ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "RUAG Space agrees AI partnership for satellite supercomputer"
     excerpt: "Switzerland’s RUAG Space said Jan. 24 it is teaming up with a software provider to run artificial intelligence solutions on its Lynx, which it says is the most powerful commercially available onboard satellite computer."
     publishedDateTime: 2022-01-24T23:03:00Z
@@ -751,6 +758,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "biP0yY8FawTB72FsvVoFGvdLj5ZSBiEuudd2mOWe0+9Fc2CtQtW4TAlqFcDQgse8w6tN3WuDmgumkTs9/cZOYQ9TMSQHT+ryuM3B9V5wc5sM/cTWeIQZmIdt+IeMsOrgsYc2/He+iSpmZbzat54T5eQfLyDylgmJrjHRX3SlaQgl+++IA+MyK3m5ihe3rMbEAls+gvQCfeEIb6xBD2lg8NivehjoHRbA67pN2OH7uFUYZGFthl1E+tlgzoja/Wz+vVAvWWmfAxn2TGHUHeE8FkcVdd925lX8+NtEVH5V1ZH5UcqU0AMcNU7HozeNQvJkBBGJVnmwLXY0DjZ1zp+jLmDAjgC/HeKexBlhEnM7row=;AG29Rlnpoc1hs7HUhac7cA=="
+secured: "hT3Tyl0lPYPzhoPQJt+7v/82Ji+lv1bTUrrNkxO/tXc/9ZQNzcLz04clLoOqrzZYt10pKB5J1sJBH3l8+IfafsGl/B8RTOk03g0UHSRxc9nZOrKLR2rs8o5w2PIwNBgWZ6/CnlmHFf3V9CP0UaeIhL/P3Bwcuuts6Eylw94Z4VG7KBcIe3e9PFvXy30qL/gatgKABCkxP9dV7zG4+ctOFDV6875NgLT2q74DqEoZbBmvtBSYRawoTtlqPinSXQ446VLKpV9eQ4Is9ayto3HUE455D/DbZOINONX1E3o8ZcAilz67ivilTQPGBOZxTJa7nX8mX+CMklazJfUgAGfhKdplbA60XM0/+cja50i/wLfMEPUEzJjbUTQ8l3jAfbAPzSaZ5kCFP4Qx4+TVIuxnCfP7fG6DAHHvNlD/hTe5t1AnsJOHLetelUMJskFCzmbTiE2vIbf9NJzxMAD2McqE4PO6FM7jn9woQvS8k7TRHnIrRwh+VSOAr6qe/FVOI4Y593pWL8saQLl4OQiAwQNGjg==;NLqiHnoqIoED/RuMeVjCag=="
 ---
 

@@ -2,6 +2,207 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-15-flipping-the-lens-on-fear-loathing-of-aiml-in-asian-robotics-review.md",
+      "title": "Flipping The Lens On Fear & Loathing of AI/ML - In Asian Robotics Review",
+      "excerpt": "Asian Robotics Review published an article about my annual Highlights and Milestones in AI in Healthcare report. I'm sharing the article here with permission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/flipping-lens-fear-loathing-aiml-asian-robotics-review-colangelo",
+      "originalUrl": "https://www.linkedin.com/pulse/flipping-lens-fear-loathing-aiml-asian-robotics-review-colangelo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEF4M4Cxd7VHA/article-cover_image-shrink_600_2000/0/1642107776452?e=1647475200&v=beta&t=PvX-aOxcIBd3ow0QxB7pKK1SgAWqiMeWN7sQ0se_RxA",
+          "width": 1162,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-samsung-develops-in-memory-computing-for-ai-chips.md",
+      "title": "Samsung develops in-memory computing for AI chips",
+      "excerpt": "Samsung Electronics announced it has developed an in-memory computing technology that merges memory and system semiconductors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5981642180108/2022/1/16421803414018/v1.5/Samsung-develops-in-memory-computing-for-AI-chips.jpg",
+          "width": 680,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
+      "publishedDateTime": "2022-01-14T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-4-reasons-meta-platforms-is-poised-to-grow-in-2022.md",
+      "title": "4 Reasons Meta Platforms Is Poised to Grow in 2022",
+      "excerpt": "I want to talk a little bit more about the future growth of Meta Platforms and Facebook. First, I just want to say one thing. I've been looking on LinkedIn and",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/01/14/4-reasons-meta-platforms-is-poised-to-grow-in-2022/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/14/4-reasons-meta-platforms-is-poised-to-grow-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/661292/gettyimages-1311088152.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars.md",
+      "title": "Here’s What That Engaging And Wildly Popular Game Wordle Can Teach You About AI Self-Driving Cars",
+      "excerpt": "An online game known as Wordle has suddenly become a social media darling and everyone is playing, which it turns out there are aspects that can shed light on AI self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/14/heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/14/heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e0d249077df3ab2d34b4ed%2F0x0.jpg%3FcropX1%3D433%26cropX2%3D3840%26cropY1%3D235%26cropY2%3D2507",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/14/heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/14/heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2022-01-14T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-nobel-laureates-to-discuss-the-future-of-science-at-vietnams-vinfuture-award-week.md",
       "title": "Nobel Laureates to discuss the future of science at Vietnam’s VinFuture Award Week",
       "excerpt": "HANOI, VIETNAM - Media OutReach - 14 January 2022 - As part of the VinFuture Award Week (Jan 18 – 21, in Hanoi), the “Science for Life” Symposium will see some of humanity’s greatest thinkers give detailed predictions about the future of mankind.",
@@ -282,15 +483,24 @@
     {
       "path": "_news/2022-01-14-deep-learning-has-deep-problems.md",
       "title": "Deep learning has deep problems",
-      "excerpt": "Can’t multi-taskDeep learning has some major issues which will eventually lead it to become a dead end. For 20 years, deep learning has come to dominate artificial intelligence research and applications through a series of useful commercial applications But according to IEEE Spectrum the inability",
+      "excerpt": "Can’t multi-task Deep learning has some major issues which will eventually lead it to become a dead end. For 20 years, deep learning has come to dominate artificial intelligence research and applications through a series of useful commercial applications But according to IEEE Spectrum the",
       "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/ai/54203-deep-learning-has-deep-problems",
-      "originalUrl": "https://www.fudzilla.com/news/ai/54203-deep-learning-has-deep-problems",
+      "webUrl": "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems",
+      "originalUrl": "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/f97416722213d9fce2e04a73b9cf58df_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -979,176 +1189,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-janes-news-page.md",
-      "title": "Janes - News page",
-      "excerpt": "Boeing is to expand its F/A-18E/F Super Hornet and EA-18G Growler industrial team for Germany, with ... New Czech Defence Minister Jana Černochová presented her ministry's priorities during a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.securitymagazine.com/articles/96922-swiss-transit-authority-uses-ai-monitoring-to-secure-rails",
-      "originalUrl": "https://www.janes.com/defence-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securitymagazine.com/ext/resources/2022/01/17/transport-g333cdff04_1920.jpg?height=635&t=1642440004&width=1200",
-          "width": 780,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jane's Information Group",
-        "domain": "janes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-an-ibanker-turns-entrepreneur-to-build-better-medical-care.md",
-      "title": "An iBanker Turns Entrepreneur to Build Better Medical Care",
-      "excerpt": "Former investment banker Daniel Ni (MBA 2018) has long wanted “to dream and to build” for greater social good. Seeking inspiration, he took his entrepreneurial dream to The Chinese University of Hong Kong (CUHK) Business School,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/knowledge/places/greater-bay-area/news",
-      "originalUrl": "https://www.scmp.com/presented/news/hong-kong/education/topics/rising-tide-environmental-awareness/article/3162472",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/d8/images/section/2020/12/17/og08-greater_bay_area_2.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/knowledge/places/greater-bay-area/news",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/knowledge/places/greater-bay-area/news",
-      "publishedDateTime": "2022-01-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-apache-pulsar-by-pandio-now-available-on-aws-marketplace.md",
-      "title": "Apache Pulsar® by Pandio Now Available on AWS Marketplace",
-      "excerpt": "Pandio, the leader in AI orchestration, announced today that its Apache Pulsar® product is available in AWS Marketplace, a digital catalog with thousands",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apache-pulsar-by-pandio-now-available-on-aws-marketplace/article_52097533-ee39-5256-9e3f-aecc9adedba8.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apache-pulsar-by-pandio-now-available-on-aws-marketplace/article_52097533-ee39-5256-9e3f-aecc9adedba8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-local-robotics-company-leases-32000-square-feet-in-pasadena-increased-footprint-eleven-fold.md",
-      "title": "Local Robotics Company Leases 32,000 Square Feet in Pasadena, Increased Footprint Eleven-Fold",
-      "excerpt": "Miso Robotics, a developer of artificial intelligence-driven robots that assist chefs in food preparation, has leased 32,623 square feet of office and lab space in Pasadena. The Pasadena company is leasing 21,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pasadenanow.com/main/local-robotics-company-leases-32000-square-feet-in-pasadena-increased-footprint-eleven-fold",
-      "originalUrl": "https://www.pasadenanow.com/main/local-robotics-company-leases-32000-square-feet-in-pasadena-increased-footprint-eleven-fold",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pasadenanow.com/main/wp-content/uploads/2022/01/Flippy-2-CROP-740x400-1.jpg",
-          "width": 740,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pasadena Now",
-        "domain": "pasadenanow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

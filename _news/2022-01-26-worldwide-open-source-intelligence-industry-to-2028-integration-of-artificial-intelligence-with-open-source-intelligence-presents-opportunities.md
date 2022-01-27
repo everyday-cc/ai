@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Needs People Intelligence"
+    excerpt: "Enterprises yearn for the competitive advantage that ML and AI can offer their business, but often prioritize technology strategically over people to unlock the value of their data. The hype about AI and ML,"
+    publishedDateTime: 2022-01-26T23:45:00Z
+    webUrl: "https://www.cio.com/article/303947/artificial-intelligence-needs-people-intelligence.html"
+    ampWebUrl: "https://www.cio.com/article/303947/artificial-intelligence-needs-people-intelligence.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/303947/artificial-intelligence-needs-people-intelligence.html/amp"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/01/iStock-1297326414_800-2.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Can AI Teach Us How to Become More Emotionally Intelligent?"
     excerpt: "Algorithms are getting better at analyzing how tone, facial expression, and dozens of other verbal and non-verbal cues influence communication."
     publishedDateTime: 2022-01-25T13:15:00Z

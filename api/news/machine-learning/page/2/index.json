@@ -448,15 +448,24 @@
     {
       "path": "_news/2022-01-14-deep-learning-has-deep-problems.md",
       "title": "Deep learning has deep problems",
-      "excerpt": "Can’t multi-taskDeep learning has some major issues which will eventually lead it to become a dead end. For 20 years, deep learning has come to dominate artificial intelligence research and applications through a series of useful commercial applications But according to IEEE Spectrum the inability",
+      "excerpt": "Can’t multi-task Deep learning has some major issues which will eventually lead it to become a dead end. For 20 years, deep learning has come to dominate artificial intelligence research and applications through a series of useful commercial applications But according to IEEE Spectrum the",
       "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/ai/54203-deep-learning-has-deep-problems",
-      "originalUrl": "https://www.fudzilla.com/news/ai/54203-deep-learning-has-deep-problems",
+      "webUrl": "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems",
+      "originalUrl": "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/f97416722213d9fce2e04a73b9cf58df_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,

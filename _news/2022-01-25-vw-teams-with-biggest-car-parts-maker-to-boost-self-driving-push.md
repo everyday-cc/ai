@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple has expanding the team testing its self-driving cars in California"
-    excerpt: "Apple's self-driving cars in California. The cars are testing Apple's self-driving technology but not an actual car. Apple has expanded the team of people that are testing its self-driving cars on the streets of California."
-    publishedDateTime: 2022-01-26T14:29:00Z
-    webUrl: "https://www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california"
-    ampWebUrl: "https://www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california?amp"
-    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california?amp"
-    type: article
-    provider:
-      name: iMore
-      domain: imore.com
-    quality: 43
-    images:
-      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/apple-car-toyota-mashup.jpeg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "UK needs law for self-driving cars, government bodies say"
     excerpt: "The law should regulate self-driving vehicles and include sanctions for companies if anything goes wrong when their vehicles take over control from human drivers, two independent governmental bodies said."
     publishedDateTime: 2022-01-26T08:11:00Z

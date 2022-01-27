@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Facebook parent Meta creates powerful AI supercomputer"
-excerpt: "Meta, Facebook's parent company, says it has created among the fastest artificial intelligence supercomputers running today."
-publishedDateTime: 2022-01-25T04:29:00Z
-originalUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
-webUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/"
-ampWebUrl: "https://www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-parent-meta-creates-powerful-ai-supercomputer/?amp=1"
+excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
+publishedDateTime: 2022-01-24T21:33:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Meta Unveils New AI Supercomputer"
@@ -141,6 +147,22 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-01/59272060-7d43-11ec-bf4f-531a7fcff1a5"
         width: 2000
         height: 844
+        isCached: true
+  - title: "Meta Is Making a Monster AI Supercomputer for the Metaverse"
+    excerpt: "Meta is building a new supercomputer to train enormous machine learning algorithms. Though only partially complete, the AI Research Supercluster (RSC) already ranks among the most powerful machines on the planet."
+    publishedDateTime: 2022-01-26T21:36:00Z
+    webUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/"
+    ampWebUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 63
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/01/meta-metaverse-ai-explosion-network.jpeg"
+        width: 1068
+        height: 601
         isCached: true
   - title: "Facebook’s Parent Meta Is Building The World’s Fastest AI Supercomputer"
     excerpt: "Facebook parent Meta Platforms Inc. on Monday announced a new artificial intelligence (AI) supercomputer known as the “AI Research SuperCluster or RSC”."
@@ -301,22 +323,6 @@ related:
       - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Meta Is Making a Monster AI Supercomputer for the Metaverse"
-    excerpt: "Meta is building a new supercomputer to train enormous machine learning algorithms. Though only partially complete, the AI Research Supercluster (RSC) already ranks among the most powerful machines on the planet."
-    publishedDateTime: 2022-01-26T21:36:00Z
-    webUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/"
-    ampWebUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 59
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/01/meta-metaverse-ai-explosion-network.jpeg"
-        width: 1068
-        height: 601
         isCached: true
   - title: "Facebook parent Meta is developing the “world’s fastest” AI supercomputer"
     excerpt: "The high-speed computer is designed specifically to train machine learning systems, according to Facebook-owned Meta RSC will be used to train a range of"
@@ -749,6 +755,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "AZygyGr65m8PsAUPPJ5+KgPjsAeVaF0bZs+hem2K6CxdrjAm5XvAAp1gOBsamcB+Kc4wMCHWjhfv+v/fYK8kPG9w3UCoX4VRrj6u9uvPboUYUQjFNboIDfQNg8fDev2Z+PjtCLL/Gapx15p3PJRgLM1UR25DI2yd1K79eCiohm+J78rrB8VAfSeIXWTTam75D2eMFD0sm9npmXusngUpAyIKzGzlvmQb5fEDqwUBglJYGaPhtdmw1uD01IqlnabIJeNpVjpaakHTGNhQN8h3TuIH2pXLNG+FzJWEcEbQjKKOzI3uX9BtbkFG6oNGIyaEQvIsSXd7D6lMHfd3gkBJxFFLDK5VRAyp8E7iaWyQhJWXktO0O1fm5nxE75XwBFK5JWJues2KtQjlt4oVH8Hn9gI1z6oaLGquV+Ue4M0r3G+GaVwuFqksyzCFN2YuKnxDIvfboptRpVMdWqBtqHt3F2RXw+1+ebzVensaFZW1sWRjqJFfvY7+CQAAln5GIMCoTq/2wrgBXhlbllJz01GkzA==;atEvwIomBTHZOhYKNAZhwA=="
+secured: "581wU1tRS1dj/v6lMYn1AKxFtR4DunFUf8YLaSY7XttiSdK5qRfQoUfCU0mirb3T7VFwIskK3Au2du7rwhDqnscOEoCizHqe0Husy/pv/4cjIV/TVXqiMfs4s933bk6FDw1w8sUcgUVkEAwvJL9vTF8CLVd2pyjcPrJoHjs6LqQLllegtgcMXVaWKN4SMJJvNRolAioOAfyEBBH12NeJee0CxqZqfUl2dkOnHfR3O+2mLG+qsdIQeiVZ6B8e/V9FRf2o1vXeeaYVbl6xfrxe4QA0e115ismuTwyaaC+CsvcZnalJuJYHrJjCdaFXn4rvrNI7ND0KMb/M5Dl5U+ZcDRRG61fYvbJSB9mkHrUVKSc=;x3FsagEchd04SWsVo7iAaw=="
 ---
 

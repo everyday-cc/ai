@@ -45,15 +45,15 @@ related:
         isCached: true
   - title: "Building a Smarter Government with Data, Analytics and Machine Learning in the Cloud"
     excerpt: "A primary issue for federal agencies when it comes to getting the most out of their data is that most of that data never gets used. Research shows that some 90% of organizational data does not get used for analytics and decision-making."
-    publishedDateTime: 2022-01-26T21:38:00Z
-    webUrl: "https://defensesystems.com/assets/building-smarter-government-data-analytics-and-machine-learning-cloud.pdf"
+    publishedDateTime: 2022-01-26T23:35:00Z
+    webUrl: "https://washingtontechnology.com/assets/building-smarter-government-data-analytics-and-machine-learning-cloud.pdf"
     type: article
     provider:
-      name: Defense Systems
-      domain: defensesystems.com
+      name: Washington Technology
+      domain: washingtontechnology.com
     quality: 32
     images:
-      - url: "https://cdn.federalsoup.com/media/screen_shot_2022-01-18_at_3.03.12_pm.png"
+      - url: "https://cdn.washingtontechnology.com/media/screen_shot_2022-01-18_at_3.03.12_pm.png"
         width: 764
         height: 927
         isCached: true

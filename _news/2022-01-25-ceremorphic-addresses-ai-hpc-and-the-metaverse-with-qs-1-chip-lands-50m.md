@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The ethics of the metaverse"
+    excerpt: "Did you miss a session from the Future of Work Summit? Head over to our Future of Work Summit on-demand library to stream. We’re all in a rage about the metaverse, the universe of virtual worlds that are all interconnected,"
+    publishedDateTime: 2022-01-27T00:20:00Z
+    webUrl: "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/"
+    ampWebUrl: "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/ethics-panel.jpg?w=1200&strip=all"
+        width: 1200
+        height: 666
+        isCached: true
   - title: "Low-power AI computer chip startup Ceremorphic exits stealth with $50M funding"
     excerpt: "Energy-efficient artificial intelligence supercomputing chip startup Ceremorphic Inc. is exiting stealth mode today armed with $50 million in a Series A round of funding. The company is developing what it says will be a “complete silicon system” aimed at delivering the required performance for next-generation applications such as AI model training,"
     publishedDateTime: 2022-01-24T17:23:00Z

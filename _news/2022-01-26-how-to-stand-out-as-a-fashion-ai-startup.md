@@ -2,13 +2,13 @@
 category: news
 title: "How to stand out as a fashion AI startup"
 excerpt: "Adeptmind, the emerging AI and machine learning tech startup backed by Ulta Beauty, is providing its technology to over 400 retailers, shopping malls and brand clients."
-publishedDateTime: 2022-01-26T11:36:00Z
-originalUrl: "https://www.voguebusiness.com/startups/how-to-stand-out-as-a-fashion-ai-startup"
-webUrl: "https://www.voguebusiness.com/startups/how-to-stand-out-as-a-fashion-ai-startup"
-ampWebUrl: "https://www.voguebusiness.com/startups/how-to-stand-out-as-a-fashion-ai-startup/amp"
-cdnAmpWebUrl: "https://www-voguebusiness-com.cdn.ampproject.org/c/s/www.voguebusiness.com/startups/how-to-stand-out-as-a-fashion-ai-startup/amp"
+publishedDateTime: 2022-01-26T11:00:00Z
+originalUrl: "https://www.voguebusiness.com/companies/how-to-stand-out-as-a-fashion-ai-startup"
+webUrl: "https://www.voguebusiness.com/companies/how-to-stand-out-as-a-fashion-ai-startup"
+ampWebUrl: "https://www.voguebusiness.com/companies/how-to-stand-out-as-a-fashion-ai-startup/amp"
+cdnAmpWebUrl: "https://www-voguebusiness-com.cdn.ampproject.org/c/s/www.voguebusiness.com/companies/how-to-stand-out-as-a-fashion-ai-startup/amp"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://media.voguebusiness.com/photos/61f11f22fd855c197a6d5d9d/16:9/w_1920,c_limit/adeptmind-voguebus-adeptmind-jan-21-social-newsletter.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "How Insight Partners Vets AI Startups"
@@ -35,6 +41,6 @@ related:
         height: 640
         isCached: true
 
-secured: "iZhaFZ7CFwThxk5v/D+gpmXP/LBdHTkgyVHS9O/WIpasSQKWi7HSCjB0poevDtIRyuFSCp4/AKFzd+hh2hnJ5fOZAppvyrMSAgRnag2QqPSi/LnUUe2XKMP4WfbFIqrxbPgJL87uJyFpkB4pP7XKT7bElvgcP6j6zF71vLgcooXf30OBMCVogWMNNLM2Q1cc8sTrEBzG+zMmlyre2xEgToxahSVnkHks94Udamk/EaCuVwbliNl8x3SbyTLoRKa5ot3zVue1rLeFNxYrOoWVUbILqNWyUzxqeBL4x4Fve+3UpwVVxOpfr3Q8dld9Py7K/KO3Qmpvjy8bafJ15asXwNx7fm0/mHv+dS4t9KsF9ulz8ACGLf7ISFm7k0GHpl3QG6dW8/d2FyCwKImWfCA/+IVmsOEEDsmyL444y5zp6Gb4CevkHUHGzYhg9MLXrFPftEKIueIv8hYQ2Ll/02SJAuA3cDwzzrvdCSBVFJnzAckTrOmpKEw4cmfH5LLZVo4eT7+UZi7Z29V40SGJVXYNnQ==;2nsAb3AGbZo/ELP+gx07ig=="
+secured: "lkImGXbtXlceyHn9CRJV5ku87SG3ohRkewBl+nTAdCyOFiIEd3vVjp0RkVEeM8Hl0joCAt4YWDKW7yrxYFfMVTHFle0neMqlBrrWI4xzBJ8L6H8KVfi3I2jMOer0hAjrrucb5ftdrWWh0CeVM26rmIPv/Wm0NzoczgqdAsSmESIdRMZWA1G5KMa5+A8P1RK4bxtsVIx48OLV7RBLJrfPpiB6AjXv8VHoHycdWsedffEHPXxM5e12SuDyxyc/z5/gfC9qTfmflAawBuAap/rDmXpLSUFOzyidJbUcf4TbujfCdNazaEpgRpWcXkokfHcPtqUmSys6ZvJ8CZleSIvwlOGGg2tynvtjtGQsY/cAG4o=;+q5nhVMZti8ZwTNdpR6X5g=="
 ---
 

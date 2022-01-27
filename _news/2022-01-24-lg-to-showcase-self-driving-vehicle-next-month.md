@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/amp/auto/features/article/lg-to-showcas
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://www.canindia.com/wp-content/uploads/2022/01/CINEWS_324x235.png"
         width: 324
         height: 236
+        isCached: true
+  - title: "Bill to allow self-driving vehicles to test without emergency driver moves to full Pa. Senate"
+    excerpt: "The state Senate Transportation Committee has moved a bill to the full Senate that would allow companies developing self-driving vehicles to test them on state roads without"
+    publishedDateTime: 2022-01-26T23:19:00Z
+    webUrl: "https://www.bradfordera.com/news/bill-to-allow-self-driving-vehicles-to-test-without-emergency-driver-moves-to-full-pa/article_14756a45-0243-515e-99b4-a983940eadb0.html"
+    type: article
+    provider:
+      name: Bradford Era
+      domain: bradfordera.com
+    quality: 13
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bradfordera.com/content/tncms/assets/v3/eedition/0/4f/04fb243f-4367-58d0-97fa-b52511eeb847/61f0ab6b5146b.preview-300.jpg?resize=300%2C651"
+        width: 300
+        height: 651
         isCached: true
   - title: "LG to unveil life-size self-driving concept car"
     excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as \"a home office,"

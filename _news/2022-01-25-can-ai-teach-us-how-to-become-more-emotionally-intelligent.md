@@ -9,7 +9,7 @@ ampWebUrl: "https://hbr.org/amp/2022/01/can-ai-teach-us-how-to-become-more-emoti
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2022/01/can-ai-teach-us-how-to-become-more-emotionally-intelligent"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Needs People Intelligence"
+    excerpt: "Enterprises yearn for the competitive advantage that ML and AI can offer their business, but often prioritize technology strategically over people to unlock the value of their data. The hype about AI and ML,"
+    publishedDateTime: 2022-01-26T23:45:00Z
+    webUrl: "https://www.cio.com/article/303947/artificial-intelligence-needs-people-intelligence.html"
+    ampWebUrl: "https://www.cio.com/article/303947/artificial-intelligence-needs-people-intelligence.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/303947/artificial-intelligence-needs-people-intelligence.html/amp"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/01/iStock-1297326414_800-2.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Worldwide Open-source Intelligence Industry to 2028 - Integration of Artificial Intelligence with Open-Source Intelligence Presents Opportunities - Re"
     excerpt: "The \"Global Open-Source Intelligence Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Technique (Text Analytics, Video Analytics, Social Media Analytics, Geospatial Analytics, Security Analytics,"
     publishedDateTime: 2022-01-26T11:02:00Z

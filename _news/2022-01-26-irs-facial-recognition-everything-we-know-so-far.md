@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e
 cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "The IRS Needs to Stop Using ID.me's Face Recognition, Privacy Experts Warn"
+    excerpt: "New statements from the company's CEO show it may use a more expansive facial recognition system than previously known."
+    publishedDateTime: 2022-01-27T00:18:00Z
+    webUrl: "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342"
+    ampWebUrl: "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-id-me-irs-face-recognition-works-1848429342/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4eedb672b1755b7c1f50bba95d8da978.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Smile! The IRS Wants You To Send Selfies to a Facial Recognition Company"
     excerpt: "\"No Identity Left Behind.\" Americans who want to access tax return transcripts, check on child tax credits, or do"
     publishedDateTime: 2022-01-24T14:32:00Z

@@ -2,24 +2,24 @@
 category: news
 title: "Building a Smarter Government with Data, Analytics and Machine Learning in the Cloud"
 excerpt: "A primary issue for federal agencies when it comes to getting the most out of their data is that most of that data never gets used. Research shows that some 90% of organizational data does not get used for analytics and decision-making."
-publishedDateTime: 2022-01-26T21:38:00Z
-originalUrl: "https://defensesystems.com/assets/building-smarter-government-data-analytics-and-machine-learning-cloud.pdf"
-webUrl: "https://defensesystems.com/assets/building-smarter-government-data-analytics-and-machine-learning-cloud.pdf"
+publishedDateTime: 2022-01-26T23:35:00Z
+originalUrl: "https://washingtontechnology.com/assets/building-smarter-government-data-analytics-and-machine-learning-cloud.pdf"
+webUrl: "https://washingtontechnology.com/assets/building-smarter-government-data-analytics-and-machine-learning-cloud.pdf"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Defense Systems
-  domain: defensesystems.com
+  name: Washington Technology
+  domain: washingtontechnology.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://cdn.federalsoup.com/media/screen_shot_2022-01-18_at_3.03.12_pm.png"
+  - url: "https://cdn.washingtontechnology.com/media/screen_shot_2022-01-18_at_3.03.12_pm.png"
     width: 764
     height: 927
     isCached: true
@@ -56,6 +56,6 @@ related:
         height: 438
         isCached: true
 
-secured: "tjewI9FYfzPnTXuKVxqfFzzHh54m1M9DINAxTZlvJirU6yuEdEEYoT+JP40N5DBT4NcPkPIxlyZxypY/hkIKRkTM4io4GylugbVb+WM/vmL95dT1mFiCBXBgYjaCWI3lFudwQigi6LTllfBc2o0ZYijxxgNHMPRbdx7OJVjigb7UdjjYqXzY1l8KCE+jGHHtrVJMS0plFin2v+U86RNu2ph5JYQJTv4OyyZiRm9BQVEeKsQ1/XgqwCPB0ae/Bn7jXhHBbTGS3WnqPxCeyGJxMhj/WCO487Q1a2513zWIs2z/lKE2KwJ3bFD8ZFpuGtgagRFuVUhwCm+UomciEkq9VcxFc5w1lTCD9SZaGEFz5WY=;tglm7+v7CTTj91oQWTV5/Q=="
+secured: "qSZr/zMcImuiUAH1cjm449AjQ3n2z5Fcr4fdXv6BlplEZJehETHzOIet/cVMD5CrpfyqfHllwd5rdZ+nZi+3639xh1jB5b2OWIewbSxNbRtG/g5oDmjJb+FhM2h+9LwgolQclv8uHliKTnvuwHjrfUyu15j4G+JUSDxfZVnDQDV9b/p3L52oYu4Z1Z3xbSwJ194fRqxOtrOETHXRZCt6kzWP/Leo3UQB0VqaxlSGsL6grq75j+lmM80nHYHTuRBm+E6o8e920qIjjkY+2vpgpWWRRilG3cCssG7cw8aeD/b0Is4phWEsFXFHM1qrOp3aTaA9J221i+rgirnsYRrqDsbBp5zAKNbdCytLqVjc5rs=;QwvXBeKl9jiMoYqHHUPPdg=="
 ---
 

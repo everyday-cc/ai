@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sciencenews.org/article/ai-identify-anonymous-data-phone
 cdnAmpWebUrl: "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/ai-identify-anonymous-data-phone-neural-network/amp"
 type: article
 quality: 57
-heat: 58
+heat: 57
 published: false
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-e
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/amp/"
 type: article
 quality: 189
-heat: 250
+heat: 249
 published: true
 
 provider:

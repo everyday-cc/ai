@@ -2,6 +2,176 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-01-14-janes-news-page.md",
+      "title": "Janes - News page",
+      "excerpt": "Boeing is to expand its F/A-18E/F Super Hornet and EA-18G Growler industrial team for Germany, with ... New Czech Defence Minister Jana Černochová presented her ministry's priorities during a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.securitymagazine.com/articles/96922-swiss-transit-authority-uses-ai-monitoring-to-secure-rails",
+      "originalUrl": "https://www.janes.com/defence-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securitymagazine.com/ext/resources/2022/01/17/transport-g333cdff04_1920.jpg?height=635&t=1642440004&width=1200",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jane's Information Group",
+        "domain": "janes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-an-ibanker-turns-entrepreneur-to-build-better-medical-care.md",
+      "title": "An iBanker Turns Entrepreneur to Build Better Medical Care",
+      "excerpt": "Former investment banker Daniel Ni (MBA 2018) has long wanted “to dream and to build” for greater social good. Seeking inspiration, he took his entrepreneurial dream to The Chinese University of Hong Kong (CUHK) Business School,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/knowledge/places/greater-bay-area/news",
+      "originalUrl": "https://www.scmp.com/presented/news/hong-kong/education/topics/rising-tide-environmental-awareness/article/3162472",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/d8/images/section/2020/12/17/og08-greater_bay_area_2.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/knowledge/places/greater-bay-area/news",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/knowledge/places/greater-bay-area/news",
+      "publishedDateTime": "2022-01-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-apache-pulsar-by-pandio-now-available-on-aws-marketplace.md",
+      "title": "Apache Pulsar® by Pandio Now Available on AWS Marketplace",
+      "excerpt": "Pandio, the leader in AI orchestration, announced today that its Apache Pulsar® product is available in AWS Marketplace, a digital catalog with thousands",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apache-pulsar-by-pandio-now-available-on-aws-marketplace/article_52097533-ee39-5256-9e3f-aecc9adedba8.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/apache-pulsar-by-pandio-now-available-on-aws-marketplace/article_52097533-ee39-5256-9e3f-aecc9adedba8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-local-robotics-company-leases-32000-square-feet-in-pasadena-increased-footprint-eleven-fold.md",
+      "title": "Local Robotics Company Leases 32,000 Square Feet in Pasadena, Increased Footprint Eleven-Fold",
+      "excerpt": "Miso Robotics, a developer of artificial intelligence-driven robots that assist chefs in food preparation, has leased 32,623 square feet of office and lab space in Pasadena. The Pasadena company is leasing 21,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pasadenanow.com/main/local-robotics-company-leases-32000-square-feet-in-pasadena-increased-footprint-eleven-fold",
+      "originalUrl": "https://www.pasadenanow.com/main/local-robotics-company-leases-32000-square-feet-in-pasadena-increased-footprint-eleven-fold",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pasadenanow.com/main/wp-content/uploads/2022/01/Flippy-2-CROP-740x400-1.jpg",
+          "width": 740,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pasadena Now",
+        "domain": "pasadenanow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-btyse-2022-marked-by-strong-mix-of-technological-inventions-for-benefit-of-all.md",
       "title": "BTYSE 2022 marked by strong mix of technological inventions for benefit of all",
       "excerpt": "They pursued their project in light of evidence that heading footballs can cause cognitive damage and they ... especially when waiting for emergency services to arrive. Their “lever and piston ...",
@@ -1018,194 +1188,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-seel-secures-17m-round-to-infuse-ai-in-customer-product-returns.md",
-      "title": "Seel secures $17M round to infuse AI in customer product returns",
-      "excerpt": "Merchants can add “return assurance” to an order, if it is returned in the next 30 days, Seel, instead of the merchant, will pay for the refund.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/13/seel-secures-17m-round-to-infuse-ai-in-customer-product-returns/",
-      "originalUrl": "https://techcrunch.com/2022/01/13/seel-secures-17m-round-to-infuse-ai-in-customer-product-returns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-664650106-e1640222329615.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/13/seel-secures-17m-round-to-infuse-ai-in-customer-product-returns/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/13/seel-secures-17m-round-to-infuse-ai-in-customer-product-returns/amp/",
-      "publishedDateTime": "2022-01-13T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-serve-robotics-becomes-first-autonomous-vehicle-company-to-commercially-launch-level-4-self-driving-robots.md",
-      "title": "Serve Robotics Becomes First Autonomous Vehicle Company to Commercially Launch Level 4 Self-Driving Robots",
-      "excerpt": "Serve Robotics, the leading autonomous sidewalk delivery company, today announced the deployment of its next-generation delivery",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/serve-robotics-becomes-first-autonomous-vehicle-company-to-commercially-launch-level-4-self-driving-robots-301460151.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/serve-robotics-becomes-first-autonomous-vehicle-company-to-commercially-launch-level-4-self-driving-robots-301460151.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1725764/L4_V1_006_FINAL.mp4?p=medium",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform.md",
-      "title": "Shield bags $15M Series A to address surging demand for its AI-powered communication compliance platform",
-      "excerpt": "Over the past two years, since the pandemic hit, there has been a sharp rise in financial crime compliance costs, nearing $50 billion in 2021, up 58% compared to 2019, in the U.S. and Canada.  Shield,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/",
-      "originalUrl": "https://techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Shield-Founding-Team.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/amp/",
-      "publishedDateTime": "2022-01-13T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-the-future-of-farming-think-artificial-intelligence-robots-and-drones.md",
-      "title": "The future of farming? Think artificial intelligence, robots, and drones.",
-      "excerpt": "The outfit at Iowa State, founded last September, is one of 11 established in eight disciplines, including agriculture, following a $220 million investment from the National Science Foundation and the Department of Agriculture,",
-      "sourceUrl": null,
-      "webUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/",
-      "originalUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://grist.org/fix/wp-content/uploads/sites/3/2022/01/WhatsNext_AI.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/amp/",
-      "cdnAmpWebUrl": "https://grist-org.cdn.ampproject.org/c/s/grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/amp/",
-      "publishedDateTime": "2022-01-13T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Grist",
-        "domain": "grist.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

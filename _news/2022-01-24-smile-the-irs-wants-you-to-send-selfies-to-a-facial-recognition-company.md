@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "The IRS Needs to Stop Using ID.me's Face Recognition, Privacy Experts Warn"
+    excerpt: "New statements from the company's CEO show it may use a more expansive facial recognition system than previously known."
+    publishedDateTime: 2022-01-27T00:18:00Z
+    webUrl: "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342"
+    ampWebUrl: "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-id-me-irs-face-recognition-works-1848429342/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4eedb672b1755b7c1f50bba95d8da978.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "IRS Facial Recognition: Everything we know so far"
     excerpt: "The IRS will require taxpayers who access and make their procedures online to sign up and verify their identity with a mobile platform that relies on a third party (company) starti"
     publishedDateTime: 2022-01-26T15:20:00Z
