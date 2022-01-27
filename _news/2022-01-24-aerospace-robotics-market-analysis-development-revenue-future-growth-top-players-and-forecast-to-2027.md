@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Growth, Trends, and Forecast, 2021-2031"
+    excerpt: "Artificial Intelligence (AI) in Remote Patient Monitoring Market: Contours The shift from volume-based to value-based care in healthcare sector has opened"
+    publishedDateTime: 2022-01-27T08:52:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-remote-patient-monitoring-market-growth-trends-and-forecast-2021-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/77382e6ba11d374925336267f0919e66e3a9618e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Global Surgical Robots Market Size, Share, Trends, Industry Growth and Forecast 2021-26"
     excerpt: "According to IMARC Group’s latest report, titled “Surgical Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global surgical robots market exhibited strong growth during 2015-2020."
     publishedDateTime: 2022-01-24T09:24:00Z
@@ -112,7 +126,7 @@ related:
   - title: "Worldwide Educational Robots Industry to 2027 - Growing Trend of Digitization is Driving Growth - ResearchAndMarkets.com"
     excerpt: "By Product type (Non-Humanoid and Humanoid), By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027” report has been added to ResearchAndMarkets.com’s offering. The Global Educational Robots Market size is expected to reach $2,"
     publishedDateTime: 2022-01-25T18:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-health-digitization-acc78c7760144cd1ab098e1b49936f85"
+    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-digitization-acc78c7760144cd1ab098e1b49936f85"
     type: article
     provider:
       name: Associated Press

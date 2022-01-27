@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-rewriting-future-writing-should-
 webUrl: "https://www.linkedin.com/pulse/ai-rewriting-future-writing-should-we-all-worried-paul-g-thompson"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "The ways AI is Impacting the Future Mobility"
+    excerpt: "AI in Mobility is re-inventing the driving experience In many ways, the data is the fuel to drive into the future of mobility leading to smart business decisions worldwide. The mobility sector creates a large amount of data regularly due to the rise in populations and changing consumer behaviors."
+    publishedDateTime: 2022-01-27T06:50:00Z
+    webUrl: "https://www.linkedin.com/pulse/ways-ai-impacting-future-mobility-futureanalytica-com/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGAt0Ctk_2TzA/article-cover_image-shrink_720_1280/0/1643264540488?e=1648684800&v=beta&t=GDA7y-NQC2CdEiBSacx6GMcjBRRLJU-V6vhY5AkRF3g"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "BI+s2wSrgeCSsxcBbd4YyfaXgdoTQ0NM37WODxSraT98mNVRLfXyxl+bOSXTb/fu8SqJtyifTVUrL7P2UDioEWv6D7M6lrIZyVGRJCo125EwduUnrKlNjiobJQGO173Tv4QjftwQmgfydWJ4FThAjK/nJ13e3JjLwYP2q9VkPdSBVCbze/U8KPZ2FvahHnoI1He2t+c7c18c+s41HNbiNkBPe57NUNWKTkCc9FuYsaPle0SgCKanqzxfynWl9a2F2o4/H6BCJoTDnrCftWUmigEDiThhPCdPApAT/wM+I8R6MmaF8vcKRK+UNZWMFP382ddnkMys3UgWXrhbrNN4XoGoA1Cg4F4aQPtMyOpBSzA=;5CBHnNkjZONg6S+xtpsjaw=="
 ---

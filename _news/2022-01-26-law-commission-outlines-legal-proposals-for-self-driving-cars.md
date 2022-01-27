@@ -7,7 +7,7 @@ originalUrl: "https://www.autocar.co.uk/car-news/technology/law-commission-outli
 webUrl: "https://www.autocar.co.uk/car-news/technology/law-commission-outlines-legal-proposals-self-driving-cars"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving car owners won’t be to blame for crashes under proposed new laws"
-    excerpt: "UK law chiefs recommend new regulation on autonomous driving, including assigning responsibility for errors and a crackdown on misleading marketing"
-    publishedDateTime: 2022-01-26T00:01:00Z
-    webUrl: "https://www.edinburghnews.scotsman.com/lifestyle/cars/self-driving-car-owners-wont-be-to-blame-for-crashes-under-proposed-new-laws-3541257"
+  - title: "When will self-driving cars come to the UK?"
+    excerpt: "SELF-DRIVING cars are set to be the future of domestic transport, as the UK plans to replace combustion engines with electric-powered motors. Manufacturers such as Tesla are leading the charge for"
+    publishedDateTime: 2022-01-27T06:00:00Z
+    webUrl: "https://www.thesun.co.uk/motors/3096829/url-self-driving-cars-when/"
+    ampWebUrl: "https://www.thesun.co.uk/motors/3096829/url-self-driving-cars-when/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/3096829/url-self-driving-cars-when/amp/"
     type: article
     provider:
-      name: The Scotsman
-      domain: scotsman.com
-    quality: 21
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 44
     images:
-      - url: "https://www.edinburghnews.scotsman.com/jpim-static/image/2022/01/25/16/shutterstock_1171593577_edited.jpeg?width=2048&enable=upscale"
-        width: 2048
-        height: 1366
-        isCached: true
-  - title: "UK needs law to sanction companies if self-driving cars go wrong, independent government bodies say"
-    excerpt: "The law should regulate self-driving vehicles and include sanctions for companies if anything goes wrong when their vehicles take over control from human drivers, two independent governmental bodies said."
-    publishedDateTime: 2022-01-26T08:11:00Z
-    webUrl: "https://europe.autonews.com/automakers/uk-needs-law-sanction-companies-if-self-driving-cars-go-wrong-independent-government"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 10
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20autonomous%20a8%20web.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2021/04/COMP-CFP-DRIVERLESS.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "oEqyhD44hkUhQaN1LW3dBg2+Yb0QKpqEHest138Oif0LH0aA7fKm2MCY2XxM2mPWlwjm6mdWhAhMn6Mf8WWY1lFrZRmb9TSyhFpyJAP9cY5QsvRfrtk2LDpmer5s7ng1gwsGjF/oxNRxNIUXeVX4nobG7kedfPWWHLO9k8v7dfkI9Tu/TZMU0w0jKLbEpOQscu7VdtvYC+hb0kcKjM5tqtY+9UOhBiyaX4iWuYMwhiwqvCNDvTYHF5nYYC6lc4wrTwUFuu6v0dG4ISG9ydp+mWFgXqrX3/U1ZPN/TrPnXD1tb9WMN87PIBmA17ghB3nwV3JV+YGc9U4ePiqi1IqdRIGwSggMLFYp1LRf+rwAnsE=;gHt31bHo6n7S0ovFMts8Lw=="

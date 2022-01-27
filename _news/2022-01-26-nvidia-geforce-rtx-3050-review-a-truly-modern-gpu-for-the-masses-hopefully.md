@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/608294/nvidia-geforce-rtx-3050-revie
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/608294/nvidia-geforce-rtx-3050-review.html/amp"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:

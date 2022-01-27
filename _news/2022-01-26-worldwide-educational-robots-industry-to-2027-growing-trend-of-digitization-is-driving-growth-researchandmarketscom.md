@@ -3,8 +3,8 @@ category: news
 title: "Worldwide Educational Robots Industry to 2027 - Growing Trend of Digitization is Driving Growth - ResearchAndMarkets.com"
 excerpt: "By Product type (Non-Humanoid and Humanoid), By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027” report has been added to ResearchAndMarkets.com’s offering. The Global Educational Robots Market size is expected to reach $2,"
 publishedDateTime: 2022-01-25T18:06:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-health-digitization-acc78c7760144cd1ab098e1b49936f85"
-webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-business-health-digitization-acc78c7760144cd1ab098e1b49936f85"
+originalUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-digitization-acc78c7760144cd1ab098e1b49936f85"
+webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-digitization-acc78c7760144cd1ab098e1b49936f85"
 type: article
 quality: 14
 heat: -1
@@ -52,6 +52,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?899994"
         width: 333
         height: 250
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Growth, Trends, and Forecast, 2021-2031"
+    excerpt: "Artificial Intelligence (AI) in Remote Patient Monitoring Market: Contours The shift from volume-based to value-based care in healthcare sector has opened"
+    publishedDateTime: 2022-01-27T08:52:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-remote-patient-monitoring-market-growth-trends-and-forecast-2021-2031"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/77382e6ba11d374925336267f0919e66e3a9618e-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Global Surgical Robots Market Size, Share, Trends, Industry Growth and Forecast 2021-26"
     excerpt: "According to IMARC Group’s latest report, titled “Surgical Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global surgical robots market exhibited strong growth during 2015-2020."
@@ -124,6 +138,6 @@ related:
         height: 1050
         isCached: true
 
-secured: "7lp7u7MGgM6mwvCor0Cjph/246LjEREpkgeJV8Y2gE1SkcLbzeQBUXiEv6r0lfhSTZYHzfJMH1lzqs3A2VVNlRn2JTdZ43xCvg8rM47SwRIBcjKti1xUN9c/m2H68QiUk2g3nOa2RvAOJ+mPCclM0Co/KAe7tuGrOitwoQ2TTzi8oxCel1y6fvxRi2HwkaTeuYQpmfjPXtiQZLj9nVq2jUWati3mXSe8uU+LL5sk36Vb2EBhzuohQtQb7DY/qEDJy/64KojhOmDj/NeJGKsmxMMXF2MY5uENZJxv4ynkjogmyG5oEbCA+SFT/dMtx3RgDGjZ2k5tqsp7sgAhfIY5aV/D778eCX/tQiyQ+2bCZIM=;sA6tbtXzd+TMGU7EBNhElw=="
+secured: "0WSZlomkqzO1DcxW6lNZsz5eF+skC1HiRilYK4vUa9BrybPDX0CpfESziR23Tj+Kn7pd0oRpiWttvxaX8EaSEueLP1bPydRDVjX6dvoVrzwgxqX+tgvGODzhvc5uW4QxpQQQTH8mASK4K5uvD+uIlcGJvVJbke/FrTT+zxouIRlUFFPYcHfOfnhsqVF3nVXCng6VmbQmQ0lTm70riNy4N4AfsXXOhyJbcIJLMTd0/3rrQ4gtiu391PYlmgr/ftRWvXRbvlflHwE+A18UB1ojj1GhwvxkpTNQln9SPdQywfqtxtelg+dOAWYPR5BBbnx4TZMizHwcnAD6lIQSMqG8CUuR5DUXt40BOd9+ZAPIEkU=;N8MGwWKb6WVDP2teD/xffA=="
 ---
 

@@ -50,7 +50,7 @@ related:
   - title: "DigitalOwl Raises $20M Series A Led by Insight Partners to Support Innovation and Growth"
     excerpt: "DigitalOwl, the first and only Natural Language Processing (NLP) technology for deeply analyzing and summarizing medical records, today announced a $20M Series A round led by New York-based global private equity and venture capital firm Insight Partners,"
     publishedDateTime: 2022-01-26T14:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/01/26/9533565.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-digitalowl-raises-20m-series-led-insight-partners-support-/2022/01/26/9533565.htm"
     type: article
     provider:
       name: TMCnet

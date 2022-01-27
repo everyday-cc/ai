@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 702
         isCached: true
+  - title: "Dylan Alcott gives incredible speech after Australian Open men’s quad singles final"
+    excerpt: "Dylan Alcott has finished has tennis career as a seven-time Australian Open champion, 15-time grand slam winner, four-time Paralympic gold medalist and Australian of the Year."
+    publishedDateTime: 2022-01-27T07:05:00Z
+    webUrl: "https://7news.com.au/sport/tennis/dylan-alcott-gives-incredible-speech-after-australian-open-mens-quad-singles-final-c-5467848"
+    ampWebUrl: "https://7news.com.au/sport/tennis/dylan-alcott-gives-incredible-speech-after-australian-open-mens-quad-singles-final-c-5467848.amp"
+    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/sport/tennis/dylan-alcott-gives-incredible-speech-after-australian-open-mens-quad-singles-final-c-5467848.amp"
+    type: article
+    provider:
+      name: 7news
+      domain: 7news.com.au
+    quality: 38
+    images:
+      - url: "https://images.7news.com.au/publication/C-5467848/3efec05e4011a62fbffdd0bc2630feff74d9b6d4-16x9-x0y436w6482h3646.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Recognition for giving Indigenous communities a voice in Australia Day Honours 2022"
     excerpt: "For Caringbah's Sharlene McKenzie, being able to give fellow Indigenous people a strong and supportive voice is a passionate and daily goal. For this dedication she has received an OAM on Australia Day for service to the Indigenous communities of South East Sydney."
     publishedDateTime: 2022-01-25T19:00:00Z
