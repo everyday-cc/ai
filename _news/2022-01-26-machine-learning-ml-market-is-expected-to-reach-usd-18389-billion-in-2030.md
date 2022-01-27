@@ -53,6 +53,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Size Worth $208.2 Billion By 2030: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030, according to a new report by"
+    publishedDateTime: 2022-01-27T10:05:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research-inc--864587650.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
+        width: 1400
+        height: 733
+        isCached: true
   - title: "Global Speech Recognition Market Size is Expected to Reach $29.28 Billion by 2026"
     excerpt: "Speech recognition technology catches and identifies the audio signals in the form of language and converts these signals into the machine-readabl"
     publishedDateTime: 2022-01-25T20:41:00Z

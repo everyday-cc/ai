@@ -59,6 +59,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "3 Beaten-Down Fintech Stocks to Buy Now"
+    excerpt: "These companies are growing a lot faster than their stock prices suggest following the recent stock market correction."
+    publishedDateTime: 2022-01-27T10:43:00Z
+    webUrl: "https://www.fool.com/investing/2022/01/27/3-beaten-down-fintech-stocks-to-buy-now/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/662787/a-couple-investing-getty.jpg"
+        width: 2120
+        height: 1414
+        isCached: true
   - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
     excerpt: "Increasing demand for AI in fintech in the cloud deployment mode coupled with high investment in R&D of AI in fintech are fueling the market growth."
     publishedDateTime: 2022-01-24T12:59:00Z
@@ -115,6 +129,15 @@ related:
         width: 728
         height: 800
         isCached: true
+  - title: "Future of FinTech | January 2022 – Week 3"
+    excerpt: "The third week of this month enters with a whirlwind when it comes to the news around the Fintech space. Last week’s colossal buzz encompasses a range of players – from the nascent stages to the giants alike."
+    publishedDateTime: 2022-01-25T10:34:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-fintech-january-2022-week-3-whitesight"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 4
 
 secured: "knZ8E6n4GEvFE47nuzkjQjklTDWPRluHM1GKzTa4VaQlWPZ6DKxIs9Kq6wEZVPsam2l0UFIb/4ONCV1KLp48iXpBn5m9HqIvgQDhJkT55a8FbJV4S2MMuMvfdpFg+mOfBR4X66qR9JJofWxvNmaXcA88vg1dAsaaKY2jA46QXqEwUQFs9V3s9/dD1uLV7hj2Wq183WIAmyq9BuT1w2xlXZCcBpM4oF97u7iCDIMWeFl7bN95RgUs+9+H/0LaURRsv+zTeDZ9d55w+sn5HCrLSXY7ytAoKDa8UYqnZ8CAQgfem1NhtvwoWzpjlCmW73ipio0SjbIJK0f+6NsTUv36SZmDAu46m4H7RlMSkKK8QbnCk80rj4fbqF1DAujKQxOY62A45Ne28EWdcmAx3hduO8IntlLhtkegnHQFB4oAOFEX6tEB40OkibLTD0TYhzxr4dW9MU0ZwpeUc7efLMwU6DRzxt5VhKEtIhvRpeh9J2MLwqT0kyUKtAkiTLbtaCstc2lOMoTfE1eC6bbgYCuqPA==;zMGj83dRHl0HmH7WBZ4nNw=="
 ---

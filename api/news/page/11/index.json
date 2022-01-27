@@ -2,6 +2,145 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-15-roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared.md",
+      "title": "Roborock vs. Roomba: 2 impressive robot vacuum mop combos compared",
+      "excerpt": "When the vacuum is done it will then instruct the Braava to start mopping. Both devices share your home's ... Another company, Samsung, made similar claims, but unfortunately, its Jet Bot AI Plus couldn't perform as advertised, so I'll need to test ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/home/kitchen-and-household/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
+      "originalUrl": "https://www.cnet.com/home/kitchen-and-household/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/wBwmRgI6ss08ArJU5-SSMcfUo_s=/1200x630/2022/01/04/1c7cad62-3698-4e16-85c4-713ad851a0ee/roborock-s7-maxv-ultra-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
+      "publishedDateTime": "2022-01-14T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-serve-robotics-achieves-autonomous-robo-delivery-milestone.md",
+      "title": "Serve Robotics achieves autonomous robo-delivery milestone",
+      "excerpt": "Autonomous sidewalk delivery company Serve Robotics completed robot deliveries with zero human interaction — an industry first.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone",
+      "originalUrl": "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/01/Serve-crossing-with-pedestrians.jpg.optimal.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone/amp",
+      "publishedDateTime": "2022-01-14T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services.md",
+      "title": "Ramco Systems builds voice biometric authentication on Azure Cognitive Services",
+      "excerpt": "Ramco aims to facilitate authentication in a post-COVID world, where many countries mandate the use of facemasks which can affect facial recognition accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202201/ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services",
+      "originalUrl": "https://www.biometricupdate.com/202201/ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg",
+          "width": 900,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-15-some-menopause-symptoms-tied-to-cognitive-impairment.md",
       "title": "Some Menopause Symptoms Tied to Cognitive Impairment",
       "excerpt": "FRIDAY, Jan. 14, 2022 (HealthDay News) -- The severity of certain menopause symptoms is associated with worse cognitive performance among rural women, according to a study published online Jan. 10 ...",
@@ -1032,145 +1171,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-the-neuropathic-pain-market-to-get-driven-by-machine-learning.md",
-      "title": "The Neuropathic Pain Market to get driven by Machine Learning",
-      "excerpt": "The Neuropathic Pain Market is ascertained to make greater strides in the future The present day and futuristic cutting edge technology namely IoT AI and Big Data operate better in a lightning fast and reliable internet connection The benefits of",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2526894/the-neuropathic-pain-market-to-get-driven-by-machine-learning",
-      "originalUrl": "https://www.openpr.com/news/2526894/the-neuropathic-pain-market-to-get-driven-by-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/V/1/V114949127_g.jpg",
-          "width": 620,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2526894/the-neuropathic-pain-market-to-get-driven-by-machine-learning",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2526894/the-neuropathic-pain-market-to-get-driven-by-machine-learning",
-      "publishedDateTime": "2022-01-13T23:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers.md",
-      "title": "NVIDIA released Deep-Learning Dynamic Super Resolution in its latest Game Ready drivers",
-      "excerpt": "NVIDIA releases Deep-Learning Dynamic Super Resolution, a technology that uses artificial intelligence to improve the performance of games.",
-      "sourceUrl": null,
-      "webUrl": "https://windowsreport.com/nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers/",
-      "originalUrl": "https://windowsreport.com/nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2022/01/fWEJy2chKV.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers/?amp",
-      "publishedDateTime": "2022-01-13T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-us-chip-giant-nvidia-is-finding-success-in-china-by-riding-the-countrys-ev-boom.md",
-      "title": "U.S. chip giant Nvidia is finding success in China by riding the country's EV boom",
-      "excerpt": "Baidu, which last year launched an auto unit ... Instead, it designs its own semiconductors to power its ADAS called the Full Self-Driving (FSD) chip. While Tesla is investing in chip design ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/01/14/nvidia-is-finding-success-in-china-by-riding-the-electric-vehicle-boom.html",
-      "originalUrl": "https://www.cnbc.com/2022/01/14/nvidia-is-finding-success-in-china-by-riding-the-electric-vehicle-boom.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106822623-1610405936066-Nvidia_headquarters.jpg?v=1642122973",
-          "width": 2000,
-          "height": 1367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/01/14/nvidia-is-finding-success-in-china-by-riding-the-electric-vehicle-boom.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/01/14/nvidia-is-finding-success-in-china-by-riding-the-electric-vehicle-boom.html",
-      "publishedDateTime": "2022-01-13T20:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

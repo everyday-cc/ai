@@ -2,6 +2,137 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-12-21-ai-and-advance-machine-learning-in-bfsi-market-global-report-2021-2030-featuring-leading-players-cisco-sap-microsoft-and-ibm-among-others.md",
+      "title": "AI and Advance Machine Learning in BFSI Market Global Report 2021-2030 Featuring Leading Players - Cisco, SAP, Microsoft and IBM Among Others - ResearchAndMarkets.com",
+      "excerpt": "In addition, an increase in investment by BFSI companies in AI and machine learning and a rise in customer preferences for personalized financial services boost the growth of the market across the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211221005363/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20211221005363/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-these-will-be-the-5-most-in-demand-tech-jobs-in-2022.md",
+      "title": "These will be the 5 most in-demand tech jobs in 2022",
+      "excerpt": "So, if you’re wondering what the most in demand tech jobs will be in 2022 ... A data scientist’s job is to use machine learning to predict and analyze data. Specific tasks include things ...",
+      "sourceUrl": null,
+      "webUrl": "https://insights.dice.com/2022/01/04/what-tech-jobs-demand-a-i-and-machine-learning-skills-in-2022/",
+      "originalUrl": "https://venturebeat.com/2021/12/21/these-will-be-the-5-most-in-demand-tech-jobs-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insights.dice.com/wp-content/uploads/2021/04/shutterstock_1379131412.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://insights.dice.com/2022/01/04/what-tech-jobs-demand-a-i-and-machine-learning-skills-in-2022/?amp",
+      "cdnAmpWebUrl": "https://insights-dice-com.cdn.ampproject.org/c/s/insights.dice.com/2022/01/04/what-tech-jobs-demand-a-i-and-machine-learning-skills-in-2022/?amp",
+      "publishedDateTime": "2021-12-21T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-microsoft-partners-with-royal-spanish-academy-for-language-resources.md",
+      "title": "Microsoft partners with Royal Spanish Academy for language resources",
+      "excerpt": "The Royal Spanish Academy (RAE) and Microsoft have signed an agreement to promote the correct use of Spanish online as part of the Spanish Language and Artificial Intelligence (LEIA) project. The RAE will provide Microsoft with access to the Diccionario de la lengua española or Dictionary of the Spanish Language – comprising of around 375,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyrecord.com/Home/microsoft-partners-with-royal-spanish-academy-for-language-resources-127709",
+      "originalUrl": "https://www.technologyrecord.com/Home/microsoft-partners-with-royal-spanish-academy-for-language-resources-127709",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10652/img-Microsoft-REA-partnership_940x443.jpg",
+          "width": 940,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologyrecord.com",
+        "domain": "technologyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals.md",
       "title": "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals",
       "excerpt": "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals. Program to work on creating products and solutions from research. Take courses under Pro",
@@ -992,136 +1123,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-19-from-cozmo-to-vector-how-anki-designs-robots-with-emotional-intelligence.md",
-      "title": "From Cozmo to Vector: How Anki Designs Robots With Emotional Intelligence",
-      "excerpt": "A short film featuring Cozmo. Cozmo implements AI for a lot of its functionality—particularly object recognition and machine vision for finding its cubes and recognizing people. But the emphasis is on using AI to give Cozmo the ability to convey ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
-      "originalUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Vector_Lifestyle_007_noLogo.jpg",
-          "width": 6504,
-          "height": 3659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-19-very-few-things-are-stopping-big-tech-from-popping-in-healthcare.md",
-      "title": "Very Few Things Are Stopping Big Tech from “Popping” in Healthcare",
-      "excerpt": "Azure Machine Learning and Azure Cognitive Services, to deliver on the vision of the Terra platform at a new level of scale.” Taking a Deep Look at Big Tech’s Influence in Healthcare Big tech companies’ presence in healthcare greatly expanded during ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
-      "originalUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan112021at22713PM.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-the-growing-cost-of-deep-learning-for-source-code.md",
-      "title": "The Growing Cost of Deep Learning for Source Code",
-      "excerpt": "This would surely have sounded like a vision of a distant future just a decade ago, but such quick progress is indicative of the substantial and unique potential of deep learning for software engineering tasks and domains.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/magazines/2022/1/257443-the-growing-cost-of-deep-learning-for-source-code/fulltext",
-      "originalUrl": "https://cacm.acm.org/magazines/2022/1/257443-the-growing-cost-of-deep-learning-for-source-code/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dl.acm.org/cms/attachment/97e981c2-320d-4e42-8d57-5388c3495f2b/uf1.jpg",
-          "width": 1021,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-18T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

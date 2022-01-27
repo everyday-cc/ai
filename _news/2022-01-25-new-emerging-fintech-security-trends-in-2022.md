@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintec
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/"
 type: article
 quality: 61
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2021/12/GettyImages-893682676.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "3 Beaten-Down Fintech Stocks to Buy Now"
+    excerpt: "These companies are growing a lot faster than their stock prices suggest following the recent stock market correction."
+    publishedDateTime: 2022-01-27T10:43:00Z
+    webUrl: "https://www.fool.com/investing/2022/01/27/3-beaten-down-fintech-stocks-to-buy-now/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/662787/a-couple-investing-getty.jpg"
+        width: 2120
+        height: 1414
         isCached: true
   - title: "Fintech redefined through buy-now-pay-later"
     excerpt: "Traditional lenders like banks are increasingly competing with fintech firms, so they will need to upgrade ... Ramkissoon, who writes in her personal capacity, is an AI mentor, strategist and trailblazer standing for the unification of the African tech ..."
@@ -116,6 +130,15 @@ related:
         width: 728
         height: 800
         isCached: true
+  - title: "Future of FinTech | January 2022 – Week 3"
+    excerpt: "The third week of this month enters with a whirlwind when it comes to the news around the Fintech space. Last week’s colossal buzz encompasses a range of players – from the nascent stages to the giants alike."
+    publishedDateTime: 2022-01-25T10:34:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-fintech-january-2022-week-3-whitesight"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 4
 
 secured: "SqkdOqJ5Qzlug0HIq8d5pa5C88/NmpzcnnDIrM0TFQZEij6i5SWNKmgUICtQ9fGBBV8+woIZG0mcEVcrrGtUvaEYyqGRVvQ/UEGpByRUfOj88I2bwP6s4mvucRzMXoTYB1xgmYJhhvurnugmlh/Anfg8+CvRdlQSyEw+Ozc1Oif7ytdkK2EWejYm2V690HGSUClSyGSfRxIVma54H8/+azVFmQeNd1MJgz7H1lBdGnztlO+gzXxv2z/TvJa3QBTPSlx9vCnFDfkLdv4KrW0E54di5sfMdwBKMwLeHStlGssTu5Mi9UmIbMaKJqdtVrFkvbkdidnjMQfeGl3t+MucJLxubGgjkrP+k5FgL8ejg8Q=;XnZBnLc/VAndqmIDLYLbjA=="
 ---

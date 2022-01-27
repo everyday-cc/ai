@@ -1,0 +1,63 @@
+---
+category: news
+title: "Tesla Full Self Driving suite to be ready by this year, says Elon Musk"
+excerpt: "Musk stated that Tesla Full Self Driving suite will be ready by 2022. Said that he would be shocked if Tesla doesn't complete."
+publishedDateTime: 2022-01-27T09:17:00Z
+originalUrl: "https://techstory.in/tesla-full-self-driving-suite-to-be-ready-by-this-year-says-elon-musk/"
+webUrl: "https://techstory.in/tesla-full-self-driving-suite-to-be-ready-by-this-year-says-elon-musk/"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: tech
+  domain: techstory.in
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://techstory.in/wp-content/uploads/2022/01/Tesla-Full-Self-Driving-Beta-Hero.jpg"
+    width: 2020
+    height: 1000
+    isCached: true
+
+related:
+  - title: "Tesla Says 'Full Self-Driving' Software Remains a Priority as Profits Boom"
+    excerpt: "The company reported over $5.5 billion in profits over the last year as its software is being investigated by federal regulators for alleged safety violations."
+    publishedDateTime: 2022-01-27T01:45:00Z
+    webUrl: "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418"
+    ampWebUrl: "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 102
+    images:
+      - url: "https://d.newsweek.com/en/full/1975846/tesla-electric-vehicles-elon-musk-record-profits.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Volkswagen, Bosch team up on self-driving software to test Tesla"
+    excerpt: "The platform, announced by VW’s Cariad software unit and Bosch on Tuesday, will serve all Volkswagen Group passenger vehicles before being opened to the wider industry. As a first step, the partners plan to roll out technology from next year that will allow drivers to temporarily take their hands off the steering wheel via an over-the-air update."
+    publishedDateTime: 2022-01-25T16:19:00Z
+    webUrl: "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla-11643127103318.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla/amp-11643127103318.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla/amp-11643127103318.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2022/01/25/600x338/VOLKSWAGEN_1639226711911_1643127262293.JPG"
+        width: 600
+        height: 338
+        isCached: true
+
+secured: "1X4rpG4kHhP1v5KvOpJPTHuvnMmx9SQT3BZWj2Vnw5mM1VYvoxQtOXiT69sL3jPDQT5LgpxBYenHnjPWRlzsCDgknSKUNUFRQ6Mry3xmLiduWilyGDDctvUIPPmKXISaVUCMUpotqQRR05KqLSp4VVJBs476Alx2T0cedDIACLoTlwUWYrmLJus+eyv+j8GjsMAMO1aBc+HAVj1u+1GQnx6Q/kSz2XHbQlNDoqsGvX1oXh4dEnUgCUlloG9zh30s3nyjp3T0go43sqaaARJr9+wLvIssKpkC+ZAqriZXg1ETXm0g2HgG58KlAVrGxfuWvAUN81P1flcdsZ7xnqDblEAiD1eEtsnBhbX329Vc2A0=;46aWjT1lM0cQJw5zLr9Wsg=="
+---
+

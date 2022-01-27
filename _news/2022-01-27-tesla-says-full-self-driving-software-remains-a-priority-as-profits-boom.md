@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/tesla-says-full-self-driving-software-remai
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1"
 type: article
 quality: 102
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.livemint.com/img/2022/01/25/600x338/VOLKSWAGEN_1639226711911_1643127262293.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "Tesla Full Self Driving suite to be ready by this year, says Elon Musk"
+    excerpt: "Musk stated that Tesla Full Self Driving suite will be ready by 2022. Said that he would be shocked if Tesla doesn't complete."
+    publishedDateTime: 2022-01-27T09:17:00Z
+    webUrl: "https://techstory.in/tesla-full-self-driving-suite-to-be-ready-by-this-year-says-elon-musk/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 54
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/01/Tesla-Full-Self-Driving-Beta-Hero.jpg"
+        width: 2020
+        height: 1000
         isCached: true
 
 secured: "vPfN6n4hXln3Lb9xULe6r14IH9JBNXZIwlEUU+/j0Ogc1x7VmEwPiE6HRqk4cC5YQFoi0NAzFK6mbiqW9wyfV5dwiitkESazPd1t8COwTXl93smrfb5UATLgN2siEy8LmKHlgVjn7uXyQVTS5xRFaPlDTqVLNjp1OTYiwhNuSeWjBLPR/LGxGIp8Y12e9pqk3+SVeX9Lzxymu4eG3cHctFT4nuS57OmkLs0RiD1XUkSEWyUbGOy/jymFhGaQCc4YEcrXP3/46c02Xoa8TbucXnIkjaHVmupbYD0ZRvOnSu8EI/pzMytSvddRAGieEFMAC+8n/+uvYkG1yinzYZs74etxtlVC1aGNx0Y1hQr7un8=;1HdNXtQSmdnV8vEKFRDMtQ=="

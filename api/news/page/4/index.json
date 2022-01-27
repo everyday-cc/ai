@@ -2,6 +2,161 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-22-tinyml-is-bringing-deep-learning-models-to-microcontrollers.md",
+      "title": "TinyML is bringing deep learning models to microcontrollers",
+      "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Deep learning models owe their initial success to large server",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/tinyml-deep-learning-microcontrollers-syndication",
+      "originalUrl": "https://thenextweb.com/news/tinyml-deep-learning-microcontrollers-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FTinyML.jpg&signature=997d2edaf97d5f261cf3e6961cc0200a",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-how-the-us-department-of-energy-is-transforming-ai.md",
+      "title": "How The US Department Of Energy Is Transforming AI",
+      "excerpt": "The DOE is maximizing the impacts of AI through strategic coordination, planning and customer service excellence including addressing AI ethics, AI principles, and AI risk management playbook highlights helping to transform the use of AI within the agency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ec05324e09a09bf5f6699b/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/amp/",
+      "publishedDateTime": "2022-01-22T04:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence.md",
+      "title": "The never-ending effort to bake common business sense into artificial intelligence",
+      "excerpt": "There needs to be a feedback loop to ensure customers are enjoying the experience as much as you're enjoying creating the experience.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/27c067b844739f5797fc93d4b7c4a8028a4b0244/2022/01/21/49e6021c-8611-4222-bd2d-404ef13c80fe/buildings-hudson-yards-as-see-from-javits-center-january-2022-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
+      "publishedDateTime": "2022-01-22T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-22-elon-musks-brain-chip-startup-prepares-for-first-ever-human-trials.md",
       "title": "Elon Musk’s brain chip startup prepares for first ever human trials",
       "excerpt": "Elon Musk appears close to beginning the first ever human trials of his brain-computer interface technology. A new job posting for a ‘Clinical Trial Director’ at Neuralink reveals that the neurotech startup is preparing to take its brain chip research to the next stage.",
@@ -238,34 +393,34 @@
     {
       "path": "_news/2022-01-22-stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence.md",
       "title": "STAT partners with Applied XL to launch a new clinical trials monitoring platform powered by artificial intelligence",
-      "excerpt": "Developed by artificial intelligence company Applied XL, in conjunction with STAT's national biotech team, STAT Trials Pulse uses machine learning and editorial-driven algorithms to help life sciences and health care professionals identify,",
+      "excerpt": "Since 2015, our team at STAT has worked tirelessly to deliver trusted and authoritative journalism about health, medicine, and the life sciences to millions of readers around the world. We are thrilled to unveil a new product that has been",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence-1031119849",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence-1031119849",
+      "webUrl": "https://www.lelezard.com/en/news-20204007.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20204007.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T11:58:00-08:00",
+      "publishedDateTime": "2022-01-21T12:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1027,153 +1182,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-cambrian-ai-2022-predictions-expect-more-than-just-new-chips.md",
-      "title": "Cambrian-AI 2022 Predictions: Expect More Than Just New Chips",
-      "excerpt": "The new year will see new chips, 2021 was another banner year for AI hardware platform innovations, as we predicted. Ok, not ALL of our prognostications came to pass, notably the stall (ok, death) of the NVIDIA/Arm deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/01/20/cambrian-ai-2022-predictions-expect-more-than-just-new-chips/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/01/20/cambrian-ai-2022-predictions-expect-more-than-just-new-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e899f62b860bd924b2d6a1/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/01/20/cambrian-ai-2022-predictions-expect-more-than-just-new-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/01/20/cambrian-ai-2022-predictions-expect-more-than-just-new-chips/amp/",
-      "publishedDateTime": "2022-01-20T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-deci-wants-to-help-enterprises-build-computer-vision-models-faster.md",
-      "title": "Deci wants to help enterprises build computer vision models faster",
-      "excerpt": "“The big advantage of SuperGradients is that it enables easy development of a wide range of pre-trained models across all the major computer vision tasks using a few lines of code. These pre ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/",
-      "originalUrl": "https://venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-3-e1628543109807.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/amp/",
-      "publishedDateTime": "2022-01-20T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-growth-alert-robotics-rise-to-70-billion-by-2028.md",
-      "title": "Growth Alert! Robotics Rise to $70 Billion by 2028",
-      "excerpt": "Growth = opportunity. And here’s one: robots. There are currently more than 2.7 million industrial robots and that number is growing by around 400,000 each year!",
-      "sourceUrl": null,
-      "webUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/",
-      "originalUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://banyanhill.com/wp-content/uploads/2022/01/Industrial-robots-2-BPD-20220120.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/amp/",
-      "cdnAmpWebUrl": "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/growth-alert-robotics-rise-70-billion-2028/amp/",
-      "publishedDateTime": "2022-01-20T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Banyan Hill Publishing",
-        "domain": "banyanhill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

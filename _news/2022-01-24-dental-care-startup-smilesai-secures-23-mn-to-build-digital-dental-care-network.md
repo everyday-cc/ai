@@ -40,6 +40,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "AI-powered digital skills assessment start-up iMocha Raises $14 million"
+    excerpt: "The new funding will be deployed to increase iMocha's skill library selection, reach more global enterprises, and widen its partnership base within the HR Tech ecosystem."
+    publishedDateTime: 2022-01-27T09:18:00Z
+    webUrl: "https://www.business-standard.com/article/companies/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-122012700890_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-122012700890_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-122012700890_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/10/full/1615322229-3007.jpg?im=Resize,width=1200"
+        width: 1200
+        height: 898
+        isCached: true
 
 secured: "HkdAJjcUgBmw3kjBodLzIJGhg/ZKRBH4CUs8TOsjgqWc2zI4IY1tEwCjf34NbcP3Eb/GC5hJ/5KBobFCMdQ7BH1boz9+cyJ0saPbI/rBh4nLXnkzsgkO1njPrX9M995rn5OevM3MnRuQ3GAmNkPchWa+cQ+vL0Zi2lKPoZqxl4ObrWnHIggOTyukc5QCARm8nDQi6w+HXABC8GrZkZDkeyYLQ0a5VTjs4q0lEovmmStxYRKow7ytUOLYHrAukupaTuCIWjQ9/DldysUZSWFcyMj7RgOq8EVbNqpsIJqyFE/L1U0Ne7xCE5lNoEjBWV8J+iFmDrhZKeL8Rov2i7bBGesOEQMbgdcnw2abi3pbmMZbSr4gahdhvikZyUKpzB0wo+TqQ1vu7POx8dIb5refsf2Rwk5nQnlDFAVUVANMpxob9FkmgM9a4HmEtvcqBwi1gZORts62biDWkZpGJKIFah7dgbVC81s9sdzHCw8LuLacBEwSZK0GB77Gv4IrfDlw89o2yxDXDOFmJW4pKkHNHg==;2apf9kXW5LGdGNYG3ikL9A=="
 ---

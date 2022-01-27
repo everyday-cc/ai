@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "3 Beaten-Down Fintech Stocks to Buy Now"
+    excerpt: "These companies are growing a lot faster than their stock prices suggest following the recent stock market correction."
+    publishedDateTime: 2022-01-27T10:43:00Z
+    webUrl: "https://www.fool.com/investing/2022/01/27/3-beaten-down-fintech-stocks-to-buy-now/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/662787/a-couple-investing-getty.jpg"
+        width: 2120
+        height: 1414
+        isCached: true
   - title: "Fintech redefined through buy-now-pay-later"
     excerpt: "Traditional lenders like banks are increasingly competing with fintech firms, so they will need to upgrade ... Ramkissoon, who writes in her personal capacity, is an AI mentor, strategist and trailblazer standing for the unification of the African tech ..."
     publishedDateTime: 2022-01-24T06:27:00Z
@@ -115,6 +129,15 @@ related:
         width: 728
         height: 800
         isCached: true
+  - title: "Future of FinTech | January 2022 – Week 3"
+    excerpt: "The third week of this month enters with a whirlwind when it comes to the news around the Fintech space. Last week’s colossal buzz encompasses a range of players – from the nascent stages to the giants alike."
+    publishedDateTime: 2022-01-25T10:34:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-fintech-january-2022-week-3-whitesight"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 4
 
 secured: "p04LmKkSa0QNe14nA3MaqAYsANbuGS5K6MrCl6OtG3JivL42co5xjr7nbeDNVG+94p/WA15NCRcFwS2IteP7IMuYxKf3/p8Eya2CjLZ2OFLby6nqlAuQ+JX+ufpYLxlNou3ulKLWvHZnLX7OGxIWPbWa1SdRfXqb3SB2iSFKFaybXYtIcNil28A3kHyGWDv6GtSg4KoLwIJfogUS/3/5QC/4OQaDOPR4rw6W9IRn4UId0WSb1eOh8WuxzqSXPmiRi6MjTLo1f/DwZyAxdaIzvGXsIgfDqK8gElqBYmUiKJ/mSfnqx73k7Ng292Ghs2UrDPLsjhBR2PfUeglPZb8DzngK4hYi3v5a61GwvqOtIDo=;oW/p8gVXmJ0yv+kwUra48A=="
 ---

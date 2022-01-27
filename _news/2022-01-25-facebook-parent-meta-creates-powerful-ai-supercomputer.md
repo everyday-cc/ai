@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Facebook parent Meta creates powerful AI supercomputer"
-excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
-publishedDateTime: 2022-01-24T21:33:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
-webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
+excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
+publishedDateTime: 2022-01-24T21:32:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
 type: article
-quality: 57
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Meta Unveils New AI Supercomputer"
@@ -323,6 +320,22 @@ related:
       - url: "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Meta says it will soon have the world’s fastest AI supercomputer"
+    excerpt: "Meta, formerly known as Facebook, is already using supercomputer to train major models in natural language processing (NLP) ."
+    publishedDateTime: 2022-01-27T10:56:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/Meta-says-it-will-soon-have-the-worlds-fastest-AI-supercomputer-01-1-1.jpg"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Facebook parent Meta is developing the “world’s fastest” AI supercomputer"
     excerpt: "The high-speed computer is designed specifically to train machine learning systems, according to Facebook-owned Meta RSC will be used to train a range of"
@@ -778,6 +791,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "wFOB6cBwEJs+lSRyFrTfT3LlmE7G0gygE0sreHEzd7x3XkMY8/u0FvNh8+0nj1FJSymbI8vIq5GjeukhHuu+aMvohLo1EFnu28F0hxwqAcqBHfkEvLigDNm8MqRuDy4GPZpJgNUsvQ5SCSMzLq0berU4Oscq0T6FQhUpRnDRgzr+JDGWQZVYxhhyJJjzS3iDBAY6LsGHSJhouPh9F/cdPcEWHXWog/SGoi2jVGV4ZQi3BPNcH1DSL/YBKuT/RDumj6NluNmZjUM+hoJllG6l97/rSWN1x9mnzmgBES1J+5o40UE7vWx9mdv8E17fHQpAiyXkqTmdWxYyUf2LFN2s9UuIlz2JdxM5JFJNXRe6CBo=;3Qv5Nnw/yWJtAIsrHcl6Qg=="
+secured: "J7kHFRUpKCa9rWSM2CqDT/Yx99zVVzzfpdGaTKNXI9Zu14k6f3+T4LQipADbLGXI3TodI39vYtLg5Ni1MA9mBtLF6sF+Rb1nMxnmQZewtCJZgBOhTL2ml32fHw6xFMNNsgIp7mERIK2Bj4oqZ7JNwcTDLMgD56WG9gK2kmNi5xuOZmWbBwKOFbTq9YpM8i7jTIHaKg2wgfjuNSt7HlocXTgNDkOQETafyHwO4bTkFnJ3DftBgMlJ650sOKMwrxm+Zf4jWZdc6RQztTEPdVeRYC6N6WGuxRSz7Z4TLl6Bboc8rUhdZc26lJ8VEb1QGQtAyqYBDPHjJL83xheY+3W9/Bhr5pGEcbNVI9FPDA8mA0HrZZgDAaJzi+/R7dLLIqnxj2xheA81ndunWulIFM/OGoAQMhgSWBzxnEXX5Lt+r9rZyNQwb1TJNuohgPPQ/ES87KmHdVRwHnlCposadW2WuHEMEwZqOuR6puZ+HrEmh5GOKVDX5NYCtRQ0fxsxOBOY4Jx0yMhE7WXlpQgnCXvScw==;iG0yPxoy3P8zkZYoJ/ehig=="
 ---
 

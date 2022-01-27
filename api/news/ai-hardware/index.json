@@ -1042,6 +1042,40 @@
       ]
     },
     {
+      "path": "_news/2022-01-13-4-reasons-to-invest-in-nvidias-ai-in-2022.md",
+      "title": "4 Reasons to Invest in Nvidia's AI in 2022",
+      "excerpt": "This is where the AI part comes in, a few years ago, when researchers were trying to build the first AI models that really worked, technology had not caught up with the idea yet. We needed massive lakes of data and we needed processors that could move that data around.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?time=1642082401",
+      "originalUrl": "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?time=1642082401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp",
+      "publishedDateTime": "2022-01-13T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature-called-dldsr.md",
       "title": "Latest Nvidia drivers reveal AI-powered downscaling feature called DLDSR",
       "excerpt": "Dynamic Super Resolution is Nvidia’s method for letting users easily downsample games. It renders a game at a higher resolution, then shrinks it back down to",
@@ -1386,50 +1420,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-new-aiml-processor-supports-socs-and-chiplets-for-smart-edge-devices.md",
-      "title": "New AI/ML processor supports SoCs and chiplets for smart edge devices",
-      "excerpt": "CEVA’s latest NeuPro-M supports both system-on-chip and heterogeneous SoC scalability, targeting edge AI/ML and edge compute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/new-ai-ml-processor-supports-socs-and-chiplets-for-smart-edge-devices/",
-      "originalUrl": "https://www.embedded.com/new-ai-ml-processor-supports-socs-and-chiplets-for-smart-edge-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2022/01/CEVA-Neu-Pro-M-features.png",
-          "width": 893,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

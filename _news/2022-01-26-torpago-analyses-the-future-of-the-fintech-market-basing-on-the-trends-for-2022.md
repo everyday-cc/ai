@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "3 Beaten-Down Fintech Stocks to Buy Now"
+    excerpt: "These companies are growing a lot faster than their stock prices suggest following the recent stock market correction."
+    publishedDateTime: 2022-01-27T10:43:00Z
+    webUrl: "https://www.fool.com/investing/2022/01/27/3-beaten-down-fintech-stocks-to-buy-now/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/662787/a-couple-investing-getty.jpg"
+        width: 2120
+        height: 1414
+        isCached: true
   - title: "Fintech redefined through buy-now-pay-later"
     excerpt: "Traditional lenders like banks are increasingly competing with fintech firms, so they will need to upgrade ... Ramkissoon, who writes in her personal capacity, is an AI mentor, strategist and trailblazer standing for the unification of the African tech ..."
     publishedDateTime: 2022-01-24T06:27:00Z
@@ -115,6 +129,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Future of FinTech | January 2022 – Week 3"
+    excerpt: "The third week of this month enters with a whirlwind when it comes to the news around the Fintech space. Last week’s colossal buzz encompasses a range of players – from the nascent stages to the giants alike."
+    publishedDateTime: 2022-01-25T10:34:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-fintech-january-2022-week-3-whitesight"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 4
 
 secured: "NcawpPPaTro9iRhFsRvBVhU38/XH3Tp174zGo3WFzD1NnHHPHUZwWjLjtZouhsa9lZ3xDVp5g0tBraADXU9gey2JCffcfDkR/ekZ1CCh2s1vtq+2hB5TBMNmcnB9vz4piNYvig6fn6oG7r7Tf2DmNwEJqXE1MfCTDv3HuOb9M8Jl5pWx3pJhaVcF+hhnI1sOF6S+3P/xBDbuKMgY2Jb+Rlq3XVHREIdLUh4KPXkpJsgGHn1fFvwba5J7MTk0Jbh84r4mP4Fb/eV7KKK1m/2jCaG42If3uJH0tI3euCfn4JzbZdthPbwg9Nfp1BGyW+2wn41JJNLmKZm7XpwpOJnnKZ/5VhPpodm0veluFyawuIWAwq4spMY+iMplPn01QJDOOqpObWxo0f+bD9txAwiaXQKGxacPw5YvCvIC6RbpN47d83VcD2RSsLoXDJlHk9NhuUQ3rgyXVSi7gbDq+z2paPqIE4UkWCT3j5HNYF8dwpWvoXczRk4VXUx4JaM/YVyWys75in1fJh/x5iZp1EgjFA==;mmQEC6YGRbcLjNnOG5SGsg=="
 ---

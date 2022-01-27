@@ -2,6 +2,204 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-26-artificial-intelligence-used-by-argonne-scientists-to-transform-manufacturing-of-airplane-parts.md",
+      "title": "Artificial Intelligence Used by Argonne Scientists to Transform Manufacturing of Airplane Parts",
+      "excerpt": "Regarding the manufacture of new lightweight, yet sturdy components for modern passenger jets, researchers are handling the process like attempting to brew the tastiest cup of coffee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12706",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12706",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12706_16431113426464338.jpg",
+          "width": 534,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12706",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12706",
+      "publishedDateTime": "2022-01-25T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-jd-technology-fintech-unit-of-chinas-jdcom-engages-banks-for-hong-kong-ipo-that-could-raise-up-to-us2-billion-source-says.md",
+      "title": "JD Technology, fintech unit of China’s JD.com, engages banks for Hong Kong IPO that could raise up to US$2 billion, source says",
+      "excerpt": "JD Technology is targeting as much as US$2 billion in a Hong Kong IPO, which could make it the fourth JD group company to be listed in the city.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
+      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/25/d94b0b70-3d84-42ab-a198-db3e5316c492_cc8ac43c.jpg?itok=5M0UU_uZ&v=1643095588",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
+      "publishedDateTime": "2022-01-25T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-find-another-machine-learning-investment-besides-c3ai.md",
+      "title": "Find Another Machine Learning Investment Besides C3.ai",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The trend is definitely not the friend of AI stock holders, and turnaround hopes are fading as the company's",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/414973",
+      "originalUrl": "https://www.entrepreneur.com/article/414973",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-75m.md",
+      "title": "Metaphysic, AI startup behind Tom Cruise deepfakes, raises $7.5M",
+      "excerpt": "Metaphysic, the company behind the Tom Cruise deepfakes, has raised $7.5 million to use AI to create lifelike replicas of people.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/",
+      "originalUrl": "https://venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/metaphysic.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/amp/",
+      "publishedDateTime": "2022-01-25T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-mercedes-sees-luminar-eyes-in-its-self-driving-cars.md",
       "title": "Mercedes sees Luminar eyes in its self-driving cars",
       "excerpt": "Mercedes-Benz has taken a major step forward in its efforts to produce self-driving cars, partnering with Luminar to include the latter’s Iris lidar technology in Mercedes-Benz vehicles. The",
@@ -908,7 +1106,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1043,188 +1241,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.md",
-      "title": "Boeing to pour $450 million into program for self-driving air taxi",
-      "excerpt": "Aviation company Boeing said Monday that it's investing almost a half-billion more dollars into its sky taxi startup Wisk Aero, in a bid to bring the first self-flying air taxi to the market before the decade is out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/6161643040260/2022/1/7a2b04a5d4d56049d60ea43bce3c9397/v1.5/Boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.jpg",
-          "width": 533,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
-      "publishedDateTime": "2022-01-24T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m.md",
-      "title": "Ceremorphic addresses AI, HPC, and the metaverse with QS 1 chip, lands $50M",
-      "excerpt": "Ceremorphic, a startup, is coming out of stealth mode with $50 million of series A funding along with the announcement of the QS 1 chip.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
-      "originalUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340728386-e1643043402598.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
-      "publishedDateTime": "2022-01-24T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases.md",
-      "title": "Could artificial intelligence help people survive one of the world's deadliest diseases?",
-      "excerpt": "Sepsis is responsible for one in five deaths worldwide, and is likely an underlying cause of COVID-19 deaths. Now a Vancouver immunologist says he's found a key solution using artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
-      "originalUrl": "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vmcdn.ca/f/files/glaciermedia/images/health/neeta-long.jpg;w=1000;h=734;mode=crop",
-          "width": 1000,
-          "height": 734,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
-      "cdnAmpWebUrl": "https://www-bowenislandundercurrent-com.cdn.ampproject.org/c/s/www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
-      "publishedDateTime": "2022-01-24T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bowen Island Undercurrent",
-        "domain": "bowenislandundercurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-new-emerging-fintech-security-trends-in-2022.md",
-      "title": "New & emerging Fintech Security Trends in 2022",
-      "excerpt": "The unexpected and rapid shift of the global workforce to WFH setup prompted by the coronavirus pandemic has caused enterprises around the world to make significant infrastructure adjustments to support employees as they work",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/",
-      "publishedDateTime": "2022-01-24T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

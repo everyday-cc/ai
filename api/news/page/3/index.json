@@ -2,6 +2,188 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-25-boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.md",
+      "title": "Boeing to pour $450 million into program for self-driving air taxi",
+      "excerpt": "Aviation company Boeing said Monday that it's investing almost a half-billion more dollars into its sky taxi startup Wisk Aero, in a bid to bring the first self-flying air taxi to the market before the decade is out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/6161643040260/2022/1/7a2b04a5d4d56049d60ea43bce3c9397/v1.5/Boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.jpg",
+          "width": 533,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "publishedDateTime": "2022-01-24T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m.md",
+      "title": "Ceremorphic addresses AI, HPC, and the metaverse with QS 1 chip, lands $50M",
+      "excerpt": "Ceremorphic, a startup, is coming out of stealth mode with $50 million of series A funding along with the announcement of the QS 1 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
+      "originalUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340728386-e1643043402598.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
+      "publishedDateTime": "2022-01-24T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases.md",
+      "title": "Could artificial intelligence help people survive one of the world's deadliest diseases?",
+      "excerpt": "Sepsis is responsible for one in five deaths worldwide, and is likely an underlying cause of COVID-19 deaths. Now a Vancouver immunologist says he's found a key solution using artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
+      "originalUrl": "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/glaciermedia/images/health/neeta-long.jpg;w=1000;h=734;mode=crop",
+          "width": 1000,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
+      "cdnAmpWebUrl": "https://www-bowenislandundercurrent-com.cdn.ampproject.org/c/s/www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
+      "publishedDateTime": "2022-01-24T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bowen Island Undercurrent",
+        "domain": "bowenislandundercurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-new-emerging-fintech-security-trends-in-2022.md",
+      "title": "New & emerging Fintech Security Trends in 2022",
+      "excerpt": "The unexpected and rapid shift of the global workforce to WFH setup prompted by the coronavirus pandemic has caused enterprises around the world to make significant infrastructure adjustments to support employees as they work",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/",
+      "publishedDateTime": "2022-01-24T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-fathom-raises-47m-for-its-ai-notetaker.md",
       "title": "Fathom raises $4.7M for its AI notetaker",
       "excerpt": "Fathom, a startup that is building an AI notetaker for Zoom, today announced that it has raised a $4.7 million seed round from a range of early-stage investors, including Zoom’s own Apps Fund. Other investors include the likes of early Zoom investors Maven Ventures,",
@@ -61,7 +243,7 @@
       "originalUrl": "https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601",
       "featuredContent": null,
       "highlight": null,
-      "heat": 709,
+      "heat": 719,
       "tags": null,
       "images": [
         {
@@ -381,58 +563,6 @@
         "AI",
         "Computer Vision",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-ibm-to-sell-off-watson-health-assets.md",
-      "title": "IBM to sell off Watson Health assets",
-      "excerpt": "Private equity firm Francisco Partners is buying a large portion of the AI healthcare unit \"more than $1 billion\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/acquisition/362052/ibm-sell-watson-health",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/acquisition/362052/ibm-sell-watson-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596721605/itpro/IBM_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     },
     {
@@ -1083,161 +1213,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-tinyml-is-bringing-deep-learning-models-to-microcontrollers.md",
-      "title": "TinyML is bringing deep learning models to microcontrollers",
-      "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Deep learning models owe their initial success to large server",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/tinyml-deep-learning-microcontrollers-syndication",
-      "originalUrl": "https://thenextweb.com/news/tinyml-deep-learning-microcontrollers-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FTinyML.jpg&signature=997d2edaf97d5f261cf3e6961cc0200a",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-22T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-how-the-us-department-of-energy-is-transforming-ai.md",
-      "title": "How The US Department Of Energy Is Transforming AI",
-      "excerpt": "The DOE is maximizing the impacts of AI through strategic coordination, planning and customer service excellence including addressing AI ethics, AI principles, and AI risk management playbook highlights helping to transform the use of AI within the agency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61ec05324e09a09bf5f6699b/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/amp/",
-      "publishedDateTime": "2022-01-22T04:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence.md",
-      "title": "The never-ending effort to bake common business sense into artificial intelligence",
-      "excerpt": "There needs to be a feedback loop to ensure customers are enjoying the experience as much as you're enjoying creating the experience.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/27c067b844739f5797fc93d4b7c4a8028a4b0244/2022/01/21/49e6021c-8611-4222-bd2d-404ef13c80fe/buildings-hudson-yards-as-see-from-javits-center-january-2022-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
-      "publishedDateTime": "2022-01-22T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-produc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-89084442,imgsize-52818,width-1200,height-628,overlay-etcio/ai-is-bringing-science-fiction-to-life.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "More productive coating and repair with Artificial Intelligence"
+    excerpt: "A German-Canadian consortium is now tackling this with Artificial Intelligence (AI): Thanks to new software for process control, laser material deposition, in particular, shall be automatically ..."
+    publishedDateTime: 2022-01-27T09:32:00Z
+    webUrl: "https://idw-online.de/de/news787322"
+    type: article
+    provider:
+      name: idw
+      domain: idw-online.de
+    quality: 52
+    images:
+      - url: "https://files.idw-online.de/corona_idw.png"
+        width: 615
+        height: 284
         isCached: true
   - title: "How the internet is training AI to make better disinformation"
     excerpt: "AI is accelerating disinformation creation way beyond deepfakes. The internet is rife with disinformation, and bad actors are becoming more skilled at spreading conspiracy theories and falsehoods online."
