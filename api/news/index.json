@@ -615,7 +615,7 @@
       "originalUrl": "https://www.pcworld.com/article/608294/nvidia-geforce-rtx-3050-review.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -866,7 +866,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/mobile-artificial-intelligence-ai-market-sales-is-expected-to-reach-84-80-billion-by-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -897,7 +897,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Sales"
+        "AI in Sales",
+        "AI in Robotics"
       ]
     },
     {

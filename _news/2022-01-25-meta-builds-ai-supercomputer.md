@@ -353,6 +353,20 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "Meta is building a 16,000 GPU AI supercomputer"
+    excerpt: "Facebook’s parent company Meta is partway through building an artificial intelligence (AI) supercomputer cluster it estimates will be the fastest on Earth when completed. The AI Research SuperCluster (RSC) is currently kitted out with 6,"
+    publishedDateTime: 2022-01-27T05:00:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/meta-is-building-a-16-000-gpu-ai-supercomputer.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 58
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/facebook%20meta%20logos1.jpg"
+        width: 751
+        height: 423
+        isCached: true
   - title: "Facebook parent Meta creates powerful AI supercomputer"
     excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
     publishedDateTime: 2022-01-24T21:33:00Z

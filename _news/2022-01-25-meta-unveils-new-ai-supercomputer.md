@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/meta-unveils-new-ai-supercomputer-1
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/meta-unveils-new-ai-supercomputer-11643043601"
 type: article
 quality: 189
-heat: 699
+heat: 709
 published: true
 
 provider:
@@ -342,6 +342,20 @@ related:
       - url: "https://www.crn.com/resources/0271-14477f5c05b8-a38185223eb4-1000/meta_nvidia.png"
         width: 610
         height: 458
+        isCached: true
+  - title: "Meta is building a 16,000 GPU AI supercomputer"
+    excerpt: "Facebook’s parent company Meta is partway through building an artificial intelligence (AI) supercomputer cluster it estimates will be the fastest on Earth when completed. The AI Research SuperCluster (RSC) is currently kitted out with 6,"
+    publishedDateTime: 2022-01-27T05:00:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/meta-is-building-a-16-000-gpu-ai-supercomputer.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 58
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/facebook%20meta%20logos1.jpg"
+        width: 751
+        height: 423
         isCached: true
   - title: "Facebook parent Meta creates powerful AI supercomputer"
     excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"

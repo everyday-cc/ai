@@ -354,6 +354,20 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "Meta is building a 16,000 GPU AI supercomputer"
+    excerpt: "Facebook’s parent company Meta is partway through building an artificial intelligence (AI) supercomputer cluster it estimates will be the fastest on Earth when completed. The AI Research SuperCluster (RSC) is currently kitted out with 6,"
+    publishedDateTime: 2022-01-27T05:00:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/meta-is-building-a-16-000-gpu-ai-supercomputer.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 58
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/facebook%20meta%20logos1.jpg"
+        width: 751
+        height: 423
+        isCached: true
   - title: "Largest Artificial Intelligence Supercomputer Is Zuckerberg's New Boast"
     excerpt: "Facebook's parent company Meta announced on Monday it was launching one of the world's most powerful supercomputers to boost its capacity to process data, despite persistent disputes over privacy and disinformation."
     publishedDateTime: 2022-01-25T01:19:00Z
@@ -764,6 +778,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "uBgukJtDGpXw/GYYOpXhUMDki5Bxj7Giouzq7gcZypwY5Uv+M0eIfqZgqmIFhG4VmIdRXTa46rmcLOZQpIetJfJD6LcVbw7q8s6SEACwkixTBQCHWaUEYmlyxwBi3HdHUXZzn0ScPZmDE6FHHoKn8GXcd+sYuCxgT9vRaEpn4vnqAD6bsfAztrnR4HdTxuIWzkOKh5Cuec+i7mRj3NhsZ0y0KILimVy9DGSvVR9UPi16S03FiEUweRM8U0JTCvQqgxIT36a3lvMHwqL/O13aoSH8Mxce8Sh3Pf48n3Kih7L+edIhP9nrl+y+uMuT5kL10JSh745D+uqwr6FUVyxvYZvI8DPG4j4AP22P00Xx60U=;44pEbLlbLadZz9wg4TV9yA=="
+secured: "gNYTg92Oa+rPj2rz1sMwwclILDz5CM0VHYYF0ruRaQU2ckhqE0vn4V9AE/ZDbldRClG8p3IBBPxrTbCDuOrFsJe6o/aBB8AejT+F6kDh6Sywwdvw4Jx/y2WUCKUDCYB54xCrE1gexn7alto2gb3qtw/BPEym7bcni3mFBmqdqSBUcMWD0IauQT/LCJ/URYa/wpyZwYjwbHV3VJOJSPNOu/w5fdqPisVK5DyDq77cbIt+JTpLmHiLIve3QK9rvmhe/msc3qbBU9FwjaK5Luv1FFLVGPqooELlHlmlbmcxnBQzAJDsxsi3xqSUdw2NAdNGZ6schLQKa2OYOpJvlxgF7H6mG5LZV0yHI1UCWN5FKc8=;KRkqhkIVYi0OMxWDcgbNYQ=="
 ---
 
