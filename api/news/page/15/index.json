@@ -2,6 +2,40 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-01-12-upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-dldsr.md",
+      "title": "Upcoming NVIDIA Game-Ready Driver Release Receives Deep Learning Dynamic Super Resolution (DLDSR)",
+      "excerpt": "In a blog post released yesterday, NVIDIA detailed the features of their next game-ready GeForce driver, which will be available to the general public on January",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html",
+      "originalUrl": "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T23:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-how-managed-services-will-evolve-in-2022-the-data-analytics-revolution.md",
       "title": "How managed services will evolve in 2022: The data analytics revolution",
       "excerpt": "In 2022, cloud managed service providers look to support decision-makers in configuring and maintaining data stored in cloud environments.",
@@ -1165,58 +1199,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-language-io-aims-to-strengthen-its-ai-powered-customer-service-localization-service.md",
-      "title": "Language I/O aims to strengthen its AI-powered customer service localization service",
-      "excerpt": "Langauge I/O, a startup developing technology to localize customer service experiences with AI, has raised $6.5 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/",
-      "originalUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-6089103_1280-e1631120702283.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/amp/",
-      "publishedDateTime": "2022-01-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

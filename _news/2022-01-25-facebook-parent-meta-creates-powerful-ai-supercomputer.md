@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Facebook parent Meta creates powerful AI supercomputer"
-excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
-publishedDateTime: 2022-01-24T21:33:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
-webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
+excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
+publishedDateTime: 2022-01-24T21:32:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
 type: article
-quality: 57
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Meta Unveils New AI Supercomputer"
@@ -745,6 +742,15 @@ related:
       name: ebuyer.com
       domain: ebuyer.com
     quality: 19
+  - title: "Meta's new AI supercomputer: 16,000 x GPUs, insane 175PB bulk storage"
+    excerpt: "Meta's new AI Research SuperCluster (RSC) is a metaverse and AI beast -- 16,000 GPUs, 16TB/sec training data, 175PB bulk storage."
+    publishedDateTime: 2022-01-27T01:28:00Z
+    webUrl: "https://www.tweaktown.com/news/84227/metas-new-ai-supercomputer-16-000-gpus-insane-175pb-bulk-storage/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
   - title: "Meta unveils a new AI supercomputer, says it will be \"world's fastest\" by mid-2022"
     excerpt: "Meta has unveiled that it is building the world's faster AI supercomputer. The company has outlined what it plans to do with it. Check all the details here!"
     publishedDateTime: 2022-01-25T11:45:00Z
@@ -755,6 +761,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "581wU1tRS1dj/v6lMYn1AKxFtR4DunFUf8YLaSY7XttiSdK5qRfQoUfCU0mirb3T7VFwIskK3Au2du7rwhDqnscOEoCizHqe0Husy/pv/4cjIV/TVXqiMfs4s933bk6FDw1w8sUcgUVkEAwvJL9vTF8CLVd2pyjcPrJoHjs6LqQLllegtgcMXVaWKN4SMJJvNRolAioOAfyEBBH12NeJee0CxqZqfUl2dkOnHfR3O+2mLG+qsdIQeiVZ6B8e/V9FRf2o1vXeeaYVbl6xfrxe4QA0e115ismuTwyaaC+CsvcZnalJuJYHrJjCdaFXn4rvrNI7ND0KMb/M5Dl5U+ZcDRRG61fYvbJSB9mkHrUVKSc=;x3FsagEchd04SWsVo7iAaw=="
+secured: "l0/vyKMyCUPBqy02OzCdCAoP3XAFecwZC6fEw+49Kx4CW2UAQnDZdeZ0JSgwjlklvDZKFnRAlMfp0aqdndC1YmXjezOy0F8TyQ19mULKkRz+Y/T9BWYC8vl5fthx9TSxi11cO5lwy0v4QEMs+TsFK7JsJQhQt8LH7HFhIOhNoG0fW9EjG24A+Lbg21/YRor/SRjgE07SyBq2CwUibd3UM+0Xe9EJdSneYRdQofNq0MVS7ikSjgd4Nzaz5xmlBBuTrrl0+ZCV/u5Zwr0Tyf2rWYGIPzjCzwcWCnWErAxZAE9qDdKFqTAr1xtrKJEPZjDLVIsicZD3HI1tZISRYKaOkTyA9bUN2kuruEvN7dhLqxKRwEHYgrAnVU6aPeZ/e+af+TLrt2HRaAXQaT/H9qFtBJXxR10eZ3lHf7T8D7ClGCDeGmUzpPdArHQS1BejkwCfFckJgO1n81mVYwhkCFaVeZWhs/U7/FlB6bq/F+8Mr0PhV2w3CzZYPcu1GUor4ZN9tBtEH+x2O/FowiZWhT54eA==;BF03KAZQwGGFbfqVlIEsfA=="
 ---
 

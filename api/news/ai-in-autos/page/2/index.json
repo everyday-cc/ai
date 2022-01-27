@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-14-dude-wheres-my-driverless-car.md",
+      "title": "Dude, Where’s My Driverless Car?",
+      "excerpt": "When will driverless cars hit the road? While car manufacturers and tech giants are making optimistic predictions about the future of autonomous vehicles, there are many challenges in the way",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessbecause.com/news/insights/8012/driverless-cars-future",
+      "originalUrl": "https://www.businessbecause.com/news/insights/8012/driverless-cars-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessbecause.com/uploads/default/news/images/1641574105.png",
+          "width": 750,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.businessbecause.com/news/insights/8012/driverless-cars-future",
+      "cdnAmpWebUrl": "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/insights/8012/driverless-cars-future",
+      "publishedDateTime": "2022-01-13T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Because",
+        "domain": "businessbecause.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature.md",
       "title": "Electric Vehicle Checkpoint: Tesla Will Raise Price of Self-Driving Feature",
       "excerpt": "See the latest news for the top stocks in the electric vehicle space including Ford, Rivian, Lucid, Nio, and more.",
@@ -1327,49 +1370,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-the-best-automotive-tech-at-ces-2022.md",
-      "title": "The Best Automotive Tech at CES 2022",
-      "excerpt": "With artificial intelligence and connected tech taking ... If successful, the model will put GM ahead of Waymo, Apple and Tesla, who have scaled-down their autonomous driving operations in light ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/automobile/the-best-automotive-tech-at-ces-2022-2-7911411.html",
-      "originalUrl": "https://www.moneycontrol.com/news/automobile/the-best-automotive-tech-at-ces-2022-2-7911411.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/01/2-mercedes-benz-vision-eqxx-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/automobile/the-best-automotive-tech-at-ces-2022-2-7911411.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/automobile/the-best-automotive-tech-at-ces-2022-2-7911411.html/amp",
-      "publishedDateTime": "2022-01-07T02:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

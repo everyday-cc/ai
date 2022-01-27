@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-12-25-flurry-of-language-industry-investments-and-mergers-acquisitions-wrap-up-2021.md",
+      "title": "Flurry of Language Industry Investments and Mergers & Acquisitions Wrap Up 2021",
+      "excerpt": "Four noteworthy announcements over the last two weeks provide several object lessons in how the language services and technology industry works and is evolving: Smartling and Lokalise both received substantial infusions of venture capital (VC),",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/flurry-language-industry-investments-mergers-wrap-up-2021-don-depalma/",
+      "originalUrl": "https://www.linkedin.com/pulse/flurry-language-industry-investments-mergers-wrap-up-2021-don-depalma/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFEZa2oJ5ZIyw/article-cover_image-shrink_600_2000/0/1640353281181?e=1646870400&v=beta&t=2kmZMuUZTYk13NYbWeju331op4zE2sa4Ye0fBVyIuLE",
+          "width": 800,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-tesla-agrees-to-stop-letting-drivers-play-video-games-while-driving.md",
       "title": "Tesla agrees to stop letting drivers play video games while driving",
       "excerpt": "Tesla, after being under pressure from the US auto safety regulations, has agreed to stop allowing drivers to play video games on the center touch screen in its vehicles while the car is on the move.",
@@ -1059,49 +1111,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-the-future-of-natural-language-processing-is-bright.md",
-      "title": "The Future of Natural Language Processing is Bright",
-      "excerpt": "Natural language processing (NLP) denotes the use of artificial intelligence (AI) to manipulate written or spoken languages. Like the air we breathe, NLP is so pervasive today that we hardly notice it. When you use Alexa, you are conversing with an NLP ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusinessedge.com/development/the-future-of-natural-language-processing-is-bright/",
-      "originalUrl": "https://www.itbusinessedge.com/development/the-future-of-natural-language-processing-is-bright/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/12/The-Future-of-Natural-Language-Processing-is-Bright.jpeg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business Edge",
-        "domain": "itbusinessedge.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

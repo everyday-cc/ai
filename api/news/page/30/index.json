@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-12-30-is-your-companys-network-a-black-hole.md",
+      "title": "Is Your Company’s Network A Black Hole?",
+      "excerpt": "Having visibility into the vast volume of data traveling across company networks is a complex problem, but one worth solving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc642d30b627464217943c%2F0x0.jpg",
+          "width": 909,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/amp/",
+      "publishedDateTime": "2021-12-30T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-30-optical-chip-that-can-efficiently-solve-complex-ai-problems.md",
       "title": "Optical Chip That Can Efficiently Solve Complex AI Problems",
       "excerpt": "They combine photonics and electronics to process information at ultra-high speeds, low latency and low power consumption",
@@ -1112,40 +1164,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-opportunities.md",
-      "title": "Worldwide Military Robots Industry to 2026 - Integration With Artificial Intelligence Presents Opportunities",
-      "excerpt": "The \"Military Robots Market Research Report by Type, Operation, and Region - Global Forecast to 2026 - Cumulative Impact of",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24811209/worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-oppor",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24811209/worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-oppor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24811209",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24811209",
-      "publishedDateTime": "2021-12-29T04:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

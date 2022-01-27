@@ -3,8 +3,8 @@ category: news
 title: "Baidu & Geely's New Smart Electric Vehicle Company JiDU Raises $400 Million in Series A Round"
 excerpt: "Newly formed intelligent electric vehicle company JIDU announced that it has closed on $400 million in Series A financing. The funding round was backed by China’s internet giant Baidu Inc and its strategic partner automaker Zhejiang Geely Holding Group (\"Geely\")."
 publishedDateTime: 2022-01-26T16:00:00Z
-originalUrl: "https://www.futurecar.com/5157/Baidu-&-Geelys-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
-webUrl: "https://www.futurecar.com/5157/Baidu-&-Geelys-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
+originalUrl: "https://www.futurecar.com/5157/Baidu-&-Geely’s-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
+webUrl: "https://www.futurecar.com/5157/Baidu-&-Geely’s-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
 type: article
 quality: 28
 heat: -1
@@ -70,6 +70,6 @@ related:
         height: 600
         isCached: true
 
-secured: "4KgngC3bklNXFlA9glnKcH5e/A9nsUoounLgsxwEUy9gk1YXwIuXbxmyLgyugFFi0xnMgTExNZI0FQnaRfgEpsNbETq8AKQXz+FGMWuX4XHZYBdTMvkVLv1ucwpSpipkzybs8XVUCSsj9vC93A5t6OPdwC2ICIC/V2LKPvtB0JREJuVOTVpebQvC3ZRgRvwxxCH6Y2xI5yPcd9Ct5g+n8ZyRBYQkNyUR9TS27BDtndap9iiB7r+Cl1+2ZqjscqA2W0BZKIwDW8qcohnZzONRkMEQFZ8T3m7HtVy06J3w2fFHjC+2dy9vkgMGKEcbYfyatwU8+osayuPfdOjpQtT7q8+rLIGcpQC54VnArd57TTF3yAenvvNxBNqiphUUKsDZ1W+UG20qIKuHs2at6Sz/HwppoiYx+sNVGU4PjZgyICHipe8OJOf1UWoDtBqXeSHWX6EX5IoB/aBETpjeOBpZ/RQCNiAa8oHMPQekAEMLDtuCNWxwyO7L+zZ9JgepfUb795qb/4TNEgmz46PMi9Ay3g==;kJWJjsgv9zFhSasoPGZjGA=="
+secured: "qNvS9ojWFxYBnQL4xmN1cw0APH5K9uNjkQteljWCIjK5rfCj68ZELFdMKC0kdiBTFi81g4ng67tDxphq4obvc807I58Sw3eyG89WRonYFsE/Fto7Bb3ySPVJnvflGpvC1C6EisFsQ0y75IztCQTd4u/MrAW0xrAx4/zySchSFClISD0ZEsi8IaZLLnyvuwmyTXrXpw/v+frf2cQBGuhqpkzAORfdFOeREei1RIhj8oQcksyHKanGa8Iivo+IHJOqaHSr4bhpdH9+p6ftxxbP9QqgpeF4EfukvYIupVD+lpxB+mLh8PABZ2ClM98YQpoegJJyepVExPVvwAKwz8md7Z/K29mVyQoaoaHIMunedeU=;gEQk8j3Ao1FYMGFgj+mnrQ=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-22-ibm-sells-its-watson-healthcare-assets-to-francisco-partners.md",
+      "title": "IBM sells its Watson healthcare assets to Francisco Partners",
+      "excerpt": "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Francisco Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
+      "originalUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/import/2014/05/ibm.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 917,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
+      "publishedDateTime": "2022-01-21T21:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-01-22-irs-to-require-facial-recognition-for-digital-services.md",
       "title": "IRS to Require Facial Recognition for Digital Services",
       "excerpt": "People who use the IRS digital portal will need to be prepared starting in the summer to submit a live video selfie and various documentation to make and view payments and access tax records.",
@@ -99,34 +143,34 @@
     {
       "path": "_news/2022-01-22-stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence.md",
       "title": "STAT partners with Applied XL to launch a new clinical trials monitoring platform powered by artificial intelligence",
-      "excerpt": "Since 2015, our team at STAT has worked tirelessly to deliver trusted and authoritative journalism about health, medicine, and the life sciences to millions of readers around the world. We are thrilled to unveil a new product that has been",
+      "excerpt": "Developed by artificial intelligence company Applied XL, in conjunction with STAT's national biotech team, STAT Trials Pulse uses machine learning and editorial-driven algorithms to help life sciences and health care professionals identify,",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20204007.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20204007.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence-1031119849",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence-1031119849",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T12:40:00-08:00",
+      "publishedDateTime": "2022-01-21T11:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1130,58 +1174,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-deepmind-co-founder-leaves-google-after-a-rocky-tenure.md",
-      "title": "DeepMind co-founder leaves Google after a rocky tenure.",
-      "excerpt": "Mustafa Suleyman, who played a key role in the company’s work on health care technology, is joining Greylock Partners, a Silicon Valley venture capital firm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/01/20/business/google-deepmind-mustafa-suleyman.html",
-      "originalUrl": "https://www.nytimes.com/2022/01/20/business/google-deepmind-mustafa-suleyman.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/01/20/business/20deepmind/20deepmind-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/01/20/business/google-deepmind-mustafa-suleyman.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/01/20/business/google-deepmind-mustafa-suleyman.amp.html",
-      "publishedDateTime": "2022-01-20T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

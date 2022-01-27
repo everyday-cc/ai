@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-27-tesla-says-full-self-driving-software-remains-a-priority-as-profits-boom.md",
+      "title": "Tesla Says 'Full Self-Driving' Software Remains a Priority as Profits Boom",
+      "excerpt": "The company reported over $5.5 billion in profits over the last year as its software is being investigated by federal regulators for alleged safety violations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418",
+      "originalUrl": "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1975846/tesla-electric-vehicles-elon-musk-record-profits.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1",
+      "publishedDateTime": "2022-01-26T17:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-artificial-intelligence-needs-people-intelligence.md",
       "title": "Artificial Intelligence Needs People Intelligence",
       "excerpt": "Enterprises yearn for the competitive advantage that ML and AI can offer their business, but often prioritize technology strategically over people to unlock the value of their data. The hype about AI and ML,",
@@ -200,7 +252,7 @@
       "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1424,49 +1476,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-dude-wheres-my-driverless-car.md",
-      "title": "Dude, Where’s My Driverless Car?",
-      "excerpt": "When will driverless cars hit the road? While car manufacturers and tech giants are making optimistic predictions about the future of autonomous vehicles, there are many challenges in the way",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessbecause.com/news/insights/8012/driverless-cars-future",
-      "originalUrl": "https://www.businessbecause.com/news/insights/8012/driverless-cars-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessbecause.com/uploads/default/news/images/1641574105.png",
-          "width": 750,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.businessbecause.com/news/insights/8012/driverless-cars-future",
-      "cdnAmpWebUrl": "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/insights/8012/driverless-cars-future",
-      "publishedDateTime": "2022-01-13T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Because",
-        "domain": "businessbecause.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

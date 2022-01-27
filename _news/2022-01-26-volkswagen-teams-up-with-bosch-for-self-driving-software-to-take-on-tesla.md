@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Volkswagen, Bosch team up on self-driving software to test Tesla"
-    excerpt: "The platform, announced by VW’s Cariad software unit and Bosch on Tuesday, will serve all Volkswagen Group passenger vehicles before being opened to the wider industry. As a first step, the partners plan to roll out technology from next year that will allow drivers to temporarily take their hands off the steering wheel via an over-the-air update."
-    publishedDateTime: 2022-01-25T16:19:00Z
-    webUrl: "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla-11643127103318.html"
-    ampWebUrl: "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla/amp-11643127103318.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla/amp-11643127103318.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2022/01/25/600x338/VOLKSWAGEN_1639226711911_1643127262293.JPG"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "VITPP2a9qeM0qOX53CLZwyZszuIW1iFgtTDwHgYF2syv+esFoLlAc/UJL94+Dmgz/Tyf/NniW2JDUIprIqu/dbgOOfJedR8oglmwIIyto7jok18/6dlFQIRwBbyrdlurPQSKenrR+Pkmh5ZX+zKIgBcWF5C8py9oCLeBIcH/9HlTaihCilkVdykumZrKuH7z6zyNXwVOnbFJnFR5+swsBmzeNdz/z8Rssdi3GMPFhmgXADJyDp2zQyKLlN5M8sEe7Axrpx+l28KbXbX4QcNV151kFelUrIlDJG6D6JclXK7mGsOGLwr06ZgtqHgi1wiUU5KvsTKL8wqPLlSFBJmkJlrgkHJxb8sIrNutns7vF/jzHlNZF5T/7IMfmscBU2WJ0EPy4cRsJ51jq4SZDZka9BEGnbsv0H/CzAOJHmbQnkS+FIS2Qhv+G7aKQMl3kVJC0pvf904B+H0C4Idn/2U/fyGHXBxk96d35fytYT+O0ueOd0I+638+fqtJIMMjYue9kJRMz3To8ircnfe6d9VOag==;3b+nTQSqm0aqk2njApQAiw=="
 ---

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-07-the-best-automotive-tech-at-ces-2022.md",
+      "title": "The Best Automotive Tech at CES 2022",
+      "excerpt": "With artificial intelligence and connected tech taking ... If successful, the model will put GM ahead of Waymo, Apple and Tesla, who have scaled-down their autonomous driving operations in light ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/automobile/the-best-automotive-tech-at-ces-2022-2-7911411.html",
+      "originalUrl": "https://www.moneycontrol.com/news/automobile/the-best-automotive-tech-at-ces-2022-2-7911411.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/01/2-mercedes-benz-vision-eqxx-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/automobile/the-best-automotive-tech-at-ces-2022-2-7911411.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/automobile/the-best-automotive-tech-at-ces-2022-2-7911411.html/amp",
+      "publishedDateTime": "2022-01-07T02:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-self-driving-vehicles-are-hereif-you-know-where-to-look.md",
       "title": "Self-Driving Vehicles Are Here—If You Know Where to Look",
       "excerpt": "Glossy visions of an autonomous future always seem just out of reach. But two insiders say the technology is available on farms, and on clear, dry streets.",
@@ -1322,40 +1365,6 @@
       "provider": {
         "name": "The Arizona Republic",
         "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-4-top-power-hour-stocks-to-watch-today.md",
-      "title": "4 Top Power Hour Stocks To Watch Today",
-      "excerpt": "Top Autonomous Vehicle Stocks For Your Power Hour Watchlist Today. Autonomous vehicle (AV) stocks are often exciting prospects in the stock market. After all, the industry is re",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/news/read/42080298/4_top_power_hour_stocks_to_watch_today",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/news/read/42080298/4_top_power_hour_stocks_to_watch_today",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-29T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null

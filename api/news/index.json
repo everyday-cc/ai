@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-27-tesla-says-full-self-driving-software-remains-a-priority-as-profits-boom.md",
+      "title": "Tesla Says 'Full Self-Driving' Software Remains a Priority as Profits Boom",
+      "excerpt": "The company reported over $5.5 billion in profits over the last year as its software is being investigated by federal regulators for alleged safety violations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418",
+      "originalUrl": "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1975846/tesla-electric-vehicles-elon-musk-record-profits.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1",
+      "publishedDateTime": "2022-01-26T17:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-the-irs-needs-to-stop-using-idmes-face-recognition-privacy-experts-warn.md",
       "title": "The IRS Needs to Stop Using ID.me's Face Recognition, Privacy Experts Warn",
       "excerpt": "New statements from the company's CEO show it may use a more expansive facial recognition system than previously known.",
@@ -762,7 +814,7 @@
       "originalUrl": "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1150,7 +1202,7 @@
       "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1190,58 +1242,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-why-we-must-create-an-ai-bill-of-rights.md",
-      "title": "Why We Must Create An AI Bill Of Rights",
-      "excerpt": "If eliminating the use of personally identifiable information completely is not a viable option, it should be clear that customers have the ability to manage their information, as well as pull out at any point.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/why-we-must-create-an-ai-bill-of-rights/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/why-we-must-create-an-ai-bill-of-rights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61eebd0af3b04eb1de11b53e/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/why-we-must-create-an-ai-bill-of-rights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/25/why-we-must-create-an-ai-bill-of-rights/amp/",
-      "publishedDateTime": "2022-01-25T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

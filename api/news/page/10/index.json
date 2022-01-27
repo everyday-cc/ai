@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-01-17-how-ai-will-drive-the-hybrid-work-environment.md",
+      "title": "How AI will drive the hybrid work environment",
+      "excerpt": "Artificial intelligence has the capacity to vastly improve work-from-home and hybrid work environments. But getting there will not be as simple.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/",
+      "originalUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Remote-Work.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/",
+      "publishedDateTime": "2022-01-16T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-16-saudi-fintech-joins-battle-for-us-retail-investors.md",
       "title": "Saudi fintech joins battle for US retail investors",
       "excerpt": "RIYADH: Saudi entrepreneur Nezar Bakhsh has joined the battle for US retail investors after launching a financial technology startup that sells stock trading advice to traders. His Quant Alpha platform offers artificial intelligence-powered software for investors,",
@@ -1142,57 +1194,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions.md",
-      "title": "AI Weekly: What can AI tell us about social unrest, virus structures, and carbon emissions?",
-      "excerpt": "Predicting unrest and virus structures. Reducing emissions from planes using algorithms. That's a few of the headlines in AI this week.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/",
-      "originalUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/airplane.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/amp/",
-      "publishedDateTime": "2022-01-14T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

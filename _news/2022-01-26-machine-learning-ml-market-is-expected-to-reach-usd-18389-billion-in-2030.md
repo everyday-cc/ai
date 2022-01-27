@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expect
 webUrl: "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030"
 type: article
 quality: 51
-heat: 92
+heat: 93
 published: true
 
 provider:

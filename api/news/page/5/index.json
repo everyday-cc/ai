@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-21-deepmind-co-founder-leaves-google-after-a-rocky-tenure.md",
+      "title": "DeepMind co-founder leaves Google after a rocky tenure.",
+      "excerpt": "Mustafa Suleyman, who played a key role in the company’s work on health care technology, is joining Greylock Partners, a Silicon Valley venture capital firm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/01/20/business/google-deepmind-mustafa-suleyman.html",
+      "originalUrl": "https://www.nytimes.com/2022/01/20/business/google-deepmind-mustafa-suleyman.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/01/20/business/20deepmind/20deepmind-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/01/20/business/google-deepmind-mustafa-suleyman.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/01/20/business/google-deepmind-mustafa-suleyman.amp.html",
+      "publishedDateTime": "2022-01-20T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-zenoss-names-blair-duncan-chief-financial-officer.md",
       "title": "Zenoss Names Blair Duncan Chief Financial Officer",
       "excerpt": "Duncan will oversee financial and human resources activities for ... to build real-time IT service models that train machine learning algorithms to deliver robust AIOps analytics capabilities. This enables IT Ops and DevOps teams to optimize application ...",
@@ -828,8 +880,8 @@
       "title": "Ambient.ai Emerges from Stealth, Introduces Computer Vision Intelligence Platform for Physical Security Industry",
       "excerpt": "Ambient.ai today emerged from stealth to introduce the first computer vision intelligence platform. The company has raised $52 million in venture funding led by a16z and launches with five of the largest US tech companies by market capitalization and multiple Fortune 500 customers across a variety of other industries.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/01/19/9528985.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/01/19/9528985.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-ambientai-emerges-from-stealth-introduces-computer-vision-intelligence-/2022/01/19/9528985.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ambientai-emerges-from-stealth-introduces-computer-vision-intelligence-/2022/01/19/9528985.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1146,57 +1198,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-the-opportunity-and-the-danger-of-artificial-intelligence-at-retail.md",
-      "title": "The Opportunity And The Danger Of Artificial Intelligence At Retail",
-      "excerpt": "Technology is creating a new era of decision-making in retail but it's not clear that it will always be good. Now is the time for the industry to act.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/",
-      "originalUrl": "https://www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e61880addd8c337c94bb6d/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/amp/",
-      "publishedDateTime": "2022-01-19T04:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

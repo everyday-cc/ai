@@ -1,32 +1,22 @@
 ---
 category: news
-title: "Meta Is Making a Monster AI Supercomputer for the Metaverse"
-excerpt: "Meta is building a new supercomputer to train enormous machine learning algorithms. Though only partially complete, the AI Research Supercluster (RSC) already ranks among the most powerful machines on the planet."
-publishedDateTime: 2022-01-26T21:36:00Z
-originalUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/"
-webUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/"
-ampWebUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
-cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
+title: "Meta's new AI supercomputer: 16,000 x GPUs, insane 175PB bulk storage"
+excerpt: "Meta's new AI Research SuperCluster (RSC) is a metaverse and AI beast -- 16,000 GPUs, 16TB/sec training data, 175PB bulk storage."
+publishedDateTime: 2022-01-27T01:28:00Z
+originalUrl: "https://www.tweaktown.com/news/84227/metas-new-ai-supercomputer-16-000-gpus-insane-175pb-bulk-storage/index.html"
+webUrl: "https://www.tweaktown.com/news/84227/metas-new-ai-supercomputer-16-000-gpus-insane-175pb-bulk-storage/index.html"
 type: article
-quality: 63
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Singularity Hub
-  domain: singularityhub.com
+  name: TweakTown
+  domain: tweaktown.com
 
 topics:
-  - AI Hardware
-  - AI
-  - Natural Language Processing
   - Facebook AI
-
-images:
-  - url: "https://singularityhub.com/wp-content/uploads/2022/01/meta-metaverse-ai-explosion-network.jpeg"
-    width: 1068
-    height: 601
-    isCached: true
+  - AI
 
 related:
   - title: "Meta Unveils New AI Supercomputer"
@@ -150,6 +140,22 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-01/59272060-7d43-11ec-bf4f-531a7fcff1a5"
         width: 2000
         height: 844
+        isCached: true
+  - title: "Meta Is Making a Monster AI Supercomputer for the Metaverse"
+    excerpt: "Meta is building a new supercomputer to train enormous machine learning algorithms. Though only partially complete, the AI Research Supercluster (RSC) already ranks among the most powerful machines on the planet."
+    publishedDateTime: 2022-01-26T21:36:00Z
+    webUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/"
+    ampWebUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 63
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/01/meta-metaverse-ai-explosion-network.jpeg"
+        width: 1068
+        height: 601
         isCached: true
   - title: "Facebook’s Parent Meta Is Building The World’s Fastest AI Supercomputer"
     excerpt: "Facebook parent Meta Platforms Inc. on Monday announced a new artificial intelligence (AI) supercomputer known as the “AI Research SuperCluster or RSC”."
@@ -741,15 +747,6 @@ related:
       name: ebuyer.com
       domain: ebuyer.com
     quality: 19
-  - title: "Meta's new AI supercomputer: 16,000 x GPUs, insane 175PB bulk storage"
-    excerpt: "Meta's new AI Research SuperCluster (RSC) is a metaverse and AI beast -- 16,000 GPUs, 16TB/sec training data, 175PB bulk storage."
-    publishedDateTime: 2022-01-27T01:28:00Z
-    webUrl: "https://www.tweaktown.com/news/84227/metas-new-ai-supercomputer-16-000-gpus-insane-175pb-bulk-storage/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "Meta unveils a new AI supercomputer, says it will be \"world's fastest\" by mid-2022"
     excerpt: "Meta has unveiled that it is building the world's faster AI supercomputer. The company has outlined what it plans to do with it. Check all the details here!"
     publishedDateTime: 2022-01-25T11:45:00Z
@@ -760,6 +757,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "hT3Tyl0lPYPzhoPQJt+7v/82Ji+lv1bTUrrNkxO/tXc/9ZQNzcLz04clLoOqrzZYt10pKB5J1sJBH3l8+IfafsGl/B8RTOk03g0UHSRxc9nZOrKLR2rs8o5w2PIwNBgWZ6/CnlmHFf3V9CP0UaeIhL/P3Bwcuuts6Eylw94Z4VG7KBcIe3e9PFvXy30qL/gatgKABCkxP9dV7zG4+ctOFDV6875NgLT2q74DqEoZbBmvtBSYRawoTtlqPinSXQ446VLKpV9eQ4Is9ayto3HUE455D/DbZOINONX1E3o8ZcAilz67ivilTQPGBOZxTJa7nX8mX+CMklazJfUgAGfhKdplbA60XM0/+cja50i/wLfMEPUEzJjbUTQ8l3jAfbAPzSaZ5kCFP4Qx4+TVIuxnCfP7fG6DAHHvNlD/hTe5t1AnsJOHLetelUMJskFCzmbTiE2vIbf9NJzxMAD2McqE4PO6FM7jn9woQvS8k7TRHnIrRwh+VSOAr6qe/FVOI4Y593pWL8saQLl4OQiAwQNGjg==;NLqiHnoqIoED/RuMeVjCag=="
+secured: "/Qe5yRptAOrCAVkTdy4M2eM4czb89mc8sBsynubmRAlLAu8vlRT3DNi6ynTeB65bdcMoVsBI9KWteGL6tNWp7IX/HsnIf1DPXWpJ8Qoe28EKeEZFgZ2YPyWjRo61Ein4E8UQAPpYbaoV6JCYjdkpZuVMgVuu/OOqtTDBA8nSfBWyTD/9hFHX2gkfGwpHa94HnHbUb+bhQMdXoNNMMp9F8NK//vFFuYxHNeqkPsc0tJ1Mp72Pklk1o3mxtLXCKZ7Ha19WkKnDlCFRArUu+mLM09f0suaUK34MyU7Cqs8OIZ91mcAqCuXOVc/f9E9UOLQ2f19V2pdcche9stgkKw/8Ka8zV1ED7ypvSIysooPgjY0=;8BpsgYbocoNJ2TgOkwhq6w=="
 ---
 
