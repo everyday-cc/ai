@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/we-are-indias-
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/walkin_012422_1.jpg"
         width: 640
         height: 438
-        isCached: true
-  - title: "Building a Smarter Government with Data, Analytics and Machine Learning in the Cloud"
-    excerpt: "A primary issue for federal agencies when it comes to getting the most out of their data is that most of that data never gets used. Research shows that some 90% of organizational data does not get used for analytics and decision-making."
-    publishedDateTime: 2022-01-26T23:35:00Z
-    webUrl: "https://washingtontechnology.com/assets/building-smarter-government-data-analytics-and-machine-learning-cloud.pdf"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 32
-    images:
-      - url: "https://cdn.washingtontechnology.com/media/screen_shot_2022-01-18_at_3.03.12_pm.png"
-        width: 764
-        height: 927
         isCached: true
 
 secured: "fMDvvQo/c3JNQzxtFyif7gZBkvljoVoWSljienk88U14OKtqFhaHcISDRfpIZaXGvtSV6DjOIaAwPzP57NxPBDTjZ8t5gJ76930GN3EtEKavTn6yeyD6mhbysT98VWrOFDnnWiekuk6cVc0nzeUMtj3URJf7Hf1eZY7PcJ6eXyYdacDHyH2kueEszj8tF7Wf7D0sa3FYfzQqN6UCXeG/sOnBGVazKAF7Fjlaa1XU+Hy2ICtBsRRMnYogltS4yvwlcRksR/khiXHDZP7R8E6pHmD1OYicaFycgxP/E4SjllaYf+A4Bajy7+Jk6mR4fo2Vylv9r78CyiuJWsoxHQEr4SDRrcUpIk/h7pouyx3z/k9PI3dBGLPnADOZyEKr1FLtTofhNKj5+TEgqnTg4TER98PueA8Rqw0IL0w3AWCYJ1AS8Lq8ief2TN7NDCceMDdb8DTsVBXYTR6NZAbDEz5e73Cw9onY/FGIMZ2cYWQiA51N4vUNI6K3elL7ZH3I9huAKvHxQik4Rfp8GFm5bqqi+Q==;2n9qyNogH0JJGvrtSp8/fw=="

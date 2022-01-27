@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-digital
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-in-series-a-funding-1031134315"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://inc42.com/wp-content/uploads/2022/01/dental-social-1.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Services automation and remote management startup SuperOps.ai raises USD 14 Mn in Series A"
+    excerpt: "SuperOps.ai offers multiple solutions for MSP needs like IT documentation, project management etc– within the platform and on cloud."
+    publishedDateTime: 2022-01-27T12:20:00Z
+    webUrl: "https://analyticsindiamag.com/services-automation-and-remote-management-startup-superops-ai-raises-usd-14-mn-in-series-a/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 27
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/237607781_377106920669294_6000303580472061354_n.jpg"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "JCQbTulymHIX54SAKaajim+aBycXgRQuoaRJLEMwhvIyyTyL61CSvvVYkPvKaWQZIRoBp7sQ3JTlqpphOFr31KjesrM7sXcf5dpUL26MRR4Vi4uAwNlgyhf77MyoR/9Z1fLLnSrSxnHIR6rQBQdXX75JCp8DlChijLUUYfbpuxupkHxWO+wLrsH/h3jP+ujmrrTMYMtyLWDHf2sCSEbz284uAnDsWo9gokwKZq896w3pAnQWz5nYzJOQGoKcumpFAjB7QKofTyaLaW9HyZajZk/Pj/s2NjBFgHrcSNrR+dWcQSrR9cl5fOHC7LOEEye7i5hV1gor1svE36abA67/0lUG9uyPowFuXT2eJ38CyClK0ytGg6rCP21BcaRpFtkC27jEuLJFrT6FCeYaJzSLnfn2R6uPAuJYRdp1b9grL4hH8YRqLDTorl1XtBvT0LgUS+ZWT3GBtNNiXeurs2Vdb/OWLyGzCa6Q7E6eYlEkLnlmPxhxP3isWRt/SPPna+8iTnkTV4NwE53HYkheAOMGKQ==;2TNx0Mfyz5nwOZY50qSFhg=="

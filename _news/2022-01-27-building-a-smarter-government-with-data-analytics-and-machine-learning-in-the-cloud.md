@@ -25,36 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "We are India's 1st telco to build Big Data AI/ML Cloud Advanced Analytics Platform on AWS: Vodafone Idea"
-    excerpt: "Dr Chaube believes that there is a critical need for telecom service providers to transform from 'Telco to Techno' and technologies such as 5G, Artifi.."
-    publishedDateTime: 2022-01-24T11:57:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507"
+  - title: "Vanti Analytics secures $16M to assist manufacturers in deploying AI models"
+    excerpt: "Vanti Analytics, a startup developing an AI model management platform for manufacturers , has raised $16 million in venture capital."
+    publishedDateTime: 2022-01-27T12:00:00Z
+    webUrl: "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/"
+    ampWebUrl: "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89093507,imgsize-71636,width-1200,height-628,overlay-ettelecom/we-are-india-s-1st-telco-to-build-big-data-ai-ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.jpg"
-        width: 1200
-        height: 628
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/aluminum-manufacturing_recycle-aluminum_05102018.jpg?w=1200&strip=all"
+        width: 1142
+        height: 940
         isCached: true
-  - title: "We are India's 1st telco to build Big Data AI/ML Cloud Advanced Analytics Platform on AWS: Vodafone"
-    excerpt: "The Indian telecom industry has been at the heart of the technology driven disruption over the last decade. With over 986 million active wireless subscribers, the industry has an opportunity to also drive transformation for businesses across industries."
-    publishedDateTime: 2022-01-24T10:19:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=918763"
+  - title: "Harnessing data analytics and AI-powered decision-making for supply chain resiliency"
+    excerpt: "Here's how technology leaders at companies like Palantir and o9 are changing the automotive supply chain with integrated analytics and operation."
+    publishedDateTime: 2022-01-24T18:33:00Z
+    webUrl: "https://www.autonews.com/sponsored/harnessing-data-analytics-and-ai-powered-decision-making-supply-chain-resiliency"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 59
+      name: Automotive News
+      domain: autonews.com
+    quality: 32
     images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/walkin_012422_1.jpg"
-        width: 640
-        height: 438
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/iStock-1140961203_0.jpeg"
+        width: 800
+        height: 600
         isCached: true
+  - title: "Observe.AI ranked G2 2022 Leader in Speech Analytics & Quality Assurance for Contact Centers"
+    excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named a 2022 Grid Report Leader in Speech Analytics and Quality Assurance for Contact Centers by G2,"
+    publishedDateTime: 2022-01-26T14:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-observeai-ranked-g2-2022-leader-speech-analytics-quality-/2022/01/26/9533563.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "HXb3105lP1yFjbidIdrgKCzWOeAChRJafgu5RLXoqD0CZ1lNK86JWpNIaXxcyHnnwf6D/OR0OtzxOfxUHQlVdAhKFiitddxzT2vxt1o7YMHeAFT1Zzd+UC9/thTBy+3xCLFFGTRgIOWrNf0mvsZaIMFNuJAohQ0X43b1gJG/0YiI8ZM6XQjYUZzALowVnihW+EWU7eAVdsjYU1Cnfps4MUTFYSDY3EkewriubKGifxUuA724J8DheJFRH3Z4rv+B4s6Si6ryKdH/m7O6RBVLAld7MyZ3ZqrnlPogXNTx589SnPCnOrHDz7M/M1LL/QBmO8H2bkWaguZI7tyqNc9VoReEi/NyfOryHdp7Hu6gy9C7JEYKhKr+9hWEfWichjZecaJ6SjmH8+7RSPvYSxz9YH1fIcNR26CTbyoJ2B2tngwNjjrh6hpiohAC/SV0rzN912k8z4AxH4YIILwJvgEfy35vJVXADZ+x/YkFNWaCeJmMtrqc1vCYZfb0fb5xp6G5dUMbAI1HJpBDxx7HNmJIAw==;rGT4ai2cqcqb864uVOk85Q=="
 ---

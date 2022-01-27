@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Edge Artificial Intelligence Chips Market 2021 Top Industry Trend and Segments Analysis up to 2027"
+    excerpt: "Comserve / -- Edge Artificial Intelligence Chips Market by Device Type (Consumer Devices, Enterprise Devices) Function (Training, Inference) - Global Industry Analysis & Forecast to 2027 Industry Outlook and Trend Analysis The Edge Artificial Intelligence Chips Market has encountered significant development over the recent years and is anticipated to grow tremendously over the forecast period."
+    publishedDateTime: 2022-01-27T11:43:00Z
+    webUrl: "https://menafn.com/1103600924/Edge-Artificial-Intelligence-Chips-Market-2021-Top-Industry-Trend-and-Segments-Analysis-up-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?356435"
+        width: 353
+        height: 249
+        isCached: true
   - title: "2021 Global Oil and Gas Automation Industry Report - Robotics for the Upstream Sector Presents Opportunities - ResearchAndMarkets.com"
     excerpt: "The “Global Oil and Gas Automation Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. The global oil and gas market is currently going through an unprecedented transformation,"
     publishedDateTime: 2022-01-26T10:42:00Z

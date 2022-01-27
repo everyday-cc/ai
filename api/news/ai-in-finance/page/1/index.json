@@ -327,6 +327,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-20-loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers.md",
+      "title": "Loans Canada and Even Financial Announce Strategic Partnership to Help Canadian Borrowers",
+      "excerpt": "PRNewswire/ -- (\"Even\"), the category-leading embedded finance marketplace, and LoansCanada.ca (\"Loans Canada\"), the leading loan comparison site in Canada, have announced a strategic",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers/article_e8df3c21-5b33-5ef3-919b-7a58da666e1d.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers/article_e8df3c21-5b33-5ef3-919b-7a58da666e1d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/00/7005db65-8590-5b23-9f60-f5ca811a2f83/61e979be6a3d8.image.jpg?resize=400%2C205",
+          "width": 400,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-20T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-columbia-threadneedle-investments-selects-three-firms-for-2022-masschallenge-fintechs-start-up-accelerator-program.md",
       "title": "Columbia Threadneedle Investments Selects Three Firms for 2022 MassChallenge FinTech’s Start-up Accelerator Program",
       "excerpt": "Columbia Threadneedle Investments today announced the selection of three innovative fintech start-ups for this year’s MassChallenge FinTech accelerator program. In working with these firms, Columbia Threadneedle,",
@@ -1336,50 +1379,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis.md",
-      "title": "Machine Learning as a Service (MLaaS) Market 2022-2027: Industry Size, Growth, Share & Analysis",
-      "excerpt": "According to the latest report by IMARC Group, titled, \"Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", the global machine learning as a service (MLaaS) market reached a value of US$ 3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272109313/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share--analysis",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272109313/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share--analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1642962309942.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -28,7 +28,7 @@ related:
     provider:
       name: enterprisetalk
       domain: enterprisetalk.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/Artificial-Intelligence-Startup_-Rehinged_-Launches-Carenet-AI-01.jpg"
         width: 1200

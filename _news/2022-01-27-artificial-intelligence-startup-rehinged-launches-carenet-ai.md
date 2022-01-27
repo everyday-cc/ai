@@ -8,8 +8,8 @@ webUrl: "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinge
 ampWebUrl: "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/amp/"
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/amp/"
 type: article
-quality: 72
-heat: 82
+quality: 74
+heat: 84
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/Artificial-Intelligence-Startup_-Rehinged_-Launches-Carenet-AI-01.jpg"
@@ -36,6 +37,6 @@ related:
       domain: wfmz.com
     quality: 32
 
-secured: "mM2XmQaYSiMG7fx2/5WJp7YJMWDykkl2u1Wcl9tnZIhcnuoJpxuNxxf1kD2/bxrFPw8+6xB1rYR0c055y+YppBWXaPlYd/wKSBNVOQie25EB3ES6OECAR0VnfNPgXF7AZmt8Yspe+oe3Nv+ib8gIDfdaaV22w2SN6gMyr8trbTYNjTyQOg4UIf1NxfEqcm3G8S7ysUa6k3Fr7tUe2LRrNT82KIryg0OO0O/0wHK1zac8Jnc2F0zOf+GSGPGXrG+nu8CxAtJ4/2V5ZAe1oh96n/r1c2w/3qY4bfcln5gaMCdCiUXJCrQbaU8/WgBuhmR4/cTdIkBVPIsj9SgY+l6bs0VuCR81LyFtf8cQIzyUExI=;ZYvELdyVh9FRBch8ozb4dA=="
+secured: "UlCWRRcMYhBN/w2y48uFC9EYg9xUdI0RzlYXpT0sHgH5I7XH84ceKth3zhnf+/nbleM/QllSyf61iP+NA33NsbofdBC5Vl5sfTtK//19t7aTi/ojSr9fDqM5blO7/llLyngyHbASe1tALhLlmboSGH8Txy5qKlUA61u107LFbqD1hev2yjzW99nWFRMyEPVs7N+D2Eh5BKDikIKaGq5lxfpyG1hLYqIx9Y1sM9yi31Bf5fX2ktU/KVdGAYJslgV7zz0siVyvptXTBwm5KPt7Al0nP7gnu8mj1u8hB3XZo4IXJMbc24+lCg6DtjUWnunXT//SqE23bEog6Q28VHJUyOO3TPbi58qnS/BWgq9S2UputeSy6wKCCiT/ea6ZlCvCLMOXOtKDBopYjLUR+Mfnz7Opk3rKOdccFyT4Wxsot4QkIHU45QRByhmpiXO3gN2meJIBLnqY/Cahaqy54uBaXE5PvSraPV2x336zsn/jmQWCyocS6XuXbKZJzQHXFZ4yUhx8MOV9XAEdzSxDpQLOpA==;lr1oQ+lFhvcDVHCObD21pA=="
 ---
 

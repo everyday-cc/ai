@@ -59,6 +59,20 @@ related:
         width: 4193
         height: 2360
         isCached: true
+  - title: "Who’s to blame for self-driving vehicle accidents? UK says it’s on automakers"
+    excerpt: "Last year, the UK became the first country to regulate the use of autonomous vehicles at slow speeds on motorways. Specifically, this means vehicles with automated lane-keeping systems (ALKS), able to control steering and speed within a designated lane."
+    publishedDateTime: 2022-01-27T12:24:00Z
+    webUrl: "https://thenextweb.com/news/whos-to-blame-for-self-driving-vehicle-accidents-uk-law-commission-says-automakers"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 51
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FUntitled-design-48.jpg&signature=4bfb3b88506be6cbc6b0095b3dbcd653"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Self-Driving Car Users Should Not Be Responsible ‘If Anything Goes Wrong’: Report"
     excerpt: "Someone behind the wheel of a self-driving car should not be legally responsible if it is involved in a crash, according to new proposals."
     publishedDateTime: 2022-01-26T00:01:00Z

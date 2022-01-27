@@ -1,26 +1,29 @@
 ---
 category: news
-title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
-excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
-publishedDateTime: 2022-01-24T21:32:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
+title: "Facebook parent Meta creates powerful AI supercomputer"
+excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
+publishedDateTime: 2022-01-24T21:33:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
 type: article
-quality: 49
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Meta Unveils New AI Supercomputer"
@@ -791,6 +794,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "J7kHFRUpKCa9rWSM2CqDT/Yx99zVVzzfpdGaTKNXI9Zu14k6f3+T4LQipADbLGXI3TodI39vYtLg5Ni1MA9mBtLF6sF+Rb1nMxnmQZewtCJZgBOhTL2ml32fHw6xFMNNsgIp7mERIK2Bj4oqZ7JNwcTDLMgD56WG9gK2kmNi5xuOZmWbBwKOFbTq9YpM8i7jTIHaKg2wgfjuNSt7HlocXTgNDkOQETafyHwO4bTkFnJ3DftBgMlJ650sOKMwrxm+Zf4jWZdc6RQztTEPdVeRYC6N6WGuxRSz7Z4TLl6Bboc8rUhdZc26lJ8VEb1QGQtAyqYBDPHjJL83xheY+3W9/Bhr5pGEcbNVI9FPDA8mA0HrZZgDAaJzi+/R7dLLIqnxj2xheA81ndunWulIFM/OGoAQMhgSWBzxnEXX5Lt+r9rZyNQwb1TJNuohgPPQ/ES87KmHdVRwHnlCposadW2WuHEMEwZqOuR6puZ+HrEmh5GOKVDX5NYCtRQ0fxsxOBOY4Jx0yMhE7WXlpQgnCXvScw==;iG0yPxoy3P8zkZYoJ/ehig=="
+secured: "ZGap5Awhyl1xZZxQ4/3RyC7+TUQ+06InOVoSRX6V4be/WyrRr4v6qgodlfjMHXwN+6Xfgzl5euwUxwaJhJbk+VHrqnMdCmUlhD6RfWnBjX5VlIbOetihGIl5/kpa7JRDV4fwL1AWDYhhaLa8wUuVmo+xgIbid8o5WYr/HsFq2WuY+OoNc8Ug2Kvo18WjckOrFcxsQGmTYGpVcLHcuyhcQ+PlcZIqMj1yrtVBaisUAns7Cb25uxAjsU8WBcyM2hPBpl7W3vKgLCVCUsAvT6zFX2ibLMMzmpGtNbYJJEt4zSVG2ZYv/LYpNEutYhGPSy5pqvotpnZDlkY5J7E+rmDg/A1826ZrbMhZ+7+pSMYQz9M=;S204a9o4zhiZufEKLQBZ3A=="
 ---
 

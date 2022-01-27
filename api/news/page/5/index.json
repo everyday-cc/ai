@@ -2,6 +2,142 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-21-al-gore-emissions-reductions-hinge-on-ai-measurements-from-space.md",
+      "title": "Al Gore: Emissions reductions hinge on AI measurements from space",
+      "excerpt": "Achieving earthly emissions reductions goals will hinge upon the extraterrestrial capabilities of artificial intelligence technologies that are taking precision measurements from space, according to f",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from",
+      "originalUrl": "https://thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/goreal_08132018getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from?amp",
+      "publishedDateTime": "2022-01-20T11:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-21-mercedes-benz-teams-up-with-luminar-on-self-driving-tech.md",
+      "title": "Mercedes-Benz teams up with Luminar on self-driving tech",
+      "excerpt": "Luxury carmaker Mercedes-Benz will partner with self-driving sensor maker Luminar Technologies Inc to enable fully automated driving on highways for its next-generation vehicles, Luminar's founder said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/mercedes-benz-teams-up-with-luminar-self-driving-tech-2022-01-20/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/mercedes-benz-teams-up-with-luminar-self-driving-tech-2022-01-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/1ADIm3zEYd9gwwsrRSyl6Rs2q7o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UQO6R4AMZZJV5HOVQS7YH5BFSU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-20T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-21-fauci-says-the-fda-could-approve-the-covid-vaccine-for-kids-under-5-next-month.md",
+      "title": "Fauci Says the FDA Could Approve the COVID Vaccine for Kids Under 5 Next Month",
+      "excerpt": "BioNTech's COVID-19 vaccine within the next month, Dr. Anthony Fauci said Wednesday. Fauci, the nation's top infectious disease expert, said that it's his \"hope\" that the Food and Drug Administration approves the vaccine for use in this youngest age group in February.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-covid-19-vaccine",
+      "originalUrl": "https://people.com/health/fauci-says-the-fda-could-approve-the-covid-vaccine-for-kids-under-5-next-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fda.gov/files/FDA%20approves%20first%20COVID-19%20vaccine_FINAL.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-20T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-cambrian-ai-2022-predictions-expect-more-than-just-new-chips.md",
       "title": "Cambrian-AI 2022 Predictions: Expect More Than Just New Chips",
       "excerpt": "The new year will see new chips, 2021 was another banner year for AI hardware platform innovations, as we predicted. Ok, not ALL of our prognostications came to pass, notably the stall (ok, death) of the NVIDIA/Arm deal.",
@@ -334,6 +470,49 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-20-loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers.md",
+      "title": "Loans Canada and Even Financial Announce Strategic Partnership to Help Canadian Borrowers",
+      "excerpt": "PRNewswire/ -- (\"Even\"), the category-leading embedded finance marketplace, and LoansCanada.ca (\"Loans Canada\"), the leading loan comparison site in Canada, have announced a strategic",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers/article_e8df3c21-5b33-5ef3-919b-7a58da666e1d.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers/article_e8df3c21-5b33-5ef3-919b-7a58da666e1d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/00/7005db65-8590-5b23-9f60-f5ca811a2f83/61e979be6a3d8.image.jpg?resize=400%2C205",
+          "width": 400,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-20T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1021,195 +1200,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai.md",
-      "title": "The diversity hiring disconnect: Addressing the broken approach to inclusion with AI",
-      "excerpt": "While recent metrics suggest that workplace equality is improving, a deeper dive into workplace statistics tell a different story.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/",
-      "originalUrl": "https://venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-978531552-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/the-diversity-hiring-disconnect-addressing-the-broken-approach-to-inclusion-with-ai/amp/",
-      "publishedDateTime": "2022-01-19T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-how-artificial-intelligence-services-can-help-small-businesses.md",
-      "title": "How Artificial Intelligence Services Can Help Small Businesses",
-      "excerpt": "Now, with sophisticated AI tools more accessible and affordable than ever, retailers have new ways to improve customer experiences, augment staffing and streamline their business processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/19/how-artificial-intelligence-services-can-help-small-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/19/how-artificial-intelligence-services-can-help-small-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6091b504c8b95aaf6849edfe/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/19/how-artificial-intelligence-services-can-help-small-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/19/how-artificial-intelligence-services-can-help-small-businesses/amp/",
-      "publishedDateTime": "2022-01-19T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-ambientai-emerges-from-stealth-introduces-computer-vision-intelligence-platform-for-physical-security-industry.md",
-      "title": "Ambient.ai Emerges from Stealth, Introduces Computer Vision Intelligence Platform for Physical Security Industry",
-      "excerpt": "Ambient.ai today emerged from stealth to introduce the first computer vision intelligence platform. The company has raised $52 million in venture funding led by a16z and launches with five of the largest US tech companies by market capitalization and multiple Fortune 500 customers across a variety of other industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ambientai-emerges-from-stealth-introduces-computer-vision-intelligence-/2022/01/19/9528985.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ambientai-emerges-from-stealth-introduces-computer-vision-intelligence-/2022/01/19/9528985.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns.md",
-      "title": "Ambient’s computer vision detects dangerous behaviors, but raises privacy concerns",
-      "excerpt": "Ambient, which is using computer vision to develop security systems, is emerging from stealth. But its software raises privacy concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/",
-      "originalUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1134171213.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/amp/",
-      "publishedDateTime": "2022-01-19T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

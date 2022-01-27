@@ -1,59 +1,26 @@
 ---
 category: news
 title: "Loans Canada and Even Financial Announce Strategic Partnership to Help Canadian Borrowers"
-excerpt: "Even Financial (\"Even\"), the category-leading embedded finance marketplace, and LoansCanada.ca (\"Loans Canada\"), the leading loan comparison site in Canada, have announced a strategic partnership to help Canadian borrowers find optimal loans and credit solutions."
-publishedDateTime: 2022-01-20T15:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-loans-canada-even-financial-announce-strategic-partnership-help-/2022/01/20/9530272.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-loans-canada-even-financial-announce-strategic-partnership-help-/2022/01/20/9530272.htm"
+excerpt: "PRNewswire/ -- (\"Even\"), the category-leading embedded finance marketplace, and LoansCanada.ca (\"Loans Canada\"), the leading loan comparison site in Canada, have announced a strategic"
+publishedDateTime: 2022-01-20T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers/article_e8df3c21-5b33-5ef3-919b-7a58da666e1d.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers/article_e8df3c21-5b33-5ef3-919b-7a58da666e1d.html"
 type: article
-quality: 15
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1730010/Loans_Canada_and_Even_Logo.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/00/7005db65-8590-5b23-9f60-f5ca811a2f83/61e979be6a3d8.image.jpg?resize=400%2C205"
     width: 400
     height: 205
     isCached: true
 
-related:
-  - title: "TCV Backs Canadian AI Startup That Accelerates Drug Research"
-    excerpt: "TCV and Inovia Capital are leading a $50 million funding round for a Canadian biomedical software startup that has some of the world’s largest pharmaceutical companies as clients."
-    publishedDateTime: 2022-01-24T11:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canadian-ai-startup-that-accelerates-drug-research"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGEeAY9waLeU/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Three Canadian regions ranked among the best global cleantech ecosystems by Startup Genome"
-    excerpt: "Startup Genome has published its first cleantech report, naming a trio of Canadian ecosystems to its list of the best 35 cities for cleantech in the world."
-    publishedDateTime: 2022-01-24T14:56:00Z
-    webUrl: "https://betakit.com/three-canadian-regions-ranked-among-the-best-global-cleantech-ecosystems-by-startup-genome/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 12
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2021/04/cleantech.jpg"
-        width: 1050
-        height: 700
-        isCached: true
-
-secured: "LILvYCfUA2pS8NzfE3lLZZNeMOTMGAa49rlC78+z3pVvh969BOotojOoNTgiGZZoeIXq4BLeeMN+msWmCb0et9GHOeIIq4M3zezfUm6/9fDWwytAlYhS1k3tLz5t4brnt+hwFBRdziZE3wxQPNbkduiQ6xO6sErDerRIb9byvYcjFEOr5UyhLsr8dz+ModQpK3qLxKxlyEyop3Uq8RvuXMFlyC1KrUEC7sv0hRmbXT5BfnhYKSgTAPbc0SKfgnVWasOGIc/ySRiLOflisdhqK9xvq25eI5pOawK4fwrH67vPXpiImUGubzzW1Jn+cCbGjM84cOVb7g4qXxZ2hhdvqMui611fXhf2h4UcetXWAK/Lz+oGkpDcAwTJxsfDdOjaG9KgZqHereOuoMDklSK8rG+kPzRFuo8ewX9aqn9EVyo/D1RHqZepFc3FHP9N5de7tV0Ry+9s1fXqqY2PS5GPlKfVbVwFv0F6y4KNeiMBlajgvJoPwm98HS1d51Jfjp5Tp/t+p7bJVwT4EWcF1pvgSw==;l4C1COj0tIPwxLmhE822Rg=="
+secured: "IS0n6Z3547pcv219ih3RuCLFKxsULflS3fe/7HVRDiYoAbwsogfsor7fkdqOdWCvCLHTVwm85Goa9IU5zm7VXnhZAteQfS1Htx/o61h7j7pSggIMZFiULieQmpPrlNNhcCeFusb2bsZoCcIlL57He+z1PXRGNhS6z0skBR/hzS0hhguhgiy+gkMNL1oWqAJ4IPaiMYyj3FRzx/9QUsWLupTew8ShXHAti+n+d+irNmSqM6yQz6YQryxFEDyvUZCILRSZe7TPAFTn9AneF9CFAHbJ5aooP9F59Sz+6/sfDW2U2kKrNb/Y9gKwWEQqJi1A7u3eY7rl8BNJsNOVi2gfY2uWrfQ/Dad15HyHB2Qpu0Q=;mWvX8LzG2PK2MsDzfcZ/Hg=="
 ---
 

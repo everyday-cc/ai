@@ -372,6 +372,22 @@ related:
         width: 751
         height: 423
         isCached: true
+  - title: "Facebook parent Meta creates powerful AI supercomputer"
+    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
+    publishedDateTime: 2022-01-24T21:33:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Largest Artificial Intelligence Supercomputer Is Zuckerberg's New Boast"
     excerpt: "Facebook's parent company Meta announced on Monday it was launching one of the world's most powerful supercomputers to boost its capacity to process data, despite persistent disputes over privacy and disinformation."
     publishedDateTime: 2022-01-25T01:19:00Z
@@ -466,15 +482,6 @@ related:
         width: 945
         height: 532
         isCached: true
-  - title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
-    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
-    publishedDateTime: 2022-01-24T21:32:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Meta Introduces Fastest AI Supercomputer"
     excerpt: "Facebook parent Meta Platforms Inc introduced its new AI Research SuperCluster (RSC) on Monday, which the company believes will be the fastest AI supercomputer in the world. It will be fully built out in mid 2022 and help create the metaverse."
     publishedDateTime: 2022-01-24T17:25:00Z

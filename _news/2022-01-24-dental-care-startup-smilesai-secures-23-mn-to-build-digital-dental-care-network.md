@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 898
         isCached: true
+  - title: "Services automation and remote management startup SuperOps.ai raises USD 14 Mn in Series A"
+    excerpt: "SuperOps.ai offers multiple solutions for MSP needs like IT documentation, project management etc– within the platform and on cloud."
+    publishedDateTime: 2022-01-27T12:20:00Z
+    webUrl: "https://analyticsindiamag.com/services-automation-and-remote-management-startup-superops-ai-raises-usd-14-mn-in-series-a/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 27
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/237607781_377106920669294_6000303580472061354_n.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
 
 secured: "HkdAJjcUgBmw3kjBodLzIJGhg/ZKRBH4CUs8TOsjgqWc2zI4IY1tEwCjf34NbcP3Eb/GC5hJ/5KBobFCMdQ7BH1boz9+cyJ0saPbI/rBh4nLXnkzsgkO1njPrX9M995rn5OevM3MnRuQ3GAmNkPchWa+cQ+vL0Zi2lKPoZqxl4ObrWnHIggOTyukc5QCARm8nDQi6w+HXABC8GrZkZDkeyYLQ0a5VTjs4q0lEovmmStxYRKow7ytUOLYHrAukupaTuCIWjQ9/DldysUZSWFcyMj7RgOq8EVbNqpsIJqyFE/L1U0Ne7xCE5lNoEjBWV8J+iFmDrhZKeL8Rov2i7bBGesOEQMbgdcnw2abi3pbmMZbSr4gahdhvikZyUKpzB0wo+TqQ1vu7POx8dIb5refsf2Rwk5nQnlDFAVUVANMpxob9FkmgM9a4HmEtvcqBwi1gZORts62biDWkZpGJKIFah7dgbVC81s9sdzHCw8LuLacBEwSZK0GB77Gv4IrfDlw89o2yxDXDOFmJW4pKkHNHg==;2apf9kXW5LGdGNYG3ikL9A=="
 ---

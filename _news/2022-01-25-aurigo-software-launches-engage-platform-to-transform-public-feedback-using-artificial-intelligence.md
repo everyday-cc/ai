@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Pure's AI Platform To Enable Self-Driving Storage"
-    excerpt: "In this webinar, we will discuss how Pure1 Meta, the new AI engine announced during //Accelerate 2017, advances Pure's vision of self-driving storage."
-    publishedDateTime: 2022-01-25T22:28:00Z
-    webUrl: "https://www.purestorage.com/es/resources/webinars/ai-self-driving-storage.html"
+  - title: "XXII launches an ethical charter for AI software publishing"
+    excerpt: "Artificial Intelligence is booming and the technologies it has developed are in constant evolution. The ethical problems that can arise from their use are at the heart of the debate. XXII, a company specialized in Deep technologies,"
+    publishedDateTime: 2022-01-27T11:19:00Z
+    webUrl: "https://www.actuia.com/english/xxii-launches-an-ethical-charter-for-ai-software-publishing/"
     type: article
     provider:
-      name: Pure Storage
-      domain: purestorage.com
-    quality: 39
+      name: Actu IA
+      domain: actuia.com
+    quality: 54
     images:
-      - url: "https://www.purestorage.com/content/dam/purestorage/images/webinars/ai-self-driving-storage.png.imgw.720.720.png"
-        width: 720
-        height: 405
+      - url: "https://www.actuia.com/wp-content/uploads/2022/01/XXII-charte-ethique-edition-logiciels-IA.png"
+        width: 3333
+        height: 1667
         isCached: true
+  - title: "Researchers develop optical computing for AI addressing noise problem"
+    excerpt: "A research team has developed new optical computing hardware for AI and machine learning that is faster and much more energy-efficient while addressing the 'noise' inherent to optical computing that can interfere with computing precision."
+    publishedDateTime: 2022-01-24T12:50:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220124/3899341.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "IYyBUA4+zDctQuNriFUCNz1FXF693WNH0sDIafD4LW/112lAnuS0IicvjsctVPBX4W2EXy+6ZjC9aaKvs+WjrdzpG040S1R3GTbhflmG1Yc+0DhBtqYaCKLOXCezMeGOkDV3yBUp8dAz9LTCy+ZuCQcV9UESTPVeI9g3E6Au5ZHk+eoIjktR+UTKtfZdVLL8FAZ9peYsn+rQ+EzoycrxOhmzw7t1qOhKdt8saCZO13QWPTz5ekQ3w7ZlTiODCQE5t6YTSlzYia6itUfYws57YIQ6dXnTbhbifU3gMezghrLCv5Ja5KB2oSoCHo9LYZsJ+Gd08VX0uVsmWqTPagWnNUKA4InlUHykbYuJ1Si+1RE=;ePeKXuIB+TvQbo0xXrFAJg=="
 ---
