@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "caredotai"
   url: "https://twitter.com/caredotai"
-  followers: 467
+  followers: 468
 
 size: 11-50 employees
 yearFounded: 2019
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=DWTje5pDap0"
 
-secured: "eNJ9hlAXNsg1IyHS/RNVVb/IaKF95S02ZBAeRQJtsVdxC5+eqi+K15Hqe+RLB6N2cNBEdsG4eGIq2NoBefIL9ZCcCtrTshSlgeKbPsppo0AJvlSpDmtvg6V9SU4M7JGP4a97HToL1PZJVuthn4D5b6otZLjUFHBP6Pc0XEmLbC9SD3kT/heKuwuLx7H8Ab5UUM9CTZKqKs0ZGkvLdlLBKFEvURvJqAKlX1QSM3RRr20zGeNlIj/y1Dr6r5Jn13ZZVw1vMuAt7NbE7fFamPAeYmQuKKuXuWoa0CmC0446FoyF+iz68dy67n4mmvorvuhxgzAR7gb8hd3pUti1Y1k4L07IHLEXYllnVlHpRMDcBYgBhNw2/tg1+NmztHxuNsEIMrEhu2wOhOFEmuHYCbQUVg==;ojK9QhDEhq0PmzAwvvwCTw=="
+secured: "M8uogkBUY/VbaSboXZSvgCG9GHHuPVglWBVhvJzC3rHlY3SIUiNBxambhwqQMaS7RwFfBzJnQZ+WK1P2k0482+Gb30Ds3IWxGo9YcrS7KY0eLVrmKBjeZgBNjNZIQLt1QuRPPXUMrD7oFOh45pNY/gGunX0nPZHTCuGFg++emRmgnLSINEOvpUt2I50eJ0dRpptGaS/gD2uoTueXNxg3ddYmIbZUuNfCTvQNGcfp75uLEc33hTC58PdQUluFrWQ/U6Bu24WBBcILiFurFYn0g4CGytlL4VfxSPgrRi6WRqnOVUQvs/hcT6ovQSPcwvA1eN120nM63aEzuwaIQTRiNh/Y/liU54XKWvlG+XWt8Xsam3+CTtrnhaQegseHVgpy6n9tMkxuqAHkTbxSQKW5qA==;q1RvsXUEZTohlv1kBALkGw=="
 ---
 

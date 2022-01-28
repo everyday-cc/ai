@@ -2,7 +2,7 @@
 name: "Nauto"
 overview: "NautoⓇ is the only AI-powered, driver behavior learning platform to predict and reduce high-risk events in the mobility ecosystem. By analyzing billions of data points from over 400 million AI-processed video miles, Nauto’s machine learning algorithms continuously improve and impact driver behavior before events happen, not after. Nauto has enabled the largest commercial fleets in the world to avoid more than 250,000 collisions, resulting in nearly $1 billion in savings and over 5,000 lives saved."
 type: "profile"
-heat: 42
+heat: 71
 
 website: https://www.nauto.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "NautoInc"
   url: "https://twitter.com/NautoInc"
-  followers: 3638
+  followers: 3641
 
 size: 51-200 employees
 yearFounded: 2015
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "CjNHuAAbosqPqFiiO4hp8rqUWO34mGy9hVLt/bd12eQmZFS6GeM9DUifqmPJeeQ1m4xsv0TVdaAbgeho+Ldn31dwvYedDXHS9O0D/ibiXX8rRJ2m0qTyfoOPIvra/mQd+yOyJmxaMdNHPXAcbMaNi3jhRRJKIXAu2ADJIt/Uwq1E0/7f3RFIv2DrVaPrjMr09ZoJQ9hsoUv0gSOphrClKPwDCMVlFcXDM3d2bSHZlTwV5WBZ2QO5uoEv2VKrkvtSdjBM6b9dpbVxn7C7d7AN++8cEdKKbJSzBJcDdEkER6G0KtpZ9exzsvRkKSfqJt1M812BV5CPYIF1flER8dh1/5AgQ3QQIEWhdskpr1QC1ma/MnZ3c35PM7N9IaQNXcNec3+xg3C3HNuZP8i/3wAD0NQ977yEX/yT6IK+ugKmOXI=;b7IKaEDXm0eZD93OC6sM/g=="
+secured: "ktb2ffSwtG1GnRm+Q5rYYTP4OcecsxBV7up9Pwoa3FlsCCuIAoznTi415PQBK82ht03Yk/fYFqGYkZo6rHTHWFHx8gquj+KQG1SbvW8zIjwrHsPkTFtkEUYQKg1Q4drs9gPan1MYlykf/veUuUFz6nia9P674lEp9hAnKrQCuzkto9nnTysFqdioCCLzsAHTBzcznMwEtjAVmWaDwdwXZuInCPuNwXnwicDTrX4UQu/6lsP/tYuL/tAb51eYzTJInUj9ZjfevLlUUWJ69SCDDqZHcFHajbj39lKo/4VvpFUd74xPs1/W4OG2R242Oif0J/aBB+xvlj008bHrfTNmc0643Qp6S0V+sg8KCsExpOUZuBB8kGZOaS5KcRxS+1/NTCWQV0w5cNdF6NaN6vsiTc8343cb60/+urfgsIU+riw=;tPoPnE47tIROIKCawUX9iw=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "infermedica"
   url: "https://twitter.com/infermedica"
-  followers: 2637
+  followers: 2641
 
 size: 51-200 employees
 yearFounded: 2012
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=p8YcZnbiB2U"
 
-secured: "XG/U5lsnf1kLBhW3e4Gjp3xZxQ5aQkaVGFia1GxSBOS/gIs42W2huCk0qgTvrPNP5IDzuT6JeL6aWkXXYoZf/xrkHulM8WvpJ06I5sxeNenaGNj8leIa73vUSpUqaGhHkYdI7XeZ5YgRlKSIvnGUyurYtxUs6GcLmO+xIpXTVs45RMLxVhIZ8Nad2OCtwfTnbZKRjiDlOF5cmaCawC8IhbeKpalHSziiC7do79oyDk4PXeyh52sLbwkvxtdgUEFfpLQYbg2tsnEAUAquli4X5bA7/9il8tYHYUi8GJgwsaWFLondkYwHKYJy2IMNS5MJtt8C7eAAdAaubz9nw2xYyuJ6dlFORH9RbVoUs4VYXEcnTs2IoXS4nT5X5Q3cSzDjZC7fviJ5WBWqG59mXHPfbrFJ0+nIpRJ4xXfpeQUksQo=;yQbiqKUpAIo8QkI6jd+b8A=="
+secured: "1jgclZLKKTX6ZYvKYPlPKYhwtT92VZNTXOOeYvnRmn6ZbKUiEZlAUjQBInmSsv0bL9JTEgSJTalbSRzJJqZ7mhwmGj1IoBa9GcblWdy3/kjh7YIqCoh4o6Egso0RAlLlubkq/c4VRGiJVj3b0uo89sHSYW3mWmp0dn//LsnB3aVUMwZV4jNe9pPNex2HSgkVwAMNUhOk3dqj+9NWNQltiAQZJMsMWRADDictcWhs8tMPaX4w5dtg+DMwjSIsQ21CFEM5Dyz3Fr3I6ekppsQHv0x6ifp7ifx4QbVB0XKhk9ebTYTDWSgP8wPhLBG8kC0j451mWT5CYT3swvyJrD3b30IUyQoCEmfbW/XI7gull/P8NoyfUpvotXX13osCi1S1EjefN1InrAiA37np0kRgZdWR1LMe1UuahOG8yB5fCCM=;6v6Mw2qKHnlu/5+evCRgeQ=="
 ---
 
