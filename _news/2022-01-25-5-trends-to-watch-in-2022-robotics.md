@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/5-trends-to-watch-2022-robotics?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/04/face-detection-4762379_640.jpg"
         width: 898
         height: 400
-        isCached: true
-  - title: "Robotics and automation stocks to watch in 2022"
-    excerpt: "Robotics stocks are companies related to the booming industries of automation and robots, which are having an increasingly important role in our everyday lives. The use of automation and robotics is only growing,"
-    publishedDateTime: 2022-01-23T00:27:00Z
-    webUrl: "https://www.cmcmarkets.com/en-gb/investing-guides/robotics-stocks"
-    type: article
-    provider:
-      name: CMC Markets
-      domain: cmcmarkets.com
-    quality: 54
-    images:
-      - url: "https://assets.cmcmarkets.com/images/earhart_chooseyourpath_bg.png"
-        width: 1344
-        height: 964
         isCached: true
 
 secured: "LxH4yTeEoOE04ikkNbtymC363TAV/JXcf4IaerMcPpuw4IXHLF3BXVLVszQPBg7gF7vkdaBU656uoSjJHLCgTOUH3fU9zPJ/XMpd1sD2vRLB+7uzqndcRqN5FSiPWq/Sr0Sz1uUJgbAaSX3n4a06LMAzXW3FJwDQQOB546n+3686boLDhooamSlTLHJUqGsBmzB7pyCl97S7PcM78FA/Njs0aiMOsnKwupqaJ0MhjDQYyU2Q3hs8Ud4od0VBTkrRfV6Djgkpoj3366rlW4ixVA3BWNQdEcm37RxVtB2YYHNNc4nlYfEIs+PoZI0zu8vG+h1/LQGKMzofqn9Ctm/FQuigeuZfc6299i7IRyrNspo=;E7iHCkHntZ72U2vn4CBaaA=="

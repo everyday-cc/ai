@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-27-sas-tops-aites-fraud-and-aml-machine-learning-platforms-matrix.md",
+      "title": "SAS tops Aite's fraud and AML machine learning platforms matrix",
+      "excerpt": "SAS has earned the foremost best-in-class title in Aite-Novarica Group's Aite Matrix: Leading Fraud & AML Machine Learning Platforms. The AI and analytics leader achieved top billing among 11 competing anti-fraud and financial crime technology vendors,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-tops-aite-s-fraud-and-aml-machine-learning-platforms-matrix-1031136115",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-tops-aite-s-fraud-and-aml-machine-learning-platforms-matrix-1031136115",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1735421/SAS_Top_Billing_on_Aite_Anti_Fraud_assessment.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T07:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-jd-technology-fintech-unit-of-chinas-jdcom-engages-banks-for-hong-kong-ipo-that-could-raise-up-to-us2-billion-source-says.md",
       "title": "JD Technology, fintech unit of China’s JD.com, engages banks for Hong Kong IPO that could raise up to US$2 billion, source says",
       "excerpt": "JD Technology is targeting as much as US$2 billion in a Hong Kong IPO, which could make it the fourth JD group company to be listed in the city.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -108,6 +161,59 @@
       ]
     },
     {
+      "path": "_news/2022-01-25-klarity-lands-18m-series-a-to-expand-its-document-automation-platform-for-finance-and-accounting.md",
+      "title": "Klarity lands $18m Series A to Expand Its Document Automation Platform for Finance and Accounting",
+      "excerpt": "Klarity, the AI platform that turns documents into structured data and frees humans from painful and voluminous document review, today announces $18M in Series A funding led by Tola Capital with participation from new and existing investors.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/klarity-lands-18m-series-a-to-expand-its-document-automation-platform-for-finance-and-accounting-1031123718",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/klarity-lands-18m-series-a-to-expand-its-document-automation-platform-for-finance-and-accounting-1031123718",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1731884/Picture1.jpg",
+          "width": 400,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-new-emerging-fintech-security-trends-in-2022.md",
       "title": "New & emerging Fintech Security Trends in 2022",
       "excerpt": "The unexpected and rapid shift of the global workforce to WFH setup prompted by the coronavirus pandemic has caused enterprises around the world to make significant infrastructure adjustments to support employees as they work",
@@ -116,7 +222,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1292,93 +1398,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-odyssey-therapeutics-acquires-rahko-a-quantum-machine-learning-company.md",
-      "title": "Odyssey Therapeutics Acquires Rahko, a Quantum Machine Learning Company",
-      "excerpt": "Odyssey Therapeutics, a biotechnology company pioneering next generation precision immunomodulators and oncology medicines, today announced that it has acquired Rahko, a leading quantum machine learning company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20180348.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20180348.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T04:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-now-ibm-wants-to-speed-up-automated-transfer-learning.md",
-      "title": "Now IBM wants to speed up automated transfer learning",
-      "excerpt": "This article looks into how IBM's CodeFlare significantly speeds up automated transfer learning tasks for foundation models",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/now-ibm-wants-to-speed-up-automated-transfer-learning/",
-      "originalUrl": "https://analyticsindiamag.com/now-ibm-wants-to-speed-up-automated-transfer-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/codeflare-banner_11zon.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T00:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

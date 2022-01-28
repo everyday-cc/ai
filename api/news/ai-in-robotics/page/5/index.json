@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-24-rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics.md",
+      "title": "Rajasthan Government Sets Aside Rs 200 Crores To Train Youth In AI, Ml And Robotics",
+      "excerpt": "Rajiv Gandhi Center for Advanced Technology will be set in Jaipur, which would conduct certificate courses and multidisciplinary research in AI, ML, Robotics and Virtual Reality.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/",
+      "originalUrl": "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/ashok-gehlot-new.jpeg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant.md",
       "title": "Robots and conveyor belts: Jacky Li talks kitchen tech at Roger Bar and Restaurant",
       "excerpt": "Since opening in July, Roger Bar and Restaurant in Mountain View has faced hiring challenges amid a labor shortage during the pandemic. Leveraging tech tools can help alleviate some of the pressure.",

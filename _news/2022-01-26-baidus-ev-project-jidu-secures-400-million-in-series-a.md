@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-m
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -55,10 +55,24 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Baidu's car-making JV raises $400 million"
+    excerpt: "Jidu, a joint venture between Chinese technology giant Baidu and Chinese carmaker Geely, said Wednesday that it has raised nearly $400 million from its two parents. The joint venture, established in January 2021,"
+    publishedDateTime: 2022-01-26T10:14:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202201/26/WS61f0ae6ea310cdd39bc83565.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202201/26/61f0ae6ea310cdd3d8292ce3.jpeg"
+        width: 711
+        height: 474
+        isCached: true
   - title: "Baidu & Geely's New Smart Electric Vehicle Company JiDU Raises $400 Million in Series A Round"
     excerpt: "Newly formed intelligent electric vehicle company JIDU announced that it has closed on $400 million in Series A financing. The funding round was backed by China’s internet giant Baidu Inc and its strategic partner automaker Zhejiang Geely Holding Group (\"Geely\")."
     publishedDateTime: 2022-01-26T16:00:00Z
-    webUrl: "https://www.futurecar.com/5157/Baidu-&-Geelys-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
+    webUrl: "https://www.futurecar.com/5157/Baidu-&-Geely’s-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
     type: article
     provider:
       name: futurecar

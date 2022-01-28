@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Dataloop Applauded by Frost & Sullivan for Accelerating Computer Vision AI Model Production with its Data Management and Annotation Platform"
-    excerpt: "Dataloop Applauded by Frost & Sullivan for Accelerating Computer Vision AI Model Production with its Data Management and Annotation Platform Data"
-    publishedDateTime: 2022-01-26T02:39:00Z
-    webUrl: "https://menafn.com/1103593250/Dataloop-Applauded-by-Frost-Sullivan-for-Accelerating-Computer-Vision-AI-Model-Production-with-its-Data-Management-and-Annotation-Platform"
+    excerpt: "The platform helps enterprises accelerate computer vision AI model development by accurately labeling data through automated annotation. Comprising integrated deep learning algorithms with pre ..."
+    publishedDateTime: 2022-01-25T16:10:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/dataloop-applauded-by-frost-amp-sullivan-for-accelerating-computer-vision-ai-model-production-with-its-data-management-and-annotation-platform-825685988.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: PR Newswire
+      domain: prnewswire.co.uk
     quality: 19
     images:
-      - url: "https://menafn.com/updates/pr/2022-01/25/F&S_b3ca7image_story.png"
-        width: 698
-        height: 360
+      - url: "https://mma.prnewswire.com/media/1730904/Dataloop_Award.jpg?p=facebook"
+        width: 1500
+        height: 784
         isCached: true
 
 secured: "EXvmngzMicW4zYdD9Y3FAVcr7ytPJZkk+iw8prwzKeb9HvGnO198OPVWMCNkDY0MchUWV/5ay7oHOjkjdO8R0QZx/nVb4u85VNh9Vt0K5P+NLfDPwH28Vs9ogyWo00j9Xb1V4CG6bMK3h/oAmZr8GSCPrCPI4RvmrY7EH/wKI39Zt0HqFGEZ71XclFxIGErM2af4101vWgQhHb0BR8mpqsLHXFv/jA1WwHyLHjdB3Hib0L+vqtwohMRzsnLNNMBATjJMU6jVnNuDFQPOx10opB37GZwnHJorJOoWrKQy9K5F+DXk1R/NWyu6VTd+pqp2duEmH39b846VJ6sGQhafxNNRudKVWl8e1hGHWZ41Oj4=;suFUeP/t1Y7SH5ip+xCcMQ=="

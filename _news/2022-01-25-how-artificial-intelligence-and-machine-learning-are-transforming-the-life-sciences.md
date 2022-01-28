@@ -26,33 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Overcoming AI and ML Roadblocks in Financial Services"
-    excerpt: "Artificial intelligence and machine learning have become critically important to financial services companies —86% say it’s important to their success in the next two years. A recent survey from Red Hat and IDG explores the challenges around AI and ML deployment,"
-    publishedDateTime: 2022-01-23T16:00:00Z
-    webUrl: "https://www.infoworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services"
+  - title: "Transforming Modern Medical Devices with Machine Learning & AI Inference"
+    excerpt: "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,"
+    publishedDateTime: 2022-01-24T20:36:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
+      name: MD&M East
+      domain: mddionline.com
+    quality: 57
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/X1P1_web.jpeg"
+        width: 770
+        height: 400
         isCached: true
-  - title: "Making the Most of RegTech for Financial Services"
-    excerpt: "In this white paper, you’ll learn: current RegTech developments and promising areas of growth, key challenges to RegTech success, and three guiding principles to RegTech success."
-    publishedDateTime: 2022-01-25T09:03:00Z
-    webUrl: "https://www.purestorage.com/resources/type-a/regtech-for-financial-services.html"
+  - title: "5 Ways Artificial Intelligence Is Radically Transforming Creativity in Business"
+    excerpt: "Amid rapidly changing technology, many people still associate artificial intelligence (AI) with science-fiction dystopias. But in reality, AI has become an integral part of our daily lives. We now rely on search-engine algorithms and digital assistants like Alexa and Siri for almost everything,"
+    publishedDateTime: 2022-01-27T22:41:00Z
+    webUrl: "https://www.chron.com/business/article/5-Ways-Artificial-Intelligence-Is-Radically-16809546.php"
     type: article
     provider:
-      name: Pure Storage
-      domain: purestorage.com
-    quality: 24
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 33
     images:
-      - url: "https://www.purestorage.com/content/dam/purestorage/online-assets/og/og-regtech-for-financial-services.png.imgw.720.720.png"
-        width: 720
-        height: 405
+      - url: "https://s.hdnux.com/photos/01/23/61/23/21959904/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "24fj3v2oBMsQYH1ocXoFLHUn85JMzBCy8yaaR7wADqcL41yaqv7l7hWn4O7Q02xe7SoLi1BwonL8HpzYgJvDVLoy/yG2v+IUhXsQqxEceLWBhtYPlQhF+jzrqrGRAiTsse4T4cB9YGGh6IdloWnfcfRM7W8WG3sXAhhXaclKjoLJ9e+6dFVWyK5XntdsDHfJdh1bU1TDRBKNGuMuZaYM2moC7Kbs4xRwlUitFH2SficBjwbGue1DK+SwQqTQRmBB33UwxZnNSLZ4TfszKSE21M76ISA2bb8NGR6ZkLxgOGM02TZfVEqwTjUqMdMfv9/nXPZcLUhbW4Ll1yu52euz+ADsVzEuZuohLZrfjF0KLrikJTgXlkBAiPTprtJ/4BaoX757iigm8i1BgGafpF7HcLMjYpimroHH84V0Wy0D4nFeyXhhV3Y/MezOm4QFa4DoaDyXOdTZtP54dRsK7tDYmo7zYeqOZCL7r5Qb16EbSSvQpONgTyfuAZYS6I6fW/bGT9VlJn5CiWAkTzARpn2d1g==;zxOMNuaDJDpnUEjPmbVk5w=="

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Chip Market to See Booming Growth | Advanced Micro Devices, Google, Nvidia"
+    excerpt: "Advance Market Analytics published a new research publication on “Global Artificial Intelligence Chip Market Insights, to 2027” with 232 pages and"
+    publishedDateTime: 2022-01-28T08:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-see-booming-growth-advanced-micro-devices-google-nvidia"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 42
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Full Stack Artificial Intelligence Market is Going to Boom | IBM, Google, Dynatrace"
     excerpt: "Advance Market Analytics published a new research publication on “Full Stack Artificial Intelligence Market Insights, to 2026″ with 232 pages and enriched"
     publishedDateTime: 2022-01-25T09:46:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Baidu & Geely's New Smart Electric Vehicle Company JiDU Raises $400 Million in Series A Round"
 excerpt: "Newly formed intelligent electric vehicle company JIDU announced that it has closed on $400 million in Series A financing. The funding round was backed by China’s internet giant Baidu Inc and its strategic partner automaker Zhejiang Geely Holding Group (\"Geely\")."
 publishedDateTime: 2022-01-26T16:00:00Z
-originalUrl: "https://www.futurecar.com/5157/Baidu-&-Geelys-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
-webUrl: "https://www.futurecar.com/5157/Baidu-&-Geelys-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
+originalUrl: "https://www.futurecar.com/5157/Baidu-&-Geely’s-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
+webUrl: "https://www.futurecar.com/5157/Baidu-&-Geely’s-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
 type: article
 quality: 28
 heat: -1
@@ -69,7 +69,21 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Baidu's car-making JV raises $400 million"
+    excerpt: "Jidu, a joint venture between Chinese technology giant Baidu and Chinese carmaker Geely, said Wednesday that it has raised nearly $400 million from its two parents. The joint venture, established in January 2021,"
+    publishedDateTime: 2022-01-26T10:14:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202201/26/WS61f0ae6ea310cdd39bc83565.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202201/26/61f0ae6ea310cdd3d8292ce3.jpeg"
+        width: 711
+        height: 474
+        isCached: true
 
-secured: "SO4QM1SNcevKV12bZs416muKeXr4UO4USKXutTBu/Sj0mUxh7ZITdqT7sthRkBxGYeOq6108g163HAGp5f21oZ157p7/jYEYNBukLC8hRR5nNCqPUGOiJzhmj0aXd9Nxc3ePYk8CSETsy39pCWbcWrcKGapuRJqFJlzao+ZpN4AR9e1ZD75oIBU2KgjjT1DIpWnkCyeMRpnEjwcD1cXXo4pt5GgEQeZ7ENyFUKo1xeqJR4Jt8bQXJlEIrza9qdHQARYRwG1a/6oyJI5T4cdxff4VqRSxncMcVw5s6Z1nU3izXZ3MKqh6GEMD4YW15N05ZLkdVjX+p2cLYWma5A1DSUMnugEjB2xzAgW9wmZvrzgTUnUyA33PeHdtYr02fMTc1udIL+8tonuxvS7ZhM3Wlhx9keRkMbzPalnJdZDif8i1MKTQThZpRGra01P2unpalzP7lpc1D97pBt4hWh+5CbpWO2IYRuiMNc5KSQoHmweEx6AxcpZF2d3o2/Z/r2EH6WyXA/xodSF09oJKG7yOFA==;AWu951Y0UUfXUIl/1nK66g=="
+secured: "m/2ypMZKufzPT7hKWiVWbYAidaxyUL4ZUzOJG5HhGKGuAZF1/Xxn3JwD0Izvb/8I3TP47dYJZ3SQSw912yUUNTeUZKYIdI8pi+z1N6AtOlfHGeC56XNqyhbRAt7Wd4Mn+6SceGhPUm3pR0sq2UqZwj3zCWUQLFeDfHO4fK9CWXvtjaJfxhi1eVS4vUGrhUJz5NfzHIRrwjoJ54aD1m0l8OylFQZgYk5gDY/3FzwKdjRZXa5OrOIA1MOP8prvi51/3pvAC6EqjH2I97WSP+vZ9Dy/AoJkPa21n6RwrP2nPLXHiNMEbiy5SFF4WqUb21uECU+MQXe7mYqQd79wbCP/gpmaiFi8xGy7ZKkbUJLiEpM=;FzPSe78csDrfi6swvGdVhg=="
 ---
 

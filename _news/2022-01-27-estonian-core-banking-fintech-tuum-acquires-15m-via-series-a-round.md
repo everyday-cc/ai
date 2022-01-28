@@ -1,0 +1,47 @@
+---
+category: news
+title: "Estonian Core Banking Fintech Tuum Acquires €15M via Series A Round"
+excerpt: "Estonian Fintech company Tuum, the next-generation core banking platform, has announced a €15 million Series A round."
+publishedDateTime: 2022-01-27T12:35:00Z
+originalUrl: "https://www.crowdfundinsider.com/2022/01/186166-estonian-core-banking-fintech-tuum-acquires-e15m-via-series-a-round/"
+webUrl: "https://www.crowdfundinsider.com/2022/01/186166-estonian-core-banking-fintech-tuum-acquires-e15m-via-series-a-round/"
+ampWebUrl: "https://www.crowdfundinsider.com/2022/01/186166-estonian-core-banking-fintech-tuum-acquires-e15m-via-series-a-round/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/186166-estonian-core-banking-fintech-tuum-acquires-e15m-via-series-a-round/amp/"
+type: article
+quality: 59
+heat: 69
+published: false
+
+provider:
+  name: Crowdfund Insider
+  domain: crowdfundinsider.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Bank-Banking-Ask-Us-How.jpeg"
+    width: 1075
+    height: 1280
+    isCached: true
+
+related:
+  - title: "Core banking startup Tuum raises €15 million"
+    excerpt: "Estonian core banking supplier Tuum has landed €15 million in funding as it prepares for expansion outside the EU."
+    publishedDateTime: 2022-01-27T01:12:00Z
+    webUrl: "https://www.finextra.com/newsarticle/39586/core-banking-startup-tuum-raises-15-million"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/tuumfounding-team.jpg"
+        width: 480
+        height: 270
+        isCached: true
+
+secured: "OYGQ1E0fT5l7OeQ9SoWcNsADvKWcDs40Uj16Udx3cr0cprzJGxmOEwoXcEYDqxJnMFju2hNqrA1TlafM7uhc8hjZfq2b5ITiAURQmYklnH1hMUYkybfoSeG7B9oeM8NwMK119/d1WwhOToAJMJ0PeKa6fjrkJ+XdkOfaqMEVMtYULPhASOg+CQygCBzcTPGgjgkxp1XoBYm+001OJk04GWu2PoJwbkqZCS1NP50Tz5UNWRRR+3oTKnuW9FHHZY5d1+nVSpmbdLovnNE/IGaaHPqExE7eWaIlO97TKR4KcQGbYsUzz01ieWsC0RNiDFVUFbVZuvw72WK1k2DKY4Ld+n6OPaIO+23MrZQAc8Z/VL4=;Z3RjZurVgOwwZSWk9XWAJg=="
+---
+

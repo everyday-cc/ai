@@ -88,22 +88,6 @@ related:
         width: 770
         height: 514
         isCached: true
-  - title: "AI is bringing science fiction to life"
-    excerpt: "AI's use in bespoke medicines can truly revolutionize the healthcare industry and that's why in today's lead story, we delve into this topic and expla.."
-    publishedDateTime: 2022-01-24T03:41:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-is-bringing-science-fiction-to-life/89084442"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-89084442,imgsize-52818,width-1200,height-628,overlay-etcio/ai-is-bringing-science-fiction-to-life.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "How the internet is training AI to make better disinformation"
     excerpt: "AI is accelerating disinformation creation way beyond deepfakes. The internet is rife with disinformation, and bad actors are becoming more skilled at spreading conspiracy theories and falsehoods online."
     publishedDateTime: 2022-01-26T13:13:00Z

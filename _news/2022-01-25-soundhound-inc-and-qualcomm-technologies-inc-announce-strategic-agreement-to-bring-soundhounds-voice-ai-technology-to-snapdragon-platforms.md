@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/25/soundhound-inc-and-qualcomm-techn
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/soundhound-inc-and-qualcomm-technologies-inc-announce-strategic-agreement-to-bring-soundhounds-voice-ai-technology-to-snapdragon-platforms/amp/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 480
     height: 251
     isCached: true
+
+related:
+  - title: "Qualcomm Enables Edge Voice Processing With SoundHound Alliance"
+    excerpt: "Qualcomm is teaming up with SoundHound to bring better voice features to Android smartphones. SoundHound is perhaps best known for its song identification app, though that is only part of a much broader speech recognition and voice assistant portfolio."
+    publishedDateTime: 2022-01-27T15:18:00Z
+    webUrl: "https://mobileidworld.com/qualcomm-enables-edge-voice-processing-with-soundhound-alliance-012702/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock_Voice-Feature.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "OfYRUhwjx/z+Jh/klupOf6cLbO8+RPYye2CtW6kSmj6VdRylrk6ljTsI2j1/WeIFAD537aeiaFhWp/rU/2xZN4GAuRh0QhKRleYalJ8Rg4lWkKQH0nYFDuzUHDdkP+fV9XLaTFTFV0r6m31AOsm/im3a6aVEk//3Q5e2eC5kR5tfdEZi9xJmrpqt95JxqdsA/cySzwGvjJdBfudrzvTYAeeurjNEXzHmT4FVBu993KjAIGb6BCZTZEkZgKf4WKViZilgv1j0b44rVRvkzcCYRZAhV3kZgZs5msRmo43Tvv3s+9SjcaOboBhZ2H6gGoTQKsqaIOBftcOLLmDNVHbCOnPFSluoeVlgqZNt55oENKpK8SSpT+KEwQNNtCXEYxlgnLl/Y3TZf8n1EUSqRwmtLr6hhgdoikrRffLt3sXq8ilRlRpLP6qLPQ3rkEXQhMokIISGOqYg/S/4fohK9/Ls6LruwNC3vuQLSVp/sYmGLpWeYYg6nevPDkeROyWLbjsyvQ1igNeqHbdsHRcLupPePg==;T6lzT59/ZdXRduf1imvZwg=="
 ---

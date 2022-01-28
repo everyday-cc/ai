@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/414815"
 webUrl: "https://www.entrepreneur.com/article/414815"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/BuildingBlocksGen_v4.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Co-founder of Microsoft's AI lab takes aim at startup funding process"
+    excerpt: "The co-founder and CEO of Microsoft-backed OpenAI, an artificial intelligence lab, mocked the startup funding process by tweeting that the lab raised $250 million in a series A funding round after six other rounds,"
+    publishedDateTime: 2022-01-27T22:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/co-founder-of-microsoft-s-ai-lab-takes-aim-at-startup-funding-process.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "Microsoft, FedEx Expand Partnership"
     excerpt: "FedEx and Microsoft are expanding their partnership to offer “logistics as a service” to retailers, using data analytics of FedEx's network."

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-09-a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life.md",
+      "title": "A Colorado 'fusioneer' invented a painting robot and an inspiring way of life",
+      "excerpt": "And the robot holding a paintbrush. One look at this room can be overwhelming for visitors, so Paul Kirby likes to start simple. It’s an old trick he learned as a ski instructor in Vail, when he realized every skier has slightly different goals for the slopes.",
+      "sourceUrl": null,
+      "webUrl": "https://gazette.com/news/local/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.html",
+      "originalUrl": "https://gazette.com/news/local/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/7/06/706e6ce4-31c4-11ec-86ee-e3f2172a650e/6170469d72c59.image.jpg?resize=1024%2C711",
+          "width": 1024,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gazette.com/news/local/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.amp.html",
+      "cdnAmpWebUrl": "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/news/local/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.amp.html",
+      "publishedDateTime": "2022-01-08T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-alibabas-auto-driving-lab-chief-wang-gang-leaves-to-start-his-own-business.md",
       "title": "Alibaba’s auto driving lab chief Wang Gang leaves to start his own business",
       "excerpt": "Wang Gang, a former vice-president with e-commerce giant Alibaba Group Holding and head of its autonomous driving lab in the DAMO Academy, has quit to start his own business, becoming the latest top scientist to leave a Chinese Big Tech firm.",
@@ -1357,49 +1400,6 @@
       "provider": {
         "name": "Impacts",
         "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-2022-robotics-predictions-from-industry-experts.md",
-      "title": "2022 robotics predictions from industry experts",
-      "excerpt": "Leading robotics experts, including Juan Aparicio and Ken Goldberg, share what they'll be keeping an eye on in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/",
-      "originalUrl": "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/01/2022-robotics-predictions.jpg",
-          "width": 796,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

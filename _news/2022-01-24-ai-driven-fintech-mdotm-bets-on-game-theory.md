@@ -57,22 +57,6 @@ related:
         width: 2120
         height: 1414
         isCached: true
-  - title: "Fintech redefined through buy-now-pay-later"
-    excerpt: "Traditional lenders like banks are increasingly competing with fintech firms, so they will need to upgrade ... Ramkissoon, who writes in her personal capacity, is an AI mentor, strategist and trailblazer standing for the unification of the African tech ..."
-    publishedDateTime: 2022-01-24T06:27:00Z
-    webUrl: "https://www.itweb.co.za/content/DZQ58vVPgDOMzXy2"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/DZQ58vVPgDOMzXy2"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/DZQ58vVPgDOMzXy2"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/nBikaT3usYWrl_WehhfhbwTWMBv5Hwr8vJN_TSAIr44u9Y9DkSaH0TzSJBmgNSvtzF81fpK286WhM6zW_rzHkyFIgSs_i4DcB9YfIg=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
   - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
     excerpt: "Increasing demand for AI in fintech in the cloud deployment mode coupled with high investment in R&D of AI in fintech are fueling the market growth."
     publishedDateTime: 2022-01-24T12:59:00Z
@@ -100,6 +84,20 @@ related:
       - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Five-ways-to-diversify-fintech-for-future-consumer.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "28/01 – Weekly Fintech Recap"
+    excerpt: "Partnerships Segmint partners with Snowflake to revolutionize payment transaction enrichment for financial institutions Segmint, the global leader in transaction cleansing and analytics for financial institutions (FIs),"
+    publishedDateTime: 2022-01-28T20:27:00Z
+    webUrl: "https://financialit.net/news/regtech/2801-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "AI in Fintech Market Size, Segments Analysis, Future Opportunity, Emerging Trends and Forecasts 2021-2030"
     excerpt: "North America region was the largest revenue contributor to the AI in fintech market. This is mainly attributed to the developed IT"
@@ -138,6 +136,20 @@ related:
       name: LinkedIn
       domain: linkedin.com
     quality: 4
+  - title: "Fintech Trends to Drive 2022: Growth of Buy Now Pay Later and Increased Investments in Technology Enabling Financial Inclusion"
+    excerpt: "When looking at 2021 in review, two fintech trends factor prominently -- Buy Now, Pay Later (BNPL) and technology driving financial empathy/inclusion."
+    publishedDateTime: 2022-01-28T18:57:00Z
+    webUrl: "https://financialit.net/blog/pay-trends/fintech-trends-drive-2022-growth-buy-now-pay-later-and-increased-investments"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 0
+    images:
+      - url: "https://financialit.net/sites/default/files/snimok_ekrana_2022-01-28_175950.jpg"
+        width: 495
+        height: 473
+        isCached: true
 
 secured: "kuKVXEjVp3YUYSIEFTUZSN9be4BIB0ODMGmCbMqERjtZGU63S172zZ+7V7wP8iays0HBU8oFkSfkAzEDeLbXfLSyfpzPAh6w1tWXb20AeG8l0rQt/dQ8+Eq92aFFPe43bcXFGXHax0TqtvfpgBcP6yjAiPMiQDWtbmM26TcoAKuhbLNzZnZWEMsGauH9j22OZjKNXxYGUj9nuvNK1TqWoA9P23zdTHQA+NY6RN8tXzGMhbmSJ1Vwf0cv1ZoONN4q5HTclz52acOeKobayS3C+E6mxMUJUII3RoGTTuXY9tQRNH6FJ3Ykv14BM55K5jkDGvOnIdpImcshFNWvD3a8bIsCLMrOGtGS21IKwFC84n3iq0gsE2INNDyjcDLT8kZdW8QiV0HP93nQ36iBXs4sQ7k+50GUY7kG9yJ4GLB9S6xvTmIJNB/vFJmmCBtTxmxkZI9p+rqHFxM4HTmVV2v9C1zQkmL5px1cKBHVT8APxLIqLRP54XgrPyildsKnZOAyC67jyO1hG8W3bXhl3jEmvw==;CvZJyhAK5nLnSWq0iWEcvw=="
 ---

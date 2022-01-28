@@ -54,21 +54,19 @@ related:
         width: 1200
         height: 898
         isCached: true
-  - title: "Dental Care Startup Smiles.ai Secures $23 Mn To Build Digital Dental Care Network"
-    excerpt: "Dental care startup Smiles.ai has raised $23 Mn (INR 171 Cr)  in a Series A funding round led by Alpha Wave Incubation."
-    publishedDateTime: 2022-01-24T06:40:00Z
-    webUrl: "https://inc42.com/buzz/dental-care-startup-smiles-ai-secures-23-mn-to-build-network/"
-    ampWebUrl: "https://inc42.com/buzz/dental-care-startup-smiles-ai-secures-23-mn-to-build-network/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/dental-care-startup-smiles-ai-secures-23-mn-to-build-network/amp/"
+  - title: "Conversational AI startup NLX raises $5M to scale its offering"
+    excerpt: "Conversation artificial intelligence startup NLX Inc. has raised $5 million in funding to assist it in scaling its offering, to increase its headcount and drive sales. Aquila Capital Partners led the seed round with Flying Fish Partners,"
+    publishedDateTime: 2022-01-28T01:45:00Z
+    webUrl: "https://siliconangle.com/2022/01/27/conversational-ai-startup-nlx-raises-5m-scale-offering/"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 52
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://inc42.com/wp-content/uploads/2022/01/dental-social-1.jpg"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/nlx.jpg"
         width: 1200
-        height: 628
+        height: 800
         isCached: true
 
 secured: "SgimxL+nPi4Atuy51MAPT3ltcq+RSP7WlJDnBDMesZEpqmuiUwpg1UBwhmYt8hf67R0ILa81YUrGstaQIac1l7bpkiqcvfhkhBXnRXkZEB27UyC3mBtBV1evkRtZXayjqodU3OStsCMUFXBVS/Jqa87uYJfD9/Vi19e9WGaGM5ZtALNq1PM5k402+ETKuU2kQL7WhbKY0x3Vqw60aAiNW9lvRV/CltQqxs3/d54Vkzo98OQeO/Y7qf8w+DEkH8pQFxNypw74rEhsmtnT+vckjugWAy7BNy30O7KlyBK2p7p4HKGOcMInbgDAF4PV0UT82kn9JwqnAfhI5ncvsilAgvhWr90WnTKDl8xIP+36hjM=;WhaingL+OXSR8IAT2SpxWg=="

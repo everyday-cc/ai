@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/motors/3096829/url-self-driving-cars-when/a
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/3096829/url-self-driving-cars-when/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Law commission outlines legal proposals for self-driving cars"
-    excerpt: "The Law Commission of England and Wales and the Scottish Law Commission have issued a joint report which makes a number of recommendations to the government for the safe introduction of self-driving cars ."
-    publishedDateTime: 2022-01-26T00:16:00Z
-    webUrl: "https://www.autocar.co.uk/car-news/technology/law-commission-outlines-legal-proposals-self-driving-cars"
+  - title: "Some Insistent Hyper-Milers Say That AI Self-Driving Cars Should Be Forced To Drive Like Grandpa, But That’s Messed Up"
+    excerpt: "There are hypermilers that try to drive the maximum distance per the amount of fuel onboard their car, which raises interesting questions about the advent of AI-based self-driving cars."
+    publishedDateTime: 2022-01-27T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/amp/"
     type: article
     provider:
-      name: Autocar
-      domain: autocar.co.uk
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 65
     images:
-      - url: "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/self-driving.jpg"
-        width: 900
-        height: 596
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61ef5d1abfe337178cc99299/0x0.jpg?format=jpg&crop=2872,1616,x0,y148,safe&fit=crop"
+        width: 2872
+        height: 1616
+        isCached: true
+  - title: "Manufacturers To Blame For Self-Driving Car Crashes, Says UK Lawmaker"
+    excerpt: "If many automotive experts are to be believed, we’re on the cusp of a self-driving revolution. And that means that as automakers finalize their autonomous-driving technology, lawmakers must write the rules that govern self-driving cars."
+    publishedDateTime: 2022-01-26T18:00:00Z
+    webUrl: "https://jalopnik.com/manufacturers-to-blame-for-self-driving-car-crashes-sa-1848424954"
+    ampWebUrl: "https://jalopnik.com/manufacturers-to-blame-for-self-driving-car-crashes-sa-1848424954/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/manufacturers-to-blame-for-self-driving-car-crashes-sa-1848424954/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 44
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/e4b9f8a035e18cd60716aa279291bced.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "E0sh61JKTYQnCJjCr/VR1ylqypkwao3HSL49KtQ5JJPzrC/0Hgb3+di9wcDFwgD46djfaTAFRwaV1//WGVeSFLzPvJmHi0eykpHtAxRCs51asmxdQ7JdxHo9pvxOFrI4W5f/Ade3d8y0LuzehUZSHxEdt0Fz9SDyypS0Wm3YLnjebFeu6J6zNy9EOVrNi9NTWKMTu2WDWA5Qp2nkdgpnNjs5amQB8RYnfF8n72Fe4zsXnFonVDS3YxhdLo0SHL0gIonJ1U7PNTJ6J52QUki0EHjObZKvDg52NyO3rLfl11fNcuJK4Y/oZFIdP8bkN1ePLl+9lJGh+91pV0Qo8sQeDPh5cItTB0I5Uf3098S71cM=;46E6HO1TWFTJJ/2eqk/7HQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-27-global-size-share-growth-trends-and-forecast-2022-01-25"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/77382e6ba11d374925336267f0919e66e3a9618e-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "AI in Computer Vision Market Growth Analysis, Trends Forecast Regions, Type and Application to 2019 -2028"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
+    publishedDateTime: 2022-01-28T14:46:00Z
+    webUrl: "https://menafn.com/1103606484/AI-in-Computer-Vision-Market-Growth-Analysis-Trends-Forecast-Regions-Type-and-Application-to-2019-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?25642"
+        width: 374
+        height: 250
         isCached: true
   - title: "Global Surgical Robots Market Size, Share, Trends, Industry Growth and Forecast 2021-26"
     excerpt: "According to IMARC Group’s latest report, titled “Surgical Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global surgical robots market exhibited strong growth during 2015-2020."

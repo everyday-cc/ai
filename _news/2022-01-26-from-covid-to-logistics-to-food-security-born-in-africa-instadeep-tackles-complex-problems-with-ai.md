@@ -95,6 +95,20 @@ related:
         width: 1919
         height: 868
         isCached: true
+  - title: "Tunisian AI Startup InstaDeep Raises $100 Million In Series B Round"
+    excerpt: "InstaDeep, an AI startup based in Tunisia and London has secured $100 million in its Series B financing round co-led"
+    publishedDateTime: 2022-01-28T12:26:00Z
+    webUrl: "https://techbooky.com/tunisian-ai-startup-instadeep-raises-100-million-in-series-b-round/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/insta-deeplogo.png?fit=708%2C430&ssl=1"
+        width: 708
+        height: 430
+        isCached: true
   - title: "InstaDeep Raises $100M to Scale Decision-Making AI Products that Solve Real-World Problems"
     excerpt: "InstaDeep, a leader in advanced AI decision-making systems for solving real-world problems, announced today it has raised $100M and closed a Series B round led by Alpha Intelligence Capital together with CDIB."
     publishedDateTime: 2022-01-25T12:02:00Z

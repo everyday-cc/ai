@@ -38,6 +38,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Nine Predictions For Artificial Intelligence And Automation In 2022"
+    excerpt: "With search engine algorithms increasingly powered by AI, businesses that aren't optimized for the change will fall behind."
+    publishedDateTime: 2022-01-27T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61f2c7dc36e77eea9e7440a6/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 579
+        isCached: true
   - title: "SparkCognition, which develops AI solutions for a range of industries, nabs $123M"
     excerpt: "SparkCognition, an Austin, Texas-based company developing AI solutions for a range of markets, has raised $123 million in capital."
     publishedDateTime: 2022-01-25T10:00:00Z
@@ -112,19 +128,19 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
-    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-    publishedDateTime: 2022-01-25T16:38:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+  - title: "MinIO Raises $103 Million in Latest Funding Round"
+    excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, announced it has raised $103 million in Series B funding at a $1 billion valuation, enabling the company to accelerate multi-cloud storage adoption."
+    publishedDateTime: 2022-01-28T18:46:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/MinIO-Raises-103-Million-in-Latest-Funding-Round-151167.aspx"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: dbta.com
+      domain: dbta.com
     quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Slim.AI Closes $31 Million Series A to Automate Best Practices in Software Supply Chain Security for Cloud-Native Applications"
     excerpt: "Slim.AI, the Boston-based startup focused on optimizing and securing cloud-native applications, announced today that it has raised a $31 million series A round co-led by New York-based global venture capital and private equity firm Insight Partners as well as StepStone Group,"
@@ -135,6 +151,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
+  - title: "Docupace, JIFFY.ai Partner to Bring Next Generation Automation to the Back Office"
+    excerpt: "Docupace, the leader in cloud-based fintech digital operations software for the wealth management industry, and JIFFY.ai, the innovative provider of true end-to-end intelligent automation applications,"
+    publishedDateTime: 2022-01-26T14:41:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-6349b1092c784fb499c8b89ceb8f2ec7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Digitate Propels Digital Transformation Forward with Enhanced AIOps Capabilities and New Solutions"
     excerpt: "Digitate, a leading provider of SaaS-based autonomous enterprise software for IT and business operations, today announced the general availability of its latest release, which adds enhanced product functionalities across the entire ignio™ product line as well as new out-of-the box solutions that help enterprises kickstart and accelerate their digital transformation at scale."
     publishedDateTime: 2022-01-25T15:13:00Z
@@ -191,6 +221,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
+    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
+    publishedDateTime: 2022-01-25T16:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "HAaEwCUptxpeL2R/FZdjPWV/X6Jq4eh+ewqkNOfgNgknBxdBg7WReqvnou4e09+AqDUYGJn5Bd+LSmCHhRE9WNStOwV72CNbBOUEhlUbMaExeweSQm+eJaaUM4umGbFBBhZzb1/f+455r0zhlS4C4qcdxVAWT0hxNsp/k1Qwcklu8Y9JeAjB5a+FyHPYa6/MDn+5wjFaAFBwUAOjwagvbvYRGD7zDJQj6ehjLbb4IVsJLZ0vCV+uLTMuDaqOgMIgeBvQPTeGYqmXNJn9xWXLtVMY3VzU5Bfj33Gtjt9gzSso4Z9MawI0JQ2udt9OTlFViDd/IVYUQBr/cmuJ7uPJl3sfH2s5JfL3/ywlZO3Ndxk=;vDT3MG+Ldz9Bx420HlLvmQ=="
 ---

@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "SenseTime opens massive AI data center, aligns with Beijing’s vision"
+    excerpt: "SenseTime says the AIDC in Shanghai’s Lin’gang free trade zone will significantly improve the capabilities of its SenseCore AI infrastructure."
+    publishedDateTime: 2022-01-27T19:43:00Z
+    webUrl: "https://www.biometricupdate.com/202201/sensetime-opens-massive-ai-data-center-aligns-with-beijings-vision"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/09151310/sensetime-new.jpg"
+        width: 2000
+        height: 1040
+        isCached: true
 
 secured: "dEAdGWVZmW7USRhnhpQ/vKk0g5KiMP06DTadpX+WWnnCVILeRpWnhjzxQs4Hf3IKcVywYI4zUW5oFVwEF6LTaJOyIVVURgk7f4J0nKSkjTR+DPQagxzGa1QTQ+e+KDALW8i9IQnXBUEK8d7HA6/U+wlNgUohNoXQSprKa/0zG+G3WdEd+4gz4cXRL+GiMPSldemgQ24MLoRGIVHrc+lCvaTndUGMWpcrAzl0lWNISxG59akGWEHy5X0iN4+T0Pb7QjkDmk7ex47ym2rlWKUrvKhUbwQ5CYte+jkaBRJezZN4jNFmtxVk4GVHGwcdIh/JYbskx2a92F/AUuRlyNHNf6uCGUS4F2n5EZ1jKEUlDl0=;aFO1MbezC6e2JGJI80Rchw=="
 ---

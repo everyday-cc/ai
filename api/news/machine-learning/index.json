@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-27-sas-tops-aites-fraud-and-aml-machine-learning-platforms-matrix.md",
+      "title": "SAS tops Aite's fraud and AML machine learning platforms matrix",
+      "excerpt": "SAS has earned the foremost best-in-class title in Aite-Novarica Group's Aite Matrix: Leading Fraud & AML Machine Learning Platforms. The AI and analytics leader achieved top billing among 11 competing anti-fraud and financial crime technology vendors,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-tops-aite-s-fraud-and-aml-machine-learning-platforms-matrix-1031136115",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-tops-aite-s-fraud-and-aml-machine-learning-platforms-matrix-1031136115",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1735421/SAS_Top_Billing_on_Aite_Anti_Fraud_assessment.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T07:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-how-logzio-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker.md",
       "title": "How Logz.io accelerates ML recommendations and anomaly detection solutions with Amazon SageMaker",
       "excerpt": "Logz.io is an AWS Partner Network (APN) Advanced Technology Partner with AWS Competencies in DevOps, Security, and Data &amp; Analytics. Logz.io offers a software as a service (SaaS) observability platform based on best-in-class open-source software solutions for log, metric, and tracing analytics. Customers",
@@ -10,7 +63,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-logz-io-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -213,6 +266,51 @@
       ]
     },
     {
+      "path": "_news/2022-01-25-transforming-modern-medical-devices-with-machine-learning-ai-inference.md",
+      "title": "Transforming Modern Medical Devices with Machine Learning & AI Inference",
+      "excerpt": "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/X1P1_web.jpeg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.md",
       "title": "CFOs eye tech investments to attract, retain talent with AI/ML skills",
       "excerpt": "A survey by a financial services and human resources software vendor showed CFOs are on the hunt for finance professionals who have skills in AI and ML platforms that can be used to parse data and tell a business value story.",
@@ -362,7 +460,7 @@
       "originalUrl": "https://www.linkedin.com/pulse/race-ai-value-3-themes-from-new-aiml-deep-learning-sean-stacey-",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -894,6 +992,59 @@
       ]
     },
     {
+      "path": "_news/2022-01-20-deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027.md",
+      "title": "Deep Learning Courses for NLP Market, Indutry Analysis and Prospect, Market Players : Coursera, IBM, UpX Academy – 2022 – 2027",
+      "excerpt": "Jan 20, 2022 (Heraldkeepers) -- The \"Deep Learning Courses for NLP\" Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027-2022-01-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027-2022-01-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-5-ways-ai-and-ml-will-improve-cybersecurity-in-2022.md",
       "title": "5 ways AI and ML will improve cybersecurity in 2022",
       "excerpt": "Improving cybersecurity from the endpoint to the core of IT infrastructures needs to be every enterprise's goal in 2022.",
@@ -1311,127 +1462,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test.md",
-      "title": "Machine Learning AI Can Predict COVID-19 Survival From Single Blood Test",
-      "excerpt": "Levels of 14 proteins in the blood of critically ill COVID-19 patients are associated with survival. A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival,",
-      "sourceUrl": null,
-      "webUrl": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000007",
-      "originalUrl": "https://scitechdaily.com/machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://journals.plos.org/resource/img/logo-plos.png",
-          "width": 300,
-          "height": 236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-aiml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes.md",
-      "title": "AI/ML in 2022: More Real-World Deployments, Focus On AI Ethics and Blockchain Hopes",
-      "excerpt": "Prominent industry experts share their predictions for the year aheadVILNIUS, LITHUANIA / ACCESSWIRE / January 18, 2022 / Artificial intelligence (AI) and",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/AAA-8-1-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-pacbio-pacb-to-leverage-googles-deep-learning-technologies.md",
-      "title": "PacBio (PACB) to Leverage Google's Deep Learning Technologies",
-      "excerpt": "The collaboration builds on prior PacBio and Google research. A recent bioRxiv publication titled: “Deep Consensus: Gap-Aware Sequence Transformers for Sequence Correction,” demonstrated improvements in variant calling and suggested that Google’s DeepConsensus machine learning tool can expand the yield of 99.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies",
-      "originalUrl": "https://www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies?amp",
-      "publishedDateTime": "2022-01-18T05:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

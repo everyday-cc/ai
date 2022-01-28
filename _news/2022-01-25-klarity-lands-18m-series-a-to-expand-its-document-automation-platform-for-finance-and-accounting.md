@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/klarity-lands-18m-
 webUrl: "https://markets.businessinsider.com/news/stocks/klarity-lands-18m-series-a-to-expand-its-document-automation-platform-for-finance-and-accounting-1031123718"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Business Insider
@@ -45,6 +45,20 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2021-03/3dff1c24-4e50-4dd2-af5a-b373c2bdc8a8/startup_2480722_960_720.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kanverse.ai Gained Momentum in 2021 on the Strength of AI-Powered Intelligent Document Processing Products for Finance and Insurance"
+    excerpt: "Kanverse, a pioneering Hyper automation company that emerged from stealth in May 2021 with cutting edge solutions to intelligent automate document processing workflows for enterprises of all sizes, reached significant milestones in annual revenue growth,"
+    publishedDateTime: 2022-01-25T07:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-c4a27b7b3fa0433199ae8c410a286976"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "N8zdxjEHNsNrXpBbIKX0PVHqZHlS6kupAcIjLr23E0/p4RrYKnjGMq/IpRoha2ChAMTBbbSwoV3Etp0xW9jl8u4QDhG0U+TK/GqEfktUxKnspB0zrQRgX6TK3knb0G4g6As+CfzdhI1J84cVLpRaoBMlGKw1gdf4DhoY4NoHIfz3Mo19Mz9gjRiyDtjxRbaeE4UbBM659xKDf09z+RMxRlLOw2xB773UPK4lHPA44Y4+s/16GOmhsCKXlYaep1zkVjmZoQwtGek7MS048eljKabNmr+X7tMhwatKbCNU8MIv45uUdnfSGNflTzIwZSmgu74BjENmQwNtc4cUsqrKhRscjU0kBLq53Rco5rEoD/0=;1PpuvFGA3ExTW3BSOC5PVw=="

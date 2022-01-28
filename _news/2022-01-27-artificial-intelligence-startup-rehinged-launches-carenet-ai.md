@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/artificial-intelligence-startup-rehi
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

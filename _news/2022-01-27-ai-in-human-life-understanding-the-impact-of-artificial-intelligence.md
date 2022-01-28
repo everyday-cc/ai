@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-27T12:33:00Z
 originalUrl: "https://knowtechie.com/ai-in-human-life-understanding-the-impact-of-artificial-intelligence/"
 webUrl: "https://knowtechie.com/ai-in-human-life-understanding-the-impact-of-artificial-intelligence/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://knowtechie.com/wp-content/uploads/2018/05/Artificial-Intelligence-for-Business1-1000x600.jpg"
@@ -24,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "/GsQD9W2K/fPURp+vedNWaw6exOic1WBrpGnFJZCTsFaUuUmF4A9gKosf9v4YiB6BbCPJZLc3JUSCqeYCOGKded0m1DKdvwEdqVkk09CNkIpQkXzk8ME9x9kmI9liyVn9KMAZNLPwSI+mNsroaW22H2zSu241xo1EVk2l0iqFJatkwIgKO4iXjELzqgwMBxX/U9u9LhQxPjEIpmFu7IKSmwzSIryJ4paT9ztXN1WxHw130EZLpjQ/5FsHNElIzNROo9e2oh6eGnj1nj5eNXLJlRwMJtGG0/icak8vZaCTQD2CnxjMuL9e5hSYTdNbVjg8/z7rgl+rfDEl7c2PIuyXQUA9fbb5qtDyLzLij0LLuM=;/ueAAD7r9PyTGlkvjedU5w=="
+secured: "qgjoX4Q+CmhGxejfpjJEIJGLu3kmYh3wJ+BJbBDpdnAGh1CInq0QRBL9zyTC0LALpooLz1dlcS0JwrN9cCr/ibNpZvRwcl6egj6gDAmyKrfyJ4cfrUP7JaWJJ7UCX58DcJlMlucnQQg1+FyxIukHiJqQLvNOVCMsDU/34ldlUXqZbGXyjCJZrVFCelVkNYt8grTEkJM+sEm+guglYhRI694dcP20azQ3s8nkKEKuuXnM/IHlcfD0h2f1WU9mVMAj83sS+5cwxoRlboKEaT7CSrftT7XDMKqbeqokO4VWkv52kwOxQx8vt2VOw1I2CK2V0oGHA0XH0R3ALO6/dVQ7VsStX3pMzfskjr3JBtpnRK1jePswEyGX7+ngOPwnAIlDGnJSSEGMiQdLgLYHBAxmH139NBlXbcFg6sacY8oinPev230jv0hcJh9hw/7Snz7vrvQCHyV8V/37cOuplNUzLZvp84mSXQV0mQk2xKOzYRCJM9YwKJARuK7oWabOucBzgem+GB1LI7No6TQqXCOwNg==;OpJ6Zc3DpbxUo7l6GTTCPA=="
 ---
 

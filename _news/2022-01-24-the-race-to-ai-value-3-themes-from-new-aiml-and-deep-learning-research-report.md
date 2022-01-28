@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/race-ai-value-3-themes-from-new-aim
 webUrl: "https://www.linkedin.com/pulse/race-ai-value-3-themes-from-new-aiml-deep-learning-sean-stacey-"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
+        isCached: true
+  - title: "2021 Growth Opportunities in Artificial Intelligence, Supercomputers, and Quantum Computing Report - ResearchAndMarkets.com"
+    excerpt: "The “Growth Opportunities in Artificial Intelligence, Supercomputers, and Quantum Computing” report has been added to ResearchAndMarkets.com’s offering. This edition of IT, Computing and Communications (ITCC) Technology Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in Machine Learning,"
+    publishedDateTime: 2022-01-27T16:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-165064c1251e48eeb28396dab3c42266"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "s5Wa1X5G22NE3zLckDk9+o1KI4L9uISsUXr59+MJWq60Wfr23MpkT0TcHFr+xoIqm/BSnM5BAWWpBrL09llh6/11Nxkb8WEjbwo+Ze6E77uLJvRdojtRazQipoI6s07qdK3BlC0xRGSrTqypMdZPF6Tsb0sC45ffgge0Zk22GI4d+M5cBsYuFkUSKjmAhoVBCeVhgbZ8rcqTCk3uSQgFqzO8Mf3KDRQyIhgnGZ4/pLjOMcLxxZsNLWnGn8LPb0YQ8Es5axzBGbHOX0WuJLwJnPLc5ccMonaK+8+Nf52ciX8+vIIKCpAJcGyE1GXB4CboYjIrrrO5E/WhexypJyZzNwnF3xDjrM9KNwP5+eDrVUHA/cw4ya77EKzUhZBFG15EQP2xB8uB8QTjtZ6jEiAS6qtfJGA0xBQw85ub8Z88R1ZCroSt37JauptgRZq0DcDJ10+XkHRNzXKRVls/v03eXEIbcOFduQXuNpl94M9YQyrBf+AO6dy/zZFIOTBvEbS4tXux5D60W9iTzhaEcLXt3w==;0vehy3my7N2Va3+waIA05A=="

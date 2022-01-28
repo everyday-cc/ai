@@ -2,21 +2,21 @@
   "page": 31,
   "value": [
     {
-      "path": "_news/2021-12-30-driverless-cars-and-ai-ethics.md",
-      "title": "Driverless Cars And AI Ethics",
-      "excerpt": "This blog discusses driverless cars and AI Ethics, and identifies a number of the ethical challenges in advancing this market carefully.",
+      "path": "_news/2021-12-31-unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions.md",
+      "title": "UNESCO AI Ethics Impacting 2022 Global Startups And Humanity’s Billions",
+      "excerpt": "AI influences nearly 8 billion people and human & earth diverse ecosystems on an unprecedented scale. Startups accelerate to incorporate AI innovation as AI tools proliferate. UNESCO is the United Nations Educational,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/",
+      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/",
+      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cca2b92c13cab8e9179438%2F0x0.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c769fb6adcbcb70b55465d%2F0x0.jpg",
           "width": 1200,
-          "height": 674,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,113 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/amp/",
-      "publishedDateTime": "2021-12-29T10:09:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/amp/",
+      "publishedDateTime": "2021-12-30T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-2021-year-in-review-google-quantum-ai.md",
+      "title": "2021 Year in Review: Google Quantum AI",
+      "excerpt": "Google’s Quantum AI team has had a productive 2021. Despite ongoing global challenges, we’ve made significant progress in our effort to build a fully error-corrected quantum computer, working towards our next hardware milestone of building an error-corrected quantum bit (qubit) prototype. At the same",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/research/2021-year-review-google-quantum-ai/",
+      "originalUrl": "https://blog.google/technology/research/2021-year-review-google-quantum-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2019_SB_Google_0264_quantum_2880_x_1177_px.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/research/2021-year-review-google-quantum-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/2021-year-review-google-quantum-ai/amp/",
+      "publishedDateTime": "2021-12-30T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-31-ethical-ai-a-perfect-world-or-a-perfect-storm-blog-1-of-2.md",
+      "title": "Ethical AI : A Perfect World Or A Perfect Storm Blog 1 Of 2.",
+      "excerpt": "This blog is one of two discussing Ethical AI offering perspectives of a Perfect World or a Perfect Storm or the AI Dilemma that leader must navigate forward to use AI practices effectively, and efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc42c9bc60197a26472c1fc%2F0x0.jpg",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/amp/",
+      "publishedDateTime": "2021-12-30T08:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -50,26 +154,25 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "AI in Autos"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-12-30-volkswagen-improves-the-voice-recognition-rate-of-the-golf.md",
-      "title": "Volkswagen improves the voice recognition rate of the Golf",
-      "excerpt": "A more streamlined interface alongside an improved voice recognition system are in store for new examples of the Volkswagen Golf. The Volkswagen Golf will soon get an improved infotainment system. Due to go into series production in the next few weeks,",
+      "path": "_news/2021-12-31-massage-robotics-exhibiting-at-the-2022-ces-convention.md",
+      "title": "Massage Robotics Exhibiting at the 2022 CES Convention",
+      "excerpt": "From English to Mandarin users can control robot motion and force with their ... and technologies that excite the senses and inspire the mind. While user experience is our focus, 2X value creation ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sgcarmart.com/news/article.php?AID=26098",
-      "originalUrl": "https://www.sgcarmart.com/news/article.php?AID=26098",
+      "webUrl": "https://www.digitaljournal.com/pr/massage-robotics-exhibiting-at-the-2022-ces-convention",
+      "originalUrl": "https://www.digitaljournal.com/pr/massage-robotics-exhibiting-at-the-2022-ces-convention",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.i-sgcm.com/news/article_news/2021/26098_1_l.jpg",
-          "width": 1024,
-          "height": 683,
+          "url": "https://www.abnewswire.com/uploads/1640823178.png",
+          "width": 1926,
+          "height": 1164,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -79,11 +182,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-29T09:03:00-08:00",
+      "publishedDateTime": "2021-12-30T08:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Car",
-        "domain": "sgcarmart.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -93,26 +196,26 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-12-30-how-a-startup-uses-ai-to-put-worker-safety-first.md",
-      "title": "How a startup uses AI to put worker safety first",
-      "excerpt": "Everguard combines AI, computer vision, and sensor fusion to prioritize worker safety and reduce the risk of injuries and accidents.",
+      "path": "_news/2021-12-31-ces-2022-innovation-award-honoree-deepbrain-ai-to-showcase-its-ai-human-solution.md",
+      "title": "CES 2022 Innovation Award Honoree DeepBrain AI to showcase its AI Human solution!",
+      "excerpt": "DeepBrain AI's video synthesis solutions, a CES 2022 Innovation Awards Winner, leverages the power of Artificial Intelligence to quickly create lifelike human-based AI avatars that inform, solve and guide users through thousands of possible scenarios and real time interactions.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worker-safety-first/",
-      "originalUrl": "https://venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worker-safety-first/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ces-2022-innovation-award-honoree-deepbrain-ai-to-showcase-its-ai-human-solution-1031071561",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ces-2022-innovation-award-honoree-deepbrain-ai-to-showcase-its-ai-human-solution-1031071561",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1163443516.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 650,
+          "url": "https://mma.prnewswire.com/media/1717439/The_technology_implemented_forms_industry_fields.jpg",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,9 +223,199 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worker-safety-first/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worker-safety-first/amp/",
-      "publishedDateTime": "2021-12-29T08:40:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-30T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-31-unlock-your-windows-11-laptop-using-your-face-with-windows-hello.md",
+      "title": "Unlock your Windows 11 laptop using your face with Windows Hello",
+      "excerpt": "It isn't exclusive to the iPhone. You can log in to your Windows 10 or Windows 11 laptop just by looking at the webcam.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/unlock-your-windows-11-laptop-using-your-face-with-windows-hello/",
+      "originalUrl": "https://www.cnet.com/tech/computing/unlock-your-windows-11-laptop-using-your-face-with-windows-hello/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/O9M85vzPI46U5dANLE-2mEbt1Vw=/1200x630/2017/08/28/d55d6635-687d-485d-9416-92f083955b66/lenovo-miix-720-15.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/unlock-your-windows-11-laptop-using-your-face-with-windows-hello/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/unlock-your-windows-11-laptop-using-your-face-with-windows-hello/",
+      "publishedDateTime": "2021-12-30T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-artificial-intelligence-in-education-market-to-see-huge-growth-by-2026-microsoft-jellynote-google.md",
+      "title": "Artificial Intelligence In Education Market to See Huge Growth by 2026 | Microsoft, Jellynote, Google",
+      "excerpt": "In Education market size is expected to grow at a compound annual growth rate of xx% for the forecast period of 2021 to 2028. Market IntelliX report on Artificial Intelligence (Ai) In Education Artificial Intelligence (Ai) In Education Market report offers an overall scope of the market which includes future supply and demand scenarios,",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2514461/artificial-intelligence-in-education-market-to-see-huge-growth",
+      "originalUrl": "https://www.openpr.com/news/2514461/artificial-intelligence-in-education-market-to-see-huge-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc30976301_g.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2514461/artificial-intelligence-in-education-market-to-see-huge-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2514461/artificial-intelligence-in-education-market-to-see-huge-growth",
+      "publishedDateTime": "2021-12-30T07:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-6-best-identity-theft-protection-services-of-january-2022.md",
+      "title": "6 Best Identity Theft Protection Services of January 2022",
+      "excerpt": "Identity Guard uses artificial intelligence to identify possible fraud earlier and send notifications faster. Their scanning platform is powered by IBM Watson, a supercomputer that can analyze and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxly.com/i/6-best-identity-theft-protection-services-of-january-2022/",
+      "originalUrl": "https://www.kxly.com/i/6-best-identity-theft-protection-services-of-january-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2021/12/p/o/736878f496cd795dd2c90b1596bfcefdb27dddb7.jpg",
+          "width": 1763,
+          "height": 1175,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-30T06:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXLY 4 News",
+        "domain": "kxly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-a-look-back-at-recent-ai-trends-and-what-2022-might-hold.md",
+      "title": "A look back at recent AI trends — and what 2022 might hold",
+      "excerpt": "Hear from CIOs, CTOs, and other C-level and senior execs on data and AI strategies at the Future of Work Summit this January 12, 2022. Learn more 2021 was an eventful year for AI. With the advent of new techniques,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/",
+      "originalUrl": "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/",
+      "publishedDateTime": "2021-12-30T06:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -145,358 +438,44 @@
         "news"
       ],
       "topics": [
+        "Google AI",
         "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-details-here.md",
-      "title": "Army Sets Up New Quantum Computing Lab, Artificial Intelligence Centre. Details Here",
-      "excerpt": "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pradesh's Mhow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938",
-      "originalUrl": "https://www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2021-12/imil18ks_indian-army-quantum-computing-lab_625x300_29_December_21.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938/amp/1",
-      "publishedDateTime": "2021-12-29T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-4-top-power-hour-stocks-to-watch-today.md",
-      "title": "4 Top Power Hour Stocks To Watch Today",
-      "excerpt": "However, Baidu has been pushing forward with its Intelligent ... With that in mind, would BIDU stock be a top AV stock to watch? Aurora is a self-driving vehicle technology company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-top-power-hour-stocks-to-watch-today",
-      "originalUrl": "https://www.nasdaq.com/articles/4-top-power-hour-stocks-to-watch-today",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-power-hour-stocks-to-watch-today?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-power-hour-stocks-to-watch-today?amp",
-      "publishedDateTime": "2021-12-29T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-ai-in-computer-vision-market.md",
-      "title": "AI in Computer Vision Market",
-      "excerpt": "The Global AI in Computer Vision Market Report is based on a detailed survey conducted by a team of industry experts. This report summarizes the products or services on the market and their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2513592/ai-in-computer-vision-market-witness-highest-growth-in-near",
-      "originalUrl": "https://www.openpr.com/news/2513592/ai-in-computer-vision-market-witness-highest-growth-in-near",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc29200169_g.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2513592/ai-in-computer-vision-market-witness-highest-growth-in-near",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2513592/ai-in-computer-vision-market-witness-highest-growth-in-near",
-      "publishedDateTime": "2021-12-29T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-data-integrity-and-ai-why-you-need-both-to-power-trusted-business-decisions.md",
-      "title": "Data Integrity And AI: Why You Need Both To Power Trusted Business Decisions",
-      "excerpt": "Companies need trusted data, not just big data. That’s why any discussion about AI/ML is also a discussion about data integrity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/data-integrity-and-ai-why-you-need-both-to-power-trusted-business-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/data-integrity-and-ai-why-you-need-both-to-power-trusted-business-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61814ed70e1ae168d212c0bd%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/data-integrity-and-ai-why-you-need-both-to-power-trusted-business-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/29/data-integrity-and-ai-why-you-need-both-to-power-trusted-business-decisions/amp/",
-      "publishedDateTime": "2021-12-29T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-learn-artificial-intelligence-machine-learning-python-and-more-for-under-30.md",
-      "title": "Learn artificial intelligence, machine learning, Python and more for under $30",
-      "excerpt": "Even with no tech experience, you can learn highly marketable skills to start and advance in a lucrative tech career without taking any time off from your full-time job.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/education/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
-      "originalUrl": "https://www.zdnet.com/education/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9492c3bd3b0d8d9e63d5201ac4b7deb90c2dded3/2021/12/23/864cc429-4142-4d13-9ec2-b68c0800219a/zdnet-premium-machine-learning.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
-      "publishedDateTime": "2021-12-29T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market.md",
-      "title": "Geely’s Zeekr partners with Waymo to build its self-driving taxi fleet for the US market",
-      "excerpt": "On Tuesday, the Chinese multinational automotive company Geely announced that their premium electric brand, Zeekr, will partner up with Waymo. This partnership is to build an all-electric, self-driving vehicle for the Waymo One ride-hailing autonomous fleet in the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/",
-      "originalUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/12/Geely-van.jpg",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1",
-      "publishedDateTime": "2021-12-29T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-big-techs-employees-are-one-of-the-biggest-checks-on-its-power.md",
-      "title": "Big Tech’s employees are one of the biggest checks on its power",
-      "excerpt": "Facebook whistleblower Frances Haugen created ... unexpected and meaningful balance to Big Tech’s power. Then-Google AI research scientist Timnit Gebru speaks at TechCrunch Disrupt SF 2018 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/recode/22848750/whistleblower-facebook-google-apple-employees",
-      "originalUrl": "https://www.vox.com/recode/22848750/whistleblower-facebook-google-apple-employees",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/u9nsQYlXwoTNnDE1PFGtcLtdSIs=/0x0:4800x3200/1400x1050/filters:focal(2408x989:3176x1757):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70326258/GettyImages_1181042575.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/recode/22848750/whistleblower-facebook-google-apple-employees",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/22848750/whistleblower-facebook-google-apple-employees",
-      "publishedDateTime": "2021-12-29T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Facebook AI",
-        "AI"
+        "AI Ethics",
+        "Microsoft AI",
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_news/2021-12-29-worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-opportunities.md",
-      "title": "Worldwide Military Robots Industry to 2026 - Integration With Artificial Intelligence Presents Opportunities",
-      "excerpt": "The \"Military Robots Market Research Report by Type, Operation, and Region - Global Forecast to 2026 - Cumulative Impact of",
+      "path": "_news/2021-12-30-robotics-essential-to-the-oil-and-gas-industry.md",
+      "title": "Robotics essential to the oil and gas industry",
+      "excerpt": "Robot renting is expected to revolutionise the way oil & gas companies approach robotics, according to GlobalData.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24811209/worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-oppor",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24811209/worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-oppor",
+      "webUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/",
+      "originalUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://dlgivnpf6gg8w.cloudfront.net/media/articles/pop/drone-tech-01.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24811209",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24811209",
-      "publishedDateTime": "2021-12-29T04:58:00-08:00",
+      "ampWebUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/amp/",
+      "cdnAmpWebUrl": "https://www-hydrocarbonengineering-com.cdn.ampproject.org/c/s/www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/amp/",
+      "publishedDateTime": "2021-12-30T06:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Hydrocarbon Engineering",
+        "domain": "hydrocarbonengineering.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -511,21 +490,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-29-artificial-intelligence-its-a-fine-balancing-act-between-opportunities-and-pitfalls.md",
-      "title": "Artificial intelligence: It's a fine balancing act between opportunities and pitfalls",
-      "excerpt": "Artificial intelligence is also hailed as ... to create a strong data and AI ecosystem in the country,” says Rohini Srivathsa, National Technology Officer, Microsoft India.",
+      "path": "_news/2021-12-30-the-complete-guide-to-ai-for-businesses-and-how-its-making-a-difference.md",
+      "title": "The Complete Guide to AI for Businesses and How It's Making a Difference",
+      "excerpt": "Here are some ways AI can enhance your company. Artificial intelligence (AI) is quickly changing the world. As an emerging area of study, it has already found many applications in business, technology and society.",
       "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/blog/techtank/2022/01/12/how-countries-are-leveraging-computing-power-to-achieve-their-national-artificial-intelligence-strategies/",
-      "originalUrl": "https://www.moneycontrol.com/news/business/artificial-intelligence-its-a-fine-balancing-act-between-opportunities-and-pitfalls-7877851.html",
+      "webUrl": "https://www.entrepreneur.com/article/398924",
+      "originalUrl": "https://www.entrepreneur.com/article/398924",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://www.brookings.edu/wp-content/uploads/2022/01/taylor-vick-M5tzZtFCOfs-unsplash.jpg?w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1640286945-GettyImages-1274394072.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -533,58 +512,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/blog/techtank/2022/01/12/how-countries-are-leveraging-computing-power-to-achieve-their-national-artificial-intelligence-strategies/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/techtank/2022/01/12/how-countries-are-leveraging-computing-power-to-achieve-their-national-artificial-intelligence-strategies/amp/",
-      "publishedDateTime": "2021-12-29T04:52:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-30T05:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-what-happens-when-an-ai-knows-how-you-feel.md",
-      "title": "What Happens When an AI Knows How You Feel?",
-      "excerpt": "The following month, Facebook announced AI “conflict alerts” for groups ... or detect them remotely.” Timmons’ research, which involves building computational models of human behavior ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-emotional-intelligence/",
-      "originalUrl": "https://www.wired.com/story/artificial-emotional-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61bc7f6c70540627801a5b48/master/pass/Business-AI-Emotions-1290287917-648538841-2.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-emotional-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-emotional-intelligence/amp",
-      "publishedDateTime": "2021-12-29T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -600,69 +537,23 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-12-29-role-of-ai-and-machine-learning-across-different-sectors-in-2021.md",
-      "title": "Role of AI and Machine Learning across Different Sectors in 2021",
-      "excerpt": "Technology is playing a vital role in every sector to make the nation technologically equipped and capable. Here are a few business leaders sharing their thoughts on how their companies are",
+      "path": "_news/2021-12-30-earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products.md",
+      "title": "EarthOptics Is Using Artificial Intelligence To Help Consumers Choose Climate Smart Products",
+      "excerpt": "If you could buy a climate-smart product and knew that your purchase contributed to the world's carbon neutrality goals, would you do it? This company is counting on it.",
       "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/12/30/earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/12/30/earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.thehansindia.com/h-upload/2021/12/29/1138517-ai.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
-      "publishedDateTime": "2021-12-29T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-what-to-focus-on-when-driving-change.md",
-      "title": "What To Focus On When Driving Change",
-      "excerpt": "The inspiring story of Katrine Switzer's Marathon Woman got me thinking about how to drive change in startups. Switzer was the first woman to run the male-only Boston Marathon in 1967. She ran despite knowing she might be stopped.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614213c46cf154314fbff920%2F0x0.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca168eaa93c35c46009205%2F0x0.jpg",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -672,9 +563,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/amp/",
-      "publishedDateTime": "2021-12-29T03:00:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/12/30/earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/12/30/earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products/amp/",
+      "publishedDateTime": "2021-12-30T05:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -697,26 +588,111 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-the-next-generation-of-robots-the-inside-skinny.md",
+      "title": "The Next Generation Of Robots: The Inside Skinny",
+      "excerpt": "By making robots increasingly autonomous, versatile and tactile, we can envision a future in which humanity can truly excel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-next-generation-of-robots-the-inside-skinny/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-next-generation-of-robots-the-inside-skinny/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc6b5c97be3da24190a841%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-next-generation-of-robots-the-inside-skinny/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-next-generation-of-robots-the-inside-skinny/amp/",
+      "publishedDateTime": "2021-12-30T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-alphabets-waymo-to-expand-ev-fleet-with-geely-partnership.md",
+      "title": "Alphabet’s Waymo to Expand EV Fleet with Geely Partnership",
+      "excerpt": "Waymo has also made clear its intentions ... According to the analyst, Google’s increased focus on artificial intelligence continues to drive greater product functionality and significant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/alphabets-waymo-to-expand-ev-fleet-with-geely-partnership",
+      "originalUrl": "https://www.nasdaq.com/articles/alphabets-waymo-to-expand-ev-fleet-with-geely-partnership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-waymo-to-expand-ev-fleet-with-geely-partnership?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-waymo-to-expand-ev-fleet-with-geely-partnership?amp",
+      "publishedDateTime": "2021-12-30T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-12-29-artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs.md",
-      "title": "Artificial Intelligence Hiring Bias Spurs Scrutiny and New Regs",
-      "excerpt": "With New York City’s passage of one of the toughest U.S. laws regulating the use of artificial intelligence tools in the workplace, federal officials are signaling that they too want to scrutinize how that new technology is being used to sift through a growing job applicant pool without running afoul of civil rights laws and baking in discrimination.",
+      "path": "_news/2021-12-30-why-now-is-the-time-for-an-ai-bill-of-rights.md",
+      "title": "Why Now Is The Time For An AI Bill Of Rights",
+      "excerpt": "AI-based systems are going to change everything about how we live and work. And, currently, there are no rules of the road.",
       "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/daily-labor-report/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs",
-      "originalUrl": "https://news.bloomberglaw.com/daily-labor-report/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/bfc8e89/2147483647/crop/5241x2015%2B29%2B143/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F80%2F4d%2F9254935c48f7861e33c55d36430a%2Fgettyimages-1144000033.jpg",
-          "width": 960,
-          "height": 369,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc6a0501f1d4f18790a855%2F0x0.jpg",
+          "width": 1200,
+          "height": 771,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -724,57 +700,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-29T02:30:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/amp/",
+      "publishedDateTime": "2021-12-30T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg Law",
-        "domain": "bloomberglaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-chinas-biggest-ai-startup-aims-to-raise-742-million-in-hong-kong-ipo.md",
-      "title": "China’s Biggest AI Startup Aims to Raise $742 Million in Hong Kong IPO",
-      "excerpt": "SenseTime Group Inc., China’s largest artificial intelligence (AI) startup by revenue, plans to raise about HK$5.78 billion ($742.7 million) in its Hong Kong IPO on Friday, the company said in an exchange filing on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.caixinglobal.com/2021-12-29/chinas-biggest-ai-startup-aims-to-raise-742-million-in-hong-kong-ipo-101823707.html",
-      "originalUrl": "https://www.caixinglobal.com/2021-12-29/chinas-biggest-ai-startup-aims-to-raise-742-million-in-hong-kong-ipo-101823707.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.caixin.com/2021-12-29/164076234700675_560_373.jpg",
-          "width": 560,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-29T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Caixin Global",
-        "domain": "caixinglobal.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -787,56 +729,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-29-global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-for-personalized-financial-services.md",
-      "title": "Global AI and Advance Machine Learning in BFSI Market Report (2021 to 2030): Increasing Preferences for Personalized Financial Services",
-      "excerpt": "The \"AI and Advance Machine Learning in BFSI Market By Component, Deployment Model, Enterprise Size and Application:",
+      "path": "_news/2021-12-30-is-your-companys-network-a-black-hole.md",
+      "title": "Is Your Company’s Network A Black Hole?",
+      "excerpt": "Having visibility into the vast volume of data traveling across company networks is a complex problem, but one worth solving.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24809416/global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-f",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24809416/global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-f",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24809416",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24809416",
-      "publishedDateTime": "2021-12-29T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-ethical-impact-of-ai-on-health-safety-and-wellbeing.md",
-      "title": "Ethical impact of AI on health, safety and wellbeing",
-      "excerpt": "Across industry, the use of AI has become a key feature of the technological revolution in workplace safety, health and wellbeing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740",
-      "originalUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://s32891.pcdn.co/wp-content/uploads/2019/10/GettyImages-1051617224.jpg",
-          "width": 800,
-          "height": 443,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc642d30b627464217943c%2F0x0.jpg",
+          "width": 909,
+          "height": 610,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -844,14 +751,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740&amp",
-      "cdnAmpWebUrl": "https://www-shponline-co-uk.cdn.ampproject.org/c/s/www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740&amp",
-      "publishedDateTime": "2021-12-29T02:00:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/amp/",
+      "publishedDateTime": "2021-12-30T03:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SHP Online",
-        "domain": "shponline.co.uk",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -860,32 +776,40 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
+        "AWS AI",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-12-29-is-c3ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs.md",
-      "title": "Is C3.ai Stock Finally a Buy After an 85% Decline From Post-IPO Highs?",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips. Years ago, I watched an interview with Tom Siebel, founder and CEO of C3.ai (NYSE:AI). I was completely enamored wi",
+      "path": "_news/2021-12-30-optical-chip-that-can-efficiently-solve-complex-ai-problems.md",
+      "title": "Optical Chip That Can Efficiently Solve Complex AI Problems",
+      "excerpt": "They combine photonics and electronics to process information at ultra-high speeds, low latency and low power consumption",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs",
-      "originalUrl": "https://www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs",
+      "webUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems",
+      "originalUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 74,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/12/Lightelligence-PACE.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs?amp",
-      "publishedDateTime": "2021-12-29T02:00:00-08:00",
+      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp",
+      "publishedDateTime": "2021-12-30T02:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -900,21 +824,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-29-bavards-conversational-ai-technology-now-powered-by-aws-for-better-partner-integrations-and-scalability.md",
-      "title": "Bavard's Conversational AI Technology Now Powered by AWS for Better Partner Integrations and Scalability",
-      "excerpt": "Bavard, a leading conversational AI provider offering businesses a better way to support and engage customers 24/7, is excited to announce many enhancements to its platform, including now being powered by Amazon Web Services (AWS),",
+      "path": "_news/2021-12-30-us-blacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut.md",
+      "title": "US-blacklisted AI firm SenseTime shares jump 23% in Hong Kong debut",
+      "excerpt": "Chinese artificial intelligence startup SenseTime jumped as much as 23% from their IPO price as they debuted on the Hong Kong Stock Exchange. The startup had raised $740 million in its IPO and priced its shares at $0.",
       "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12670",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12670",
+      "webUrl": "https://inshorts.com/en/news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640",
+      "originalUrl": "https://inshorts.com/en/news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12670_16407596930316574.jpg",
-          "width": 350,
-          "height": 215,
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/30_thu/img_1640841454164_313.jpg?",
+          "width": 1006,
+          "height": 1629,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -922,13 +846,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12670",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12670",
-      "publishedDateTime": "2021-12-28T22:31:00-08:00",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640",
+      "publishedDateTime": "2021-12-29T22:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
+        "name": "Inshorts",
+        "domain": "inshorts.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -938,27 +862,25 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-12-29-ai-artificial-intelligence-is-transforming-the-future-of-healthcare.md",
-      "title": "AI (Artificial intelligence) is Transforming the Future of Healthcare!",
-      "excerpt": "Artificial intelligence is increasingly growing in popularity and the global artificial intelligence market size was valued at $27.23 Bn in 2019 & is projected to reach $266.",
+      "path": "_news/2021-12-30-looking-back-on-2021.md",
+      "title": "Looking Back on 2021",
+      "excerpt": "It's that time of year again. You know, the time where you start to question everything you are doing with your life, wonder if you have achieved anything at all - and desperately try to fill in your quarterly review forms with the words \"What was my impact?",
       "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-artificial-intelligence-transforming-future-healthcare-br",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-artificial-intelligence-transforming-future-healthcare-br",
+      "webUrl": "https://www.linkedin.com/pulse/looking-back-2021-michelle-sandford",
+      "originalUrl": "https://www.linkedin.com/pulse/looking-back-2021-michelle-sandford",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGSkm9ASislDg/article-cover_image-shrink_600_2000/0/1640758512769?e=1646870400&v=beta&t=cz6hDi7oBOypvWmBUl9dqA0zmdqZzPWH02PFg3-hEQY",
-          "width": 773,
-          "height": 436,
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQG9G1db4qVsZg/article-cover_image-shrink_720_1280/0/1640665123412?e=1646870400&v=beta&t=3EIRwk89uk3naAHwI5JhLIBrwj0R9SXyHXf7GdBaGyA",
+          "width": 1277,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -968,7 +890,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-28T22:16:00-08:00",
+      "publishedDateTime": "2021-12-29T20:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "LinkedIn",
@@ -991,26 +913,26 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-12-29-chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time.md",
-      "title": "Chinese AI Giant SenseTime’s IPO Comes at a Bad Time",
-      "excerpt": "SenseTime has developed strong AI technology. Next, it needs to figure out how to make money from it.",
+      "path": "_news/2021-12-30-2021-was-a-breakthrough-year-for-ai.md",
+      "title": "2021 was a breakthrough year for AI",
+      "excerpt": "As 2021 comes to a close, we take a quick look at all the major developments that took place in the AI space worldwide.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "originalUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
+      "webUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
+      "originalUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-456678/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 835,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1018,16 +940,71 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "publishedDateTime": "2021-12-28T21:46:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
+      "publishedDateTime": "2021-12-29T16:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-ai-powered-stock-fund-bails-out-of-mega-cap-fang-names.md",
+      "title": "AI-Powered Stock Fund Bails Out of Mega-Cap FANG Names",
+      "excerpt": "An artificial intelligence-guided fund that has been lagging the market has jettisoned its mega-cap tech names in a bid to right the ship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-12-30/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-30/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyiJaIdn1hD8/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-29T16:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1047,21 +1024,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-29-indias-airtel-tcs-tap-robotics-to-build-5g-based-units.md",
-      "title": "India's Airtel, TCS tap robotics to build 5G-based units",
-      "excerpt": "Indian telecom operator Bharti Airtel and IT giant Tata Consultancy Services (TCS) have joined hands to build a 5G-based remote working technology using robotics. Both the companies are currently running the trials in Airtel's 5G lab at Manesar,",
+      "path": "_news/2021-12-30-california-company-tests-driverless-big-rig-truck-between-tucson-and-phoenix.md",
+      "title": "California company tests driverless big-rig truck between Tucson and Phoenix",
+      "excerpt": "The company claims its artificial intelligence software allows trucks to \"see\" 1,000 meters away, operate nearly continuously and achieve fuel savings of 10% or more compared to those driven manually.",
       "sourceUrl": null,
-      "webUrl": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html",
-      "originalUrl": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html",
+      "webUrl": "https://www.azcentral.com/story/money/business/tech/2021/12/29/tusimple-completes-driverless-big-rig-truck-test-arizona/9044260002/",
+      "originalUrl": "https://www.azcentral.com/story/money/business/tech/2021/12/29/tusimple-completes-driverless-big-rig-truck-test-arizona/9044260002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://www.developingtelecoms.com/images/stories/Places/India_-_train_journey.jpg",
-          "width": 600,
-          "height": 449,
+          "url": "https://www.gannett-cdn.com/presto/2021/12/29/PPHX/a8ad51c7-2ee8-4726-a148-0c52165ac405-TuSimple_Truck_1.jpg?auto=webp&crop=2800,1575,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1069,13 +1046,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-28T21:07:00-08:00",
+      "ampWebUrl": "https://amp.azcentral.com/amp/9044260002",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/9044260002",
+      "publishedDateTime": "2021-12-29T15:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "developingtelecoms.com",
-        "domain": "developingtelecoms.com",
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1085,27 +1062,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-12-29-mcdonalds-moves-closer-to-robot-drive-through-lanes.md",
-      "title": "McDonald's Moves Closer to Robot Drive-Through Lanes",
-      "excerpt": "McDonald's With a Side of IBM Watson IBM acquired McDonald's McD Tech ... Moving forward, IBM’s expertise in building customer care solutions with AI and natural language processing will help ...",
+      "path": "_news/2021-12-30-alibabas-research-academy-identifies-ai-applications-in-science-new-photonic-chips-as-top-tech-trends-for-2022.md",
+      "title": "Alibaba’s research academy identifies AI applications in science, new photonic chips as top tech trends for 2022",
+      "excerpt": "Artificial intelligence to improve scientific research and renewable energy, and photonics chips that work faster and use less energy, were two top future tech trends identified by Alibaba’s DAMO academy.",
       "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
-      "originalUrl": "https://www.thestreet.com/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3161430/alibabas-research-academy-identifies-ai-applications-science-new",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3161430/alibabas-research-academy-identifies-ai-applications-science-new",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgxMjQxNDgzNDU2Njg1NDE2/theranos_holmes_1_052421.jpg",
-          "width": 620,
-          "height": 400,
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/29/01828002-525c-4e1f-b3b0-3e4bdc8b4096_a3bd1f78.jpg?itok=ELW83iIu&v=1640772247",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1113,13 +1089,99 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
-      "publishedDateTime": "2021-12-28T19:30:00-08:00",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3161430/alibabas-research-academy-identifies-ai-applications-science-new",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3161430/alibabas-research-academy-identifies-ai-applications-science-new",
+      "publishedDateTime": "2021-12-29T14:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-4-top-power-hour-stocks-to-watch-today.md",
+      "title": "4 Top Power Hour Stocks To Watch Today",
+      "excerpt": "Top Autonomous Vehicle Stocks For Your Power Hour Watchlist Today. Autonomous vehicle (AV) stocks are often exciting prospects in the stock market. After all, the industry is re",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/news/read/42080298/4_top_power_hour_stocks_to_watch_today",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/news/read/42080298/4_top_power_hour_stocks_to_watch_today",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-29T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-ibm-artificial-intelligence-supercomputer-watson-has-8-stock-picks-for-2022.md",
+      "title": "IBM Artificial Intelligence Supercomputer Watson Has 8 Stock Picks For 2022",
+      "excerpt": "It’s the time of year that investors consider which stocks to buy and sell to build their portfolio for the next 12 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/trading-ideas/long-ideas/21/12/24814302/ibm-artificial-intelligence-supercomputer-watson-has-8-stock-picks-for-2022",
+      "originalUrl": "https://www.benzinga.com/trading-ideas/long-ideas/21/12/24814302/ibm-artificial-intelligence-supercomputer-watson-has-8-stock-picks-for-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/ai.jpg",
+          "width": 1920,
+          "height": 914,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24814302",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24814302",
+      "publishedDateTime": "2021-12-29T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1130,8 +1192,7 @@
       ],
       "topics": [
         "IBM AI",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     }
   ],

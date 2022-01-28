@@ -2,6 +2,155 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-29-ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities.md",
+      "title": "AI Weekly: AI supercomputers and facial recognition to verify taxpayers’ identities",
+      "excerpt": "Meta (formerly Facebook) announced an AI supercomputer. Also, more revelations about the IRS' use of facial recognition have come to light.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
+      "originalUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
+      "publishedDateTime": "2022-01-28T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-why-massachusetts-is-ground-zero-for-the-fight-against-facial-recognition.md",
+      "title": "Why Massachusetts is ground-zero for the fight against facial recognition",
+      "excerpt": "Massachusetts has had a number of cities ban facial recognition in the absence of federal laws as conversations about the technology heat up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/",
+      "originalUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2022/01/massachusetts-cities-banning-facial-recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/massachusetts-banning-facial-recognition/?amp",
+      "publishedDateTime": "2022-01-28T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-the-irs-should-stop-using-facial-recognition.md",
+      "title": "The IRS Should Stop Using Facial Recognition",
+      "excerpt": "With tax season upon us, the IRS is pushing individuals to submit to facial recognition in exchange for being able to complete a range of basic tax-related activities online. The IRS has retained a private firm—ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/ideas/archive/2022/01/irs-should-stop-using-facial-recognition/621386/",
+      "originalUrl": "https://www.theatlantic.com/ideas/archive/2022/01/irs-should-stop-using-facial-recognition/621386/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/uj61NrtPPNrapCcc9ebMcNN2_88=/570x321/media/img/mt/2022/01/IRS_Facial_Recognition_1/original.jpg",
+          "width": 570,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/621386/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/621386/",
+      "publishedDateTime": "2022-01-27T14:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-how-ar-computer-vision-and-ai-coalesce-for-smart-city-cleaning.md",
       "title": "How AR, Computer Vision And AI Coalesce For Smart City Cleaning",
       "excerpt": "The combined application of AI, AR and computer vision in smart cities enables public agencies to optimize urban cleaning in a multitude of ways.",
@@ -54,58 +203,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-27-the-irs-needs-to-stop-using-idmes-face-recognition-privacy-experts-warn.md",
-      "title": "The IRS Needs to Stop Using ID.me's Face Recognition, Privacy Experts Warn",
-      "excerpt": "New statements from the company's CEO show it may use a more expansive facial recognition system than previously known.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342",
-      "originalUrl": "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4eedb672b1755b7c1f50bba95d8da978.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-id-me-irs-face-recognition-works-1848429342/amp",
-      "publishedDateTime": "2022-01-26T16:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-27-idme-says-it-uses-more-powerful-facial-recognition-than-previously-claimed.md",
       "title": "ID.me says it uses more powerful facial recognition than previously claimed",
       "excerpt": "\"ID.me uses a specific '1 to Many' check on selfies tied to government programs targeted by organized crime to prevent prolific identity thieves and members of organized crime fro",
@@ -114,7 +211,7 @@
       "originalUrl": "https://www.engadget.com/idme-ceo-facial-recognition-one-to-many-backtrack-205046356.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -926,6 +1023,58 @@
       ]
     },
     {
+      "path": "_news/2022-01-13-facial-recognition-market-size-2022-global-industry-current-trends-top-companies-application-growth-factors-development-and-forecast-to.md",
+      "title": "Facial Recognition Market Size 2022: Global Industry Current Trends, Top Companies, Application, Growth Factors, Development And Forecast To 2026",
+      "excerpt": "Jan 13, 2022 (Market Insight Reports) -- Facial Recognition Market size is set to hit USD 12 billion by 2026, according to a new research report by Global Market Insights, Inc. Global facial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-global-industry-current-trends-top-companies-application-growth-factors-development-and-forecast-to-2026-2022-01-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-global-industry-current-trends-top-companies-application-growth-factors-development-and-forecast-to-2026-2022-01-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-landingai-hires-vision-expert-dechow-to-correct-the-big-data-fallacy.md",
       "title": "Landing.AI hires vision expert Dechow to correct the Big Data fallacy",
       "excerpt": "Practical application of deep learning may require focusing less on giant datasets, more on the way examples of training data are handled, says Andrew Ng.",
@@ -1263,157 +1412,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-is-lidar-on-its-way-out-the-business-case-for-saying-goodbye.md",
-      "title": "Is LiDAR on its way out? The business case for saying goodbye",
-      "excerpt": "Among the deluge of robotics predictions you're bound to encounter this year, there's one you should pay particular attention to: The way robots \"see\" is fundamentally changing, and that's going to have a huge impact on the utility,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/is-lidar-on-its-way-out/",
-      "originalUrl": "https://www.zdnet.com/article/is-lidar-on-its-way-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/fd3014dcfa45547ebbc987525bf802a212a19100/2022/01/07/9598c060-4dfd-4ed1-b71b-ebd77473707d/machine-g5fb55c703-1920.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/is-lidar-on-its-way-out/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-lidar-on-its-way-out/",
-      "publishedDateTime": "2022-01-10T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-ola-2-security-camera-with-face-recognition-ai-and-more-hits-kickstarter.md",
-      "title": "OLA 2 security camera with face recognition, AI and more hits Kickstarter",
-      "excerpt": "If you are in the market for a new security camera you might be interested in the OLA 2 launched via Kickstarter this month offering, facial",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/ola-2-security-camera-10-01-2022/",
-      "originalUrl": "https://www.geeky-gadgets.com/ola-2-security-camera-10-01-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/01/home-security-camera-outdoor.jpg",
-          "width": 700,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T02:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips.md",
-      "title": "Meta claims its AI improves speech recognition quality by reading lips",
-      "excerpt": "People perceive speech both by listening to it and watching the lip movements of speakers. In fact, studies show that visual cues play a key role in language learning. By contrast",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/",
-      "originalUrl": "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1351969920.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/",
-      "publishedDateTime": "2022-01-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI",
-        "Computer Vision"
       ]
     }
   ],

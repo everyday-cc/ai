@@ -2,6 +2,871 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-25-meta-unveils-new-ai-supercomputer.md",
+      "title": "Meta Unveils New AI Supercomputer",
+      "excerpt": "When the AI Research SuperCluster is fully built it will be the fastest AI supercomputer in the world, the Facebook-parent says",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601",
+      "originalUrl": "https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 759,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-472356/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/meta-unveils-new-ai-supercomputer-11643043601",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/meta-unveils-new-ai-supercomputer-11643043601",
+      "publishedDateTime": "2022-01-24T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.md",
+      "title": "CFOs eye tech investments to attract, retain talent with AI/ML skills",
+      "excerpt": "A survey by a financial services and human resources software vendor showed CFOs are on the hunt for finance professionals who have skills in AI and ML platforms that can be used to parse data and tell a business value story.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.html",
+      "originalUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/artificial_intelligence_ai_ml_machine_learning_abstract_gettyimages_by_dny59_959737582_by_kentoh_1042827860-100817845-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.amp.html",
+      "publishedDateTime": "2022-01-24T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-microsoft-and-customer-fedex-partner-on-logistics-as-a-service.md",
+      "title": "Microsoft and customer FedEx partner on 'logistics as a service'",
+      "excerpt": "Microsoft and FedEx reveal more about their partnership around analytics, supply-chain and logistics management and specifically how Dynamics 365 will play a role.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/361dfa27d5375b1220767d0a3791d5367e4aeef1/2022/01/24/7b2e92e8-299c-4bfc-8871-80dbf6c8e4ce/microsoftfedexlogistics.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 925,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "publishedDateTime": "2022-01-24T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-asias-largest-artificial-intelligence-data-center-opens-in-shanghai.md",
+      "title": "Asia's largest artificial intelligence data center opens in Shanghai",
+      "excerpt": "One of Asia's largest artificial intelligence (AI) data centers has officially been put into operation in Shanghai's Lin-gang Free Trade Zone.",
+      "sourceUrl": null,
+      "webUrl": "https://news.cgtn.com/news/2022-01-24/Asia-s-largest-artificial-intelligence-data-center-opens-in-Shanghai-175Bn6pICju/index.html",
+      "originalUrl": "https://news.cgtn.com/news/2022-01-24/Asia-s-largest-artificial-intelligence-data-center-opens-in-Shanghai-175Bn6pICju/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video.cgtn.com/news/2022-01-24/Asia-s-largest-artificial-intelligence-data-center-opens-in-Shanghai-175Bn6pICju/video/4a697e21405348e58c74b23813875757/4a697e21405348e58c74b23813875757-1280.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T06:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CGTN",
+        "domain": "cgtn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-sas-viya-is-living-large-on-azure.md",
+      "title": "SAS Viya is living large on Azure",
+      "excerpt": "A year and a half in, there is a critical mass of Viya embedded inside Azure analytics, and existing SAS customers are starting to buy in. By \"hiding in plain sight,\" could Azure make SAS cool again with a new generation of customers?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sas-viya-is-living-large-on-azure/",
+      "originalUrl": "https://www.zdnet.com/article/sas-viya-is-living-large-on-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/780348d92f2b55f248dc1fa52ca2927783b0099a/2022/01/21/f0f7e2fc-b0dd-470c-a472-effa45c6d310/owl.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sas-viya-is-living-large-on-azure/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sas-viya-is-living-large-on-azure/",
+      "publishedDateTime": "2022-01-24T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-oh-great-ai-can-not-only-be-racist-and-sexist-but-ageist-too.md",
+      "title": "Oh great — AI can not only be racist and sexist, but ageist too",
+      "excerpt": "Current research on bias in AI focuses mainly on gender and race. But what about age-related bias — can AI be ageist?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-can-be-racist-sexist-ageist-syndication",
+      "originalUrl": "https://thenextweb.com/news/ai-can-be-racist-sexist-ageist-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FElderly-woman-AI-hed.jpg&signature=acb61ad7c179237f58c19be72fcf6bb6",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T05:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-lg-to-showcase-self-driving-vehicle-next-month.md",
+      "title": "LG to showcase self driving vehicle next month",
+      "excerpt": "The LG Omnipod, a mobility concept solution that can serve as \"a home office, an entertainment center or even a lounge,\" will be on display at a mobility fair at the COEX convention center in southern Seoul on Feb.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "originalUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgk.timesnownews.com/story/1200_x_900_62.png?tr=w-400,h-300,fo-auto",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "publishedDateTime": "2022-01-24T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews.com",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-alcatraz-ai-deems-facial-recognition-as-the-future-of-security.md",
+      "title": "Alcatraz AI deems facial recognition as the future of security",
+      "excerpt": "Door access control has undergone many changes in recent years with new technology and practices going in and out of style. With the recent developments in AI, the future of security technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
+      "publishedDateTime": "2022-01-24T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-elon-musks-brain-chip-startup-neuralink-looking-to-hire-clinical-trial-director-in-california-as-it-nears-human-trials.md",
+      "title": "Elon Musk's Brain-Chip Startup Neuralink Looking To Hire Clinical Trial Director In California As It Nears Human Trials",
+      "excerpt": "CEO Elon Musk-led brain-machine interface startup Neuralink is recruiting a clinical trial director and a coordinator to realize plans for clinical",
+      "sourceUrl": null,
+      "webUrl": "https://boards.greenhouse.io/neuralink/jobs/4723041003",
+      "originalUrl": "https://www.msn.com/en-us/finance/news/elon-musks-brain-chip-startup-neuralink-looking-to-hire-clinical-trial-director-in-california-as-it-nears-human-trials/ar-AAT5m0f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/497/300/original/Neuralink_logo.jpg?1632771349",
+          "width": 820,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T04:00:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "greenhouse.io/neuralink/jobs/4723041003",
+        "domain": "greenhouse.io/neuralink/jobs/4723041003",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-how-insight-partners-vets-ai-startups.md",
+      "title": "How Insight Partners Vets AI Startups",
+      "excerpt": "Lonne Jaffe, a managing director at Insight Partners, talked with WSJ Pro AI about the type of AI companies the New York City-based firm invests in, how it vets those companies and what it sees as the next AI opportunity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-insight-partners-vets-ai-startups-11643029203",
+      "originalUrl": "https://www.wsj.com/articles/how-insight-partners-vets-ai-startups-11643029203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-471948/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-we-are-indias-1st-telco-to-build-big-data-aiml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.md",
+      "title": "We are India's 1st telco to build Big Data AI/ML Cloud Advanced Analytics Platform on AWS: Vodafone Idea",
+      "excerpt": "Dr Chaube believes that there is a critical need for telecom service providers to transform from 'Telco to Techno' and technologies such as 5G, Artifi..",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-89093507,imgsize-71636,width-1200,height-628,overlay-ettelecom/we-are-india-s-1st-telco-to-build-big-data-ai-ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507",
+      "publishedDateTime": "2022-01-24T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-why-your-next-home-will-be-built-by-robots.md",
+      "title": "Why Your Next Home Will Be Built By Robots",
+      "excerpt": "A quiet revolution is occurring in the systems used to create modern housing. The new twist on an old method is called volumetric modular manufacturing (VMM).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ead0c48891970940d30501/0x0.jpg?format=jpg&crop=3524,2348,x829,y0,safe&fit=crop",
+          "width": 3524,
+          "height": 2348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/amp/",
+      "publishedDateTime": "2022-01-24T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-tcv-backs-canadian-ai-startup-that-accelerates-drug-research.md",
+      "title": "TCV Backs Canadian AI Startup That Accelerates Drug Research",
+      "excerpt": "TCV and Inovia Capital are leading a $50 million funding round for a Canadian biomedical software startup that has some of the world’s largest pharmaceutical companies as clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canadian-ai-startup-that-accelerates-drug-research",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canadian-ai-startup-that-accelerates-drug-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGEeAY9waLeU/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock.md",
+      "title": "This Tech Giant Appears To Be A Better Pick Over Electronic Arts Stock",
+      "excerpt": "We believe that Microsoft stock currently appears to be an attractive pick over its industry peer Electronic Arts stock, despite its comparatively higher valuation. MSFT stock trades at 13.4x trailing revenues,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/24/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/24/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60d1a7a844c5c5f04eed7e3a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/24/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/01/24/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock/amp/",
+      "publishedDateTime": "2022-01-24T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-the-race-to-ai-value-3-themes-from-new-aiml-and-deep-learning-research-report.md",
+      "title": "The Race to AI Value: 3 Themes From New AI/ML and Deep Learning Research Report",
+      "excerpt": "New study finds organisations not prioritising AI/ML and Deep Learning are losing competitiveness The artificial intelligence (AI) market is expected to reach $554.3 billion in revenue by 2024 as AI technologies gain adoption across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/race-ai-value-3-themes-from-new-aiml-deep-learning-sean-stacey-",
+      "originalUrl": "https://www.linkedin.com/pulse/race-ai-value-3-themes-from-new-aiml-deep-learning-sean-stacey-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGKQTi8QB2JtA/article-cover_image-shrink_600_2000/0/1643013654820?e=1648684800&v=beta&t=gS3hGValJL4REoros_azRgfd7IX3eZAiBK6-dQLNYZM",
+          "width": 1349,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T00:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good.md",
+      "title": "How AI, machine learning are being increasingly used to drive social good",
+      "excerpt": "While technologies like artificial intelligence (AI) and machine learning (ML) have become part of many aspects of our daily lives in recent times, they are increasingly being used for the social good as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/23/full/1642956258-155.jpg?im=Resize,width=1200",
+          "width": 1200,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "publishedDateTime": "2022-01-23T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities.md",
+      "title": "Australian Space Agency believes existing robotics can be used for terrestrial activities",
+      "excerpt": "Robotics used in mining, for instance, could provide sustainable solutions for space exploration, the agency said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "originalUrl": "https://www.zdnet.com/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/dc3b79f93d7c9d39148f428678cf93140ee41f9e/2022/01/23/fce9aace-98b8-42a2-8b9a-ec1c7daf4607/robotic-roadmap.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "publishedDateTime": "2022-01-23T16:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-global-artificial-intelligence-delivery-robot-market-2021-development-analysis-strategic-outlook-growth-rate-and-forecast-to-2027.md",
+      "title": "Global Artificial Intelligence Delivery Robot Market 2021 Development Analysis, Strategic Outlook, Growth Rate and Forecast to 2027",
+      "excerpt": "Global Artificial Intelligence Delivery Robot Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 divides the market industry on the basis of the regions by growth, product types,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-delivery-robot-market-2021-development-analysis-strategic-outlook-growth-rate-and-forecast-to-2027-2022-01-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-delivery-robot-market-2021-development-analysis-strategic-outlook-growth-rate-and-forecast-to-2027-2022-01-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-23T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-ethics-and-ownership-of-ai-powered-identities.md",
       "title": "Ethics and ownership of AI-powered identities",
       "excerpt": "People will soon be asked to decide how their voices, images, and AI-powered identities can be used both today and long after they're gone.",
@@ -355,856 +1220,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai.md",
-      "title": "AI Weekly: Watson Health and semi-autonomous driving failures show the dangers of overpromising AI",
-      "excerpt": "AI technologies can fall short of their promise, as news from this week about Watson Health and semi-autonomous driving systems showed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/",
-      "originalUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/ibm_watson_avatar_pos-e1560280426131.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/amp/",
-      "publishedDateTime": "2022-01-21T21:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-sells-its-watson-healthcare-assets-to-francisco-partners.md",
-      "title": "IBM sells its Watson healthcare assets to Francisco Partners",
-      "excerpt": "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Francisco Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "originalUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/import/2014/05/ibm.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 917,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "publishedDateTime": "2022-01-21T21:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-irs-to-require-facial-recognition-for-digital-services.md",
-      "title": "IRS to Require Facial Recognition for Digital Services",
-      "excerpt": "People who use the IRS digital portal will need to be prepared starting in the summer to submit a live video selfie and various documentation to make and view payments and access tax records.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services",
-      "originalUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/a2d6975/2147483647/strip/true/crop/940x490+0+132/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7a%2F7d%2F80c58fef8b932e1f1ad5c9c6f006%2Fshutterstock-camera-lens-up-close.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true",
-      "publishedDateTime": "2022-01-21T15:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-sells-watson-health-assets-to-investment-firm.md",
-      "title": "IBM Sells Watson Health Assets to Investment Firm",
-      "excerpt": "The tech giant said its deal with Francisco Partners wouldn’t weaken its commitments to other artificial-intelligence technology and healthcare clients that use its IT services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "originalUrl": "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 359,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-471681/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "publishedDateTime": "2022-01-21T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence.md",
-      "title": "STAT partners with Applied XL to launch a new clinical trials monitoring platform powered by artificial intelligence",
-      "excerpt": "Since 2015, our team at STAT has worked tirelessly to deliver trusted and authoritative journalism about health, medicine, and the life sciences to millions of readers around the world. We are thrilled to unveil a new product that has been",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20204007.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20204007.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-deepmind-co-founder-mustafa-suleyman-leaves-google.md",
-      "title": "DeepMind co-founder Mustafa Suleyman leaves Google",
-      "excerpt": "Mustafa Suleyman, a co-founder of artificial intelligence research company DeepMind, has left Google to join venture capital firm Greylock Partners. Suleyman has brought to an end an eight-year run at Google,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/deepmind-ai-mustafa-suleyman-google-greylock-partners-152049755.html",
-      "originalUrl": "https://www.engadget.com/deepmind-ai-mustafa-suleyman-google-greylock-partners-152049755.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/fcd690c0-7acc-11ec-afe2-9c62fe8a75df",
-          "width": 5760,
-          "height": 3840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model.md",
-      "title": "Microsoft will force update your PCs to Windows 10 21H2 to train its own ML Update model",
-      "excerpt": "Microsoft has begun the forced rollout of Windows 10 21H2 update to Windows 10 20H2 devices in order to help train its Machine Learning-assisted intelligent Windows Update rollout model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/06/1624557503_windows_10_21h2_pc_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "publishedDateTime": "2022-01-21T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-what-learning-can-learn-from-machine-learning.md",
-      "title": "What Learning Can Learn From Machine Learning",
-      "excerpt": "Taking a few bits and bytes from machine learning could go a long way to improving K-12 and postsecondary learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604060ec040608a6a8d30b0e%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/amp/",
-      "publishedDateTime": "2022-01-21T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport.md",
-      "title": "Robotic Assistance Devices to deploy 2 SCOT security robots at major U.S. regional airport",
-      "excerpt": "Artificial Intelligence Technology Solutions (OTCPK:AITX) announced that a major U.S. regional airport is poised to deploy 2 SCOT security devices from its wholly-owned subsidiary Robotic Assistance Devices.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "originalUrl": "https://seekingalpha.com/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "publishedDateTime": "2022-01-21T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-intuit-ceo-on-the-power-of-machine-learning-for-small-businesses.md",
-      "title": "Intuit CEO on the Power of Machine Learning for Small Businesses",
-      "excerpt": "CEO Sasan Goodarzi talks about the many applications and capabilities of machine learning. Sasan Goodarzi: We apply machine learning to everything that I know about you. How many accounts payables do you have?",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses",
-      "originalUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses?amp",
-      "publishedDateTime": "2022-01-21T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock.md",
-      "title": "DeepMind Co-Founder Suleyman Exits Google for VC Firm Greylock",
-      "excerpt": "The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWEqYz7MJwA8/v1/1200x863.jpg",
-          "width": 1200,
-          "height": 863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-six-steps-to-execute-responsible-ai-in-the-enterprise.md",
-      "title": "Six Steps To Execute Responsible AI In The Enterprise",
-      "excerpt": "While organizations today may see Responsible AI (RAI) as an important part of their AI journey, we will see some significant shifts as new legislation creates reputational and financial risks for businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/events/responsible-ai-from-principles-to-practice/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/six-steps-to-execute-responsible-ai-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.brookings.edu/wp-content/uploads/2022/01/global_south_africa_electrity_pylons.jpg",
-          "width": 3905,
-          "height": 2509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/events/responsible-ai-from-principles-to-practice/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/events/responsible-ai-from-principles-to-practice/amp/",
-      "publishedDateTime": "2022-01-21T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow.md",
-      "title": "Artificial Intelligence: A Key Technology That's Shaping Our Tomorrow",
-      "excerpt": "Ever since Alan Turing helped decode the Enigma messages used by the Germans during World War II, the concept of artificial intelligence started getting traction. It was only in 1956 that the term actually was officially coined by none other than John McCarthy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e97402eff768c29a8fba2d/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/21/artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow/amp/",
-      "publishedDateTime": "2022-01-21T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-become-fluent-in-machine-learning-with-this-6-course-bundle-on-sale.md",
-      "title": "Become fluent in machine learning with this 6-course bundle on sale",
-      "excerpt": "TL;DR: As of Jan. 21, The Ultimate Deep Learning & NLP Certification Bundle (worth $1,200) is on sale for just $29.99, which is over 97% off. If you want to advance your career or learn a new ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/deals/jan-21-deep-learning-nlp-certification-bundle",
-      "originalUrl": "https://mashable.com/deals/jan-21-deep-learning-nlp-certification-bundle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00pXXjD8Vp0RWGxC9bdP2KZ/hero-image.fill.size_1200x675.v1642640117.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/deals/jan-21-deep-learning-nlp-certification-bundle?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/deals/jan-21-deep-learning-nlp-certification-bundle?amp",
-      "publishedDateTime": "2022-01-21T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology.md",
-      "title": "Guest column: To protect Montanans’ privacy, we must address facial recognition technology",
-      "excerpt": "Our rights to not have our property or persons searched or seized without a warrant, to not be harassed by the government without good reason, and to conduct our own",
-      "sourceUrl": null,
-      "webUrl": "https://www.bozemandailychronicle.com/opinions/guest_columnists/guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology/article_184fffe3-e084-51b3-bec2-edc0812cd541.html",
-      "originalUrl": "https://www.bozemandailychronicle.com/opinions/guest_columnists/guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology/article_184fffe3-e084-51b3-bec2-edc0812cd541.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/d/0f/d0fd260c-c142-56d2-8d2c-cf29b40ec675/61e98aff38245.image.jpg?resize=1024%2C1280",
-          "width": 1024,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bozemandailychronicle.com/opinions/guest_columnists/guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology/article_184fffe3-e084-51b3-bec2-edc0812cd541.amp.html",
-      "cdnAmpWebUrl": "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/opinions/guest_columnists/guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology/article_184fffe3-e084-51b3-bec2-edc0812cd541.amp.html",
-      "publishedDateTime": "2022-01-20T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bozeman Daily Chronicle",
-        "domain": "bozemandailychronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-how-will-self-driving-cars-affect-cities-like-chicago.md",
-      "title": "How Will Self-Driving Cars Affect Cities Like Chicago?",
-      "excerpt": "Self-driving cars are spreading out across the country, and you may see one yourself on the Kennedy or Dan Ryan Expressway soon. CBS News’ Laura Podesta has a report, and DePaul University Professor Joe Schwieterman talks with CBS 2’s Jim Williams and Marie Saavedra about how self-driving cars will affect big cities like Chicago.",
-      "sourceUrl": null,
-      "webUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/",
-      "originalUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/A62/148/A62148484122E4CB516218C23E149CBE.jpg?Expires=1737763200&KeyName=mcpkey1&Signature=fLzgtdGVzWxw5PRkk1suUHf8_Ok",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/?amp",
-      "cdnAmpWebUrl": "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/?amp",
-      "publishedDateTime": "2022-01-20T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-new-ratings-aim-to-make-partial-self-driving-safer.md",
-      "title": "New Ratings Aim To Make Partial ‘Self Driving’ Safer",
-      "excerpt": "Many partially automated systems that “share” the driving with motorists, like Autopilot, Pilot Assist and Super Cruise, don't provide enough back-up protections, according to a new ratings system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/",
-      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e9e75f4b77c5fa20f81778/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/",
-      "publishedDateTime": "2022-01-20T13:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-anymals-quadrupedal-robot-takes-a-hike.md",
-      "title": "ANYmal’s quadrupedal robot takes a hike",
-      "excerpt": "It’s been pretty astonishing to see what robotics researchers have been able to accomplish with legged robots over the past few years. Oregon State University taking Cassie for a 5K back in July springs to mind.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/",
-      "originalUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/image.imageformat.fullwidth.1716413789.jpg?w=930",
-          "width": 930,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/amp/",
-      "publishedDateTime": "2022-01-20T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

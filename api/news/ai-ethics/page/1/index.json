@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-27-xxii-launches-an-ethical-charter-for-ai-software-publishing.md",
-      "title": "XXII launches an ethical charter for AI software publishing",
-      "excerpt": "Artificial Intelligence is booming and the technologies it has developed are in constant evolution. The ethical problems that can arise from their use are at the heart of the debate. XXII, a company specialized in Deep technologies,",
+      "path": "_news/2022-01-26-what-you-need-to-know-about-chinas-ai-ethics-rules.md",
+      "title": "What you need to know about China's AI ethics rules",
+      "excerpt": "China is trailblazing AI regulation, with the goal of being the AI leader by 2030. We look at its #AI ethics guidelines.",
       "sourceUrl": null,
-      "webUrl": "https://www.actuia.com/english/xxii-launches-an-ethical-charter-for-ai-software-publishing/",
-      "originalUrl": "https://www.actuia.com/english/xxii-launches-an-ethical-charter-for-ai-software-publishing/",
+      "webUrl": "https://techbeacon.com/enterprise-it/what-you-need-know-about-chinas-ai-ethics-rules",
+      "originalUrl": "https://techbeacon.com/enterprise-it/what-you-need-know-about-chinas-ai-ethics-rules",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.actuia.com/wp-content/uploads/2022/01/XXII-charte-ethique-edition-logiciels-IA.png",
-          "width": 3333,
-          "height": 1667,
+          "url": "https://techbeacon.com/sites/default/files/styles/social/public/field/image/xu-haiwei-ie7amef-9wk-unsplash.jpg?itok=WJPY8Upj",
+          "width": 1024,
+          "height": 581,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T03:19:00-08:00",
+      "ampWebUrl": "https://techbeacon.com/enterprise-it/what-you-need-know-about-chinas-ai-ethics-rules?amp",
+      "cdnAmpWebUrl": "https://techbeacon-com.cdn.ampproject.org/c/s/techbeacon.com/enterprise-it/what-you-need-know-about-chinas-ai-ethics-rules?amp",
+      "publishedDateTime": "2022-01-26T07:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Actu IA",
-        "domain": "actuia.com",
+        "name": "Techbeacon",
+        "domain": "techbeacon.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -440,6 +440,50 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-exploring-ai-ethics-and-accountability.md",
+      "title": "Exploring AI ethics and accountability",
+      "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
+      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=628,fit=crop,quality=80,format=auto,onerror=redirect/wp-content/uploads/2018/02/GettyImages-679721306.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
+      "publishedDateTime": "2022-01-16T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI",
         "AI Ethics"
       ]
@@ -1393,58 +1437,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-ethical-ai-a-perfect-world-or-a-perfect-storm-blog-1-of-2.md",
-      "title": "Ethical AI : A Perfect World Or A Perfect Storm Blog 1 Of 2.",
-      "excerpt": "This blog is one of two discussing Ethical AI offering perspectives of a Perfect World or a Perfect Storm or the AI Dilemma that leader must navigate forward to use AI practices effectively, and efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc42c9bc60197a26472c1fc%2F0x0.jpg",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/amp/",
-      "publishedDateTime": "2021-12-30T08:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

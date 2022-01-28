@@ -53,21 +53,21 @@ related:
         width: 271
         height: 500
         isCached: true
-  - title: "The global self-driving cars market size is projected to grow from 20.3 million units in 2021 to 62.4 million units by 2030, at a CAGR of 13.3%"
-    excerpt: "Reportlinker.com announces the release of the report \"Self-driving Cars Market by Component, Vehicle, Level of"
-    publishedDateTime: 2022-01-25T10:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25202817/the-global-self-driving-cars-market-size-is-projected-to-grow-from-20-3-million-units-in-2021-to-6"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25202817"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25202817"
+  - title: "Global Data Annotation Tools Market (Services) Size Value to Reach USD 3,046.7 Million by 2028, at 27.2% CAGR: Polaris Market Research"
+    excerpt: "According to the latest research study, the report predicts the global Data Annotation Tools Market size & share to reach around USD 3,046.7 Million by 2028 from USD"
+    publishedDateTime: 2022-01-27T22:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/ab25272947/global-data-annotation-tools-market-services-size-value-to-reach-usd-3-046-7-million-by-2028-at-2"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25272947"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25272947"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 8
+    quality: 12
     images:
-      - url: "https://www.benzinga.com/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.abnewswire.com/uploads/1643286664.jpeg"
+        width: 1280
+        height: 451
         isCached: true
 
 secured: "ElVxykUKZ/Q0Xr8wLbErC6ewDQ9rrYtU7v4d4m4tG5V8IvsKfc6bBLszSmJiOsmiQidDngdOhWfLIHUpJ3U4CXwksD22Kro5U8lHS7g6gOwCJx86GtwjYMtU/OM2H6x1rNY78mNCDZ+QwuMIl3It1/JZemudS3cwOjW7qgrMnqINaHrjWFx4F89nzTv16tDzKSUbDPmZendhAmvXsQS3PeXHta+qxwset9Skozw7xpLrBAIEIpqGiSDFIR2HYSO4YCR0DpmnnYRRtpTkfEAhRgsANBtqbftz2XCWkJfO3ZOKvQCCDrZwJxANwlT5liUitB3aTNRBqoERu4YSQyYnqkJLKA9GtwSBz1LFZZmxlMwdKu+o5uoh6cgJOQs9YH7E2bucB11F5NubteRSI5jqxcXF5COqJqHFJyvVmVToWyejmTSawJq2QdoLKBZd21aCyribDXsGn3/jE3n30DwEH9EfK6E9lJ0b3H8WuokJFz4qCG8QBLq/16c1DDkVh7Q8fGLwfIF/akJjyVhBW7D6VA==;ILvkf77OFy7FjmAUyaxBgQ=="

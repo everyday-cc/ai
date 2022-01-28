@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/amp/auto/features/article/lg-to-showcas
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://images.assettype.com/freepressjournal/import/2016/01/LG-Electronics.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 798
+        isCached: true
+  - title: "Company supplying self-driving vehicles to Toronto, Durham transit projects shuts down"
+    excerpt: "Local Motors, the U.S.-based company engaged in multiple pilot projects around the world — including in Toronto and Whitby — shut down Jan. 14"
+    publishedDateTime: 2022-01-28T21:43:00Z
+    webUrl: "https://www.thestar.com/news/gta/2022/01/28/company-supplying-self-driving-vehicles-to-toronto-durham-transit-projects-shuts-down.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/gta/2022/01/28/company-supplying-self-driving-vehicles-to-toronto-durham-transit-projects-shuts-down.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2022/01/28/company-supplying-self-driving-vehicles-to-toronto-durham-transit-projects-shuts-down.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 36
+    images:
+      - url: "https://images.thestar.com/rr_RAR1d10fs5MKrCV0H8RDo0Ok=/1200x624/smart/filters:cb(1643406231820)/https://www.thestar.com/content/dam/thestar/news/gta/2022/01/28/company-supplying-self-driving-vehicles-to-toronto-durham-transit-projects-shuts-down/autonomous_shuttle.jpg"
+        width: 1200
+        height: 624
         isCached: true
   - title: "LG to unveil life-size self-driving concept car"
     excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as “a home office,"

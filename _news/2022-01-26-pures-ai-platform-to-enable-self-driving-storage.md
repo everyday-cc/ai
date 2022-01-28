@@ -24,6 +24,22 @@ images:
     height: 405
     isCached: true
 
+related:
+  - title: "Aurigo Software Launches Engage Platform To Transform Public Feedback Using Artificial Intelligence"
+    excerpt: "Aurigo Software, North America’s leading capital planning and construction management solution provider, announced the launch of Aurigo Engage, an AI-based, secure, cloud-based application designed to collect and incorporate community feedback for public agencies during the capital planning process."
+    publishedDateTime: 2022-01-25T12:58:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-north-america-artificial-intelligence-7626ce60b98412e4c90c1356722964ab"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "OsLfSt+nYS8f+zFo6xqKhL62RdcNL9KwVbCWsjHj5Qh6lu/1pXlxGHd/aLFTUgn9iAb/dbo3VdN6Firh8jHjrvRGvI2GvJLWL4+gddF3YTeAFPC2D6LdwGQ0wZ64QmoR4val5SdlOKggB2DGOuazuv7MmAFYaF8t5ZO+Pr92EjqpJCU6CzaRTyGOXVnh7GqX4ymA14Kc+oYCtKxmg12BkNtAFGVFLObUxezZyfGpHoUZwkFgExwer+ik6DoCM42YTwcp0ZxIOTwsXVHyk3nZsdz/Wjic+nvr64/o63SKMtF8Eo9EFQhwokIhMV1E7yJlLHlVZnU9mFrf8cnPkN3ReEzozXePsYcWqDFG4msGCHc=;6hFLbMBZOF1eog14ul0/iA=="
 ---
 

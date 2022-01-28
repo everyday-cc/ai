@@ -44,21 +44,19 @@ related:
         width: 1200
         height: 898
         isCached: true
-  - title: "Dental Care Startup Smiles.ai Secures $23 Mn To Build Digital Dental Care Network"
-    excerpt: "Dental care startup Smiles.ai has raised $23 Mn (INR 171 Cr)  in a Series A funding round led by Alpha Wave Incubation."
-    publishedDateTime: 2022-01-24T06:40:00Z
-    webUrl: "https://inc42.com/buzz/dental-care-startup-smiles-ai-secures-23-mn-to-build-network/"
-    ampWebUrl: "https://inc42.com/buzz/dental-care-startup-smiles-ai-secures-23-mn-to-build-network/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/dental-care-startup-smiles-ai-secures-23-mn-to-build-network/amp/"
+  - title: "Conversational AI startup NLX raises $5M to scale its offering"
+    excerpt: "Conversation artificial intelligence startup NLX Inc. has raised $5 million in funding to assist it in scaling its offering, to increase its headcount and drive sales. Aquila Capital Partners led the seed round with Flying Fish Partners,"
+    publishedDateTime: 2022-01-28T01:45:00Z
+    webUrl: "https://siliconangle.com/2022/01/27/conversational-ai-startup-nlx-raises-5m-scale-offering/"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 52
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://inc42.com/wp-content/uploads/2022/01/dental-social-1.jpg"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/nlx.jpg"
         width: 1200
-        height: 628
+        height: 800
         isCached: true
   - title: "Services automation and remote management startup SuperOps.ai raises USD 14 Mn in Series A"
     excerpt: "SuperOps.ai offers multiple solutions for MSP needs like IT documentation, project management etc– within the platform and on cloud."

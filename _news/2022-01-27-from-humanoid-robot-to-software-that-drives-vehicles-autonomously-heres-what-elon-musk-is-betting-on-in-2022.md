@@ -43,6 +43,38 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Humanoid robot is Tesla's 'most important product' this year, Musk says"
+    excerpt: "Tesla CEO Elon Musk has his eyes set on more than just building electric cars. In the company's fourth-quarter earnings call on Wednesday, Musk said Tesla's \"most important product\" it would be developing this year did not have wheels,"
+    publishedDateTime: 2022-01-27T17:50:00Z
+    webUrl: "https://www.kvue.com/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae"
+    ampWebUrl: "https://www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 76
+    images:
+      - url: "https://media.kvue.com/assets/CCT/images/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Tesla News: Automaker Prioritizes New Humanoid Robot Over Vehicle Models In 2022"
+    excerpt: "Tesla is prioritizing the development of a humanoid robot over its vehicles in 2022 and it will be designed to perform dangerous, repetitive, or physical tasks only humans can complete."
+    publishedDateTime: 2022-01-27T16:23:00Z
+    webUrl: "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909"
+    ampWebUrl: "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://dc.newsweek.com/en/full/2043470/how-did-elon-musk-become-times-person-year.jpg"
+        width: 2500
+        height: 1720
+        isCached: true
   - title: "Tesla Cybertruck, Roadster, Semi delayed, focus shifts to self-driving and Optimus robot"
     excerpt: "Ford, General Motors and Rivian all have electric pickup trucks in production, but buyers looking forward to the Tesla Cybertruck will have to keep waiting. Tesla CEO Elon Musk during an earnings call late on Wednesday said the company won't launch any new vehicles in 2022 as it focuses on ramping up production of existing models and developing new technologies."
     publishedDateTime: 2022-01-27T12:00:00Z

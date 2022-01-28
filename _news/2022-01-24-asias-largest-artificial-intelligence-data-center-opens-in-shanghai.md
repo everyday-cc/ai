@@ -7,8 +7,8 @@ originalUrl: "https://news.cgtn.com/news/2022-01-24/Asia-s-largest-artificial-in
 webUrl: "https://news.cgtn.com/news/2022-01-24/Asia-s-largest-artificial-intelligence-data-center-opens-in-Shanghai-175Bn6pICju/index.html"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: CGTN
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "SenseTime opens massive AI data center, aligns with Beijing’s vision"
+    excerpt: "SenseTime says the AIDC in Shanghai’s Lin’gang free trade zone will significantly improve the capabilities of its SenseCore AI infrastructure."
+    publishedDateTime: 2022-01-27T19:43:00Z
+    webUrl: "https://www.biometricupdate.com/202201/sensetime-opens-massive-ai-data-center-aligns-with-beijings-vision"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/09151310/sensetime-new.jpg"
+        width: 2000
+        height: 1040
+        isCached: true
   - title: "SenseTime launches powerful AI computing center in Shanghai"
     excerpt: "Courtesy of SenseTime. The first mega artificial intelligence (AI) computing center in East China operated by Chinese emerging AI firm S"
     publishedDateTime: 2022-01-24T10:06:00Z

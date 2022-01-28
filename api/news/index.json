@@ -2,6 +2,863 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-29-ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities.md",
+      "title": "AI Weekly: AI supercomputers and facial recognition to verify taxpayers’ identities",
+      "excerpt": "Meta (formerly Facebook) announced an AI supercomputer. Also, more revelations about the IRS' use of facial recognition have come to light.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
+      "originalUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
+      "publishedDateTime": "2022-01-28T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-building-global-ai-with-local-impact-in-an-ai-economy.md",
+      "title": "Building global AI with local impact in an AI economy",
+      "excerpt": "Thanks to tech advances in the AI economy that enable remote work, orgs developing AI can now collaborate with people from almost anywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/",
+      "originalUrl": "https://venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1206094124.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/amp/",
+      "publishedDateTime": "2022-01-28T13:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd.md",
+      "title": "The Grain Of Truth In The Critique Of Musk, Tesla And Full Self Driving (FSD)",
+      "excerpt": "The internet erupted last week following the publication of a full-page ad in the New York Times asserting “Don’t be a Tesla Crash Test Dummy” and impugned “Elon Musk’s ill-advised Full Self-Driving robot car experiment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/",
+      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ee51e20bb0c3fb5b11b53a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/",
+      "publishedDateTime": "2022-01-28T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-why-massachusetts-is-ground-zero-for-the-fight-against-facial-recognition.md",
+      "title": "Why Massachusetts is ground-zero for the fight against facial recognition",
+      "excerpt": "Massachusetts has had a number of cities ban facial recognition in the absence of federal laws as conversations about the technology heat up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/",
+      "originalUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2022/01/massachusetts-cities-banning-facial-recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/massachusetts-banning-facial-recognition/?amp",
+      "publishedDateTime": "2022-01-28T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-achieve-ai-success-with-a-people-first-data-strategy.md",
+      "title": "Achieve AI Success With A People-First Data Strategy",
+      "excerpt": "As the pandemic has accelerated digital transformation, organizations are successfully deploying and scaling AI projects across more sophisticated, critical scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f4135315543e644d7440a4/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/amp/",
+      "publishedDateTime": "2022-01-28T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate.md",
+      "title": "Use a web browser plugin to quickly translate text with Amazon Translate",
+      "excerpt": "Web browsers can be a single pane of glass for organizations to interact with their information—all of the tools can be viewed and accessed on one screen so that users don’t have to switch between applications and interfaces. For example, a customer call center might have several different applications",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/24/ML-6697-image009.png",
+          "width": 323,
+          "height": 303,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-28T08:18:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making.md",
+      "title": "CausaLens gets $45M for no-code technology that introduces cause and effect into AI decision making",
+      "excerpt": "One of the most popular applications of artificial intelligence to date has been to use it to predict things, using algorithms trained with historical data to determine a future outcome. But popularity doesn’t always mean success: predictive AI leaves out a lot of the nuance,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/",
+      "originalUrl": "https://techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1079012838.jpg?w=1024",
+          "width": 1024,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/amp/",
+      "publishedDateTime": "2022-01-28T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-can-artificial-intelligence-boost-mental-healthcare-accessibility.md",
+      "title": "Can Artificial Intelligence Boost Mental Healthcare Accessibility?",
+      "excerpt": "Boston-based researchers are evaluating whether artificial intelligence could advance mental health care accessibility by helping providers identify patients who may be struggling.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/can-artificial-intelligence-boost-mental-healthcare-accessibility",
+      "originalUrl": "https://healthitanalytics.com/news/can-artificial-intelligence-boost-mental-healthcare-accessibility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/GettyImages-1040557296-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/can-artificial-intelligence-boost-mental-healthcare-accessibility",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/can-artificial-intelligence-boost-mental-healthcare-accessibility",
+      "publishedDateTime": "2022-01-28T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-lessons-in-ai-regulation-from-a-tech-founder.md",
+      "title": "Lessons In AI Regulation From A Tech Founder",
+      "excerpt": "Although AI is unlikely to replace human oversight completely, it's crucial for businesses and leaders who want to take advantage of the benefits of AI technology to get ahead of the regulations so they aren't left scrambling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/28/lessons-in-ai-regulation-from-a-tech-founder/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/28/lessons-in-ai-regulation-from-a-tech-founder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f16b09a8b3c7e677dd1fb1/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/28/lessons-in-ai-regulation-from-a-tech-founder/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/28/lessons-in-ai-regulation-from-a-tech-founder/amp/",
+      "publishedDateTime": "2022-01-28T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-why-deepmind-co-founder-mustafa-suleyman-has-quit-google-to-become-a-vc.md",
+      "title": "Why DeepMind co-founder Mustafa Suleyman has quit Google to become a VC",
+      "excerpt": "DeepMind co-founder Mustafa Suleyman surprised many of his followers last week when he announced he's leaving Google to become a venture capitalist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html",
+      "originalUrl": "https://www.cnbc.com/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107006595-1643204907671-gettyimages-961707246-FRANCE_TECHNOLOGY.jpeg?v=1643205832",
+          "width": 4000,
+          "height": 2878,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html",
+      "publishedDateTime": "2022-01-27T23:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-the-irs-should-stop-using-facial-recognition.md",
+      "title": "The IRS Should Stop Using Facial Recognition",
+      "excerpt": "With tax season upon us, the IRS is pushing individuals to submit to facial recognition in exchange for being able to complete a range of basic tax-related activities online. The IRS has retained a private firm—ID.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/ideas/archive/2022/01/irs-should-stop-using-facial-recognition/621386/",
+      "originalUrl": "https://www.theatlantic.com/ideas/archive/2022/01/irs-should-stop-using-facial-recognition/621386/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/uj61NrtPPNrapCcc9ebMcNN2_88=/570x321/media/img/mt/2022/01/IRS_Facial_Recognition_1/original.jpg",
+          "width": 570,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/621386/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/621386/",
+      "publishedDateTime": "2022-01-27T14:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-watch-an-ai-play-the-best-game-of-tetris-youve-ever-seen.md",
+      "title": "Watch an AI Play the Best Game of Tetris You've Ever Seen",
+      "excerpt": "The AI easily shatters previous world records by prioritizing clearing four-line tetrises. Then the game completely melts down.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/best-game-of-tetris-ever-ai-1848432104",
+      "originalUrl": "https://gizmodo.com/best-game-of-tetris-ever-ai-1848432104",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6d2b3eb4c6355e8f23cc0ccf6c1cec74.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/best-game-of-tetris-ever-ai-1848432104/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/best-game-of-tetris-ever-ai-1848432104/amp",
+      "publishedDateTime": "2022-01-27T11:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-how-clearly-accurately-predicts-fraudulent-orders-using-amazon-fraud-detector.md",
+      "title": "How Clearly accurately predicts fraudulent orders using Amazon Fraud Detector",
+      "excerpt": "This post was cowritten by Ziv Pollak, Machine Learning Team Lead, and Sarvi Loloei, Machine Learning Engineer at Clearly. The content and opinions in this post are those of the third-party authors and AWS is not responsible for the content or accuracy of this post. A pioneer in online shopping, Clearly",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-clearly-accurately-predicts-fraudulent-orders-using-amazon-fraud-detector/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-clearly-accurately-predicts-fraudulent-orders-using-amazon-fraud-detector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/26/ML-7595-image001-new.png",
+          "width": 671,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T09:46:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-artificial-intelligence-ai-in-cyber-security-market-to-see-massive-growth-by-2026-bae-systems-cisco-ibm.md",
+      "title": "Artificial Intelligence (AI) in Cyber Security Market to See Massive Growth by 2026 | BAE Systems, Cisco, IBM",
+      "excerpt": "Latest survey on Artificial Intelligence (AI) in Cyber Security Market is conducted to provide hidden gems performance analysis of Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-cyber-security-market-to-see-massive-growth-by-2026-bae-systems-cisco-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-cyber-security-market-to-see-massive-growth-by-2026-bae-systems-cisco-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-self-driving-teslas-will-cause-insane-traffic-elon-musk-says.md",
+      "title": "Self-driving Teslas will cause 'insane' traffic, Elon Musk says",
+      "excerpt": "Tesla CEO Elon Musk said the autonomous ride hailing service he envisions customers will put their autonomous Teslas to work in will cause \"insane\" traffic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk",
+      "originalUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/01/720/405/tesla-.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk.amp",
+      "publishedDateTime": "2022-01-27T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up.md",
+      "title": "Some Insistent Hyper-Milers Say That AI Self-Driving Cars Should Be Forced To Drive Like Grandpa, But That’s Messed Up",
+      "excerpt": "There are hypermilers that try to drive the maximum distance per the amount of fuel onboard their car, which raises interesting questions about the advent of AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ef5d1abfe337178cc99299/0x0.jpg?format=jpg&crop=2872,1616,x0,y148,safe&fit=crop",
+          "width": 2872,
+          "height": 1616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/amp/",
+      "publishedDateTime": "2022-01-27T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-sas-tops-aites-fraud-and-aml-machine-learning-platforms-matrix.md",
+      "title": "SAS tops Aite's fraud and AML machine learning platforms matrix",
+      "excerpt": "SAS has earned the foremost best-in-class title in Aite-Novarica Group's Aite Matrix: Leading Fraud & AML Machine Learning Platforms. The AI and analytics leader achieved top billing among 11 competing anti-fraud and financial crime technology vendors,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-tops-aite-s-fraud-and-aml-machine-learning-platforms-matrix-1031136115",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-tops-aite-s-fraud-and-aml-machine-learning-platforms-matrix-1031136115",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1735421/SAS_Top_Billing_on_Aite_Anti_Fraud_assessment.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T07:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-elon-musk-tesla-is-prioritizing-product-development-of-optimus-humanoid-robot-in-2022.md",
       "title": "Elon Musk: Tesla is prioritizing product development of Optimus humanoid robot in 2022",
       "excerpt": "Elon Musk announced that Tesla is going to be shifting its product development to make Tesla Bot, a humanoid robot also known as Optimus, a priority in 2022. This is quite a surprising change of strategy.",
@@ -10,7 +867,7 @@
       "originalUrl": "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -106,49 +963,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-27-xxii-launches-an-ethical-charter-for-ai-software-publishing.md",
-      "title": "XXII launches an ethical charter for AI software publishing",
-      "excerpt": "Artificial Intelligence is booming and the technologies it has developed are in constant evolution. The ethical problems that can arise from their use are at the heart of the debate. XXII, a company specialized in Deep technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.actuia.com/english/xxii-launches-an-ethical-charter-for-ai-software-publishing/",
-      "originalUrl": "https://www.actuia.com/english/xxii-launches-an-ethical-charter-for-ai-software-publishing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.actuia.com/wp-content/uploads/2022/01/XXII-charte-ethique-edition-logiciels-IA.png",
-          "width": 3333,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Actu IA",
-        "domain": "actuia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-27-ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.md",
       "title": "IBM sheds some Watson Health assets, refocuses on AI and cloud",
       "excerpt": "In selling the data-based part of its Watson Health business to an investment firm, IBM signals that it wants to concentrate on core AI technology.",
@@ -157,7 +971,7 @@
       "originalUrl": "https://www.cio.com/article/303974/ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -200,7 +1014,7 @@
       "originalUrl": "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -389,110 +1203,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-27-tesla-says-full-self-driving-software-remains-a-priority-as-profits-boom.md",
-      "title": "Tesla Says 'Full Self-Driving' Software Remains a Priority as Profits Boom",
-      "excerpt": "The company reported over $5.5 billion in profits over the last year as its software is being investigated by federal regulators for alleged safety violations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418",
-      "originalUrl": "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1975846/tesla-electric-vehicles-elon-musk-record-profits.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1",
-      "publishedDateTime": "2022-01-26T17:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-the-irs-needs-to-stop-using-idmes-face-recognition-privacy-experts-warn.md",
-      "title": "The IRS Needs to Stop Using ID.me's Face Recognition, Privacy Experts Warn",
-      "excerpt": "New statements from the company's CEO show it may use a more expansive facial recognition system than previously known.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342",
-      "originalUrl": "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4eedb672b1755b7c1f50bba95d8da978.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-id-me-irs-face-recognition-works-1848429342/amp",
-      "publishedDateTime": "2022-01-26T16:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-27-artificial-intelligence-needs-people-intelligence.md",
       "title": "Artificial Intelligence Needs People Intelligence",
       "excerpt": "Enterprises yearn for the competitive advantage that ML and AI can offer their business, but often prioritize technology strategically over people to unlock the value of their data. The hype about AI and ML,",
@@ -533,707 +1243,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-idme-says-it-uses-more-powerful-facial-recognition-than-previously-claimed.md",
-      "title": "ID.me says it uses more powerful facial recognition than previously claimed",
-      "excerpt": "\"ID.me uses a specific '1 to Many' check on selfies tied to government programs targeted by organized crime to prevent prolific identity thieves and members of organized crime fro",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/idme-ceo-facial-recognition-one-to-many-backtrack-205046356.html",
-      "originalUrl": "https://www.engadget.com/idme-ceo-facial-recognition-one-to-many-backtrack-205046356.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-06/ea51a200-d11c-11eb-bffb-1da0370bb14a",
-          "width": 7952,
-          "height": 5304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-26T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-digitalowl-raises-20m-to-analyze-medical-records-for-insurers.md",
-      "title": "DigitalOwl raises $20M to analyze medical records for insurers",
-      "excerpt": "DigitalOwl, a startup developing an AI-powered system to analyze medical records for insurers, has raised $20 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/",
-      "originalUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/health-analytics.jpg?w=1200&strip=all",
-          "width": 1070,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/amp/",
-      "publishedDateTime": "2022-01-26T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding.md",
-      "title": "SiteAware, which leverages AI and drones to track construction site progress, nabs additional funding",
-      "excerpt": "SiteAware, which is developing a platform that leverages drones and AI to keep tabs on construction sites, has raised $30 in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/",
-      "originalUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/04/dump-truck-trash-garbage-construction.jpg?w=1200&strip=all",
-          "width": 1181,
-          "height": 791,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/amp/",
-      "publishedDateTime": "2022-01-26T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-minios-earns-unicorn-status-for-multicloud-object-storage-apps.md",
-      "title": "MinIO’s earns unicorn status for multicloud object storage apps",
-      "excerpt": "MinIO earned unicorn status based on its multicloud, AWS S3-compatible object storage suite of apps that the companies says reliesversatility and AI separate it from competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/",
-      "originalUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/unicorn.jpg?w=1200&strip=all",
-          "width": 1100,
-          "height": 734,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/amp/",
-      "publishedDateTime": "2022-01-26T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-how-logzio-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker.md",
-      "title": "How Logz.io accelerates ML recommendations and anomaly detection solutions with Amazon SageMaker",
-      "excerpt": "Logz.io is an AWS Partner Network (APN) Advanced Technology Partner with AWS Competencies in DevOps, Security, and Data &amp; Analytics. Logz.io offers a software as a service (SaaS) observability platform based on best-in-class open-source software solutions for log, metric, and tracing analytics. Customers",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-logz-io-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-logz-io-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/20/ML-6266-image001-1119x630.png",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-26T10:18:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-pimloc-grabs-75m-to-pitch-more-businesses-on-ai-for-privacy-video-tools.md",
-      "title": "Pimloc grabs $7.5M to pitch more businesses on AI-for-privacy video tools",
-      "excerpt": "Pimloc, a UK computer vision startup that’s sharpened its business pitch to sell an AI service for quickly anonymizing video — automating the blurring of faces or licence plates, along with a suite of other visual search services — has grabbed another chunk of seed funding:",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/26/pimoc-seed-expansion/",
-      "originalUrl": "https://techcrunch.com/2022/01/26/pimoc-seed-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Screenshot-2022-01-26-at-18.25.45.png?w=1024",
-          "width": 1023,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/26/pimoc-seed-expansion/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/26/pimoc-seed-expansion/amp/",
-      "publishedDateTime": "2022-01-26T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics.md",
-      "title": "U.S. Steel to invest in Carnegie Foundry to accelerate advanced robotics",
-      "excerpt": "U.S. Steel <> has entered into a strategic investment and partnership with robotics and artificial intelligence studio Carnegie Foundry, the Pittsburgh",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
-      "originalUrl": "https://seekingalpha.com/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1186090916/image_1186090916.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
-      "publishedDateTime": "2022-01-26T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-anchai-nabs-21m-to-accelerate-ethical-ai-governance.md",
-      "title": "Anch.ai nabs $2.1M to accelerate ethical AI governance",
-      "excerpt": "Sweden-based Anch.ai today announced it has raised $2.1 million seed funding to further develop its ethical AI governance platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/26/anch-ai-nabs-2-1m-to-accelerate-ethical-ai-governance/",
-      "originalUrl": "https://venturebeat.com/2022/01/26/anch-ai-nabs-2-1m-to-accelerate-ethical-ai-governance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/26/anch-ai-nabs-2-1m-to-accelerate-ethical-ai-governance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/anch-ai-nabs-2-1m-to-accelerate-ethical-ai-governance/amp/",
-      "publishedDateTime": "2022-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-nvidia-geforce-rtx-3050-review-a-truly-modern-gpu-for-the-masses-hopefully.md",
-      "title": "Nvidia GeForce RTX 3050 review: A truly modern GPU for the masses (hopefully)",
-      "excerpt": "Nvidia's GeForce RTX 3050 delivers great 1080p gaming performance and modern features, if it stays in stock at a sane price.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/608294/nvidia-geforce-rtx-3050-review.html",
-      "originalUrl": "https://www.pcworld.com/article/608294/nvidia-geforce-rtx-3050-review.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2022/01/DSC01896.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/608294/nvidia-geforce-rtx-3050-review.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/608294/nvidia-geforce-rtx-3050-review.html/amp",
-      "publishedDateTime": "2022-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-farm-to-table-ai-will-change-how-people-work-and-innovate-in-2022.md",
-      "title": "'Farm-To-Table' AI Will Change How People Work And Innovate In 2022",
-      "excerpt": "In looking to assert more control over the crown jewels of intellectual property, more companies are joining what I call the “farm-to-table\" AI movement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/farm-to-table-aiwill-changehow-people-workand-innovatein-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/farm-to-table-aiwill-changehow-people-workand-innovatein-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61eff9e3691abc89c9c99297/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/farm-to-table-aiwill-changehow-people-workand-innovatein-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/26/farm-to-table-aiwill-changehow-people-workand-innovatein-2022/amp/",
-      "publishedDateTime": "2022-01-26T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-slimai-lands-31m-to-make-container-security-easy-for-developers.md",
-      "title": "Slim.AI lands $31M to make container security ‘easy’ for developers",
-      "excerpt": "Slim.AI offers developers a platform for container security and optimization, built on the DockerSlim open source project.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/26/slim-ai-lands-31m-to-make-container-security-easy-for-developers/",
-      "originalUrl": "https://venturebeat.com/2022/01/26/slim-ai-lands-31m-to-make-container-security-easy-for-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/slim-ai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/26/slim-ai-lands-31m-to-make-container-security-easy-for-developers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/slim-ai-lands-31m-to-make-container-security-easy-for-developers/amp/",
-      "publishedDateTime": "2022-01-26T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-self-driving-car-users-shouldnt-be-accountable-for-accidents-report-suggests.md",
-      "title": "Self-driving car users shouldn't be accountable for accidents, report suggests",
-      "excerpt": "Drivers should be reclassified when operating a fully autonomous vehicle and not be held legally accountable for any road accidents, a new report has proposed. Rather, the company behind the driving system should be responsible,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1643193885/Driverless-car-GettyImages-1212935826.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents?amp",
-      "publishedDateTime": "2022-01-26T02:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-baidus-ev-project-jidu-secures-400-million-in-series-a.md",
-      "title": "Baidu’s EV project Jidu secures $400 million in Series A",
-      "excerpt": "Baidu’s electric vehicle (EV) project Jidu Auto announced on Wednesday that it has raised nearly $400 million in Series A as the Chinese search engine giant accelerates the development of EVs with self-driving capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
-      "originalUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2019/10/BAIDU1.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
-      "publishedDateTime": "2022-01-25T23:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-mobile-artificial-intelligence-ai-market-sales-is-expected-to-reach-8480-billion-by-2030.md",
-      "title": "Mobile Artificial Intelligence (AI) Market Sales is Expected to Reach $84.80 Billion by 2030",
-      "excerpt": "According to the latest report of Allied Market Research, titled “Mobile Artificial Intelligence (AI) Market by Technology Node (20–28nm, 10nm, 7nm, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/mobile-artificial-intelligence-ai-market-sales-is-expected-to-reach-84-80-billion-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/mobile-artificial-intelligence-ai-market-sales-is-expected-to-reach-84-80-billion-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/77382e6ba11d374925336267f0919e66e3a9618e-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "AI in Robotics"
       ]
     }
   ],

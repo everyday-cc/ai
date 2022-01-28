@@ -40,6 +40,20 @@ related:
         width: 400
         height: 379
         isCached: true
+  - title: "Kanverse.ai Gained Momentum in 2021 on the Strength of AI-Powered Intelligent Document Processing Products for Finance and Insurance"
+    excerpt: "Kanverse, a pioneering Hyper automation company that emerged from stealth in May 2021 with cutting edge solutions to intelligent automate document processing workflows for enterprises of all sizes, reached significant milestones in annual revenue growth,"
+    publishedDateTime: 2022-01-25T07:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-c4a27b7b3fa0433199ae8c410a286976"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "7utoIs+cypLCtGzN5+7NqJoLwnkMP+gCF7NXN4PzjCOA2w39cRQ+WyCnRg/yZwhSiWP6mYVgXuwMUDcaM97zeXUJBgNUp1M8bwWtdlebM3ieJR0GmtkGiL6qDqTbmNd/57OpvAGnfG7D8LZbRPJ9OwAmS2dMNZeHuwKVyV9d1gUWdLhxbH+y3g/vaItV2kH6ife3Tr75Z5yg+r78bw3mjXlz1T0Z87habfNgx8mI7Lpsysm4O6VSbao8vnXY8sihEjg4wylQtd7PLuqwdL4ZHhnV7Q16TzsB5pK5y3L8OWYte5j9vw7X5rDF3xJz7mvX4MECUMw/ZZxgMIk1eXD1zUJoRNMSFAopcOrdRNXllgY=;ZK8cY6PE1VyUqyiQdZEH0w=="
 ---

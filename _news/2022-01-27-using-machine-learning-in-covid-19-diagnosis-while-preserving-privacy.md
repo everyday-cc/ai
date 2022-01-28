@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Determining evolution of COVID-19 mortality rates using machine-learning"
-    excerpt: "Researchers predict the evolution of COVID-19 mortality rates across countries using a biological science-guided machine learning-based approach."
-    publishedDateTime: 2022-01-24T02:27:00Z
-    webUrl: "https://www.news-medical.net/news/20220123/Determining-evolution-of-COVID-19-mortality-rates-using-machine-learning.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 3
-
 secured: "aE9ZrYfsZl3HSLUqicsU52QaJlYxl7JUuvzI+valVV8oyrfBGJrXVGS7iXp53NsPRtRz9muX5JpVkkG6bfGaJCG7UnzVSOTQ8GfsGgnQAJv+c+R81aWLHTbZLOhbtnLc5qosljuyg91rwbR/yjeuRE8539m/yltMqD82dC6E3JFwtx+4aIV6caNUY0wA8rwqQDf5+ouGQbgBZWsOU/p13KaWpZWobLE91dD0b7ZxSbcy+aa1VfkzQUdQMkjsOJ9iVolCkNHh3jUDzPhkubePvAjsE0QtIbQwiU24w03ZYXOyBcAJU+dN9G34a5z+boKhNCm6IhylUR7lk+6ddvSC5QMZFn1fndyXyfCv5fW11hq/jh3jO77jmEbe5u5Hj8CqMyiceQ+ET8/tAc1Dz4Bf1pNNo3m8iRDxVs2h9Wr+0Mv5Trv3a4K62gWLfXF0OIlS7MtKP6FcIGlZ2Ew5Q8T/sXJK9bqLbrJ5GF+P/XK63+XIRHZEQCEdzeveidQlcR6rnQ7/wNEmIzpFSKNd5UW+RA==;L4bE+AdvWGCUkn5EKp5ytg=="
 ---
 

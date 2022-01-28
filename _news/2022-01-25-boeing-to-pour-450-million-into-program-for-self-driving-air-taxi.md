@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2022/01/Wisk_Aero_Media_Kit_Aircraft_1_SD.jpeg?quality=80&#038;strip"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "That Viral Video Of A Tycoon Driving At Speeds Over 250 Miles Per Hour On Public Roadways Is Quite Hair Raising, Even For AI Self-Driving Cars"
-    excerpt: "Tycoon driving a pricey sports car, a Bugatti Chiron, opted to drive over 250 miles per hour on a public roadway, raising interesting facets about AI self-driving cars and coping with nearby speedy human-driven cars."
-    publishedDateTime: 2022-01-23T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/23/that-viral-video-of-a-tycoon-driving-at-speeds-over-250-miles-per-hour-on-public-roadways-is-quite-hair-raising-even-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/23/that-viral-video-of-a-tycoon-driving-at-speeds-over-250-miles-per-hour-on-public-roadways-is-quite-hair-raising-even-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/23/that-viral-video-of-a-tycoon-driving-at-speeds-over-250-miles-per-hour-on-public-roadways-is-quite-hair-raising-even-for-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 53
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61ecde12a5ab6bf72ef6699b/0x0.jpg?format=jpg&crop=3199,1798,x25,y415,safe&fit=crop"
-        width: 3199
-        height: 1798
         isCached: true
   - title: "Boeing injects $450 million into an electric air taxi startup Wisk Aero"
     excerpt: "Boeing has pumped $450 million into electric air taxi startup Wisk Aero to rank among the well-funded air mobility firms globally."

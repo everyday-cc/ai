@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-29-the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd.md",
+      "title": "The Grain Of Truth In The Critique Of Musk, Tesla And Full Self Driving (FSD)",
+      "excerpt": "The internet erupted last week following the publication of a full-page ad in the New York Times asserting “Don’t be a Tesla Crash Test Dummy” and impugned “Elon Musk’s ill-advised Full Self-Driving robot car experiment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/",
+      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ee51e20bb0c3fb5b11b53a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/",
+      "publishedDateTime": "2022-01-28T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-self-driving-teslas-will-cause-insane-traffic-elon-musk-says.md",
+      "title": "Self-driving Teslas will cause 'insane' traffic, Elon Musk says",
+      "excerpt": "Tesla CEO Elon Musk said the autonomous ride hailing service he envisions customers will put their autonomous Teslas to work in will cause \"insane\" traffic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk",
+      "originalUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/01/720/405/tesla-.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk.amp",
+      "publishedDateTime": "2022-01-27T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up.md",
+      "title": "Some Insistent Hyper-Milers Say That AI Self-Driving Cars Should Be Forced To Drive Like Grandpa, But That’s Messed Up",
+      "excerpt": "There are hypermilers that try to drive the maximum distance per the amount of fuel onboard their car, which raises interesting questions about the advent of AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ef5d1abfe337178cc99299/0x0.jpg?format=jpg&crop=2872,1616,x0,y148,safe&fit=crop",
+          "width": 2872,
+          "height": 1616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/amp/",
+      "publishedDateTime": "2022-01-27T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-elon-musk-tesla-is-prioritizing-product-development-of-optimus-humanoid-robot-in-2022.md",
       "title": "Elon Musk: Tesla is prioritizing product development of Optimus humanoid robot in 2022",
       "excerpt": "Elon Musk announced that Tesla is going to be shifting its product development to make Tesla Bot, a humanoid robot also known as Optimus, a priority in 2022. This is quite a surprising change of strategy.",
@@ -10,7 +166,7 @@
       "originalUrl": "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -52,58 +208,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-tesla-says-full-self-driving-software-remains-a-priority-as-profits-boom.md",
-      "title": "Tesla Says 'Full Self-Driving' Software Remains a Priority as Profits Boom",
-      "excerpt": "The company reported over $5.5 billion in profits over the last year as its software is being investigated by federal regulators for alleged safety violations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418",
-      "originalUrl": "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1975846/tesla-electric-vehicles-elon-musk-record-profits.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1",
-      "publishedDateTime": "2022-01-26T17:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -210,7 +314,7 @@
       "originalUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -231,6 +335,49 @@
       "provider": {
         "name": "TechNode",
         "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla.md",
+      "title": "Volkswagen, Bosch team up on self-driving software to test Tesla",
+      "excerpt": "The platform, announced by VW’s Cariad software unit and Bosch on Tuesday, will serve all Volkswagen Group passenger vehicles before being opened to the wider industry. As a first step, the partners plan to roll out technology from next year that will allow drivers to temporarily take their hands off the steering wheel via an over-the-air update.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla-11643127103318.html",
+      "originalUrl": "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla-11643127103318.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/01/25/600x338/VOLKSWAGEN_1639226711911_1643127262293.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla/amp-11643127103318.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla/amp-11643127103318.html",
+      "publishedDateTime": "2022-01-25T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -277,58 +424,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving.md",
-      "title": "Intel’s MobilEye Levels Up To Take On Tesla And Others In Self-Driving",
-      "excerpt": "MobilEye has released powerful new chips and has a well-crafted strategy to create a robotaxi. I interview CEO Amnon Shashua, analyse their strategy and contrast it with Tesla and others.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61ef5caa7698b8a65d3daadf/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving/amp/",
-      "publishedDateTime": "2022-01-25T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -464,7 +559,7 @@
       "originalUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -507,7 +602,7 @@
       "originalUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -718,6 +813,49 @@
       "provider": {
         "name": "forklift",
         "domain": "forkliftaction.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-how-to-invest-in-artificial-intelligence-3-companies-to-watch.md",
+      "title": "How to Invest in Artificial Intelligence -- 3 Companies to Watch",
+      "excerpt": "Artificial Intelligence has long been a staple of ... From the sudden reality of driverless cars to Siri's clever retorts on the iPhone, AI is a bigger part of our lives than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "originalUrl": "https://www.thestreet.com/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjM5Njk3NDkxNDA0NDIz/how-to-invest-in-artificial-intelligence----3-companies-to-watch.jpg",
+          "width": 619,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/opinion/how-to-invest-in-artificial-intelligence-3-companies-to-watch-13359989",
+      "publishedDateTime": "2022-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1088,6 +1226,50 @@
       ]
     },
     {
+      "path": "_news/2022-01-17-exploring-ai-ethics-and-accountability.md",
+      "title": "Exploring AI ethics and accountability",
+      "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
+      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=628,fit=crop,quality=80,format=auto,onerror=redirect/wp-content/uploads/2018/02/GettyImages-679721306.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
+      "publishedDateTime": "2022-01-16T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-01-15-chasing-reliability-in-automotive-electronics.md",
       "title": "Chasing Reliability In Automotive Electronics",
       "excerpt": "They’re looking at artificial intelligence. The ecosystem as we knew it five years ... Additionally, new entrants like Uber, Waymo and Apple are designing their own complete systems, despite their relative lack of experience in the automotive industry.",
@@ -1266,216 +1448,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars.md",
-      "title": "Here’s What That Engaging And Wildly Popular Game Wordle Can Teach You About AI Self-Driving Cars",
-      "excerpt": "An online game known as Wordle has suddenly become a social media darling and everyone is playing, which it turns out there are aspects that can shed light on AI self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/14/heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/14/heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e0d249077df3ab2d34b4ed%2F0x0.jpg%3FcropX1%3D433%26cropX2%3D3840%26cropY1%3D235%26cropY2%3D2507",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/14/heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/14/heres-what-that-engaging-and-wildly-popular-game-wordle-can-teach-you-about-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2022-01-14T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-jb-hunt-will-be-waymos-first-self-driving-freight-customer.md",
-      "title": "J.B. Hunt will be Waymo’s first self-driving freight customer",
-      "excerpt": "Waymo Via, the autonomous vehicle company’s trucking and cargo transportation unit, is expanding its existing partnership with logistics company J.B. Hunt Transport Services from a pilot into a long-term strategic alliance.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/",
-      "originalUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Waymo-Via_JBH.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/",
-      "publishedDateTime": "2022-01-14T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-chinas-robotaxis-charged-ahead-in-2021.md",
-      "title": "China’s robotaxis charged ahead in 2021",
-      "excerpt": "Autonomous driving startups in China are in an arms race to put passengers in their machine-driven vehicles. Every few weeks, news arrives that another major player has got the greenlight to launch a new pilot program or a small-scale service.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
-      "originalUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-696723580.jpg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
-      "publishedDateTime": "2022-01-14T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-ai-driven-asset-management-startup-catapulted-to-fame-by-tesla-trades-raises-146m-from-softbank.md",
-      "title": "AI-Driven Asset Management Startup, Catapulted To Fame By Tesla Trades, Raises $146M From SoftBank",
-      "excerpt": "Artificial intelligence-focused fintech group Qraft Technologies Inc. said it has received a $146 million investment from Japanese conglomerate SoftBank Group Corp. (OTC: SFTBY).",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/etf/ai-driven-asset-management-startup-catapulted-to-fame-by-tesla-trades-raises-146m-from-softbank-1031102394",
-      "originalUrl": "https://markets.businessinsider.com/news/etf/ai-driven-asset-management-startup-catapulted-to-fame-by-tesla-trades-raises-146m-from-softbank-1031102394",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/jp-valery-lvfoii3sjq8-unsplash_2.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T00:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

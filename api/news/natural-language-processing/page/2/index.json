@@ -2,6 +2,207 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-12-daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants.md",
+      "title": "Daring more raw AI-ness, a critique of personified voice assistants",
+      "excerpt": "Personality and gender in voice assistants is not something that emerges due to the nature of “AI systems”. Rather, it is",
+      "sourceUrl": null,
+      "webUrl": "https://uxdesign.cc/daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants-a700ec8cc7fe",
+      "originalUrl": "https://uxdesign.cc/daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants-a700ec8cc7fe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*aL6JXr0isbYlFpddX1l0ZA.png",
+          "width": 1200,
+          "height": 515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "uxdesign.cc",
+        "domain": "uxdesign.cc",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-open-the-pod-bay-doors-please-hal-metas-ai-simulates-lip-reading.md",
+      "title": "Open the pod bay doors, please, HAL: Meta's AI simulates lip-reading",
+      "excerpt": "The software uses the popular approach of \"attention\" to make videos of speakers' lips and audio waveforms reinforce one another in ways much more efficient and accurate than prior approaches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "originalUrl": "https://www.zdnet.com/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/82312686fb708271d62d05573eb5b4c7c7bcfa50/2022/01/11/95887186-2304-4c82-b423-e501095fe40d/png-image-13.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "publishedDateTime": "2022-01-11T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-language-io-aims-to-strengthen-its-ai-powered-customer-service-localization-service.md",
+      "title": "Language I/O aims to strengthen its AI-powered customer service localization service",
+      "excerpt": "Langauge I/O, a startup developing technology to localize customer service experiences with AI, has raised $6.5 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/",
+      "originalUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-6089103_1280-e1631120702283.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/amp/",
+      "publishedDateTime": "2022-01-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-inside-bigscience-the-quest-to-build-a-powerful-open-language-model.md",
+      "title": "Inside BigScience, the quest to build a powerful open language model",
+      "excerpt": "Hugging Face's BigScience project is making progress toward developing an open, massive -- and highly capable -- natural language model.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/10/inside-bigscience-the-quest-to-build-a-powerful-open-language-model/",
+      "originalUrl": "https://venturebeat.com/2022/01/10/inside-bigscience-the-quest-to-build-a-powerful-open-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/10/inside-bigscience-the-quest-to-build-a-powerful-open-language-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/10/inside-bigscience-the-quest-to-build-a-powerful-open-language-model/amp/",
+      "publishedDateTime": "2022-01-10T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-can-voice-ai-apps-become-the-reliable-virtual-assistants-of-the-future.md",
       "title": "Can Voice AI Apps become the reliable virtual assistants of the future?",
       "excerpt": "But when it comes to voice recognition technology like Apple’s Siri, consumer expectations face major disappointment. Try to hold a conversation with Siri and you’re bound to be met with the iPhone assistant’s confusion,",
@@ -1198,198 +1399,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-bavards-conversational-ai-technology-now-powered-by-aws-for-better-partner-integrations-and-scalability.md",
-      "title": "Bavard's Conversational AI Technology Now Powered by AWS for Better Partner Integrations and Scalability",
-      "excerpt": "Bavard, a leading conversational AI provider offering businesses a better way to support and engage customers 24/7, is excited to announce many enhancements to its platform, including now being powered by Amazon Web Services (AWS),",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12670",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12670",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12670_16407596930316574.jpg",
-          "width": 350,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12670",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12670",
-      "publishedDateTime": "2021-12-28T22:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
-      "title": "In Africa, rescuing the languages that Western tech ignores",
-      "excerpt": "Computers have become precise at translating spoken words to text messages, as long as you speak English or another dominant language.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores",
-      "originalUrl": "https://www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/ea37890/2147483647/strip/true/crop/5981x4000+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3c%2F45%2F9efb497bfe7a1ac25fe96c5b7ff5%2Faf25f1d9f7e44e5fb01b3552a4577d8c",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores?_amp=true",
-      "publishedDateTime": "2021-12-28T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv.md",
-      "title": "LG works together with DSP Concepts to deliver superior quality voice command recognition for innovative new premium TV",
-      "excerpt": "LG chose DSP Concepts as their audio solutions provider. DSP Concepts used the Audio Weaver design platform to craft a custom solution for LG based on the renowned TalkTo audio front end. Because Audio Weaver makes it easy to design,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-1031068084",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-1031068084",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1716992/65ART90.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-28T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-the-three-core-pillars-of-responsible-ai.md",
-      "title": "The Three Core Pillars Of Responsible AI",
-      "excerpt": "A good way to raise executive-level awareness around the benefits of responsible AI is to establish a set of best practices your company can follow that map back to these three core pillars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d485278f05f9d68aa8b3e1%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/amp/",
-      "publishedDateTime": "2021-12-28T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing"
       ]
     }
   ],

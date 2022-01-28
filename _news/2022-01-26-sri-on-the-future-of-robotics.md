@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/sri-on-the-future-of-robotics/"
 webUrl: "https://www.therobotreport.com/sri-on-the-future-of-robotics/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

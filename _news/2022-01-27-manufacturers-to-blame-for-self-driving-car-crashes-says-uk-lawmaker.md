@@ -27,51 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Lobbying Group Abandons the Term “Self-Driving”"
-    excerpt: "A Washington, DC-based lobbying group representing a number of auto industry heavyweights, is abandoning the term \"self-driving,\""
-    publishedDateTime: 2022-01-26T17:48:00Z
-    webUrl: "https://futurism.com/automotive-group-abandons-self-driving"
-    ampWebUrl: "https://futurism.com/automotive-group-abandons-self-driving/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/automotive-group-abandons-self-driving/amp"
+  - title: "Some Insistent Hyper-Milers Say That AI Self-Driving Cars Should Be Forced To Drive Like Grandpa, But That’s Messed Up"
+    excerpt: "There are hypermilers that try to drive the maximum distance per the amount of fuel onboard their car, which raises interesting questions about the advent of AI-based self-driving cars."
+    publishedDateTime: 2022-01-27T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/amp/"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
+      name: Forbes
+      domain: forbes.com
+    quality: 65
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61ef5d1abfe337178cc99299/0x0.jpg?format=jpg&crop=2872,1616,x0,y148,safe&fit=crop"
+        width: 2872
+        height: 1616
+        isCached: true
+  - title: "When will self-driving cars come to the UK?"
+    excerpt: "SELF-DRIVING cars are set to be the future of domestic transport, as the UK plans to replace combustion engines with electric-powered motors. Manufacturers such as Tesla are leading the charge for"
+    publishedDateTime: 2022-01-27T06:00:00Z
+    webUrl: "https://www.thesun.co.uk/motors/3096829/url-self-driving-cars-when/"
+    ampWebUrl: "https://www.thesun.co.uk/motors/3096829/url-self-driving-cars-when/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/3096829/url-self-driving-cars-when/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
     quality: 44
     images:
-      - url: "https://wp-assets.futurism.com/2022/01/automotive-group-abandons-self-driving-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Self-driving trucks set to rule Texas highways and combat driver shortages"
-    excerpt: "Self-driving trucks are increasingly looking like the solution to addressing both driver shortfalls and supply chain breakdowns in the Lone Star State."
-    publishedDateTime: 2022-01-24T06:20:00Z
-    webUrl: "https://techhq.com/2022/01/self-driving-trucks-set-to-rule-texas-highways-and-combat-driver-shortages/"
-    ampWebUrl: "https://techhq.com/amp/2022/01/self-driving-trucks-set-to-rule-texas-highways-and-combat-driver-shortages/"
-    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/01/self-driving-trucks-set-to-rule-texas-highways-and-combat-driver-shortages/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 42
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2022/01/000_9W86GT-1-375x210.jpg"
-        width: 375
-        height: 210
-        isCached: true
-  - title: "Tag Archives: Self-Driving Cabs testing"
-    excerpt: "GM and Lyft plan to deploy self-driving cabs for testing in a yet-to-be-named city, where the vehicles will be picking up real Lyft users. This announcement comes shortly after General"
-    publishedDateTime: 2022-01-23T15:42:00Z
-    webUrl: "https://www.industrytap.com/tag/self-driving-cabs-testing"
-    type: article
-    provider:
-      name: Industry Tap
-      domain: industrytap.com
-    quality: 24
-    images:
-      - url: "https://www.industrytap.com/wp-content/uploads/2016/05/life.png"
-        width: 740
-        height: 419
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2021/04/COMP-CFP-DRIVERLESS.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "U0YQnUB50ogONxpBeGsvExlwEd9eZHiB4DXVg4vThWpSu2JMTrmaVSPkOZ5R5I095FibQen7/3IQWjgOdT0iTPRGPq4z0f4Pk2/PG1O+wOVH69gwk475CDDzV6iraM3fGYSTnWxUqHmxRaQQsejiYmP93l2+uAAy08RPidAJdopMFFBBajHG5jTzXPGUthKlfZde/8Yacj9mWyU7SxAWIqM32aX5pXdGa8JzAHIM3SdQM8FmbgTBjty9qmVSOByeJp1GGYFoyI4f7o9g4jKc7w2/9OOf3je2mss4acnPyoCIJroxfdCA6MkDoBg6jzRHNuy4LA6LWJzx98ZbkHqOmOo+zW5BpGI5p7Y84HuDSy8Rw8G7wh52ys9ElJLpOvlMVZrkS+h0cIAHnLDQjGKs5u6857Fs5q+DDdcA/ZJ9/5yULCjeL3CwxHz5b1InhxgGDXWj8ssrBlr61jXDEEKbkta7TrxufQzwpLiFLGBI+rfq7j+Lo+9C8vOFladIzEdnPym//Bg2w1k/wpcdAsZJ8Q==;xQdk3XN8FPuY+6dSMBK8SQ=="

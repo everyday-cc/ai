@@ -25,37 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Ethics and ownership of AI-powered identities"
-    excerpt: "People will soon be asked to decide how their voices, images, and AI-powered identities can be used both today and long after they're gone."
-    publishedDateTime: 2022-01-23T18:40:00Z
-    webUrl: "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/"
-    ampWebUrl: "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/amp/"
+  - title: "Klarity lands $18m Series A to Expand Its Document Automation Platform for Finance and Accounting"
+    excerpt: "Klarity, the AI platform that turns documents into structured data and frees humans from painful and voluminous document review, today announces $18M in Series A funding led by Tola Capital with participation from new and existing investors."
+    publishedDateTime: 2022-01-24T18:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/klarity-lands-18m-series-a-to-expand-its-document-automation-platform-for-finance-and-accounting-1031123718"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-478952698.jpg?w=1200&strip=all"
-        width: 1200
-        height: 673
+      - url: "https://mma.prnewswire.com/media/1731884/Picture1.jpg"
+        width: 400
+        height: 379
         isCached: true
-  - title: "The Strategy And Synergy Of AI And Agile Methodologies"
-    excerpt: "What follows is a brief overview of how agile methodologies emerged and why AI delivers such valuable synergies with agile business. Agile methodology was popularized and refined by software developers in the early 2000s,"
-    publishedDateTime: 2022-01-26T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/the-strategy-and-synergy-of-ai-and-agile-methodologies/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/the-strategy-and-synergy-of-ai-and-agile-methodologies/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/26/the-strategy-and-synergy-of-ai-and-agile-methodologies/amp/"
+  - title: "AI-powered digital skills assessment platform start-up iMocha raises $14 mn in Series A Funding"
+    excerpt: "AI-powered digital skills assessment platform, iMocha ,announced a $14 million Series A investment round led by Eight Roads Ventures, with participation from existing investors Upekkha and Better Capital."
+    publishedDateTime: 2022-01-27T11:07:00Z
+    webUrl: "https://www.freepressjournal.in/business/ai-powered-digital-skills-assessment-platform-start-up-imocha-raises-14-mn-in-series-a-funding"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/ai-powered-digital-skills-assessment-platform-start-up-imocha-raises-14-mn-in-series-a-funding"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ai-powered-digital-skills-assessment-platform-start-up-imocha-raises-14-mn-in-series-a-funding"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 45
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61ef1f526830d08a3a3daadf/0x0.jpg?format=jpg&width=1200&fit=bounds"
+      - url: "https://images.assettype.com/freepressjournal/2021-03/3dff1c24-4e50-4dd2-af5a-b373c2bdc8a8/startup_2480722_960_720.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
 
 secured: "b0r93FzCgKxWExNOnCHW4K6R6ptSYPOwo/T8Pve2M7fKW8G+oJ5dP0i6yoo38q0rmzpaGfsHPgwXCF6BWOmdxsopI4NYKnjKX7PrM9NW5Md7QnyIlrirSVJQtN/UdaOA9U9f+EwImgnJCmWVWtEmAYSK2ggptTPoGmddNbQ5/Sl2vyHLcaxt/nC9kR4ym/NBNzq7cL8sJhF/ZXYGMKUUuz/omQCd99WHeUNaOK6HIYWhO1lI2p9gIbW770dQ3MGRD7Tss5S8KEbqhunF87MRjziZsga0p26xZTIC/4MR0exB6ZSDDAtYUO30cJRkgBWgS7BgUhdXMbpE03g9m0AcwRr98LMkkVNKumP5eqyOGzw=;pxQ7LU3tElV/QeBSG8gKRQ=="

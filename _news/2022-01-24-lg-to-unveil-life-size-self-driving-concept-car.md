@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Company supplying self-driving vehicles to Toronto, Durham transit projects shuts down"
+    excerpt: "Local Motors, the U.S.-based company engaged in multiple pilot projects around the world — including in Toronto and Whitby — shut down Jan. 14"
+    publishedDateTime: 2022-01-28T21:43:00Z
+    webUrl: "https://www.thestar.com/news/gta/2022/01/28/company-supplying-self-driving-vehicles-to-toronto-durham-transit-projects-shuts-down.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/gta/2022/01/28/company-supplying-self-driving-vehicles-to-toronto-durham-transit-projects-shuts-down.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2022/01/28/company-supplying-self-driving-vehicles-to-toronto-durham-transit-projects-shuts-down.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 36
+    images:
+      - url: "https://images.thestar.com/rr_RAR1d10fs5MKrCV0H8RDo0Ok=/1200x624/smart/filters:cb(1643406231820)/https://www.thestar.com/content/dam/thestar/news/gta/2022/01/28/company-supplying-self-driving-vehicles-to-toronto-durham-transit-projects-shuts-down/autonomous_shuttle.jpg"
+        width: 1200
+        height: 624
+        isCached: true
   - title: "Bill to allow self-driving vehicles to test without emergency driver moves to full Pa. Senate"
     excerpt: "The state Senate Transportation Committee has moved a bill to the full Senate that would allow companies developing self-driving vehicles to test them on state roads without"
     publishedDateTime: 2022-01-26T23:19:00Z

@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Facebook parent Meta creates powerful AI supercomputer"
-excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today"
-publishedDateTime: 2022-01-24T21:33:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
-webUrl: "https://abcnews.go.com/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82446779"
+title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
+excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
+publishedDateTime: 2022-01-24T21:32:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
 type: article
-quality: 57
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Meta Unveils New AI Supercomputer"
@@ -41,6 +38,22 @@ related:
       - url: "https://images.wsj.net/im-472356/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Meta has a giant new AI supercomputer to shape the metaverse"
+    excerpt: "RSC could be powerful enough to simultaneously translate speech ... \"RSC will enable new AI models that can learn from trillions of examples, understand hundreds of languages and more.\""
+    publishedDateTime: 2022-01-24T18:36:00Z
+    webUrl: "https://www.cnet.com/tech/computing/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/siHq4W98CK1DZnjUDNNGOJaq8Mk=/1200x630/2022/01/23/1b7d5a6f-b387-4fc8-8304-404b063355b7/facebook-meta-ai-supercomputer.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Meta unveils new AI supercomputer destined to be world's fastest"
     excerpt: "Meta has unveiled the AI Research SuperCluster (RSC), a new supercomputer that’s among the fastest in the world. And it’ll only get faster – by the end of the year it should rank number one, with computing power on the exascale."
@@ -74,6 +87,17 @@ related:
         width: 1024
         height: 561
         isCached: true
+  - title: "Will Tesla's Dojo Supercomputer Disrupt AI in 2022?"
+    excerpt: "At Tesla's AI Day in 2021, they introduced the D1 chip and this will power its Dojo supercomputer. I don't want to get too technical, but each chip offers 362 teraflops of compute performance. That's 362 trillion floating point operations per second."
+    publishedDateTime: 2022-01-27T11:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/will-teslas-dojo-supercomputer-disrupt-ai-in-2022"
+    ampWebUrl: "https://www.nasdaq.com/articles/will-teslas-dojo-supercomputer-disrupt-ai-in-2022?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-teslas-dojo-supercomputer-disrupt-ai-in-2022?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "Meta Builds World’s Largest AI Supercomputer With NVIDIA For AI Research And Production"
     excerpt: "Facebook, I mean Meta, has always been one of the industry leaders when it comes to AI research and deployment. The company processes hundreds of trillions (yes, trillions with a “T”) of inferences every day,"
     publishedDateTime: 2022-01-25T22:08:00Z
@@ -259,6 +283,22 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/22/16/facebook_by_gerd_altmann_cc0_via_pixabay_1200x800-100758881-large-100825209-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Meta builds AI Research SuperCluster for future AI and the metaverse"
+    excerpt: "Meta believes that its new AI Research SuperCluster (RSC) will be among the fastest AI supercomputers running in the world once it’s fully built. The supercomputer is being constructed in phases. In the current phase 1,"
+    publishedDateTime: 2022-01-28T22:09:00Z
+    webUrl: "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730"
+    ampWebUrl: "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 61
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-13075344431.jpg"
+        width: 788
+        height: 443
         isCached: true
   - title: "Facebook Parent Meta Built the World's Fastest AI Supercomputer"
     excerpt: "Meta (formerly Facebook) is the latest company to build an AI supercomputer. Meta's new RSC supercomputer consists of 760 Nvidia GGX A 100 systems containing 6080 GPUs."
@@ -654,6 +694,20 @@ related:
         width: 800
         height: 514
         isCached: true
+  - title: "Meta Is Building The World’s Fastest AI Supercomputer"
+    excerpt: "There is a strong belief that moderating posts from billions of users can somewhat be a difficult task but Facebook"
+    publishedDateTime: 2022-01-28T18:37:00Z
+    webUrl: "https://techbooky.com/meta-is-building-a-sophisticated-ai-supercomputer/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/6000.jpg?fit=930%2C558&ssl=1"
+        width: 930
+        height: 558
+        isCached: true
   - title: "AI Research SuperCluster — Meta’s Cutting-Edge Supercomputer For AI Research"
     excerpt: "Byline: Kevin Lee; Shubho Sengupta Developing the next generation of advanced AI will require powerful new computers capable of quintillions"
     publishedDateTime: 2022-01-25T11:26:00Z
@@ -794,6 +848,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "ZGap5Awhyl1xZZxQ4/3RyC7+TUQ+06InOVoSRX6V4be/WyrRr4v6qgodlfjMHXwN+6Xfgzl5euwUxwaJhJbk+VHrqnMdCmUlhD6RfWnBjX5VlIbOetihGIl5/kpa7JRDV4fwL1AWDYhhaLa8wUuVmo+xgIbid8o5WYr/HsFq2WuY+OoNc8Ug2Kvo18WjckOrFcxsQGmTYGpVcLHcuyhcQ+PlcZIqMj1yrtVBaisUAns7Cb25uxAjsU8WBcyM2hPBpl7W3vKgLCVCUsAvT6zFX2ibLMMzmpGtNbYJJEt4zSVG2ZYv/LYpNEutYhGPSy5pqvotpnZDlkY5J7E+rmDg/A1826ZrbMhZ+7+pSMYQz9M=;S204a9o4zhiZufEKLQBZ3A=="
+secured: "O4jxG6zbcmVQmShXu8wG999yxihVWuPpblQ2M5+KQqnW+VwxG5ros73j2Wl9zR4ag5YLa4UGJmVOlEucPsucBxrQ/zb4bNqfoFzQmIIKHZyQC/3fef8kN+qcyIYBrgrY5eDZVk2QRiQdn6Gb820PjMUoEJecdRnMUMk4sezAAEW3cpID0c9UABQr5YEcPuDbSez9sXsp8wiJgDDTkEPXkRNb04eKRGbhfxDr/Yg2gnhFPPNhtPYxPi3Lex62z4EG4h3LzB/2Hpyx6h9XRvzhXSGJ25nQUTs9RYW51Tu+0ltpr9S+A0c5BvpRAe10B/pxy36ZFSIr9sYM2lkBrWD5QTNwZYMAO54+7SC8OQHQrmzvZAPCOtJ9MwC93h9b0NzWHEYuDYfrsF5a8JZEL4diXNNU7cxAXTccAbjeQIs29NFW3fnMO+hORNfCG3PytWX5HiMDixT9WMJfk5LLu+p0sQ94BlI8Yr1YVvBlgaYQnPWrnjmCy/Tj0WdyYt3wi9DkmhQo1pZ9RiTsUqX25sVa7g==;mL/OxidQFAIImw185LnQVg=="
 ---
 

@@ -88,22 +88,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "That Viral Video Of A Tycoon Driving At Speeds Over 250 Miles Per Hour On Public Roadways Is Quite Hair Raising, Even For AI Self-Driving Cars"
-    excerpt: "Tycoon driving a pricey sports car, a Bugatti Chiron, opted to drive over 250 miles per hour on a public roadway, raising interesting facets about AI self-driving cars and coping with nearby speedy human-driven cars."
-    publishedDateTime: 2022-01-23T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/23/that-viral-video-of-a-tycoon-driving-at-speeds-over-250-miles-per-hour-on-public-roadways-is-quite-hair-raising-even-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/23/that-viral-video-of-a-tycoon-driving-at-speeds-over-250-miles-per-hour-on-public-roadways-is-quite-hair-raising-even-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/23/that-viral-video-of-a-tycoon-driving-at-speeds-over-250-miles-per-hour-on-public-roadways-is-quite-hair-raising-even-for-ai-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 53
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61ecde12a5ab6bf72ef6699b/0x0.jpg?format=jpg&crop=3199,1798,x25,y415,safe&fit=crop"
-        width: 3199
-        height: 1798
-        isCached: true
 
 secured: "+PpbhzRZHJe9nxOmda2rb+SejHcpqk6C46MIzQXCMWbaFemMaDwyX5cvMSzh7NRzb7ne91/P3Gaya1iHP7lipX/KOdedDOfO7a4C5JAE70rPOizq0y15wGlZD+X7X+KUPHcFcTVsDlXv5Dlm4HsATLMdVV0JQSi1+amde8bxrBISB/IxSx/yIYEzMG5Rql86MG45yYJt7E7mST+nsSc3sg1VgL2cHVJmSNN53ROLK5s+KISbFSjUWuMbwsEbhBhlWThcw4asoix6Y0Ch55Oh1YpjDuXui0CLImSQNQQ/niY2MjQJezUO1pEj5PXWJzDgnekE3VDg7mRQw7GkHMpgOh10OFFXLv2/8882hJBD/Fw=;hhNFwVy9L1J9PeMOYRD2CA=="
 ---

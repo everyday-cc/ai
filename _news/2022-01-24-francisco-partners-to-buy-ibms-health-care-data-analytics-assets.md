@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "AI Hot in Healthcare Despite IBM’s Watson Health Pullout"
+    excerpt: "Earlier this week, the tech giant IBM sold off chunks of its once-promising artificial intelligence (AI)-guided division Watson Health. Despite this setback, European firms see a bright future for the use of AI in healthcare."
+    publishedDateTime: 2022-01-28T14:45:00Z
+    webUrl: "https://www.labiotech.eu/trends-news/ibm-watson-health-ai/"
+    type: article
+    provider:
+      name: the Top 10
+      domain: labiotech.eu
+    quality: 71
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2022/01/AI-ibm-watson-health.jpg"
+        width: 960
+        height: 460
+        isCached: true
   - title: "IBM to sell off Watson Health assets"
     excerpt: "Private equity firm Francisco Partners is buying a large portion of the AI healthcare unit \"more than $1 billion\""
     publishedDateTime: 2022-01-24T12:37:00Z
@@ -56,22 +70,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "IBM finally finds a private equiteer willing to purchase Watson Health"
-    excerpt: "In-brief IBM has offloaded healthcare data and analytics assets from its Watson Health business, with private equity firm Francisco Partners hand over around $1bn for the privilege. The takeover “is a clear next step as IBM becomes even more focused on our platform-based hybrid cloud and AI strategy,"
-    publishedDateTime: 2022-01-24T03:01:00Z
-    webUrl: "https://www.theregister.com/2022/01/24/in_brief_ai/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/01/24/in_brief_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/24/in_brief_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 59
-    images:
-      - url: "https://regmedia.co.uk/2019/01/18/shutterstock_779236312.jpg"
-        width: 648
-        height: 448
-        isCached: true
   - title: "Three reasons why Watson-based AI might fail"
     excerpt: "This week the story of an IBM Watson asset purchase by Francisco Partners is in the news. Perhaps not covered in this announcement are some of the reasons Watson-like-data-dependent AI might fail to provide the business windfalls anticipated."
     publishedDateTime: 2022-01-26T05:16:00Z
@@ -85,6 +83,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQFUpjKlVrExnw/article-cover_image-shrink_720_1280/0/1643147426919?e=1648684800&v=beta&t=5EEdJPdEpcjnhcos3R9y7AwmkuKnQnM75wHGmolV_i4"
         width: 1080
         height: 720
+        isCached: true
+  - title: "IBM sale of Watson Health assets shows AI ‘won’t be a single-vendor solution’"
+    excerpt: "IBM’s sale of its Watson Health data assets to a private equity firm may not rate among the biggest deals of 2022, at least not by size alone. But the transaction, reportedly valued at more than $1 billion,"
+    publishedDateTime: 2022-01-27T16:00:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/7-day-supply/ibm-sale-of-watson-health-assets-shows-ai-wont-be-a-single-vendor-solution/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 51
+    images:
+      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2021/03/MMM-Franchise-Images_7-day_1.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "IBM sells off large parts of Watson Health business"
     excerpt: "Tech giant IBM draws back from its digital health aspirations, agreeing a deal to sell a large chunk of IBM Watson Health to private equity group Francisco Partners"
@@ -152,6 +164,20 @@ related:
       - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/IBM_21.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "IBM sells parts of Watson Health; what are the repercussions?"
+    excerpt: "IBM Watson Health was an ambitious project introduced to use the core AI platform to help healthcare professionals analyse large amounts of data and assist in cancer treatment."
+    publishedDateTime: 2022-01-28T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/ibm-sells-parts-of-watson-health-what-are-the-repercussions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/IBMWatson_AIM.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "IBM to focus on hybrid cloud, AI after selling Watson Health operations"
     excerpt: "IBM has sold Watson Health's data and analytics operations to Francisco Partners, and will now focus on its platform-based hybrid cloud and AI strategy. No financial details were disclosed about the transaction,"

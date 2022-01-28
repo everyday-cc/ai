@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-28-why-deepmind-co-founder-mustafa-suleyman-has-quit-google-to-become-a-vc.md",
+      "title": "Why DeepMind co-founder Mustafa Suleyman has quit Google to become a VC",
+      "excerpt": "DeepMind co-founder Mustafa Suleyman surprised many of his followers last week when he announced he's leaving Google to become a venture capitalist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html",
+      "originalUrl": "https://www.cnbc.com/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107006595-1643204907671-gettyimages-961707246-FRANCE_TECHNOLOGY.jpeg?v=1643205832",
+          "width": 4000,
+          "height": 2878,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html",
+      "publishedDateTime": "2022-01-27T23:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-deepmind-the-podcast-returns-for-season-2.md",
       "title": "DeepMind: The Podcast returns for Season 2",
       "excerpt": "Were proud to launch a new season of DeepMind: The Podcast, with stories of the latest breakthroughs, innovations, and challenges from inside the lab.",
@@ -108,19 +160,19 @@
     {
       "path": "_news/2022-01-21-deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock.md",
       "title": "DeepMind Co-Founder Suleyman Exits Google for VC Firm Greylock",
-      "excerpt": "The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman ...",
+      "excerpt": "(Bloomberg) --The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman will be a venture partner at Greylock ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-01-21/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock",
+      "webUrl": "https://www.bloombergquint.com/business/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock",
+      "originalUrl": "https://www.bloombergquint.com/business/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWEqYz7MJwA8/v1/1200x863.jpg",
+          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
           "width": 1200,
-          "height": 863,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -130,21 +182,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T03:59:00-08:00",
+      "publishedDateTime": "2022-01-21T02:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -308,6 +351,58 @@
       ]
     },
     {
+      "path": "_news/2022-01-19-basic-classification-classify-images-of-clothing.md",
+      "title": "Basic classification: Classify images of clothing",
+      "excerpt": "This guide trains a neural network model to classify images of clothing, like sneakers and shirts. It's okay if you don't understand all the details; this is a fast-paced overview of a complete TensorFlow program with the details explained as you go.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tutorials/keras/classification?hl=hu",
+      "originalUrl": "https://www.tensorflow.org/tutorials/keras/classification?hl=hu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=hu",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-boosted-trees-using-estimators.md",
       "title": "Boosted trees using Estimators",
       "excerpt": "Note: Modern Keras based implementations of many state of the art decision forest algorithms are available in TensorFlow Decision Forests. This tutorial is an end-to-end walkthrough of training a Gradient Boosting model using decision trees with the tf ...",
@@ -364,15 +459,15 @@
       "title": "Customization basics: tensors and operations",
       "excerpt": "To get started, import the tensorflow module. As of TensorFlow 2, eager execution is turned on by default. This enables a more interactive frontend to TensorFlow, the details of which we will discuss much later. import numpy as np ndarray = np.ones([3, 3 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=da",
-      "originalUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=da",
+      "webUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=nb",
+      "originalUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=nb",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=da",
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=nb",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -407,6 +502,59 @@
         "news"
       ],
       "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-numpy-api-on-tensorflow.md",
+      "title": "NumPy API on TensorFlow",
+      "excerpt": "TensorFlow implements a subset of the NumPy API, available as tf.experimental.numpy. This allows running NumPy code, accelerated by TensorFlow, while also allowing access to all of TensorFlow's APIs. This call enables type promotion in TensorFlow and also ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/tf_numpy?hl=fi",
+      "originalUrl": "https://www.tensorflow.org/guide/tf_numpy?hl=fi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=fi",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
         "Google AI",
         "AI"
       ]
@@ -464,19 +612,71 @@
       ]
     },
     {
-      "path": "_news/2022-01-19-tensorflow-2-quickstart-for-beginners.md",
-      "title": "TensorFlow 2 quickstart for beginners",
-      "excerpt": "Load a prebuilt dataset. Build a neural network machine learning model that classifies images. Train this neural network. Evaluate the accuracy of the model. This tutorial is a Google Colaboratory notebook. Python programs are run directly in the browser ...",
+      "path": "_news/2022-01-19-simple-audio-recognition-recognizing-keywords.md",
+      "title": "Simple audio recognition: Recognizing keywords",
+      "excerpt": "This tutorial demonstrates how to preprocess audio files in the WAV format and build and train a basic automatic speech recognition (ASR) model for recognizing ten different words. You will use a portion of the Speech Commands dataset (Warden, 2018), which ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ur",
-      "originalUrl": "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ur",
+      "webUrl": "https://www.tensorflow.org/tutorials/audio/simple_audio?hl=ro",
+      "originalUrl": "https://www.tensorflow.org/tutorials/audio/simple_audio?hl=ro",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=ur",
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=ro",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-tensorflow-2-quickstart-for-beginners.md",
+      "title": "TensorFlow 2 quickstart for beginners",
+      "excerpt": "Load a prebuilt dataset. Build a neural network machine learning model that classifies images. Train this neural network. Evaluate the accuracy of the model. This tutorial is a Google Colaboratory notebook. Python programs are run directly in the browser ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=bg",
+      "originalUrl": "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=bg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=bg",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -567,6 +767,58 @@
         "Google AI",
         "AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-transfer-learning-with-yamnet-for-environmental-sound-classification.md",
+      "title": "Transfer learning with YAMNet for environmental sound classification",
+      "excerpt": "YAMNet is a pre-trained deep neural network that can predict audio events from 521 classes, such as laughter, barking, or a siren. In this tutorial you will learn how to: Load and use the YAMNet model for inference. Build a new model using the YAMNet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tutorials/audio/transfer_learning_audio?hl=da",
+      "originalUrl": "https://www.tensorflow.org/tutorials/audio/transfer_learning_audio?hl=da",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=da",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1264,146 +1516,7 @@
         "Google AI",
         "TensorFlow"
       ]
-    },
-    {
-      "path": "_news/2021-12-23-deepmind-just-taught-ai-how-to-win-a-game-without-knowing-the-rules.md",
-      "title": "DeepMind just taught AI how to win a game without knowing the rules",
-      "excerpt": "Alphabet's AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that computers ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/",
-      "originalUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2020/12/AI-concept.jpg?quality=82&strip=all",
-          "width": 1599,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/",
-      "publishedDateTime": "2021-12-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science.md",
-      "title": "Univ. of Washington AI protein folding discovery wins ‘Breakthrough of the Year’ award from Science",
-      "excerpt": "DeepMind published its approach in Nature the same week, and released its method to the scientific community. “Now structures can be obtained for samples that defy experimental methods ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science/",
-      "originalUrl": "https://www.geekwire.com/2021/univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science/amp/",
-      "publishedDateTime": "2021-12-16T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-tensorflow-ranking-keras-pipeline-for-distributed-training.md",
-      "title": "TensorFlow Ranking Keras pipeline for distributed training",
-      "excerpt": "TensorFlow Ranking can handle heterogeneous dense and sparse features, and scales up to millions of data points. However, building and deploying a learning to rank model to operate at scale creates additional challenges beyond simply designing a model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/ranking/tutorials/ranking_dnn_distributed?hl=zh-tw",
-      "originalUrl": "https://www.tensorflow.org/ranking/tutorials/ranking_dnn_distributed?hl=zh-tw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=zh-tw",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T23:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 2
 }

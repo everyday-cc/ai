@@ -27,47 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Assistive Robotics Market Size Projected to Reach USD 25.16 Billion at a CAGR of 22.1%, in 2028"
-    excerpt: "USD 5.05 Billion in 2020, Market Growth– at a CAGR of 22.1%, Market Trends– High demand from healthcare sector. NEW YORK, NY, UNITED STATES, January 25, 2022/ EINPresswire.com/-- Availability of insurance coverage for robotic surgeries and medical exoskeletons is driving market revenue growth."
-    publishedDateTime: 2022-01-25T15:47:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/assistive-robotics-market-size-projected-to-reach-usd-25-16-billion-at-a-cagr-of-22-1-in-2028"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 42
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "5G in Healthcare Market Size Worth USD 4.2 Billion | 74.5% CAGR by 2028"
-    excerpt: "G in Healthcare Market Overview The global 5G in healthcare market is expected to cross USD 4.2 billion by 2028 at a robust CAGR of 74.5% over the review period. 5G represents a huge advancement in healthcare by enabling a new health ecosystem capable of efficiently,"
-    publishedDateTime: 2022-01-24T11:43:00Z
-    webUrl: "https://menafn.com/1103584494/5G-in-Healthcare-Market-Size-Worth-USD-42-Billion-745-CAGR-by-2028"
+  - title: "Natural Language Processing Nlp Market to Grow with a Moderate CAGR During 2019-2028"
+    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 – International Telecommunication Union (ITU)CRIFAX adde"
+    publishedDateTime: 2022-01-28T10:41:00Z
+    webUrl: "https://menafn.com/1103605559/Natural-Language-Processing-Nlp-Market-to-Grow-with-a-Moderate-CAGR-During-2019-2028"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 39
+    quality: 47
     images:
-      - url: "https://menafn.com/updates/pr/2022-01/24/M_7a989784-b_Image_In_Body.jpg"
-        width: 271
-        height: 500
-        isCached: true
-  - title: "5G in Healthcare Market Size Worth USD 4.2 Billion | 74.5% CAGR by 2028"
-    excerpt: "G in Healthcare Market: by Component, Application, End User and forecast till 2028New York, United States - January 24, 2022 -- 5G in Healthcare Market"
-    publishedDateTime: 2022-01-25T02:01:00Z
-    webUrl: "https://www.digitaljournal.com/pr/5g-in-healthcare-market-size-worth-usd-4-2-billion-74-5-cagr-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/687379291c06924dc4b2dcd7cf4fbcc251c533a1-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?25642"
+        width: 374
+        height: 250
         isCached: true
 
 secured: "Ky/5520tR0f2qIRIu1TZY1kxhQWgxWuCP84LH4dWNPf/WoSPArRKVRvn2KTBgc3vBj7NjZnlbK5xtlpjQHkNDgMw5HU23Zn5vLs62qgBuEKJB889yzBMmlrCU2/rjVRWuiOirfeQ7MWeXu11p+1t09iCs53Os0BF2v0i/Ys5kl7yo2h6JCcfUfO1sVSB5Lszwtp3K0ndpUtdKNojxjLy0rT3fTauG0oIzoV5A28SWEvzJw2n/m+YR20hy2KeR/yH2hX/KXK1oImvTrI7sQBFcf0sKbzBdcd6hJQ+7RhCefkWATCKxxfuVcvAq2so01uNQ15CioykbyfMBp4rnfC9PAmjfdOQwS0fPpxqIxPKrn0=;6J6Mrm9gokrHhkXUmtzYkg=="
