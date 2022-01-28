@@ -8,7 +8,7 @@ heat: 57
 twitter:
   username: sobetschart
   url: https://twitter.com/sobetschart
-  followers: 413
+  followers: 414
 
 linkedin:
   url: https://www.linkedin.com/in/sonjabetschart/
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Sonja Betschart"
 
-secured: "8VURe8rlfbuu7YqYETkPxFLYdd63Vf3PZnjQ6vBe9wNF8cOfjWlWUak5Nqvj/nW7wCE2cx5eInAlQfWOrko/tb8j078nWlCR1pehCTpHGpPZjxtvOwHt7/8Xfcs7qsdx8b8t9Npkto7QA1vfeZEYiPoGwfhAIok5jjYkzKc+IoWixlRTY8kSqW918KE7GhQPkDmnYEAuhKw0G12H38NHHGGhOnMpifrPaJlggGQLqMFQeYlZgdRljdBAq+JWrHNW+8CWo7JDw1cdRyohzThLRTW92wUqjOR6dl7OErIi9UXIpJ3KGr/Q+5b3JTV27q8xT0A/ER8gAox4JaGtkWyTQfg8L6OSyE89KFFxQ3QLpeJ0/qu8F6dt8olJdzVAQwNAW7qcyYEerCf/HkDYMpCDJg==;P3K3tyOKKqBy9nPi3XbAGQ=="
+secured: "Sl8BrQbqFUBoDU/XeRRmna6jjcG8ueVSR40GuHC+dHVK5oWaWXSShdCwcU9dP8jBhYHNxNYguBU7PehmqgjdbIJd/4/W5BPap/iAsmcORqOko+2TKr0ICFl6UZvTmqmlrxigmLjFb1S0I7dOSvgorVZOfxkjlmq+lydjETfPTCrMJ2O9qj33npDto5vKSmg0+mDt86OOP6Wpnj9+j2qf9gsFAdcEr1g1ZKMqkH51wts81s2k3RBtKQerDAjQ0j3Vw4181yXkRH8MP4VUOYmFOgCcFEPPVBAC/r2LkqvJVl9J2edaeL4a1AkaVddiYEAK7jJ3u/KNw8OoVSc49ugDLjIS3zdda3TPySuLsWcqV+bYRMcOysJ4tYwLyhL6lhdvEPKPXakmnL0QpzAHule3zQ==;xug8Gsxm3YUOlmcMeE9WBQ=="
 ---
 
