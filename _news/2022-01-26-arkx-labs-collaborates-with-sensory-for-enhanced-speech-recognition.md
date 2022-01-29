@@ -2,22 +2,27 @@
 category: news
 title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
 excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-publishedDateTime: 2022-01-25T16:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+publishedDateTime: 2022-01-25T16:38:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
 type: article
-quality: 21
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries"
@@ -204,6 +209,6 @@ related:
         height: 628
         isCached: true
 
-secured: "WysmAUprGi0j/S9e42xlvR4WTJAAx23ylIW3o2e6zfPhUJNOk3ksctsq/gW9S2Eoi8QpabhYQBIzAsiO0//oDWbKeXT6Yqvv0pMjp8HZ17wDuPEft4X6dRvHSD198dSKdcSFq0HZcB6w/pKfhULJcHQKbbwEscw4lKNCGafGVlfqi2/EYvZ7G9+YhBnXhFQ95FdWkkiQr+YUfi75ioUgZtoO0HibTEbNlh7ofSSJU7jNmZRmEEkVfH6NJUndi+qNLyzZIFIcMqtXC7ZHmCoHz8eA0mrWFmogJ3adOAc9XxJPe87AUWErAe6oYAY0s0MWQ62lEU81QwN4EUk92ALRrBmYfmJQZMyVIMOEEy5mJu0=;VS9+K3yQyqF1MJVGB0ixsg=="
+secured: "YDg/e0qugJEzQrS6GfxvNpNkkbx/v/oBf35C0qWvddLmdvl3+oFt7uY8f2CHakAkRE33RJraLBXEjIDH7cvlZGdDYeF3hHoFnudGSC6kCDcm+fvfAjFMEFGG0o4GK1PIvjCxplNJ4znOrDs0NEEMmSmGOiCCrsi0EDJb8pIJy89EmvGrDMONpoUJxxxoHnFKi0jvHTBJ2/j/Sq64cAS+tQPBe2zYWdaERVEpCJPpOwznozb4dDk6iLyxWW+eWRaiAJJcEeUAOV0uJuFqE94b1N+Pa7U3X5AkGpUEnytGtCcG11cLIU1Tlb/Q+v91BB3ZqbNIGc2GF/4ASDETiktNvWiiZpawRRpcjk2upY/iEn8=;0o+jwpoNdPrYnmdG2+2cCg=="
 ---
 

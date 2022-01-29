@@ -8,7 +8,7 @@ webUrl: "https://www.scmp.com/tech/policy/article/3165244/china-targets-deepfake
 ampWebUrl: "https://amp.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai"
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai"
 type: article
-quality: 96
+quality: 98
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/29/5031b18e-bcda-466a-afac-2d1e33ee512e_6a76c979.jpg?itok=uarvlE33&v=1643449822"
@@ -61,22 +62,6 @@ related:
         width: 1200
         height: 580
         isCached: true
-  - title: "See No Evil, Hear No Evil: The Use of Deepfakes in Social Engineering Attacks"
-    excerpt: "Artificial Intelligence (AI) is one of the most high-profile technology developments in recent history. It would appear that there is no end to what AI can do. Fom driverless cars, dictation tools, translator apps,"
-    publishedDateTime: 2022-01-25T04:00:00Z
-    webUrl: "https://securityboulevard.com/2022/01/see-no-evil-hear-no-evil-the-use-of-deepfakes-in-social-engineering-attacks/"
-    ampWebUrl: "https://securityboulevard.com/2022/01/see-no-evil-hear-no-evil-the-use-of-deepfakes-in-social-engineering-attacks/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/01/see-no-evil-hear-no-evil-the-use-of-deepfakes-in-social-engineering-attacks/amp/"
-    type: article
-    provider:
-      name: securityboulevard.com
-      domain: securityboulevard.com
-    quality: 41
-    images:
-      - url: "https://securityboulevard.com/wp-content/uploads/2018/01/TwitterLogo-002.jpg"
-        width: 1524
-        height: 512
-        isCached: true
   - title: "China cyberspace regulator issues draft rules on deep fakes"
     excerpt: "The Cyberspace Administration of China (CAC) announced draft provisions and regulations, called the Administration of Deep Synthesis of Internet Information Services, for content providers who alter"
     publishedDateTime: 2022-01-29T12:47:00Z
@@ -92,6 +77,6 @@ related:
         height: 888
         isCached: true
 
-secured: "UPa81DOatv9mqLWitTA919YPb8ukhrFC+ThAvOKfR6XQsW7VBMIv0oXU5h6sy5Zws+DB3l5kYLoH62MU1m3jQG6NaxJgKl0D3ZLkeXHRAvJqDYxexef9AFD/FG3e+3YF8G00k3iaByMFY9U6czBZv2wEtSY43A2qMM/MFcW1DloG2hMdTY8MclxOpvvdJCt6cta+wrPKGNcCfTOarkF0EMgy6yQi1J0FvqsHcvaJg08+QWZntAQX/iukPHi6G+KOU7nFdVYNSO7Vi5guY9e50F9yCvfgiHaWBwoGCBTlvCzhSOHoj4OsMe6/aI+wMjn/aH6XPbQVG/QKXbbARJ4YH9PT231xUUFlEfL76x5pKIc=;fkSrkHKzArsRA5MYGTFv3g=="
+secured: "dYP44auFQ3iNugGdVXC9wjKjB1d60LOv2xz9aCH24/Jp1mNl3LJiJ5fO4xX9ISwnHtdhf3ijl2snHkX8TKeriWhwD5H0D2V+WD9roBfgXLx3ifNcsh7w4zyIsgZPAHpNXe49gIz/6NAl1pIdRj3wqQ3I0peDQh0gkGz2cSxh5lnvcaqCy0QTe6NynGPWfP2XGiJJo2/ttJgytZUJPyraH41OG5F51HEM71iBT7ITaZtf/QlXbJ1gk2pOjB3r1eoU0Vzq2aksHY9X/giGwOIoPDr4OOU9LTd1GRRhPSEB+uKMItg30dQvd8287eFncNb/1XkMtN+9AbYB55OCjJ0pST8bTWpB+PCFy7E9lyQt+nSNv9lh+iWUJmSydC/gs0Z3KlVHLoGgl5F0yrjjQ0baBWhJ9P7mgRdZ9nbeSjDdRmrd+PDCUAdq+KpyV4JVgVYY8vOv9GyNnzoT24ZSWdG1aBXTEXYpps/hdkGV0YrAuLLWe876M0Sr6g5NWqrWC3yHwoX+6+njZLFfibe4gZowLg==;AWZfHx21D9g9Lt28WhYI8A=="
 ---
 

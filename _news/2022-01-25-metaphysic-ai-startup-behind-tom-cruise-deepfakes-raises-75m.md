@@ -54,27 +54,11 @@ related:
     provider:
       name: South China Morning Post
       domain: scmp.com
-    quality: 96
+    quality: 98
     images:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/29/5031b18e-bcda-466a-afac-2d1e33ee512e_6a76c979.jpg?itok=uarvlE33&v=1643449822"
         width: 1200
         height: 630
-        isCached: true
-  - title: "See No Evil, Hear No Evil: The Use of Deepfakes in Social Engineering Attacks"
-    excerpt: "Artificial Intelligence (AI) is one of the most high-profile technology developments in recent history. It would appear that there is no end to what AI can do. Fom driverless cars, dictation tools, translator apps,"
-    publishedDateTime: 2022-01-25T04:00:00Z
-    webUrl: "https://securityboulevard.com/2022/01/see-no-evil-hear-no-evil-the-use-of-deepfakes-in-social-engineering-attacks/"
-    ampWebUrl: "https://securityboulevard.com/2022/01/see-no-evil-hear-no-evil-the-use-of-deepfakes-in-social-engineering-attacks/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/01/see-no-evil-hear-no-evil-the-use-of-deepfakes-in-social-engineering-attacks/amp/"
-    type: article
-    provider:
-      name: securityboulevard.com
-      domain: securityboulevard.com
-    quality: 41
-    images:
-      - url: "https://securityboulevard.com/wp-content/uploads/2018/01/TwitterLogo-002.jpg"
-        width: 1524
-        height: 512
         isCached: true
   - title: "China cyberspace regulator issues draft rules on deep fakes"
     excerpt: "The Cyberspace Administration of China (CAC) announced draft provisions and regulations, called the Administration of Deep Synthesis of Internet Information Services, for content providers who alter"

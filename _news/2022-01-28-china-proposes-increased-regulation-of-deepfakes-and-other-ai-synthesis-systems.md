@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/china-proposes-increased-regulation-of-deepfa
 webUrl: "https://www.unite.ai/china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems/"
 type: article
 quality: 133
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -34,7 +34,7 @@ related:
     provider:
       name: South China Morning Post
       domain: scmp.com
-    quality: 96
+    quality: 98
     images:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/29/5031b18e-bcda-466a-afac-2d1e33ee512e_6a76c979.jpg?itok=uarvlE33&v=1643449822"
         width: 1200
@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 580
         isCached: true
-  - title: "See No Evil, Hear No Evil: The Use of Deepfakes in Social Engineering Attacks"
-    excerpt: "Artificial Intelligence (AI) is one of the most high-profile technology developments in recent history. It would appear that there is no end to what AI can do. Fom driverless cars, dictation tools, translator apps,"
-    publishedDateTime: 2022-01-25T04:00:00Z
-    webUrl: "https://securityboulevard.com/2022/01/see-no-evil-hear-no-evil-the-use-of-deepfakes-in-social-engineering-attacks/"
-    ampWebUrl: "https://securityboulevard.com/2022/01/see-no-evil-hear-no-evil-the-use-of-deepfakes-in-social-engineering-attacks/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/01/see-no-evil-hear-no-evil-the-use-of-deepfakes-in-social-engineering-attacks/amp/"
-    type: article
-    provider:
-      name: securityboulevard.com
-      domain: securityboulevard.com
-    quality: 41
-    images:
-      - url: "https://securityboulevard.com/wp-content/uploads/2018/01/TwitterLogo-002.jpg"
-        width: 1524
-        height: 512
-        isCached: true
   - title: "China cyberspace regulator issues draft rules on deep fakes"
     excerpt: "The Cyberspace Administration of China (CAC) announced draft provisions and regulations, called the Administration of Deep Synthesis of Internet Information Services, for content providers who alter"
     publishedDateTime: 2022-01-29T12:47:00Z
@@ -87,6 +71,6 @@ related:
         height: 888
         isCached: true
 
-secured: "23qn8v1mU08f0XP52a40x+uM733QNcEQcTOPLFJfHq/sUHiOhSMCud9yxfPkyxwCuDwP/3RIrAzKhYdBqkfOrUmAMmpxFWTidvVr73+YZiuSWJ28CKyewk5f3o2WIZnFBzBxuw3BhoKJ8IzgpreXwVcXm0aFAkw9s/YA4yZkSEBm29+M8vD6vzPImStfsPSHuSFfwPCf4Tmleqmxgjc+mst9N2pmHHtkF/kxgFqGx3yLdTssQ+J6G0l9g19tgWBFL6Suw415crKt/kg+3bpMAv8u+Ury2Dqd8HK8mIPH69wzCDQHd6aKlPgk86BXxX+rQGPq44Rs5JzClayViJlDYXAbW7h/G9NcgngAA3fw4k8=;TIpYf8IOdFnvw9fHSS66bQ=="
+secured: "GD/7rrzMEJhSFjgB7jAzyO9Y8eJPKcxZmSiGux26SGv3UpwScE1666DVmyxyf88SPk9UnB4laq+UHLSTI+EwwfZn5eLKHBCfBldj4F6RFsU/QOpChcffZd/BVYLNXRBhmmY+j9Bxr70i+IOtXmGrPckytFAAXFesOomR3ymUWPuHeooOC9Vj2k5p9dhVR2izIadXjlyo5CW+7A2cuh0QUSWSUUmr5uj30DD/xozEyi2ejN/qMj5+kTn10f/ZEakqIBt6QMoG6Yr5/GO4PMyy/oObeY0vOaUqqF3hhQJLE5f/8delk/mSSJsSO92Hieo/3TfvrJAvsErzLWGOH+JLVgmhwNpCaR/GqhwacsTkq/juxCe0V6jDnokCwlaijs3ghSet+Y0y9BFGyJ0xnbwfYFn+6s6CYLcFAuf16RRPgmzomh4RiT1zuP0wk1qK2J3T6gPwhzPOni5MS5xD+koBWl8u0fp1wIF4VrmrdFacZax009sHqjuvvHcHfW8tae+EwBEdlZVzCMi/WDD+p6ObT4k2yWe+dZ4F5s+3JCLimbo=;W5EKCaLZ02cVhavAJvnMOQ=="
 ---
 

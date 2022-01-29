@@ -80,20 +80,6 @@ related:
         width: 728
         height: 800
         isCached: true
-  - title: "Mark Paterson brings 20 years of business experience to GC role at Tenet Fintech Group"
-    excerpt: "Tenet Fintech Group Inc. has appointed Mark Paterson as general counsel. He will develop, implement, and oversee the ongoing legal strategy for the growing fintech and AI service provider. Paterson brings with him over 20 years of experience working in-house for multi-national organizations as well as practicing at Fasken where he began his legal career in the corporate law department."
-    publishedDateTime: 2022-01-25T03:10:00Z
-    webUrl: "https://www.canadianlawyermag.com/inhouse/news/general/mark-paterson-brings-20-years-of-business-experience-to-gc-role-at-tenet-fintech-group/363420"
-    type: article
-    provider:
-      name: Canadian Lawyer Magazine
-      domain: canadianlawyermag.com
-    quality: 16
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0394_637786769806401082.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Future of FinTech | January 2022 – Week 3"
     excerpt: "The third week of this month enters with a whirlwind when it comes to the news around the Fintech space. Last week’s colossal buzz encompasses a range of players – from the nascent stages to the giants alike."
     publishedDateTime: 2022-01-25T10:34:00Z

@@ -49,7 +49,7 @@ related:
     provider:
       name: South China Morning Post
       domain: scmp.com
-    quality: 96
+    quality: 98
     images:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/29/5031b18e-bcda-466a-afac-2d1e33ee512e_6a76c979.jpg?itok=uarvlE33&v=1643449822"
         width: 1200
@@ -71,23 +71,7 @@ related:
         width: 1200
         height: 580
         isCached: true
-  - title: "See No Evil, Hear No Evil: The Use of Deepfakes in Social Engineering Attacks"
-    excerpt: "Artificial Intelligence (AI) is one of the most high-profile technology developments in recent history. It would appear that there is no end to what AI can do. Fom driverless cars, dictation tools, translator apps,"
-    publishedDateTime: 2022-01-25T04:00:00Z
-    webUrl: "https://securityboulevard.com/2022/01/see-no-evil-hear-no-evil-the-use-of-deepfakes-in-social-engineering-attacks/"
-    ampWebUrl: "https://securityboulevard.com/2022/01/see-no-evil-hear-no-evil-the-use-of-deepfakes-in-social-engineering-attacks/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/01/see-no-evil-hear-no-evil-the-use-of-deepfakes-in-social-engineering-attacks/amp/"
-    type: article
-    provider:
-      name: securityboulevard.com
-      domain: securityboulevard.com
-    quality: 41
-    images:
-      - url: "https://securityboulevard.com/wp-content/uploads/2018/01/TwitterLogo-002.jpg"
-        width: 1524
-        height: 512
-        isCached: true
 
-secured: "nj7wtoF9hlVbrizM4mTiAg0Vc4qMgYXS7DCZqfUvcAYEsq35hl8pzoYsaUUgM+D4wrq41q5xuwIeG7YP4ud3bgeerVFYr6m5z15FUeI1wKWCTcNyJl+YJC5rYofFoWldgepV6RdRIuEBGQOSAHsS611dZWqDLsDS0/m77OivtO2qS0vNDJVg9l9oEYMutCCXlKTX2s6cJyB1lek4G6eAE7ZGidPGLJ1sALBquVODWufB8xmOSKZFf/NCWXWPp3cIMuj8w+kBAQ9nfnxgBDG5g4H1BQLjotoQAv5iVQFwZMvGR7fwxuon6eI3g4kjvqjQpw9ytirhnu2VF3TeO1DOiF/la3aVARcZK/6GiZ07+PU=;54/rZJ71rwYrmTQWNTZ/aQ=="
+secured: "0j8eVENgW+txd294cyW8O/FVoObd09i6aVWwbPFsZccrtEbB84snLo9OTyBad8jJe2ocKXgz3kxL1SqMgA+eNQTjkzH3ruU3pA4hRcwuk44wfGkH9SCwParZrjZ1EuMjgQ88tLavBuMnR3kuWYqiR+geeTxfBBwFtn/dAe21usSJN/JP4dpuRhjeeKlVIGPFEQcG8/QRMArXaFZ6D4R5gDhQmDg8gofvknnnYaW95QN5ZtHxRIqPd48wl69TKJWQT24hlrkUDf6LQjgQzegX3atXNGxA77R6PEYd4Xgi12XI6Iyjw0bKoHIg/SWiHaQAhy2hg+b4mVJybaSc+CMn0QQJN+PKBwyIwxF0NXodqDtuc4aanbMA+2HAj5uQTKZ+gxHjnbMYuQ2Gv22aKQEBUMaUTbayXEUUwmqoBSZ/6VCMYs1OkNtYVzGnmUIY4K11dw7Hu6r2XXmJIIoPlOaC7jwD3y7Yh32WKOJB6fiSC3sZR+shGvNR9VgO8uxA+VsqPo/wA62m+H0GoULSP9wj9Q==;WuYzS+nCOB6qbIvM8bvc9Q=="
 ---
 

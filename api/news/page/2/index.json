@@ -96,7 +96,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -284,7 +284,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -820,6 +820,59 @@
       ]
     },
     {
+      "path": "_news/2022-01-26-meta-platforms-fb-to-launch-worlds-fastest-ai-computer.md",
+      "title": "Meta Platforms (FB) to Launch World's Fastest AI Computer",
+      "excerpt": "Meta Platform's (FB) launches new artificial intelligence supercomputer, which will help lay the groundwork for building Metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/415191",
+      "originalUrl": "https://www.entrepreneur.com/article/415191",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-415191.jpeg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-nvidia-geforce-rtx-3050-review-a-truly-modern-gpu-for-the-masses-hopefully.md",
       "title": "Nvidia GeForce RTX 3050 review: A truly modern GPU for the masses (hopefully)",
       "excerpt": "Nvidia's GeForce RTX 3050 delivers great 1080p gaming performance and modern features, if it stays in stock at a sane price.",
@@ -1163,49 +1216,6 @@
         "AI",
         "AI in Sales",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-timnit-gebru-is-part-of-a-wave-of-black-women-working-to-change-ai.md",
-      "title": "Timnit Gebru is part of a wave of Black women working to change AI",
-      "excerpt": "Timnit Gebru, a known advocate for diversity in artificial intelligence, announced the launch of the Distributed Artificial Intelligence Research Institute, or DAIR.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/nbcblk/timnit-gebru-part-wave-black-women-working-change-ai-rcna13339",
-      "originalUrl": "https://www.nbcnews.com/news/nbcblk/timnit-gebru-part-wave-black-women-working-change-ai-rcna13339",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-01/220124-timnit-gebru-mn-1350-99c3d0.jpg",
-          "width": 2037,
-          "height": 1358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna13339",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna13339",
-      "publishedDateTime": "2022-01-25T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

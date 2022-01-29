@@ -56,17 +56,17 @@ related:
         isCached: true
   - title: "Artificial Intelligence In Healthcare Market Size Worth $208.2 Billion By 2030: Grand View Research, Inc."
     excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030, according to a new report by"
-    publishedDateTime: 2022-01-27T10:05:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research-inc--864587650.html"
+    publishedDateTime: 2022-01-27T09:05:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research/article_0b3ff320-f08b-515f-a303-682b0f3f75c2.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 37
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
-        width: 1400
-        height: 733
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/c6/8c66b3a9-1b92-5bab-a37c-b539b9d30a53/6098f2b83f2d2.image.jpg?crop=810%2C425%2C295%2C0&resize=810%2C425&order=crop%2Cresize"
+        width: 810
+        height: 425
         isCached: true
   - title: "Global Speech Recognition Market Size is Expected to Reach $29.28 Billion by 2026"
     excerpt: "Speech recognition technology catches and identifies the audio signals in the form of language and converts these signals into the machine-readabl"

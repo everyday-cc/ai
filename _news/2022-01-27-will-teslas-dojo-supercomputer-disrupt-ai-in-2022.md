@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/01/27/will-teslas-dojo-superco
 webUrl: "https://www.fool.com/investing/2022/01/27/will-teslas-dojo-supercomputer-disrupt-ai-in-2022/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 2309
     height: 1299
     isCached: true
+
+related:
+  - title: "Meta builds AI supercomputer"
+    excerpt: "What could go wrong? Meta boffins are building a new artificial intelligence supercomputer that the company maintains will soon be the fastest in the world. Dubbed the AI Research SuperCluster, it has taken several hundred people two years to build,"
+    publishedDateTime: 2022-01-25T12:17:00Z
+    webUrl: "https://www.fudzilla.com/news/54260-meta-builds-ai-supercomputer"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/b06b7f5cd04fdda9479d23de4179c5ae_L.jpg"
+        width: 620
+        height: 466
+        isCached: true
 
 secured: "n7DWnf6T4IKW93v21yGO6DAyL1CNO/K/iRIgwautJ9b4IUk+71+dlYESR0/zhPeeg8gPUibmkvNp1X/PR+RTKQ8AiH4N0w/o0y3ttVkZvcW+PT6moHvKZHQVeqbAsomMF0UVTp8UEKk/yG6rosmJaHIY1MSrXvBtur0JAYQmTd58AXLdSGfeB+XNmXraMYZBKBnAGJBDcK0mzhyBI63xRrIo1MPga51LqNRB0xNyPhRN/rIkiDr7YUW9U0qCoqaT+Lcb/Hq7VYqpbi4bchclUlugYa15To5f9RtnahYafhVaGOOOyspolMtCMkVF9aZqep7CT5f3iOnKJcWK0GldKZ6QFI89h41gdetPlPERg82xXzMa6CFJv1NcOk8ThfPLLso/mQ7xuYqmA9c4qxwBAgzTVEzy2iVqlT4S9zjz5QpjrsNFQ4/nT3bLFH998NJFshTlQqZanb7uKS1pM5r5SgSL0CCEW91OfuGkzmOCT3nyuejxgE0PcOH25v1M2DX6cFmUusRXaRpfEBt3/YXsLA==;/QOMVhBQj1wg957I7uj84A=="
 ---
