@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-27-global-size-share-growth-trends-and-forecast-2022-01-25"
 type: article
 quality: 59
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -69,34 +69,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?772845"
         width: 375
         height: 250
-        isCached: true
-  - title: "AI in Fintech Market Research Report 2021 - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "The “AI in Fintech Market Research Report - Global Industry Analysis and Growth Forecast to 2030” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market size is projected to increase to $46,"
-    publishedDateTime: 2022-01-24T15:32:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-d194dc63cee442d2ace1cfa3616c6a1d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AI in Fintech Market Research Report 2021 - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "AI in Fintech Market Research Report 2021 - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com. The \"AI in Fintech Market Research Report - Global Indus"
-    publishedDateTime: 2022-01-24T16:51:00Z
-    webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/01/24/9531629.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 14
-    images:
-      - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-        width: 1577
-        height: 1050
         isCached: true
   - title: "Worldwide Educational Robots Industry to 2027 - Growing Trend of Digitization is Driving Growth - ResearchAndMarkets.com"
     excerpt: "By Product type (Non-Humanoid and Humanoid), By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027” report has been added to ResearchAndMarkets.com’s offering. The Global Educational Robots Market size is expected to reach $2,"

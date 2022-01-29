@@ -36,6 +36,17 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Fujitsu Establishes AI Ethics & Governance Office To Ensure Safe & Secure Deployment Of AI & Leading-edge Tech"
+    excerpt: "Fujitsu Establishes AI Ethics and Governance Office to Ensure the Safe and Secure Deployment of AI and Leading-edge Technologies in Society. TOKYO, Jan 28, 2022 - (JCN Newswire) -"
+    publishedDateTime: 2022-01-29T07:48:00Z
+    webUrl: "https://www.scoop.co.nz/stories/SC2201/S00041/fujitsu-establishes-ai-ethics-governance-office-to-ensure-safe-secure-deployment-of-ai-leading-edge-tech.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/SC2201/S00041/fujitsu-establishes-ai-ethics-governance-office-to-ensure-safe-secure-deployment-of-ai-leading-edge-tech.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2201/S00041/fujitsu-establishes-ai-ethics-governance-office-to-ensure-safe-secure-deployment-of-ai-leading-edge-tech.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 34
 
 secured: "cNrJel7hFRLWucbHP9CNx4yr3Nw99EEWEoGkaKrVgvSIcA6e42WRWYxxEDvWPmu4CBp7nu7raFvRQRfLlugqN4mN3K/2jfNRU3HwvcY/cRaL65ImbBH9jgiuUcwzXYfWxxXWVGLFxyVhpTv4LMBqTd6r9SuBkiRZLCWosAPikJsixIwZKGypb7w+S64BjR4Gg1yJ4TmB+lt7I7M5qy5YWhutcgMBVmekr+YiCh7IwrgvuFLmnO3XiX5dQRqYplC+MUptVhIyOJHcU2iO85erOsPNkwi12AFOkZ3V/kxn1ATTBqnn49mDLJaB7//P0O3PRpB1INQ7txDv91dTrUZ0oI8A59xK1xI6aHqvdHFEbThhwyBmvPzshAPt98T+x3s+3hH9PjNtxuL9GHjMGAH6vVBDpx8yT8gtlyibj2O1wLlccwrS1atfJjQiwrphGNQj4oCSoW2DousdLQCK3plqv6EiQ3aPcPTR61o4gLNZetFuqrlnCEPHO95L2xi1TPuPtxSeQR2XH4VePsuW/gv7Vw==;Fa4sfa/JL2zAU3wvLso3DQ=="
 ---

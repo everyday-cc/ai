@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New & emerging Fintech Security Trends in 2022"
-    excerpt: "The unexpected and rapid shift of the global workforce to WFH setup prompted by the coronavirus pandemic has caused enterprises around the world to make significant infrastructure adjustments to support employees as they work"
-    publishedDateTime: 2022-01-24T16:08:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 61
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
   - title: "3 Beaten-Down Fintech Stocks to Buy Now"
     excerpt: "The fintech industry received more than its fair share of abuse during the current stock market correction. While these are relatively high-risk stocks, it's going to take more than a higher interest rate environment to stop them from disrupting their respective niches."
     publishedDateTime: 2022-01-27T09:43:00Z
@@ -52,6 +36,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "ARMA tie-up proves worth for fintech Credit Clear as clients sign on the dotted line"
+    excerpt: "Repayments fintech Credit Clear has delivered a major business boost after signing two top tier clients that will add $1.6 to $2 million in revenue over the next year. It is a major vote of confidence for its purchase of debt recovery solutions provider ARMA,"
+    publishedDateTime: 2022-01-28T03:23:00Z
+    webUrl: "https://stockhead.com.au/tech/arma-tie-up-proves-worth-for-fintech-credit-clear-as-clients-sign-on-the-dotted-line/"
+    ampWebUrl: "https://stockhead.com.au/tech/arma-tie-up-proves-worth-for-fintech-credit-clear-as-clients-sign-on-the-dotted-line/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/arma-tie-up-proves-worth-for-fintech-credit-clear-as-clients-sign-on-the-dotted-line/?amp"
+    type: article
+    provider:
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 37
+    images:
+      - url: "https://stockhead.com.au/wp-content/uploads/2022/01/sign-me-up-conor-mcgregor.gif"
+        width: 480
+        height: 262
+        isCached: true
   - title: "28/01 – Weekly Fintech Recap"
     excerpt: "Partnerships Segmint partners with Snowflake to revolutionize payment transaction enrichment for financial institutions Segmint, the global leader in transaction cleansing and analytics for financial institutions (FIs),"
     publishedDateTime: 2022-01-28T20:27:00Z
@@ -79,6 +79,20 @@ related:
       - url: "https://anthillonline.com/wp-content/uploads/2022/01/fintech-1.png"
         width: 728
         height: 800
+        isCached: true
+  - title: "Mark Paterson brings 20 years of business experience to GC role at Tenet Fintech Group"
+    excerpt: "Tenet Fintech Group Inc. has appointed Mark Paterson as general counsel. He will develop, implement, and oversee the ongoing legal strategy for the growing fintech and AI service provider. Paterson brings with him over 20 years of experience working in-house for multi-national organizations as well as practicing at Fasken where he began his legal career in the corporate law department."
+    publishedDateTime: 2022-01-25T03:10:00Z
+    webUrl: "https://www.canadianlawyermag.com/inhouse/news/general/mark-paterson-brings-20-years-of-business-experience-to-gc-role-at-tenet-fintech-group/363420"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 16
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0394_637786769806401082.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Future of FinTech | January 2022 – Week 3"
     excerpt: "The third week of this month enters with a whirlwind when it comes to the news around the Fintech space. Last week’s colossal buzz encompasses a range of players – from the nascent stages to the giants alike."

@@ -9,7 +9,7 @@ ampWebUrl: "https://stockhead.com.au/tech/arma-tie-up-proves-worth-for-fintech-c
 cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/arma-tie-up-proves-worth-for-fintech-credit-clear-as-clients-sign-on-the-dotted-line/?amp"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,95 @@ images:
     isCached: true
 
 related:
-  - title: "Strong full year cloud growth for SAP as it announces fintech gambit with Taulia acquisition"
-    excerpt: "RISE with SAP and S/4HANA adoption continue to show increased customer take-up. Christian Klein SAP’s full-year 2021 financial results saw a 5% increase in revenue to €24, 410 billion. Cloud revenue rose 19% year-on-year to €9."
-    publishedDateTime: 2022-01-28T08:12:00Z
-    webUrl: "https://diginomica.com/strong-full-year-cloud-growth-sap-it-announces-fintech-gambit-taulia-acquisition"
-    ampWebUrl: "https://diginomica.com/strong-full-year-cloud-growth-sap-it-announces-fintech-gambit-taulia-acquisition?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/strong-full-year-cloud-growth-sap-it-announces-fintech-gambit-taulia-acquisition?amp"
+  - title: "3 Beaten-Down Fintech Stocks to Buy Now"
+    excerpt: "The fintech industry received more than its fair share of abuse during the current stock market correction. While these are relatively high-risk stocks, it's going to take more than a higher interest rate environment to stop them from disrupting their respective niches."
+    publishedDateTime: 2022-01-27T09:43:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 33
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Five ways to diversify fintech for future consumer"
+    excerpt: "To seize the opportunities of the future, fintech firms must adapt their services for increasingly diverse markets. We outline five key themes"
+    publishedDateTime: 2022-01-25T10:28:00Z
+    webUrl: "https://www.raconteur.net/finance/diversify-fintech-future-consumer/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 24
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-04/Screenshot%202021-04-22%20at%2015.23.37.png"
-        width: 784
-        height: 628
+      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Five-ways-to-diversify-fintech-for-future-consumer.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "28/01 – Weekly Fintech Recap"
+    excerpt: "Partnerships Segmint partners with Snowflake to revolutionize payment transaction enrichment for financial institutions Segmint, the global leader in transaction cleansing and analytics for financial institutions (FIs),"
+    publishedDateTime: 2022-01-28T20:27:00Z
+    webUrl: "https://financialit.net/news/regtech/2801-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Torpago analyses the future of the Fintech market basing on the trends for 2022."
+    excerpt: "Brent Jackson is the Chief Executive Officer & Founder of Torpago analyses the future of the Fintech market basing on the trends for 2022."
+    publishedDateTime: 2022-01-25T16:42:00Z
+    webUrl: "https://anthillonline.com/future-of-fintech-market-basing-on-the-trends/"
+    type: article
+    provider:
+      name: Login - Anthill Online
+      domain: anthillonline.com
+    quality: 19
+    images:
+      - url: "https://anthillonline.com/wp-content/uploads/2022/01/fintech-1.png"
+        width: 728
+        height: 800
+        isCached: true
+  - title: "Mark Paterson brings 20 years of business experience to GC role at Tenet Fintech Group"
+    excerpt: "Tenet Fintech Group Inc. has appointed Mark Paterson as general counsel. He will develop, implement, and oversee the ongoing legal strategy for the growing fintech and AI service provider. Paterson brings with him over 20 years of experience working in-house for multi-national organizations as well as practicing at Fasken where he began his legal career in the corporate law department."
+    publishedDateTime: 2022-01-25T03:10:00Z
+    webUrl: "https://www.canadianlawyermag.com/inhouse/news/general/mark-paterson-brings-20-years-of-business-experience-to-gc-role-at-tenet-fintech-group/363420"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 16
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0394_637786769806401082.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Future of FinTech | January 2022 – Week 3"
+    excerpt: "The third week of this month enters with a whirlwind when it comes to the news around the Fintech space. Last week’s colossal buzz encompasses a range of players – from the nascent stages to the giants alike."
+    publishedDateTime: 2022-01-25T10:34:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-fintech-january-2022-week-3-whitesight"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 4
+  - title: "Fintech Trends to Drive 2022: Growth of Buy Now Pay Later and Increased Investments in Technology Enabling Financial Inclusion"
+    excerpt: "When looking at 2021 in review, two fintech trends factor prominently -- Buy Now, Pay Later (BNPL) and technology driving financial empathy/inclusion."
+    publishedDateTime: 2022-01-28T18:57:00Z
+    webUrl: "https://financialit.net/blog/pay-trends/fintech-trends-drive-2022-growth-buy-now-pay-later-and-increased-investments"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 0
+    images:
+      - url: "https://financialit.net/sites/default/files/snimok_ekrana_2022-01-28_175950.jpg"
+        width: 495
+        height: 473
         isCached: true
 
 secured: "Ga3Vnz/rUBKgRTa75qEi0XdH8B+19Hrp4qQ/vsSQSz/nurbUrKzcAT4JRXB0J7DRqgCYrMty4rZZwJE46AAp12JCE398/Y/r+LG/S96pRk5sxlJiaY0ztoGtHAiOHHxp6u5FQqzEh70Kk0sNlF6Tj+ZetINROvyQtjsN85s4zRhB5ZBfZBw8epRBiuy+IGWscPCkCLAwe1hibJ1rn4vHYd8957Bpg32hfc7B5QbxAtw0G3mRBUKfH5EwqskIUqk9QCTroU2pJY3wuEi6KyrhChW0uZDK+L7OaQX4zTt7otXEJvCAXIUTKl3RVezt4xyJGNuvttHonymm9HVZV+yK1oO2juRXtKkX5ktdD9hW5AnR9i8IxGp6WZDZkqyVvMKRhZPfDQa49af1BTDujMlh4KAyKuQleFmq0Hckh+zT6oa/2wYIVz6YCS3Hfl/1bMflQUYvAgzKHQdWp6qOTUzPpuL4PnCJwZSdcEpq9yDToty/ezn1c1UIRTFHDAB72/JuGjE0aIHReyjw57+6SvRugA==;8OxReirnJlnxAVQvzHt6Iw=="

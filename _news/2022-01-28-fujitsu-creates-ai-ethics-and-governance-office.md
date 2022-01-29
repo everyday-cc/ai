@@ -35,6 +35,17 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Fujitsu Establishes AI Ethics & Governance Office To Ensure Safe & Secure Deployment Of AI & Leading-edge Tech"
+    excerpt: "Fujitsu Establishes AI Ethics and Governance Office to Ensure the Safe and Secure Deployment of AI and Leading-edge Technologies in Society. TOKYO, Jan 28, 2022 - (JCN Newswire) -"
+    publishedDateTime: 2022-01-29T07:48:00Z
+    webUrl: "https://www.scoop.co.nz/stories/SC2201/S00041/fujitsu-establishes-ai-ethics-governance-office-to-ensure-safe-secure-deployment-of-ai-leading-edge-tech.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/SC2201/S00041/fujitsu-establishes-ai-ethics-governance-office-to-ensure-safe-secure-deployment-of-ai-leading-edge-tech.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2201/S00041/fujitsu-establishes-ai-ethics-governance-office-to-ensure-safe-secure-deployment-of-ai-leading-edge-tech.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 34
 
 secured: "+ajL/M/zauaAW9xAfqatZoLizegiGgeT9N11Ff4ZD9aFLzGluL5tQh2pylLpURQMlPh8aktCCjRGyaYdRULIlVhIgAM80bumOJOHR0cfvSX/b0WxvijgtESpAVkCujFQ/ZDjkBntyTmn827l/yoFy9V30y2OAEYmpoJmZQKT99mah3GdK2weghG7TQmSzOq9wlOosBF7Lu1bdkjA7JS2pBUX5NoZ0MWmeLPCePIUWCD6dOuhoCUaURiPJ0Ug1K22lZWj6bRnHb1a0+uKd7P+pm1igMev4ZvSjJPoOlkT/oJ7fwYPQehDki7mmoSreI2Nd8QAS5E37pjVzCc+QdxxG6n5TrWPUkBQYlZwrcsUuJU=;08ZUkMibCQ3SID72lboUHQ=="
 ---

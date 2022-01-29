@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/28/lessons-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/28/lessons-in-ai-regulation-from-a-tech-founder/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Global technology leaders back regulation of Artificial Intelligence"
+    excerpt: "Artificial intelligence has changed the world and our daily lives. In the coming years, experts predict a meteoric growth in its use. Given the even greater role artificial intell"
+    publishedDateTime: 2022-01-29T07:53:00Z
+    webUrl: "https://www.barandbench.com/columns/global-technology-leaders-back-regulation-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Bar & Bench
+      domain: barandbench.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/barandbench%2Fimport%2F2016%2F05%2FAI.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 736
+        height: 432
+        isCached: true
 
 secured: "3HFFSD5tyFmgKNAsU3Vm+SRvuZF5ocLG9Ildh0xoPs0wBaNt6GVLYHWMY44vFKEpE48gKCJWNru3p7/Du/hYKI1d7wr+XZ22xvcGnFSSninREP5F3YgkN1HIKG7gksHby3J5xotlNezcDFDFnoI0HDmExII2SznDaqAcePgxVRBtJ2mIbFhcExvQnmCZC2z7YLwibM9MPqbezX/cbRBQkm5jONrDBdGBCZYJ0ROyXrRHWVYdsrpwI2eoqOEldjgKo8mQnyQXcc4NBAhx87hZeM0e2n3+d+zj/CLLMfZn5/ikkVnP+KxKhx75sTPfgJC6xYE7N0uyZCHjOawKuLOrc+lauVzuMNYX48mwNoOaGjcxu8ahItr1QG++bdKIj0Jtm2t2yIJXbIpaNgpclQH+rUHmlmv/op6Gg7KlSQIidzJjpPfYFmNNx8jCkSkT0Ns9Ww4IM0mwnJpKgVeh3wKAA2gLZYgghcRjE3D58jO0Sp+wAm98joMZxoUwBk12hgQrcFlc8UT3PeUCR8Q4jgT/lg==;Ezqjxw7q8KDnd3rhAGfYjQ=="
 ---

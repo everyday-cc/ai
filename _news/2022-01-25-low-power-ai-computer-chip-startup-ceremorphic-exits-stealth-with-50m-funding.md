@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/01/24/low-power-ai-computer-chip-sta
 webUrl: "https://siliconangle.com/2022/01/24/low-power-ai-computer-chip-startup-ceremorphic-exits-stealth-50m-funding/"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Ceremorphic addresses AI, HPC, and the metaverse with QS 1 chip, lands $50M"
-    excerpt: "Ceremorphic, a startup, is coming out of stealth mode with $50 million of series A funding along with the announcement of the QS 1 chip."
-    publishedDateTime: 2022-01-24T17:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/"
-    ampWebUrl: "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 102
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340728386-e1643043402598.jpg?fit=800%2C450&strip=all"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "The ethics of the metaverse"
-    excerpt: "Did you miss a session from the Future of Work Summit? Head over to our Future of Work Summit on-demand library to stream. We’re all in a rage about the metaverse, the universe of virtual worlds that are all interconnected,"
-    publishedDateTime: 2022-01-27T00:20:00Z
-    webUrl: "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/"
-    ampWebUrl: "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/ethics-panel.jpg?w=1200&strip=all"
-        width: 1200
-        height: 666
-        isCached: true
 
 secured: "Rcw+92an8ZSy3HnwTp1NjuqMQBjpe7x0zoq+Wyl+/Y+Pp4ZG49r1qI9+yJJGg1Vnwtjr5eNsZSWnKSw+TFx4CLKqA870kXASWTvwGJemDW2kLoFWmdWNldC8ehwRqvrQn9qkxuz6A1/AGU6XeFKONbR1TUO6Es8gEBOoY0n5V/DQ2GAYgsYLpFLcFvN8CjFRhavql/QSqw68hHDK57XxJ5BvHAydf5AYEA6lMoHEiPjfdvrVjOxwySlN3HtDgf13SDTAvop9I68D/M+56KfCNGjEqrBm6Xgszwrh2CmRDC8VQvrjeLBUk5Fkchr5UuFOaBGkIgosntRGK7nCTr7nFr9YO4P7zn6wNOwqlU65MSIx4H1lZKeDBuoJ9Onl4CMX6j7PXE92Z6Ic3l/rvOJRCSbPfVJ8IW2hdECRlyb0K38qBkzapCcazyP8PbtOdKIiw2rzq9iG/ZJyIWnJywPHCPHFace/2xcvGxuYQ75jJoZ5bcDNoLSNe7Xv9ie5br/pgNtbwhajf2aOFU5iUjOqKQ==;94atI6yZYBPfYELzZti52Q=="
 ---
