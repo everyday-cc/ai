@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
+    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
+    publishedDateTime: 2022-01-25T16:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "MinIO Raises $103 Million in Latest Funding Round"
     excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, announced it has raised $103 million in Series B funding at a $1 billion valuation, enabling the company to accelerate multi-cloud storage adoption."
     publishedDateTime: 2022-01-28T18:46:00Z
@@ -194,15 +208,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
-    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-    publishedDateTime: 2022-01-25T16:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
 
 secured: "+B4XUrE8mhR6BjLEjrchFZuqwIH0MhLRjvWIJrUh2Kcgr8KVRCd6RWjdWubJeKaMy2s2CU4y+ZCy9+4vfNVogTciMJeq7AVAdutELjvlAQ1oD0URy9jrtqbkea6DxlkoP4ppr5aK5qznTXg2O6Z6rB8Gj0bmZWFQp2e2AtbTK1pD/tyzH5Q1UFI1B9R0coeRI7BD5+a8XsnrzxRih/GhRoqu5zG1M7P8V/cpfn+yVxHorG7zx73ks2akN2diKM9o8Hh+57mblH5amMlGiqDZ6NcJCfKBJXFCzbkz8gwDZCdbns1/XHRleHatayAQjHYZypX8wFU0GQcF28wdd92GUjyrAoFFSn0XJqggcCs3KuE=;r4PMkfnnp+zFiVf0hcfsTg=="
 ---

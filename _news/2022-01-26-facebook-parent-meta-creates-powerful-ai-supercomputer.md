@@ -310,50 +310,17 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Facebook parent Meta taps Nvidia GPUs for AI supercomputer"
-    excerpt: "Facebook parent company Meta is building what it said will become the world’s “fastest AI supercomputer” later this year with the largest deployment of Nvidia’s DGX A100 systems to date. The tech giant said that its new AI Research SuperCluster,"
-    publishedDateTime: 2022-01-25T00:36:00Z
-    webUrl: "https://www.crn.com.au/news/facebook-parent-meta-taps-nvidia-gpus-for-ai-supercomputer-575042"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/crn-14_meta_facebook_iStock-1350450876.jpg"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "Facebook's Meta Says Its New AI Supercomputer Will Beat All Rivals by 2022's End"
-    excerpt: "Mark Zuckerberg's Meta has announced it designed a new supercomputing AI! And it could outpace all major rivals by the end of 2022."
-    publishedDateTime: 2022-01-25T00:46:00Z
-    webUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-    ampWebUrl: "https://amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8pNdLGm/sizes/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
-    excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
-    publishedDateTime: 2022-01-29T13:20:00Z
-    webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
+    excerpt: "The company formerly known as Facebook, Meta Platforms (NASDAQ: FB), just unveiled details for its new AI Research SuperCluster (RSC). It's a massive supercomputer housed in a data center, and once it's fully constructed in mid-2022,"
+    publishedDateTime: 2022-01-29T12:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 51
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
-        width: 5408
-        height: 3605
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 53
   - title: "Meta Announces New Supercomputer for AI Research"
     excerpt: "Meta unveils the AI Research SuperCluster — a cutting-edge AI supercomputer for AI research. Developing the next generation of advanced AI will require powerful new computers capable of quintillions of operations per second."
     publishedDateTime: 2022-01-25T12:22:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-p
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world/amp/"
 type: article
 quality: 88
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,21 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "More productive coating and repair with Artificial Intelligence"
-    excerpt: "A German-Canadian consortium is now tackling this with Artificial Intelligence (AI): Thanks to new software for process control, laser material deposition, in particular, shall be automatically ..."
-    publishedDateTime: 2022-01-27T09:32:00Z
-    webUrl: "https://idw-online.de/de/news787322"
+  - title: "Bias in AI is spreading and it’s time to fix the problem"
+    excerpt: "To unlock the full power of automation and create change, we must understand how and why bias in AI happens and what to do about it."
+    publishedDateTime: 2022-01-29T16:17:00Z
+    webUrl: "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/"
+    ampWebUrl: "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/amp/"
     type: article
     provider:
-      name: idw
-      domain: idw-online.de
-    quality: 52
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1304302959.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Seat Belts, Startups, and Why Bias in AI is a Human Problem"
+    excerpt: "By Luke Lennon, Director of Brand and Community at Stratyfy Compared to men, women are 47% more likely to be seriously injured and 17% more likely to die if they're in a car crash. Why?  In a word, bias."
+    publishedDateTime: 2022-01-28T19:58:00Z
+    webUrl: "https://www.linkedin.com/pulse/seat-belts-startups-why-bias-ai-human-problem-stratyfy"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF69qIp3v5Ulg/article-cover_image-shrink_720_1280/0/1643399223083?e=1648684800&v=beta&t=gORi123epftdCspoxQZk90KwqIQn0weFO3AEaf15QAo"
+        width: 1142
+        height: 720
+        isCached: true
+  - title: "New Designs to Fix the Search Engine Bias Problem"
+    excerpt: "Tech companies looking to design next-gen search engines tout the potential of natural language processing (NLP), where GPT-3 leads the field. Yet research shows for all this promise, daunting bias challenges remain."
+    publishedDateTime: 2022-01-29T13:40:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/how-new-designs-can-fix-the-search-engines-bias-problem"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 24
+    images:
+      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/61f53ef3399310c58692e6c8_shahadat-rahman-BfrQnKBulYQ-unsplash.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
-secured: "GACDCp9AZA7J0HB3HwpISv7Y9/4zYtK+0lhz+KNa8bsRziv3ctOSnfnnHodm8ItGt+2zxIDG4xsvyGty3j9Xhf9SYry89N1FTID8VabsBN6gq2sE/E6oxxwqeFyTk5S2eUdKFyCTxevmwxXwL8ijZhqQbPMSeTMNT/6N9xEvNV+i+T440dxQ9iBsSUjrn1uqurm8qPuVPBJXUlOAcNkL9oXxRpnvMo9gtNIhQ+2S6CUtRCZLio+kkzwnqPJ37vVgH+4iHiU33zVOaMKQywV5eZCtxV6ADPPU4m6IGWcmlVTcGlWjcNK48CA0hPiXgpoOoFd7bP1lxr3sthrPEX0dcuG3tNxQ1GpcYpxA4o0ERSs=;aaboB/E8dih9+SpFwpLlSA=="
+secured: "5wSy2y0t8JixtliKdhEzROXsGzx6kL6c4gHQrbEKZX9IRYaXl425Z7j4e6Rr1zAOKcVFPjCNxFJkNZF0bQ9xu7OpbO9EOGbpZEJm8ziLxc5MGbkTJUn+jGKAyOrwhm6JQI5McveZp00+KbZe0Hwm1xf008uT1ypu6UMXDX2RMWAFUHLddNCYGZjOd+5AeW1VfZDDz15lo6K876227o1s81T3Ni4Brnl4aLc25nChIXkxLrVyz+IYOq5jlEk5iJi3DiYy+b/N+UYeTTu13gJm8dBhIsBRHckUHOsS/4ilHUwN1T1r7YIEB6fG7vPXQW7SMME0Z1VNsGwFFnSHC7Yyzzbf2znQBGoSPxGkfDR7IGHEmnSYJscaEnld7pfrfCAXdBFBOxorCJD4q/yf/WA3IP6O3CR4rBlcPncsowe7mdbQsVxj0xDBoiszUgV7I3YF6UDjFi6uona2uYNQLNOsmMbVwdHjGkXeFrCbNJZKjXZNDUa7DQ3soVDYVwhEGZMlpLy02ovr03jKwM5UIoUwYw==;3H8IIGgN+lUnJmir0UecuQ=="
 ---
 

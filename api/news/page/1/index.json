@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-29-monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world.md",
-      "title": "Monetizing and protecting an AI-powered virtual identity in today’s world",
-      "excerpt": "While voice technology and virtual identities could lead to new content experiences, there are ample concerns about what the future holds.",
+      "path": "_news/2022-01-30-bias-in-ai-is-spreading-and-its-time-to-fix-the-problem.md",
+      "title": "Bias in AI is spreading and it’s time to fix the problem",
+      "excerpt": "To unlock the full power of automation and create change, we must understand how and why bias in AI happens and what to do about it.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world/",
-      "originalUrl": "https://venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world/",
+      "webUrl": "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/",
+      "originalUrl": "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1158392795.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1304302959.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 603,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world/amp/",
-      "publishedDateTime": "2022-01-29T06:40:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/amp/",
+      "publishedDateTime": "2022-01-29T08:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -49,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Facebook AI"
+        "AI Ethics",
+        "AI"
       ]
     },
     {

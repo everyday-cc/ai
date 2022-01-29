@@ -3,8 +3,8 @@ category: news
 title: "Baidu & Geely's New Smart Electric Vehicle Company JiDU Raises $400 Million in Series A Round"
 excerpt: "Newly formed intelligent electric vehicle company JIDU announced that it has closed on $400 million in Series A financing. The funding round was backed by China’s internet giant Baidu Inc and its strategic partner automaker Zhejiang Geely Holding Group (\"Geely\")."
 publishedDateTime: 2022-01-26T16:00:00Z
-originalUrl: "https://www.futurecar.com/5157/Baidu-&-Geely’s-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
-webUrl: "https://www.futurecar.com/5157/Baidu-&-Geely’s-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
+originalUrl: "https://www.futurecar.com/5157/Baidu-&-Geelys-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
+webUrl: "https://www.futurecar.com/5157/Baidu-&-Geelys-New-Smart-Electric-Vehicle-Company-JiDU-Raises-$400-Million-in-Series-A-Round"
 type: article
 quality: 28
 heat: -1
@@ -84,6 +84,6 @@ related:
         height: 474
         isCached: true
 
-secured: "YVuaA/g8czKBs8ISY9Foxe5mlbbBiKyKRjAhE3E1CA0GKwYppvsm4oB5UvFeqDdcdXfvMP2zmQCQnQcpq+ULLOD7+QSHbBBOS8zTuGMFbk3k/iwmUAX3n9i3KpBPR267WvjBL3MDoIVEofElSh8CBrNroygXQWPfhmW6lzEi8cFjxiJ24ciffe+AwhicJMN2qERdG9vGxA8dadmy3DurSR73/sVTbZ451yEfnvU7aj1McD3tJZraRnCNeu4/Eb8HImRmXt08W2irO/0OjKKkSmxayXCjC6uplxtePH/o/t5YN4Dqj3nGW3HIqQDHgGU2yDEpbs6M/Y5kf1LTg6V2XIVi51uN8Lqlg/EFNRzJ6x8hDslDjZEqtjEbZ79o8le5BnAl/BeKs7YpjxXkGrSCcZ72d8nODbv6mMgxsSxIdXnDYm8PULfuo+KElTsAjTjKQSU8cgfVGkM/HWwglSKRaxFdh5Miyt/Ke+Fhkd9qiP4yXR7zjJS3L1DFFQdl/3DkbJ66dnUhhOwJ9HTKubdR8g==;HZ+PMoWVqpktfZyYq+4ntg=="
+secured: "jOzvvtu41P9xSounKnzimQU76zri7i/0CfLyUTEYCWYtMq+m1GbC+RorpKbfm0Ame9U4+KxaR6qCAIRHEHfQsZPKL3QrKZE7XPKfX2pI/6l8LARxUgigbJJXYCZhcnStTnEGhncQOlx8KDJLaeaxmBNpa25dJIDN9NDiafYEkjhDWxd1xd3qAdG/0Ff+gW0FJXei3e8mHlbsCy3zLneCQO/7JjpZUyTuCfcrgmu9yfsgoPkXFZLukoulhlEZbq56tO3ovBaCd0/nLxG5OG2H3PPuXMPaO0oWyUdghnvOxwoKrFkdTEqCQSWeC7yFhUyapjTsQKMgrJovMdvp//yBtroM6eE0+Y0eKV+M1+0v7sE=;vlVwxCsaURNz4uYLgXxdtg=="
 ---
 

@@ -29,21 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "How to stand out as a fashion AI startup"
-    excerpt: "Adeptmind, the emerging AI and machine learning tech startup backed by Ulta Beauty, is providing its technology to over 400 retailers, shopping malls and brand clients."
-    publishedDateTime: 2022-01-26T11:00:00Z
-    webUrl: "https://www.voguebusiness.com/companies/how-to-stand-out-as-a-fashion-ai-startup"
-    ampWebUrl: "https://www.voguebusiness.com/companies/how-to-stand-out-as-a-fashion-ai-startup/amp"
-    cdnAmpWebUrl: "https://www-voguebusiness-com.cdn.ampproject.org/c/s/www.voguebusiness.com/companies/how-to-stand-out-as-a-fashion-ai-startup/amp"
+  - title: "Bias in AI is spreading and it’s time to fix the problem"
+    excerpt: "To unlock the full power of automation and create change, we must understand how and why bias in AI happens and what to do about it."
+    publishedDateTime: 2022-01-29T16:17:00Z
+    webUrl: "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/"
+    ampWebUrl: "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/amp/"
     type: article
     provider:
-      name: voguebusiness
-      domain: voguebusiness.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://media.voguebusiness.com/photos/61f11f22fd855c197a6d5d9d/16:9/w_1920,c_limit/adeptmind-voguebus-adeptmind-jan-21-social-newsletter.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1304302959.jpg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 600
+        isCached: true
+  - title: "Monetizing and protecting an AI-powered virtual identity in today’s world"
+    excerpt: "While voice technology and virtual identities could lead to new content experiences, there are ample concerns about what the future holds."
+    publishedDateTime: 2022-01-29T14:40:00Z
+    webUrl: "https://venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world/"
+    ampWebUrl: "https://venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1158392795.jpg?w=1200&strip=all"
+        width: 1200
+        height: 603
+        isCached: true
+  - title: "New Designs to Fix the Search Engine Bias Problem"
+    excerpt: "Tech companies looking to design next-gen search engines tout the potential of natural language processing (NLP), where GPT-3 leads the field. Yet research shows for all this promise, daunting bias challenges remain."
+    publishedDateTime: 2022-01-29T13:40:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/how-new-designs-can-fix-the-search-engines-bias-problem"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 24
+    images:
+      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/61f53ef3399310c58692e6c8_shahadat-rahman-BfrQnKBulYQ-unsplash.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "xnSTwc76Axw7+CCFJiXzAXyfhwXcyzBgubMTu9txi36hjSdpMguZ3JRnb9i8l5ScTKeN4WmS71be++UrYIkY2XyOvqppk5JBTwQjU/RG0qSEr6FDM0jMvFlnGHfZmpE/W/A1Ug2i7MzfjbdBJC/fp5LHfIJw9gq0CcdmzSIKwpuxYfXbT+Z6xmysjIWa9RLUSv4jYxCLC7KE4FO6kpsAyI+TqO+6lZql77JoH1hEXgU9jNIi47/1cp1EfrmMsOPhXDR43lcHfGxp5hNlDaJnKmzdXzPKVqrdVTHZlKMMnNgJJv1Bktmu9VxqEVgobm+/X8Vefl0thHOx7kahFt59P0Bys9eKrzsb+Nlr3Eba1/h4B0mBGk+w0Z8MiRa+i8ZPCxS5mUnif8uHB/u6C90VBMStOYukybcUzpcBNzfbF/+36qkRbHj4pK0IIGVYqa8BP3eLAO3JYcBWd7oR0fjYL98vSq522AqNTTxAeZQv9G1pSSytNMYJUpmCSFmIkE9wcu4LqdW/NdDSvywMs8wP/g==;SzZneaKslUXVNsltEK6VQQ=="
