@@ -3,27 +3,27 @@ category: news
 title: "Watch now: Are Illinois farmers ready for self-driving tractors? Deere thinks so."
 excerpt: "The high-tech vehicle emblazoned with the Moline company's iconic deer logo marks a massive leap forward for farmers, who will have a solution for improving yields and efficiencies. That could"
 publishedDateTime: 2022-01-28T20:00:00Z
-originalUrl: "https://jg-tc.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_30de5bae-68c7-542b-9e76-440356040c68.html"
-webUrl: "https://jg-tc.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_30de5bae-68c7-542b-9e76-440356040c68.html"
+originalUrl: "https://pantagraph.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_001de15b-c913-510e-8b7b-b7fd4c014e75.html"
+webUrl: "https://pantagraph.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_001de15b-c913-510e-8b7b-b7fd4c014e75.html"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: JG-TC
-  domain: jg-tc.com
+  name: Quad-City Times
+  domain: pantagraph.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/jg-tc.com/content/tncms/assets/v3/editorial/3/0d/30de5bae-68c7-542b-9e76-440356040c68/61f447df1d08d.preview.jpg?crop=1024%2C538%2C0%2C72&resize=1024%2C538&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/0/01/001de15b-c913-510e-8b7b-b7fd4c014e75/61f43f90e8fb7.preview.jpg?crop=1024%2C538%2C0%2C72&resize=1024%2C538&order=crop%2Cresize"
     width: 1024
     height: 538
     isCached: true
 
-secured: "EMCXZCBuTKhZwIlXUONsrMoUwWM3LcP57iFfVh6RjCB6rJ6Fxkhku9T44cpYrZP2PlpemBcLvH0IzLJELghUwu11mqJUzRH04C2Qg4kAHLja40PR0DLMADv4VOA6rKfJVyEo4rGoildpSnNb4+e9gExIig4Hdv7SI2R7al49DCkye2zvvhSNXkLZucmKa/Pu3ojuxISaJ9LxJ/wmmaTAtAX+faWwqAMtrhoT2/okhQeA9/nWPSZewSLJrUzn/YQA+xZOH6DHsW3SQ6s4jAKiltbnQa9GHjftDVRjfNrNSpldOkuofwpDX8AO4Qj6j+pesGQlOqBH4vYWxCP6kGUDdbQhRXJgrvtcyFBUzFE+H10=;jBuEaE0K2S7CrS8guahR6w=="
+secured: "TfOwiSPfHEeK2BT0uQf4kG/hE5UNW4cFpyTttuTdB/zk2dahgX8OYyZ4VR4Aqu5XyjGuq17q7X1tmpq3nFkyP6XelwhLTEQ8n1vd7HKGQzZiAgXLTUwQH0F6rRZSLS+r+jpAsoz8tv5gCvrU1fM9lrDwAGRYqeSeRJ5Z6q5vAMPue8St8o2dn3kPxiWo+d/lw/jrP8Z923NHzKyC4MTD6U/YyGqZYNW4hFXO19V57Skqo3WCP/6ovCcRjCwzVx+mUmTbgSYO/3WRadsqtyjVmwBp5KIMdmFBoax/xCYQMjAeyAZeI+dSp1rH1oFWoCFXoSb6N5ZJoqF3I78/xyZgI91rwopAsN0f5DSITns4jqg=;HUA1kdXHb0wF3snqdm+6UQ=="
 ---
 

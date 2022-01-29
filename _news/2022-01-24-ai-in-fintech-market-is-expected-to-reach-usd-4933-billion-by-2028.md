@@ -41,22 +41,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "AI-driven fintech MDOTM bets on game theory"
-    excerpt: "MDOTM, a London-based fintech providing AI-driven investment strategies, has acquired the team of Mercurius Betting Intelligence, a company specialized in"
-    publishedDateTime: 2022-01-24T08:00:00Z
-    webUrl: "https://www.cityam.com/ai-driven-fintech-mdotm-bets-on-game-theory/"
-    ampWebUrl: "https://www.cityam.com/ai-driven-fintech-mdotm-bets-on-game-theory/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/ai-driven-fintech-mdotm-bets-on-game-theory/?amp=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 59
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/12/GettyImages-893682676.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "3 Beaten-Down Fintech Stocks to Buy Now"
     excerpt: "These companies are growing a lot faster than their stock prices suggest following the recent stock market correction."
     publishedDateTime: 2022-01-27T10:43:00Z

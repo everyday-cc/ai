@@ -85,6 +85,20 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Global Marketing Automation Market Report 2021-2026 - Integration of Artificial Intelligence (AI) is Anticipated to Drive the Market - ResearchAndMark"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global marketing automation market grew at a CAGR of around 13% during 2015-2020."
+    publishedDateTime: 2022-01-24T12:21:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=604666"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 31
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Natural Language Processing Market Overview, SWOT Analysis, Applications, Trends and Forecast 2021 - 2030"
     excerpt: "In a recently published report,  Natural Language Processing Market  report for till 2030. The report further now discusses; th"
     publishedDateTime: 2022-01-24T10:40:00Z
@@ -154,6 +168,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "AI Medical Imaging Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
+    excerpt: "The Global AI Medical Imaging Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
+    publishedDateTime: 2022-01-28T07:21:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-medical-imaging-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 6
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "48IiyMt8GtkuuKvTMMwllgiZnlWGiNbY8U0nHETrbtRHwYg68P6Pio+aURDmQ6ejn4hWpNBhbLD1+MVur3YjlKrZF17ONln6hpuZA4Pi59rxwX5qc741R7wAe+zGX+Nn4VuAK+MWKXfTe9KN5eJvf3tUQLjLvxlArbmYJHAZ2KpdFCoKRIcOrp/2EYmio5fR0wbbUvGpgNU43CLTUa4dp6j2j+2EPQ2fXdfRJ5x1PRX3NxXTf8+scqYAn7pLooE6PcUbMklhhEAzML1/asjHWi95HjWxbobJfWAnkF3vA2DxTIzQA/VwwT7cEhWMFeLHAPMmhIiJsFhSB3EZVswd4i9MQp+bWayb5f+5RqLns/tzr08E4yOrcYOOrcgtc26Ym9XqfT5h4JG3MbS66R24Br3C23/izA9jE2GemRj9vpw2FktUjxTE6weGDKxaNT9t7isolZYvTNEOy2mgBLcsA6j+EKD1DO0moFmqYbIIGJda74LKnmbHnd43gGtEfi7LCUc1d0bLz1IRiHoYSBK9QQ==;uS9SoqvhBkkK/lIFEghK6g=="

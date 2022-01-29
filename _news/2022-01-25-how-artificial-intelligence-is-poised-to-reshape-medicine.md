@@ -8,8 +8,8 @@ webUrl: "https://www.news-medical.net/news/20220124/How-artificial-intelligence-
 ampWebUrl: "https://www.news-medical.net/amp/news/20220124/How-artificial-intelligence-is-poised-to-reshape-medicine.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220124/How-artificial-intelligence-is-poised-to-reshape-medicine.aspx"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_702475_16430863848533004.jpg"

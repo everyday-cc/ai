@@ -98,20 +98,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "IBM sells off large parts of Watson Health business"
-    excerpt: "Tech giant IBM draws back from its digital health aspirations, agreeing a deal to sell a large chunk of IBM Watson Health to private equity group Francisco Partners"
-    publishedDateTime: 2022-01-24T08:42:00Z
-    webUrl: "https://pharmaphorum.com/news/ibm-sells-off-large-parts-of-watson-health-business/"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 39
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2016/06/IBM-Watson-2-e1468582633630.jpg"
-        width: 900
-        height: 659
-        isCached: true
   - title: "IBM Sells Watson Health to Private Investment Company"
     excerpt: "IBM announced that it is selling its healthcare data and analytics assets—part of Watson Health—to global investment company Francisco Partners. Financial details of the deal, which is expected to close in the second quarter of 2022,"
     publishedDateTime: 2022-01-24T14:31:00Z
@@ -179,15 +165,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "IBM to focus on hybrid cloud, AI after selling Watson Health operations"
-    excerpt: "IBM has sold Watson Health's data and analytics operations to Francisco Partners, and will now focus on its platform-based hybrid cloud and AI strategy. No financial details were disclosed about the transaction,"
-    publishedDateTime: 2022-01-24T08:34:00Z
-    webUrl: "https://www.telecompaper.com/news/ibm-to-focus-on-hybrid-cloud-ai-after-selling-watson-health-operations--1411475"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
 
 secured: "qzYnGOAvu9InSm9i8srAsJnMbNaHCGdCy1Z7x4MUCm46B2pj6rYkOIvi7tUWndUfm2kDSw739Ride/y0aR92WLmApDR6d/3psDH57XMr6u5UoZQzwcIEOm3qyM2zysciBHe1W5txWt9Xz3OZI41cGqGFnFadMBgD3ThxodaCJHOzGmmUXI5M1SPsDzdgGfHySqGV7ldDYHDYOJliI6eaT6u4KZ4RPQf1VAUKNki+melvMys6DxxwUa0zhBA8roIoiDebvk3xDVknTyaF+TS46vESQBaGSAn7S9KptB+31vSuIN8SBu+7ovnCWkuPLaFbn22HAme2zz71aPFua9o3mAIh0hmipRtpMK9WjD1J82M=;Qi49mNaY4B56UtLYhTWstQ=="
 ---

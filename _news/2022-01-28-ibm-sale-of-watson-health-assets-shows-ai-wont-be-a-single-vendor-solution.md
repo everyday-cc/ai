@@ -83,20 +83,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "IBM sells off large parts of Watson Health business"
-    excerpt: "Tech giant IBM draws back from its digital health aspirations, agreeing a deal to sell a large chunk of IBM Watson Health to private equity group Francisco Partners"
-    publishedDateTime: 2022-01-24T08:42:00Z
-    webUrl: "https://pharmaphorum.com/news/ibm-sells-off-large-parts-of-watson-health-business/"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 39
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2016/06/IBM-Watson-2-e1468582633630.jpg"
-        width: 900
-        height: 659
-        isCached: true
   - title: "IBM Sells Watson Health to Private Investment Company"
     excerpt: "IBM announced that it is selling its healthcare data and analytics assets—part of Watson Health—to global investment company Francisco Partners. Financial details of the deal, which is expected to close in the second quarter of 2022,"
     publishedDateTime: 2022-01-24T14:31:00Z
@@ -164,15 +150,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "IBM to focus on hybrid cloud, AI after selling Watson Health operations"
-    excerpt: "IBM has sold Watson Health's data and analytics operations to Francisco Partners, and will now focus on its platform-based hybrid cloud and AI strategy. No financial details were disclosed about the transaction,"
-    publishedDateTime: 2022-01-24T08:34:00Z
-    webUrl: "https://www.telecompaper.com/news/ibm-to-focus-on-hybrid-cloud-ai-after-selling-watson-health-operations--1411475"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "Francisco Partners to Buy IBM’s Health Care Data, Analytics Assets"
     excerpt: "IBM remains committed to Watson, our broader AI business, and to the clients and partners we support in healthcare IT. Through this transaction, Francisco Partners acquires data and analytics assets that will benefit from the enhanced investment and expertise of a healthcare industry focused portfolio,"
     publishedDateTime: 2022-01-24T11:07:00Z
@@ -188,6 +165,6 @@ related:
         height: 628
         isCached: true
 
-secured: "XUK/OaonlZ+pPDKL0flQP5uj4tHr0+h6siv9Hav+xjN2RQRqBSLq4DfIpqznhgiG+bvHRERs0pTMAaBzxmueQ0/1d8YyfI1pc1hnciDWV3NLGncwDWJJhG5HoE7YKklCuBwfjt4hjj4WoZv8bZHIoZpOLG5rliEecK33tqPM/QJN0RKQKuaC0kjZFXeGYUovStS9Bpz1H/NBOmZBU/AmF+gMqp6RS5naFKbPWJCL/O2OJSm5Hja64rdx+FbIco5LSD8TRegdMAI/8hdwP+kROMHF4xvRaP8hp0qOp+82Jm6GB3XSycK+PDT/9fvk6S3skt/CMjPoXfLpEHm4p7tb487KR8RSVqNwEC4U2k4lVIs=;w43qUiUFETqTkm1lQ1nLMA=="
+secured: "fx59IDoFqjY8TJAoLKlZejp4hVNX9YVMI7ofS87bHSbMzGJgOnpfJqp4ECwxUNSW9nBs7kj1pWVGs3lX7hlVK6M2GNIp682xEEt3ZjbGeW4NNKFDK1S76YHBKvtdgziikkHbE7ZixOctcYhVfLwEUZ6QhOy1pGl5Gas/l8Qb2cqy1DB161wlfGJEeOW0+Y0BuaDmT6pCiXjKX4jxSZqGl2RRD+ffxQAcBYLZFsGa5mDCwHeRamS3jP/mnEXZlm/oWhCdrG4yEDgWcOdIbBZl1LTm13GuKiNTU6SnxMb2+MBxvmOmaHOsg+FKLW3sBgaRAJ1w12ts/7fVufDWfz7iE4fVFOA449tjdme95Bsm5xnR7VXYPBjxS2pPJOjLmzV+pd/BDoEiEA2mioevr3e4Aq9v9DLjpLQpz9OumKBhOh81ZmGn0VLvn5Ip3uJ5CL1rOAHV1GzVNXsRXdD1NJscw/ypTYmteSZJ5CDGgJQsFb74yDIgx2bMnm9JgBpAZbrztTSQGXyLqvYDJjTO1KSYBg==;cl+esc+eQ9GLRs3qp/TpOg=="
 ---
 

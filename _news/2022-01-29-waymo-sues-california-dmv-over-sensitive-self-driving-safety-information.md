@@ -41,7 +41,29 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Waymo sues California DMV to keep robotaxi safety details secret"
+    excerpt: "Waymo, the company that operates a fleet of autonomous taxis in San Francisco, is suing California's DMV to keep safety details secret."
+    publishedDateTime: 2022-01-28T23:48:00Z
+    webUrl: "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/"
+    ampWebUrl: "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
+  - title: "Waymo Sues DMV to Keep Robotaxi Safety Data Secret"
+    excerpt: "The suit stems from a public records request to the California Department of Motor Vehicles from an unidentified individual or entity seeking access to Waymo’s driverless-deployment application — the basic filled-out form,"
+    publishedDateTime: 2022-01-28T23:36:00Z
+    webUrl: "https://www.techwire.net/news/waymo-sues-dmv-to-keep-robotaxi-safety-data-secret"
+    ampWebUrl: "https://www.techwire.net/news/waymo-sues-dmv-to-keep-robotaxi-safety-data-secret?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/waymo-sues-dmv-to-keep-robotaxi-safety-data-secret?_amp=true"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 39
 
-secured: "xpffmwDQwqh4aLJjEKXhIslKLFQsTbLUTh0NozGBZQ2M14x32E0zs8gRs+5pTP9Gl9EkltrQsLA90yH4E23+P2YQ/QBA6N/Qjh9yZKS4nnUhU8O2fO+PBQ5DKvuiDJoPNzxqu8g27mRgzvAPjf8vRNDWD2EUvZivIZJycK/bO/pNeWWVTH4nK6eEBMggVTTEXl6+zXDV7IhGV48DzeFc1nywW6qj6LX6lKx2bz7q8O5B/mT8nRcSkw72nmyT5ACquq/NcTvfk80mN9bP4SJ+XEpWivoFPsBCFqdMKzVCiODzN9yM7+uFibBljACJfQK8P3ZY/x1+K5ocTt9GFtL8TENqVlsOl7KprbvEdb8rd2A=;H/95cbVbXuT7pGVd05/EZQ=="
+secured: "WQICsAg0iS5dN5Eg6d5pRTSajxYJaRzpvrJW/oG8m/1UxWMsJr6i7EnQGPruUGWBAvjW4t8nAIDTecaUTOGCzsKnv16yHZC9EqNM5QgLIvTfc9PEQ0X18q0XpROnM0WGu5/uT4kdtl7nPFUERSaUjoNOszHL2lJ6R7/Ts8T1AUpPXMiAWr9SuqC680jUVY1duAMc/1reDBF7jYl58mRVXh0GOV5ZknlmlOQ3WZVFTbVJ2W56DpFw04FM+veDMyLwbAcj0xF+ty/nS2b4ZTeBVgIbyTTzvPs+nYu4NfUY2k7zhiriaMVSTRAKrvHpGGxHH6PtI0zatONNNA5CtXui1S/EbRM0dI1HLAiJlfuJV4B7Bb0wpgXYX/HLN3H5p8f+h1lLk1C8OhmwKrNRizwjl2zvTh4s4th2r8P+q68gdfa2RaXCLcROnKsi8bHUdswqxvidLFkrWwHFiVVW5akchZyxZqydTkqmQ7VY9urli2AdXW/5iUHZPSg37vW4lPz1sfUewMCl0lxoqzrTLadlRA==;w///73ut+IEJraHWQm9iOw=="
 ---
 

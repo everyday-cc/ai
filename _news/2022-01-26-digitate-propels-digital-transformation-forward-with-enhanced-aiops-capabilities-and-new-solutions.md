@@ -129,6 +129,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
+    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
+    publishedDateTime: 2022-01-25T16:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "MinIO Raises $103 Million in Latest Funding Round"
     excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, announced it has raised $103 million in Series B funding at a $1 billion valuation, enabling the company to accelerate multi-cloud storage adoption."
     publishedDateTime: 2022-01-28T18:46:00Z
@@ -222,15 +236,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
-    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-    publishedDateTime: 2022-01-25T16:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
 
 secured: "e70CZOO71EWopoVp1LwuoanQdm8SkcY/ka1zV0MSZAmMlEjbgva4Nbk1Wi5nbPSUixH+TLuoJ63YCqQmP8GlPrPOL6LHNlP8+g+6EmM+zC0cn4T3euAbxpvhEkwUwzyRtK4ROF8q0y3YnRxPj8XBnosJ1PhlHY+t97B0X6a+7qJNdm2a7ECtsmQjKkR1Pipx6w0debAhKYKYgHUUd4LQezP38kJOIgZ8JkmXtn9T7cvwgEuJnXwXll4ubuKLenBRaVrHo6DqvF8ZQnnjlgnZujn8miOaX/r1kdCm45ggiTdQLcZEljAZe9OO66tas+iqAVF0LuX8uWNLRP50JxdfY0mJYOlphQMbiW6Hg21yCW0=;54Nvc2no+1P6XWziPFe2iQ=="
 ---

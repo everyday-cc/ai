@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-27-global-size-share-growth-trends-and-forecast-2022-01-25"
 type: article
 quality: 59
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?25642"
         width: 374
         height: 250
+        isCached: true
+  - title: "Global Marketing Automation Market Report 2021-2026 - Integration of Artificial Intelligence (AI) is Anticipated to Drive the Market - ResearchAndMark"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global marketing automation market grew at a CAGR of around 13% during 2015-2020."
+    publishedDateTime: 2022-01-24T12:21:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=604666"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 31
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Global Surgical Robots Market Size, Share, Trends, Industry Growth and Forecast 2021-26"
     excerpt: "According to IMARC Group’s latest report, titled “Surgical Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global surgical robots market exhibited strong growth during 2015-2020."
@@ -153,6 +167,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "AI Medical Imaging Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
+    excerpt: "The Global AI Medical Imaging Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
+    publishedDateTime: 2022-01-28T07:21:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-medical-imaging-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 6
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "XarnrNs+bIBatEkYjC4i6yeRqLmGX3EI934pb5nIX80b+OqXLVECHcgsfcmEw11O0EwkFncVrSV5uV1z+qn36QPKr6uGZY+uWhTWVZ0utTFEw+5mSI037Pu9P4ChXPsY+hY0/s3tSaXfN3KWrOlhGqmyX+5oDQpph38c+f6CeP9qRJKApNCvNH7qI4WLQnbrZiQ47WztWCuZH7iHkX/N6WB+htP2ldhW79jnmKBaah7BThBgz5x6wzSJ5rpcVPWI0fNCY22KCE91NGVEkcS89mfwQ4mYPcqIDMHFle/t8Tlx4fokq4wN2ouWLhbjp2MYcxTxc/b7qJbrKg4P6s/LmtHmWductf9WKdglNQvY7bQ=;fWoYtL9u5gMU/yEfNwTXkA=="

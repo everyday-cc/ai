@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Dataloop Applauded by Frost & Sullivan for Accelerating Computer Vision AI Model Production with its Data Management and Annotation Platform"
-excerpt: "The platform helps enterprises accelerate computer vision AI model development by accurately labeling data through automated annotation. Comprising integrated deep learning algorithms with pre ..."
-publishedDateTime: 2022-01-25T16:10:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/dataloop-applauded-by-frost-amp-sullivan-for-accelerating-computer-vision-ai-model-production-with-its-data-management-and-annotation-platform-825685988.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/dataloop-applauded-by-frost-amp-sullivan-for-accelerating-computer-vision-ai-model-production-with-its-data-management-and-annotation-platform-825685988.html"
+excerpt: "Dataloop Applauded by Frost & Sullivan for Accelerating Computer Vision AI Model Production with its Data Management and Annotation Platform Data"
+publishedDateTime: 2022-01-26T02:39:00Z
+originalUrl: "https://menafn.com/1103593250/Dataloop-Applauded-by-Frost-Sullivan-for-Accelerating-Computer-Vision-AI-Model-Production-with-its-Data-Management-and-Annotation-Platform"
+webUrl: "https://menafn.com/1103593250/Dataloop-Applauded-by-Frost-Sullivan-for-Accelerating-Computer-Vision-AI-Model-Production-with-its-Data-Management-and-Annotation-Platform"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1730904/Dataloop_Award.jpg?p=facebook"
-    width: 1500
-    height: 784
+  - url: "https://menafn.com/updates/pr/2022-01/25/F&S_b3ca7image_story.png"
+    width: 698
+    height: 360
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 450
         isCached: true
 
-secured: "NbhEB6Ih+cjK9DLATGM5E2eoJZiwb6NbMmsMi9VpX+mIFzvW7kTXTkYhBNCLWUA9i0UvYP8RV9n+jRruAvPd+hNFrrGw37+3MR/pdZuzcUWbGYL9ncte3xBfIdwgm0y+yVb5+pH5ZaDBxv8Ay8ZJZ6PkkYh2b2nO42mCB3OOrtoARglEXD3WAcvUfNwRUD2Y8A1Iosb01w+PV5MK5fX6OmFdqgWwK08B1kVFX5UzaLaAR7/dC7aKRmkILq1h2m+R+ugwDpv8w6tY23ldBkvKAv+8jQQBpyJuT7TIEwHautpV9QhZXpwEtMquVEku1goY/h1pieM8roToVNdF6HdVtQWXmmaRfBEQCcN3E7J/Kqk=;JRyaoiNOa6kZ/ON4eSgBBA=="
+secured: "h0bcFLwQ5xRanDrqbis+JgUpYDngjJEEmvybjYTULVnqzixf3vKMTRGf7omsEb+c2rwYjzepyHe+xJLwntRAa+GtnblFMoUOe/I9ElL+2iKO+vfst74DjYI1Gq8TjEBXrpL8noO8Pz52pQ6IFrSmvxxjPl2ZIFJTiyzyQGHHFqM7nDpvm0CUj2C47G96T+/jRNMqGtt2DcCg4cypDR8szE3tELVQlRAksnhVxrTPIMySVRXl1biBHzvRldhflNU+oHo2wX7P2b4HOyzbTu7Q/xSg3bhH503qLyyd2zzvN7AeBihAD0z9+8FUWiawQaYNufLaPWISIdFDdurFeIJXNc194NMoZub+Tt3n1vDGH80=;/zF8BwwD++rqnOAsCLq5AA=="
 ---
 

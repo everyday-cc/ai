@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Could AI help solve the healthcare staffing crisis? One company thinks so"
+    excerpt: "From patient data entry automation to clinical decision support, artificial intelligence can save doctors time while improving quality of care, according to John Frownfelter, CEO of Jvion. He called AI \"a key part of the solution\" for the nationwide healthcare staffing shortage."
+    publishedDateTime: 2022-01-29T00:21:00Z
+    webUrl: "https://medcitynews.com/2022/01/could-ai-help-solve-the-healthcare-staffing-crisis-one-company-thinks-so/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 53
+    images:
+      - url: "https://medcitynews.com/uploads/2021/02/GettyImages-1087174600.jpg"
+        width: 2119
+        height: 1415
+        isCached: true
   - title: "Artificial intelligence could help better predict the onset and course of cardiovascular disease"
     excerpt: "For the first time, University of Utah Health scientists have shown that artificial intelligence could lead to better ways to predict the onset and course of cardiovascular disease."
     publishedDateTime: 2022-01-25T05:39:00Z

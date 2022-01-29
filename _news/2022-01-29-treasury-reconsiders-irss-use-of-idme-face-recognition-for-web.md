@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Opinion: IRS Facial Recognition Rule Is Undemocratic"
+    excerpt: "Later this year, the Internal Revenue Service will require IRS website users to agree to biometric scanning to access tax records. Why should the IRS have the ability to put citizens' privacy at such substantial risk?"
+    publishedDateTime: 2022-01-29T00:51:00Z
+    webUrl: "https://www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic"
+    ampWebUrl: "https://www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/6f3fc0e/2147483647/strip/true/crop/5472x2853+0+383/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F79%2F88d1808747fb987ab61a9ea55fcd%2Foped-irs-heritage-commentary-get.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "IRS Website Will Soon Require Facial Recognition To Log Into Your Account"
     excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are."
     publishedDateTime: 2022-01-28T10:19:00Z
@@ -114,6 +130,6 @@ related:
       domain: dairyherd.com
     quality: 16
 
-secured: "5wU342XJ9XUCPt7RJlqPv1nrc1i2Vo3fqG2OndMuDDWJO6K0sIIrFYwvngmzTMfFf191l1Mz9VCfe6wzUHJxQNclGT2qYpgf8k6wWN+WRyukfX7napTFmqIM/MrJf97czyLfDII2qB0FxlbvUxmFTKiF/Wc9svs5XLsa+SZX6P9HcKzcOKAOiP70JwEETPxjbxfs7vrQJgaJVl3dCVtlXClsn8hhWSDIY91RA6SiwMVdX+k4Z3tUtmp5SUOWVzRuGG/lc/OZr/oB4+XmnaTjiiX32C1RWaBTtLFTfC3jmAnQjBEpdX0tfkWhkrmt1gvPKThs+B0PrVlDAXu5uXJA3tz03s45wIVBaXv+sGMp2rE=;igfBV1Vj3t5QTqVV1yZllg=="
+secured: "LIspUS/XPWvsVxD6AtPx0ySSVJV9r6ccnGRFAtPfN4kL4AjTYZ0rp6lHTehymPUrnmCkEDqCT1jaLk14gQm2/0IYVdxQ6nJfYTqpYmUJ58l98RZVbGAEndFN+HbmPh1aUDuKF6H3i4pfzoJ7pLIo72q6DQpXGYlU1+yMG2aKowYnSbNO2CsSq8fFny+WLkt6lL2yx6y6bjdOkmkVa8aD8AKtRNQUpdkJhHXKhli4soL4SirxFqFjGG7zi7ciQrb/c2NHu84lLH1fDgJTDKhn/8lEq89MuMvLNlnGAarEB+9BfZLpiWGzay/pN9R87tZQG+MUMqq4w0853Y2kanLtT4Kba4A9Q+5ymYjT6SDl+VnRubphRpLjhPdKcxxg7m4o63NtpYKcLjyrUyCKKeuk0kIm4MF2JpPom3g13dM407EdKcJ4FfpkUtDcZjrtQxtn7m45sfri0e4wZuZs9QAy/+LOWUoAVlrJQj7raWS58CP6oWI8gpUHhf1NG8GE0rRIv2BfrpawbFvSJEKdSYTqRw==;HeENjtAEvILdrHFbqAA8TA=="
 ---
 

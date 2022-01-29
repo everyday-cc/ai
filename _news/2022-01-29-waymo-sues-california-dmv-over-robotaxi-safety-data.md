@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-s
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: Government Technology
@@ -27,6 +27,28 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo sues California DMV to keep robotaxi safety details secret"
+    excerpt: "Waymo, the company that operates a fleet of autonomous taxis in San Francisco, is suing California's DMV to keep safety details secret."
+    publishedDateTime: 2022-01-28T23:48:00Z
+    webUrl: "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/"
+    ampWebUrl: "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
+  - title: "Waymo Sues DMV to Keep Robotaxi Safety Data Secret"
+    excerpt: "The suit stems from a public records request to the California Department of Motor Vehicles from an unidentified individual or entity seeking access to Waymo’s driverless-deployment application — the basic filled-out form,"
+    publishedDateTime: 2022-01-28T23:36:00Z
+    webUrl: "https://www.techwire.net/news/waymo-sues-dmv-to-keep-robotaxi-safety-data-secret"
+    ampWebUrl: "https://www.techwire.net/news/waymo-sues-dmv-to-keep-robotaxi-safety-data-secret?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/waymo-sues-dmv-to-keep-robotaxi-safety-data-secret?_amp=true"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 39
   - title: "Waymo sues California DMV over sensitive self-driving safety information"
     excerpt: "Self-driving tech company Waymo seeks an injunction prohibiting the California Department of Motor Vehicles from releasing information it considers trade secrets and proprietary business information."
     publishedDateTime: 2022-01-28T19:57:00Z
@@ -42,6 +64,6 @@ related:
         height: 600
         isCached: true
 
-secured: "LKdCiHDOojuRZ0nJu0jkKRK0oJGOlqUl3F+/juQ3iBNpX8DpjeQVLzhAMCwZcNPmHo70byEypsUqvQF1Nkzlxgd9+tXswb8MWJVFQ+kykTfC2x4DoaZj0pCe0podbV5nSP//c31ez36XTVDt1Tl6NlFOCqQkwIssWxBVOBi9OsmbbVuaKMkHwPIf1tb4iK234l+wgcuI42qcsD346ygSpYcKwF/qM+ZtRr+oY2bcHqcj9ePEu4jFK/+ct8aBY3v/lCmbjZrxuJFuPL66768+YM3wL44gWgroftTWvbO3XH15IxbJvTPx3AVnBg+fa0gFzbYmEVwOfobnPXKqP0/Cfx9qWfTzyD3Mpdv1bxSDFvA=;QVmVkMjdvw0mgDzMA8xMoA=="
+secured: "pQ4cbXjJGVuOlJZOm3XyzAxU5Ell9HYh8mDz+qwZsprlnnX59UB/wxN0BvOf7Iyw9yZDCFLagNxgNk21ZzuteVckjnkaH1WN7R0xsnfx58EdtYOzrlDM12O3BBdnlJfbgIXErDQB3j5OdGdn4YgD+SH+xGjN8d9+xu1xiqoPYZ2+nVVxPY5MrfROMUUUBEIIreLFwMYRuOQioQU5RYkCUt6M4pSyCzWvUq3PxWoZbSblcazH6SzXIVY4b4GCl4Fx83Fkd5puWC/7pPmrPzm09gk4k8PdcapTK/xggkALO7dLBOiMEtGGEPc4tLIKJBMOegnzbYnPTN0I/DOYcGbUL668+udRNOaTNYl8B2z50B8GT60aMYtsrgKJ3/rWRzSpaAjksStqCJZuzpXPhbiHH2bCA9jP4hJTjz/diOjwoV+5uZTM78Rha+WEMkcZNi3HuolPYwuvHZqJd459fa5xE5Repy9oAaNzK5dvtI9nygzz8KaW8VJb1sl2gs27ysowNYO27+jSrIXr5SPU4hcaBA==;NLfFvNQFJ8rOTHpRpY4vbA=="
 ---
 
