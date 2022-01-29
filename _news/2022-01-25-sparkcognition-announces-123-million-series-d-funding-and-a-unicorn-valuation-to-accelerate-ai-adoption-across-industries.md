@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sparkco
 webUrl: "https://aithority.com/saas/sparkcognition-announces-123-million-series-d-funding-and-a-unicorn-valuation-to-accelerate-ai-adoption-across-industries/"
 type: article
 quality: 111
-heat: 241
+heat: 231
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2022/01/16x9/MDS_Executive_Summary.61f015c0d07ee.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
-    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-    publishedDateTime: 2022-01-25T16:38:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "MinIO Raises $103 Million in Latest Funding Round"
     excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, announced it has raised $103 million in Series B funding at a $1 billion valuation, enabling the company to accelerate multi-cloud storage adoption."
@@ -179,20 +165,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "The republic, recognition, reconciliation and the constitution"
-    excerpt: "Indigenous lawyer Megan Davis is republican, but she is foremost an advocate for changing the constitution to meet the requirements of the Uluru Statement. She believes that the unfinished business of a voice to parliament needs to be enshrined in the constitution before a republic can be considered."
-    publishedDateTime: 2022-01-25T06:36:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/latenightlive/the-republic,-recognition,-reconciliation-and-the-constitution/13727928"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 24
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/13727956-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Raven unionisation plans continue without Activision Blizzard recognition"
     excerpt: "Publisher did not respond to workers' request, says it will respond to National Labor Relations Board petition"
     publishedDateTime: 2022-01-26T10:20:00Z
@@ -207,6 +179,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
+    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
+    publishedDateTime: 2022-01-25T16:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "WsWZGxd6j0VNhQ7RxZeNtIqGMyoAH+Y9HqHIiyDEZNlgGtwUTH/jbDCxhe52T5rhk9gVV+XaC2VTpru41SJ1Z5kG/nRjkPxiCVOWXGDgcLmgsOLGXHZbfR7qkWFPg02IvkDo+NaFe8+rhWbCNeeT0xsDAf6uS+CP/JBtTSZpQu9smY2Z0u4C1qRJm/dY/yyhflNujHzxr8xJRb4Eb8SYWj/hAWdfnNaBHLN8kFCGjo0kcRqGmReLC3Ckt98pVuP1q9GUb+gYCJfAB39oSZnK3n0WOaFlegyDQIJF7TzO3w89LzJwLvyTnXCKxMNat7qbP0CVrltki3mUZ5doR2SfAqbfIiyd4O9PdftLXVJtulA=;qvx6lt4bLGfMn40ZkZZclg=="
 ---

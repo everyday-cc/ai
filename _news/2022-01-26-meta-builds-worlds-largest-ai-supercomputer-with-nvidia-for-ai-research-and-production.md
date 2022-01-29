@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/01/25/meta-builds-world
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/01/25/meta-builds-worlds-largest-ai-supercomputer-with-nvidia-for-ai-research-and-production/amp/"
 type: article
 quality: 83
-heat: 283
+heat: 273
 published: true
 
 provider:
@@ -93,22 +93,6 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/22/16/facebook_by_gerd_altmann_cc0_via_pixabay_1200x800-100758881-large-100825209-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Facebook Parent Meta Built the World's Fastest AI Supercomputer"
-    excerpt: "Meta (formerly Facebook) is the latest company to build an AI supercomputer. Meta's new RSC supercomputer consists of 760 Nvidia GGX A 100 systems containing 6080 GPUs."
-    publishedDateTime: 2022-01-25T06:45:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/facebook-parent-meta-built-the-worlds-fastest-ai-supercomputer-726235"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/facebook-parent-meta-built-the-worlds-fastest-ai-supercomputer-726235"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/facebook-parent-meta-built-the-worlds-fastest-ai-supercomputer-726235"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/01/25/1196841-meta.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Meta says it will soon have the world’s fastest AI supercomputer"
     excerpt: "Meta will control what he believes will be the world’s fastest AI computer. Called the AI ​​Research SuperCluster (RSC)."

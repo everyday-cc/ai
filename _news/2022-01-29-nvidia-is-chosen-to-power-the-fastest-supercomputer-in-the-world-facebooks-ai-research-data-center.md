@@ -99,22 +99,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facebook Parent Meta Built the World's Fastest AI Supercomputer"
-    excerpt: "Meta (formerly Facebook) is the latest company to build an AI supercomputer. Meta's new RSC supercomputer consists of 760 Nvidia GGX A 100 systems containing 6080 GPUs."
-    publishedDateTime: 2022-01-25T06:45:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/facebook-parent-meta-built-the-worlds-fastest-ai-supercomputer-726235"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/facebook-parent-meta-built-the-worlds-fastest-ai-supercomputer-726235"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/facebook-parent-meta-built-the-worlds-fastest-ai-supercomputer-726235"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/01/25/1196841-meta.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Meta says it will soon have the world’s fastest AI supercomputer"
     excerpt: "Meta will control what he believes will be the world’s fastest AI computer. Called the AI ​​Research SuperCluster (RSC)."
     publishedDateTime: 2022-01-25T12:27:00Z
@@ -311,6 +295,6 @@ related:
         height: 450
         isCached: true
 
-secured: "yB4IkDWGRnLzOdyoQpJ0csLifoJlnEizG4FBq9ysTh2XFbUVYVdUho7l7GSv4Fxlo63nTvvYGbFnVABXO0yTrtEOfdxva4kNwZUYCJXMs+6F45SUttk1KzeSwpbavTlRlX2nwBWqlnoZdX6k06HBv2fld8+ydIAC8aSARf3sVV/eh3VvKHiib6kk+XtgC4SdrcYHFevtXMjPUxI5FeSMUaeI8nhjrDKLzRvIba3v3+Xd0telleuvn2t+SjZNS5NTHbGO++oFZVBEOAbKmKg1SLaF/U0IF+olZy1YQVcS82MT5dOLl4lhbXzGsy7gdX7t4wch6rmYTvAU/GX1r4L2uIRufUm9gDc1QphrsgUpBDM=;5Gg1THPLlJgt8HrSkw4IUA=="
+secured: "3xhtend2yZFSfmLdsLuM48lymUavO8vmAd2iTmxx3q5BThYT0POP/ZkzWOOBeAWoW5QNtG9S5x6+Oi+/dY2T75faKjmFw3CKDYdr8m/3yh7DI1Wzw+kuQejTLK4aCoO4JHM8l69F1cGPjsvWxxPh4Z8nJlq1gOEzcIJoST/6AKbjO57K56TYOOC2Ov/rGERotVikWU06TdbNPtCHax0jGe3ZMkKnztBCOs3vRHs+5HnN1w46y/1my5gMcbPg/oybSP9lSBqKIJQUJ2KxZF5GqpU9luiAVGQbPohx8CPux9VqGpa5gzdM+Hlc5MrE/GBL9D8GoJJd85yIO1MJ6c6jVucCSX8gWfV7B1p6dHT1eVs=;xtJ5zaSnvrCOc0UnRICUkw=="
 ---
 

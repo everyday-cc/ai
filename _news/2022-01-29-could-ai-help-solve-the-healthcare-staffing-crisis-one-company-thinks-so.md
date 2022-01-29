@@ -55,22 +55,6 @@ related:
         width: 995
         height: 532
         isCached: true
-  - title: "Artificial intelligence could help better predict the onset and course of cardiovascular disease"
-    excerpt: "For the first time, University of Utah Health scientists have shown that artificial intelligence could lead to better ways to predict the onset and course of cardiovascular disease."
-    publishedDateTime: 2022-01-25T05:39:00Z
-    webUrl: "https://www.news-medical.net/news/20220125/Artificial-intelligence-could-help-better-predict-the-onset-and-course-of-cardiovascular-disease.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220125/Artificial-intelligence-could-help-better-predict-the-onset-and-course-of-cardiovascular-disease.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220125/Artificial-intelligence-could-help-better-predict-the-onset-and-course-of-cardiovascular-disease.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "YfxXZti0ciEFoL5eV+TswlMXTgc/NeBQwVm69CWY/iasQ+hMKBweECGM53bWVQzNbi33cCWmzZGSLXCU9g9MbJfY4zMEY65mmKsqJmmgo9aKCAST49OJurtz9AhKoDE6lFXw69ketI91F6AqgU5b9OxPX+MRZ/XJnmMGXHmcd9k/3nG4dAyzhVRqiIB2q7O32LylX3jXx7sTcOk8T7sATGNXz1yeXWyMTB8Xjq7x4a9RlMUGCQ5nMLNlOCLkd7PFmB1x/b7hCb3g3MJjC6rAhOLyJNXz8NmIfL0IqJdkDKBux5JV/X2TBz+hht0QHgbTYB3l5mVYAyB27CYvGm9EE9PN9OmdfBBl7XRxwsdoEmOWWC//UzcN+uCXjNOnROi/PeMmfpBF4RnfvsgjpfCdE5GIvh0/BBXBO7MBuz36eA6uvf7P4euZmW/pnl21fZ4x7nVisry2h/9cGRVh6FtCF1FoRURrDX6l81EJJMpp3SsLzcIxASU7QkBUkXgg0woQsBPZOcpleshDgWnLMewKYg==;2GYMDh5AXPvr5vUEkQKPFQ=="
 ---

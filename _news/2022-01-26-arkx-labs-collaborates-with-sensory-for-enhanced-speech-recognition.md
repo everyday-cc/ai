@@ -2,27 +2,22 @@
 category: news
 title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
 excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-publishedDateTime: 2022-01-25T16:38:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+publishedDateTime: 2022-01-25T16:42:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
 type: article
-quality: 39
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - Natural Language Processing
 
 related:
   - title: "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries"
@@ -180,20 +175,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "The republic, recognition, reconciliation and the constitution"
-    excerpt: "Indigenous lawyer Megan Davis is republican, but she is foremost an advocate for changing the constitution to meet the requirements of the Uluru Statement. She believes that the unfinished business of a voice to parliament needs to be enshrined in the constitution before a republic can be considered."
-    publishedDateTime: 2022-01-25T06:36:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/latenightlive/the-republic,-recognition,-reconciliation-and-the-constitution/13727928"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 24
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/13727956-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Raven unionisation plans continue without Activision Blizzard recognition"
     excerpt: "Publisher did not respond to workers' request, says it will respond to National Labor Relations Board petition"
     publishedDateTime: 2022-01-26T10:20:00Z
@@ -209,6 +190,6 @@ related:
         height: 628
         isCached: true
 
-secured: "YDg/e0qugJEzQrS6GfxvNpNkkbx/v/oBf35C0qWvddLmdvl3+oFt7uY8f2CHakAkRE33RJraLBXEjIDH7cvlZGdDYeF3hHoFnudGSC6kCDcm+fvfAjFMEFGG0o4GK1PIvjCxplNJ4znOrDs0NEEMmSmGOiCCrsi0EDJb8pIJy89EmvGrDMONpoUJxxxoHnFKi0jvHTBJ2/j/Sq64cAS+tQPBe2zYWdaERVEpCJPpOwznozb4dDk6iLyxWW+eWRaiAJJcEeUAOV0uJuFqE94b1N+Pa7U3X5AkGpUEnytGtCcG11cLIU1Tlb/Q+v91BB3ZqbNIGc2GF/4ASDETiktNvWiiZpawRRpcjk2upY/iEn8=;0o+jwpoNdPrYnmdG2+2cCg=="
+secured: "I/BZFpxZCZH9+mp13bg5nwkLUXcHt15WoOfDCAVRU3lkNyOXvnOdjmfbARBtngTuVLZAQrSv4u6K3kXggLvgGwn6/++0Oh/g8D91Mni71NWmEj+nfZh0eGAlWKlC1cSrfo/COFDuJ6M4K4HAIP5FdlNFUq2D1KCJpu7i90nPNKv4BuE0c1AEj7QgYkMFhwAk0NY6J3s9UJOKSSBfjhiwteckdCU3qwJvpgxy+e8lLgPdlFT3Hul8+6WsimbRgYskxHfaouyVB+p/SfKG/GP9ipaO6TmD52d4o/UTjjwcW65cK8+a5l5XGREMoUc+LCsDEuQYN6QA+N30ksZbkO4U4mi1PRFXkwIFDaqjg+1wauY=;MeRZFbsX5KhQF/z2GC2sbQ=="
 ---
 
