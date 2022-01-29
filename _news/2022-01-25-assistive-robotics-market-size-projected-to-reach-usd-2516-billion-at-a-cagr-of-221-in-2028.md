@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "5G in Healthcare Market Size Worth USD 4.2 Billion | 74.5% CAGR by 2028"
-    excerpt: "G in Healthcare Market Overview The global 5G in healthcare market is expected to cross USD 4.2 billion by 2028 at a robust CAGR of 74.5% over the review period. 5G represents a huge advancement in healthcare by enabling a new health ecosystem capable of efficiently,"
-    publishedDateTime: 2022-01-24T11:43:00Z
-    webUrl: "https://menafn.com/1103584494/5G-in-Healthcare-Market-Size-Worth-USD-42-Billion-745-CAGR-by-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/24/M_7a989784-b_Image_In_Body.jpg"
-        width: 271
-        height: 500
-        isCached: true
-  - title: "5G in Healthcare Market Size Worth USD 4.2 Billion | 74.5% CAGR by 2028"
     excerpt: "G in Healthcare Market: by Component, Application, End User and forecast till 2028New York, United States - January 24, 2022 -- 5G in Healthcare Market"
     publishedDateTime: 2022-01-25T02:01:00Z
     webUrl: "https://www.digitaljournal.com/pr/5g-in-healthcare-market-size-worth-usd-4-2-billion-74-5-cagr-by-2028"

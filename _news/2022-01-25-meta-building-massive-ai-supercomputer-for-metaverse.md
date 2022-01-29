@@ -599,17 +599,6 @@ related:
         width: 1800
         height: 1000
         isCached: true
-  - title: "Facebook Parent Meta Building Supercomputer For AI Research"
-    excerpt: "Meta on Monday announced its new AI Research SuperCluster (RSC), a supercomputer meant to be used for AI research projects."
-    publishedDateTime: 2022-01-24T12:29:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/?amp"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 39
   - title: "Meta builds AI supercomputer"
     excerpt: "What could go wrong? Meta boffins are building a new artificial intelligence supercomputer that the company maintains will soon be the fastest in the world. Dubbed the AI Research SuperCluster, it has taken several hundred people two years to build,"
     publishedDateTime: 2022-01-25T12:17:00Z

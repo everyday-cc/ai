@@ -50,20 +50,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
-    excerpt: "Increasing demand for AI in fintech in the cloud deployment mode coupled with high investment in R&D of AI in fintech are fueling the market growth."
-    publishedDateTime: 2022-01-24T12:59:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-expected-to-reach-usd-49-33-billion-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/12/DDD-11-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Five ways to diversify fintech for future consumer"
     excerpt: "To seize the opportunities of the future, fintech firms must adapt their services for increasingly diverse markets. We outline five key themes"
     publishedDateTime: 2022-01-25T10:28:00Z

@@ -590,17 +590,6 @@ related:
         width: 1800
         height: 1000
         isCached: true
-  - title: "Facebook Parent Meta Building Supercomputer For AI Research"
-    excerpt: "Meta on Monday announced its new AI Research SuperCluster (RSC), a supercomputer meant to be used for AI research projects."
-    publishedDateTime: 2022-01-24T12:29:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/?amp"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2022/01/24/facebook-parent-meta-building-supercomputer-for-ai-research/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 39
   - title: "Meta Building Massive AI Supercomputer for Metaverse"
     excerpt: "Meta is building a massive GPU-driven supercomputer to run its artificial intelligence (AI)- and machine learning-driven workloads that will be key to the development of the metaverse."
     publishedDateTime: 2022-01-25T15:10:00Z
@@ -853,6 +842,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "0GGCI0bxOv0Y0++/7ZDlnmidEdfYbasDcTkNS0RTbyIteqwpUbc6PCNIyGQ5H+hlmHpTi/8/RYW21R7bH3zYmVr9q3acapOPSp5t8TwcJkxh0HgaDbsTWe4AaIeYJNPCGCd5/6H8atAZgEXXc46FFrwTJ0SDhpJaisq5dbjlhXUWNEVkoqHwXK/dC6Efa/JE0w0/g+kF2toa0olDtzTTCGEv5WWNoHsPG4nIpCQFjEVEJF/mcfItdiVKCv66mM97byGsQAMgRdoNeU3ldMHzeytBZkelakbmhwyAzd+0h3vD4pkYT5AfmiQIm9nA6pW5lw1ZPU+u/2Eb/yk9OTBIpGCxUfpSRj+DZ3acz62abfU=;1VsmL8Goe5Axupw6gdCq/w=="
+secured: "n7DWnf6T4IKW93v21yGO6DAyL1CNO/K/iRIgwautJ9b4IUk+71+dlYESR0/zhPeeg8gPUibmkvNp1X/PR+RTKQ8AiH4N0w/o0y3ttVkZvcW+PT6moHvKZHQVeqbAsomMF0UVTp8UEKk/yG6rosmJaHIY1MSrXvBtur0JAYQmTd58AXLdSGfeB+XNmXraMYZBKBnAGJBDcK0mzhyBI63xRrIo1MPga51LqNRB0xNyPhRN/rIkiDr7YUW9U0qCoqaT+Lcb/Hq7VYqpbi4bchclUlugYa15To5f9RtnahYafhVaGOOOyspolMtCMkVF9aZqep7CT5f3iOnKJcWK0GldKZ6QFI89h41gdetPlPERg82xXzMa6CFJv1NcOk8ThfPLLso/mQ7xuYqmA9c4qxwBAgzTVEzy2iVqlT4S9zjz5QpjrsNFQ4/nT3bLFH998NJFshTlQqZanb7uKS1pM5r5SgSL0CCEW91OfuGkzmOCT3nyuejxgE0PcOH25v1M2DX6cFmUusRXaRpfEBt3/YXsLA==;/QOMVhBQj1wg957I7uj84A=="
 ---
 

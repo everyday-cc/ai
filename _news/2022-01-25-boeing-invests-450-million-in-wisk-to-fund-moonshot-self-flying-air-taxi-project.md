@@ -43,22 +43,6 @@ related:
         width: 533
         height: 357
         isCached: true
-  - title: "Boeing Enters Self-Flying Air Taxi Market With $450 Million Wisk Investment"
-    excerpt: "Boeing wants to get into more than just the flying car market. It has its eyes on self-driving flying cars. Air taxi company Wisk Aero announced Monday it has secured a $450 million investment from commercial aerospace giant Boeing (ticker: BA)."
-    publishedDateTime: 2022-01-24T12:56:00Z
-    webUrl: "https://www.barrons.com/articles/boeing-ba-wisk-aero-self-flying-air-taxi-51643028942"
-    ampWebUrl: "https://www.barrons.com/amp/articles/boeing-ba-wisk-aero-self-flying-air-taxi-51643028942"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/boeing-ba-wisk-aero-self-flying-air-taxi-51643028942"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-466372/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Boeing invests $450 million in air taxi startup"
     excerpt: "The plane maker is committing another $450 million to the Silicon Valley startup that is developing its technology jointly with Kittyhawk, the self-flying aviation company backed by Google"
     publishedDateTime: 2022-01-24T23:05:00Z
@@ -74,20 +58,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2022/01/boeing_56.jpg?quality=90&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Boeing injects $450 million into an electric air taxi startup Wisk Aero"
-    excerpt: "Boeing has pumped $450 million into electric air taxi startup Wisk Aero to rank among the well-funded air mobility firms globally."
-    publishedDateTime: 2022-01-24T12:53:00Z
-    webUrl: "https://finbold.com/boeing-injects-450-million-into-an-electric-air-taxi-startup-wisk-aero/"
-    type: article
-    provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 37
-    images:
-      - url: "https://finbold.com/wp-content/uploads/2022/01/41df0b6a-101e-4a41-afc5-ca47d2cafb05.jpeg"
-        width: 899
-        height: 576
         isCached: true
 
 secured: "YIy0bwI0NKiGGrtH+NFGGr4ctHLq4COZyv8gW8/7iW+mE+CSyTqn6MAf/TEMcHmIOxTeCzUO1TqAGBRd9CP9M5R9pzW5+hjxFxsnfCp2eljf0DA9hfY8JR4/zGGeLU81M19MkEdW8UCV3XgkQujCMhMuVBtqi7G8dSGCw/qnnsP4hKrZxgVaaa1+fRdstn6UQUT6cTeRHx9iAsMCAAWABJJpPlZITFTw1H3pv4UxtpWwKx4CuO6Ont/H4JoshfnQA6pExEb8yQC2LMJlrAlPI/Q/7vhQF9Cmaeer9Evrigxl68/MqAPWaIuVfkoerPDjQkH4fkBDVDPXPZGmJDDfHk9rBo5jtl02aWe4DM3JycNp91yhJYhncnwj0ell+xzvgNP40wMsLw6qiUDKiYJBqdsRimxA9f7BDmH5tsgB0jBT2MX27H23yGssPJRCIpfkS8ciblUe1UkwKEmggJwee7n1PyUn+cOtrRnLEvD0Imm4xAL7iTK4pLLOLxyY4yl3ikbExgCbaROLggalCj0pKQ==;90P8BxdESeO7q4Y4SjVfzg=="

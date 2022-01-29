@@ -42,20 +42,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "IBM to sell off Watson Health assets"
-    excerpt: "Private equity firm Francisco Partners is buying a large portion of the AI healthcare unit \"more than $1 billion\""
-    publishedDateTime: 2022-01-24T12:37:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/acquisition/362052/ibm-sell-watson-health"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 69
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596721605/itpro/IBM_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Three reasons why Watson-based AI might fail"
     excerpt: "This week the story of an IBM Watson asset purchase by Francisco Partners is in the news. Perhaps not covered in this announcement are some of the reasons Watson-like-data-dependent AI might fail to provide the business windfalls anticipated."
     publishedDateTime: 2022-01-26T05:16:00Z
@@ -95,20 +81,6 @@ related:
       name: medtechintelligence.com
       domain: medtechintelligence.com
     quality: 39
-  - title: "IBM to sell Watson Health to investment firm Francisco Partners"
-    excerpt: "IBM will sell its Watson Health business to global investment firm Francisco Partners. The transaction is expected to close in the second quarter of 2022 and is subject to customary regulatory clearances."
-    publishedDateTime: 2022-01-24T11:51:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/ibm-to-sell-watson-health-to-investment-firm-francisco-partners/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/IBM_Watson.2e16d0ba.fill-1200x630_KO8htKJ.png"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "Francisco Partners acquire part of IBM’s Watson Health business"
     excerpt: "Francisco Partners have signed an agreement with IBM to acquire their healthcare assets that are currently part of the Watson Health business."
     publishedDateTime: 2022-01-25T14:00:00Z
@@ -150,20 +122,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/IBMWatson_AIM.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "Francisco Partners to Buy IBM’s Health Care Data, Analytics Assets"
-    excerpt: "IBM remains committed to Watson, our broader AI business, and to the clients and partners we support in healthcare IT. Through this transaction, Francisco Partners acquires data and analytics assets that will benefit from the enhanced investment and expertise of a healthcare industry focused portfolio,"
-    publishedDateTime: 2022-01-24T11:07:00Z
-    webUrl: "https://www.govconwire.com/2022/01/francisco-partners-to-buy-ibms-health-care-data-analytics-assets/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 26
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2022/01/00P4y00001NOzxlEAD.png"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "tcklNc/gPlzeWoH4bqeYbuG6wM7XznAz++sWHsTVd/96uLAbhFGDjJ3Qxy6adeEIFKdtG/DkDOYy4fI95xbYv4eeVmdkyguJ5yoXvdbU8LuytZFiA5ffXMU4JjWATrwQuregUVkvqgtr433phF4f+5kyJBCQF3MVgSTKaJnytXgyt52gZwzf5GSJP27uGWZlGOQUEPv2U/dbDRwOx6lq3Tu06CZqxvin+dgIME/e8OxHjWT/EyhZBoW6eQnhcXo1BGplO5UuWa1lUx2Hf0SsbUVq0mIWdekUCiCdVOHJFOO2cSM5VG/Q4i2vXqVwR9gQFtdYvYcJN42NyxpiLVHR14EJHTeZRQNjr2mN2tPC/3UcjnwrPTApNggLs7lEYJN5ynlQXGjCA0oPAOfoWUYB/zzAheiY1rBew/6S1g4Pcfiv6mVfcPGndi9bMv5uP4CDgjGKqUShxFPU3AfETGMEDYazNutt6UUO/Nt5MbJoOG4Un8wruwL9zIaE2qd3d1E20BsML9oRGEQ7kMu2BZY5Rg==;Jm9teg86zV5pEcThZXUbFw=="

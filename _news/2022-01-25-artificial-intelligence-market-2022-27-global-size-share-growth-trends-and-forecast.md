@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-27-global-size-share-growth-trends-and-forecast-2022-01-25"
 type: article
 quality: 59
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?25642"
         width: 374
         height: 250
-        isCached: true
-  - title: "Global Marketing Automation Market Report 2021-2026 - Integration of Artificial Intelligence (AI) is Anticipated to Drive the Market - ResearchAndMark"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global marketing automation market grew at a CAGR of around 13% during 2015-2020."
-    publishedDateTime: 2022-01-24T12:21:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=604666"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 31
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
   - title: "Machine learning Market Research - Insights Revenue, Growth Factors, Trends, Key Companies, Forecast 2021-2030"
     excerpt: "In a recent published report, Kenneth Research has updated the Market report for  Machine learning Market  for 2021 till 2030. Re"

@@ -8,8 +8,8 @@ webUrl: "https://www.wqad.com/article/news/health/your-health/your-health-artifi
 ampWebUrl: "https://www.wqad.com/amp/article/news/health/your-health/your-health-artificial-intelligence-as-a-disease-preventer-health-care/526-d3e10fb5-36d7-4784-9129-729165f949c0"
 cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health/your-health-artificial-intelligence-as-a-disease-preventer-health-care/526-d3e10fb5-36d7-4784-9129-729165f949c0"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://media.tegna-media.com/assets/WQAD/images/eee51128-4069-4a16-9ab6-2b98681baf67/eee51128-4069-4a16-9ab6-2b98681baf67_1140x641.jpg"

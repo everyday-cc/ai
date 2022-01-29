@@ -2,22 +2,27 @@
 category: news
 title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
 excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-publishedDateTime: 2022-01-25T16:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+publishedDateTime: 2022-01-25T16:38:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
 type: article
-quality: 21
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries"
@@ -232,6 +237,6 @@ related:
         height: 628
         isCached: true
 
-secured: "QLgVnaIvJKaPNiNcPUWI/RhPduQLuZyTuu8QkqKEKLMm97ETwfOFpjnBHgz7RP1ZJohO253Jl4Ii2JZtUaZvdBwoqehYj6Xkf55ERRFN5a5w5/0BKVokM99+W/t56tPhOuCfM3SM5iwAw4GPl16YfwCtRn2GTvF1gqYLqHIPYfSQjU2L6jhTti0lfwo2/DZ+1/MKEdXfOV0wQy0Qon1Mg39Q2xDlopadl766Y+qJMrS7MIy6wHm7P/qBKD9gd1Qn83FS/RleutVdB5I+1ZYja35q+q+DBy7JSq7APyKS56SWyZ1mv7+AGRIkFOyAhbKgBCpZNZAUDvARGFkiwGhNQh3HLpO32AH2mvHnULWPkuE=;dau1Ddyu1DGvwLJXJWBnCg=="
+secured: "0zWWFt32Gd5zDNoqt/M67lo1l8hih6wag03u4cXp+AwQn7BJ/5eFBfP9bqJGrnNL1jTaGfUFPZJ9PlMpU8EV5AZej1QYcmEslYLFUPbZgiBrCyIuiYnya1sAO/z96Hd7Caoix7jcng2lyO/8uN6yebT1bHDm6KeqzaGw244VeILd+bmTFVUCnJj8Jlzul4R22oagrdwzW1+vgaU3r+xoMsDDhVXLYxb087abElr7ryWoiqLSOj240w74o/hxvxTz2T2XJLQTg4K7gz4KCT0rHxvMh8ZbMOmk3pH82V0vugTXs/P06NU5YoBs2KB0YtQAHVqCPlSGLbgL/++8XsIBPhVNMwdKjXxv9/O+L4rCeTY=;3vO+MoU4LKQ4K5Mdytqgqw=="
 ---
 

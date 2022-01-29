@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "St Alban's school sets up facial recognition technology"
-    excerpt: "A PRIMARY school has introduced face recognition technology for staff entering the building. St Alban’s Primary School, in Bewsey, has implemented Innovative Technology Ltd’s ICU Pro software following a successful trial."
-    publishedDateTime: 2022-01-26T06:00:00Z
-    webUrl: "https://www.warringtonguardian.co.uk/news/19873902.st-albans-school-sets-facial-recognition-technology/"
+  - title: "Marin teen musician gains international recognition"
+    excerpt: "Nicolas Lau, a San Rafael High School student, has been named one of 16 “ambassadors” by the Ensemble, a global music-for-social change organization."
+    publishedDateTime: 2022-01-29T02:18:00Z
+    webUrl: "https://www.marinij.com/2022/01/28/marin-teen-musician-gains-international-recognition/"
+    ampWebUrl: "https://www.marinij.com/2022/01/28/marin-teen-musician-gains-international-recognition/amp/"
+    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2022/01/28/marin-teen-musician-gains-international-recognition/amp/"
     type: article
     provider:
-      name: Warrington Guardian
-      domain: warringtonguardian.co.uk
-    quality: 39
+      name: Marin Independent Journal
+      domain: marinij.com
+    quality: 59
     images:
-      - url: "https://www.warringtonguardian.co.uk/resources/images/13410892/"
-        width: 784
-        height: 524
+      - url: "https://www.marinij.com/wp-content/uploads/2022/01/MIJ-L-NICHOLAS-0126-20_93223726.jpg?w=1024&h=702"
+        width: 1024
+        height: 701
         isCached: true
 
 secured: "e+mLLENdCV04Re3K3RYXcp8cu0m7hlxfC9Hk+DCQLmNqXk1fASILT2s66efg44WpEOOTjoG+ZvvkMx+rnOEqkEPI5upof2Z/K5qSYN3uDTwjUUeFRX+qHxwk69DkdvYkLn5PR9Q9byKkZ41FVVt4kwHwJdQF/elwvBBAFnVRe974XC9uDrw5K4YiH6zodS9OmUGtNVdYp5GZc0OU7TymcbGieE103yqMxntmJSlUM89ho1LIWYX+PpZt1e0iSHhg9TEOP/T1/8NWdKYHHkF0lmGOSBRNOigsefoj7wPECHxzwc7O1SHAspvspTGoCwcgJDhe+6T8ph8HaGS4YYKV75ZFtk5JC/s1yrBRdAJ+ObMhREhXcjtqceBQhrZ3C9CSohGnbqhkfPiZdQDV5JBLKbWOBPPwR6DSqJRPCniCQ0RifbXosefppg9h7baCxzBdOAYm+yH35o87So17vHlDZZ85JUHNxvHZi5w6SgAwnwssgJqm6+az2p4cZ9pqswUNAxcO1jiIIT37106ghx8qVA==;cIuzllhXDxrMmDnemJhJgw=="

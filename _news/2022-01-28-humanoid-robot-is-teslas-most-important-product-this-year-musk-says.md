@@ -60,6 +60,20 @@ related:
         width: 2500
         height: 1720
         isCached: true
+  - title: "Musk: Robots to be bigger business than Tesla cars"
+    excerpt: "Elon Musk likes to have a focus - and this year, it looks like it might be robots. He told investors on a Tesla earnings call"
+    publishedDateTime: 2022-01-29T04:44:00Z
+    webUrl: "https://www.businessghana.com/site/news/Technology/255514/Musk-Robots-to-be-bigger-business-than-Tesla-cars"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 56
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-28-1644271.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Tesla Cybertruck, Roadster, Semi delayed, focus shifts to self-driving and Optimus robot"
     excerpt: "Ford, General Motors and Rivian all have electric pickup trucks in production, but buyers looking forward to the Tesla Cybertruck will have to keep waiting. Tesla CEO Elon Musk during an earnings call late on Wednesday said the company won't launch any new vehicles in 2022 as it focuses on ramping up production of existing models and developing new technologies."
     publishedDateTime: 2022-01-27T12:00:00Z

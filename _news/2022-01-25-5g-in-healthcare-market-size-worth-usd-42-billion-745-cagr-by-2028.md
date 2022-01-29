@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "5G in Healthcare Market Size Worth USD 4.2 Billion | 74.5% CAGR by 2028"
-    excerpt: "G in Healthcare Market Overview The global 5G in healthcare market is expected to cross USD 4.2 billion by 2028 at a robust CAGR of 74.5% over the review period. 5G represents a huge advancement in healthcare by enabling a new health ecosystem capable of efficiently,"
-    publishedDateTime: 2022-01-24T11:43:00Z
-    webUrl: "https://menafn.com/1103584494/5G-in-Healthcare-Market-Size-Worth-USD-42-Billion-745-CAGR-by-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/24/M_7a989784-b_Image_In_Body.jpg"
-        width: 271
-        height: 500
-        isCached: true
   - title: "Global Data Annotation Tools Market (Services) Size Value to Reach USD 3,046.7 Million by 2028, at 27.2% CAGR: Polaris Market Research"
     excerpt: "According to the latest research study, the report predicts the global Data Annotation Tools Market size & share to reach around USD 3,046.7 Million by 2028 from USD"
     publishedDateTime: 2022-01-27T22:05:00Z

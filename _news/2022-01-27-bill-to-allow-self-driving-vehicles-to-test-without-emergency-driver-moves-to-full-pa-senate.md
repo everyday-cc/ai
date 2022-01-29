@@ -104,20 +104,6 @@ related:
         height: 624
         isCached: true
   - title: "LG to unveil life-size self-driving concept car"
-    excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as “a home office,"
-    publishedDateTime: 2022-01-24T11:20:00Z
-    webUrl: "https://www.canindia.com/lg-to-unveil-life-size-self-driving-concept-car/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 24
-    images:
-      - url: "https://www.canindia.com/wp-content/uploads/2022/01/CINEWS_324x235.png"
-        width: 324
-        height: 236
-        isCached: true
-  - title: "LG to unveil life-size self-driving concept car"
     excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as \"a home office,"
     publishedDateTime: 2022-01-24T18:26:00Z
     webUrl: "https://news.webindia123.com/news/Articles/Science/20220124/3899559.html"

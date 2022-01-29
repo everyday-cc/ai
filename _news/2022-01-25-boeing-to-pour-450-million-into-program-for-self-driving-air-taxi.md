@@ -9,7 +9,7 @@ ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/"
 type: article
 quality: 59
-heat: 99
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boeing Enters Self-Flying Air Taxi Market With $450 Million Wisk Investment"
-    excerpt: "Boeing wants to get into more than just the flying car market. It has its eyes on self-driving flying cars. Air taxi company Wisk Aero announced Monday it has secured a $450 million investment from commercial aerospace giant Boeing (ticker: BA)."
-    publishedDateTime: 2022-01-24T12:56:00Z
-    webUrl: "https://www.barrons.com/articles/boeing-ba-wisk-aero-self-flying-air-taxi-51643028942"
-    ampWebUrl: "https://www.barrons.com/amp/articles/boeing-ba-wisk-aero-self-flying-air-taxi-51643028942"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/boeing-ba-wisk-aero-self-flying-air-taxi-51643028942"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-466372/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Boeing invests $450 million in air taxi startup"
     excerpt: "The plane maker is committing another $450 million to the Silicon Valley startup that is developing its technology jointly with Kittyhawk, the self-flying aviation company backed by Google"
     publishedDateTime: 2022-01-24T23:05:00Z
@@ -74,20 +58,6 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2022/01/Wisk_Aero_Media_Kit_Aircraft_1_SD.jpeg?quality=80&#038;strip"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Boeing injects $450 million into an electric air taxi startup Wisk Aero"
-    excerpt: "Boeing has pumped $450 million into electric air taxi startup Wisk Aero to rank among the well-funded air mobility firms globally."
-    publishedDateTime: 2022-01-24T12:53:00Z
-    webUrl: "https://finbold.com/boeing-injects-450-million-into-an-electric-air-taxi-startup-wisk-aero/"
-    type: article
-    provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 37
-    images:
-      - url: "https://finbold.com/wp-content/uploads/2022/01/41df0b6a-101e-4a41-afc5-ca47d2cafb05.jpeg"
-        width: 899
-        height: 576
         isCached: true
 
 secured: "YnkRgCQnJnEBL9hl20Easd33yeCZxJnG8SUqdXwG935sljeEesoWO8kx7/FRV9XV+ZJ+ZLq43TUgLlsO/yHZRVeUc40p3b6U1cPNrsm52w2Qqkk6LMX6eU9Zp/eBVkw0LmG5S+KhQwg3QqhH67jgQICDhy2UTSc5Fhmm35IuZhGLGrC0iT4nnf/+I1R8khHhaPPYc0Rnzncyq4uqc/UNWBbAJiHQF69TszI4N7y5YtIqkbxWfktBm9WPx0M5zv4LhyUHGrttdDfEembG1CywlFiiDEwc1CAphtnZUcdf+sOYZnBwq5TSAYuky3stxR4EvHDuDwZlsD0bPAJFJ55QdJUh2drhaNRxZynf3dBBcHvHrthV0Sr8Ilo2g3vR3xLIBakY00F2kNU4zEXx9AxRvoYdQ9LrXkimiW3TG5SmBxtOxmZTzF8ZYbHnM356wMCLK7XzfeZVRBYY/ZbUI9Cyequ1q18FseouiAneiR36RWvBYPOlGZHl/P4Rk2lVuNUsITcnxbam+qmBCjAR97EQtg==;bWlCXyZ8LDbpVrzOgUuJTg=="

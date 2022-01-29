@@ -27,35 +27,95 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk's Brain-Chip Startup Neuralink Looking To Hire Clinical Trial Director In California As It Nears Human Trials"
-    excerpt: "CEO Elon Musk-led brain-machine interface startup Neuralink is recruiting a clinical trial director and a coordinator to realize plans for clinical"
-    publishedDateTime: 2022-01-24T12:00:45Z
-    webUrl: "https://boards.greenhouse.io/neuralink/jobs/4723041003"
+  - title: "Mercedes sees Luminar eyes in its self-driving cars"
+    excerpt: "Mercedes-Benz has taken a major step forward in its efforts to produce self-driving cars, partnering with Luminar to include the latter’s Iris lidar technology in Mercedes-Benz vehicles. The"
+    publishedDateTime: 2022-01-25T13:00:00Z
+    webUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/"
+    ampWebUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
     type: article
     provider:
-      name: greenhouse.io/neuralink/jobs/4723041003
-      domain: greenhouse.io/neuralink/jobs/4723041003
-    quality: 130
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
     images:
-      - url: "https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/497/300/original/Neuralink_logo.jpg?1632771349"
-        width: 820
-        height: 698
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/mercedes-luminar.jpg"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Apple expands its team testing full-self-driving technology in California"
-    excerpt: "Apple is continuing to slowly expand its autonomous vehicle testing program in California. According to new data published by the California Department of Motor Vehicles, Apple now has 89 drivers registered to its crew."
-    publishedDateTime: 2022-01-26T15:04:00Z
-    webUrl: "https://9to5mac.com/2022/01/26/apple-self-driving-car-team-expands/"
-    ampWebUrl: "https://9to5mac.com/2022/01/26/apple-self-driving-car-team-expands/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/01/26/apple-self-driving-car-team-expands/amp/"
+  - title: "TECH TUESDAY: The race to self-driving cars"
+    excerpt: "Companies are now testing advanced 3D Lidar systems with that capability, racing to bring self-driving cars a step closer to reality."
+    publishedDateTime: 2022-01-25T19:25:00Z
+    webUrl: "https://www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/"
+    ampWebUrl: "https://www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/amp/"
     type: article
     provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 43
+      name: WLNS.com
+      domain: wlns.com
+    quality: 44
     images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/apple-car-project-titan-lidar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2019/11/self-driving-cars.jpg?w=1280"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "UK needs laws for self-driving cars, government bodies say"
+    excerpt: "Government bodies are currently lobbying for the UK to adopt a legislation that regulates self-driving vehicles. According to a joint report from the Law"
+    publishedDateTime: 2022-01-26T12:09:00Z
+    webUrl: "https://www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/"
+    ampWebUrl: "https://www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 44
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg"
         width: 1200
-        height: 628
+        height: 630
+        isCached: true
+  - title: "VW Teams With Biggest Car-Parts Maker to Boost Self-Driving Push"
+    excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to bolster its automated-driving push and catch up with the likes of Tesla Inc. on software development. VW’s Cariad software unit will work with the world’s largest auto-parts supplier to introduce features allowing drivers to temporarily take their hands off the steering wheel starting in 2023,"
+    publishedDateTime: 2022-01-25T08:24:00Z
+    webUrl: "https://www.bloombergquint.com/business/vw-teams-with-biggest-car-parts-maker-to-boost-self-driving-push"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 24
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "UK needs law for self-driving cars, government bodies say"
+    excerpt: "The law should regulate self-driving vehicles and include sanctions for companies if anything goes wrong when their vehicles take over control from human drivers, two independent governmental bodies said."
+    publishedDateTime: 2022-01-26T08:11:00Z
+    webUrl: "https://europe.autonews.com/automakers/uk-needs-law-self-driving-cars-government-bodies-say"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20autonomous%20a8%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Self-driving cars: Companies not the users should be responsible if autonomous vehicles crash, watchdog proposes"
+    excerpt: "People in a self-driving car should not be responsible if it crashes, legal watchdogs have proposed. The Law Commission of England and Wales, and the Scottish Law Commission, want legal protections to be introduced for owners of self-driving cars if anything goes wrong with the automation."
+    publishedDateTime: 2022-01-26T05:42:00Z
+    webUrl: "https://www.manxradio.com/news/uk-business/self-driving-cars-companies-not-the-users-should-be-responsible-if-autonomous-vehicles-crash-watchdog-proposes/"
+    type: article
+    provider:
+      name: Manx Radio
+      domain: manxradio.com
+    quality: 3
+    images:
+      - url: "https://e3.365dm.com/22/01/640x380/skynews-self-driving-care-car_5652425.png?20220125185007"
+        width: 640
+        height: 380
         isCached: true
 
 secured: "Vz+icz+ipmEzKZxsOqMp379M96IfkxGd9r06wKBr5iIqGkAVv3ZPqDmvqqdIeaPPs+EdJkrXe5UDKu7Ie/nPbWTQcpXqXHQBhhmXfG5U9hk73xcSFpjVig6LUNDIdSyEwKzvDWA/j26w4SzLL8vuVoHy2lv13Ucyd8kK4X9U+6GvEScsWlCfkavBAfH7D6WlKxvPgHP2NjscDA4osj44/uf3gQpBO7/KWEJLXXNOj6zS7IKrKrkzRfwzdxbTRGPkqM8aePBUnIaYbH7lhMFQys9MG1kJBQkUj9m4bqeTv7XBgJxqUkXFQlBZMW+Fim+klsWoTjY86p0FSVYIFaeQQ5Tl7M5typ9yUR2JbZTljtMuu/Werti5uSxuLuhz94DDJtEpnbO2mgmH6A3dtX6RMMj5CBehlDX1DaDOG3RlPTV/diRaKNoZ2AJtXz4j5QM7Nx4NCVMGZxYbFRxMBefDY3VGsJqwQHs88tRabU3IutdC4linEj7FzEwgYrwOsa+2AoxxlLG4Xrt8WgN0DPqVng==;P5W/DUGM2Fy2kDKJUufUqQ=="

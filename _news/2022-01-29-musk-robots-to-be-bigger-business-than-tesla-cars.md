@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Tesla Cybertruck, Roadster, Semi delayed, focus shifts to self-driving and Optimus robot"
-excerpt: "Ford, General Motors and Rivian all have electric pickup trucks in production, but buyers looking forward to the Tesla Cybertruck will have to keep waiting. Tesla CEO Elon Musk during an earnings call late on Wednesday said the company won't launch any new vehicles in 2022 as it focuses on ramping up production of existing models and developing new technologies."
-publishedDateTime: 2022-01-27T12:00:00Z
-originalUrl: "https://www.motorauthority.com/news/1134746_tesla-cybertruck-roadster-semi-delayed-focus-shifts-to-self-driving-and-optimus-robot"
-webUrl: "https://www.motorauthority.com/news/1134746_tesla-cybertruck-roadster-semi-delayed-focus-shifts-to-self-driving-and-optimus-robot"
+title: "Musk: Robots to be bigger business than Tesla cars"
+excerpt: "Elon Musk likes to have a focus - and this year, it looks like it might be robots. He told investors on a Tesla earnings call"
+publishedDateTime: 2022-01-29T04:44:00Z
+originalUrl: "https://www.businessghana.com/site/news/Technology/255514/Musk-Robots-to-be-bigger-business-than-Tesla-cars"
+webUrl: "https://www.businessghana.com/site/news/Technology/255514/Musk-Robots-to-be-bigger-business-than-Tesla-cars"
 type: article
-quality: 47
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Motor Authority
-  domain: motorauthority.com
+  name: BusinessGhana
+  domain: businessghana.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
+  - AI in Autos
 
 images:
-  - url: "https://images.hgmsites.net/hug/tesla-cybertruck_100725713_h.jpg"
-    width: 1920
-    height: 974
+  - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-28-1644271.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -74,19 +74,19 @@ related:
         width: 2500
         height: 1720
         isCached: true
-  - title: "Musk: Robots to be bigger business than Tesla cars"
-    excerpt: "Elon Musk likes to have a focus - and this year, it looks like it might be robots. He told investors on a Tesla earnings call"
-    publishedDateTime: 2022-01-29T04:44:00Z
-    webUrl: "https://www.businessghana.com/site/news/Technology/255514/Musk-Robots-to-be-bigger-business-than-Tesla-cars"
+  - title: "Tesla Cybertruck, Roadster, Semi delayed, focus shifts to self-driving and Optimus robot"
+    excerpt: "Ford, General Motors and Rivian all have electric pickup trucks in production, but buyers looking forward to the Tesla Cybertruck will have to keep waiting. Tesla CEO Elon Musk during an earnings call late on Wednesday said the company won't launch any new vehicles in 2022 as it focuses on ramping up production of existing models and developing new technologies."
+    publishedDateTime: 2022-01-27T12:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1134746_tesla-cybertruck-roadster-semi-delayed-focus-shifts-to-self-driving-and-optimus-robot"
     type: article
     provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 56
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 47
     images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-28-1644271.jpg"
-        width: 800
-        height: 600
+      - url: "https://images.hgmsites.net/hug/tesla-cybertruck_100725713_h.jpg"
+        width: 1920
+        height: 974
         isCached: true
   - title: "From humanoid robot to software that drives vehicles autonomously: Here's what Elon Musk is betting on in 2022"
     excerpt: "Tesla CEO Elon Musk on Thursday revealed the details of what the upcoming line-up of the company is going to look like in 2022. \"I would be shocked if we do not achieve full self-driving safer than human this year,"
@@ -105,6 +105,6 @@ related:
         height: 506
         isCached: true
 
-secured: "NpOcED53Auzkk8cljgLqEEdDt0jP8OlnVZ6pOCvqf1vyypQxWf55qUvshXG2CDpspOXuj4BbTIzr8JtqqXt0/ssGsT81Crc3DzstFaIUSlyC1AfgYOsPD0Y56sFpLrA8xm5b2Spz1/ZIeRJN//EgSiKAHlIfYzeq6Oo1UklhAML+ZB4rKFLfRwDNVo3bXs4xExovMXuOjFc1QQ9zWhAhL4vcQOa2HfRxIi7Zq69W/hpzHp+9yIY0aWayXf3Fi5P1OXegqgE4PQI0Z34gecwUDl2YJ7P4uQe4GBio2mduv5EwNpLCRlkO1AMtheCq6EYKtvpmux1pv3PjZQnljMMGfzKQkiABY7agjcRVI+vQ19g=;ycAtzhXh9G/3j/gyV4gN1Q=="
+secured: "CoKW6AcFTX1MGMEMSW88YOjhL/j/JwuPBZxBFCLSI3kp81U15Ne7OvveMSVGXmOZh2y2CPcvQHrUWrB4EuAD/cGJx+FgdWljT/9nAd41+q4LQCPe5UApMErf2E6AXBhbXQbcEHhtQehv9xg64iKf4ZlaMeC1jUWWbfmUAEdKFZTo5YvgkJbJLAzrrUcGBVava2FsQGZ5Gtx/ykLKjIYAO1ibCTo8EVBKUsLwpRbf4BoZh53w43SEYSVyFh4DiJ616Z1o1qdNPH9go2MVcr4Ng+/EwPuyId+6MvQdYweK1zK9+sCHz0W590Xiaf+EDbnkSrURVrCfxWYjMd+Gm838V187M5RbMMjIVkY5IT4FxXk=;2LeGhvd3EL7aZ0WplZ56KA=="
 ---
 

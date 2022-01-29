@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/amp/auto/features/article/lg-to-showcas
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://images.thestar.com/rr_RAR1d10fs5MKrCV0H8RDo0Ok=/1200x624/smart/filters:cb(1643406231820)/https://www.thestar.com/content/dam/thestar/news/gta/2022/01/28/company-supplying-self-driving-vehicles-to-toronto-durham-transit-projects-shuts-down/autonomous_shuttle.jpg"
         width: 1200
         height: 624
-        isCached: true
-  - title: "LG to unveil life-size self-driving concept car"
-    excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as “a home office,"
-    publishedDateTime: 2022-01-24T11:20:00Z
-    webUrl: "https://www.canindia.com/lg-to-unveil-life-size-self-driving-concept-car/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 24
-    images:
-      - url: "https://www.canindia.com/wp-content/uploads/2022/01/CINEWS_324x235.png"
-        width: 324
-        height: 236
         isCached: true
   - title: "Bill to allow self-driving vehicles to test without emergency driver moves to full Pa. Senate"
     excerpt: "The state Senate Transportation Committee has moved a bill to the full Senate that would allow companies developing self-driving vehicles to test them on state roads without"

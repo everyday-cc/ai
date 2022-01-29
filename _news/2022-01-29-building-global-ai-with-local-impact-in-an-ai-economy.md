@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/28/building-global-ai-with-local-imp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     height: 658
     isCached: true
 
-related:
-  - title: "Building Responsible AI Solutions For Creating Societal Impact"
-    excerpt: "Artificial intelligence is not just being used to solve business problems, but also to solve social challenges."
-    publishedDateTime: 2022-01-24T12:24:00Z
-    webUrl: "https://www.outlookindia.com/outlook-spotlight/building-responsible-ai-solutions-for-creating-societal-impact-news-47021"
-    ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/building-responsible-ai-solutions-for-creating-societal-impact-news-47021/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/building-responsible-ai-solutions-for-creating-societal-impact-news-47021/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 57
-    images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1643026901.JPG"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "as9A7OcHT/g2qlPX5I3DdUa++vbkjNMLynutaNfq5iqqUDJKTBQ8LY1CBnOlYkgcnABRjGz+xm854Itw3spe5oiXExlIJ7gmNmIlFIkBsg4/0qcUp6kw0K8AumVK3Lx10/9OhRcsACsgf+y1UIKSNKWDcGfbfi6qTGvjRj6p1cW7vmGlbAojq18ulvEspGCNCR4DRdExweyX6RSmPkfN+l5yTUzNPlj00R/PvnepfxfyPP6xQUSgPwkmAIXG2eCvh7/JtEbPabWxIRzQkPdOb2k/oxuEbM0kZJmcwxvVvdxamxSMgjOMjh9XODVkJ2dF/LFJ/2rJOR7N3itJ+boMbqP15FdT3XGKfLEmFe/zN8Y=;Z4fChk5AgJepFMc2W3je/w=="
+secured: "m2SEU3kZ4gzqmIIU6FNvVaJ+oI92VVwZ7VyrX/OSLbKlaPRCgtuY1Au3sMSG35QvXyprPyozm2bDUTrM7LgiVM8DmtN/++9CsCN/YK5rqnKHWn7xNtVQbFblSCw41+580ESBxr24X3SyDmH2Rv9ewf3ucKIfr2p42Y0iWVV5K/+FsXiDFqw4R3CSLJp68sH3pnHS351R96YZfQm1E84G3DU7m3u0uq/LeiICFnW5F/JSA4O7Nq8HDE03hyXeZtb2cWGzGhNozIrkMzhnwR4X3JS2s73MpAQU8YTGEprrre2D5AHuEUqa/MWcJ+asWusbhzjOaTaavEt7PpiSaE8QepeomPdUKPP3KA1YitLDpAA+qvTSuSQSP1LFq6USqvnisxDnPe8R9yxirbqYFS+6Dc1hBoBmDxu3w3vgDzoAXFL9wNcjuCFGm8QRrZ7AMpsBYM82LoYtEVN/nGQTDYlK2U605M/Oe69+4iEyuSUa7SosVMiH7c5l6E3MJKgNRGIAIPDM7W+x4/WOqKZbDEx5GQ==;7v2q/3y22h7+QDboj9a1wA=="
 ---
 

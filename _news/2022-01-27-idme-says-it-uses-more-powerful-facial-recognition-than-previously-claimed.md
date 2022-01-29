@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/idme-ceo-facial-recognition-one-to-many-b
 webUrl: "https://www.engadget.com/idme-ceo-facial-recognition-one-to-many-backtrack-205046356.html"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 7952
     height: 5304
     isCached: true
-
-related:
-  - title: "ID.me Comments on Adherence to Federal Rules on Facial Recognition \"Selfies\" that Protect Identities from Theft"
-    excerpt: "ID.me provided the following comments today. Statement from ID.me CEO and Founder, Blake Hall: \"We are committed to ensuring everyone can verify their identity online and use it to access essential services."
-    publishedDateTime: 2022-01-24T12:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/id-me-comments-on-adherence-to-federal-rules-on-facial-recognition-selfies-that-protect-identities-from-theft-1031122288"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://mma.prnewswire.com/media/1732098/IDme_Face_Matching.jpg"
-        width: 400
-        height: 273
-        isCached: true
 
 secured: "v9l0gD0nqPz9C3lSFnF7yWlNXUQ96Inwe1Qxz2HoTIK68A5GMi+8rbnCP6v8geqUCPe0AvGmzYZBbVh7i7Il0rcV2dpgpbAZR9qB+QGEn/WV6yZt0ibwwQkT0BphZJXUFSKqVwE0M1LrfNrkn4NdDnFl96SBjw2NeYTF8qFG6YBi1xWyq6i8+06AhXteA56/TO55KXRIoK7Ay86PsA6dryZAqI3JFsufRmBEnWY7rtVjtDT6/W8xbu4JVN6qDd3+Pp3KnBpEYFZ2Mza89Bz4HINDDxOw+vefcPue/5Fyf8Qg0b6HelWE2WQ0W7XjFcte6SFTNX+mDb0A2i9Cia/FvWm13NSm0iKYPGB0wgp/aESc56wgtpn670YCx7bWZm0YmMXHygjDAa0a/QHdrreNqUD+FxJCr/hVIRqMvWGeI1wo0yJKsdOCzCcyLFLGQ/e+VEIPl2ft6nALBQNKWLHrdBLeWHCmALYyIBLhJT4W9xs0SjyAtbEIHwSOptZXnvS4Lfiw8jX1E4Y4Gl4MX+nXRg==;M2dnamSq3rbn9UsdW6OC1Q=="
 ---

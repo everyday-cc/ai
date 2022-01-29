@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-dri
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Apple has expanding the team testing its self-driving cars in California"
+    excerpt: "Apple's self-driving cars in California. The cars are testing Apple's self-driving technology but not an actual car. Apple has expanded the team of people that are testing its self-driving cars on the streets of California."
+    publishedDateTime: 2022-01-26T14:29:00Z
+    webUrl: "https://www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california"
+    ampWebUrl: "https://www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california?amp"
+    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california?amp"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 43
+    images:
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/apple-car-toyota-mashup.jpeg"
+        width: 800
+        height: 400
         isCached: true
   - title: "VW Teams With Biggest Car-Parts Maker to Boost Self-Driving Push"
     excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to bolster its automated-driving push and catch up with the likes of Tesla Inc. on software development. VW’s Cariad software unit will work with the world’s largest auto-parts supplier to introduce features allowing drivers to temporarily take their hands off the steering wheel starting in 2023,"
