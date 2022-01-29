@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 12819247
+        "followers": 12820476
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -82,7 +82,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 10144754
+        "followers": 10145132
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -264,7 +264,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 4101992
+        "followers": 4102126
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -314,7 +314,7 @@
       "twitter": {
         "username": "salesforce",
         "url": "https://twitter.com/salesforce",
-        "followers": 564827
+        "followers": 564831
       },
       "size": "10,001+ employees",
       "yearFounded": 1999,
@@ -356,7 +356,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 643345
+        "followers": 643365
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -405,7 +405,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1670020
+        "followers": 1670075
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -499,7 +499,7 @@
       "twitter": {
         "username": "capitalcom",
         "url": "https://twitter.com/capitalcom",
-        "followers": 140728
+        "followers": 140720
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -556,7 +556,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 74782
+        "followers": 74799
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -650,7 +650,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1074607
+        "followers": 1074615
       },
       "yearFounded": 0,
       "locations": [
@@ -692,7 +692,7 @@
       "twitter": {
         "username": "cisco",
         "url": "https://twitter.com/cisco",
-        "followers": 727504
+        "followers": 727507
       },
       "size": "10,001+ employees",
       "yearFounded": 1984,
@@ -734,7 +734,7 @@
       "twitter": {
         "username": "appannie",
         "url": "https://twitter.com/appannie",
-        "followers": 165480
+        "followers": 165485
       },
       "yearFounded": 0,
       "locations": [
@@ -776,7 +776,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 82615
+        "followers": 82613
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -839,7 +839,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 12440
+        "followers": 12443
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -901,7 +901,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 210240
+        "followers": 210238
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -950,7 +950,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 26668
+        "followers": 26670
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -1013,7 +1013,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 57317
+        "followers": 57318
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -1062,7 +1062,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 11828
+        "followers": 11833
       },
       "yearFounded": 0,
       "locations": [
@@ -1249,7 +1249,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 69889
+        "followers": 69891
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1306,7 +1306,7 @@
       "twitter": {
         "username": "tencentglobal",
         "url": "https://twitter.com/tencentglobal",
-        "followers": 35328
+        "followers": 35327
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -1352,7 +1352,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 71604
+        "followers": 71607
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -1455,7 +1455,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 14995
+        "followers": 14994
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1571,7 +1571,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 84995
+        "followers": 84994
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1630,7 +1630,7 @@
       "twitter": {
         "username": "twilio",
         "url": "https://twitter.com/twilio",
-        "followers": 81946
+        "followers": 81945
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2008,
