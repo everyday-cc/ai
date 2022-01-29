@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-28T09:26:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-machine-ever-capable-"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-machine-ever-capable-"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGtZK8RAIcszg/article-cover_image-shrink_720_1280/0/1643361432902?e=1648684800&v=beta&t=HlajmHrSu_7ENNppRIEmS1u5-Yy915OV8Lemo8HphpQ"

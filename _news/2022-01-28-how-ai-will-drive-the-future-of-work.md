@@ -26,17 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Alcatraz AI deems facial recognition as the future of security"
-    excerpt: "Door access control has undergone many changes in recent years with new technology and practices going in and out of style. With the recent developments in AI, the future of security technology"
-    publishedDateTime: 2022-01-24T13:10:00Z
-    webUrl: "https://www.sourcesecurity.com/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html"
+  - title: "Explore the complex world of artificial intelligence with this e-book bundle"
+    excerpt: "If you’re looking to break into the field, The A to Z Artificial Intelligence eBook Bundle is an excellent springboard, as it supplies you with the necessary information you need to know about AI. You can grab it on sale for a limited time for only $19."
+    publishedDateTime: 2022-01-28T14:00:00Z
+    webUrl: "https://www.popsci.com/sponsored-post/ai-ebook-bundle-sale/"
+    ampWebUrl: "https://www.popsci.com/sponsored-post/ai-ebook-bundle-sale/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-post/ai-ebook-bundle-sale/?amp"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 73
+      name: Popular Science
+      domain: popsci.com
+    quality: 58
+    images:
+      - url: "https://www.popsci.com/uploads/2022/01/26/sale_23403_article_image.jpg?auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "onLemZUckGftJ1mL8VlguNZVjkAmPAlGqfGQJcO8VOsxgAB7lgcDbtwgoEqKD1FNVNUD3mh+L7P/kp+w9AA0ZN5od+JRDbZ1U/BHFPJ7mVerpApowPnsM/4ydOn++R3hO5u4qOezo4fpB/ydJPaEMO3VIfSFmzfnqoalRnuzmX6zDX4jrat1+DY3ZvzbG+5bsTOhDCGDXtiA1d6OtvqtUaRGt1GRJal4VghSkjsqOBkchrBta4QXdYcXw0NBb8gjyHAIL23u62h6NU3rzklPxW17zL/lCTzg0dV+1iZkxNKXadcdbg+ktYH8n0lVQxTY4kDtCbdIkDuhXeJupoGDfaNgQOhhkpqS+LR2tJgf7eM=;m8ePnXiu70KaxqB5o4QmxA=="
 ---

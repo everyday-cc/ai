@@ -113,17 +113,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Smile! The IRS Wants You To Send Selfies to a Facial Recognition Company"
-    excerpt: "\"No Identity Left Behind.\" Americans who want to access tax return transcripts, check on child tax credits, or do"
-    publishedDateTime: 2022-01-24T14:32:00Z
-    webUrl: "https://reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/"
-    ampWebUrl: "https://reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 38
 
 secured: "BMxdFbRNed2PIJ0Xy7gHksIu9ix4Zm7fybvZ4mWo3TYEvkfA7sD2qHTkr2ULW3EzuAzD98/AnWsRXC23ZVQK/vIoc9lZPzq9AdylLNjYdlBhu+YpqmJwwhSxgEGXTmwicP4qHGej3dZFQaqJtSfsI+c4AXrb9gObfpUqjj9fgF/SK1l4MiF3e/0iEyiEkDqSkHJS31co4/L7xMaJtKjApVqoc/zp6EU6e1JVWSevzOtIG2H1k8lDjXxUMfctbp4pZxG7QBZvRHEKdoHeWfUhMhw9QJkuYEC/JevAgSxGzovsDyL9LORWWwnQnP5pGi5YkgfG7t9CsLaMoQaVjHgciB/u631ECFeKtRd8Qj3EsT8=;Ie78Z9MZ2+R2BjwUNx+TmQ=="
 ---

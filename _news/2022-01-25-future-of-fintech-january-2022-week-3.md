@@ -78,20 +78,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI in Fintech Market Size, Segments Analysis, Future Opportunity, Emerging Trends and Forecasts 2021-2030"
-    excerpt: "North America region was the largest revenue contributor to the AI in fintech market. This is mainly attributed to the developed IT"
-    publishedDateTime: 2022-01-24T15:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-segments-analysis-future-opportunity-emerging-trends-and-forecasts-2021-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.abnewswire.com/uploads/1643003999.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Torpago analyses the future of the Fintech market basing on the trends for 2022."
     excerpt: "Brent Jackson is the Chief Executive Officer & Founder of Torpago analyses the future of the Fintech market basing on the trends for 2022."
     publishedDateTime: 2022-01-25T16:42:00Z

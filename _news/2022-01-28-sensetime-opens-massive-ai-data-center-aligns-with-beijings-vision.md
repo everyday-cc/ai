@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202201/sensetime-opens-massive-ai-
 webUrl: "https://www.biometricupdate.com/202201/sensetime-opens-massive-ai-data-center-aligns-with-beijings-vision"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2000
     height: 1040
     isCached: true
-
-related:
-  - title: "Asia's largest artificial intelligence data center opens in Shanghai"
-    excerpt: "One of Asia's largest artificial intelligence (AI) data centers has officially been put into operation in Shanghai's Lin-gang Free Trade Zone."
-    publishedDateTime: 2022-01-24T14:56:00Z
-    webUrl: "https://news.cgtn.com/news/2022-01-24/Asia-s-largest-artificial-intelligence-data-center-opens-in-Shanghai-175Bn6pICju/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 52
-    images:
-      - url: "https://video.cgtn.com/news/2022-01-24/Asia-s-largest-artificial-intelligence-data-center-opens-in-Shanghai-175Bn6pICju/video/4a697e21405348e58c74b23813875757/4a697e21405348e58c74b23813875757-1280.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "b+ciYW6dQWHSI1FCDIP5YR2n7d53jxHKqlukRVrra2rr2PS5Rw2LJMGolmyaF/qp1m2+F5Q4+a37Qg1kXNKZw+piQKZ70uELrry/2aENZKD1MFDCSPQj5VZg//omnbyPL1FLlmDVpYJt2Kk8WgiZxgzuVSXhir7jnRNjvb9GbQRYOp7uYdWUh4e0Dnv67RqZUXlQal9wMd7tl6DOvd0oBbzaM3K6PJuK1h+BpYO5Iqb7UDl4EMR0i3985oRYPD8MG6ZRa3G6140X/4hSykV4/3gJoHwBbNHQm3iOQhUYWL2Pyj8jmqZdiKzvyDzVwFpDey7oq1sSpOMsRMDki4cN7bUGwl3/tZqntNuoplv40VcCMk6XqPGBv79V97IuBaLYWIqRACKuftRCRqKxGvaaNMPYERvCqYzmg+drl5TxQYl00oFOuq7Anz23whpR3dncPymRzPbSWJ3oXJ40t6HRnNq5hhwMFzAf/bwwK0xQvJpsJT0/47sNdXnqEYt3C7jv4iXpTTtIjp/K+TRmJwe//g==;WpQHbmIsncVYLAsqp0DAZw=="
 ---

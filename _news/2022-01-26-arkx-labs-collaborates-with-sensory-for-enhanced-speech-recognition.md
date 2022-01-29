@@ -2,27 +2,22 @@
 category: news
 title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
 excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-publishedDateTime: 2022-01-25T16:38:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+publishedDateTime: 2022-01-25T16:42:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
 type: article
-quality: 39
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - Natural Language Processing
 
 related:
   - title: "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries"
@@ -70,20 +65,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1248800431.jpg?w=1200&strip=all"
         width: 1200
         height: 612
-        isCached: true
-  - title: "Smiles.ai Raises $23 Million in Series A"
-    excerpt: "The funds will be utilized to expand footprint nationally, strengthen the leadership team and build innovative tech-driven dental care solutions"
-    publishedDateTime: 2022-01-24T14:22:00Z
-    webUrl: "https://www.entrepreneur.com/article/414713"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1643033928-Myproject30.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Acting New Jersey Attorney General Seeking Public Comment on the Use of Facial Recognition By Law Enforcement"
     excerpt: "Many states this year are contemplating legislation and/or regulation in regards to biometric information and New Jersey is no exception.  This month Acting Attorney General Andrew J. Bruck annou"
@@ -237,6 +218,6 @@ related:
         height: 628
         isCached: true
 
-secured: "0zWWFt32Gd5zDNoqt/M67lo1l8hih6wag03u4cXp+AwQn7BJ/5eFBfP9bqJGrnNL1jTaGfUFPZJ9PlMpU8EV5AZej1QYcmEslYLFUPbZgiBrCyIuiYnya1sAO/z96Hd7Caoix7jcng2lyO/8uN6yebT1bHDm6KeqzaGw244VeILd+bmTFVUCnJj8Jlzul4R22oagrdwzW1+vgaU3r+xoMsDDhVXLYxb087abElr7ryWoiqLSOj240w74o/hxvxTz2T2XJLQTg4K7gz4KCT0rHxvMh8ZbMOmk3pH82V0vugTXs/P06NU5YoBs2KB0YtQAHVqCPlSGLbgL/++8XsIBPhVNMwdKjXxv9/O+L4rCeTY=;3vO+MoU4LKQ4K5Mdytqgqw=="
+secured: "j+K7NXKxul13WYcgLTtUP6IhBeFksna/b6ntNdy+rf6o+iObuxKDPprzJ9HwF6R0oYUL9gpD0NxDIsYQQKR1XB78hTACinrc1d8f3RAflVx6H3MzXaEszg2atvihLPNACSPw7H6KLvuxR35LY4Va8NPs3l3A88/pGyHFituR5tFRcVPtFcTxu6EYHLgVQydB9K++FFeN6mWzHRycLp2FqG27EHEEFeGqpdHUOqhNlSJhOfQhwAQICou2yOSqYtDfARTXRMfzDk7o1usvAXJT6DjS5LH+sC7bTnrHoPCX7JwwG/M58S6HTvwEutjNo+e6JjwwVaeIIc2uGJaoBie1b+br2A4BclcrDFxXAa3Sgt8=;VdsXei1or8xagNancYk3RQ=="
 ---
 

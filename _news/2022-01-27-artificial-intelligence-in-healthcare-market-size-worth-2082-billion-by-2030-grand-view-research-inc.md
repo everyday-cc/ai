@@ -2,27 +2,26 @@
 category: news
 title: "Artificial Intelligence In Healthcare Market Size Worth $208.2 Billion By 2030: Grand View Research, Inc."
 excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030, according to a new report by"
-publishedDateTime: 2022-01-27T09:05:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research/article_0b3ff320-f08b-515f-a303-682b0f3f75c2.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research/article_0b3ff320-f08b-515f-a303-682b0f3f75c2.html"
+publishedDateTime: 2022-01-27T10:05:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research-inc--864587650.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research-inc--864587650.html"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/c6/8c66b3a9-1b92-5bab-a37c-b539b9d30a53/6098f2b83f2d2.image.jpg?crop=810%2C425%2C295%2C0&resize=810%2C425&order=crop%2Cresize"
-    width: 810
-    height: 425
+  - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
+    width: 1400
+    height: 733
     isCached: true
 
 related:
@@ -97,6 +96,6 @@ related:
         height: 710
         isCached: true
 
-secured: "ssyAHm06Sn4OZeMLjnsX8vGI566BV8fEkWue5lXRbGoRzZwX9iZOLL9Hf8v8dfIUOMF9bpEVD3hSroRcZ5Q2LEoJyZF9muIvdBlc19welER0+bg9M2zbYsBjYm7oakss/HOp2MTZBHBQcm0yunqm2/wmiu5Cg56FmDy5y7FYKu9XcYfOBrWGx9H1OaHPyHT9Qq/7V0TilRgID2dk1W1DUQ84zCuQytRyuf+NmXUMD1w08QyCXkWNM3yv5SLnku5v5yjqB57e6eChC50ouDgVoAcP2Ggd4oHiHN0PC8PqLm6Sm4XmXnm2KIgQT+HjL3Sf86al+2FgyUlbgzxCQFSZ6V6cW11ndf7Ha+vWOC1Ic5o=;lAYvVvJh8kwZaQjIsb/ZZA=="
+secured: "XJX7SklqdPZTkPlb9DOFF7H4dUSPIC8LlgK0W+T5sDEbuZcUhtFT4VT1b1rAW/nCoNDGzSsCEn0o8L0hkxsW7PB2u5Q5Xw/dguA2LwR81feW1ohtQG52gBvr91BBy4vnnWRPyxSmocndz14qBGcF0zBOugqLLzWr6XlEKv+78mJuDgkgjvdhNRFRn/iMuYcgqZ7f3t5j8nyNUSE6PPOOcAb97sln2l1QROAlH19vtbg5QkxKPw/JyqUqMSu/0RfqB88L4uTxPnFH80Vf0ORGt0O92HRVWjSFp1S912pKQt5Mx92BCM07hy7K0f0KygNWYCQbwahsbNlCi7jkEmvzzkAsgVILUUUlha7KeMfg/6c=;bw/8xd67zO7r0BtBh3wtWA=="
 ---
 

@@ -56,20 +56,6 @@ related:
         width: 2119
         height: 1415
         isCached: true
-  - title: "The robust health of Artificial Intelligence in the medical sector"
-    excerpt: "From improved diagnosis and treatment to streamlined processes and predictive maintenance, Artificial Intelligence is bringing many benefits to the healthcare sector. Beatriz Matesanz, MIS Innovation & IrixX Business Segment Director at Thales,"
-    publishedDateTime: 2022-01-24T13:30:00Z
-    webUrl: "https://www.thalesgroup.com/en/worldwide/group/magazine/robust-health-artificial-intelligence-medical-sector"
-    type: article
-    provider:
-      name: Thales Group
-      domain: thalesgroup.com
-    quality: 39
-    images:
-      - url: "https://www.thalesgroup.com/sites/default/files/styles/article_card/public/database/assets/images/2020-12/TELEHEALTH_THUMBNAIL.JPG?itok=rc-xMSte"
-        width: 550
-        height: 330
-        isCached: true
 
 secured: "RWV6p4iZchCk+ya1Ny+MbaK0zox+dvxgxXPJudeaNaVeBtw5irvdsx6Wy5txnMOq3hePFJxvSxp+odGWHeu2NVHcUSLoT7NBe/fSERblODNFqvA0JrTTAr33oXk3DQMYpPPg/2s2es3OXOejRICveUCQiWcbQXBcAp+BZRq+KVN8IgXP95Iu2xU1RDFz6jYvSYaotTEgB5KH5i7vLBGuYrT3bWjTQsUtYFKqTGoW3wCeXGEKUUtdNXnA2Y6NskFF7p0B+lw6gK55SXeRJ/Keeo0UdoYhEjczaMbBWmEZphnBuZtxJOicAYL7iDK8xdxKrc9wxbgtPYbi/S2H2sltr0Qni2X9FtT7PWAewFPHerw=;QsBln97b10gi1Kcj2FJNrA=="
 ---

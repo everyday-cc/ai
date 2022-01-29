@@ -85,20 +85,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Automotive Smart Display Market Analysis 2021-2028 | Key Driving Factors, Application, Manufacturers, And Future Trends | Grand View Research, Inc."
-    excerpt: "Market Research And Consulting.\"\"According to a new report published by Grand View Research, increasing demand for advanced"
-    publishedDateTime: 2022-01-24T14:45:00Z
-    webUrl: "https://www.digitaljournal.com/pr/automotive-smart-display-market-analysis-2021-2028-key-driving-factors-application-manufacturers-and-future-trends-grand-view-research-inc"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
-    images:
-      - url: "https://www.abnewswire.com/uploads/1642857106.png"
-        width: 1007
-        height: 768
-        isCached: true
 
 secured: "DbNN8MH4LwaWEWp8j4MAiCx4d4dB0/5b07artECjegYuKqZg8G3cAMLShhpYkkruP5M3IGf08CYFo4AFr3qAN2DLame8A4a93/DjUWTKxwOIMxjaypevufIz8jPsT63IMtpjJ/abnvM3ctcYHZe3nFcUg9lZB8HDIdKpkCmFk9+S+qQzjiah+hR9pR3MRKjGaGcQ4TmyXwp/+NKyem2usAx3ywK/SA48kySABoLnkK6dM5FrxIkFq9ODHAis+k+dNkQzQjNwW1do3aX5QKT+uKC252fNYxnl6HlCvqG6cvGQRINvkzfDryv24lUFmCqlj1yb9pLPwpZGqMLZEVG096PaVo+f77X7RO3UfoQYbsM=;AkN4Dlf7qg1yAsZRVyDjnA=="
 ---

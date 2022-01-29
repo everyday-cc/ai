@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Silicon Labs Brings AI and Machine Learning to the Edge"
-    excerpt: "GHz wireless SoCs improve AI/ML performance by 4x using 1/6th the energyNew AI/ML Software Toolkit Optimizes TensorFlow for all Silicon Labs SoCs"
-    publishedDateTime: 2022-01-24T14:14:00Z
-    webUrl: "https://www.electronicsforu.com/press-releases/silicon-labs-brings-ai-and-machine-learning-to-the-edge"
-    ampWebUrl: "https://www.electronicsforu.com/press-releases/silicon-labs-brings-ai-and-machine-learning-to-the-edge/amp"
-    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/press-releases/silicon-labs-brings-ai-and-machine-learning-to-the-edge/amp"
-    type: article
-    provider:
-      name: Electronics For You
-      domain: electronicsforu.com
-    quality: 74
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/01/Image_1-e1643033650591.jpg"
-        width: 652
-        height: 400
-        isCached: true
   - title: "Studying the Big Bang With Artificial Intelligence"
     excerpt: "Immediately after the Big Bang, the entire universe was in this state; today it is produced by high-energy atomic nucleus collisions, for example at CERN. Such processes can only be studied using high-performance computers and highly complex computer simulations whose results are difficult to evaluate."
     publishedDateTime: 2022-01-25T21:34:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/how-ai-cou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/25/how-ai-could-predict-medical-conditions-and-revive-the-healthcare-system/amp/"
 type: article
 quality: 103
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
-        isCached: true
-  - title: "The robust health of Artificial Intelligence in the medical sector"
-    excerpt: "From improved diagnosis and treatment to streamlined processes and predictive maintenance, Artificial Intelligence is bringing many benefits to the healthcare sector. Beatriz Matesanz, MIS Innovation & IrixX Business Segment Director at Thales,"
-    publishedDateTime: 2022-01-24T13:30:00Z
-    webUrl: "https://www.thalesgroup.com/en/worldwide/group/magazine/robust-health-artificial-intelligence-medical-sector"
-    type: article
-    provider:
-      name: Thales Group
-      domain: thalesgroup.com
-    quality: 39
-    images:
-      - url: "https://www.thalesgroup.com/sites/default/files/styles/article_card/public/database/assets/images/2020-12/TELEHEALTH_THUMBNAIL.JPG?itok=rc-xMSte"
-        width: 550
-        height: 330
         isCached: true
 
 secured: "Tyo72TCsokAdUHktpYas533/Q87ElSWYeTHPOOqy0y5nulEkgsoN3BBt5gKVDiRjAwLsWlNtGdjmvw6Qu/Hm904uf1kV5vmX2/cCDSCdgpi5+bsHZ4EgABkc3zc9sQzgK2bPe3G5gouIrFd9gkXvkXJbF+/xH2ruENVE5WaeAxBUupyqQHsPhV0+hi0OHGg7lrpnKIv2Eu3KtA5AK1znFo5ANzyA6AUM+T6W5ulG4kXMkh42D2gg1JvbDFxb8eukzRjQu50jzSoEp+L1nciziyaX5ccVukYZ35JpLJoFx1Hw9IO/ASeZoohfa8ghGmo/09/n2jN3S51p35UlHsUAGDipYSYdzxHdRikvvPxugI3UZKHYRIbmlG+1t3J932/kzT3Ey5vpg3fF+B4Fl/xQTM7suBJeplXODOUHDJc+2i/8ybjaxt9r8/EYN62TRWLZu+QWd0x0QJSryhM1Pvo9rlmaoSIuIriyooohLX+1Ak0Py2VxjBIEyz7EvirOVaXKSkyLAxyu/Tj3OaJXuN8lHA==;V1duuDjXx8l6KN8lSbN+CA=="

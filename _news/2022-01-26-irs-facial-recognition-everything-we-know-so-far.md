@@ -105,17 +105,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Smile! The IRS Wants You To Send Selfies to a Facial Recognition Company"
-    excerpt: "\"No Identity Left Behind.\" Americans who want to access tax return transcripts, check on child tax credits, or do"
-    publishedDateTime: 2022-01-24T14:32:00Z
-    webUrl: "https://reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/"
-    ampWebUrl: "https://reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2022/01/24/smile-the-irs-wants-you-to-send-selfies-to-a-facial-recognition-company/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 38
   - title: "Are Cow Noses the New Fingerprint to Unlocking Livestock Facial Recognition?"
     excerpt: "Fingerprint recognition technology for cellphones was first created in 2011 and is the process of verifying a person’s identity by comparing their fingerprints with previously recorded samples. This recognition is then utilized to unlock certain technology features and can even provide specific data on individuals."
     publishedDateTime: 2022-01-24T21:09:00Z

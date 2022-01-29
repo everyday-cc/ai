@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 612
         isCached: true
-  - title: "Smiles.ai Raises $23 Million in Series A"
-    excerpt: "The funds will be utilized to expand footprint nationally, strengthen the leadership team and build innovative tech-driven dental care solutions"
-    publishedDateTime: 2022-01-24T14:22:00Z
-    webUrl: "https://www.entrepreneur.com/article/414713"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1643033928-Myproject30.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Acting New Jersey Attorney General Seeking Public Comment on the Use of Facial Recognition By Law Enforcement"
     excerpt: "Many states this year are contemplating legislation and/or regulation in regards to biometric information and New Jersey is no exception.  This month Acting Attorney General Andrew J. Bruck annou"
     publishedDateTime: 2022-01-25T23:32:00Z
@@ -114,20 +100,6 @@ related:
       - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2022/01/16x9/MDS_Executive_Summary.61f015c0d07ee.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
-    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-    publishedDateTime: 2022-01-25T16:38:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "MinIO Raises $103 Million in Latest Funding Round"
     excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, announced it has raised $103 million in Series B funding at a $1 billion valuation, enabling the company to accelerate multi-cloud storage adoption."
@@ -236,6 +208,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
+    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
+    publishedDateTime: 2022-01-25T16:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "VkOHKKRtCj8SYptw6MNUYeSdu7ErVIrG6dU4B7u8mCnQN993lkJjn3/lZDAZpNCJbh0uaLLPG5gE+84hcJ+7PDoC0zQWIY9xoMPv6KmSwn9MpPVR/zdkArQWOvCZ9UCjkWD6NWVITfQooxikRFIn2IzZfhXww5CBuiBAsDkTGLbdu+dpsc1e84WlXKpVGMlc3+B9wYsKP7JW2ehOUmtgMN/F4Z9t7aBgM/RXcAdZToNmGaXfm9SQXvqEQpcz+wgsBWMRligaNcnwNlOfjyHr6z8P57Lr5tTx4w01RF2IbJPJ785frUoJzf6p7R0NoLEvhPXExy90za4nTmz7IrcEa4x4xCaMTqYNgYJQiVJO5PQWoaq42t/h/Y/X5FA/cCdSbB4RlSLnR4iO/frNW/WuJz2P6sr+AiHrVe9VLyltWAFOPUD3WJiaqZlscBDXwNlvHtypd4+65yNYXztmHOS9vVsDTyZZpKa5BAGSqwkpZuRZVO1FNN1u6CrkvQLrqsXNpatBTtsu2URJPFUrSKC0og==;9t8FYNJy1mK+siVP8NJzHA=="
 ---

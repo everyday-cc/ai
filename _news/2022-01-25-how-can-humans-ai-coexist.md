@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/how-can-humans-ai-coexist-lara-nguy
 webUrl: "https://www.linkedin.com/pulse/how-can-humans-ai-coexist-lara-nguyen"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Oh great — AI can not only be racist and sexist, but ageist too"
-    excerpt: "Current research on bias in AI focuses mainly on gender and race. But what about age-related bias — can AI be ageist?"
-    publishedDateTime: 2022-01-24T13:22:00Z
-    webUrl: "https://thenextweb.com/news/ai-can-be-racist-sexist-ageist-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FElderly-woman-AI-hed.jpg&signature=acb61ad7c179237f58c19be72fcf6bb6"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "5r/6/JadvGDuJeJGLy1yNd1Pu1YE35nduBxHZnmKGxHtYofF5GlffLwGqX9VoF5t8KhYwiPRx/JfgxE/WSNbVlgDwRcnEliylyKp1mVcP8wWNLqgBu0F20uyryw9/tfDtkaavkfzlzV2VvMktnQHV6aJG8Br0ySrwv8In5F9Rl5DcXaqseaU9XpV7njtQZVZ+vindsgav3oSkkvZ99IkjrB5yAQOI1HYTmBz4jufRNWib5nHzpsd9NjwzmEPvRAsJFN468omq9DXUPVhyoBbc71f7wZacQ1BK2cYUeYbb5jzQ++AfDuBbmdMQxrZAONrkA8vReB/5gq6F4kg9xkgkU87i4JCxJikI9/msA8a2Kg=;/Cg5adCTAVBQhnN/JIFxpA=="
 ---
