@@ -41,6 +41,22 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Toronto's self-driving shuttle pilot project ends without servicing the public"
+    excerpt: "An autonomous shuttle pilot project in Toronto that was supposed to connect one Scarborough neighbourhood to GO Transit has ended even before residents could ride the self-driving vehicle."
+    publishedDateTime: 2022-01-29T01:23:00Z
+    webUrl: "https://www.cp24.com/news/toronto-s-self-driving-shuttle-pilot-project-ends-without-servicing-the-public-1.5759596"
+    ampWebUrl: "https://beta.cp24.com/news/2022/1/28/1_5759596.html"
+    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2022/1/28/1_5759596.html"
+    type: article
+    provider:
+      name: CP24
+      domain: cp24.com
+    quality: 40
+    images:
+      - url: "https://beta.ctvnews.ca/cp24/en/news/2022/1/28/1_5759596/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "LG Electronics to unveil life-size self-driving concept car 'LG Omnipod' in February"
     excerpt: "LG Electronics said on Monday that it will show off the real-life version of its futuristic self-driving vehicle next month. The LG Omnipod, a mobility concept solution that can serve as \"a home office,"
     publishedDateTime: 2022-01-25T04:54:00Z

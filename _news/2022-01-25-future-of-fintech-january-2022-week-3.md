@@ -40,19 +40,16 @@ related:
         height: 300
         isCached: true
   - title: "3 Beaten-Down Fintech Stocks to Buy Now"
-    excerpt: "These companies are growing a lot faster than their stock prices suggest following the recent stock market correction."
-    publishedDateTime: 2022-01-27T10:43:00Z
-    webUrl: "https://www.fool.com/investing/2022/01/27/3-beaten-down-fintech-stocks-to-buy-now/"
+    excerpt: "The fintech industry received more than its fair share of abuse during the current stock market correction. While these are relatively high-risk stocks, it's going to take more than a higher interest rate environment to stop them from disrupting their respective niches."
+    publishedDateTime: 2022-01-27T09:43:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/662787/a-couple-investing-getty.jpg"
-        width: 2120
-        height: 1414
-        isCached: true
   - title: "AI in Fintech Market is Expected to Reach USD 49.33 Billion By 2028"
     excerpt: "Increasing demand for AI in fintech in the cloud deployment mode coupled with high investment in R&D of AI in fintech are fueling the market growth."
     publishedDateTime: 2022-01-24T12:59:00Z

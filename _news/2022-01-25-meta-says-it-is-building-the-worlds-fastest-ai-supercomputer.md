@@ -90,16 +90,19 @@ related:
         height: 561
         isCached: true
   - title: "Will Tesla's Dojo Supercomputer Disrupt AI in 2022?"
-    excerpt: "At Tesla's AI Day in 2021, they introduced the D1 chip and this will power its Dojo supercomputer. I don't want to get too technical, but each chip offers 362 teraflops of compute performance. That's 362 trillion floating point operations per second."
-    publishedDateTime: 2022-01-27T11:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/will-teslas-dojo-supercomputer-disrupt-ai-in-2022"
-    ampWebUrl: "https://www.nasdaq.com/articles/will-teslas-dojo-supercomputer-disrupt-ai-in-2022?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-teslas-dojo-supercomputer-disrupt-ai-in-2022?amp"
+    excerpt: "At Tesla's AI Day in 2021, they introduced the D1 chip and this will power its Dojo supercomputer. I don't want to get too technical, but each chip offers 362 te"
+    publishedDateTime: 2022-01-27T15:30:00Z
+    webUrl: "https://www.fool.com/investing/2022/01/27/will-teslas-dojo-supercomputer-disrupt-ai-in-2022/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/663092/gettyimages-1294874384.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
   - title: "Meta Builds World’s Largest AI Supercomputer With NVIDIA For AI Research And Production"
     excerpt: "Facebook, I mean Meta, has always been one of the industry leaders when it comes to AI research and deployment. The company processes hundreds of trillions (yes, trillions with a “T”) of inferences every day,"
     publishedDateTime: 2022-01-25T22:08:00Z

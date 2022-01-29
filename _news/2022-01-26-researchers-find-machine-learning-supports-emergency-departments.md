@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-01-machine-emergency-departments
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-emergency-departments.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Chip Market Global Industry Outlook and Key Players Analysis By 2028 | Emergen Research"
+    excerpt: "Increasing adoption of quantum computing and growing implementation of deep learning chips for robotics are some key factors driving market growth VANCOUVER, BC, CANADA, January 27, 2022 ..."
+    publishedDateTime: 2022-01-27T13:40:00Z
+    webUrl: "https://menafn.com/1103601556/Deep-Learning-Chip-Market-Global-Industry-Outlook-and-Key-Players-Analysis-By-2028-Emergen-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?531109"
+        width: 374
+        height: 250
+        isCached: true
   - title: "U of M researchers find machine learning supports M Health Fairview emergency departments"
     excerpt: "The team found that the tool can be developed, validated, and implemented as clinical decision support across multiple hospitals."
     publishedDateTime: 2022-01-25T15:49:00Z

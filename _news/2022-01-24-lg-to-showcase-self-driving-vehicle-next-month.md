@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/amp/auto/features/article/lg-to-showcas
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Toronto's self-driving shuttle pilot project ends without servicing the public"
+    excerpt: "An autonomous shuttle pilot project in Toronto that was supposed to connect one Scarborough neighbourhood to GO Transit has ended even before residents could ride the self-driving vehicle."
+    publishedDateTime: 2022-01-29T01:23:00Z
+    webUrl: "https://www.cp24.com/news/toronto-s-self-driving-shuttle-pilot-project-ends-without-servicing-the-public-1.5759596"
+    ampWebUrl: "https://beta.cp24.com/news/2022/1/28/1_5759596.html"
+    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2022/1/28/1_5759596.html"
+    type: article
+    provider:
+      name: CP24
+      domain: cp24.com
+    quality: 40
+    images:
+      - url: "https://beta.ctvnews.ca/cp24/en/news/2022/1/28/1_5759596/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "Self-driving vehicles are our future. UMaine is showing how."
     excerpt: "\"Although buses and ride services are also an option, let’s face it, we’re not exactly known for a robust public transit system that adequately meets people’s needs throughout the state,\" Paul Fink writes."
     publishedDateTime: 2022-01-25T09:59:00Z

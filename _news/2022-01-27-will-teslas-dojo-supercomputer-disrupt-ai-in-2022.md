@@ -1,25 +1,33 @@
 ---
 category: news
 title: "Will Tesla's Dojo Supercomputer Disrupt AI in 2022?"
-excerpt: "At Tesla's AI Day in 2021, they introduced the D1 chip and this will power its Dojo supercomputer. I don't want to get too technical, but each chip offers 362 teraflops of compute performance. That's 362 trillion floating point operations per second."
-publishedDateTime: 2022-01-27T11:30:00Z
-originalUrl: "https://www.nasdaq.com/articles/will-teslas-dojo-supercomputer-disrupt-ai-in-2022"
-webUrl: "https://www.nasdaq.com/articles/will-teslas-dojo-supercomputer-disrupt-ai-in-2022"
-ampWebUrl: "https://www.nasdaq.com/articles/will-teslas-dojo-supercomputer-disrupt-ai-in-2022?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-teslas-dojo-supercomputer-disrupt-ai-in-2022?amp"
+excerpt: "At Tesla's AI Day in 2021, they introduced the D1 chip and this will power its Dojo supercomputer. I don't want to get too technical, but each chip offers 362 te"
+publishedDateTime: 2022-01-27T15:30:00Z
+originalUrl: "https://www.fool.com/investing/2022/01/27/will-teslas-dojo-supercomputer-disrupt-ai-in-2022/"
+webUrl: "https://www.fool.com/investing/2022/01/27/will-teslas-dojo-supercomputer-disrupt-ai-in-2022/"
 type: article
 quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
   - AI in Autos
+
+images:
+  - url: "https://g.foolcdn.com/editorial/images/663092/gettyimages-1294874384.jpg"
+    width: 2309
+    height: 1299
+    isCached: true
 
 related:
   - title: "Meta Unveils New AI Supercomputer"
@@ -845,6 +853,6 @@ related:
       domain: pocketnow.com
     quality: 13
 
-secured: "NObfx9sd4vprK0MXznKXBDzbbCjEgoCpMLN5yUYLVxpuy7rto+Cil7mukhZPB8lIhldWSLZnTwBJNzqyTZA9s/168/TnI3wekXM4sHGB3KVPBCASXojlBcH/dZmcR25OI1eV7Sr56ObOJ08jIW5tFRqlID01UeoRqclSoAxT+1b5kQ4y6JYWFw3QZhcuJ8cjGLSejOmmyxyRzOe1THoAux+9wfAxmaYKmCj3/CCE58Q4kNC2fyoHdG3TBznijJMkVT3lF1zuuEP8f8rPNBgn4TrspN4WQeBDTH4efP0xm4W2wa3Pp5fzYMR/9BRK/nq8T978Vz0ISsDVD2SUWCxt+4g8C3eVY/p3ceq0eyrJf9g=;2m5i81Pw3rmrxqU0BvTr3w=="
+secured: "0GGCI0bxOv0Y0++/7ZDlnmidEdfYbasDcTkNS0RTbyIteqwpUbc6PCNIyGQ5H+hlmHpTi/8/RYW21R7bH3zYmVr9q3acapOPSp5t8TwcJkxh0HgaDbsTWe4AaIeYJNPCGCd5/6H8atAZgEXXc46FFrwTJ0SDhpJaisq5dbjlhXUWNEVkoqHwXK/dC6Efa/JE0w0/g+kF2toa0olDtzTTCGEv5WWNoHsPG4nIpCQFjEVEJF/mcfItdiVKCv66mM97byGsQAMgRdoNeU3ldMHzeytBZkelakbmhwyAzd+0h3vD4pkYT5AfmiQIm9nA6pW5lw1ZPU+u/2Eb/yk9OTBIpGCxUfpSRj+DZ3acz62abfU=;1VsmL8Goe5Axupw6gdCq/w=="
 ---
 

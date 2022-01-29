@@ -39,20 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI, cybersecurity mesh, and zero-touch service management to dominate IT in 2022"
-    excerpt: "Hybrid work will be an expectation if not the norm at most organizations across the world. That means cybersecurity, AI, automation, and analytics will play increasingly significant roles in organiza"
-    publishedDateTime: 2022-01-24T10:44:00Z
-    webUrl: "https://www.smechannels.com/ai-cybersecurity-mesh-and-zero-touch-service-management-to-dominate-it-in-2022/"
-    type: article
-    provider:
-      name: NETGEAR
-      domain: smechannels.com
-    quality: 32
-    images:
-      - url: "https://i0.wp.com/www.smechannels.com/wp-content/uploads/2022/01/Rajesh-Ganesan.jpg?fit=570%2C380&ssl=1"
-        width: 570
-        height: 380
-        isCached: true
 
 secured: "iwZ7eibOlehoTFYawWqWmHdV4Rtn3bZt00NZxnVB1a8zHYzHvv3KLbAtJ979DCMY8Aym5q17s56N07Qvah/wJIm037Ms0GB09yla4z0QJP6GA6/t4Tg3b1qBb3yNwxfLqN/CHlPaSGx6FCHL+gGntwsVvcluV+PI6G3vtv9zZSrLDMBrXAlWTxw6HpMAkcowx5QqGgfJqlY4Cwmgqaqow/3yq3IVowU2dSIEA5kb+e6e4MBZG/mCW4GxtPNXntADGlFvlLhmgKx5aKZNyLCEzUVLj8OsqTwFpz9QYulNJgYGLur1j67hdozlbzqdx+wlEc6H93NT7i39Z/lBeF46Ug8Hv3UcyqLwGPnNsRfjpyQ=;0i6UkAvNQhm17AFKDf1YXQ=="
 ---

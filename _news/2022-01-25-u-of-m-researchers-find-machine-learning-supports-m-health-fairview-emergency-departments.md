@@ -35,6 +35,20 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Deep Learning Chip Market Global Industry Outlook and Key Players Analysis By 2028 | Emergen Research"
+    excerpt: "Increasing adoption of quantum computing and growing implementation of deep learning chips for robotics are some key factors driving market growth VANCOUVER, BC, CANADA, January 27, 2022 ..."
+    publishedDateTime: 2022-01-27T13:40:00Z
+    webUrl: "https://menafn.com/1103601556/Deep-Learning-Chip-Market-Global-Industry-Outlook-and-Key-Players-Analysis-By-2028-Emergen-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?531109"
+        width: 374
+        height: 250
+        isCached: true
 
 secured: "vvWG5rV/q1ZuZfThtJ+FDJCkBncXIj0GjLD5KwfU4eh/h+SP4ZwqJPZ9P4tbSFvRqFCpVoRS1Nb3eLGnNZFYIY+AY2mOUyXgzHjpX0VGZb7IQRY/9szwORCOqhmLWyHJgbjGzO32GPZ1A9zauCNilk4bRa+Jgd+YdtUB0rlZiejQjywtnpngVFv+y8ZWBmDJ7DVmf1+OBU2VpUWo+pG1Aos5biv2YOriuhsKYCo8hHeoPXL27a8okt0E9UnstQ1itxoDFBi5sOXlYmcs0LpIyPKtszWKpbq4NQh7O8VAwX0Ouz2nQC3h/fVztcFlkXoucIUmURK5t+VNfA7CGlyldhGtxU1QUr9kizAHQQ0INYA=;K6viyO1kCatAoQ9MLSEzIw=="
 ---

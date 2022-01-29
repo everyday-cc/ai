@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Aerospace Robotics Market Analysis, Development, Revenue, Future Growth, Top Players and Forecast to 2027"
-    excerpt: "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. This information is given by Fortune Business Insights™ in a new report,"
-    publishedDateTime: 2022-01-24T10:40:00Z
-    webUrl: "https://menafn.com/1103583025/Aerospace-Robotics-Market-Analysis-Development-Revenue-Future-Growth-Top-Players-and-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?899994"
-        width: 333
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Growth, Trends, and Forecast, 2021-2031"
     excerpt: "Artificial Intelligence (AI) in Remote Patient Monitoring Market: Contours The shift from volume-based to value-based care in healthcare sector has opened"
     publishedDateTime: 2022-01-27T08:52:00Z
@@ -80,34 +66,6 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?25642"
         width: 374
-        height: 250
-        isCached: true
-  - title: "Global Surgical Robots Market Size, Share, Trends, Industry Growth and Forecast 2021-26"
-    excerpt: "According to IMARC Group’s latest report, titled “Surgical Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global surgical robots market exhibited strong growth during 2015-2020."
-    publishedDateTime: 2022-01-24T09:24:00Z
-    webUrl: "https://www.linkedin.com/pulse/global-surgical-robots-market-size-share-trends-industry-raj-naagar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 31
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFyQSfl_Ru_xQ/article-cover_image-shrink_600_2000/0/1643016244158?e=1648684800&v=beta&t=md30QRDqG8qU6ct7Tqby8mutdOcimR4byXdp8IELo1E"
-        width: 534
-        height: 346
-        isCached: true
-  - title: "Natural Language Processing Market Overview, SWOT Analysis, Applications, Trends and Forecast 2021 - 2030"
-    excerpt: "In a recently published report,  Natural Language Processing Market  report for till 2030. The report further now discusses; th"
-    publishedDateTime: 2022-01-24T10:40:00Z
-    webUrl: "https://menafn.com/1103583048/Natural-Language-Processing-Market-Overview-SWOT-Analysis-Applications-Trends-and-Forecast-2021-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?899994"
-        width: 333
         height: 250
         isCached: true
   - title: "Machine learning Market Research - Insights Revenue, Growth Factors, Trends, Key Companies, Forecast 2021-2030"
@@ -175,6 +133,20 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 6
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI In Financial Wellness Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
+    excerpt: "The Global AI In Financial Wellness Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
+    publishedDateTime: 2022-01-28T07:21:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-financial-wellness-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 3
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
         width: 600

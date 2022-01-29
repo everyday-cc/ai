@@ -1,32 +1,24 @@
 ---
 category: news
 title: "3 Beaten-Down Fintech Stocks to Buy Now"
-excerpt: "These companies are growing a lot faster than their stock prices suggest following the recent stock market correction."
-publishedDateTime: 2022-01-27T10:43:00Z
-originalUrl: "https://www.fool.com/investing/2022/01/27/3-beaten-down-fintech-stocks-to-buy-now/"
-webUrl: "https://www.fool.com/investing/2022/01/27/3-beaten-down-fintech-stocks-to-buy-now/"
+excerpt: "The fintech industry received more than its fair share of abuse during the current stock market correction. While these are relatively high-risk stocks, it's going to take more than a higher interest rate environment to stop them from disrupting their respective niches."
+publishedDateTime: 2022-01-27T09:43:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702"
+webUrl: "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702"
+ampWebUrl: "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/662787/a-couple-investing-getty.jpg"
-    width: 2120
-    height: 1414
-    isCached: true
 
 related:
   - title: "New & emerging Fintech Security Trends in 2022"
@@ -139,6 +131,6 @@ related:
         height: 473
         isCached: true
 
-secured: "aHkLXssTB1TNMlItTW81nMVmNqRtHVDhxIwGlFP5aJ/Wq19iDqnbw8ItzyK7HA0ehwaO6UAzNgeBY04EzaV5E6Va7f80RJSbVL6rJbS6HKc4XpRRyLp8DddZ+XIcWXwabkKjUvObXRonreANMtfXxl2bWcL5o4lP4DI0w3znxlCrL2hzFWSs/6mg5A043m6yZSH4tD+Wf7o0ndhTpyQ/m3tJpIsfbiKKRanBGxC743zd5RZlqkrkmJ75Slx0ja0tio2axohUpbQB55rpoVISd0uv9jtmNqyuift42GrMrmcKWGWDtJBhszYKhGBH2nG7IqX6Oqy6N8bvNgEgIkp0UCvDPid11wK3lQLlilNU0JcXUW+qURga/Y/Y/UZaUT4iqgeV38oS7OsTSU6aK2Y6VD+6uE+uyOOxWJ0I/SlWzLE0gZ/4TnbyExOzQp2N6Lg3HGnNcpKB4K5d5Gn2ehsxgJQy5QnFWtbebr9nvGuM0+Wvi13ql4kSnmqvn2GIOIInTyWJ58cAy2MDbcGOGrs10Q==;oL2i6VKdrrboze5E9J2VpQ=="
+secured: "DrPoxzRcS5ZPcfSolsFBs2pH/6Xv4gDqtWteI2Pmf5I6RuWmh9RlrD8H2AhXcRxvGDze1TKHVz4AMtP56FUyWhnX37UUBwNnpjPtr2iWq2jcQwYe7JoUzUaZy0C9Y/nSu9X3sP2U1jCA2MlvCiCqQ18PufedFY6mv+3dLXBlOb57uX653verVUaAhUpFBEPRSHvHy5M3RZIcBCMpsVAvvvP81mJfp9YX7cFR4+0CBab7B1tjsmqJ+ys02YlcEYlzSvbEGY3MFXZsLkB4dNhDDqMkdyH8dO8Ae7F6FgRbtQzZ+bqaVhyGEOmuJ3w26VCFNwkJR3WlhDrpXyELFbRI+v3vTj/wVWMPZFRReicyEf0=;wjY5KBcbVrw1yRVsavJstA=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "SenseTime launches powerful AI computing center in Shanghai"
-    excerpt: "Courtesy of SenseTime. The first mega artificial intelligence (AI) computing center in East China operated by Chinese emerging AI firm S"
-    publishedDateTime: 2022-01-24T10:06:00Z
-    webUrl: "https://www.globaltimes.cn/page/202201/1246734.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 37
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-01-24/20d6aae8-3e8a-4b66-847a-3e2f31509848.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "b+ciYW6dQWHSI1FCDIP5YR2n7d53jxHKqlukRVrra2rr2PS5Rw2LJMGolmyaF/qp1m2+F5Q4+a37Qg1kXNKZw+piQKZ70uELrry/2aENZKD1MFDCSPQj5VZg//omnbyPL1FLlmDVpYJt2Kk8WgiZxgzuVSXhir7jnRNjvb9GbQRYOp7uYdWUh4e0Dnv67RqZUXlQal9wMd7tl6DOvd0oBbzaM3K6PJuK1h+BpYO5Iqb7UDl4EMR0i3985oRYPD8MG6ZRa3G6140X/4hSykV4/3gJoHwBbNHQm3iOQhUYWL2Pyj8jmqZdiKzvyDzVwFpDey7oq1sSpOMsRMDki4cN7bUGwl3/tZqntNuoplv40VcCMk6XqPGBv79V97IuBaLYWIqRACKuftRCRqKxGvaaNMPYERvCqYzmg+drl5TxQYl00oFOuq7Anz23whpR3dncPymRzPbSWJ3oXJ40t6HRnNq5hhwMFzAf/bwwK0xQvJpsJT0/47sNdXnqEYt3C7jv4iXpTTtIjp/K+TRmJwe//g==;WpQHbmIsncVYLAsqp0DAZw=="
 ---
