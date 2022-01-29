@@ -56,6 +56,20 @@ related:
         width: 2119
         height: 1415
         isCached: true
+  - title: "Artificial Intelligence, Digital Medicine critical to future healthcare: Dr Jitendra"
+    excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh said here today that Artificial Intelligence (AI) and Digital Medicine are critical to future healthcare."
+    publishedDateTime: 2022-01-29T11:40:00Z
+    webUrl: "https://www.dailyexcelsior.com/artificial-intelligence-digital-medicine-critical-to-future-healthcare-dr-jitendra/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 47
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/01/MoU-AIIMS.jpg"
+        width: 995
+        height: 532
+        isCached: true
 
 secured: "RWV6p4iZchCk+ya1Ny+MbaK0zox+dvxgxXPJudeaNaVeBtw5irvdsx6Wy5txnMOq3hePFJxvSxp+odGWHeu2NVHcUSLoT7NBe/fSERblODNFqvA0JrTTAr33oXk3DQMYpPPg/2s2es3OXOejRICveUCQiWcbQXBcAp+BZRq+KVN8IgXP95Iu2xU1RDFz6jYvSYaotTEgB5KH5i7vLBGuYrT3bWjTQsUtYFKqTGoW3wCeXGEKUUtdNXnA2Y6NskFF7p0B+lw6gK55SXeRJ/Keeo0UdoYhEjczaMbBWmEZphnBuZtxJOicAYL7iDK8xdxKrc9wxbgtPYbi/S2H2sltr0Qni2X9FtT7PWAewFPHerw=;QsBln97b10gi1Kcj2FJNrA=="
 ---

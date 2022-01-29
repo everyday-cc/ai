@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Could AI help solve the healthcare staffing crisis? One company thinks so"
-excerpt: "From patient data entry automation to clinical decision support, artificial intelligence can save doctors time while improving quality of care, according to John Frownfelter, CEO of Jvion. He called AI \"a key part of the solution\" for the nationwide healthcare staffing shortage."
-publishedDateTime: 2022-01-29T00:21:00Z
-originalUrl: "https://medcitynews.com/2022/01/could-ai-help-solve-the-healthcare-staffing-crisis-one-company-thinks-so/"
-webUrl: "https://medcitynews.com/2022/01/could-ai-help-solve-the-healthcare-staffing-crisis-one-company-thinks-so/"
+title: "Artificial Intelligence, Digital Medicine critical to future healthcare: Dr Jitendra"
+excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh said here today that Artificial Intelligence (AI) and Digital Medicine are critical to future healthcare."
+publishedDateTime: 2022-01-29T11:40:00Z
+originalUrl: "https://www.dailyexcelsior.com/artificial-intelligence-digital-medicine-critical-to-future-healthcare-dr-jitendra/"
+webUrl: "https://www.dailyexcelsior.com/artificial-intelligence-digital-medicine-critical-to-future-healthcare-dr-jitendra/"
 type: article
-quality: 53
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: MedCity News
-  domain: medcitynews.com
+  name: Daily Excelsior
+  domain: dailyexcelsior.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://medcitynews.com/uploads/2021/02/GettyImages-1087174600.jpg"
-    width: 2119
-    height: 1415
+  - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/01/MoU-AIIMS.jpg"
+    width: 995
+    height: 532
     isCached: true
 
 related:
@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial Intelligence, Digital Medicine critical to future healthcare: Dr Jitendra"
-    excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh said here today that Artificial Intelligence (AI) and Digital Medicine are critical to future healthcare."
-    publishedDateTime: 2022-01-29T11:40:00Z
-    webUrl: "https://www.dailyexcelsior.com/artificial-intelligence-digital-medicine-critical-to-future-healthcare-dr-jitendra/"
+  - title: "Could AI help solve the healthcare staffing crisis? One company thinks so"
+    excerpt: "From patient data entry automation to clinical decision support, artificial intelligence can save doctors time while improving quality of care, according to John Frownfelter, CEO of Jvion. He called AI \"a key part of the solution\" for the nationwide healthcare staffing shortage."
+    publishedDateTime: 2022-01-29T00:21:00Z
+    webUrl: "https://medcitynews.com/2022/01/could-ai-help-solve-the-healthcare-staffing-crisis-one-company-thinks-so/"
     type: article
     provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 47
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 53
     images:
-      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/01/MoU-AIIMS.jpg"
-        width: 995
-        height: 532
+      - url: "https://medcitynews.com/uploads/2021/02/GettyImages-1087174600.jpg"
+        width: 2119
+        height: 1415
         isCached: true
   - title: "Artificial intelligence could help better predict the onset and course of cardiovascular disease"
     excerpt: "For the first time, University of Utah Health scientists have shown that artificial intelligence could lead to better ways to predict the onset and course of cardiovascular disease."
@@ -72,6 +72,6 @@ related:
         height: 480
         isCached: true
 
-secured: "YfxXZti0ciEFoL5eV+TswlMXTgc/NeBQwVm69CWY/iasQ+hMKBweECGM53bWVQzNbi33cCWmzZGSLXCU9g9MbJfY4zMEY65mmKsqJmmgo9aKCAST49OJurtz9AhKoDE6lFXw69ketI91F6AqgU5b9OxPX+MRZ/XJnmMGXHmcd9k/3nG4dAyzhVRqiIB2q7O32LylX3jXx7sTcOk8T7sATGNXz1yeXWyMTB8Xjq7x4a9RlMUGCQ5nMLNlOCLkd7PFmB1x/b7hCb3g3MJjC6rAhOLyJNXz8NmIfL0IqJdkDKBux5JV/X2TBz+hht0QHgbTYB3l5mVYAyB27CYvGm9EE9PN9OmdfBBl7XRxwsdoEmOWWC//UzcN+uCXjNOnROi/PeMmfpBF4RnfvsgjpfCdE5GIvh0/BBXBO7MBuz36eA6uvf7P4euZmW/pnl21fZ4x7nVisry2h/9cGRVh6FtCF1FoRURrDX6l81EJJMpp3SsLzcIxASU7QkBUkXgg0woQsBPZOcpleshDgWnLMewKYg==;2GYMDh5AXPvr5vUEkQKPFQ=="
+secured: "AjcqTmo8qHTmpAhEg7sIvDhGLl0MwxLtSeUlh5HO3qxpMP/UE6PNLYT+Z37+hxZU4JIlwVYxEIa2jotqWi1VGcl3YDc779sYMElpSvKQzax5oyMclyN0yIHsElwn3kXl7VT1l/AdJw4B0rNTpUdiouGxnN9niGeXFh4tC5F5BtAEIVAOAPrHIQqaMGCSvEm/rJtHv7Gf1pXj+f/yaY52iQo6yF9Ra+P0A2PcjkjfI6dlaIVWRfQB6UUocy7xEWGq7rrdZGNG842ZU/XrbCiNcH6Utq8A+JE6QXDEXUAC4R7Z7q+Tql+yVGE6ApDcjt2IGXLnu1Cg13ZMYK4lHYKmUlurLf6EIkEf5bQ6KBDt06E=;M2NELrFSMBrdzinojXop3g=="
 ---
 

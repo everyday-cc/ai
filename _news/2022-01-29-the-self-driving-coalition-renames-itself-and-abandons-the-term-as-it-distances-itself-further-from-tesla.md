@@ -1,32 +1,29 @@
 ---
 category: news
-title: "6 Ways Tesla's Autonomous Driving Technology Is Evolving"
-excerpt: "They are the backbone of deep learning. I know we've talked about this before, but I have this slide, this is from IBM. Deep learning is the narrowest. When you look at artificial intelligence ..."
-publishedDateTime: 2022-01-27T11:25:00Z
-originalUrl: "https://www.fool.com/investing/2022/01/27/6-ways-teslas-autonomous-driving-technology-is-evo/"
-webUrl: "https://www.fool.com/investing/2022/01/27/6-ways-teslas-autonomous-driving-technology-is-evo/"
+title: "The Self Driving Coalition Renames Itself And Abandons The Term As It Distances Itself Further From Tesla"
+excerpt: "While Tesla touts its Self-Driving tech, the rest of the industry has decided that it wants nothing to do with the term"
+publishedDateTime: 2022-01-29T11:11:00Z
+originalUrl: "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/"
+webUrl: "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/"
+ampWebUrl: "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/amp/"
+cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/amp/"
 type: article
-quality: 71
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Carscoops
+  domain: carscoops.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://g.foolcdn.com/editorial/images/663071/gettyimages-1297297204.jpg"
-    width: 2448
-    height: 1224
+  - url: "https://i.ytimg.com/vi/9--YE1dEGO0/hqdefault.jpg"
+    width: 480
+    height: 360
     isCached: true
 
 related:
@@ -78,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "6 Ways Tesla's Autonomous Driving Technology Is Evolving"
+    excerpt: "They are the backbone of deep learning. I know we've talked about this before, but I have this slide, this is from IBM. Deep learning is the narrowest. When you look at artificial intelligence ..."
+    publishedDateTime: 2022-01-27T11:25:00Z
+    webUrl: "https://www.fool.com/investing/2022/01/27/6-ways-teslas-autonomous-driving-technology-is-evo/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 71
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/663071/gettyimages-1297297204.jpg"
+        width: 2448
+        height: 1224
+        isCached: true
   - title: "Musk's bets on Tesla: human-like robots and self-driving cars"
     excerpt: "Tesla's most important products this year and next will not be cars, Chief Executive Elon Musk said on Wednesday, but software that drives them autonomously and a humanoid robot."
     publishedDateTime: 2022-01-27T19:49:00Z
@@ -124,22 +135,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "The Self Driving Coalition Renames Itself And Abandons The Term As It Distances Itself Further From Tesla"
-    excerpt: "While Tesla touts its Self-Driving tech, the rest of the industry has decided that it wants nothing to do with the term"
-    publishedDateTime: 2022-01-29T11:11:00Z
-    webUrl: "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/"
-    ampWebUrl: "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 57
-    images:
-      - url: "https://i.ytimg.com/vi/9--YE1dEGO0/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Tesla Full Self Driving suite to be ready by this year, says Elon Musk"
     excerpt: "Musk stated that Tesla Full Self Driving suite will be ready by 2022. Said that he would be shocked if Tesla doesn't complete."
     publishedDateTime: 2022-01-27T09:17:00Z
@@ -155,6 +150,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "DobXuBZOwzdEBrIjcEdWu4JjaFSyjJWmc/sTpNbt0J3MKyF8XfkK07/UZZIXDpLfYlW2HAI09XNpzZQOPcG1koEllP+wrmxstsYhgA4aypgJoIPtNqyKp42+IJyo0JeomDJJj9dDHLE71tDW9SLC8lXL+LxbZnQCSlgRu4CIg6HZ/u9EXsOJWjoJahOylnrwn2mNmaQRAZSbgOHJCMkQNkh9jF3MYZ3N07OtccQeUbNuz3Fy0TQW/cj1S5WTcYaKOBOR/pzb607Ni72F5zXutYGAQJzPJsQbRR669TAOPb1Ml/VWdtwfba08NuT5VoYV5fGhwNJH/9gk82iGAuWvEbfSN4ydOnI4MlS0TqBOHSw=;Ksg8ozXlfHYMphd3zX9BBw=="
+secured: "gsyBhmtHrBGlaVe/cKAzgZUQLnBnsUN4EV0zZF7opE6TQwnDu77PpENEVZhPxsMCBU/LXiBD3tWfmPisfiQ0tU10g0zNXGBS5VkIMVAWGItctNYr0P+Gyiiy4Y0eIwloiTLC2oh89zskjfdwvsqk+qh6O1BbZiwOHtyTbeyGCsEyUkV480hmDeBZg82LN1c1sthiQ6SJaHu0VPWGuqIiP29G8rJTJdaoKIsHMg7EGXQsXg1Pe0I81N1ezb1+E+FkyKwv9E2ZNJMry0A6Vx9ZdML7dCf3nS6vNOQcjB0BaIygaZz/RKkYLWENJkuxYddDkbSEqS7KyK4p+FsrrTCbasaMfbr/CasWdlzd+8oAXk0=;NOq1CCUUoNeybSOoIhs1/g=="
 ---
 

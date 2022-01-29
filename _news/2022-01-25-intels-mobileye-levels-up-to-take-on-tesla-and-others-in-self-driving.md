@@ -123,6 +123,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "The Self Driving Coalition Renames Itself And Abandons The Term As It Distances Itself Further From Tesla"
+    excerpt: "While Tesla touts its Self-Driving tech, the rest of the industry has decided that it wants nothing to do with the term"
+    publishedDateTime: 2022-01-29T11:11:00Z
+    webUrl: "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/"
+    ampWebUrl: "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 57
+    images:
+      - url: "https://i.ytimg.com/vi/9--YE1dEGO0/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Tesla Full Self Driving suite to be ready by this year, says Elon Musk"
     excerpt: "Musk stated that Tesla Full Self Driving suite will be ready by 2022. Said that he would be shocked if Tesla doesn't complete."
     publishedDateTime: 2022-01-27T09:17:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/"
 type: article
 quality: 116
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -122,6 +122,22 @@ related:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg2NjcxNDcyMDk2MzIzNTI2/tesla_2.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "The Self Driving Coalition Renames Itself And Abandons The Term As It Distances Itself Further From Tesla"
+    excerpt: "While Tesla touts its Self-Driving tech, the rest of the industry has decided that it wants nothing to do with the term"
+    publishedDateTime: 2022-01-29T11:11:00Z
+    webUrl: "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/"
+    ampWebUrl: "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 57
+    images:
+      - url: "https://i.ytimg.com/vi/9--YE1dEGO0/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
   - title: "Tesla Full Self Driving suite to be ready by this year, says Elon Musk"
     excerpt: "Musk stated that Tesla Full Self Driving suite will be ready by 2022. Said that he would be shocked if Tesla doesn't complete."

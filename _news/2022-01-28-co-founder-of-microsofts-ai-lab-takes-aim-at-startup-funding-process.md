@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Momentum in Azure Cloud to Aid Microsoft's (MSFT) Q2 Earnings"
-    excerpt: "Microsoft's (MSFT) fiscal second-quarter performance is likely to reflect momentum in the Azure cloud platform due to rapid digital transformation."
-    publishedDateTime: 2022-01-24T21:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/414815"
+  - title: "FedEx and Microsoft announce new cross-platform logistics solution for e-commerce"
+    excerpt: "FedEx Corp. and Microsoft Corp announced the next solution as part of their multiyear collaboration to transform commerce, supply chains and"
+    publishedDateTime: 2022-01-25T15:02:00Z
+    webUrl: "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/"
+    ampWebUrl: "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 99
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 54
     images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-414815.jpeg"
-        width: 635
-        height: 400
-        isCached: true
-  - title: "Microsoft Details Native Integration of Elastic on Azure"
-    excerpt: "Microsoft detailed the native integration of Elastic tech with its Azure cloud computing platform, increasing application observability."
-    publishedDateTime: 2022-01-24T20:23:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2022/01/24/elastic-azure_0.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 69
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/BuildingBlocksGen_v4.jpg"
-        width: 647
-        height: 450
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/FedEx-and-Microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce-01.jpg"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Microsoft, FedEx Expand Partnership"
     excerpt: "FedEx and Microsoft are expanding their partnership to offer “logistics as a service” to retailers, using data analytics of FedEx's network."

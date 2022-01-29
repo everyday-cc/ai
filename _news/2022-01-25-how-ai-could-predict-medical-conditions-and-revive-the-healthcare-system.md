@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/how-ai-cou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/25/how-ai-could-predict-medical-conditions-and-revive-the-healthcare-system/amp/"
 type: article
 quality: 103
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://medcitynews.com/uploads/2021/02/GettyImages-1087174600.jpg"
         width: 2119
         height: 1415
+        isCached: true
+  - title: "Artificial Intelligence, Digital Medicine critical to future healthcare: Dr Jitendra"
+    excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh said here today that Artificial Intelligence (AI) and Digital Medicine are critical to future healthcare."
+    publishedDateTime: 2022-01-29T11:40:00Z
+    webUrl: "https://www.dailyexcelsior.com/artificial-intelligence-digital-medicine-critical-to-future-healthcare-dr-jitendra/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 47
+    images:
+      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2022/01/MoU-AIIMS.jpg"
+        width: 995
+        height: 532
         isCached: true
   - title: "Artificial intelligence could help better predict the onset and course of cardiovascular disease"
     excerpt: "For the first time, University of Utah Health scientists have shown that artificial intelligence could lead to better ways to predict the onset and course of cardiovascular disease."

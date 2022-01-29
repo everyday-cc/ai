@@ -2,22 +2,27 @@
 category: news
 title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
 excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-publishedDateTime: 2022-01-25T16:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+publishedDateTime: 2022-01-25T16:38:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
 type: article
-quality: 21
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries"
@@ -218,6 +223,6 @@ related:
         height: 628
         isCached: true
 
-secured: "sHgnAood/AZSO4zdpm8cvlwA2rrQYRnZ4mBvICYE+fg12fjkNG41nPtYWVdERBa1H0TRVXWih5LzPEarGrEvRc+CH0Kuw3UWVp/XOuQdeRRui1w6i2XQY/NRkE/EGvshU1QDweeChajMawzW2JiaXocqJo1hzF2FlAUZYwj5/yk9UqS6JasqcEy6Rkwu1maNNPsw6Ps0GWxf8muUyZ7y/Zdul/wSzf0vy48NKqP5jSyzxg2BmXCzJmyd/yH+doGsgkh4Y9unr3vHsLYnUbWKv1iUDGoZoIV2FM+Ssq3A1YItxQqRiNbrNYDU33ZBccv2GZexX/afrNrXojEwBLXVeVPCagSFzbvc+DtyyR39bOE=;YaeJgH7M1bKHbDb4lMU8PQ=="
+secured: "3z0FhWqv+q40uZa2tk+temq/uJh1J+017ueu4fnr1omq92rzfyaYsjp04OwyXJkjCQtk5ZTgqkhhmBnIdtujnuxvh2xrM/4jbvfaS1wXqJBlA0EW198cQ/x7KT3XuAFYtAIGBzbTwrWCFLC26vUKLUNQUQqez7vNcyD/kSkkPUxvS7LwcsHQHQT5ADO8d05spsCtqsQDzc/KExLTDB3hIwtDqj+Y+EWjRZFDIV2nvhyACKiGlruuH6oCBK4zWha6+TZ7t0wtH96KM6hibPrXXjFCFXT/jdHrnxPh4KDnhWc8KCvf8PBb7jDWvUjK5s+NuuPcoht0ZDV+mQenpKKPPc4Nl/Uzjp1/gBKmg3x0Hco=;jAX37+cGJcSGzQMYaJSMNA=="
 ---
 
