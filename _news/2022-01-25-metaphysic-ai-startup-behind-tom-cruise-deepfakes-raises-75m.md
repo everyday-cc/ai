@@ -44,6 +44,22 @@ related:
         width: 818
         height: 514
         isCached: true
+  - title: "China targets deepfakes in proposed regulation governing deep learning AI technologies"
+    excerpt: "Providers of services that manipulate images and videos will be required to verify user identities and respect social morality."
+    publishedDateTime: 2022-01-29T19:00:00Z
+    webUrl: "https://www.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai"
+    ampWebUrl: "https://amp.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 96
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/29/5031b18e-bcda-466a-afac-2d1e33ee512e_6a76c979.jpg?itok=uarvlE33&v=1643449822"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "See No Evil, Hear No Evil: The Use of Deepfakes in Social Engineering Attacks"
     excerpt: "Artificial Intelligence (AI) is one of the most high-profile technology developments in recent history. It would appear that there is no end to what AI can do. Fom driverless cars, dictation tools, translator apps,"
     publishedDateTime: 2022-01-25T04:00:00Z
@@ -59,6 +75,20 @@ related:
       - url: "https://securityboulevard.com/wp-content/uploads/2018/01/TwitterLogo-002.jpg"
         width: 1524
         height: 512
+        isCached: true
+  - title: "China cyberspace regulator issues draft rules on deep fakes"
+    excerpt: "The Cyberspace Administration of China (CAC) announced draft provisions and regulations, called the Administration of Deep Synthesis of Internet Information Services, for content providers who alter"
+    publishedDateTime: 2022-01-29T12:47:00Z
+    webUrl: "https://www.jurist.org/news/2022/01/china-cyberspace-regulator-issues-draft-rules-on-deep-fakes/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 24
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/01/artificial_intelligence_1643478423.jpg"
+        width: 1280
+        height: 888
         isCached: true
 
 secured: "X5+YTX34pJ09upHMpz1FwIxIAQ8jYrGxn+bINoUV5rUmJYmlX2HTNCyit04JcbL3ftRJn4x/r+oTTycrbsfEGlYR283U7Hi3UnDSs412Xmew3iT73GN3LQ+VrWIijDkArekRCfLY+vqaO7HE2UO75Mvcu5gcjYcJ4IMk/L6pLyBZfajFjPOlIdNbGwhSwo/HI/5I/QwCVu1TISPX+CE2/L2WweDgJaQe195wDiDB5OyJcxeDpr7i6iZ59qs8gBJAe85ZiJiS2yVW6pZseHobaJ3yIj7oFR3ITmcGmfMg1gVLUNgc3dpM77jh9Kf6YKFrIJvfPdEEnrAL1C1g+QQExpwSzBLYQbSfwJLMNj9LIs/MZFUQ+7uJYa+ji6xluRGBhFSX8JuFTPFWuGWQPVr8OiCrWvpmOrkbgcJQvpLLM/OrYL1/hCy4V+ZtSnlWr3JCyje6+S1qAM4sogbw/O+XPrPyTYF7VPfnWLbBKDgVFGn0s2sqI6ePuyP6qiYUJEqVyZhqXrjrBmcdDdba7c7PBg==;Jo6GOkaTQ+l+REMmpgNa0w=="

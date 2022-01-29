@@ -1,21 +1,21 @@
 ---
 category: news
 title: "GSI Technology, Inc. Reports Third Quarter Fiscal 2022 Results"
-excerpt: "GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its third fiscal quarter ended December 31, 2021. Summary Financial Results Table (in thousands, except per share amounts) Lee-Lean Shu,"
-publishedDateTime: 2022-01-27T23:14:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/01/27/9534856.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2022/01/27/9534856.htm"
+excerpt: "GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its third fiscal quarter ended December 31, 2021. Lee-Lean Shu, Chairman and Chief Executive Officer, commented, “Our third quarter revenue grew 19% year-over-year due to increased orders from our SRAM customer base,"
+publishedDateTime: 2022-01-27T21:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-gsi-technology-inc-reports-third-quarter-fiscal-2022-/2022/01/27/9534856.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-gsi-technology-inc-reports-third-quarter-fiscal-2022-/2022/01/27/9534856.htm"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
 
 related:
@@ -29,6 +29,6 @@ related:
       domain: morningstar.com
     quality: 4
 
-secured: "0pnlSlO98oxAc+EIL1szp65hpVnA05xBTAdBUd9791cB7N1KbS/odIxKBQcfzwh7kqfYcsoywpULETdnzpjM2G7NXaQ3bRDxU8G3DFrWEr0+U44R6kkKx9JIG20g0Y6gG09f9CmYnaogTC9e4hvd8hacH562uR+poPgWa4x7Y3uTHp8RPV9+baruzV+9EzSd79lYpiK2alVLtESxDoSHtFXBOZCP3pj21dLLaSEPdo4SqwbWIXP7qvNEaQIIr63H1zB3JNb44/LSvUh0YUo1NHazcEUPvWu7GfKk5mUx/cDn4PH/4MK3E+MOZpMknoSsP5HA1ss8kJwYwUhoJOQZ48A+ql+nCqeRoq3JUq/74Fo=;bWkrfW4kgQernf4cY8Zi+Q=="
+secured: "VcGb/xRj1Dmzc/U2QHQh4skyMQTK849DJOBmhf6Bnfd+RZnDkT7e3jZ6XXWENm06cfNvu1qwAOEW31bWaGW2E+PlUgXwOmAwLLiNLtIqttqLF4c7jC5JzA2N1IIlTMoTsx680nEWd9ChElz8zfTX8CNj+d4P/5gf5LjEgga3hVeXernvyK/7MdbQk4clH+NTMaacUsR/5YwvG4xfOQU6oU8H1Y6apAlHVQeF9AaCQoiykdg3sTQ9/v+c5kVPozSqIbEevpke4FyV/+Je72Pazb0fzETfsSki1IvrbW9mg+gH33QAli0m3NE53eIJDsIlanzrHRCdSbnB47vOeytVr1xVSVwQgCoFlld4ixDEwi8=;5Nt2OkOYa/SKnYbrjGsvkQ=="
 ---
 

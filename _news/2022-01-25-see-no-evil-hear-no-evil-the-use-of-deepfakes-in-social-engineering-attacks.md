@@ -41,6 +41,22 @@ related:
         width: 818
         height: 514
         isCached: true
+  - title: "China targets deepfakes in proposed regulation governing deep learning AI technologies"
+    excerpt: "Providers of services that manipulate images and videos will be required to verify user identities and respect social morality."
+    publishedDateTime: 2022-01-29T19:00:00Z
+    webUrl: "https://www.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai"
+    ampWebUrl: "https://amp.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 96
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/29/5031b18e-bcda-466a-afac-2d1e33ee512e_6a76c979.jpg?itok=uarvlE33&v=1643449822"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Metaphysic, AI startup behind Tom Cruise deepfakes, raises $7.5M"
     excerpt: "Metaphysic, the company behind the Tom Cruise deepfakes, has raised $7.5 million to use AI to create lifelike replicas of people."
     publishedDateTime: 2022-01-25T14:00:00Z
@@ -56,6 +72,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/01/metaphysic.jpg?w=1200&strip=all"
         width: 1200
         height: 580
+        isCached: true
+  - title: "China cyberspace regulator issues draft rules on deep fakes"
+    excerpt: "The Cyberspace Administration of China (CAC) announced draft provisions and regulations, called the Administration of Deep Synthesis of Internet Information Services, for content providers who alter"
+    publishedDateTime: 2022-01-29T12:47:00Z
+    webUrl: "https://www.jurist.org/news/2022/01/china-cyberspace-regulator-issues-draft-rules-on-deep-fakes/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 24
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/01/artificial_intelligence_1643478423.jpg"
+        width: 1280
+        height: 888
         isCached: true
 
 secured: "t7jrPX8M2gb9DoC6vVsvzlIdnOhtqTUwpLk1kdW/JsjIBHQ+GFKvlVZDNLkSHShEO5pi7siX8BjZmdQd2oztJfft3ZrIMC57zr2e1czKvzTyigKfXA+y60U6nzTU418qQCorILBlYViIH1NHgIuHfwGdaL4x6QABeTciRTo4v/s0CSeI2rq7NXP39OCJx+MPiq27sD4snbYglg1EUFQGfKWfkVFxNa9Jec8g3Ba5R69TxlZEEvV2BxPDBLK+c5y6WlsEtsf37iBHPbTXmkimeo+RAVd20xQHW94hYsNNCQ/YTkHM4fJb6KTZThB2U9R2Qe90ccZrs3HmnMq0Xc5jC0uOIlYuhGzX2Pj8144PZA4=;CnLmCryjTadIh6qmChMGCg=="

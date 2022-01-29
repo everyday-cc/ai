@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mirror.co.uk/money/self-driving-car-owners-wont-26051900
 cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/money/self-driving-car-owners-wont-26051900.amp"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,21 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Make driving safe, becoming an active driver your resolution"
-    excerpt: "Making a resolution to drive safely in 2022 can very well mean saving a life,” said  Community Health Educator Abigail Pritchard in Ector and Midland counties. Some of the leading causes of traffic deaths are distracted driving,"
-    publishedDateTime: 2022-01-25T02:18:00Z
-    webUrl: "https://www.mrt.com/opinion/article/Make-driving-safe-becoming-an-active-driver-your-16792710.php"
-    ampWebUrl: "https://www.mrt.com/opinion/amp/Make-driving-safe-becoming-an-active-driver-your-16792710.php"
-    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/opinion/amp/Make-driving-safe-becoming-an-active-driver-your-16792710.php"
+  - title: "Self-driving car owners won’t be to blame for crashes under proposed new laws"
+    excerpt: "UK law chiefs recommend new regulation on autonomous driving, including assigning responsibility for errors and a crackdown on misleading marketing"
+    publishedDateTime: 2022-01-26T00:01:00Z
+    webUrl: "https://www.edinburghnews.scotsman.com/lifestyle/cars/self-driving-car-owners-wont-be-to-blame-for-crashes-under-proposed-new-laws-3541257"
     type: article
     provider:
-      name: Midland Reporter-Telegram
-      domain: mrt.com
-    quality: 44
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 21
     images:
-      - url: "https://s.hdnux.com/photos/67/34/23/14533871/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.edinburghnews.scotsman.com/jpim-static/image/2022/01/25/16/shutterstock_1171593577_edited.jpeg?width=2048&enable=upscale"
+        width: 2048
+        height: 1366
+        isCached: true
+  - title: "UK needs law to sanction companies if self-driving cars go wrong, independent government bodies say"
+    excerpt: "The law should regulate self-driving vehicles and include sanctions for companies if anything goes wrong when their vehicles take over control from human drivers, two independent governmental bodies said."
+    publishedDateTime: 2022-01-26T08:11:00Z
+    webUrl: "https://europe.autonews.com/automakers/uk-needs-law-sanction-companies-if-self-driving-cars-go-wrong-independent-government"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 10
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20autonomous%20a8%20web.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "Q/qwCG1UP+zk6OBU9X/zY4o82QnKZjSU4myS1dRPGIGPpzJkloZPL5Xu+FMdgukYj5P/653Vn6oyuLFnrNEsg+s9X3bRd3dtoWMXmRXVYzXxvdfKu0U7VMaNYqQiLe87iHafaRp3HKSgn/sC5Y456p+g4gbNOtfZaE+xuuUvUnx5tLQjbElHwMUe9h+epqt7ebk2lu5hjE+U1z029D1t8YXERd2pMN8XBlX3mSMwiwBN8YEJbzkM1SrhAR4VG8BfK28VmXRhbE+sQsoAbNUDaIb7cxRBPMTJK+nLcjqqwawC+8ox4ffP2w642DPvN6Yz72MsLurwcSp2KRU8LszghpINzqYbYnx0s1P7b4bAUTChLmtzhbSmneqKA9bzpmCe7rSvqBO5x04eZwUXXXn+dv3SRoB3QomfxctRxe9E/tNTr2rZQ9PqgpH92+uY88e5D+d6No9ekaOUmkn6jRtpTuP2jlB2/jj9XQaZH4ccHNTX4MfOGa8QpiTf/CJ1ZZsxA8BV+PxTUFGPQyrdPUrizg==;OAuwmWJGL/aix5jnBrNhtQ=="

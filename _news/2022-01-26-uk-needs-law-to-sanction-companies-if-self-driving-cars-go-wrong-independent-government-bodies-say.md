@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Law commission outlines legal proposals for self-driving cars"
-    excerpt: "The Law Commission of England and Wales and the Scottish Law Commission have issued a joint report which makes a number of recommendations to the government for the safe introduction of self-driving cars ."
-    publishedDateTime: 2022-01-26T00:16:00Z
-    webUrl: "https://www.autocar.co.uk/car-news/technology/law-commission-outlines-legal-proposals-self-driving-cars"
+  - title: "Self-driving car owners won't have to pay speeding tickets, lawmaker says"
+    excerpt: "Driverless cars will soon become a reality, in theory making the roads safer - but a debate is raging over what happens if a robot vehicle does make a mistake or breaks a traffic law"
+    publishedDateTime: 2022-01-26T11:41:00Z
+    webUrl: "https://www.mirror.co.uk/money/self-driving-car-owners-wont-26051900"
+    ampWebUrl: "https://www.mirror.co.uk/money/self-driving-car-owners-wont-26051900.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/money/self-driving-car-owners-wont-26051900.amp"
     type: article
     provider:
-      name: Autocar
-      domain: autocar.co.uk
-    quality: 24
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 43
     images:
-      - url: "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/self-driving.jpg"
-        width: 900
-        height: 596
+      - url: "https://i2-prod.mirror.co.uk/incoming/article26052716.ece/ALTERNATES/s615/2_Commuter-cycling-in-Hackney-London-going-at-work.jpg"
+        width: 615
+        height: 409
         isCached: true
   - title: "Self-driving car owners won’t be to blame for crashes under proposed new laws"
     excerpt: "UK law chiefs recommend new regulation on autonomous driving, including assigning responsibility for errors and a crackdown on misleading marketing"

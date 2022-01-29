@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 113
 published: true
 
 provider:

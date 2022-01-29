@@ -1,29 +1,44 @@
 ---
 category: news
-title: "China Proposes Increased Regulation of Deepfakes and Other AI Synthesis Systems"
-excerpt: "The Cyberspace Administration of China (CAC) has proposed a new set of draft regulations to govern AI-aided synthesis systems, including deepfakes, virtual reality scenes, text generation, audio, and other sub-sectors of AI media synthesis – a field in which China produces a prodigious number of academic papers and innovative research projects each month."
-publishedDateTime: 2022-01-28T12:31:00Z
-originalUrl: "https://www.unite.ai/china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems/"
-webUrl: "https://www.unite.ai/china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems/"
+title: "China cyberspace regulator issues draft rules on deep fakes"
+excerpt: "The Cyberspace Administration of China (CAC) announced draft provisions and regulations, called the Administration of Deep Synthesis of Internet Information Services, for content providers who alter"
+publishedDateTime: 2022-01-29T12:47:00Z
+originalUrl: "https://www.jurist.org/news/2022/01/china-cyberspace-regulator-issues-draft-rules-on-deep-fakes/"
+webUrl: "https://www.jurist.org/news/2022/01/china-cyberspace-regulator-issues-draft-rules-on-deep-fakes/"
 type: article
-quality: 133
-heat: 174
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: unite
-  domain: unite.ai
+  name: Jurist
+  domain: jurist.org
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/china-deepfake-rules-2022a.jpg"
-    width: 818
-    height: 514
+  - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/01/artificial_intelligence_1643478423.jpg"
+    width: 1280
+    height: 888
     isCached: true
 
 related:
+  - title: "China Proposes Increased Regulation of Deepfakes and Other AI Synthesis Systems"
+    excerpt: "The Cyberspace Administration of China (CAC) has proposed a new set of draft regulations to govern AI-aided synthesis systems, including deepfakes, virtual reality scenes, text generation, audio, and other sub-sectors of AI media synthesis – a field in which China produces a prodigious number of academic papers and innovative research projects each month."
+    publishedDateTime: 2022-01-28T12:31:00Z
+    webUrl: "https://www.unite.ai/china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 133
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/china-deepfake-rules-2022a.jpg"
+        width: 818
+        height: 514
+        isCached: true
   - title: "China targets deepfakes in proposed regulation governing deep learning AI technologies"
     excerpt: "Providers of services that manipulate images and videos will be required to verify user identities and respect social morality."
     publishedDateTime: 2022-01-29T19:00:00Z
@@ -72,21 +87,7 @@ related:
         width: 1524
         height: 512
         isCached: true
-  - title: "China cyberspace regulator issues draft rules on deep fakes"
-    excerpt: "The Cyberspace Administration of China (CAC) announced draft provisions and regulations, called the Administration of Deep Synthesis of Internet Information Services, for content providers who alter"
-    publishedDateTime: 2022-01-29T12:47:00Z
-    webUrl: "https://www.jurist.org/news/2022/01/china-cyberspace-regulator-issues-draft-rules-on-deep-fakes/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 24
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/01/artificial_intelligence_1643478423.jpg"
-        width: 1280
-        height: 888
-        isCached: true
 
-secured: "23qn8v1mU08f0XP52a40x+uM733QNcEQcTOPLFJfHq/sUHiOhSMCud9yxfPkyxwCuDwP/3RIrAzKhYdBqkfOrUmAMmpxFWTidvVr73+YZiuSWJ28CKyewk5f3o2WIZnFBzBxuw3BhoKJ8IzgpreXwVcXm0aFAkw9s/YA4yZkSEBm29+M8vD6vzPImStfsPSHuSFfwPCf4Tmleqmxgjc+mst9N2pmHHtkF/kxgFqGx3yLdTssQ+J6G0l9g19tgWBFL6Suw415crKt/kg+3bpMAv8u+Ury2Dqd8HK8mIPH69wzCDQHd6aKlPgk86BXxX+rQGPq44Rs5JzClayViJlDYXAbW7h/G9NcgngAA3fw4k8=;TIpYf8IOdFnvw9fHSS66bQ=="
+secured: "nj7wtoF9hlVbrizM4mTiAg0Vc4qMgYXS7DCZqfUvcAYEsq35hl8pzoYsaUUgM+D4wrq41q5xuwIeG7YP4ud3bgeerVFYr6m5z15FUeI1wKWCTcNyJl+YJC5rYofFoWldgepV6RdRIuEBGQOSAHsS611dZWqDLsDS0/m77OivtO2qS0vNDJVg9l9oEYMutCCXlKTX2s6cJyB1lek4G6eAE7ZGidPGLJ1sALBquVODWufB8xmOSKZFf/NCWXWPp3cIMuj8w+kBAQ9nfnxgBDG5g4H1BQLjotoQAv5iVQFwZMvGR7fwxuon6eI3g4kjvqjQpw9ytirhnu2VF3TeO1DOiF/la3aVARcZK/6GiZ07+PU=;54/rZJ71rwYrmTQWNTZ/aQ=="
 ---
 

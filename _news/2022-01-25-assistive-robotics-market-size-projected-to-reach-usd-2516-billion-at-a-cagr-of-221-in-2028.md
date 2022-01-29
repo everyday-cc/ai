@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "5G in Healthcare Market Size Worth USD 4.2 Billion | 74.5% CAGR by 2028"
-    excerpt: "G in Healthcare Market: by Component, Application, End User and forecast till 2028New York, United States - January 24, 2022 -- 5G in Healthcare Market"
-    publishedDateTime: 2022-01-25T02:01:00Z
-    webUrl: "https://www.digitaljournal.com/pr/5g-in-healthcare-market-size-worth-usd-4-2-billion-74-5-cagr-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/687379291c06924dc4b2dcd7cf4fbcc251c533a1-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Global Data Annotation Tools Market (Services) Size Value to Reach USD 3,046.7 Million by 2028, at 27.2% CAGR: Polaris Market Research"
     excerpt: "According to the latest research study, the report predicts the global Data Annotation Tools Market size & share to reach around USD 3,046.7 Million by 2028 from USD"
     publishedDateTime: 2022-01-27T22:05:00Z
