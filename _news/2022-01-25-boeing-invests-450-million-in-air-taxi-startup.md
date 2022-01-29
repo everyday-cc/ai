@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/01/24/boeing-invests-450-million-in-air-taxi
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/01/24/boeing-invests-450-million-in-air-taxi-startup/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,37 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Boeing to pour $450 million into program for self-driving air taxi"
-    excerpt: "Aviation company Boeing said Monday that it's investing almost a half-billion more dollars into its sky taxi startup Wisk Aero, in a bid to bring the first self-flying air taxi to the market before the decade is out."
-    publishedDateTime: 2022-01-24T17:05:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/"
+  - title: "Investment in innovation benefits both investor and startup"
+    excerpt: "Wistron attaches great importance to innovation, both within the company and outside of it, according Eric Wu, vice president of Wistron's CVC Office. Since 2010, Wistron has participated in startup activities and investments including Garage+,"
+    publishedDateTime: 2022-01-25T01:11:00Z
+    webUrl: "https://www.digitimes.com/news/a20220124VL210.html"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
+      name: Digi Times
+      domain: digitimes.com
+    quality: 22
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/6161643040260/2022/1/7a2b04a5d4d56049d60ea43bce3c9397/v1.5/Boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.jpg"
-        width: 533
-        height: 357
-        isCached: true
-  - title: "Boeing Invests $450 Million in Wisk to Fund Moonshot Self-Flying Air Taxi Project"
-    excerpt: "Boeing said on Monday it has agreed to invest $450 million in the air taxi startup, Wisk Aero, to fund the development of a fully autonomous, electric aircraft that could one day fly millions of commuters in the world’s busiest cities."
-    publishedDateTime: 2022-01-24T17:18:00Z
-    webUrl: "https://observer.com/2022/01/boeing-invests-in-evtol-wisk-aero-kitty-hawk-air-taxi/"
-    ampWebUrl: "https://observer.com/2022/01/boeing-invests-in-evtol-wisk-aero-kitty-hawk-air-taxi/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2022/01/boeing-invests-in-evtol-wisk-aero-kitty-hawk-air-taxi/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 54
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2022/01/Wisk_Aero_Media_Kit_Aircraft_1_SD.jpeg?quality=80&#038;strip"
-        width: 1920
-        height: 1080
+      - url: "https://www.digitimes.com/newsshow/20220124VL210_files/2_r.jpg"
+        width: 336
+        height: 224
         isCached: true
 
 secured: "qsmcuEX2qJYXit9S/LQfFIzWNh2jlkpNcNTSK0yY5H/A8oyKHPy1zzxKNR+Ytq9qydOzqu5ddz7tx3SYdNbuodYthjfPGybDnHhp4csF/ad4kTAhwCXGpkRSTbXrGQbqCGYNp232PFcPA2fvIv5qupaUPYkMHTA6YpBhEFKFpZO7SR33TaxWYdIG4TC5q1F9WOBpZJGYh630LVwuzZOxy02ZIHKMCXVwM0yFP3PeYfazi+uym4uPP3lDnip8PSYuMMSTojU4wLV8xzjFUqJori8k/7sBzbP0J3YMwoR98+PeSEOm6Cs1mM9RLpvzr4WZTyGJOcXeuChm5k0tBUl4EdkW3O0oiNCvkVuDEcZ6zw/rFACePn5z2nyaU7V7ZhjYmdE79FTfvn/gvyobcA1BfQakZexXsO1Lht+k2y6waiMtadNX8w3E8Y+Zm21buAw9XYnteRxZHZmcgCQf4rjtfozO4pz1ufVN0qRbI3vJ67lfKXVADSNPOxFuvqI1BoG6FHktHo22Ar65f4PdN+0jLQ==;64dS7X4Uzat9uwVbSo99CQ=="

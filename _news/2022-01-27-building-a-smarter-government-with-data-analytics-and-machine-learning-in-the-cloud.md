@@ -41,20 +41,6 @@ related:
         width: 1142
         height: 940
         isCached: true
-  - title: "Harnessing data analytics and AI-powered decision-making for supply chain resiliency"
-    excerpt: "Here's how technology leaders at companies like Palantir and o9 are changing the automotive supply chain with integrated analytics and operation."
-    publishedDateTime: 2022-01-24T18:33:00Z
-    webUrl: "https://www.autonews.com/sponsored/harnessing-data-analytics-and-ai-powered-decision-making-supply-chain-resiliency"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 32
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/iStock-1140961203_0.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Observe.AI ranked G2 2022 Leader in Speech Analytics & Quality Assurance for Contact Centers"
     excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named a 2022 Grid Report Leader in Speech Analytics and Quality Assurance for Contact Centers by G2,"
     publishedDateTime: 2022-01-26T14:08:00Z

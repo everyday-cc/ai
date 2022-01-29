@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-29T07:53:00Z
 originalUrl: "https://www.barandbench.com/columns/global-technology-leaders-back-regulation-of-artificial-intelligence"
 webUrl: "https://www.barandbench.com/columns/global-technology-leaders-back-regulation-of-artificial-intelligence"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://gumlet.assettype.com/barandbench%2Fimport%2F2016%2F05%2FAI.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
@@ -42,6 +43,6 @@ related:
         height: 800
         isCached: true
 
-secured: "qGK8s5n/n1xGzFYTx1abgnBvfNSWQVdvKIMAsJroluEvW0ggVoX6nsgtSHUIfqjw9PayZnOPmeetyuwz4KxoE3KChKqYH7uU/mYyoNGg7KTkRwFWsB1LYTQYWIdLEg+Qtjv+MhGM9cp1KIIiIpDZwQtOOK+eNCmAaIYIGvzXFMbTz/UvbVpHfJ8HtW+xWh5NWeQKGjon7HC0oDpxWnQfWBvUZSU8gVL/2y6bRzdkfoYYORds+JCreBMr1YvfMRRXPFYCSw8inhzLGW/meyQXpGIlZhFsHnqPQFidq310Yp/JcavEhkSk/6RUhSi9wtqPBBLxAAzz0HW12S5W9omr66i2inR/bavajupAtR29x9A=;p8PpxNtlkbd50W/vMUYshg=="
+secured: "6r0goPhuyGfbqb1ysVksz6J36LxdRm7wooRlC/zCM0bQaArALFQfG/D+Aa/M/ZO/i0YsGc56frRiR+GR94WQBlrqUVWgpAR0iG4Np15VEA6SPHhQY+A9PbAU9LZSskYSrkoS5TbDPUlw4vCu5VysCJOMRBCXKtyddoMxu2RZr0Kqy9dLrrJL7TJ9nkx+FbYhwjqh0QoSrhTf6VcstBzycrOqFuGK0Oul6Z40dgd/xd0ZzxPxg4v4WOUzuJbqv3G69NMHjXauGQxICLaihnI+8Ns5jt8wryDAag+9lw2/TMl2AB3NO2gKzFh4aEN140OjC9plmOWbIE2WPjwogVm+dD8BEbC1PJPiGTMvF6dL2HaX4VIhmP+odUQLqzfP6VUr0diAji0DR6FkLM04tvH5D68UII/G7cGWwxhRaKutaeTG7eXNumh8JxkMfSdhSzpOpsTznL8VV17LWpXsar9oDo4OtfOaVTpvIibo3/WwhW5wn+5LeFDPwIpPX+Mky+LK4ISrhhZ2kGPECdAG1lbV8g==;DlzqxavUQhTuRfn8rKyDiA=="
 ---
 

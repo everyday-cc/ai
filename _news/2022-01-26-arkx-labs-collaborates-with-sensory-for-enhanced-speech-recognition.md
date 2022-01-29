@@ -2,27 +2,22 @@
 category: news
 title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
 excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-publishedDateTime: 2022-01-25T16:38:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+publishedDateTime: 2022-01-25T16:42:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
 type: article
-quality: 39
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - Natural Language Processing
 
 related:
   - title: "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries"
@@ -223,6 +218,6 @@ related:
         height: 628
         isCached: true
 
-secured: "DnSmWvl9Fpgs2Syy2l5Rjv7PIk1P7FYOvoULqJ0hI6MguKeqFPhaM/RNwBMoN62afLfZ+98LDsqKfGHNj2VG1+TQ9dTpgKwzdrCmdIXPhaA7pSZwEatPLwtuELP9hg7KYidFq6D3sFc0QHhLtcde/lY1ohXVrIimIE99soOtg7awYBvoRZATz6Rjpd2nDcbxm662ZF9IJKMk8GgZjoB8X7uhNgjybYj4IYUjTqhbj9A90g2nxjwM8TPNIoCRSflLGcff4jYe2HY1Kb3QUeFJBygx+OVBwPITdC2On0mm8/AjuOoj06Vyec0yxHsjgWSHcHCWJewde2kBFz1h/pkH8u97+OnZvlwneffpJ/my8AI=;Aeahf0oT15SW73mN3TbpxA=="
+secured: "sHgnAood/AZSO4zdpm8cvlwA2rrQYRnZ4mBvICYE+fg12fjkNG41nPtYWVdERBa1H0TRVXWih5LzPEarGrEvRc+CH0Kuw3UWVp/XOuQdeRRui1w6i2XQY/NRkE/EGvshU1QDweeChajMawzW2JiaXocqJo1hzF2FlAUZYwj5/yk9UqS6JasqcEy6Rkwu1maNNPsw6Ps0GWxf8muUyZ7y/Zdul/wSzf0vy48NKqP5jSyzxg2BmXCzJmyd/yH+doGsgkh4Y9unr3vHsLYnUbWKv1iUDGoZoIV2FM+Ssq3A1YItxQqRiNbrNYDU33ZBccv2GZexX/afrNrXojEwBLXVeVPCagSFzbvc+DtyyR39bOE=;YaeJgH7M1bKHbDb4lMU8PQ=="
 ---
 

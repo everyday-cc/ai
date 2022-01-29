@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/01/26/how-ar-computer-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/26/how-ar-computer-vision-and-ai-coalesce-for-smart-city-cleaning/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://img.chdrstatic.com/media/317dd16e-7157-4e79-a20f-0e7f442077f6.png?width=1200&source=backend&auto=webp"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Meta is building an AI supercomputer"
-    excerpt: "By Rachel Metz, CNN Business Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions"
-    publishedDateTime: 2022-01-24T17:24:00Z
-    webUrl: "https://keyt.com/news/2022/01/24/meta-is-building-an-ai-supercomputer/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 39
-    images:
-      - url: "https://keyt.b-cdn.net/2022/01/nc312-combined-commercial-slate.png"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "cmC8nvpjSiCymz+g7EjXVqP+pA6Tq5PdT/VhT1PblTGh0alS4rZ1G3GtSI73kMa+j67iYaJZ33POVVNrP6keiNHyAifpoiHBny/kTul9HLourBYuXS9gJmzT3O5zCmTGHSCuLmZPvk2hxHlbrub9xGEtHswQ6c3eM5IHTCcoybUyySbeLxWjJmTG8Ds0Bv8sXe3R19BgLVxR4HYFj7wZBTTme1sqSw94dqpiFP8TE++lernvA9xN6+Zy1SxL+IwJQUIjh6lGSbqz73G8zqh62DvN0sKMBV5NviRqRYV7pdv2ps3kmcIqH+0le3J1FbxWGE/xVFPhpuZg9RL1HVgIWB77u1r0Ixs3p9cvfUibZeBR7aUjW1+CeK6w6JgHD54b15KPv58zcMxc5TCj34Z7RN2u4UHGphtJayoi3ATVAEOIc+/NLb4Oah+Jz4GwxyYdJ5mbAUAH679VREKjdMOFF9vVAIGbjti47M3fHB3Rvh+L48FkZWCBA0mElWSMRagWLIafgTCdTW6ZMNSxoxZeug==;JsWFwY6GyiwBsJUjxkcu/w=="

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-digital
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-in-series-a-funding-1031134315"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/10/full/1615322229-3007.jpg?im=Resize,width=1200"
         width: 1200
         height: 898
+        isCached: true
+  - title: "AI-powered digital skills assessment platform start-up iMocha raises $14 mn in Series A Funding"
+    excerpt: "AI-powered digital skills assessment platform, iMocha ,announced a $14 million Series A investment round led by Eight Roads Ventures, with participation from existing investors Upekkha and Better Capital."
+    publishedDateTime: 2022-01-27T11:07:00Z
+    webUrl: "https://www.freepressjournal.in/business/ai-powered-digital-skills-assessment-platform-start-up-imocha-raises-14-mn-in-series-a-funding"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/ai-powered-digital-skills-assessment-platform-start-up-imocha-raises-14-mn-in-series-a-funding"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ai-powered-digital-skills-assessment-platform-start-up-imocha-raises-14-mn-in-series-a-funding"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 45
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-03/3dff1c24-4e50-4dd2-af5a-b373c2bdc8a8/startup_2480722_960_720.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Conversational AI startup NLX raises $5M to scale its offering"
     excerpt: "Conversation artificial intelligence startup NLX Inc. has raised $5 million in funding to assist it in scaling its offering, to increase its headcount and drive sales. Aquila Capital Partners led the seed round with Flying Fish Partners,"

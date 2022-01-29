@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta has a giant new AI supercomputer to shape the metaverse"
-    excerpt: "RSC could be powerful enough to simultaneously translate speech ... \"RSC will enable new AI models that can learn from trillions of examples, understand hundreds of languages and more.\""
-    publishedDateTime: 2022-01-24T18:36:00Z
-    webUrl: "https://www.cnet.com/tech/computing/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/siHq4W98CK1DZnjUDNNGOJaq8Mk=/1200x630/2022/01/23/1b7d5a6f-b387-4fc8-8304-404b063355b7/facebook-meta-ai-supercomputer.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meta unveils new AI supercomputer destined to be world's fastest"
     excerpt: "Meta has unveiled the AI Research SuperCluster (RSC), a new supercomputer that’s among the fastest in the world. And it’ll only get faster – by the end of the year it should rank number one, with computing power on the exascale."
     publishedDateTime: 2022-01-25T04:16:00Z
@@ -57,35 +41,65 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The ethics of the metaverse"
-    excerpt: "Did you miss a session from the Future of Work Summit? Head over to our Future of Work Summit on-demand library to stream. We’re all in a rage about the metaverse, the universe of virtual worlds that are all interconnected,"
-    publishedDateTime: 2022-01-27T00:20:00Z
-    webUrl: "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/"
-    ampWebUrl: "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/"
+  - title: "Meta Builds World’s Largest AI Supercomputer With NVIDIA For AI Research And Production"
+    excerpt: "Facebook, I mean Meta, has always been one of the industry leaders when it comes to AI research and deployment. The company processes hundreds of trillions (yes, trillions with a “T”) of inferences every day,"
+    publishedDateTime: 2022-01-25T22:08:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2022/01/25/meta-builds-worlds-largest-ai-supercomputer-with-nvidia-for-ai-research-and-production/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/01/25/meta-builds-worlds-largest-ai-supercomputer-with-nvidia-for-ai-research-and-production/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/01/25/meta-builds-worlds-largest-ai-supercomputer-with-nvidia-for-ai-research-and-production/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/ethics-panel.jpg?w=1200&strip=all"
-        width: 1200
-        height: 666
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61f0640bbe20b8898946d1ec/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1190
+        height: 628
         isCached: true
-  - title: "Meta says its new AI supercomputer will be the world's fastest by mid-2022"
-    excerpt: "Meta has completed the first phase of a new AI supercomputer. Once the AI Research SuperCluster (RSC) is fully built out later this year, the company believes it will be the fastest AI supercomputer on the planet,"
-    publishedDateTime: 2022-01-24T18:48:00Z
-    webUrl: "https://www.engadget.com/meta-ai-supercomputer-worlds-fastest-rsc-184644623.html"
+  - title: "Meta Platforms (FB) to Launch World's Fastest AI Computer"
+    excerpt: "Meta Platform's (FB) launches new artificial intelligence supercomputer, which will help lay the groundwork for building Metaverse."
+    publishedDateTime: 2022-01-26T14:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/415191"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 65
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 71
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-01/59272060-7d43-11ec-bf4f-531a7fcff1a5"
-        width: 2000
-        height: 844
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-415191.jpeg"
+        width: 620
+        height: 413
+        isCached: true
+  - title: "Meta says it's building world's largest AI supercomputer out of Nvidia, AMD chips"
+    excerpt: "Facebook owner Meta is building the world's largest AI supercomputer to power machine-learning research that will bring the metaverse to life in the future, it claimed on Monday. The new super – dubbed the Research Super Computer,"
+    publishedDateTime: 2022-01-25T02:15:00Z
+    webUrl: "https://www.theregister.com/2022/01/25/meta_supercomputer_metaverse/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/01/25/meta_supercomputer_metaverse/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/25/meta_supercomputer_metaverse/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 69
+    images:
+      - url: "https://regmedia.co.uk/2021/11/09/metaverse_shutterstock.jpg"
+        width: 1000
+        height: 562
+        isCached: true
+  - title: "Meta teams with Nvidia to build the 'world's fastest' AI supercomputer"
+    excerpt: "The installation will bring a number of AI-based features to Meta's platforms, including its proposed metaverse"
+    publishedDateTime: 2022-01-25T10:48:00Z
+    webUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/362058/meta-nvidia-worlds-fastest-ai-supercomputer-metaverse"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 69
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816559/itpro/2019/04/supercomputer_shutterstock_753459625.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "Meta Is Making a Monster AI Supercomputer for the Metaverse"
     excerpt: "Meta is building a new supercomputer to train enormous machine learning algorithms. Though only partially complete, the AI Research Supercluster (RSC) already ranks among the most powerful machines on the planet."
@@ -118,22 +132,6 @@ related:
       - url: "https://www.techworm.net/wp-content/uploads/2022/01/meta-ai-super-computer.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Meta is building the world's largest AI-specific supercomputer"
-    excerpt: "Facebook’s owner wants extraordinary computing power to develop AI models to recognise speech, translate languages and power 3D worlds"
-    publishedDateTime: 2022-01-24T17:22:00Z
-    webUrl: "https://www.newscientist.com/article/2305606-meta-is-building-the-worlds-largest-ai-specific-supercomputer/"
-    ampWebUrl: "https://www.newscientist.com/article/2305606-meta-is-building-the-worlds-largest-ai-specific-supercomputer/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2305606-meta-is-building-the-worlds-largest-ai-specific-supercomputer/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 61
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/01/24154702/PRI_220002623.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
     excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
@@ -295,6 +293,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Facebook parent Meta is developing the “world’s fastest” AI supercomputer"
+    excerpt: "The high-speed computer is designed specifically to train machine learning systems, according to Facebook-owned Meta RSC will be used to train a range of"
+    publishedDateTime: 2022-01-25T11:04:00Z
+    webUrl: "https://techhq.com/2022/01/facebook-parent-meta-is-developing-the-worlds-fastest-ai-supercomputer/"
+    ampWebUrl: "https://techhq.com/amp/2022/01/facebook-parent-meta-is-developing-the-worlds-fastest-ai-supercomputer/"
+    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/01/facebook-parent-meta-is-developing-the-worlds-fastest-ai-supercomputer/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 58
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2022/01/MArkZuckerberg-375x210.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "Meta is building a 16,000 GPU AI supercomputer"
     excerpt: "Facebook’s parent company Meta is partway through building an artificial intelligence (AI) supercomputer cluster it estimates will be the fastest on Earth when completed. The AI Research SuperCluster (RSC) is currently kitted out with 6,"
     publishedDateTime: 2022-01-27T05:00:00Z
@@ -309,21 +323,51 @@ related:
         width: 751
         height: 423
         isCached: true
-  - title: "Hello, metaverse? Meta is building supercomputer for artificial intelligence research"
-    excerpt: "Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions of users. Now its parent company is taking a step that could move it closer to that elusive goal: building its first supercomputer."
-    publishedDateTime: 2022-01-24T18:44:00Z
-    webUrl: "https://wraltechwire.com/2022/01/24/hello-metaverse-meta-is-building-supercomputer-for-artificial-intelligence-research/"
-    ampWebUrl: "https://wraltechwire.com/2022/01/24/hello-metaverse-meta-is-building-supercomputer-for-artificial-intelligence-research/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/01/24/hello-metaverse-meta-is-building-supercomputer-for-artificial-intelligence-research/?amp=1"
+  - title: "Largest Artificial Intelligence Supercomputer Is Zuckerberg's New Boast"
+    excerpt: "Facebook's parent company Meta announced on Monday it was launching one of the world's most powerful supercomputers to boost its capacity to process data, despite persistent disputes over privacy and disinformation."
+    publishedDateTime: 2022-01-25T01:19:00Z
+    webUrl: "https://www.ndtv.com/world-news/facebook-ai-supercomputer-worlds-largest-supercomputer-is-now-mark-zuckerbergs-new-boast-2727847"
+    ampWebUrl: "https://www.ndtv.com/world-news/facebook-ai-supercomputer-worlds-largest-supercomputer-is-now-mark-zuckerbergs-new-boast-2727847/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/facebook-ai-supercomputer-worlds-largest-supercomputer-is-now-mark-zuckerbergs-new-boast-2727847/amp/1"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 52
+      name: NDTV
+      domain: ndtv.com
+    quality: 57
     images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2021/08/quantum-brain-control-artificial-intel-e1628696856200.jpg"
-        width: 945
-        height: 532
+      - url: "https://c.ndtvimg.com/2021-10/fv7inbjg_mark-zuckerberg-650_625x300_29_October_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Facebook parent Meta taps Nvidia GPUs for AI supercomputer"
+    excerpt: "Facebook parent company Meta is building what it said will become the world’s “fastest AI supercomputer” later this year with the largest deployment of Nvidia’s DGX A100 systems to date. The tech giant said that its new AI Research SuperCluster,"
+    publishedDateTime: 2022-01-25T00:36:00Z
+    webUrl: "https://www.crn.com.au/news/facebook-parent-meta-taps-nvidia-gpus-for-ai-supercomputer-575042"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-14_meta_facebook_iStock-1350450876.jpg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "Facebook's Meta Says Its New AI Supercomputer Will Beat All Rivals by 2022's End"
+    excerpt: "Mark Zuckerberg's Meta has announced it designed a new supercomputing AI! And it could outpace all major rivals by the end of 2022."
+    publishedDateTime: 2022-01-25T00:46:00Z
+    webUrl: "https://interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    ampWebUrl: "https://amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8pNdLGm/sizes/facebooks-meta-says-its-new-ai-supercomputer-will-beat-all-rivals-by-2022s-end_resize_md.jpg"
+        width: 744
+        height: 419
         isCached: true
   - title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
     excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
@@ -334,31 +378,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Meta Introduces Fastest AI Supercomputer"
-    excerpt: "Facebook parent Meta Platforms Inc introduced its new AI Research SuperCluster (RSC) on Monday, which the company believes will be the fastest AI supercomputer in the world. It will be fully built out in mid 2022 and help create the metaverse."
-    publishedDateTime: 2022-01-24T17:25:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-01-24/meta-introduces-fastest-ai-supercomputer"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Meta Tapped NVIDIA To Make A Massive AI Supercomputer To Master Language And The Metaverse"
-    excerpt: "Mark Zuckerberg and the gang over at Meta, the parent company to Facebook, have a new and powerful toy to play with courtesy of a collaboration with NVIDIA."
-    publishedDateTime: 2022-01-24T17:28:00Z
-    webUrl: "https://hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 49
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/57468/content/NVIDIA_AI_Supercomputer.jpg"
-        width: 708
-        height: 400
-        isCached: true
   - title: "Facebook's Meta creates AI supercomputer"
     excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
     publishedDateTime: 2022-01-24T21:57:00Z
@@ -372,20 +391,6 @@ related:
       - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=be9bf114-dae3-57c8-a3f0-4a6a06411aab&function=original&type=preview"
         width: 800
         height: 600
-        isCached: true
-  - title: "New Meta Supercomputer Boosts Power for AI Workloads, Future Metaverse"
-    excerpt: "Meta has built a new supercomputer that will likely become the fastest AI system in the world when it is completed later this year, the company said today. Meta says the system will boost its AI capabilities and vision for a future digital metaverse."
-    publishedDateTime: 2022-01-24T18:05:00Z
-    webUrl: "https://datacenterfrontier.com/new-meta-supercomputer-boosts-power-for-ai-workloads-future-metaverse/"
-    type: article
-    provider:
-      name: datacenterfrontier.com
-      domain: datacenterfrontier.com
-    quality: 43
-    images:
-      - url: "https://datacenterfrontier.com/wp-content/uploads/2022/01/Meta-RSC-Racks-web.jpg"
-        width: 740
-        height: 420
         isCached: true
   - title: "Meta Announces New Supercomputer for AI Research"
     excerpt: "Meta unveils the AI Research SuperCluster — a cutting-edge AI supercomputer for AI research. Developing the next generation of advanced AI will require powerful new computers capable of quintillions of operations per second."
@@ -513,6 +518,20 @@ related:
         width: 1908
         height: 793
         isCached: true
+  - title: "Meta Announces AI Research SuperCluster: 16,000 GPUs, 1 Exabyte of Storage, 5 ExaFLOPS of Compute"
+    excerpt: "Meta, formerly Facebook, announced it has designed and built what it calls the AI Research SuperCluster (RSC), “the fastest AI supercomputers running today and will be the fastest AI supercomputer in the world when it’s fully built out in mid-2022” delivering nearly 5 exaFLOPS,"
+    publishedDateTime: 2022-01-24T22:33:00Z
+    webUrl: "https://insidehpc.com/2022/01/meta-announces-ai-research-supercluster-16000-gpus-1-exabyte-of-storage-5-exaflops-of-compute/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 26
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/12/Meta-logo.png"
+        width: 340
+        height: 283
+        isCached: true
   - title: "Meta Unveils Supercomputer to Power Translation in the Metaverse"
     excerpt: "Meta (f.k.a. Facebook) unveiled what “will be the fastest AI supercomputer in the world when it’s fully built out in mid-2022.” The reason: because “developing the next generation of advanced AI will require powerful new computers capable of quintillions of operations per second."
     publishedDateTime: 2022-01-25T13:00:00Z
@@ -545,6 +564,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "Meta unveils a new AI supercomputer, says it will be \"world's fastest\" by mid-2022"
+    excerpt: "Meta has unveiled that it is building the world's faster AI supercomputer. The company has outlined what it plans to do with it. Check all the details here!"
+    publishedDateTime: 2022-01-25T11:45:00Z
+    webUrl: "https://pocketnow.com/meta-ai-supercomputer"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 13
 
 secured: "ds7Arrvn4EWnnXk6se2iPzLLrrne5odBb8zD4cgPmvh7kjsDWjc8sNNHJ5sjq0IQcOjMg5Zob4lJD1332ENxve6SUdbhy1OD6hOn3ki5AvuI4QO7jq9z/32GgMP9WA33bFUKDrpCo90W/Ya2/fUIYTnINihN11MPCIkWccwK8QO7wyqZ/IPn52rKV0P8DFAjm8++kSZ8k7XlkPPcjj451XdrQJYVsaQI2vgCNmHoA9IqTsBncj4vKZbcexwwaSC6+MTuVT3Gz2aQMGakcffcOvWGqTpCyMw0h4Uy8FprV1kvCFewZHhIIVcgrQu/xkM5+AiP0ukjPpRwr73ZT6jiaWMZV35s8Y1NHTU/WqMTeH0=;eE2q9DUBpJmWx9iXwwRSvg=="
 ---

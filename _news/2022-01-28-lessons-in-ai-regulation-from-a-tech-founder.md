@@ -38,7 +38,7 @@ related:
     provider:
       name: Bar & Bench
       domain: barandbench.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://gumlet.assettype.com/barandbench%2Fimport%2F2016%2F05%2FAI.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
         width: 736

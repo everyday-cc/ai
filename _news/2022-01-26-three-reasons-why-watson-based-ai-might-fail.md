@@ -88,20 +88,6 @@ related:
         width: 555
         height: 330
         isCached: true
-  - title: "IBM to sell off Watson Health assets"
-    excerpt: "IBM has announced that it has entered into an agreement to sell its Watson Health assets to private equity firm Francisco Partners. The deal, which is expected to close in the second quarter of 2022,"
-    publishedDateTime: 2022-01-24T17:46:00Z
-    webUrl: "https://www.techcentral.ie/ibm-to-sell-off-watson-health-assets/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 39
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/IBM_21.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "IBM sells parts of Watson Health; what are the repercussions?"
     excerpt: "IBM Watson Health was an ambitious project introduced to use the core AI platform to help healthcare professionals analyse large amounts of data and assist in cancer treatment."
     publishedDateTime: 2022-01-28T05:30:00Z

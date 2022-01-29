@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Meta leaps into the supercomputer game with its AI Research SuperCluster"
-    excerpt: "There’s a global competition to build the biggest, most powerful computers on the planet, and Meta (AKA Facebook) is about to jump into the melee with the “AI Research SuperCluster,” or RSC. Once fully operational it may well sit in the top ten fastest supercomputers in the world,"
-    publishedDateTime: 2022-01-24T17:32:00Z
-    webUrl: "https://techcrunch.com/2022/01/24/meta-leaps-into-the-supercomputer-game-with-its-ai-research-supercluster/"
-    ampWebUrl: "https://techcrunch.com/2022/01/24/meta-leaps-into-the-supercomputer-game-with-its-ai-research-supercluster/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/24/meta-leaps-into-the-supercomputer-game-with-its-ai-research-supercluster/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/fb-rsc.jpg?w=1024"
-        width: 1024
-        height: 561
-        isCached: true
 
 secured: "THvwyVtq3cgKglJazH9vYD77EhXBP2SYZDRyPxoX/nbvXaFGBkq2JIBKdq5gW+K6xbmSfNoi4mMR6KWmW+q3Vb2O/5rDIcxwcSG2+IFfpbRo5rH2a5MCFEe7lGI127JG9TuvhuBxtxDCaStG7unnep2/zIJpRbH5+1VNcr1p5QchdAqm+jseGCixgNBzs0USv0P/f0IdWJg0jDSsj3RhMvFSer0NMF1JMxxw6j/9Dxj8A12LQsq+WmvINHwL7mLmDE+iDH9SnkzwxUF2thVkpBA969QeLGMNU8t+qUx2pidqaU+WblPIpctUJDf5RfFECuvMZva4SgSKu4Q2wQIO2YcNb6B94fC39CJwrdylSR2w3H4fh9D7RKT2raxaAWdBlxG5WaL8Fvqdsi4TYD57RMtWwjeh8m/KMqdvRgvza8tn4t29R/5GMa6/wcjeuU8q8Exq1cMYBgriaVQkcEruQmpkpxEXdvlTUSlOJUsKKy332K8x8NFbF19l0NrP4NCTzhKx1Ztr08veueum+LhMvg==;8y1pqmG0P+ytxRtC1WaZQQ=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1794
         height: 2350
         isCached: true
-  - title: "Microsoft invokes metaverse when describing future for Teams, Xbox and devices to investors"
-    excerpt: "After a relatively blockbuster-like Q2 earnings performance, Microsoft CEO Satya Nadella veered into metaverse talk as he prepares investors for the company's"
-    publishedDateTime: 2022-01-26T14:44:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-invokes-metaverse-when-describing-future-for-teams-xbox-and-devices-to-investors"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 29
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2015/09/Amyhood-768x485.jpg"
-        width: 768
-        height: 485
-        isCached: true
 
 secured: "M6qPMvl0Dvaey1kktdVLu6sPe67ZawKY+yCz0ohiS/cG9ex7EeREiz8O6ZXVUqLUluxZwkhfkpRZF7UXGLdKXAsqIYy65GZb34ORFo0iybALAgph9J+I3KSaaDo7R7bLXfAnuxZ6eB8xT55VPF8mBpL/BYBCQ5hDhc1OSNKiTpuz77DtkXpM+oncwcezS1WXqaKS86cXDTp21OEGa/qwrROGj/6WZi31QLjAsBYyP4a/+qaNRdGDBmpdn+xh8zglPdhjeOb9LCyYlDzeXd2ujfF6vnOTmLErx1CZKW8ibv+v3/FcP7+gv7hmfVStocm+cElanxTQQcVotBheqJob8HIwd6FBwkkIAbRSU6boHZchipx2bS0sH0JkB+LBvOG0h6UhCDLWBhaYLk32R2XnTqo99VwUW7vHHnu6GYzGCN4M5XPfC8osURap7fHrSV9r6P8L4E9ozFqam3ruM6GycHLlzooMo+Ns5W9p9EegSYUtG9JiwLAOYKKEyBKFbU7PkQJ5KXNKtZeK4ezizWsV9w==;wuM2FoUKRjRwGX3kNUxZwA=="
 ---

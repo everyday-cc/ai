@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 898
         isCached: true
+  - title: "AI-powered digital skills assessment platform start-up iMocha raises $14 mn in Series A Funding"
+    excerpt: "AI-powered digital skills assessment platform, iMocha ,announced a $14 million Series A investment round led by Eight Roads Ventures, with participation from existing investors Upekkha and Better Capital."
+    publishedDateTime: 2022-01-27T11:07:00Z
+    webUrl: "https://www.freepressjournal.in/business/ai-powered-digital-skills-assessment-platform-start-up-imocha-raises-14-mn-in-series-a-funding"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/ai-powered-digital-skills-assessment-platform-start-up-imocha-raises-14-mn-in-series-a-funding"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ai-powered-digital-skills-assessment-platform-start-up-imocha-raises-14-mn-in-series-a-funding"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 45
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-03/3dff1c24-4e50-4dd2-af5a-b373c2bdc8a8/startup_2480722_960_720.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Services automation and remote management startup SuperOps.ai raises USD 14 Mn in Series A"
     excerpt: "SuperOps.ai offers multiple solutions for MSP needs like IT documentation, project management etc– within the platform and on cloud."
     publishedDateTime: 2022-01-27T12:20:00Z

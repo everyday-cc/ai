@@ -24,6 +24,22 @@ images:
     height: 1125
     isCached: true
 
+related:
+  - title: "2021 Growth Opportunities in Artificial Intelligence, Supercomputers, and Quantum Computing Report - ResearchAndMarkets.com"
+    excerpt: "The “Growth Opportunities in Artificial Intelligence, Supercomputers, and Quantum Computing” report has been added to ResearchAndMarkets.com’s offering. This edition of IT, Computing and Communications (ITCC) Technology Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in Machine Learning,"
+    publishedDateTime: 2022-01-27T16:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-165064c1251e48eeb28396dab3c42266"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "XrFB7bGFnEkDLor0eZwUv3OkbfjO4o+/x96QJePE+gimTtaOZjpQJUgZYbE09wIwxGgEAO/qf8qo1dWmyYkLjve+wgMkmuNNKBqEOzMbP8rdfpPg00HU8vX64iZPUVwuWDqKoSV53tbVOW6d2BTrdlg0JV+rVulyS+QtrUIFaxnvJ5UdlrTOsabZAcssfKpe+3mOn82V2cLJr0mBsLphWIp3T2LNK2K7RRjOWNhSVzjzZ5WJpp8xmvy0ApxiHGjg84V8k7tToFoDmWzTzj4XFZtYFHjqFXuJzB6b8E7rqLTXZxzP2uq1/KIiprPm/SJ4eU1mvhO0MZHieHoLR1F0qz9GzLDKqmPcsu+6vXeg7YkfN6dadgJ5Ix4ktM7mLBKJ6CbGbqQQ462kf+Q0DWDTHlNn+JzL1vCykZVTTzLEItSPaFfzQvKo06VNQ8QfnTUnXDu3QL8CrcfPxuegAETSSQDdEUHyhnprKPwFOtz+vsuI57EAgS2Yre4dhtjpfwAUXypzGG61y55Pj1wd8FeRKg==;i2c1f0LM1CKiPQa+f9umVg=="
 ---
 

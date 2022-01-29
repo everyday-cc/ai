@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 547
         isCached: true
-  - title: "Meta is building an AI supercomputer"
-    excerpt: "By Rachel Metz, CNN Business Facebook has long bet that artificial intelligence can help it with the difficult task of moderating posts from its billions"
-    publishedDateTime: 2022-01-24T17:24:00Z
-    webUrl: "https://keyt.com/news/2022/01/24/meta-is-building-an-ai-supercomputer/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 39
-    images:
-      - url: "https://keyt.b-cdn.net/2022/01/nc312-combined-commercial-slate.png"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "vH9VbcHpXvPWdBUqSG7u1EoidEhSme+SU9FjNlc8aRG4wDqkEwWq9JJktubxvRk1kA2g8pTmUs+N9w29xEivehRJ5LLXj+evT9qKLy5SmVFRCNoGuX8ZnbpDte1CJIwIk/AZZW+UG/gvSddSODidvpqhifSzYviU2i3c5EehSTbnrWMM3mVLLL+2RF07HF1f9CIpqVM3/x3c+o2qF8E+GoB4JwFRhPzq0hVilR1Mh2c5lxKok5Osx1HNUJUrTfm9yYOaTu/KAcw4/ELI8ZWWOdMBgXnqJ+J6w2KTsSAGlZY7mXmSxvHGQM2PqxlcpReAwdy+9Va8s5u+4XCzyn2QeqrkYf9BQYZPdA8290LrWxMVPNU0T4i8cx7VT1SZ4WEF2sLU9lpOc/3ZyrWJMdSqSZDQBelBRHbeyXa0PFC4vKJN36ji8n3Wqa2RmDgCa51+NBPWMvX70N/EA8EohRE/1YFX7bO0QJ4oQmqitdeHPe/kXepG4LH0Ki+GxZOeKPN3b/EklXFLzbvNJGPYCwcU2w==;J82jtHQUOLlDd6bIU+gKvw=="
 ---
