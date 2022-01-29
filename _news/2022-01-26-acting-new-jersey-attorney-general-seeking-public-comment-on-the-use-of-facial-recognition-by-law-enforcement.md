@@ -87,34 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Using Artificial Intelligence to Accelerate Wildlife Conservation"
-    excerpt: "While Artificial Intelligence (AI) is revolutionising multiple aspects of our lives, there is limited uptake of AI in supporting ecological well-being and protecting the nearly 1 million species currently threatened with extinction. Wildlife.ai is a New ..."
-    publishedDateTime: 2022-01-24T21:44:00Z
-    webUrl: "https://www.gu.se/en/event/using-artificial-intelligence-to-accelerate-wildlife-conservation"
-    type: article
-    provider:
-      name: University of Gothenburg
-      domain: www.gu.se
-    quality: 39
-    images:
-      - url: "https://www.gu.se/sites/default/files/styles/100_10_5_xlarge_1x/public/2022-01/Victor%20Anton.jpg?h=790be497&itok=BhZA7uwh"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
-    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-    publishedDateTime: 2022-01-25T16:38:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "MinIO Raises $103 Million in Latest Funding Round"
     excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, announced it has raised $103 million in Series B funding at a $1 billion valuation, enabling the company to accelerate multi-cloud storage adoption."
     publishedDateTime: 2022-01-28T18:46:00Z
@@ -222,6 +194,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
+    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
+    publishedDateTime: 2022-01-25T16:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "OXdo7M373fkrjdCyjcNDXPbZW7sZK1/IO8UAEzoxo+vfyY1XLiQrnzE+pQZLyCwhZ/d+ys5kJijonat93qhDhZhy3FrLVMHX+mSfTsy7phFwT/kCpqoqnAZsIPjyqAAzUdUad2qDOWQ9DXUEt+/rwhEuwK8dtpTN41HkC3VqVEf+owhNh3PB5XV8nUbI/GfvHqycHq2xCv8rjk5CnhrmHL141tFjej4mPZM09FeuS9VkdNy9qqq/ih9AzZFEYy6J+ahxduHXlrwuJlJOs6ueVA3xurq1Z31uVjuzu291VpGkt+JFumjM1fju0GLc0YPTNjP3Z2+TFcM/L1LNo4XHGubGMLFjSXq275ESOu56apk=;M9kA/F0hq2g1ZJt4qt34cQ=="
 ---

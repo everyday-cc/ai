@@ -105,15 +105,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Are Cow Noses the New Fingerprint to Unlocking Livestock Facial Recognition?"
-    excerpt: "Fingerprint recognition technology for cellphones was first created in 2011 and is the process of verifying a person’s identity by comparing their fingerprints with previously recorded samples. This recognition is then utilized to unlock certain technology features and can even provide specific data on individuals."
-    publishedDateTime: 2022-01-24T21:09:00Z
-    webUrl: "https://www.dairyherd.com/news/education/are-cow-noses-new-fingerprint-unlocking-livestock-facial-recognition"
-    type: article
-    provider:
-      name: Dairy Herd
-      domain: dairyherd.com
-    quality: 16
 
 secured: "58Qj6ujMsK7VyuSyW/YSGqgDff+BUxIimH6HmiMUMnqwvvy5WA+VQNs2nx6ymx+wM6dL3DYJ9odGxq4tIAumvLie+ThRPWvyedlZ9/i0T8rkOxkow2MV/XJtLqRgUqhwuH91bIDBHlm2uRffCr/o1nodcvRe0EXcQLVyt+FTy8MqkLEUVBVZbvME9pG2UPdUwdhfClAH0pqRRFljN9oWYYRsqmwPpcOnzZp1PcxCliJ4qSPVk+t2xmCtANLozOpSJfxMqN+XwH39Vy6Vg1ZOrOe9Ad1bDbQLirDe8d9utbd/4TDbnPOrUONRB2Dp9MYUhD3k60nrsXW+drRXBhCJIEQXwysEcs7tMeAM9IV1cpw0j2RrPv03C17QVCF6tFiBHGrnp1hIMnolB5voY39iIchZF0BHLswRHF+6mwLByXBHXqfdhGheRvRn37r+mA9/feWA76c5moPl09H8HTrnycsT25GFDsrkgsJ9sAe1wgH6x7Dq8wUNZwjrB0JUNiw7Y1PFUtCtHfHNTWmhQ0sxoA==;hw9y3O0PQz42fICNT2N8DA=="
 ---

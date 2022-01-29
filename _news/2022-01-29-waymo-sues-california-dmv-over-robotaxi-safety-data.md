@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-s
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Government Technology
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo sues state DMV to keep robotaxi safety details secret"
+    excerpt: "A court may decide whether Waymo's business interests outweigh the public's right to understand the safety issues around self-driving cars"
+    publishedDateTime: 2022-01-28T13:00:29Z
+    webUrl: "https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice"
+    ampWebUrl: "https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice?_amp=true"
+    type: article
+    provider:
+      name: latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice
+      domain: latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice
+    quality: 174
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/a87d333/2147483647/strip/true/crop/5388x3603+341+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F46%2F743f192846669dfbca0ba9668179%2F473702-sd-me-ucsd-driver-less-vehicels-hl-003.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Waymo sues California DMV to keep robotaxi safety details secret"
     excerpt: "Waymo, the company that operates a fleet of autonomous taxis in San Francisco, is suing California's DMV to keep safety details secret."
     publishedDateTime: 2022-01-28T23:48:00Z

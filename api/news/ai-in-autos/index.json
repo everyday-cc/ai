@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-29-waymo-sues-california-dmv-over-robotaxi-safety-data.md",
-      "title": "Waymo Sues California DMV Over Robotaxi Safety Data",
-      "excerpt": "The driverless car company — which is owned by Google parent Alphabet Inc. — operates an autonomous taxi fleet in San Francisco, and the question in the suit is whether public safety-related data can be a trade secret.",
+      "path": "_news/2022-01-28-waymo-sues-state-dmv-to-keep-robotaxi-safety-details-secret.md",
+      "title": "Waymo sues state DMV to keep robotaxi safety details secret",
+      "excerpt": "A court may decide whether Waymo's business interests outweigh the public's right to understand the safety issues around self-driving cars",
       "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data",
-      "originalUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data",
+      "webUrl": "https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/waymo-sues-state-dmv-to-keep-robotaxi-safety-details-secret/ar-AATeIKz",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 214,
       "tags": null,
       "images": [
         {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/0ed328f/2147483647/strip/true/crop/940x490+0+46/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa0%2F40%2Ff54af073727f3f1d09fcd332e8ba%2Fwaymo.jpg",
-          "width": 840,
-          "height": 438,
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/a87d333/2147483647/strip/true/crop/5388x3603+341+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F46%2F743f192846669dfbca0ba9668179%2F473702-sd-me-ucsd-driver-less-vehicels-hl-003.jpg",
+          "width": 320,
+          "height": 214,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true",
-      "publishedDateTime": "2022-01-28T09:23:00-08:00",
+      "ampWebUrl": "https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice?_amp=true",
+      "publishedDateTime": "2022-01-28T05:00:29-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
+        "name": "latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
+        "domain": "latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
         "images": null,
         "publishers": null,
         "authors": null
@@ -92,8 +92,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {

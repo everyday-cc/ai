@@ -7,7 +7,7 @@ originalUrl: "https://www.contractpharma.com/contents/view_experts-opinion/2022-
 webUrl: "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F1%252F6%252F2%252F0%252F38600261-1-eng-GB%252F20220127%252036Kr_earphone.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
+        isCached: true
+  - title: "How the internet is training AI to make better disinformation"
+    excerpt: "AI is accelerating disinformation creation way beyond deepfakes. The internet is rife with disinformation, and bad actors are becoming more skilled at spreading conspiracy theories and falsehoods online."
+    publishedDateTime: 2022-01-26T13:13:00Z
+    webUrl: "https://www.grid.news/story/technology/2022/01/26/how-the-internet-is-training-ai-to-make-better-disinformation/"
+    type: article
+    provider:
+      name: grid
+      domain: grid.news
+    quality: 37
+    images:
+      - url: "https://www.grid.news/resizer/VLWxS3hYxcqLcjFY1YmXpIO9fKQ=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/KEN3LUEQ6FAJHMBV5YKCGYZEPY.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "24fj3v2oBMsQYH1ocXoFLHUn85JMzBCy8yaaR7wADqcL41yaqv7l7hWn4O7Q02xe7SoLi1BwonL8HpzYgJvDVLoy/yG2v+IUhXsQqxEceLWBhtYPlQhF+jzrqrGRAiTsse4T4cB9YGGh6IdloWnfcfRM7W8WG3sXAhhXaclKjoLJ9e+6dFVWyK5XntdsDHfJdh1bU1TDRBKNGuMuZaYM2moC7Kbs4xRwlUitFH2SficBjwbGue1DK+SwQqTQRmBB33UwxZnNSLZ4TfszKSE21M76ISA2bb8NGR6ZkLxgOGM02TZfVEqwTjUqMdMfv9/nXPZcLUhbW4Ll1yu52euz+ADsVzEuZuohLZrfjF0KLrikJTgXlkBAiPTprtJ/4BaoX757iigm8i1BgGafpF7HcLMjYpimroHH84V0Wy0D4nFeyXhhV3Y/MezOm4QFa4DoaDyXOdTZtP54dRsK7tDYmo7zYeqOZCL7r5Qb16EbSSvQpONgTyfuAZYS6I6fW/bGT9VlJn5CiWAkTzARpn2d1g==;zxOMNuaDJDpnUEjPmbVk5w=="

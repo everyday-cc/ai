@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI is Rewriting the Future of Writing - should we all be worried?"
-    excerpt: "I’m someone who considers writing a kind of religion. I take time out of my day to listen to the ideas swirling around in my head, churn out words when the muse inspires me, meditate on my progress."
-    publishedDateTime: 2022-01-24T22:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-rewriting-future-writing-should-we-all-worried-paul-g-thompson"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHyjFzwXkkKeQ/article-cover_image-shrink_720_1280/0/1643045693894?e=1648684800&v=beta&t=jOVbcytPqTWhx7Lk6KoHxGtR9rt96yNx8SI0u7AGJt4"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "5 Ways Artificial Intelligence Is Radically Transforming Creativity in Business"
     excerpt: "Amid rapidly changing technology, many people still associate artificial intelligence (AI) with science-fiction dystopias. But in reality, AI has become an integral part of our daily lives. We now rely on search-engine algorithms and digital assistants like Alexa and Siri for almost everything,"
     publishedDateTime: 2022-01-27T22:41:00Z

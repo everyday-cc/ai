@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Metaphysic, AI startup behind Tom Cruise deepfakes, raises $7.5M"
-    excerpt: "Metaphysic, the company behind the Tom Cruise deepfakes, has raised $7.5 million to use AI to create lifelike replicas of people."
-    publishedDateTime: 2022-01-25T14:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/"
-    ampWebUrl: "https://venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/metaphysic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 580
-        isCached: true
   - title: "Winklevoss twins, Logan Paul invest in AI startup Metaphysic"
     excerpt: "Metaphysic, the artificial intelligence (AI) startup behind the viral deepfake video of actor Tom Cruise, announced on Tuesday that it has raised $7.5 million in funding. It was led by Google Ventures Founder Bill Maris through his venture capital firm Section 32."
     publishedDateTime: 2022-01-25T17:34:00Z

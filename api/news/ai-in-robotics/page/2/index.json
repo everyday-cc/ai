@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-01-16-3-key-differences-between-ai-and-robotics.md",
-      "title": "3 Key Differences Between AI And Robotics",
-      "excerpt": "Despite having a few common elements, AI and robotics are not the same. To understand the difference between the two, one can imagine AI to be the brain and robots to be the body of artificially intelligent robots—the combination of AI and robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d670b81998bdcbce034eac%2F0x0.jpg",
-          "width": 1200,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/amp/",
-      "publishedDateTime": "2022-01-16T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-01-16-humans-of-2022-can-ai-robots-be-good-evil-or-have-a-soul.md",
       "title": "Humans of 2022! Can AI robots be good, evil or have a soul?",
       "excerpt": "RPI students work on robots with RPI computer science professor Selmer Bringsjord (standing) who also holds a philosophy degree. Bringsjord and RPI colleague Jim Hendler are Artificial Intelligence experts who explore whether a robot can ever develop what humans call a soul or morality?",
@@ -1384,6 +1332,49 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life.md",
+      "title": "A Colorado 'fusioneer' invented a painting robot and an inspiring way of life",
+      "excerpt": "And the robot holding a paintbrush. One look at this room can be overwhelming for visitors, so Paul Kirby likes to start simple. It’s an old trick he learned as a ski instructor in Vail, when he realized every skier has slightly different goals for the slopes.",
+      "sourceUrl": null,
+      "webUrl": "https://gazette.com/premium/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.html",
+      "originalUrl": "https://gazette.com/premium/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/7/06/706e6ce4-31c4-11ec-86ee-e3f2172a650e/6170469d72c59.image.jpg?resize=1024%2C711",
+          "width": 1024,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gazette.com/premium/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.amp.html",
+      "cdnAmpWebUrl": "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/premium/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.amp.html",
+      "publishedDateTime": "2022-01-09T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

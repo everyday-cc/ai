@@ -101,34 +101,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Using Artificial Intelligence to Accelerate Wildlife Conservation"
-    excerpt: "While Artificial Intelligence (AI) is revolutionising multiple aspects of our lives, there is limited uptake of AI in supporting ecological well-being and protecting the nearly 1 million species currently threatened with extinction. Wildlife.ai is a New ..."
-    publishedDateTime: 2022-01-24T21:44:00Z
-    webUrl: "https://www.gu.se/en/event/using-artificial-intelligence-to-accelerate-wildlife-conservation"
-    type: article
-    provider:
-      name: University of Gothenburg
-      domain: www.gu.se
-    quality: 39
-    images:
-      - url: "https://www.gu.se/sites/default/files/styles/100_10_5_xlarge_1x/public/2022-01/Victor%20Anton.jpg?h=790be497&itok=BhZA7uwh"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
-    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-    publishedDateTime: 2022-01-25T16:38:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Slim.AI Raises $31 Million to Secure Cloud-Native Applications"
     excerpt: "Cloud-native application security startup Slim.AI today announced that it has raised $31 million in Series A funding, which brings the total raised by the company to $37.6 million. Slim.AI’s latest funding round was led by Insight Partners and StepStone Group and also received participation from Knollwood,"
     publishedDateTime: 2022-01-26T14:49:00Z
@@ -222,6 +194,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
+    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
+    publishedDateTime: 2022-01-25T16:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "aDhxZ8aRhy+mTVcI9AN+YOnB7JCs5fFPjA42/uRV5yBGAMlquSN8uFizDuvJ5L431AZ6UEe0By42ilHY0VgMTFHjwMCNXcW6rP1ikNGf+6ZbgZxmvOOfkyDmjQ43mAJJF9PUTK171vX+Gm50j0abzfF2/lcwcqLo8b9mPVmVOsiGZ5cCqBEN880G9VRC/+asv8C91NLN13KUzhdPEzGKQfz5QToa8Ikpf7QHRRanBzJC0XOwc/9sFuXGeluFxrdyy9wVRravbiKQOmouoBBgcNt4LyR1o96qAAbL2bT8vQR3cN9PnoThK4/0TapLbTJzAfXTuLfWzVFyuO9+O+KuKNI0AlM7Dz8NasrnMSme7dc=;E8Iz5/Xy8bhzqBKVvwgFGQ=="
 ---

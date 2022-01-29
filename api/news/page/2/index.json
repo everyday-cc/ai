@@ -2,6 +2,83 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-27-artificial-intelligence-startup-rehinged-launches-carenet-ai.md",
+      "title": "Artificial Intelligence Startup, Rehinged, Launches Carenet AI",
+      "excerpt": "Rehinged, Inc announced the launch of Carenet AI, their market intelligence platform specifically built for the healthcare industry.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/",
+      "originalUrl": "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/01/Artificial-Intelligence-Startup_-Rehinged_-Launches-Carenet-AI-01.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/amp/",
+      "publishedDateTime": "2022-01-27T01:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-3-beaten-down-fintech-stocks-to-buy-now.md",
+      "title": "3 Beaten-Down Fintech Stocks to Buy Now",
+      "excerpt": "The fintech industry received more than its fair share of abuse during the current stock market correction. While these are relatively high-risk stocks, it's going to take more than a higher interest rate environment to stop them from disrupting their respective niches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702",
+      "originalUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp",
+      "publishedDateTime": "2022-01-27T01:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-ai-and-optimism-jim-mellon-wants-us-all-to-live-longer.md",
       "title": "AI And Optimism: Jim Mellon Wants Us All To Live Longer",
       "excerpt": "The longevity industry today is like the internet industry of 20 years ago, when it was still in its dial-up phase, and downloading information was like sucking jelly through a straw.",
@@ -1137,92 +1214,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-researchers-find-machine-learning-supports-emergency-departments.md",
-      "title": "Researchers find machine learning supports emergency departments",
-      "excerpt": "Researchers from the University of Minnesota Medical School recently published findings PLOS ONE that evaluated the real-time performance of a machine learning (ML) that supported clinical decision-making for emergency department discharge at M Health Fairview hospitals.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-01-machine-emergency-departments.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-01-machine-emergency-departments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/emergency-department.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-01-machine-emergency-departments.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-emergency-departments.amp",
-      "publishedDateTime": "2022-01-25T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-sri-on-the-future-of-robotics.md",
-      "title": "SRI on the future of robotics",
-      "excerpt": "Thomas Low, the director of the robotics laboratory at SRI International, writes about what roles robotics will grow into in coming years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/sri-on-the-future-of-robotics/",
-      "originalUrl": "https://www.therobotreport.com/sri-on-the-future-of-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/01/featured-web-da-vinci.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

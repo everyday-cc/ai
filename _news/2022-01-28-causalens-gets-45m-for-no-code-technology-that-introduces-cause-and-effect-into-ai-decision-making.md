@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-techno
 ampWebUrl: "https://techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/amp/"
 type: article
-quality: 73
-heat: 73
+quality: 173
+heat: 173
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 713
     isCached: true
 
-secured: "9GNKcix61JYcPW8eY3lZPtk7+oFXrbt/bhaDBm93FD4DePN94nNsUEZqAmyJZkR6GYfq4CNCwoUSv34Gg4vkJsEt5ZMfKgd+WjF0Y206jNuUla+1VlWjuKHVAfqYPAXHotERLnmq7zItzaytItdyJBWIGptPiKpvBiIijKvlG4MP/W5eNQOIzYv1R07LtaG6jN6/Va/drmRghbWKIyIUMY91tU/V7pbAKwmnxcn2jowidh2f3uw6o+EDQ/XKkAKf8qWv+AG5qY4wOrJTIACWowIjhLw1wgRHGeQloWBb0RYh4mUBBR9awPcwSbhcC/zN4k+s1eVwZvZLBvW9FuQtkNL9nOyaZ8zuUgpIFZ5GN4Y0VAumaYNlLUwaRFITHN8P1nRHzZEK4rluQCxTqIk8f+WojNoO2XT+RjyZqvbK9GKe4EyA85b+1nl4yhxP8vxv1fZuiUFJ0Sy/MpKnKbiZzJDzjcICWzngrBq9+sj1/906NwpZ4g3vPVvOWG155NIQUspqE2r4fJIjVi6+wx6veA==;vjYXEEVQTHmaPHOLXovI2Q=="
+secured: "lwHTGgv8BD+Gi8XAb57tdXiqQwbre6oGbOPlTNDC53kC/YglUC09s+S0h2U1kuSUeWR+Vj+zEoteoeVazPJROF55saEy8fMDJJL60fL9ku35v16CrOvJd7fDtP7Yp+t1Qwbeq23wggs2LshoGxKjNz++IS+hUx++tdhYFlLunxMO7wyPOTDrG7yluFM0fHAq0LbFA6VgKiLXtie+vcXOQ3iBTz1imSd5q9hrApbmgcAiuW8nzyj/uaVXZR67BzHarOmd2n+pAB3QQHB1lrJXfpuaU0EO5/1sgYdbxkJxzZmezq8JnXV2t1SU+YW3jKM3k9tgRpN2M4bmz1gMeL4/BCsU+PGJP1ANDSobeKrVXiyjQr4cbkQ4uzhAjk3Gy+fRKVyinwsD8QNXiktJE/ZzDXkXDS8i9yvHjXFrEX1+6lfyj08oTkJJUbV4kWAc/4D0eHfc0b9lgKSEb+IZWzn93MiMmBb3bMZD9wek0c15bUOgKuB7HX6fdDPmS+Iw6k23b3ImqMPqpS3MbsgztZT5nUk1c0IFVz9ParE5Z3YkuTY=;qgxYM4bzY0iDV64eTW5+vg=="
 ---
 

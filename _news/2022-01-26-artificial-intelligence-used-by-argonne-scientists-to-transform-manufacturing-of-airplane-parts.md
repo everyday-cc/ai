@@ -9,8 +9,8 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12706"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12706"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Azorobotics
@@ -25,17 +25,6 @@ images:
     width: 534
     height: 300
     isCached: true
-
-related:
-  - title: "Argonne scientists use artificial intelligence to improve airplane manufacturing"
-    excerpt: "Argonne scientists are using AI to determine the best welding conditions for manufacturing of airplane components."
-    publishedDateTime: 2022-01-24T21:06:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/941064"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 27
 
 secured: "dfG1FcOoOoo7pceJmDMkMth5AOodqH6zRCmK8Zb7fT+J6slT7oV3T8ZKwcqEYfnRQYmVoj954XA4diVlAbytZi+7orK12Hs5WJDkvgfrhPldWrwMIvxMihVMF93VTU7hT4RcjVQX5r0GCtWkbXzTWXMurjxYExjqxMtUTXU/0W0y40KK91/iZGk76z9/GX0RenXJI4GH3GrbYvqLau1lTrVOeBDWnt64tyXpam4H82yV9jnGYFJAwwTPNWfyMSdG/RA5sKcZ/tSwOmIpbnRQSTJWktriHNxgzwWbJf+QlKhSOYPIOqEWZVeZuplflO3yO04GnTtL5KeRqA58xv26q2EGsTec/MCToO3autwX4MY=;TkiwB01VbvzuyMcHI0eK5A=="
 ---

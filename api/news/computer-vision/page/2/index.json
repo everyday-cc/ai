@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-11-corsight-ai-reduces-bias-in-its-facial-recognition-technology.md",
+      "title": "Corsight AI reduces bias in its facial recognition technology",
+      "excerpt": "Corsight AI, announces a reduction in both gender and racial bias within its Autonomous AI-powered solution, Fortify.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/",
+      "originalUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s33644.pcdn.co/wp-content/uploads/2018/08/facial-recognition-e1533212864558.jpeg",
+          "width": 388,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/amp/",
+      "publishedDateTime": "2022-01-11T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ifsecglobal.com",
+        "domain": "ifsecglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-computer-vision-in-healthcare-market-qualitative-analysis-quantitative-analysis-forecast-up-to-2030.md",
+      "title": "Computer Vision in Healthcare Market: Qualitative Analysis, Quantitative Analysis, Forecast up to 2030",
+      "excerpt": "The global Computer Vision in Healthcare market is segregated on the basis of Product & Service as Software, Hardware, and Networks. The Global Computer Vision in Healthcare Market is expected to be around US$ 416 Billion by 2025 at a CAGR of 21.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/24988482/computer-vision-in-healthcare-market-qualitative-analysis-quantitative-analysis-forecast-up-to-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/24988482/computer-vision-in-healthcare-market-qualitative-analysis-quantitative-analysis-forecast-up-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-10T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027.md",
       "title": "AI in Computer Vision Market Size Soaring at 26.3% CAGR to Reach 64.59 billion USD by 2027",
       "excerpt": "Unscathed by challenges, the worldwide AI in computer market is expected to record a strong CAGR of 26.3% over 2021-2027, consequently multiplying the industry remuneration from USD 12.6 million in 2020 to USD 64.",
@@ -1315,101 +1402,6 @@
       "provider": {
         "name": "The Hans India",
         "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-how-ar-and-computer-vision-lead-to-smart-policing.md",
-      "title": "How AR And Computer Vision Lead To Smart Policing",
-      "excerpt": "AR and computer vision play their part in smart city policing by automating routine yet critical tasks performed by law enforcement personnel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d2ae2e967372eeb3ce8cd4%2F0x0.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/amp/",
-      "publishedDateTime": "2022-01-03T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-02-maine-voices-recognition-needed-that-first-responders-face-growing-mental-health-toll.md",
-      "title": "Maine Voices: Recognition needed that first responders face growing mental health toll",
-      "excerpt": "I want to develop and maintain a culture where a law enforcement officer asking for help is applauded as an act of courage, says Maine’s U.S. Attorney.",
-      "sourceUrl": null,
-      "webUrl": "https://www.centralmaine.com/2022/01/02/maine-voices-recognition-needed-that-law-enforcement-officers-face-growing-mental-health-toll/",
-      "originalUrl": "https://www.centralmaine.com/2022/01/02/maine-voices-recognition-needed-that-law-enforcement-officers-face-growing-mental-health-toll/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://multifiles.pressherald.com/uploads/sites/2/2021/12/shutterstock_1814688341-1640895278-1024x500.jpg",
-          "width": 1024,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-02T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kennebec Journal",
-        "domain": "centralmaine.com",
         "images": null,
         "publishers": null,
         "authors": null

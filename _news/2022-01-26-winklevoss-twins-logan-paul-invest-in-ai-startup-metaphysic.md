@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/winklevoss-twins-logan-paul-inves
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/winklevoss-twins-logan-paul-invest-in-ai-startup-metaphysic-1643132063406"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Metaphysic, AI startup behind Tom Cruise deepfakes, raises $7.5M"
-    excerpt: "Metaphysic, the company behind the Tom Cruise deepfakes, has raised $7.5 million to use AI to create lifelike replicas of people."
-    publishedDateTime: 2022-01-25T14:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/"
-    ampWebUrl: "https://venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/metaphysic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 580
-        isCached: true
   - title: "London startup that deep-faked Tom Cruise closes fundraise with Section 32, Logal Paul and Winkelvoss Capital"
     excerpt: "Deepfaking Tom Cruise isn’t a claim that most will proudly make, but AI content fintech Metaphysic has bragging rights. The start-up is behind the viral videos that attracted millions of views on TikTok,"
     publishedDateTime: 2022-01-25T14:29:00Z

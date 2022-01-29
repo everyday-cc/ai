@@ -24,81 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Getting AI from the lab to production"
-    excerpt: "The enterprise is eager to push AI out of the lab and into production environments, where it will hopefully usher in a new era of productivity and profitability. But this is not as easy as it seems because it turns out that AI tends to behave much differently in the test bed than it does in the real world."
-    publishedDateTime: 2022-01-24T21:10:00Z
-    webUrl: "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/"
-    ampWebUrl: "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/"
+  - title: "Monetizing and protecting an AI-powered virtual identity in today’s world"
+    excerpt: "While voice technology and virtual identities could lead to new content experiences, there are ample concerns about what the future holds."
+    publishedDateTime: 2022-01-29T14:40:00Z
+    webUrl: "https://venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world/"
+    ampWebUrl: "https://venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 88
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1158392795.jpg?w=1200&strip=all"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Studying the big bang with artificial intelligence"
-    excerpt: "It could hardly be more complicated: tiny particles whir around wildly with extremely high energy, countless interactions occur in the tangled mess of quantum particles, and this results in a state of matter known as \"quark-gluon plasma\"."
-    publishedDateTime: 2022-01-25T15:17:00Z
-    webUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-big-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/studying-the-big-bang.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
-  - title: "Studying the Big Bang With Artificial Intelligence"
-    excerpt: "Immediately after the Big Bang, the entire universe was in this state; today it is produced by high-energy atomic nucleus collisions, for example at CERN. Such processes can only be studied using high-performance computers and highly complex computer simulations whose results are difficult to evaluate."
-    publishedDateTime: 2022-01-25T21:34:00Z
-    webUrl: "https://neurosciencenews.com/big-bang-ai-19963/"
-    ampWebUrl: "https://neurosciencenews.com/big-bang-ai-19963/amp/"
-    cdnAmpWebUrl: "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/big-bang-ai-19963/amp/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 59
-    images:
-      - url: "https://neurosciencenews.com/files/2022/01/ai-big-bang-neurosinces.jpg"
-        width: 770
-        height: 514
-        isCached: true
-  - title: "How the internet is training AI to make better disinformation"
-    excerpt: "AI is accelerating disinformation creation way beyond deepfakes. The internet is rife with disinformation, and bad actors are becoming more skilled at spreading conspiracy theories and falsehoods online."
-    publishedDateTime: 2022-01-26T13:13:00Z
-    webUrl: "https://www.grid.news/story/technology/2022/01/26/how-the-internet-is-training-ai-to-make-better-disinformation/"
-    type: article
-    provider:
-      name: grid
-      domain: grid.news
-    quality: 37
-    images:
-      - url: "https://www.grid.news/resizer/VLWxS3hYxcqLcjFY1YmXpIO9fKQ=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/KEN3LUEQ6FAJHMBV5YKCGYZEPY.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Improving AI via chess"
-    excerpt: "Growing up, Casey Richardson was an avid chess player, studying the game religiously and playing in regional and state tournaments. \"One thing I liked about chess is, it's all strategy, not luck,\" says Richardson,"
-    publishedDateTime: 2022-01-25T21:50:00Z
-    webUrl: "https://hub.jhu.edu/magazine/2021/winter/reconnaisance-blind-chess-ai/"
-    type: article
-    provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 37
-    images:
-      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/blind-chess.jpg?itok=p_wNQW7o"
-        width: 2400
-        height: 1840
+        height: 603
         isCached: true
 
 secured: "u+xRc+FbyQ8yzB7KlhiLKPT6FIbSUnjtbvJJRhWRePIvWk1a9g8rkVl+9JnCrI4ca7a/oCk/2liX5AX22MXKQYdD/rMuTMbHSfXLAZD5ahfGRo1x6sKYkOffaFurMb1Z53eOo1lPphKL332aZwH3FYpQRGYHE40tor9XuUL99hcGYWZI1Y8sWhx3fSE7LKf6y/WHQ+gf0Y3pBMZLWYZ267NFmpT0Gt2IxG9t8hYg1Cq0ZiyxmVTW9olDz7+p065/JWmBf81c7eIz3Xu0La0n1ozViG+s3kL8GEtmrvGFYb5eZTlEkR2uCMZuOX/L2FY8ZY4qNDq6woJC+wt0k7jdqWFO5uiloJvMY3XXOK8uCmw=;/DuJgysFisaA680JbQav5w=="

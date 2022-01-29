@@ -1,30 +1,22 @@
 ---
 category: news
 title: "GSI Technology, Inc. Reports Third Quarter Fiscal 2022 Results"
-excerpt: "GSI Technology, Inc. (NASDAQ:GSIT) today reported financial results for its third fiscal quarter ended December 31,"
-publishedDateTime: 2022-01-27T20:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/g25269144/gsi-technology-inc-reports-third-quarter-fiscal-2022-results"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/g25269144/gsi-technology-inc-reports-third-quarter-fiscal-2022-results"
-ampWebUrl: "https://www.benzinga.com/amp/content/25269144"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25269144"
+excerpt: "GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its third fiscal quarter ended December 31, 2021. Lee-Lean Shu, Chairman and Chief Executive Officer, commented, “Our third quarter revenue grew 19% year-over-year due to increased orders from our SRAM customer base,"
+publishedDateTime: 2022-01-27T21:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-gsi-technology-inc-reports-third-quarter-fiscal-2022-/2022/01/27/9534856.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-gsi-technology-inc-reports-third-quarter-fiscal-2022-/2022/01/27/9534856.htm"
 type: article
-quality: 44
-heat: 44
+quality: 4
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
-
-images:
-  - url: "https://www.benzinga.com/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "GSI Technology, Inc. Reports Third Quarter Fiscal 2022 Results"
@@ -37,6 +29,6 @@ related:
       domain: morningstar.com
     quality: 4
 
-secured: "/ZvkMbpr2CylQYixByHI67DYRpqC4p87/0HPCeX+kdrpXvadkYPeaTza67brpKkQacvm20+WD8Gg2K/Lr1v2gLO/wPQ5Fmn2h1bRYLFUdWrsglCTNIFtHbvz8DsgHkQdzHcqQgmSJJVsAsimv6R12ceJS2tTfETMXlhbo3v0hwUxkn9FMUPoWFwmEqxGQmstbILVqgq7T3EcRFXDEvtz33zPElt2CXNCF1fseAuYfrW8kwaqWiNvaU6BebXMkRjpxzOX7UY8fnMIQFTdGhoIWdRX3W6zzMew/bPhql2cS9wmK7mrjhhsJT+D7hZvBmYoPxjxF8uopmaRKV6WJlo9uWvVLwq2GKT3RUuln6OqszY=;MG72JOa/y97cz8Ik9tUY3g=="
+secured: "F4HaZrLmEmOyCgJlfszkK9sFs60D0NUG+4yuqTrUNbkibjBYoXRb5ofjQ5u+UXc+vhQLLcdTcgQINZOv9AOYB3RG9DnMZpGpu1ChcAxou9lQX5VbBz3V5w5oRjrWE+vsQ64ojR20ZDMtyovGw4LgmMrMEQ23nB4iiqrcyt9Q7dgeR5rTo6v+TVbrJ6xMX2lUw4Yq8K0gWtdLD9yxLsx0EwCT+1QCtcE6wVdmu6LuUxrg0SFmdnrMZinE76Y2+wSNr3uCuj2y2L3u/wU/6igmYt0BI510mq0RnbKk1fBKZ9To+JJZTX/mr9ywRcJg/e/LZL/f6MuV5K6rgQPCb2wkMhW46oiwPQTRZDqltq1h4VY=;CxcODKO5VGNcojp1enyPmA=="
 ---
 

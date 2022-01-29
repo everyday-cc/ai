@@ -2,27 +2,22 @@
 category: news
 title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
 excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-publishedDateTime: 2022-01-25T16:38:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+publishedDateTime: 2022-01-25T16:42:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
 type: article
-quality: 39
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - Natural Language Processing
 
 related:
   - title: "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries"
@@ -100,20 +95,6 @@ related:
       - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2022/01/16x9/MDS_Executive_Summary.61f015c0d07ee.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Using Artificial Intelligence to Accelerate Wildlife Conservation"
-    excerpt: "While Artificial Intelligence (AI) is revolutionising multiple aspects of our lives, there is limited uptake of AI in supporting ecological well-being and protecting the nearly 1 million species currently threatened with extinction. Wildlife.ai is a New ..."
-    publishedDateTime: 2022-01-24T21:44:00Z
-    webUrl: "https://www.gu.se/en/event/using-artificial-intelligence-to-accelerate-wildlife-conservation"
-    type: article
-    provider:
-      name: University of Gothenburg
-      domain: www.gu.se
-    quality: 39
-    images:
-      - url: "https://www.gu.se/sites/default/files/styles/100_10_5_xlarge_1x/public/2022-01/Victor%20Anton.jpg?h=790be497&itok=BhZA7uwh"
-        width: 1280
-        height: 640
         isCached: true
   - title: "MinIO Raises $103 Million in Latest Funding Round"
     excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, announced it has raised $103 million in Series B funding at a $1 billion valuation, enabling the company to accelerate multi-cloud storage adoption."
@@ -223,6 +204,6 @@ related:
         height: 628
         isCached: true
 
-secured: "3z0FhWqv+q40uZa2tk+temq/uJh1J+017ueu4fnr1omq92rzfyaYsjp04OwyXJkjCQtk5ZTgqkhhmBnIdtujnuxvh2xrM/4jbvfaS1wXqJBlA0EW198cQ/x7KT3XuAFYtAIGBzbTwrWCFLC26vUKLUNQUQqez7vNcyD/kSkkPUxvS7LwcsHQHQT5ADO8d05spsCtqsQDzc/KExLTDB3hIwtDqj+Y+EWjRZFDIV2nvhyACKiGlruuH6oCBK4zWha6+TZ7t0wtH96KM6hibPrXXjFCFXT/jdHrnxPh4KDnhWc8KCvf8PBb7jDWvUjK5s+NuuPcoht0ZDV+mQenpKKPPc4Nl/Uzjp1/gBKmg3x0Hco=;jAX37+cGJcSGzQMYaJSMNA=="
+secured: "LSpU39eTI53j8tEHErVE2Frij7DPdK26bL1e2coejPZuj2HY5Mh9a62dg4UUe+Rlb0MKBTqxo8cSrdESvG3L6JJH2aqbIIQJDb/veWTJFka9PyjbUd6drjRIiilqDVZ/MaM+byFgZ+0wLOVeN/WK255nrTbtQ8V7d+L5sLgd4jalctkitatfxMGIQpFnTg8t1XQDZq8U8SXVxbR4Zp/2LKcAm/QBS2wukR6YWqggRVwSl9Ns6CQQoKvSr15FslLXbFYPfxdqQIz6QW+xwhmxib4uXEz5uDJSRv/KE+KzT6fyl8SvSRWt39rjN40mqllEdpCPAAderoJKhDyNAI2CufsHebriipbSUBV3NLgwm4Q=;cNvOCHCON5HE8PI/GOJfRA=="
 ---
 

@@ -24,81 +24,47 @@ images:
     isCached: true
 
 related:
-  - title: "Getting AI from the lab to production"
-    excerpt: "The enterprise is eager to push AI out of the lab and into production environments, where it will hopefully usher in a new era of productivity and profitability. But this is not as easy as it seems because it turns out that AI tends to behave much differently in the test bed than it does in the real world."
-    publishedDateTime: 2022-01-24T21:10:00Z
-    webUrl: "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/"
-    ampWebUrl: "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/"
+  - title: "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences"
+    excerpt: "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes."
+    publishedDateTime: 2022-01-25T14:17:00Z
+    webUrl: "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Contract Pharma
+      domain: contractpharma.com
+    quality: 50
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://dev.rodpub.com/images/248/280_main.jpg"
+        width: 1542
+        height: 833
         isCached: true
-  - title: "Studying the big bang with artificial intelligence"
-    excerpt: "It could hardly be more complicated: tiny particles whir around wildly with extremely high energy, countless interactions occur in the tangled mess of quantum particles, and this results in a state of matter known as \"quark-gluon plasma\"."
-    publishedDateTime: 2022-01-25T15:17:00Z
-    webUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-big-artificial-intelligence.amp"
+  - title: "Council Post: How AI & NLP are driving the digital transformation in insurance"
+    excerpt: "To successfully implement AI, NLP solutions in the insurance segment, companies should adopt a case prioritisation framework."
+    publishedDateTime: 2022-01-26T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/council-post-how-ai-nlp-are-driving-the-digital-transformation-in-insurance/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 50
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/studying-the-big-bang.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/How-AI-NLP-are-driving-the-digital-transformation-in-insurance.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Studying the Big Bang With Artificial Intelligence"
-    excerpt: "Immediately after the Big Bang, the entire universe was in this state; today it is produced by high-energy atomic nucleus collisions, for example at CERN. Such processes can only be studied using high-performance computers and highly complex computer simulations whose results are difficult to evaluate."
-    publishedDateTime: 2022-01-25T21:34:00Z
-    webUrl: "https://neurosciencenews.com/big-bang-ai-19963/"
-    ampWebUrl: "https://neurosciencenews.com/big-bang-ai-19963/amp/"
-    cdnAmpWebUrl: "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/big-bang-ai-19963/amp/"
+  - title: "Chinese AI translation machine startup secures new funding"
+    excerpt: "Timekettle, a Chinese startup developing artificial intelligence-based smart translation machines, has raised several tens of millions of yuan (at least $3 million) from China SME Development Fund in a Series A funding round."
+    publishedDateTime: 2022-01-28T06:14:00Z
+    webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-translation-machine-startup-secures-new-funding"
     type: article
     provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 59
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
     images:
-      - url: "https://neurosciencenews.com/files/2022/01/ai-big-bang-neurosinces.jpg"
-        width: 770
-        height: 514
-        isCached: true
-  - title: "More productive coating and repair with Artificial Intelligence"
-    excerpt: "A German-Canadian consortium is now tackling this with Artificial Intelligence (AI): Thanks to new software for process control, laser material deposition, in particular, shall be automatically ..."
-    publishedDateTime: 2022-01-27T09:32:00Z
-    webUrl: "https://idw-online.de/de/news787322"
-    type: article
-    provider:
-      name: idw
-      domain: idw-online.de
-    quality: 52
-    images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
-        isCached: true
-  - title: "Improving AI via chess"
-    excerpt: "Growing up, Casey Richardson was an avid chess player, studying the game religiously and playing in regional and state tournaments. \"One thing I liked about chess is, it's all strategy, not luck,\" says Richardson,"
-    publishedDateTime: 2022-01-25T21:50:00Z
-    webUrl: "https://hub.jhu.edu/magazine/2021/winter/reconnaisance-blind-chess-ai/"
-    type: article
-    provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 37
-    images:
-      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_2400/public/blind-chess.jpg?itok=p_wNQW7o"
-        width: 2400
-        height: 1840
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F1%252F6%252F2%252F0%252F38600261-1-eng-GB%252F20220127%252036Kr_earphone.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "akR+x9cVEYu9zec5tX8Nd1Wosw6Ivg86kJ2p5a+ugA3gqQWo87GlmrnQcsV7p8d4BLDOYOsHltBI5DTOWBm+gBRL4yhv8u0vNyljou2cHWkjF72S4k7R8tiAsRCxn8GTXAlNHMlwWj132BckokERwDCp8ixAsUScupFI/ChowBmSkZNE90/25KrzyOfHbnbJcR1loSgsah0gL6UgMijcNwvTeh5GTd0c6U8ls43HPaHHoPeBxGijQ9UtYFXERDuTqkBCn79aGebx297BQ3QUBDvKhMix2iVSP7MEoP93TS74+RfzCM12o15z+W9KWCUDu2UxuBzWgpk9ScVEn0fzYD04IWKPOOKcbzLQT17ZwsfRTcVPzI3+QylxuvLZANdlCEQG4Cwj07yrLqdPZ44fic0B2XjM/S8FIGNGnMIuX5nJjPmeEDnG4nZJ9a82qXpSnezUgrvX9obnYcmiCkO20G8MfaXXsmsWQ5OU/UQ3VoKI2DFUuCSD33QsmiFHBKvwUlPz5Zzj8hp0+60tufcuoQ==;qfuC5ZwAMGt5+dRLtRpaWg=="
