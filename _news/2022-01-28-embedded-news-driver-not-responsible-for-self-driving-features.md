@@ -41,6 +41,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Apple has expanding the team testing its self-driving cars in California"
+    excerpt: "Apple's self-driving cars in California. The cars are testing Apple's self-driving technology but not an actual car. Apple has expanded the team of people that are testing its self-driving cars on the streets of California."
+    publishedDateTime: 2022-01-26T14:29:00Z
+    webUrl: "https://www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california"
+    ampWebUrl: "https://www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california?amp"
+    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california?amp"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 43
+    images:
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/apple-car-toyota-mashup.jpeg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "How self-driving truck systems see"
     excerpt: "Visibility is key to truck operation, that’s true for a human driver and it’s especially true for automated driving systems. While Level 2 self-driving technology (adaptive cruise control working with active lane keep assist) is available today,"
     publishedDateTime: 2022-01-27T12:00:00Z

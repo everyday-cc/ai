@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
-excerpt: "The company formerly known as Facebook, Meta Platforms (NASDAQ: FB), just unveiled details for its new AI Research SuperCluster (RSC). It's a massive supercomputer housed in a data center, and once it's fully constructed in mid-2022,"
-publishedDateTime: 2022-01-29T12:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
-webUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
-ampWebUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
+excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
+publishedDateTime: 2022-01-29T13:20:00Z
+originalUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
+webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
+    width: 5408
+    height: 3605
+    isCached: true
 
 related:
   - title: "Meta Builds World’s Largest AI Supercomputer With NVIDIA For AI Research And Production"
@@ -151,6 +159,6 @@ related:
         height: 450
         isCached: true
 
-secured: "K5TMgw+J/aG8gFBbWmMtDu++l1GWGGmJAJDt+UgHfay/XaFi+WCB+hOQ83Wh6IXWLgihzgQFaRhKN2rTdFZZOEikHd/q+FUqo//Pggovl/nwIST6XzetwmNUsAKtYWLzjGu759oFRQxDts6qG8TbaFdMqmEVr5C9Zcn/I3SBInkwYnUtZ2f5+EZYqSLjQr9lUy5fos1QXrLdhJTIi+PJ0joI6nGlGRJ6bMfrYzhZY2tvFX6IIO6rjwnDF1A6MhEBRrNiKi+FlmkfSqp1xNEMbGf0ZN4Xnx69tMfi/iZVbTrE3EymIevxQnF2uzvQWr4ZIY378++I1Apk5c9sZnKW8BwfbApqrJacE8Y6xkylwCc=;83932wH8P0b8aGmaLJdNYA=="
+secured: "EBJbljZejSI3iyKgAWVXlXrDGeUQrhE1Yxk+Hvz4JKC52MIrDkKsZkHT94C7hLUhhsDM/fE7N9biP6IFPCIwaBAtYOqISK9rAklLEUT4egblyOkiNbAAEr9W+4aDp2wU9f+wdMdojzCSBAS7r4J007KXGcbKpTfUXko27O2eLAWCGCprGHgly/fr2RUDQoCwTGcO2qCu9RHgIlRsTAD5lfU1Qjs806dRIw/wYTVzjx1CEVxuPCZ/W+UyeilHy45V1Al2JQ5QD30OBvd5k7lglCldUYESTddwGUkRvLxrbu2+8LU0L5CwUawtSfZ8qyYMkBl/Sp5oi0nwm0dX1UV2GkG66thBEQEANep3eukBQfI=;C90jUzy/sqVIm/pmKCi41A=="
 ---
 

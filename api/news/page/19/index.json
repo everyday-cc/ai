@@ -2,6 +2,57 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-01-11-guardrail-failure-companies-are-losing-revenue-and-customers-due-to-ai-bias.md",
+      "title": "Guardrail failure: Companies are losing revenue and customers due to AI bias",
+      "excerpt": "New survey finds that 80% U.S. firms found problems despite having bias monitoring or algorithm tests already in place.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/guardrail-failure-companies-are-losing-revenue-and-customers-due-to-ai-bias/",
+      "originalUrl": "https://www.techrepublic.com/article/guardrail-failure-companies-are-losing-revenue-and-customers-due-to-ai-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/11/86ea3f01-d18a-4361-921d-fc674b5434f7/resize/1200x/b046696ef5abba127ca51750552bd7dc/shutterstock-2006436542.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/guardrail-failure-companies-are-losing-revenue-and-customers-due-to-ai-bias/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/guardrail-failure-companies-are-losing-revenue-and-customers-due-to-ai-bias/",
+      "publishedDateTime": "2022-01-11T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-drdo-recruitment-2022-applications-invited-for-research-fellowship-stipend-rs-31000.md",
       "title": "DRDO Recruitment 2022: Applications Invited for Research Fellowship, Stipend Rs 31,000",
       "excerpt": "DRDO recruitment 2022 has been announced at DRDO Young Scientist Laboratory – Cognitive Technology laboratory. The newly formed laboratory is involved in extensive research and development in the cognitive radio, cognitive radar and cognitive ...",
@@ -1104,48 +1155,6 @@
         "images": [
           {
             "url": "/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-lg-electronics-joins-ibm-quantum-network-to-research-ai-iot-and-more.md",
-      "title": "LG Electronics joins IBM Quantum Network to research AI, IoT, and more",
-      "excerpt": "The two companies plan to spend the next three years exploring applications of quantum computing to support connected cars, digital transformation, and robotics applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
-      "originalUrl": "https://www.zdnet.com/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
-      "publishedDateTime": "2022-01-10T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

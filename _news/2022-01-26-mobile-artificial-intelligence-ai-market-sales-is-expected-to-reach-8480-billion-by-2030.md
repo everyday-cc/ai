@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/mobile-artificial-intelligence-a
 webUrl: "https://www.digitaljournal.com/pr/mobile-artificial-intelligence-ai-market-sales-is-expected-to-reach-84-80-billion-by-2030"
 type: article
 quality: 60
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
         width: 1400
         height: 733
-        isCached: true
-  - title: "Global Speech Recognition Market Size is Expected to Reach $29.28 Billion by 2026"
-    excerpt: "Speech recognition technology catches and identifies the audio signals in the form of language and converts these signals into the machine-readabl"
-    publishedDateTime: 2022-01-25T20:41:00Z
-    webUrl: "https://menafn.com/1103593458/Global-Speech-Recognition-Market-Size-is-Expected-to-Reach-2928-Billion-by-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?920187"
-        width: 444
-        height: 250
         isCached: true
   - title: "Artificial Intelligence in the Cancer Market is anticipated to reach USD 5,292.8 million by 2030"
     excerpt: "Artificial Intelligence in Cancer to surpass USD 5,292.8 Million by 2030 from USD 297.3 Million in 2020 at a CAGR of 34.4% in the coming"
