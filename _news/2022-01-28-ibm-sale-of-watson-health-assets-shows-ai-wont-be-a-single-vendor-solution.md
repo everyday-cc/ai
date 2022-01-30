@@ -55,20 +55,6 @@ related:
         width: 960
         height: 460
         isCached: true
-  - title: "Three reasons why Watson-based AI might fail"
-    excerpt: "This week the story of an IBM Watson asset purchase by Francisco Partners is in the news. Perhaps not covered in this announcement are some of the reasons Watson-like-data-dependent AI might fail to provide the business windfalls anticipated."
-    publishedDateTime: 2022-01-26T05:16:00Z
-    webUrl: "https://www.linkedin.com/pulse/three-reasons-why-watson-based-ai-might-fail-brigitte-piniewski-md"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFUpjKlVrExnw/article-cover_image-shrink_720_1280/0/1643147426919?e=1648684800&v=beta&t=5EEdJPdEpcjnhcos3R9y7AwmkuKnQnM75wHGmolV_i4"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "IBM sells parts of Watson Health; what are the repercussions?"
     excerpt: "IBM Watson Health was an ambitious project introduced to use the core AI platform to help healthcare professionals analyse large amounts of data and assist in cancer treatment."
     publishedDateTime: 2022-01-28T05:30:00Z

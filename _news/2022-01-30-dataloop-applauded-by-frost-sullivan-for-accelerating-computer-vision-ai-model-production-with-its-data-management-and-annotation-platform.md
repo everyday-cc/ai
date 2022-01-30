@@ -2,9 +2,9 @@
 category: news
 title: "Dataloop Applauded by Frost & Sullivan for Accelerating Computer Vision AI Model Production with its Data Management and Annotation Platform"
 excerpt: "The platform helps enterprises accelerate computer vision AI model development by accurately labeling data through automated annotation. Comprising integrated deep learning algorithms with pre ..."
-publishedDateTime: 2022-01-27T19:43:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1232603&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1232603&cat=PR News Wire"
+publishedDateTime: 2022-01-29T18:43:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1233000&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1233000&cat=PR News Wire"
 type: article
 quality: 19
 heat: -1
@@ -43,8 +43,8 @@ related:
         isCached: true
   - title: "Dataloop Applauded by Frost & Sullivan for Accelerating Computer Vision AI Model Production with its Data Management and Annotation Platform"
     excerpt: "The platform helps enterprises accelerate computer vision AI model development by accurately labeling data through automated annotation. Comprising integrated deep learning algorithms with pre ..."
-    publishedDateTime: 2022-01-29T18:43:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1233000&cat=PR News Wire"
+    publishedDateTime: 2022-01-27T19:43:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1232603&cat=PR News Wire"
     type: article
     provider:
       name: Webindia 123
@@ -56,6 +56,6 @@ related:
         height: 366
         isCached: true
 
-secured: "D7QPnXuTNLhg4t1U3t4A5gx/FS2wt5tGZTs+AsDo3bXFjEKvdY2SVVoGKzxenThWMQuo6NCBNNWQSEqzR8yseFkt4TSoW41fKGwS7lYxoWBNV8EkPw4BUUtBO/vBhd9xs/4g1aBgKqxQXLB5HDVq17KyZ0trt7mChlbKkta4ai/ElTjJ5W7pTOQVyUEv6iyoM9tBk98ojGeCjmZJkUzrWDVOSowfWBHZbr2pq+mjZ3quuqx5cxuHcFSnR2N+YYwNqe64/3H8Ejnx2JznWwXOfy4ebf6fh6+p+lGEe8egEMc4qv4L0ozPLgHLtoxSDST6gPhy0eVqi+ko4ZFL8tdd7M/9Vc9Nhfa1e7TfqqGxarQ=;NPsUIAdglH2RoTX8XeldzA=="
+secured: "UWWM3n4L4B/yygiFvwWMok9AvEsAc3qNj7PSW/1wDwDDdbxeNnJ2a/q+1d25gqN4ss8oZq2GQFv91QF0HaujkePEfsWSvzR0qjScbF1lsFLfu847dESJbr1pMZNc/kPqGYfpqQ2Qrptjk16aMm5yBUs51CUo5a4br8pIjCrxSrEm7Am7JrXpveF4/fTXk8yKYxqcovlJHiOhJt842KlHHxgTf3fd/LOXovT17fx5MWywmP1IZkIgZB2lQQ5VRfHsVWRNhs8zZZHzeFncVBxueXDPW1DiAzLEjE767g/NgVgHVgc9+T8E6I1EhCTAW6jlMzW9CH41QSBWpCMahYVSreFaWOcFTbxQyKY/VHuVi4k=;ctQDP5hP/ukFq6N8lwxB+w=="
 ---
 

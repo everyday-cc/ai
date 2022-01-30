@@ -40,20 +40,18 @@ related:
         height: 300
         isCached: true
   - title: "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028"
-    excerpt: "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting"
-    publishedDateTime: 2022-01-27T09:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25252700"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25252700"
+    excerpt: "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting a CAGR of 11.1% between 2021 to 2028. In its report titled“Cryptocurrency Market,"
+    publishedDateTime: 2022-01-27T10:42:00Z
+    webUrl: "https://menafn.com/1103600603/How-Artificial-Intelligence-Will-Boost-the-Cryptocurrency-Market-to-Reach-USD-19025-Million-by-2028"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
     images:
-      - url: "https://www.benzinga.com/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?259979"
+        width: 444
+        height: 250
         isCached: true
 
 secured: "JRckwb7mJQ9FdWc2YL08dBodRD9+bGfDtiK6qlYOQlRVFjYsbp38xmmygfRrKwI5zdqn5BQUDZ2tuxVk8tcmOvZD7TY4j7Zrt/h5FCYadyWAkP9DioZxA7LdMYGsM2VNXiOkE79jerMSYHC28Pa1Jufy3KTsCkK54OY4IXQhdoX3INY90++SvYX0scHIgOSG4QZQdO13fEF6YvcuqmMxdLumSgRD2s4Pbl6RMlbazxftSULKke5i8IEQUcNs1Y6SCWIgQxjBLdsyTeMHDZgV0nbYPv+dBfjk3skvMaGcenRJRvKSXO2omVnFoXuxzZd6EcWArb5tZNubzrHeGHiGm4WMpyY3Kg5PG1x9cXfVcv2CBL1a6Yk1hH78rJ0/15Mv0+CBPgWORSfp3o92nhXSt3LNu7T8z6HP4IcKs+hxp1dLOmcgWqJL8e73YA/w/1miMacvM3ojFkh0rOvqT/zUHu//aHW/44jlPv+B3apQhxHxE6mc+CDLskrhR/cLRJ4N8uYr1RZ6ZeLb7QUsR8sKRw==;86FCFkji7Y8+5RVYlTfVfg=="

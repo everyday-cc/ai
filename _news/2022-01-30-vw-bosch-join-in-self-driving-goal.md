@@ -7,7 +7,7 @@ originalUrl: "https://www.arkansasonline.com/news/2022/jan/30/vw-bosch-join-in-s
 webUrl: "https://www.arkansasonline.com/news/2022/jan/30/vw-bosch-join-in-self-driving-goal/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Volkswagen teams up with Bosch for self-driving software to take on Tesla"
-    excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to develop a common software platform to bring hands-free driving functions to the German carmaker’s entire fleet in a bid to catch up to Tesla Inc."
-    publishedDateTime: 2022-01-26T05:13:00Z
-    webUrl: "https://mybroadband.co.za/news/motoring/431514-volkswagen-teams-up-with-bosch-for-self-driving-software-to-take-on-tesla.html"
-    ampWebUrl: "https://mybroadband.co.za/news/motoring/431514-volkswagen-teams-up-with-bosch-for-self-driving-software-to-take-on-tesla.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/motoring/431514-volkswagen-teams-up-with-bosch-for-self-driving-software-to-take-on-tesla.html/amp"
+  - title: "Autonomous and Self-Driving Vehicle News: Aidrivers, AVIA, Automated Bus Consortium, Bosch Cariad, VW, Owl AI & May Mobility"
+    excerpt: "In autonomous and self-driving vehichle news are Aidrivers, AVIA, Automated Bus Consortium, Bosch Cariad, VW, Owl AI and May Mobility. Aidrivers Partners with Ashok Leyland. Aidri"
+    publishedDateTime: 2022-01-30T21:51:00Z
+    webUrl: "https://www.autoconnectedcar.com/2022/01/autonomous-and-self-driving-vehicle-news-aidrivers-avia-automated-bus-consortium-bosch-cariad-vw-owl-ai-may-mobility/"
     type: article
     provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 38
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 12
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews2.png"
+        width: 640
+        height: 300
+        isCached: true
 
 secured: "Qe3az2ILlDOq3q5cHwi5tSVPSC2jODP8vJrjjDPj8GOQ58C+Hv1jkMU1H2fK4bAZx8YwBMG82Xp8Y3yz3IwqE2jgq1w4wd9yB1Je2+vZL4fiOIpOE+WdZUvoU99byHKeWTBdKXfZFxKavLVZm/snrSGLec4bFWW1RCRb+6tkQQqkX3gjrVv0gXfuiq5Jj5JCznNvNo7ML0rvh0IGZih55jIolhOxE7ostlXejWulAk20pA1cegJjgq93RO5j56yIzPzdDJXPABRns+v7b2NoxzJtNHH1iiXMp+N3fH3XVuS1rf4mKMcXEzpyMExzS97yDN4gObCbQaOP3BR4IQopz8/f+UwNkL4ZU465UUEUGMgUN/2+bRNfwcgxk+VoUhF1R1eMy/+jL40+1dArbYbmaU0as1cSfDAOqMhyZ/Kw5uIp6Tj0pXBfbtLV4fF5EbgkfyQDED65XSgrmvE0HnlKfBYZ8h5BnlocIEavQLpuyeFsYxtDFHPBjJEj2hWY10+ZW2JLJnw204uFRIgxxVWbwg==;Tu61CPF/zAelZS1ctN6pGQ=="
 ---

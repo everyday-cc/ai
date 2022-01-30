@@ -54,7 +54,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 53
+    quality: 57
     images:
       - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
         width: 5408

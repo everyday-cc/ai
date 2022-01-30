@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all"
         width: 1200
         height: 599
-        isCached: true
-  - title: "Infermedica raises $30M to expand its AI-based medical guidance platform"
-    excerpt: "Infermedica, a Poland-founded digital health company that offers AI-powered solutions for symptom analysis and patient triage, has raised $30 million in Series B funding. The round was led by One Peak and included participation from previous investors Karma Ventures,"
-    publishedDateTime: 2022-01-26T05:01:00Z
-    webUrl: "https://techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/"
-    ampWebUrl: "https://techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/Infermedica-team-Funding-round-2022.jpg?w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "DigitalOwl Raises $20M Series A Led by Insight Partners to Support Innovation and Growth"
     excerpt: "DigitalOwl, the first and only Natural Language Processing (NLP) technology for deeply analyzing and summarizing medical records, today announced a $20M Series A round led by New York-based global private equity and venture capital firm Insight Partners,"
