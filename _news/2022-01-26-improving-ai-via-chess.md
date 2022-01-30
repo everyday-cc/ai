@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Studying the big bang with artificial intelligence"
-    excerpt: "It could hardly be more complicated: tiny particles whir around wildly with extremely high energy, countless interactions occur in the tangled mess of quantum particles, and this results in a state of matter known as \"quark-gluon plasma\"."
-    publishedDateTime: 2022-01-25T15:17:00Z
-    webUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2022-01-big-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-big-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/studying-the-big-bang.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Studying the Big Bang With Artificial Intelligence"
     excerpt: "Immediately after the Big Bang, the entire universe was in this state; today it is produced by high-energy atomic nucleus collisions, for example at CERN. Such processes can only be studied using high-performance computers and highly complex computer simulations whose results are difficult to evaluate."
     publishedDateTime: 2022-01-25T21:34:00Z
@@ -71,20 +55,6 @@ related:
       - url: "https://scitechdaily.com/images/Quark-Gluon-Plasma-After-Collision-of-Two-Heavy-Nuclei-777x518.jpg"
         width: 777
         height: 518
-        isCached: true
-  - title: "Silicon Labs Brings AI and Machine Learning to the Edge with Matter-Ready Platform"
-    excerpt: "GHz wireless SoCs improve AI/ML performance by 4x using 1/6th the energy New AI/ML Software Toolkit Optimizes TensorFlow for all Silicon Labs SoCs."
-    publishedDateTime: 2022-01-25T15:03:00Z
-    webUrl: "https://www.automation.com/en-us/products/january-2022/silicon-labs-ai-machine-learning-edge-matter"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 48
-    images:
-      - url: "https://www.automation.com/getmedia/7621bd8c-87f5-4930-85c1-868be7c4a349/6be960b3-5c8f-467d-b8a7-88b872d0fbd5-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
         isCached: true
   - title: "Are You Cheating on Your Partner With AI"
     excerpt: "Not really. I mean, are you? Where can we draw the line? Let's imagine you arrive home to find your partner in the middle of a long, intimate chat with someone online."

@@ -110,20 +110,18 @@ related:
         height: 576
         isCached: true
   - title: "The IRS website will soon require facial recognition to log in to your account"
-    excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are.The verification process includes ..."
-    publishedDateTime: 2022-01-28T04:49:00Z
-    webUrl: "https://www.wbaltv.com/article/irs-website-require-facial-recognition-log-in-account/38918657"
-    ampWebUrl: "https://www.wbaltv.com/amp/article/irs-website-require-facial-recognition-log-in-account/38918657"
-    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/irs-website-require-facial-recognition-log-in-account/38918657"
+    excerpt: "Will Lanzoni/CNN Will Lanzoni/CNN The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are."
+    publishedDateTime: 2022-01-28T01:17:00Z
+    webUrl: "https://kesq.com/money/cnn-social-media-technology/2022/01/27/the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account/"
     type: article
     provider:
-      name: WBALTV11
-      domain: wbaltv.com
-    quality: 55
+      name: KESQ News
+      domain: kesq.com
+    quality: 35
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-6ec8311a306d734cff37afecd9169c92-h-5e29e7cf8867fe76703dc23bac8f7bfc-preview-1643331970715417697.JPG?crop=1xw:0.84713855421686746xh;center,top&resize=1200:*"
-        width: 500
-        height: 281
+      - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "gIoMlNWJpMipqilOlclLCxImEzYIRz2/ZkZ9nNB/LjpgFk9uxSPOE/Y2GlX5jc5h6dRQQP6yaZ3lpwblhTOjL7Fa+t9qkfT7Zn6Kp5hyeIvJx2KVa3Kh1ad8yMm5nHMxc3bH2PztP+DBjNQreZYE24q8dh61Gy6TjOofMeyV2J58b0+qndmke22SMFbJ+MJKsurVI05ZtvbhUvUxbe+tqXl3/Z39Tv/DcbUVPZ3craq1vZhXmm0ooF8QxT6Jc7e8iQoLXd2p+9dt+//anus0aCZB1UHZE04/6duWAOBGzUZfyan/jjrPGwaUpkgviMjDwwErW6simoybccxgOma6BWjkQcYQZYdmusAPO05hCuSZ6AFOdif7qqlFxtcmR3UvDyvlORq+wHxOl6G7C3NfiRsOFL49dplED7o4IORNGXRwzs4y++nJYjSq7WeDyO6EpfHm4/C/kSn5S7VcljMkeUBMJAXlKfjZvoS6OL7gbuBoyUjVGcvre+ZTvWGbsiLb0PD1jSnpxZEMGYMWeX6lew==;Ha85qEaH6QSMVYopXmlmag=="

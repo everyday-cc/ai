@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Assistive Robotics Market Size Projected to Reach USD 25.16 Billion at a CAGR of 22.1%, in 2028"
-    excerpt: "USD 5.05 Billion in 2020, Market Growth– at a CAGR of 22.1%, Market Trends– High demand from healthcare sector. NEW YORK, NY, UNITED STATES, January 25, 2022/ EINPresswire.com/-- Availability of insurance coverage for robotic surgeries and medical exoskeletons is driving market revenue growth."
-    publishedDateTime: 2022-01-25T15:47:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/assistive-robotics-market-size-projected-to-reach-usd-25-16-billion-at-a-cagr-of-22-1-in-2028"
+  - title: "Graphic Processing Unit (GPU) Market to Reach $200.85 Billion, Globally, by 2027 at 33.6% CAGR: Allied Market Research"
+    excerpt: "Allied Market Research published a report, titled, \"Graphic Processing Unit (GPU) Market by Type (Dedicated, Integrated, and Hybrid), Device (Computer, Tablet, Smartphone, Gaming Console, Television,"
+    publishedDateTime: 2022-01-26T13:40:00Z
+    webUrl: "https://www.lelezard.com/en/news-20209870.html"
     type: article
     provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 42
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 15
     images:
-      - url: "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "zUmKftQUI8tjCS8AmdpL8OaTFJtKiZo6Hnz8cYLZlG/Q79dm54jqJBNRnk9Rtt2RGc76dVwNcsx9pPOYeD0z2yxR7Og+XYzCmc5xRdBR+Il4rJyrMe0PWcL8ekOMoosDqN2/8W2o7ezr3LMQptOzY5SZL9yGQy4i1/J3PKLzKrT4eQkIuPI7HMXXAuOpUag4e/ZKjY5WdYL7D0dx5N/kq8adKcDyRqXpMiSDzhMHhM1avZi70aAGx5e8VspUeb/u87kYM6lcGiGdBXiS8rB75v8X7u9/dpUP53KTlwIyhD9zVeGeLpL+J50QTEbDxKzmnLnTSbQGr4q6B1CJIam1rKYL+vZ0F6Q3Rc9xQX7DDyxVueX6GUKKGLIfOYU4m3ED9bKrTUZfGjQGoynvFWgon3B909gvfM7yNhZefYE8RfT1OfPMJHQt4hESL0VB6dGtZ88TGAtCjaJGOqIooH2OM2T8uA4dt457S5/a3TFCAQCfihpfwvtm8MstXV3Zhpu6qIknhedvxpXYd2gDt1n+FA==;afU0Mr0ikwtB2tGUCQ2lSA=="

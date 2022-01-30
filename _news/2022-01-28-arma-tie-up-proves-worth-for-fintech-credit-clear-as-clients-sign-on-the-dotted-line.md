@@ -52,20 +52,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Torpago analyses the future of the Fintech market basing on the trends for 2022."
-    excerpt: "Brent Jackson is the Chief Executive Officer & Founder of Torpago analyses the future of the Fintech market basing on the trends for 2022."
-    publishedDateTime: 2022-01-25T16:42:00Z
-    webUrl: "https://anthillonline.com/future-of-fintech-market-basing-on-the-trends/"
-    type: article
-    provider:
-      name: Login - Anthill Online
-      domain: anthillonline.com
-    quality: 19
-    images:
-      - url: "https://anthillonline.com/wp-content/uploads/2022/01/fintech-1.png"
-        width: 728
-        height: 800
-        isCached: true
   - title: "Fintech Trends to Drive 2022: Growth of Buy Now Pay Later and Increased Investments in Technology Enabling Financial Inclusion"
     excerpt: "When looking at 2021 in review, two fintech trends factor prominently -- Buy Now, Pay Later (BNPL) and technology driving financial empathy/inclusion."
     publishedDateTime: 2022-01-28T18:57:00Z

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "The IRS website will soon require facial recognition to log in to your account"
-excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are.The verification process includes ..."
-publishedDateTime: 2022-01-28T04:49:00Z
-originalUrl: "https://www.wbaltv.com/article/irs-website-require-facial-recognition-log-in-account/38918657"
-webUrl: "https://www.wbaltv.com/article/irs-website-require-facial-recognition-log-in-account/38918657"
-ampWebUrl: "https://www.wbaltv.com/amp/article/irs-website-require-facial-recognition-log-in-account/38918657"
-cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/irs-website-require-facial-recognition-log-in-account/38918657"
+excerpt: "Will Lanzoni/CNN Will Lanzoni/CNN The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are."
+publishedDateTime: 2022-01-28T01:17:00Z
+originalUrl: "https://kesq.com/money/cnn-social-media-technology/2022/01/27/the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account/"
+webUrl: "https://kesq.com/money/cnn-social-media-technology/2022/01/27/the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account/"
 type: article
-quality: 55
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-6ec8311a306d734cff37afecd9169c92-h-5e29e7cf8867fe76703dc23bac8f7bfc-preview-1643331970715417697.JPG?crop=1xw:0.84713855421686746xh;center,top&resize=1200:*"
-    width: 500
-    height: 281
+  - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -122,6 +120,6 @@ related:
         height: 576
         isCached: true
 
-secured: "FhldexCdeywMR6y8lqwAsCJQ6a5A2v6ECjO6Bl4tgHOaGUvuOR0QLPfmbPWlhjOjvLrGbh1C7jZBzoEC3DrNcS6ouAeU8RyL83DlSOUqdJf+heoFesICAzjbgetySi23QTm4y2wXVEUB8JbrnKec1wSsyoQtJkVan7gfwyhUBzTiJPMiPfDSVs2UO5qfADth+wQ1oa6TvDJCl0mafvJKj1fMe+PXrkrwfB91RADqRCdfgMMarNwGVXV7a+EXoa1lRTrYtULdFGaLwcAG3Gl4yau7c88HG+r/fyEImBYAHiqlm3D7jSS1grJ4trgdu22jG6TG2qdFQIpfAKqAfos2iYWJbBDaf5Ug3HImCJnpx/8=;xX9yImYXszc/YoXQtxTr1Q=="
+secured: "SxrGMO/bYhoPYUERHhbSAaWcj5+fxypYYTswGrv+kn0JA0VXEngKS9gFw1gv+nIM3r2QPhqyUJddQa49PoSjj76PdjoDZP1iyHS8JJ+mv5mwgwB2uGsWgU4KVKW/6PR4A4/hvNBczH96b9LY0NE7SlrcocWI2hcWfGTdj6rsCtLGZhBxTgKhARBtIZSbmWfdbrtmQL8+b3dDCwJZTK/S21kwnQRkUr63CBgCuxrDErN5jqJr4+bceHwir6sAcySAskKqVnyDoWTCryLThKEQ6TYtLaZdeBqSEJEb3T+1NRH54gHeWcdhcPkKpjF/k1oxAnK95ioUyswpehXvP1yZ9lYOUJY+VlHAOoc1Nhx7IrQ=;jYmXwKVcW4RojyZKMoH62A=="
 ---
 

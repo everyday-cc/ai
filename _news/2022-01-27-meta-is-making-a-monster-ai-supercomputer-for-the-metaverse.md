@@ -77,20 +77,6 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "Meta Building Massive AI Supercomputer for Metaverse"
-    excerpt: "Meta is building a massive GPU-driven supercomputer to run its artificial intelligence (AI)- and machine learning-driven workloads that will be key to the development of the metaverse."
-    publishedDateTime: 2022-01-25T15:10:00Z
-    webUrl: "https://thenewstack.io/meta-building-massive-ai-supercomputer-for-metaverse/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 39
-    images:
-      - url: "https://cdn.thenewstack.io/media/2022/01/db5ea1cd-metaverse-gebd5d43ae_640.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Microsoft invokes metaverse when describing future for Teams, Xbox and devices to investors"
     excerpt: "After a relatively blockbuster-like Q2 earnings performance, Microsoft CEO Satya Nadella veered into metaverse talk as he prepares investors for the company's"
     publishedDateTime: 2022-01-26T14:44:00Z

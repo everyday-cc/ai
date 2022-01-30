@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-01-machine-emergency-departments
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-emergency-departments.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medical Xpress
@@ -41,15 +41,6 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "U of M researchers find machine learning supports M Health Fairview emergency departments"
-    excerpt: "The team found that the tool can be developed, validated, and implemented as clinical decision support across multiple hospitals."
-    publishedDateTime: 2022-01-25T15:49:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/941174"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 25
 
 secured: "2idPOvrkBON4tfRVan2tm7Z6u6IM9t23A5+hhXsG0aDS77pkpk3a+1q1HJYXtYRu+WdqLTCrQ7aLnevx6nN/tcOQRXkHKx2slsY1Q8XbjUvwfNPrZ4Iy7KdSwndT8DFwwjUIFuWOAsHlWYfxbN0CxsXWt/ZAaGmTIq7JOXClGOx1F3IReSXvhBfqStxkjuiD7KVTZntzNzqQxXMfCxjLGxX65THEjHCvBxDzzlSAIy+HQoWExld6xwglaMW0ryZ4f+moocdh4RFFBZKQymNufa2AyWi4Ind7mD4pk7TuMBnbZ5z9Z5e9qslqFEtm6itLsUJ8kUx9Xn3TduxJQDiXrLtgfX8foqZrJd4VXl1emO4=;pyq5ad8Dh/KhhxjhtBfGUw=="
 ---

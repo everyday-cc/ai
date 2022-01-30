@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "JD Technology, fintech unit of China’s JD.com, engages banks for Hong Kong IPO that could raise up to US$2 billion, source says"
-    excerpt: "JD Technology is targeting as much as US$2 billion in a Hong Kong IPO, which could make it the fourth JD group company to be listed in the city."
-    publishedDateTime: 2022-01-25T16:06:00Z
-    webUrl: "https://www.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong"
-    ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong"
+  - title: "Estonian Core Banking Fintech Tuum Acquires €15M via Series A Round"
+    excerpt: "Estonian Fintech company Tuum, the next-generation core banking platform, has announced a €15 million Series A round."
+    publishedDateTime: 2022-01-27T12:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/01/186166-estonian-core-banking-fintech-tuum-acquires-e15m-via-series-a-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/01/186166-estonian-core-banking-fintech-tuum-acquires-e15m-via-series-a-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/186166-estonian-core-banking-fintech-tuum-acquires-e15m-via-series-a-round/amp/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 76
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/25/d94b0b70-3d84-42ab-a198-db3e5316c492_cc8ac43c.jpg?itok=5M0UU_uZ&v=1643095588"
-        width: 1200
-        height: 630
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Bank-Banking-Ask-Us-How.jpeg"
+        width: 1075
+        height: 1280
         isCached: true
   - title: "FinTech & Tech Lending are challenging bank loans"
     excerpt: "ArK Kapital’s Head of Denmark is doing a series of articles for the Danish tech media @Bootstrapping, where he will cast light on the evolution of tech lending. We will publish the English versions in our web page."
@@ -56,6 +56,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE078_o9tHY4g/article-cover_image-shrink_720_1280/0/1643191035445?e=1648684800&v=beta&t=8-bVZlC5gx2yEWHBMrvUTNif6fxjML8ihKcpEd8dHHE"
         width: 850
         height: 720
+        isCached: true
+  - title: "Core banking startup Tuum raises €15 million"
+    excerpt: "Estonian core banking supplier Tuum has landed €15 million in funding as it prepares for expansion outside the EU."
+    publishedDateTime: 2022-01-27T01:12:00Z
+    webUrl: "https://www.finextra.com/newsarticle/39586/core-banking-startup-tuum-raises-15-million"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/tuumfounding-team.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "ieMJJE0VKBf7nHoqIjHoeBUMj+zfp12rSo4LttzhhkV9VKDchiU52Y1yrZArLvSEuG1+KNVESwXzJKF2gZ5sfXPtMLmwXqk/WayT3HL8GaHeQH1DGQw6EOBUYgDD6ycOD2olAqvZmvASw/+jjM0EpbnYeAeNkClagXZ0uWSikCY3kKc6YFOTMRkyDmAgZLYTcrkuqtnuISyTvn1CQkuG33NxE+boTFbNNleYtBzy3SXBTYeSB5PXMekDNNpxKo2W8L9VD2AKrDXDRoc0xtvyIUjnbNUGYjzpLyTImlKDedbKbSEocZ1qzcwDM5LcsdL8ENkAf+IEFIIwDx45T7kYvJBhffu7NA9kfOVMQQcCMOGqqsy6VUbg7FmBiood17KvlURWR46jAXsaRvjzFj076uMM7maeYSn+GDPKJuw56Ppn6z0xtnmNMBCYyE5PGCygWo6lpob6T2reusRcu5v0xMsV8Z2q06B8E+nLXWiBTjvB0R3AXpROx7yFS1vE5r+I7i9XQmjMQ7gmjKLR/Vv4kg==;uvevfZUCihRPpebZdQZC7A=="

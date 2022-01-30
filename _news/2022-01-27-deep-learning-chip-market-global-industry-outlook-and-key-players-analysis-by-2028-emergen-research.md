@@ -42,15 +42,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "U of M researchers find machine learning supports M Health Fairview emergency departments"
-    excerpt: "The team found that the tool can be developed, validated, and implemented as clinical decision support across multiple hospitals."
-    publishedDateTime: 2022-01-25T15:49:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/941174"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 25
 
 secured: "y4PS1iKqzBuywVhB87Fy9LFcwv11XSS3cTSP2LFHsr3KX1mQqLSe53rIEeej4xjO5ylRc5MnuvXUIUr0Y5lO/yYH26byrbS5SR2X6q2TWQvNuSmJAMreH2W7GdSAXsZ78lPrQsYcrptVB/kvHpk0Dsjt8J90zZ3tlfwqMNI+9OllMP3vgr2V+mBG/FxL3SRW7WZi0sEEhwT2j5iCcwAk1KR1zgOyACIfDF/aQSpu0QHd6Jg750kwxrVu633VEwfPosVcToEcVxFWcgo6zaWyaQYG/RwoF2PtGg2Pzu7D10TuVMGUJSiF9gM4IoOsNU6a7CYhpiElaNY7YGYgjUj4r4jLWtfH5nSebJNrjou0L5U=;RgmZU3TCyikO1sI3dBf9/Q=="
 ---

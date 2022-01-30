@@ -2,39 +2,25 @@
 category: news
 title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
 excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-publishedDateTime: 2022-01-25T16:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+publishedDateTime: 2022-01-25T16:38:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
 type: article
-quality: 21
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
 
-related:
-  - title: "ArkX partners with Sensory on voice biometrics integration"
-    excerpt: "ArkX Labs partners with Sensory to incorporate its voice and face biometrics tools within ArkX's production-ready EveryWord touchless voice solutions."
-    publishedDateTime: 2022-01-28T22:56:00Z
-    webUrl: "https://www.biometricupdate.com/202201/arkx-partners-with-sensory-on-voice-biometrics-integration"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
-        isCached: true
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "yWYgqc0lTZR1KIW40s8TuXqAn1g3GLt6vxwPuNftTTvkfSTVyz0uRILdOi/4I7oKwX3GOn+a4nsfpshu7+1rvgR1LDgYH4kKoRybC9O95F16XJesgX6VN0hdfvG5IDP/NKDHnck+xr7TF9GMtSiO/tESd38fp+NCmhrz8dEHlYxnkae7cQzyFsP4WJIM+cGxCmki6KcI7yAjsQSQAQl00ZqDIDjq8g8KC/HH/Sps+rlUsB1952uUkXtiQwIrj4TUHkq+zynQryFAO+JaDorFUVCl9/je1TxNPwqyVY92FH7/L01RwYSO0RBT35iusHN7E0N6jFiamkd8AS95TK+yycBxJbGCVAvodL7g4U0BStI=;pdjRQh9ysjmFXtYkTC40Hg=="
+secured: "/cdzHSI9yGwFBLBUTTozRGLdZ/qd956EkwmxLwdQMSDO95/xybgAztsRzBXHIG2YmeX0YKoQ0og30ZU6aVR1R5dbPrJREY+cj362wQeaav+AQbGNzM8NJunDqCP+idrxNpR9R44mlXgI7V4Xudot6Et7zP4rte10o6jjG3EHHeZkbneARDJUoDN2NOKkeNMo4ebS19yHgsC2lkPDChKN0Q5+sY/fLjCH7iOq5YJ8dRNFeOfamJTyS3ljsOw5UtZD5y1XLyI9nL6onbEpuSWfa0fnnGWt/EYhcoFB476k42p+riSz7NRHvqsCEObKzBNoBaGGhlA1JEoMNN43farY9XlIYx5Y9LyK89VvIadSJeE=;inTJmgULSci3Hx7qbamKbA=="
 ---
 

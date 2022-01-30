@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-definin
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
-    excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
-    publishedDateTime: 2022-01-25T16:13:00Z
-    webUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer"
-    ampWebUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
-    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
+  - title: "Meta's new AI supercomputer: 16,000 x GPUs, insane 175PB bulk storage"
+    excerpt: "Meta's new AI Research SuperCluster (RSC) is a metaverse and AI beast -- 16,000 GPUs, 16TB/sec training data, 175PB bulk storage."
+    publishedDateTime: 2022-01-27T01:28:00Z
+    webUrl: "https://www.tweaktown.com/news/84227/metas-new-ai-supercomputer-16-000-gpus-insane-175pb-bulk-storage/index.html"
     type: article
     provider:
-      name: Cheddar
-      domain: cheddar.com
-    quality: 61
-    images:
-      - url: "https://img.chdrstatic.com/media/85c6e7bd-ac1f-49b6-9a01-b21a20453acf.jpg?width=1200&source=backend&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "UZjDPMpbJ8t5j7Xc3BtrwlYg6uQSXvX7T5b/Fq1iXutG5o29/gKEKsCeYt/YuHzZpdVTjqwe2K/kCOrveaPd9Ze8URKRkmGCcO0rd21Es7MkIv7Yft+iP6e4vm116mDmJ/4uosivDULMvZ+HWnLObaNzfyXJz2mRCukHHLnzv5TQ11bFPps+ol/+TOMu7nPrsaqcndzq3DWrNyW38EUcpfrfPEVdYLfT9WLHCRRhvJoi+oPqlAJXC4Q45N/ND7DM6CRCnO7CJe0BfTo48qwIO05jB/l7zVW+mJ35aMkia8EajmFD+KSgnBft2Ws6pud0MRxi5/cPNgWEYi9Fudx6CiqenNfyr1tnV/LbvVXrpY4=;bUh8byTKP/ZOVkICsKrA3A=="
 ---

@@ -89,20 +89,6 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "Meta Building Massive AI Supercomputer for Metaverse"
-    excerpt: "Meta is building a massive GPU-driven supercomputer to run its artificial intelligence (AI)- and machine learning-driven workloads that will be key to the development of the metaverse."
-    publishedDateTime: 2022-01-25T15:10:00Z
-    webUrl: "https://thenewstack.io/meta-building-massive-ai-supercomputer-for-metaverse/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 39
-    images:
-      - url: "https://cdn.thenewstack.io/media/2022/01/db5ea1cd-metaverse-gebd5d43ae_640.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "wI+r81dWwEpsy05R3lx4Klh4rxcQVpFT5P3QRA8QxO/RywHRGdeU4Ds5gd77UkS/kb4aSH8OkVqRIYpPTSnI3I15gux4J7HeBgshxto0gBRUqLK35GXGyihi8KngAqSfzVe7RA0Om7ql67ZqHy+ntU6a0Pt9bp94OzF/hmoBYn088H1HFqNiRLh5Q1YktLNgGIsneF/r9QwwaY0mCalaGORwcXN12k1W+qnuHAdrFnj8ztGoLbBeYikbT+RMFhVwAkicEscI/i5gqm2jGhUEgoXUn5xfaZZLJ4AJEJu35E3ZfJW7+zHvaW3/65l2AyAeclXoXAlhOLDh9mkbuSRhY/6TqJzy+4g6KtMqkrGOkUYK2XKPmNzr/9UqeJE7W/oF2tk4vyvRqXjlL8sbdxdzx/5WPmNsE0q3YATN11px+gfikR0grdcFw8xKn43RmH0IZph7cheak6kyhfHXp0EWPLSN49yj4zJERD1yRCijKmNTGgM7cXbJAJnhiKETs4OBBcfyBKoM+W3Z8M955uB+ug==;40xGDAvsfTeDQfhsc2BAjw=="
 ---

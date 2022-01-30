@@ -104,16 +104,19 @@ related:
         height: 423
         isCached: true
   - title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
-    excerpt: "The company formerly known as Facebook, Meta Platforms (NASDAQ: FB), just unveiled details for its new AI Research SuperCluster (RSC). It's a massive supercomputer housed in a data center, and once it's fully constructed in mid-2022,"
-    publishedDateTime: 2022-01-29T12:20:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
-    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
+    excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
+    publishedDateTime: 2022-01-29T13:20:00Z
+    webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 53
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
+        width: 5408
+        height: 3605
+        isCached: true
   - title: "More productive coating and repair with Artificial Intelligence"
     excerpt: "A German-Canadian consortium is now tackling this with Artificial Intelligence (AI): Thanks to new software for process control, laser material deposition, in particular, shall be automatically ..."
     publishedDateTime: 2022-01-27T09:32:00Z
@@ -127,20 +130,6 @@ related:
       - url: "https://files.idw-online.de/corona_idw.png"
         width: 615
         height: 284
-        isCached: true
-  - title: "Meta, NVIDIA Team Up to Build AI Supercomputer"
-    excerpt: "Meta and NVIDIA have announced that they are working on building a massive AI supercomputer. The AI Research SuperCluster (RSC) is currently training new models to advance AI. The RSC is expected to be the largest customer installation of NVIDIA DGX A100 systems once it is fully deployed."
-    publishedDateTime: 2022-01-25T15:10:00Z
-    webUrl: "https://www.unite.ai/meta-nvidia-team-up-to-build-ai-supercomputer/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:500/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/272129674_454504216213565_903503002058288683_n.jpg"
-        width: 1000
-        height: 417
         isCached: true
   - title: "Researchers Build AI That Builds AI"
     excerpt: "By using hypernetworks, researchers can now preemptively fine-tune artificial neural networks, saving some of the time and expense of training."

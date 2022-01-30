@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "JD Technology, fintech unit of China’s JD.com, engages banks for Hong Kong IPO that could raise up to US$2 billion, source says"
-    excerpt: "JD Technology is targeting as much as US$2 billion in a Hong Kong IPO, which could make it the fourth JD group company to be listed in the city."
-    publishedDateTime: 2022-01-25T16:06:00Z
-    webUrl: "https://www.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong"
-    ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong"
+  - title: "Estonian Core Banking Fintech Tuum Acquires €15M via Series A Round"
+    excerpt: "Estonian Fintech company Tuum, the next-generation core banking platform, has announced a €15 million Series A round."
+    publishedDateTime: 2022-01-27T12:35:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/01/186166-estonian-core-banking-fintech-tuum-acquires-e15m-via-series-a-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/01/186166-estonian-core-banking-fintech-tuum-acquires-e15m-via-series-a-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/186166-estonian-core-banking-fintech-tuum-acquires-e15m-via-series-a-round/amp/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 76
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/25/d94b0b70-3d84-42ab-a198-db3e5316c492_cc8ac43c.jpg?itok=5M0UU_uZ&v=1643095588"
-        width: 1200
-        height: 630
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Bank-Banking-Ask-Us-How.jpeg"
+        width: 1075
+        height: 1280
         isCached: true
   - title: "5 BI Technologies Shaping the Future of Fintech"
     excerpt: "Business intelligence (BI) technologies are the data refineries of the modern age, shaping the development of fintechs and determining the direction that financial services will take for the long term."
@@ -60,6 +60,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2022/01/Depositphotos_196650486_XL-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "Core banking startup Tuum raises €15 million"
+    excerpt: "Estonian core banking supplier Tuum has landed €15 million in funding as it prepares for expansion outside the EU."
+    publishedDateTime: 2022-01-27T01:12:00Z
+    webUrl: "https://www.finextra.com/newsarticle/39586/core-banking-startup-tuum-raises-15-million"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/tuumfounding-team.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "lJLd3bz4mCEp8ZGiJ8HWqBQpyJ78RFZJJ9nvFKhor5PdVSZPQlKrjHYirLi0gu8Wm2kDVtCarccLjWBFkRtoOxgL6JMajcoQnt9nlFq6/ly4Q6RK1EhnVwAXrSRUxAO1YiqazhPyyiRWaGjrL8T4ep5skuRjkoDuZz+rbo8efoRxhORiBs4TJ0HYdiNLIM6IKJ6Hr5oj9CDVfzCGJ5LNijUS0YiysDzwRZuN2r+RWYXxgQCB3OgWepf0RzoyVV+Ga/V/YBA937Y+7ikriIyicucEcYayVL7dlDQiY/df3grbAyO3X4b3uvJ1vACQvlFoW3ul8gSR4De3R7SD5BFLB0YTzXfhFU4CdsALsAOJQ4p2RtYW4K/vBsqiVPy1bFl86xt0Rv+yTrxhZj53dS/vZMInouJxK5B5uN5VrGaTs4iA8h7zXLvX27mftqlgDeyCERO+tpWjL38+JW0XZWJpifrNeTxP9EZnwONmO3pF0K3cpGwAAvTOBzAhRzILl+IZD5ED2nwz2HgdHsE/F1Eevg==;6Eug2sH8QTT+MVI8iURUEw=="

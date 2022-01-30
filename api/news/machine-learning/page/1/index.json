@@ -160,6 +160,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-26-studying-the-big-bang-with-artificial-intelligence.md",
+      "title": "Studying the Big Bang With Artificial Intelligence",
+      "excerpt": "Immediately after the Big Bang, the entire universe was in this state; today it is produced by high-energy atomic nucleus collisions, for example at CERN. Such processes can only be studied using high-performance computers and highly complex computer simulations whose results are difficult to evaluate.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/big-bang-ai-19963/",
+      "originalUrl": "https://neurosciencenews.com/big-bang-ai-19963/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2022/01/ai-big-bang-neurosinces.jpg",
+          "width": 770,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://neurosciencenews.com/big-bang-ai-19963/amp/",
+      "cdnAmpWebUrl": "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/big-bang-ai-19963/amp/",
+      "publishedDateTime": "2022-01-25T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-machine-learning-is-going-real-time-heres-why-and-how.md",
       "title": "Machine learning is going real-time: Here's why and how",
       "excerpt": "Organizations are turning to machine learning because of the return on investment. The ones doing it in real-time are topping the charts.",
@@ -199,49 +242,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-researchers-find-machine-learning-supports-emergency-departments.md",
-      "title": "Researchers find machine learning supports emergency departments",
-      "excerpt": "Researchers from the University of Minnesota Medical School recently published findings PLOS ONE that evaluated the real-time performance of a machine learning (ML) that supported clinical decision-making for emergency department discharge at M Health Fairview hospitals.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-01-machine-emergency-departments.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-01-machine-emergency-departments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/emergency-department.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-01-machine-emergency-departments.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-emergency-departments.amp",
-      "publishedDateTime": "2022-01-25T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
