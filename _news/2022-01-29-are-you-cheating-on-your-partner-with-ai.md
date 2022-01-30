@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "More productive coating and repair with Artificial Intelligence"
-    excerpt: "A German-Canadian consortium is now tackling this with Artificial Intelligence (AI): Thanks to new software for process control, laser material deposition, in particular, shall be automatically ..."
-    publishedDateTime: 2022-01-27T09:32:00Z
-    webUrl: "https://idw-online.de/de/news787322"
+  - title: "Your Brain on AI: Artificial Intelligence is “creating a world without choices”"
+    excerpt: "Artificial intelligence goes far beyond just music or clothing recommendations which poses unforeseen risks for all of us. In his new book “The Loop”, NBC News Technology correspondent Jacob Ward warns AI is eroding our ability to make decisions on our own."
+    publishedDateTime: 2022-01-30T17:52:00Z
+    webUrl: "https://www.msnbc.com/ali-velshi/watch/your-brain-on-ai-artificial-intelligence-is-creating-a-world-without-choices-132034629576"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo132034629576"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo132034629576"
     type: article
     provider:
-      name: idw
-      domain: idw-online.de
-    quality: 52
+      name: MSNBC
+      domain: msnbc.com
+    quality: 68
     images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_01/1643564989499_n_velshi_jake_ward_220130_1920x1080-thuisp.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "a3VukD5X4hlgm1p+Agu075yCDaQN83sC7trkH5a62Fl5TzfkfoxxB9JV+NdH7e/CNEdNoMcCpM03O8fQyQWg+APA1VA68rXokp2FxA0hR3Tuo3nDGo3BBOrN/eCqykMnUS6zxapGAxrPbKqH1eVvKTyVQgLwpv7z489svK6Zx1KGQEtUo/o7/O6jJpp7AGiyucf7FydkHKOhwp2KiRU2I7mv7kCYOcBp/kRT23lJEhhSJcnSS/VLQoybTDYj44MoS6S874VI+e+XxSAcO2uDvx8hoFz4VMpllA8fNIY/VD7asj5NPsCMngd2N7UIBIsgU3idYFxBn4NHI3qojCfhKQ0XqurEIjf4oBwr7H7y2MdMW46wLWOdXevsymT9t3M/qIJy79DH8r0cqvO6SviumGF7IwKZ9yKjJSXT3FitD8kQKE//CsmoAwO4s06ejNYhvuqqXrOOqWGKMo7bFDKshnyiB2JRUPmfGvRLV0pMg1ZHU+5/KS/LgnSo4xDqHdaiFZ/QQbiZDlD6W573v08nSQ==;9AHZnoVxRTuwGK9kdTMimw=="

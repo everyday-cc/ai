@@ -2,6 +2,60 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-25-machine-learning-and-artificial-intelligence-implementation-in-practice.md",
+      "title": "Machine Learning And Artificial Intelligence: Implementation In Practice",
+      "excerpt": "When it comes to AI, more and more companies are facing a choice: whether to develop a project using a traditional approach (predefined rules) or with the implementation of ML (teaching machines to do something not by instruction or logic but by examples or some kind of feedback).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61eebc8aace40667193daae5/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/amp/",
+      "publishedDateTime": "2022-01-25T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google.md",
       "title": "Tunisian enterprise AI startup InstaDeep raises $100M from Alpha, BioNTech, Google",
       "excerpt": "A recent survey carried out by CNBC reported that 81% of executives worldwide say AI will play a prominent and critical role in how their businesses operate this year. Companies are phasing from the first generation of AI,",
@@ -1172,49 +1226,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases.md",
-      "title": "Could artificial intelligence help people survive one of the world's deadliest diseases?",
-      "excerpt": "Sepsis is responsible for one in five deaths worldwide, and is likely an underlying cause of COVID-19 deaths. Now a Vancouver immunologist says he's found a key solution using artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
-      "originalUrl": "https://www.bowenislandundercurrent.com/highlights/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vmcdn.ca/f/files/glaciermedia/images/health/neeta-long.jpg;w=1000;h=734;mode=crop",
-          "width": 1000,
-          "height": 734,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
-      "cdnAmpWebUrl": "https://www-bowenislandundercurrent-com.cdn.ampproject.org/c/s/www.bowenislandundercurrent.com/amp/coronavirus-covid-19-local-news/could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases-4978338",
-      "publishedDateTime": "2022-01-24T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bowen Island Undercurrent",
-        "domain": "bowenislandundercurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

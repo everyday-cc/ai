@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-26-farm-to-table-ai-will-change-how-people-work-and-innovate-in-2022.md",
+      "title": "'Farm-To-Table' AI Will Change How People Work And Innovate In 2022",
+      "excerpt": "In looking to assert more control over the crown jewels of intellectual property, more companies are joining what I call the “farm-to-table\" AI movement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/farm-to-table-aiwill-changehow-people-workand-innovatein-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/farm-to-table-aiwill-changehow-people-workand-innovatein-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61eff9e3691abc89c9c99297/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/farm-to-table-aiwill-changehow-people-workand-innovatein-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/26/farm-to-table-aiwill-changehow-people-workand-innovatein-2022/amp/",
+      "publishedDateTime": "2022-01-26T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-slimai-lands-31m-to-make-container-security-easy-for-developers.md",
       "title": "Slim.AI lands $31M to make container security ‘easy’ for developers",
       "excerpt": "Slim.AI offers developers a platform for container security and optimization, built on the DockerSlim open source project.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -568,31 +620,22 @@
       "title": "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition",
       "excerpt": "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T08:38:00-08:00",
+      "publishedDateTime": "2022-01-25T08:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -602,8 +645,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1107,60 +1151,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-machine-learning-and-artificial-intelligence-implementation-in-practice.md",
-      "title": "Machine Learning And Artificial Intelligence: Implementation In Practice",
-      "excerpt": "When it comes to AI, more and more companies are facing a choice: whether to develop a project using a traditional approach (predefined rules) or with the implementation of ML (teaching machines to do something not by instruction or logic but by examples or some kind of feedback).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61eebc8aace40667193daae5/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/amp/",
-      "publishedDateTime": "2022-01-25T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

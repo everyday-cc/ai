@@ -43,22 +43,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Self-Driving Car Users Shouldn’t Be Held Responsible For Crashes, U.K. Report Says"
-    excerpt: "Proposed legal reforms would give U.K. self-driving car users immunity from offenses like dangerous driving, speeding and running red lights."
-    publishedDateTime: 2022-01-26T01:23:00Z
-    webUrl: "https://www.forbes.com/sites/zacharysmith/2022/01/25/self-driving-car-users-shouldnt-be-held-responsible-for-crashes-uk-report-says/"
-    ampWebUrl: "https://www.forbes.com/sites/zacharysmith/2022/01/25/self-driving-car-users-shouldnt-be-held-responsible-for-crashes-uk-report-says/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zacharysmith/2022/01/25/self-driving-car-users-shouldnt-be-held-responsible-for-crashes-uk-report-says/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61f0abef6ac9f3ba6246d1ec/0x0.jpg?format=jpg&crop=4193,2360,x0,y411,safe&fit=crop"
-        width: 4193
-        height: 2360
-        isCached: true
   - title: "Can self-driving car be jailed for causing accident? World wonders who to blame"
     excerpt: "Autonomous or self-driving cars aren't a fantasy but are already charging down the automotive path in many parts of the world..Are self-driving cars capable and are these safe? Can such vehicles use artificial intelligence to make our own skill and intelligence seem rather redundant?"
     publishedDateTime: 2022-01-26T04:15:00Z

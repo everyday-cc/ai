@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Shield AI awarded max AFWERX STRATFI contract focused on operational, intelligent swarming aircraft and eVTOL autonomy"
-    excerpt: "Shield AI, the aviation autonomy company using self-driving software to enable collaborative teams of unmanned aircraft to operate in GPS- and RF-denied environments, today announced that it has been awarded the maximum amount through the Air Force's Strategic Funding Increase (STRATFI) Program,"
-    publishedDateTime: 2022-01-27T22:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/shield-ai-awarded-max-afwerx-stratfi-contract-focused-on-operational-intelligent-swarming-aircraft-and-evtol-autonomy-1031137279"
+  - title: "Play-to-earn strategic partnerships level playing field for AI data collection with big tech"
+    excerpt: "The play-to-earn model is more than fun and games; it is also an opportunity to train AI data. The world continues to raise excitement for artificial intelligence, boosting demand for associated training datasets."
+    publishedDateTime: 2022-01-30T16:52:00Z
+    webUrl: "https://cointelegraph.com/news/play-to-earn-strategic-partnerships-level-playing-field-for-ai-data-collection-with-big-tech"
+    ampWebUrl: "https://cointelegraph.com/news/play-to-earn-strategic-partnerships-level-playing-field-for-ai-data-collection-with-big-tech/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/play-to-earn-strategic-partnerships-level-playing-field-for-ai-data-collection-with-big-tech/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 46
     images:
-      - url: "https://mma.prnewswire.com/media/1735786/Shield_AI.jpg"
-        width: 400
-        height: 204
+      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81MjAxOTlkYmIyNjkwODZjNWEzZTQ2M2ZkNTk3ZDBlZS5qcGc=.jpg"
+        width: 740
+        height: 493
         isCached: true
 
 secured: "D7QPnXuTNLhg4t1U3t4A5gx/FS2wt5tGZTs+AsDo3bXFjEKvdY2SVVoGKzxenThWMQuo6NCBNNWQSEqzR8yseFkt4TSoW41fKGwS7lYxoWBNV8EkPw4BUUtBO/vBhd9xs/4g1aBgKqxQXLB5HDVq17KyZ0trt7mChlbKkta4ai/ElTjJ5W7pTOQVyUEv6iyoM9tBk98ojGeCjmZJkUzrWDVOSowfWBHZbr2pq+mjZ3quuqx5cxuHcFSnR2N+YYwNqe64/3H8Ejnx2JznWwXOfy4ebf6fh6+p+lGEe8egEMc4qv4L0ozPLgHLtoxSDST6gPhy0eVqi+ko4ZFL8tdd7M/9Vc9Nhfa1e7TfqqGxarQ=;NPsUIAdglH2RoTX8XeldzA=="

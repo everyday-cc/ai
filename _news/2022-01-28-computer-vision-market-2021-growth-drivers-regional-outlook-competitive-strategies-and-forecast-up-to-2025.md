@@ -109,6 +109,20 @@ related:
         width: 421
         height: 250
         isCached: true
+  - title: "AI-Enabled Last Mile Delivery Market Industry Analysis, Size, Share, Growth, Trend, And Forecast To 2029"
+    excerpt: "Research Nester published a report titled “ AI-Enabled Last Mile Delivery Market: Global Demand Analysis & Opportunity Outlook 2029 ” which delivers detailed overview of the global AI-enabled last mile delivery market in terms of market segmentation by type,"
+    publishedDateTime: 2022-01-30T18:40:00Z
+    webUrl: "https://menafn.com/1103614237/AI-Enabled-Last-Mile-Delivery-Market-Industry-Analysis-Size-Share-Growth-Trend-And-Forecast-To-2029"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849700"
+        width: 429
+        height: 249
+        isCached: true
   - title: "2021 Growth Opportunities in Artificial Intelligence, Supercomputers, and Quantum Computing Report - ResearchAndMarkets.com"
     excerpt: "The “Growth Opportunities in Artificial Intelligence, Supercomputers, and Quantum Computing” report has been added to ResearchAndMarkets.com’s offering. This edition of IT, Computing and Communications (ITCC) Technology Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in Machine Learning,"
     publishedDateTime: 2022-01-27T16:06:00Z

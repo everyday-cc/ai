@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theatlantic.com/amp/article/621386/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/621386/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2022/01/GettyImages-696625124.jpg?w=1024&h=576&crop=1"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Facebook will stop using facial recognition data, Meta reports"
+    excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
+    publishedDateTime: 2022-01-29T14:07:00Z
+    webUrl: "https://aldianews.com/culture/heritage-and-history/facebook-will-stop"
+    type: article
+    provider:
+      name: AL DA News
+      domain: aldianews.com
+    quality: 39
+    images:
+      - url: "https://aldianews.com/sites/default/files/2022-01/erika-ardila.jpeg"
+        width: 320
+        height: 320
         isCached: true
   - title: "The IRS website will soon require facial recognition to log in to your account"
     excerpt: "Will Lanzoni/CNN Will Lanzoni/CNN The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are."

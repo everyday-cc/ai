@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "InstaDeep, creator of AI-powered decision-making systems, raises $100M"
-    excerpt: "InstaDeep Ltd., a Tunisian artificial intelligence startup that’s making advanced decision-making systems to solve real-world problems, said today it has closed on a $100 million funding round. The Series B round was led by Alpha Intelligence Capital and CDIB,"
-    publishedDateTime: 2022-01-26T01:44:00Z
-    webUrl: "https://siliconangle.com/2022/01/25/instadeep-creator-ai-powered-decision-making-systems-raises-100m-series-b-funds/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/73515572_1410568199093561_5581692699917942784_n.png"
-        width: 1919
-        height: 868
-        isCached: true
   - title: "Conversational AI startup NLX raises $5M to scale its offering"
     excerpt: "Conversation artificial intelligence startup NLX Inc. has raised $5 million in funding to assist it in scaling its offering, to increase its headcount and drive sales. Aquila Capital Partners led the seed round with Flying Fish Partners,"
     publishedDateTime: 2022-01-28T01:45:00Z

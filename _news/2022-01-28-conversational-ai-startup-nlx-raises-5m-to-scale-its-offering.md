@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "InstaDeep, creator of AI-powered decision-making systems, raises $100M"
-    excerpt: "InstaDeep Ltd., a Tunisian artificial intelligence startup that’s making advanced decision-making systems to solve real-world problems, said today it has closed on a $100 million funding round. The Series B round was led by Alpha Intelligence Capital and CDIB,"
-    publishedDateTime: 2022-01-26T01:44:00Z
-    webUrl: "https://siliconangle.com/2022/01/25/instadeep-creator-ai-powered-decision-making-systems-raises-100m-series-b-funds/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/73515572_1410568199093561_5581692699917942784_n.png"
-        width: 1919
-        height: 868
-        isCached: true
   - title: "Slim.AI Raises $31 Million to Secure Cloud-Native Applications"
     excerpt: "Cloud-native application security startup Slim.AI today announced that it has raised $31 million in Series A funding, which brings the total raised by the company to $37.6 million. Slim.AI’s latest funding round was led by Insight Partners and StepStone Group and also received participation from Knollwood,"
     publishedDateTime: 2022-01-26T14:49:00Z

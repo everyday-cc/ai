@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-31-your-brain-on-ai-artificial-intelligence-is-creating-a-world-without-choices.md",
+      "title": "Your Brain on AI: Artificial Intelligence is “creating a world without choices”",
+      "excerpt": "Artificial intelligence goes far beyond just music or clothing recommendations which poses unforeseen risks for all of us. In his new book “The Loop”, NBC News Technology correspondent Jacob Ward warns AI is eroding our ability to make decisions on our own.",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/ali-velshi/watch/your-brain-on-ai-artificial-intelligence-is-creating-a-world-without-choices-132034629576",
+      "originalUrl": "https://www.msnbc.com/ali-velshi/watch/your-brain-on-ai-artificial-intelligence-is-creating-a-world-without-choices-132034629576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_01/1643564989499_n_velshi_jake_ward_220130_1920x1080-thuisp.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo132034629576",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo132034629576",
+      "publishedDateTime": "2022-01-30T09:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-30-drive-smarter-decision-making-with-explainable-machine-learning.md",
       "title": "Drive smarter decision-making with explainable machine learning",
       "excerpt": "Executives are missing out on a crucial pathway to smarter and more efficient decision-making with explainable machine learning.",
@@ -949,7 +991,7 @@
       "originalUrl": "https://www.theatlantic.com/ideas/archive/2022/01/irs-should-stop-using-facial-recognition/621386/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1171,58 +1213,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up.md",
-      "title": "Some Insistent Hyper-Milers Say That AI Self-Driving Cars Should Be Forced To Drive Like Grandpa, But That’s Messed Up",
-      "excerpt": "There are hypermilers that try to drive the maximum distance per the amount of fuel onboard their car, which raises interesting questions about the advent of AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61ef5d1abfe337178cc99299/0x0.jpg?format=jpg&crop=2872,1616,x0,y148,safe&fit=crop",
-          "width": 2872,
-          "height": 1616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/amp/",
-      "publishedDateTime": "2022-01-27T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -1,33 +1,27 @@
 ---
 category: news
-title: "The IRS Needs to Stop Using ID.me's Face Recognition, Privacy Experts Warn"
-excerpt: "New statements from the company's CEO show it may use a more expansive facial recognition system than previously known."
-publishedDateTime: 2022-01-27T00:18:00Z
-originalUrl: "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342"
-webUrl: "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342"
-ampWebUrl: "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342/amp"
-cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-id-me-irs-face-recognition-works-1848429342/amp"
+title: "Facebook will stop using facial recognition data, Meta reports"
+excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
+publishedDateTime: 2022-01-29T14:07:00Z
+originalUrl: "https://aldianews.com/culture/heritage-and-history/facebook-will-stop"
+webUrl: "https://aldianews.com/culture/heritage-and-history/facebook-will-stop"
 type: article
-quality: 87
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AL DA News
+  domain: aldianews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4eedb672b1755b7c1f50bba95d8da978.png"
-    width: 800
-    height: 450
+  - url: "https://aldianews.com/sites/default/files/2022-01/erika-ardila.jpeg"
+    width: 320
+    height: 320
     isCached: true
 
 related:
@@ -46,6 +40,22 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/uj61NrtPPNrapCcc9ebMcNN2_88=/570x321/media/img/mt/2022/01/IRS_Facial_Recognition_1/original.jpg"
         width: 570
         height: 321
+        isCached: true
+  - title: "The IRS Needs to Stop Using ID.me's Face Recognition, Privacy Experts Warn"
+    excerpt: "New statements from the company's CEO show it may use a more expansive facial recognition system than previously known."
+    publishedDateTime: 2022-01-27T00:18:00Z
+    webUrl: "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342"
+    ampWebUrl: "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-id-me-irs-face-recognition-works-1848429342/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4eedb672b1755b7c1f50bba95d8da978.png"
+        width: 800
+        height: 450
         isCached: true
   - title: "Treasury Reconsiders IRS’s Use of ID.Me Face Recognition for Web"
     excerpt: "The Treasury Department is reconsidering the Internal Revenue Service’s reliance on facial recognition software ID.me for access to its website, an official said Friday amid scrutiny of the company’s collection of images of tens of millions of Americans’ faces."
@@ -109,20 +119,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Facebook will stop using facial recognition data, Meta reports"
-    excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
-    publishedDateTime: 2022-01-29T14:07:00Z
-    webUrl: "https://aldianews.com/culture/heritage-and-history/facebook-will-stop"
-    type: article
-    provider:
-      name: AL DA News
-      domain: aldianews.com
-    quality: 39
-    images:
-      - url: "https://aldianews.com/sites/default/files/2022-01/erika-ardila.jpeg"
-        width: 320
-        height: 320
-        isCached: true
   - title: "The IRS website will soon require facial recognition to log in to your account"
     excerpt: "Will Lanzoni/CNN Will Lanzoni/CNN The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are."
     publishedDateTime: 2022-01-28T01:17:00Z
@@ -138,6 +134,6 @@ related:
         height: 576
         isCached: true
 
-secured: "gIoMlNWJpMipqilOlclLCxImEzYIRz2/ZkZ9nNB/LjpgFk9uxSPOE/Y2GlX5jc5h6dRQQP6yaZ3lpwblhTOjL7Fa+t9qkfT7Zn6Kp5hyeIvJx2KVa3Kh1ad8yMm5nHMxc3bH2PztP+DBjNQreZYE24q8dh61Gy6TjOofMeyV2J58b0+qndmke22SMFbJ+MJKsurVI05ZtvbhUvUxbe+tqXl3/Z39Tv/DcbUVPZ3craq1vZhXmm0ooF8QxT6Jc7e8iQoLXd2p+9dt+//anus0aCZB1UHZE04/6duWAOBGzUZfyan/jjrPGwaUpkgviMjDwwErW6simoybccxgOma6BWjkQcYQZYdmusAPO05hCuSZ6AFOdif7qqlFxtcmR3UvDyvlORq+wHxOl6G7C3NfiRsOFL49dplED7o4IORNGXRwzs4y++nJYjSq7WeDyO6EpfHm4/C/kSn5S7VcljMkeUBMJAXlKfjZvoS6OL7gbuBoyUjVGcvre+ZTvWGbsiLb0PD1jSnpxZEMGYMWeX6lew==;Ha85qEaH6QSMVYopXmlmag=="
+secured: "qCNrhOSSQDwnK41s1Mjeo+W6VhsXDppG02976NuLVFszTWb6660vKunXW4u1pm79V/MibMBHnzyMy8SqRrHHAbuGPrdZx9rOLjXjRrB8XCcXqMgUKfHtG/0eOQLhJQ3Euj4LTj6JxiABe8KvaAUYsG1Td2Hpsce4VwFXmo6Wq31Tb2y1nAf21mzv0ymG98aCrtHNBL1oSEH1cqzU03O9H5dtHcXWpLt/OO3BubRU8Lcr/yIcfVDFWX8kMrTCllVx14vRc8nLNAcHWqumbSQQ1DiRGESoVhAb9t4SPEpOcB7gyq4b6zZRP2UWopLCiDMsXL9n6i3cbjHuYC781XtkIzAKK8ODEkbPkEAoO4RXx1A=;gJfk1HPkYY8rzYiKhJOLdw=="
 ---
 

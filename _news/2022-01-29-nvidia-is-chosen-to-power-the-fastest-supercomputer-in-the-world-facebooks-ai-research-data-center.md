@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
-excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
-publishedDateTime: 2022-01-29T13:20:00Z
-originalUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
-webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
+excerpt: "The company formerly known as Facebook, Meta Platforms (NASDAQ: FB), just unveiled details for its new AI Research SuperCluster (RSC). It's a massive supercomputer housed in a data center, and once it's fully constructed in mid-2022,"
+publishedDateTime: 2022-01-29T12:20:00Z
+originalUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
+webUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
+ampWebUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Facebook AI
+  - AI Hardware
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
-    width: 5408
-    height: 3605
-    isCached: true
 
 related:
   - title: "Meta Platforms (FB) to Launch World's Fastest AI Computer"
@@ -74,6 +66,6 @@ related:
         height: 558
         isCached: true
 
-secured: "7mC2cGLusGxXkaIqbVvay4SSOSlNYaaMuaucAiAjZaVrzKfjOf2GGKRoy1bGJQFoE3gyCYHtxdkAA2AKABggXO/iACRuTZxiFrvX4bohgKmRtBy/+prkXhzpDWa0yNDbReckhDDG2xLyc8GfJ/FxuH9VUt0Ev5IfwwPq7nA8SQCUNdfE0KytIWmva/0bSbvvq3Ow1sApG7aB0UGOIe3CWE//azghYjiZGexVf/42lNqtiSF6NIpQ+f6bX9rEk3xByoKONuavtqVhqHBkMpHMTp725z04vQKK9CywrhXd2U69LmH9ZQuU+ut4mgKQZObV305J0cBQ7GJ4841s63AIoEWz+1+J6nDH2PxaiqHt21o=;j4Tbb37Kt86XZ74aCOfJeQ=="
+secured: "5QNNur3dbdhwNNNL4yuXxDhLxeNrepIRmiu0j8g3uV8GGQH0Wfvoyffr4Pve7E7uvmQL14wy9cw6CcfutebRTX30ThqRZ36eM8bee42Wj5cvMmrWWxxoVhln3qMrmPgh8wJHKU5uGMiLuiczt7BSiktJvtExo3hoNTed21G3G7oe7IC7SjXavMOao82FlTQCwBDfplcBmb/iUJiD9GsCr2pJzTBow5pKblF5e2dzndNdLiimDKyzW8LppD4ZgGgMGbNyCuhcfRh/HR9wycmBQSc9JLLrg0eB9oYwF62lh6wUo3YoyruL2fvdewuvxW5OPDk5Eaz2OwjEdXG4F8g2pM6D1UkZegLnizSiMCoAF3I=;emXHPAdXjDUhcHEPZLim7w=="
 ---
 

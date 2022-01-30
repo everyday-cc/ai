@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-23-israeli-firm-develops-body-cams-with-facial-recognition.md",
+      "title": "Israeli firm develops body cams with facial recognition",
+      "excerpt": "Facial recognition in law enforcement has sparked global criticism, with US tech giants backing away from providing the technology to police, citing privacy risks. Proponents including Tirza ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.france24.com/en/live-news/20220123-israeli-firm-develops-body-cams-with-facial-recognition",
+      "originalUrl": "https://www.france24.com/en/live-news/20220123-israeli-firm-develops-body-cams-with-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.france24.com/media/display/727a8a48-7bf9-11ec-a91e-005056bfb2b6/w:1280/p:16x9/b1c3402e2d4d954ff8797d511fed4f2deb9d008a.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.france24.com/en/live-news/20220123-israeli-firm-develops-body-cams-with-facial-recognition",
+      "cdnAmpWebUrl": "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20220123-israeli-firm-develops-body-cams-with-facial-recognition",
+      "publishedDateTime": "2022-01-22T19:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "France 24",
+        "domain": "france24.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-23-why-user-education-is-necessary-to-avoid-ai-failure.md",
       "title": "Why User Education Is Necessary To Avoid AI Failure",
       "excerpt": "AI failure, in most cases, is attributed to technology-centric factors like the quality of data or the capabilities of algorithms and hardware used, ignoring the most crucial aspect of AI success—the end user.",
@@ -249,6 +292,58 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-ibm-is-selling-off-its-watson-health-assets.md",
+      "title": "IBM is selling off its Watson Health assets",
+      "excerpt": "Watson Health was borne out of IBM's larger Watson effort, which aims to use artificial intelligence to solve a range of problems for businesses and consumers — from creating a computer that can ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220121123649-ibm-office-californie-file-0120-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "publishedDateTime": "2022-01-21T21:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1071,101 +1166,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-how-will-self-driving-cars-affect-cities-like-chicago.md",
-      "title": "How Will Self-Driving Cars Affect Cities Like Chicago?",
-      "excerpt": "Self-driving cars are spreading out across the country, and you may see one yourself on the Kennedy or Dan Ryan Expressway soon. CBS News’ Laura Podesta has a report, and DePaul University Professor Joe Schwieterman talks with CBS 2’s Jim Williams and Marie Saavedra about how self-driving cars will affect big cities like Chicago.",
-      "sourceUrl": null,
-      "webUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/",
-      "originalUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/A62/148/A62148484122E4CB516218C23E149CBE.jpg?Expires=1737763200&KeyName=mcpkey1&Signature=fLzgtdGVzWxw5PRkk1suUHf8_Ok",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/?amp",
-      "cdnAmpWebUrl": "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/?amp",
-      "publishedDateTime": "2022-01-20T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-new-ratings-aim-to-make-partial-self-driving-safer.md",
-      "title": "New Ratings Aim To Make Partial ‘Self Driving’ Safer",
-      "excerpt": "Many partially automated systems that “share” the driving with motorists, like Autopilot, Pilot Assist and Super Cruise, don't provide enough back-up protections, according to a new ratings system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/",
-      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e9e75f4b77c5fa20f81778/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/",
-      "publishedDateTime": "2022-01-20T13:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

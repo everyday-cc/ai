@@ -119,6 +119,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Facebook will stop using facial recognition data, Meta reports"
+    excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
+    publishedDateTime: 2022-01-29T14:07:00Z
+    webUrl: "https://aldianews.com/culture/heritage-and-history/facebook-will-stop"
+    type: article
+    provider:
+      name: AL DA News
+      domain: aldianews.com
+    quality: 39
+    images:
+      - url: "https://aldianews.com/sites/default/files/2022-01/erika-ardila.jpeg"
+        width: 320
+        height: 320
+        isCached: true
 
 secured: "SxrGMO/bYhoPYUERHhbSAaWcj5+fxypYYTswGrv+kn0JA0VXEngKS9gFw1gv+nIM3r2QPhqyUJddQa49PoSjj76PdjoDZP1iyHS8JJ+mv5mwgwB2uGsWgU4KVKW/6PR4A4/hvNBczH96b9LY0NE7SlrcocWI2hcWfGTdj6rsCtLGZhBxTgKhARBtIZSbmWfdbrtmQL8+b3dDCwJZTK/S21kwnQRkUr63CBgCuxrDErN5jqJr4+bceHwir6sAcySAskKqVnyDoWTCryLThKEQ6TYtLaZdeBqSEJEb3T+1NRH54gHeWcdhcPkKpjF/k1oxAnK95ioUyswpehXvP1yZ9lYOUJY+VlHAOoc1Nhx7IrQ=;jYmXwKVcW4RojyZKMoH62A=="
 ---

@@ -2,6 +2,100 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-01-04-ubtech-showcases-autonomous-uv-c-robot-at-ces-2022.md",
+      "title": "UBTECH Showcases Autonomous UV-C Robot at CES 2022",
+      "excerpt": "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today announced the market availability of the newest addition to its portfolio of humanoid robots at CES 2022: ADIBOT-A,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-robotics-5d618fe4711b4ad4867fa34097904484",
+      "originalUrl": "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-robotics-5d618fe4711b4ad4867fa34097904484",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-the-danger-of-leaving-weather-prediction-to-ai.md",
+      "title": "The Danger of Leaving Weather Prediction to AI",
+      "excerpt": "When it comes to forecasting the elements, many seem ready to welcome the machine. But humans still outperform the algorithms—especially in bad conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/weather-forecasting-artifical-intelligence/",
+      "originalUrl": "https://www.wired.com/story/weather-forecasting-artifical-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61bcfdf760b9d5dd7134793f/master/pass/The-Danger-of-Leaving-Weather-Prediction-to-AI.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/weather-forecasting-artifical-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/weather-forecasting-artifical-intelligence/amp",
+      "publishedDateTime": "2022-01-04T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-why-2022-will-be-an-ai-powered-renaissance.md",
       "title": "Why 2022 Will Be An AI-Powered Renaissance",
       "excerpt": "Now, electronic brains powered by human-designed AI are poised to play the role of protagonists in 2022 and potentially accelerate progress in our society to drive our very own Renaissance. Some say that the best way to predict the future is to create it,",
@@ -1059,101 +1153,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-ai-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching.md",
-      "title": "AI-powered chatbots, designed ethically, can support high-quality university teaching",
-      "excerpt": "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and is here to stay.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html",
-      "originalUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-powered-chatbots-de.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp",
-      "publishedDateTime": "2022-01-03T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-ai-apps-and-platforms-get-real.md",
-      "title": "AI Apps And Platforms Get Real",
-      "excerpt": "Despite being around since the early 50s, AI is finally maturing from an interesting piece of technology to one that is delivering significant, tangible benefits in numerous market segments and across many different businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cdb401815f9d046390a841%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/",
-      "publishedDateTime": "2022-01-03T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

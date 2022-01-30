@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-28T18:20:00Z
 originalUrl: "https://www.linkedin.com/pulse/ai-our-world-solving-big-ticket-issue-enterprise-artificial-"
 webUrl: "https://www.linkedin.com/pulse/ai-our-world-solving-big-ticket-issue-enterprise-artificial-"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQEdt3PI9Lp_OQ/article-cover_image-shrink_600_2000/0/1643392741482?e=1648684800&v=beta&t=MIusbeDoHos_eQpviMnmppvpksYW00dLC5zh4XZ1yXs"

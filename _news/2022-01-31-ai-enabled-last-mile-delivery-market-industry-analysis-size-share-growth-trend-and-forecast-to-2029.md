@@ -1,27 +1,26 @@
 ---
 category: news
-title: "2021 Growth Opportunities in Artificial Intelligence, Supercomputers, and Quantum Computing Report - ResearchAndMarkets.com"
-excerpt: "The “Growth Opportunities in Artificial Intelligence, Supercomputers, and Quantum Computing” report has been added to ResearchAndMarkets.com’s offering. This edition of IT, Computing and Communications (ITCC) Technology Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in Machine Learning,"
-publishedDateTime: 2022-01-27T16:06:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-165064c1251e48eeb28396dab3c42266"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-165064c1251e48eeb28396dab3c42266"
+title: "AI-Enabled Last Mile Delivery Market Industry Analysis, Size, Share, Growth, Trend, And Forecast To 2029"
+excerpt: "Research Nester published a report titled “ AI-Enabled Last Mile Delivery Market: Global Demand Analysis & Opportunity Outlook 2029 ” which delivers detailed overview of the global AI-enabled last mile delivery market in terms of market segmentation by type,"
+publishedDateTime: 2022-01-30T18:40:00Z
+originalUrl: "https://menafn.com/1103614237/AI-Enabled-Last-Mile-Delivery-Market-Industry-Analysis-Size-Share-Growth-Trend-And-Forecast-To-2029"
+webUrl: "https://menafn.com/1103614237/AI-Enabled-Last-Mile-Delivery-Market-Industry-Analysis-Size-Share-Growth-Trend-And-Forecast-To-2029"
 type: article
-quality: 13
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849700"
+    width: 429
+    height: 249
     isCached: true
 
 related:
@@ -123,19 +122,19 @@ related:
         width: 440
         height: 250
         isCached: true
-  - title: "AI-Enabled Last Mile Delivery Market Industry Analysis, Size, Share, Growth, Trend, And Forecast To 2029"
-    excerpt: "Research Nester published a report titled “ AI-Enabled Last Mile Delivery Market: Global Demand Analysis & Opportunity Outlook 2029 ” which delivers detailed overview of the global AI-enabled last mile delivery market in terms of market segmentation by type,"
-    publishedDateTime: 2022-01-30T18:40:00Z
-    webUrl: "https://menafn.com/1103614237/AI-Enabled-Last-Mile-Delivery-Market-Industry-Analysis-Size-Share-Growth-Trend-And-Forecast-To-2029"
+  - title: "2021 Growth Opportunities in Artificial Intelligence, Supercomputers, and Quantum Computing Report - ResearchAndMarkets.com"
+    excerpt: "The “Growth Opportunities in Artificial Intelligence, Supercomputers, and Quantum Computing” report has been added to ResearchAndMarkets.com’s offering. This edition of IT, Computing and Communications (ITCC) Technology Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in Machine Learning,"
+    publishedDateTime: 2022-01-27T16:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-165064c1251e48eeb28396dab3c42266"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849700"
-        width: 429
-        height: 249
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "AI Medical Imaging Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
     excerpt: "The Global AI Medical Imaging Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
@@ -166,6 +165,6 @@ related:
         height: 337
         isCached: true
 
-secured: "L7jLno4OjAoD+0a0OuRw/27gV4P5gKFUEczvkFpZfll3SEjDB39MECv0moixNECOZwYEPL2C5IlvyYBo4JnKV+ZU3XquakWLmQr1S/6oUGOweb8xq7eTrvWhvPelIwNZ+5Mizl6tJttQwFitbzEUMAwUx/cJf6JDiHyNU/+TJYsxPgeEkkLgeJPAp27n7YFBPi8pblT3siyJEWvEzgtB0s+3BWk9Q5KN8JqE9B71RR/1BGf1muc1nXC6TDyjqFCikJS1t2JTfiZacORs374f8nFzA5R1yOzz1mikPUtZgD10TK2O1aDZoBPqD5qVHYzTpJQho8Q6HnYOruciY1v9ZFEcLvdJ2OZTf/7pTYj2Aok=;xwnLNntLDXH5j3HA+xlrLQ=="
+secured: "oJHFfdNCtYxv8cptEAoMK7DJgR1DkpEGdJzhE9f5P8IKJJEtmvYHr2UfXXP0N+ZUdwZ6Sxve46/mW4XGW4rMeGn2LhVIJ00ZNqAJjTmrjI3ZwQWmD7XtcDwQGs/azctu0DDPd+S5eZUMyQDx/DZlqKDC4ItWj3lmoUJjNBh3fNcyhhJrXCBXYAD5TObP9D0CxlfJW7YP/yfTn5VMN5IMWogpoFlNiIbO1ZF1EW6eBrPyLrFPuXVAZH/gOLx/aMNZ9pt4VggBwrwaEEhZOyx359IK+8Cf1w6PhvQwSjVP4++FX/EkcHdKm/fh/ByHtwPHGElvu/HWKoJfdMAW9WHqrMA8e+3VtwgJxrQye9a2je8=;Fygo/5UD827GvsECxT66dA=="
 ---
 
