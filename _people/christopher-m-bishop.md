@@ -3,7 +3,7 @@ name: "Christopher M. Bishop"
 bio: "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam"
 location: Cambridge, England
 type: "profile"
-heat: 71
+heat: 32
 
 affiliation:
   name: Microsoft
@@ -18,7 +18,7 @@ website: https://t.co/qaAoprog1k
 twitter:
   username: chrisbishopmsft
   url: https://twitter.com/chrisbishopmsft
-  followers: 5639
+  followers: 5640
 
 googleScholar:
   url: https://scholar.google.com/citations?user=gsr-K3ADUvAC
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Christopher M. Bishop"
 
-secured: "opAbxnT9sv+IRFPdExWU/CaTAUlVs/+U0G67Yph2P/HcK+cs3EE2qYL4eLaRo7NzYRSardcmU6nEWR1mV10kql1X28yGuYLzOKHxnu5TgKeCrWnAvAGi7b/exLkrUa7SRAeC1NQLPCXLefeHx17ufRFL4i25ka79rOVSO+vKnUmKne/65mMRiaG8HVTLH9V4tcOMhYaqF33yYoyovc6fV/0ca1J0lPu59G9Zrsvk1QrDOrcfnDK/QEQvGHenbjZVKzAqUyKj3jO/y0FQuWMWFxbhQKcSlzNEqGYyE8THdAh+CBWxCOeP9xnUHlrtBvuE7ZNV8i3XRJqFURY2qXSmqj5y9uyCTDI12wXuYuXNnCoqkmNdbawY15EppzBVE/qXmZKHQlzHuESYnUETu/9gk6i9TmO+aB+c+ajX9boEdG4=;xI+dqPTJiK4BhcFFFwAdsg=="
+secured: "u9DtGv5A/qcYuu/secDi8X/wPAke1CaPU/HEK03ibX/a9OCg7bvUCWZX2wJEuBAAUm1j35l89fmH2f3vP7pycrvYoDVl0Yhg4/2ghDAvBZMzyS529haY/bOgro4cRUQHiHyGe4+CZsFeY+6Ng/fE1Knpi0VbVVbwoZeaKKi0OXQfAvfhqEos7Tefox352xDsUTgWwNLbcZtKBq51t557MJfCkLFJ1XEH4BxZy1qy2oZxvjvl7gF4sVVHguZnkvJRNdLgFOR0uGkFkCxX86eMBhTRROY0XcV/FxPiblhFPqroljlVKoWyOE/qddISdIp24ZF287JES/UIxOz52ayrknZaNOxuYjxWVCh24Mz7O8C/jjTDsc2UnAjFue8m8xdK8qAFWwblF2oEeNYhyczTeAoyoMckBNZBTHzswXxlj3U=;ZX5kiaNrBwG4F9XmZxRjdg=="
 ---
 
