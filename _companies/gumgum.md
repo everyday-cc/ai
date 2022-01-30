@@ -2,7 +2,7 @@
 name: "GumGum"
 overview: "GumGum is an artificial intelligence company with deep expertise in computer vision and natural language processing. Its mission is to solve hard problems across media by teaching machines to see and understand the world. Since 2008, the company has applied its patented capabilities to serving media-related industries, including advertising and professional sports."
 type: "profile"
-heat: 57
+heat: 42
 
 website: https://gumgum.com/
 
@@ -53,6 +53,6 @@ videos:
       height: 360
       title: "GumGum"
 
-secured: "T2T6TyZf8ziEv3xrZ3cQ4cPaDJlwimMzck04wZA7jM4/0IUHe1eYUwEbCYGJnOUGvoSOY51ekz4YZ9mvcDZK/voHFkgtdgZMSHqslO9G3IaXgEYrAMjw3jnyjHzpIJcWtgELGh0I0Td7xjga55nI10LF30k95wUA0b/bbBgkvqIu/fBK3AyN/SZcmxdf/HV4XtzsidqOJBiIFENu1DCV6W2ysA6zRvuoJzrGCQwXoorTMTfHk5CLPF9i3iuH+O8e7/thU437G+t6zb2NNCQQ1rUMDl3xGObLDR7+BPaAiM3QMnFPCSWVlkQ9aXR0FwDc2vbCpU8IZRm6232sOF70IBxnl9KRlL9IfktTm12PKSOQHy9q72HGUsdUVN1Ql+xQ7YeZbD0X/xTVeK0Xlex6/4TeTgLnA4iyFJAB6xjPCKQ=;SU2OdPk/JYZqkBtxAT4LpA=="
+secured: "5JzSlpGBZE2KasmI4FuNlO29Bb75NcP0FioxETJjSphPDGEn2MB57S4nS+SFsb0cf6T5iPf+7IHDCTRiXEs1nS83Bm4kNTjFVZkC2Nqlwj4yA1hbsdvotYb25toTGl0PwYZ9J3ySq6b3VFuS1+4HazWM+8hPPx3GA6YIye6haaX4ry4hSIimfkS9Q7JEv8wIG24sxf0F1WJN+JfUOdeVVpMM8PHiQGM3xTRtAMrBN5Aj8VI70dDLxqG8uop0mgqmwof/Vs3aVLdw2tOm51MaPLouIheedDNCDaJCX+xEUTFTkUklGtI5fYk5Kl0ny+3W6e9479MHogIiYI8BTfmprPCdla1zUcFOYEghpiVmCxEExdVvjlEUesRoNMxGXyjwmvpswpa1e2RN6cxYPEK5oXMA3kBfPERYKAvHev7nve4=;K3oOQVV69/k4GSpw1Bc57Q=="
 ---
 

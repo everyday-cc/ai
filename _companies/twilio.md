@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "twilio"
   url: "https://twitter.com/twilio"
-  followers: 81968
+  followers: 81969
 
 size: 1,001-5,000 employees
 yearFounded: 2008
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Twilio"
 
-secured: "ge0CT7JrGhKRMB72fED9o3ZdVJyBpbIOIjCcnjT9P6BtactxeGSC1gl8CvyvBIx8Pa4eWjbXYSisKuLBN3KYsLfceEyOOipGIdvbr95mMsVFgmkvWS34yMRZfwGoYnOHv8fE3H41rCXEegoiXzulz3vf21uU2KIPaAWlKwjFfkCbO/rPyRlN6Q39ibzNhWETpqfcRKMUssuTawhgtl2uui4U3tQ5MGzsIl5BFVtfmCmZVQemUZUpGLQgXR4xoeOhzQG/eLXBRZM3KkGPpEsH6YRv+STwJbJ1IjWdWYAz1Bi9juXdw1ZkLhUy1L5qCHClUxKi+ZdHs6QSNhzTF9avxQ0Vw/WqR9i3129oSIxTdgFTFvRkTDeWZRGsCKECF4OBgJkqXFaTcKVKiAPCdOdp0vcCD+RYAdSIq6zMP75CKUc=;B8v/3P5XMBYeC9v8Xsfxww=="
+secured: "JaEtZi6tV6+47+rrYC8LNaU3eiTkLH3ChyPhzLudHJ0EYGrIDf3VBFsVaRYisXuKitbgqZ2cVl9+AIbE0hoQadzNSCd90vcBpkkQstccgbC5xL4E6deRxNOlGq+wK5zZilxbyNZkwd4MtR3S73sgey5e6a0xUm+bywEllwgAJKYCw5h4TmR3Hwwnaw7WLl0d57IaebI8NuGx5WATuHcUsaWc9RvKOoNJFpOHux3xEQJj3cBl3/AuIReZBWJe/qqJpnLN6Tk0IDM1gmsSXho8b6JrNoU0/jMEenYCTDXHQcVVudVZAmXoiIWejXnan0YfnAXCoz7W8Tc3TeYIP9l5UhZrEkRkdnh2q4m9KQaUK7o5NNqX1iRF/DYwjUcXLwTLXQWpNAs1wNq5qhMc5QHdNMa/fhLrr3VXN5P4QsKtsaY=;0u73jZEILuegdNh8Z8MyrA=="
 ---
 

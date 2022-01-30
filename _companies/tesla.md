@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 649
+heat: 640
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 12847545
+  followers: 12849567
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "7cvWDN3bCzYVyjqvddyNjbKQjn3nwFy78p78aFtHAZTCv+0natOzqRWr5J7G69KbMuLMyYagQAsIk1giXd4c6Q+4dUO0ymRAol9Cxho0Y9yNMoZNT5MjftvEXEGguNg5a1H3UIpSlzQLpw7uh7hEpTzQEmJGQEc3UfTHtmvz9/ngcLZb18kLXMthlSoLPEHfJAXuiPVZME4xkcLcqmWFnRo+CXQMfaaOBhewdm4sqFjfyeEjNb9nJN1jBKI8zulFCuxeA9Rb2HX+JLCwUJNPTOxy5aAAeb0fvTZvkZgoZglT2heSdIfpTpht8LNXjQGsAECnr4RpSio3pVAijrbWKO28YCMPAaftvx48fjMGTC85KIZdz5Tb0LMtk1O0Qzqlpdq+p6hbDKZTluGMrLTifa68h9OW8QeukrpH7mABsqI=;sEhWYFu6I+m67mmIdVc2UQ=="
+secured: "zdUScePO/JJxTmU5K3LyDxLibOkN3IpOQ6ZyonRru7tuHS+/fTP1CX+5QS/+2dDMQH7CBS2n+BJcYTwBwji/iTnNLgn4URAeJmDNBohhvKuRDg/NmLI+lHJK3er1xC/ZWXDY+0EE4gKsLGOUtFUQDfm2IO80CJcAGQjsBFXeedW1FomtwZn7gO9Dx2AnHtDvEKxAesHCuRoRkUDykqUgiLBAHCJGeis5KcCIDrmexWW5F+YcjyLvpN7Wes2Fdh1GbO8ppBjrA4Tg2n0/SyW7+GOZwmIXIjUkigmS/G5BwMzdnz1BUtTqGlj8jkaE4i9TPqozdqnq/2zS3TVUsF6Bu0DQXMENKvmywxW4Od8zIUR2hOdQcV3VzxdoFkTqAw1BvAkBQhKOICVYv4Br6OCVwIH6kSnzZ6ZO5LR9G9xRUC4=;fBp971/SiXxdBvJwQWpE2Q=="
 ---
 
