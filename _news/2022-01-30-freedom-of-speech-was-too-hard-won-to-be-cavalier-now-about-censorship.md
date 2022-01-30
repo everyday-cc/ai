@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Freedom of speech was too hard won to be cavalier now about censorship"
-excerpt: "there has long been a recognition that democracy, social justice and free speech go hand in hand and that censorship was a weapon wielded by the powerful to stymie social change. Today, though, the issues seem more confusing. Much censorship, particularly ..."
-publishedDateTime: 2022-01-30T07:30:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/jan/30/freedom-of-speech-hard-won-cavalier-now-about-censorship"
-webUrl: "https://www.theguardian.com/commentisfree/2022/jan/30/freedom-of-speech-hard-won-cavalier-now-about-censorship"
+excerpt: "Amid an increasingly confused debate, we must remember that historically it is the powerless who are most often silenced"
+publishedDateTime: 2022-01-30T06:30:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2022/jan/30/freedom-of-speech-hard-won-cavalier-now-about-censorship?fr=operanews"
+webUrl: "https://www.theguardian.com/commentisfree/2022/jan/30/freedom-of-speech-hard-won-cavalier-now-about-censorship?fr=operanews"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/jan/30/freedom-of-speech-hard-won-cavalier-now-about-censorship"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jan/30/freedom-of-speech-hard-won-cavalier-now-about-censorship"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "vO2GTPVSK+F4ZemTHByfNdAX/9ss0kZL/fE8TBcoMf9zRmmf4FbS/bT1tAf8sYsMTgtgKHsLgSucfmBXYo5JUJy5cOogsynuRoMB3BJHK6BbOZcZwEqFFs1LtzW77abxQRXV8+VcvIahQzXo7cjPC6S97klMKOgSKgxL+dqA/K5QmFGvw87vOccxRhTCbMbcJt5yrJZC3tqzPsnPVtywgvJqSXWQ+E4k5I3awneFWoN1x0WiUVEcXLtVVLNMx81DXvxz97ccnM9+exbF0RMeUN/FTiOp/luc85nQQN9Fjxlimr1JJ03hNyoxBteJ5tFBv4hoVHYHGMvCW8Hqvba3L0/u8V3f0kFFnvk8BdXOL94=;5aj17jIPsLBZSoH0+ZExFg=="
+secured: "SkyoKXb09+G5eZ9aCwwBf45tg8DKj4LeGLE12sJL+YuliR7jLY7fIyqDQSAqwC9MeTF8WeCPwMXRSEdBDcfDRNTiBb46O1KoIRhdz5AiIMG5kzU46b4kXderdJQbDGew+S9Mq3l7PbUFcoDaG4pZ8aGYp/MOZtcPOv607DFnYlVlwkfVnd7E6ba1Hr1osETjy5fZzxxGInJFAIG3CpNyamU2lDe1u+XaTLRv7B9AitWXanTCXPbqfUmi0fcOpS8BQveRoXX4wv52LUe0RjvzTMKRGu4NoXuQ0BStV3c6SXT+P3pRswv8ILmcqzNNjGEp9UOK5CGeeoMryjNJYFaTqbVbMxkNoRPudfHAW5KHAfk=;xAVYHVeYe5W0eWliGX2wkg=="
 ---
 

@@ -89,6 +89,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Elon Musk says Tesla’s humanoid robot could eventually outgrow its car business"
+    excerpt: "During Tesla’s earnings call, Musk said the company’s future humanoid robot — internally named “Optimus” — is the “most important product development we’re doing this year.” Musk first unveiled the robot during Tesla’s AI Day event in August."
+    publishedDateTime: 2022-01-30T10:30:00Z
+    webUrl: "https://www.khaama.com/elon-musk-says-teslas-humanoid-robot-could-eventually-outgrow-its-car-business-0296/"
+    type: article
+    provider:
+      name: Khaama Press
+      domain: khaama.com
+    quality: 52
+    images:
+      - url: "https://www.khaama.com/wp-content/uploads/2022/01/611fa3d20fbf9e0018e88c75.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Tesla Cybertruck, Roadster, Semi delayed, focus shifts to self-driving and Optimus robot"
     excerpt: "Ford, General Motors and Rivian all have electric pickup trucks in production, but buyers looking forward to the Tesla Cybertruck will have to keep waiting. Tesla CEO Elon Musk during an earnings call late on Wednesday said the company won't launch any new vehicles in 2022 as it focuses on ramping up production of existing models and developing new technologies."
     publishedDateTime: 2022-01-27T12:00:00Z

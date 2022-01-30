@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Educational Robots Market By Application, By Product type, By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027"
-    excerpt: "Reportlinker.com announces the release of the report \"Global Educational Robots Market By Application, By Product type,"
-    publishedDateTime: 2022-01-25T17:06:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25216364/global-educational-robots-market-by-application-by-product-type-by-regional-outlook-industry-analy"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25216364"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25216364"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
-    images:
-      - url: "https://www.benzinga.com/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Edge Artificial Intelligence Chips Market 2021 Top Industry Trend and Segments Analysis up to 2027"
-    excerpt: "Comserve / -- Edge Artificial Intelligence Chips Market by Device Type (Consumer Devices, Enterprise Devices) Function (Training, Inference) - Global Industry Analysis & Forecast to 2027 Industry Outlook and Trend Analysis The Edge Artificial Intelligence Chips Market has encountered significant development over the recent years and is anticipated to grow tremendously over the forecast period."
-    publishedDateTime: 2022-01-27T11:43:00Z
-    webUrl: "https://menafn.com/1103600924/Edge-Artificial-Intelligence-Chips-Market-2021-Top-Industry-Trend-and-Segments-Analysis-up-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?356435"
-        width: 353
-        height: 249
-        isCached: true
   - title: "Mobile Robot Market Forecast, Restraints, Merger, Acquisition, SWOT Analysis, PESTELE Analysis and Business Opportunities by 2027"
     excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
     publishedDateTime: 2022-01-28T11:58:00Z
@@ -68,34 +38,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Computer Vision Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Jan 27, 2022, 23:27 /Comserve / -- Computer Vision Market By Product Type (PC Based and Smart Camera Based) and Application (Quality Control and Inspection ..."
-    publishedDateTime: 2022-01-28T05:39:00Z
-    webUrl: "https://menafn.com/1103604520/Computer-Vision-Market-2021-Growth-Drivers-Regional-Outlook-Competitive-Strategies-and-Forecast-up-to-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?136441"
-        width: 440
-        height: 250
-        isCached: true
-  - title: "Worldwide Educational Robots Industry to 2027 - Growing Trend of Digitization is Driving Growth - ResearchAndMarkets.com"
-    excerpt: "By Product type (Non-Humanoid and Humanoid), By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027” report has been added to ResearchAndMarkets.com’s offering. The Global Educational Robots Market size is expected to reach $2,"
-    publishedDateTime: 2022-01-25T18:06:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-digitization-acc78c7760144cd1ab098e1b49936f85"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "fHO1gfU9SlJK45D4jyrbMkg/wKS2lAi6GmzGxNK/YBTNiM4EgkpwLmmmabZq7tDdaen0SVUB642HrlgHxSXVasnL9jGPfucGwx3idSf4BFFaED4x+EIEn2Gcs7d52EbBKam/m8Ne6NXtf7zUK6jmqBWPcuPX4Smg8HkHYZBBX3Hcbcj5huMPVFcUZKzLv8onWTEsV6ExOSK5GFrN6dYdRijnUeLs4Cyy/lr1aiyVKqMfd9F7YXAzg+9FpzR9BBrkSynqltDA2NLaKx433Nst4RNtJzj5kwTA7iWFZNDUXMhCV8s9a2GD4/VxlkCptRopxahv62hPkygoOyAmyxTdSvWlsHcl8ZbZpwbjE7WQZRQ=;65EGcMIU/RCScC0hC9rrNw=="

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Growth, Trends, and Forecast, 2021-2031"
-    excerpt: "Artificial Intelligence (AI) in Remote Patient Monitoring Market: Contours The shift from volume-based to value-based care in healthcare sector has opened"
-    publishedDateTime: 2022-01-27T08:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-remote-patient-monitoring-market-growth-trends-and-forecast-2021-2031"
+  - title: "Deep Learning Chip Market Global Industry Outlook and Key Players Analysis By 2028 | Emergen Research"
+    excerpt: "Increasing adoption of quantum computing and growing implementation of deep learning chips for robotics are some key factors driving market growth VANCOUVER, BC, CANADA, January 27, 2022 ..."
+    publishedDateTime: 2022-01-27T13:40:00Z
+    webUrl: "https://menafn.com/1103601556/Deep-Learning-Chip-Market-Global-Industry-Outlook-and-Key-Players-Analysis-By-2028-Emergen-Research"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/77382e6ba11d374925336267f0919e66e3a9618e-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?531109"
+        width: 374
+        height: 250
         isCached: true
   - title: "AI In Financial Wellness Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
     excerpt: "The Global AI In Financial Wellness Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"

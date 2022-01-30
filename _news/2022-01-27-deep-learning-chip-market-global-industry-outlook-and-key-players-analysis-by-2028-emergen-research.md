@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103601556/Deep-Learning-Chip-Market-Global-Ind
 webUrl: "https://menafn.com/1103601556/Deep-Learning-Chip-Market-Global-Industry-Outlook-and-Key-Players-Analysis-By-2028-Emergen-Research"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,21 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers find machine learning supports emergency departments"
-    excerpt: "Researchers from the University of Minnesota Medical School recently published findings PLOS ONE that evaluated the real-time performance of a machine learning (ML) that supported clinical decision-making for emergency department discharge at M Health Fairview hospitals."
-    publishedDateTime: 2022-01-25T18:10:00Z
-    webUrl: "https://medicalxpress.com/news/2022-01-machine-emergency-departments.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-01-machine-emergency-departments.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-emergency-departments.amp"
+  - title: "AI Medical Imaging Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
+    excerpt: "The Global AI Medical Imaging Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
+    publishedDateTime: 2022-01-28T07:21:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-medical-imaging-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 6
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/emergency-department.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "AI In Financial Wellness Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
+    excerpt: "The Global AI In Financial Wellness Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
+    publishedDateTime: 2022-01-28T07:21:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-financial-wellness-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 3
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "y4PS1iKqzBuywVhB87Fy9LFcwv11XSS3cTSP2LFHsr3KX1mQqLSe53rIEeej4xjO5ylRc5MnuvXUIUr0Y5lO/yYH26byrbS5SR2X6q2TWQvNuSmJAMreH2W7GdSAXsZ78lPrQsYcrptVB/kvHpk0Dsjt8J90zZ3tlfwqMNI+9OllMP3vgr2V+mBG/FxL3SRW7WZi0sEEhwT2j5iCcwAk1KR1zgOyACIfDF/aQSpu0QHd6Jg750kwxrVu633VEwfPosVcToEcVxFWcgo6zaWyaQYG/RwoF2PtGg2Pzu7D10TuVMGUJSiF9gM4IoOsNU6a7CYhpiElaNY7YGYgjUj4r4jLWtfH5nSebJNrjou0L5U=;RgmZU3TCyikO1sI3dBf9/Q=="

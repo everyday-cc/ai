@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103612669/AI-Based-Electrical-Switchgear-Marke
 webUrl: "https://menafn.com/1103612669/AI-Based-Electrical-Switchgear-Market-Size-Growth-Trends-And-Global-Segments-Analysis-Report-to-2030"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 421
     height: 250
     isCached: true
+
+related:
+  - title: "Edge Artificial Intelligence Chips Market 2021 Top Industry Trend and Segments Analysis up to 2027"
+    excerpt: "Comserve / -- Edge Artificial Intelligence Chips Market by Device Type (Consumer Devices, Enterprise Devices) Function (Training, Inference) - Global Industry Analysis & Forecast to 2027 Industry Outlook and Trend Analysis The Edge Artificial Intelligence Chips Market has encountered significant development over the recent years and is anticipated to grow tremendously over the forecast period."
+    publishedDateTime: 2022-01-27T11:43:00Z
+    webUrl: "https://menafn.com/1103600924/Edge-Artificial-Intelligence-Chips-Market-2021-Top-Industry-Trend-and-Segments-Analysis-up-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?356435"
+        width: 353
+        height: 249
+        isCached: true
 
 secured: "m0vxFgI1I3XnwdVB2HatMPwSGjkSsEKByCd5bcf3irdW8jXjJepyM+Rmlffw5LRjgSOocYVEoAQUuBeAY9MmPnR1qNCds3KJkN6VoHEHbkQdE+1sF2sI96iPD+uU+M5zI9CtOaf6Toqa0HE9Sl69l2F9P1QZfsrF/Rzq55XQjjHrzJsLp0Cb4Zklj6PHrGn/FV7h9znsIymDtJzj9kqjOqoIvrwATwfFM7Z03Ibkd/U23n11qqXhPvKGazlm39Mn2Ti18IuR7ywkSwcVLqvG9HOpS7HVOCxGFv7UUZ5WkR93LScrDFdQ6IZ7QrR9YV1xzx9TAOElaZWwkbTB5G6TJ0YRE/nQWJz/DaOjtrtxu20=;vqaj3iLLNWYhKxj76XIm3g=="
 ---

@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Humanoid robot is Tesla's 'most important product' this year, Musk says"
-excerpt: "Tesla CEO Elon Musk has his eyes set on more than just building electric cars. In the company's fourth-quarter earnings call on Wednesday, Musk said Tesla's \"most important product\" it would be developing this year did not have wheels,"
-publishedDateTime: 2022-01-27T17:50:00Z
-originalUrl: "https://www.kvue.com/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae"
-webUrl: "https://www.kvue.com/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae"
-ampWebUrl: "https://www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae"
-cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae"
+title: "Elon Musk says Tesla’s humanoid robot could eventually outgrow its car business"
+excerpt: "During Tesla’s earnings call, Musk said the company’s future humanoid robot — internally named “Optimus” — is the “most important product development we’re doing this year.” Musk first unveiled the robot during Tesla’s AI Day event in August."
+publishedDateTime: 2022-01-30T10:30:00Z
+originalUrl: "https://www.khaama.com/elon-musk-says-teslas-humanoid-robot-could-eventually-outgrow-its-car-business-0296/"
+webUrl: "https://www.khaama.com/elon-musk-says-teslas-humanoid-robot-could-eventually-outgrow-its-car-business-0296/"
 type: article
-quality: 76
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: KVUE
-  domain: kvue.com
+  name: Khaama Press
+  domain: khaama.com
 
 topics:
   - AI in Robotics
@@ -22,9 +20,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://media.kvue.com/assets/CCT/images/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6_1140x641.jpg"
-    width: 1140
-    height: 641
+  - url: "https://www.khaama.com/wp-content/uploads/2022/01/611fa3d20fbf9e0018e88c75.jpg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -43,6 +41,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Humanoid robot is Tesla's 'most important product' this year, Musk says"
+    excerpt: "Tesla CEO Elon Musk has his eyes set on more than just building electric cars. In the company's fourth-quarter earnings call on Wednesday, Musk said Tesla's \"most important product\" it would be developing this year did not have wheels,"
+    publishedDateTime: 2022-01-27T17:50:00Z
+    webUrl: "https://www.kvue.com/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae"
+    ampWebUrl: "https://www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 76
+    images:
+      - url: "https://media.kvue.com/assets/CCT/images/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6/fb31ea82-4aed-4d8a-a622-7e5fdfe244b6_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Tesla News: Automaker Prioritizes New Humanoid Robot Over Vehicle Models In 2022"
     excerpt: "Tesla is prioritizing the development of a humanoid robot over its vehicles in 2022 and it will be designed to perform dangerous, repetitive, or physical tasks only humans can complete."
@@ -73,20 +87,6 @@ related:
       - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-28-1644271.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Elon Musk says Tesla’s humanoid robot could eventually outgrow its car business"
-    excerpt: "During Tesla’s earnings call, Musk said the company’s future humanoid robot — internally named “Optimus” — is the “most important product development we’re doing this year.” Musk first unveiled the robot during Tesla’s AI Day event in August."
-    publishedDateTime: 2022-01-30T10:30:00Z
-    webUrl: "https://www.khaama.com/elon-musk-says-teslas-humanoid-robot-could-eventually-outgrow-its-car-business-0296/"
-    type: article
-    provider:
-      name: Khaama Press
-      domain: khaama.com
-    quality: 52
-    images:
-      - url: "https://www.khaama.com/wp-content/uploads/2022/01/611fa3d20fbf9e0018e88c75.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "Tesla Cybertruck, Roadster, Semi delayed, focus shifts to self-driving and Optimus robot"
     excerpt: "Ford, General Motors and Rivian all have electric pickup trucks in production, but buyers looking forward to the Tesla Cybertruck will have to keep waiting. Tesla CEO Elon Musk during an earnings call late on Wednesday said the company won't launch any new vehicles in 2022 as it focuses on ramping up production of existing models and developing new technologies."
@@ -119,6 +119,6 @@ related:
         height: 506
         isCached: true
 
-secured: "3kXHqaEllDM9tvD8zrV3yW+1N3aHMkY3F2PH7EEXg4WSWDH7iXCPE+xCWMAxKgZKxCRpQpxt6TZOAE/f4obGGnnUC1yldpCbkojeYGlKIvrgwsqa/xNwThbjdpol+4scoZQPtlpIID2t8h5rrGjvYolvdGb6f7/y2vnXi2c4wPUfisxKZ6ldU6WpYW9afr5CFePNPYT7dleE51znW7ioJrF79FNkBWd3yd+KdcuM4hoZmko8xeUFGd/LzVyNfI1rqySLkaHZHAMMKdIS64MVhdkqN4PED9IPXoq7FF7YXNv+0oYztFI7aK/eHHYNkGlQ5i+4yfuQ4fChNunMA8C3tcD82/Yn39CuOjvUqqH6yeqsPVu93tG/3tv3YIt7VVI02hRigfsgZD2QyKv8xSv+nTgFp1F0VEIjqEs43zSdroFkOWFXKK2OCWzcqy9JdwtK2kunyIYMN/a/41OwdDaEwHGXhFkNbLqGSFugBoFUgc5LI5fuOFeOybUjvk1t36W8edbGbheWXnzA5nGSEjWCaw==;vwQ5wvi5dapLyjTJtflj7A=="
+secured: "Z8tH8XAk3G0Trqq0/sRX7q4s1awoH2WlFECWVP7h2r2j0s+JpFJIRj5JoiXsDqopvGcy4wyyCA7U8UPZTHyKK/3iYKgPMIauMdZ3B+Ny18PvFWE/LUA9LZJ7d3WPESR1aI3unutmQqb1bnjjzuvZiiRtrGfzUrUNaRE+7VWbz2idEYzjltqKsDQG2ml1I/30f2jhFbN5WtCKEDtG/3fpzWU7vUZoKsw+aOmhvHr0HJpnOQWlwt9zxMUWGftlelGw4essCeCilXk4kPijsuHsU1P/Yqq7rxrSgHi9y/nQ+D8nhzRGx5MeiVzCT5c53TnntPgjVjuQNb+YLeQpGBWDhtGMuwb72YoAd82IgVShzdU=;IdOzv4fJc1ETdAgr1Nk1/A=="
 ---
 

@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "VW, Bosch Team Up on Self-Driving Software"
-    excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to develop a common software platform to bring hands-free driving functions to the German carmaker’s entire fleet in a bid to compete with Tesla Inc."
-    publishedDateTime: 2022-01-25T17:30:00Z
-    webUrl: "https://www.ttnews.com/articles/vw-bosch-team-self-driving-software"
+  - title: "VW, Bosch join in self-driving goal"
+    excerpt: "Volkswagen is partnering with Robert Bosch GmbH to bolster its automated-driving push and catch up with the likes of Tesla Inc. on software development."
+    publishedDateTime: 2022-01-30T10:38:00Z
+    webUrl: "https://www.arkansasonline.com/news/2022/jan/30/vw-bosch-join-in-self-driving-goal/"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 24
     images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/vw-branding-1200.jpg?itok=Qn_9qjz-"
-        width: 470
-        height: 246
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200510367_vw-91ca69de-7de5-11ec-a25a-1eefb09da298_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "VITPP2a9qeM0qOX53CLZwyZszuIW1iFgtTDwHgYF2syv+esFoLlAc/UJL94+Dmgz/Tyf/NniW2JDUIprIqu/dbgOOfJedR8oglmwIIyto7jok18/6dlFQIRwBbyrdlurPQSKenrR+Pkmh5ZX+zKIgBcWF5C8py9oCLeBIcH/9HlTaihCilkVdykumZrKuH7z6zyNXwVOnbFJnFR5+swsBmzeNdz/z8Rssdi3GMPFhmgXADJyDp2zQyKLlN5M8sEe7Axrpx+l28KbXbX4QcNV151kFelUrIlDJG6D6JclXK7mGsOGLwr06ZgtqHgi1wiUU5KvsTKL8wqPLlSFBJmkJlrgkHJxb8sIrNutns7vF/jzHlNZF5T/7IMfmscBU2WJ0EPy4cRsJ51jq4SZDZka9BEGnbsv0H/CzAOJHmbQnkS+FIS2Qhv+G7aKQMl3kVJC0pvf904B+H0C4Idn/2U/fyGHXBxk96d35fytYT+O0ueOd0I+638+fqtJIMMjYue9kJRMz3To8ircnfe6d9VOag==;3b+nTQSqm0aqk2njApQAiw=="

@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
-excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
-publishedDateTime: 2022-01-29T13:20:00Z
-originalUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
-webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
+excerpt: "The company formerly known as Facebook, Meta Platforms (NASDAQ: FB), just unveiled details for its new AI Research SuperCluster (RSC). It's a massive supercomputer housed in a data center, and once it's fully constructed in mid-2022,"
+publishedDateTime: 2022-01-29T12:20:00Z
+originalUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
+webUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
+ampWebUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
-    width: 5408
-    height: 3605
-    isCached: true
 
 related:
   - title: "Meta Builds World’s Largest AI Supercomputer With NVIDIA For AI Research And Production"
@@ -121,20 +113,6 @@ related:
         width: 615
         height: 284
         isCached: true
-  - title: "Researchers Build AI That Builds AI"
-    excerpt: "By using hypernetworks, researchers can now preemptively fine-tune artificial neural networks, saving some of the time and expense of training."
-    publishedDateTime: 2022-01-25T17:05:00Z
-    webUrl: "https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/"
-    type: article
-    provider:
-      name: Quanta Magazine
-      domain: quantamagazine.org
-    quality: 39
-    images:
-      - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/01/Meta_Net_1200_Social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meta Is Building The World’s Fastest AI Supercomputer"
     excerpt: "There is a strong belief that moderating posts from billions of users can somewhat be a difficult task but Facebook"
     publishedDateTime: 2022-01-28T18:37:00Z
@@ -173,6 +151,6 @@ related:
         height: 450
         isCached: true
 
-secured: "wvU2ED/y86ira7Ol0RAqCBCG2osb57CkLMWeapWkwsOD8xLAPfFbcvhpLAnPMGNQs4n/uEF4jiiz7WejAVTSgwBiiE2gHYsh9x5LKtVH4+EPWRHsk88zVhkSEOrwAhgd56MUp0Jrjvv2JHpSj4XEjtmOvk2ose5iJFYwrrXEWd9uTAghozG0YyLgGvXbH5+YQrN1cIh+IA8w8/+HjucT+WkB3E4jzk5+uiDE3+P6XACd9ET5GbwVgpdktMEkh/bcORVIbJAYma2N/0yYep/EPwb6biHr5Qs5PJcno7vy9yY+HNlE1CrQ+GWFnXNWfAc/FAybLUyJoSce2hhe9YldM4hS1cPgCcY8Ba5xsrhuC/Y=;GOGrgD4LGZ3utGuRtkzDxQ=="
+secured: "K5TMgw+J/aG8gFBbWmMtDu++l1GWGGmJAJDt+UgHfay/XaFi+WCB+hOQ83Wh6IXWLgihzgQFaRhKN2rTdFZZOEikHd/q+FUqo//Pggovl/nwIST6XzetwmNUsAKtYWLzjGu759oFRQxDts6qG8TbaFdMqmEVr5C9Zcn/I3SBInkwYnUtZ2f5+EZYqSLjQr9lUy5fos1QXrLdhJTIi+PJ0joI6nGlGRJ6bMfrYzhZY2tvFX6IIO6rjwnDF1A6MhEBRrNiKi+FlmkfSqp1xNEMbGf0ZN4Xnx69tMfi/iZVbTrE3EymIevxQnF2uzvQWr4ZIY378++I1Apk5c9sZnKW8BwfbApqrJacE8Y6xkylwCc=;83932wH8P0b8aGmaLJdNYA=="
 ---
 
