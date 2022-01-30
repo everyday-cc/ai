@@ -41,6 +41,20 @@ related:
         width: 1142
         height: 940
         isCached: true
+  - title: "Best Data Analytics Certifications 2022"
+    excerpt: "Data Analysts are in high demand. Which certification is best for beginning or advancing your career? Review top Data Analytics Certifications now."
+    publishedDateTime: 2022-01-29T14:00:00Z
+    webUrl: "https://www.itbusinessedge.com/it-management/data-analytics-certification/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 24
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/01/Data-Analyst-Certifications.jpeg"
+        width: 1400
+        height: 935
+        isCached: true
   - title: "Observe.AI ranked G2 2022 Leader in Speech Analytics & Quality Assurance for Contact Centers"
     excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named a 2022 Grid Report Leader in Speech Analytics and Quality Assurance for Contact Centers by G2,"
     publishedDateTime: 2022-01-26T14:08:00Z

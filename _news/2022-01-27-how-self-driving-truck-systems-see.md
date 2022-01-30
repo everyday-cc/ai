@@ -41,22 +41,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Apple has expanding the team testing its self-driving cars in California"
-    excerpt: "Apple's self-driving cars in California. The cars are testing Apple's self-driving technology but not an actual car. Apple has expanded the team of people that are testing its self-driving cars on the streets of California."
-    publishedDateTime: 2022-01-26T14:29:00Z
-    webUrl: "https://www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california"
-    ampWebUrl: "https://www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california?amp"
-    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california?amp"
-    type: article
-    provider:
-      name: iMore
-      domain: imore.com
-    quality: 43
-    images:
-      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/apple-car-toyota-mashup.jpeg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "embedded news: Driver not responsible for self-driving features"
     excerpt: "A roundup of this week’s embedded news including a report from the legal industry on who’s responsible for self-driving features in autonomous vehicles, plus regular features, news, products and funding news which includes a startup applying AI to autonomous vehicles and mobile robotics with its $200 million funding round."
     publishedDateTime: 2022-01-28T15:11:00Z

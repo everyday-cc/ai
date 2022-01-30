@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-as
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://cdn.washingtontechnology.com/media/screen_shot_2022-01-18_at_3.03.12_pm.png"
         width: 764
         height: 927
+        isCached: true
+  - title: "Best Data Analytics Certifications 2022"
+    excerpt: "Data Analysts are in high demand. Which certification is best for beginning or advancing your career? Review top Data Analytics Certifications now."
+    publishedDateTime: 2022-01-29T14:00:00Z
+    webUrl: "https://www.itbusinessedge.com/it-management/data-analytics-certification/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 24
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/01/Data-Analyst-Certifications.jpeg"
+        width: 1400
+        height: 935
         isCached: true
   - title: "Observe.AI ranked G2 2022 Leader in Speech Analytics & Quality Assurance for Contact Centers"
     excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named a 2022 Grid Report Leader in Speech Analytics and Quality Assurance for Contact Centers by G2,"

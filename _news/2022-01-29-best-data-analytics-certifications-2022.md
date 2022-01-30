@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Observe.AI ranked G2 2022 Leader in Speech Analytics & Quality Assurance for Contact Centers"
-excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named a 2022 Grid Report Leader in Speech Analytics and Quality Assurance for Contact Centers by G2,"
-publishedDateTime: 2022-01-26T14:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-observeai-ranked-g2-2022-leader-speech-analytics-quality-/2022/01/26/9533563.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-observeai-ranked-g2-2022-leader-speech-analytics-quality-/2022/01/26/9533563.htm"
+title: "Best Data Analytics Certifications 2022"
+excerpt: "Data Analysts are in high demand. Which certification is best for beginning or advancing your career? Review top Data Analytics Certifications now."
+publishedDateTime: 2022-01-29T14:00:00Z
+originalUrl: "https://www.itbusinessedge.com/it-management/data-analytics-certification/"
+webUrl: "https://www.itbusinessedge.com/it-management/data-analytics-certification/"
 type: article
-quality: 8
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: IT Business Edge
+  domain: itbusinessedge.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/01/Data-Analyst-Certifications.jpeg"
+    width: 1400
+    height: 935
+    isCached: true
 
 related:
   - title: "Vanti Analytics secures $16M to assist manufacturers in deploying AI models"
@@ -49,21 +55,16 @@ related:
         width: 764
         height: 927
         isCached: true
-  - title: "Best Data Analytics Certifications 2022"
-    excerpt: "Data Analysts are in high demand. Which certification is best for beginning or advancing your career? Review top Data Analytics Certifications now."
-    publishedDateTime: 2022-01-29T14:00:00Z
-    webUrl: "https://www.itbusinessedge.com/it-management/data-analytics-certification/"
+  - title: "Observe.AI ranked G2 2022 Leader in Speech Analytics & Quality Assurance for Contact Centers"
+    excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named a 2022 Grid Report Leader in Speech Analytics and Quality Assurance for Contact Centers by G2,"
+    publishedDateTime: 2022-01-26T14:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-observeai-ranked-g2-2022-leader-speech-analytics-quality-/2022/01/26/9533563.htm"
     type: article
     provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 24
-    images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/01/Data-Analyst-Certifications.jpeg"
-        width: 1400
-        height: 935
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
-secured: "Khn4h20cB3D496FTgOjr503cTu6DY326XjTNwskNna4rFQeh66K+l/PlWNIT31rRMNfe/5WcTtTlSy8ENzCJO9xE8olc/74dec5QIb6PyORUfON+jUkYauOaHVPY/aeKD6h2YcNOulrohWWZajeFQdTcHCD9cFSWHXe8igtPfnQq12rL/pTGYYmHogo5i3vya3U1LyQDvQukR2pBo2MF36er33tD7ezihUZY4U0nsQ32o5zRVNfnPkEgEHLGwwj5YberGTHHHDHG2aLCOg/C+12M0vAEp9UWSFoSNOVHAGTsBicsAr48qHS2CYnDzZsROyeUQpnXabPzXdH7QwJ30Md+JBI2F+Z+x1TRDcLrz+s=;SH9SE/E+GnRqRzFTl0gnkg=="
+secured: "HL1Ug3iX0+a1k+bboN19VayfDGjCBuF2j/02+B7HCAu3iItmrott/PtYSFTRfWiyNtW4zQf20c80fOv9cw0RitIanDUND1mPdgkowWWqECkZRlByeNgQeL3uwz27xTw7Nd/O9jJpmGDzjzir7MJ+FbIn1cpZ+hAgsO0n8R9Ky07kDMRv7g1Z73LqEB6pvwgpiOTgN+NWADxWjeTFUx3u6nAoFxURVPxwQ7aA8yAgzWfzfBOk2NDj6vOLw735ke83NECQXsLH6aKSXGoqDY4MwQDeLQ12poq4t/3wtBNGQVo46t6PiH2tJY4nAkpSa3SfqXt1RlaJubldm6rMQAEXJ7/AYnp7f1UlHwdn2ieLcgk=;GmGfFS9xKfKfCrSDfR2N+A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2022/01/meta-metaverse-ai-explosion-network.jpeg"
         width: 1068
         height: 601
-        isCached: true
-  - title: "Meta-Facebook Has a Giant AI Supercomputer To Shape The Metaverse"
-    excerpt: "Class A Report formerly Facebook, has no intention of letting Microsoft ( MSFT) - Get Microsoft Corporation Report, Samsung ( SSNLF) or Nvidia ( NVDA) - Get NVIDIA Corporation Report take the lead in the race to mold and shape the metaverse,"
-    publishedDateTime: 2022-01-25T22:44:00Z
-    webUrl: "https://www.thestreet.com/technology/meta-facebook-has-a-giant-ai-supercomputer-to-shape-the-metaverse"
-    ampWebUrl: "https://www.thestreet.com/.amp/technology/meta-facebook-has-a-giant-ai-supercomputer-to-shape-the-metaverse"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/meta-facebook-has-a-giant-ai-supercomputer-to-shape-the-metaverse"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 61
-    images:
-      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc5MzExNjExNTc0NjI1OTg3/microsoft-names-qualcomm-executive-hou-yang-as-new-greater-china-chief.jpg"
-        width: 620
-        height: 400
         isCached: true
   - title: "Meta builds AI Research SuperCluster for future AI and the metaverse"
     excerpt: "Meta believes that its new AI Research SuperCluster (RSC) will be among the fastest AI supercomputers running in the world once it’s fully built. The supercomputer is being constructed in phases. In the current phase 1,"

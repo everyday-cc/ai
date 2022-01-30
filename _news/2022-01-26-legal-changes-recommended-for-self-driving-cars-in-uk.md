@@ -135,22 +135,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Self-driving car users should have immunity from offences – report"
-    excerpt: "Law commissions recommend that vehicle users should not face regulatory sanctions if something goes wrong"
-    publishedDateTime: 2022-01-25T23:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jan/26/self-driving-car-users-should-have-immunity-from-offences-report"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jan/26/self-driving-car-users-should-have-immunity-from-offences-report"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jan/26/self-driving-car-users-should-have-immunity-from-offences-report"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/1b92b73fec67fe1e27002bf15f897c4e76a7c682/0_37_6720_4032/master/6720.jpg?width=620&quality=85&auto=format&fit=max&s=a805d7a5fe0ef0cc3fcc0273bf08013f"
-        width: 620
-        height: 372
-        isCached: true
   - title: "No-fault regime proposed for self-driving cars"
     excerpt: "The person in the driving seat of a vehicle relying on self-driving features would no longer be held responsible for accidents and infringements under law reforms proposed today. Instead, under a new 'Automated Vehicles Act',"
     publishedDateTime: 2022-01-26T12:26:00Z
