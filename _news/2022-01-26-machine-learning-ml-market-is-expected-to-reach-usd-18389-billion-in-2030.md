@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expect
 webUrl: "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Middle East North Africa Financial Network
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Artificial Intelligence (AI) Market Sales is Expected to Reach $84.80 Billion by 2030"
-    excerpt: "According to the latest report of Allied Market Research, titled “Mobile Artificial Intelligence (AI) Market by Technology Node (20–28nm, 10nm, 7nm, and"
-    publishedDateTime: 2022-01-26T00:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-artificial-intelligence-ai-market-sales-is-expected-to-reach-84-80-billion-by-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 60
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/77382e6ba11d374925336267f0919e66e3a9618e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Size Worth $208.2 Billion By 2030: Grand View Research, Inc."
-    excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030, according to a new report by"
-    publishedDateTime: 2022-01-27T10:05:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research-inc--864587650.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
-        width: 1400
-        height: 733
-        isCached: true
   - title: "Artificial Intelligence in the Cancer Market is anticipated to reach USD 5,292.8 million by 2030"
     excerpt: "Artificial Intelligence in Cancer to surpass USD 5,292.8 Million by 2030 from USD 297.3 Million in 2020 at a CAGR of 34.4% in the coming"
     publishedDateTime: 2022-01-26T11:41:00Z
@@ -66,6 +38,20 @@ related:
       - url: "https://menafn.com/updates/pr/2022-01/26/EP_d6121image_story.png"
         width: 1418
         height: 710
+        isCached: true
+  - title: "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028"
+    excerpt: "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting a CAGR of 11.1% between 2021 to 2028. In its report titled“Cryptocurrency Market,"
+    publishedDateTime: 2022-01-27T10:42:00Z
+    webUrl: "https://menafn.com/1103600603/How-Artificial-Intelligence-Will-Boost-the-Cryptocurrency-Market-to-Reach-USD-19025-Million-by-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 26
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?510592"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "0BV5PJGnMD5LnUvHZMsmMofBj1LyzmUS+c0gflwoYW6m0Q/XN9ak2Y4AAghmZIWm/hRxncornTVuF4FnjLXEAfF0dxevhXRn2hjexJuogl2XX6B5uN0AZzXbgP8UbGfQoxpBN/6HKGZGnyvDFmt9nvH4ex6rEVG1JcU5XIP3P4ROS4h7vS0w2iSHXA0maWi/O48VgiKsX740cv7xYOQO6JlaHaqKXl9tN3TUUtq/7ut5JnPfqzjccZy29ROWOyatnt21ydqI7GDfW7pMD1OvK2sZjeQaIM3UZrZSTsm4CcRjLS876A/vJMHFiyK5PeJkbNJXI+7FnwrjawEkoeKYKH3rbtx9pGatn6+8qbcZbNA7H/qWcNRopPmv8VXA5+0/5PjdIgHov7bOxfnv/yKwNg5C1ByRXAcFEFfz6V+z7Os24Q3BICyPo6y/i+0CreNOK8V65VCRhY1BPVF4K/U0LQTkVCuUOlnQXOz5lCA+XAtoVY5XL872my1tSwyG79QX/2xO3FY0n9ebtjg4BHyWPA==;nB87DbCD1FTQFTGiHANaAg=="

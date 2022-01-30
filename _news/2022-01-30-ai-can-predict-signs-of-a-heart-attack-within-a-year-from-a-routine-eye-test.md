@@ -36,7 +36,7 @@ related:
     provider:
       name: WBTW
       domain: wbtw.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://www.wbtw.com/wp-content/uploads/sites/22/2022/01/eye-scan.jpg?w=1280"
         width: 1280

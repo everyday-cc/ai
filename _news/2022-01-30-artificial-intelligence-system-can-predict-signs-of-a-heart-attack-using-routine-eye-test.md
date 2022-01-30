@@ -8,7 +8,7 @@ webUrl: "https://www.wbtw.com/health/artificial-intelligence-system-can-predict-
 ampWebUrl: "https://www.wbtw.com/health/artificial-intelligence-system-can-predict-signs-of-a-heart-attack-using-routine-eye-test/amp/"
 cdnAmpWebUrl: "https://www-wbtw-com.cdn.ampproject.org/c/s/www.wbtw.com/health/artificial-intelligence-system-can-predict-signs-of-a-heart-attack-using-routine-eye-test/amp/"
 type: article
-quality: 48
+quality: 50
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.wbtw.com/wp-content/uploads/sites/22/2022/01/eye-scan.jpg?w=1280"
@@ -43,6 +44,6 @@ related:
         height: 813
         isCached: true
 
-secured: "jsKT2wZ27jS3H59A4eBiBZehOUwSuO8KPctA08lR+OM0zhehoUgG1V2MsRjT7We9X8hS29Ni7pSgPMLMCnAu9INua1DpAGkp4m34kV9R3v6pcpIK/dkE4ChX/tYZ3vRgovSshVB+4ldJ1jVDoMDinBG3hXAJEF7bBqFpnLpJLcMDke9LjpToDJJ9k6XyNoeOmL8vA1rAmUoGg1+rtrrKNZWCZJRbyuzciC6cOQh5wI+N5ctvuW7qmZCAhKH2kQllK7sVIOipQ4s1ijpoaN/96jy/LKbOWHTmnKdRNMeZP+zrdmcrXgDBRvmiTa1cN0a8t/vRXrsLnCGaqrWcATAAFahe2qbU6PHAlm/y4qxOUFM=;caQgbJx73eEu1lLK2kbQDA=="
+secured: "URY374DKJCgnQOxCaqBBWkH3o2YKYkbljOJokhqSzh76mzJGf9OoenaDJcHLiXuQCOdzJVzyO6AP9QBVidzB0pjzlEyGKp/kiI4+vsCOU/5cqubsIOcvUXpEvbK95aKDPB7vWgyKgqQF/uZbig35sg4NKKIvJBveFFsXMOV8aqSqzRdZ1/yTALRtFuHAfunqKb7pb+LRmX0/vE+yp3byOCfMX7owos8ZOGhj8Epb+TX4fVpicaAHUtB6SwR6O/l4Qdnnc4H1FFbZl7eXuaV9x42vlxTzruuWJqtChyVB0yACBYKXsfRuviyHmvw6F+dQOFboTCZU/KL1OMLO0e/+BLz3ZWEg0zA7x4nNEcEwUmTiPT+yYFUf2kysJEhFuF8/CvHMA32CjMaitYuae4mF9uDfhT14M9G8LCrxenmPbWPnWItlVBY96hCj6VCdYxJxPiGAOzNlVGzvayA6O1YZNwrNICdV91M4xEiNJt5uXwKK5vCeP1h3SBLhZLdKXM7VXLOhVdmfMGS2Sr7DjI+npQ==;JSPpPgcbvbhrYnIrE9PBCg=="
 ---
 

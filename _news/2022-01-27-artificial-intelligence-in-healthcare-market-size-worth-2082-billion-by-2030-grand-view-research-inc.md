@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence
 webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research-inc--864587650.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,47 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Artificial Intelligence (AI) Market Sales is Expected to Reach $84.80 Billion by 2030"
-    excerpt: "According to the latest report of Allied Market Research, titled “Mobile Artificial Intelligence (AI) Market by Technology Node (20–28nm, 10nm, 7nm, and"
-    publishedDateTime: 2022-01-26T00:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-artificial-intelligence-ai-market-sales-is-expected-to-reach-84-80-billion-by-2030"
+  - title: "Global Data Annotation Tools Market (Services) Size Value to Reach USD 3,046.7 Million by 2028, at 27.2% CAGR: Polaris Market Research"
+    excerpt: "According to the latest research study, the report predicts the global Data Annotation Tools Market size & share to reach around USD 3,046.7 Million by 2028 from USD"
+    publishedDateTime: 2022-01-27T22:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/ab25272947/global-data-annotation-tools-market-services-size-value-to-reach-usd-3-046-7-million-by-2028-at-2"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25272947"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25272947"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 60
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/77382e6ba11d374925336267f0919e66e3a9618e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Machine Learning (ML) Market is Expected to Reach USD 183.89 Billion in 2030"
-    excerpt: "NEW YORK, NY, UNITED STATES, January 26, 2022 /EINPresswire.com / -- Extensive adoption of smartphones, e-commerce, and social media due to rising penetration of the Internet is driving machine learning market revenue growth The global Machine Learning (ML) market size is expected to reach USD 183."
-    publishedDateTime: 2022-01-26T07:43:00Z
-    webUrl: "https://menafn.com/1103595051/Machine-Learning-ML-Market-is-Expected-to-Reach-USD-18389-Billion-in-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 51
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/26/EP_dee60image_story.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Artificial Intelligence in the Cancer Market is anticipated to reach USD 5,292.8 million by 2030"
-    excerpt: "Artificial Intelligence in Cancer to surpass USD 5,292.8 Million by 2030 from USD 297.3 Million in 2020 at a CAGR of 34.4% in the coming"
-    publishedDateTime: 2022-01-26T11:41:00Z
-    webUrl: "https://menafn.com/1103595888/Artificial-Intelligence-in-the-Cancer-Market-is-anticipated-to-reach-USD-52928-million-by-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/26/EP_d6121image_story.png"
-        width: 1418
-        height: 710
+      - url: "https://www.abnewswire.com/uploads/1643286664.jpeg"
+        width: 1280
+        height: 451
         isCached: true
 
 secured: "eX4lOY4OhOSkhKhgj5Df/4LmCnOhUCwy4sMBAP7SL4gUETGSSfzrRk0mKYO721Oro4pvU9gbqJiU9VBeg3r69ijKMQ+TRof66KT4vykCZFGr+CAAntZPpxm+LaLVeZQWfOOFo66VBSxxGkTBoIYpPDsBoGOdoUn4354M7+ZlONwzStzLLUNgpSsmvrZX879cKtvqkGilsb8FWlLSIvvm5NgSiWVAxzV7cMNHBtxN/M2HPdORzdA9BwGpeODypOtVSnevhtuwr4RIntZ8Ph/KOaFrW9vPylryZ6QwWVOylLOFgef3dpw6y1Xwu4WomXDjkf8lg8dWG4o1ENJW0P08N56wKaMdv0uI2P7wv8d/D0tvnZGlhvjcdG3mnvC6ABlevHs75sIOv+/XcJCICsRuIA6/Hv80xcCtO76ibKyleEoUMK8FXK+pK1bKWlb1GMQc5RsI1XSVxk8iGVulxGSKrBcHTpS4cfD1SCyJ0SvL0ySn1xSVTDPwcnB+m3VnW7+zT6XRUO/Iwgn/tNJPGLkzcw==;lp6ZIC8yM8JYvE6zD1BwtA=="

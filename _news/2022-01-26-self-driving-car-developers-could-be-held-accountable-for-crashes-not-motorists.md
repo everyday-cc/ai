@@ -87,20 +87,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Self-Driving Car Users Should Not Be Responsible ‘If Anything Goes Wrong’: Report"
-    excerpt: "Someone behind the wheel of a self-driving car should not be legally responsible if it is involved in a crash, according to new proposals."
-    publishedDateTime: 2022-01-26T00:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-01-26/self-driving-car-users-should-not-be-responsible-if-anything-goes-wrong-repor"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 49
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7r_ZXR99xWU/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Car makers face legal responsibility for self-driving car crashes"
     excerpt: "The Law Commission of England and Wales and the Scottish Law Commission have suggested that car makers should be legally responsible for any crashes caused by their self-driving cars."
     publishedDateTime: 2022-01-26T09:53:00Z
@@ -204,20 +190,6 @@ related:
       - url: "https://i2.wp.com/fleetworld.co.uk/wp-content/uploads/2021/03/Autonomous-vehicle-release1.jpg?fit=1024%2C768&#038;ssl=1"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Users of self-driving car should be immune from sanctions, new proposals suggest"
-    excerpt: "Under the plan, the company or body that obtained authorisation for the technology would take legal responsibility"
-    publishedDateTime: 2022-01-26T00:01:00Z
-    webUrl: "https://www.nottinghampost.com/news/uk-world-news/users-self-driving-cars-immune-6550143"
-    type: article
-    provider:
-      name: Nottingham Post
-      domain: nottinghampost.com
-    quality: 19
-    images:
-      - url: "https://i2-prod.kentlive.news/incoming/article5720434.ece/ALTERNATES/s1200/1_SSR_DCM_1407motsjpgars.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Self-driving car users shouldn’t be liable if anything goes wrong, say law commissioners"
     excerpt: "Whoever's behind the wheel of a self-driving car shouldn't be held responsible if it crashes, according to new proposals by legal review bodies. The Law"

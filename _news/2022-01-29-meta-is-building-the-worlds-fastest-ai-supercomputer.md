@@ -39,38 +39,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Meta plans the world’s fastest supercomputer for AI"
-    excerpt: "Facebook’s parent company Meta said it is building the world's largest AI supercomputer to power machine-learning and natural language processing for building its metaverse project. The new machine, called the Research Super Computer (RSC),"
-    publishedDateTime: 2022-01-25T23:37:00Z
-    webUrl: "https://www.networkworld.com/article/3648289/meta-plans-the-worlds-fastest-supercomputer-for-ai.html"
-    ampWebUrl: "https://www.networkworld.com/article/3648289/meta-plans-the-worlds-fastest-supercomputer-for-ai.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3648289/meta-plans-the-worlds-fastest-supercomputer-for-ai.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 61
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/22/16/facebook_by_gerd_altmann_cc0_via_pixabay_1200x800-100758881-large-100825209-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Meta plans the world’s largest AI supercomputer"
-    excerpt: "Facebook’s parent company Meta said it is building the world's largest AI supercomputer to power machine-learning and natural language processing for building its metaverse project. The new machine, called the Research Super Computer (RSC),"
-    publishedDateTime: 2022-01-25T23:06:00Z
-    webUrl: "https://www.networkworld.com/article/3648289/meta-plans-the-world-s-largest-ai-supercomputer.html"
-    ampWebUrl: "https://www.networkworld.com/article/3648289/meta-plans-the-world-s-largest-ai-supercomputer.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3648289/meta-plans-the-world-s-largest-ai-supercomputer.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 61
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/22/16/facebook_by_gerd_altmann_cc0_via_pixabay_1200x800-100758881-large-100825209-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Meta says it will soon have the world’s fastest AI supercomputer"
     excerpt: "Meta, formerly known as Facebook, is already using supercomputer to train major models in natural language processing (NLP) ."
     publishedDateTime: 2022-01-27T10:56:00Z
@@ -88,16 +56,19 @@ related:
         height: 676
         isCached: true
   - title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
-    excerpt: "The company formerly known as Facebook, Meta Platforms (NASDAQ: FB), just unveiled details for its new AI Research SuperCluster (RSC). It's a massive supercomputer housed in a data center, and once it's fully constructed in mid-2022,"
-    publishedDateTime: 2022-01-29T12:20:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
-    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
+    excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
+    publishedDateTime: 2022-01-29T13:20:00Z
+    webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 53
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
+        width: 5408
+        height: 3605
+        isCached: true
 
 secured: "nann71qqQCHRbEbuy3AeLDI2tcBwyX6PMh5ZFgkgeo1N6paQe5BZeZwQhYpb6OIzkBm99Pel2XqYxq9qs2zgBOA+Q1Esej08fz+fiQ6vOZZMpFZ61Jj5dTGoU5QlLNYMr64Q4bL0bb5m/gt9CnWoijKuD2fUG6W6sy4kPUWCGzFRufnRL/g+cILZu6VHmUoWTeaH/kBCQCgBydrVlH8DOa04KWB8WoX8ylatBc+SqzIJepNEBbanTAWWm5E/icXyTP86+TojTZd/KuWQgeIiMSHK37QVblsn/y7YNKczpX5w2nav/fS5j3zfxUv2eYyI+j8g1F766+/SxEy9x7+B/0ugYo4PrDk/RGnunjZA+XVAAEM2pgJAM5IuHJzSdzCKKhANbuFrJUDIWH42r5pUKTQUMnXfGMcnTMLTgk7YaJ2m9hXZooyou3PpNpUUQCu+q04aDtWNJkEoV6IBuUZfv/5GTVWOzJcp+zWdFcu+Lvk7EuH+W3vNp5+H69l2fM+cw8jB0A3fLo//gBydjv9M1g==;SXbuL0OgxX1fV1VDt2Wisw=="
 ---
