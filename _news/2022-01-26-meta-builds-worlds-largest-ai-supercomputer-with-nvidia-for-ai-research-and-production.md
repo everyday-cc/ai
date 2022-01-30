@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/01/25/meta-builds-world
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/01/25/meta-builds-worlds-largest-ai-supercomputer-with-nvidia-for-ai-research-and-production/amp/"
 type: article
 quality: 83
-heat: 263
+heat: 253
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta teams with Nvidia to build the 'world's fastest' AI supercomputer"
-    excerpt: "The installation will bring a number of AI-based features to Meta's platforms, including its proposed metaverse"
-    publishedDateTime: 2022-01-25T10:48:00Z
-    webUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/362058/meta-nvidia-worlds-fastest-ai-supercomputer-metaverse"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 69
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816559/itpro/2019/04/supercomputer_shutterstock_753459625.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Facebook’s Parent Meta Is Building The World’s Fastest AI Supercomputer"
     excerpt: "Facebook parent Meta Platforms Inc. on Monday announced a new artificial intelligence (AI) supercomputer known as the “AI Research SuperCluster or RSC”."
     publishedDateTime: 2022-01-25T14:53:00Z
@@ -148,7 +134,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
         width: 5408

@@ -44,20 +44,6 @@ related:
         width: 1190
         height: 628
         isCached: true
-  - title: "Meta teams with Nvidia to build the 'world's fastest' AI supercomputer"
-    excerpt: "The installation will bring a number of AI-based features to Meta's platforms, including its proposed metaverse"
-    publishedDateTime: 2022-01-25T10:48:00Z
-    webUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/362058/meta-nvidia-worlds-fastest-ai-supercomputer-metaverse"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 69
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816559/itpro/2019/04/supercomputer_shutterstock_753459625.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Meta plans the world’s fastest supercomputer for AI"
     excerpt: "Facebook’s parent company Meta said it is building the world's largest AI supercomputer to power machine-learning and natural language processing for building its metaverse project. The new machine, called the Research Super Computer (RSC),"
     publishedDateTime: 2022-01-25T23:37:00Z
@@ -144,7 +130,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
         width: 5408

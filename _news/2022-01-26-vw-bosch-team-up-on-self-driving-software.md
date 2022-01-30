@@ -68,20 +68,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 38
-  - title: "VW teams with biggest car-parts maker to boost self-driving"
-    excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to bolster its automated driving push and catch up with the likes of Tesla Inc. on software"
-    publishedDateTime: 2022-01-25T10:37:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/25/01/2022/vw-teams-with-biggest-car-parts-maker-to-boost-self-driving"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 24
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20220124_1643022010-187.jpg?1643022010"
-        width: 960
-        height: 637
-        isCached: true
 
 secured: "8G6h77NqOcOwE/LkDdQ7l/thL/KhQ7eabyM4c9XfRogrJrLP8V1dfpQKodn4fTsKzIUPRlHrheBgSDqSEH1fyZQmOg0nFcPvnoMXuZXl3rFUFreAfVAPcgQeEkq3RbR3f8VfOISMp3Gzj0NFSihi5pWpviCcaT0KelMSD3Zu0mlpacPO5WnJFPweRc7fKMOE2LhsGiXSTHmjb+we8evLRFAo9DJRS95m6UyvZu+4xebKgjLRv0ua4Odep/4QqNRXm2s6iWocWWStmXHswOeKIBcgtc1SRa0hwb0lLC1Y3r4nMae0NRWCL888l6mdOY3TJwxgYE4z9LqVn/CgRtVX2D9m+qHITr7ILFFzxxp0Zas=;PtmZttLq3KZ4hrHu88H1AQ=="
 ---

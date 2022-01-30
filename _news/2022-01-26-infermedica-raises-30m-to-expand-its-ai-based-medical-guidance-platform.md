@@ -30,103 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "InstaDeep raises $100M to inject enterprise decision-making with AI"
-    excerpt: "InstaDeep, a company collaborating on AI solutions for organizations including Google AI and BioNTech, has raised $100 million in capital."
-    publishedDateTime: 2022-01-25T10:22:00Z
-    webUrl: "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/amp/"
+  - title: "DigitalOwl raises $20M to analyze medical records for insurers"
+    excerpt: "DigitalOwl, a startup developing an AI-powered system to analyze medical records for insurers, has raised $20 million in venture capital."
+    publishedDateTime: 2022-01-26T20:00:00Z
+    webUrl: "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/"
+    ampWebUrl: "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 189
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-636609180.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/health-analytics.jpg?w=1200&strip=all"
+        width: 1070
+        height: 607
+        isCached: true
+  - title: "o9 Solutions raises $295M to apply analytics to the supply chain and beyond"
+    excerpt: "Solutions, a company developing analytics solutions for supply chain challenges and beyond, has raised a whopping $295 million in capital."
+    publishedDateTime: 2022-01-26T18:08:00Z
+    webUrl: "https://venturebeat.com/2022/01/26/o9-solutions-raises-295m-to-apply-analytics-to-the-supply-chain-and-beyond/"
+    ampWebUrl: "https://venturebeat.com/2022/01/26/o9-solutions-raises-295m-to-apply-analytics-to-the-supply-chain-and-beyond/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/o9-solutions-raises-295m-to-apply-analytics-to-the-supply-chain-and-beyond/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all"
         width: 1200
-        height: 579
+        height: 599
         isCached: true
-  - title: "Tunisian enterprise AI startup InstaDeep raises $100M from Alpha, BioNTech, Google"
-    excerpt: "A recent survey carried out by CNBC reported that 81% of executives worldwide say AI will play a prominent and critical role in how their businesses operate this year. Companies are phasing from the first generation of AI,"
-    publishedDateTime: 2022-01-25T12:03:00Z
-    webUrl: "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/"
-    ampWebUrl: "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/amp/"
+  - title: "DigitalOwl Raises $20M Series A Led by Insight Partners to Support Innovation and Growth"
+    excerpt: "DigitalOwl, the first and only Natural Language Processing (NLP) technology for deeply analyzing and summarizing medical records, today announced a $20M Series A round led by New York-based global private equity and venture capital firm Insight Partners,"
+    publishedDateTime: 2022-01-26T14:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-digitalowl-raises-20m-series-led-insight-partners-support-/2022/01/26/9533565.htm"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/762AEA63-1005-49DE-8AAD-2DF6AB8A18BA.jpeg?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "AI startup SparkCognition raises $123M on a unicorn valuation of $1.4B"
-    excerpt: "Artificial intelligence startup SparkCognition Inc. revealed today that it has raised $123 million in new funding to expand sales and marketing efforts as well as research and development investments to accelerate its growth."
-    publishedDateTime: 2022-01-26T02:11:00Z
-    webUrl: "https://siliconangle.com/2022/01/25/ai-startup-sparkcognition-raises-123m-unicorn-valuation-1-4b/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/sparkcognition.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
-  - title: "InstaDeep, creator of AI-powered decision-making systems, raises $100M"
-    excerpt: "InstaDeep Ltd., a Tunisian artificial intelligence startup that’s making advanced decision-making systems to solve real-world problems, said today it has closed on a $100 million funding round. The Series B round was led by Alpha Intelligence Capital and CDIB,"
-    publishedDateTime: 2022-01-26T01:44:00Z
-    webUrl: "https://siliconangle.com/2022/01/25/instadeep-creator-ai-powered-decision-making-systems-raises-100m-series-b-funds/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/73515572_1410568199093561_5581692699917942784_n.png"
-        width: 1919
-        height: 868
-        isCached: true
-  - title: "Tunisian AI Startup InstaDeep Raises $100 Million In Series B Round"
-    excerpt: "InstaDeep, an AI startup based in Tunisia and London has secured $100 million in its Series B financing round co-led"
-    publishedDateTime: 2022-01-28T12:26:00Z
-    webUrl: "https://techbooky.com/tunisian-ai-startup-instadeep-raises-100-million-in-series-b-round/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/insta-deeplogo.png?fit=708%2C430&ssl=1"
-        width: 708
-        height: 430
-        isCached: true
-  - title: "InstaDeep Raises $100M to Scale Decision-Making AI Products that Solve Real-World Problems"
-    excerpt: "InstaDeep, a leader in advanced AI decision-making systems for solving real-world problems, announced today it has raised $100M and closed a Series B round led by Alpha Intelligence Capital together with CDIB."
-    publishedDateTime: 2022-01-25T12:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-africa-london-d910b8014a784600b6a1c3df3c6108fd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "From Covid to logistics to food security: Born-in-Africa InstaDeep tackles complex problems with AI"
-    excerpt: "Africa’s contribution to the world of artificial intelligence is in the spotlight this week with the announcement by born-in-Africa AI disruptor InstaDeep that it has raised $100 million – while welcoming high-profile backers including BioNTech,"
-    publishedDateTime: 2022-01-26T12:50:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/from-covid-to-logistics-to-food-security-born-in-africa-instadeep-tackles-complex-problems-with-ai-2022-01-26"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 20
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "E5wgf2lQflWXWqjqMRR5IAlS99DBOQV/2EO+msCyyQLHLa/sXxkJv8Ut6S7t+uGy8KsvJEMeD3cJTGFv0bUIwhnQe1QhF8NJSq4iaPoP9a25pMb+pcVeZfibKrCpG0/88FZbG08ynVHHzk8y2bTH5TwMEq7QQ9YTJcQqTV5EcuONZjkTFxnenrEFtRKqYTOkLJNI9Sk4fK8UWlUmGKg848flaN9cDzQHN5Cl6KDYlJfYU9F+luZT/8JJgArJUyzzDYvFjfvFI2dxg/qXKvqcYTMiN8mINcAyGquLxqESgQl7NVW+0/Bixkk8J8zEdEURYnX0ZDqX2h6c9Q8idaPleqLfDNtc7Rt2o8+NqGr/ziLjOj946BdL0CCZaPRl4Exbl4uS6teTeuk7e65eyk3lDjO5SSzc+1Pg5Q8Ou/cfh2A0qYXy5syVbUcSg3G2TtLfy4nNvHK8C6w1k1CZL4deOxHtru8jQBBj53fkCXLmQXXtAgXrRH8VqW6F3NJVbZev2M294ACf+yZurOdiB9a0vQ==;ncLQ9/VOTLUIM1ZEk7+ePA=="
 ---

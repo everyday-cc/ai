@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-29T13:20:00Z
 originalUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
 webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
@@ -44,20 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61f0640bbe20b8898946d1ec/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1190
         height: 628
-        isCached: true
-  - title: "Meta teams with Nvidia to build the 'world's fastest' AI supercomputer"
-    excerpt: "The installation will bring a number of AI-based features to Meta's platforms, including its proposed metaverse"
-    publishedDateTime: 2022-01-25T10:48:00Z
-    webUrl: "https://www.itpro.co.uk/server-storage/high-performance-computing-hpc/362058/meta-nvidia-worlds-fastest-ai-supercomputer-metaverse"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 69
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816559/itpro/2019/04/supercomputer_shutterstock_753459625.jpg"
-        width: 1260
-        height: 710
         isCached: true
   - title: "Facebook’s Parent Meta Is Building The World’s Fastest AI Supercomputer"
     excerpt: "Facebook parent Meta Platforms Inc. on Monday announced a new artificial intelligence (AI) supercomputer known as the “AI Research SuperCluster or RSC”."
@@ -289,6 +276,6 @@ related:
         height: 450
         isCached: true
 
-secured: "hEEqegcgYo3cdgprOjWX4fLPZbtUgAOQt+QeqzkqgZSbh/uL9VeMwOx8NYUlS4bGM1vwPdLtAE0dcmXnhB18KX4e4XDUdLoBogJcUy8XIBkUVUDc01YM/tUIGyErd+PwtkUfVRApsRbXUS9+tY+sAYy4C2fJQ6neCb/kmw9Gzj/sKihTKWAVOoPsEp2BxllIHwBWMlyGWs+n9vXQPVAgpqDcJUP3x+ZY/cqmsMpmT7ZuYJybFvcR6gOvZyNkjMXXcmTIkkhluIbhKUqJkeTCKHnzMhPBTU2UwkZn9fwR4CffjOPc+SoNAiO477yw9QNhSOkUTl7mn0fJpeFwYhJWsJaOq+3yfLUR2XbIZL1tK58=;rfL6wgMiFKWaSk+QAKFukg=="
+secured: "KBcyazcwqbf4/PuHWDJfP3tNJ0Ko5Nl6STHEpTxIWNfjT/5uYhSA30WXtH3tqDH0yNEL1Uhl+87QaQb5nNSkHv9l+7X6R9gFYy9W+2G6Z+1ZfWoWEub4p0BSWSkqyHZuUSeU/zi/V0o9c0I0byIBh81ECQwLrlPk1MseyLuDl4eBDKNIE+q+j5tfVL1EGSQMOUGVnt+DS0nYRr5wXZwIYDOLihTBa35K+2hg2eR8XKlSQ1GPIgrHiAW4rQXAUQ9Q+LsAqytM9rmn1tn4+h4zbxjWFszoAxo870Rq3Gjp1tM6Gp3HEtaI7w0KzZGxNTR94dLCFG17A9Nz5U+H3XFqi82Y9dB4FOrrtCqPMPIeBQIM0PSUPQCUFGXpn2z/tlvJR2/3ed2dDOAtisCuxWCyVGGj9venHqxSfD/sKlqNiTVVWTvBIv4cUL11wHXwAJ/NpP0mqDVAa+5Qs91djPMoiBVT94fyp6er7oYUDttPiV8RFkFNqlwvIwDdBKZcj+j3rNcohZPCxBGs9wsCRQPp0w==;ekw+rUM/5p/xtZRX8YJA0w=="
 ---
 

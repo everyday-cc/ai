@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 579
         isCached: true
-  - title: "SparkCognition, which develops AI solutions for a range of industries, nabs $123M"
-    excerpt: "SparkCognition, an Austin, Texas-based company developing AI solutions for a range of markets, has raised $123 million in capital."
-    publishedDateTime: 2022-01-25T10:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/"
-    ampWebUrl: "https://venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1248800431.jpg?w=1200&strip=all"
-        width: 1200
-        height: 612
-        isCached: true
   - title: "Acting New Jersey Attorney General Seeking Public Comment on the Use of Facial Recognition By Law Enforcement"
     excerpt: "Many states this year are contemplating legislation and/or regulation in regards to biometric information and New Jersey is no exception.  This month Acting Attorney General Andrew J. Bruck annou"
     publishedDateTime: 2022-01-25T23:32:00Z
@@ -100,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
-    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-    publishedDateTime: 2022-01-25T16:38:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "MinIO Raises $103 Million in Latest Funding Round"
     excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, announced it has raised $103 million in Series B funding at a $1 billion valuation, enabling the company to accelerate multi-cloud storage adoption."
     publishedDateTime: 2022-01-28T18:46:00Z
@@ -127,6 +97,20 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI startup SparkCognition raises $123M on a unicorn valuation of $1.4B"
+    excerpt: "Artificial intelligence startup SparkCognition Inc. revealed today that it has raised $123 million in new funding to expand sales and marketing efforts as well as research and development investments to accelerate its growth."
+    publishedDateTime: 2022-01-26T02:11:00Z
+    webUrl: "https://siliconangle.com/2022/01/25/ai-startup-sparkcognition-raises-123m-unicorn-valuation-1-4b/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/sparkcognition.jpg"
+        width: 2048
+        height: 1367
         isCached: true
   - title: "Slim.AI Closes $31 Million Series A to Automate Best Practices in Software Supply Chain Security for Cloud-Native Applications"
     excerpt: "Slim.AI, the Boston-based startup focused on optimizing and securing cloud-native applications, announced today that it has raised a $31 million series A round co-led by New York-based global venture capital and private equity firm Insight Partners as well as StepStone Group,"
@@ -193,6 +177,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
+    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
+    publishedDateTime: 2022-01-25T16:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "HAaEwCUptxpeL2R/FZdjPWV/X6Jq4eh+ewqkNOfgNgknBxdBg7WReqvnou4e09+AqDUYGJn5Bd+LSmCHhRE9WNStOwV72CNbBOUEhlUbMaExeweSQm+eJaaUM4umGbFBBhZzb1/f+455r0zhlS4C4qcdxVAWT0hxNsp/k1Qwcklu8Y9JeAjB5a+FyHPYa6/MDn+5wjFaAFBwUAOjwagvbvYRGD7zDJQj6ehjLbb4IVsJLZ0vCV+uLTMuDaqOgMIgeBvQPTeGYqmXNJn9xWXLtVMY3VzU5Bfj33Gtjt9gzSso4Z9MawI0JQ2udt9OTlFViDd/IVYUQBr/cmuJ7uPJl3sfH2s5JfL3/ywlZO3Ndxk=;vDT3MG+Ldz9Bx420HlLvmQ=="
 ---

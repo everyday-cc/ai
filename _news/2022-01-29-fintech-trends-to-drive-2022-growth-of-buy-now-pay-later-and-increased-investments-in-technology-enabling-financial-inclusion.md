@@ -52,20 +52,6 @@ related:
         width: 480
         height: 262
         isCached: true
-  - title: "Five ways to diversify fintech for future consumer"
-    excerpt: "To seize the opportunities of the future, fintech firms must adapt their services for increasingly diverse markets. We outline five key themes"
-    publishedDateTime: 2022-01-25T10:28:00Z
-    webUrl: "https://www.raconteur.net/finance/diversify-fintech-future-consumer/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 24
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Five-ways-to-diversify-fintech-for-future-consumer.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "28/01 – Weekly Fintech Recap"
     excerpt: "Partnerships Segmint partners with Snowflake to revolutionize payment transaction enrichment for financial institutions Segmint, the global leader in transaction cleansing and analytics for financial institutions (FIs),"
     publishedDateTime: 2022-01-28T20:27:00Z
@@ -94,15 +80,6 @@ related:
         width: 728
         height: 800
         isCached: true
-  - title: "Future of FinTech | January 2022 – Week 3"
-    excerpt: "The third week of this month enters with a whirlwind when it comes to the news around the Fintech space. Last week’s colossal buzz encompasses a range of players – from the nascent stages to the giants alike."
-    publishedDateTime: 2022-01-25T10:34:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-fintech-january-2022-week-3-whitesight"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 4
 
 secured: "sPbzev1TJiHsupBnPCbMqxKaWUb6kHy367+0+htkVFf+OHS6inmAana2YlVXmH5ts0nPEjdwNUZjuLttjqKQ/yvoco5cF6x9OpqGct/oJ+S99cvRcQzUR4IvQpCQ6fE5lMr5H0Y6+y1RJbhTiIZ6TM3k48lufI4wge1lOjY9cW5RVazSeqTZaHG8dL421lBEumWHAmyP23VhciiOpS5cZK1nLt7ziCddKcUoJemVcfUDKHdzJXWcb65HseVAIz8u+ETjH/ZGsxUeBpZeOBw4Vr9Mdvxo6hZbitQmY+tRC24jP8Vt9MmyHv6YlFa3mergbyztKtj3oJLRU3CnxdHXxbNrqmJV75985hW4tv2AJNY=;7tvPn8QOAV3AWNHJL75t1g=="
 ---

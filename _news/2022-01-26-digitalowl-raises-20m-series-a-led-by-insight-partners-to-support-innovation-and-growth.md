@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Infermedica raises $30M to expand its AI-based medical guidance platform"
+    excerpt: "Infermedica, a Poland-founded digital health company that offers AI-powered solutions for symptom analysis and patient triage, has raised $30 million in Series B funding. The round was led by One Peak and included participation from previous investors Karma Ventures,"
+    publishedDateTime: 2022-01-26T05:01:00Z
+    webUrl: "https://techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/"
+    ampWebUrl: "https://techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/Infermedica-team-Funding-round-2022.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "JvJXSX+XuXXGlwS7EWTIwW/XNrzJo9so/xiFAHWkwEkria/RjWe/RwnQ9n3qtuA0iDy7J/ngPn7H2JJ0sA2LvAI4DF5LM+awnhT9CgdjCfQq1Ch0QfIwFb90APWqvIYLHleLEm0909ZKnxtKCU1ugEP8Q+bFOQ7bL8qYjz+ZTpc3RuPXE5ecON0O5SCtoKExTeXePmFzv5LyXyCmEmEddwzZszJ/6gJ+ZkiAm/FQzCOnfv3NkHs1pjGyKQSBhF7qfyBcDl3yxpGV+KgaGDzkaHHZ6+ttXczlS3R3K6E/x/uJOebYGEwqDPrpbzZr8i0U5MXKRSLl4EoslEzhcvfR/Djox7Dos8YQZ6fd/RIhI28=;rgxJrQUXYXVdiPUk7VRJew=="
 ---

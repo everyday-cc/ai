@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-ins
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/amp/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: TechCrunch
@@ -30,52 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "InstaDeep raises $100M to inject enterprise decision-making with AI"
-    excerpt: "InstaDeep, a company collaborating on AI solutions for organizations including Google AI and BioNTech, has raised $100 million in capital."
-    publishedDateTime: 2022-01-25T10:22:00Z
-    webUrl: "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 189
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-636609180.jpg?w=1200&strip=all"
-        width: 1200
-        height: 579
-        isCached: true
-  - title: "Infermedica raises $30M to expand its AI-based medical guidance platform"
-    excerpt: "Infermedica, a Poland-founded digital health company that offers AI-powered solutions for symptom analysis and patient triage, has raised $30 million in Series B funding. The round was led by One Peak and included participation from previous investors Karma Ventures,"
-    publishedDateTime: 2022-01-26T05:01:00Z
-    webUrl: "https://techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/"
-    ampWebUrl: "https://techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/Infermedica-team-Funding-round-2022.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "AI startup SparkCognition raises $123M on a unicorn valuation of $1.4B"
-    excerpt: "Artificial intelligence startup SparkCognition Inc. revealed today that it has raised $123 million in new funding to expand sales and marketing efforts as well as research and development investments to accelerate its growth."
-    publishedDateTime: 2022-01-26T02:11:00Z
-    webUrl: "https://siliconangle.com/2022/01/25/ai-startup-sparkcognition-raises-123m-unicorn-valuation-1-4b/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/sparkcognition.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
   - title: "InstaDeep, creator of AI-powered decision-making systems, raises $100M"
     excerpt: "InstaDeep Ltd., a Tunisian artificial intelligence startup that’s making advanced decision-making systems to solve real-world problems, said today it has closed on a $100 million funding round. The Series B round was led by Alpha Intelligence Capital and CDIB,"
     publishedDateTime: 2022-01-26T01:44:00Z
@@ -118,15 +72,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "From Covid to logistics to food security: Born-in-Africa InstaDeep tackles complex problems with AI"
-    excerpt: "Africa’s contribution to the world of artificial intelligence is in the spotlight this week with the announcement by born-in-Africa AI disruptor InstaDeep that it has raised $100 million – while welcoming high-profile backers including BioNTech,"
-    publishedDateTime: 2022-01-26T12:50:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/from-covid-to-logistics-to-food-security-born-in-africa-instadeep-tackles-complex-problems-with-ai-2022-01-26"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 20
 
 secured: "sb8ZcGJOC9Rd0XSS5DP8iCZzHKEgpyW4+jdAblZh7IQ9K9Q69TPoi0CSbfxqqxHtZBdr5nJlY/X1JJD3TPygi4VBNnyQlDlFGDPhsVdhbZIAhapHJ0RpUeWGL0yqv+UAXuGfb4yWDfhsk6+VJZGDnK+szU5Lb2M3SlIhvqwzNZiWAj1qw38wTTGcLqb5SS8bMmMPGrEKuR0ngoJ/98Bi/6pPtQ8qTEHrAFX3ASWM+GWanzb8A62lKazO27oQfsgfD88/3Ds6LZw8NAxud/onH97TW0yJLV8D7Td4KIFi+SiZ7xgyGhYVW2aV98i0ey7PsLmDpVUKu8c3zHui+pYF/fG+Fdiwoud8puaX2wIBjel39ciWxGPIvWAfqvJeytvD6nJRniZezhECgrIBJXCcXt1FJNP+S4I1/ger4CB7sJMLM+8hWQzgUeciCXMo4zrJIVIAwi0KW9HjRqpY9VovNnWJa92tAifyKImdC670HkzfITBPUYTRJBdJ5NtV5o4aaXuvE+oFMC0rH4ivVRRZtQ==;DbGO5cVBuskSONODU0m6cw=="
 ---

@@ -52,20 +52,6 @@ related:
         width: 480
         height: 262
         isCached: true
-  - title: "Five ways to diversify fintech for future consumer"
-    excerpt: "To seize the opportunities of the future, fintech firms must adapt their services for increasingly diverse markets. We outline five key themes"
-    publishedDateTime: 2022-01-25T10:28:00Z
-    webUrl: "https://www.raconteur.net/finance/diversify-fintech-future-consumer/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 24
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Five-ways-to-diversify-fintech-for-future-consumer.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Torpago analyses the future of the Fintech market basing on the trends for 2022."
     excerpt: "Brent Jackson is the Chief Executive Officer & Founder of Torpago analyses the future of the Fintech market basing on the trends for 2022."
     publishedDateTime: 2022-01-25T16:42:00Z
@@ -80,15 +66,6 @@ related:
         width: 728
         height: 800
         isCached: true
-  - title: "Future of FinTech | January 2022 – Week 3"
-    excerpt: "The third week of this month enters with a whirlwind when it comes to the news around the Fintech space. Last week’s colossal buzz encompasses a range of players – from the nascent stages to the giants alike."
-    publishedDateTime: 2022-01-25T10:34:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-fintech-january-2022-week-3-whitesight"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 4
   - title: "Fintech Trends to Drive 2022: Growth of Buy Now Pay Later and Increased Investments in Technology Enabling Financial Inclusion"
     excerpt: "When looking at 2021 in review, two fintech trends factor prominently -- Buy Now, Pay Later (BNPL) and technology driving financial empathy/inclusion."
     publishedDateTime: 2022-01-28T18:57:00Z

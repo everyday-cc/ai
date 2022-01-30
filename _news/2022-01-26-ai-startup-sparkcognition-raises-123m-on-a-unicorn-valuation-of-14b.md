@@ -24,105 +24,168 @@ images:
     isCached: true
 
 related:
-  - title: "InstaDeep raises $100M to inject enterprise decision-making with AI"
-    excerpt: "InstaDeep, a company collaborating on AI solutions for organizations including Google AI and BioNTech, has raised $100 million in capital."
-    publishedDateTime: 2022-01-25T10:22:00Z
-    webUrl: "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/instadeep-raises-100m-to-inject-enterprise-decision-making-with-ai/amp/"
+  - title: "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries"
+    excerpt: "SparkCognition, a global leader in artificial intelligence (AI) software solutions for business, today announced the close of its $123 million Series D funding"
+    publishedDateTime: 2022-01-25T12:00:00Z
+    webUrl: "https://aithority.com/saas/sparkcognition-announces-123-million-series-d-funding-and-a-unicorn-valuation-to-accelerate-ai-adoption-across-industries/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 189
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 111
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-636609180.jpg?w=1200&strip=all"
+      - url: "https://aithority.com/wp-content/uploads/2022/01/SparkCognition-Announces-123-Million-Series-D-Funding-and-a-Unicorn-Valuation-to-Accelerate-AI-Adoption-Across-Industries.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Nine Predictions For Artificial Intelligence And Automation In 2022"
+    excerpt: "With search engine algorithms increasingly powered by AI, businesses that aren't optimized for the change will fall behind."
+    publishedDateTime: 2022-01-27T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61f2c7dc36e77eea9e7440a6/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
         height: 579
         isCached: true
-  - title: "Infermedica raises $30M to expand its AI-based medical guidance platform"
-    excerpt: "Infermedica, a Poland-founded digital health company that offers AI-powered solutions for symptom analysis and patient triage, has raised $30 million in Series B funding. The round was led by One Peak and included participation from previous investors Karma Ventures,"
-    publishedDateTime: 2022-01-26T05:01:00Z
-    webUrl: "https://techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/"
-    ampWebUrl: "https://techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/25/infermedica-raises-30m-to-expand-its-ai-based-medical-guidance-platform/amp/"
+  - title: "Acting New Jersey Attorney General Seeking Public Comment on the Use of Facial Recognition By Law Enforcement"
+    excerpt: "Many states this year are contemplating legislation and/or regulation in regards to biometric information and New Jersey is no exception.  This month Acting Attorney General Andrew J. Bruck annou"
+    publishedDateTime: 2022-01-25T23:32:00Z
+    webUrl: "https://www.natlawreview.com/article/acting-new-jersey-attorney-general-seeking-public-comment-use-facial-recognition-law"
+    ampWebUrl: "https://www.natlawreview.com/article/acting-new-jersey-attorney-general-seeking-public-comment-use-facial-recognition-law?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/acting-new-jersey-attorney-general-seeking-public-comment-use-facial-recognition-law?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 40
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/Infermedica-team-Funding-round-2022.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
-  - title: "Tunisian enterprise AI startup InstaDeep raises $100M from Alpha, BioNTech, Google"
-    excerpt: "A recent survey carried out by CNBC reported that 81% of executives worldwide say AI will play a prominent and critical role in how their businesses operate this year. Companies are phasing from the first generation of AI,"
-    publishedDateTime: 2022-01-25T12:03:00Z
-    webUrl: "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/"
-    ampWebUrl: "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/amp/"
+  - title: "How Deep Learning Helps Utilities Facilitate Automation and Innovation"
+    excerpt: "Deep learning is one of the most essential building blocks of artificial intelligence, and no one is successfully deploying ‘real’ AI without deep learning."
+    publishedDateTime: 2022-01-25T15:31:00Z
+    webUrl: "https://www.tdworld.com/smart-utility/data-analytics/article/21214976/utility-analytics-institute-how-deep-learning-helps-utilities-facilitate-automation-and-innovation"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
+      name: T&D
+      domain: tdworld.com
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/762AEA63-1005-49DE-8AAD-2DF6AB8A18BA.jpeg?w=1024"
-        width: 1024
-        height: 768
+      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2022/01/16x9/MDS_Executive_Summary.61f015c0d07ee.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "InstaDeep, creator of AI-powered decision-making systems, raises $100M"
-    excerpt: "InstaDeep Ltd., a Tunisian artificial intelligence startup that’s making advanced decision-making systems to solve real-world problems, said today it has closed on a $100 million funding round. The Series B round was led by Alpha Intelligence Capital and CDIB,"
-    publishedDateTime: 2022-01-26T01:44:00Z
-    webUrl: "https://siliconangle.com/2022/01/25/instadeep-creator-ai-powered-decision-making-systems-raises-100m-series-b-funds/"
+  - title: "MinIO Raises $103 Million in Latest Funding Round"
+    excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, announced it has raised $103 million in Series B funding at a $1 billion valuation, enabling the company to accelerate multi-cloud storage adoption."
+    publishedDateTime: 2022-01-28T18:46:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/MinIO-Raises-103-Million-in-Latest-Funding-Round-151167.aspx"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Slim.AI Raises $31 Million to Secure Cloud-Native Applications"
+    excerpt: "Cloud-native application security startup Slim.AI today announced that it has raised $31 million in Series A funding, which brings the total raised by the company to $37.6 million. Slim.AI’s latest funding round was led by Insight Partners and StepStone Group and also received participation from Knollwood,"
+    publishedDateTime: 2022-01-26T14:49:00Z
+    webUrl: "https://www.securityweek.com/slimai-raises-31-million-secure-cloud-native-applications"
+    type: article
+    provider:
+      name: Security Week
+      domain: securityweek.com
     quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/73515572_1410568199093561_5581692699917942784_n.png"
-        width: 1919
-        height: 868
+      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+        width: 256
+        height: 256
         isCached: true
-  - title: "Tunisian AI Startup InstaDeep Raises $100 Million In Series B Round"
-    excerpt: "InstaDeep, an AI startup based in Tunisia and London has secured $100 million in its Series B financing round co-led"
-    publishedDateTime: 2022-01-28T12:26:00Z
-    webUrl: "https://techbooky.com/tunisian-ai-startup-instadeep-raises-100-million-in-series-b-round/"
+  - title: "Slim.AI Closes $31 Million Series A to Automate Best Practices in Software Supply Chain Security for Cloud-Native Applications"
+    excerpt: "Slim.AI, the Boston-based startup focused on optimizing and securing cloud-native applications, announced today that it has raised a $31 million series A round co-led by New York-based global venture capital and private equity firm Insight Partners as well as StepStone Group,"
+    publishedDateTime: 2022-01-26T13:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/slim-ai-closes-31-million-series-a-to-automate-best-practices-in-software-supply-chain-security-for-cloud-native-applications-1031130661"
     type: article
     provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/insta-deeplogo.png?fit=708%2C430&ssl=1"
-        width: 708
-        height: 430
-        isCached: true
-  - title: "InstaDeep Raises $100M to Scale Decision-Making AI Products that Solve Real-World Problems"
-    excerpt: "InstaDeep, a leader in advanced AI decision-making systems for solving real-world problems, announced today it has raised $100M and closed a Series B round led by Alpha Intelligence Capital together with CDIB."
-    publishedDateTime: 2022-01-25T12:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-africa-london-d910b8014a784600b6a1c3df3c6108fd"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+  - title: "Docupace, JIFFY.ai Partner to Bring Next Generation Automation to the Back Office"
+    excerpt: "Docupace, the leader in cloud-based fintech digital operations software for the wealth management industry, and JIFFY.ai, the innovative provider of true end-to-end intelligent automation applications,"
+    publishedDateTime: 2022-01-26T14:41:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-6349b1092c784fb499c8b89ceb8f2ec7"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 27
+    quality: 34
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
-  - title: "From Covid to logistics to food security: Born-in-Africa InstaDeep tackles complex problems with AI"
-    excerpt: "Africa’s contribution to the world of artificial intelligence is in the spotlight this week with the announcement by born-in-Africa AI disruptor InstaDeep that it has raised $100 million – while welcoming high-profile backers including BioNTech,"
-    publishedDateTime: 2022-01-26T12:50:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/from-covid-to-logistics-to-food-security-born-in-africa-instadeep-tackles-complex-problems-with-ai-2022-01-26"
+  - title: "Digitate Propels Digital Transformation Forward with Enhanced AIOps Capabilities and New Solutions"
+    excerpt: "Digitate, a leading provider of SaaS-based autonomous enterprise software for IT and business operations, today announced the general availability of its latest release, which adds enhanced product functionalities across the entire ignio™ product line as well as new out-of-the box solutions that help enterprises kickstart and accelerate their digital transformation at scale."
+    publishedDateTime: 2022-01-25T15:13:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/digitate-propels-digital-transformation-forward-with-enhanced-aiops-capabilities-and-new-solutions/article_982b11a8-0f4a-52d4-8c13-55b02a612b7b.html"
     type: article
     provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 20
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 25
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Digitate Propels Digital Transformation Forward with Enhanced AIOps Capabilities and New Solutions"
+    excerpt: "Digitate, a leading provider of SaaS-based autonomous enterprise software for IT and business operations, today announced the general availability of its latest release, which adds enhanced product functionalities across the entire ignio™ product line as well as new out-of-the box solutions that help enterprises kickstart and accelerate their digital transformation at scale."
+    publishedDateTime: 2022-01-25T16:13:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-9da5924ba0694a7fa2c6f3e231b5e2ce"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Raven unionisation plans continue without Activision Blizzard recognition"
+    excerpt: "Publisher did not respond to workers' request, says it will respond to National Labor Relations Board petition"
+    publishedDateTime: 2022-01-26T10:20:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2022-01-26-raven-unionisation-plans-move-to-vote-without-activision-blizzard-recognition"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 23
+    images:
+      - url: "https://images.gnwcdn.com/2022/articles/2022-01-26-10-12/game_workers_alliance.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
+    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
+    publishedDateTime: 2022-01-25T16:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "giHjv076Nk7kvWTdrwYwOvsQTHh72HJMzjWBy/+zsSV0nxwany5d29DsX2Mapn6SFsbEkZZg0P3N+meSuPWsX9+9I9u4kU3P4ARjiVdOwdMXDWmXVsiHDfWppKVbRJgEVwAAEzYA7RuhB4mU5/Z2B4pJmN6Hkr0bp2BZaw1G3AqSUIno3kpcpNeA2pN4rPuRfjbM4ybSeStPBn7JkJ1hh6Dj1Fzuh6LZC4AFs/E3t/ZPVQklSBTK4F73KvN50WEEW9EsGg2NZNcOYIvj11q67ZEavbNRPzyy0KqlaTq56cb0wGBei6w2xb4FImPSydWVvwG5IngOClpk6QhiOFd9Vz9HvEkjeV+FrrD5YioXxjtE71kuX1z+N1F0QG1wzuQUq4XPpKjcByvy3r8VfmEsaNZUwQyr5il7B0YnfIIrGwX9NmMmqxnLkvgLMWlf487nf/G+NgLB9a1WKRouPGJ6GR42eYKhtVJZJUmyXo7zzzWrB88g1MpxyZNfS+nb/p2UQaABRwL0RQ1yY8VJWOfGvA==;3VT6tG/ycPQCUjA2NLQ/4Q=="
 ---

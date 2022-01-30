@@ -2,27 +2,22 @@
 category: news
 title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
 excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-publishedDateTime: 2022-01-25T16:38:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+publishedDateTime: 2022-01-25T16:42:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
 type: article
-quality: 39
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
+  - Computer Vision
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - Natural Language Processing
 
 related:
   - title: "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries"
@@ -54,22 +49,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61f2c7dc36e77eea9e7440a6/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
         height: 579
-        isCached: true
-  - title: "SparkCognition, which develops AI solutions for a range of industries, nabs $123M"
-    excerpt: "SparkCognition, an Austin, Texas-based company developing AI solutions for a range of markets, has raised $123 million in capital."
-    publishedDateTime: 2022-01-25T10:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/"
-    ampWebUrl: "https://venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1248800431.jpg?w=1200&strip=all"
-        width: 1200
-        height: 612
         isCached: true
   - title: "Acting New Jersey Attorney General Seeking Public Comment on the Use of Facial Recognition By Law Enforcement"
     excerpt: "Many states this year are contemplating legislation and/or regulation in regards to biometric information and New Jersey is no exception.  This month Acting Attorney General Andrew J. Bruck annou"
@@ -114,6 +93,20 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI startup SparkCognition raises $123M on a unicorn valuation of $1.4B"
+    excerpt: "Artificial intelligence startup SparkCognition Inc. revealed today that it has raised $123 million in new funding to expand sales and marketing efforts as well as research and development investments to accelerate its growth."
+    publishedDateTime: 2022-01-26T02:11:00Z
+    webUrl: "https://siliconangle.com/2022/01/25/ai-startup-sparkcognition-raises-123m-unicorn-valuation-1-4b/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/sparkcognition.jpg"
+        width: 2048
+        height: 1367
         isCached: true
   - title: "Slim.AI Raises $31 Million to Secure Cloud-Native Applications"
     excerpt: "Cloud-native application security startup Slim.AI today announced that it has raised $31 million in Series A funding, which brings the total raised by the company to $37.6 million. Slim.AI’s latest funding round was led by Insight Partners and StepStone Group and also received participation from Knollwood,"
@@ -195,6 +188,6 @@ related:
         height: 628
         isCached: true
 
-secured: "LkGeQySGvhtzSPf4XSkThZ8PG+uhTK2wvAxkgQHsYS73ymYRJ8Rw8wvoMkOI+aNY6hBBUDJrzGOJd9PkDAv4d91oYL3w1/RPIk6s9UsKuSAnDmi0fvio7sPwlY1YjVnBpez5u1cz3sGjRZP0yAS/qbj6vgDSkSsZfS/R8UUeyTGveuQtKbyzTer0ICFCVGpBNPyi+iQ7h1LS9VwrdpaqcN4M5SNUPPeZAPuoi1VdSuv1fTdvtk9mzrxMy2D+wnQZR33HC+/apZ9Zimh+sLNN8pcuu7CyNA+ZBh3PKiazhgKGWgDJweumPUGqAuvb/YQaNKpFtJCZBpX+dbRyM+E8yOqx7pamHmjBK+SnwnuHvSc=;NJNFrV0N3otjKXeIdS7QaQ=="
+secured: "Zq9+BjuXOY15w9C/rskZ1DFC7N1AuxthpS8x3Q+yR6NPTyvdRM4Cyhcr6TkJWtLyP7yZviKwCCrNOEMZF5wUHHOiKsuHZk12rr//6Dp/8QCl+PFUqwDYcISDAurffT+SWCXb11xJ5YbrvyrZsRs/UmOSRPeMa2RSorngdkz9UWQ4DYX1VrZNOejsm+c8GhKPGdqMGOpKjPhNot5S0CKXwASFfjqVIRu27VpG2xP6+QcO1DVxB5Ut6a0dOGAU4EduGGoHeZAeVid4kU0QdJ4PszY9l/NHFStn4RiizV3VO2+6ix16lFDGf91lp9SaC6hUmdL7RJnnGgoZN4Ke+PKFLxtvqK5yCmrjG0ixuKvcrUg=;FGazTAErgJZcrjwNGRhc7g=="
 ---
 

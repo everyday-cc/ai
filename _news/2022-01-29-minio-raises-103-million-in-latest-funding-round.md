@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 579
         isCached: true
-  - title: "SparkCognition, which develops AI solutions for a range of industries, nabs $123M"
-    excerpt: "SparkCognition, an Austin, Texas-based company developing AI solutions for a range of markets, has raised $123 million in capital."
-    publishedDateTime: 2022-01-25T10:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/"
-    ampWebUrl: "https://venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/sparkcognition-which-develops-ai-solutions-for-a-range-of-industries-nabs-123m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1248800431.jpg?w=1200&strip=all"
-        width: 1200
-        height: 612
-        isCached: true
   - title: "Acting New Jersey Attorney General Seeking Public Comment on the Use of Facial Recognition By Law Enforcement"
     excerpt: "Many states this year are contemplating legislation and/or regulation in regards to biometric information and New Jersey is no exception.  This month Acting Attorney General Andrew J. Bruck annou"
     publishedDateTime: 2022-01-25T23:32:00Z
@@ -101,19 +85,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
-    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-    publishedDateTime: 2022-01-25T16:38:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+  - title: "AI startup SparkCognition raises $123M on a unicorn valuation of $1.4B"
+    excerpt: "Artificial intelligence startup SparkCognition Inc. revealed today that it has raised $123 million in new funding to expand sales and marketing efforts as well as research and development investments to accelerate its growth."
+    publishedDateTime: 2022-01-26T02:11:00Z
+    webUrl: "https://siliconangle.com/2022/01/25/ai-startup-sparkcognition-raises-123m-unicorn-valuation-1-4b/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/sparkcognition.jpg"
+        width: 2048
+        height: 1367
         isCached: true
   - title: "Slim.AI Raises $31 Million to Secure Cloud-Native Applications"
     excerpt: "Cloud-native application security startup Slim.AI today announced that it has raised $31 million in Series A funding, which brings the total raised by the company to $37.6 million. Slim.AI’s latest funding round was led by Insight Partners and StepStone Group and also received participation from Knollwood,"
@@ -194,6 +178,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
+    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
+    publishedDateTime: 2022-01-25T16:42:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "aDhxZ8aRhy+mTVcI9AN+YOnB7JCs5fFPjA42/uRV5yBGAMlquSN8uFizDuvJ5L431AZ6UEe0By42ilHY0VgMTFHjwMCNXcW6rP1ikNGf+6ZbgZxmvOOfkyDmjQ43mAJJF9PUTK171vX+Gm50j0abzfF2/lcwcqLo8b9mPVmVOsiGZ5cCqBEN880G9VRC/+asv8C91NLN13KUzhdPEzGKQfz5QToa8Ikpf7QHRRanBzJC0XOwc/9sFuXGeluFxrdyy9wVRravbiKQOmouoBBgcNt4LyR1o96qAAbL2bT8vQR3cN9PnoThK4/0TapLbTJzAfXTuLfWzVFyuO9+O+KuKNI0AlM7Dz8NasrnMSme7dc=;E8Iz5/Xy8bhzqBKVvwgFGQ=="
 ---
