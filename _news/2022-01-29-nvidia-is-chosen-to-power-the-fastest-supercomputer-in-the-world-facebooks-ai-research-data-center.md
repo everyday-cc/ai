@@ -1,34 +1,24 @@
 ---
 category: news
 title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
-excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
-publishedDateTime: 2022-01-29T13:20:00Z
-originalUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
-webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
+excerpt: "The company formerly known as Facebook, Meta Platforms (NASDAQ: FB), just unveiled details for its new AI Research SuperCluster (RSC). It's a massive supercomputer housed in a data center, and once it's fully constructed in mid-2022,"
+publishedDateTime: 2022-01-29T12:20:00Z
+originalUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
+webUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
+ampWebUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
 type: article
-quality: 57
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI Hardware
-  - Facebook AI
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
-    width: 5408
-    height: 3605
-    isCached: true
+  - AI
 
 related:
   - title: "Meta Builds World’s Largest AI Supercomputer With NVIDIA For AI Research And Production"
@@ -46,22 +36,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61f0640bbe20b8898946d1ec/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1190
         height: 628
-        isCached: true
-  - title: "Facebook’s Parent Meta Is Building The World’s Fastest AI Supercomputer"
-    excerpt: "Facebook parent Meta Platforms Inc. on Monday announced a new artificial intelligence (AI) supercomputer known as the “AI Research SuperCluster or RSC”."
-    publishedDateTime: 2022-01-25T14:53:00Z
-    webUrl: "https://www.techworm.net/2022/01/facebook-meta-fastest-ai-supercomputer.html"
-    ampWebUrl: "https://www.techworm.net/2022/01/facebook-meta-fastest-ai-supercomputer.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/01/facebook-meta-fastest-ai-supercomputer.html/amp"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 61
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2022/01/meta-ai-super-computer.png"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Meta plans the world’s fastest supercomputer for AI"
     excerpt: "Facebook’s parent company Meta said it is building the world's largest AI supercomputer to power machine-learning and natural language processing for building its metaverse project. The new machine, called the Research Super Computer (RSC),"
@@ -153,20 +127,6 @@ related:
         width: 1000
         height: 417
         isCached: true
-  - title: "Meta says its new AI supercomputer will be world's fastest"
-    excerpt: "Facebook parent Meta Platforms Inc said on Monday that its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the world when completed in mid-2022."
-    publishedDateTime: 2022-01-25T13:53:00Z
-    webUrl: "https://www.suchtv.pk/technology/item/111060-meta-says-its-new-ai-supercomputer-will-be-world-s-fastest.html"
-    type: article
-    provider:
-      name: SUCH TV
-      domain: suchtv.pk
-    quality: 39
-    images:
-      - url: "https://www.suchtv.pk/media/k2/items/cache/6d09846f9c313e8b45ccd2ea0f3bd434_XL.jpg"
-        width: 800
-        height: 514
-        isCached: true
   - title: "Researchers Build AI That Builds AI"
     excerpt: "By using hypernetworks, researchers can now preemptively fine-tune artificial neural networks, saving some of the time and expense of training."
     publishedDateTime: 2022-01-25T17:05:00Z
@@ -195,20 +155,6 @@ related:
         width: 930
         height: 558
         isCached: true
-  - title: "Facebook’s Meta is building a “massive AI research supercomputer” with Nvidia"
-    excerpt: "Facebook ‘s parent company Meta is working with Nvidia to create a “massive AI research research supercomputer”. Yesterday (January 24), Nvidia announced that it is building an “AI supercomputer” for Meta."
-    publishedDateTime: 2022-01-25T13:15:00Z
-    webUrl: "https://www.nme.com/news/gaming-news/facebooks-meta-is-building-a-massive-ai-research-supercomputer-with-nvidia-3145882"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 36
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2022/01/Meta-supercomputer-2000x1270-1.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
   - title: "Zuckerberg’s Meta builds AI supercomputer"
     excerpt: "Mark Zuckerberg’s company Meta revealed that it has built one of the world’s fastest ever supercomputers. With 6,080 graphics processing units packaged into 760 Nvidia A100 modules, Meta believes that the Research Super-Cluster (RSC) is the fastest device built for AI tasks,"
     publishedDateTime: 2022-01-26T14:36:00Z
@@ -233,6 +179,6 @@ related:
         height: 450
         isCached: true
 
-secured: "KBcyazcwqbf4/PuHWDJfP3tNJ0Ko5Nl6STHEpTxIWNfjT/5uYhSA30WXtH3tqDH0yNEL1Uhl+87QaQb5nNSkHv9l+7X6R9gFYy9W+2G6Z+1ZfWoWEub4p0BSWSkqyHZuUSeU/zi/V0o9c0I0byIBh81ECQwLrlPk1MseyLuDl4eBDKNIE+q+j5tfVL1EGSQMOUGVnt+DS0nYRr5wXZwIYDOLihTBa35K+2hg2eR8XKlSQ1GPIgrHiAW4rQXAUQ9Q+LsAqytM9rmn1tn4+h4zbxjWFszoAxo870Rq3Gjp1tM6Gp3HEtaI7w0KzZGxNTR94dLCFG17A9Nz5U+H3XFqi82Y9dB4FOrrtCqPMPIeBQIM0PSUPQCUFGXpn2z/tlvJR2/3ed2dDOAtisCuxWCyVGGj9venHqxSfD/sKlqNiTVVWTvBIv4cUL11wHXwAJ/NpP0mqDVAa+5Qs91djPMoiBVT94fyp6er7oYUDttPiV8RFkFNqlwvIwDdBKZcj+j3rNcohZPCxBGs9wsCRQPp0w==;ekw+rUM/5p/xtZRX8YJA0w=="
+secured: "Lr6FRbtVF9ffO2lDWl2m2KRd0JeCmgRdEZXKJLGOLTV+ygWj6nH/wsBRVUyTyznDMTB9nxLkKzj8iroztB6JfgU3G16TESlB0eQHQkMk37il3J/n523NcHeRCkRkfGf/QVDS7RkTY5+kC5ui3mpTK18tMXZT3g4bCFFWdab2IBGPFBiMI+/kUUl7MUNp9gN4oyZj8FSGxghpQQWFJPTf3TonmMpgBo70xeevQx3GbEb6iSjgXriegV/AQoz9mXJHwQV6mhRn4mptTO95moBheltiyB2xuYJjPtcq6OQ6ElDDj9dkaCHLkRCUXvab/OmFLNZOleoBQImU8pdsBDZzN7kaOc+/zE1PkkJOcxHkssc=;LYFz8XcTmQFAHXi8FesTHA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://cdn.thenewstack.io/media/2022/01/db5ea1cd-metaverse-gebd5d43ae_640.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "Facebook teases world’s fastest AI supercomputer built to power the metaverse"
-    excerpt: "Meta, the artist formally known as Facebook, is showing off its new AI Research SuperCluster which it claims will be the fastest AI supercomputer on the planet."
-    publishedDateTime: 2022-01-25T13:07:00Z
-    webUrl: "https://telecoms.com/513095/facebook-teases-worlds-fastest-ai-supercomputer-built-to-power-the-metaverse/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 38
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/01/Meta-supercomputer.jpg"
-        width: 1908
-        height: 793
         isCached: true
   - title: "Microsoft invokes metaverse when describing future for Teams, Xbox and devices to investors"
     excerpt: "After a relatively blockbuster-like Q2 earnings performance, Microsoft CEO Satya Nadella veered into metaverse talk as he prepares investors for the company's"

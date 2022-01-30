@@ -70,20 +70,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Francisco Partners acquire part of IBM’s Watson Health business"
-    excerpt: "Francisco Partners have signed an agreement with IBM to acquire their healthcare assets that are currently part of the Watson Health business."
-    publishedDateTime: 2022-01-25T14:00:00Z
-    webUrl: "https://www.digitalhealth.net/2022/01/francisco-partners-acquires-ibm-watson-health/"
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 39
-    images:
-      - url: "https://cdn.digitalhealth.net/wp-content/uploads/2022/01/IBM-Watson.jpg"
-        width: 555
-        height: 330
-        isCached: true
   - title: "IBM sells parts of Watson Health; what are the repercussions?"
     excerpt: "IBM Watson Health was an ambitious project introduced to use the core AI platform to help healthcare professionals analyse large amounts of data and assist in cancer treatment."
     publishedDateTime: 2022-01-28T05:30:00Z

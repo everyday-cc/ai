@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-translatio
 webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-translation-machine-startup-secures-new-funding"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,50 +23,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences"
-    excerpt: "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes."
-    publishedDateTime: 2022-01-25T14:17:00Z
-    webUrl: "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/"
-    type: article
-    provider:
-      name: Contract Pharma
-      domain: contractpharma.com
-    quality: 50
-    images:
-      - url: "https://dev.rodpub.com/images/248/280_main.jpg"
-        width: 1542
-        height: 833
-        isCached: true
-  - title: "Council Post: How AI & NLP are driving the digital transformation in insurance"
-    excerpt: "To successfully implement AI, NLP solutions in the insurance segment, companies should adopt a case prioritisation framework."
-    publishedDateTime: 2022-01-26T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/council-post-how-ai-nlp-are-driving-the-digital-transformation-in-insurance/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 50
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/How-AI-NLP-are-driving-the-digital-transformation-in-insurance.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "How the internet is training AI to make better disinformation"
-    excerpt: "AI is accelerating disinformation creation way beyond deepfakes. The internet is rife with disinformation, and bad actors are becoming more skilled at spreading conspiracy theories and falsehoods online."
-    publishedDateTime: 2022-01-26T13:13:00Z
-    webUrl: "https://www.grid.news/story/technology/2022/01/26/how-the-internet-is-training-ai-to-make-better-disinformation/"
-    type: article
-    provider:
-      name: grid
-      domain: grid.news
-    quality: 37
-    images:
-      - url: "https://www.grid.news/resizer/VLWxS3hYxcqLcjFY1YmXpIO9fKQ=/1200x630/filters:format(jpg):quality(100)/cloudfront-us-east-1.images.arcpublishing.com/thesummit/KEN3LUEQ6FAJHMBV5YKCGYZEPY.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "QJh0fmc40mcee3pdwpbVE127iUDa0gJE4ydSs0EpunjgZShx2cTA/BiOIQjCMdskrRa63IuwSaGfhPdtRfmw+YuVj5xSDz35mI3pTSESit3nT4YGTeersyUP8STx0pXIPZBNaQKIVx+H2TGERX+sgVReCo3P7V/cElYl8VmmAtQy0wCMI6cixhcLmtE5IOGKgFsZVudE90Q17wgCjzJt4EwWkYaqDbLL9vAgulq3ptFxe+YVD9KJR1CqXvfzAEMI1stWxuMcYkKQB/zmCjKPmaF8VPDiU/+WvGZ6nM/gxp8f+JRRRyHHcfwSVjl8M+SWLC9j7VdzaSeR4TwgqUmWmzJusvKj1tkGf6T47SdweCF2qzlGgrRbiBhYTMU0Fhx+7SaO95ZMJSPRjr5fgyNRK8R6Bu4W5n57YLblSDesDeWpXCjgIJRwqUlvJHEmQfxfUE3Z/ZmCJBg6qVnrv3y4cNy9csi8cvjY/SUzQ3HsZhos656lZAlgczIYRXg6HrXCip59xT4Ke213rNtDBqYI4A==;KiiEXYKa90xFDT4W1owHjg=="
 ---

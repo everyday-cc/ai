@@ -103,20 +103,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Facebook teases world’s fastest AI supercomputer built to power the metaverse"
-    excerpt: "Meta, the artist formally known as Facebook, is showing off its new AI Research SuperCluster which it claims will be the fastest AI supercomputer on the planet."
-    publishedDateTime: 2022-01-25T13:07:00Z
-    webUrl: "https://telecoms.com/513095/facebook-teases-worlds-fastest-ai-supercomputer-built-to-power-the-metaverse/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 38
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2022/01/Meta-supercomputer.jpg"
-        width: 1908
-        height: 793
-        isCached: true
 
 secured: "wI+r81dWwEpsy05R3lx4Klh4rxcQVpFT5P3QRA8QxO/RywHRGdeU4Ds5gd77UkS/kb4aSH8OkVqRIYpPTSnI3I15gux4J7HeBgshxto0gBRUqLK35GXGyihi8KngAqSfzVe7RA0Om7ql67ZqHy+ntU6a0Pt9bp94OzF/hmoBYn088H1HFqNiRLh5Q1YktLNgGIsneF/r9QwwaY0mCalaGORwcXN12k1W+qnuHAdrFnj8ztGoLbBeYikbT+RMFhVwAkicEscI/i5gqm2jGhUEgoXUn5xfaZZLJ4AJEJu35E3ZfJW7+zHvaW3/65l2AyAeclXoXAlhOLDh9mkbuSRhY/6TqJzy+4g6KtMqkrGOkUYK2XKPmNzr/9UqeJE7W/oF2tk4vyvRqXjlL8sbdxdzx/5WPmNsE0q3YATN11px+gfikR0grdcFw8xKn43RmH0IZph7cheak6kyhfHXp0EWPLSN49yj4zJERD1yRCijKmNTGgM7cXbJAJnhiKETs4OBBcfyBKoM+W3Z8M955uB+ug==;40xGDAvsfTeDQfhsc2BAjw=="
 ---

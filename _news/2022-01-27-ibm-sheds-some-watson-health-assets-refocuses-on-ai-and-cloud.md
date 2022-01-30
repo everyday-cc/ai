@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/303974/ibm-sheds-some-watson-health-asse
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/303974/ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.html/amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2021/03/MMM-Franchise-Images_7-day_1.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Francisco Partners acquire part of IBM’s Watson Health business"
-    excerpt: "Francisco Partners have signed an agreement with IBM to acquire their healthcare assets that are currently part of the Watson Health business."
-    publishedDateTime: 2022-01-25T14:00:00Z
-    webUrl: "https://www.digitalhealth.net/2022/01/francisco-partners-acquires-ibm-watson-health/"
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 39
-    images:
-      - url: "https://cdn.digitalhealth.net/wp-content/uploads/2022/01/IBM-Watson.jpg"
-        width: 555
-        height: 330
         isCached: true
   - title: "IBM sells parts of Watson Health; what are the repercussions?"
     excerpt: "IBM Watson Health was an ambitious project introduced to use the core AI platform to help healthcare professionals analyse large amounts of data and assist in cancer treatment."

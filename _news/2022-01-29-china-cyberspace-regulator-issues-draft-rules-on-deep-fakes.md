@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Metaphysic, AI startup behind Tom Cruise deepfakes, raises $7.5M"
-    excerpt: "Metaphysic, the company behind the Tom Cruise deepfakes, has raised $7.5 million to use AI to create lifelike replicas of people."
-    publishedDateTime: 2022-01-25T14:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/"
-    ampWebUrl: "https://venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/metaphysic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 580
-        isCached: true
 
 secured: "0j8eVENgW+txd294cyW8O/FVoObd09i6aVWwbPFsZccrtEbB84snLo9OTyBad8jJe2ocKXgz3kxL1SqMgA+eNQTjkzH3ruU3pA4hRcwuk44wfGkH9SCwParZrjZ1EuMjgQ88tLavBuMnR3kuWYqiR+geeTxfBBwFtn/dAe21usSJN/JP4dpuRhjeeKlVIGPFEQcG8/QRMArXaFZ6D4R5gDhQmDg8gofvknnnYaW95QN5ZtHxRIqPd48wl69TKJWQT24hlrkUDf6LQjgQzegX3atXNGxA77R6PEYd4Xgi12XI6Iyjw0bKoHIg/SWiHaQAhy2hg+b4mVJybaSc+CMn0QQJN+PKBwyIwxF0NXodqDtuc4aanbMA+2HAj5uQTKZ+gxHjnbMYuQ2Gv22aKQEBUMaUTbayXEUUwmqoBSZ/6VCMYs1OkNtYVzGnmUIY4K11dw7Hu6r2XXmJIIoPlOaC7jwD3y7Yh32WKOJB6fiSC3sZR+shGvNR9VgO8uxA+VsqPo/wA62m+H0GoULSP9wj9Q==;WuYzS+nCOB6qbIvM8bvc9Q=="
 ---

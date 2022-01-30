@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/china-proposes-increased-regulation-of-deepfa
 webUrl: "https://www.unite.ai/china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems/"
 type: article
 quality: 133
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -39,22 +39,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/29/5031b18e-bcda-466a-afac-2d1e33ee512e_6a76c979.jpg?itok=uarvlE33&v=1643449822"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Metaphysic, AI startup behind Tom Cruise deepfakes, raises $7.5M"
-    excerpt: "Metaphysic, the company behind the Tom Cruise deepfakes, has raised $7.5 million to use AI to create lifelike replicas of people."
-    publishedDateTime: 2022-01-25T14:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/"
-    ampWebUrl: "https://venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/25/metaphysic-ai-startup-behind-tom-cruise-deepfakes-raises-7-5m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/metaphysic.jpg?w=1200&strip=all"
-        width: 1200
-        height: 580
         isCached: true
   - title: "China cyberspace regulator issues draft rules on deep fakes"
     excerpt: "The Cyberspace Administration of China (CAC) announced draft provisions and regulations, called the Administration of Deep Synthesis of Internet Information Services, for content providers who alter"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/debug/massachusetts-banning-facial-recognit
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/massachusetts-banning-facial-recognition/?amp"
 type: article
 quality: 73
-heat: 75
+heat: 73
 published: true
 
 provider:

@@ -97,22 +97,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Voice User Interface Market By Vertical, By Offering, By Application, By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027"
-    excerpt: "Reportlinker.com announces the release of the report \"Global Voice User Interface Market By Vertical, By Offering,"
-    publishedDateTime: 2022-01-25T15:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25212336/global-voice-user-interface-market-by-vertical-by-offering-by-application-by-regional-outlook-indu"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25212336"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25212336"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
-    images:
-      - url: "https://www.benzinga.com/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "VzqiemdscFQN61XhhbNHMlP+mS6ozt1CNeUlEZ1fHqPxPWE4NSYTgS6KANwryvlAI0sOLzGMwkOEEK1fnDNSGn1wzqk4LLOW0TTPWMt73zzYoT6uIGOvIrJdiUA0fhcy6QsQC7rQXU3lTLeb2wcPovcxYXSx8i9oa4nwcKS5FdURgh4hwmubYNQ/cdz3jG2txYrADho/21CxLhYrO00eAonYEO8wzXkHstxSK7Ol5x5olyt9XzDwavYXNdGUDakHqJywGtP6fPeGd6fFVAFQov7Qioj1Hkz3QehUuPRNPgPl/sNJEr+1KHWEwih/C93Ye/UW3pUFW8j4rcEraRh0gtvDkAikEydGafnAN29HOH4=;lBUkVXRG0OOg6nvyx9jh7Q=="
 ---

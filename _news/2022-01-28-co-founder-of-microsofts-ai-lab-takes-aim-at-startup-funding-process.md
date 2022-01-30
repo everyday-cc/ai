@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/disruptors/co-founder-of-mic
 webUrl: "https://www.beckershospitalreview.com/disruptors/co-founder-of-microsoft-s-ai-lab-takes-aim-at-startup-funding-process.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Becker's Hospital Review
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "FedEx and Microsoft announce new cross-platform logistics solution for e-commerce"
-    excerpt: "FedEx Corp. and Microsoft Corp announced the next solution as part of their multiyear collaboration to transform commerce, supply chains and"
-    publishedDateTime: 2022-01-25T15:02:00Z
-    webUrl: "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/"
-    ampWebUrl: "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/"
+  - title: "Global AI Leader Laiye Partners with Microsoft to accelerate data sovereignty for UK customers"
+    excerpt: "Laiye extends $50M European push by uniting with leaders in cloud infrastructure January 27 2021, LONDON - Laiye, a leading intelligent automation provider, and global software leader Microsoft,"
+    publishedDateTime: 2022-01-27T08:00:00Z
+    webUrl: "https://pressreleases.responsesource.com/news/102348/global-ai-leader-laiye-partners-with-microsoft-to-accelerate-data/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 54
+      name: responsesource.com
+      domain: responsesource.com
+    quality: 42
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/FedEx-and-Microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce-01.jpg"
-        width: 1200
-        height: 676
+      - url: "https://mediaserver.responsesource.com/newsroom-logo/tb_lrg/122221/Positive_logo_new+%281%29.png"
+        width: 300
+        height: 212
         isCached: true
   - title: "Microsoft, FedEx Expand Partnership"
     excerpt: "FedEx and Microsoft are expanding their partnership to offer “logistics as a service” to retailers, using data analytics of FedEx's network."
