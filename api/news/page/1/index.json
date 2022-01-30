@@ -44,6 +44,48 @@
       ]
     },
     {
+      "path": "_news/2022-01-30-ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test.md",
+      "title": "AI can predict signs of a heart attack within a year — from a routine eye test",
+      "excerpt": "An artificial intelligence system is capable of spotting whether someone will have a heart attack within the next year — through a routine eye scan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/",
+      "originalUrl": "https://www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wtnh.com/wp-content/uploads/sites/100/2022/01/eye-scan.jpg?w=1280",
+          "width": 1280,
+          "height": 813,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/",
+      "cdnAmpWebUrl": "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/",
+      "publishedDateTime": "2022-01-29T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTNH",
+        "domain": "wtnh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-30-drive-smarter-decision-making-with-explainable-machine-learning.md",
       "title": "Drive smarter decision-making with explainable machine learning",
       "excerpt": "Executives are missing out on a crucial pathway to smarter and more efficient decision-making with explainable machine learning.",
@@ -1178,58 +1220,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-self-driving-teslas-will-cause-insane-traffic-elon-musk-says.md",
-      "title": "Self-driving Teslas will cause 'insane' traffic, Elon Musk says",
-      "excerpt": "Tesla CEO Elon Musk said the autonomous ride hailing service he envisions customers will put their autonomous Teslas to work in will cause \"insane\" traffic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk",
-      "originalUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/01/720/405/tesla-.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk.amp",
-      "publishedDateTime": "2022-01-27T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

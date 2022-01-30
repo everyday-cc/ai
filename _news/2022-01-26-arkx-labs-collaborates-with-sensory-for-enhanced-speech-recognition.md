@@ -2,20 +2,25 @@
 category: news
 title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
 excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-publishedDateTime: 2022-01-25T16:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+publishedDateTime: 2022-01-25T16:38:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
 
-secured: "SRhmcsbhL0EijEUC3gNEzUfpprrF1TxJ4oGQP89rt4zc2UtpXfmw4PMOWDeLev+f3AECSkG4kyuzcBnmE/0x5AEKpOmBLftP7bUnlpeJwSXBt58i05bP8e/EoKxraMzlktdMn/IAxhYT4GhcBcMpe2Yva2Hu6kVa4nE2G2xcLsSsgTWeB7LgjtXTSV/QeD+d1A4DqQ33YW7OG/q8AY8JOXNNuq0eKZzKW33TnCLUdZ5+9Y4yZIKTKImEO6zVrG0dfKMl0hXaS8ZNAtpNLHJIKa8h1MkHZDPC000A5nnwAjBA0iR2RE/7iroeAB68XL/rfEa9iTF1VoOxasYu+4Ks4xNk4LDUnvyL6GRprBfWqqw=;Ul0orkxmE0evH41b3Mtfbw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "JhxXYlsRjQQRqlNyReezCNsS9Y1FYDcCtJ2jD7GWg13qdpnVoM8RC2kzgydRYS2wF4zS+26tdWgOC8phEDZ4ALtuCuZEYd2RV7fpII2Ln3iHdUe728R+5t9zSEOatgpuaezpzqWS1TW8SiYSFJzPf+Z8cx0JrqY/x3wCR30RJ3P71l1CL+HUvnEzPGgyZQ2aK8hnKWoLc521mE7D82cO3IhtF0l4VB89Zc3B7X7Wj18KkdfMayrOseNex76R9EsRJ52/Pr3fMHs+rWibPurs5Hc0LXP/lo8aUeMiChC0f/56UTxhdaLrV7QDrFw6Yl7D0hgCNjZlL7g3QuULXo+RanLo+tG8OEEcEOtaiAwkNlM=;5fPRjANcv8Ii2oOFfmo4XA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-01-20-irs-will-require-facial-recognition-scans-to-access-your-taxes.md",
+      "title": "IRS Will Require Facial Recognition Scans to Access Your Taxes",
+      "excerpt": "Users will have to submit sensitive government documents, their social security number, credit history, and a facial scan to third-party company ID.me.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/irs-will-require-facial-recognition-scans-to-access-you-1848387715",
+      "originalUrl": "https://gizmodo.com/irs-will-require-facial-recognition-scans-to-access-you-1848387715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/88c8412542d5104907dbc8089b769431.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/irs-will-require-facial-recognition-scans-to-access-you-1848387715/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/irs-will-require-facial-recognition-scans-to-access-you-1848387715/amp",
+      "publishedDateTime": "2022-01-19T18:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-build-tensorflow-lite-for-android.md",
       "title": "Build TensorFlow Lite for Android",
       "excerpt": "This document describes how to build TensorFlow Lite Android library on your own. Normally, you do not need to locally build TensorFlow Lite Android library. If you just want to use it, the easiest way is using the TensorFlow Lite AAR hosted at MavenCentral.",
@@ -1164,57 +1216,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-softbank-leads-cash-infusion-into-ai-infrastructure-company-pyxis-one-as-it-starts-year-with-new-name.md",
-      "title": "SoftBank leads cash infusion into AI infrastructure company Pyxis One as it starts year with new name",
-      "excerpt": "Prior to starting Pixis, the co-founders spoke to potential marketing customers about how to scale SaaS companies quickly in a “cookie less” world.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/",
-      "originalUrl": "https://techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Pixis-Founders.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/amp/",
-      "publishedDateTime": "2022-01-18T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

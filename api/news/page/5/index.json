@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-25-israeli-company-makes-body-cams-with-facial-recognition.md",
+      "title": "Israeli company makes body cams with facial recognition",
+      "excerpt": "Twenty years after he planned the controversial barrier between Israel and Palestinians, Dany Tirza is developing a security tool that requires no cement: body cameras with facial recognition technology. Tirza, a former Israeli army colonel, said that his ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taipeitimes.com/News/world/archives/2022/01/25/2003772046",
+      "originalUrl": "https://www.taipeitimes.com/News/world/archives/2022/01/25/2003772046",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Taipei Times",
+        "domain": "taipeitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases.md",
       "title": "Could artificial intelligence help people survive one of the world's deadliest diseases?",
       "excerpt": "Sepsis is responsible for one in five deaths worldwide, and is likely an underlying cause of COVID-19 deaths. Now a Vancouver immunologist says he's found a key solution using artificial intelligence",
@@ -1160,59 +1203,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-overcoming-ai-and-ml-roadblocks-in-financial-services.md",
-      "title": "Overcoming AI and ML Roadblocks in Financial Services",
-      "excerpt": "Artificial intelligence and machine learning have become critically important to financial services companies —86% say it’s important to their success in the next two years. A recent survey from Red Hat and IDG explores the challenges around AI and ML deployment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services",
-      "originalUrl": "https://www.infoworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-23T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

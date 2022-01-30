@@ -41,22 +41,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Can self-driving car be jailed for causing accident? World wonders who to blame"
-    excerpt: "Autonomous or self-driving cars aren't a fantasy but are already charging down the automotive path in many parts of the world..Are self-driving cars capable and are these safe? Can such vehicles use artificial intelligence to make our own skill and intelligence seem rather redundant?"
-    publishedDateTime: 2022-01-26T04:15:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/can-self-driving-car-be-jailed-for-causing-accident-world-wonders-who-to-blame-41643169240055.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/can-self-driving-car-be-jailed-for-causing-accident-world-wonders-who-to-blame/amp-41643169240055.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/can-self-driving-car-be-jailed-for-causing-accident-world-wonders-who-to-blame/amp-41643169240055.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 55
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/01/26/600x338/1304958_Wallpaper2_1643170301498.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Who’s to blame for self-driving vehicle accidents? UK says it’s on automakers"
     excerpt: "Last year, the UK became the first country to regulate the use of autonomous vehicles at slow speeds on motorways. Specifically, this means vehicles with automated lane-keeping systems (ALKS), able to control steering and speed within a designated lane."
     publishedDateTime: 2022-01-27T12:24:00Z
@@ -160,20 +144,6 @@ related:
       - url: "https://i2.wp.com/fleetworld.co.uk/wp-content/uploads/2021/03/Autonomous-vehicle-release1.jpg?fit=1024%2C768&#038;ssl=1"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Self-driving car developers could be held accountable for crashes – not motorists"
-    excerpt: "New laws also propose company bosses could face criminal prosecution if they fail to disclose faults or design flaws"
-    publishedDateTime: 2022-01-26T05:00:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2022/01/26/self-driving-car-developers-could-held-accountable-crashes/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 19
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2022/01/25/TELEMMGLPICT000224409383_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
-        width: 1024
-        height: 536
         isCached: true
   - title: "Self-driving car users shouldn’t be liable if anything goes wrong, say law commissioners"
     excerpt: "Whoever's behind the wheel of a self-driving car shouldn't be held responsible if it crashes, according to new proposals by legal review bodies. The Law"

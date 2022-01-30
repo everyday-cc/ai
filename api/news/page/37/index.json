@@ -2,6 +2,40 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-12-27-abrupt-decline-in-serious-cognitive-problems-among-older-americans-study-says.md",
+      "title": "‘Abrupt decline’ in serious cognitive problems among older Americans, study says",
+      "excerpt": "From 2008 to 2017, the percentage of adults ages 65 and older in the U.S. with serious cognitive issues dropped ... comment threads to stories from wire services such as the Associated Press ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/?amp=1",
+      "publishedDateTime": "2021-12-27T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-aterian-signs-a-50-million-credit-facility-with-midcap-financial-trust.md",
       "title": "Aterian Signs A $50 Million Credit Facility With MidCap Financial Trust",
       "excerpt": "(Nasdaq: ATER) (“Aterian”) announced today that it has signed an asset backed credit facility with MidCap Financial Trust (“MidCap”), which is managed by a subsidiary of Apollo Global Management, Inc.",
@@ -1126,48 +1160,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-2022-look-ahead-arms-race-will-dominate-us-china-competition.md",
-      "title": "2022 look ahead: Arms race will dominate U.S. - China competition",
-      "excerpt": "Admiral James Stavridis was 16th supreme allied commander of NATO and 12th dean of the Fletcher School of Law and Diplomacy at Tufts University. He spent the bulk of his operational career in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Opinion/2022-look-ahead-Arms-race-will-dominate-U.S.-China-competition",
-      "originalUrl": "https://asia.nikkei.com/Opinion/2022-look-ahead-Arms-race-will-dominate-U.S.-China-competition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F7%252F0%252F3%252F38073077-1-eng-GB%252FA20211223%2520aircraft%2520carrier%2520Liaoning.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-25T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
