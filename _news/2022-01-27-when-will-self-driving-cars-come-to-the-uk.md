@@ -43,6 +43,22 @@ related:
         width: 2872
         height: 1616
         isCached: true
+  - title: "UK needs laws for self-driving cars, government bodies say"
+    excerpt: "Government bodies are currently lobbying for the UK to adopt a legislation that regulates self-driving vehicles. According to a joint report from the Law"
+    publishedDateTime: 2022-01-26T12:09:00Z
+    webUrl: "https://www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/"
+    ampWebUrl: "https://www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/?amp=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/?amp=1"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 44
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Manufacturers To Blame For Self-Driving Car Crashes, Says UK Lawmaker"
     excerpt: "If many automotive experts are to be believed, we’re on the cusp of a self-driving revolution. And that means that as automakers finalize their autonomous-driving technology, lawmakers must write the rules that govern self-driving cars."
     publishedDateTime: 2022-01-26T18:00:00Z
@@ -58,6 +74,20 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/e4b9f8a035e18cd60716aa279291bced.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "UK needs law for self-driving cars, government bodies say"
+    excerpt: "The law should regulate self-driving vehicles and include sanctions for companies if anything goes wrong when their vehicles take over control from human drivers, two independent governmental bodies said."
+    publishedDateTime: 2022-01-26T08:11:00Z
+    webUrl: "https://europe.autonews.com/automakers/uk-needs-law-self-driving-cars-government-bodies-say"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20autonomous%20a8%20web.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "E0sh61JKTYQnCJjCr/VR1ylqypkwao3HSL49KtQ5JJPzrC/0Hgb3+di9wcDFwgD46djfaTAFRwaV1//WGVeSFLzPvJmHi0eykpHtAxRCs51asmxdQ7JdxHo9pvxOFrI4W5f/Ade3d8y0LuzehUZSHxEdt0Fz9SDyypS0Wm3YLnjebFeu6J6zNy9EOVrNi9NTWKMTu2WDWA5Qp2nkdgpnNjs5amQB8RYnfF8n72Fe4zsXnFonVDS3YxhdLo0SHL0gIonJ1U7PNTJ6J52QUki0EHjObZKvDg52NyO3rLfl11fNcuJK4Y/oZFIdP8bkN1ePLl+9lJGh+91pV0Qo8sQeDPh5cItTB0I5Uf3098S71cM=;46E6HO1TWFTJJ/2eqk/7HQ=="

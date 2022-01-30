@@ -249,6 +249,20 @@ related:
         width: 2000
         height: 1329
         isCached: true
+  - title: "Self-driving cars: Companies not the users should be responsible if autonomous vehicles crash, watchdog proposes"
+    excerpt: "People in a self-driving car should not be responsible if it crashes, legal watchdogs have proposed. The Law Commission of England and Wales, and the Scottish Law Commission, want legal protections to be introduced for owners of self-driving cars if anything goes wrong with the automation."
+    publishedDateTime: 2022-01-26T05:42:00Z
+    webUrl: "https://www.manxradio.com/news/uk-business/self-driving-cars-companies-not-the-users-should-be-responsible-if-autonomous-vehicles-crash-watchdog-proposes/"
+    type: article
+    provider:
+      name: Manx Radio
+      domain: manxradio.com
+    quality: 3
+    images:
+      - url: "https://e3.365dm.com/22/01/640x380/skynews-self-driving-care-car_5652425.png?20220125185007"
+        width: 640
+        height: 380
+        isCached: true
 
 secured: "j+6/pqw6GHIRG7D1b0wK7N/FW7tdyA4SrLoTjBBl3KyhFkOc/MjIKBfK3WCnwdmwRc+2X5Pa57W3zwwGFvu19eSCyiSeHxS+z69L2c2cHw1m0T1c89ARVc6Fvpsr+Tqi+oPJZ68NNs0PCyOtQnFMSyEc6SY4M1e0ZmObNg2Cp3+JnQlscowvCy8kvippfTfJY77W7l+UVoKR7Gb10SPpQOQI3njxYh0M0PBfds+ouS/tTYxX1OW0cinad0lNzjaUvHhcr5GG8Me5RuKNwekLntpWCUNo7d/0RiKExZRUwrRSXqgzWbEeYnmjkhbdW4Q85cAmr2G3p3sR0q33WVPd+QqWbUX7fuE7A05sn8vcJW73VkBt6cku0ETx6jWqgExfa/EIwTpjejIbfuXhn97HT+JMDhvFmmHTBDK7iEtQgBgcjjAjHeBgYsUyBqOJ4nr+kGlr7CDVUI7kc4ydepRLs49RYOuNqP9+GLPENLKRi1JywXRKVDRAfTQuthEipuUvLP6tzzkgUABjT1YVKs9TTA==;vJyuzQphvMdvPnq++qLpKw=="
 ---

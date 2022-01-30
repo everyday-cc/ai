@@ -41,22 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Volkswagen collaborates with Bosch to strengthen its self-driving goals"
-    excerpt: "Volkswagen and Bosch have partnered to develop features that will help users temporarily take their hands off the steering wheel."
-    publishedDateTime: 2022-01-25T12:38:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-collaborates-with-bosch-to-strengthen-its-self-driving-goals-41643110842245.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/volkswagen-collaborates-with-bosch-to-strengthen-its-self-driving-goals/amp-41643110842245.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/volkswagen-collaborates-with-bosch-to-strengthen-its-self-driving-goals/amp-41643110842245.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/01/25/600x338/2021-04-26T133630Z_33153905_RC2P3N9K1HNF_RTRMADP_3_USA-COURT-VOLKSWAGEN_1619774061235_1643114007943.JPG"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Volkswagen teams up with Bosch for self-driving software to take on Tesla"
     excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to develop a common software platform to bring hands-free driving functions to the German carmaker’s entire fleet in a bid to catch up to Tesla Inc."
     publishedDateTime: 2022-01-26T05:13:00Z

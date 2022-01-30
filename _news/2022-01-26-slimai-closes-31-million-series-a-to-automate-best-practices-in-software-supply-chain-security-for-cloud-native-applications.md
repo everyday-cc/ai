@@ -23,65 +23,51 @@ topics:
   - AI in Security
 
 related:
-  - title: "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries"
-    excerpt: "SparkCognition, a global leader in artificial intelligence (AI) software solutions for business, today announced the close of its $123 million Series D funding"
-    publishedDateTime: 2022-01-25T12:00:00Z
-    webUrl: "https://aithority.com/saas/sparkcognition-announces-123-million-series-d-funding-and-a-unicorn-valuation-to-accelerate-ai-adoption-across-industries/"
+  - title: "AI-Powered Digital Skills Assessment Start-up iMocha Raises $14 Million in Series A Funding"
+    excerpt: "AI-powered digital skills assessment platform, iMocha, today announced a $14 million Series A investment round led by Eight Roads Ventures, with participation from existing investors Upekkha and Better Capital."
+    publishedDateTime: 2022-01-27T08:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-in-series-a-funding-1031134315"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 111
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
     images:
-      - url: "https://aithority.com/wp-content/uploads/2022/01/SparkCognition-Announces-123-Million-Series-D-Funding-and-a-Unicorn-Valuation-to-Accelerate-AI-Adoption-Across-Industries.jpg"
-        width: 1600
-        height: 900
+      - url: "https://mma.prnewswire.com/media/1735254/AI_Powered_Digital_Skills_Assessment.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Nine Predictions For Artificial Intelligence And Automation In 2022"
-    excerpt: "With search engine algorithms increasingly powered by AI, businesses that aren't optimized for the change will fall behind."
-    publishedDateTime: 2022-01-27T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/amp/"
+  - title: "AI-powered digital skills assessment start-up iMocha Raises $14 million"
+    excerpt: "The new funding will be deployed to increase iMocha's skill library selection, reach more global enterprises, and widen its partnership base within the HR Tech ecosystem."
+    publishedDateTime: 2022-01-27T09:18:00Z
+    webUrl: "https://www.business-standard.com/article/companies/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-122012700890_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-122012700890_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-122012700890_1.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61f2c7dc36e77eea9e7440a6/0x0.jpg?format=jpg&width=1200&fit=bounds"
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/10/full/1615322229-3007.jpg?im=Resize,width=1200"
         width: 1200
-        height: 579
+        height: 898
         isCached: true
-  - title: "Acting New Jersey Attorney General Seeking Public Comment on the Use of Facial Recognition By Law Enforcement"
-    excerpt: "Many states this year are contemplating legislation and/or regulation in regards to biometric information and New Jersey is no exception.  This month Acting Attorney General Andrew J. Bruck annou"
-    publishedDateTime: 2022-01-25T23:32:00Z
-    webUrl: "https://www.natlawreview.com/article/acting-new-jersey-attorney-general-seeking-public-comment-use-facial-recognition-law"
-    ampWebUrl: "https://www.natlawreview.com/article/acting-new-jersey-attorney-general-seeking-public-comment-use-facial-recognition-law?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/acting-new-jersey-attorney-general-seeking-public-comment-use-facial-recognition-law?amp"
+  - title: "AI-powered digital skills assessment platform start-up iMocha raises $14 mn in Series A Funding"
+    excerpt: "AI-powered digital skills assessment platform, iMocha ,announced a $14 million Series A investment round led by Eight Roads Ventures, with participation from existing investors Upekkha and Better Capital."
+    publishedDateTime: 2022-01-27T11:07:00Z
+    webUrl: "https://www.freepressjournal.in/business/ai-powered-digital-skills-assessment-platform-start-up-imocha-raises-14-mn-in-series-a-funding"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/ai-powered-digital-skills-assessment-platform-start-up-imocha-raises-14-mn-in-series-a-funding"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ai-powered-digital-skills-assessment-platform-start-up-imocha-raises-14-mn-in-series-a-funding"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 40
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 45
     images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
-  - title: "How Deep Learning Helps Utilities Facilitate Automation and Innovation"
-    excerpt: "Deep learning is one of the most essential building blocks of artificial intelligence, and no one is successfully deploying ‘real’ AI without deep learning."
-    publishedDateTime: 2022-01-25T15:31:00Z
-    webUrl: "https://www.tdworld.com/smart-utility/data-analytics/article/21214976/utility-analytics-institute-how-deep-learning-helps-utilities-facilitate-automation-and-innovation"
-    type: article
-    provider:
-      name: T&D
-      domain: tdworld.com
-    quality: 39
-    images:
-      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2022/01/16x9/MDS_Executive_Summary.61f015c0d07ee.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://images.assettype.com/freepressjournal/2021-03/3dff1c24-4e50-4dd2-af5a-b373c2bdc8a8/startup_2480722_960_720.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
   - title: "MinIO Raises $103 Million in Latest Funding Round"
     excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, announced it has raised $103 million in Series B funding at a $1 billion valuation, enabling the company to accelerate multi-cloud storage adoption."
@@ -97,19 +83,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI startup SparkCognition raises $123M on a unicorn valuation of $1.4B"
-    excerpt: "Artificial intelligence startup SparkCognition Inc. revealed today that it has raised $123 million in new funding to expand sales and marketing efforts as well as research and development investments to accelerate its growth."
-    publishedDateTime: 2022-01-26T02:11:00Z
-    webUrl: "https://siliconangle.com/2022/01/25/ai-startup-sparkcognition-raises-123m-unicorn-valuation-1-4b/"
+  - title: "InstaDeep, creator of AI-powered decision-making systems, raises $100M"
+    excerpt: "InstaDeep Ltd., a Tunisian artificial intelligence startup that’s making advanced decision-making systems to solve real-world problems, said today it has closed on a $100 million funding round. The Series B round was led by Alpha Intelligence Capital and CDIB,"
+    publishedDateTime: 2022-01-26T01:44:00Z
+    webUrl: "https://siliconangle.com/2022/01/25/instadeep-creator-ai-powered-decision-making-systems-raises-100m-series-b-funds/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/sparkcognition.jpg"
-        width: 2048
-        height: 1367
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/73515572_1410568199093561_5581692699917942784_n.png"
+        width: 1919
+        height: 868
         isCached: true
   - title: "Slim.AI Raises $31 Million to Secure Cloud-Native Applications"
     excerpt: "Cloud-native application security startup Slim.AI today announced that it has raised $31 million in Series A funding, which brings the total raised by the company to $37.6 million. Slim.AI’s latest funding round was led by Insight Partners and StepStone Group and also received participation from Knollwood,"
@@ -125,71 +111,48 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "Docupace, JIFFY.ai Partner to Bring Next Generation Automation to the Back Office"
-    excerpt: "Docupace, the leader in cloud-based fintech digital operations software for the wealth management industry, and JIFFY.ai, the innovative provider of true end-to-end intelligent automation applications,"
-    publishedDateTime: 2022-01-26T14:41:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-6349b1092c784fb499c8b89ceb8f2ec7"
+  - title: "Conversational AI startup NLX raises $5M to scale its offering"
+    excerpt: "Conversation artificial intelligence startup NLX Inc. has raised $5 million in funding to assist it in scaling its offering, to increase its headcount and drive sales. Aquila Capital Partners led the seed round with Flying Fish Partners,"
+    publishedDateTime: 2022-01-28T01:45:00Z
+    webUrl: "https://siliconangle.com/2022/01/27/conversational-ai-startup-nlx-raises-5m-scale-offering/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Digitate Propels Digital Transformation Forward with Enhanced AIOps Capabilities and New Solutions"
-    excerpt: "Digitate, a leading provider of SaaS-based autonomous enterprise software for IT and business operations, today announced the general availability of its latest release, which adds enhanced product functionalities across the entire ignio™ product line as well as new out-of-the box solutions that help enterprises kickstart and accelerate their digital transformation at scale."
-    publishedDateTime: 2022-01-25T15:13:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/digitate-propels-digital-transformation-forward-with-enhanced-aiops-capabilities-and-new-solutions/article_982b11a8-0f4a-52d4-8c13-55b02a612b7b.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 25
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Digitate Propels Digital Transformation Forward with Enhanced AIOps Capabilities and New Solutions"
-    excerpt: "Digitate, a leading provider of SaaS-based autonomous enterprise software for IT and business operations, today announced the general availability of its latest release, which adds enhanced product functionalities across the entire ignio™ product line as well as new out-of-the box solutions that help enterprises kickstart and accelerate their digital transformation at scale."
-    publishedDateTime: 2022-01-25T16:13:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-9da5924ba0694a7fa2c6f3e231b5e2ce"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Raven unionisation plans continue without Activision Blizzard recognition"
-    excerpt: "Publisher did not respond to workers' request, says it will respond to National Labor Relations Board petition"
-    publishedDateTime: 2022-01-26T10:20:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2022-01-26-raven-unionisation-plans-move-to-vote-without-activision-blizzard-recognition"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 23
-    images:
-      - url: "https://images.gnwcdn.com/2022/articles/2022-01-26-10-12/game_workers_alliance.jpg"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/nlx.jpg"
         width: 1200
-        height: 628
+        height: 800
         isCached: true
-  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
-    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-    publishedDateTime: 2022-01-25T16:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
+  - title: "Tunisian AI Startup InstaDeep Raises $100 Million In Series B Round"
+    excerpt: "InstaDeep, an AI startup based in Tunisia and London has secured $100 million in its Series B financing round co-led"
+    publishedDateTime: 2022-01-28T12:26:00Z
+    webUrl: "https://techbooky.com/tunisian-ai-startup-instadeep-raises-100-million-in-series-b-round/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/insta-deeplogo.png?fit=708%2C430&ssl=1"
+        width: 708
+        height: 430
+        isCached: true
+  - title: "Services automation and remote management startup SuperOps.ai raises USD 14 Mn in Series A"
+    excerpt: "SuperOps.ai offers multiple solutions for MSP needs like IT documentation, project management etc– within the platform and on cloud."
+    publishedDateTime: 2022-01-27T12:20:00Z
+    webUrl: "https://analyticsindiamag.com/services-automation-and-remote-management-startup-superops-ai-raises-usd-14-mn-in-series-a/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 27
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/237607781_377106920669294_6000303580472061354_n.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
 
 secured: "wEIxeRfP+ohvUhLw+MlAeG4SUKNEPjSOi8tbamaWKZhpufHaRm0/VSnk4MJDKyTC1nGEPTXxxOWloPrcVBVHloftUaC7lKDO69v3tiBcbNkQf7DDkit+M3HF22JGBdZESWSmg0n05IiG5N9kBN4UVy2W7hvKirnvmwPiDGz6RGtnFt6lslvCnqNFA2OR5TE/2w9ammz1d8vJI9fm3wnrBI1XPlBP0OtQ9vAsKrajhBNyACRPJH+5MnkCiInz7JZmAhZj2ptDOo9lB+kkM8WzcPG0KfRs2XC3ktiBWuUch55PRxHylCcphOufgMqi1nSmF/NuJxCOfxhAn+jA5u1QjXZkw8i6D3WJ7oovnHTYwTE=;ggMGC3/f68Mwpm2S3Bc9DQ=="
 ---

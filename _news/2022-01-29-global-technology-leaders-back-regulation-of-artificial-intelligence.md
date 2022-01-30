@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nine Predictions For Artificial Intelligence And Automation In 2022"
+    excerpt: "With search engine algorithms increasingly powered by AI, businesses that aren't optimized for the change will fall behind."
+    publishedDateTime: 2022-01-27T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61f2c7dc36e77eea9e7440a6/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 579
+        isCached: true
 
 secured: "6r0goPhuyGfbqb1ysVksz6J36LxdRm7wooRlC/zCM0bQaArALFQfG/D+Aa/M/ZO/i0YsGc56frRiR+GR94WQBlrqUVWgpAR0iG4Np15VEA6SPHhQY+A9PbAU9LZSskYSrkoS5TbDPUlw4vCu5VysCJOMRBCXKtyddoMxu2RZr0Kqy9dLrrJL7TJ9nkx+FbYhwjqh0QoSrhTf6VcstBzycrOqFuGK0Oul6Z40dgd/xd0ZzxPxg4v4WOUzuJbqv3G69NMHjXauGQxICLaihnI+8Ns5jt8wryDAag+9lw2/TMl2AB3NO2gKzFh4aEN140OjC9plmOWbIE2WPjwogVm+dD8BEbC1PJPiGTMvF6dL2HaX4VIhmP+odUQLqzfP6VUr0diAji0DR6FkLM04tvH5D68UII/G7cGWwxhRaKutaeTG7eXNumh8JxkMfSdhSzpOpsTznL8VV17LWpXsar9oDo4OtfOaVTpvIibo3/WwhW5wn+5LeFDPwIpPX+Mky+LK4ISrhhZ2kGPECdAG1lbV8g==;DlzqxavUQhTuRfn8rKyDiA=="
 ---

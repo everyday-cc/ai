@@ -56,6 +56,48 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "MinIO Raises $103 Million in Latest Funding Round"
+    excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, announced it has raised $103 million in Series B funding at a $1 billion valuation, enabling the company to accelerate multi-cloud storage adoption."
+    publishedDateTime: 2022-01-28T18:46:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/MinIO-Raises-103-Million-in-Latest-Funding-Round-151167.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "InstaDeep, creator of AI-powered decision-making systems, raises $100M"
+    excerpt: "InstaDeep Ltd., a Tunisian artificial intelligence startup that’s making advanced decision-making systems to solve real-world problems, said today it has closed on a $100 million funding round. The Series B round was led by Alpha Intelligence Capital and CDIB,"
+    publishedDateTime: 2022-01-26T01:44:00Z
+    webUrl: "https://siliconangle.com/2022/01/25/instadeep-creator-ai-powered-decision-making-systems-raises-100m-series-b-funds/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/73515572_1410568199093561_5581692699917942784_n.png"
+        width: 1919
+        height: 868
+        isCached: true
+  - title: "Slim.AI Raises $31 Million to Secure Cloud-Native Applications"
+    excerpt: "Cloud-native application security startup Slim.AI today announced that it has raised $31 million in Series A funding, which brings the total raised by the company to $37.6 million. Slim.AI’s latest funding round was led by Insight Partners and StepStone Group and also received participation from Knollwood,"
+    publishedDateTime: 2022-01-26T14:49:00Z
+    webUrl: "https://www.securityweek.com/slimai-raises-31-million-secure-cloud-native-applications"
+    type: article
+    provider:
+      name: Security Week
+      domain: securityweek.com
+    quality: 37
+    images:
+      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Conversational AI startup NLX raises $5M to scale its offering"
     excerpt: "Conversation artificial intelligence startup NLX Inc. has raised $5 million in funding to assist it in scaling its offering, to increase its headcount and drive sales. Aquila Capital Partners led the seed round with Flying Fish Partners,"
     publishedDateTime: 2022-01-28T01:45:00Z
@@ -70,6 +112,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tunisian AI Startup InstaDeep Raises $100 Million In Series B Round"
+    excerpt: "InstaDeep, an AI startup based in Tunisia and London has secured $100 million in its Series B financing round co-led"
+    publishedDateTime: 2022-01-28T12:26:00Z
+    webUrl: "https://techbooky.com/tunisian-ai-startup-instadeep-raises-100-million-in-series-b-round/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/insta-deeplogo.png?fit=708%2C430&ssl=1"
+        width: 708
+        height: 430
+        isCached: true
+  - title: "Slim.AI Closes $31 Million Series A to Automate Best Practices in Software Supply Chain Security for Cloud-Native Applications"
+    excerpt: "Slim.AI, the Boston-based startup focused on optimizing and securing cloud-native applications, announced today that it has raised a $31 million series A round co-led by New York-based global venture capital and private equity firm Insight Partners as well as StepStone Group,"
+    publishedDateTime: 2022-01-26T13:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/slim-ai-closes-31-million-series-a-to-automate-best-practices-in-software-supply-chain-security-for-cloud-native-applications-1031130661"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Services automation and remote management startup SuperOps.ai raises USD 14 Mn in Series A"
     excerpt: "SuperOps.ai offers multiple solutions for MSP needs like IT documentation, project management etc– within the platform and on cloud."
     publishedDateTime: 2022-01-27T12:20:00Z

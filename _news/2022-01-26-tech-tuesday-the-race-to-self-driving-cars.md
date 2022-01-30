@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driv
 cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mercedes sees Luminar eyes in its self-driving cars"
-    excerpt: "Mercedes-Benz has taken a major step forward in its efforts to produce self-driving cars, partnering with Luminar to include the latter’s Iris lidar technology in Mercedes-Benz vehicles. The"
-    publishedDateTime: 2022-01-25T13:00:00Z
-    webUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/"
-    ampWebUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/mercedes-luminar.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "UK needs laws for self-driving cars, government bodies say"
-    excerpt: "Government bodies are currently lobbying for the UK to adopt a legislation that regulates self-driving vehicles. According to a joint report from the Law"
-    publishedDateTime: 2022-01-26T12:09:00Z
-    webUrl: "https://www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/"
-    ampWebUrl: "https://www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/?amp=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-needs-laws-for-self-driving-cars-government-bodies-say/?amp=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 44
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/10/City-AM-OG-1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Apple has expanding the team testing its self-driving cars in California"
     excerpt: "Apple's self-driving cars in California. The cars are testing Apple's self-driving technology but not an actual car. Apple has expanded the team of people that are testing its self-driving cars on the streets of California."
     publishedDateTime: 2022-01-26T14:29:00Z
@@ -74,34 +42,6 @@ related:
       - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/apple-car-toyota-mashup.jpeg"
         width: 800
         height: 400
-        isCached: true
-  - title: "UK needs law for self-driving cars, government bodies say"
-    excerpt: "The law should regulate self-driving vehicles and include sanctions for companies if anything goes wrong when their vehicles take over control from human drivers, two independent governmental bodies said."
-    publishedDateTime: 2022-01-26T08:11:00Z
-    webUrl: "https://europe.autonews.com/automakers/uk-needs-law-self-driving-cars-government-bodies-say"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20autonomous%20a8%20web.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Self-driving cars: Companies not the users should be responsible if autonomous vehicles crash, watchdog proposes"
-    excerpt: "People in a self-driving car should not be responsible if it crashes, legal watchdogs have proposed. The Law Commission of England and Wales, and the Scottish Law Commission, want legal protections to be introduced for owners of self-driving cars if anything goes wrong with the automation."
-    publishedDateTime: 2022-01-26T05:42:00Z
-    webUrl: "https://www.manxradio.com/news/uk-business/self-driving-cars-companies-not-the-users-should-be-responsible-if-autonomous-vehicles-crash-watchdog-proposes/"
-    type: article
-    provider:
-      name: Manx Radio
-      domain: manxradio.com
-    quality: 3
-    images:
-      - url: "https://e3.365dm.com/22/01/640x380/skynews-self-driving-care-car_5652425.png?20220125185007"
-        width: 640
-        height: 380
         isCached: true
 
 secured: "PXluKlRqB63M1ewYdmIzs3gl4wrm1mUflt8E9hqTZKjoX86KHW5M03fx5wx9y74ZWUAWQoIil0KKbu9Q7IZ2pl/TOaGuyIIHApSL2VWxYTl5+4f26r99dCMRxd8dyhK4QqmJ7/4Qy1IxTmYUAQdJ8/LvUHiUpobOiK5vOb7k+P4Pn5YJQhcoeOIRwcyqQPWsZMS2ZA8n15GSohJvAZv/yBUDSiMSWyynGuPfyV5R0k08PYC/VBHt7U3KiXi8LEHNxjtQ7krVQ9zGYoNrKtm9kTBCdr5GlJuppmWFvAFd0ZVzi79rFgrTYK1h6gmjoChwJTrKtnCQC6wY/uVdfD6fk/V4C5mT95YnodlOirt6rug=;We1pxaqFwkgVTnnjhUKHbw=="

@@ -62,22 +62,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Intel’s MobilEye Levels Up To Take On Tesla And Others In Self-Driving"
-    excerpt: "MobilEye has released powerful new chips and has a well-crafted strategy to create a robotaxi. I interview CEO Amnon Shashua, analyse their strategy and contrast it with Tesla and others."
-    publishedDateTime: 2022-01-25T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61ef5caa7698b8a65d3daadf/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Musk's bets on Tesla: human-like robots and self-driving cars"
     excerpt: "Tesla's most important products this year and next will not be cars, Chief Executive Elon Musk said on Wednesday, but software that drives them autonomously and a humanoid robot."
     publishedDateTime: 2022-01-27T19:49:00Z

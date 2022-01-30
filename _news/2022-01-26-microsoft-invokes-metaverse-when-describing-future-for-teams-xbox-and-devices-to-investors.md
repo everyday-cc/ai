@@ -117,20 +117,6 @@ related:
         width: 1908
         height: 793
         isCached: true
-  - title: "Meta Unveils Supercomputer to Power Translation in the Metaverse"
-    excerpt: "Meta (f.k.a. Facebook) unveiled what “will be the fastest AI supercomputer in the world when it’s fully built out in mid-2022.” The reason: because “developing the next generation of advanced AI will require powerful new computers capable of quintillions of operations per second."
-    publishedDateTime: 2022-01-25T13:00:00Z
-    webUrl: "https://slator.com/meta-unveils-supercomputer-to-power-translation-metaverse/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 24
-    images:
-      - url: "https://slator.com/assets/2022/01/Meta-New-Supercomputer-to-Power-Metaverse-Translation.png"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "wI+r81dWwEpsy05R3lx4Klh4rxcQVpFT5P3QRA8QxO/RywHRGdeU4Ds5gd77UkS/kb4aSH8OkVqRIYpPTSnI3I15gux4J7HeBgshxto0gBRUqLK35GXGyihi8KngAqSfzVe7RA0Om7ql67ZqHy+ntU6a0Pt9bp94OzF/hmoBYn088H1HFqNiRLh5Q1YktLNgGIsneF/r9QwwaY0mCalaGORwcXN12k1W+qnuHAdrFnj8ztGoLbBeYikbT+RMFhVwAkicEscI/i5gqm2jGhUEgoXUn5xfaZZLJ4AJEJu35E3ZfJW7+zHvaW3/65l2AyAeclXoXAlhOLDh9mkbuSRhY/6TqJzy+4g6KtMqkrGOkUYK2XKPmNzr/9UqeJE7W/oF2tk4vyvRqXjlL8sbdxdzx/5WPmNsE0q3YATN11px+gfikR0grdcFw8xKn43RmH0IZph7cheak6kyhfHXp0EWPLSN49yj4zJERD1yRCijKmNTGgM7cXbJAJnhiKETs4OBBcfyBKoM+W3Z8M955uB+ug==;40xGDAvsfTeDQfhsc2BAjw=="
 ---

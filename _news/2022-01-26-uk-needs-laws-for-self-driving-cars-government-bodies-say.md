@@ -27,53 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Mercedes sees Luminar eyes in its self-driving cars"
-    excerpt: "Mercedes-Benz has taken a major step forward in its efforts to produce self-driving cars, partnering with Luminar to include the latter’s Iris lidar technology in Mercedes-Benz vehicles. The"
-    publishedDateTime: 2022-01-25T13:00:00Z
-    webUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/"
-    ampWebUrl: "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/"
+  - title: "Some Insistent Hyper-Milers Say That AI Self-Driving Cars Should Be Forced To Drive Like Grandpa, But That’s Messed Up"
+    excerpt: "There are hypermilers that try to drive the maximum distance per the amount of fuel onboard their car, which raises interesting questions about the advent of AI-based self-driving cars."
+    publishedDateTime: 2022-01-27T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 65
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/mercedes-luminar.jpg"
-        width: 1440
-        height: 810
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61ef5d1abfe337178cc99299/0x0.jpg?format=jpg&crop=2872,1616,x0,y148,safe&fit=crop"
+        width: 2872
+        height: 1616
         isCached: true
-  - title: "TECH TUESDAY: The race to self-driving cars"
-    excerpt: "Companies are now testing advanced 3D Lidar systems with that capability, racing to bring self-driving cars a step closer to reality."
-    publishedDateTime: 2022-01-25T19:25:00Z
-    webUrl: "https://www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/"
-    ampWebUrl: "https://www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/tech-tuesday/tech-tuesday-the-race-to-self-driving-cars/amp/"
+  - title: "Manufacturers To Blame For Self-Driving Car Crashes, Says UK Lawmaker"
+    excerpt: "If many automotive experts are to be believed, we’re on the cusp of a self-driving revolution. And that means that as automakers finalize their autonomous-driving technology, lawmakers must write the rules that govern self-driving cars."
+    publishedDateTime: 2022-01-26T18:00:00Z
+    webUrl: "https://jalopnik.com/manufacturers-to-blame-for-self-driving-car-crashes-sa-1848424954"
+    ampWebUrl: "https://jalopnik.com/manufacturers-to-blame-for-self-driving-car-crashes-sa-1848424954/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/manufacturers-to-blame-for-self-driving-car-crashes-sa-1848424954/amp"
     type: article
     provider:
-      name: WLNS.com
-      domain: wlns.com
+      name: Jalopnik
+      domain: jalopnik.com
     quality: 44
     images:
-      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2019/11/self-driving-cars.jpg?w=1280"
-        width: 1280
-        height: 960
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/e4b9f8a035e18cd60716aa279291bced.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Apple has expanding the team testing its self-driving cars in California"
-    excerpt: "Apple's self-driving cars in California. The cars are testing Apple's self-driving technology but not an actual car. Apple has expanded the team of people that are testing its self-driving cars on the streets of California."
-    publishedDateTime: 2022-01-26T14:29:00Z
-    webUrl: "https://www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california"
-    ampWebUrl: "https://www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california?amp"
-    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california?amp"
+  - title: "When will self-driving cars come to the UK?"
+    excerpt: "SELF-DRIVING cars are set to be the future of domestic transport, as the UK plans to replace combustion engines with electric-powered motors. Manufacturers such as Tesla are leading the charge for"
+    publishedDateTime: 2022-01-27T06:00:00Z
+    webUrl: "https://www.thesun.co.uk/motors/3096829/url-self-driving-cars-when/"
+    ampWebUrl: "https://www.thesun.co.uk/motors/3096829/url-self-driving-cars-when/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/3096829/url-self-driving-cars-when/amp/"
     type: article
     provider:
-      name: iMore
-      domain: imore.com
-    quality: 43
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 44
     images:
-      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/apple-car-toyota-mashup.jpeg"
-        width: 800
-        height: 400
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2021/04/COMP-CFP-DRIVERLESS.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
   - title: "UK needs law for self-driving cars, government bodies say"
     excerpt: "The law should regulate self-driving vehicles and include sanctions for companies if anything goes wrong when their vehicles take over control from human drivers, two independent governmental bodies said."
@@ -88,20 +88,6 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20autonomous%20a8%20web.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Self-driving cars: Companies not the users should be responsible if autonomous vehicles crash, watchdog proposes"
-    excerpt: "People in a self-driving car should not be responsible if it crashes, legal watchdogs have proposed. The Law Commission of England and Wales, and the Scottish Law Commission, want legal protections to be introduced for owners of self-driving cars if anything goes wrong with the automation."
-    publishedDateTime: 2022-01-26T05:42:00Z
-    webUrl: "https://www.manxradio.com/news/uk-business/self-driving-cars-companies-not-the-users-should-be-responsible-if-autonomous-vehicles-crash-watchdog-proposes/"
-    type: article
-    provider:
-      name: Manx Radio
-      domain: manxradio.com
-    quality: 3
-    images:
-      - url: "https://e3.365dm.com/22/01/640x380/skynews-self-driving-care-car_5652425.png?20220125185007"
-        width: 640
-        height: 380
         isCached: true
 
 secured: "V/s4irE7JUCL00ISQtyM0dLuScD++O4nzjd+iQalXuo6UrvykQMAO/jzebEaOJTCO5fVAPGrSlcS8U4QOQaDXFcqUhcvzJJOp9+tGdUZyEY58N5olf4F+OIYnOC2ZS+QUkuzWocgS5bEUlRjPPXdEsnW3kIUuI7fI1MJrOI4kxM15OchNa/V24OxuH468rFqctkaaZhV9NV+sDmRAbTBWoTXBroWACC49fE+ywj94kMJFkpcd2tnUdsbi9a7zpjZBv64WWesPpWvWr31RQGyeqyy5cRKj8z4TrOp8Q3v6N4Slpv3w/nkha6JWwXcbXORJfuyWONX6vw1Xe30Fiotq9hcCyJSiXzMULs9aik6pKc=;0F8YI1uLmdE2Qm0+8x/KNA=="

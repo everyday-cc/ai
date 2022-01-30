@@ -2,6 +2,50 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-01-11-free-ai-protein-software-packages-nearly-predicted-structure-of-the-omicron-coronavirus-variant-correctly.md",
+      "title": "Free AI protein software packages nearly predicted structure of the Omicron coronavirus variant correctly",
+      "excerpt": "In brief Using two different free protein-predicting AI algorithms, computer scientists were almost able to model Omicron before the coronavirus variant had been physically mapped. Colby Ford, a researcher at the University of North Carolina,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/01/11/ai_in_brief/",
+      "originalUrl": "https://www.theregister.com/2022/01/11/ai_in_brief/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/07/15/shuttersock_vaccine.jpg",
+          "width": 1300,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/11/ai_in_brief/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/11/ai_in_brief/",
+      "publishedDateTime": "2022-01-11T04:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-global-artificial-intelligence-ai-in-security-market-emerging-trends-major-key-players-nvidia-corporation-us-and-intel-corporation-us.md",
       "title": "Global Artificial Intelligence (AI) in Security Market: Emerging Trends, Major Key Players NVIDIA Corporation (US) and Intel Corporation (US)",
       "excerpt": "According to the report The global Artificial AI in Security market size is expected to reach 20 94 Billion by 2028 growing at the CAGR of 18 65 from 2021 to 2028 The major factor driving the growth of",
@@ -1115,58 +1159,6 @@
         "name": "The Gazette",
         "domain": "gazette.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-tomahawk-robotics-appoints-the-honorable-ryan-d-mccarthy-to-the-board-of-directors.md",
-      "title": "Tomahawk Robotics Appoints The Honorable Ryan D. McCarthy To The Board Of Directors",
-      "excerpt": "Tomahawk Robotics, the leading innovator of common control solutions, is pleased to announce that former Secretary of the Army Ryan D. McCarthy has been appointed to its Board of Directors. \"Tomahawk's Kinesis enables the efficient deployment and use of unmanned systems by front line troops,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-appoints-the-honorable-ryan-d-mccarthy-to-the-board-of-directors-1031091792",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-appoints-the-honorable-ryan-d-mccarthy-to-the-board-of-directors-1031091792",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1723236/ryan_mccarthy_press_release.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T11:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

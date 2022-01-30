@@ -92,22 +92,6 @@ related:
         height: 800
         isCached: true
   - title: "Meta says it will soon have the world’s fastest AI supercomputer"
-    excerpt: "Meta will control what he believes will be the world’s fastest AI computer. Called the AI ​​Research SuperCluster (RSC)."
-    publishedDateTime: 2022-01-25T12:27:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 59
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/Meta-says-it-will-soon-have-the-worlds-fastest-AI-supercomputer-01-1.jpg"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Meta says it will soon have the world’s fastest AI supercomputer"
     excerpt: "Meta, formerly known as Facebook, is already using supercomputer to train major models in natural language processing (NLP) ."
     publishedDateTime: 2022-01-27T10:56:00Z
     webUrl: "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/"
@@ -131,7 +115,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
         width: 5408
@@ -150,20 +134,6 @@ related:
       - url: "https://files.idw-online.de/corona_idw.png"
         width: 615
         height: 284
-        isCached: true
-  - title: "Meta Announces New Supercomputer for AI Research"
-    excerpt: "Meta unveils the AI Research SuperCluster — a cutting-edge AI supercomputer for AI research. Developing the next generation of advanced AI will require powerful new computers capable of quintillions of operations per second."
-    publishedDateTime: 2022-01-25T12:22:00Z
-    webUrl: "https://www.communicateonline.me/category/industry-insights/post-details/meta-announces-new-supercomputer-for-ai-research"
-    type: article
-    provider:
-      name: CommunicateOnline
-      domain: communicateonline.me
-    quality: 41
-    images:
-      - url: "https://communicateonline.me//storage/posts/6cdMcbLcAq6SHzZWnsD1Zxh4wBjNrJUM0tQVWNkD.jpg"
-        width: 1800
-        height: 1000
         isCached: true
   - title: "Meta, NVIDIA Team Up to Build AI Supercomputer"
     excerpt: "Meta and NVIDIA have announced that they are working on building a massive AI supercomputer. The AI Research SuperCluster (RSC) is currently training new models to advance AI. The RSC is expected to be the largest customer installation of NVIDIA DGX A100 systems once it is fully deployed."
@@ -220,20 +190,6 @@ related:
       - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/6000.jpg?fit=930%2C558&ssl=1"
         width: 930
         height: 558
-        isCached: true
-  - title: "AI Research SuperCluster — Meta’s Cutting-Edge Supercomputer For AI Research"
-    excerpt: "Byline: Kevin Lee; Shubho Sengupta Developing the next generation of advanced AI will require powerful new computers capable of quintillions"
-    publishedDateTime: 2022-01-25T11:26:00Z
-    webUrl: "https://techbooky.com/metas-cutting-edge-supercomputer-for-ai-research/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 38
-    images:
-      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/ai-research-supercluster.jpg?fit=1248%2C701&ssl=1"
-        width: 1248
-        height: 701
         isCached: true
   - title: "Facebook’s Meta is building a “massive AI research supercomputer” with Nvidia"
     excerpt: "Facebook ‘s parent company Meta is working with Nvidia to create a “massive AI research research supercomputer”. Yesterday (January 24), Nvidia announced that it is building an “AI supercomputer” for Meta."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/"
 type: article
 quality: 116
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1975846/tesla-electric-vehicles-elon-musk-record-profits.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Intel’s MobilEye Levels Up To Take On Tesla And Others In Self-Driving"
-    excerpt: "MobilEye has released powerful new chips and has a well-crafted strategy to create a robotaxi. I interview CEO Amnon Shashua, analyse their strategy and contrast it with Tesla and others."
-    publishedDateTime: 2022-01-25T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/01/25/intels-mobileye-levels-up-to-take-on-tesla-and-others-in-self-driving/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61ef5caa7698b8a65d3daadf/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 675
         isCached: true
   - title: "6 Ways Tesla's Autonomous Driving Technology Is Evolving"
     excerpt: "They are the backbone of deep learning. I know we've talked about this before, but I have this slide, this is from IBM. Deep learning is the narrowest. When you look at artificial intelligence ..."

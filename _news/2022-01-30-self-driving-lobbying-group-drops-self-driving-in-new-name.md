@@ -41,6 +41,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "How self-driving truck systems see"
+    excerpt: "Visibility is key to truck operation, that’s true for a human driver and it’s especially true for automated driving systems. While Level 2 self-driving technology (adaptive cruise control working with active lane keep assist) is available today,"
+    publishedDateTime: 2022-01-27T12:00:00Z
+    webUrl: "https://www.fleetequipmentmag.com/self-driving-truck-see/"
+    type: article
+    provider:
+      name: Fleet Equipment Magazine
+      domain: fleetequipmentmag.com
+    quality: 24
+    images:
+      - url: "https://s18391.pcdn.co/wp-content/uploads/2022/01/self-driving-trucks-1400-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "embedded news: Driver not responsible for self-driving features"
     excerpt: "A roundup of this week’s embedded news including a report from the legal industry on who’s responsible for self-driving features in autonomous vehicles, plus regular features, news, products and funding news which includes a startup applying AI to autonomous vehicles and mobile robotics with its $200 million funding round."
     publishedDateTime: 2022-01-28T15:11:00Z

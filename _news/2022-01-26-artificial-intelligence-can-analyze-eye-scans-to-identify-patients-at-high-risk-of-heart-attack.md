@@ -29,17 +29,17 @@ images:
 related:
   - title: "AI can predict signs of a heart attack within a year — from a routine eye test"
     excerpt: "An artificial intelligence system is capable of spotting whether someone will have a heart attack within the next year — through a routine eye scan."
-    publishedDateTime: 2022-01-29T22:30:00Z
-    webUrl: "https://www.wsav.com/news/health-news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/"
-    ampWebUrl: "https://www.wsav.com/news/health-news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/"
-    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/health-news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/"
+    publishedDateTime: 2022-01-30T02:07:00Z
+    webUrl: "https://www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/"
+    ampWebUrl: "https://www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/"
+    cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/"
     type: article
     provider:
-      name: WSAV-TV
-      domain: wsav.com
+      name: WTNH
+      domain: wtnh.com
     quality: 53
     images:
-      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2022/01/eye-scan.jpg?w=1280"
+      - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2022/01/eye-scan.jpg?w=1280"
         width: 1280
         height: 813
         isCached: true

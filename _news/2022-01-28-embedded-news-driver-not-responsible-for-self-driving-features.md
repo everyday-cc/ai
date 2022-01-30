@@ -41,6 +41,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "How self-driving truck systems see"
+    excerpt: "Visibility is key to truck operation, that’s true for a human driver and it’s especially true for automated driving systems. While Level 2 self-driving technology (adaptive cruise control working with active lane keep assist) is available today,"
+    publishedDateTime: 2022-01-27T12:00:00Z
+    webUrl: "https://www.fleetequipmentmag.com/self-driving-truck-see/"
+    type: article
+    provider:
+      name: Fleet Equipment Magazine
+      domain: fleetequipmentmag.com
+    quality: 24
+    images:
+      - url: "https://s18391.pcdn.co/wp-content/uploads/2022/01/self-driving-trucks-1400-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
     excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
     publishedDateTime: 2022-01-30T00:37:00Z

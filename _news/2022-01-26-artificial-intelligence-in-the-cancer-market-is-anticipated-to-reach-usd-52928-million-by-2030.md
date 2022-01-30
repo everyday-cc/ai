@@ -53,33 +53,19 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Natural Language Processing (NLP) Market is Expected to Reach USD 44.96 Billion By 2028"
-    excerpt: "NEW YORK , NY, UNITED STATES, January 25, 2022 /EINPresswire.com / -- Increasing demand for NLP among various industry verticals is one of the significant factors influencing market growth. The global natural language processing (NLP) market is expected to reach USD 44."
-    publishedDateTime: 2022-01-25T12:42:00Z
-    webUrl: "https://menafn.com/1103591059/Natural-Language-Processing-NLP-Market-is-Expected-to-Reach-USD-4496-Billion-By-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 46
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?129737"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Size Worth $208.2 Billion By 2030: Grand View Research, Inc."
     excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030, according to a new report by"
-    publishedDateTime: 2022-01-27T10:05:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research-inc--864587650.html"
+    publishedDateTime: 2022-01-27T09:05:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research/article_0b3ff320-f08b-515f-a303-682b0f3f75c2.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 37
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
-        width: 1400
-        height: 733
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/c6/8c66b3a9-1b92-5bab-a37c-b539b9d30a53/6098f2b83f2d2.image.jpg?crop=810%2C425%2C295%2C0&resize=810%2C425&order=crop%2Cresize"
+        width: 810
+        height: 425
         isCached: true
   - title: "Global Speech Recognition Market Size is Expected to Reach $29.28 Billion by 2026"
     excerpt: "Speech recognition technology catches and identifies the audio signals in the form of language and converts these signals into the machine-readabl"

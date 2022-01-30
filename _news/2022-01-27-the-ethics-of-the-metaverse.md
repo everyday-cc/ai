@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -120,20 +120,6 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2015/09/Amyhood-768x485.jpg"
         width: 768
         height: 485
-        isCached: true
-  - title: "Meta Unveils Supercomputer to Power Translation in the Metaverse"
-    excerpt: "Meta (f.k.a. Facebook) unveiled what “will be the fastest AI supercomputer in the world when it’s fully built out in mid-2022.” The reason: because “developing the next generation of advanced AI will require powerful new computers capable of quintillions of operations per second."
-    publishedDateTime: 2022-01-25T13:00:00Z
-    webUrl: "https://slator.com/meta-unveils-supercomputer-to-power-translation-metaverse/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 24
-    images:
-      - url: "https://slator.com/assets/2022/01/Meta-New-Supercomputer-to-Power-Metaverse-Translation.png"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "tqMlIwjC9VZBvdCSpP+/oZXUse+lT0cRc2pSvZ1rf5ZfQmSOXxKPpH5LLLD+Db62L7E74JDg70s+cuXfza0AwI9HaN1NvVroEgadi8nixRdsO4hT2Hcs6A6P7b4quNY/LN8KC4pXS+iN748K7lWlpc3VG7BzZeYdJJLuOgRq50E9yhlZiIb0Zy7bmhAIO30tgcS0TodEG8l0jPtYvZtp1qck708gkKrF7SimWpUupMTm+TrCH/1V1lL4wjL1FPLe7iLJOti8djj5WDFUz7Qv+AG4btguCuCip9ca4R2ips7JrfP+stcAPEZDdFfgffWq/I8GpX3Uon6F5FMAzb7RFx6IqyHTxYFlZvVUpJcbutodXQLV52M2yNr6aZJ8/reWlT5frx00OIlunBcgDu6dkOMCpcW5KRNkVDnHXRxchJqQjy1aiiPuqAB0K9aIEWDRoUbuPOfTKk+l/h0fhD63pnZ6XglJPZJTpUHQ7ty27y4azuCddM2cgjbcN0Q48ousBuXkBPZgASJrpxdxtutMgQ==;RdRtvQkhRSdVOyuibV6Trg=="
