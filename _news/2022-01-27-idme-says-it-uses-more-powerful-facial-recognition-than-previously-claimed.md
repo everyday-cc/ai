@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/idme-ceo-facial-recognition-one-to-many-b
 webUrl: "https://www.engadget.com/idme-ceo-facial-recognition-one-to-many-backtrack-205046356.html"
 type: article
 quality: 82
-heat: 82
+heat: 84
 published: true
 
 provider:

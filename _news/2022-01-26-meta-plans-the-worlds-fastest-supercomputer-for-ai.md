@@ -137,16 +137,19 @@ related:
         height: 423
         isCached: true
   - title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
-    excerpt: "The company formerly known as Facebook, Meta Platforms (NASDAQ: FB), just unveiled details for its new AI Research SuperCluster (RSC). It's a massive supercomputer housed in a data center, and once it's fully constructed in mid-2022,"
-    publishedDateTime: 2022-01-29T12:20:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
-    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
+    excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
+    publishedDateTime: 2022-01-29T13:20:00Z
+    webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 53
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
+        width: 5408
+        height: 3605
+        isCached: true
   - title: "More productive coating and repair with Artificial Intelligence"
     excerpt: "A German-Canadian consortium is now tackling this with Artificial Intelligence (AI): Thanks to new software for process control, laser material deposition, in particular, shall be automatically ..."
     publishedDateTime: 2022-01-27T09:32:00Z
@@ -188,20 +191,6 @@ related:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:1000/h:500/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/272129674_454504216213565_903503002058288683_n.jpg"
         width: 1000
         height: 417
-        isCached: true
-  - title: "Meta says its new AI supercomputer is among the fastest in the world"
-    excerpt: "Facebook's parent firm Meta has unveiled the AI Research SuperCluster (RSC), a new supercomputer that it says is among the fastest in the world. The new supercomputing machine was announced by Meta CEO Mark Zuckerberg,"
-    publishedDateTime: 2022-01-25T08:11:00Z
-    webUrl: "https://www.computing.co.uk/news/4043803/meta-ai-supercomputer-fastest-world"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/7f2b6f1/aafa15a7-1f24-447d-928d-24e74c1066c0/5/Metassupercomputer-370x229.jpg"
-        width: 370
-        height: 229
         isCached: true
   - title: "Meta says its new AI supercomputer will be world's fastest"
     excerpt: "Facebook parent Meta Platforms Inc said on Monday that its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the world when completed in mid-2022."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/01/28/mustafa-suleyman-deepmind-co-fou
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html"
 type: article
 quality: 89
-heat: 90
+heat: 91
 published: true
 
 provider:

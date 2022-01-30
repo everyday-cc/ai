@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/"
 type: article
 quality: 98
-heat: 154
+heat: 148
 published: true
 
 provider:

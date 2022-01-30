@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/28/building-global-ai-with-local-imp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

@@ -25,89 +25,93 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market 2022-27: Global Size, Share, Growth, Trends and Forecast"
-    excerpt: "According to IMARC Group's latest report, titled \"Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the global artificial intelligence market reached a value of US$ 56."
-    publishedDateTime: 2022-01-25T08:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-27-global-size-share-growth-trends-and-forecast-2022-01-25"
+  - title: "Global Educational Robots Market By Application, By Product type, By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027"
+    excerpt: "Reportlinker.com announces the release of the report \"Global Educational Robots Market By Application, By Product type,"
+    publishedDateTime: 2022-01-25T17:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25216364/global-educational-robots-market-by-application-by-product-type-by-regional-outlook-industry-analy"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25216364"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25216364"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Growth, Trends, and Forecast, 2021-2031"
-    excerpt: "Artificial Intelligence (AI) in Remote Patient Monitoring Market: Contours The shift from volume-based to value-based care in healthcare sector has opened"
-    publishedDateTime: 2022-01-27T08:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-remote-patient-monitoring-market-growth-trends-and-forecast-2021-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/77382e6ba11d374925336267f0919e66e3a9618e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "AI in Computer Vision Market Growth Analysis, Trends Forecast Regions, Type and Application to 2019 -2028"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
-    publishedDateTime: 2022-01-28T14:46:00Z
-    webUrl: "https://menafn.com/1103606484/AI-in-Computer-Vision-Market-Growth-Analysis-Trends-Forecast-Regions-Type-and-Application-to-2019-2028"
+  - title: "Edge Artificial Intelligence Chips Market 2021 Top Industry Trend and Segments Analysis up to 2027"
+    excerpt: "Comserve / -- Edge Artificial Intelligence Chips Market by Device Type (Consumer Devices, Enterprise Devices) Function (Training, Inference) - Global Industry Analysis & Forecast to 2027 Industry Outlook and Trend Analysis The Edge Artificial Intelligence Chips Market has encountered significant development over the recent years and is anticipated to grow tremendously over the forecast period."
+    publishedDateTime: 2022-01-27T11:43:00Z
+    webUrl: "https://menafn.com/1103600924/Edge-Artificial-Intelligence-Chips-Market-2021-Top-Industry-Trend-and-Segments-Analysis-up-to-2027"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 37
+    quality: 25
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?25642"
-        width: 374
-        height: 250
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?356435"
+        width: 353
+        height: 249
         isCached: true
-  - title: "Machine learning Market Research - Insights Revenue, Growth Factors, Trends, Key Companies, Forecast 2021-2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the Market report for  Machine learning Market  for 2021 till 2030. Re"
-    publishedDateTime: 2022-01-25T07:44:00Z
-    webUrl: "https://menafn.com/1103588942/Machine-learning-Market-Research-Insights-Revenue-Growth-Factors-Trends-Key-Companies-Forecast-2021-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?772845"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "AI Medical Imaging Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
-    excerpt: "The Global AI Medical Imaging Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
-    publishedDateTime: 2022-01-28T07:21:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-medical-imaging-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
+  - title: "Mobile Robot Market Forecast, Restraints, Merger, Acquisition, SWOT Analysis, PESTELE Analysis and Business Opportunities by 2027"
+    excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
+    publishedDateTime: 2022-01-28T11:58:00Z
+    webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-forecast-restraints-merger-acquisition-swot-analysis-pestele-analysis-and-business-opportunities-by-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 6
+    quality: 25
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "AI In Financial Wellness Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
-    excerpt: "The Global AI In Financial Wellness Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
-    publishedDateTime: 2022-01-28T07:21:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-financial-wellness-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
+  - title: "2021 Global Oil and Gas Automation Industry Report - Robotics for the Upstream Sector Presents Opportunities - ResearchAndMarkets.com"
+    excerpt: "The “Global Oil and Gas Automation Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. The global oil and gas market is currently going through an unprecedented transformation,"
+    publishedDateTime: 2022-01-26T10:42:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-robotics-b4154ea08aa7429fa77ba94e6711d6e0"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 3
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Computer Vision Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Jan 27, 2022, 23:27 /Comserve / -- Computer Vision Market By Product Type (PC Based and Smart Camera Based) and Application (Quality Control and Inspection ..."
+    publishedDateTime: 2022-01-28T05:39:00Z
+    webUrl: "https://menafn.com/1103604520/Computer-Vision-Market-2021-Growth-Drivers-Regional-Outlook-Competitive-Strategies-and-Forecast-up-to-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?136441"
+        width: 440
+        height: 250
+        isCached: true
+  - title: "Global Voice User Interface Market By Vertical, By Offering, By Application, By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027"
+    excerpt: "Reportlinker.com announces the release of the report \"Global Voice User Interface Market By Vertical, By Offering,"
+    publishedDateTime: 2022-01-25T15:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25212336/global-voice-user-interface-market-by-vertical-by-offering-by-application-by-regional-outlook-indu"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25212336"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25212336"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
+    images:
+      - url: "https://www.benzinga.com/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "0WSZlomkqzO1DcxW6lNZsz5eF+skC1HiRilYK4vUa9BrybPDX0CpfESziR23Tj+Kn7pd0oRpiWttvxaX8EaSEueLP1bPydRDVjX6dvoVrzwgxqX+tgvGODzhvc5uW4QxpQQQTH8mASK4K5uvD+uIlcGJvVJbke/FrTT+zxouIRlUFFPYcHfOfnhsqVF3nVXCng6VmbQmQ0lTm70riNy4N4AfsXXOhyJbcIJLMTd0/3rrQ4gtiu391PYlmgr/ftRWvXRbvlflHwE+A18UB1ojj1GhwvxkpTNQln9SPdQywfqtxtelg+dOAWYPR5BBbnx4TZMizHwcnAD6lIQSMqG8CUuR5DUXt40BOd9+ZAPIEkU=;N8MGwWKb6WVDP2teD/xffA=="

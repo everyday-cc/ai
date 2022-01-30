@@ -2,6 +2,49 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-01-05-277-billion-worldwide-image-recognition-industry-to-2026-key-drivers-and-challenges-researchandmarketscom.md",
+      "title": "$27.7 Billion Worldwide Image Recognition Industry to 2026 - Key Drivers and Challenges - ResearchAndMarkets.com",
+      "excerpt": "By Technology (Digital Image Processing, Code Recognition, Facial Recognition, Others), By Deployment, By Application, By End User, By Region, Competition, Forecast",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20178301.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20178301.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/covid-19.jpg",
+          "width": 421,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-amazons-alexa-and-ciscos-webex-are-heading-to-deep-space-on-nasas-upcoming-moon-mission.md",
       "title": "Amazon’s Alexa and Cisco’s Webex are heading to deep space on NASA’s upcoming Moon mission",
       "excerpt": "A version of Amazon’s Alexa voice assistant and Cisco’s Webex videoconferencing platform will be included on the flight to space, part of a technology demonstration to see if these tools might benefit future astronauts flying to distant destinations like the Moon and Mars.",
@@ -1150,49 +1193,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-use-a-convolution-neural-network-that-follows-the-structure-of-the-lenet-cnn-to-classify-images-of-the-miniplaces-csail-datasetdataset.md",
-      "title": "Use a Convolution Neural Network that follows the structure of the LeNet CNN to classify images of the Miniplaces CSAIL datasetDataset",
-      "excerpt": "Use a Convolution Neural Network that follows the structure of the LeNet CNN to classify images of the Miniplaces CSAIL datasetDataset - GitHub - seanericksonpl12/CNN-Image-Classifier: Use a",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/seanericksonpl12/CNN-Image-Classifier",
-      "originalUrl": "https://github.com/seanericksonpl12/CNN-Image-Classifier",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/1f5d672059fa66cce30739690ecd1be564fbcd099254ac31f4afc6a2cd54eb0f/seanericksonpl12/CNN-Image-Classifier",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T11:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

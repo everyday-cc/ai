@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
+    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
+    publishedDateTime: 2022-01-25T16:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "MinIO Raises $103 Million in Latest Funding Round"
     excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, announced it has raised $103 million in Series B funding at a $1 billion valuation, enabling the company to accelerate multi-cloud storage adoption."
     publishedDateTime: 2022-01-28T18:46:00Z
@@ -180,15 +194,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition"
-    excerpt: "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,"
-    publishedDateTime: 2022-01-25T16:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
 
 secured: "q7PEVx43927OaukbpQSf+Yzl7Y7UhCb8OqHA5c2yI1CU4OX6CPp/L6bpVEW4t5HLqQh78cPeYSqYZG07cK/BtzCL3MR8cmrERf1+opfc+LkVSIrzGxSHGwRAwoIElnm5TQi7vu0fshxIWLW3qPr3FbmV+i225h+35BvnTkyZOC9WNo012Efyc9nYRRyI+71rCCh3q1pjN675Fik8Zs50iD2mPA/xaXp9gPWz4Jz1WXQFEyNFY1re7bz5UtUhT0fidpuyverHTn5LDD5TtrZxjhDXEuZUEfKdtnGotHDVn/dpiN6DT+5ifqoBIR5ddqZknpXqIew5xPggYNkNhNbu0q4oE/FFQClUDJJmu4g+46mcH073Nk9KCMCHhDwivQ+NdvGVGJhPlDbkmJz68Yj315KJsQlA9/EXl6fj4dXeBsk5QVxQk3nka0iEklhST3UqfU82L7uIE5msi389fE7jooQDtwd6fWbUi6FojQNwZUZu6HK1NkOXVZbX5JI5MSv3JdLjoFZ7/gNvzFp1q9wTIg==;rBacqJgqgj9gwoCDMa0lvA=="
 ---

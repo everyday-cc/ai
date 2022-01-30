@@ -41,6 +41,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
+    excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
+    publishedDateTime: 2022-01-30T00:37:00Z
+    webUrl: "https://www.futurecar.com/5166/Self-Driving-Lobbying-Group-Drops-‘Self-Driving’-in-New-Name"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 24
+    images:
+      - url: "https://img.futurecar.com/202201/29/l_61f5004608904.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "f9U7mjXtbuQHssOVf5i8MHqMDiATMx5s+A0kAodL2inAlzNsZauc0Enl4FkY+KSoWjhbei4+Oviaf2PpqTnMdGtZzPFkboUpjI3Z5CYDNl+FqD6h72roRuDUgQTi2n/z4q6u8BPgl/v8+uhkFXEgjzKnKsx1oKHzqjSHNRGvP1QFfC2NbXElSL43Z2O9jIkmZeNY1yDB54VdEkkDQsH5V/cehcqzRsPDYdA0MSd6GVaDlFwi8zbVjnx8OGvdHCRqvAU+65iwaSg2TrUZ8Mvp207JgcFer/S/grj0VU+Mj68AC1cHFhZkDrVJG3Wf6ZoLpALIpfcTvityzVt9ciWfcfvwzVcobVE1yPEwXqVAmbzIUR7ogxyRFza/jumpyJLRK/c/DjRUuIkIQQVFwWF/YdZEnJrUcJ6auiJCWan5g2nXYMvhM0pZLiOrb5hi/7q2ZUDJNt4/2s5MTFbn3ENf3swvovqEFW70IKTm/F6QrdIAsLscviEY2Eyvm4z+E0GKFgQvVnkHRdqNw/tsz1gN5w==;CYWVONioXs5l4Tey7d/MTw=="
 ---

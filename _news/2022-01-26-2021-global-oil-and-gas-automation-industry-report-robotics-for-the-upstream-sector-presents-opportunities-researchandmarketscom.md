@@ -69,6 +69,34 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Computer Vision Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Jan 27, 2022, 23:27 /Comserve / -- Computer Vision Market By Product Type (PC Based and Smart Camera Based) and Application (Quality Control and Inspection ..."
+    publishedDateTime: 2022-01-28T05:39:00Z
+    webUrl: "https://menafn.com/1103604520/Computer-Vision-Market-2021-Growth-Drivers-Regional-Outlook-Competitive-Strategies-and-Forecast-up-to-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?136441"
+        width: 440
+        height: 250
+        isCached: true
+  - title: "Worldwide Educational Robots Industry to 2027 - Growing Trend of Digitization is Driving Growth - ResearchAndMarkets.com"
+    excerpt: "By Product type (Non-Humanoid and Humanoid), By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027” report has been added to ResearchAndMarkets.com’s offering. The Global Educational Robots Market size is expected to reach $2,"
+    publishedDateTime: 2022-01-25T18:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-digitization-acc78c7760144cd1ab098e1b49936f85"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Global Voice User Interface Market By Vertical, By Offering, By Application, By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027"
     excerpt: "Reportlinker.com announces the release of the report \"Global Voice User Interface Market By Vertical, By Offering,"
     publishedDateTime: 2022-01-25T15:01:00Z

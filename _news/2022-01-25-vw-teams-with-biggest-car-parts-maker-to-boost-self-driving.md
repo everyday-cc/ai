@@ -68,20 +68,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 38
-  - title: "VW, Bosch partner on advanced driving technologies"
-    excerpt: "VW and Bosch plan to develop Level 2 systems for urban and freeway driving to be installed on VW Group vehicles starting next year."
-    publishedDateTime: 2022-01-25T08:00:00Z
-    webUrl: "https://www.autonews.com/automakers-suppliers/vw-bosch-partner-advanced-driving-technologies"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Raetzke-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "VW, Bosch Team Up on Self-Driving Software"
     excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to develop a common software platform to bring hands-free driving functions to the German carmaker’s entire fleet in a bid to compete with Tesla Inc."
     publishedDateTime: 2022-01-25T17:30:00Z

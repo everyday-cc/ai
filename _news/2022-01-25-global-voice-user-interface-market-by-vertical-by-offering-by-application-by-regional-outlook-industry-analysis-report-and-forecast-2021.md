@@ -85,6 +85,34 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Computer Vision Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Jan 27, 2022, 23:27 /Comserve / -- Computer Vision Market By Product Type (PC Based and Smart Camera Based) and Application (Quality Control and Inspection ..."
+    publishedDateTime: 2022-01-28T05:39:00Z
+    webUrl: "https://menafn.com/1103604520/Computer-Vision-Market-2021-Growth-Drivers-Regional-Outlook-Competitive-Strategies-and-Forecast-up-to-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?136441"
+        width: 440
+        height: 250
+        isCached: true
+  - title: "Worldwide Educational Robots Industry to 2027 - Growing Trend of Digitization is Driving Growth - ResearchAndMarkets.com"
+    excerpt: "By Product type (Non-Humanoid and Humanoid), By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027” report has been added to ResearchAndMarkets.com’s offering. The Global Educational Robots Market size is expected to reach $2,"
+    publishedDateTime: 2022-01-25T18:06:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-digitization-acc78c7760144cd1ab098e1b49936f85"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "DbNN8MH4LwaWEWp8j4MAiCx4d4dB0/5b07artECjegYuKqZg8G3cAMLShhpYkkruP5M3IGf08CYFo4AFr3qAN2DLame8A4a93/DjUWTKxwOIMxjaypevufIz8jPsT63IMtpjJ/abnvM3ctcYHZe3nFcUg9lZB8HDIdKpkCmFk9+S+qQzjiah+hR9pR3MRKjGaGcQ4TmyXwp/+NKyem2usAx3ywK/SA48kySABoLnkK6dM5FrxIkFq9ODHAis+k+dNkQzQjNwW1do3aX5QKT+uKC252fNYxnl6HlCvqG6cvGQRINvkzfDryv24lUFmCqlj1yb9pLPwpZGqMLZEVG096PaVo+f77X7RO3UfoQYbsM=;AkN4Dlf7qg1yAsZRVyDjnA=="
 ---

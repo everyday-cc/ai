@@ -89,20 +89,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "VW Teams With Biggest Car-Parts Maker to Boost Self-Driving Push"
-    excerpt: "Volkswagen AG is partnering with Robert Bosch GmbH to bolster its automated-driving push and catch up with the likes of Tesla Inc. on software development. VW’s Cariad software unit will work with the world’s largest auto-parts supplier to introduce features allowing drivers to temporarily take their hands off the steering wheel starting in 2023,"
-    publishedDateTime: 2022-01-25T08:24:00Z
-    webUrl: "https://www.bloombergquint.com/business/vw-teams-with-biggest-car-parts-maker-to-boost-self-driving-push"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 24
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving cars: Companies not the users should be responsible if autonomous vehicles crash, watchdog proposes"
     excerpt: "People in a self-driving car should not be responsible if it crashes, legal watchdogs have proposed. The Law Commission of England and Wales, and the Scottish Law Commission, want legal protections to be introduced for owners of self-driving cars if anything goes wrong with the automation."
     publishedDateTime: 2022-01-26T05:42:00Z

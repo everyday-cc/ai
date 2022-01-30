@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/ex-ust-head-sajan-pilla
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ex-ust-head-sajan-pillais-mclaren-ventures-launches-rs-100-cr-chip-design-co-to-hire-100-techies-soon"
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "McLaren Strategic Ventures launches AI-customized chip design venture in India"
-    excerpt: "It has launched Atlas Silicon, a comprehensive ecosystem that will create digital synergies to bring concept, design, IP and production under one umbrella."
-    publishedDateTime: 2022-01-25T07:57:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/cons-products/electronics/mclaren-strategic-ventures-launches-ai-customized-chip-design-venture-in-india/articleshow/89112275.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/cons-products/electronics/mclaren-strategic-ventures-launches-ai-customized-chip-design-venture-in-india/amp_articleshow/89112275.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/cons-products/electronics/mclaren-strategic-ventures-launches-ai-customized-chip-design-venture-in-india/amp_articleshow/89112275.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 70
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-43738,msid-89112330/chip_thinkstock.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "F/SoEm/h47ZKa99q1dpwaQjnPGEBJGgkQLdMF0dhO5NU6FyaepXWkGOhu8EMGBkyhEenplFkwrMuB8/DXF44g+hDemSiwJTAoB6l19KcQj/Jqoait7a+A0vzhMyDEWQb9kKiGwbwv6HU3Nb+H/Jfwrs4LZOrP7v85ZKX70BtL3MGHI/V1tUMqo6wZ9WIxhx7c3mpuqRpBVVi/RE9/Y5/hOG0hrPVBdUjQneJhgJErcFTDBnqCbRkYsG5tJOKi7DRMZERJoypItlLn/nkX2uGLb08IBBg23dKtRVAheWsjAvV4B9rbHkyMJ7Xh+UJUtfTwv7fxOxGEJnSv57FiOnz/LmKXGQey/WO9Wdtxd7OYSA=;UN5G9qQNFM3GifVGvUFRPw=="
 ---

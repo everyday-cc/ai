@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Computer Vision Market Growth Analysis, Trends Forecast Regions, Type and Application to 2019 -2028"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
+    publishedDateTime: 2022-01-28T14:46:00Z
+    webUrl: "https://menafn.com/1103606484/AI-in-Computer-Vision-Market-Growth-Analysis-Trends-Forecast-Regions-Type-and-Application-to-2019-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?25642"
+        width: 374
+        height: 250
+        isCached: true
   - title: "The global self-driving cars market size is projected to grow from 20.3 million units in 2021 to 62.4 million units by 2030, at a CAGR of 13.3%"
     excerpt: "Reportlinker.com announces the release of the report \"Self-driving Cars Market by Component, Vehicle, Level of"
     publishedDateTime: 2022-01-25T10:11:00Z

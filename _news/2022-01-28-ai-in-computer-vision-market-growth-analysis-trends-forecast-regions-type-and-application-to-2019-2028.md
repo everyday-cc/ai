@@ -25,89 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market 2022-27: Global Size, Share, Growth, Trends and Forecast"
-    excerpt: "According to IMARC Group's latest report, titled \"Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the global artificial intelligence market reached a value of US$ 56."
-    publishedDateTime: 2022-01-25T08:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2022-27-global-size-share-growth-trends-and-forecast-2022-01-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Growth, Trends, and Forecast, 2021-2031"
-    excerpt: "Artificial Intelligence (AI) in Remote Patient Monitoring Market: Contours The shift from volume-based to value-based care in healthcare sector has opened"
-    publishedDateTime: 2022-01-27T08:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-remote-patient-monitoring-market-growth-trends-and-forecast-2021-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/77382e6ba11d374925336267f0919e66e3a9618e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Machine learning Market Research - Insights Revenue, Growth Factors, Trends, Key Companies, Forecast 2021-2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the Market report for  Machine learning Market  for 2021 till 2030. Re"
-    publishedDateTime: 2022-01-25T07:44:00Z
-    webUrl: "https://menafn.com/1103588942/Machine-learning-Market-Research-Insights-Revenue-Growth-Factors-Trends-Key-Companies-Forecast-2021-2030"
+  - title: "Natural Language Processing Nlp Market to Grow with a Moderate CAGR During 2019-2028"
+    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 – International Telecommunication Union (ITU)CRIFAX adde"
+    publishedDateTime: 2022-01-28T10:41:00Z
+    webUrl: "https://menafn.com/1103605559/Natural-Language-Processing-Nlp-Market-to-Grow-with-a-Moderate-CAGR-During-2019-2028"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 19
+    quality: 47
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?772845"
-        width: 375
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?25642"
+        width: 374
         height: 250
         isCached: true
-  - title: "Worldwide Educational Robots Industry to 2027 - Growing Trend of Digitization is Driving Growth - ResearchAndMarkets.com"
-    excerpt: "By Product type (Non-Humanoid and Humanoid), By Regional Outlook, Industry Analysis Report and Forecast, 2021 - 2027” report has been added to ResearchAndMarkets.com’s offering. The Global Educational Robots Market size is expected to reach $2,"
-    publishedDateTime: 2022-01-25T18:06:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-digitization-acc78c7760144cd1ab098e1b49936f85"
+  - title: "The global self-driving cars market size is projected to grow from 20.3 million units in 2021 to 62.4 million units by 2030, at a CAGR of 13.3%"
+    excerpt: "Reportlinker.com announces the release of the report \"Self-driving Cars Market by Component, Vehicle, Level of"
+    publishedDateTime: 2022-01-25T10:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25202817/the-global-self-driving-cars-market-size-is-projected-to-grow-from-20-3-million-units-in-2021-to-6"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25202817"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25202817"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AI Medical Imaging Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
-    excerpt: "The Global AI Medical Imaging Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
-    publishedDateTime: 2022-01-28T07:21:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-medical-imaging-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 6
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "AI In Financial Wellness Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
-    excerpt: "The Global AI In Financial Wellness Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
-    publishedDateTime: 2022-01-28T07:21:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-financial-wellness-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 3
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.benzinga.com/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "ilkTtAzpA8UUo4XeFJXUxE3pdmVTz/Occ052W+HgTztPvMePj4dPZasgc5r2mNX5OBB14z+kdLV+UwwnI0f9yIcsGXE4/LIzZpwhd/joKRZaMcnpHc7/mCQm6faBufvHtxmSH+IZI/q1/Eyc3lZaG71wVaPaoi5yHf6N4FRJUSidHazPZ2jpKAkN9szqhiLxMA01JPfE4eTXPfdfs2vghrr5ImV+1r04HN0vIRHVKP9Cv+D3ytLjUas7/DSRxhi0kebyfJGPzYg/A6wm3kHXPSICNfZ5UYsiU07YhIO7tbUqtGs6xXTK0murA+kdqOsFYdOgb+Ii/fXIXfoOQGluPYP+Mu7U7arB/HVIyKXFT4s=;Ge7Rk6SO2ZDmlBzGZaLAyg=="

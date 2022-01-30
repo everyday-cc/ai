@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
-excerpt: "The company formerly known as Facebook, Meta Platforms (NASDAQ: FB), just unveiled details for its new AI Research SuperCluster (RSC). It's a massive supercomputer housed in a data center, and once it's fully constructed in mid-2022,"
-publishedDateTime: 2022-01-29T12:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
-webUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
-ampWebUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
+excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
+publishedDateTime: 2022-01-29T13:20:00Z
+originalUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
+webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
+    width: 5408
+    height: 3605
+    isCached: true
 
 related:
   - title: "Meta Builds World’s Largest AI Supercomputer With NVIDIA For AI Research And Production"
@@ -187,20 +195,6 @@ related:
         width: 1000
         height: 417
         isCached: true
-  - title: "Meta says its new AI supercomputer is among the fastest in the world"
-    excerpt: "Facebook's parent firm Meta has unveiled the AI Research SuperCluster (RSC), a new supercomputer that it says is among the fastest in the world. The new supercomputing machine was announced by Meta CEO Mark Zuckerberg,"
-    publishedDateTime: 2022-01-25T08:11:00Z
-    webUrl: "https://www.computing.co.uk/news/4043803/meta-ai-supercomputer-fastest-world"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 39
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/7f2b6f1/aafa15a7-1f24-447d-928d-24e74c1066c0/5/Metassupercomputer-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Meta says its new AI supercomputer will be world's fastest"
     excerpt: "Facebook parent Meta Platforms Inc said on Monday that its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the world when completed in mid-2022."
     publishedDateTime: 2022-01-25T13:53:00Z
@@ -295,6 +289,6 @@ related:
         height: 450
         isCached: true
 
-secured: "3xhtend2yZFSfmLdsLuM48lymUavO8vmAd2iTmxx3q5BThYT0POP/ZkzWOOBeAWoW5QNtG9S5x6+Oi+/dY2T75faKjmFw3CKDYdr8m/3yh7DI1Wzw+kuQejTLK4aCoO4JHM8l69F1cGPjsvWxxPh4Z8nJlq1gOEzcIJoST/6AKbjO57K56TYOOC2Ov/rGERotVikWU06TdbNPtCHax0jGe3ZMkKnztBCOs3vRHs+5HnN1w46y/1my5gMcbPg/oybSP9lSBqKIJQUJ2KxZF5GqpU9luiAVGQbPohx8CPux9VqGpa5gzdM+Hlc5MrE/GBL9D8GoJJd85yIO1MJ6c6jVucCSX8gWfV7B1p6dHT1eVs=;xtJ5zaSnvrCOc0UnRICUkw=="
+secured: "hEEqegcgYo3cdgprOjWX4fLPZbtUgAOQt+QeqzkqgZSbh/uL9VeMwOx8NYUlS4bGM1vwPdLtAE0dcmXnhB18KX4e4XDUdLoBogJcUy8XIBkUVUDc01YM/tUIGyErd+PwtkUfVRApsRbXUS9+tY+sAYy4C2fJQ6neCb/kmw9Gzj/sKihTKWAVOoPsEp2BxllIHwBWMlyGWs+n9vXQPVAgpqDcJUP3x+ZY/cqmsMpmT7ZuYJybFvcR6gOvZyNkjMXXcmTIkkhluIbhKUqJkeTCKHnzMhPBTU2UwkZn9fwR4CffjOPc+SoNAiO477yw9QNhSOkUTl7mn0fJpeFwYhJWsJaOq+3yfLUR2XbIZL1tK58=;rfL6wgMiFKWaSk+QAKFukg=="
 ---
 

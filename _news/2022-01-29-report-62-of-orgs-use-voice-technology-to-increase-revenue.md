@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/28/report-62-of-orgs-use-voice-techn
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/report-62-of-orgs-use-voice-technology-to-increase-revenue/amp/"
 type: article
 quality: 74
-heat: 76
+heat: 78
 published: true
 
 provider:

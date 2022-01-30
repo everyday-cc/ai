@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theatlantic.com/amp/article/621386/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/621386/"
 type: article
 quality: 89
-heat: 140
+heat: 141
 published: true
 
 provider:
