@@ -39,20 +39,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Baidu, Geely's EV arm Jidu raises $400M in new funding round"
-    excerpt: "Jidu, an EV venture between China's search engine company Baidu and Chinese automaker Geely, will start delivering mass-produced cars in 2023 that leverage Baidu's artificial intelligence expertise."
-    publishedDateTime: 2022-01-26T09:08:00Z
-    webUrl: "https://europe.autonews.com/automakers/baidu-geelys-ev-arm-jidu-raises-400m-new-funding-round"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Baidu%20web.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "WYbDq95WNjwR9E7v+njg30nfx+rGxvvbD433M+dN1j2dYvKZv8n1ciIKKIcviEraWrnID/u5/d9WHMcRhpTnCudYQaRRqRhtU8PGVPZalFdGy3Uh4p13m/3eZaAwxVf9XVlSJkd3aNUZYL3HY6Q9E6H7fjUsCaknGpJgBn1ER4JElL8lbI5luRlNrXaLmntP26j/LYo01zg6iyFi1eNgSQ/tcfSQoXFmNV6uMByuVS5bEp4/5el/g5DovaRIQ9+NawXZrnwghefQzKmmO8ycD8JuOWmnkRjVibMSUhGXLNJuY8XGrCxeYIqeI1yXLKT2nIjjh+LLE5sdlOdzWaaLE0BTwZPmBJt8bEM41E5YCdhOYIkppGbPokGhxHmCKWgrvCFk5G3Rqo6HpcD6mP+or0iGpR3aL88nm7TLq77TdYv/bJaBzvoqDcyCwHczjv+AQ8pr2XZVmQ5ViIWP7ThVv5qRapXX9VRzcRLfchq/lebcsmluIWaIu6owdZGoCmkx7jZp+vkAS9KRaYwiQNHY4A==;sGk+Ar/mwt+47k7JNHKYZw=="
 ---

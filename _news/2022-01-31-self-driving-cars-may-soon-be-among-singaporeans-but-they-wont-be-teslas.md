@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
-excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
-publishedDateTime: 2022-01-30T00:37:00Z
-originalUrl: "https://www.futurecar.com/5166/Self-Driving-Lobbying-Group-Drops-‘Self-Driving’-in-New-Name"
-webUrl: "https://www.futurecar.com/5166/Self-Driving-Lobbying-Group-Drops-‘Self-Driving’-in-New-Name"
+title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
+excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
+publishedDateTime: 2022-01-31T02:29:00Z
+originalUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
+webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
 type: article
-quality: 24
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: futurecar
-  domain: futurecar.com
+  name: Car
+  domain: sgcarmart.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://img.futurecar.com/202201/29/l_61f5004608904.jpg"
-    width: 800
-    height: 450
+  - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -40,20 +40,6 @@ related:
       - url: "https://wp-assets.futurism.com/2022/01/automotive-group-abandons-self-driving-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
-    excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
-    publishedDateTime: 2022-01-31T02:29:00Z
-    webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
-    type: article
-    provider:
-      name: Car
-      domain: sgcarmart.com
-    quality: 37
-    images:
-      - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "How self-driving truck systems see"
     excerpt: "Visibility is key to truck operation, that’s true for a human driver and it’s especially true for automated driving systems. While Level 2 self-driving technology (adaptive cruise control working with active lane keep assist) is available today,"
@@ -83,7 +69,21 @@ related:
         width: 810
         height: 617
         isCached: true
+  - title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
+    excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
+    publishedDateTime: 2022-01-30T00:37:00Z
+    webUrl: "https://www.futurecar.com/5166/Self-Driving-Lobbying-Group-Drops-‘Self-Driving’-in-New-Name"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 24
+    images:
+      - url: "https://img.futurecar.com/202201/29/l_61f5004608904.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
-secured: "RNWZvQcuqfnsRm+r/LP0NyHGhhzNSezaR0HMWb0FenkL7TOfpFqonJxhHyZwefZXDp0iUgposP6EP+jW8Vg4HbV8qDwbRIsoiuv0bE9lDR2HQgLpOMVt4A6fOtxuKRIJGMSjazcV72GAY9b9R//myxxQJB65IEMlzDNCEIW6rtijuuEy5VXyOC8bgakLZkMU2CwVQXBZVESQ5ZVp/d7EpsdqdpTnTKwXaJwYE44ABx8b53ruDtZKa7r8AcCM3LtZ4yXqpYO/OgAkJq8BgimAHGuAFHQf5KRSN1/1PEVQXci0C6Tk2TddLVzJC8lxzYhe0Ft5qZhamvY2VZURKGj3qDw7nRrBtIfHzD8G4pX49og=;e0nyx8/r7GcBmagi1K0aWA=="
+secured: "UKZKHIFGwe8wm7MiaC1IsLSqHTa2pozgrxQ++9F9OTOrRRiLFlmtW5JbHFM6lwL2mfCWC65+q+a9RV5GDSsd9X17tP5Mv+GWoiTCSB1uPCKT0eI5QUBJa5seDJqk3qLO4irvQIBwo5j8wT3nGwKsydRS8GcJ9SXiu1fRpgHC3yEiCqN+n/egFSk0B6FRXNh8YWB/BKUlTb3+wRisQaIhMMRXYyVxRb/3jRUN1ACbBQhU3V0IIsxgttNahvvbwdua/J33l1PoEtrBUx5x7b3Jmw+JwHcRcM3HHvKFlaZAI4EOGhTkL5wVamh2HQICi3nKzoQkZzsyz/i8uchqKbh8fg35cVuNEPGRCkfCdcLbsuE=;7AVawPd2/IXc1lT3NfBZeg=="
 ---
 

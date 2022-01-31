@@ -43,20 +43,6 @@ related:
         width: 1075
         height: 1280
         isCached: true
-  - title: "FinTech & Tech Lending are challenging bank loans"
-    excerpt: "ArK Kapital’s Head of Denmark is doing a series of articles for the Danish tech media @Bootstrapping, where he will cast light on the evolution of tech lending. We will publish the English versions in our web page."
-    publishedDateTime: 2022-01-26T10:01:00Z
-    webUrl: "https://www.linkedin.com/pulse/fintech-tech-lending-challenging-bank-loans-ark-kapital"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE078_o9tHY4g/article-cover_image-shrink_720_1280/0/1643191035445?e=1648684800&v=beta&t=8-bVZlC5gx2yEWHBMrvUTNif6fxjML8ihKcpEd8dHHE"
-        width: 850
-        height: 720
-        isCached: true
   - title: "Core banking startup Tuum raises €15 million"
     excerpt: "Estonian core banking supplier Tuum has landed €15 million in funding as it prepares for expansion outside the EU."
     publishedDateTime: 2022-01-27T01:12:00Z

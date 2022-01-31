@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence
 webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research-inc--864587650.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028"
-    excerpt: "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting"
-    publishedDateTime: 2022-01-27T09:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25252700"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25252700"
+  - title: "Global Data Annotation Tools Market (Services) Size Value to Reach USD 3,046.7 Million by 2028, at 27.2% CAGR: Polaris Market Research"
+    excerpt: "According to the latest research study, the report predicts the global Data Annotation Tools Market size & share to reach around USD 3,046.7 Million by 2028 from USD"
+    publishedDateTime: 2022-01-27T22:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/ab25272947/global-data-annotation-tools-market-services-size-value-to-reach-usd-3-046-7-million-by-2028-at-2"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25272947"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25272947"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 44
+    quality: 12
     images:
-      - url: "https://www.benzinga.com/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Artificial Intelligence in the Cancer Market is anticipated to reach USD 5,292.8 million by 2030"
-    excerpt: "Artificial Intelligence in Cancer to surpass USD 5,292.8 Million by 2030 from USD 297.3 Million in 2020 at a CAGR of 34.4% in the coming"
-    publishedDateTime: 2022-01-26T11:41:00Z
-    webUrl: "https://menafn.com/1103595888/Artificial-Intelligence-in-the-Cancer-Market-is-anticipated-to-reach-USD-52928-million-by-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/26/EP_d6121image_story.png"
-        width: 1418
-        height: 710
+      - url: "https://www.abnewswire.com/uploads/1643286664.jpeg"
+        width: 1280
+        height: 451
         isCached: true
 
 secured: "4jf3apwp4uWf8GcHDIwMIt+Es4ObaGq+olBm7UFvKnHE1rA0UcBuPN9OIXC27G+Lb7YVERa3CwVomL8EQPGsO/plcrFYlaOK8noR6dWjkIpdrR6X+gdBctdhmvGpEE3LMKrxgHcUeP3G3kQ4cdHJO6ZLGsT6OxbcYmsQycB08twx6HQEhHxV3ukfEYLx/CLrdj8Bkr70DSBwzYK07YK06D8xOQQ98uGqh08+8LYkVtwpg6IXjlgtjfh8HUjVQ3wHJ3CfNfsp8wb9GWNeOHaOG+L2nw7xKMvXgQHr+h0eKBzI25/xEGV3ETHOZNGm51RQLXCDZN8hazUDRcwXJyREa6tIR5iUMnsui88yJeqCZeagDLhvhlOD7zCO8vCzakZ9I3qu/jRN0mxCMtIcnG4fh/2vlvRDJqTrdwq1SOamzTuaAH2SWSA8ijwg29yugaFZxclAt42qX/HjTm26VRlN+tDMMZdWEHmMnFUrQ3SvEvsT4BPstUb5rpmHhSaVx2MSnWaOUi6jfayRCVMiXUhnFg==;4zwyaU0kgJC3hphKbDfPNQ=="

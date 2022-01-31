@@ -43,6 +43,22 @@ related:
         width: 2872
         height: 1616
         isCached: true
+  - title: "Human drivers should NOT be liable if self-driving tech causes a crash"
+    excerpt: "The Automated Vehicle Act would aim to resolve the biggest grey area concerning bringing self-driving technology to our roads."
+    publishedDateTime: 2022-01-26T11:35:00Z
+    webUrl: "https://www.thisismoney.co.uk/money/cars/article-10440363/Human-drivers-NOT-liable-self-driving-tech-causes-crash.html?mrn_rm=rta"
+    ampWebUrl: "https://www.thisismoney.co.uk/money/cars/article-10440363/amp/Human-drivers-NOT-liable-self-driving-tech-causes-crash.html"
+    cdnAmpWebUrl: "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-10440363/amp/Human-drivers-NOT-liable-self-driving-tech-causes-crash.html"
+    type: article
+    provider:
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 44
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/01/26/09/53387791-0-image-a-3_1643189136871.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "UK needs laws for self-driving cars, government bodies say"
     excerpt: "Government bodies are currently lobbying for the UK to adopt a legislation that regulates self-driving vehicles. According to a joint report from the Law"
     publishedDateTime: 2022-01-26T12:09:00Z
@@ -74,6 +90,34 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/e4b9f8a035e18cd60716aa279291bced.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "No-fault regime proposed for self-driving cars"
+    excerpt: "The person in the driving seat of a vehicle relying on self-driving features would no longer be held responsible for accidents and infringements under law reforms proposed today. Instead, under a new 'Automated Vehicles Act',"
+    publishedDateTime: 2022-01-26T12:26:00Z
+    webUrl: "https://www.lawgazette.co.uk/law/no-fault-regime-proposed-for-self-driving-cars/5111282.article"
+    type: article
+    provider:
+      name: lawgazette.co.uk
+      domain: lawgazette.co.uk
+    quality: 24
+    images:
+      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/8/1/6/101816_istock676364160.jpg"
+        width: 1024
+        height: 536
+        isCached: true
+  - title: "Self-driving car users shouldn’t be liable if anything goes wrong, say law commissioners"
+    excerpt: "Whoever's behind the wheel of a self-driving car shouldn't be held responsible if it crashes, according to new proposals by legal review bodies. The Law"
+    publishedDateTime: 2022-01-26T14:24:00Z
+    webUrl: "https://cardealermagazine.co.uk/publish/self-driving-car-users-shouldnt-be-liable-if-anything-goes-wrong-say-law-commissioners/253005"
+    type: article
+    provider:
+      name: Car Dealer Magazine
+      domain: cardealermagazine.co.uk
+    quality: 15
+    images:
+      - url: "https://0a411afb0c598242cc95-1df470064133d6bc5c471837468f475c.ssl.cf3.rackcdn.com/publish/wp-content/uploads/2022/01/Driverless-car-being-demonstrated-via-PA.jpg"
+        width: 2000
+        height: 1329
         isCached: true
 
 secured: "E0sh61JKTYQnCJjCr/VR1ylqypkwao3HSL49KtQ5JJPzrC/0Hgb3+di9wcDFwgD46djfaTAFRwaV1//WGVeSFLzPvJmHi0eykpHtAxRCs51asmxdQ7JdxHo9pvxOFrI4W5f/Ade3d8y0LuzehUZSHxEdt0Fz9SDyypS0Wm3YLnjebFeu6J6zNy9EOVrNi9NTWKMTu2WDWA5Qp2nkdgpnNjs5amQB8RYnfF8n72Fe4zsXnFonVDS3YxhdLo0SHL0gIonJ1U7PNTJ6J52QUki0EHjObZKvDg52NyO3rLfl11fNcuJK4Y/oZFIdP8bkN1ePLl+9lJGh+91pV0Qo8sQeDPh5cItTB0I5Uf3098S71cM=;46E6HO1TWFTJJ/2eqk/7HQ=="

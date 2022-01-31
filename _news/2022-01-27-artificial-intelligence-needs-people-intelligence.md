@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide Open-source Intelligence Industry to 2028 - Integration of Artificial Intelligence with Open-Source Intelligence Presents Opportunities - Re"
-    excerpt: "The \"Global Open-Source Intelligence Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Technique (Text Analytics, Video Analytics, Social Media Analytics, Geospatial Analytics, Security Analytics,"
-    publishedDateTime: 2022-01-26T11:02:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=606106"
+  - title: "How Does Amazon Use Business Intelligence?"
+    excerpt: "By using its recommendation engine, Amazon makes use of its data. While you are using Amazon’s website, it collects details about who you are and what you buy. As well as what you buy, Amazon keeps track of what items you viewed,"
+    publishedDateTime: 2022-01-31T02:55:00Z
+    webUrl: "https://www.ictsd.org/how-does-amazon-use-business-intelligence/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
+      name: ICTSD
+      domain: ictsd.org
+    quality: 4
 
 secured: "J0NCufxRosAMNeboFd69tAV5Wp/jnsoptPCP1lNFC4MPJsSt+DTvjSo04uUO1r0f/ndmN4xcPqmfl0ankhEroLK3qiPMN34UOsN7ZPmWA2mueKhaFATvLt9kk3h+UuDb+8AOkk55YUsHL8OREL/6K3+cwXZnZJv8rFZyUF/AnDL+UKQljL9TbD8exnAgPK5IMPSm4bY6uWGxzcNjIlPOWXCZksb80jTZww3tfATzRSwtXcug7O02J4kC3g9DdeARrZWS2vx1Ja7/uQT0JnT8oPz2cljLxU/0dtQ9+aAOyuWZa00xSseE78Teoo01kIszvmDvWxAkocKbOij8Bzq7Mh58i9Zsp9atP6aeYgkP0PTpd78bAF+9f6KUrDnC+0B1mtlTbMWCbtoUcRxcXbvqdyBGGnp+mYf91n/W4xmL+GpxcHraBxB3r2qd08rxicdDqjiX85xj9ifWKGsEqSnU3axQ/fRCLHhMliXs3m+HA4XQo/+WOaInylhp1wgSq7z9sWPhXL0k9O5aCCT4YbFrOw==;qs2UKDlX+i11vDNKX6ZLEw=="
 ---

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
+    excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
+    publishedDateTime: 2022-01-31T02:29:00Z
+    webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
+    type: article
+    provider:
+      name: Car
+      domain: sgcarmart.com
+    quality: 37
+    images:
+      - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "How self-driving truck systems see"
     excerpt: "Visibility is key to truck operation, that’s true for a human driver and it’s especially true for automated driving systems. While Level 2 self-driving technology (adaptive cruise control working with active lane keep assist) is available today,"
     publishedDateTime: 2022-01-27T12:00:00Z

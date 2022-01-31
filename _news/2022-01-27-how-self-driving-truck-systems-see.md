@@ -41,6 +41,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
+    excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
+    publishedDateTime: 2022-01-31T02:29:00Z
+    webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
+    type: article
+    provider:
+      name: Car
+      domain: sgcarmart.com
+    quality: 37
+    images:
+      - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "embedded news: Driver not responsible for self-driving features"
     excerpt: "A roundup of this week’s embedded news including a report from the legal industry on who’s responsible for self-driving features in autonomous vehicles, plus regular features, news, products and funding news which includes a startup applying AI to autonomous vehicles and mobile robotics with its $200 million funding round."
     publishedDateTime: 2022-01-28T15:11:00Z

@@ -1,34 +1,24 @@
 ---
 category: news
 title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
-excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
-publishedDateTime: 2022-01-29T13:20:00Z
-originalUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
-webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
+excerpt: "The company formerly known as Facebook, Meta Platforms (NASDAQ: FB), just unveiled details for its new AI Research SuperCluster (RSC). It's a massive supercomputer housed in a data center, and once it's fully constructed in mid-2022,"
+publishedDateTime: 2022-01-29T12:20:00Z
+originalUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
+webUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
+ampWebUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
 type: article
-quality: 57
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Facebook AI
-  - AI
-  - Natural Language Processing
   - AI Hardware
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
-    width: 5408
-    height: 3605
-    isCached: true
+  - AI
 
 related:
   - title: "Meta Platforms (FB) to Launch World's Fastest AI Computer"
@@ -76,6 +66,6 @@ related:
         height: 558
         isCached: true
 
-secured: "LAJxux3l/xc/4GUx938c7cT/eVD7rbaqObQWNZxgn3umFVcj9Heml6pvC7N2E7tYmuAjhroqrXSXXPnG6LwRgEoxVUHU6oIYAFj5LSKdeTYjMiGgdFNsnODrj2oF6pNGBGjDh95lLFYo44bB4Ebwn0BnwRJC8fVDCeLql6wPe9hO8nSq1c3cu3RxoED8GF1kunF2So+QI1Kj/4A5h3Ctu35SOGm+PV7U9jmW+JxQUSlMXqZbQI/z83Mux3mxbrUPZugKLhwAkLhPQLo8oNP7QJshPEBpgv2tDWMr5tfPPEi9fp23Qm7lJYdABnblILyzAUxDwBrpywFMB3vKuUemD48NoYEb1AmSdjvvPzlMx4rq0laComqWHLHa2MMe+0EQr8TgPE5cD223QCSLTauFH/r8Kl66+jUWHg1PivH1ULE/aNG+ee8oquvEEebvrs3ZY0HKx0+4hrRDYu86WVyL4AsnTs/HJCPDGQ8TOMd4B7iGdl0pj9MYVKJYLD1A2PSd9oeptg+evqR7XLU1JMgrBQ==;Kbit7exxpkeQN02t9geObg=="
+secured: "3jRkL1vxkkpi+hpP6Knm4BAW1R7IsUymAxEMxbaS544EsmC0Bn2tTTlnCH0a55E+QICMT1Wpf4/vOCl+wgxrRFjDuGLKoTL2YyyDcvLCKZb+NwfjfbWGp9/1V7DewRk2SQiAVRGgEA7tamLSTgbyIKZupfm4uAlogo8Fsp5gPhBw35wyQ0TJ4WLMT8GgCgmo1hxZK2yiGL2fILCYbb9NbnkzycBJOu61vSR9j7kaGDNeE94Xyl6Mwyb2YgsDT7t46Qs9NkqzezvGSG07mxahoyb6Jc8CjcA2JL17t+J+/NPt4V7nZoxnTJalC/Y6RmEXW+fKmljHEkVQAj2vtbupKpc/reWPaw8HibwdZqBeq58=;RqWZp2/NRj2T9KU9T0P5NQ=="
 ---
 

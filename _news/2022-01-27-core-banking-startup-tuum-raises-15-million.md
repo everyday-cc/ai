@@ -56,20 +56,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "FinTech & Tech Lending are challenging bank loans"
-    excerpt: "ArK Kapital’s Head of Denmark is doing a series of articles for the Danish tech media @Bootstrapping, where he will cast light on the evolution of tech lending. We will publish the English versions in our web page."
-    publishedDateTime: 2022-01-26T10:01:00Z
-    webUrl: "https://www.linkedin.com/pulse/fintech-tech-lending-challenging-bank-loans-ark-kapital"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE078_o9tHY4g/article-cover_image-shrink_720_1280/0/1643191035445?e=1648684800&v=beta&t=8-bVZlC5gx2yEWHBMrvUTNif6fxjML8ihKcpEd8dHHE"
-        width: 850
-        height: 720
-        isCached: true
 
 secured: "K/F9ZzYu8IeN5zqpR7XHdPMVUaZBzhOnntfnhXIHvH1CAveiAgszzEbdKASqfkzCdeE7oNcnEoKhWKdA3i9v3te6J0K4qsOaPOfpgHqfjk6pDPfS/A8ggeMslZ5SN4eThGRkZzcqt2EKzYLrb44X6kmhcqBd3ZrISQxGxMWeNfeOxzV3zvg1+LWlynePYB5wl2WVP2gtt8hz5qWWAo0mMT075YsKWa/moVnTTpzCm+3HAphiUzndMq3KL5ap+1SimH8l0rBFBlj65pPqQrllXrlIWx0X/fHUz7NJAzixvqtApm0weU0ydOzDmMkCLZ1O8ZQcEbJ2WtLUyamhE1enXjhOkSd9vUCDFpE89jcQywM=;lQNUJY7Zy0KpBRBP4F1OcQ=="
 ---

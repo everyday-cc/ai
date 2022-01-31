@@ -6,9 +6,6 @@ publishedDateTime: 2022-01-26T10:14:00Z
 originalUrl: "https://www.chinadaily.com.cn/a/202201/26/WS61f0ae6ea310cdd39bc83565.html"
 webUrl: "https://www.chinadaily.com.cn/a/202201/26/WS61f0ae6ea310cdd39bc83565.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: China Daily
@@ -24,6 +21,6 @@ images:
     height: 474
     isCached: true
 
-secured: "+8xCU/2G6c1hiFhWIaZhIjFT4omqgmEKEQPGYNtvlTDn67Mp13SccEeg8+pU2OEEb4LmK59aiHJvwOjxCMjv36NaB+87Al2FoZyOhu3DQfxZzjIMGPDhhdyBXbEkTauywJTRpvdHaRTb4HYupdeKCu/dvQxfq95b8yO5tpIh80OIawBA8CAxqumqAw2wE1ETWqJlWyKBevwz0wJpKNkIYlhMJPEU6y+JcuTgUnGX8mvku04VdWBi8xf4VHXLjhqhhfK5ZAZInDvEcKQqalwl0zfU4ZAcGnkqoeJdzBUQcqGvmjkuzZAMTFv6R0i7IDtP7B5jsg1rmqEHWl9typO/4VYwcB6YC3xp0Ytqie14gsU=;apwOXmDkBNmBiHXxurkQPg=="
+secured: "XKxPmY4ug6Xx7MNT8OKRpz/bq8wG/c99gDo7VFKwLzhdGiCbgiCUy4vGL6EKrawRB322PrfeIbySluaNTtNzM1kT7HMl4s4sLahTROrPvDe8WcefHulAHNq+MghxTkficZZxSVzQADxefwOHrV/0Qi0BDg8FBwvxS+17hLfFnLN/PPxgYLgfjLwrF+1bafq82i0a+nw7fTLUNKXNULSZmMp62F/rdMREY46Q5UAYBxM7vqfm9nkmZZJHDlas978od4R9ag8s4uKWaX4eV78sOxUFs407xdAor6lTtuQCSqHM+qDBc2D8oxZjq3As1jQMJ5M2w3XyZFVH3rjU7apBcHbWuQbwRq0LlxB06jaN5kk=;WhsT9EeDFIWuRLCO/Wff7g=="
 ---
 
