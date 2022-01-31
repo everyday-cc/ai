@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-06-google-prediction-framework-addresses-data-pipeline-drudgery.md",
+      "title": "Google Prediction Framework addresses data pipeline drudgery",
+      "excerpt": "Framework weaves together Google Cloud Platform services to simplify the implementation of prediction projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html",
+      "originalUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/executive-pushing-boulder-uphill_deadline_stress_struggle-100746928-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.amp.html",
+      "publishedDateTime": "2022-01-05T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-deploying-ml-models-using-sagemaker-serverless-inference-preview.md",
       "title": "Deploying ML models using SageMaker Serverless Inference (Preview)",
       "excerpt": "Amazon SageMaker Serverless Inference (Preview) was recently announced at re:Invent 2021 as a new model hosting feature that lets customers serve model predictions without having to explicitly provision compute instances or configure scaling policies to handle traffic variations. Serverless Inference",
@@ -1329,50 +1381,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics.md",
-      "title": "Rajasthan Government Sets Aside Rs 200 Crores To Train Youth In AI, Ml And Robotics",
-      "excerpt": "Rajiv Gandhi Center for Advanced Technology will be set in Jaipur, which would conduct certificate courses and multidisciplinary research in AI, ML, Robotics and Virtual Reality.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/",
-      "originalUrl": "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/ashok-gehlot-new.jpeg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-24T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

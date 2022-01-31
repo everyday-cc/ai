@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnbc.com/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -131,6 +131,58 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-01-23T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-23-custom-federated-algorithms-part-1-introduction-to-the-federated-core.md",
+      "title": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
+      "excerpt": "This tutorial is the first part of a two-part series that demonstrates how to implement custom types of federated algorithms in TensorFlow Federated (TFF) using the Federated Core (FC) - a set of lower-level interfaces that serve as a foundation upon which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/federated/tutorials/custom_federated_algorithms_1",
+      "originalUrl": "https://www.tensorflow.org/federated/tutorials/custom_federated_algorithms_1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-22T23:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TensorFlow",
@@ -1481,59 +1533,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-examining-the-tensorflow-graph.md",
-      "title": "Examining the TensorFlow Graph",
-      "excerpt": "TensorBoard’s Graphs dashboard is a powerful tool for examining your TensorFlow model. You can quickly view a conceptual graph of your model’s structure and ensure it matches your intended design. You can also view a op-level graph to understand how ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tensorboard/graphs?hl=nb",
-      "originalUrl": "https://www.tensorflow.org/tensorboard/graphs?hl=nb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorboard-logo-social.png?hl=nb",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

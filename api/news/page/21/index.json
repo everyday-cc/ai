@@ -2,6 +2,101 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-01-10-r1-rcm-to-buy-artificial-intelligence-software-firm-cloudmed.md",
+      "title": "R1 RCM to buy artificial intelligence software firm Cloudmed",
+      "excerpt": "R1 RCM has entered into an agreement to purchase Cloudmed, a company that uses artificial intelligence and automation for revenue-cycle management, in an all-stock transaction that values Cloudmed at roughly $4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernhealthcare.com/revenue-cycle/r1-rcm-buy-artificial-intelligence-software-firm-cloudmed",
+      "originalUrl": "https://www.modernhealthcare.com/revenue-cycle/r1-rcm-buy-artificial-intelligence-software-firm-cloudmed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/merger-arrows-money_i.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-10T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modern Healthcare",
+        "domain": "modernhealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights.md",
+      "title": "IFF And SleepScore Labs Develop Fragrance That Targets Sleepless Nights",
+      "excerpt": "IFF and SleepScore Labs have partnered to develop a scent that will help consumers get a better night’s sleep based on science and data and creativity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/",
+      "originalUrl": "https://www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dba89ae7c75c3c0e034eaa%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/amp/",
+      "publishedDateTime": "2022-01-10T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-when-mind-melds-with-machine-whos-in-control.md",
       "title": "When Mind Melds With Machine, Who’s in Control?",
       "excerpt": "Brain-computer interfaces are getting better all the time—and they’re about to land us in a philosophical quagmire.",
@@ -1064,101 +1159,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-cognitive-services-market-size-volume-share-demand-growth-business-opportunity-by-2023-trending-report.md",
-      "title": "Cognitive Services Market-Size Volume, Share, Demand growth, Business Opportunity by-2023 (Trending Report)",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Japan, Japan, Mon, 10 Jan 2022 06:36:43 / Comserve Inc. / -- MarketsandMarkets expects the global cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-volume-share-demand-growth-business-opportunity-by-2023-trending-report-2022-01-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-volume-share-demand-growth-business-opportunity-by-2023-trending-report-2022-01-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers.md",
-      "title": "Edge Impulse Leverages TinyML and AutoML for Efficient Microcontrollers",
-      "excerpt": "Concept: San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers. TinyML is an ML technique that can be implemented ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
-      "originalUrl": "https://www.just-auto.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/01/shutterstock_767487700.jpg",
-          "width": 500,
-          "height": 277,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

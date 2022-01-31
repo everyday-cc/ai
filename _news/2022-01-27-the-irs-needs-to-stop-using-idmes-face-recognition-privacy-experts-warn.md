@@ -47,6 +47,22 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "Facial recognition for all online IRS accounts: What's up with ID.me?"
+    excerpt: "Soon, all IRS accounts will require ID.me registration with a \"video selfie.\" Learn how it works and what the risks are."
+    publishedDateTime: 2022-01-30T23:30:00Z
+    webUrl: "https://www.cnet.com/personal-finance/taxes/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/-Y2FC1FfYakP-RnZZ6IzirC829w=/1200x630/2020/07/14/b34e2000-8454-4185-8032-4c6e8a9f54f3/yt-vs-selfie-camera-3.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Treasury Reconsiders IRS’s Use of ID.Me Face Recognition for Web"
     excerpt: "The Treasury Department is reconsidering the Internal Revenue Service’s reliance on facial recognition software ID.me for access to its website, an official said Friday amid scrutiny of the company’s collection of images of tens of millions of Americans’ faces."
     publishedDateTime: 2022-01-28T18:43:00Z
@@ -123,19 +139,33 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "The IRS website will soon require facial recognition to log in to your account"
-    excerpt: "Will Lanzoni/CNN Will Lanzoni/CNN The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are."
-    publishedDateTime: 2022-01-28T01:17:00Z
-    webUrl: "https://kesq.com/money/cnn-social-media-technology/2022/01/27/the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account/"
+  - title: "Facial recognition for cattle on the way"
+    excerpt: "The day when producers simply scan the faces of their stock on their smartphone as they walk up the crush, and have all their individual information immediately at hand, might not be far off, thanks to novel livestock facial recognition technology being developed by an Australian researcher."
+    publishedDateTime: 2022-01-30T22:55:00Z
+    webUrl: "https://www.northweststar.com.au/story/7600492/facial-recognition-for-cattle-on-the-way/"
     type: article
     provider:
-      name: KESQ News
-      domain: kesq.com
+      name: The North West Star
+      domain: northweststar.com.au
+    quality: 39
+    images:
+      - url: "https://www.northweststar.com.au/images/transform/v1/crop/frm/38U3JBx5nNussShT8aZyYjc/8e0765a2-a6c6-4358-a66d-91416bc426f5.jpg/r0_914_2753_2469_w1200_h678_fmax.jpg"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "The IRS website will soon require facial recognition to log in to your account"
+    excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are. The verification process ..."
+    publishedDateTime: 2022-01-28T03:12:00Z
+    webUrl: "https://www.gwinnettdailypost.com/news/business/the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account/article_de35a3fb-313b-5825-9218-6972a99fdd0c.html"
+    type: article
+    provider:
+      name: Gwinnett Daily Post
+      domain: gwinnettdailypost.com
     quality: 35
     images:
-      - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
-        width: 1024
-        height: 576
+      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/a/45/a4544d21-a21a-5f18-8adf-09087fb8c25c/61f3412be7380.image.jpg?crop=1765%2C927%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "gIoMlNWJpMipqilOlclLCxImEzYIRz2/ZkZ9nNB/LjpgFk9uxSPOE/Y2GlX5jc5h6dRQQP6yaZ3lpwblhTOjL7Fa+t9qkfT7Zn6Kp5hyeIvJx2KVa3Kh1ad8yMm5nHMxc3bH2PztP+DBjNQreZYE24q8dh61Gy6TjOofMeyV2J58b0+qndmke22SMFbJ+MJKsurVI05ZtvbhUvUxbe+tqXl3/Z39Tv/DcbUVPZ3craq1vZhXmm0ooF8QxT6Jc7e8iQoLXd2p+9dt+//anus0aCZB1UHZE04/6duWAOBGzUZfyan/jjrPGwaUpkgviMjDwwErW6simoybccxgOma6BWjkQcYQZYdmusAPO05hCuSZ6AFOdif7qqlFxtcmR3UvDyvlORq+wHxOl6G7C3NfiRsOFL49dplED7o4IORNGXRwzs4y++nJYjSq7WeDyO6EpfHm4/C/kSn5S7VcljMkeUBMJAXlKfjZvoS6OL7gbuBoyUjVGcvre+ZTvWGbsiLb0PD1jSnpxZEMGYMWeX6lew==;Ha85qEaH6QSMVYopXmlmag=="

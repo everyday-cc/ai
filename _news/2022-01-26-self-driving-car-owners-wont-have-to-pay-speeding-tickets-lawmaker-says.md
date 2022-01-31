@@ -26,22 +26,6 @@ images:
     height: 409
     isCached: true
 
-related:
-  - title: "UK needs law to sanction companies if self-driving cars go wrong, independent government bodies say"
-    excerpt: "The law should regulate self-driving vehicles and include sanctions for companies if anything goes wrong when their vehicles take over control from human drivers, two independent governmental bodies said."
-    publishedDateTime: 2022-01-26T08:11:00Z
-    webUrl: "https://europe.autonews.com/automakers/uk-needs-law-sanction-companies-if-self-driving-cars-go-wrong-independent-government"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 10
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Audi%20autonomous%20a8%20web.jpg"
-        width: 800
-        height: 600
-        isCached: true
-
 secured: "Q/qwCG1UP+zk6OBU9X/zY4o82QnKZjSU4myS1dRPGIGPpzJkloZPL5Xu+FMdgukYj5P/653Vn6oyuLFnrNEsg+s9X3bRd3dtoWMXmRXVYzXxvdfKu0U7VMaNYqQiLe87iHafaRp3HKSgn/sC5Y456p+g4gbNOtfZaE+xuuUvUnx5tLQjbElHwMUe9h+epqt7ebk2lu5hjE+U1z029D1t8YXERd2pMN8XBlX3mSMwiwBN8YEJbzkM1SrhAR4VG8BfK28VmXRhbE+sQsoAbNUDaIb7cxRBPMTJK+nLcjqqwawC+8ox4ffP2w642DPvN6Yz72MsLurwcSp2KRU8LszghpINzqYbYnx0s1P7b4bAUTChLmtzhbSmneqKA9bzpmCe7rSvqBO5x04eZwUXXXn+dv3SRoB3QomfxctRxe9E/tNTr2rZQ9PqgpH92+uY88e5D+d6No9ekaOUmkn6jRtpTuP2jlB2/jj9XQaZH4ccHNTX4MfOGa8QpiTf/CJ1ZZsxA8BV+PxTUFGPQyrdPUrizg==;OAuwmWJGL/aix5jnBrNhtQ=="
 ---
 

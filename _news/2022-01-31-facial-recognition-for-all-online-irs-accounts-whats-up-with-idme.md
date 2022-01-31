@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Opinion: IRS Facial Recognition Rule Is Undemocratic"
-excerpt: "Later this year, the Internal Revenue Service will require IRS website users to agree to biometric scanning to access tax records. Why should the IRS have the ability to put citizens' privacy at such substantial risk?"
-publishedDateTime: 2022-01-29T00:51:00Z
-originalUrl: "https://www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic"
-webUrl: "https://www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic"
-ampWebUrl: "https://www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic?_amp=true"
-cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic?_amp=true"
+title: "Facial recognition for all online IRS accounts: What's up with ID.me?"
+excerpt: "Soon, all IRS accounts will require ID.me registration with a \"video selfie.\" Learn how it works and what the risks are."
+publishedDateTime: 2022-01-30T23:30:00Z
+originalUrl: "https://www.cnet.com/personal-finance/taxes/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
+webUrl: "https://www.cnet.com/personal-finance/taxes/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Government Technology
-  domain: govtech.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://erepublic.brightspotcdn.com/dims4/default/6f3fc0e/2147483647/strip/true/crop/5472x2853+0+383/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F79%2F88d1808747fb987ab61a9ea55fcd%2Foped-irs-heritage-commentary-get.jpg"
-    width: 840
-    height: 438
+  - url: "https://www.cnet.com/a/img/-Y2FC1FfYakP-RnZZ6IzirC829w=/1200x630/2020/07/14/b34e2000-8454-4185-8032-4c6e8a9f54f3/yt-vs-selfie-camera-3.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,22 +46,6 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/uj61NrtPPNrapCcc9ebMcNN2_88=/570x321/media/img/mt/2022/01/IRS_Facial_Recognition_1/original.jpg"
         width: 570
         height: 321
-        isCached: true
-  - title: "Facial recognition for all online IRS accounts: What's up with ID.me?"
-    excerpt: "Soon, all IRS accounts will require ID.me registration with a \"video selfie.\" Learn how it works and what the risks are."
-    publishedDateTime: 2022-01-30T23:30:00Z
-    webUrl: "https://www.cnet.com/personal-finance/taxes/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/-Y2FC1FfYakP-RnZZ6IzirC829w=/1200x630/2020/07/14/b34e2000-8454-4185-8032-4c6e8a9f54f3/yt-vs-selfie-camera-3.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "The IRS Needs to Stop Using ID.me's Face Recognition, Privacy Experts Warn"
     excerpt: "New statements from the company's CEO show it may use a more expansive facial recognition system than previously known."
@@ -104,6 +92,22 @@ related:
       - url: "https://phantom-marca.unidadeditorial.es/1f06094736ba8cd96b4c2ef2f442c13f/resize/1200/f/jpg/assets/multimedia/imagenes/2022/01/26/16432109382520.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Opinion: IRS Facial Recognition Rule Is Undemocratic"
+    excerpt: "Later this year, the Internal Revenue Service will require IRS website users to agree to biometric scanning to access tax records. Why should the IRS have the ability to put citizens' privacy at such substantial risk?"
+    publishedDateTime: 2022-01-29T00:51:00Z
+    webUrl: "https://www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic"
+    ampWebUrl: "https://www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/6f3fc0e/2147483647/strip/true/crop/5472x2853+0+383/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F79%2F88d1808747fb987ab61a9ea55fcd%2Foped-irs-heritage-commentary-get.jpg"
+        width: 840
+        height: 438
         isCached: true
   - title: "IRS Website Will Soon Require Facial Recognition To Log Into Your Account"
     excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are."
@@ -164,6 +168,6 @@ related:
         height: 630
         isCached: true
 
-secured: "mskak5uJTKrP0gIZYuFJ0yfMn10WcbyKF8ekn0zAACIeZi1ZQUs+j6IfsSMuxGoConknb98MqcubrnYucAmNQVn16JMxgomc5x5HWxuy13Fjxg6UiGLdBG18eo1YeGuldgWe+gGTO65fWN9CBYWOEIvJmcVVlu10DSKM49qzOE4ds5Bniu61LhMgXpnEAO0DdEEwRV7rDUWBMWK2hXhCkTMQ2AtHmOTV6Ubvo9VZxRSORuugmfvpsnPGuQWw8lIewd0AMcJ4HDyQ2XlMoM5AbjhqLB1vtTZqRJe+FlCHm4uV1zW9tQD+jPnpawGztRmVuoJZFqdpVFJw7hnlBUYbRECG45vqizdRGRpI6E3uPNO9McRcet2NezKXTev1q+T9GmWzTKdfqXvPysTaGQ1N4Js0FcHtZXDjHyEpfYIvks052brDpDgpJGfZWyyjdsvjZ3CHOKMBdtN6X0PzoK2mLl3UXvOrEViuxioT+1HYb2eIVYgbDBomvnv4r0OskK2E8C8libr1cAWTHCeTfmBC6A==;cAtC7asvMR1NQ67L1+V92w=="
+secured: "hhWUJ0l2HPJNMKlIdCZxu2Z7ZHXBIipy/kpT0djCbet0zU960OpwaSXJZPqca3Ffpec3QE3bjjx8W5hB2edkYsG5pVTM5SCiA4jiv6EcDBrEn5Ow+s29UBqIyb0wRgQclWUDoxtwlSu8nqfFlzOK+h/3eI1kzyN21G2cqvbTLeZ7joQ8KJ2ZevNnP1lBQJpGABRzTmvpD7tFe6dqQZqWqE0pSuqpkJfqA9LXzpSofUQF+w5ESQNq0i82XCFqpE/vqj/z/IQQfMj5T/Aq+gv6sBwTywj11TW4Dvf6W5j6IoUZVeb859VH5g50Hf1oi1jDPoB6Y9LF+2R0qORdST9FRWlE37MEcvmP9Pn0NOOkPgg=;+8y9cnXBPE1M1Rjyc11mFw=="
 ---
 

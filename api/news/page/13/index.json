@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-01-17-7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai.md",
+      "title": "7bridges raises $17M to automate logistics supply chains using AI",
+      "excerpt": "Supply chain logistics — getting components and eventually finished products from A to B to C — is one of the most critical parts of running a business, not least because it is one of the most complex,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/",
+      "originalUrl": "https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1319013665.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/amp/",
+      "publishedDateTime": "2022-01-16T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-17-free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.md",
       "title": "Free-energy principle can explain how neural networks are optimized for efficiency",
       "excerpt": "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency.",
@@ -1134,57 +1185,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-ai-training-leverage-your-tech-skills-and-send-your-career-soaring.md",
-      "title": "AI training: Leverage your tech skills and send your career soaring",
-      "excerpt": "If you feel like your tech career is a little stalled, all you have to do is build on the skills you already have to move up in data science, game development, IoT, cybersecurity and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "publishedDateTime": "2022-01-14T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

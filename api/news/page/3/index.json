@@ -166,7 +166,7 @@
       "originalUrl": "https://www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -672,22 +672,31 @@
       "title": "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition",
       "excerpt": "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T08:42:00-08:00",
+      "publishedDateTime": "2022-01-25T08:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -697,9 +706,8 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Opinion: IRS Facial Recognition Rule Is Undemocratic"
-excerpt: "Later this year, the Internal Revenue Service will require IRS website users to agree to biometric scanning to access tax records. Why should the IRS have the ability to put citizens' privacy at such substantial risk?"
-publishedDateTime: 2022-01-29T00:51:00Z
-originalUrl: "https://www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic"
-webUrl: "https://www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic"
-ampWebUrl: "https://www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic?_amp=true"
-cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic?_amp=true"
+title: "Facial recognition for cattle on the way"
+excerpt: "The day when producers simply scan the faces of their stock on their smartphone as they walk up the crush, and have all their individual information immediately at hand, might not be far off, thanks to novel livestock facial recognition technology being developed by an Australian researcher."
+publishedDateTime: 2022-01-30T22:55:00Z
+originalUrl: "https://www.northweststar.com.au/story/7600492/facial-recognition-for-cattle-on-the-way/"
+webUrl: "https://www.northweststar.com.au/story/7600492/facial-recognition-for-cattle-on-the-way/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Government Technology
-  domain: govtech.com
+  name: The North West Star
+  domain: northweststar.com.au
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://erepublic.brightspotcdn.com/dims4/default/6f3fc0e/2147483647/strip/true/crop/5472x2853+0+383/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F79%2F88d1808747fb987ab61a9ea55fcd%2Foped-irs-heritage-commentary-get.jpg"
-    width: 840
-    height: 438
+  - url: "https://www.northweststar.com.au/images/transform/v1/crop/frm/38U3JBx5nNussShT8aZyYjc/8e0765a2-a6c6-4358-a66d-91416bc426f5.jpg/r0_914_2753_2469_w1200_h678_fmax.jpg"
+    width: 1200
+    height: 678
     isCached: true
 
 related:
@@ -105,6 +103,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Opinion: IRS Facial Recognition Rule Is Undemocratic"
+    excerpt: "Later this year, the Internal Revenue Service will require IRS website users to agree to biometric scanning to access tax records. Why should the IRS have the ability to put citizens' privacy at such substantial risk?"
+    publishedDateTime: 2022-01-29T00:51:00Z
+    webUrl: "https://www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic"
+    ampWebUrl: "https://www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/6f3fc0e/2147483647/strip/true/crop/5472x2853+0+383/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F79%2F88d1808747fb987ab61a9ea55fcd%2Foped-irs-heritage-commentary-get.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "IRS Website Will Soon Require Facial Recognition To Log Into Your Account"
     excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are."
     publishedDateTime: 2022-01-28T10:19:00Z
@@ -135,20 +149,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "Facial recognition for cattle on the way"
-    excerpt: "The day when producers simply scan the faces of their stock on their smartphone as they walk up the crush, and have all their individual information immediately at hand, might not be far off, thanks to novel livestock facial recognition technology being developed by an Australian researcher."
-    publishedDateTime: 2022-01-30T22:55:00Z
-    webUrl: "https://www.northweststar.com.au/story/7600492/facial-recognition-for-cattle-on-the-way/"
-    type: article
-    provider:
-      name: The North West Star
-      domain: northweststar.com.au
-    quality: 39
-    images:
-      - url: "https://www.northweststar.com.au/images/transform/v1/crop/frm/38U3JBx5nNussShT8aZyYjc/8e0765a2-a6c6-4358-a66d-91416bc426f5.jpg/r0_914_2753_2469_w1200_h678_fmax.jpg"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "The IRS website will soon require facial recognition to log in to your account"
     excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are. The verification process ..."
     publishedDateTime: 2022-01-28T03:12:00Z
@@ -164,6 +164,6 @@ related:
         height: 630
         isCached: true
 
-secured: "mskak5uJTKrP0gIZYuFJ0yfMn10WcbyKF8ekn0zAACIeZi1ZQUs+j6IfsSMuxGoConknb98MqcubrnYucAmNQVn16JMxgomc5x5HWxuy13Fjxg6UiGLdBG18eo1YeGuldgWe+gGTO65fWN9CBYWOEIvJmcVVlu10DSKM49qzOE4ds5Bniu61LhMgXpnEAO0DdEEwRV7rDUWBMWK2hXhCkTMQ2AtHmOTV6Ubvo9VZxRSORuugmfvpsnPGuQWw8lIewd0AMcJ4HDyQ2XlMoM5AbjhqLB1vtTZqRJe+FlCHm4uV1zW9tQD+jPnpawGztRmVuoJZFqdpVFJw7hnlBUYbRECG45vqizdRGRpI6E3uPNO9McRcet2NezKXTev1q+T9GmWzTKdfqXvPysTaGQ1N4Js0FcHtZXDjHyEpfYIvks052brDpDgpJGfZWyyjdsvjZ3CHOKMBdtN6X0PzoK2mLl3UXvOrEViuxioT+1HYb2eIVYgbDBomvnv4r0OskK2E8C8libr1cAWTHCeTfmBC6A==;cAtC7asvMR1NQ67L1+V92w=="
+secured: "Nsd3wv5vZAottpBFxE9GCk7ZzOXLrBwyQKoaQs6xl735HOURLiJVP4KXmFYfO2ObyEvg4jWkQm2/D1Y0YOH8vLXgsNijOYu+sg762k4aYYXj8nbIMpWOEOcrqIkmiA5BMvRZ4Q3qOFubIlALadHYoaFSBiQL1oGlOrSHijsgziYcbZcDpM7vlzXrdUmm14iHL3kBXWh27mBxeE/uIC1bI+wnqN4jWeGfNqC0+cXzEZrSEJ6Fg/CQvITIUaz+8+5louDuIHYVFcx0RBpaf1VsYJrNYoyxYAXCx6kkLLM3ICGIY4r35VjyaRzlC+wajMEL48XVqo3WG0XhKkt+B29AMBk1NAZ60oED8snPFYR16Ys=;6IJ0QHmRYKZTO7j2N17KJQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-01-12-ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi.md",
+      "title": "IBM looks to sustainability with acquisition of emissions data company Envizi",
+      "excerpt": "Perhaps IBM has decided the Watson brand has lost some of its shine over the years and has moved on from attaching the name to every AI-driven solution in the company. The company notes that it is ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/",
+      "originalUrl": "https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1234056550.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/amp/",
+      "publishedDateTime": "2022-01-11T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-synthetic-data-platform-mostly-ai-lands-25m.md",
       "title": "Synthetic data platform Mostly AI lands $25M",
       "excerpt": "Mostly AI, a startup that uses AI to create synthetic data for enterprises, today raised $25 million in a Series B round of funding.",
@@ -205,6 +257,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-digital-product-development-trends-in-2022.md",
+      "title": "Digital Product Development Trends in 2022",
+      "excerpt": "Product architects and creators are looking to design and create new and exciting digital products that will capture the consumers’ attention or dominate the business space. Pushing the boundaries of what is possible and trying to find which of those possibilities is practical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/digital-product-development-trends-2022-dave-erickson",
+      "originalUrl": "https://www.linkedin.com/pulse/digital-product-development-trends-2022-dave-erickson",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFw4oEIzmGNew/article-cover_image-shrink_600_2000/0/1641852315746?e=1649289600&v=beta&t=3ml17xeCbeY3SlsnEog9tfLjo8Z0y_q3DBMw3T_Y25g",
+          "width": 1304,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1104,93 +1208,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning.md",
-      "title": "IIT Guwahati, TPL launch programs in cybersecurity, AI & Deep Learning",
-      "excerpt": "The program aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as AI & Deep Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/",
-      "originalUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/09/Blockchain-in-healthcare1.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/",
-      "publishedDateTime": "2022-01-10T23:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust.md",
-      "title": "University of Cambridge: Community of ethical hackers needed to prevent AI’s looming ‘crisis of trust’",
-      "excerpt": "The Artificial Intelligence industry should create a global community of hackers and 'threat modellers' dedicated to stress-testing the harm potential of new AI products in order to earn the trust of governments and the public before it’s too late.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/cambridge-University.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "publishedDateTime": "2022-01-10T20:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/29/drive-smarter-decision-making-wit
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/drive-smarter-decision-making-with-explainable-machine-learning/amp/"
 type: article
 quality: 104
-heat: 106
+heat: 108
 published: true
 
 provider:

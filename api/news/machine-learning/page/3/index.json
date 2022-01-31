@@ -210,6 +210,58 @@
       ]
     },
     {
+      "path": "_news/2022-01-12-digital-product-development-trends-in-2022.md",
+      "title": "Digital Product Development Trends in 2022",
+      "excerpt": "Product architects and creators are looking to design and create new and exciting digital products that will capture the consumers’ attention or dominate the business space. Pushing the boundaries of what is possible and trying to find which of those possibilities is practical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/digital-product-development-trends-2022-dave-erickson",
+      "originalUrl": "https://www.linkedin.com/pulse/digital-product-development-trends-2022-dave-erickson",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFw4oEIzmGNew/article-cover_image-shrink_600_2000/0/1641852315746?e=1649289600&v=beta&t=3ml17xeCbeY3SlsnEog9tfLjo8Z0y_q3DBMw3T_Y25g",
+          "width": 1304,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers.md",
       "title": "Edge Impulse Leverages TinyML and AutoML for Efficient Microcontrollers",
       "excerpt": "San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers.",
@@ -1332,58 +1384,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-google-prediction-framework-addresses-data-pipeline-drudgery.md",
-      "title": "Google Prediction Framework addresses data pipeline drudgery",
-      "excerpt": "Framework weaves together Google Cloud Platform services to simplify the implementation of prediction projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html",
-      "originalUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/executive-pushing-boulder-uphill_deadline_stress_struggle-100746928-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.amp.html",
-      "publishedDateTime": "2022-01-05T14:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
