@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theatlantic.com/amp/article/621386/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/621386/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/6f3fc0e/2147483647/strip/true/crop/5472x2853+0+383/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F79%2F88d1808747fb987ab61a9ea55fcd%2Foped-irs-heritage-commentary-get.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "IRS will start using facial recognition to access tax information"
+    excerpt: "Why will you soon have to scan your face to access your IRS tax information? You will still be able to file your tax return the old-fashioned way, with paper documents sent via snail mail. But by this summer,"
+    publishedDateTime: 2022-01-31T11:57:00Z
+    webUrl: "https://www.cbs19.tv/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
+    ampWebUrl: "https://www.cbs19.tv/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
+    cdnAmpWebUrl: "https://www-cbs19-tv.cdn.ampproject.org/c/s/www.cbs19.tv/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
+    type: article
+    provider:
+      name: 19 KYTX
+      domain: cbs19.tv
+    quality: 59
+    images:
+      - url: "https://media.cbs19.tv/assets/KHOU/images/c5124352-d52e-4a4e-b816-217f7d009267/c5124352-d52e-4a4e-b816-217f7d009267_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "IRS Website Will Soon Require Facial Recognition To Log Into Your Account"
     excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are."

@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 666
         isCached: true
-  - title: "Meta Is Making a Monster AI Supercomputer for the Metaverse"
-    excerpt: "Meta is building a new supercomputer to train enormous machine learning algorithms. Though only partially complete, the AI Research Supercluster (RSC) already ranks among the most powerful machines on the planet."
-    publishedDateTime: 2022-01-26T21:36:00Z
-    webUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/"
-    ampWebUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 63
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/01/meta-metaverse-ai-explosion-network.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
 
 secured: "i/f9bJs5HmamdsQLB7/h80bxPMJ8Y3IxyzKcO2FrNzg4zt2/3tK34sY8wXd5A5wOfA64imEzloehaCFd/uEWmSOp5Ma5CVCp9DLGl/6IL0UBa4oelXJed+lL/E9KLa2vTqarWZtL9aArT5YIDqSGyeWJlLyBnMmbLJptVnQUT73QQsE2yZE1yNMdDCtOKMeiskvbJ3XVuZT3nRfuRYaub6AOFSUL6xgjGFtsPV0uK4OIZaUoSLm1QaiDC+9toBcX15Vq8PmJOs5z6caw8ZOIBMxtMILkjW/EkcaYh2t22JGo4Vsn9SM0wbl35M+N9U9U4Z4vV0cxtt1WJn1pouSoI3MeF5NjouTPzNT0ntXb5aLCdxP+PbA/uhVxZhztLU9Ss5wreBWaUqriCviTj17mAZKTrqqhun7AK1vc3qSx58Y72qmQI5BEX+aiXRUcala80BGrtcz0H8J4z0VPWfqCc3ramMsz5P1kzwFM4mgQeC6AMlXNF8bOuaieJwhpjwShiUMMzSof5c+aCBVmc+LS+w==;Jm69tgQ2xc6drD8RZEwelg=="
 ---

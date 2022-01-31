@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Is Making a Monster AI Supercomputer for the Metaverse"
-    excerpt: "Meta is building a new supercomputer to train enormous machine learning algorithms. Though only partially complete, the AI Research Supercluster (RSC) already ranks among the most powerful machines on the planet."
-    publishedDateTime: 2022-01-26T21:36:00Z
-    webUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/"
-    ampWebUrl: "https://singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/01/26/meta-is-making-a-monster-ai-supercomputer-for-the-metaverse/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 63
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/01/meta-metaverse-ai-explosion-network.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "Meta builds AI Research SuperCluster for future AI and the metaverse"
     excerpt: "Meta believes that its new AI Research SuperCluster (RSC) will be among the fastest AI supercomputers running in the world once it’s fully built. The supercomputer is being constructed in phases. In the current phase 1,"
     publishedDateTime: 2022-01-28T22:09:00Z

@@ -119,6 +119,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Elon Musk: I would be shocked if Tesla does not achieve Full Self-Driving safer than human this year (and 5 years ahead of everyone)"
+    excerpt: "Elon Musk gave an update on his expected timeline for Tesla achieving Full Self-Driving capability and he now says that he would be “shocked” if Tesla does not achieve “Full Self-Driving safer than human this year”."
+    publishedDateTime: 2022-01-31T13:10:00Z
+    webUrl: "https://electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/"
+    ampWebUrl: "https://electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 58
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Full Self Driving suite to be ready by this year, says Elon Musk"
     excerpt: "Musk stated that Tesla Full Self Driving suite will be ready by 2022. Said that he would be shocked if Tesla doesn't complete."
     publishedDateTime: 2022-01-27T09:17:00Z

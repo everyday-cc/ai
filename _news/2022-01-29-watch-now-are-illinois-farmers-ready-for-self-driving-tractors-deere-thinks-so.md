@@ -2,28 +2,28 @@
 category: news
 title: "Watch now: Are Illinois farmers ready for self-driving tractors? Deere thinks so."
 excerpt: "The high-tech vehicle emblazoned with the Moline company's iconic deer logo marks a massive leap forward for farmers, who will have a solution for improving yields and efficiencies. That could"
-publishedDateTime: 2022-01-28T20:00:00Z
-originalUrl: "https://pantagraph.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_001de15b-c913-510e-8b7b-b7fd4c014e75.html"
-webUrl: "https://pantagraph.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_001de15b-c913-510e-8b7b-b7fd4c014e75.html"
+publishedDateTime: 2022-01-29T02:52:00Z
+originalUrl: "https://thesouthern.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_df968333-46ac-520c-8a5e-1d04e8b98486.html"
+webUrl: "https://thesouthern.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_df968333-46ac-520c-8a5e-1d04e8b98486.html"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: Quad-City Times
-  domain: pantagraph.com
+  name: The Southern Illinoisan
+  domain: thesouthern.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/0/01/001de15b-c913-510e-8b7b-b7fd4c014e75/61f43f90e8fb7.preview.jpg?crop=1024%2C538%2C0%2C72&resize=1024%2C538&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/d/f9/df968333-46ac-520c-8a5e-1d04e8b98486/61f448235c638.preview.jpg?crop=1024%2C538%2C0%2C72&resize=1024%2C538&order=crop%2Cresize"
     width: 1024
     height: 538
     isCached: true
 
-secured: "hwa8EmpIRidd5WzEpQ3PfqH2AP47pwROtPAP1nzFa29P2zb1FvTTg3TmzJ9FbOPUDXRtnmlaxLAZNC92+jQEUZGD5UaSKIoRe0eySbPz+FGWPda5ulLDnIkJRZnbpBcvZQl63ksd7CZpae/tz9UdUYE7OskYn0+8Uv0+TTlWWK1lAxQY5MYOCX6xhqEXx6vs8O0XsYsmrk6qnh7VYLWy0pZaYB+VbLtWwBK94TH+8FXmxQw33q8wNvQ0RnJ51Z4v0MJtZzkvEnkvzGtoCAkj8M0xzgL3kNugXJEu9eKnF4zoBGvPwNylZYKiIftNn+XNpQsp10VsqI2cwK/3DW97fGVq3gB0/0XssM2d5/gJANM=;BNTnP64ADgMwIAHS47zq1w=="
+secured: "F/RhjS5G2Wz1VvlpKcuv917ELdSknxe5W3pq9Etiw3Q0PnpsQqjBqfvHpSAsWpL+52TnBy79gK5GGw4lSZmPU69k4U54p6mDWUuoMcxJjy7RB+9DQzkyd3et5uXUcZ+QRcPpKq//IqrN+Ieo/KU4/60o3IIk0kndxUVnKbb4HaOFoBZEkzY/Dx69eglOANXJ1kTHQ+bedGfUC1QBZ7vRlX9SPag/88UyUANox0iUnGuchineY+tPOLG1N1AVdjXYdEvLMVk7+JGK3gDoJrUofSsy3A9/KibweI78Ann5496XMMd3m8j7EJ0nooW4mg7fglh8Fyk/r7uwamqoA7/+SuIewUEM0Xz1S+48CLuSOII=;yFmrdPUDJWEs5FtOLVIDxg=="
 ---
 

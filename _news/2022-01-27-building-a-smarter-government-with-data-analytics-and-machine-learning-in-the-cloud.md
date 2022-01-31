@@ -41,6 +41,20 @@ related:
         width: 1142
         height: 940
         isCached: true
+  - title: "AI storage: a new requirement for the shift in computing and analytics"
+    excerpt: "AI storage is needed as the boundaries of traditional computing and analytics shift to a new era of parallel data management"
+    publishedDateTime: 2022-01-31T13:25:00Z
+    webUrl: "https://www.information-age.com/ai-storage-a-new-requirement-for-the-shift-in-computing-and-analytics-123498640/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/01/ai-storage-a-new-requirement-for-the-shift-in-computing-and-analytics.jpeg.optimal.jpeg"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Best Data Analytics Certifications 2022"
     excerpt: "Data Analysts are in high demand. Which certification is best for beginning or advancing your career? Review top Data Analytics Certifications now."
     publishedDateTime: 2022-01-29T14:00:00Z

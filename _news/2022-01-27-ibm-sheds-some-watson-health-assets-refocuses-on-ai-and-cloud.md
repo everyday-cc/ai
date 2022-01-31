@@ -71,6 +71,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "How IBM’s Watson Went From the Future of Health Care to Sold Off for Parts"
+    excerpt: "Most likely, you’re familiar with Watson from the IBM computer system’s appearance on Jeopardy! in 2011, when it beat former champions Ken Jennings and Brad Rudder. Watson’s time on Jeopardy! was fun viewing,"
+    publishedDateTime: 2022-01-31T14:00:00Z
+    webUrl: "https://slate.com/technology/2022/01/ibm-watson-health-failure-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 39
+    images:
+      - url: "https://compote.slate.com/images/3f661f9b-ce42-4537-8689-d342bde54590.jpeg?width=780&height=520&rect=3000x2000&offset=0x0"
+        width: 780
+        height: 520
+        isCached: true
 
 secured: "C/9PauDKbSH4+FEr/dM+q3uACvEg6BL2tcRGaL2YDL2VS2b9hLeSnWKaRsMVLuGIr2R6bpS0nVoEBt/QwTNNOs2riALtpNmLvsFHBsmedfuaO+QjYJBEU47uN1XwuAvd3ZzA/gNQ4RVF1jRciLrzUinhn8woT8UaY1MdwEUY9UGqGpbmGzkzOqbtD+5U5uZO7Qw1SjK3jUvBTArcVAJd7t0mGOFip/s2B11H6Ku/34R5xOTdxtwALNZ6WHBD14az+qk3J2ze56Qk0A0itrzKDAmMA5e5z8qMTwB1aumXbUYTjJW1CiJ1i0u6VztKbQ7mRIDnmwSo2NoJX8Q6VTddRR6KY9Guh2kDc3EYRzwt4fpG1T+NeDGklidVcv+Or+kRvuqRIx/T94/3YxYJDVuEU2hmyR7NfEEcaZoqct7Fp7ESJNr11/p7b3T/rVMNtY38zmoFWSuZ5vTxpbhiooAZ6vSnTQOmjqzW4TqQnZ3poukvryYrH0wYnQTdQAXj3EqV1ma7i+/EaEV2fJMzfjhp1w==;vrw8vN9ycY8iRB67Y3nFmw=="
 ---

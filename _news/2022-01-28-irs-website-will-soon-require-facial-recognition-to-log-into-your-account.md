@@ -119,6 +119,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "IRS will start using facial recognition to access tax information"
+    excerpt: "Why will you soon have to scan your face to access your IRS tax information? You will still be able to file your tax return the old-fashioned way, with paper documents sent via snail mail. But by this summer,"
+    publishedDateTime: 2022-01-31T11:57:00Z
+    webUrl: "https://www.cbs19.tv/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
+    ampWebUrl: "https://www.cbs19.tv/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
+    cdnAmpWebUrl: "https://www-cbs19-tv.cdn.ampproject.org/c/s/www.cbs19.tv/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
+    type: article
+    provider:
+      name: 19 KYTX
+      domain: cbs19.tv
+    quality: 59
+    images:
+      - url: "https://media.cbs19.tv/assets/KHOU/images/c5124352-d52e-4a4e-b816-217f7d009267/c5124352-d52e-4a4e-b816-217f7d009267_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Facebook will stop using facial recognition data, Meta reports"
     excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
     publishedDateTime: 2022-01-29T14:07:00Z

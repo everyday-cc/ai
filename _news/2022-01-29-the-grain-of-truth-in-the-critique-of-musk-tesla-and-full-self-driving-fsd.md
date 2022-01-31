@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/"
 type: article
 quality: 116
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg2NjcxNDcyMDk2MzIzNTI2/tesla_2.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Elon Musk: I would be shocked if Tesla does not achieve Full Self-Driving safer than human this year (and 5 years ahead of everyone)"
+    excerpt: "Elon Musk gave an update on his expected timeline for Tesla achieving Full Self-Driving capability and he now says that he would be “shocked” if Tesla does not achieve “Full Self-Driving safer than human this year”."
+    publishedDateTime: 2022-01-31T13:10:00Z
+    webUrl: "https://electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/"
+    ampWebUrl: "https://electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 58
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "The Self Driving Coalition Renames Itself And Abandons The Term As It Distances Itself Further From Tesla"
     excerpt: "While Tesla touts its Self-Driving tech, the rest of the industry has decided that it wants nothing to do with the term"

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-as
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI storage: a new requirement for the shift in computing and analytics"
+    excerpt: "AI storage is needed as the boundaries of traditional computing and analytics shift to a new era of parallel data management"
+    publishedDateTime: 2022-01-31T13:25:00Z
+    webUrl: "https://www.information-age.com/ai-storage-a-new-requirement-for-the-shift-in-computing-and-analytics-123498640/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/01/ai-storage-a-new-requirement-for-the-shift-in-computing-and-analytics.jpeg.optimal.jpeg"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Building a Smarter Government with Data, Analytics and Machine Learning in the Cloud"
     excerpt: "A primary issue for federal agencies when it comes to getting the most out of their data is that most of that data never gets used. Research shows that some 90% of organizational data does not get used for analytics and decision-making."
     publishedDateTime: 2022-01-26T23:35:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu's car-making JV raises $400 million"
-excerpt: "Robin Li (right), co-founder and CEO of Baidu, experiences the interior of a self-driving robocar. [Photo provided to China Daily] Jidu, a joint venture between Chinese technology giant Baidu and ..."
+excerpt: "Jidu, a joint venture between Chinese technology giant Baidu and Chinese carmaker Geely, said Wednesday that it has raised nearly $400 million from its two parents. The joint venture, established in January 2021,"
 publishedDateTime: 2022-01-26T10:14:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202201/26/WS61f0ae6ea310cdd39bc83565.html"
-webUrl: "https://www.chinadaily.com.cn/a/202201/26/WS61f0ae6ea310cdd39bc83565.html"
+originalUrl: "https://global.chinadaily.com.cn/a/202201/26/WS61f0ae6ea310cdd39bc83565.html"
+webUrl: "https://global.chinadaily.com.cn/a/202201/26/WS61f0ae6ea310cdd39bc83565.html"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202201/26/61f0ae6ea310cdd3d8292ce3.jpeg"
+  - url: "https://img2.chinadaily.com.cn/images/202201/26/61f0ae6ea310cdd3d8292ce3.jpeg"
     width: 711
     height: 474
     isCached: true
 
-secured: "qLaeZudCYaYYzww9XXK7xqjtIilwUxOIvhz0Qg4cdG8epnvLCWSiHzKQ5OzAfNqUqFKZ3t8Fsq2XE1PXV8pHI7DpR+2RZfzA3McageNEpOvBshy2XbQSGo8LOmc6qPgDa5gDjyGAo2rFGk486kL8x4c5oargpJqV6lq6OkFMPNLF96rmZBQU+1fUVy5xkb3ewftCa/Z/hn46+les1hCxHScEom+leyniDW7dYccdp/RJWKQJcoTWSVcsGvQ7o/3Fm9r7faWYVHYlGWQN9un1hhbq8/ANZN3U6w0yCQxngA3r+UeOJgkc7WN6D2+cpgS+gdFxBr+vCN65qhIUgucmmBkxaHZKIt4xZiGQ+1tNk5w=;xitT5quLSj/XBBAnaNNhsQ=="
+secured: "vurk8mTMsDiAAawTYqw0idbCK18ltT6zJkAVV/pVmEC/p4AUVhm8hkmkKUBQOAdVqIzMtyvi/6pUsiziUxHzUwYDtyaRKxd4fruDgtIGX7vByGp8HFhdiXW9CHunYicKs8CbnKyKYxiMufV58enuHVh/EtnH9Lw0LPbQFjWwPv50P2cJwv7xWyueV3HVwo0PiO25NLXXujgBZOI4lwzf4xWgMqztqL6Y4mOQ5hdvsAK3vI42gIQTOCWhEc316DWHD/lqqJfDp41O6MikzT6IuLvu2PQBbRRWYnLwyEaWcpXgyzZPgIXeOmlgfiFAFF9oAiJn8DkEtA0JoTxV8Pe0a7X/xe+e80Vr6w5JHyTiMi8=;bCg2zuqz80HdN/y9CLSOGQ=="
 ---
 
