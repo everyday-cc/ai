@@ -41,6 +41,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "New AI technology could help reduce malnutrition in long-term care homes"
+    excerpt: "New technology could help reduce malnutrition and improve overall health in long-term care homes by automatically recording and tracking how much food residents consume."
+    publishedDateTime: 2022-01-31T12:39:00Z
+    webUrl: "https://www.news-medical.net/news/20220131/New-AI-technology-could-help-reduce-malnutrition-in-long-term-care-homes.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220131/New-AI-technology-could-help-reduce-malnutrition-in-long-term-care-homes.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220131/New-AI-technology-could-help-reduce-malnutrition-in-long-term-care-homes.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 56
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Malnutrition-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "MlRjKCa5IIKE/JmDrc60JwveqF3Wu5JFGS4I36q8mCFQHfU4HbTob37UPnYgSBXAplH7uHld0HrisYItcp0jgFbnbRUO16SzRkiltccozuYAHOgYqddpTFByeEzlN1UKwDJCKIexGN258GtE7cHZGc2scDkkx0/5Ws8Px4JZggEATdnz0MLOYQUjfPHTHUI1KSzm0Fetve51K/996wwL6e4UkqsekA3j/QhePvu6W9KSXMdgHr34sd58SzvtLDHKto8tZvyWEXO8bLvy7eUnacTU2AdVbmPQc2CjVJKkqN691F1aSn0xnNnQ3ySO7V9EvKDFSrtMxgMV7u5iZZeOGzvzMg0KfC/y8XlZdUvmNDoNcH/fOaLZP5HuWLgYimOG8hfnPdmfW+0zZt33VssWEPLT8s4HRXD6eQ4tPIE8JoHMnfNLQgBURSvS81vW4YMhPJB3e5JeM749sHFd7MYD7AWE0llawzBx6zacPnvhx7MxZq/SEzcNAyhe/58hiWGPGn65ZwsquLRW5wj/MxNVuA==;t5euF8qxAj0Q4TO+cZ2ktQ=="
 ---

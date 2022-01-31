@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.embedded.com/wp-content/uploads/2022/01/Neuromorphic-Vision.jpeg"

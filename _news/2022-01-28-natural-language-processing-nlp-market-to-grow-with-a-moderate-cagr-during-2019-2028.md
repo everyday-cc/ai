@@ -24,22 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "AI in Computer Vision Market Growth Analysis, Trends Forecast Regions, Type and Application to 2019 -2028"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
-    publishedDateTime: 2022-01-28T14:46:00Z
-    webUrl: "https://menafn.com/1103606484/AI-in-Computer-Vision-Market-Growth-Analysis-Trends-Forecast-Regions-Type-and-Application-to-2019-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?25642"
-        width: 374
-        height: 250
-        isCached: true
-
 secured: "lg4SklaUXlu1RZtXrdPV4/WR9E/xQfwlahqFwDK7skT+lp9TlG7bvPlXrFXBI4Nj+2NB3mG1k7Ggc7R2mLvUfYVOyb7RH8cn3c7oF2GymUM+kAJ5JpCc5H7x1FsHt/o/df8XSxTa7hpNogiSvaxGqmd1FdpnsH3/GIh0wwtxR5Tvi9xB6khnMC4n4L6tr7tHOZHC8QrJOzAhuhP/ncFGO6aWUXBDI5iKlHPtl3HJX2nHP1DwRjAGRbwVUOzpsMJWEd/G5tICGSTpJKnknI2sfjmTG/cMRg7g/dq+seSd4cLMNS8nsL/xGopv2RIgcRiYI52k1gNtcsWf1AXRv1jK1Zmv/EJWJzTNgiGwwVRk2Xw=;pjqkBJU1dkhH4qYipuxhYA=="
 ---
 

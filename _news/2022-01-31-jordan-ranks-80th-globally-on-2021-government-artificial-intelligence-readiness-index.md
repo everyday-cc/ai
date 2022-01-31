@@ -8,8 +8,8 @@ webUrl: "https://www.zawya.com/mena/en/business/story/Jordan_ranks_80th_globally
 ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_283410839/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_283410839/"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://images.zawya.com/images/cia/zAmp/180620130010CTNU.jpg"
@@ -25,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "MNdGe1GNpuH+1WqA3q8Uu6Uyp4xOZhAC9KXECTmqgmeJB1jtEASwFe/jTL020yfQoFoPVrvN8TEXA7TsYHKuIH4RLemHaxToK8aw4iSfPLDtQr/vxMnn/M5jM1v/igYuWKDKv7pYOqxXJ6IKekkRLKqMFf4mffB57S9Zp2rGa3z6Fm9E8aQhElhM3O5HFoA8MtiGmDZmz4oImjNjoYzx578dIFqkhneyKEYIGyEi7p4l76BKhilAIJ1jOms3/aWINnG9Cy9hsDAclSvnjStIWKPU5ms7UuAm4BHcr5BcvH+K17V0FKW+ex5dAoq24xLVhSqO+RfmMmIQXGwJj5chCAXZ9EWOWCYLglaFj0sxv9A=;trgyruTameaMh1SlbyIIxQ=="
+secured: "8GQDQWJ4Bkz/8t+FwAszVjWU/JEATpq3baa06Hg93vgUsDZb3CulEsZN50DoEV9T/3XCfRJHZtLNo4NMk2w0CknS5MwLVhq/qDESZ0v/xMJ1vbj0uwxulEInbVYWFiL/Z2iuynNSNDwCseB/85xit1k+XVXhcRN1aXVCasgqRnT0LqJuPLqIc+Fp/CPFq4JroiX/JA+ywKdPFd9vz+AvqJQXGOBZJSDHhi/GUg5NcQJJF/XvE1AOnN8DY8WHuzKIjKsptM7D8JjYBoPddbBeCYuPtMkA7BFwldQCxdW/zzOFNmAbglm/4v7RZ6FSoRlqKxct0a7DtfYIpKhZs07spYTf2qnW/COYh9Cz7Y5d6avuIpnNXXUkdPpwwZSGWUeSQ2cQ5SB+N1pALanL/GBLF84eyiDBaJaPMKN55EZYFJAks9XPJtbhSaIX0My4biB440isLc7EcKDtOG8tYO3m+3OWMUbIcpLz+sZRBeeQ2+IwQ63dsUJnGLgbX1b6e5Z16iJwqWSOzf+i57+opXYfOg==;zzvl5tDKH5eVf971x6k/Dg=="
 ---
 
