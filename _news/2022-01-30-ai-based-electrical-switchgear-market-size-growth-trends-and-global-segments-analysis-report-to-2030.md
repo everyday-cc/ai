@@ -67,6 +67,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Multiple cloud-computing investment opportunities"
+    excerpt: "Businesses of every size and sector benefit from the on-going cloud computing revolution. “Potential investment opportunities around the cloud seem endless,” said Christophe Braun, Investment Specialist at Capital Group in Luxembourg,"
+    publishedDateTime: 2022-01-31T20:07:00Z
+    webUrl: "https://delano.lu/article/multiple-cloud-computing-inves"
+    type: article
+    provider:
+      name: Delano
+      domain: delano.lu
+    quality: 24
+    images:
+      - url: "https://assets.paperjam.lu/images/articles/multiple-cloud-computing-inves/0.5/0.5/600/400/467456.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "2021 Growth Opportunities in Artificial Intelligence, Supercomputers, and Quantum Computing Report - ResearchAndMarkets.com"
     excerpt: "The “Growth Opportunities in Artificial Intelligence, Supercomputers, and Quantum Computing” report has been added to ResearchAndMarkets.com’s offering. This edition of IT, Computing and Communications (ITCC) Technology Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in Machine Learning,"
     publishedDateTime: 2022-01-27T16:06:00Z

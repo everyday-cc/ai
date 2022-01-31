@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Meta says it will soon have the world’s fastest AI supercomputer"
-excerpt: "Meta, formerly known as Facebook, is already using supercomputer to train major models in natural language processing (NLP) ."
-publishedDateTime: 2022-01-27T10:56:00Z
-originalUrl: "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/"
-webUrl: "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/"
-ampWebUrl: "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/amp/"
-cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/amp/"
+title: "Meta builds AI Research SuperCluster for future AI and the metaverse"
+excerpt: "Each GPU communicates over a 200 Gb/s HDR Infiniband network ... Meta built the RSC to train large AI models in natural language processing (NLP), and to research and train models using trillions of examples. It will also aid in building AI that works ..."
+publishedDateTime: 2022-01-31T20:35:00Z
+originalUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527"
+webUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527"
+ampWebUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
+cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: enterprisetalk
-  domain: enterprisetalk.com
+  name: IT Business
+  domain: itbusiness.ca
 
 topics:
-  - Facebook AI
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/Meta-says-it-will-soon-have-the-worlds-fastest-AI-supercomputer-01-1-1.jpg"
-    width: 1200
-    height: 676
+  - url: "https://i.itbusiness.ca/wp-content/uploads/2022/01/GettyImages-13075344431-696x391-1-620x250.jpg"
+    width: 620
+    height: 250
     isCached: true
 
 related:
@@ -43,21 +43,21 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "Meta builds AI Research SuperCluster for future AI and the metaverse"
-    excerpt: "Each GPU communicates over a 200 Gb/s HDR Infiniband network ... Meta built the RSC to train large AI models in natural language processing (NLP), and to research and train models using trillions of examples. It will also aid in building AI that works ..."
-    publishedDateTime: 2022-01-31T20:35:00Z
-    webUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527"
-    ampWebUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
+  - title: "Meta says it will soon have the world’s fastest AI supercomputer"
+    excerpt: "Meta, formerly known as Facebook, is already using supercomputer to train major models in natural language processing (NLP) ."
+    publishedDateTime: 2022-01-27T10:56:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/amp/"
     type: article
     provider:
-      name: IT Business
-      domain: itbusiness.ca
+      name: enterprisetalk
+      domain: enterprisetalk.com
     quality: 59
     images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/01/GettyImages-13075344431-696x391-1-620x250.jpg"
-        width: 620
-        height: 250
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/Meta-says-it-will-soon-have-the-worlds-fastest-AI-supercomputer-01-1-1.jpg"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
     excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
@@ -88,6 +88,6 @@ related:
         height: 558
         isCached: true
 
-secured: "7fSJCaCcFiHd0ilv1CB8FCcAprn9hZwYAGHPFawZ6FvFDHpPEAmYH0c3iXHWy4UbEGN/HSw/b6VxxtpWwPqzjH9HiiD4VcMjE7GqvLba0i7P7Hb+8WtrMAPSPVrEXerGi/rvAq2Y7vwaLRn1siCUGjOzpwJ17g1fi2qd8/iCd0z1GA2DSemKu/zPpzIiIIY6ENU3VydHkGVDVBy+Wh212i7PvcnyXffZh1TMZdWGFxSMqBaGRzo+xNXDLX1zhaSm4QvL2a+JxAmaS/A05X8nAEgAWcJRR3ka7pKJdGWE5J2rPZ+exw0s+DKquWwI7pmiedgF7xE1zD9m0M4+BQLBdcxAmK/plmXtwawQRGQ1U6wIx/3t/NIRMrk5CZCb4rWyBT3lt/slan9tYvotKORjZeVVu3rFp+k2kfovCA/7yWJBd9ZrixNm8D8EDwaxMA9hAxafilcj237JYrNJwDtSkedCwAupcpFSacgt6NHCW64tCmpppgH0yOHzPI8ZvVMjb1ZrqjvvwSGOxlRYZX61lg==;hyP3G/tKgH4YQgd7Px7iOw=="
+secured: "tGVs1OtiEQaky1ntnNyHi5Z+Eq1lV5/28XKNRNG24HcAQ05+tKPYHWPtobyCvH4xAo3szP6WhJ6PY7BlsfarxTL1rQLVrHjh6+bp6aW7Wf7qxFaIupZBVLx3XGiwCMPvkvmFQQwiHCq7F1B1EyxjHkA1wnSgNj882u+Z8kteBau4AEPplVjICbZi9slcSP5n0ys7tkoliNV3idrcBbIOEI1ALoPZLUsCduLrP3/KqWQ58XvgsWcKlHhrHl7LWly2+bOe4x6CmOs9xWAtcH4/lq5PId750u35n1MrZfLm2OdrERry0DpmP8mwgzw/5kD/KXf3Rg/7OlQPeVgJitwjvNGt8vuP8g/Qsvgo5QrQOCQ=;ZG+mnZba2/XmHqF1QjVe0g=="
 ---
 

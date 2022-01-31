@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
 type: article
 quality: 74
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Malnutrition-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Can AI help you save money on healthcare? This insurance company thinks so"
+    excerpt: "Using a combination of tech and machine learning, this service is giving employees a future timeline for their medical journey."
+    publishedDateTime: 2022-01-31T19:30:00Z
+    webUrl: "https://www.benefitnews.com/advisers/news/ai-can-help-employees-with-health-plan-costs-according-to-marpai"
+    type: article
+    provider:
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 52
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/e957155/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb7%2Fc2%2F297181da4bb8b3e7858e1a017d27%2Fpexels-rodnae-productions-7821913.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Can 5G help speed up AI adoption?"
     excerpt: "G is set to transform the technology world. To gain explore some of the key triggers with the 5G movement and how well it will be rolled out, Digital Journal caught up with EdgeQ CEO Vinay Ravuri. With the roll-out of 5G,"

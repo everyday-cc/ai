@@ -53,6 +53,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Multiple cloud-computing investment opportunities"
+    excerpt: "Businesses of every size and sector benefit from the on-going cloud computing revolution. “Potential investment opportunities around the cloud seem endless,” said Christophe Braun, Investment Specialist at Capital Group in Luxembourg,"
+    publishedDateTime: 2022-01-31T20:07:00Z
+    webUrl: "https://delano.lu/article/multiple-cloud-computing-inves"
+    type: article
+    provider:
+      name: Delano
+      domain: delano.lu
+    quality: 24
+    images:
+      - url: "https://assets.paperjam.lu/images/articles/multiple-cloud-computing-inves/0.5/0.5/600/400/467456.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI-Based Electrical Switchgear Market Size, Growth, Trends, And Global Segments Analysis Report to 2030"
     excerpt: "The global AI-based electrical switchgear market is projected to grow with a moderate CAGR during the forecast period, i.e., 2022-2030, on account"
     publishedDateTime: 2022-01-30T07:40:00Z

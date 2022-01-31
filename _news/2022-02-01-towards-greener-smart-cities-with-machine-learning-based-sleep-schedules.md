@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Towards greener smart cities with machine learning-based “sleep schedules”"
-excerpt: "While cellular networks are the foundation of smart cities, they consume a lot of energy, enhancing global warming. Putting base stations (BSs) with low traffic to sleep saves energy but also reduces traffic prediction accuracy."
-publishedDateTime: 2022-01-31T17:53:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/941858"
-webUrl: "https://www.eurekalert.org/news-releases/941858"
+title: "Towards greener smart cities with machine learning-based 'sleep schedules'"
+excerpt: "The concept of smart cities is founded on sophisticated cellular networks that would not only connect humans in the future but also humans to other smart devices. However, this would also require huge energy consumption."
+publishedDateTime: 2022-01-31T19:40:00Z
+originalUrl: "https://techxplore.com/news/2022-01-greener-smart-cities-machine-learning-based.html"
+webUrl: "https://techxplore.com/news/2022-01-greener-smart-cities-machine-learning-based.html"
+ampWebUrl: "https://techxplore.com/news/2022-01-greener-smart-cities-machine-learning-based.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-greener-smart-cities-machine-learning-based.amp"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f17798ec-1104-4033-a629-efe00485b13c/Rendition/low-res/Content/Public"
-    width: 700
-    height: 467
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/towards-greener-smart.jpg"
+    width: 2880
+    height: 1920
     isCached: true
 
-secured: "4qGpfihyhj7dAZ5xOWd1H4IgnrzNMArt7Bk2PG2BKjXu9mfrpUYGik1+62Ya8mr2LPf8pB2L1yw1cf8Rqd+J37dkPPOxYeYcZi99i5BwBUUQpwI4SfSULZcPFMhde3Q1XjxdQyw0GKosQN4Croq8XpHRJpZ7fjLVyv8yhQjR4eK9VPyzCg0LkrhYWfQIdq6bm/h4clYagTwZHdUZPDlMFc+t9Y7FVepqJStiEMMOCdYewAFhgs8Z8X1xwkV/O6IyIrjGgstoTyKad0EwdBiNuYhLuzG0bsfTQdXbRzgaC1ezf17DTYhh7ZHQk3ti6Vm/II9/SwClvnva8OzfcQrlWx7JSxpiqGQPXXtMBZSJwUM=;9MXhbcx1+EDoYN4NQipmnQ=="
+secured: "RYmN4T3fJLxKUDTVsVpIY7YZ2ZZOg+a9dc7rvggKnCqE19Eac/+urvEzpgx26KxcTou6XwhEhW3cbQbH8BWXx/ZO5rLzy7hRYPgNAfLgLXFxiMJ8YGU8WooXV9j+jDPFaZpY83yQ8WJZGoyyDv01/X3s96p34tI/iFuPm8XVRPAHnJiLtUKsWGTO1A4qb67y7mhSlWTgsn/jldBPkOalc3QMyDuMQ+HD0A7cZWPoAIstp9h07rA41CZoRUMQohx8TxKGv7VyrxhDh6WkNaFmz8XYG3r638uof5/5ThK3AdAaUamUXmiFd6UHRTz/fKrqMR74BSFmAV2ZoN2dXKLyPn7/vmLhNCftQShYSkMmG6E=;5IgsqFbQqBcgBgAZ0rWKcw=="
 ---
 

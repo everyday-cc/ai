@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 related:
   - title: "Meta unveils new AI supercomputer destined to be world's fastest"

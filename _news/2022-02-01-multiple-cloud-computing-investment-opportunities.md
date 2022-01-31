@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AI In Financial Wellness Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
-excerpt: "The Global AI In Financial Wellness Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
-publishedDateTime: 2022-01-28T07:21:00Z
-originalUrl: "https://www.digitaljournal.com/pr/ai-in-financial-wellness-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
-webUrl: "https://www.digitaljournal.com/pr/ai-in-financial-wellness-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
+title: "Multiple cloud-computing investment opportunities"
+excerpt: "Businesses of every size and sector benefit from the on-going cloud computing revolution. “Potential investment opportunities around the cloud seem endless,” said Christophe Braun, Investment Specialist at Capital Group in Luxembourg,"
+publishedDateTime: 2022-01-31T20:07:00Z
+originalUrl: "https://delano.lu/article/multiple-cloud-computing-inves"
+webUrl: "https://delano.lu/article/multiple-cloud-computing-inves"
 type: article
-quality: 3
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Delano
+  domain: delano.lu
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://assets.paperjam.lu/images/articles/multiple-cloud-computing-inves/0.5/0.5/600/400/467456.png"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -66,20 +66,6 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Multiple cloud-computing investment opportunities"
-    excerpt: "Businesses of every size and sector benefit from the on-going cloud computing revolution. “Potential investment opportunities around the cloud seem endless,” said Christophe Braun, Investment Specialist at Capital Group in Luxembourg,"
-    publishedDateTime: 2022-01-31T20:07:00Z
-    webUrl: "https://delano.lu/article/multiple-cloud-computing-inves"
-    type: article
-    provider:
-      name: Delano
-      domain: delano.lu
-    quality: 24
-    images:
-      - url: "https://assets.paperjam.lu/images/articles/multiple-cloud-computing-inves/0.5/0.5/600/400/467456.png"
-        width: 1200
-        height: 675
         isCached: true
   - title: "AI-Based Electrical Switchgear Market Size, Growth, Trends, And Global Segments Analysis Report to 2030"
     excerpt: "The global AI-based electrical switchgear market is projected to grow with a moderate CAGR during the forecast period, i.e., 2022-2030, on account"
@@ -137,7 +123,21 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI In Financial Wellness Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
+    excerpt: "The Global AI In Financial Wellness Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
+    publishedDateTime: 2022-01-28T07:21:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-financial-wellness-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 3
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
-secured: "oSxvIp5WZYyq/7fN/t5F44WXFRByyrZvO9bn+g+GphCxnkU2c+YkU4OleX3a4/BuHBvE8kLG5P2M4WkGBnZwqajbaBamCcDPnjLbBvvBlgiT7IcJobmLYINLrlxsoa6OGo0ApsK0w/c25fgVWzWXmNVM/b/7C1vbQ9YjBGuBcPPMNfTbEwRsJuUxFQx54/7O+I/9uTlu+q/LzWdRWKlR4BkfXOQTlqdmxC7bpfdrjLVJfP+eRo6ZiRhd3D1YHvfnLS7RvVyez4xuA/0S0ZBk+gXs6XRvyRqYUKkaqPJKWtyzBMHnnAYFSFOacgz9b64EzUjJoCZxsAs0E6EPPoYqorasClfxDc3FI3sXmjnRi6aqt0+lC98M3PyyaiRzPptzldckLZPvLownMHeLrsZW9UOiTxUUIktZg+lNWhD4h3S9LdQ3iUVGKhxZTbBnkpjm9uKVtXkmGUjiGCfymfS7Ye7kY17nFOFc31hjatIYF7CzPCQJ1KUOVQK7zQvh6Wee0mxr7iXn0ctwHW0wYW06RQ==;2k1XnbXqsMHxxWseBnibFQ=="
+secured: "rkYwoIIotgoG6yYMP8Pr3k2x1J1yeaj0jC9D+Nh5wG0LdI9eLp8+faqlsmkZMLxjvhI1FFLLZv4lZ0GkBRYMjfbY3l2KwPct0w8nCjGc+H1u6C51iLG66NpfrcEY8qiFh3URaHwEIVQ4R5ZK7Ahoz08hNhPiWMkHRs4bt4rzI7Yv7w1X/Eb+CcDgJG+/2NYQ05B1vqNToXPVMhT+LAqRj/IWk666n/l9Ug8su/sqYCcdSIFbJ7eIqPMCpS6VsKXsAkGAB69uNUKaADOjU9N3hDnI/uKZcNAt3wBI7vKKnj/dmCxBUzzdHVdU9lAJyTkEuYZTkYYWas4mXFbrOSm0EjCclRNE9t/K3caBqy3zQUA=;ztgKMzCJ7pZBLnkIKMd4TA=="
 ---
 

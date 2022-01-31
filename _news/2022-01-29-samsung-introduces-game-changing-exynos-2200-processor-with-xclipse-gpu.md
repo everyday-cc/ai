@@ -24,6 +24,17 @@ images:
     height: 502
     isCached: true
 
+related:
+  - title: "Samsung unveils game changing Exynos 2200 processor with Xclipse GPU"
+    excerpt: "Samsung Electronics, a world leader in advanced semiconductor technology, has announced its new premium mobile processor, the ‘Exynos 2200’. .."
+    publishedDateTime: 2022-01-31T20:50:00Z
+    webUrl: "https://www.ft.lk/it-telecom-tech/Samsung-unveils-game-changing-Exynos-2200-processor-with-Xclipse-GPU/50-729969"
+    type: article
+    provider:
+      name: FT
+      domain: www.ft.lk
+    quality: 19
+
 secured: "F6iNjX5X8eIAnfnAwGaHIqdS1IX9zjNWtndrBXQEC8ku5gf+abnJRZrmOtmpYu1bttOf4+j54aIxzXrCYNnftVKdws+adpFziE0cpaMD1MK+7+hcLku7L8LwJl8lwoP63YKXirnAbNUpnVoi1xQgI9eTwk/t8bs9xuJpgE1OG9BXQMBUru3FdxddIaRM6eqSudMXi2p1eVgr+mQ2bC18HjRt1XfpVP7nffLW4vPzmuAnnSTPwVIFXUKU5KTTO/eTioXHXh8oJ1n8c/NaVXIee20pk+fqb8mLYg49nH0DUAK4+UNUGKpzraFidihjRAROph6rXnI5v8Mhf9qn7t39/PO+bjYGl5XNWVlkS79hkPk=;jf45Ov1yokdsg11cXOWRkQ=="
 ---
 

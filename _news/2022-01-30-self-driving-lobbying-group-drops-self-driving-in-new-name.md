@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "How We Get Self-Driving Back on Track in 2022"
+    excerpt: "The AV industry has some of the smartest people in the world tirelessly working to make the dream of commercial self-driving cars a reality. We also have the funding to get there, and we all understand the immense positive societal impact this technology will have."
+    publishedDateTime: 2022-01-31T19:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-we-get-self-driving-back-track-2022-raquel-urtasun"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
 
 secured: "RNWZvQcuqfnsRm+r/LP0NyHGhhzNSezaR0HMWb0FenkL7TOfpFqonJxhHyZwefZXDp0iUgposP6EP+jW8Vg4HbV8qDwbRIsoiuv0bE9lDR2HQgLpOMVt4A6fOtxuKRIJGMSjazcV72GAY9b9R//myxxQJB65IEMlzDNCEIW6rtijuuEy5VXyOC8bgakLZkMU2CwVQXBZVESQ5ZVp/d7EpsdqdpTnTKwXaJwYE44ABx8b53ruDtZKa7r8AcCM3LtZ4yXqpYO/OgAkJq8BgimAHGuAFHQf5KRSN1/1PEVQXci0C6Tk2TddLVzJC8lxzYhe0Ft5qZhamvY2VZURKGj3qDw7nRrBtIfHzD8G4pX49og=;e0nyx8/r7GcBmagi1K0aWA=="
 ---

@@ -24,6 +24,22 @@ images:
     height: 499
     isCached: true
 
+related:
+  - title: "US Treasury considers alternatives to ID.me biometrics for IRS online access"
+    excerpt: "An IRS contract being served by ID.me is continuing to generate controversy based on the use of facial recognition and biometric authentication."
+    publishedDateTime: 2022-01-31T19:20:00Z
+    webUrl: "https://www.biometricupdate.com/202201/us-treasury-considers-alternatives-to-id-me-biometrics-for-irs-online-access"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/06/25135841/selfie-for-onboarding-identity-verification.jpg"
+        width: 864
+        height: 554
+        isCached: true
+
 secured: "hEzzs4JTTQTIEew61Iwl6JQKd7r8apE2RzMziVR/BVESi8tYzsQDbUYmZMtJyq3egt2V9Tjy85anJoAzE1JeDlhSppIy6T3qCDk1rHxCZgeuE7xZqn0mQcGAhg6eMeyYnXKzTTSDS1GuzbBK1TNc0uBloSpha/tZ4eu1ke7l4yw8o7kZ8ban6XmUn8KwT05yKkcf6THcR9Ft72rD9mfw+Xq6d+LS/XLYKGfwzUGwZBxTlYeoWE/jG/GQLYQlljnLKua4ZlKlb8rPkSx2dbpfrWoknso6Nu1S7DtIvp4TDYdQX0Cmrsy9TwFF3ZXfMNxFk35gdKDRt6ySHjklrzEhwNptvLdJKMi2ZDhUsb5zw4jkUqLUa6BX7bJOkfxTbYXlnPDgyqckK/OzQKv09DY5OZIcCf3y/gQHNneIiR+z9IvuBG+gve+hfFDQVZeivPcRIcoo7KCpyuOJv3I8vuUxwk4hBvbE0ExatVAK2bMHVDUuyopVqYsW4/6qCkoyXzmoT33/R2KsbZ8J5vrjN4Kecw==;ZXVBetICG8AwpVkTdVfJ8w=="
 ---
 
