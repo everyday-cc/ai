@@ -43,20 +43,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Bill to allow self-driving vehicles to test without emergency driver moves to full Pa. Senate"
-    excerpt: "The state Senate Transportation Committee has moved a bill to the full Senate that would allow companies developing self-driving vehicles to test them on state roads without"
-    publishedDateTime: 2022-01-26T23:19:00Z
-    webUrl: "https://www.bradfordera.com/news/bill-to-allow-self-driving-vehicles-to-test-without-emergency-driver-moves-to-full-pa/article_14756a45-0243-515e-99b4-a983940eadb0.html"
-    type: article
-    provider:
-      name: Bradford Era
-      domain: bradfordera.com
-    quality: 13
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bradfordera.com/content/tncms/assets/v3/eedition/0/4f/04fb243f-4367-58d0-97fa-b52511eeb847/61f0ab6b5146b.preview-300.jpg?resize=300%2C651"
-        width: 300
-        height: 651
-        isCached: true
 
 secured: "aFYGw5+/u4Ug3jXT9NQz/GVPPxR/WqIwokj7m2nwoQf1wbbf8Nm3cy14hx/3Vy+QLr6pF64pe2tKeukHyj8ErcvI2kJiWhkBJJ4ep/2bw4bTR1D9IFoTfM6nh5QYC4c+eYeTnt/64BHNVc/ezta4RvZlZKclfjFGExizy6kuMOvfDMU7PqSxJo7KZXlQfgrCSln/23Tyh814OhizsfvSbRAzD+T5lUWjnCm4/hSzb49lHAFMrojwheefG/Fm3VFPkwy6HYwu+qXGQjMgIutRN9xdV0tE/zzVexzJGbsASG0s68zHd87iHihCPQYu+IbC97aal1H0sOKZoLHUbnZDfokBmkR7F+6qpkIBDHFA19g=;Gt43SaihvzrfXpy9+bWtCw=="
 ---

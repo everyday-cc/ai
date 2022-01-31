@@ -1,23 +1,23 @@
 ---
 category: news
-title: "Yellow.ai recognised in the first-ever 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms"
-excerpt: "Yellow.ai, the world's leading next-gen total experience (TX) automation platform, trusted by 1000-plus enterprises globally, today announced it has been recognised as a Niche Player in the 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms."
-publishedDateTime: 2022-01-31T14:21:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20220131/3902362.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20220131/3902362.html"
+title: "Yellow.ai recognised in the first-ever 2022 Gartner® Magic Quadrant™ for Enterprise Conversational AI Platforms"
+excerpt: "Yellow.ai , the world's leading next-gen total experience (TX) automation platform, trusted by 1000+ enterprises globally, today announced it has been recognised as a Niche Player in the 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms."
+publishedDateTime: 2022-01-31T11:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/yellow-ai-recognised-in-the-first-ever-2022-gartner-magic-quadrant-for-enterprise-conversational-ai/article_d2ff9da0-5460-5eb3-8f2c-e6ec684dba4e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/yellow-ai-recognised-in-the-first-ever-2022-gartner-magic-quadrant-for-enterprise-conversational-ai/article_d2ff9da0-5460-5eb3-8f2c-e6ec684dba4e.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "JtOK9tUDfWuMRWOyWwY1RSNtakxftAuuOr8qmpUZLK2DUmT0GiALOd9MexaAEEWWT9frFPgHNIz/gbO5mhk2f3D/u6KYXbLtwX5ZAX/4q7s/nCKVqSNC6Enhw7RbzQKAq3+fMPirI8PH0N/wjP4ccal2/s4johMUqri80RxGYCCfZMya/ewwcKNL4PnwQPuZ0CtYOKQLcI59/Y9FMtsyoBpq6+cVcFA0ve+YnWrF/dkLl/U9kZyKF4EF10KdWCiyIof0N/8vMiOzwiCFctRX3evGHKzcnK2GT/7dnXEMBKSD/l3pwpccU5S8xn5+732vvc5AAf3DOThWi6NA21+5mY8wqacocg8AljRBnF/Mkok=;CTxToXh68bc/pLICyOhdwQ=="
+secured: "JzEX3q7YRjs6IAHJLam2ldaTiOYwTBzPnRvubYLZI2ahSa/NruOBXwRBRMC6lmtxXLPviW3B23uv6CnIfQ2W5355u5F4K0QzayAHi/iGHCkgHS06OmwvOFFNPsT9aHz9/4+FCBGGAcO4DmHnhnD1m7U0orG45GLPH2FNEBCtqHVG1SDPKF/K6iJ+O0/APghKkergN9/OhtURmq27rhxISdTXe1Jr5aTJPzFesRrh1v/FrS02VglUE0WSuVPwbIA0EqkgtrFihcCfsxc2iWxgDmKgwmggazxlB2fJY2EjeTH2Vd7gSHRd5DqtiTZDNe7LYOSou01fAgHYl8OZ2qDHuCQixLjoNWMSLdXk064RfwcR4RFSXinSo074nK8ZXUkRwtkao1bYEFe+14UleV5+G++UZ2+0yrAxqTKCc0e0HLd8v5vUWxFyxmuUfIUBc7fh1BiLo2fY7V6hY2MKLKFYvgB8fLWCQJF161aPSp5k3z6grnJjURlm96NvcobO0FJZeEFTQN9xXgEEHXlCQ1Pevg==;Jeg3vp6fEYqRXfKYnOE2zQ=="
 ---
 

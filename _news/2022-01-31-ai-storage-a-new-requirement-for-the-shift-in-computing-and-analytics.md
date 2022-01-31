@@ -41,20 +41,6 @@ related:
         width: 1142
         height: 940
         isCached: true
-  - title: "Building a Smarter Government with Data, Analytics and Machine Learning in the Cloud"
-    excerpt: "A primary issue for federal agencies when it comes to getting the most out of their data is that most of that data never gets used. Research shows that some 90% of organizational data does not get used for analytics and decision-making."
-    publishedDateTime: 2022-01-26T23:35:00Z
-    webUrl: "https://washingtontechnology.com/assets/building-smarter-government-data-analytics-and-machine-learning-cloud.pdf"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 32
-    images:
-      - url: "https://cdn.washingtontechnology.com/media/screen_shot_2022-01-18_at_3.03.12_pm.png"
-        width: 764
-        height: 927
-        isCached: true
   - title: "Best Data Analytics Certifications 2022"
     excerpt: "Data Analysts are in high demand. Which certification is best for beginning or advancing your career? Review top Data Analytics Certifications now."
     publishedDateTime: 2022-01-29T14:00:00Z
@@ -70,6 +56,6 @@ related:
         height: 935
         isCached: true
 
-secured: "9xX/F9IM0K2xGz47nRtLDa6Q5nQbbU2uNpJ7MjTz+JRiAFPsZSh4At1jl6OnmqT3aVqRULN381nR5z4okiUjZynmWagg0YWhjDwFcWzHHVd38/6cNSjNnQaH7LsCTX+PvSh92ryZyn5jZNbCf1qkTinshhXz6Mzi51VI5qWlRdSuGEWwCWzAGWjec4JEHJd14a/rXyNwrv7nRZ5UhiBADtEX7fAIZ4QgkUgsf4sCa1SzXV3vBuUvWDzoCUXvnR9EhqyHgQEPU3jEuuynY4GJE8uUWRWV0rXMhZ5nuSJsRLw6NHfI2ifJ9Hko2ykRpi4rJMW+qmpIcSFI+ItDRZ186vaUjoJ1rLjjxrdlUYYpcfY=;V6K8weR6lB2mRVg8Sxuf5w=="
+secured: "ad1lRxCvURP9K0az14bqmORHhI0lmcOe99XRJrNh0ioIjL6wfcuTud0is5sGXWQ0O/XQAExICjqd6b0PhPFLJL5pkum+gBUxlToMQAkfpX74Ehs9qkfnY7H4X8UQXDT6wCEj6thf0R18Pju1MJs1YrBToTiwVn9JVBHtdBgK2XuhJ/+iepciZakgbv0wKRQGW92r1gx/7QdXsDoOSFY8wyOIKGNLNnRsmMdxdKB68pjmOntVBDmVpupXmwxkk1e4Ru3GCwRLFmK/ktWclnLxInLw2kFhTN8nnwuXkstJY9IWtlWomrydCtrg9thVqG9w8W7CQozHYSf7+yCjd4YCKC93Z71cQQeARI/F6kzv0/38T5xljhWLrKAv9iCSZN6H40TSWJpML7PW8w66iTJMMNT7az+zWX6LrX16SNVkapXRqsrjaar7dT7REpx71vWR3JlCFreaZds/frv+84xWTQXI0WOMPZuhsQHqWcT4bbj/mTFI2X2EEcKx3x3ispgXZoYWsN1oLz1Uv/+WFK/jRQ==;Mzzsj25AilNKpZM7ROmdSA=="
 ---
 

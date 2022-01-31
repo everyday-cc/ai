@@ -61,21 +61,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The IRS Needs to Stop Using ID.me's Face Recognition, Privacy Experts Warn"
-    excerpt: "New statements from the company's CEO show it may use a more expansive facial recognition system than previously known."
-    publishedDateTime: 2022-01-27T00:18:00Z
-    webUrl: "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342"
-    ampWebUrl: "https://gizmodo.com/how-id-me-irs-face-recognition-works-1848429342/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-id-me-irs-face-recognition-works-1848429342/amp"
+  - title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
+    excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
+    publishedDateTime: 2022-01-31T15:13:00Z
+    webUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590"
+    ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
+      name: HuffPost
+      domain: huffpost.com
     quality: 87
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/4eedb672b1755b7c1f50bba95d8da978.png"
-        width: 800
-        height: 450
+      - url: "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000"
+        width: 1778
+        height: 1000
         isCached: true
   - title: "Treasury Reconsiders IRS’s Use of ID.Me Face Recognition for Web"
     excerpt: "The Treasury Department is reconsidering the Internal Revenue Service’s reliance on facial recognition software ID.me for access to its website, an official said Friday amid scrutiny of the company’s collection of images of tens of millions of Americans’ faces."
@@ -109,17 +109,17 @@ related:
         isCached: true
   - title: "IRS will start using facial recognition to access tax information"
     excerpt: "Why will you soon have to scan your face to access your IRS tax information? You will still be able to file your tax return the old-fashioned way, with paper documents sent via snail mail. But by this summer,"
-    publishedDateTime: 2022-01-31T11:57:00Z
-    webUrl: "https://www.cbs19.tv/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    ampWebUrl: "https://www.cbs19.tv/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    cdnAmpWebUrl: "https://www-cbs19-tv.cdn.ampproject.org/c/s/www.cbs19.tv/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
+    publishedDateTime: 2022-01-31T12:57:00Z
+    webUrl: "https://www.wfaa.com/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
+    ampWebUrl: "https://www.wfaa.com/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
+    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
     type: article
     provider:
-      name: 19 KYTX
-      domain: cbs19.tv
+      name: WFAA8
+      domain: wfaa.com
     quality: 59
     images:
-      - url: "https://media.cbs19.tv/assets/KHOU/images/c5124352-d52e-4a4e-b816-217f7d009267/c5124352-d52e-4a4e-b816-217f7d009267_1140x641.jpg"
+      - url: "https://media.wfaa.com/assets/KHOU/images/c5124352-d52e-4a4e-b816-217f7d009267/c5124352-d52e-4a4e-b816-217f7d009267_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -182,6 +182,6 @@ related:
         height: 630
         isCached: true
 
-secured: "mUvJn8/ZWWRKHy0NPCgALJINgDEgg0nWzsCFz3N51mG7K47pJxFtTXmQMjAO7eEDDYcapJuvc4cC5D8rG33UGWO8wY2sy6VSHaP/AIlOZTDFiirS+X16PBLLe6k+/G/xASF62JP1ZceDbSsC5+xsRJLmpT6Fw7FQHYUOViwsXgpM/iyx++Zlg72wH1VDZYIpD95rewF+CApsOdd93DQ1qpIaorDx9+PiIgiaVM/sOLsM4jO0ql8H9wE6wpGm6pzTC4PlpbiQAgt5lZZW97L9FrHbI4vYcrtj7D0ZBHDa5nqiz9Cn20b7CHmHyvYwpp7L7ia/VrzwPiHCn7JKBRrop9hCi5QFaNe2kAVRFz68cfw=;JbvvATL+I/cndSIvuW2HgQ=="
+secured: "rk/ucoznUITgjCQI7l1rf/aRzhZba1hX7izOD65R8qSG9ObTTOTBc3mub2d5qf1Wg4a5AgLBZ2yPK2+2lJ+L7XXDimTrb5e2TFtsU8kGajCNDKfvCVXH+ZCOZom7Qti+rqpF72ThzYkwSt8pMTuRq1Int/okU2gAoyrO+U0wWPVopN5oeWVdhYJCkcs+tGo4esrREx4QsKFFPNjJbDGBGxFtLbdl2mV9tg/n7/0SlnrHrdPTb89vCRpoyJqophYVA+AKEcQqwzUBwKGffiJp5y607HB7RFfIE3Ox1YH1cUGcrgRGbMAX9u5lQ4Cjh27tR+K858xNppRRrfDdpNN5Uf1bkVmGf837s6690jJSmoe4LHd7u1KDzKR/5IxEVwJxD3k6V4XsGAFEME+UZA3wcm/mRIKKlct816ciVUyPsp5ve857jDiw7ofEXD+URWBi+tcwAXliGiaK/Vl7upE7DFyY0Q4xDsCVR0dUHw3VlrKNMIxYShmMOskniWo4TisLxDhGmagZADR/DUHkl/FKng==;UrNeqcSjzdrRThZBOisE0A=="
 ---
 

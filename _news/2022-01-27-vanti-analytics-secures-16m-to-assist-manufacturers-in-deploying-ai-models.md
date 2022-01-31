@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-as
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2022/01/ai-storage-a-new-requirement-for-the-shift-in-computing-and-analytics.jpeg.optimal.jpeg"
         width: 1080
         height: 608
-        isCached: true
-  - title: "Building a Smarter Government with Data, Analytics and Machine Learning in the Cloud"
-    excerpt: "A primary issue for federal agencies when it comes to getting the most out of their data is that most of that data never gets used. Research shows that some 90% of organizational data does not get used for analytics and decision-making."
-    publishedDateTime: 2022-01-26T23:35:00Z
-    webUrl: "https://washingtontechnology.com/assets/building-smarter-government-data-analytics-and-machine-learning-cloud.pdf"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 32
-    images:
-      - url: "https://cdn.washingtontechnology.com/media/screen_shot_2022-01-18_at_3.03.12_pm.png"
-        width: 764
-        height: 927
         isCached: true
   - title: "Best Data Analytics Certifications 2022"
     excerpt: "Data Analysts are in high demand. Which certification is best for beginning or advancing your career? Review top Data Analytics Certifications now."

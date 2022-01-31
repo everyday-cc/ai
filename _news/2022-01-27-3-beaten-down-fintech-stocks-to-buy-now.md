@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33.jpeg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Fintech Company Aqueous Asset Launches Valuations Platform AVA"
+    excerpt: "As financial technology continues to be more closely associated with proptech, Los-Angeles based fintech company Aqueous Asset on Monday announced the launch of AVA, its AI-powered tech SaaS platform for multifamily valuations."
+    publishedDateTime: 2022-01-31T13:37:00Z
+    webUrl: "https://commercialobserver.com/2022/01/aqueous-asset-ava/"
+    type: article
+    provider:
+      name: Commercial Observer
+      domain: commercialobserver.com
+    quality: 24
+    images:
+      - url: "https://commercialobserver.com/wp-content/uploads/sites/3/2022/01/10-year-forecast.png?w=768"
+        width: 768
+        height: 483
         isCached: true
   - title: "Fintech Trends to Drive 2022: Growth of Buy Now Pay Later and Increased Investments in Technology Enabling Financial Inclusion"
     excerpt: "When looking at 2021 in review, two fintech trends factor prominently -- Buy Now, Pay Later (BNPL) and technology driving financial empathy/inclusion."

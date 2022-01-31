@@ -82,6 +82,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fintech Company Aqueous Asset Launches Valuations Platform AVA"
+    excerpt: "As financial technology continues to be more closely associated with proptech, Los-Angeles based fintech company Aqueous Asset on Monday announced the launch of AVA, its AI-powered tech SaaS platform for multifamily valuations."
+    publishedDateTime: 2022-01-31T13:37:00Z
+    webUrl: "https://commercialobserver.com/2022/01/aqueous-asset-ava/"
+    type: article
+    provider:
+      name: Commercial Observer
+      domain: commercialobserver.com
+    quality: 24
+    images:
+      - url: "https://commercialobserver.com/wp-content/uploads/sites/3/2022/01/10-year-forecast.png?w=768"
+        width: 768
+        height: 483
+        isCached: true
 
 secured: "sPbzev1TJiHsupBnPCbMqxKaWUb6kHy367+0+htkVFf+OHS6inmAana2YlVXmH5ts0nPEjdwNUZjuLttjqKQ/yvoco5cF6x9OpqGct/oJ+S99cvRcQzUR4IvQpCQ6fE5lMr5H0Y6+y1RJbhTiIZ6TM3k48lufI4wge1lOjY9cW5RVazSeqTZaHG8dL421lBEumWHAmyP23VhciiOpS5cZK1nLt7ziCddKcUoJemVcfUDKHdzJXWcb65HseVAIz8u+ETjH/ZGsxUeBpZeOBw4Vr9Mdvxo6hZbitQmY+tRC24jP8Vt9MmyHv6YlFa3mergbyztKtj3oJLRU3CnxdHXxbNrqmJV75985hW4tv2AJNY=;7tvPn8QOAV3AWNHJL75t1g=="
 ---
