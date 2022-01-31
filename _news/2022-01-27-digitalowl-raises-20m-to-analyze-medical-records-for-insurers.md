@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "DigitalOwl Raises $20M Series A Led by Insight Partners to Support Innovation and Growth"
-    excerpt: "DigitalOwl, the first and only Natural Language Processing (NLP) technology for deeply analyzing and summarizing medical records, today announced a $20M Series A round led by New York-based global private equity and venture capital firm Insight Partners,"
-    publishedDateTime: 2022-01-26T14:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-digitalowl-raises-20m-series-led-insight-partners-support-/2022/01/26/9533565.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
 
 secured: "XvoE+cBeLJoTums9+8aVbjzBeO3ffwvw1AG7I2kYTrkJYwDF/SkA68//DG8jB+emdUhvvzwvq7yPZBV9JyqH9cNgq64LOhsq09+vitG7VxVh7ubN9PjqH8SjOjm9WZNVpNmkieITLf4/eHH3PqvzcW4jduRo5qOKdvWiiTxunCHi9Ou5gKraqkazO/B1aJXH54BArxuzQa/iNToUaaw2voDQAyNP0yZAQskH5coSrRzq8dAlQ1hbU2bI4klBMhelNrPJzaG8F3m5cfXo+0hkK8adbZ0/GR7S/Xre6NspBbskekbjhX0XdSaOZdY8Y09ud0tOpcHQ4j2pKy73tsHvFbkHGLtYTyqcbV6rmyT/gNK622kDyTtSgRbpDkpM/xwtlPi3TavGj7o4cLli8yV2NtPbABoC8bHJZPoagwd5MBggDOY1zjAWoKKPxeXj9tHW0QdO84sXLrSCKLQJChD95tcz9UW0O99sbdlvayGsAB11LIf08vMcT95VYOd2J2Yhdrs9nY3AVqopYugECnICwg==;i1OeNyAYdPsNDMJPpx3WTQ=="
 ---

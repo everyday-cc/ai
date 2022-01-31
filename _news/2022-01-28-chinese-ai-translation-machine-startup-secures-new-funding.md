@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese scientists create AI nanny to look after babies in artificial womb"
+    excerpt: "Technology won’t be a problem for its future application, but legal and ethical concerns might, warns Beijing-based researcher."
+    publishedDateTime: 2022-01-31T06:00:00Z
+    webUrl: "https://www.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial"
+    ampWebUrl: "https://amp.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 85
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/30/3a67679c-ae63-438d-9823-d9cd26b35347_133e8188.jpg?itok=V-lHp7fa&v=1643542137"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Chinese researchers claim to develop AI nanny. Find out the truth"
     excerpt: "In what may seem like a rerun of a Hollywood movie, Chinese researchers have claimed to develop an artificial intelligence nanny, which can monitor and take care of embryos as they grow into foetuses in an artificial womb environment."
     publishedDateTime: 2022-01-31T04:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/business/fujitsu-establishes-ai-ethics-and-g
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/fujitsu-establishes-ai-ethics-and-governance-office-ensure-safe-and-secure-deployment-ai?amp"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Fujitsu to stand up AI ethics and governance office"
+    excerpt: "Fujitsu said it will establish an AI ethics and governance office to ensure the safe and secure deployment of AI technologies. To be headed by Junichi Arahori, the new office will focus on implementing ethical measures related to the research,"
+    publishedDateTime: 2022-01-31T05:56:00Z
+    webUrl: "https://www.zdnet.com/article/fujitsu-to-stand-up-ai-ethics-and-governance-office/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/fujitsu-to-stand-up-ai-ethics-and-governance-office/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-to-stand-up-ai-ethics-and-governance-office/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "Fujitsu creates AI Ethics and Governance Office"
     excerpt: "Fujitsu has decided to establish a new organization to support its governance of AI ethics. On 1 February, Fujitsu's AI Ethics and Governance Office will go live to accelerate the deployment of technologies including artificial intelligence and other machine learning applications in society."
     publishedDateTime: 2022-01-28T08:06:00Z

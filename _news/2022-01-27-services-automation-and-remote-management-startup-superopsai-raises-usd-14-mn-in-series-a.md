@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Slim.AI Raises $31 Million to Secure Cloud-Native Applications"
-    excerpt: "Cloud-native application security startup Slim.AI today announced that it has raised $31 million in Series A funding, which brings the total raised by the company to $37.6 million. Slim.AI’s latest funding round was led by Insight Partners and StepStone Group and also received participation from Knollwood,"
-    publishedDateTime: 2022-01-26T14:49:00Z
-    webUrl: "https://www.securityweek.com/slimai-raises-31-million-secure-cloud-native-applications"
-    type: article
-    provider:
-      name: Security Week
-      domain: securityweek.com
-    quality: 37
-    images:
-      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Conversational AI startup NLX raises $5M to scale its offering"
     excerpt: "Conversation artificial intelligence startup NLX Inc. has raised $5 million in funding to assist it in scaling its offering, to increase its headcount and drive sales. Aquila Capital Partners led the seed round with Flying Fish Partners,"
     publishedDateTime: 2022-01-28T01:45:00Z
@@ -126,15 +112,6 @@ related:
         width: 708
         height: 430
         isCached: true
-  - title: "Slim.AI Closes $31 Million Series A to Automate Best Practices in Software Supply Chain Security for Cloud-Native Applications"
-    excerpt: "Slim.AI, the Boston-based startup focused on optimizing and securing cloud-native applications, announced today that it has raised a $31 million series A round co-led by New York-based global venture capital and private equity firm Insight Partners as well as StepStone Group,"
-    publishedDateTime: 2022-01-26T13:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/slim-ai-closes-31-million-series-a-to-automate-best-practices-in-software-supply-chain-security-for-cloud-native-applications-1031130661"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
 
 secured: "SgimxL+nPi4Atuy51MAPT3ltcq+RSP7WlJDnBDMesZEpqmuiUwpg1UBwhmYt8hf67R0ILa81YUrGstaQIac1l7bpkiqcvfhkhBXnRXkZEB27UyC3mBtBV1evkRtZXayjqodU3OStsCMUFXBVS/Jqa87uYJfD9/Vi19e9WGaGM5ZtALNq1PM5k402+ETKuU2kQL7WhbKY0x3Vqw60aAiNW9lvRV/CltQqxs3/d54Vkzo98OQeO/Y7qf8w+DEkH8pQFxNypw74rEhsmtnT+vckjugWAy7BNy30O7KlyBK2p7p4HKGOcMInbgDAF4PV0UT82kn9JwqnAfhI5ncvsilAgvhWr90WnTKDl8xIP+36hjM=;WhaingL+OXSR8IAT2SpxWg=="
 ---

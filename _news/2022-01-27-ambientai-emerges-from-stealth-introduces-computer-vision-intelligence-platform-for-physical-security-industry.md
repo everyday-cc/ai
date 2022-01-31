@@ -7,7 +7,7 @@ originalUrl: "https://www.officer.com/command-hq/technology/security-surveillanc
 webUrl: "https://www.officer.com/command-hq/technology/security-surveillance/press-release/21254650/ambientai-ambientai-emerges-from-stealth-introduces-computer-vision-intelligence-platform-for-physical-security-industry"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Vimaan Emerges from Stealth with First of its Kind Computer Vision Platform for Inventory Management"
-    excerpt: "Vimaan, a computer vision company for warehouse inventory management, emerged from stealth to announce its leading-edge, field proven solutions to the warehousing and logistics industry along with $25M in Seed and Series A financing from top investors New Enterprise Associates (NEA),"
-    publishedDateTime: 2022-01-26T13:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vimaan-emerges-from-stealth-with-first-of-its-kind-computer-vision-platform-for-inventory-management-1031130910"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1734135/Vimaan_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "WAyhjuhq3hlNYraF3FMeeIO+43YTc2WyXmJuxn8mAN50hLfdRT4gIMqtV2UUPflcvQCGcpalSyze/GZ34OuNaWJIRHd3BpUUFWkA6roU5m3sSNLyLM9dxAMrgDvIvcfL+V6Z2dbu73Oc1WUnG7ebXgO79Iw+NrGbFIXjesKfc3+OK1wiuJGnY+y+EJncLWsgca6Yf3wBbo2f8IR2mN2YcUK2J7T4pTh0FbYg1JQm7cIIfWSDTSSjIhIk2a5tUMg+O0RwGMls7pecOKKow1rYcms1RzZ7VS3doxEj92cMLycEkb6QtNlgzjOEthGC+SaS0c2s2DWLRwOGW+We1PjpwDvg6tzI3A5QpXn9MtVm2IQ26prdYdevAKxYxi5f3bpkAuXVg6ONp9DaJLFT+mEg1sf9gf6xHKijy1dwiBOXPEVnaMEUgKx8yfc+jCMnjtkCT6kLwjEeSRMmcf5XyGSpOONhwYcMde/cfI/ejyWxlGEIzqCtOnwrmQcghfwVaQ+jq2px3SFna2yPV5FgIx+Svg==;9DXBV+x+zV2pWvf/Tt8Dvg=="
 ---

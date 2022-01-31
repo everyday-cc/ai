@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Jordan ranks 80th globally on 2021 Government Artificial Intelligence Readiness Index"
-excerpt: "AMMAN — Jordan ranked 80th globally and 11th regionally on the 2021 Government Artificial Intelligence Readiness Index, released by Oxford Insights.Oxford Insights is a British institution which aims to “help global governments capitalise on the latest innovations in technology and leadership,"
-publishedDateTime: 2022-01-30T20:35:00Z
-originalUrl: "https://www.jordantimes.com/news/local/jordan-ranks-80th-globally-2021-government-artificial-intelligence-readiness-index"
-webUrl: "https://www.jordantimes.com/news/local/jordan-ranks-80th-globally-2021-government-artificial-intelligence-readiness-index"
+excerpt: "AMMAN — Jordan ranked 80th globally and 11th regionally on the 2021 Government Artificial Intelligence Readiness Index, released by Oxford Insigh"
+publishedDateTime: 2022-01-31T05:10:00Z
+originalUrl: "https://menafn.com/1103615734/Jordan-ranks-80th-globally-on-2021-Government-Artificial-Intelligence-Readiness-Index"
+webUrl: "https://menafn.com/1103615734/Jordan-ranks-80th-globally-on-2021-Government-Artificial-Intelligence-Readiness-Index"
 type: article
-quality: 32
-heat: 32
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: The Jordan Times
-  domain: jordantimes.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://www.jordantimes.com/sites/default/files/styles/news_inner/public/4-Mays-Index.jpg?itok=vLnWUgj1"
+  - url: "https://menafn.com/updates/pr/2022-01/30/JT_b9eefimage_story.jpg"
     width: 301
     height: 426
     isCached: true
 
-secured: "WYQ4QZEoYNiTw3bc2rUDqr373VDmq8DqnNAzmNuyQDa/a/SBUYowUwYZuZdJWq6OJWyCjFiwJFStMSMLicFNX38CT+eEa1uT5ZyF8QvALipgyC1YMs0lCRggNnkQNbf8mHaegtpBYRAMdibUvsG20Fb5OtkmLROCjvGctP6dolCgzgOGFKaiTJ37NrsHeow/A3U/PezeZ/qr7MgtjSNK8CO7laPZgOxzvG8CaipOBzZu87YEKnM6mpKGluZOcj+5Tfvsn8ZdNAHMB23VvlgKZrcX322qipcJLFjzhlv+RfpIG41apotLOfGBd1MXTE9e+7ETQIbkVWU0xcj+4drgC6jHU1lVC/oDyk4ocx2pZMTRwPayIkdOLnyHPhA4DKWJMi1xZV5PB5MftJx4CrXof6et/BWsZClvVuujINWmExnL8TJJho9cYQmNPQRg8j/wBrroj1/nv2YS0K7LcPN5cZTl0YwV+WEp4UKbWNOzwCZFlJKq4cXFIYe82hjB53RjgxjEnWZxjxsqZ1FS09WKjA==;AugMgyTgMWOKAP749AqnVQ=="
+secured: "2wJ+CkaLTQzp5wwqj83p+dxk4//ltvdUJU/Dmdd4SsQuQtiC+4aCZO9vt1d0qOXgqJxCVARR+qVEaE7n/8pbsSguIA9vE0+AGvpC9gHwNepxtjMO5EHU76aUrXvgNKt3r4L5OQCBrvBRHrxntvc5ctOQyuD9EYhaKCGYFgBHTa5OdYELDD5ehaHAw0QC1+/koItM7mtfNpquloOaBogbjVCFKXOFl+4aYZrA7tCi/P8yrcMUCqKpVK9ugBESQVnZ0E9Qhj2X2b+PsBAw9B5FdKGYH6tMhN94hdP4//D70uTFKOz5y+fawzZ1OsspTsmTp5A2LPStVn56poGKL7XSgoDBJB56M8IwF2ZsbyoabTk=;oMwxpe77c4L4SKZZwRIlbQ=="
 ---
 

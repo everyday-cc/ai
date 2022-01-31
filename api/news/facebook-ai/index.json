@@ -56,21 +56,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-27-meta-is-building-a-16000-gpu-ai-supercomputer.md",
-      "title": "Meta is building a 16,000 GPU AI supercomputer",
-      "excerpt": "Facebook’s parent company Meta is partway through building an artificial intelligence (AI) supercomputer cluster it estimates will be the fastest on Earth when completed. The AI Research SuperCluster (RSC) is currently kitted out with 6,",
+      "path": "_news/2022-01-27-meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer.md",
+      "title": "Meta says it will soon have the world’s fastest AI supercomputer",
+      "excerpt": "Meta, formerly known as Facebook, is already using supercomputer to train major models in natural language processing (NLP) .",
       "sourceUrl": null,
-      "webUrl": "https://ia.acs.org.au/article/2022/meta-is-building-a-16-000-gpu-ai-supercomputer.html",
-      "originalUrl": "https://ia.acs.org.au/article/2022/meta-is-building-a-16-000-gpu-ai-supercomputer.html",
+      "webUrl": "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://ia.acs.org.au/content/dam/ia/article/images/2022/facebook%20meta%20logos1.jpg",
-          "width": 751,
-          "height": 423,
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/01/Meta-says-it-will-soon-have-the-worlds-fastest-AI-supercomputer-01-1-1.jpg",
+          "width": 1200,
+          "height": 676,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -78,13 +78,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-26T21:00:00-08:00",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/amp/",
+      "publishedDateTime": "2022-01-27T02:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "acs.org.au",
-        "domain": "acs.org.au",
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -94,10 +94,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
+        "Facebook AI",
+        "AI"
       ]
     },
     {

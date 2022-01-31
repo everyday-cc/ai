@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/will-nvidias-software-power-self-dri
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-nvidias-software-power-self-driving-cars?amp"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Apple has expanding the team testing its self-driving cars in California"
-    excerpt: "Apple's self-driving cars in California. The cars are testing Apple's self-driving technology but not an actual car. Apple has expanded the team of people that are testing its self-driving cars on the streets of California."
-    publishedDateTime: 2022-01-26T14:29:00Z
-    webUrl: "https://www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california"
-    ampWebUrl: "https://www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california?amp"
-    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-has-expanding-team-testing-its-self-driving-cars-california?amp"
-    type: article
-    provider:
-      name: iMore
-      domain: imore.com
-    quality: 43
-    images:
-      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2021/03/apple-car-toyota-mashup.jpeg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "rVNUz3LjkKFQIoIpL+8Br1fBgAsxtieVvitrf4WuEHaPOKPZqWc3pnNIVflt8YNFQ+qkS2MFGBK6IB6B+jtehKiwD18C/yFB11GWAzxXwK0u7zSdZWKoj2i9lwkbKd2R5M5/FxP1X/wgId2FY3uJWEn4hVIx3qafimfWNDpe6lGW8/bIC1jeXIu+YWoYcCsxhEatAYsiGOP8TqWODJONNWxKHuzDFpT0tVZU0w69Esw4ztB5kMh3kSy2ctmEXt6mLs6pPeFPYUUY6AJQnrimOkP6xG396JXyfuIIeEs3/lkvFHpGI1KUuiVB/c+IkozoC6WuE7m2yBIyZiCQqvXMWDlPVi013Oin1UBI0eO5+G4=;7bxHDIyDyjqUmjO6TU3Kww=="
 ---

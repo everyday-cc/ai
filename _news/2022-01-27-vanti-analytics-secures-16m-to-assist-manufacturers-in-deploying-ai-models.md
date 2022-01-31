@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-as
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1400
         height: 935
         isCached: true
-  - title: "Observe.AI ranked G2 2022 Leader in Speech Analytics & Quality Assurance for Contact Centers"
-    excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named a 2022 Grid Report Leader in Speech Analytics and Quality Assurance for Contact Centers by G2,"
-    publishedDateTime: 2022-01-26T14:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-observeai-ranked-g2-2022-leader-speech-analytics-quality-/2022/01/26/9533563.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "apMul1yl57XTHX7SfNKCNY8tbbSzny/UqWdD8PbHTRSZvL2jQdtiBDX67J6DK14bDzsgsYeVVXBEyepMk1o4Ax4eO+NsJZSrgGAjtD1oWBo4lpFLDTMaIrcjsNLqO1GJUS/wCZvGpAcku9Cc4wezUhqPwt2tOY3976SijUwGGfWojN6hA3F6TYTW/5acQlT/2+A1Z+g/0czeCBOil0dl0/8egxQs4OIKyu68cSeDVj3NLtML1zmSXR6Um85nN6trx1dksApdpQmQ8IoIXw6lSr/b8zrdLpx7aLnCYuvGPIMpgvPv2YpLm1FdnBxrJoLgohP1MfZpnmJkw5IIFwF6yJ/lvtyJUqXoAs6vZIFN/3k=;te55mjrUAshrY+dcjW1kFA=="
 ---

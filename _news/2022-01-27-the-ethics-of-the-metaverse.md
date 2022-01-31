@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/the-ethics-of-the-metaverse-2/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-13075344431.jpg"
         width: 788
         height: 443
-        isCached: true
-  - title: "Microsoft invokes metaverse when describing future for Teams, Xbox and devices to investors"
-    excerpt: "After a relatively blockbuster-like Q2 earnings performance, Microsoft CEO Satya Nadella veered into metaverse talk as he prepares investors for the company's"
-    publishedDateTime: 2022-01-26T14:44:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-invokes-metaverse-when-describing-future-for-teams-xbox-and-devices-to-investors"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 29
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2015/09/Amyhood-768x485.jpg"
-        width: 768
-        height: 485
         isCached: true
 
 secured: "tqMlIwjC9VZBvdCSpP+/oZXUse+lT0cRc2pSvZ1rf5ZfQmSOXxKPpH5LLLD+Db62L7E74JDg70s+cuXfza0AwI9HaN1NvVroEgadi8nixRdsO4hT2Hcs6A6P7b4quNY/LN8KC4pXS+iN748K7lWlpc3VG7BzZeYdJJLuOgRq50E9yhlZiIb0Zy7bmhAIO30tgcS0TodEG8l0jPtYvZtp1qck708gkKrF7SimWpUupMTm+TrCH/1V1lL4wjL1FPLe7iLJOti8djj5WDFUz7Qv+AG4btguCuCip9ca4R2ips7JrfP+stcAPEZDdFfgffWq/I8GpX3Uon6F5FMAzb7RFx6IqyHTxYFlZvVUpJcbutodXQLV52M2yNr6aZJ8/reWlT5frx00OIlunBcgDu6dkOMCpcW5KRNkVDnHXRxchJqQjy1aiiPuqAB0K9aIEWDRoUbuPOfTKk+l/h0fhD63pnZ6XglJPZJTpUHQ7ty27y4azuCddM2cgjbcN0Q48ousBuXkBPZgASJrpxdxtutMgQ==;RdRtvQkhRSdVOyuibV6Trg=="

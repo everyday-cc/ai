@@ -1,0 +1,66 @@
+---
+category: news
+title: "Chinese scientists create AI nanny to look after babies in artificial womb"
+excerpt: "Technology won’t be a problem for its future application, but legal and ethical concerns might, warns Beijing-based researcher."
+publishedDateTime: 2022-01-31T06:00:00Z
+originalUrl: "https://www.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial"
+webUrl: "https://www.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial"
+ampWebUrl: "https://amp.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial"
+type: article
+quality: 85
+heat: 105
+published: true
+
+provider:
+  name: South China Morning Post
+  domain: scmp.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/30/3a67679c-ae63-438d-9823-d9cd26b35347_133e8188.jpg?itok=V-lHp7fa&v=1643542137"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Chinese researchers claim to develop AI nanny. Find out the truth"
+    excerpt: "In what may seem like a rerun of a Hollywood movie, Chinese researchers have claimed to develop an artificial intelligence nanny, which can monitor and take care of embryos as they grow into foetuses in an artificial womb environment."
+    publishedDateTime: 2022-01-31T04:25:00Z
+    webUrl: "https://www.wionews.com/science/chinese-researchers-claim-to-develop-ai-nanny-find-out-the-truth-449099"
+    ampWebUrl: "https://www.wionews.com/science/chinese-researchers-claim-to-develop-ai-nanny-find-out-the-truth-449099/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/chinese-researchers-claim-to-develop-ai-nanny-find-out-the-truth-449099/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 57
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/01/31/237398-ai-nanny.jpg"
+        width: 918
+        height: 506
+        isCached: true
+  - title: "Chinese AI translation machine startup secures new funding"
+    excerpt: "Timekettle, a Chinese startup developing artificial intelligence-based smart translation machines, has raised several tens of millions of yuan (at least $3 million) from China SME Development Fund in a Series A funding round."
+    publishedDateTime: 2022-01-28T06:14:00Z
+    webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-translation-machine-startup-secures-new-funding"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F1%252F6%252F2%252F0%252F38600261-1-eng-GB%252F20220127%252036Kr_earphone.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
+
+secured: "BB0d/prGSTaPGzxXMf7ZsKwBX65h4gAZw/HLvFdln8GHntre5U6iSAe8HxRWIJlIIlOe2pLziOXwrSoYipETMAUdi57Cu+8nDNrgYo7+HwZGnGZ9aUEQJ9MBGHGNCfjOC3Sgit5UT3bS71AkwwG/mwhuxZ0rxC3SMN7xdIp7S/vA9N4wpjmMxVZ2cMlUk0Bo927RKGhKgT3rRcixjeBcTc02yNKCLbXMtzSHFbqLpNGXntwVXNaczb/zc6bN1mu5Zjhm8JdP2bmNNMJ2Fg42PNmoiyEEBzBF8SX/1y4CP4emilgnlB7ec4K/PGxeLyNmH3sMZ6PVRRji1PpTwA42O8d9Yj8U4RZ/ezZBlL6Biic=;1+7Od4ktbvhf3GAOW86JJA=="
+---
+

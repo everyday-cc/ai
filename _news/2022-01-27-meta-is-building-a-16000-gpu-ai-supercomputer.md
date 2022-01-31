@@ -7,8 +7,8 @@ originalUrl: "https://ia.acs.org.au/article/2022/meta-is-building-a-16-000-gpu-a
 webUrl: "https://ia.acs.org.au/article/2022/meta-is-building-a-16-000-gpu-ai-supercomputer.html"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: acs.org.au
@@ -27,15 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Zuckerberg’s Meta builds AI supercomputer"
-    excerpt: "Mark Zuckerberg’s company Meta revealed that it has built one of the world’s fastest ever supercomputers. With 6,080 graphics processing units packaged into 760 Nvidia A100 modules, Meta believes that the Research Super-Cluster (RSC) is the fastest device built for AI tasks,"
-    publishedDateTime: 2022-01-26T14:36:00Z
-    webUrl: "https://www.ebuyer.com/blog/2022/01/zuckerbergs-meta-builds-ai-supercomputer/"
+  - title: "Meta says it will soon have the world’s fastest AI supercomputer"
+    excerpt: "Meta, formerly known as Facebook, is already using supercomputer to train major models in natural language processing (NLP) ."
+    publishedDateTime: 2022-01-27T10:56:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/amp/"
     type: article
     provider:
-      name: ebuyer.com
-      domain: ebuyer.com
-    quality: 19
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 59
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/Meta-says-it-will-soon-have-the-worlds-fastest-AI-supercomputer-01-1-1.jpg"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "How AI Will Drive the Future of Work"
+    excerpt: "If hybrid model is to flourish in the post-pandemic world, new technologies will have to step up to satisfy the needs of workers and bosses"
+    publishedDateTime: 2022-01-28T12:40:00Z
+    webUrl: "https://enterprisetalk.com/featured/how-ai-will-drive-the-future-of-work/"
+    ampWebUrl: "https://enterprisetalk.com/featured/how-ai-will-drive-the-future-of-work/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-ai-will-drive-the-future-of-work/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/How-AI-Will-Drive-the-Future-of-Work-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
+    excerpt: "The company formerly known as Facebook, Meta Platforms (NASDAQ: FB), just unveiled details for its new AI Research SuperCluster (RSC). It's a massive supercomputer housed in a data center, and once it's fully constructed in mid-2022,"
+    publishedDateTime: 2022-01-29T12:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
+    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 53
+  - title: "Meta Is Building The World’s Fastest AI Supercomputer"
+    excerpt: "There is a strong belief that moderating posts from billions of users can somewhat be a difficult task but Facebook"
+    publishedDateTime: 2022-01-28T18:37:00Z
+    webUrl: "https://techbooky.com/meta-is-building-a-sophisticated-ai-supercomputer/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/6000.jpg?fit=930%2C558&ssl=1"
+        width: 930
+        height: 558
+        isCached: true
   - title: "Meta's new AI supercomputer: 16,000 x GPUs, insane 175PB bulk storage"
     excerpt: "Meta's new AI Research SuperCluster (RSC) is a metaverse and AI beast -- 16,000 GPUs, 16TB/sec training data, 175PB bulk storage."
     publishedDateTime: 2022-01-27T01:28:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-digital
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-in-series-a-funding-1031134315"
 type: article
 quality: 57
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Slim.AI Raises $31 Million to Secure Cloud-Native Applications"
-    excerpt: "Cloud-native application security startup Slim.AI today announced that it has raised $31 million in Series A funding, which brings the total raised by the company to $37.6 million. Slim.AI’s latest funding round was led by Insight Partners and StepStone Group and also received participation from Knollwood,"
-    publishedDateTime: 2022-01-26T14:49:00Z
-    webUrl: "https://www.securityweek.com/slimai-raises-31-million-secure-cloud-native-applications"
-    type: article
-    provider:
-      name: Security Week
-      domain: securityweek.com
-    quality: 37
-    images:
-      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "Conversational AI startup NLX raises $5M to scale its offering"
     excerpt: "Conversation artificial intelligence startup NLX Inc. has raised $5 million in funding to assist it in scaling its offering, to increase its headcount and drive sales. Aquila Capital Partners led the seed round with Flying Fish Partners,"
     publishedDateTime: 2022-01-28T01:45:00Z
@@ -116,15 +102,6 @@ related:
         width: 708
         height: 430
         isCached: true
-  - title: "Slim.AI Closes $31 Million Series A to Automate Best Practices in Software Supply Chain Security for Cloud-Native Applications"
-    excerpt: "Slim.AI, the Boston-based startup focused on optimizing and securing cloud-native applications, announced today that it has raised a $31 million series A round co-led by New York-based global venture capital and private equity firm Insight Partners as well as StepStone Group,"
-    publishedDateTime: 2022-01-26T13:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/slim-ai-closes-31-million-series-a-to-automate-best-practices-in-software-supply-chain-security-for-cloud-native-applications-1031130661"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "Services automation and remote management startup SuperOps.ai raises USD 14 Mn in Series A"
     excerpt: "SuperOps.ai offers multiple solutions for MSP needs like IT documentation, project management etc– within the platform and on cloud."
     publishedDateTime: 2022-01-27T12:20:00Z

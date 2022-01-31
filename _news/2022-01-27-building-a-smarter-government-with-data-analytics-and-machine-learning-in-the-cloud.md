@@ -55,15 +55,6 @@ related:
         width: 1400
         height: 935
         isCached: true
-  - title: "Observe.AI ranked G2 2022 Leader in Speech Analytics & Quality Assurance for Contact Centers"
-    excerpt: "Observe.AI, an Intelligent Workforce Platform that transforms contact centers through AI, today announced it has been named a 2022 Grid Report Leader in Speech Analytics and Quality Assurance for Contact Centers by G2,"
-    publishedDateTime: 2022-01-26T14:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-observeai-ranked-g2-2022-leader-speech-analytics-quality-/2022/01/26/9533563.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "HXb3105lP1yFjbidIdrgKCzWOeAChRJafgu5RLXoqD0CZ1lNK86JWpNIaXxcyHnnwf6D/OR0OtzxOfxUHQlVdAhKFiitddxzT2vxt1o7YMHeAFT1Zzd+UC9/thTBy+3xCLFFGTRgIOWrNf0mvsZaIMFNuJAohQ0X43b1gJG/0YiI8ZM6XQjYUZzALowVnihW+EWU7eAVdsjYU1Cnfps4MUTFYSDY3EkewriubKGifxUuA724J8DheJFRH3Z4rv+B4s6Si6ryKdH/m7O6RBVLAld7MyZ3ZqrnlPogXNTx589SnPCnOrHDz7M/M1LL/QBmO8H2bkWaguZI7tyqNc9VoReEi/NyfOryHdp7Hu6gy9C7JEYKhKr+9hWEfWichjZecaJ6SjmH8+7RSPvYSxz9YH1fIcNR26CTbyoJ2B2tngwNjjrh6hpiohAC/SV0rzN912k8z4AxH4YIILwJvgEfy35vJVXADZ+x/YkFNWaCeJmMtrqc1vCYZfb0fb5xp6G5dUMbAI1HJpBDxx7HNmJIAw==;rGT4ai2cqcqb864uVOk85Q=="
 ---
