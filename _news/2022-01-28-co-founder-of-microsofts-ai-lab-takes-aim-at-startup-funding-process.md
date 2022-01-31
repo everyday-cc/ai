@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How the partnership with OpenAI has cemented Microsoft’s position in Supercomputers"
+    excerpt: "The collaboration with OpenAI is steered to develop new technologies for Microsoft Azure and extend large-scale AI capabilities to achieve artificial general intelligence."
+    publishedDateTime: 2022-01-31T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-the-partnership-with-openai-has-cemented-microsofts-position-in-supercomputers/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 48
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Azure_AIM.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Global AI Leader Laiye Partners with Microsoft to accelerate data sovereignty for UK customers"
     excerpt: "Laiye extends $50M European push by uniting with leaders in cloud infrastructure January 27 2021, LONDON - Laiye, a leading intelligent automation provider, and global software leader Microsoft,"
     publishedDateTime: 2022-01-27T08:00:00Z
@@ -38,20 +52,6 @@ related:
       - url: "https://mediaserver.responsesource.com/newsroom-logo/tb_lrg/122221/Positive_logo_new+%281%29.png"
         width: 300
         height: 212
-        isCached: true
-  - title: "Microsoft, FedEx Expand Partnership"
-    excerpt: "FedEx and Microsoft are expanding their partnership to offer “logistics as a service” to retailers, using data analytics of FedEx's network."
-    publishedDateTime: 2022-01-26T16:52:00Z
-    webUrl: "https://multichannelmerchant.com/operations/microsoft-fedex-expand-partnership/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 39
-    images:
-      - url: "https://multichannelmerchant.com/wp-content/uploads/2020/05/fedex-microsoft-partnership-logos-feature.jpg"
-        width: 850
-        height: 450
         isCached: true
 
 secured: "9h95fNXV2RN1+eE49WR9RnySr4rmijOHVCE5xgMtc9qWU5WI+h82UZLxFYsmSOaNL+63ZOfHzIiy6Eo2he4RYuOulOsRuhRJflqnFqJmEcoTu/ZSByERPWMIQlVX64UGLYds1EBtFVZtuSaFsFIoIjJhXA898IFYX266sDowOYq/gcwklSZ1IlTaDb9Y80pawGI69ORw2s7rFKVOoR4kiWWYICkPQCjKYOJRoSsQspkDQAA4VN/HywZLXTZ6HjoqZQyQ3QDzjRLtecc95ITiRa22fZef19ahiooEqaYw2Kq4yXYwHjbNmxoth5eqdZnrAxGczJIgHueUDuyvLBPZrhJLrfO8DfGna8yjbXxPIss=;AJmy31E+yIBJCrrYXGlGwQ=="

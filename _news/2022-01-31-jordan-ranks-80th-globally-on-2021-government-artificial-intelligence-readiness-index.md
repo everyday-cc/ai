@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-31T05:10:00Z
 originalUrl: "https://menafn.com/1103615734/Jordan-ranks-80th-globally-on-2021-Government-Artificial-Intelligence-Readiness-Index"
 webUrl: "https://menafn.com/1103615734/Jordan-ranks-80th-globally-on-2021-Government-Artificial-Intelligence-Readiness-Index"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://menafn.com/updates/pr/2022-01/30/JT_b9eefimage_story.jpg"
@@ -23,6 +24,6 @@ images:
     height: 426
     isCached: true
 
-secured: "2wJ+CkaLTQzp5wwqj83p+dxk4//ltvdUJU/Dmdd4SsQuQtiC+4aCZO9vt1d0qOXgqJxCVARR+qVEaE7n/8pbsSguIA9vE0+AGvpC9gHwNepxtjMO5EHU76aUrXvgNKt3r4L5OQCBrvBRHrxntvc5ctOQyuD9EYhaKCGYFgBHTa5OdYELDD5ehaHAw0QC1+/koItM7mtfNpquloOaBogbjVCFKXOFl+4aYZrA7tCi/P8yrcMUCqKpVK9ugBESQVnZ0E9Qhj2X2b+PsBAw9B5FdKGYH6tMhN94hdP4//D70uTFKOz5y+fawzZ1OsspTsmTp5A2LPStVn56poGKL7XSgoDBJB56M8IwF2ZsbyoabTk=;oMwxpe77c4L4SKZZwRIlbQ=="
+secured: "W/bk+Srcw+0/IW2x8XDN0wiXTd/daq6kkmzokzkdm9KhL6blV6UKcaH1y69zmVRwAkyum5eDlIwbKv2EPy4KJrnzZuFMSace48nFxQ6K/fr2dGlKWaFmqbV6xGntTbJwRoOodcWEBiW//lc5VcFK+CMb0YwbppTnQU3qKpFzlhEH9eBruybh4DyN8KZbYeV6xSQV10mtGkPyjrQHtB5kdDCria3/Qrh+IEXhTf+goVz2QKcVqUli72r/0WaPz4/sH7arpH/T+fza7jBNaLKxB3J9Hgchd/OolCrME28Hs6reEqmLEBk1OjdZh4m9suU8WfY9V55j+Oahjn3Sk3Bs7UNFRAJhvuDddzKEF48hWGgs7FJMrfGLdEVWRKwT7TqWNR4E693wPyfILizeXMhn5nB8LwGofymx7CUzo+PaAaPefSMOnvbs/ZiKRlBkNrI+TW6FuK6OQ8kBecf9cicSYy4249cJQPWH+vg/mbAxRVHr/XvhojVKYZmtFvu/dg9VF+xDz73QHmZbHGp3AGrhCg==;x+LD22elLsUhJHDacUaOag=="
 ---
 

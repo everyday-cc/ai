@@ -87,22 +87,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IRS Facial Recognition: Everything we know so far"
-    excerpt: "The IRS will require taxpayers who access and make their procedures online to sign up and verify their identity with a mobile platform that relies on a third party (company) starti"
-    publishedDateTime: 2022-01-26T15:20:00Z
-    webUrl: "https://www.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html"
-    ampWebUrl: "https://amp.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html"
-    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/lifestyle/us-news/2022/01/26/61f174d2268e3e71518b45b6.html"
-    type: article
-    provider:
-      name: MARCA
-      domain: marca.com
-    quality: 59
-    images:
-      - url: "https://phantom-marca.unidadeditorial.es/1f06094736ba8cd96b4c2ef2f442c13f/resize/1200/f/jpg/assets/multimedia/imagenes/2022/01/26/16432109382520.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Opinion: IRS Facial Recognition Rule Is Undemocratic"
     excerpt: "Later this year, the Internal Revenue Service will require IRS website users to agree to biometric scanning to access tax records. Why should the IRS have the ability to put citizens' privacy at such substantial risk?"
     publishedDateTime: 2022-01-29T00:51:00Z
@@ -148,6 +132,20 @@ related:
       - url: "https://aldianews.com/sites/default/files/2022-01/erika-ardila.jpeg"
         width: 320
         height: 320
+        isCached: true
+  - title: "Watch Out for the Facial Recognition Overlords"
+    excerpt: "One way to imagine today’s complex web of facial recognition vendors is to think of the Internet as being like The National Portrait Gallery in London. The public portraits that are freely on display are a bit like the billions of photos people post on social media,"
+    publishedDateTime: 2022-01-31T08:42:00Z
+    webUrl: "https://www.bloombergquint.com/gadfly/watch-out-for-facial-recognition-overlords-apple-microsoft"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The IRS website will soon require facial recognition to log in to your account"
     excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are. The verification process ..."

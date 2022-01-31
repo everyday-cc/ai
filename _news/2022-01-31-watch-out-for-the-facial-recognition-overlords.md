@@ -1,29 +1,27 @@
 ---
 category: news
-title: "IRS Website Will Soon Require Facial Recognition To Log Into Your Account"
-excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are."
-publishedDateTime: 2022-01-28T10:19:00Z
-originalUrl: "https://sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/"
-webUrl: "https://sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/"
-ampWebUrl: "https://sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/?amp"
-cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/?amp"
+title: "Watch Out for the Facial Recognition Overlords"
+excerpt: "One way to imagine today’s complex web of facial recognition vendors is to think of the Internet as being like The National Portrait Gallery in London. The public portraits that are freely on display are a bit like the billions of photos people post on social media,"
+publishedDateTime: 2022-01-31T08:42:00Z
+originalUrl: "https://www.bloombergquint.com/gadfly/watch-out-for-facial-recognition-overlords-apple-microsoft"
+webUrl: "https://www.bloombergquint.com/gadfly/watch-out-for-facial-recognition-overlords-apple-microsoft"
 type: article
-quality: 58
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CBS Local
-  domain: cbslocal.com
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2022/01/GettyImages-696625124.jpg?w=1024&h=576&crop=1"
-    width: 1024
-    height: 576
+  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -105,6 +103,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "IRS Website Will Soon Require Facial Recognition To Log Into Your Account"
+    excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are."
+    publishedDateTime: 2022-01-28T10:19:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/?amp"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 58
+    images:
+      - url: "https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2022/01/GettyImages-696625124.jpg?w=1024&h=576&crop=1"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Facebook will stop using facial recognition data, Meta reports"
     excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
     publishedDateTime: 2022-01-29T14:07:00Z
@@ -133,20 +147,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Watch Out for the Facial Recognition Overlords"
-    excerpt: "One way to imagine today’s complex web of facial recognition vendors is to think of the Internet as being like The National Portrait Gallery in London. The public portraits that are freely on display are a bit like the billions of photos people post on social media,"
-    publishedDateTime: 2022-01-31T08:42:00Z
-    webUrl: "https://www.bloombergquint.com/gadfly/watch-out-for-facial-recognition-overlords-apple-microsoft"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The IRS website will soon require facial recognition to log in to your account"
     excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are. The verification process ..."
     publishedDateTime: 2022-01-28T03:12:00Z
@@ -162,6 +162,6 @@ related:
         height: 630
         isCached: true
 
-secured: "58Qj6ujMsK7VyuSyW/YSGqgDff+BUxIimH6HmiMUMnqwvvy5WA+VQNs2nx6ymx+wM6dL3DYJ9odGxq4tIAumvLie+ThRPWvyedlZ9/i0T8rkOxkow2MV/XJtLqRgUqhwuH91bIDBHlm2uRffCr/o1nodcvRe0EXcQLVyt+FTy8MqkLEUVBVZbvME9pG2UPdUwdhfClAH0pqRRFljN9oWYYRsqmwPpcOnzZp1PcxCliJ4qSPVk+t2xmCtANLozOpSJfxMqN+XwH39Vy6Vg1ZOrOe9Ad1bDbQLirDe8d9utbd/4TDbnPOrUONRB2Dp9MYUhD3k60nrsXW+drRXBhCJIEQXwysEcs7tMeAM9IV1cpw0j2RrPv03C17QVCF6tFiBHGrnp1hIMnolB5voY39iIchZF0BHLswRHF+6mwLByXBHXqfdhGheRvRn37r+mA9/feWA76c5moPl09H8HTrnycsT25GFDsrkgsJ9sAe1wgH6x7Dq8wUNZwjrB0JUNiw7Y1PFUtCtHfHNTWmhQ0sxoA==;hw9y3O0PQz42fICNT2N8DA=="
+secured: "zbCr0FrTwVxSEDL+2HoRKKhBSggmml0cjVHK9z8tWF8tXEON1jAefU7McHSTkb4Rf7dnALbqa0p+wKkubIGm7oD/TddkL2hP2z5+DaPyKfoqWQfJ5f4vSJNzPrLf4y35yEbR51FvCIQW5ec+YbHEjwQwQmEWKaPhmQhQnxISDOvHHnKsEy0JcfduppgCGdKnjYQ0+pnICKRb0DRrWCdNtLoWiPRrisNjsWTasLZqH67yQMmXkjQlVV3pJsn/VXfSoPDFEvKOwtwvuNldCscvPyE2HGs+nammV4w9qIzHLjGz5BXzGcn4Nl/YRCZx/NdeWiG3D7IJdNAMapXe+N8HL0gE+chAvfOtNN4mOR0arD0=;79aga23Aeg2ty+PSYlJmYA=="
 ---
 

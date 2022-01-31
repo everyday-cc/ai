@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-wit
 cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/"
 type: article
 quality: 53
-heat: 73
+heat: 74
 published: true
 
 provider:

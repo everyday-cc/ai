@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
-excerpt: "The company formerly known as Facebook, Meta Platforms (NASDAQ: FB), just unveiled details for its new AI Research SuperCluster (RSC). It's a massive supercomputer housed in a data center, and once it's fully constructed in mid-2022,"
-publishedDateTime: 2022-01-29T12:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
-webUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
-ampWebUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
+excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
+publishedDateTime: 2022-01-29T13:20:00Z
+originalUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
+webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
+    width: 5408
+    height: 3605
+    isCached: true
 
 related:
   - title: "Meta says it will soon have the world’s fastest AI supercomputer"
@@ -91,6 +99,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "EI5C8StG8fDO3vxiezUxV0GZLCViXV7bHzGUjvovukcICw/WFj33TwuDv6P27lSvw+9EsGKacmHGM7sfK6FXEzmeFVZJ8gE7kD6g/DHa6sLwF7yoxxjR6AUgHJEVtUqjcfw8hYK81v+WE4Vp8+p4kozKOtHzj3tH/vzYCPBXyAgBJfiUtmq03bJUBNReKjH9AOG/ta/sF492W24TZgnjCjaMchpnWqtJNI+u25KGYTwFvFB+QU9S4C22gI4+7SjA0KLE72EQr5C+Hm1JdZ6FOo/yCfaWv2ao0Nrlb8kAmlEgVpqaeAj8Nl49Zs+iYFsmm8xyyeb5iw1LyqESLjMknm/Aag41hXiMK00LHdJoQNk=;lfFg9Ek9t16PInoiAexDtw=="
+secured: "+ERY/RUfffk6RCDNNJrO7kZZZKbUbgy6Dd9jWRFLxxMWB8QAnX7APPz0av+s/n3FLky4Myl6f8tRKoEMFf3IjSEv/PgByIU0ivHppF3xsewW59eUXg5aAXDOoPsbyTMBoneI4Q64PvtjeRCrIT2xMt5gHRsOT0sQvWlXgdh5yvylsBYZtD5wFO7h+OtcOKAg22exkEPvF92H/jk1aHKf/Ju6zNroEcdGtXNjY40yUUPDT++ZVDmjOG5B48TkVetukQrfz6GAYsNtWniq/pMkpwQqLaABFXBjePRg59UKNSb9kjdaffn3ocbCJ00vLCRhmaWPEYsFfOZqeEz1Di+vt/aBNDzkJgxkRIbSBYX5mrg=;xlZEqjiGs5h9SgsAKFQGdw=="
 ---
 

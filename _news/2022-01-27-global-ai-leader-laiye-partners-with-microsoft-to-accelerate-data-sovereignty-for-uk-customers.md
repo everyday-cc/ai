@@ -39,19 +39,19 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft, FedEx Expand Partnership"
-    excerpt: "FedEx and Microsoft are expanding their partnership to offer “logistics as a service” to retailers, using data analytics of FedEx's network."
-    publishedDateTime: 2022-01-26T16:52:00Z
-    webUrl: "https://multichannelmerchant.com/operations/microsoft-fedex-expand-partnership/"
+  - title: "How the partnership with OpenAI has cemented Microsoft’s position in Supercomputers"
+    excerpt: "The collaboration with OpenAI is steered to develop new technologies for Microsoft Azure and extend large-scale AI capabilities to achieve artificial general intelligence."
+    publishedDateTime: 2022-01-31T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-the-partnership-with-openai-has-cemented-microsofts-position-in-supercomputers/"
     type: article
     provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 39
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 48
     images:
-      - url: "https://multichannelmerchant.com/wp-content/uploads/2020/05/fedex-microsoft-partnership-logos-feature.jpg"
-        width: 850
-        height: 450
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Azure_AIM.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "8gkfhZlvvd2J2E/GAJ640qvufH35G5IFbNcFPGUDDU1SBV4t5kI+AYAVCFM9t/tpz/uYrQCz6a+p5QLtgZBs8baEZFoRu5gDMEnxujpDR8w/sDLlF6YhGnrljRCBZddu3SEOUl2LewFsSLydVuVhHUhw1aWMHxSG8IlUertj9k0X4UvVhBbPF0DAMWL4SPc5GxAqnKZkL6yojGcgxH3tjWe8BP0Vz11JNUeW3Coi4g36rSVjdBmigLn9KtKfhErJRI1MG+ROf1k760eubpkMzCquuKMyllgl2l5WV2/jnJbV7arVYI2S5HE9bmfQogA2QNRd/AILmYORpmCEdqpjiYKEl2k+jop9TieJOz6qBPk=;b8IUO/Yqn+f1ItfOg+Uo8Q=="
