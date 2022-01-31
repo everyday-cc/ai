@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-29T13:20:00Z
 originalUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
 webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
@@ -99,6 +100,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "+ERY/RUfffk6RCDNNJrO7kZZZKbUbgy6Dd9jWRFLxxMWB8QAnX7APPz0av+s/n3FLky4Myl6f8tRKoEMFf3IjSEv/PgByIU0ivHppF3xsewW59eUXg5aAXDOoPsbyTMBoneI4Q64PvtjeRCrIT2xMt5gHRsOT0sQvWlXgdh5yvylsBYZtD5wFO7h+OtcOKAg22exkEPvF92H/jk1aHKf/Ju6zNroEcdGtXNjY40yUUPDT++ZVDmjOG5B48TkVetukQrfz6GAYsNtWniq/pMkpwQqLaABFXBjePRg59UKNSb9kjdaffn3ocbCJ00vLCRhmaWPEYsFfOZqeEz1Di+vt/aBNDzkJgxkRIbSBYX5mrg=;xlZEqjiGs5h9SgsAKFQGdw=="
+secured: "3qbjfzXe+LD5ATlOS4CRQJoXjvRbX+IVYTFHZNKfxmoG6zWZWesQ1uauUt7Rn/QerDF0D0Zzya+9qyyvJSJuzk7tjUgtR069EPl0RNzStdiKg/1kaGdaNsNYwEpHdn1A3BdC9r5FBAeh9x9XOBTq8eSn9k8B1KWGJWAWs+2piCFUmnIAHiLj4DGatatjZxE/T94Mfc8WeV/wq7Uqpfx6vSC8gzow2qjGoECgVp5GyZbpizOi3YbXXqkqcCjKDR+aguzCnV3jXwETccWIchNz+7423l88qDfHCXpMsUgAx2xbLx2/gvi0VwbjJHwJY0EUuW3CQkXCTZjjpfAv2BTdrc8Wp7LB2uWqeibnnIgC0NMei/3TDZbaWXGhrKM1v3zDHhpl74EMR34tR8yAJjwiI0epI6dzok/mKlrubSRQBMegJk+csV/v11VWj3lI61mgvGAxzIoawOWLXR+8JTzdN4IF9HNr85TOO74BDGqVx2XfFDWqYO/1sHol49V0qHHCf1Wz9ERhp2sUVKIZKLQHiw==;eNoTFqc98ZYehw97xeGs+Q=="
 ---
 

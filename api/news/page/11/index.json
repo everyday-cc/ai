@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-19-seeq-recognizes-its-2021-reseller-and-service-partners-of-the-year.md",
+      "title": "Seeq Recognizes its 2021 Reseller and Service Partners of the Year",
+      "excerpt": "Seeq’s annual partner awards program honors excellence in delivering the next generation of process manufacturing improvements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/january-2022/seeq-2021-reseller-service-partners-year",
+      "originalUrl": "https://www.automation.com/en-us/articles/january-2022/seeq-2021-reseller-service-partners-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/dabfb663-eb8a-4226-b3ee-42638db2419d/Seeq-news-Jan-18-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-aigens-swarm-of-agtech-robots-want-to-make-agriculture-carbon-negative.md",
+      "title": "Aigen’s swarm of agtech robots want to make agriculture carbon negative",
+      "excerpt": "Even though the only thing the robot can do right now is pull weeds, Aigen is adamant it isn’t building a weed-whacking robot. It claims to be on a mission to terraform the earth, and says it has a path toward making agriculture carbon negative.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/18/aigen-fund-round/",
+      "originalUrl": "https://techcrunch.com/2022/01/18/aigen-fund-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/robot1.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/18/aigen-fund-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/18/aigen-fund-round/amp/",
+      "publishedDateTime": "2022-01-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-ai-is-the-key-to-fixing-identity-security-forgerock-ceo-says.md",
       "title": "AI is the key to fixing identity security, ForgeRock CEO says",
       "excerpt": "ForgeRock CEO Fran Rosch says the company's zero trust approach to identity security is driven by advanced AI algorithms.",
@@ -1071,110 +1166,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-4-times-shakespeare-has-inspired-stories-about-robots-and-ai.md",
-      "title": "4 times Shakespeare has inspired stories about robots and AI",
-      "excerpt": "Here are just a few of our favorite examples of how science fiction has embraced – and transformed – Shakespeare.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/shakespeare-inspired-stories-about-robots-ai-syndication",
-      "originalUrl": "https://thenextweb.com/news/shakespeare-inspired-stories-about-robots-ai-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FSPAI.jpg&signature=16f7448a37fd999875a88251597b9714",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T03:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-cant-buy-a-new-gpu-heres-how-to-make-your-graphics-card-faster.md",
-      "title": "Can’t buy a new GPU? Here’s how to make your graphics card faster",
-      "excerpt": "If you’re unable to get your hands on a new one due to the shortages, don’t fret. There are quite a few things you can do to make your old GPU feel new again. Let’s make it cleaner, quieter, cooler, and extract more frames per second from those games!",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/604703/cant-buy-a-gpu-heres-how-to-make-your-current-graphics-card-faster.html",
-      "originalUrl": "https://www.pcworld.com/article/604703/cant-buy-a-gpu-heres-how-to-make-your-current-graphics-card-faster.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2022/01/evga-geforce-rtx-3060-xc-black-gaming-3-100880288-orig-100912636-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/604703/cant-buy-a-gpu-heres-how-to-make-your-current-graphics-card-faster.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/604703/cant-buy-a-gpu-heres-how-to-make-your-current-graphics-card-faster.html/amp",
-      "publishedDateTime": "2022-01-18T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

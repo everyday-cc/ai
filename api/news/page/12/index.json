@@ -2,6 +2,110 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-01-18-4-times-shakespeare-has-inspired-stories-about-robots-and-ai.md",
+      "title": "4 times Shakespeare has inspired stories about robots and AI",
+      "excerpt": "Here are just a few of our favorite examples of how science fiction has embraced – and transformed – Shakespeare.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/shakespeare-inspired-stories-about-robots-ai-syndication",
+      "originalUrl": "https://thenextweb.com/news/shakespeare-inspired-stories-about-robots-ai-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FSPAI.jpg&signature=16f7448a37fd999875a88251597b9714",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T03:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-cant-buy-a-new-gpu-heres-how-to-make-your-graphics-card-faster.md",
+      "title": "Can’t buy a new GPU? Here’s how to make your graphics card faster",
+      "excerpt": "If you’re unable to get your hands on a new one due to the shortages, don’t fret. There are quite a few things you can do to make your old GPU feel new again. Let’s make it cleaner, quieter, cooler, and extract more frames per second from those games!",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/604703/cant-buy-a-gpu-heres-how-to-make-your-current-graphics-card-faster.html",
+      "originalUrl": "https://www.pcworld.com/article/604703/cant-buy-a-gpu-heres-how-to-make-your-current-graphics-card-faster.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2022/01/evga-geforce-rtx-3060-xc-black-gaming-3-100880288-orig-100912636-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/604703/cant-buy-a-gpu-heres-how-to-make-your-current-graphics-card-faster.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/604703/cant-buy-a-gpu-heres-how-to-make-your-current-graphics-card-faster.html/amp",
+      "publishedDateTime": "2022-01-18T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-ethical-ai-can-promote-diversity-in-clinical-research.md",
       "title": "Ethical AI Can Promote Diversity In Clinical Research",
       "excerpt": "Fortunately, AI offers the extraordinary potential to remove human biases, but not without ongoing supervision and maintenance to ensure it automates tasks ethically and responsibly.",
@@ -1061,101 +1165,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china.md",
-      "title": "SAIC-GM-Wuling Vehicles To Get Horizon Robotics ADAS Tech In China",
-      "excerpt": "Per a recent post from Chinese automotive news website Gasgoo, SAIC-GM-Wuling will incorporate Horizon Robotics’ Journey series chips for new high-tech features. Looking ahead, the Journey 2 chip-based Horizon Matrix Mono ADAS solution will be equipped by a number of SAIC-GM-Wuling models this year,",
-      "sourceUrl": null,
-      "webUrl": "https://gmauthority.com/blog/2022/01/saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china/",
-      "originalUrl": "https://gmauthority.com/blog/2022/01/saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gmauthority.com/blog/wp-content/uploads/2022/01/Horizon-Robotics-microchips-Journey-5-1024x683.jpeg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gmauthority.com/blog/2022/01/saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china/amp/",
-      "cdnAmpWebUrl": "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2022/01/saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china/amp/",
-      "publishedDateTime": "2022-01-17T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GM Authority",
-        "domain": "gmauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-waymo-and-jb-hunt-expand-autonomous-trucking-partnership.md",
-      "title": "Waymo and J.B. Hunt expand autonomous trucking partnership",
-      "excerpt": "Back in the summer of 2021, we reported on a newly formed partnership between autonomous vehicle developer Waymo and trucking company J.B. Hunt. Well, now, according to a blog post published on Friday by Waymo,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/waymo-jb-hunt-partnership-expanded/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-jb-hunt-partnership-expanded/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/QuBZCKQalShPdGt42jTbBsCuB9Q=/2021/06/09/0de5bc3e-0dba-4b63-a565-0627fe3040d0/1-9mdaeoy-fpxsle9usrp7pa.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-jb-hunt-partnership-expanded/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-jb-hunt-partnership-expanded/",
-      "publishedDateTime": "2022-01-17T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

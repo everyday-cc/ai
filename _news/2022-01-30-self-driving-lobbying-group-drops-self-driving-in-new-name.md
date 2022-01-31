@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Lobbying Group Abandons the Term “Self-Driving”"
-    excerpt: "A Washington, DC-based lobbying group representing a number of auto industry heavyweights, is abandoning the term \"self-driving,\""
-    publishedDateTime: 2022-01-26T17:48:00Z
-    webUrl: "https://futurism.com/automotive-group-abandons-self-driving"
-    ampWebUrl: "https://futurism.com/automotive-group-abandons-self-driving/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/automotive-group-abandons-self-driving/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
-    images:
-      - url: "https://wp-assets.futurism.com/2022/01/automotive-group-abandons-self-driving-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
-    excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
-    publishedDateTime: 2022-01-31T02:29:00Z
-    webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
-    type: article
-    provider:
-      name: Car
-      domain: sgcarmart.com
-    quality: 37
-    images:
-      - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "How self-driving truck systems see"
     excerpt: "Visibility is key to truck operation, that’s true for a human driver and it’s especially true for automated driving systems. While Level 2 self-driving technology (adaptive cruise control working with active lane keep assist) is available today,"
     publishedDateTime: 2022-01-27T12:00:00Z
@@ -68,20 +38,6 @@ related:
       - url: "https://s18391.pcdn.co/wp-content/uploads/2022/01/self-driving-trucks-1400-1000x563.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "embedded news: Driver not responsible for self-driving features"
-    excerpt: "A roundup of this week’s embedded news including a report from the legal industry on who’s responsible for self-driving features in autonomous vehicles, plus regular features, news, products and funding news which includes a startup applying AI to autonomous vehicles and mobile robotics with its $200 million funding round."
-    publishedDateTime: 2022-01-28T15:11:00Z
-    webUrl: "https://www.embedded.com/embedded-news-driver-not-responsible-for-self-driving-features/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 24
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2022/01/CEVA-Fortrix-SecureD2D-IP.jpg"
-        width: 810
-        height: 617
         isCached: true
 
 secured: "RNWZvQcuqfnsRm+r/LP0NyHGhhzNSezaR0HMWb0FenkL7TOfpFqonJxhHyZwefZXDp0iUgposP6EP+jW8Vg4HbV8qDwbRIsoiuv0bE9lDR2HQgLpOMVt4A6fOtxuKRIJGMSjazcV72GAY9b9R//myxxQJB65IEMlzDNCEIW6rtijuuEy5VXyOC8bgakLZkMU2CwVQXBZVESQ5ZVp/d7EpsdqdpTnTKwXaJwYE44ABx8b53ruDtZKa7r8AcCM3LtZ4yXqpYO/OgAkJq8BgimAHGuAFHQf5KRSN1/1PEVQXci0C6Tk2TddLVzJC8lxzYhe0Ft5qZhamvY2VZURKGj3qDw7nRrBtIfHzD8G4pX49og=;e0nyx8/r7GcBmagi1K0aWA=="

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-31-profits-over-politics-aws-and-microsoft-execs-warn-of-chinas-ai-threat-while-growing-ai-hubs-inside-china.md",
+      "title": "Profits over politics: AWS and Microsoft execs warn of China’s AI threat while growing AI hubs inside China",
+      "excerpt": "The two biggest U.S. cloud companies are expanding their AI and cloud-related efforts in China even though their own executives have warned of threats posed by China’s AI development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.protocol.com/enterprise/aws-microsoft-china-ai-cloud",
+      "originalUrl": "https://www.protocol.com/enterprise/aws-microsoft-china-ai-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-aws-is-balancing-profit-potential-in-china-with-ai-risk-its-own-ceo-warned-about-less-than-p-greater-than.png?id=29190512",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548",
+      "publishedDateTime": "2022-01-31T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-29-ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities.md",
       "title": "AI Weekly: AI supercomputers and facial recognition to verify taxpayers’ identities",
       "excerpt": "Meta (formerly Facebook) announced an AI supercomputer. Also, more revelations about the IRS' use of facial recognition have come to light.",
@@ -53,49 +97,6 @@
         "AI",
         "Computer Vision",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-co-founder-of-microsofts-ai-lab-takes-aim-at-startup-funding-process.md",
-      "title": "Co-founder of Microsoft's AI lab takes aim at startup funding process",
-      "excerpt": "The co-founder and CEO of Microsoft-backed OpenAI, an artificial intelligence lab, mocked the startup funding process by tweeting that the lab raised $250 million in a series A funding round after six other rounds,",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/disruptors/co-founder-of-microsoft-s-ai-lab-takes-aim-at-startup-funding-process.html",
-      "originalUrl": "https://www.beckershospitalreview.com/disruptors/co-founder-of-microsoft-s-ai-lab-takes-aim-at-startup-funding-process.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T14:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {

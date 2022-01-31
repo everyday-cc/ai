@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220129/AI-based-work-schedul
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220129/AI-based-work-scheduling-improves-physician-engagement-and-reduces-burnout.aspx"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "Study finds AI creates significant work schedules, reduces physician burnout"
+    excerpt: "A new study has found that artificial intelligence-based work scheduling improves physician engagement and reduces burnout by creating fair and flexible schedul"
+    publishedDateTime: 2022-01-31T10:49:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272251189/study-finds-ai-creates-significant-work-schedules-reduces-physician-burnout"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 34
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1643625784.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "mo5gKCYu8Cr6xxn4wK0/87cx4LIeBmQtIqI6aRpG64ZUo5VxoudpO9hnER6BAUtMFaNB411w3MNOMOCPbW/h9MRPI8VvCWn1KWtBl7x3uUqq50RPWJP/CE3N0hzjjV4N6ckRQdme2UGZdXvQa/Kvr/UX5gmfxf+2jOol7zX+vCNgU8pSto7RMye1J+a3x+V7yFew1TNJKztG6uZppVtIXA4nU+79mQEVn7vfMYbkUO+Bamt32ESstbX/T94nc5fXq/Zb7OO0U9CsbpP0+l1g4ICyTa6uAMpRdmYjnMOZSlz86wF+kFyc7hZBQE9FEsM7s9LshzKkVhE/IVcBg25EJi3OI2Q7/3s09B9BzNB3XGU=;42cSC1rdbc6h67ZsudYg6w=="
 ---

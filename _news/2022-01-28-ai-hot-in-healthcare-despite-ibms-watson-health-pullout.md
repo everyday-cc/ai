@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning the hard way: IBM Watson's fatal misdiagnosis"
+    excerpt: "One of Watson's early set pieces was taking a complex set of symptoms and finding the most probable diagnosis out of an encyclopaedic knowledge of rare diseases. A different challenge marked its demise."
+    publishedDateTime: 2022-01-31T10:30:00Z
+    webUrl: "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 76
+    images:
+      - url: "https://regmedia.co.uk/2019/09/23/shutterstock_doc.jpg"
+        width: 648
+        height: 432
+        isCached: true
   - title: "IBM sheds some Watson Health assets, refocuses on AI and cloud"
     excerpt: "In selling the data-based part of its Watson Health business to an investment firm, IBM signals that it wants to concentrate on core AI technology."
     publishedDateTime: 2022-01-27T10:00:00Z
@@ -41,20 +57,6 @@ related:
       - url: "https://www.cio.com/wp-content/uploads/2022/01/healthcare_stethoscope_heartbeat_pulse_ekg_graph_frequency_fever_line_-_source_image_cc0_via_pixabay-100748675-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "IBM sale of Watson Health assets shows AI ‘won’t be a single-vendor solution’"
-    excerpt: "IBM’s sale of its Watson Health data assets to a private equity firm may not rate among the biggest deals of 2022, at least not by size alone. But the transaction, reportedly valued at more than $1 billion,"
-    publishedDateTime: 2022-01-27T16:00:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/7-day-supply/ibm-sale-of-watson-health-assets-shows-ai-wont-be-a-single-vendor-solution/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 51
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2021/03/MMM-Franchise-Images_7-day_1.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "IBM sells parts of Watson Health; what are the repercussions?"
     excerpt: "IBM Watson Health was an ambitious project introduced to use the core AI platform to help healthcare professionals analyse large amounts of data and assist in cancer treatment."

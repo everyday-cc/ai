@@ -7,7 +7,7 @@ originalUrl: "https://www.embedded.com/embedded-news-driver-not-responsible-for-
 webUrl: "https://www.embedded.com/embedded-news-driver-not-responsible-for-self-driving-features/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,63 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Lobbying Group Abandons the Term “Self-Driving”"
-    excerpt: "A Washington, DC-based lobbying group representing a number of auto industry heavyweights, is abandoning the term \"self-driving,\""
-    publishedDateTime: 2022-01-26T17:48:00Z
-    webUrl: "https://futurism.com/automotive-group-abandons-self-driving"
-    ampWebUrl: "https://futurism.com/automotive-group-abandons-self-driving/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/automotive-group-abandons-self-driving/amp"
+  - title: "Autonomous and Self-Driving Vehicle News: Aidrivers, AVIA, Automated Bus Consortium, Bosch Cariad, VW, Owl AI & May Mobility"
+    excerpt: "In autonomous and self-driving vehichle news are Aidrivers, AVIA, Automated Bus Consortium, Bosch Cariad, VW, Owl AI and May Mobility. Aidrivers Partners with Ashok Leyland. Aidri"
+    publishedDateTime: 2022-01-30T21:51:00Z
+    webUrl: "https://www.autoconnectedcar.com/2022/01/autonomous-and-self-driving-vehicle-news-aidrivers-avia-automated-bus-consortium-bosch-cariad-vw-owl-ai-may-mobility/"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 12
     images:
-      - url: "https://wp-assets.futurism.com/2022/01/automotive-group-abandons-self-driving-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
-    excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
-    publishedDateTime: 2022-01-31T02:29:00Z
-    webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
-    type: article
-    provider:
-      name: Car
-      domain: sgcarmart.com
-    quality: 37
-    images:
-      - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "How self-driving truck systems see"
-    excerpt: "Visibility is key to truck operation, that’s true for a human driver and it’s especially true for automated driving systems. While Level 2 self-driving technology (adaptive cruise control working with active lane keep assist) is available today,"
-    publishedDateTime: 2022-01-27T12:00:00Z
-    webUrl: "https://www.fleetequipmentmag.com/self-driving-truck-see/"
-    type: article
-    provider:
-      name: Fleet Equipment Magazine
-      domain: fleetequipmentmag.com
-    quality: 24
-    images:
-      - url: "https://s18391.pcdn.co/wp-content/uploads/2022/01/self-driving-trucks-1400-1000x563.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
-    excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
-    publishedDateTime: 2022-01-30T00:37:00Z
-    webUrl: "https://www.futurecar.com/5166/Self-Driving-Lobbying-Group-Drops-‘Self-Driving’-in-New-Name"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 24
-    images:
-      - url: "https://img.futurecar.com/202201/29/l_61f5004608904.jpg"
-        width: 800
-        height: 450
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews2.png"
+        width: 640
+        height: 300
         isCached: true
 
 secured: "f9U7mjXtbuQHssOVf5i8MHqMDiATMx5s+A0kAodL2inAlzNsZauc0Enl4FkY+KSoWjhbei4+Oviaf2PpqTnMdGtZzPFkboUpjI3Z5CYDNl+FqD6h72roRuDUgQTi2n/z4q6u8BPgl/v8+uhkFXEgjzKnKsx1oKHzqjSHNRGvP1QFfC2NbXElSL43Z2O9jIkmZeNY1yDB54VdEkkDQsH5V/cehcqzRsPDYdA0MSd6GVaDlFwi8zbVjnx8OGvdHCRqvAU+65iwaSg2TrUZ8Mvp207JgcFer/S/grj0VU+Mj68AC1cHFhZkDrVJG3Wf6ZoLpALIpfcTvityzVt9ciWfcfvwzVcobVE1yPEwXqVAmbzIUR7ogxyRFza/jumpyJLRK/c/DjRUuIkIQQVFwWF/YdZEnJrUcJ6auiJCWan5g2nXYMvhM0pZLiOrb5hi/7q2ZUDJNt4/2s5MTFbn3ENf3swvovqEFW70IKTm/F6QrdIAsLscviEY2Eyvm4z+E0GKFgQvVnkHRdqNw/tsz1gN5w==;CYWVONioXs5l4Tey7d/MTw=="

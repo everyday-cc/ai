@@ -2,6 +2,152 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-01-06-how-abigail-annkah-is-using-ai-to-improve-maps-in-africa.md",
+      "title": "How Abigail Annkah is using AI to improve maps in Africa",
+      "excerpt": "As a university student, Abigail Annkah fell in love with mathematics, which soon led to her interest in artificial intelligence. After graduating from the African Institute for Mathematical Sciences, Abigail made it through the competitive process to become an AI resident at Google Research, Accra.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-africa/how-abigail-annkah-using-ai-improve-maps-africa/",
+      "originalUrl": "https://blog.google/around-the-globe/google-africa/how-abigail-annkah-using-ai-improve-maps-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20180717-WA0012_1_AsTd22s.max-1100x1100.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-africa/how-abigail-annkah-using-ai-improve-maps-africa/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-africa/how-abigail-annkah-using-ai-improve-maps-africa/amp/",
+      "publishedDateTime": "2022-01-06T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-healthleap-raises-11m-pre-seed-to-reduce-malnutrition-in-hospitals-with-clinical-ai-assistant.md",
+      "title": "HealthLeap raises $1.1M pre-seed to reduce malnutrition in hospitals with clinical AI assistant",
+      "excerpt": "Malnutrition is somewhat common among hospitalized patients in the U.S., and its coded prevalence is increasing. Amid this problem lies an opportunity to optimize the overall quality of patient care,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/06/healthleap-raises-1-1m-pre-seed-to-reduce-malnutrition-in-hospitals-with-clinical-ai-assistant/",
+      "originalUrl": "https://techcrunch.com/2022/01/06/healthleap-raises-1-1m-pre-seed-to-reduce-malnutrition-in-hospitals-with-clinical-ai-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/HealthLeap-founders-1.jpg?w=680",
+          "width": 680,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/06/healthleap-raises-1-1m-pre-seed-to-reduce-malnutrition-in-hospitals-with-clinical-ai-assistant/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/06/healthleap-raises-1-1m-pre-seed-to-reduce-malnutrition-in-hospitals-with-clinical-ai-assistant/amp/",
+      "publishedDateTime": "2022-01-06T03:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-seeing-machines-launches-partnership-with-ai-firm-ambrella.md",
+      "title": "Seeing Machines launches partnership with AI firm Ambrella",
+      "excerpt": "Driver monitoring technology company Seeing Machines announced a collaboration with artificial intelligence (AI) silicon company Ambarella on Thursday, to bring integrated advanced driver assistance system (ADAS) and occupant and driver monitoring system (OMS and DMS) products to market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sharecast.com/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
+      "originalUrl": "https://www.sharecast.com/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img1.s3wfg.com/web/img/images_uploaded/e/1/dl-seeing-machines-aim-technology-computer-vision-driving.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sharecast.com/amp/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
+      "cdnAmpWebUrl": "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
+      "publishedDateTime": "2022-01-06T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sharecast",
+        "domain": "sharecast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-car-makers-lock-in-long-term-deals-with-chip-giants-for-future-autonomous-vehicles.md",
       "title": "Car makers lock in long-term deals with chip giants for future autonomous vehicles",
       "excerpt": "The battle between chip giants in the autonomous vehicle space isn't a two-horse race like it was for desktop PCs. Car makers have a somewhat wider choice of silicon vendors. At CES, Intel, Qualcomm,",
@@ -1030,153 +1176,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027.md",
-      "title": "Aerospace Robotics Market Segmentation, Business Revenue and Forecast by 2027",
-      "excerpt": "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. The aerospace robotics market size was USD 2.",
-      "sourceUrl": null,
-      "webUrl": "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027",
-      "originalUrl": "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://coub-anubis-a.akamaized.net/coub_storage/story/cw_image_for_sharing/91162aa3277/15adae3f0267f73356752/1641203343_share_story.png",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T15:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Coub",
-        "domain": "coub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-google-prediction-framework-addresses-data-pipeline-drudgery.md",
-      "title": "Google Prediction Framework addresses data pipeline drudgery",
-      "excerpt": "Framework weaves together Google Cloud Platform services to simplify the implementation of prediction projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html",
-      "originalUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/executive-pushing-boulder-uphill_deadline_stress_struggle-100746928-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.amp.html",
-      "publishedDateTime": "2022-01-05T14:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-formant-raises-18m-to-help-companies-manage-fleets-of-robots.md",
-      "title": "Formant raises $18M to help companies manage fleets of robots",
-      "excerpt": "Formant, a startup developing a platform to help manage companies manage fleets of robots, has raised $18 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/",
-      "originalUrl": "https://venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1273518964.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/amp/",
-      "publishedDateTime": "2022-01-05T14:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

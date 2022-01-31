@@ -115,7 +115,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -163,22 +163,31 @@
       "title": "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition",
       "excerpt": "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T08:42:00-08:00",
+      "publishedDateTime": "2022-01-25T08:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -188,9 +197,8 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -965,6 +973,58 @@
       ]
     },
     {
+      "path": "_news/2022-01-17-natural-language-processing-nlp-software-market-statistics-development-and-growthmarket-players-google-explosion-ai-ibm-2022-2027.md",
+      "title": "Natural Language Processing (NLP) Software Market Statistics, Development and Growth,Market Players: Google, Explosion AI, IBM-2022- 2027",
+      "excerpt": "Jan 17, 2022 (Heraldkeepers) -- The Natural Language Processing (NLP) Software Market report provides a detailed analysis of global market size, regional and country-level market size ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-statistics-development-and-growthmarket-players-google-explosion-ai-ibm-2022--2027-2022-01-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-statistics-development-and-growthmarket-players-google-explosion-ai-ibm-2022--2027-2022-01-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-16T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-17-how-ai-will-drive-the-hybrid-work-environment.md",
       "title": "How AI will drive the hybrid work environment",
       "excerpt": "Artificial intelligence has the capacity to vastly improve work-from-home and hybrid work environments. But getting there will not be as simple.",
@@ -1387,60 +1447,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-its-machine-learning-not-ai.md",
-      "title": "It's machine learning, not AI.",
-      "excerpt": "\"At the moment, the best way to survive a patient with heart failure is calling 911\". This is the response from Jaeson Bang, the CEO of FutureCardia when someone asked him if his startup is adopting AI to predict and prevent patients with heart failure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/its-machine-learning-ai-son-le-thanh",
-      "originalUrl": "https://www.linkedin.com/pulse/its-machine-learning-ai-son-le-thanh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFvVKc2mtnqhw/article-cover_image-shrink_600_2000/0/1642127255161?e=1647475200&v=beta&t=Y8Vdhbw9yATaB2IpzTyQ3csWJ4qsUlioGVXg1GBFph8",
-          "width": 1385,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T18:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "IBM AI"
       ]
     }
   ],

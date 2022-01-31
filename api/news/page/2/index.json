@@ -2,6 +2,142 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-28-waymo-sues-state-dmv-to-keep-robotaxi-safety-details-secret.md",
+      "title": "Waymo sues state DMV to keep robotaxi safety details secret",
+      "excerpt": "A court may decide whether Waymo's business interests outweigh the public's right to understand the safety issues around self-driving cars",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/waymo-sues-state-dmv-to-keep-robotaxi-safety-details-secret/ar-AATeIKz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/a87d333/2147483647/strip/true/crop/5388x3603+341+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F46%2F743f192846669dfbca0ba9668179%2F473702-sd-me-ucsd-driver-less-vehicels-hl-003.jpg",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice?_amp=true",
+      "publishedDateTime": "2022-01-28T05:00:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
+        "domain": "latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems.md",
+      "title": "China Proposes Increased Regulation of Deepfakes and Other AI Synthesis Systems",
+      "excerpt": "The Cyberspace Administration of China (CAC) has proposed a new set of draft regulations to govern AI-aided synthesis systems, including deepfakes, virtual reality scenes, text generation, audio, and other sub-sectors of AI media synthesis – a field in which China produces a prodigious number of academic papers and innovative research projects each month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems/",
+      "originalUrl": "https://www.unite.ai/china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/china-deepfake-rules-2022a.jpg",
+          "width": 818,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-28T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-lessons-in-ai-regulation-from-a-tech-founder.md",
+      "title": "Lessons In AI Regulation From A Tech Founder",
+      "excerpt": "Although AI is unlikely to replace human oversight completely, it's crucial for businesses and leaders who want to take advantage of the benefits of AI technology to get ahead of the regulations so they aren't left scrambling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/28/lessons-in-ai-regulation-from-a-tech-founder/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/28/lessons-in-ai-regulation-from-a-tech-founder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f16b09a8b3c7e677dd1fb1/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/28/lessons-in-ai-regulation-from-a-tech-founder/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/28/lessons-in-ai-regulation-from-a-tech-founder/amp/",
+      "publishedDateTime": "2022-01-28T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-28-why-deepmind-co-founder-mustafa-suleyman-has-quit-google-to-become-a-vc.md",
       "title": "Why DeepMind co-founder Mustafa Suleyman has quit Google to become a VC",
       "excerpt": "DeepMind co-founder Mustafa Suleyman surprised many of his followers last week when he announced he's leaving Google to become a venture capitalist.",
@@ -103,49 +239,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-co-founder-of-microsofts-ai-lab-takes-aim-at-startup-funding-process.md",
-      "title": "Co-founder of Microsoft's AI lab takes aim at startup funding process",
-      "excerpt": "The co-founder and CEO of Microsoft-backed OpenAI, an artificial intelligence lab, mocked the startup funding process by tweeting that the lab raised $250 million in a series A funding round after six other rounds,",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/disruptors/co-founder-of-microsoft-s-ai-lab-takes-aim-at-startup-funding-process.html",
-      "originalUrl": "https://www.beckershospitalreview.com/disruptors/co-founder-of-microsoft-s-ai-lab-takes-aim-at-startup-funding-process.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T14:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -312,7 +405,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -660,49 +753,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-27-ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.md",
-      "title": "IBM sheds some Watson Health assets, refocuses on AI and cloud",
-      "excerpt": "In selling the data-based part of its Watson Health business to an investment firm, IBM signals that it wants to concentrate on core AI technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/303974/ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.html",
-      "originalUrl": "https://www.cio.com/article/303974/ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/01/healthcare_stethoscope_heartbeat_pulse_ekg_graph_frequency_fever_line_-_source_image_cc0_via_pixabay-100748675-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/303974/ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/303974/ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.html/amp",
-      "publishedDateTime": "2022-01-27T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-27-artificial-intelligence-startup-rehinged-launches-carenet-ai.md",
       "title": "Artificial Intelligence Startup, Rehinged, Launches Carenet AI",
       "excerpt": "Rehinged, Inc announced the launch of Carenet AI, their market intelligence platform specifically built for the healthcare industry.",
@@ -1046,7 +1096,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1190,59 +1240,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-how-logzio-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker.md",
-      "title": "How Logz.io accelerates ML recommendations and anomaly detection solutions with Amazon SageMaker",
-      "excerpt": "Logz.io is an AWS Partner Network (APN) Advanced Technology Partner with AWS Competencies in DevOps, Security, and Data &amp; Analytics. Logz.io offers a software as a service (SaaS) observability platform based on best-in-class open-source software solutions for log, metric, and tracing analytics. Customers",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-logz-io-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-logz-io-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/20/ML-6266-image001-1119x630.png",
-          "width": 1119,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-26T10:18:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

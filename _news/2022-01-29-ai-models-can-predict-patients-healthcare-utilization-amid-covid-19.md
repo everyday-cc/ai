@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/ai-models-can-predict-patients-healthcare-utilization-amid-covid-19.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "IIT Jodhpur’s AI model can detect Covid from X-Ray scans"
+    excerpt: "Researchers at IIT Jodhpur have developed a deep learning-based algorithm called the COMiT-Net to detect Covid. The model can learn the abnormalities present in the chest X-Ray images to differentiate between COVID-19 affected lungs and normal lungs."
+    publishedDateTime: 2022-01-31T10:12:00Z
+    webUrl: "https://analyticsindiamag.com/iit-jodhpurs-ai-model-can-detect-covid-from-x-ray-scans/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/84008719_873346209788587_5273924281313525760_n.jpg"
+        width: 2048
+        height: 1085
+        isCached: true
 
 secured: "Kmn7m3d58uQKvD0ADxZ0xQQ6vppuB3RlRJ8rI8gK+pTUsdptANpwtCgFk3GvYjbWJWqaYaGzCKcCvaLMOkRayXqneMdrWVjIxuC8Sy+Jyp28PlTAlcuqBo6nSnxuOBGPPcjRJcUb2azHHE71o4hpWrtGROCkV7RPAzoGFTbmJa7ERGhORpcWEdQnGqPbwdZSvBH/3M6ZIN3KipJEFu2yH5a8W2XQ+JGBoBj+Da6nAzj0fP2AxPw3FvahwmsMLV7ru6X8QpaBwyTaZEdEs1t4p+ODkb/Jkbi5lH9glLt056lsEJ1Xfk6yfXLah1RikvdunLDg3D5frXbYum2q625oVFmv6kFpghkmjdHjvwH9spI=;GPXF1UPz35hf4NkfO6m6/g=="
 ---

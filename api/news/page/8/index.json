@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-01-20-zenoss-names-blair-duncan-chief-financial-officer.md",
+      "title": "Zenoss Names Blair Duncan Chief Financial Officer",
+      "excerpt": "Zenoss Inc., a leader in AI-driven full-stack monitoring, today announced Blair Duncan as the company’s new chief financial officer. Duncan is a seasoned executive with more than 25 years of experience leading finance organizations and driving strategy at high-growth companies.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/business-texas-austin-f7050ea5c6564e43ba009aebeb3d0198",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/business-texas-austin-f7050ea5c6564e43ba009aebeb3d0198",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-20T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-20-loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers.md",
+      "title": "Loans Canada and Even Financial Announce Strategic Partnership to Help Canadian Borrowers",
+      "excerpt": "Even Financial (\"Even\"), the category-leading embedded finance marketplace, and LoansCanada.ca (\"Loans Canada\"),",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/n25135424/loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/n25135424/loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25135424",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25135424",
+      "publishedDateTime": "2022-01-20T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-the-irs-will-start-using-facial-recognition-this-summer-and-youll-have-to-send-off-a-selfie-if-you-want-to-pay-your-taxes-online.md",
       "title": "The IRS will start using facial recognition this summer — and you’ll have to send off a selfie if you want to pay your taxes online",
       "excerpt": "which will involve sending off a selfie for facial recognition. Security blogger Brian Krebs was the first to spot a message on the IRS website directing users to create an account with a company ...",
@@ -1090,108 +1176,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-structionsite-raises-10-million-to-apply-ai-to-construction-project-management.md",
-      "title": "StructionSite raises $10 million to apply AI to construction project management",
-      "excerpt": "StructionSite, a startup developing a platform that monitors construction sites using computer vision, has raised $10 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/",
-      "originalUrl": "https://venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/GettyImages-552721783.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/structionsite-raises-10-million-to-apply-ai-to-construction-project-management/amp/",
-      "publishedDateTime": "2022-01-19T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-public-relations-and-artificial-intelligence.md",
-      "title": "Public Relations and Artificial Intelligence",
-      "excerpt": "In the past 25 years there have been few disruptive forces broad enough to impact every corner of the public relations field. As practitioners, we have seen the advent of the Internet and email change the way we communicate with journalists and our other constituents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/public-relations-artificial-intelligence-steve-momorella",
-      "originalUrl": "https://www.linkedin.com/pulse/public-relations-artificial-intelligence-steve-momorella",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQFZHT8tWvFqAg/article-cover_image-shrink_720_1280/0/1642600197961?e=1648684800&v=beta&t=TKHE9AEkH_d_-xMyXvyC7MX2hwg48M6Z-2nMcayeJbQ",
-          "width": 1152,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.fleetequipmentmag.com/self-driving-truck-see/"
 webUrl: "https://www.fleetequipmentmag.com/self-driving-truck-see/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,50 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Lobbying Group Abandons the Term “Self-Driving”"
-    excerpt: "A Washington, DC-based lobbying group representing a number of auto industry heavyweights, is abandoning the term \"self-driving,\""
-    publishedDateTime: 2022-01-26T17:48:00Z
-    webUrl: "https://futurism.com/automotive-group-abandons-self-driving"
-    ampWebUrl: "https://futurism.com/automotive-group-abandons-self-driving/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/automotive-group-abandons-self-driving/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
-    images:
-      - url: "https://wp-assets.futurism.com/2022/01/automotive-group-abandons-self-driving-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
-    excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
-    publishedDateTime: 2022-01-31T02:29:00Z
-    webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
-    type: article
-    provider:
-      name: Car
-      domain: sgcarmart.com
-    quality: 37
-    images:
-      - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "embedded news: Driver not responsible for self-driving features"
-    excerpt: "A roundup of this week’s embedded news including a report from the legal industry on who’s responsible for self-driving features in autonomous vehicles, plus regular features, news, products and funding news which includes a startup applying AI to autonomous vehicles and mobile robotics with its $200 million funding round."
-    publishedDateTime: 2022-01-28T15:11:00Z
-    webUrl: "https://www.embedded.com/embedded-news-driver-not-responsible-for-self-driving-features/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 24
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2022/01/CEVA-Fortrix-SecureD2D-IP.jpg"
-        width: 810
-        height: 617
-        isCached: true
   - title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
     excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
     publishedDateTime: 2022-01-30T00:37:00Z

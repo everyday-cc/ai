@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-24-tcv-backs-canadian-ai-startup-that-accelerates-drug-research.md",
+      "title": "TCV Backs Canadian AI Startup That Accelerates Drug Research",
+      "excerpt": "TCV and Inovia Capital are leading a $50 million funding round for a Canadian biomedical software startup that has some of the world’s largest pharmaceutical companies as clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canadian-ai-startup-that-accelerates-drug-research",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canadian-ai-startup-that-accelerates-drug-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGEeAY9waLeU/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock.md",
+      "title": "This Tech Giant Appears To Be A Better Pick Over Electronic Arts Stock",
+      "excerpt": "We believe that Microsoft stock currently appears to be an attractive pick over its industry peer Electronic Arts stock, despite its comparatively higher valuation. MSFT stock trades at 13.4x trailing revenues,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/24/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/24/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60d1a7a844c5c5f04eed7e3a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/24/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/01/24/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock/amp/",
+      "publishedDateTime": "2022-01-24T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-artificial-intelligence-data-could-help-treat-sepsis-and-covid.md",
       "title": "Artificial intelligence data could help treat sepsis - and COVID",
       "excerpt": "In the early hours of Jan. 15, 2018, Neeta Long woke with what felt like a bad case of the flu — so bad, her husband, Phil, rushed her to the emergency room at B.C.'s Royal Columbian Hospital.",
@@ -1116,111 +1219,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-deepmind-co-founder-mustafa-suleyman-leaves-google.md",
-      "title": "DeepMind co-founder Mustafa Suleyman leaves Google",
-      "excerpt": "Mustafa Suleyman, a co-founder of artificial intelligence research company DeepMind, has left Google to join venture capital firm Greylock Partners. Suleyman has brought to an end an eight-year run at Google,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/deepmind-ai-mustafa-suleyman-google-greylock-partners-152049755.html",
-      "originalUrl": "https://www.engadget.com/deepmind-ai-mustafa-suleyman-google-greylock-partners-152049755.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/fcd690c0-7acc-11ec-afe2-9c62fe8a75df",
-          "width": 5760,
-          "height": 3840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model.md",
-      "title": "Microsoft will force update your PCs to Windows 10 21H2 to train its own ML Update model",
-      "excerpt": "Microsoft has begun the forced rollout of Windows 10 21H2 update to Windows 10 20H2 devices in order to help train its Machine Learning-assisted intelligent Windows Update rollout model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/06/1624557503_windows_10_21h2_pc_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "publishedDateTime": "2022-01-21T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

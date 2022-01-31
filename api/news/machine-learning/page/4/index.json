@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-06-odyssey-therapeutics-acquires-rahko-a-quantum-machine-learning-company.md",
+      "title": "Odyssey Therapeutics Acquires Rahko, a Quantum Machine Learning Company",
+      "excerpt": "Odyssey Therapeutics, a biotechnology company pioneering next generation precision immunomodulators and oncology medicines, today announced that it has acquired Rahko, a leading quantum machine learning company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20180348.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20180348.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T04:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-meeting-the-aiml-design-challenge.md",
       "title": "Meeting the AI/ML design challenge",
       "excerpt": "Symmetric and Asymmetric multiprocessor platforms continue to proliferate, driven by the rapid growth of AI/ML applications for voice, image, text and object recognition. There is a revolution underway in software development & integration methodologies ...",
@@ -1349,49 +1393,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-deep-learning-chipset-market-expected-to-witness-a-sustainable-growth-over-2027.md",
-      "title": "Deep Learning Chipset Market Expected To Witness a Sustainable Growth Over 2027",
-      "excerpt": "Transparency Market Research delivers key insights on the global deep learning chipset market. In terms of revenue, the deep learning chipset market is estimated to expand at a CAGR of ~24% ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-chipset-market-expected-to-witness-a-sustainable-growth-over-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chipset-market-expected-to-witness-a-sustainable-growth-over-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/09/Lego-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-26T22:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

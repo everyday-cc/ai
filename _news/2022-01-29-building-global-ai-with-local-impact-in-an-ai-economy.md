@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/28/building-global-ai-with-local-imp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 658
     isCached: true
+
+related:
+  - title: "With an Eye on Future Dubai Invests in Artificial Intelligence"
+    excerpt: "Dubai has emerged as a leading centre for research and development in emerging industries with a primary focus on embracing new technologies. Digital transformation in the government and p - Mediawire"
+    publishedDateTime: 2022-01-31T08:20:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/international-business/with-an-eye-on-future-dubai-invests-in-artificial-intelligence/articleshow/89241977.cms"
+    ampWebUrl: "https://m.timesofindia.com/business/international-business/with-an-eye-on-future-dubai-invests-in-artificial-intelligence/amp_articleshow/89241977.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/with-an-eye-on-future-dubai-invests-in-artificial-intelligence/amp_articleshow/89241977.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 72
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-89241977,width-1070,height-580,imgsize-643370,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
 
 secured: "m2SEU3kZ4gzqmIIU6FNvVaJ+oI92VVwZ7VyrX/OSLbKlaPRCgtuY1Au3sMSG35QvXyprPyozm2bDUTrM7LgiVM8DmtN/++9CsCN/YK5rqnKHWn7xNtVQbFblSCw41+580ESBxr24X3SyDmH2Rv9ewf3ucKIfr2p42Y0iWVV5K/+FsXiDFqw4R3CSLJp68sH3pnHS351R96YZfQm1E84G3DU7m3u0uq/LeiICFnW5F/JSA4O7Nq8HDE03hyXeZtb2cWGzGhNozIrkMzhnwR4X3JS2s73MpAQU8YTGEprrre2D5AHuEUqa/MWcJ+asWusbhzjOaTaavEt7PpiSaE8QepeomPdUKPP3KA1YitLDpAA+qvTSuSQSP1LFq6USqvnisxDnPe8R9yxirbqYFS+6Dc1hBoBmDxu3w3vgDzoAXFL9wNcjuCFGm8QRrZ7AMpsBYM82LoYtEVN/nGQTDYlK2U605M/Oe69+4iEyuSUa7SosVMiH7c5l6E3MJKgNRGIAIPDM7W+x4/WOqKZbDEx5GQ==;7v2q/3y22h7+QDboj9a1wA=="
 ---

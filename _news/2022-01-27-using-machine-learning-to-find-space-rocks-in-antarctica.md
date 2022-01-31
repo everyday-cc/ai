@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-01-machine-space-antarctica.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-machine-space-antarctica.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 2880
     height: 2160
     isCached: true
-
-related:
-  - title: "Machine learning points to prime places in Antarctica to find meteorites"
-    excerpt: "Using data on how ice moves across Antarctica, researchers identified more than 600 spots where space rocks may gather on the southern continent."
-    publishedDateTime: 2022-01-26T19:00:00Z
-    webUrl: "https://www.sciencenews.org/article/machine-learning-meteorite-antarctica"
-    ampWebUrl: "https://www.sciencenews.org/article/machine-learning-meteorite-antarctica/amp"
-    cdnAmpWebUrl: "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/machine-learning-meteorite-antarctica/amp"
-    type: article
-    provider:
-      name: Science News
-      domain: sciencenews.org
-    quality: 58
-    images:
-      - url: "https://www.sciencenews.org/wp-content/uploads/2022/01/012622_cg_antarctica-meteorites_feat.jpg"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "5B0VQDBhwhSrPZFJE9C58ZCn016KAzJgGj+H38aG5eCKa/UO/oNgsDbyPd1pcmTLdEKv04/HO2wCpQK2K7RytZ5oXzyR2o+3Tcv6Mg3o3Ul+6ShPZcrOjIK/J6ct9zGYIuFzofbj/1Q34EXujTpYXVplkbbHdxQkbgfYDOW4h8hisr63aRTxGlRecLMn2Q0ltIWho8SxDgFiwtjBpi8/ndDldtLHnbwfYgeYQR2Q1Ddj1MraPVlz4cVmlkaPApfzCV9IW+npCkTwinrgo4fqqulMFmNGiw4GiLYgXD1znUds5P7nvH1irivz+RpT1du4UcjilSrca/82aeabLHi6UqPAQPkEhoANTIl4DxDjvKgwPzmz8mzjAWbyNinZHI3L1msMnXvn+AMQSx2QNbrc22V4vLf8h5KkzV7kIuaAiAMT2/+Lse7Q2C8BxJlaZcSEV6xjq451hfa6zk4D1l4HPxXFtX/F7cVdy1kty0AJKb2/9dy1bMo5Q/FuHmTe/1JrGZdzdVmFI1wk9jiY0ygHBQ==;mj/7ZOgDCGNWJknjoYOkxg=="
 ---

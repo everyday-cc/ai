@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Watch Out for the Facial Recognition Overlords"
-excerpt: "One way to imagine today’s complex web of facial recognition vendors is to think of the Internet as being like The National Portrait Gallery in London. The public portraits that are freely on display are a bit like the billions of photos people post on social media,"
-publishedDateTime: 2022-01-31T08:42:00Z
-originalUrl: "https://www.bloombergquint.com/gadfly/watch-out-for-facial-recognition-overlords-apple-microsoft"
-webUrl: "https://www.bloombergquint.com/gadfly/watch-out-for-facial-recognition-overlords-apple-microsoft"
+excerpt: "More technology companies are becoming gatekeepers to our identities and ‘faceprints.’ That could get messy."
+publishedDateTime: 2022-01-31T07:30:00Z
+originalUrl: "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-for-facial-recognition-overlords-apple-microsoft"
+webUrl: "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-for-facial-recognition-overlords-apple-microsoft"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iY64pWg9Fj8U/v1/1200x800.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -162,6 +166,6 @@ related:
         height: 630
         isCached: true
 
-secured: "zbCr0FrTwVxSEDL+2HoRKKhBSggmml0cjVHK9z8tWF8tXEON1jAefU7McHSTkb4Rf7dnALbqa0p+wKkubIGm7oD/TddkL2hP2z5+DaPyKfoqWQfJ5f4vSJNzPrLf4y35yEbR51FvCIQW5ec+YbHEjwQwQmEWKaPhmQhQnxISDOvHHnKsEy0JcfduppgCGdKnjYQ0+pnICKRb0DRrWCdNtLoWiPRrisNjsWTasLZqH67yQMmXkjQlVV3pJsn/VXfSoPDFEvKOwtwvuNldCscvPyE2HGs+nammV4w9qIzHLjGz5BXzGcn4Nl/YRCZx/NdeWiG3D7IJdNAMapXe+N8HL0gE+chAvfOtNN4mOR0arD0=;79aga23Aeg2ty+PSYlJmYA=="
+secured: "mUvJn8/ZWWRKHy0NPCgALJINgDEgg0nWzsCFz3N51mG7K47pJxFtTXmQMjAO7eEDDYcapJuvc4cC5D8rG33UGWO8wY2sy6VSHaP/AIlOZTDFiirS+X16PBLLe6k+/G/xASF62JP1ZceDbSsC5+xsRJLmpT6Fw7FQHYUOViwsXgpM/iyx++Zlg72wH1VDZYIpD95rewF+CApsOdd93DQ1qpIaorDx9+PiIgiaVM/sOLsM4jO0ql8H9wE6wpGm6pzTC4PlpbiQAgt5lZZW97L9FrHbI4vYcrtj7D0ZBHDa5nqiz9Cn20b7CHmHyvYwpp7L7ia/VrzwPiHCn7JKBRrop9hCi5QFaNe2kAVRFz68cfw=;JbvvATL+I/cndSIvuW2HgQ=="
 ---
 

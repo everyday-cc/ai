@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/303974/ibm-sheds-some-watson-health-asse
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/303974/ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.html/amp"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: CIO
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning the hard way: IBM Watson's fatal misdiagnosis"
+    excerpt: "One of Watson's early set pieces was taking a complex set of symptoms and finding the most probable diagnosis out of an encyclopaedic knowledge of rare diseases. A different challenge marked its demise."
+    publishedDateTime: 2022-01-31T10:30:00Z
+    webUrl: "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 76
+    images:
+      - url: "https://regmedia.co.uk/2019/09/23/shutterstock_doc.jpg"
+        width: 648
+        height: 432
+        isCached: true
   - title: "AI Hot in Healthcare Despite IBM’s Watson Health Pullout"
     excerpt: "Earlier this week, the tech giant IBM sold off chunks of its once-promising artificial intelligence (AI)-guided division Watson Health. Despite this setback, European firms see a bright future for the use of AI in healthcare."
     publishedDateTime: 2022-01-28T14:45:00Z
@@ -40,20 +56,6 @@ related:
       - url: "https://www.labiotech.eu/wp-content/uploads/2022/01/AI-ibm-watson-health.jpg"
         width: 960
         height: 460
-        isCached: true
-  - title: "IBM sale of Watson Health assets shows AI ‘won’t be a single-vendor solution’"
-    excerpt: "IBM’s sale of its Watson Health data assets to a private equity firm may not rate among the biggest deals of 2022, at least not by size alone. But the transaction, reportedly valued at more than $1 billion,"
-    publishedDateTime: 2022-01-27T16:00:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/7-day-supply/ibm-sale-of-watson-health-assets-shows-ai-wont-be-a-single-vendor-solution/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 51
-    images:
-      - url: "https://www.mmm-online.com/wp-content/uploads/sites/2/2021/03/MMM-Franchise-Images_7-day_1.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "IBM sells parts of Watson Health; what are the repercussions?"
     excerpt: "IBM Watson Health was an ambitious project introduced to use the core AI platform to help healthcare professionals analyse large amounts of data and assist in cancer treatment."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hy
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/27/some-insistent-hyper-milers-say-that-ai-self-driving-cars-should-be-forced-to-drive-like-grandpa-but-thats-messed-up/amp/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Manufacturers To Blame For Self-Driving Car Crashes, Says UK Lawmaker"
-    excerpt: "If many automotive experts are to be believed, we’re on the cusp of a self-driving revolution. And that means that as automakers finalize their autonomous-driving technology, lawmakers must write the rules that govern self-driving cars."
-    publishedDateTime: 2022-01-26T18:00:00Z
-    webUrl: "https://jalopnik.com/manufacturers-to-blame-for-self-driving-car-crashes-sa-1848424954"
-    ampWebUrl: "https://jalopnik.com/manufacturers-to-blame-for-self-driving-car-crashes-sa-1848424954/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/manufacturers-to-blame-for-self-driving-car-crashes-sa-1848424954/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 44
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/e4b9f8a035e18cd60716aa279291bced.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "When will self-driving cars come to the UK?"
     excerpt: "SELF-DRIVING cars are set to be the future of domestic transport, as the UK plans to replace combustion engines with electric-powered motors. Manufacturers such as Tesla are leading the charge for"
     publishedDateTime: 2022-01-27T06:00:00Z

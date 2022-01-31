@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/disruptors/co-founder-of-mic
 webUrl: "https://www.beckershospitalreview.com/disruptors/co-founder-of-microsoft-s-ai-lab-takes-aim-at-startup-funding-process.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Becker's Hospital Review
@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How the partnership with OpenAI has cemented Microsoft’s position in Supercomputers"
-    excerpt: "The collaboration with OpenAI is steered to develop new technologies for Microsoft Azure and extend large-scale AI capabilities to achieve artificial general intelligence."
-    publishedDateTime: 2022-01-31T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-the-partnership-with-openai-has-cemented-microsofts-position-in-supercomputers/"
+  - title: "Profits over politics: AWS and Microsoft execs warn of China’s AI threat while growing AI hubs inside China"
+    excerpt: "The two biggest U.S. cloud companies are expanding their AI and cloud-related efforts in China even though their own executives have warned of threats posed by China’s AI development."
+    publishedDateTime: 2022-01-31T10:30:00Z
+    webUrl: "https://www.protocol.com/enterprise/aws-microsoft-china-ai-cloud"
+    ampWebUrl: "https://www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 48
+      name: Protocol
+      domain: protocol.com
+    quality: 73
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Azure_AIM.jpeg"
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-aws-is-balancing-profit-potential-in-china-with-ai-risk-its-own-ceo-warned-about-less-than-p-greater-than.png?id=29190512"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Global AI Leader Laiye Partners with Microsoft to accelerate data sovereignty for UK customers"
-    excerpt: "Laiye extends $50M European push by uniting with leaders in cloud infrastructure January 27 2021, LONDON - Laiye, a leading intelligent automation provider, and global software leader Microsoft,"
-    publishedDateTime: 2022-01-27T08:00:00Z
-    webUrl: "https://pressreleases.responsesource.com/news/102348/global-ai-leader-laiye-partners-with-microsoft-to-accelerate-data/"
-    type: article
-    provider:
-      name: responsesource.com
-      domain: responsesource.com
-    quality: 42
-    images:
-      - url: "https://mediaserver.responsesource.com/newsroom-logo/tb_lrg/122221/Positive_logo_new+%281%29.png"
-        width: 300
-        height: 212
         isCached: true
 
 secured: "9h95fNXV2RN1+eE49WR9RnySr4rmijOHVCE5xgMtc9qWU5WI+h82UZLxFYsmSOaNL+63ZOfHzIiy6Eo2he4RYuOulOsRuhRJflqnFqJmEcoTu/ZSByERPWMIQlVX64UGLYds1EBtFVZtuSaFsFIoIjJhXA898IFYX266sDowOYq/gcwklSZ1IlTaDb9Y80pawGI69ORw2s7rFKVOoR4kiWWYICkPQCjKYOJRoSsQspkDQAA4VN/HywZLXTZ6HjoqZQyQ3QDzjRLtecc95ITiRa22fZef19ahiooEqaYw2Kq4yXYwHjbNmxoth5eqdZnrAxGczJIgHueUDuyvLBPZrhJLrfO8DfGna8yjbXxPIss=;AJmy31E+yIBJCrrYXGlGwQ=="

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-27-ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.md",
-      "title": "IBM sheds some Watson Health assets, refocuses on AI and cloud",
-      "excerpt": "In selling the data-based part of its Watson Health business to an investment firm, IBM signals that it wants to concentrate on core AI technology.",
+      "path": "_news/2022-01-31-machine-learning-the-hard-way-ibm-watsons-fatal-misdiagnosis.md",
+      "title": "Machine learning the hard way: IBM Watson's fatal misdiagnosis",
+      "excerpt": "One of Watson's early set pieces was taking a complex set of symptoms and finding the most probable diagnosis out of an encyclopaedic knowledge of rare diseases. A different challenge marked its demise.",
       "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/303974/ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.html",
-      "originalUrl": "https://www.cio.com/article/303974/ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.html",
+      "webUrl": "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/",
+      "originalUrl": "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cio.com/wp-content/uploads/2022/01/healthcare_stethoscope_heartbeat_pulse_ekg_graph_frequency_fever_line_-_source_image_cc0_via_pixabay-100748675-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
+          "url": "https://regmedia.co.uk/2019/09/23/shutterstock_doc.jpg",
+          "width": 648,
+          "height": 432,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/303974/ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/303974/ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.html/amp",
-      "publishedDateTime": "2022-01-27T02:00:00-08:00",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/",
+      "publishedDateTime": "2022-01-31T02:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
+        "name": "theregister",
+        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {

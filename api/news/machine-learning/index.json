@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-31-machine-learning-the-hard-way-ibm-watsons-fatal-misdiagnosis.md",
+      "title": "Machine learning the hard way: IBM Watson's fatal misdiagnosis",
+      "excerpt": "One of Watson's early set pieces was taking a complex set of symptoms and finding the most probable diagnosis out of an encyclopaedic knowledge of rare diseases. A different challenge marked its demise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/",
+      "originalUrl": "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2019/09/23/shutterstock_doc.jpg",
+          "width": 648,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/",
+      "publishedDateTime": "2022-01-31T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-30-drive-smarter-decision-making-with-explainable-machine-learning.md",
       "title": "Drive smarter decision-making with explainable machine learning",
       "excerpt": "Executives are missing out on a crucial pathway to smarter and more efficient decision-making with explainable machine learning.",
@@ -1406,49 +1450,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-multimodal-transistor-successfully-demonstrated-in-artificial-neural-networks.md",
-      "title": "Multimodal Transistor Successfully Demonstrated in Artificial Neural Networks",
-      "excerpt": "Researchers at the University of Surrey have successfully demonstrated proof-of-concept of using their multimodal transistor (MMT) in artificial neural networks, which mimic the human brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/multimodal-transistor-successfully-demonstrated-in-artificial-neural-networks-357662",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/multimodal-transistor-successfully-demonstrated-in-artificial-neural-networks-357662",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/357662/multimodal-transistor-successfully-demonstrated-in-artificial-neural-networks-357662-640x360.jpg?cb=20220119",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
