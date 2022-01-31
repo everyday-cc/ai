@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/01/186166-estonian-core-bankin
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/186166-estonian-core-banking-fintech-tuum-acquires-e15m-via-series-a-round/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 BI Technologies Shaping the Future of Fintech"
-    excerpt: "Business intelligence (BI) technologies are the data refineries of the modern age, shaping the development of fintechs and determining the direction that financial services will take for the long term."
-    publishedDateTime: 2022-01-26T11:46:00Z
-    webUrl: "https://techbullion.com/5-bi-technologies-shaping-the-future-of-fintech/"
-    ampWebUrl: "https://techbullion.com/5-bi-technologies-shaping-the-future-of-fintech/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/5-bi-technologies-shaping-the-future-of-fintech/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/01/Depositphotos_196650486_XL-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Core banking startup Tuum raises €15 million"
     excerpt: "Estonian core banking supplier Tuum has landed €15 million in funding as it prepares for expansion outside the EU."
     publishedDateTime: 2022-01-27T01:12:00Z

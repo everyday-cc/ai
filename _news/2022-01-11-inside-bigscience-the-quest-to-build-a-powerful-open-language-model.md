@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - Google AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"

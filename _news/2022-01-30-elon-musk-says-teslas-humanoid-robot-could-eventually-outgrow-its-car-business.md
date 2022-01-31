@@ -88,6 +88,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Tesla ramps up plans to create Optimus humanoid robot"
+    excerpt: "The development of Tesla's autonomous vehicles has dominated the company's focus in recent times, but this year focus will be centred on developing a humanoid robot, according to Tesla CEO Elon Musk."
+    publishedDateTime: 2022-01-31T04:51:00Z
+    webUrl: "https://www.goodgearguide.com.au/article/694815/tesla-ramps-up-plans-create-optimus-humanoid-robot/"
+    type: article
+    provider:
+      name: Good Gear Guide
+      domain: goodgearguide.com.au
+    quality: 56
+    images:
+      - url: "https://www.idgcdn.com.au/article/images/600x315/dimg/tesla_bot.png"
+        width: 586
+        height: 315
+        isCached: true
   - title: "Tesla Cybertruck, Roadster, Semi delayed, focus shifts to self-driving and Optimus robot"
     excerpt: "Ford, General Motors and Rivian all have electric pickup trucks in production, but buyers looking forward to the Tesla Cybertruck will have to keep waiting. Tesla CEO Elon Musk during an earnings call late on Wednesday said the company won't launch any new vehicles in 2022 as it focuses on ramping up production of existing models and developing new technologies."
     publishedDateTime: 2022-01-27T12:00:00Z

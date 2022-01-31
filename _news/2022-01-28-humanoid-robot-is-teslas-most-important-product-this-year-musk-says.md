@@ -74,6 +74,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Tesla ramps up plans to create Optimus humanoid robot"
+    excerpt: "The development of Tesla's autonomous vehicles has dominated the company's focus in recent times, but this year focus will be centred on developing a humanoid robot, according to Tesla CEO Elon Musk."
+    publishedDateTime: 2022-01-31T04:51:00Z
+    webUrl: "https://www.goodgearguide.com.au/article/694815/tesla-ramps-up-plans-create-optimus-humanoid-robot/"
+    type: article
+    provider:
+      name: Good Gear Guide
+      domain: goodgearguide.com.au
+    quality: 56
+    images:
+      - url: "https://www.idgcdn.com.au/article/images/600x315/dimg/tesla_bot.png"
+        width: 586
+        height: 315
+        isCached: true
   - title: "Elon Musk says Tesla’s humanoid robot could eventually outgrow its car business"
     excerpt: "During Tesla’s earnings call, Musk said the company’s future humanoid robot — internally named “Optimus” — is the “most important product development we’re doing this year.” Musk first unveiled the robot during Tesla’s AI Day event in August."
     publishedDateTime: 2022-01-30T10:30:00Z

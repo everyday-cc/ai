@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
-excerpt: "The company formerly known as Facebook, Meta Platforms (NASDAQ: FB), just unveiled details for its new AI Research SuperCluster (RSC). It's a massive supercomputer housed in a data center, and once it's fully constructed in mid-2022,"
-publishedDateTime: 2022-01-29T12:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
-webUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research"
-ampWebUrl: "https://www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research?amp"
+excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
+publishedDateTime: 2022-01-29T13:20:00Z
+originalUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
+webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
+    width: 5408
+    height: 3605
+    isCached: true
 
 related:
   - title: "Meta Platforms (FB) to Launch World's Fastest AI Computer"
@@ -66,6 +74,6 @@ related:
         height: 558
         isCached: true
 
-secured: "3jRkL1vxkkpi+hpP6Knm4BAW1R7IsUymAxEMxbaS544EsmC0Bn2tTTlnCH0a55E+QICMT1Wpf4/vOCl+wgxrRFjDuGLKoTL2YyyDcvLCKZb+NwfjfbWGp9/1V7DewRk2SQiAVRGgEA7tamLSTgbyIKZupfm4uAlogo8Fsp5gPhBw35wyQ0TJ4WLMT8GgCgmo1hxZK2yiGL2fILCYbb9NbnkzycBJOu61vSR9j7kaGDNeE94Xyl6Mwyb2YgsDT7t46Qs9NkqzezvGSG07mxahoyb6Jc8CjcA2JL17t+J+/NPt4V7nZoxnTJalC/Y6RmEXW+fKmljHEkVQAj2vtbupKpc/reWPaw8HibwdZqBeq58=;RqWZp2/NRj2T9KU9T0P5NQ=="
+secured: "lhhHo+tAdWaHqYD2WFSfzERCKmX87k+lx+a5RBIK20l5FezuJe/gRaPfs55VkKSQ0YwpGAQOiLjmZ6n0TQzNjbe9iK0b2tvgNxMUdoLAi1epBNvWXafzAJnVfyOApIkpuOphhKmA8yirOuLxq2ruQQ2mOyul1XXjc2at0LstqxzD9Y2gDfs76tlmTDsNZBOKbMysYFvHmCfRIUVLL/5nXWJZD/fJ0lCPQaLgu3bKO8G71zwueHhSD02MGMhGMFA6yjRb3v96ov3Bc7FzRbi47zRgYjoOUw2TCE9SI9ymPE4ORENYVOFmlGAoHAGSFRxhpYeBYgAdJPN+TEaTQluDKFn+O1Wxd2/XQ5w/SqCKJr0=;LW9BScHGEiU0M0SU//j3IQ=="
 ---
 

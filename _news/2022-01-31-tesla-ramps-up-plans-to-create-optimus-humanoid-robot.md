@@ -1,24 +1,18 @@
 ---
 category: news
-title: "Elon Musk: Tesla is prioritizing product development of Optimus humanoid robot in 2022"
-excerpt: "Elon Musk announced that Tesla is going to be shifting its product development to make Tesla Bot, a humanoid robot also known as Optimus, a priority in 2022. This is quite a surprising change of strategy."
-publishedDateTime: 2022-01-27T12:55:00Z
-originalUrl: "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/"
-webUrl: "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/"
-ampWebUrl: "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/"
-cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/"
+title: "Tesla ramps up plans to create Optimus humanoid robot"
+excerpt: "The development of Tesla's autonomous vehicles has dominated the company's focus in recent times, but this year focus will be centred on developing a humanoid robot, according to Tesla CEO Elon Musk."
+publishedDateTime: 2022-01-31T04:51:00Z
+originalUrl: "https://www.goodgearguide.com.au/article/694815/tesla-ramps-up-plans-create-optimus-humanoid-robot/"
+webUrl: "https://www.goodgearguide.com.au/article/694815/tesla-ramps-up-plans-create-optimus-humanoid-robot/"
 type: article
-quality: 98
-heat: 168
-published: true
+quality: 56
+heat: -1
+published: false
 
 provider:
-  name: Electrek
-  domain: electrek.co
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg"
-      width: 50
-      height: 50
+  name: Good Gear Guide
+  domain: goodgearguide.com.au
 
 topics:
   - AI in Robotics
@@ -26,12 +20,28 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    width: 1200
-    height: 628
+  - url: "https://www.idgcdn.com.au/article/images/600x315/dimg/tesla_bot.png"
+    width: 586
+    height: 315
     isCached: true
 
 related:
+  - title: "Elon Musk: Tesla is prioritizing product development of Optimus humanoid robot in 2022"
+    excerpt: "Elon Musk announced that Tesla is going to be shifting its product development to make Tesla Bot, a humanoid robot also known as Optimus, a priority in 2022. This is quite a surprising change of strategy."
+    publishedDateTime: 2022-01-27T12:55:00Z
+    webUrl: "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/"
+    ampWebUrl: "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 98
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Humanoid robot is Tesla's 'most important product' this year, Musk says"
     excerpt: "Tesla CEO Elon Musk has his eyes set on more than just building electric cars. In the company's fourth-quarter earnings call on Wednesday, Musk said Tesla's \"most important product\" it would be developing this year did not have wheels,"
     publishedDateTime: 2022-01-27T17:50:00Z
@@ -78,20 +88,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Tesla ramps up plans to create Optimus humanoid robot"
-    excerpt: "The development of Tesla's autonomous vehicles has dominated the company's focus in recent times, but this year focus will be centred on developing a humanoid robot, according to Tesla CEO Elon Musk."
-    publishedDateTime: 2022-01-31T04:51:00Z
-    webUrl: "https://www.goodgearguide.com.au/article/694815/tesla-ramps-up-plans-create-optimus-humanoid-robot/"
-    type: article
-    provider:
-      name: Good Gear Guide
-      domain: goodgearguide.com.au
-    quality: 56
-    images:
-      - url: "https://www.idgcdn.com.au/article/images/600x315/dimg/tesla_bot.png"
-        width: 586
-        height: 315
-        isCached: true
   - title: "Elon Musk says Tesla’s humanoid robot could eventually outgrow its car business"
     excerpt: "During Tesla’s earnings call, Musk said the company’s future humanoid robot — internally named “Optimus” — is the “most important product development we’re doing this year.” Musk first unveiled the robot during Tesla’s AI Day event in August."
     publishedDateTime: 2022-01-30T10:30:00Z
@@ -137,6 +133,6 @@ related:
         height: 506
         isCached: true
 
-secured: "+89WRcAkyi3sXcGfpV2VfiNIy0Z3hxk4iwp9Wsdm5Lz718WmCFBaRB98+nzUpmU1uZQLOJ0QHmnuJ3BGJqFqgHdqq6qkW3Tjnf47lU2NKTdO5k4ar/O8fIQtHqOWZP26qr2vytdmZoy9ZKKQIPSbBPptCzUUdbqlZRIvCmeCxoT5kKnQQXNBCSFO7iGFMv9Ka/LMnAc4gbnIQ+aqne2iBsEBM/XeB9hYm/J0adL6J0FIpiqekIuMEbo01Dlcn5WNWonSgyN6gSksB2Cdolbdy27GqolNdTOyL1+QbwNRhqzs/c0hzkpxjVk4PDfIVHCIF2d4NsbglAFhF6pVpUzVj4YmC/AE0ww+AmMrNf2JBbU=;w9eACtgwGWS1hSh+yAyWjw=="
+secured: "Fc5Sw3/0CAnqCVSe//rBBYr0NtOAjo5UQjcSaqs2iUTVFMVkcucOj0AhuPbjlZJzxq+8QnHKdnuFKrZ4wPUKpfq3touV4LdX70CbBh29+OkxzUEsGnm3d4ATiJ8nX8dWN8HVyr7NdajTubcK8xK/xfqKp1Ux+IrfYGewvOWP53wQMt1nY/Fc+CafhhMhoFsdQfZLpqSTQ7CSu9EZyGEym2yEkSHfTgYMX1OWUbwe/K0jnDrPZ9C9Af1wjGGM311SWNWyyRSW0n3mztsg5vKMiZmlbhbG/ckxUNDhcBmIko0z+PdqA0sK/COqP8zxHmskNJKvd1qMaHQY/Tvs8KMMpSlRWTaVBQu5sLc9GuTJRv8=;xHQMvd6icCsLq9J5YHi4tQ=="
 ---
 

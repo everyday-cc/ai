@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/01/26/slim-ai-lands-31m-funding-roun
 webUrl: "https://siliconangle.com/2022/01/26/slim-ai-lands-31m-funding-round-automate-security-best-practices-container-app-development/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1250
     height: 693
     isCached: true
-
-related:
-  - title: "Slim.AI lands $31M to make container security ‘easy’ for developers"
-    excerpt: "Slim.AI offers developers a platform for container security and optimization, built on the DockerSlim open source project."
-    publishedDateTime: 2022-01-26T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/26/slim-ai-lands-31m-to-make-container-security-easy-for-developers/"
-    ampWebUrl: "https://venturebeat.com/2022/01/26/slim-ai-lands-31m-to-make-container-security-easy-for-developers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/slim-ai-lands-31m-to-make-container-security-easy-for-developers/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/slim-ai.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "AOutggzPPmWwO9LH73v/YnBMs65MqJCGJKype4lpCeG92DQCgA9+aFfE0MS/GD7TMMsMnmEP0eU4UnK1OFpwX0MJKsyQFQEqwv2r5TB+Cz1NYgsujJZbFvop9WahbdBnZDcilfem9DEaIfp3gsrXl8poBHG6iAz1u4PWu0CMINLgz9UAnoZtXAmj2H5kcrj/KdQbtz4UFwD6RMvtzbEyoxj7m0UKWtveYAzUGyUTEZMYGkYqg50KmXSMOmAlatKwXaLw9L81+5amogx+Z3EkziKwGZ303UFOEx7vHZCgwQyJ5sawrxswbcRzbVenalEEN851XZdHGBCKKGv5yFYOlrL4VZ0KvMtWws1mH8VfUl6lMjPIh4r9A+stmbjVpPuQyuQie80hawWI3Fr2CJw1LUTA8VGRiZLbJ4Hki2ENRRlOSN7amQNbXO1LfS7KItoi6oVQo0Tpr2QbtU4y7R+5oIkDo2b6NPN/fJfNo9ul7pmkijwIdJV83QhmX5NjKWLgYyrmf2SXJQN6WWDMJEf0/Q==;auPyBTaIUi44tfAasvgRJw=="
 ---

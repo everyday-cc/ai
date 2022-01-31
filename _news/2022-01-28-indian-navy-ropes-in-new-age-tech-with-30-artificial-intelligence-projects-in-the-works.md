@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/nation/2022/jan/28/indian-navy-rope
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/jan/28/indian-navy-ropes-in-new-age-tech-with30-artificial-intelligence-projects-in-the-works-2412338.amp"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 390
     isCached: true
+
+related:
+  - title: "Study: Indian AI startup funding in 2021"
+    excerpt: "The numbers reflect the demand, with start-up funding increasing to $1,108 million in 2021 compared to $836.3 million in 2020."
+    publishedDateTime: 2022-01-31T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/study-indian-ai-startup-funding-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Startup-Funding-2021-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
 
 secured: "8Du0Olpw3W/vihXUeBXcfUWEbbXnaNSRsFWDKiovfZucEqndzfepJGYI4r8PjYL+tPWxMrEVTW2ayCx33INBZc/GSzDDVyy1I9p/gQgZH1eNb2UmdmC1uPgnYbIkH/urDJV3TTHOMPR5370F9TDbXOzHQZKXxTGJr39pc62piNQ9Ms67Tmm1laV/VCyZsymhgTjnRAVv1BhNsv8gg919pIXNaXWb+ZwxdFsE7/8JvQAzTpQr0wCAo8XPkmqQ3Aj28Ye4dGS9MGmLgY/STN/fNUNdaZkEIbVi+kG+VJ4MQTNKx1EMnPXesd+AmLH9aSuLFLzwUUElJ9G+zY96fkwVMX9WaBl7UVLQGnD7Cj+1oyo=;LJ5wbuUN039/ivUlWKEdpA=="
 ---
