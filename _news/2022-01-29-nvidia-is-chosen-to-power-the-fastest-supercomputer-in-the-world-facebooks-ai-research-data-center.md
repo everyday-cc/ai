@@ -90,15 +90,6 @@ related:
         width: 930
         height: 558
         isCached: true
-  - title: "Meta's new AI supercomputer: 16,000 x GPUs, insane 175PB bulk storage"
-    excerpt: "Meta's new AI Research SuperCluster (RSC) is a metaverse and AI beast -- 16,000 GPUs, 16TB/sec training data, 175PB bulk storage."
-    publishedDateTime: 2022-01-27T01:28:00Z
-    webUrl: "https://www.tweaktown.com/news/84227/metas-new-ai-supercomputer-16-000-gpus-insane-175pb-bulk-storage/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
 secured: "TOn/ntkJXuvuOGL8o2ER+7nxzu1y8a4HUdAknGW4sdI9PPmhBOODB7SY6SqqpIb38cIRBSPWbK8QJamxaUW6liZDgWG6U8Wn1emAjM8GJYg1WSHFg7khp+WGkvgK3HUmcsBF5OO7CijEG8Lm8VK6zCAC8LfS0fWnK9lh+MxFtm/QckJcco7znRmSdZShwJ23QI8fvFRLLJC87W6DtfAsghAq9Zl8fL83fQmHLKYSMnwQqiwPyzUcU57bb19PxHuMtK0pviBlpeyrcN+QbsnaWIw5mqhn1La57vEIZdo5UNq6qipgLXsI9lexd+k5zN3LKnWcwwszKrVnZ6zXfIyOu5bdfZ5ivdCL448/FM5TlNcMVd7PDXY6PE/+GkfPl17s9Tt0pD6jLcRFpTzVzZkTwVE/1IjaqDoR3b24Mzexc1DgadpXZCZTFk01fWKytvCaGvKlbYWes0e+Y2dQKzAPBybvAtsKnGwfA6WqaviFslBaiWXcAt7b5jf4xd/Iy2X/NB4d80QDWqW3RHT3mh+RNg==;Hbz98h2gI//DeBfen7z3ag=="
 ---

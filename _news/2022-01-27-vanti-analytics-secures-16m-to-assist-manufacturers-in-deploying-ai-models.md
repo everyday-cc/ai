@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-as
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://s27389.pcdn.co/wp-content/uploads/2022/01/ai-storage-a-new-requirement-for-the-shift-in-computing-and-analytics.jpeg.optimal.jpeg"
         width: 1080
         height: 608
+        isCached: true
+  - title: "Sam’s Club starts national deployment of automated inventory analytics robots"
+    excerpt: "Implementation to leverage scanning accessory which can attach to the almost 600 autonomous floor scrubbers already deployed within Sam’s Club stores nationwide.{/exp:eehive_hacksaw"
+    publishedDateTime: 2022-01-31T17:37:00Z
+    webUrl: "https://www.scmr.com/article/sams_club_starts_national_deployment_of_automated_inventory_analytics_robot"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 36
+    images:
+      - url: "https://www.mmh.com/images/2021_article/Inventory_Scrubbers_4.jpg"
+        width: 480
+        height: 265
         isCached: true
   - title: "Best Data Analytics Certifications 2022"
     excerpt: "Data Analysts are in high demand. Which certification is best for beginning or advancing your career? Review top Data Analytics Certifications now."

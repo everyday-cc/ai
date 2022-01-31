@@ -7,7 +7,7 @@ originalUrl: "https://www.officer.com/command-hq/technology/security-surveillanc
 webUrl: "https://www.officer.com/command-hq/technology/security-surveillance/press-release/21254650/ambientai-ambientai-emerges-from-stealth-introduces-computer-vision-intelligence-platform-for-physical-security-industry"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Business intelligence startup Forwrd emerges from stealth with $3.5M"
+    excerpt: "Israeli business intelligence startup Forwrd has come out of stealth with $3.5 million seed funding from Angular Ventures."
+    publishedDateTime: 2022-01-31T18:00:00Z
+    webUrl: "https://venturebeat.com/2022/01/31/business-intelligence-startup-forwrd-emerges-from-stealth-with-3-5m/"
+    ampWebUrl: "https://venturebeat.com/2022/01/31/business-intelligence-startup-forwrd-emerges-from-stealth-with-3-5m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/31/business-intelligence-startup-forwrd-emerges-from-stealth-with-3-5m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/03/analysis.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "WAyhjuhq3hlNYraF3FMeeIO+43YTc2WyXmJuxn8mAN50hLfdRT4gIMqtV2UUPflcvQCGcpalSyze/GZ34OuNaWJIRHd3BpUUFWkA6roU5m3sSNLyLM9dxAMrgDvIvcfL+V6Z2dbu73Oc1WUnG7ebXgO79Iw+NrGbFIXjesKfc3+OK1wiuJGnY+y+EJncLWsgca6Yf3wBbo2f8IR2mN2YcUK2J7T4pTh0FbYg1JQm7cIIfWSDTSSjIhIk2a5tUMg+O0RwGMls7pecOKKow1rYcms1RzZ7VS3doxEj92cMLycEkb6QtNlgzjOEthGC+SaS0c2s2DWLRwOGW+We1PjpwDvg6tzI3A5QpXn9MtVm2IQ26prdYdevAKxYxi5f3bpkAuXVg6ONp9DaJLFT+mEg1sf9gf6xHKijy1dwiBOXPEVnaMEUgKx8yfc+jCMnjtkCT6kLwjEeSRMmcf5XyGSpOONhwYcMde/cfI/ejyWxlGEIzqCtOnwrmQcghfwVaQ+jq2px3SFna2yPV5FgIx+Svg==;9DXBV+x+zV2pWvf/Tt8Dvg=="
 ---

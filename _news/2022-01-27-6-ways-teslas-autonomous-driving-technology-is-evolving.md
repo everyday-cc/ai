@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla Says 'Full Self-Driving' Software Remains a Priority as Profits Boom"
-    excerpt: "The company reported over $5.5 billion in profits over the last year as its software is being investigated by federal regulators for alleged safety violations."
-    publishedDateTime: 2022-01-27T01:45:00Z
-    webUrl: "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418"
-    ampWebUrl: "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 102
-    images:
-      - url: "https://d.newsweek.com/en/full/1975846/tesla-electric-vehicles-elon-musk-record-profits.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Musk's bets on Tesla: human-like robots and self-driving cars"
     excerpt: "Tesla's most important products this year and next will not be cars, Chief Executive Elon Musk said on Wednesday, but software that drives them autonomously and a humanoid robot."
     publishedDateTime: 2022-01-27T19:49:00Z

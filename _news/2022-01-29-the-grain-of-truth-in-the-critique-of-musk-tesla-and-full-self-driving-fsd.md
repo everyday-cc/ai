@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/"
 type: article
 quality: 116
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Says 'Full Self-Driving' Software Remains a Priority as Profits Boom"
-    excerpt: "The company reported over $5.5 billion in profits over the last year as its software is being investigated by federal regulators for alleged safety violations."
-    publishedDateTime: 2022-01-27T01:45:00Z
-    webUrl: "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418"
-    ampWebUrl: "https://www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/tesla-says-full-self-driving-software-remains-priority-profits-boom-1673418?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 102
-    images:
-      - url: "https://d.newsweek.com/en/full/1975846/tesla-electric-vehicles-elon-musk-record-profits.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "6 Ways Tesla's Autonomous Driving Technology Is Evolving"
     excerpt: "They are the backbone of deep learning. I know we've talked about this before, but I have this slide, this is from IBM. Deep learning is the narrowest. When you look at artificial intelligence ..."
     publishedDateTime: 2022-01-27T11:25:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/brand-post/access-financial-services-at-you
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/access-financial-services-at-your-fingertips-with-digital-banking/amp-11643611950859.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "8 Tech Innovations to Step Up Your FinTech Branding"
+    excerpt: "FinTech is an exciting industry. Single-handedly, it has disrupted banking, mobile payments, blockchain, crowdfunding, and many other giant sectors of finance. As the snazzy new kid, it has gained a lot of fan following over the years and introduced innovations that have made paying goods for services trouble-free and smarter."
+    publishedDateTime: 2022-01-31T17:03:00Z
+    webUrl: "https://techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/"
+    ampWebUrl: "https://techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/01/8-tech-innovations-to-step-up-your-fintech-branding.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Five key tech priorities for financial services leaders in 2022"
     excerpt: "Technology in modern financial services can be a complex subject. This is what business leaders should focus on for success"
     publishedDateTime: 2022-01-31T08:54:00Z

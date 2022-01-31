@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Global AI Leader Laiye Partners with Microsoft to accelerate data sovereignty for UK customers"
-    excerpt: "Laiye extends $50M European push by uniting with leaders in cloud infrastructure January 27 2021, LONDON - Laiye, a leading intelligent automation provider, and global software leader Microsoft,"
-    publishedDateTime: 2022-01-27T08:00:00Z
-    webUrl: "https://pressreleases.responsesource.com/news/102348/global-ai-leader-laiye-partners-with-microsoft-to-accelerate-data/"
+    excerpt: "Laiye extends $50M European push by uniting with leaders in cloud infrastructure7 2021, LONDON - Laiye, a leading intelligent automation provider, and global software leader Microsoft, today announced a strategic partnership designed to provide UK and EU customers with advanced intelligent automation capabilities ringfenced to comply with data regulations such as the General Data Protection Regulation (GDPR)."
+    publishedDateTime: 2022-01-27T09:33:00Z
+    webUrl: "https://pressreleases.responsesource.com/newsroom/PositiveMarketing/release/102348/global-ai-leader-laiye-partners-with-microsoft-to-accelerate-data/"
     type: article
     provider:
       name: responsesource.com

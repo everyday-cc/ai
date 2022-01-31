@@ -139,6 +139,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "IRS to Require Facial Recognition to Access Online Functions"
+    excerpt: "Roughly 70 million Americans have already scanned their faces to ID.me to file for unemployment benefits, child tax credits, and other services."
+    publishedDateTime: 2022-01-27T16:20:00Z
+    webUrl: "https://www.nationalreview.com/news/irs-to-require-facial-recognition-to-access-online-functions/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 39
+    images:
+      - url: "https://www.nationalreview.com/wp-content/uploads/2021/10/china-high-tech-5.jpg?fit=2057%2C1200"
+        width: 2057
+        height: 1200
+        isCached: true
   - title: "Facebook will stop using facial recognition data, Meta reports"
     excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
     publishedDateTime: 2022-01-29T14:07:00Z
@@ -167,6 +181,20 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "IRS website to leverage facial recognition tech for identity protection"
+    excerpt: "Agency to require those wanting to access their accounts to submit selfies and photos of their identification documents"
+    publishedDateTime: 2022-01-31T18:46:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21255085/irs-website-to-leverage-facial-recognition-tech-for-identity-protection"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/bigstock_Facial_Recognition_Security_Sy_295494367__1_.61f82d7468f43.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The IRS website will soon require facial recognition to log in to your account"
     excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are. The verification process ..."
     publishedDateTime: 2022-01-28T03:12:00Z
@@ -182,6 +210,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wAKA7nxJMkZKF04UU0wzg07e64Xlf0FawHMi4tsYMFlhlxh8aXYeD7A6eJIZ8F12tyYpa18UycloSGVXEAOTFgnplDRKAj/Td0tKUgYNomHwcCkZp8cz0FEEicL6uV0MFOCarqovhhB6HLSjMYesPiwSgruCm9F6NwjH0OVJLeqS7vykvsiHGfVAfuT4Y0SmBxvnilvDW/bj89vcV/kC5Cw64UiF/DQjgM0omMHpO5GcJUp50wtrLJnPRPjQ9ANsBxV9tfIVY4beDDKM9qXK5xSFN3l9Hgjw+fmWdhgLp3dLNvlY0mCpVD/gEpg5jZP7hLwoi+/gXssFzItErJ6Qas4GNkmyr5cr9roKYrFH5mw=;BGFTN0I10K1TW+Ucf6G6RQ=="
+secured: "43XBNyRz5ItWfRQFR7ayLEmbIjeBXpBYUO1w8fSJYXMNVJToQpN07oGaHi6OW0kf75cvuNZFIfSGIrBq9QCSW/3MYtGwAFVlFaFnDyr+hd0mHOO/IGvut3ykGzh4CuDMCoUluq94uHh8n3dljMzAbUWfnLPFLi35C+Ol92m3DU89Y5BjTo21Rbor7L7mCnT6/bqBPm6S8sPkZs0ShwhfmgCyHahCG2xMeBMA1kfGpNf8ghd5bHXhBbEMKJA+Ii1Hnku+JV0PAagDkujb8IikrzTbovl8NKQbe0EEZRW/6d4wXhp2NKKx5MbxmgVJvD8x+eyMa8Qhrl+Gleb6V5C9mCWSl0SWvVh5vZi6pEgCu/1XL8PnRX4za7DCUV2q1+MRe9Uoi8PHW7BuMGtLliUx0gsyUshP/6zdgWnPURRDYjP3nRwl3KzaNngWvOIy0pq5D4OAGX7cr3jIOSUjwOckHiB4Yad/KLOH6L9ZKh51+iR5wAo6t/nPzmTxruCNNa3wWqQ3VqQZwwoi4AcPEp9Hsg==;N3TsxkDrq6/2/NeiVaG1hQ=="
 ---
 

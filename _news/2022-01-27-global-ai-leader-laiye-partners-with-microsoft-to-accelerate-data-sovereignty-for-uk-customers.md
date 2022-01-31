@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Global AI Leader Laiye Partners with Microsoft to accelerate data sovereignty for UK customers"
-excerpt: "Laiye extends $50M European push by uniting with leaders in cloud infrastructure January 27 2021, LONDON - Laiye, a leading intelligent automation provider, and global software leader Microsoft,"
-publishedDateTime: 2022-01-27T08:00:00Z
-originalUrl: "https://pressreleases.responsesource.com/news/102348/global-ai-leader-laiye-partners-with-microsoft-to-accelerate-data/"
-webUrl: "https://pressreleases.responsesource.com/news/102348/global-ai-leader-laiye-partners-with-microsoft-to-accelerate-data/"
+excerpt: "Laiye extends $50M European push by uniting with leaders in cloud infrastructure7 2021, LONDON - Laiye, a leading intelligent automation provider, and global software leader Microsoft, today announced a strategic partnership designed to provide UK and EU customers with advanced intelligent automation capabilities ringfenced to comply with data regulations such as the General Data Protection Regulation (GDPR)."
+publishedDateTime: 2022-01-27T09:33:00Z
+originalUrl: "https://pressreleases.responsesource.com/newsroom/PositiveMarketing/release/102348/global-ai-leader-laiye-partners-with-microsoft-to-accelerate-data/"
+webUrl: "https://pressreleases.responsesource.com/newsroom/PositiveMarketing/release/102348/global-ai-leader-laiye-partners-with-microsoft-to-accelerate-data/"
 type: article
 quality: 42
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "8gkfhZlvvd2J2E/GAJ640qvufH35G5IFbNcFPGUDDU1SBV4t5kI+AYAVCFM9t/tpz/uYrQCz6a+p5QLtgZBs8baEZFoRu5gDMEnxujpDR8w/sDLlF6YhGnrljRCBZddu3SEOUl2LewFsSLydVuVhHUhw1aWMHxSG8IlUertj9k0X4UvVhBbPF0DAMWL4SPc5GxAqnKZkL6yojGcgxH3tjWe8BP0Vz11JNUeW3Coi4g36rSVjdBmigLn9KtKfhErJRI1MG+ROf1k760eubpkMzCquuKMyllgl2l5WV2/jnJbV7arVYI2S5HE9bmfQogA2QNRd/AILmYORpmCEdqpjiYKEl2k+jop9TieJOz6qBPk=;b8IUO/Yqn+f1ItfOg+Uo8Q=="
+secured: "uAdMIrSVJqMBI/iVd/ept47/UypB3lx3kSAvnLilHeG1LnJsF+rU6UugHou6zTl4wGT7ef+jFdRvxRQwk1wDuliEHQAt/QoGWIrqtvGqxadRPnMOBQCsLa3gC0e+0M0mqpYRIVSXIUCKR1kgWqNnRETJ+pDazxK8YPTJkR1PrmiZtymGyq2mx2l/tW5JysX3PUkpoxh22q/DCMnzf4qhYEqVepeedAs7zH/GPcU2Xw8qsqhjCKj3ORe7rydbfW3A2bob9jD+wAcxZWdM9IqbdSMLVo3W8DDf3NNDp49BzU2Wdsu7DM6/XPYc0tFdYp4Epepk697H6m2oLP4ENJj9PO0SiqjEDmzI3X8ghXJWyN0=;uVwff+8VLleeej1/J6D6Lw=="
 ---
 

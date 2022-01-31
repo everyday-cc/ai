@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/meta-builds-ai-research-superc
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1"
 type: article
 quality: 61
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -86,15 +86,6 @@ related:
         width: 930
         height: 558
         isCached: true
-  - title: "Meta's new AI supercomputer: 16,000 x GPUs, insane 175PB bulk storage"
-    excerpt: "Meta's new AI Research SuperCluster (RSC) is a metaverse and AI beast -- 16,000 GPUs, 16TB/sec training data, 175PB bulk storage."
-    publishedDateTime: 2022-01-27T01:28:00Z
-    webUrl: "https://www.tweaktown.com/news/84227/metas-new-ai-supercomputer-16-000-gpus-insane-175pb-bulk-storage/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
 secured: "i/f9bJs5HmamdsQLB7/h80bxPMJ8Y3IxyzKcO2FrNzg4zt2/3tK34sY8wXd5A5wOfA64imEzloehaCFd/uEWmSOp5Ma5CVCp9DLGl/6IL0UBa4oelXJed+lL/E9KLa2vTqarWZtL9aArT5YIDqSGyeWJlLyBnMmbLJptVnQUT73QQsE2yZE1yNMdDCtOKMeiskvbJ3XVuZT3nRfuRYaub6AOFSUL6xgjGFtsPV0uK4OIZaUoSLm1QaiDC+9toBcX15Vq8PmJOs5z6caw8ZOIBMxtMILkjW/EkcaYh2t22JGo4Vsn9SM0wbl35M+N9U9U4Z4vV0cxtt1WJn1pouSoI3MeF5NjouTPzNT0ntXb5aLCdxP+PbA/uhVxZhztLU9Ss5wreBWaUqriCviTj17mAZKTrqqhun7AK1vc3qSx58Y72qmQI5BEX+aiXRUcala80BGrtcz0H8J4z0VPWfqCc3ramMsz5P1kzwFM4mgQeC6AMlXNF8bOuaieJwhpjwShiUMMzSof5c+aCBVmc+LS+w==;Jm69tgQ2xc6drD8RZEwelg=="
 ---

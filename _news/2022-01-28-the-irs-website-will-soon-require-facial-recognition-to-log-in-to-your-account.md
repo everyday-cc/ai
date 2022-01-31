@@ -149,6 +149,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "IRS to Require Facial Recognition to Access Online Functions"
+    excerpt: "Roughly 70 million Americans have already scanned their faces to ID.me to file for unemployment benefits, child tax credits, and other services."
+    publishedDateTime: 2022-01-27T16:20:00Z
+    webUrl: "https://www.nationalreview.com/news/irs-to-require-facial-recognition-to-access-online-functions/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 39
+    images:
+      - url: "https://www.nationalreview.com/wp-content/uploads/2021/10/china-high-tech-5.jpg?fit=2057%2C1200"
+        width: 2057
+        height: 1200
+        isCached: true
   - title: "Facebook will stop using facial recognition data, Meta reports"
     excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
     publishedDateTime: 2022-01-29T14:07:00Z
@@ -176,6 +190,20 @@ related:
       - url: "https://www.northweststar.com.au/images/transform/v1/crop/frm/38U3JBx5nNussShT8aZyYjc/8e0765a2-a6c6-4358-a66d-91416bc426f5.jpg/r0_914_2753_2469_w1200_h678_fmax.jpg"
         width: 1200
         height: 678
+        isCached: true
+  - title: "IRS website to leverage facial recognition tech for identity protection"
+    excerpt: "Agency to require those wanting to access their accounts to submit selfies and photos of their identification documents"
+    publishedDateTime: 2022-01-31T18:46:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21255085/irs-website-to-leverage-facial-recognition-tech-for-identity-protection"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/bigstock_Facial_Recognition_Security_Sy_295494367__1_.61f82d7468f43.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "5MWEVYLXvjrQaPi3J3eFNO1EI4MMKr7+jMCJQNiMJFvERx8dTQM6piC/aiaaRlbu38JW7JUQFe/JstI4KoEEeDXVvXX4s1FZCKTgktfcX86QoKbkYONRwDJNli6C+pqG01zRB2IhP1DPJ2ITgI7Amra+nNdOm0hqGMeTrEBvpwD2U4lJIddGAdmmmhmryJU4oXVYj/q/OBeySI05BrhHHETvOrZS8tp0EzbAoaV5X83m0T8w1o8xHX+D8Kbx56YTNB8te1G7q79N5uSmxm299+1MuCMTOXzblgyh/yqPtRyRLjadIQ0pnRXkTDacJkx2Lx2Et5DiFG8CBOUsZJ8AZNWVGO0SZ9MRJWnfLPJl4LE=;dgeqDV10Xdw7QwcfXrcX6Q=="

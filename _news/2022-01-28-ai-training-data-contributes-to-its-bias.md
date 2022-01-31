@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Bias in Search Engines Contributes to Disinformation"
-    excerpt: "William & Mary's DisinfoLab conducted a World in 2050-commissioned study comparing bias embedded in Google Search to GPT-3. DisinfoLab's directors discuss the implications of their findings on the future of search engines and what it means for the spread of disinformation."
-    publishedDateTime: 2022-01-27T14:37:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/how-ai-bias-in-search-engines-contributes-to-disinformation"
+  - title: "More Training Data Will Help AI Speak Like Us"
+    excerpt: "Artificial Intelligence technology has become more accurate than ever, with machine learning models utilizing training data to acquire vast knowledge and create a seamless experience."
+    publishedDateTime: 2022-01-31T12:35:00Z
+    webUrl: "https://www.ibtimes.com/more-training-data-will-help-ai-speak-us-3387126"
+    ampWebUrl: "https://www.ibtimes.com/more-training-data-will-help-ai-speak-us-3387126?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/more-training-data-will-help-ai-speak-us-3387126?amp=1"
     type: article
     provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 39
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
     images:
-      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/61f298cf30a41d7826e0f3e7_google-gee08d945f_1920.png"
-        width: 1920
-        height: 1089
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/01/31/more-training-data-will-help-ai-speak-us.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "2hAqiBU0/QrGW8PA2zg3gZCyjC+oyNnnDrECyqs3snvhOH1JmqswOIzxjKKjloi+Oil+GsN5kwl9S1+MGC0F2u0Ucdc7il8pfRWj6JUGm9kXr8MpmDptjmUXaJVfrbwIX5QhhAUrVNkvroiKAWM+yrnAaI+W938p735diGnYS00WQBAGdYm/GuXGmgkf5mWgZo/FsWd1BROcXwSk9K/fbZSRIp/6/k277hZEUDD9PWTsY08uHf5q12UVX4cSxZqYL89d43Lv54UtzfH1FjKea1JH+4lEFqYvu6Zue+ddtk/XYL/IdriA4ZUIbB0hgB0jKRUcYb7l1LQJSRZHM34k+bR7apQLcgxFwake/mFXQDU9/d7sIaVrGjIDOVKnOQXiKwdPpsOMjQWDztQNnIZaXoP+VOJ35DXzoTit9CIOoU1cj78BTykAnzFzCrDIbdhnCkfztZEEaZs6FCbtUCKbtXesXPMMzhipSEYyVpWSrkm0Ue0uJsTPuAUrxObkCd6ZKjYW+4Lh5ABIdMFwfzSJdw==;p01IP/8pDgSIx6+xPBf4lg=="

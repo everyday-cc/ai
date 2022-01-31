@@ -41,6 +41,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "8 Tech Innovations to Step Up Your FinTech Branding"
+    excerpt: "FinTech is an exciting industry. Single-handedly, it has disrupted banking, mobile payments, blockchain, crowdfunding, and many other giant sectors of finance. As the snazzy new kid, it has gained a lot of fan following over the years and introduced innovations that have made paying goods for services trouble-free and smarter."
+    publishedDateTime: 2022-01-31T17:03:00Z
+    webUrl: "https://techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/"
+    ampWebUrl: "https://techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/01/8-tech-innovations-to-step-up-your-fintech-branding.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "eKq7bNc5J20Gs7Z8lGKOX7tBxRK0XiEmnFj3WSzK5qZSnZUue6QYmokKPjw+iXPWtiPF3j72CxT7teWpDETvHwTN3lEDKgcEGWA0cfuyLA+Gw+ZO91+gZD6RxwMt9LA9FCq2X13+Fdv7F939SWwBQaJloAHaFGTdxr+ciUyklqRDqlA9qXjfz/Ylgsz2JsRV4Y2CIk1IT9fLidrW+8LyV7YmDjqwCKCQa+dAKMi2VBanCRjZiuLLwd8JY5r7oL9qu4ieTqULwM5GAukMhw1HpUEK+FfUOTLpFabtdjnEE55uEAahINFNc8p8mA+D0lyG/BuaL9l4ZQGRitYww6T30SMWX/QqH74Vvu0C4uHswo4=;MvyLN6iNokoZ8IOhqt3bKQ=="
 ---
