@@ -8,7 +8,7 @@ webUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for
 ampWebUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
 cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.itbusiness.ca/wp-content/uploads/2022/01/GettyImages-13075344431-696x391-1-620x250.jpg"
@@ -88,6 +89,6 @@ related:
         height: 558
         isCached: true
 
-secured: "tGVs1OtiEQaky1ntnNyHi5Z+Eq1lV5/28XKNRNG24HcAQ05+tKPYHWPtobyCvH4xAo3szP6WhJ6PY7BlsfarxTL1rQLVrHjh6+bp6aW7Wf7qxFaIupZBVLx3XGiwCMPvkvmFQQwiHCq7F1B1EyxjHkA1wnSgNj882u+Z8kteBau4AEPplVjICbZi9slcSP5n0ys7tkoliNV3idrcBbIOEI1ALoPZLUsCduLrP3/KqWQ58XvgsWcKlHhrHl7LWly2+bOe4x6CmOs9xWAtcH4/lq5PId750u35n1MrZfLm2OdrERry0DpmP8mwgzw/5kD/KXf3Rg/7OlQPeVgJitwjvNGt8vuP8g/Qsvgo5QrQOCQ=;ZG+mnZba2/XmHqF1QjVe0g=="
+secured: "v1n1GaBOvptA8w0gkd8CsxdAMWkzh87wHemWh2IwpgKmF8G5YhTGpiOKPD2/Kbxo1HTKz93tBdUXsYTzUO1KH0s7j+R+v+CUxGa5BIVqhREwwt3XZf+R5Aa/n0aUiXsh9U5jpU1cxR/vU/WuNArmbOJgbRpLrzfekdQX63Wx39Mm3smQdswoWyNgeev+PRzL37PabnKv0n79hYe6iQAJPXBu8uFR5DZEDlHxmkFbyddc6wCiYcUSCBfyP/kSURHk9yfu1nZevosmRFnNBwNi3qhGmEZ1LtbEC1UdSQ1lmF6mt4OHIKtkn3HZNtnq0vEu2H82tQVc8vDjPvaVq3LFBXwLvlq50hwLzaQn/hi8gqElrzAsEkDPuy7zBs3yAulcjlJP8vOx2CTRb7vTNazlJhtedLz8rTJb4kJUQvKPV4WiEUhET1kmRG9aZj3gOdGiq9A/n36w1fFw8/NxdRmq8p9hg/JdDOpLM+FbvexWX2mSi67+/6ddiwZVlNHqI7WYjR5TDIr7P7A8aXRVpPm6aw==;b7FnB/j/OVNQikbYbhhZkg=="
 ---
 

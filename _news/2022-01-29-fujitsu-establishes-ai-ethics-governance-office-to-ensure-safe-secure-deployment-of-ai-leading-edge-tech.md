@@ -71,6 +71,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Fujitsu establishes AI ethics and governance office"
+    excerpt: "Fujitsu Ltd has announced the decision to establish a new organization to strengthen its governance of AI ethics. The company said building and maintaining trust remains central to all of its business activities,"
+    publishedDateTime: 2022-01-31T21:58:00Z
+    webUrl: "https://japantoday.com/category/tech/fujitsu-establishes-ai-ethics-and-governance-office"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 34
 
 secured: "sRCt/JR7HHaKbqJmRp38d9getGZ1MiX5EQIbNlCXoEVYMhx/mwGTHf/Km3fLofjoKl24tgS1rr46PBWYbdj7Lyfzh/AyFxdY3DydaDB6M6v+gTPo4ZyH3VG46YV68aX6GEVd7czIMSAOVKb5osj8eSJFdMEc9VYu0fboIlkP72QiaDy4xeNvyNq/zbLIBEpeGV4oC8gcfhj5FCJv2o8mXirAUKwZDHSTiFfpi+/+D5tmJY29rJceitEeJSZNQtBoHblDy1kFixOjV3gmdYPv9fuJz4LIyo9pUdN8wSYJZSQPJh8RfOOXly9J2usyCLCpMd6Rvqfwtkj+/TnqPLmeWA88XB4YQySNBPLUoASET9g=;2XixB7pRWsp1xot8feaFKg=="
 ---

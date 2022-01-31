@@ -20,17 +20,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Top innovations in the healthcare department"
-    excerpt: "Healthcare departments are going through the advancement phase and making many innovations. That is the most necessary thing at this age."
-    publishedDateTime: 2022-01-27T06:27:00Z
-    webUrl: "https://www.linkedin.com/pulse/top-innovations-healthcare-department-mexil-software-solutions"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 19
-
 secured: "8J8AM3gc/9GWvG07RpoeF56qFNQSN+aI0iQNfEuzfv6zLZBJSz5p9Qr86jVJxWL8Zo9tzoT7kFVur93srHnd40t+a8Q7dpGt+YAbnA/BiZ9aK1dogHBs3d8pBAFd7uKkXgIa8NxZMMhfa63TTps2obX30wSCiwQaivNR0+nFKH2q4itzMyieVEKbkgkNNnPtBjlUEFcuE1+AsiNimVD0rMN13/OMxGFi+zvdbVb5Uq4zV6lkjn80ZKjQThFR4OVDRS/O3HwtmJgTMxAsc77EOZLGE69AY67M2QiT2tgWliz9iBdynOZfSEH5hgp0Ex6Nwqy1Elq4DQxxs2BdbDODglEuBg3UpefSwTPY2zOrE2M=;weqGfjdnEWFSjDKb7CgReQ=="
 ---
 

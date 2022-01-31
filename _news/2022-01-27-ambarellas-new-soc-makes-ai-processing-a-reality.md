@@ -18,6 +18,7 @@ topics:
   - AI Hardware
   - AI
   - Computer Vision
+  - Machine Learning
 
 images:
   - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/AMBA2.61eafcaccb61b.png?auto=format&fit=fill&fill=blur&w=1200&h=630"

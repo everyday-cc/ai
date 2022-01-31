@@ -135,6 +135,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Forget facial recognition! Apple AirPods could soon identify you based on the shape of your EAR CANAL, patent suggests"
+    excerpt: "The new biometric device would use ultrasonic signals reflected against the walls of a user's ear canal to authenticate a user, the Cupertino tech giant explains in a new patent."
+    publishedDateTime: 2022-01-31T20:52:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 50
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/01/31/16/53594163-0-image-a-14_1643647535757.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "IRS to Require Facial Recognition to Access Online Functions"
     excerpt: "Roughly 70 million Americans have already scanned their faces to ID.me to file for unemployment benefits, child tax credits, and other services."
     publishedDateTime: 2022-01-27T16:20:00Z

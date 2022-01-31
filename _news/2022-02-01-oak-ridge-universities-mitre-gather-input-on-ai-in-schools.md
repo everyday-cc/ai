@@ -8,8 +8,8 @@ webUrl: "https://www.govtech.com/education/higher-ed/oak-ridge-universities-mitr
 ampWebUrl: "https://www.govtech.com/education/higher-ed/oak-ridge-universities-mitre-gather-input-on-ai-in-schools?_amp=true"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/oak-ridge-universities-mitre-gather-input-on-ai-in-schools?_amp=true"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://erepublic.brightspotcdn.com/dims4/default/648c9b2/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe5%2Fdf%2F7562d8cb9c79b70ffba3ca95f729%2Fshutterstock-529299211.jpg"
@@ -25,6 +26,6 @@ images:
     height: 438
     isCached: true
 
-secured: "ap7lIZjC88E6kWFp1VvJW4boIGJS0pLNnkc7UWkNkxFi2B7ibozk+UEFIGdS63XRd2ShfIDjfvfrk7oFDTfY9pKfrGyuRfN3Z78Dwov7nB3M9hcT6Zq3g07UdFRvBIOwZfuG1nff8vdc+U6NN5OO2u/bhAmGJOitKbFa4qBiamWbu1bXfnY0pL8mw95HMjQA7j+BRX8RCujn66KQIGNsyRnjVR7bfEY+NQKU9Qwew7I3AgQDH/IEzbrWMUPbyk53pMpCBEubjZe2TR1hFxlCR8OpCEHzv+e0BpaCfO4/NAGI0exz5xg9uDjPrDz1id9+z0fCK6QZcmhuWX0Oz4LrecH/Lf5Qp9DAZ/9kyyGTQPU=;jaGlFFeNiCxHjn1oAsEvow=="
+secured: "8MJ7AYzhBSkyON/hEeD9ZotqaZWs5EwojgWGznt5+N5GClty64HXPCcE9upnj7xGtyz0zQmDwFsvs7chQ4DnuyNdkjZVEUoxSylIeEd0EnPrlf8LMLGbLB/8WkWF1Gxq4y8Yruhjoki81VetbPVLAzxyaBHgOgi9nB1wHJ5KkbZYevi4iDiRjtFV41WRuH9qmMBGqU52LeG9HIgt+SnBeWrzsQ3rGIV8BFyFS9xrkD0qAOHiGpz6EwUyh8w4nu4IAshX982crMQfTCE+NtKBVdGOvXJNDLlQmLT7/2y1Ix8ndbwE0qTbVD8kzG2J6HYlLjxkj3y9MnMYMNRHe+Cf/ut2mOqwSlh8zx42IwBJJtWPtpwkiny48tHlHCSqHmt+9qfe41QHg0ldZPMryvRHPhfzzp09GOrvLojS1sl6rlP2cPXlN4+13ZtHBIer8z+teydUplmajpFFsPVNV3oegebCc3DB9ocxwX5yt7+uM4YjKloP4qnYa019NvGdmUAQobybfaKsv6ctVpLa9uAURA==;gs19iSaE94Rq6RiJXXPRzg=="
 ---
 

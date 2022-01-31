@@ -46,6 +46,22 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "Meta builds AI Research SuperCluster for future AI and the metaverse"
+    excerpt: "Each GPU communicates over a 200 Gb/s HDR Infiniband network ... Meta built the RSC to train large AI models in natural language processing (NLP), and to research and train models using trillions of examples. It will also aid in building AI that works ..."
+    publishedDateTime: 2022-01-31T20:35:00Z
+    webUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527"
+    ampWebUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 61
+    images:
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/01/GettyImages-13075344431-696x391-1-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
   - title: "Meta says it will soon have the world’s fastest AI supercomputer"
     excerpt: "Meta, formerly known as Facebook, is already using supercomputer to train major models in natural language processing (NLP) ."
     publishedDateTime: 2022-01-27T10:56:00Z
@@ -61,22 +77,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/Meta-says-it-will-soon-have-the-worlds-fastest-AI-supercomputer-01-1-1.jpg"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Meta builds AI Research SuperCluster for future AI and the metaverse"
-    excerpt: "Each GPU communicates over a 200 Gb/s HDR Infiniband network ... Meta built the RSC to train large AI models in natural language processing (NLP), and to research and train models using trillions of examples. It will also aid in building AI that works ..."
-    publishedDateTime: 2022-01-31T20:35:00Z
-    webUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527"
-    ampWebUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 59
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/01/GettyImages-13075344431-696x391-1-620x250.jpg"
-        width: 620
-        height: 250
         isCached: true
   - title: "Meta Is Building The World’s Fastest AI Supercomputer"
     excerpt: "There is a strong belief that moderating posts from billions of users can somewhat be a difficult task but Facebook"

@@ -2,6 +2,154 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-01-07-ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange.md",
+      "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
+      "excerpt": "Providing data from the world's most accurate weather forecaster1, IBM Watson Advertising's Weather Analytics harness the relationship between weather and consumer behavior using artificial intelligence to extract deep insights to help businesses make more ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/01/07/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/01/07/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-alteryx-announces-intent-to-buy-trifacta.md",
+      "title": "Alteryx announces intent to buy Trifacta",
+      "excerpt": "Analytics company Alteryx announced late yesterday its intent to acquire data preparation provider Trifacta for $400 million in cash. The deal will also include $75 million of restricted stock as inducement for Trifacta staff to say on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/alteryx-announces-intent-to-buy-trifacta/",
+      "originalUrl": "https://www.zdnet.com/article/alteryx-announces-intent-to-buy-trifacta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ea61aba202ff04580cd2ef338f3149199c6a2085/2022/01/07/fc47fb37-4b90-423d-a4d5-840cfd90649d/citizen-ds.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alteryx-announces-intent-to-buy-trifacta/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alteryx-announces-intent-to-buy-trifacta/",
+      "publishedDateTime": "2022-01-07T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-words-youve-longed-to-hear-come-and-be-touched-by-a-robot.md",
+      "title": "Words you've longed to hear: 'Come and be touched by a robot'",
+      "excerpt": "But then I read the immortal words of Consumer Technology Association president and CEO Gary Shapiro, in the Las Vegas Review-Journal: \"We will all be taking risks. But without risk there is no innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/words-youve-longed-to-hear-come-and-be-touched-by-a-robot/",
+      "originalUrl": "https://www.zdnet.com/article/words-youve-longed-to-hear-come-and-be-touched-by-a-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b8d8feedfe9075695ddcdfcc5c65fbfa69d73a12/2022/01/05/bae42c57-1981-455c-aceb-3f44d068b608/screen-shot-2022-01-05-at-9-36-27-am.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/words-youve-longed-to-hear-come-and-be-touched-by-a-robot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/words-youve-longed-to-hear-come-and-be-touched-by-a-robot/",
+      "publishedDateTime": "2022-01-07T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-has-your-marketing-org-started-its-ai-journey-yet.md",
       "title": "Has Your Marketing Org Started Its AI Journey Yet?",
       "excerpt": "AI can enable brands to personalize experience and offers in unprecedented ways, but most marketers are sticking to the same playbook they’ve been using for decades.",
@@ -980,153 +1128,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-qualcomm-introduces-new-snapdragon-ride-vision-system-and-new-partnerships-at-ces-2022.md",
-      "title": "Qualcomm Introduces New Snapdragon Ride Vision System And New Partnerships At CES 2022",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead covers Qualcomm's announcements of many new and extending automotive partnerships and a new addition to the Snapdragon Ride Platform, the Snapdragon Ride Vision System.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/01/06/qualcomm-introduces-new-snapdragon-ride-vision-system-and-new-partnerships-at-ces-2022/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/01/06/qualcomm-introduces-new-snapdragon-ride-vision-system-and-new-partnerships-at-ces-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d72cecd1aca42304299df6%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/01/06/qualcomm-introduces-new-snapdragon-ride-vision-system-and-new-partnerships-at-ces-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/01/06/qualcomm-introduces-new-snapdragon-ride-vision-system-and-new-partnerships-at-ces-2022/amp/",
-      "publishedDateTime": "2022-01-06T09:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-ai-chipmaker-groq-chases-financial-risk-firms.md",
-      "title": "AI Chipmaker Groq Chases Financial Risk Firms",
-      "excerpt": "When Tim Sears ran complex portfolio risk analysis on Wall Street in 2004, an eight-hour, overnight run was the best that could be expected, even on",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/01/06/ai-chipmaker-groq-chases-financial-risk-firms/",
-      "originalUrl": "https://www.nextplatform.com/2022/01/06/ai-chipmaker-groq-chases-financial-risk-firms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/ab_vector_skdfl.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/01/06/ai-chipmaker-groq-chases-financial-risk-firms/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/01/06/ai-chipmaker-groq-chases-financial-risk-firms/amp/",
-      "publishedDateTime": "2022-01-06T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-top-5-reasons-artificial-intelligence-is-worth-the-investment-in-2022.md",
-      "title": "Top 5 reasons artificial intelligence is worth the investment in 2022",
-      "excerpt": "The global artificial intelligence (AI) market had a value of USD $62.35 billion in 2020 and is expected to continue to grow, according to Grand View research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/top-5-reasons-artificial-intelligence-worth-investment-2022-lumiata-1e",
-      "originalUrl": "https://www.linkedin.com/pulse/top-5-reasons-artificial-intelligence-worth-investment-2022-lumiata-1e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHfmR0JXrtmxQ/article-cover_image-shrink_600_2000/0/1641486622310?e=1647475200&v=beta&t=KYeMXqTDlbOcl_QS-hAPjt0_9hy4VRzy05XMh-KMCFM",
-          "width": 744,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

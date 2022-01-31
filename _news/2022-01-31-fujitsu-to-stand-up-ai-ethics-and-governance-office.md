@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/fujitsu-to-stand-up-ai-ethi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-to-stand-up-ai-ethics-and-governance-office/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
     provider:
       name: Scoop
       domain: scoop.co.nz
+    quality: 34
+  - title: "Fujitsu establishes AI ethics and governance office"
+    excerpt: "Fujitsu Ltd has announced the decision to establish a new organization to strengthen its governance of AI ethics. The company said building and maintaining trust remains central to all of its business activities,"
+    publishedDateTime: 2022-01-31T21:58:00Z
+    webUrl: "https://japantoday.com/category/tech/fujitsu-establishes-ai-ethics-and-governance-office"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
     quality: 34
 
 secured: "KBAJ8uUVdE+1Z4vJofTUHbekR4gCNcdROemY+hEyd5bNZP314uIVdYenIkfaWFPBsdl1RtAqSHiEUJLV2oJ0fQiG1/9GOr+UlOgYqGAxgkqb2qA3CDQYC9HQVogDu4V5iFkzCvwsWZWuwdmlJYyYjvsiXg4NyE+OULgwjayzCLJP57xU7js+Pg11rm+YETraL+HXjaGofN5PeJIpPpFheuGhZdgr9PHmMefN1Z4/GGMzZiqXkwuUZnfuy2vP+n7PxfEHJxHm46DTh+2zyvaVjJ6aXu+gDdfj7OyfCo7O+vugJVRSWGzy2N1VVEyH7MUwAQiJr4+spwCgYQKFptsH8gcRf/v11KMciTD0SgChMZs6YbTRxTz4M16rEfEXBpmVfmh6OHSSGC5CCVC7TstPEyh4vS99tfwmF9wCRdnygmCWnK+JdLfrkd06Cep3jgmfUa1JEZ6tyIBq4eCMpibRiEX3nU+Zjmf1MDC0fl1mAodFvJ5Z18VW4wdaj9Dh4GRfsGuP5a9x9kYSh2KZYqvcpw==;lMQLxMvpe0kTtCRKvE/lnA=="

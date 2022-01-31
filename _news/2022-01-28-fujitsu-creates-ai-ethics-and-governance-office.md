@@ -71,6 +71,15 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 34
+  - title: "Fujitsu establishes AI ethics and governance office"
+    excerpt: "Fujitsu Ltd has announced the decision to establish a new organization to strengthen its governance of AI ethics. The company said building and maintaining trust remains central to all of its business activities,"
+    publishedDateTime: 2022-01-31T21:58:00Z
+    webUrl: "https://japantoday.com/category/tech/fujitsu-establishes-ai-ethics-and-governance-office"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 34
 
 secured: "+ajL/M/zauaAW9xAfqatZoLizegiGgeT9N11Ff4ZD9aFLzGluL5tQh2pylLpURQMlPh8aktCCjRGyaYdRULIlVhIgAM80bumOJOHR0cfvSX/b0WxvijgtESpAVkCujFQ/ZDjkBntyTmn827l/yoFy9V30y2OAEYmpoJmZQKT99mah3GdK2weghG7TQmSzOq9wlOosBF7Lu1bdkjA7JS2pBUX5NoZ0MWmeLPCePIUWCD6dOuhoCUaURiPJ0Ug1K22lZWj6bRnHb1a0+uKd7P+pm1igMev4ZvSjJPoOlkT/oJ7fwYPQehDki7mmoSreI2Nd8QAS5E37pjVzCc+QdxxG6n5TrWPUkBQYlZwrcsUuJU=;08ZUkMibCQ3SID72lboUHQ=="
 ---

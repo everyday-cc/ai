@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "The ways AI is Impacting the Future Mobility"
-    excerpt: "AI in Mobility is re-inventing the driving experience In many ways, the data is the fuel to drive into the future of mobility leading to smart business decisions worldwide. The mobility sector creates a large amount of data regularly due to the rise in populations and changing consumer behaviors."
-    publishedDateTime: 2022-01-27T06:50:00Z
-    webUrl: "https://www.linkedin.com/pulse/ways-ai-impacting-future-mobility-futureanalytica-com/"
+  - title: "Smart HR: How AI is Transforming Talent Acquisition"
+    excerpt: "However, AI is rapidly advancing — to the point where people's evaluation and placement at companies is being dramatically shaped by AI technology. So, here are a few ways AI is changing the business of talent acquisition: One of the most common ways AI shapes talent acquisition is by sourcing and engaging candidates."
+    publishedDateTime: 2022-01-31T00:06:00Z
+    webUrl: "https://www.techopedia.com/smart-hr-how-ai-is-transforming-talent-acquisition/2/34667"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
+      name: Techopedia
+      domain: techopedia.com
+    quality: 37
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGAt0Ctk_2TzA/article-cover_image-shrink_720_1280/0/1643264540488?e=1648684800&v=beta&t=GDA7y-NQC2CdEiBSacx6GMcjBRRLJU-V6vhY5AkRF3g"
-        width: 1280
-        height: 720
+      - url: "https://images.techopedia.com/images/uploads/talent_acquisition.jpg"
+        width: 5560
+        height: 3707
         isCached: true
 
 secured: "aNCVEAq2j2G6h5SvKJQgXIHP/W4qcn6iWrW6wCwN9mboqIOCw86WQJFYre2/Rkd9PJXoy9w4V+o9aLmjcIDUx0gx7RDZsicwuxEK08nyA+wjfHyYUtpuy/QH5w8/QSmXPctt4bx94idJglQmX5LGQ+I2gp86JMzv6xLtca9agBj4JR92IM+dqrUFVWUg/eoDbldCZ7wHK5sVAMK0JQ+o0/AepLInsf7yBv22fnUI8h41Q/2ZPUJvpw0RIMqjbglFU2AKyKXnoFKOsei+dlmBy+fE8RAzAEXB4+OibrYJHitIyscdf3XgB+NiXhizB+5TEboo5gUHYuRj4NHTmJlrQD/P/UrgadHTmLjnDfVZ7UsaiHsIgDyXyE5goihVbQWq5sv+XrSTLWQXZHZzi3h7PU4H4zj7zF70R8N2aXfjNB8cPQSAFRZ+WV3r37JaFqDvDPiIMp+gwZGR4aQigHu+gugZ8Jp2shVyufdzALO55PbVUYT4ptOYpkTnM5CMYMlem3FPmCd6pLEGZZtfpL0ZWQ==;tdv69epGrfvVJe+XdQActg=="

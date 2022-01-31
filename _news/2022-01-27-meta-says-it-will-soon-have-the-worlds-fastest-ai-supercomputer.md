@@ -53,7 +53,7 @@ related:
     provider:
       name: IT Business
       domain: itbusiness.ca
-    quality: 59
+    quality: 61
     images:
       - url: "https://i.itbusiness.ca/wp-content/uploads/2022/01/GettyImages-13075344431-696x391-1-620x250.jpg"
         width: 620

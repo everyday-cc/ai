@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-21-iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals.md",
+      "title": "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals",
+      "excerpt": "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals. Program to work on creating products and solutions from research. Take courses under Pro",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/12/21/9515116.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/12/21/9515116.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
+          "width": 1577,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T02:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-natural-language-processing-market-size-2021-movements-by-latest-trend-analysis-progression-status-revenue-expectation-to-2030.md",
       "title": "Natural Language Processing Market Size 2021 Movements by Latest Trend Analysis, Progression Status, Revenue Expectation to 2030",
       "excerpt": "Dec 20, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Natural Language Processing Market for 2021 till 2030. Report further now ...",

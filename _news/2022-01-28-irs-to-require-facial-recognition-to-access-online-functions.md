@@ -149,6 +149,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Forget facial recognition! Apple AirPods could soon identify you based on the shape of your EAR CANAL, patent suggests"
+    excerpt: "The new biometric device would use ultrasonic signals reflected against the walls of a user's ear canal to authenticate a user, the Cupertino tech giant explains in a new patent."
+    publishedDateTime: 2022-01-31T20:52:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 50
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/01/31/16/53594163-0-image-a-14_1643647535757.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Facebook will stop using facial recognition data, Meta reports"
     excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
     publishedDateTime: 2022-01-29T14:07:00Z
@@ -206,6 +222,6 @@ related:
         height: 630
         isCached: true
 
-secured: "pbZ88YqyQov/CUeMInPYoqfXoc2r4XF9jKzsH5oaxPMhm4E69kXs+IMTwwSMp4ke0g/MdUiIMKD5PvmP5uvqEPac3R1fMwgQJK9GZPw3t5arf9v3ZWFjHoCbixLMM+ilV2CGqo++giStc/31MP9hootkJbpFrRpeQzEcDbH1K2M6S8cWv1kg+oVkpn+2VdPnOuDgVwvgnVTx0bOQ6OnG4O7WmCZBfJbSpa4MbKc4AiTVb9S9GLLnVWokbOzWMt8Def3WlGaCN6QbaciUGVS+yWD3ES5K1rfRx1EPyCd2o8OeyE4HL7ysvc9wdb17B+T2z69o7O/J6zksozETeiVinPL8rwKhnBHptjspxg5I7zQ=;5q1d4fl0JZ7965kmxvHCZw=="
+secured: "8zInTiGywlYNX/zvVSWu8ukgEfOp5txeglqMuHBhn3bBvoaCDBaz5nnIiy0IAZfrTTNqimnTAJZ6forcsmwACF1/qdgjiEq1ansEdRQfiKaQ9rQhyhrfUSfff0ns7faiMFD8DeAmdu+zQah6yjmcRN+7jW9qvsXvM+/vakzsDMK/q6PgcAahap+/Hli4Cg2pbKsPnc0U2ZkHLUusH92R5uO5mDqamLvoZFLAv0BcgZL4FJws7koJFnlVsj1QzhCDVQnJO0uqeO0fxdWWFm4/RtH/rvKOPO3B5u7eI1RWjJ625yqhwQOS9AbsRzW8PaPYOLSsdt8BJ2YRrr7Mq9FCIhoe9tEaPHMh1Sumdw2gL6yLO8M78vJ2tIVGR+k9AfS2A8CjW6K+9AbJIbkoY4k/+YH3jo1MDwWdaypCoSs8yJFodTpGN2QELT6fZFfVwJDhKNbHBApXXKb7Ck56nehdeoKkX/ynhXCRm+LUuSbra3S2+9C53ztpExDeIlb5k081XK46aom1t7Q9POwLNWLOUw==;kVIAHsGYu5TwtUXPlz2QZw=="
 ---
 
