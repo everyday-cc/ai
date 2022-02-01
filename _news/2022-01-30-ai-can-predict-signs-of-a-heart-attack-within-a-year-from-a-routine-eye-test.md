@@ -1,26 +1,27 @@
 ---
 category: news
 title: "AI can predict signs of a heart attack within a year — from a routine eye test"
-excerpt: "An artificial intelligence system is capable of spotting whether someone will have a heart attack within the next year — through a routine eye scan."
-publishedDateTime: 2022-01-30T02:07:00Z
-originalUrl: "https://www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/"
-webUrl: "https://www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/"
-ampWebUrl: "https://www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/"
-cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/"
+excerpt: "LEEDS, United Kingdom (StudyFinds.org) – An artificial intelligence ... described in the journal Nature Machine Intelligence, could revolutionize heart therapy, according to the researchers."
+publishedDateTime: 2022-01-30T06:43:00Z
+originalUrl: "https://www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/"
+webUrl: "https://www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/"
+ampWebUrl: "https://www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/"
+cdnAmpWebUrl: "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/"
 type: article
-quality: 53
-heat: 74
+quality: 55
+heat: 75
 published: true
 
 provider:
-  name: WTNH
-  domain: wtnh.com
+  name: WRBL
+  domain: wrbl.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2022/01/eye-scan.jpg?w=1280"
+  - url: "https://www.wrbl.com/wp-content/uploads/sites/24/2022/01/eye-scan.jpg?w=1280"
     width: 1280
     height: 813
     isCached: true
@@ -59,6 +60,6 @@ related:
         height: 813
         isCached: true
 
-secured: "qYBfrSeWK09LGzz9bm84daurcPuUklR8+if0R4QtQpITj0HCOwD9QQ49U2BpKnK+AXJ+8BjqfOxDTfJi8zRQVguLtMCsO7OJAe9IDOR3Kj0qUSq75jXgYobowfBxNDKPTpK1WvytId5GXM5kapc8qQLpOJ7hki7gXFZmbFdaEwptcgblGfD5LC2aj/qxUfRFvU8EFDkAVS8+gIplSjzdRTmiW34AqAi1L7zLxea1xjBYI5hTSR3J83o+ONR0H1M/VXiVN8kZhmPmcSsXB3oAa6Der65YsQpCskdiqMET1PX+A/DwoCvVH1I7rBKu2znmbTjhGn91DAqrwA6qMLMHDf49LZjlLDXHRIX6N3eOUzNNf5iK5D+CV3tw/6EBQ0z5C9wG+gF+6W+p52QYAub/4WAdZatzAD2QH2YbwEvzIHT6rZJCfbT0Ly1Lzr4W+6Q4Wi5vFkHnEB+XwI0zPvCEx+EdSpHCK8CD/prH19e7aWwQ4Rw+IwOAoIjRqu64hIWnBX9fsardqpLvfotf2pk6JA==;Cy/+oR7uOM2mniRwuEGsuA=="
+secured: "gxcRL/WttAI4010TVxyZAw/FqAXI/h9ERQXpd5E/44t95KTLe9vsIECPxInT+bsCnQsbJ732ucxA/6eO7sUPtcP9oXn3JJGyYkFeejTQYpf2qdchGPG5nX/i9wpzEw8fbBf3KeiPOfht9YdiJLIPRnEgpiYhEO/QyJZndtgBjDSlRaxqPaUEiHyOGdC1SJD4Ch3hborwd5L8GbvCVbl8uCqVzk952TJ+x0RIBYtPvu/ABormREP5ax4DZcU7xfR3iOuvnqD+CRND+zgwV437sYOlUn9EwZRXuwUUJRd3JjUynBZYWPdgWQNau62e5H8M1FUtg6bVmj+dHb4vIHZ80wbIPZAzGHSEBdeTTnJtnAQ=;ZqjKm57QS0soohiSGq4qoA=="
 ---
 

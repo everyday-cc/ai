@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Facebook will stop using facial recognition data, Meta reports"
-excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
-publishedDateTime: 2022-01-29T14:07:00Z
-originalUrl: "https://aldianews.com/culture/heritage-and-history/facebook-will-stop"
-webUrl: "https://aldianews.com/culture/heritage-and-history/facebook-will-stop"
+title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
+excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
+publishedDateTime: 2022-01-31T19:13:00Z
+originalUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590?d_id=3110524&ncid_tag=tweetlnkushpmg00000050"
+webUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590?d_id=3110524&ncid_tag=tweetlnkushpmg00000050"
+ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
+cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
 type: article
-quality: 39
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: AL DA News
-  domain: aldianews.com
+  name: HuffPost
+  domain: huffpost.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://aldianews.com/sites/default/files/2022-01/erika-ardila.jpeg"
-    width: 320
-    height: 320
+  - url: "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000"
+    width: 1778
+    height: 1000
     isCached: true
 
 related:
@@ -61,22 +67,6 @@ related:
     excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
     publishedDateTime: 2022-01-31T15:13:00Z
     webUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590"
-    ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
-    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
-    type: article
-    provider:
-      name: HuffPost
-      domain: huffpost.com
-    quality: 87
-    images:
-      - url: "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000"
-        width: 1778
-        height: 1000
-        isCached: true
-  - title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
-    excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
-    publishedDateTime: 2022-01-31T19:13:00Z
-    webUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590?d_id=3110524&ncid_tag=tweetlnkushpmg00000050"
     ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
     cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
     type: article
@@ -195,6 +185,20 @@ related:
         width: 2057
         height: 1200
         isCached: true
+  - title: "Facebook will stop using facial recognition data, Meta reports"
+    excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
+    publishedDateTime: 2022-01-29T14:07:00Z
+    webUrl: "https://aldianews.com/culture/heritage-and-history/facebook-will-stop"
+    type: article
+    provider:
+      name: AL DA News
+      domain: aldianews.com
+    quality: 39
+    images:
+      - url: "https://aldianews.com/sites/default/files/2022-01/erika-ardila.jpeg"
+        width: 320
+        height: 320
+        isCached: true
   - title: "Facial recognition for cattle on the way"
     excerpt: "The day when producers simply scan the faces of their stock on their smartphone as they walk up the crush, and have all their individual information immediately at hand, might not be far off, thanks to novel livestock facial recognition technology being developed by an Australian researcher."
     publishedDateTime: 2022-01-30T22:55:00Z
@@ -252,6 +256,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9kF0UA+vG6siE0ITcSTEMrwZmorsGkQVGQrGFgxFBrlR5aax5+WlMHh+8FrsIc48uE2js9KncTf4wDzdFC9CKhJdw6n1EM0OYhxyeh0y+OQGiEZUK0n5bG0pCewqPdEKrZMVq+pljYVD1iRgQK3u4KVggE93loICvzAImm3Aou+Der1LuaESguwj5hYBJqF/yrJHXG6Rv/lMZpdyBJ9QQcDtEbLpk1TUC3B+vwq0wyx/dssiFtSozVr413qgtgTzJ8qJvsnHyxC9mtIDe0NSDXHgHbEXiEM+1U3hf/jSk+yi8GeSGrFILkDHJt8wI2wDgOCa5UL0kWald8Quzsqp6qywMCKIf6yWQSiE1itfBvW76BMX+mg+9Jqnnj8RLYrLZUrcUjWE4tP1HIKYr81lIh1Tl72BteFdbaHcQWVBxvLVP6UTa0qoG3e36azF8qYY5dJdqP7DpIT07KeS2T+eka7g2Zd3Z+crgDJgnU5UW04rHvXcvzdC2a9vpK3u3ipOfLdbmrwbQdNPIiwDjr2ASQ==;+J6mEZwDmzBSVvORmzugDA=="
+secured: "s1tpMaojqlPGvml3zW2fh/dzwcBkL+RHcKoISy6QzEr3WmDU6EqDqqxsSB3bKGswso+dMbWjRs2oQchZwtANIvT/8xvElkBNnS2V8uebu9xIFcml6gqlrrGmN92wcJ1Tibm8sJ5yHn+Wf1P06ms/kE8mu9yuZxz3a0gK+UtQN0lidEQup3vogdM5KrE36UPllLfV6lrRSR1bykoSNkJk48O3lKFD2HnD0bLTkrCfjcrDyinIbTMnC5wSgXnhQyNvc5zghtBMT27jmQM/ApY64dAyFwkZXQOI4qhR+HvRzG4YAOHuc+CYYRfMCPQL/epcjmwVQfaLRqibsogZK/ZnJho5Z9UpBsgchN5rAPpZ7k0=;NtrEeOdnegrfyIox4U4vLQ=="
 ---
 

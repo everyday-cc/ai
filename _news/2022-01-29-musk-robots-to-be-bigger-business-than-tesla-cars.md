@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk: Tesla is prioritizing product development of Optimus humanoid robot in 2022"
-    excerpt: "Elon Musk announced that Tesla is going to be shifting its product development to make Tesla Bot, a humanoid robot also known as Optimus, a priority in 2022. This is quite a surprising change of strategy."
-    publishedDateTime: 2022-01-27T12:55:00Z
-    webUrl: "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/"
-    ampWebUrl: "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 98
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Humanoid robot is Tesla's 'most important product' this year, Musk says"
     excerpt: "Tesla CEO Elon Musk has his eyes set on more than just building electric cars. In the company's fourth-quarter earnings call on Wednesday, Musk said Tesla's \"most important product\" it would be developing this year did not have wheels,"
     publishedDateTime: 2022-01-27T17:50:00Z
@@ -58,22 +42,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Tesla News: Automaker Prioritizes New Humanoid Robot Over Vehicle Models In 2022"
-    excerpt: "Tesla is prioritizing the development of a humanoid robot over its vehicles in 2022 and it will be designed to perform dangerous, repetitive, or physical tasks only humans can complete."
-    publishedDateTime: 2022-01-27T16:23:00Z
-    webUrl: "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909"
-    ampWebUrl: "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
-    images:
-      - url: "https://dc.newsweek.com/en/full/2043470/how-did-elon-musk-become-times-person-year.jpg"
-        width: 2500
-        height: 1720
-        isCached: true
   - title: "Tesla ramps up plans to create Optimus humanoid robot"
     excerpt: "The development of Tesla's autonomous vehicles has dominated the company's focus in recent times, but this year focus will be centred on developing a humanoid robot, according to Tesla CEO Elon Musk."
     publishedDateTime: 2022-01-31T04:51:00Z
@@ -87,50 +55,6 @@ related:
       - url: "https://www.idgcdn.com.au/article/images/600x315/dimg/tesla_bot.png"
         width: 586
         height: 315
-        isCached: true
-  - title: "Elon Musk says Tesla’s humanoid robot could eventually outgrow its car business"
-    excerpt: "During Tesla’s earnings call, Musk said the company’s future humanoid robot — internally named “Optimus” — is the “most important product development we’re doing this year.” Musk first unveiled the robot during Tesla’s AI Day event in August."
-    publishedDateTime: 2022-01-30T10:30:00Z
-    webUrl: "https://www.khaama.com/elon-musk-says-teslas-humanoid-robot-could-eventually-outgrow-its-car-business-0296/"
-    type: article
-    provider:
-      name: Khaama Press
-      domain: khaama.com
-    quality: 52
-    images:
-      - url: "https://www.khaama.com/wp-content/uploads/2022/01/611fa3d20fbf9e0018e88c75.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Tesla Cybertruck, Roadster, Semi delayed, focus shifts to self-driving and Optimus robot"
-    excerpt: "Ford, General Motors and Rivian all have electric pickup trucks in production, but buyers looking forward to the Tesla Cybertruck will have to keep waiting. Tesla CEO Elon Musk during an earnings call late on Wednesday said the company won't launch any new vehicles in 2022 as it focuses on ramping up production of existing models and developing new technologies."
-    publishedDateTime: 2022-01-27T12:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1134746_tesla-cybertruck-roadster-semi-delayed-focus-shifts-to-self-driving-and-optimus-robot"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 47
-    images:
-      - url: "https://images.hgmsites.net/hug/tesla-cybertruck_100725713_h.jpg"
-        width: 1920
-        height: 974
-        isCached: true
-  - title: "From humanoid robot to software that drives vehicles autonomously: Here's what Elon Musk is betting on in 2022"
-    excerpt: "Tesla CEO Elon Musk on Thursday revealed the details of what the upcoming line-up of the company is going to look like in 2022. \"I would be shocked if we do not achieve full self-driving safer than human this year,"
-    publishedDateTime: 2022-01-27T11:22:00Z
-    webUrl: "https://www.wionews.com/technology/from-humanoid-robot-to-software-that-drives-vehicles-autonomously-heres-what-elon-musk-is-betting-on-in-2022-448127"
-    ampWebUrl: "https://www.wionews.com/technology/from-humanoid-robot-to-software-that-drives-vehicles-autonomously-heres-what-elon-musk-is-betting-on-in-2022-448127/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/from-humanoid-robot-to-software-that-drives-vehicles-autonomously-heres-what-elon-musk-is-betting-on-in-2022-448127/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 39
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2018/09/11/23172-musk-20170531093105.jpg"
-        width: 918
-        height: 506
         isCached: true
 
 secured: "OAoQ5QiG8J0W9jmF+qa7mIkY53qtQGMtDsBXtpz8MlYFn0VkkU6FiOSsy2y6DhR32lp7sq4OC/wVpXJyPhgKJyaL8vI97NLi+fa0Wd0f/GuoVZc2o9wX9yaxMeUAnFru2YQCG/W8W+PWB91HUXjfzm+ggBRToHDpFWKe0xQaHNFsc34+2iEHvS+tyoNAL9t8lROjk281hG+s4gG59CeL3Gd8h4kt2J3Tr7KlpPGLLlVhzdEMa35sqH7QZ6rOFDAhzQ4tFyBU2yc3kQyGVMwSZi7tgdFEDajcs2cmRS3ykyJQBUqeRuWD4zQaBpU2msYm4E0AVl8CG8un0J5ngPdsn6e4aQz0Uk8BrxYNkJnrqpqrhSrdCP8KEMfLfSMap8dzZTx3Y/ZakDiVt9VxrPZg+TcPRhMpC14xoXjIrHjRE5pVT9iJrXLcdiQVWAnckwIFuQjlm7FtP1sXoGutv+af7Mk8dt1Y6PDA0CU+rw2NtF9P/lp+cilK3h5ufvY4oYoI0uz+EG3v/j73c4v3bd/0EA==;zD0WkERH/f9+LfbqCBoINw=="

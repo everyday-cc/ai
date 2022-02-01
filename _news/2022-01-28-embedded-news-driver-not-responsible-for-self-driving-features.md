@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
+    excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
+    publishedDateTime: 2022-01-30T00:37:00Z
+    webUrl: "https://www.futurecar.com/5166/Self-Driving-Lobbying-Group-Drops-‘Self-Driving’-in-New-Name"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 24
+    images:
+      - url: "https://img.futurecar.com/202201/29/l_61f5004608904.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Autonomous and Self-Driving Vehicle News: Aidrivers, AVIA, Automated Bus Consortium, Bosch Cariad, VW, Owl AI & May Mobility"
     excerpt: "In autonomous and self-driving vehichle news are Aidrivers, AVIA, Automated Bus Consortium, Bosch Cariad, VW, Owl AI and May Mobility. Aidrivers Partners with Ashok Leyland. Aidri"
     publishedDateTime: 2022-01-30T21:51:00Z

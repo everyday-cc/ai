@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Facebook will stop using facial recognition data, Meta reports"
-excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
-publishedDateTime: 2022-01-29T14:07:00Z
-originalUrl: "https://aldianews.com/culture/heritage-and-history/facebook-will-stop"
-webUrl: "https://aldianews.com/culture/heritage-and-history/facebook-will-stop"
+title: "Government building national facial recognition database"
+excerpt: "The Department for Home Affairs has begun work on its national facial recognition database, putting a large project for consolidating national ID matching to tender last week. Home Affairs is looking for a company that will “build and deploy” this system which will include migrating a pre-existing centralised database of facial images collected from state driver licenses,"
+publishedDateTime: 2022-02-01T03:14:00Z
+originalUrl: "https://ia.acs.org.au/article/2022/government-building-national-facial-recognition-database.html"
+webUrl: "https://ia.acs.org.au/article/2022/government-building-national-facial-recognition-database.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: AL DA News
-  domain: aldianews.com
+  name: acs.org.au
+  domain: acs.org.au
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://aldianews.com/sites/default/files/2022-01/erika-ardila.jpeg"
-    width: 320
-    height: 320
+  - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/facial%20recognition%20system.jpg"
+    width: 734
+    height: 413
     isCached: true
 
 related:
@@ -195,6 +195,20 @@ related:
         width: 2057
         height: 1200
         isCached: true
+  - title: "Facebook will stop using facial recognition data, Meta reports"
+    excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
+    publishedDateTime: 2022-01-29T14:07:00Z
+    webUrl: "https://aldianews.com/culture/heritage-and-history/facebook-will-stop"
+    type: article
+    provider:
+      name: AL DA News
+      domain: aldianews.com
+    quality: 39
+    images:
+      - url: "https://aldianews.com/sites/default/files/2022-01/erika-ardila.jpeg"
+        width: 320
+        height: 320
+        isCached: true
   - title: "Facial recognition for cattle on the way"
     excerpt: "The day when producers simply scan the faces of their stock on their smartphone as they walk up the crush, and have all their individual information immediately at hand, might not be far off, thanks to novel livestock facial recognition technology being developed by an Australian researcher."
     publishedDateTime: 2022-01-30T22:55:00Z
@@ -208,20 +222,6 @@ related:
       - url: "https://www.northweststar.com.au/images/transform/v1/crop/frm/38U3JBx5nNussShT8aZyYjc/8e0765a2-a6c6-4358-a66d-91416bc426f5.jpg/r0_914_2753_2469_w1200_h678_fmax.jpg"
         width: 1200
         height: 678
-        isCached: true
-  - title: "Government building national facial recognition database"
-    excerpt: "The Department for Home Affairs has begun work on its national facial recognition database, putting a large project for consolidating national ID matching to tender last week. Home Affairs is looking for a company that will “build and deploy” this system which will include migrating a pre-existing centralised database of facial images collected from state driver licenses,"
-    publishedDateTime: 2022-02-01T03:14:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/government-building-national-facial-recognition-database.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/facial%20recognition%20system.jpg"
-        width: 734
-        height: 413
         isCached: true
   - title: "IRS website to leverage facial recognition tech for identity protection"
     excerpt: "Agency to require those wanting to access their accounts to submit selfies and photos of their identification documents"
@@ -252,6 +252,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9kF0UA+vG6siE0ITcSTEMrwZmorsGkQVGQrGFgxFBrlR5aax5+WlMHh+8FrsIc48uE2js9KncTf4wDzdFC9CKhJdw6n1EM0OYhxyeh0y+OQGiEZUK0n5bG0pCewqPdEKrZMVq+pljYVD1iRgQK3u4KVggE93loICvzAImm3Aou+Der1LuaESguwj5hYBJqF/yrJHXG6Rv/lMZpdyBJ9QQcDtEbLpk1TUC3B+vwq0wyx/dssiFtSozVr413qgtgTzJ8qJvsnHyxC9mtIDe0NSDXHgHbEXiEM+1U3hf/jSk+yi8GeSGrFILkDHJt8wI2wDgOCa5UL0kWald8Quzsqp6qywMCKIf6yWQSiE1itfBvW76BMX+mg+9Jqnnj8RLYrLZUrcUjWE4tP1HIKYr81lIh1Tl72BteFdbaHcQWVBxvLVP6UTa0qoG3e36azF8qYY5dJdqP7DpIT07KeS2T+eka7g2Zd3Z+crgDJgnU5UW04rHvXcvzdC2a9vpK3u3ipOfLdbmrwbQdNPIiwDjr2ASQ==;+J6mEZwDmzBSVvORmzugDA=="
+secured: "dIqnOeuTa9Ut/ar0l7qwxZcfswP+gHhLk/GJCBmPDxdLKs0VsLq4rareQxTmETWsXGRD/MMX+/iA5ARUVyz9ZPRN1LEVZTqcI8OF9+7R5NIe66R8zsmt4VnKWdAu7xcVQu8f6bo6FYhVpjSHtR65eBhqJG7CcW87rrbj5v9WOs256XE444Dn3BvhVHuJ6kRup6NdntwRJjMzmsheJWcsPRBpmkn6LTwo4FgbJCJLvVbw3J6wDDfgdVnlQJv83kZs6trncdqyV1fXaSaV+5kkwpwmhvWvOHZiHIXijMlRkY2of8MH78KZtjLEt0cwKYM/19/Qoz0fQFIDYETqFy+xZ44XNPt/J09vmiI3XiXCncI=;dPWhpHACnqA6UC0zkZ9hCg=="
 ---
 

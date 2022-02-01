@@ -2,6 +2,83 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-01-how-far-have-chips-come-to-emulate-human-brain.md",
+      "title": "How far have chips come to emulate human brain?",
+      "excerpt": "Increasing the memory capacity of low-energy chips is crucial to getting AI into work.” With the advent of artificial intelligence, there is growing demand for cutting-edge chips, but the new ...",
+      "sourceUrl": null,
+      "webUrl": "https://koreaherald.com/view.php?ud=20220128000509&np=1&mp=1",
+      "originalUrl": "https://koreaherald.com/view.php?ud=20220128000509&np=1&mp=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F01%2F30%2F20220130000048_0.jpg",
+          "width": 630,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20220128000509",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220128000509",
+      "publishedDateTime": "2022-01-31T20:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-5-top-fintech-stocks-to-watch-this-week.md",
+      "title": "5 Top Fintech Stocks To Watch This Week",
+      "excerpt": "Another top fintech stock to note is Upstart. Essentially, the company offers a cloud-based artificial intelligence (AI) lending platform. Its platform would aggregate consumer demand for loans and connect it to its network of Upstart AI-enabled bank partners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-week",
+      "originalUrl": "https://www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-week",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-week?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-week?amp",
+      "publishedDateTime": "2022-01-31T16:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-crisis-text-line-claims-anonymized-conversation-data-helps-build-ai-for-a-more-empathetic-world.md",
       "title": "Crisis Text Line claims anonymized conversation data helps build AI for ‘a more empathetic world’",
       "excerpt": "Politico recently reported how Crisis Text Line (which is not affiliated with the National Suicide Prevention Lifeline) is sharing data from conversations with Loris.ai, which builds AI systems designed to increase empathetic conversation by customer service reps.",
@@ -251,7 +328,7 @@
       "originalUrl": "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Education-Market-Analysis-Strategies-Segmentation-and-Forecasts-2021-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -848,17 +925,17 @@
     {
       "path": "_news/2022-01-30-ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test.md",
       "title": "AI can predict signs of a heart attack within a year — from a routine eye test",
-      "excerpt": "An artificial intelligence system is capable of spotting whether someone will have a heart attack within the next year — through a routine eye scan.",
+      "excerpt": "LEEDS, United Kingdom (StudyFinds.org) – An artificial intelligence ... described in the journal Nature Machine Intelligence, could revolutionize heart therapy, according to the researchers.",
       "sourceUrl": null,
-      "webUrl": "https://www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/",
-      "originalUrl": "https://www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/",
+      "webUrl": "https://www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/",
+      "originalUrl": "https://www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://www.wtnh.com/wp-content/uploads/sites/100/2022/01/eye-scan.jpg?w=1280",
+          "url": "https://www.wrbl.com/wp-content/uploads/sites/24/2022/01/eye-scan.jpg?w=1280",
           "width": 1280,
           "height": 813,
           "title": null,
@@ -868,13 +945,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/",
-      "cdnAmpWebUrl": "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/",
-      "publishedDateTime": "2022-01-29T18:07:00-08:00",
+      "ampWebUrl": "https://www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/",
+      "cdnAmpWebUrl": "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/",
+      "publishedDateTime": "2022-01-29T22:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTNH",
-        "domain": "wtnh.com",
+        "name": "WRBL",
+        "domain": "wrbl.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -884,6 +961,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1091,101 +1169,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-30-3-high-growth-chip-stocks-to-buy-for-2022-and-beyond-after-the-market-sell-off.md",
-      "title": "3 High-Growth Chip Stocks to Buy for 2022 and Beyond After the Market Sell-Off",
-      "excerpt": "Even semiconductor stocks, which are coming off a banner year in 2021 thanks to the chip shortage, are hitting the skids on worries that amplified sales growth could (eventually, maybe in 2023) be due for a downturn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/01/29/high-growth-chip-stocks-2022-market-selloff/",
-      "originalUrl": "https://www.fool.com/investing/2022/01/29/high-growth-chip-stocks-2022-market-selloff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/663091/data-center.jpg",
-          "width": 4748,
-          "height": 2671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-29T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-union-minister-dr-jitendra-singh-says-artificial-intelligence-ai-and-digital-medicine-are-critical-to-future-healthcare.md",
-      "title": "Union Minister Dr Jitendra Singh says, Artificial Intelligence (AI) and Digital Medicine are critical to future healthcare",
-      "excerpt": "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh said here today that",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/union-minister-dr-jitendra-singh-says-artificial-intelligence-ai-and-digital-medicine-are-critical-to-future-healthcare/",
-      "originalUrl": "https://indiaeducationdiary.in/union-minister-dr-jitendra-singh-says-artificial-intelligence-ai-and-digital-medicine-are-critical-to-future-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2022/01/image002I7D8.jpg",
-          "width": 564,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/union-minister-dr-jitendra-singh-says-artificial-intelligence-ai-and-digital-medicine-are-critical-to-future-healthcare/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/union-minister-dr-jitendra-singh-says-artificial-intelligence-ai-and-digital-medicine-are-critical-to-future-healthcare/",
-      "publishedDateTime": "2022-01-28T22:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Here’s how intelligence agencies can search foreign documents without learning the language"
-excerpt: "The new machine learning system developed by Raytheon BBN Technologies in partnership with the Intelligence Advanced Research Projects Activity allows English-speaking users to search foreign documents and speech without knowing the language."
-publishedDateTime: 2022-01-31T23:25:00Z
-originalUrl: "https://www.defensenews.com/intel-geoint/2022/01/31/heres-how-intelligence-agencies-can-search-foreign-documents-without-learning-the-language/"
-webUrl: "https://www.defensenews.com/intel-geoint/2022/01/31/heres-how-intelligence-agencies-can-search-foreign-documents-without-learning-the-language/"
+excerpt: "The new machine learning system developed by Raytheon BBN Technologies in partnership with the Intelligence Advanced Research Projects Activity allows English-speaking users to search foreign documents and speech without knowing the language. (Getty Images ..."
+publishedDateTime: 2022-02-01T03:13:00Z
+originalUrl: "https://www.c4isrnet.com/intel-geoint/2022/01/31/heres-how-intelligence-agencies-can-search-foreign-documents-without-learning-the-language/"
+webUrl: "https://www.c4isrnet.com/intel-geoint/2022/01/31/heres-how-intelligence-agencies-can-search-foreign-documents-without-learning-the-language/"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: C4ISRNET
+  domain: c4isrnet.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.defensenews.com/resizer/SDjmjPDg9nWkk7fKmDI564o8d9E=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/RRPSPGCAR5AODC7B54JJDUHMCI.jpg"
+  - url: "https://www.c4isrnet.com/resizer/SDjmjPDg9nWkk7fKmDI564o8d9E=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/RRPSPGCAR5AODC7B54JJDUHMCI.jpg"
     width: 1024
     height: 576
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "TlnPXy5tumKwqqK+/F0RpOD0biRAyPVDmPBSF6CyFkgIiwWNYMhwQtbJMid2yi+7c4iufG3sRny8u3XT2dC9kzqpHXK98hgKAWqehesEgXWN/s3T5jyFxju10kNoirXu3POZ9+2G6tOkp5iQKSx+nRbUS8U+Y97IBN3Bv3Z2xwKVlvZW8FAJ6IR+pM1IR3yLU4S3XWKLVus3UHRnw5hIX0JUsR4Xjyw/pTDVRaHoGE3DQ2tHITqPJGnZDs7uheGg57HHxK2PBKXp0ko1RlU+fgpuLWYKM1UGm9rNKfGKTOF3ovuMTviSLjZo5gRHIoccakEKlmWP95C2EeicxU2oDTqoEM7woo71uSzbcfSb5m8=;G38qp1Dgzlq0EsSvJu5Psw=="
+secured: "0E5MC/pTteUseiaZB3+8YIEh5crY7l5EBp7zaa5VGlt/wZHePuh3seTuhGzLV78mv+lTQ9R31IrFf8ML635YRKtTB2VOvBo4IyBakOlmxZIy/yCGk+UF6/UqCNqrD8SHIXw/LcGjtbHNDaYH57Nto9xv9A9t8zIm4e9V4i/3KK5hiPwb8A76ueT2X1REEku1OoMUuJPjtkvnLtgMygzPVW1WmVlGspznwdofd6xSDvkT78VkpYJwUyilB2bJ/piL9TWp5E2zarZPYZYouKTNZ2djq8hhKyHIe3juENBmIE9TbPPJCzvCXjQMqg5YxlzLN8fScUGoeOZGgKxwU0T9N6Ii8Ke4trQsDZ3Yzo71AHU=;HzaGc6B7xJNxwZ+T/nXX7g=="
 ---
 

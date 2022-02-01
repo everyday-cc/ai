@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "Here’s how intelligence agencies can search foreign documents without learning the language"
-    excerpt: "The new machine learning system developed by Raytheon BBN Technologies in partnership with the Intelligence Advanced Research Projects Activity allows English-speaking users to search foreign documents and speech without knowing the language."
-    publishedDateTime: 2022-01-31T23:25:00Z
-    webUrl: "https://www.defensenews.com/intel-geoint/2022/01/31/heres-how-intelligence-agencies-can-search-foreign-documents-without-learning-the-language/"
+    excerpt: "The new machine learning system developed by Raytheon BBN Technologies in partnership with the Intelligence Advanced Research Projects Activity allows English-speaking users to search foreign documents and speech without knowing the language. (Getty Images ..."
+    publishedDateTime: 2022-02-01T03:13:00Z
+    webUrl: "https://www.c4isrnet.com/intel-geoint/2022/01/31/heres-how-intelligence-agencies-can-search-foreign-documents-without-learning-the-language/"
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
+      name: C4ISRNET
+      domain: c4isrnet.com
     quality: 14
     images:
-      - url: "https://www.defensenews.com/resizer/SDjmjPDg9nWkk7fKmDI564o8d9E=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/RRPSPGCAR5AODC7B54JJDUHMCI.jpg"
+      - url: "https://www.c4isrnet.com/resizer/SDjmjPDg9nWkk7fKmDI564o8d9E=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/RRPSPGCAR5AODC7B54JJDUHMCI.jpg"
         width: 1024
         height: 576
         isCached: true

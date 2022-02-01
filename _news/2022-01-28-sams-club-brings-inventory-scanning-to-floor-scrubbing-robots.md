@@ -41,6 +41,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Sam’s Club starts national deployment of automated inventory analytics robots"
+    excerpt: "Implementation to leverage scanning accessory which can attach to the almost 600 autonomous floor scrubbers already deployed within Sam’s Club stores nationwide.{/exp:eehive_hacksaw"
+    publishedDateTime: 2022-01-31T17:37:00Z
+    webUrl: "https://www.scmr.com/article/sams_club_starts_national_deployment_of_automated_inventory_analytics_robot"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 36
+    images:
+      - url: "https://www.mmh.com/images/2021_article/Inventory_Scrubbers_4.jpg"
+        width: 480
+        height: 265
+        isCached: true
 
 secured: "dpZhzCE6z91iGTVAUuqkAtKSZBe5AxtclLI4hZS9ngIf4be45Dq55OIZmkVe2ubIjM3bJpSHsC8iRE/qoPxuDgA/spHHB5MujYzJ1s31cJpBeVb/m7rNkikRnVGXMKqpWyw9+kCYSNFFsBTaLpFeMcfEiNiwbXQ76sPjfHAUj6YA8+l1SanLvYmY4JPdCZtm1lYqnxsLzUXTUNnomN8DwUw2ZDqyAalm6ilkIZWsYVbfeeq4u0OrEaNlmFmlOix7Wg9kUN/uw/YaMmzOLYPzKj/Vo+FgH0/uXjI+OMr5y6k3vBArEIE12tN264SmTm+rML7WiqQ8Tn+35BSkex3FFH+/dxox/E7OuEmO+v7/X03CY0QvPhJtzrGAa33wsXkHG0MXpoMyZw09WwZ+U+TVP+1zkkMOTOdWj8Xjgo43NJF7dvC/JEI8xrKZTbub25o0RMKGYjRCxohChPTjNCad/8KQA7OgbvOz2PCR82QmcsRlMR45hsCOO+FluGCMu5y0s771JtTAZTb03+MA4HL6Og==;PgwejfGZ+DV/xIQn8yoPBw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/"
 type: article
 quality: 116
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "6 Ways Tesla's Autonomous Driving Technology Is Evolving"
-    excerpt: "They are the backbone of deep learning. I know we've talked about this before, but I have this slide, this is from IBM. Deep learning is the narrowest. When you look at artificial intelligence ..."
-    publishedDateTime: 2022-01-27T11:25:00Z
-    webUrl: "https://www.fool.com/investing/2022/01/27/6-ways-teslas-autonomous-driving-technology-is-evo/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/663071/gettyimages-1297297204.jpg"
-        width: 2448
-        height: 1224
-        isCached: true
   - title: "Musk's bets on Tesla: human-like robots and self-driving cars"
     excerpt: "Tesla's most important products this year and next will not be cars, Chief Executive Elon Musk said on Wednesday, but software that drives them autonomously and a humanoid robot."
     publishedDateTime: 2022-01-27T19:49:00Z

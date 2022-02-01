@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "AI can predict signs of a heart attack within a year — from a routine eye test"
-    excerpt: "An artificial intelligence system is capable of spotting whether someone will have a heart attack within the next year — through a routine eye scan."
-    publishedDateTime: 2022-01-30T02:07:00Z
-    webUrl: "https://www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/"
-    ampWebUrl: "https://www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/"
-    cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/"
+    excerpt: "LEEDS, United Kingdom (StudyFinds.org) – An artificial intelligence ... described in the journal Nature Machine Intelligence, could revolutionize heart therapy, according to the researchers."
+    publishedDateTime: 2022-01-30T06:43:00Z
+    webUrl: "https://www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/"
+    ampWebUrl: "https://www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/"
+    cdnAmpWebUrl: "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/"
     type: article
     provider:
-      name: WTNH
-      domain: wtnh.com
-    quality: 53
+      name: WRBL
+      domain: wrbl.com
+    quality: 55
     images:
-      - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2022/01/eye-scan.jpg?w=1280"
+      - url: "https://www.wrbl.com/wp-content/uploads/sites/24/2022/01/eye-scan.jpg?w=1280"
         width: 1280
         height: 813
         isCached: true

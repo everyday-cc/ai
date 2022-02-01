@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk just said Full Self Driving Teslas will be 'feature complete' by end of this year"
-    excerpt: "Elon Musk has a long history of over-promising where autonomous driving is concerned. The Tesla CEO announced a date when he expects Teslas to be able to achieve various levels of autonomy on several occasions,"
-    publishedDateTime: 2022-01-27T12:43:00Z
-    webUrl: "https://www.tomsguide.com/news/elon-musk-just-said-full-self-driving-teslas-will-be-feature-complete-by-end-of-this-year"
+  - title: "Elon Musk says Tesla’s humanoid robot could eventually outgrow its car business"
+    excerpt: "During Tesla’s earnings call, Musk said the company’s future humanoid robot — internally named “Optimus” — is the “most important product development we’re doing this year.” Musk first unveiled the robot during Tesla’s AI Day event in August."
+    publishedDateTime: 2022-01-30T10:30:00Z
+    webUrl: "https://www.khaama.com/elon-musk-says-teslas-humanoid-robot-could-eventually-outgrow-its-car-business-0296/"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 59
+      name: Khaama Press
+      domain: khaama.com
+    quality: 52
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/7L55ZrcXePgR9KSs7b3vqX-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.khaama.com/wp-content/uploads/2022/01/611fa3d20fbf9e0018e88c75.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "FexZK0DcmFbKdGTmgfHFuUC4ssjyP4kPXnBNX/wRd1SDwZgu4gHF85z0hYPGjedOaOUCDDW0WQSRZenL9aG/VG+7sXhpMiKK1wolkwSmb7I+J+0H967975b7zzQ/RSqP8HgXaRkG9HoleqSWTNtg1XIuDSkqLhD6F2YLpl0BoqP1Pc9fZ+j3uJ4rQL3POAA8DJrp/Stm9iqR9t2RP5gqIkR0nfMc3E77CG2RJBFJ8QFFZo/4p75+qyYCipPi69voXoJ7kp3cxYOY/aZ5IIVji3IPbAh8vJSdvkphNxF1PMHwFKhwWIcQMn75CymOP2/rMdd2K0RMnnBS+QuWluc4Drzsv7I6PSpL9x7Rp4xfwgKSneXO1EG4FKOlUgIXnzhdIgmu8SqY44oGsA3fD54zKT7aO7xLaoR+j5wEfYeMNjW1Ad2Hf61bulM4noLlDi2N8VZMr9P2vssmPKLVeB3pld+Buxq6bDUfDjV8reueRsTKs61tpcEZ9ST/h+JbuO9uFAIxFs6qOPK+j1J0HtppUA==;zs2DKMvaAMHWRGg9lmM/pg=="

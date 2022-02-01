@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "6 Ways Tesla's Autonomous Driving Technology Is Evolving"
-    excerpt: "They are the backbone of deep learning. I know we've talked about this before, but I have this slide, this is from IBM. Deep learning is the narrowest. When you look at artificial intelligence ..."
-    publishedDateTime: 2022-01-27T11:25:00Z
-    webUrl: "https://www.fool.com/investing/2022/01/27/6-ways-teslas-autonomous-driving-technology-is-evo/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 71
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/663071/gettyimages-1297297204.jpg"
-        width: 2448
-        height: 1224
-        isCached: true
   - title: "Elon Musk Promises Full Self-Driving Teslas in 2022"
     excerpt: "Elon Musk's list of promises is long. His fans see his visionary side there. His detractors, on the other hand, do not hesitate to point out that he almost never holds them. His latest promise will undoubtedly rekindle enthusiasm for autonomous cars after years of dashed expectations."
     publishedDateTime: 2022-01-27T23:06:00Z

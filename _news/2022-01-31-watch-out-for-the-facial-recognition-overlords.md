@@ -77,6 +77,22 @@ related:
         width: 1778
         height: 1000
         isCached: true
+  - title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
+    excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
+    publishedDateTime: 2022-01-31T19:13:00Z
+    webUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590?d_id=3110524&ncid_tag=tweetlnkushpmg00000050"
+    ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
+    type: article
+    provider:
+      name: HuffPost
+      domain: huffpost.com
+    quality: 87
+    images:
+      - url: "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000"
+        width: 1778
+        height: 1000
+        isCached: true
   - title: "Treasury Reconsiders IRS’s Use of ID.Me Face Recognition for Web"
     excerpt: "The Treasury Department is reconsidering the Internal Revenue Service’s reliance on facial recognition software ID.me for access to its website, an official said Friday amid scrutiny of the company’s collection of images of tens of millions of Americans’ faces."
     publishedDateTime: 2022-01-28T18:43:00Z
@@ -196,6 +212,20 @@ related:
       - url: "https://www.northweststar.com.au/images/transform/v1/crop/frm/38U3JBx5nNussShT8aZyYjc/8e0765a2-a6c6-4358-a66d-91416bc426f5.jpg/r0_914_2753_2469_w1200_h678_fmax.jpg"
         width: 1200
         height: 678
+        isCached: true
+  - title: "Government building national facial recognition database"
+    excerpt: "The Department for Home Affairs has begun work on its national facial recognition database, putting a large project for consolidating national ID matching to tender last week. Home Affairs is looking for a company that will “build and deploy” this system which will include migrating a pre-existing centralised database of facial images collected from state driver licenses,"
+    publishedDateTime: 2022-02-01T03:14:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/government-building-national-facial-recognition-database.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/facial%20recognition%20system.jpg"
+        width: 734
+        height: 413
         isCached: true
   - title: "IRS website to leverage facial recognition tech for identity protection"
     excerpt: "Agency to require those wanting to access their accounts to submit selfies and photos of their identification documents"

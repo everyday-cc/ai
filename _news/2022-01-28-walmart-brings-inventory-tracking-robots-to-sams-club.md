@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestreet.com/.amp/investing/walmarts-sams-club-has-hire
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/walmarts-sams-club-has-hired-inventory-robots"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TheStreet.com
@@ -40,6 +40,20 @@ related:
       - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/Sams_Club-inventory_scan-robot_floor_scrubbers-Brain_Corp-Tennant_2.png"
         width: 770
         height: 400
+        isCached: true
+  - title: "Sam’s Club starts national deployment of automated inventory analytics robots"
+    excerpt: "Implementation to leverage scanning accessory which can attach to the almost 600 autonomous floor scrubbers already deployed within Sam’s Club stores nationwide.{/exp:eehive_hacksaw"
+    publishedDateTime: 2022-01-31T17:37:00Z
+    webUrl: "https://www.scmr.com/article/sams_club_starts_national_deployment_of_automated_inventory_analytics_robot"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 36
+    images:
+      - url: "https://www.mmh.com/images/2021_article/Inventory_Scrubbers_4.jpg"
+        width: 480
+        height: 265
         isCached: true
 
 secured: "97UmIDatvdsOpVnJZc+BYXJV/kLWEfp/+figd0F7F3bdnwxsD+yQGdGlunoHj86Wh6GxOn2NbqrqOzDy/37QDAvhqG2JzSnHWLAUmYyBjpm9flljiCecQyp64dZAvhepW3x/+4/5rgJ1v1jbEzUzeYpRzj/9x+RUL6CBcbCVorS4ZkA0DhcrB4MriPjo2wMHwKnxQJh88v8fNvfYJ0BknxCHllFNoGFC5IlK8DB5WVLaC6cL/yTX38YSqpyXQfwRmOZXk5VPz8FMp/lMSAeNPSSqbHoFeflVVCJwHvHScl/EWNxmqORII+oDVxQmg/4l5mLv9cam2D/LkcPX5GrfchddqikonJfQfOIXYRcIoVhNE5rmAlkBBCXDvXvT3hWw9gc3aUQF7QDrSPs6dQW0mS+DpFow2g8fiedmMv53aAXYrNWDunG8IDV80EF9P+N7E56rAnmJzelKWTLTF4YNsoJm5QWkm2866w9UvBNeWBTOpuv5L2x0BH/dPQFw0VwUBLwm9nd0XDndpjRTCf57zQ==;SKodgjInYq3aqE5krjqJrw=="
