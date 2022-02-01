@@ -12,7 +12,7 @@ affiliation:
 twitter:
   username: vsikka
   url: https://twitter.com/vsikka
-  followers: 243111
+  followers: 243107
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Vishal_Sikka
