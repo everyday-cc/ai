@@ -31,37 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "The IRS Should Stop Using Facial Recognition"
-    excerpt: "With tax season upon us, the IRS is pushing individuals to submit to facial recognition in exchange for being able to complete a range of basic tax-related activities online. The IRS has retained a private firm—ID."
-    publishedDateTime: 2022-01-27T22:29:00Z
-    webUrl: "https://www.theatlantic.com/ideas/archive/2022/01/irs-should-stop-using-facial-recognition/621386/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/621386/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/621386/"
+  - title: "The IRS is reportedly looking for ID.me alternatives amid privacy concerns"
+    excerpt: "The Treasury Department and Internal Revenue Service (IRS) are reportedly looking for alternatives to the controversial facial recognition software ID.me, according to a report by Bloomberg. As Bloomberg notes,"
+    publishedDateTime: 2022-01-29T18:50:39Z
+    webUrl: "https://www.theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 89
+      name: theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns
+      domain: theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns
+    quality: 120
     images:
-      - url: "https://cdn.theatlantic.com/thumbor/uj61NrtPPNrapCcc9ebMcNN2_88=/570x321/media/img/mt/2022/01/IRS_Facial_Recognition_1/original.jpg"
-        width: 570
-        height: 321
-        isCached: true
-  - title: "Facial recognition for all online IRS accounts: What's up with ID.me?"
-    excerpt: "Soon, all IRS accounts will require ID.me registration with a \"video selfie.\" Learn how it works and what the risks are."
-    publishedDateTime: 2022-01-30T23:30:00Z
-    webUrl: "https://www.cnet.com/personal-finance/taxes/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/-Y2FC1FfYakP-RnZZ6IzirC829w=/1200x630/2020/07/14/b34e2000-8454-4185-8032-4c6e8a9f54f3/yt-vs-selfie-camera-3.jpg"
+      - url: "https://cdn.vox-cdn.com/thumbor/x3VLjI4OFWFNXl9jMMXAnN78hZI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11900073/acastro_180730_1777_facial_recognition_0003.jpg"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
   - title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
     excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
@@ -93,169 +75,33 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Watch Out for the Facial Recognition Overlords"
-    excerpt: "More technology companies are becoming gatekeepers to our identities and ‘faceprints.’ That could get messy."
-    publishedDateTime: 2022-01-31T07:30:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-for-facial-recognition-overlords-apple-microsoft"
+  - title: "Treasury Weighing Alternatives to ID.me Over Privacy Concerns"
+    excerpt: "Treasury and the IRS are looking into alternatives to ID.me, the department official said, and the agencies are in the meantime attentive to concerns around the software. “The IRS is consistently looking for ways to make the filing process more secure,"
+    publishedDateTime: 2022-01-28T19:07:00Z
+    webUrl: "https://www.bloombergquint.com/politics/treasury-weighing-id-me-alternatives-over-privacy-concerns"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 24
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iY64pWg9Fj8U/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "No more facial recognition? Apple AirPods might be able to recognise the user by checking ear canal"
-    excerpt: "In the latest development, Apple's AirPods will soon be able to verify a user's identity using the inside of the ear. This will be done using an in-ear biometric device that uses ultrasonic signals. These are then reflected against the walls of a user’s ear canal."
-    publishedDateTime: 2022-02-01T10:11:00Z
-    webUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524"
-    ampWebUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 60
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/02/01/237668-fkcvp2px0aypkp.jpeg"
-        width: 918
-        height: 506
-        isCached: true
-  - title: "Opinion: IRS Facial Recognition Rule Is Undemocratic"
-    excerpt: "Later this year, the Internal Revenue Service will require IRS website users to agree to biometric scanning to access tax records. Why should the IRS have the ability to put citizens' privacy at such substantial risk?"
-    publishedDateTime: 2022-01-29T00:51:00Z
-    webUrl: "https://www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic"
-    ampWebUrl: "https://www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/opinion-irs-facial-recognition-rule-is-undemocratic?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/6f3fc0e/2147483647/strip/true/crop/5472x2853+0+383/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F79%2F88d1808747fb987ab61a9ea55fcd%2Foped-irs-heritage-commentary-get.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "IRS will start using facial recognition to access tax information"
-    excerpt: "Why will you soon have to scan your face to access your IRS tax information? You will still be able to file your tax return the old-fashioned way, with paper documents sent via snail mail. But by this summer,"
-    publishedDateTime: 2022-01-31T12:57:00Z
-    webUrl: "https://www.wfaa.com/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    ampWebUrl: "https://www.wfaa.com/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 59
-    images:
-      - url: "https://media.wfaa.com/assets/KHOU/images/c5124352-d52e-4a4e-b816-217f7d009267/c5124352-d52e-4a4e-b816-217f7d009267_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "IRS Website Will Soon Require Facial Recognition To Log Into Your Account"
-    excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are."
-    publishedDateTime: 2022-01-28T10:19:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/?amp"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 58
-    images:
-      - url: "https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2022/01/GettyImages-696625124.jpg?w=1024&h=576&crop=1"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Forget facial recognition! Apple AirPods could soon identify you based on the shape of your EAR CANAL, patent suggests"
-    excerpt: "The new biometric device would use ultrasonic signals reflected against the walls of a user's ear canal to authenticate a user, the Cupertino tech giant explains in a new patent."
-    publishedDateTime: 2022-01-31T20:52:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 50
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/01/31/16/53594163-0-image-a-14_1643647535757.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Facebook will stop using facial recognition data, Meta reports"
-    excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
-    publishedDateTime: 2022-01-29T14:07:00Z
-    webUrl: "https://aldianews.com/culture/heritage-and-history/facebook-will-stop"
-    type: article
-    provider:
-      name: AL DA News
-      domain: aldianews.com
-    quality: 39
-    images:
-      - url: "https://aldianews.com/sites/default/files/2022-01/erika-ardila.jpeg"
-        width: 320
-        height: 320
-        isCached: true
-  - title: "Facial recognition for cattle on the way"
-    excerpt: "The day when producers simply scan the faces of their stock on their smartphone as they walk up the crush, and have all their individual information immediately at hand, might not be far off, thanks to novel livestock facial recognition technology being developed by an Australian researcher."
-    publishedDateTime: 2022-01-30T22:55:00Z
-    webUrl: "https://www.northweststar.com.au/story/7600492/facial-recognition-for-cattle-on-the-way/"
-    type: article
-    provider:
-      name: The North West Star
-      domain: northweststar.com.au
-    quality: 39
-    images:
-      - url: "https://www.northweststar.com.au/images/transform/v1/crop/frm/38U3JBx5nNussShT8aZyYjc/8e0765a2-a6c6-4358-a66d-91416bc426f5.jpg/r0_914_2753_2469_w1200_h678_fmax.jpg"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "Government building national facial recognition database"
-    excerpt: "The Department for Home Affairs has begun work on its national facial recognition database, putting a large project for consolidating national ID matching to tender last week. Home Affairs is looking for a company that will “build and deploy” this system which will include migrating a pre-existing centralised database of facial images collected from state driver licenses,"
-    publishedDateTime: 2022-02-01T03:14:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/government-building-national-facial-recognition-database.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/facial%20recognition%20system.jpg"
-        width: 734
-        height: 413
-        isCached: true
-  - title: "IRS website to leverage facial recognition tech for identity protection"
-    excerpt: "Agency to require those wanting to access their accounts to submit selfies and photos of their identification documents"
-    publishedDateTime: 2022-01-31T18:46:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21255085/irs-website-to-leverage-facial-recognition-tech-for-identity-protection"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/bigstock_Facial_Recognition_Security_Sy_295494367__1_.61f82d7468f43.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
         isCached: true
-  - title: "The IRS website will soon require facial recognition to log in to your account"
-    excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are. The verification process ..."
-    publishedDateTime: 2022-01-28T03:12:00Z
-    webUrl: "https://www.gwinnettdailypost.com/news/business/the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account/article_de35a3fb-313b-5825-9218-6972a99fdd0c.html"
+  - title: "US Treasury considers alternatives to ID.me biometrics for IRS online access"
+    excerpt: "An IRS contract being served by ID.me is continuing to generate controversy based on the use of facial recognition and biometric authentication."
+    publishedDateTime: 2022-01-31T19:20:00Z
+    webUrl: "https://www.biometricupdate.com/202201/us-treasury-considers-alternatives-to-id-me-biometrics-for-irs-online-access"
     type: article
     provider:
-      name: Gwinnett Daily Post
-      domain: gwinnettdailypost.com
-    quality: 35
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/a/45/a4544d21-a21a-5f18-8adf-09087fb8c25c/61f3412be7380.image.jpg?crop=1765%2C927%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/06/25135841/selfie-for-onboarding-identity-verification.jpg"
+        width: 864
+        height: 554
         isCached: true
 
 secured: "43XBNyRz5ItWfRQFR7ayLEmbIjeBXpBYUO1w8fSJYXMNVJToQpN07oGaHi6OW0kf75cvuNZFIfSGIrBq9QCSW/3MYtGwAFVlFaFnDyr+hd0mHOO/IGvut3ykGzh4CuDMCoUluq94uHh8n3dljMzAbUWfnLPFLi35C+Ol92m3DU89Y5BjTo21Rbor7L7mCnT6/bqBPm6S8sPkZs0ShwhfmgCyHahCG2xMeBMA1kfGpNf8ghd5bHXhBbEMKJA+Ii1Hnku+JV0PAagDkujb8IikrzTbovl8NKQbe0EEZRW/6d4wXhp2NKKx5MbxmgVJvD8x+eyMa8Qhrl+Gleb6V5C9mCWSl0SWvVh5vZi6pEgCu/1XL8PnRX4za7DCUV2q1+MRe9Uoi8PHW7BuMGtLliUx0gsyUshP/6zdgWnPURRDYjP3nRwl3KzaNngWvOIy0pq5D4OAGX7cr3jIOSUjwOckHiB4Yad/KLOH6L9ZKh51+iR5wAo6t/nPzmTxruCNNa3wWqQ3VqQZwwoi4AcPEp9Hsg==;N3TsxkDrq6/2/NeiVaG1hQ=="

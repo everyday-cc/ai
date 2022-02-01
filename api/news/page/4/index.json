@@ -2,6 +2,265 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-27-digitalowl-raises-20m-to-analyze-medical-records-for-insurers.md",
+      "title": "DigitalOwl raises $20M to analyze medical records for insurers",
+      "excerpt": "DigitalOwl, a startup developing an AI-powered system to analyze medical records for insurers, has raised $20 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/",
+      "originalUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/health-analytics.jpg?w=1200&strip=all",
+          "width": 1070,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/digitalowl-raises-20m-to-analyze-medical-records-for-insurers/amp/",
+      "publishedDateTime": "2022-01-26T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding.md",
+      "title": "SiteAware, which leverages AI and drones to track construction site progress, nabs additional funding",
+      "excerpt": "SiteAware, which is developing a platform that leverages drones and AI to keep tabs on construction sites, has raised $30 in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/",
+      "originalUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/04/dump-truck-trash-garbage-construction.jpg?w=1200&strip=all",
+          "width": 1181,
+          "height": 791,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/siteaware-which-leverages-ai-and-drones-to-track-construction-site-progress-nabs-additional-funding/amp/",
+      "publishedDateTime": "2022-01-26T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-minios-earns-unicorn-status-for-multicloud-object-storage-apps.md",
+      "title": "MinIO’s earns unicorn status for multicloud object storage apps",
+      "excerpt": "MinIO earned unicorn status based on its multicloud, AWS S3-compatible object storage suite of apps that the companies says reliesversatility and AI separate it from competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/",
+      "originalUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/unicorn.jpg?w=1200&strip=all",
+          "width": 1100,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/minios-earns-unicorn-status-for-multicloud-object-storage-apps/amp/",
+      "publishedDateTime": "2022-01-26T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-how-logzio-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker.md",
+      "title": "How Logz.io accelerates ML recommendations and anomaly detection solutions with Amazon SageMaker",
+      "excerpt": "Logz.io is an AWS Partner Network (APN) Advanced Technology Partner with AWS Competencies in DevOps, Security, and Data &amp; Analytics. Logz.io offers a software as a service (SaaS) observability platform based on best-in-class open-source software solutions for log, metric, and tracing analytics. Customers",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-logz-io-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-logz-io-accelerates-ml-recommendations-and-anomaly-detection-solutions-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/20/ML-6266-image001-1119x630.png",
+          "width": 1119,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T10:18:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-pimloc-grabs-75m-to-pitch-more-businesses-on-ai-for-privacy-video-tools.md",
+      "title": "Pimloc grabs $7.5M to pitch more businesses on AI-for-privacy video tools",
+      "excerpt": "Pimloc, a UK computer vision startup that’s sharpened its business pitch to sell an AI service for quickly anonymizing video — automating the blurring of faces or licence plates, along with a suite of other visual search services — has grabbed another chunk of seed funding:",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/26/pimoc-seed-expansion/",
+      "originalUrl": "https://techcrunch.com/2022/01/26/pimoc-seed-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Screenshot-2022-01-26-at-18.25.45.png?w=1024",
+          "width": 1023,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/26/pimoc-seed-expansion/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/26/pimoc-seed-expansion/amp/",
+      "publishedDateTime": "2022-01-26T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics.md",
       "title": "U.S. Steel to invest in Carnegie Foundry to accelerate advanced robotics",
       "excerpt": "U.S. Steel <> has entered into a strategic investment and partnership with robotics and artificial intelligence studio Carnegie Foundry, the Pittsburgh",
@@ -41,6 +300,48 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-airbnb-blocked-11000-bookings-in-arizona-last-year-with-anti-party-system.md",
+      "title": "Airbnb blocked 11,000 bookings in Arizona last year with 'anti-party' system",
+      "excerpt": "Because these types of parties tend to pop up around the holidays, Airbnb also strengthened rules to prevent one-night bookings for guests who didn't have a positive rental history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.12news.com/article/news/local/arizona/airbnb-blocks-11000-bookings-in-arizona-with-anti-party-system/75-8972ec4d-3ca0-4584-97fa-4753908f15cc",
+      "originalUrl": "https://www.azfamily.com/news/airbnb-blocked-11000-bookings-in-arizona-in-2021-with-anti-party-system/article_b2fa21ee-7ec6-11ec-8976-637be534aeda.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.12news.com/assets/KPNX/images/67fe1349-491d-4204-8cf4-e25e09d2fe1b/67fe1349-491d-4204-8cf4-e25e09d2fe1b_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.12news.com/amp/article/news/local/arizona/airbnb-blocks-11000-bookings-in-arizona-with-anti-party-system/75-8972ec4d-3ca0-4584-97fa-4753908f15cc",
+      "cdnAmpWebUrl": "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/arizona/airbnb-blocks-11000-bookings-in-arizona-with-anti-party-system/75-8972ec4d-3ca0-4584-97fa-4753908f15cc",
+      "publishedDateTime": "2022-01-26T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZFamily",
+        "domain": "azfamily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -346,6 +647,58 @@
       "topics": [
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) services can help companies analyze data ... It also continues to invest in next-gen technologies, like Waymo's driverless cars, which could evolve into revenue-generating businesses in the future. Alphabet's advertising ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/01/18/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/18/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/661360/gettyimages-1321058095.jpg",
+          "width": 2644,
+          "height": 1133,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -846,326 +1199,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-machine-learning-is-going-real-time-heres-why-and-how.md",
-      "title": "Machine learning is going real-time: Here's why and how",
-      "excerpt": "Organizations are turning to machine learning because of the return on investment. The ones doing it in real-time are topping the charts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/machine-learning-is-going-real-time-heres-why-and-how/",
-      "originalUrl": "https://www.zdnet.com/article/machine-learning-is-going-real-time-heres-why-and-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ed3e64f3558611cce41f3d2787dd37f4ba78d2a9/2021/08/05/9ebbe422-f579-448b-a5cb-da4b0062cd68/hour-glass-time.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/machine-learning-is-going-real-time-heres-why-and-how/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-is-going-real-time-heres-why-and-how/",
-      "publishedDateTime": "2022-01-25T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-sri-on-the-future-of-robotics.md",
-      "title": "SRI on the future of robotics",
-      "excerpt": "Thomas Low, the director of the robotics laboratory at SRI International, writes about what roles robotics will grow into in coming years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/sri-on-the-future-of-robotics/",
-      "originalUrl": "https://www.therobotreport.com/sri-on-the-future-of-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/01/featured-web-da-vinci.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-studying-the-big-bang-with-artificial-intelligence.md",
-      "title": "Studying the Big Bang with artificial intelligence",
-      "excerpt": "Therefore, neural networks are used, similar to those used for image recognition: Artificial \"neurons\" are linked together on the computer in a similar way to neurons in the brain -- and this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/01/220125093019.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/01/220125093019.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-arkx-labs-collaborates-with-sensory-for-enhanced-speech-recognition.md",
-      "title": "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition",
-      "excerpt": "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla.md",
-      "title": "Volkswagen, Bosch team up on self-driving software to test Tesla",
-      "excerpt": "The platform, announced by VW’s Cariad software unit and Bosch on Tuesday, will serve all Volkswagen Group passenger vehicles before being opened to the wider industry. As a first step, the partners plan to roll out technology from next year that will allow drivers to temporarily take their hands off the steering wheel via an over-the-air update.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla-11643127103318.html",
-      "originalUrl": "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla-11643127103318.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/01/25/600x338/VOLKSWAGEN_1639226711911_1643127262293.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla/amp-11643127103318.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla/amp-11643127103318.html",
-      "publishedDateTime": "2022-01-25T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-facebook-parent-meta-creates-powerful-ai-supercomputer.md",
-      "title": "Facebook Parent Meta Creates Powerful AI Supercomputer",
-      "excerpt": "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today.",
-      "sourceUrl": null,
-      "webUrl": "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer",
-      "originalUrl": "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.chdrstatic.com/media/85c6e7bd-ac1f-49b6-9a01-b21a20453acf.jpg?width=1200&source=backend&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp",
-      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp",
-      "publishedDateTime": "2022-01-25T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cheddar",
-        "domain": "cheddar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-jd-technology-fintech-unit-of-chinas-jdcom-engages-banks-for-hong-kong-ipo-that-could-raise-up-to-us2-billion-source-says.md",
-      "title": "JD Technology, fintech unit of China’s JD.com, engages banks for Hong Kong IPO that could raise up to US$2 billion, source says",
-      "excerpt": "JD Technology is targeting as much as US$2 billion in a Hong Kong IPO, which could make it the fourth JD group company to be listed in the city.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
-      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/25/d94b0b70-3d84-42ab-a198-db3e5316c492_cc8ac43c.jpg?itok=5M0UU_uZ&v=1643095588",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3164640/jd-technology-fintech-unit-chinas-jdcom-engages-banks-hong",
-      "publishedDateTime": "2022-01-25T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

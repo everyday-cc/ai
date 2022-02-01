@@ -2,6 +2,360 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-01-11-iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning.md",
+      "title": "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning",
+      "excerpt": "Designed for working professionals, programme aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as Artificial Intelligence & Deep Learning Indian Insti - Mediawire",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-88831553,width-1070,height-580,imgsize-1594541,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-corsight-ai-reduces-bias-in-its-facial-recognition-technology.md",
+      "title": "Corsight AI reduces bias in its facial recognition technology",
+      "excerpt": "Corsight AI, announces a reduction in both gender and racial bias within its Autonomous AI-powered solution, Fortify.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/",
+      "originalUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s33644.pcdn.co/wp-content/uploads/2018/08/facial-recognition-e1533212864558.jpeg",
+          "width": 388,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/amp/",
+      "publishedDateTime": "2022-01-11T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ifsecglobal.com",
+        "domain": "ifsecglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-online-advertisement-market-to-see-huge-growth-by-2027-baidu-facebook-google.md",
+      "title": "Online Advertisement Market to See Huge Growth by 2027 | Baidu, Facebook, Google",
+      "excerpt": "Advance Market Analytics published a new research publication on “Global Online Advertisement Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/online-advertisement-market-to-see-huge-growth-by-2027-baidu-facebook-google",
+      "originalUrl": "https://www.digitaljournal.com/pr/online-advertisement-market-to-see-huge-growth-by-2027-baidu-facebook-google",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T00:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning.md",
+      "title": "IIT Guwahati, TPL launch programs in cybersecurity, AI & Deep Learning",
+      "excerpt": "The program aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as AI & Deep Learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/",
+      "originalUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/09/Blockchain-in-healthcare1.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/",
+      "publishedDateTime": "2022-01-10T23:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust.md",
+      "title": "University of Cambridge: Community of ethical hackers needed to prevent AI’s looming ‘crisis of trust’",
+      "excerpt": "The Artificial Intelligence industry should create a global community of hackers and 'threat modellers' dedicated to stress-testing the harm potential of new AI products in order to earn the trust of governments and the public before it’s too late.",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/cambridge-University.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
+      "publishedDateTime": "2022-01-10T20:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-dallas-no-2-in-tech-job-postings-per-latest-comptia-report.md",
+      "title": "Dallas No. 2 in Tech Job Postings Per Latest CompTIA Report",
+      "excerpt": "In addition to overall tech job postings, those for remote and work-from-home positions increased across U.S. metros. The top posted remote/WFH positions were software developers (No. 1) and IT support specialists (No.",
+      "sourceUrl": null,
+      "webUrl": "https://www.comptia.org/content/tech-jobs-report",
+      "originalUrl": "https://dallasinnovates.com/dallas-no-2-in-tech-job-postings-per-latest-comptia-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://comptiacdn.azureedge.net/webcontent/images/default-source/mainsitetemplateimages/comptia_logo_white.png?sfvrsn=df1edab8_2",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-10T20:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dallasinnovates.com",
+        "domain": "dallasinnovates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-computer-vision-in-healthcare-market-qualitative-analysis-quantitative-analysis-forecast-up-to-2030.md",
+      "title": "Computer Vision in Healthcare Market: Qualitative Analysis, Quantitative Analysis, Forecast up to 2030",
+      "excerpt": "The global Computer Vision in Healthcare market is segregated on the basis of Product & Service as Software, Hardware, and Networks. The Global Computer Vision in Healthcare Market is expected to be around US$ 416 Billion by 2025 at a CAGR of 21.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/24988482/computer-vision-in-healthcare-market-qualitative-analysis-quantitative-analysis-forecast-up-to-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/24988482/computer-vision-in-healthcare-market-qualitative-analysis-quantitative-analysis-forecast-up-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-10T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-elon-musk-reveals-another-tesla-full-self-driving-price-increase.md",
+      "title": "Elon Musk reveals another Tesla “Full Self-Driving” price increase",
+      "excerpt": "Tesla may be credited for turning the automotive industry on its head and pushing forward battery-powered cars and power solutions, but that might not be what it’s remembered for. Company",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/",
+      "originalUrl": "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/01/tesla-model-y-1.jpg",
+          "width": 1440,
+          "height": 820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/",
+      "publishedDateTime": "2022-01-10T18:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-will-artificial-intelligence-be-taking-your-next-drive-thru-order.md",
       "title": "Will Artificial Intelligence Be Taking Your Next Drive-Thru Order?",
       "excerpt": "Many people have experienced ordering fast food in a drive-thru and opening the bag later to find their French fries are missing, or their burgers are covered in ketchup they did not want. Artificial intelligence (AI) may make ordering food through a talking box easier,",
@@ -826,385 +1180,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-5-fresh-examples-of-ai.md",
-      "title": "5 Fresh Examples Of AI",
-      "excerpt": "What used to be seen as niche is now widespread, with innovative AI applications across all industries. 86% of companies say AI became a mainstream technology in 2021—and it shows no signs of stopping.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb32dce7e4fb522601f127%2F0x0.jpg",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples-of-ai/amp/",
-      "publishedDateTime": "2022-01-10T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-artificial-intelligence-in-supply-chain-market-size-worth-143-billion-globally-by-2028-at-2017-cagr-verified-market-research.md",
-      "title": "Artificial Intelligence In Supply Chain Market size worth $ 14.3 Billion, Globally, by 2028 at 20.17% CAGR: Verified Market Research®",
-      "excerpt": "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management, Supply Chain Planning, Warehouse Management,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-autonomous-tractors-with-robot-brains-are-coming-to-take-over-the-farm.md",
-      "title": "Autonomous Tractors with Robot Brains Are Coming to Take Over the Farm",
-      "excerpt": "John Deere revealed a self-driving tractor at CES with traditional diesel power, while Monarch's was autonomous and electric.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoweek.com/news/future-cars/a38705415/autonomous-tractors-robot-brains-for-farming/",
-      "originalUrl": "https://www.autoweek.com/news/future-cars/a38705415/autonomous-tractors-robot-brains-for-farming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/monarch-3-1641775695.png?crop=1.00xw:0.708xh;0,0.132xh&resize=1200:*",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoweek.com/news/future-cars/amp38705415/autonomous-tractors-robot-brains-for-farming/",
-      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/future-cars/amp38705415/autonomous-tractors-robot-brains-for-farming/",
-      "publishedDateTime": "2022-01-10T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoweek",
-        "domain": "autoweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-r1-rcm-to-buy-artificial-intelligence-software-firm-cloudmed.md",
-      "title": "R1 RCM to buy artificial intelligence software firm Cloudmed",
-      "excerpt": "R1 RCM has entered into an agreement to purchase Cloudmed, a company that uses artificial intelligence and automation for revenue-cycle management, in an all-stock transaction that values Cloudmed at roughly $4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernhealthcare.com/revenue-cycle/r1-rcm-buy-artificial-intelligence-software-firm-cloudmed",
-      "originalUrl": "https://www.modernhealthcare.com/revenue-cycle/r1-rcm-buy-artificial-intelligence-software-firm-cloudmed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/merger-arrows-money_i.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modern Healthcare",
-        "domain": "modernhealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights.md",
-      "title": "IFF And SleepScore Labs Develop Fragrance That Targets Sleepless Nights",
-      "excerpt": "IFF and SleepScore Labs have partnered to develop a scent that will help consumers get a better night’s sleep based on science and data and creativity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/",
-      "originalUrl": "https://www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dba89ae7c75c3c0e034eaa%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/amp/",
-      "publishedDateTime": "2022-01-10T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-when-mind-melds-with-machine-whos-in-control.md",
-      "title": "When Mind Melds With Machine, Who’s in Control?",
-      "excerpt": "Brain-computer interfaces are getting better all the time—and they’re about to land us in a philosophical quagmire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/when-mind-melds-machine-whos-in-control-brain-computer-interface/",
-      "originalUrl": "https://www.wired.com/story/when-mind-melds-machine-whos-in-control-brain-computer-interface/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61d782e91c1a4c101b0f4b91/master/pass/When-Mind-Melds-with-Machine,-Who%E2%80%99s-in-Control-.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/when-mind-melds-machine-whos-in-control-brain-computer-interface/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/when-mind-melds-machine-whos-in-control-brain-computer-interface/amp",
-      "publishedDateTime": "2022-01-10T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-how-covid-broke-supply-chains-and-how-ai-and-blockchain-could-fix-them.md",
-      "title": "How COVID broke supply chains, and how AI and blockchain could fix them",
-      "excerpt": "When the coronavirus crisis erupted in 2020, it became apparent that the medical emergency was accompanied by severe shortages, especially in some medical devices.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-01-covid-broke-chains-ai-blockchain.html",
-      "originalUrl": "https://phys.org/news/2022-01-covid-broke-chains-ai-blockchain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/how-covid-broke-supply.jpg",
-          "width": 1000,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-01-covid-broke-chains-ai-blockchain.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-covid-broke-chains-ai-blockchain.amp",
-      "publishedDateTime": "2022-01-10T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027.md",
-      "title": "AI in Computer Vision Market Size Soaring at 26.3% CAGR to Reach 64.59 billion USD by 2027",
-      "excerpt": "Unscathed by challenges, the worldwide AI in computer market is expected to record a strong CAGR of 26.3% over 2021-2027, consequently multiplying the industry remuneration from USD 12.6 million in 2020 to USD 64.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027-2022-01-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027-2022-01-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

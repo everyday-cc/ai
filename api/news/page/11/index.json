@@ -2,6 +2,388 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-19-a2-bio-to-present-at-asco-gi-2022-on-use-of-next-generation-sequencing-ngs-to-identify-gi-cancer-patients-for-future-tmod-car-t-therapy.md",
+      "title": "A2 Bio to Present at ASCO-GI 2022 on Use of Next Generation Sequencing (NGS) to Identify GI Cancer Patients for Future Tmod™ CAR T Therapy",
+      "excerpt": "Press Release A2 Biotherapeutics, Inc. (\"A2 Bio\") is a biotechnology company focused on the development of a first-in-class, logic-gated Tmod™ CAR T cell therapy platform to tackle the fundamental challenge in solid tumor treatment-the ability of cancer",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/18/a2-bio-to-present-at-asco-gi-2022-on-use-of-next-generation-sequencing-ngs-to-identify-gi-cancer-patients-for-future-tmod-car-t-therapy/",
+      "originalUrl": "https://venturebeat.com/2022/01/18/a2-bio-to-present-at-asco-gi-2022-on-use-of-next-generation-sequencing-ngs-to-identify-gi-cancer-patients-for-future-tmod-car-t-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/18/a2-bio-to-present-at-asco-gi-2022-on-use-of-next-generation-sequencing-ngs-to-identify-gi-cancer-patients-for-future-tmod-car-t-therapy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/a2-bio-to-present-at-asco-gi-2022-on-use-of-next-generation-sequencing-ngs-to-identify-gi-cancer-patients-for-future-tmod-car-t-therapy/amp/",
+      "publishedDateTime": "2022-01-18T21:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-softbank-leads-cash-infusion-into-ai-infrastructure-company-pyxis-one-as-it-starts-year-with-new-name.md",
+      "title": "SoftBank leads cash infusion into AI infrastructure company Pyxis One as it starts year with new name",
+      "excerpt": "Prior to starting Pixis, the co-founders spoke to potential marketing customers about how to scale SaaS companies quickly in a “cookie less” world.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/",
+      "originalUrl": "https://techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Pixis-Founders.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/18/softbank-ai-infrastructure-pyxis-one-pixis/amp/",
+      "publishedDateTime": "2022-01-18T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-why-games-may-not-be-the-best-benchmark-for-ai.md",
+      "title": "Why games may not be the best benchmark for AI",
+      "excerpt": "Games have long been used as a benchmark in AI, but not all experts are convinced that they're the right goalposts for research.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/",
+      "originalUrl": "https://venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/195A8963_cropped.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/why-games-may-not-be-the-best-benchmark-for-ai/amp/",
+      "publishedDateTime": "2022-01-18T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-softbanks-china-bets-gear-up-for-hong-kong-ipos.md",
+      "title": "SoftBank's China bets gear up for Hong Kong IPOs",
+      "excerpt": "A string of Chinese technology companies backed by SoftBank Group are gearing up for initial public offerings in Hong Kong, testing the Japanese technology group's path to recovery after racking up losses last year.",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/SoftBank2/SoftBank-s-China-bets-gear-up-for-Hong-Kong-IPOs",
+      "originalUrl": "https://asia.nikkei.com/Business/SoftBank2/SoftBank-s-China-bets-gear-up-for-Hong-Kong-IPOs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F7%252F8%252F3%252F38423879-4-eng-GB%252F2019110son.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T17:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
+      "title": "Celebal Technologies has earned the Al and Machine Learning on Microsoft Azure Advanced Specialization",
+      "excerpt": "Celebal Technologies, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep knowledge, extensive experience an",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
+      "originalUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
+      "publishedDateTime": "2022-01-18T17:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022.md",
+      "title": "Fintech Firm Truebill Explains How You Can “Reset Your Finances” for 2022",
+      "excerpt": "The team at TrueBill notes that the new year can be a good time to \"reset your finances,\" and they would like to help you out with that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2022/01/2022-600x537.jpeg",
+          "width": 600,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/185652-fintech-firm-truebill-explains-how-you-can-reset-your-finances-for-2022/amp/",
+      "publishedDateTime": "2022-01-18T17:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-microsofts-splurge-on-activision-blizzard-could-mainstream-the-metaverse.md",
+      "title": "Microsoft’s splurge on Activision Blizzard could mainstream the metaverse",
+      "excerpt": "Microsoft's bet on Activision Blizzard shows gaming's preeminence in the metaverse. The competition with Meta is heating up",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/microsoft-activision-blizzard-deal-could-mainstream-the-metaverse",
+      "originalUrl": "https://thenextweb.com/news/microsoft-activision-blizzard-deal-could-mainstream-the-metaverse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FUntitled-design-6.jpg&signature=49ef55fd584b0e2dea7f14ce1d2d3327",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-confused-replika-ai-users-are-standing-up-for-bots-and-trying-to-bang-the-algorithm.md",
+      "title": "Confused Replika AI users are standing up for bots and trying to bang the algorithm",
+      "excerpt": "It should go without saying, but you can't have sex with an algorithm. That doesn't stop some people from trying.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/confused-replika-ai-users-are-standing-up-for-bots-trying-bang-the-algorithm",
+      "originalUrl": "https://thenextweb.com/news/confused-replika-ai-users-are-standing-up-for-bots-trying-bang-the-algorithm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Freplikaskull.jpg&signature=926f0f4500827c7456dd328ad9e35e92",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T17:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-report-how-ai-and-ml-optimize-the-diagnosis-process-in-health-care.md",
       "title": "Report: How AI and ML optimize the diagnosis process in health care",
       "excerpt": "Medical diagnostics using AI and ML are expanding, and automation is helping to detect life-threatening conditions in their earliest stages.",
@@ -859,387 +1241,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor.md",
-      "title": "Detect NLP data drift using custom Amazon SageMaker Model Monitor",
-      "excerpt": "Natural language understanding is applied in a wide range of use cases, from chatbots and virtual assistants, to machine translation and text summarization. To ensure that these applications are running at an expected level of performance, it’s important that data in the training and production environments",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-nlp-data-drift-using-custom-amazon-sagemaker-model-monitor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/14/ML-5335-image001-fixed-1260x560.png",
-          "width": 1260,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T14:19:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-cashpro-forecasting-bank-of-americas-new-ai-and-machine-learning-tool.md",
-      "title": "CashPro Forecasting: Bank of America's new AI and machine learning tool",
-      "excerpt": "Looking for a way to make informed financial decisions for your business? Bank of America might be able to help.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
-      "originalUrl": "https://www.zdnet.com/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bank-of-america-announces-ai-and-machine-learning-cashpro-forecasting-tool/",
-      "publishedDateTime": "2022-01-18T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-google-rolls-out-vertex-ai-forecast-for-retailers.md",
-      "title": "Google rolls out Vertex AI Forecast for retailers",
-      "excerpt": "As supply chain fluctuations, growing global markets and other factors complicate demand forecasting, Google is aiming to help retailers leverage AI for better planning",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-rolls-out-vertex-ai-forecast-for-retailers/",
-      "originalUrl": "https://www.zdnet.com/article/google-rolls-out-vertex-ai-forecast-for-retailers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-rolls-out-vertex-ai-forecast-for-retailers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-rolls-out-vertex-ai-forecast-for-retailers/",
-      "publishedDateTime": "2022-01-18T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-clockwise-raises-45m-to-help-employees-better-manage-time.md",
-      "title": "Clockwise raises $45M to help employees better manage time",
-      "excerpt": "Clockwise, which leverages AI to reschedule meeting times and ensure employees have enough individual work time, has raised $45 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/18/clockwise-raises-45m-to-help-employees-better-manage-time/",
-      "originalUrl": "https://venturebeat.com/2022/01/18/clockwise-raises-45m-to-help-employees-better-manage-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1125239409.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/18/clockwise-raises-45m-to-help-employees-better-manage-time/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/clockwise-raises-45m-to-help-employees-better-manage-time/amp/",
-      "publishedDateTime": "2022-01-18T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-protonai-raises-20m-to-optimize-wholesale-distributors-sales-operations.md",
-      "title": "Proton.ai raises $20M to optimize wholesale distributors’ sales operations",
-      "excerpt": "Proton.ai, a company developing AI-powered technologies to support sales operations teams, has raised $20 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/18/proton-ai-raises-20m-to-optimize-wholesale-distributors-sales-operations/",
-      "originalUrl": "https://venturebeat.com/2022/01/18/proton-ai-raises-20m-to-optimize-wholesale-distributors-sales-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1180037246.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/18/proton-ai-raises-20m-to-optimize-wholesale-distributors-sales-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/18/proton-ai-raises-20m-to-optimize-wholesale-distributors-sales-operations/amp/",
-      "publishedDateTime": "2022-01-18T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-computer-vision-based-anomaly-detection-using-amazon-lookout-for-vision-and-aws-panorama.md",
-      "title": "Computer vision-based anomaly detection using Amazon Lookout for Vision and AWS Panorama",
-      "excerpt": "This is the second post in the two-part series on how Tyson Foods Inc., is using computer vision applications at the edge to automate industrial processes inside their meat processing plants. In Part 1, we discussed an inventory counting application at packaging lines built with Amazon SageMaker and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/computer-vision-based-anomaly-detection-using-amazon-lookout-for-vision-and-aws-panorama/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/computer-vision-based-anomaly-detection-using-amazon-lookout-for-vision-and-aws-panorama/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/30/ML-6470-image004-934x630.png",
-          "width": 934,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T12:58:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-american-financial-acquires-insurance-risk-assessment-platform-verikai.md",
-      "title": "American Financial acquires insurance risk assessment platform Verikai",
-      "excerpt": "American Financial Group (AFG) buys San Francisco-based  Verikai, a machine learning and artificial intelligence firm that uses a predictive risk tool for assessing",
-      "sourceUrl": null,
-      "webUrl": "https://www.insurancejournal.com/news/national/2022/01/21/650423.htm",
-      "originalUrl": "https://seekingalpha.com/news/3788967-american-financial-acquires-insurance-risk-assessment-platform-verikai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.insurancejournal.com/img/insurance-journal-logo-680.png",
-          "width": 681,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T12:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-artificial-intelligence-and-machine-learning-preventing-financial-fraud.md",
-      "title": "Artificial Intelligence and Machine Learning: preventing financial fraud",
-      "excerpt": "By Professor Jon Crowcroft, iKVA Data from UK Finance shows that a total of £753.9 million was lost through fraudulent activity in the first half of 2021 alone, an increase of 30% compared to the same period in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-and-machine-learning-preventing-financial-fraud/",
-      "originalUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-and-machine-learning-preventing-financial-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/01/iStock-844535726.jpg",
-          "width": 750,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/artificial-intelligence-and-machine-learning-preventing-financial-fraud/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-and-machine-learning-preventing-financial-fraud/",
-      "publishedDateTime": "2022-01-18T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

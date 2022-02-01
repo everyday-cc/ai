@@ -2,6 +2,423 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-01-12-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature-called-dldsr.md",
+      "title": "Latest Nvidia drivers reveal AI-powered downscaling feature called DLDSR",
+      "excerpt": "Dynamic Super Resolution is Nvidia’s method for letting users easily downsample games. It renders a game at a higher resolution, then shrinks it back down to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
+      "originalUrl": "https://www.techspot.com/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-11-image-21.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
+      "publishedDateTime": "2022-01-11T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker.md",
+      "title": "Industrial automation at Tyson with computer vision, AWS Panorama, and Amazon SageMaker",
+      "excerpt": "This is the first in a two-part blog series on how Tyson Foods, Inc., is utilizing Amazon SageMaker and AWS Panorama to automate industrial processes at their meat packing plants by bringing the benefits of artificial intelligence applications at the edge. In part one, we discuss an inventory counting",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/10/ML-5350-image007-1260x501.png",
+          "width": 1260,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T12:05:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-google-vs-azure-vs-aws-comparison-part-4-what-do-first-s4-or-cloud-transformation.md",
+      "title": "Google vs Azure vs AWS Comparison. Part 4: What do first - S/4 or Cloud Transformation?",
+      "excerpt": "This transformation is huge With his essay series, the author wants to support customers facing one of their biggest technology transformations so far. It is about S/4-conversion of SAP landscapes on the one side.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/google-vs-azure-aws-comparison-part-4-what-do-first-braun",
+      "originalUrl": "https://www.linkedin.com/pulse/google-vs-azure-aws-comparison-part-4-what-do-first-braun",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGua3lS1jEoSg/article-cover_image-shrink_600_2000/0/1641928216715?e=1648080000&v=beta&t=Ycxc68o_Dk8liZfWg2aS1fBUCWbuRgBf_6alXmM8ytw",
+          "width": 949,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T11:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi.md",
+      "title": "IBM looks to sustainability with acquisition of emissions data company Envizi",
+      "excerpt": "Perhaps IBM has decided the Watson brand has lost some of its shine over the years and has moved on from attaching the name to every AI-driven solution in the company. The company notes that it is ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/",
+      "originalUrl": "https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1234056550.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/amp/",
+      "publishedDateTime": "2022-01-11T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-synthetic-data-platform-mostly-ai-lands-25m.md",
+      "title": "Synthetic data platform Mostly AI lands $25M",
+      "excerpt": "Mostly AI, a startup that uses AI to create synthetic data for enterprises, today raised $25 million in a Series B round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/11/synthetic-data-platform-mostly-ai-lands-25m/",
+      "originalUrl": "https://venturebeat.com/2022/01/11/synthetic-data-platform-mostly-ai-lands-25m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1168105746-e1639167996694.jpg?fit=800%2C475&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/11/synthetic-data-platform-mostly-ai-lands-25m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/synthetic-data-platform-mostly-ai-lands-25m/amp/",
+      "publishedDateTime": "2022-01-11T09:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-text-autocompletion-systems-aim-to-ease-our-lives-but-there-are-risks.md",
+      "title": "Text autocompletion systems aim to ease our lives, but there are risks",
+      "excerpt": "Text autocompletion technology uses AI to help us to write emails and messages by suggesting words and even entire sentences. But bias can creep into these systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/11/text-autocompletion-systems-aim-to-ease-our-lives-but-there-are-risks/",
+      "originalUrl": "https://venturebeat.com/2022/01/11/text-autocompletion-systems-aim-to-ease-our-lives-but-there-are-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/Smart-Reply-2.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/11/text-autocompletion-systems-aim-to-ease-our-lives-but-there-are-risks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/text-autocompletion-systems-aim-to-ease-our-lives-but-there-are-risks/amp/",
+      "publishedDateTime": "2022-01-11T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare.md",
+      "title": "DeepScribe Raises $30M To Become First Widely Accepted Application of Voice + AI in Healthcare",
+      "excerpt": "Press Release DeepScribe, the first widely accepted application of voice and AI technology in healthcare, announced today that it has raised $30 million led by Nina Achadjian at Index Ventures, with participation from Alex Wang,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare/",
+      "originalUrl": "https://venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/mms.businesswire.com/media/20220111005911/en/1325062/4/Deepscribe-22.jpg?strip=all&ssl=1",
+          "width": 480,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare/amp/",
+      "publishedDateTime": "2022-01-11T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-tesla-full-self-driving-has-an-assertive-mode-that-can-make-rolling-stops.md",
+      "title": "Tesla Full Self-Driving has an 'Assertive' mode that can make rolling stops",
+      "excerpt": "Tesla's polarizing Full Self-Driving beta software is back with another round of controversy. Now included with the software are profiles that change the behavior of the software, and one selection may engage in behavior that violates US traffic laws.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-assertive-mode-rolling-stops/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-assertive-mode-rolling-stops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/ZznhwJPP1wmRpl5zBeqxPLaLpBs=/2021/07/19/56f4362c-0a83-43a4-bbbd-42f736aa06ce/ogi-fsd.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-assertive-mode-rolling-stops/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-assertive-mode-rolling-stops/",
+      "publishedDateTime": "2022-01-11T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-digital-product-development-trends-in-2022.md",
       "title": "Digital Product Development Trends in 2022",
       "excerpt": "Product architects and creators are looking to design and create new and exciting digital products that will capture the consumers’ attention or dominate the business space. Pushing the boundaries of what is possible and trying to find which of those possibilities is practical.",
@@ -819,360 +1236,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning.md",
-      "title": "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning",
-      "excerpt": "Designed for working professionals, programme aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as Artificial Intelligence & Deep Learning Indian Insti - Mediawire",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-88831553,width-1070,height-580,imgsize-1594541,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-corsight-ai-reduces-bias-in-its-facial-recognition-technology.md",
-      "title": "Corsight AI reduces bias in its facial recognition technology",
-      "excerpt": "Corsight AI, announces a reduction in both gender and racial bias within its Autonomous AI-powered solution, Fortify.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/",
-      "originalUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s33644.pcdn.co/wp-content/uploads/2018/08/facial-recognition-e1533212864558.jpeg",
-          "width": 388,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/amp/",
-      "publishedDateTime": "2022-01-11T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ifsecglobal.com",
-        "domain": "ifsecglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-online-advertisement-market-to-see-huge-growth-by-2027-baidu-facebook-google.md",
-      "title": "Online Advertisement Market to See Huge Growth by 2027 | Baidu, Facebook, Google",
-      "excerpt": "Advance Market Analytics published a new research publication on “Global Online Advertisement Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/online-advertisement-market-to-see-huge-growth-by-2027-baidu-facebook-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/online-advertisement-market-to-see-huge-growth-by-2027-baidu-facebook-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning.md",
-      "title": "IIT Guwahati, TPL launch programs in cybersecurity, AI & Deep Learning",
-      "excerpt": "The program aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as AI & Deep Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/",
-      "originalUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/09/Blockchain-in-healthcare1.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/",
-      "publishedDateTime": "2022-01-10T23:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust.md",
-      "title": "University of Cambridge: Community of ethical hackers needed to prevent AI’s looming ‘crisis of trust’",
-      "excerpt": "The Artificial Intelligence industry should create a global community of hackers and 'threat modellers' dedicated to stress-testing the harm potential of new AI products in order to earn the trust of governments and the public before it’s too late.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/cambridge-University.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "publishedDateTime": "2022-01-10T20:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-dallas-no-2-in-tech-job-postings-per-latest-comptia-report.md",
-      "title": "Dallas No. 2 in Tech Job Postings Per Latest CompTIA Report",
-      "excerpt": "In addition to overall tech job postings, those for remote and work-from-home positions increased across U.S. metros. The top posted remote/WFH positions were software developers (No. 1) and IT support specialists (No.",
-      "sourceUrl": null,
-      "webUrl": "https://www.comptia.org/content/tech-jobs-report",
-      "originalUrl": "https://dallasinnovates.com/dallas-no-2-in-tech-job-postings-per-latest-comptia-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://comptiacdn.azureedge.net/webcontent/images/default-source/mainsitetemplateimages/comptia_logo_white.png?sfvrsn=df1edab8_2",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T20:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dallasinnovates.com",
-        "domain": "dallasinnovates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-computer-vision-in-healthcare-market-qualitative-analysis-quantitative-analysis-forecast-up-to-2030.md",
-      "title": "Computer Vision in Healthcare Market: Qualitative Analysis, Quantitative Analysis, Forecast up to 2030",
-      "excerpt": "The global Computer Vision in Healthcare market is segregated on the basis of Product & Service as Software, Hardware, and Networks. The Global Computer Vision in Healthcare Market is expected to be around US$ 416 Billion by 2025 at a CAGR of 21.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/24988482/computer-vision-in-healthcare-market-qualitative-analysis-quantitative-analysis-forecast-up-to-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/24988482/computer-vision-in-healthcare-market-qualitative-analysis-quantitative-analysis-forecast-up-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-elon-musk-reveals-another-tesla-full-self-driving-price-increase.md",
-      "title": "Elon Musk reveals another Tesla “Full Self-Driving” price increase",
-      "excerpt": "Tesla may be credited for turning the automotive industry on its head and pushing forward battery-powered cars and power solutions, but that might not be what it’s remembered for. Company",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/",
-      "originalUrl": "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/01/tesla-model-y-1.jpg",
-          "width": 1440,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/",
-      "publishedDateTime": "2022-01-10T18:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

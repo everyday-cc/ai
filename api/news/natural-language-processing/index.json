@@ -207,31 +207,22 @@
       "title": "ArkX Labs Collaborates with Sensory for Enhanced Speech Recognition",
       "excerpt": "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced an expanded collaboration with voice and vision AI leader, Sensory, to incorporate its advanced speech recognition,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-143530d9ad154b76bf05a993397259e1",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/01/25/9532829.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T08:38:00-08:00",
+      "publishedDateTime": "2022-01-25T08:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -241,8 +232,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -275,6 +267,40 @@
       "provider": {
         "name": "openglobalrights",
         "domain": "openglobalrights.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-meta-builds-ai-supercomputer-with-access-to-user-data-of-millions-should-we-worry.md",
+      "title": "Meta Builds AI Supercomputer With Access To User Data Of Millions; Should We Worry?",
+      "excerpt": "and translate between languages. On the other hand, the Meta AI Research SuperCluster is different as it aims to build new AI models. \"RSC will help Meta's AI researchers build new and better AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizbot.com/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
+      "originalUrl": "https://www.gizbot.com/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizbot.com/amphtml/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
+      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
+      "publishedDateTime": "2022-01-25T04:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1404,49 +1430,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-389-billion-by-2026.md",
-      "title": "The Worldwide Far-Field Speech and Voice Recognition Industry is Expected to Reach $3.89 Billion by 2026",
-      "excerpt": "The \"Global Far-Field Speech and Voice Recognition Market (2021-2026) by Component, Application & Microphone Solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25052541/the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-3-89-billion-by",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25052541/the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-3-89-billion-by",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25052541",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25052541",
-      "publishedDateTime": "2022-01-14T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

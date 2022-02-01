@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-17-waymo-and-jb-hunt-expand-autonomous-trucking-partnership.md",
+      "title": "Waymo and J.B. Hunt expand autonomous trucking partnership",
+      "excerpt": "Back in the summer of 2021, we reported on a newly formed partnership between autonomous vehicle developer Waymo and trucking company J.B. Hunt. Well, now, according to a blog post published on Friday by Waymo,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-jb-hunt-partnership-expanded/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-jb-hunt-partnership-expanded/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/QuBZCKQalShPdGt42jTbBsCuB9Q=/2021/06/09/0de5bc3e-0dba-4b63-a565-0627fe3040d0/1-9mdaeoy-fpxsle9usrp7pa.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-jb-hunt-partnership-expanded/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-jb-hunt-partnership-expanded/",
+      "publishedDateTime": "2022-01-17T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-exploring-ai-ethics-and-accountability.md",
+      "title": "Exploring AI ethics and accountability",
+      "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
+      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=628,fit=crop,quality=80,format=auto,onerror=redirect/wp-content/uploads/2018/02/GettyImages-679721306.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
+      "publishedDateTime": "2022-01-16T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-01-15-chasing-reliability-in-automotive-electronics.md",
       "title": "Chasing Reliability In Automotive Electronics",
       "excerpt": "They’re looking at artificial intelligence. The ecosystem as we knew it five years ... Additionally, new entrants like Uber, Waymo and Apple are designing their own complete systems, despite their relative lack of experience in the automotive industry.",
@@ -1292,94 +1388,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-this-robot-trader-is-betting-on-big-gains-for-tesla-and-nvidia-stock-its-been-right-before.md",
-      "title": "This Robot Trader Is Betting on Big Gains for Tesla and Nvidia Stock. It’s Been Right Before.",
-      "excerpt": "This artificial intelligence-powered ETF ditched Netflix, Merck, and three other familiar stocks this month. Here's what it bought.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218?refsec=funds",
-      "originalUrl": "https://www.barrons.com/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218?refsec=funds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-68043/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218",
-      "publishedDateTime": "2022-01-10T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-tesla-and-nvidia-are-picked-for-big-gains-by-this-robot-trader-its-been-right-before.md",
-      "title": "Tesla and Nvidia Are Picked for Big Gains by This Robot Trader. It’s Been Right Before.",
-      "excerpt": "This artificial intelligence-powered ETF ditched Netflix, Merck, and three other familiar stocks this month. Here's what it bought.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
-      "originalUrl": "https://www.barrons.com/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-68043/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
-      "publishedDateTime": "2022-01-10T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

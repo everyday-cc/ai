@@ -2,6 +2,388 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-01-18-ai-artificial-intelligence-speaker-market-report-size-by-product-type-applications-upcoming-trends-geographic-scope-2022-2027.md",
+      "title": "AI (Artificial Intelligence) Speaker Market Report Size by Product, Type, Applications, Upcoming Trends, Geographic Scope 2022-2027",
+      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “ AI (Artificial Intelligence) Speaker Market ” share is projected to Expand speedily in all development areas over the period between 2022 and 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-report-size-by-product-type-applications-upcoming-trends-geographic-scope-2022-2027-2022-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-report-size-by-product-type-applications-upcoming-trends-geographic-scope-2022-2027-2022-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T23:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-samsung-announces-exynos-2200-chipset-with-amd-rdna-2-based-xclipse-gpu.md",
+      "title": "Samsung announces Exynos 2200 chipset with AMD RDNA 2-based Xclipse GPU",
+      "excerpt": "Samsung has announced its latest flagship smartphone processor — Exynos 2200, which will be powering the company’s upcoming premium smartphones later this year. This is the same chipset that the company was set to unveil on 11th January but got delayed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/",
+      "originalUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/exynos-2200.png",
+          "width": 935,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/?amp=1",
+      "publishedDateTime": "2022-01-17T19:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-walgreens-moves-to-ai-driven-search-experience-with-algolia.md",
+      "title": "Walgreens moves to AI-driven search experience with Algolia",
+      "excerpt": "The companies hope to provide an AI-driven solution that analyzes users' search terms, predict their intent, and deliver more search results.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/",
+      "originalUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/Walgreens_store-e1621433287338.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/amp/",
+      "publishedDateTime": "2022-01-17T19:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration.md",
+      "title": "Multi-layer security cover with facial recognition systems in place for R-Day celebration",
+      "excerpt": "After the improvised explosive device (IED) was found at Ghazipur Flower Market ahead of the Republic Day and later diffused, the Delhi Police have fortified areas in and around Rajpath with multi-layer security cover,",
+      "sourceUrl": null,
+      "webUrl": "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393",
+      "originalUrl": "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.mathrubhumi.com/polopoly_fs/1.3515805.1548470408!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393",
+      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393",
+      "publishedDateTime": "2022-01-17T18:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mathrubhumi",
+        "domain": "mathrubhumi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford.md",
+      "title": "Autonomous driving start-up Wayve bags $200 million from Microsoft, Virgin and Baillie Gifford",
+      "excerpt": "Founded in London in 2017, Wayve's team of machine learning scientists and roboticists are trying to pioneer an artificial intelligence ... Chris Burgess, ex-Waymo Principal Engineer Dan McCloskey ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/01/18/wayve-series-b-microsoft-virgin.html",
+      "originalUrl": "https://www.cnbc.com/2022/01/18/wayve-series-b-microsoft-virgin.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T17:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-5-stocks-offering-exposure-to-the-promising-semiconductor-industry.md",
+      "title": "5 Stocks Offering Exposure to the Promising Semiconductor Industry",
+      "excerpt": "The Analog/Mixed Signal Semiconductor industry is one of the most attractive segments of the market where secular growth drivers are huge and deep. ADI, MCHP, MPWR, NXPI and ON",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/413594",
+      "originalUrl": "https://www.entrepreneur.com/article/413594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-413594.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-natural-language-processing-market-key-drivers-in-2022-regional-investments-top-competitors-and-industry-share.md",
+      "title": "Natural Language Processing Market Key Drivers in 2022, Regional Investments, Top Competitors and Industry Share",
+      "excerpt": "Jan 18, 2022 (The Expresswire) -- The global “Natural Language Processing Market 2022” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-drivers-in-2022-regional-investments-top-competitors-and-industry-share-2022-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-drivers-in-2022-regional-investments-top-competitors-and-industry-share-2022-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-pinc-aitm-launches-insights-an-enhanced-technology-offering-for-customized-on-demand-healthcare-analytics.md",
+      "title": "PINC AI(TM) Launches INsights, an Enhanced Technology Offering for Customized, On-Demand Healthcare Analytics",
+      "excerpt": "PINC AI™, the technology and services platform of Premier, Inc (NASDAQ: PINC), today launched INsights, an enhanced self-service healthcare solution for the creation of customized, on-demand analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/01/18/pinc-ai-tm-launches-insights-an-enhanced-technology-offering-for-customized-on",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/01/18/pinc-ai-tm-launches-insights-an-enhanced-technology-offering-for-customized-on",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-why-giving-ai-human-ethics-is-probably-a-terrible-idea.md",
       "title": "Why giving AI ‘human ethics’ is probably a terrible idea",
       "excerpt": "If you want artificial intelligence to have human ethics, you have to teach it to evolve ethics like we do. At least that’s what a pair of researchers from the International Institute of Information Technology in Bangalore,",
@@ -784,386 +1166,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member.md",
-      "title": "AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member",
-      "excerpt": "Nota (CEO Myungsu Chae), an AI optimization technology company, announced that it has been promoted to Premier status in the NVIDIA Inception program. NVIDIA Inception nurtures cutting-edge startups revolutionizing industries with advancements in AI and data science.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member-1031105822",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member-1031105822",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1724963/image_1.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-17T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai.md",
-      "title": "7bridges raises $17M to automate logistics supply chains using AI",
-      "excerpt": "Supply chain logistics — getting components and eventually finished products from A to B to C — is one of the most critical parts of running a business, not least because it is one of the most complex,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/",
-      "originalUrl": "https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1319013665.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/amp/",
-      "publishedDateTime": "2022-01-16T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.md",
-      "title": "Free-energy principle can explain how neural networks are optimized for efficiency",
-      "excerpt": "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
-      "publishedDateTime": "2022-01-16T20:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-3-ways-that-artificial-intelligence-ai-will-change-your-job-forever.md",
-      "title": "3 Ways That Artificial Intelligence (AI) Will Change Your Job Forever",
-      "excerpt": "Artificial Intelligence is becoming more capable by the day, learning new skills, and with it, changing the jobs and tasks humans will perform in the future. Here we look at how artificial intelligence (AI) will change our jobs forever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e4fde1134e946cf9b0f30d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/amp/",
-      "publishedDateTime": "2022-01-16T20:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-hands-on-machine-learning-with-aws-and-nvidia.md",
-      "title": "Hands-on Machine Learning with AWS and NVIDIA",
-      "excerpt": "In this course, you will gain hands-on experience on building, training, and deploying scalable machine learning models with Amazon SageMaker and Amazon EC2 instances powered by NVIDIA GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/education/skillbuilder/hands-on-machine-learning-with-aws-and-nvidia-0_uuLQhb76EeuDZhJOHjRP6Q",
-      "originalUrl": "https://www.usnews.com/education/skillbuilder/hands-on-machine-learning-with-aws-and-nvidia-0_uuLQhb76EeuDZhJOHjRP6Q",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T19:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-amazon-suspends-police-use-of-its-facial-recognition.md",
-      "title": "Amazon Suspends Police Use of Its Facial Recognition",
-      "excerpt": "Demonstrators hold images of Amazon CEO Jeff Bezos during a protest of the company's facial recognition system, Rekognition, at Amazon headquarters in Seattle, last Halloween. (AP file photo/Elaine Thompson) NEW YORK (AP) — Amazon banned police use of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/",
-      "originalUrl": "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-computer-vision-system-market-statistics-development-and-growthmarket-players-cognex-basler-omron-2022-2027.md",
-      "title": "Computer Vision System Market Statistics, Development and Growth,Market Players: Cognex, Basler, Omron-2022- 2027",
-      "excerpt": "Jan 17, 2022 (Heraldkeepers) -- The Computer Vision System Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-statistics-development-and-growthmarket-players-cognex-basler-omron-2022--2027-2022-01-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-statistics-development-and-growthmarket-players-cognex-basler-omron-2022--2027-2022-01-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-natural-language-processing-nlp-software-market-statistics-development-and-growthmarket-players-google-explosion-ai-ibm-2022-2027.md",
-      "title": "Natural Language Processing (NLP) Software Market Statistics, Development and Growth,Market Players: Google, Explosion AI, IBM-2022- 2027",
-      "excerpt": "Jan 17, 2022 (Heraldkeepers) -- The Natural Language Processing (NLP) Software Market report provides a detailed analysis of global market size, regional and country-level market size ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-statistics-development-and-growthmarket-players-google-explosion-ai-ibm-2022--2027-2022-01-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-statistics-development-and-growthmarket-players-google-explosion-ai-ibm-2022--2027-2022-01-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

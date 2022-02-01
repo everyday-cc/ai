@@ -1,28 +1,31 @@
 ---
 category: news
 title: "Traffic lights controlled using artificial intelligence"
-excerpt: "The real-time sensors are combined with artificial intelligence, which replaces the usual rigid control rules. The AI uses deep reinforcement learning (DRL) algorithms, a method of machine ..."
-publishedDateTime: 2022-02-01T10:53:00Z
-originalUrl: "https://idw-online.de/de/news787607"
-webUrl: "https://idw-online.de/de/news787607"
+excerpt: "Roads are chronically congested and vehicles queue endlessly at junctions. Rush hour is especially bad for long traffic jams. At the Fraunhofer Institute for Optronics, System Technologies and Image Exploitation IOSB,"
+publishedDateTime: 2022-02-01T14:40:00Z
+originalUrl: "https://techxplore.com/news/2022-02-traffic-artificial-intelligence.html"
+webUrl: "https://techxplore.com/news/2022-02-traffic-artificial-intelligence.html"
+ampWebUrl: "https://techxplore.com/news/2022-02-traffic-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-traffic-artificial-intelligence.amp"
 type: article
-quality: 37
-heat: 37
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: idw
-  domain: idw-online.de
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://files.idw-online.de/corona_idw.png"
-    width: 615
-    height: 284
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/traffic-lights-control.jpg"
+    width: 1440
+    height: 960
     isCached: true
 
-secured: "WAt+xtypsbQifIsIyraUQlyT+xAtxqrPjRp0b2ICsCXtWbeDjMrqMgoXeYCei9BrySJadIYqRzxbxl4BodCICmqxvQDyGDjvPdTJp5G4w3DN5gaI+C0MhKB6vQl/YwbWgDWc5315OH6oTmcVBsxJlXYFE2fqQgVP3AMUqXFZLezNXp964vR7dcZnMpq7MwlSPcxn4jFib8xELdUL86nqS6TyRfBDU+9GE/oeLOZ1SOFaTb6FFxfq18ZocyFsrBHX3pcsSiUUFvjlSdl2ciGL4iiTK1htxTaw9vhzys62GxkmA0Ivq+nq27bz+XdQOnrsJOQO6YmRxMG4529c/XGZHiZppTZAe9YwudK9KAkgI3M=;yUvaiik+rQ2uVG+y2sqQig=="
+secured: "E6imgz0w3BeNDmVuaDVoO2nr3Abh6UKXoMlY75rzlTyhy3V3ayjIWCi+d0g+CU+MV9ownb5Cy/Y+BM7b19YLNVY0N2IgnUoFhpsF2fCDh/NJewbiJEwkVHw51GAYtj33/8p0KJgvzCa/t/uXUqyxaFQHVmpGapZPLKPyRmukvhRmxwtMWQW4uSwxHIT+qSpLpGCXyHAqZ33m+p6TzhCEykJ+C6lixHAwXsoZcchBg8gZnkverXi+x8UqWeecSGDcmp59ZIi3bPyfbqShMHODmT+RJ/e0S3TM+AjhgmPRMfTmaQElFb/R3qr9m2K5n+Ke7xeHXcRIah6SBS5gH1WWdjP/mWHOqB5SovbSu8JgG3I=;zy3P26ZTTOvI2Dqkhbv7Lg=="
 ---
 

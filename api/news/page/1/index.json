@@ -105,6 +105,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-01-no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal.md",
+      "title": "No more facial recognition? Apple AirPods might be able to recognise the user by checking ear canal",
+      "excerpt": "In the latest development, Apple's AirPods will soon be able to verify a user's identity using the inside of the ear. This will be done using an in-ear biometric device that uses ultrasonic signals. These are then reflected against the walls of a user’s ear canal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524",
+      "originalUrl": "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/02/01/237668-fkcvp2px0aypkp.jpeg",
+          "width": 918,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp",
+      "cdnAmpWebUrl": "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp",
+      "publishedDateTime": "2022-02-01T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WION",
+        "domain": "wionews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-laiye-and-microsoft-why-chinese-rpa-is-heading-west-to-secure-your-data.md",
       "title": "Laiye and Microsoft - why Chinese RPA is heading West to secure your data!",
       "excerpt": "You might also be surprised to hear that enterprise cloud titan Microsoft has announced a strategic partnership with the same provider, to bring robotic process automation (RPA) and software robotics to the UK and Europe.",
@@ -156,7 +199,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/01/supply-chain-startup-loadsmart-raises-200m-to-automate-logistics-processes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -429,6 +472,90 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-airbnb-says-ai-program-thwarts-thousands-of-party-houses-in-florida.md",
+      "title": "Airbnb says AI program thwarts thousands of party houses in Florida",
+      "excerpt": "My issue is the proliferation of party houses,” said Rep. Dan Daley, perhaps the Legislature’s most strident advocate of effective regulation of vacation rental homes, during a committee debate last week.",
+      "sourceUrl": null,
+      "webUrl": "https://floridapolitics.com/archives/491186-airbnb-says-ai-program-thwarts-thousands-of-party-houses-in-florida/",
+      "originalUrl": "https://floridapolitics.com/archives/491379-airbnb-ai-program-party-houses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://floridapolitics.com/wp-content/uploads/2020/06/Airbnb-Large.jpeg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-31T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Florida Politics",
+        "domain": "floridapolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-scale-ai-awarded-250m-ai-contract-by-department-of-defense.md",
+      "title": "Scale AI awarded $250M AI contract by Department of Defense",
+      "excerpt": "Scale AI, a tech startup that focuses on the data that powers artificial intelligence, has won a nearly $250 million blanket purchasing agreement that aims to give all federal agencies access to its tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/scale-ai-awarded-250m-ai-contract-by-department-of-defense/",
+      "originalUrl": "https://www.fedscoop.com/scale-ai-awarded-250m-ai-contract-by-department-of-defense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fedscoop.com/wp-content/uploads/sites/5/2021/02/6492397.jpg?w=1200&h=500&crop=1",
+          "width": 1200,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-31T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -735,7 +862,7 @@
       "originalUrl": "https://www.protocol.com/enterprise/aws-microsoft-china-ai-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1018,7 +1145,7 @@
       "originalUrl": "https://www.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1050,143 +1177,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup.md",
-      "title": "What 20 years in Silicon Valley’s security sector teaches you about launching a successful startup",
-      "excerpt": "Building a sustainable operation is incredibly difficult, but launching and establishing a successful security startup is possible.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/",
-      "originalUrl": "https://venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/amp/",
-      "publishedDateTime": "2022-01-30T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-your-brain-on-ai-artificial-intelligence-is-creating-a-world-without-choices.md",
-      "title": "Your Brain on AI: Artificial Intelligence is “creating a world without choices”",
-      "excerpt": "Artificial intelligence goes far beyond just music or clothing recommendations which poses unforeseen risks for all of us. In his new book “The Loop”, NBC News Technology correspondent Jacob Ward warns AI is eroding our ability to make decisions on our own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.msnbc.com/ali-velshi/watch/your-brain-on-ai-artificial-intelligence-is-creating-a-world-without-choices-132034629576",
-      "originalUrl": "https://www.msnbc.com/ali-velshi/watch/your-brain-on-ai-artificial-intelligence-is-creating-a-world-without-choices-132034629576",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_01/1643564989499_n_velshi_jake_ward_220130_1920x1080-thuisp.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo132034629576",
-      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo132034629576",
-      "publishedDateTime": "2022-01-30T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSNBC",
-        "domain": "msnbc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-30-ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test.md",
-      "title": "AI can predict signs of a heart attack within a year — from a routine eye test",
-      "excerpt": "LEEDS, United Kingdom (StudyFinds.org) – An artificial intelligence ... described in the journal Nature Machine Intelligence, could revolutionize heart therapy, according to the researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/",
-      "originalUrl": "https://www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wrbl.com/wp-content/uploads/sites/24/2022/01/eye-scan.jpg?w=1280",
-          "width": 1280,
-          "height": 813,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/",
-      "cdnAmpWebUrl": "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/",
-      "publishedDateTime": "2022-01-29T22:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRBL",
-        "domain": "wrbl.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

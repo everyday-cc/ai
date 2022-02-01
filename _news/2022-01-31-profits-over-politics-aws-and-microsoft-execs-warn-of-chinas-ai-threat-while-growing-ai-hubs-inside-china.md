@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Co-founder of Microsoft's AI lab takes aim at startup funding process"
-    excerpt: "The co-founder and CEO of Microsoft-backed OpenAI, an artificial intelligence lab, mocked the startup funding process by tweeting that the lab raised $250 million in a series A funding round after six other rounds,"
-    publishedDateTime: 2022-01-27T22:19:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/co-founder-of-microsoft-s-ai-lab-takes-aim-at-startup-funding-process.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "ozk9pC6NSc8wUdZ/5mRYwLpMW0AzxTiwqWIwnFNTjVpRYIVIxcKqM+T3Qa7VPtCqHmLdYPIrvMBW5UlfPkY5Bk8i7g/iBRFKv7omBv2BYqLqtgpv1d2bibSAfMzG82/rMZ341Kh8sI/KOJJElVNoeAp63ScM0C2QVp4/K8nh67zC2S9uRTukkTnvyKaoBHebADM1nRZrPfNUCWfiJMvDWeOiElZn+zZPAS7kUkB7etQbepaCjIFgcqTYdbHK+5cAdm8zRhIZF5g6hDNlclWJqsHudh0MNnTWzlg6Dd0J7btMUfDQwuZ9E106nxmuL1qlVtfbGnZr1c7ry5FduhD9l8bBKrRhCurvKQCgrtgz/Lw1UuuU5N0p7z6Gtb1A/Anddllh96r1oe0YEdJ66T6/sKfBoFQ499X+h0b02spuHDKt2Ov+nlkyWQ+3oGLPwRp5IfhnFVL5bJKYZAadiQpHp7GaLugIKPza7UXcFRCs2OuagrsmFDwg40o+jYCdPEmJ0ipfAwDST1DNJgDlLM6dsw==;u+Fc/dMZa0u0xGcq7LTjzw=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-14-the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-389-billion-by-2026.md",
+      "title": "The Worldwide Far-Field Speech and Voice Recognition Industry is Expected to Reach $3.89 Billion by 2026",
+      "excerpt": "The \"Global Far-Field Speech and Voice Recognition Market (2021-2026) by Component, Application & Microphone Solution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25052541/the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-3-89-billion-by",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25052541/the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-3-89-billion-by",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25052541",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25052541",
+      "publishedDateTime": "2022-01-14T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-timekettles-translator-earbuds-break-language-barriers-bring-in-simultaneous-translation.md",
       "title": "Timekettle's translator earbuds break language barriers, bring in simultaneous translation",
       "excerpt": "Translate through phone — one user speaks through the earbuds, the other - through the paired phone Continuous translation — leave your phone next to a speaker and get continuous translation of their words (like for lectures) Share earbuds — users get one earbud each,",
@@ -1357,49 +1400,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-natural-language-processing-nlp-market.md",
-      "title": "Natural Language Processing (NLP) Market",
-      "excerpt": "Natural Language Processing (NLP) Market ' a New Report by Coherent Market Insights, analyzes at the competitive environment and projections for future growth. The Natural Language Processing (NLP ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103483967/Natural-Language-Processing-NLP-Market-Grow-at-CAGR-of-204-During-Forecast-2028-Apple-Inc-Inovalon-3M-IBM",
-      "originalUrl": "https://menafn.com/1103483967/Natural-Language-Processing-NLP-Market-Grow-at-CAGR-of-204-During-Forecast-2028-Apple-Inc-Inovalon-3M-IBM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-01/04/EP_72fb8image_story.png",
-          "width": 824,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T23:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

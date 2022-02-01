@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-01T11:39:00Z
 originalUrl: "https://www.itu.int/en/mediacentre/Pages/PR-2022-02-01-AI-for-Good.aspx"
 webUrl: "https://www.itu.int/en/mediacentre/Pages/PR-2022-02-01-AI-for-Good.aspx"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.itu.int/net4/ITU-D/images/logos/itu-logo-social-sharing.jpg"

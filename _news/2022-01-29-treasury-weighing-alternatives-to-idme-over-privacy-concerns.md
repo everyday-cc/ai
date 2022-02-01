@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/politics/treasury-weighing-id-me-al
 webUrl: "https://www.bloombergquint.com/politics/treasury-weighing-id-me-alternatives-over-privacy-concerns"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,82 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "The IRS is reportedly looking for ID.me alternatives amid privacy concerns"
+    excerpt: "The Treasury Department and Internal Revenue Service (IRS) are reportedly looking for alternatives to the controversial facial recognition software ID.me, according to a report by Bloomberg. As Bloomberg notes,"
+    publishedDateTime: 2022-01-29T18:50:39Z
+    webUrl: "https://www.theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns"
+    type: article
+    provider:
+      name: theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns
+      domain: theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns
+    quality: 120
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/x3VLjI4OFWFNXl9jMMXAnN78hZI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11900073/acastro_180730_1777_facial_recognition_0003.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
+    excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
+    publishedDateTime: 2022-01-31T15:13:00Z
+    webUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590"
+    ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
+    type: article
+    provider:
+      name: HuffPost
+      domain: huffpost.com
+    quality: 87
+    images:
+      - url: "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000"
+        width: 1778
+        height: 1000
+        isCached: true
+  - title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
+    excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
+    publishedDateTime: 2022-01-31T19:13:00Z
+    webUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590?d_id=3110524&ncid_tag=tweetlnkushpmg00000050"
+    ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
+    type: article
+    provider:
+      name: HuffPost
+      domain: huffpost.com
+    quality: 87
+    images:
+      - url: "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000"
+        width: 1778
+        height: 1000
+        isCached: true
+  - title: "Treasury Reconsiders IRS’s Use of ID.Me Face Recognition for Web"
+    excerpt: "The Treasury Department is reconsidering the Internal Revenue Service’s reliance on facial recognition software ID.me for access to its website, an official said Friday amid scrutiny of the company’s collection of images of tens of millions of Americans’ faces."
+    publishedDateTime: 2022-01-28T18:43:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-01-28/treasury-weighing-id-me-alternatives-over-privacy-concerns"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEZLRzdsvnfE/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "US Treasury considers alternatives to ID.me biometrics for IRS online access"
+    excerpt: "An IRS contract being served by ID.me is continuing to generate controversy based on the use of facial recognition and biometric authentication."
+    publishedDateTime: 2022-01-31T19:20:00Z
+    webUrl: "https://www.biometricupdate.com/202201/us-treasury-considers-alternatives-to-id-me-biometrics-for-irs-online-access"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/06/25135841/selfie-for-onboarding-identity-verification.jpg"
+        width: 864
+        height: 554
+        isCached: true
 
 secured: "6pjlHDXTR/GciXVYBAemyQ05y4MNWRuYnYrsJpGOWVh+I8dKNeB/Ew9EcoSi8v4vAL4lCSXosYPtGvKWF0nDYpvPLruzArnj7Ww3WujkbciOEUsBHsPlqSXSJMf4c8eqZR38HJZnFXz9Mhhbi9hEqCzSOMr1qw59DHUAvvFlvdkZwgFfHG4cY7Ii3aww623n3OujZlQcjSN4ufB1YJnoJzo7ff1YYZYncxTOGok8okqKDwH1gjfm/iiv4wlgtZKfZAD3MyWm2nj8npjrum/lZ5fy+bUh2pyNplopIbc5v9YRpDJr6YjCM9bdycjTKJZJhMFl8ZJV0qWaZ4xbEo9m0fePrW7+KBrPKG5il2J/XPA=;pTczEUCEFramavsI+IaqPA=="
 ---

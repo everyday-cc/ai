@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
 type: article
 quality: 74
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI Collaboration to Create Personalized Healthcare"
+    excerpt: "Health at Scale and Walmart's AI collaboration will enable the retailer's employees to find providers and interventions that are a fit for their personal health needs."
+    publishedDateTime: 2022-02-01T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
   - title: "The future role of AI in finance"
     excerpt: "And, perhaps crucially, whether AI will ever remove the need for human advisors in the financial industry. AI transforming financial sector Business leaders have revealed that the use of technology including AI plays a significant role in filling gaps ..."
     publishedDateTime: 2022-02-01T05:00:00Z

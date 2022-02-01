@@ -2,22 +2,21 @@
 category: news
 title: "Pixm Raises $4.3M to Stop Zero-day Phishing Attacks with AI Computer Vision"
 excerpt: "Pixm, a computer vision cyber security startup, announced today that it has raised $4.3M in an oversubscribed seed funding round to protect enterprises from undiscovered, non-traditional phishing attacks."
-publishedDateTime: 2022-02-01T05:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220201005581/pixm-raises-43m-to-stop-zero-day-phishing-attacks-with-ai-computer-vision"
-webUrl: "https://www.morningstar.com/news/business-wire/20220201005581/pixm-raises-43m-to-stop-zero-day-phishing-attacks-with-ai-computer-vision"
+publishedDateTime: 2022-02-01T11:11:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/02/01/9536420.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/02/01/9536420.htm"
 type: article
-quality: 34
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Facebook AI
-  - AI
   - Computer Vision
+  - AI
 
 related:
   - title: "AI-powered anti-phishing solution provider Pixm offers last line of defense"
@@ -51,6 +50,6 @@ related:
         height: 579
         isCached: true
 
-secured: "hZM0eKiRf6LA42Xf724hpQyJEMNUukFGuIykq8vswJBa9gn8AkN+rriQXOoawkFwtdFZ23/MtQtS/x/Dj+3qY5QISeAlVvTT6m22VO6iD1YLzmoUYO84EBCvPZ9GQdGsCZ9KPdsKX0lrii9lCzwY+EQKlLBomcznLf/ldfFKLo+7/81imhZleMkOpGAjEoeUl0P9neFoVrJaPzAFv+yf+6YtSmfbTGYhaAHk7Zjmmg4SSM+5WbSzAeYR+5bYfTK/D2OtOvCAfW698GiIDqxIO/KakhJpicF9+mMofAtdDjxDgyVcaW37zYGuWOKDF/ezjTuGmczREa6CUxznDVshkq1j5/OZkSnhoBGjWq9b4rY=;NuUPmOaqPJXdcfrd8M6H1A=="
+secured: "6CKcoeu13ornRrm6G3n7aea+eiD7CmD0cemINfzuIWvmwOB0Q2GJOUXD9OtKEHYf/Zg2pf3KSNpGPVah+kh0Rd7r8hkhgQCEw+XvntXGnA/DRdjuo4spJleBdfIBSsbOTniDsaDf3LJ01D+egPU48ojb0qIGrL7bPiVDdCNNfUBYhM8VOxIeMXL1liEb5Cd6JmVc5raUdI8Ji344f1lAn1oGaKWFfRuwFo+U0HheQjG0+yXBfLy7IrbNTzHyAYEPXpLJGU7YAUCT22f7j4MvUpOoyS5eNnoAU0eMrmdiLsRiR52L/jW60k45CfWY5tlXUQvbuH7+3hnMZGjnhs+cnE90GWtDaDuHpN77GTnbW98=;jXZEM6FOSm/baaQabNSqYg=="
 ---
 

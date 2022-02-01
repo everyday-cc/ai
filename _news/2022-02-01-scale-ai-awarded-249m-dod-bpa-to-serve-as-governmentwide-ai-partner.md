@@ -7,7 +7,7 @@ originalUrl: "https://www.govconwire.com/2022/02/scale-ai-awarded-249m-dod-bpa-t
 webUrl: "https://www.govconwire.com/2022/02/scale-ai-awarded-249m-dod-bpa-to-serve-as-government-wide-ai-partner/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: FedScoop
       domain: fedscoop.com
-    quality: 37
+    quality: 137
     images:
       - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2021/02/6492397.jpg?w=1200&h=500&crop=1"
         width: 1200

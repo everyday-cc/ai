@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/01/supply-chain-startup-loadsmart-ra
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/supply-chain-startup-loadsmart-raises-200m-to-automate-logistics-processes/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:

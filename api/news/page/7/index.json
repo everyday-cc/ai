@@ -2,6 +2,369 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-24-oh-great-ai-can-not-only-be-racist-and-sexist-but-ageist-too.md",
+      "title": "Oh great — AI can not only be racist and sexist, but ageist too",
+      "excerpt": "Current research on bias in AI focuses mainly on gender and race. But what about age-related bias — can AI be ageist?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-can-be-racist-sexist-ageist-syndication",
+      "originalUrl": "https://thenextweb.com/news/ai-can-be-racist-sexist-ageist-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FElderly-woman-AI-hed.jpg&signature=acb61ad7c179237f58c19be72fcf6bb6",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T05:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-lg-to-showcase-self-driving-vehicle-next-month.md",
+      "title": "LG to showcase self driving vehicle next month",
+      "excerpt": "The LG Omnipod, a mobility concept solution that can serve as \"a home office, an entertainment center or even a lounge,\" will be on display at a mobility fair at the COEX convention center in southern Seoul on Feb.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "originalUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgk.timesnownews.com/story/1200_x_900_62.png?tr=w-400,h-300,fo-auto",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "publishedDateTime": "2022-01-24T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews.com",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-alcatraz-ai-deems-facial-recognition-as-the-future-of-security.md",
+      "title": "Alcatraz AI deems facial recognition as the future of security",
+      "excerpt": "Door access control has undergone many changes in recent years with new technology and practices going in and out of style. With the recent developments in AI, the future of security technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
+      "publishedDateTime": "2022-01-24T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-western-new-england-university-debuts-oscar-sort-intuitive-trash-robot.md",
+      "title": "Western New England University Debuts Oscar Sort Intuitive Trash Robot",
+      "excerpt": "Western New England University (WNE) is the first U.S. institution of higher education to feature Oscar Sort, an AI-driven, intuitive, trash-sorting robot. This intuitive robot educates the campus community at the point of recycling and disposal and helps them to better understand how waste is measured,",
+      "sourceUrl": null,
+      "webUrl": "https://businesswest.com/blog/western-new-england-university-debuts-oscar-sort-intuitive-trash-robot/",
+      "originalUrl": "https://businesswest.com/blog/western-new-england-university-debuts-oscar-sort-intuitive-trash-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://businesswest.com/wp-content/gallery/women-of-impact-luncheon-2019/WOI-BW-DANIFINECOMMERCIAL-2019-SHERATON-SPRINGFIELD-MA-175.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T04:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessWest",
+        "domain": "businesswest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-elon-musks-brain-chip-startup-neuralink-looking-to-hire-clinical-trial-director-in-california-as-it-nears-human-trials.md",
+      "title": "Elon Musk's Brain-Chip Startup Neuralink Looking To Hire Clinical Trial Director In California As It Nears Human Trials",
+      "excerpt": "CEO Elon Musk-led brain-machine interface startup Neuralink is recruiting a clinical trial director and a coordinator to realize plans for clinical",
+      "sourceUrl": null,
+      "webUrl": "https://boards.greenhouse.io/neuralink/jobs/4723041003",
+      "originalUrl": "https://www.msn.com/en-us/finance/news/elon-musks-brain-chip-startup-neuralink-looking-to-hire-clinical-trial-director-in-california-as-it-nears-human-trials/ar-AAT5m0f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/497/300/original/Neuralink_logo.jpg?1632771349",
+          "width": 820,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T04:00:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "greenhouse.io/neuralink/jobs/4723041003",
+        "domain": "greenhouse.io/neuralink/jobs/4723041003",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-how-insight-partners-vets-ai-startups.md",
+      "title": "How Insight Partners Vets AI Startups",
+      "excerpt": "Lonne Jaffe, a managing director at Insight Partners, talked with WSJ Pro AI about the type of AI companies the New York City-based firm invests in, how it vets those companies and what it sees as the next AI opportunity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-insight-partners-vets-ai-startups-11643029203",
+      "originalUrl": "https://www.wsj.com/articles/how-insight-partners-vets-ai-startups-11643029203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-471948/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-we-are-indias-1st-telco-to-build-big-data-aiml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.md",
+      "title": "We are India's 1st telco to build Big Data AI/ML Cloud Advanced Analytics Platform on AWS: Vodafone Idea",
+      "excerpt": "Dr Chaube believes that there is a critical need for telecom service providers to transform from 'Telco to Techno' and technologies such as 5G, Artifi..",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-89093507,imgsize-71636,width-1200,height-628,overlay-ettelecom/we-are-india-s-1st-telco-to-build-big-data-ai-ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507",
+      "publishedDateTime": "2022-01-24T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-why-your-next-home-will-be-built-by-robots.md",
+      "title": "Why Your Next Home Will Be Built By Robots",
+      "excerpt": "A quiet revolution is occurring in the systems used to create modern housing. The new twist on an old method is called volumetric modular manufacturing (VMM).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ead0c48891970940d30501/0x0.jpg?format=jpg&crop=3524,2348,x829,y0,safe&fit=crop",
+          "width": 3524,
+          "height": 2348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/amp/",
+      "publishedDateTime": "2022-01-24T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-tcv-backs-canadian-ai-startup-that-accelerates-drug-research.md",
       "title": "TCV Backs Canadian AI Startup That Accelerates Drug Research",
       "excerpt": "TCV and Inovia Capital are leading a $50 million funding round for a Canadian biomedical software startup that has some of the world’s largest pharmaceutical companies as clients.",
@@ -837,386 +1200,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-how-the-us-department-of-energy-is-transforming-ai.md",
-      "title": "How The US Department Of Energy Is Transforming AI",
-      "excerpt": "The DOE is maximizing the impacts of AI through strategic coordination, planning and customer service excellence including addressing AI ethics, AI principles, and AI risk management playbook highlights helping to transform the use of AI within the agency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61ec05324e09a09bf5f6699b/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/amp/",
-      "publishedDateTime": "2022-01-22T04:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence.md",
-      "title": "The never-ending effort to bake common business sense into artificial intelligence",
-      "excerpt": "There needs to be a feedback loop to ensure customers are enjoying the experience as much as you're enjoying creating the experience.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/27c067b844739f5797fc93d4b7c4a8028a4b0244/2022/01/21/49e6021c-8611-4222-bd2d-404ef13c80fe/buildings-hudson-yards-as-see-from-javits-center-january-2022-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
-      "publishedDateTime": "2022-01-22T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-elon-musks-brain-chip-startup-prepares-for-first-ever-human-trials.md",
-      "title": "Elon Musk’s brain chip startup prepares for first ever human trials",
-      "excerpt": "Elon Musk appears close to beginning the first ever human trials of his brain-computer interface technology. A new job posting for a ‘Clinical Trial Director’ at Neuralink reveals that the neurotech startup is preparing to take its brain chip research to the next stage.",
-      "sourceUrl": null,
-      "webUrl": "https://boards.greenhouse.io/neuralink/jobs/4723041003",
-      "originalUrl": "https://www.independent.co.uk/tech/elon-musk-neuralink-human-trials-b1998521.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/497/300/original/Neuralink_logo.jpg?1632771349",
-          "width": 820,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-22T00:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai.md",
-      "title": "AI Weekly: Watson Health and semi-autonomous driving failures show the dangers of overpromising AI",
-      "excerpt": "AI technologies can fall short of their promise, as news from this week about Watson Health and semi-autonomous driving systems showed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/",
-      "originalUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/ibm_watson_avatar_pos-e1560280426131.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/amp/",
-      "publishedDateTime": "2022-01-21T21:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-sells-its-watson-healthcare-assets-to-francisco-partners.md",
-      "title": "IBM sells its Watson healthcare assets to Francisco Partners",
-      "excerpt": "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Francisco Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "originalUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/import/2014/05/ibm.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 917,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "publishedDateTime": "2022-01-21T21:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-irs-to-require-facial-recognition-for-digital-services.md",
-      "title": "IRS to Require Facial Recognition for Digital Services",
-      "excerpt": "People who use the IRS digital portal will need to be prepared starting in the summer to submit a live video selfie and various documentation to make and view payments and access tax records.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services",
-      "originalUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/a2d6975/2147483647/strip/true/crop/940x490+0+132/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7a%2F7d%2F80c58fef8b932e1f1ad5c9c6f006%2Fshutterstock-camera-lens-up-close.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true",
-      "publishedDateTime": "2022-01-21T15:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-sells-watson-health-assets-to-investment-firm.md",
-      "title": "IBM Sells Watson Health Assets to Investment Firm",
-      "excerpt": "The tech giant said its deal with Francisco Partners wouldn’t weaken its commitments to other artificial-intelligence technology and healthcare clients that use its IT services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "originalUrl": "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 359,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-471681/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "publishedDateTime": "2022-01-21T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence.md",
-      "title": "STAT partners with Applied XL to launch a new clinical trials monitoring platform powered by artificial intelligence",
-      "excerpt": "Since 2015, our team at STAT has worked tirelessly to deliver trusted and authoritative journalism about health, medicine, and the life sciences to millions of readers around the world. We are thrilled to unveil a new product that has been",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20204007.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20204007.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

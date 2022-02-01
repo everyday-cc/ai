@@ -43,14 +43,14 @@ related:
         isCached: true
   - title: "Pixm Raises $4.3M to Stop Zero-day Phishing Attacks with AI Computer Vision"
     excerpt: "Pixm, a computer vision cyber security startup, announced today that it has raised $4.3M in an oversubscribed seed funding round to protect enterprises from undiscovered, non-traditional phishing attacks."
-    publishedDateTime: 2022-02-01T05:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20220201005581/pixm-raises-43m-to-stop-zero-day-phishing-attacks-with-ai-computer-vision"
+    publishedDateTime: 2022-02-01T11:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/02/01/9536420.htm"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 34
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
 
-secured: "rvLAdEsvmoBEOcITQYFoIyW22ytI1twcqbER09YTX/+oEY1oNVxNcMrJhvpByrHaGWWpi5dtdFWJjaMtRfJNxITSHEy5t29dYuEDN1Rcq3TlApqIqTv/H7t9SouorEcaur7zeUi6CU5aIrTgsp4qJksZcmSTcqTndKRtIYCX0FowrJCGNYT2henAN905K2OHk8VTbi8oKX9cEaX1RItCRf6xtziN+/4KaquFG801jlbOH+Fu7DnvSxaW0Vs4oq2kXPbU51hDfNaGs0tfH6gQFGHY8jAUOl2mwwMf9srEsM/WMv/PCpVjCYCDDF0sAdUuZudh1I8L67fRkYuz4yB4ZT8+JMprNVFJMlQEEQfqjLA=;XYYt/uOZ33uOSJjzRZ2pZA=="
+secured: "A4ACP1guSdjxSQxECSI7ZU0alMT5OKJsEfBhFmIODZZHavem9cKW4/m48KXcxjSbfWJD2ONXeX2w5tseVOBunAKTa4NGacEpqtKdWZygrEcwcl12f2bO7SZZZEcGX6SuUPqzgseOFl5/1L2hkDJcsvLitr2i7D0qrxNk+BMiOEaY7gD5hvk+DshWvG1yYP54ibypcP2p8PVYTgcG0sTQUvqpRh0R02aFOY/w2QjQflvXopAoe0bm5ABdWIxCcMpbBvLejz3BggOe5OBKWpCc/Bn3hg/LiYKZJIhg0+B54wOOikjWeqryMffF03adzLfprCPMKjgufUwUnnMfBtA5xjBk2wuxsJMMaDgzDAv6rwA0UkdHYn6mIOzykosQiypIhyAJ77KvTVJE2zY3XWeCnXp4JfjydDRm9uwhQxWNtvfx72XV4Grp9sq5FCbOkLNmkfkgAvVWssIauzxOJwFsWrpJedn7AgT1V9LU/qscSsRr4Sy+HlS+ijaLzeJq++XcmTvcAJAqQVvmA0gnT5Xv5w==;3earYHVxEuA4FZiVJSqSLg=="
 ---
 

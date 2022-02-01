@@ -57,6 +57,17 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI Collaboration to Create Personalized Healthcare"
+    excerpt: "Health at Scale and Walmart's AI collaboration will enable the retailer's employees to find providers and interventions that are a fit for their personal health needs."
+    publishedDateTime: 2022-02-01T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
   - title: "Can AI help you save money on healthcare? This insurance company thinks so"
     excerpt: "Using a combination of tech and machine learning, this service is giving employees a future timeline for their medical journey."
     publishedDateTime: 2022-01-31T19:30:00Z
