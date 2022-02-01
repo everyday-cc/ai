@@ -44,22 +44,6 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "Meta says it will soon have the world’s fastest AI supercomputer"
-    excerpt: "Meta, formerly known as Facebook, is already using supercomputer to train major models in natural language processing (NLP) ."
-    publishedDateTime: 2022-01-27T10:56:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer-2/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 59
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/01/Meta-says-it-will-soon-have-the-worlds-fastest-AI-supercomputer-01-1-1.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
     excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
     publishedDateTime: 2022-01-29T13:20:00Z

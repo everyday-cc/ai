@@ -123,20 +123,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Tesla Full Self Driving suite to be ready by this year, says Elon Musk"
-    excerpt: "Musk stated that Tesla Full Self Driving suite will be ready by 2022. Said that he would be shocked if Tesla doesn't complete."
-    publishedDateTime: 2022-01-27T09:17:00Z
-    webUrl: "https://techstory.in/tesla-full-self-driving-suite-to-be-ready-by-this-year-says-elon-musk/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 54
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/01/Tesla-Full-Self-Driving-Beta-Hero.jpg"
-        width: 2020
-        height: 1000
-        isCached: true
 
 secured: "Ct0ezng9yblya2KD+/6rzlPMi/2OUE0X0lDhKHGGFvAw3zKPoT5hmZNw46ra44YJJLqgRDjR2zM1SU3FcwRmRCi2q41svntZHuVfke62PtNm5wfgkptTNeCMVJhSYjg1jDKZYjgvZ8JEI8BcOY9wc18Io7yihXRsAlKyohAmb0W/A3gawLNTsN0Z1x5L1oClHOSqimzstl+j7efxgfvf2nGpO/xPHMHyQvp1T8fgCqWsib/l0IktfGCL6ZgUt4WrSYbeFj0SAQJoMOf/sCrurhLiOhNc0dWLaZgYBPbfGxRfP0T9P05utZfvZau8JYsGzBLgJzbIqzIqcUQWNGklVkhsMUqhzeJhY7P0nsP3nypTpwZsU4sV4dUgPoIoYC7q1Z4gA7qyV+GfCjxcMzg8lIcfZS7NVjO9vnS6QymHtgF/YW30ft9ZOZFaLNEAJsTG5qWvolXAx8hM6yT9YqL2IVgfgFk1A59I1E9SWuCE7PjZ4VmO7bXqPbJKPwBJaUu0ealbK2B1PYwKCSFhBI76cw==;WwvommfLgIe5D36mh7V+VA=="
 ---

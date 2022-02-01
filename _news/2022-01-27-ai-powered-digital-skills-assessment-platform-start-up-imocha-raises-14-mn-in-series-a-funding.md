@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered digital skills assessment start-up iMocha Raises $14 million"
-    excerpt: "The new funding will be deployed to increase iMocha's skill library selection, reach more global enterprises, and widen its partnership base within the HR Tech ecosystem."
-    publishedDateTime: 2022-01-27T09:18:00Z
-    webUrl: "https://www.business-standard.com/article/companies/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-122012700890_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-122012700890_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-122012700890_1.html"
+  - title: "Cape Town start-up launches AI-powered recruitment platform"
+    excerpt: "Job Crystal, a Cape Town-based technology start-up, has developed software that uses artificial intelligence to match recruiters with job seekers with much greater accuracy."
+    publishedDateTime: 2022-01-31T12:30:00Z
+    webUrl: "https://techcentral.co.za/cape-town-start-up-launches-ai-powered-recruitment-platform/207266/"
+    ampWebUrl: "https://techcentral.co.za/cape-town-start-up-launches-ai-powered-recruitment-platform/207266/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/cape-town-start-up-launches-ai-powered-recruitment-platform/207266/?amp=1"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
+      name: TechCentral
+      domain: techcentral.co.za
     quality: 57
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/10/full/1615322229-3007.jpg?im=Resize,width=1200"
-        width: 1200
-        height: 898
-        isCached: true
-  - title: "Conversational AI startup NLX raises $5M to scale its offering"
-    excerpt: "Conversation artificial intelligence startup NLX Inc. has raised $5 million in funding to assist it in scaling its offering, to increase its headcount and drive sales. Aquila Capital Partners led the seed round with Flying Fish Partners,"
-    publishedDateTime: 2022-01-28T01:45:00Z
-    webUrl: "https://siliconangle.com/2022/01/27/conversational-ai-startup-nlx-raises-5m-scale-offering/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/nlx.jpg"
-        width: 1200
-        height: 800
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/01/sasha-knott-2156-1120.jpg"
+        width: 2156
+        height: 1120
         isCached: true
 
 secured: "7utoIs+cypLCtGzN5+7NqJoLwnkMP+gCF7NXN4PzjCOA2w39cRQ+WyCnRg/yZwhSiWP6mYVgXuwMUDcaM97zeXUJBgNUp1M8bwWtdlebM3ieJR0GmtkGiL6qDqTbmNd/57OpvAGnfG7D8LZbRPJ9OwAmS2dMNZeHuwKVyV9d1gUWdLhxbH+y3g/vaItV2kH6ife3Tr75Z5yg+r78bw3mjXlz1T0Z87habfNgx8mI7Lpsysm4O6VSbao8vnXY8sihEjg4wylQtd7PLuqwdL4ZHhnV7Q16TzsB5pK5y3L8OWYte5j9vw7X5rDF3xJz7mvX4MECUMw/ZZxgMIk1eXD1zUJoRNMSFAopcOrdRNXllgY=;ZK8cY6PE1VyUqyiQdZEH0w=="

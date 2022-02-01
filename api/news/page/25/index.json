@@ -2,6 +2,59 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-01-07-the-best-robot-vacuums-of-ces-2022.md",
+      "title": "The best robot vacuums of CES 2022",
+      "excerpt": "Several new floor cleaning robots were revealed at CES 2022. Find out what's new on the botvac scene, and what new technology they're armed with.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-x1-omni-2.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp",
+      "publishedDateTime": "2022-01-07T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-data-observability-platform-timeseerai-emerges-from-stealth-with-6m.md",
       "title": "Data observability platform Timeseer.ai emerges from stealth with $6M",
       "excerpt": "Timeseer.ai, a time-series data observability platform, has come out of stealth with $6 million in seed funding from Crane Ventures, others.",
@@ -1066,57 +1119,6 @@
         "name": "Winsight Grocery Business",
         "domain": "winsightgrocerybusiness.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot.md",
-      "title": "AI in closed-loop manufacturing can benefit edge computing systems: 4 things to consider in IIoT",
-      "excerpt": "The convergence of AI and closed-loop manufacturing is coming. This could change IT thinking about edge IoT. Be prepared with these four things to know about it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2018/02/01/31ad99a6-f326-4598-aebd-9b67d7b2dbaa/resize/1200x/c54bf641da518b3167d8cd47626582af/auto10.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/",
-      "publishedDateTime": "2022-01-06T11:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

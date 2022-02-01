@@ -42,22 +42,6 @@ related:
         width: 648
         height: 432
         isCached: true
-  - title: "IBM sheds some Watson Health assets, refocuses on AI and cloud"
-    excerpt: "In selling the data-based part of its Watson Health business to an investment firm, IBM signals that it wants to concentrate on core AI technology."
-    publishedDateTime: 2022-01-27T10:00:00Z
-    webUrl: "https://www.cio.com/article/303974/ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.html"
-    ampWebUrl: "https://www.cio.com/article/303974/ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.html/amp"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/303974/ibm-sheds-some-watson-health-assets-refocuses-on-ai-and-cloud.html/amp"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 74
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/01/healthcare_stethoscope_heartbeat_pulse_ekg_graph_frequency_fever_line_-_source_image_cc0_via_pixabay-100748675-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "IBM sells parts of Watson Health; what are the repercussions?"
     excerpt: "IBM Watson Health was an ambitious project introduced to use the core AI platform to help healthcare professionals analyse large amounts of data and assist in cancer treatment."
     publishedDateTime: 2022-01-28T05:30:00Z

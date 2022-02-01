@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/"
 type: article
 quality: 116
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       - url: "https://i.ytimg.com/vi/9--YE1dEGO0/hqdefault.jpg"
         width: 480
         height: 360
-        isCached: true
-  - title: "Tesla Full Self Driving suite to be ready by this year, says Elon Musk"
-    excerpt: "Musk stated that Tesla Full Self Driving suite will be ready by 2022. Said that he would be shocked if Tesla doesn't complete."
-    publishedDateTime: 2022-01-27T09:17:00Z
-    webUrl: "https://techstory.in/tesla-full-self-driving-suite-to-be-ready-by-this-year-says-elon-musk/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 54
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/01/Tesla-Full-Self-Driving-Beta-Hero.jpg"
-        width: 2020
-        height: 1000
         isCached: true
 
 secured: "vUWQ6mX/Z4C7JfpCYmGhG0KGAtwO9v9HkfFMpC52MYd8b2U452eGkOcUX6bwibY497sji+wnOztzG5lXIrN0ZRZvYE0ZBjzumlYZpGZe1qOZ+a/EEmHf2nl1tjTv8XkdsuVpSFh8jkI+qcklJg4FOo+5+F57E9tUEReH91IKP9ZzoFAdQQu/TxdQPPacOLf6ldsF0+tgX97RiWsKsPzLHfHdM2zitJ7ZtO94WrkEAN77govYGMgQaPmytU3DKF1z5z7E5uTUc7daF6SGDADF5UCf+vepJC6E5C6ygIIUCC0FpKC1NS4Y74hgoG59bMj1oKzuQO80Sf4JtJjwTZwbqruvf+FtBYLXJEBDkd5GKZxdfBcV0FpoLQrPl8r+nVMGdoXZ5QTVBAuV953y5qFL3MvCetBSmdjw9tMEybDKJpg7nszRY+MM2PsZgXMe545ZAtLu6iwn0xGk4VodkfOpELVS8DqtdlODRaiEn/SOC2WxAbqlW4g7lkHUW9KUhLJ+udvyx0aBYbr5pL9y9tXmVA==;WPZ9iLhcFtt33LnYdBv97A=="
