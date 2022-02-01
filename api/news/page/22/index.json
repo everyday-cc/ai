@@ -2,108 +2,6 @@
   "page": 22,
   "value": [
     {
-      "path": "_news/2022-01-11-stagezero-raises-18m-to-combine-mobile-game-rewards-and-ai-training-data.md",
-      "title": "StageZero raises $1.8M to combine mobile game rewards and AI training data",
-      "excerpt": "StageZero has raised $1.8 million in funding to give gamers rewards for participating in in-app tasks that generate AI training data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/",
-      "originalUrl": "https://venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/stagezero-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 755,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/amp/",
-      "publishedDateTime": "2022-01-10T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-future-developments-in-ai-could-make-your-credit-score-obsolete.md",
-      "title": "Future developments in AI could make your credit score obsolete",
-      "excerpt": "While AI won't replace credit scores overnight, it is clear that it has the potential to do so in the future, changing lives across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/10/future-developments-in-ai-could-make-your-credit-score-obsolete/",
-      "originalUrl": "https://venturebeat.com/2022/01/10/future-developments-in-ai-could-make-your-credit-score-obsolete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/10/future-developments-in-ai-could-make-your-credit-score-obsolete/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/10/future-developments-in-ai-could-make-your-credit-score-obsolete/amp/",
-      "publishedDateTime": "2022-01-10T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-11-robotic-arms-are-using-machine-learning-to-reach-deeper-into-distribution.md",
       "title": "Robotic Arms Are Using Machine Learning to Reach Deeper Into Distribution",
       "excerpt": "Advances in technology are moving automated picking systems from the lab to labor-strapped warehouses.",
@@ -1203,6 +1101,101 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-alphabet-is-reportedly-spinning-out-its-secretive-quantum-computing-division.md",
+      "title": "Alphabet is reportedly spinning out its secretive quantum computing division",
+      "excerpt": "This momentum could be kickstarted sooner than expected as Alphabet is reportedly planning on spinning out its quantum division,. Business Insider reports that the secretive division, started by Google cofounder Sergei Brin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/alphabet-is-reportedly-spinning-out-its-secretive-quantum-computing-division",
+      "originalUrl": "https://www.techradar.com/nz/news/alphabet-is-reportedly-spinning-out-its-secretive-quantum-computing-division",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/xoU9iCXXmjtu8GCugsqKBZ-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/alphabet-is-reportedly-spinning-out-its-secretive-quantum-computing-division",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/alphabet-is-reportedly-spinning-out-its-secretive-quantum-computing-division",
+      "publishedDateTime": "2022-01-10T03:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-deepminds-david-silver-on-games-beauty-and-ais-potential-to-avert-human-made-disasters.md",
+      "title": "DeepMind’s David Silver on games, beauty, and AI’s potential to avert human-made disasters",
+      "excerpt": "DeepMind’s David Silver is an elected Fellow of the Royal Society and recipient of the Mensa Foundation Prize for the best scientific discovery in the field of artificial intelligence. In this from-the-heart interview,",
+      "sourceUrl": null,
+      "webUrl": "https://thebulletin.org/2022/01/deepminds-david-silver-on-games-beauty-and-ais-potential-to-avert-human-made-disasters/",
+      "originalUrl": "https://thebulletin.org/2022/01/deepminds-david-silver-on-games-beauty-and-ais-potential-to-avert-human-made-disasters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thebulletin.org/wp-content/uploads/2022/01/David-Silver-black-and-white-photo-WechatIMG314.jpg",
+          "width": 1920,
+          "height": 1281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thebulletin.org/2022/01/deepminds-david-silver-on-games-beauty-and-ais-potential-to-avert-human-made-disasters/amp/",
+      "cdnAmpWebUrl": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2022/01/deepminds-david-silver-on-games-beauty-and-ais-potential-to-avert-human-made-disasters/amp/",
+      "publishedDateTime": "2022-01-10T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bulletin of the Atomic Scientists",
+        "domain": "thebulletin.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

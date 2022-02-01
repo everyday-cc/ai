@@ -25,6 +25,22 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Cloud Natural Language Processing Market to see Booming Business Sentiments | Microsoft, Apple, Dolbey Systems"
+    excerpt: "Advance Market Analytics published a new research publication on “Global Cloud Natural Language Processing Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new ..."
+    publishedDateTime: 2022-02-01T07:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-to-see-booming-business-sentiments-microsoft-apple-dolbey-systems"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/213a4dc4c587c92a338fe018937e54078e3b44c9-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "XBPd8Pl46oryk9m3Usre8qKG8oNjijtdQwrM2z/MMev3UdT7W5HAJWArgOT+hLwPnJ+0ci0L2GCLSASqfYu/EYmNymum3X9yUv5msHtF/mzMFWRHtCx9cbT7yueG/Zb5Q17vX29FhVlOpKsXXQeHKKlrZ8ZbrnY0zm0arogWzj+Gf8fT8jVrPG2PkGksDtTXcqWiER7rVYPnN/OfZ6V8yk0mvfWG7n5bQXFzQHZC4mlEGpGZv/ahXIkI6bFQqDP6EtDeyiMoJJpEvLzX8W9AAEhS2UlRLoHcxoCrKLQmLbViac4CJy54iOlOzj6HfQpVTXLpFyoHTUeWoqhTRaRzdHZUj6avz68NbdgYB9kWwNw=;Wp1etFKbKZLIDFtS5mz2Fw=="
 ---
 

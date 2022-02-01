@@ -56,6 +56,20 @@ related:
         width: 586
         height: 315
         isCached: true
+  - title: "Elon Musk says Tesla’s humanoid robot could eventually outgrow its car business"
+    excerpt: "During Tesla’s earnings call, Musk said the company’s future humanoid robot — internally named “Optimus” — is the “most important product development we’re doing this year.” Musk first unveiled the robot during Tesla’s AI Day event in August."
+    publishedDateTime: 2022-01-30T10:30:00Z
+    webUrl: "https://www.khaama.com/elon-musk-says-teslas-humanoid-robot-could-eventually-outgrow-its-car-business-0296/"
+    type: article
+    provider:
+      name: Khaama Press
+      domain: khaama.com
+    quality: 52
+    images:
+      - url: "https://www.khaama.com/wp-content/uploads/2022/01/611fa3d20fbf9e0018e88c75.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "OAoQ5QiG8J0W9jmF+qa7mIkY53qtQGMtDsBXtpz8MlYFn0VkkU6FiOSsy2y6DhR32lp7sq4OC/wVpXJyPhgKJyaL8vI97NLi+fa0Wd0f/GuoVZc2o9wX9yaxMeUAnFru2YQCG/W8W+PWB91HUXjfzm+ggBRToHDpFWKe0xQaHNFsc34+2iEHvS+tyoNAL9t8lROjk281hG+s4gG59CeL3Gd8h4kt2J3Tr7KlpPGLLlVhzdEMa35sqH7QZ6rOFDAhzQ4tFyBU2yc3kQyGVMwSZi7tgdFEDajcs2cmRS3ykyJQBUqeRuWD4zQaBpU2msYm4E0AVl8CG8un0J5ngPdsn6e4aQz0Uk8BrxYNkJnrqpqrhSrdCP8KEMfLfSMap8dzZTx3Y/ZakDiVt9VxrPZg+TcPRhMpC14xoXjIrHjRE5pVT9iJrXLcdiQVWAnckwIFuQjlm7FtP1sXoGutv+af7Mk8dt1Y6PDA0CU+rw2NtF9P/lp+cilK3h5ufvY4oYoI0uz+EG3v/j73c4v3bd/0EA==;zD0WkERH/f9+LfbqCBoINw=="
 ---

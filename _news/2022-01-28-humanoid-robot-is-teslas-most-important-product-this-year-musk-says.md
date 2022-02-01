@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot
 cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.idgcdn.com.au/article/images/600x315/dimg/tesla_bot.png"
         width: 586
         height: 315
+        isCached: true
+  - title: "Elon Musk says Tesla’s humanoid robot could eventually outgrow its car business"
+    excerpt: "During Tesla’s earnings call, Musk said the company’s future humanoid robot — internally named “Optimus” — is the “most important product development we’re doing this year.” Musk first unveiled the robot during Tesla’s AI Day event in August."
+    publishedDateTime: 2022-01-30T10:30:00Z
+    webUrl: "https://www.khaama.com/elon-musk-says-teslas-humanoid-robot-could-eventually-outgrow-its-car-business-0296/"
+    type: article
+    provider:
+      name: Khaama Press
+      domain: khaama.com
+    quality: 52
+    images:
+      - url: "https://www.khaama.com/wp-content/uploads/2022/01/611fa3d20fbf9e0018e88c75.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "3kXHqaEllDM9tvD8zrV3yW+1N3aHMkY3F2PH7EEXg4WSWDH7iXCPE+xCWMAxKgZKxCRpQpxt6TZOAE/f4obGGnnUC1yldpCbkojeYGlKIvrgwsqa/xNwThbjdpol+4scoZQPtlpIID2t8h5rrGjvYolvdGb6f7/y2vnXi2c4wPUfisxKZ6ldU6WpYW9afr5CFePNPYT7dleE51znW7ioJrF79FNkBWd3yd+KdcuM4hoZmko8xeUFGd/LzVyNfI1rqySLkaHZHAMMKdIS64MVhdkqN4PED9IPXoq7FF7YXNv+0oYztFI7aK/eHHYNkGlQ5i+4yfuQ4fChNunMA8C3tcD82/Yn39CuOjvUqqH6yeqsPVu93tG/3tv3YIt7VVI02hRigfsgZD2QyKv8xSv+nTgFp1F0VEIjqEs43zSdroFkOWFXKK2OCWzcqy9JdwtK2kunyIYMN/a/41OwdDaEwHGXhFkNbLqGSFugBoFUgc5LI5fuOFeOybUjvk1t36W8edbGbheWXnzA5nGSEjWCaw==;vwQ5wvi5dapLyjTJtflj7A=="

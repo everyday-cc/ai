@@ -181,20 +181,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "IRS to Require Facial Recognition to Access Online Functions"
-    excerpt: "Roughly 70 million Americans have already scanned their faces to ID.me to file for unemployment benefits, child tax credits, and other services."
-    publishedDateTime: 2022-01-27T16:20:00Z
-    webUrl: "https://www.nationalreview.com/news/irs-to-require-facial-recognition-to-access-online-functions/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 39
-    images:
-      - url: "https://www.nationalreview.com/wp-content/uploads/2021/10/china-high-tech-5.jpg?fit=2057%2C1200"
-        width: 2057
-        height: 1200
-        isCached: true
   - title: "Facial recognition for cattle on the way"
     excerpt: "The day when producers simply scan the faces of their stock on their smartphone as they walk up the crush, and have all their individual information immediately at hand, might not be far off, thanks to novel livestock facial recognition technology being developed by an Australian researcher."
     publishedDateTime: 2022-01-30T22:55:00Z

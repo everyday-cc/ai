@@ -171,20 +171,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "IRS to Require Facial Recognition to Access Online Functions"
-    excerpt: "Roughly 70 million Americans have already scanned their faces to ID.me to file for unemployment benefits, child tax credits, and other services."
-    publishedDateTime: 2022-01-27T16:20:00Z
-    webUrl: "https://www.nationalreview.com/news/irs-to-require-facial-recognition-to-access-online-functions/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 39
-    images:
-      - url: "https://www.nationalreview.com/wp-content/uploads/2021/10/china-high-tech-5.jpg?fit=2057%2C1200"
-        width: 2057
-        height: 1200
-        isCached: true
   - title: "Facebook will stop using facial recognition data, Meta reports"
     excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
     publishedDateTime: 2022-01-29T14:07:00Z

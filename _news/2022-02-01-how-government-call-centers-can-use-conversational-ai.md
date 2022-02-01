@@ -9,8 +9,8 @@ ampWebUrl: "https://statetechmagazine.com/article/2022/01/how-government-call-ce
 cdnAmpWebUrl: "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2022/01/how-government-call-centers-can-use-conversational-ai-perfcon?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Statetechmagazine
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Five Ways Law Firms Can Use Artificial Intelligence"
-    excerpt: "Artificial intelligence technology has been used by a variety of business sectors to execute arduous jobs at a faster pace, more precision, and more effectively. Law firms and the legal industry are no exception."
-    publishedDateTime: 2022-01-27T16:14:00Z
-    webUrl: "https://techbullion.com/five-ways-law-firms-can-use-artificial-intelligence/"
-    ampWebUrl: "https://techbullion.com/five-ways-law-firms-can-use-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/five-ways-law-firms-can-use-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/01/pexels-pixabay-373543-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "Oversight Group Offers Artificial Intelligence Recommendations"
     excerpt: "The LHC finds that the state has “since made progress to better prepare for and strategize for an AI world,” and it highlights the California Department of Technology’s (CDT) Fall 2020 launch of the Artificial Intelligence Community of Practice ..."
     publishedDateTime: 2022-01-28T23:34:00Z
