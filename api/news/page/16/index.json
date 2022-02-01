@@ -2,6 +2,281 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-01-15-chasing-reliability-in-automotive-electronics.md",
+      "title": "Chasing Reliability In Automotive Electronics",
+      "excerpt": "They’re looking at artificial intelligence. The ecosystem as we knew it five years ... Additionally, new entrants like Uber, Waymo and Apple are designing their own complete systems, despite their relative lack of experience in the automotive industry.",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/chasing-reliability-in-automotive-electronics/",
+      "originalUrl": "https://semiengineering.com/chasing-reliability-in-automotive-electronics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/semiengineering.com/wp-content/uploads/2019/01/ISO26262_Arteris.png?fit=1582%2C1228&#038;ssl=1",
+          "width": 1582,
+          "height": 1228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-heres-why-snapchat-got-an-unexpected-shout-out-during-apples-big-iphone-event.md",
+      "title": "Here's Why Snapchat Got an Unexpected Shout-Out During Apple's Big iPhone Event",
+      "excerpt": "However, unlike Apple's other AR features, which are powered by facial recognition technology, Snapchat uses object recognition. Object recognition uses an algorithm that understands the general ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/stocks/here-s-why-snapchat-got-an-unlikely-shout-out-during-apple-s-big-iphone-event-14302991",
+      "originalUrl": "https://www.thestreet.com/investing/stocks/here-s-why-snapchat-got-an-unlikely-shout-out-during-apple-s-big-iphone-event-14302991",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTY4NjUwODg5MzcxMjY0OTE5/apple-iphone-x-has-this-powerful-force-behind-it-that-nobody-is-talking-about.png",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/stocks/here-s-why-snapchat-got-an-unlikely-shout-out-during-apple-s-big-iphone-event-14302991",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/stocks/here-s-why-snapchat-got-an-unlikely-shout-out-during-apple-s-big-iphone-event-14302991",
+      "publishedDateTime": "2022-01-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years.md",
+      "title": "Waymo, J.B. Hunt plan to reach fully autonomous truck transport in Texas in ‘next few years’",
+      "excerpt": "Waymo has been developing its primary operations center in Texas, which is expected to potentially accommodate hundreds of trucks and personnel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/business/technology/2022/01/14/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years/",
+      "originalUrl": "https://www.msn.com/en-us/autos/news/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-e2-80-98next-few-years-e2-80-99/ar-AASMRBt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/vwwc6YNUKVZOAUJ_qrAovdaQs3g=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/QTOZOLCUO5GH5NWLTAKJQPAVII.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/business/technology/2022/01/14/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2022/01/14/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years/?outputType=amp",
+      "publishedDateTime": "2022-01-14T15:15:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dallasnews.com/business/technology/2022/01/14/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years/",
+        "domain": "dallasnews.com/business/technology/2022/01/14/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-disrupting-the-economics-of-software-testing-through-ai.md",
+      "title": "Disrupting the economics of software testing through AI",
+      "excerpt": "Torsten Volk, managing research director at EMA, highlights 5 categories of AI and 6 pain points of test automation that AI addresses.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/test/disrupting-the-economics-of-software-testing-through-ai/",
+      "originalUrl": "https://sdtimes.com/test/disrupting-the-economics-of-software-testing-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2022/01/b744404607f524183cc48bd943733e2f.jpg",
+          "width": 917,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-ag-report-john-deere-reveals-driverless-tractor.md",
+      "title": "Ag Report: John Deere reveals driverless tractor",
+      "excerpt": "COLUMBUS - John Deere revealed its autonomous tractor at the Consumer Electronics Show earlier this month. Spectrum News 1 agriculture expert Andy Vance said farmers have used computer technology for decades.",
+      "sourceUrl": null,
+      "webUrl": "https://spectrumnews1.com/oh/cleveland/news/2022/01/12/ag-report--john-deere-reveals-driverless-tractor",
+      "originalUrl": "https://spectrumnews1.com/oh/cleveland/news/2022/01/12/ag-report--john-deere-reveals-driverless-tractor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s7d2.scene7.com/is/image/TWCNews/r4f167445_rrd_1x_01122022",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "spectrumnews1",
+        "domain": "spectrumnews1.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-why-is-the-nfl-crowd-sourcing-feckless-ai-solutions-to-its-concussion-problem.md",
+      "title": "Why is the NFL crowd-sourcing feckless AI solutions to its concussion problem?",
+      "excerpt": "Some companies have too much data and not enough humans to review. The NFL has the opposite problem. So why is it crowd-sourcing solutions?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-solutions-concussion-problem",
+      "originalUrl": "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-solutions-concussion-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fwtfnfl.jpg&signature=9fa80da85c44e5785b125cf3026e7b65",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-15-checkers-installing-voice-ai-in-all-company-run-locations.md",
       "title": "Checkers Installing Voice AI in All Company-Run Locations",
       "excerpt": "AI voice ordering is rolling out in a big way under a new partnership between the fast-food giant Checkers and tech partner Presto.",
@@ -907,284 +1182,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-december-retail-sales-slide-19-amid-shortages-omicron.md",
-      "title": "December retail sales slide 1.9% amid shortages, omicron",
-      "excerpt": "Americans, beset by product shortages, rising prices and the arrival of omicron, sharply cut their spending in December after a burst of spending in the fall that helped bolster the holiday season",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20220111005911/en/DeepScribe-Raises-30M-To-Become-First-Widely-Accepted-Application-of-Voice-AI-in-Healthcare",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/december-retail-sales-slide-19-amid-shortages-omicron-82264798",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-chinas-robotaxis-charged-ahead-in-2021.md",
-      "title": "China’s robotaxis charged ahead in 2021",
-      "excerpt": "Autonomous driving startups in China are in an arms race to put passengers in their machine-driven vehicles. Every few weeks, news arrives that another major player has got the greenlight to launch a new pilot program or a small-scale service.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
-      "originalUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-696723580.jpg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
-      "publishedDateTime": "2022-01-14T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-amazon-fixes-security-flaw-in-aws-glue-service.md",
-      "title": "Amazon fixes security flaw in AWS Glue service",
-      "excerpt": "Amazon Web Services fixes a flaw that could give an attacker access to data of other users on its Glue managed data integration service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-fixes-security-flaw-in-aws-glue-service/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-fixes-security-flaw-in-aws-glue-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5ce181958b42162c42543bf7eefa3ab6467f7c9c/2021/12/01/bf754524-8f7c-47d1-8b10-d0f28da9d080/20211201-sf-dec.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-fixes-security-flaw-in-aws-glue-service/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-fixes-security-flaw-in-aws-glue-service/",
-      "publishedDateTime": "2022-01-14T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-chinese-restaurant-chain-is-forced-to-use-robot-waiters-during-the-covid-pandemic.md",
-      "title": "Chinese restaurant chain is forced to use ROBOT waiters during the Covid pandemic",
-      "excerpt": "Directors at The Chinese Buffet unveiled one BellaBot in each of four restaurants in Liverpool, St Helens, Bolton and Wigan, to serve food to diners in place of humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/01/14/13/52927541-0-image-a-63_1642165520636.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
-      "publishedDateTime": "2022-01-14T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-deep-learning-has-deep-problems.md",
-      "title": "Deep learning has deep problems",
-      "excerpt": "Can’t multi-task Deep learning has some major issues which will eventually lead it to become a dead end. For 20 years, deep learning has come to dominate artificial intelligence research and applications through a series of useful commercial applications But according to IEEE Spectrum the",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems",
-      "originalUrl": "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/f97416722213d9fce2e04a73b9cf58df_L.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T04:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-the-world-in-your-pocket-how-smartphones-will-get-smarter-in-2022.md",
-      "title": "The world in your pocket: How smartphones will get smarter in 2022",
-      "excerpt": "Google, OnePlus, Asus and Motorola give us a taste of how our phones will be more useful, intelligent and powerful over the next 12 months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/9Zn77uc7NrEvhS7S7s9-IptN6dM=/2021/08/27/bb908ae7-2e0f-4120-9a87-35b83d23c133/p1016830-1.jpg",
-          "width": 5670,
-          "height": 2835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
-      "publishedDateTime": "2022-01-14T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

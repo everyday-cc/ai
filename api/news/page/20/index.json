@@ -2,6 +2,263 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-01-12-nuro-announces-3rd-gen-driverless-delivery-vehicle.md",
+      "title": "Nuro announces 3rd-gen driverless delivery vehicle",
+      "excerpt": "The cute little Nuro pod gets a big cargo upgrade and new sensors. Remember Nuro? You know, they make the cute little driverless delivery pods and they've partnered with companies like Kroger, FedEx,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/",
+      "originalUrl": "https://www.msn.com/en-us/lifestyle/shopping/nuro-announces-3rd-gen-driverless-delivery-vehicle/ar-AASHHCc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/SGxZeFDiIQh6cIx9DHeuWGlgWwc=/2022/01/11/c0fbe27d-6be4-4702-aca0-7637dc5ebaed/nuro-family-groceries.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nuro-third-generation-driverless-delivery-pod/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-third-generation-driverless-delivery-pod/",
+      "publishedDateTime": "2022-01-12T06:00:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/",
+        "domain": "cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-agendia-to-provide-first-digital-mammaprint-capability-to-brazil.md",
+      "title": "Agendia to Provide First Digital MammaPrint Capability to Brazil",
+      "excerpt": "AI solution will expand Agendia's testing platform in the Brazilian breast cancer market Digital MammaPrint offers fast turnaround time to molecular diagnostics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/b25018571/agendia-to-provide-first-digital-mammaprint-capability-to-brazil",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/b25018571/agendia-to-provide-first-digital-mammaprint-capability-to-brazil",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25018571",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25018571",
+      "publishedDateTime": "2022-01-12T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-seekout-will-expand-ai-powered-recruitment-tools-with-new-125m.md",
+      "title": "SeekOut will expand AI-powered recruitment tools with new $125M",
+      "excerpt": "SeekOut, an AI-powered recruitment platform, has raised $125 million in funding to expand its software platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/",
+      "originalUrl": "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1092756998-e1636570502724.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/amp/",
+      "publishedDateTime": "2022-01-12T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-ai-futureai-raises-2-million-to-develop-artificial-general-intelligence.md",
+      "title": "AI: FutureAI Raises $2 Million to Develop Artificial General Intelligence",
+      "excerpt": "Today, FutureAI, an early-stage deep technology startup, announced that it has raised $2 million in an initial funding round. The company is developing artificial general intelligence (AGI) that replicates facets of the true understanding common to all human beings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-ai-futureai-raises-2-million-develop-artificial-general-/2022/01/12/9524861.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ai-futureai-raises-2-million-develop-artificial-general-/2022/01/12/9524861.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T05:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions.md",
+      "title": "Acuity Brands expands tie-up with Microsoft to enable sustainable building solutions",
+      "excerpt": "Acuity Brands (AYI) expands its collaboration with Microsoft (MSFT) to bring new capabilities to AYI smart lighting, lighting controls and building automation",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
+      "originalUrl": "https://seekingalpha.com/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
+      "publishedDateTime": "2022-01-12T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-tesla-could-be-forced-to-report-full-self-driving-beta-data-to-dmv-after-videos-showing-dangerous-use.md",
+      "title": "Tesla could be forced to report Full Self-Driving Beta data to DMV after ‘videos showing dangerous use’",
+      "excerpt": "Tesla, who managed to avoid reporting autonomous driving data to the DMV, could be forced to open the books on its Full Self-Driving (FSD) Beta to the California DMV after what the latter called “videos showing dangerous use”.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
+      "originalUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/",
+      "publishedDateTime": "2022-01-12T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-placerai-a-location-analytics-startup-finds-100m-at-a-1b-valuation.md",
       "title": "Placer.ai, a location analytics startup, finds $100M at a $1B valuation",
       "excerpt": "Many of us are moving around these days a lot less than we used to — because of Covid, we’re working from home instead of an office; and we are traveling and going out less. Now, as we shift back into more “normal” behavior,",
@@ -860,282 +1117,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-dmv-revisiting-its-approach-to-regulating-teslas-public-self-driving-test.md",
-      "title": "DMV ‘revisiting’ its approach to regulating Tesla’s public self-driving test",
-      "excerpt": "But confronted with dozens of viral videos showing Tesla’s Full Self-Driving beta technology driving the car into dangerous situations, and a letter of concern from a key state legislator ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job",
-      "originalUrl": "https://www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/fb379c5/2147483647/strip/true/crop/3924x2624+6+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F59%2Fd3%2F70020613444dad0286aa7055aa14%2Fla-photos-1staff-20190912-sacramentopol-robertgourley-940.jpg",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job?_amp=true",
-      "publishedDateTime": "2022-01-11T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-basic-classification-classify-images-of-clothing.md",
-      "title": "Basic classification: Classify images of clothing",
-      "excerpt": "This guide trains a neural network model to classify images of clothing, like sneakers and shirts. It's okay if you don't understand all the details; this is a fast-paced overview of a complete TensorFlow program with the details explained as you go.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/keras/classification?hl=fi",
-      "originalUrl": "https://www.tensorflow.org/tutorials/keras/classification?hl=fi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=fi",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-proofpoint-acquires-ai-based-data-protection-startup-dathena.md",
-      "title": "Proofpoint Acquires AI-Based Data Protection Startup Dathena",
-      "excerpt": "Proofpoint, which was acquired by private equity firm Thoma Bravo in 2021, has merged with Dathena, a New York-based AI data protection platform. Dathena's platform",
-      "sourceUrl": null,
-      "webUrl": "https://www.inforisktoday.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-a-18300",
-      "originalUrl": "https://www.inforisktoday.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-a-18300",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-showcase_image-4-a-18300.jpg",
-          "width": 860,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Info Risk Today",
-        "domain": "inforisktoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-top-ai-chatbots-for-business-in-2022-benefits-and-platform-integrations.md",
-      "title": "Top AI chatbots for business in 2022: Benefits and platform integrations",
-      "excerpt": "Pro: Users can engage an unlimited number of contacts for $10 per month through Facebook Messenger, email, or SMS. Chatfuel offers businesses a centralized platform to create AI conversational ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/best-ai-chatbots-online-robot-chat",
-      "originalUrl": "https://www.businessinsider.com/best-ai-chatbots-online-robot-chat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6011cef11d2df20018b71349?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/best-ai-chatbots-online-robot-chat?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/best-ai-chatbots-online-robot-chat?amp",
-      "publishedDateTime": "2022-01-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform.md",
-      "title": "Cogniteam’s Nimbus Supports Cloud-Enabled Robot Deployment Powered by NVIDIA Jetson Edge AI Platform",
-      "excerpt": "Cogniteam integrates NVIDIA Isaac GEMs into Nimbus, streamlining robotics from development to deployment leveraging the NVIDIA Jetson platform",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/",
-      "originalUrl": "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-amazon-amzn-boosts-aws-portfolio-with-new-ec2-instances.md",
-      "title": "Amazon (AMZN) Boosts AWS Portfolio with New EC2 Instances",
-      "excerpt": "AWS announces the general availability of purpose-built Amazon EC2 instances, Hpc6a, which are designed for HPC workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/412667",
-      "originalUrl": "https://www.entrepreneur.com/article/412667",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-412667.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

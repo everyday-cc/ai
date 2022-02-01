@@ -8,7 +8,7 @@ webUrl: "https://healthitanalytics.com/news/ai-collaboration-to-create-personali
 ampWebUrl: "https://healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg"
+    width: 480
+    height: 295
+    isCached: true
 
 related:
   - title: "China sets the pace in adoption of AI in healthcare technology"
@@ -96,6 +102,6 @@ related:
         height: 512
         isCached: true
 
-secured: "jI87TRlwuvP60RrqrAIv5Y8WgAKTAHjiMD0fK7r/3h0M5gk7asDC593YWwxnj642ggrCT7QQdhjhuir6TFNkoquDRMc627L9XkF6iGtx1CMu/kJO8VU34eEjyLVnyn7IMecd1Z0oJe2yJxRU71pFQbh6PO3PILhe7Ec5q1XXIFKc1Zicu/jQa3peFvQ/yBJ9a5PMx8XgN3qLIFEXZgODYchQAiuVkQ9tgWO/BnvUkKjn3m13UyY3xKznN8x+zY+XO3nJzgSegvXFiy2RAB1wPoB9gZX+vJZUlrTSiKKiGeBmErc3Igp83258/NKfANu3ngRmcsQeGSfO9G/63RbF8O7cekBAG+CAwn78vbSMZcA=;ddwaW82i7T+EXcwplOjlWw=="
+secured: "OBhOgeO19QPtw2JhQzchU2O0I1Emtpi4Mke2dOOVUz3PgeawoMwvhaetRnguyHiJ4+JB30muM6VNi2ww43fhSTIczNzZoN3dBCvqJdbe6oBPktYuIZTt4HP8/2ymsZO/ukpXED28h8sS/oPxxU49STgRujU/YP4eec3sd7V9+D0e7afTtDtl2m3GqQjKh5Xd24otPVe5ZW6BDctCTH6Etyd4Go5VLDL3aVJeFobMj8uqBFqjGk7CisSlY8XQTe8Y6l/GiaHutvfDGDWZcgWTDf/ZTYJB4vh8Fi2TvH8XHyBLZVB/zkWJaFL39dTp/YZwo6ZHbm546TCfigOMaHqzEb53uVRyUmLAWd4leLjfsos=;b3PA+2DY8IY+R1JYP2yb+w=="
 ---
 

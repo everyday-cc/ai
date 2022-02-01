@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 500
         isCached: true
+  - title: "CrowdAI Selected by U.S. Department of Defense to Build Critical Foundation for Fast AI Adoption Across Components"
+    excerpt: "CrowdAI, the world's most intuitive AI platform for imagery and video, today announced its selection as an institutional AI partner under a $249 million -ceiling Blanket Purchase Agreement issued by the U."
+    publishedDateTime: 2022-02-01T16:57:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/02/01/9537171.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "CdzIarvUojpu3990c6U27AOY/TttGEx8hzoLdzqZRRmdeYa0+7Jo+YYbgDgvYp2k2vGLermEPsK96Sn5FPykZYXgFcLsCe1Z1ILJui7ADFhciAm0lro9loVxCEy1Tj+An3zQZpr0Y6aYAUkwvlKa9E3Eufgj5P/07Erv8c1X1nB81/v1DDgev7FZKjrUXuzlRjsgj88XGgCAeRGRfuvz0lPYMzzOPjLGf2G6SZfddkm3JwhCgdHX9tt5ra++9YLcXPooIpKEHI3DdbWSx5YGJQuY6hddqlyoZxfSv9Gf/QMspfx+U1Ya8xAlxl2h41CZTUHT7U8nTJ2uCkWYGhsjeY76S2ruAdccxf1ZbiqQjiTiFtX4yGe+IpNkumXAS7gIdhsC2s2aGTd1AFU82zkObWI6BDpdGdTkBBuAmJzA+ILEOofpwT8GJPvEm9RnwOJegzZhpFsfQE1jDjEZdNN7cc728fJxoqRg9CCNBNSqfiy0kgDEIe6XQqTQzYNzwbb4pzOD16Ljen0nrInxg1JWEQ==;b0CqbOsC9PPcOaIpdm0zlA=="
 ---

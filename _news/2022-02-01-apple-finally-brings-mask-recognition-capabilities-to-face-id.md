@@ -103,6 +103,20 @@ related:
         width: 734
         height: 413
         isCached: true
+  - title: "U.S. Agencies Embrace Facial Recognition Technology"
+    excerpt: "While facial recognition technology has helped identify more than 1,000 impostors attempting to enter the U.S. with false documents since 2018 and the increasing use of biometrics in airports and ..."
+    publishedDateTime: 2022-02-01T16:09:00Z
+    webUrl: "https://thecrimereport.org/2022/02/01/u-s-agencies-embrace-facial-recognition-technology/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Yellow.ai recognised in the first-ever 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms"
     excerpt: "Yellow.ai, the world's leading next-gen total experience (TX) automation platform, trusted by 1000-plus enterprises globally, today announced it has been recognised as a Niche Player in the 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms."
     publishedDateTime: 2022-02-01T02:21:00Z

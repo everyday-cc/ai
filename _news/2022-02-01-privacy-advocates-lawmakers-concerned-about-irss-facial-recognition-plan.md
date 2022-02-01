@@ -75,6 +75,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The IRS plan to require face scans raises concerns about privacy and security"
+    excerpt: "It's a major expansion of facial recognition technology by the U.S. government, and it's raising questions about how this kind of data will be used and shared across private and public agencies. Ina Fried, chief technology correspondent for Axios ..."
+    publishedDateTime: 2022-02-01T16:32:00Z
+    webUrl: "https://www.wbur.org/hereandnow/2022/02/01/irs-video-selfie-records"
+    ampWebUrl: "https://amp.wbur.org/hereandnow/2022/02/01/irs-video-selfie-records"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/hereandnow/2022/02/01/irs-video-selfie-records"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 53
   - title: "Treasury Weighing Alternatives to ID.me Over Privacy Concerns"
     excerpt: "Treasury and the IRS are looking into alternatives to ID.me, the department official said, and the agencies are in the meantime attentive to concerns around the software. “The IRS is consistently looking for ways to make the filing process more secure,"
     publishedDateTime: 2022-01-28T19:07:00Z

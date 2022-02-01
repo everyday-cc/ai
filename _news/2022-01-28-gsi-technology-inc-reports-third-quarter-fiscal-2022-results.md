@@ -1,23 +1,26 @@
 ---
 category: news
 title: "GSI Technology, Inc. Reports Third Quarter Fiscal 2022 Results"
-excerpt: "GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its third fiscal quarter ended December 31, 2021. Lee-Lean Shu, Chairman and Chief Executive Officer, commented, “Our third quarter revenue grew 19% year-over-year due to increased orders from our SRAM customer base,"
-publishedDateTime: 2022-01-27T21:10:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-gsi-technology-inc-reports-third-quarter-fiscal-2022-/2022/01/27/9534856.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-gsi-technology-inc-reports-third-quarter-fiscal-2022-/2022/01/27/9534856.htm"
+excerpt: "GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its third fiscal quarter ended December 31, 2021. Summary Financial Results Table (in thousands, except per share amounts) Lee-Lean Shu,"
+publishedDateTime: 2022-01-27T21:07:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-business-health-4a24f7033f4335149fe9841c942f5022"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-business-health-4a24f7033f4335149fe9841c942f5022"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "1G6RuXJE7ILQ5gO6mbIrj1E7jEqjRaOl/pgh2aOWJ3xg/c5kLcOS1qHfsMcwoNmKcOFqKfFxFmf33cw548aFvAqM2hETO57A2HUl4aPI5EPVOndirtt59SN4nWGqSwFGyVKg3rVQiKdveyXlkLiJmfqljHbv6dN/qSTQYDb3ichTjiw1eb8MpDpe9FFUOkyRaxMASkC0U2g6uEwqtnhmmvsbPTzb49PhUCxR7XIUYgFfDssFa8Bk72eNWss89qXtIG5UfHQ9cDIcZjlvpyyjk2BRjnIlRp/2H8UX/7HFGd4Xl/5m9TiQM39KkYBfwZdHLQDaE3wHmPKQErmWsWkc2Qv2ShderXPTvKUpOLhwbIE=;3qDtrSgZTqYs5EHTssZSZA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "iA146mp4VP58zLpAmrZdBNtdIdZLgx2BMVJjUo5NStXolFNPMwY9mW7Wxbw+PTvu6bYNAc9pF3hLTzXQwXRcogqNV1gNc95O0Yeo5kUeWFG19gUI8saxyT/S3HCeTGpVKTpbEeGnQo1UphzJNBSFMbQ6O5a864isNOS+vdJNPFHW1kz2YpnrUe25LTe2wXrnp1W3j2BP3qDik/JFTw7HGybSH1bzrtDsEjc3zEddqzaJjfmdOLJmAz4CK6PK9yRa2lRzrgiV92F73wkzjGAWxMKDUAP/X/oqaNvagMxLSSqSu7Wmg4oJOaQz7OI1njd6BRETjExG1m//NOfPyTnFlnGFeuzy1PAbHwdKD71051c=;Zk9v9tQS6/uVRPkcSj2XLA=="
 ---
 

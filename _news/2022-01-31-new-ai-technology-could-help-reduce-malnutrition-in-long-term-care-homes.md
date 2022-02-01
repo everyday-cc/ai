@@ -52,7 +52,12 @@ related:
     provider:
       name: Analytics
       domain: healthitanalytics.com
-    quality: 54
+    quality: 74
+    images:
+      - url: "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 295
+        isCached: true
   - title: "The future role of AI in finance"
     excerpt: "And, perhaps crucially, whether AI will ever remove the need for human advisors in the financial industry. AI transforming financial sector Business leaders have revealed that the use of technology including AI plays a significant role in filling gaps ..."
     publishedDateTime: 2022-02-01T05:00:00Z

@@ -2,6 +2,221 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-01-18-imagination-and-andes-jointly-validate-gpu-with-risc-v-cpu-ip.md",
+      "title": "Imagination and Andes jointly validate GPU with RISC-V CPU IP",
+      "excerpt": "Imagination Technologies and Andes Technology announces the successful testing and validation of the IMG B-Series Graphics Processing Units (GPU) with the RISC-V compliant Andes AX45, a 64-bit high performance-efficient and configurable superscalar Central Processing Unit (CPU).",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-imagination-andes-jointly-validate-gpu-with-risc-v-/2022/01/18/9528055.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-imagination-andes-jointly-validate-gpu-with-risc-v-/2022/01/18/9528055.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings.md",
+      "title": "TD SYNNEX (SNX) Signs SCA With AWS, Boosts Digital Offerings",
+      "excerpt": "TD SYNNEX SNX recently inked a strategic collaboration agreement (“SCA”) with Amazon’s AMZN subsidiary, Amazon Web Services (“AWS”), to invest in resources that will help in developing advanced cloud solutions for its partners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings",
+      "originalUrl": "https://www.nasdaq.com/articles/td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/td-synnex-snx-signs-sca-with-aws-boosts-digital-offerings?amp",
+      "publishedDateTime": "2022-01-18T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-aiml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes.md",
+      "title": "AI/ML in 2022: More Real-World Deployments, Focus On AI Ethics and Blockchain Hopes",
+      "excerpt": "Prominent industry experts share their predictions for the year aheadVILNIUS, LITHUANIA / ACCESSWIRE / January 18, 2022 / Artificial intelligence (AI) and",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/AAA-8-1-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-onesoft-and-entegra-team-up-to-advance-innovation-of-og-pipeline-ili-services-with-machine-learning.md",
+      "title": "OneSoft and ENTEGRA Team Up to Advance Innovation of O&G Pipeline ILI Services with Machine Learning",
+      "excerpt": "EDMONTON, AB and INDIANAPOLIS, IN/ ACCESSWIRE / January 18, 2022 / OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF)(\"OneSoft\") and ENTEGRA LLP (\"ENTEGRA\") have entered into a business arrangement (\"Agreement\") whereby ENTEGRA will incorporate the Cognitive Integrity Management (\"CIM\") software-as-a-service (\"SaaS\") solution developed by OneSoft's subsidiary,",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/01/18/onesoft-and-entegra-team-up-to-advance-innovation-of-o-g-pipeline-ili-services",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/01/18/onesoft-and-entegra-team-up-to-advance-innovation-of-o-g-pipeline-ili-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) services can help companies ... It also continues to invest in next-gen technologies, like Waymo's driverless cars, which could evolve into revenue-generating ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0?time=1642508101",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0?time=1642508101",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-0?amp",
+      "publishedDateTime": "2022-01-18T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-pacbio-pacb-to-leverage-googles-deep-learning-technologies.md",
+      "title": "PacBio (PACB) to Leverage Google's Deep Learning Technologies",
+      "excerpt": "The collaboration builds on prior PacBio and Google research. A recent bioRxiv publication titled: “Deep Consensus: Gap-Aware Sequence Transformers for Sequence Correction,” demonstrated improvements in variant calling and suggested that Google’s DeepConsensus machine learning tool can expand the yield of 99.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies",
+      "originalUrl": "https://www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies?amp",
+      "publishedDateTime": "2022-01-18T05:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-a-new-use-for-ai-summarizing-scientific-research-for-seven-year-olds.md",
       "title": "A new use for AI: summarizing scientific research for seven-year-olds",
       "excerpt": "Academic writing often has a reputation for being hard to follow, but what if you could use machine learning to summarize arguments in scientific papers so that even a seven-year-old could understand them?",
@@ -932,263 +1147,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-deep-learning-works-like-the-human-brain-in-future.md",
-      "title": "Deep Learning Works Like The Human Brain In Future",
-      "excerpt": "Deep learning is a subfield or part of machine learning. Algorithms that replicate or inspire the human brain, consisting of algorithms designed to mimic the structure and operation of the human ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103554579/Deep-Learning-Works-Like-The-Human-Brain-In-Future",
-      "originalUrl": "https://menafn.com/1103554579/Deep-Learning-Works-Like-The-Human-Brain-In-Future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-01/18/pr_10652_2e032352_image_story.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T02:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-insurtech-reimagines-ai-driving-change-on-the-road-to-next-gen-ai-chips.md",
-      "title": "Insurtech reimagines AI: Driving Change on the Road to Next-Gen AI Chips",
-      "excerpt": "Insurance companies using Tractable benefit from AI of damage assessments after accidents. Here's how Tractable is leveraging next-gen, AI-dedicated chipsets and potentially migrating from GPU arrays.",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2022/01/ai-ml-machine-learning-insurtech-artificial-intelligence-insurance-review-best-chip-cpu/",
-      "originalUrl": "https://techhq.com/2022/01/ai-ml-machine-learning-insurtech-artificial-intelligence-insurance-review-best-chip-cpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techhq.com/wp-content/uploads/2022/01/shutterstock_1703593093-375x210.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techhq.com/amp/2022/01/ai-ml-machine-learning-insurtech-artificial-intelligence-insurance-review-best-chip-cpu/",
-      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/01/ai-ml-machine-learning-insurtech-artificial-intelligence-insurance-review-best-chip-cpu/",
-      "publishedDateTime": "2022-01-18T02:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-ai-from-sensor-data-to-smart-monitoring.md",
-      "title": "AI: from sensor data to smart monitoring",
-      "excerpt": "The solution to navigating the data lies in automation and artificial intelligence (AI ... can process huge amounts of data using Deep Neural Networks (DNNs). These neural networks are key ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/ai-from-sensor-data-to-smart-monitoring/",
-      "originalUrl": "https://www.itproportal.com/features/ai-from-sensor-data-to-smart-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/ai-from-sensor-data-to-smart-monitoring/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-from-sensor-data-to-smart-monitoring/",
-      "publishedDateTime": "2022-01-18T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-reliance-retail-buys-54-stake-in-robotics-firm-addverb-tech-for-132-million.md",
-      "title": "Reliance Retail buys 54% stake in robotics firm Addverb Tech for $132 million",
-      "excerpt": "Leading homegrown robotics company Addverb Technologies on Tuesday said that Reliance is investing up to $132 million in the company to become its largest",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/business/news/reliance-retail-buys-majority-stake-in-robotics-firm-addverb-tech-for-132-million/articleshow/88971842.cms",
-      "originalUrl": "https://www.businessinsider.in/business/news/reliance-retail-buys-majority-stake-in-robotics-firm-addverb-tech-for-132-million/articleshow/88971842.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/88971930.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/business/news/reliance-retail-buys-majority-stake-in-robotics-firm-addverb-tech-for-132-million/amp_articleshow/88971842.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/reliance-retail-buys-majority-stake-in-robotics-firm-addverb-tech-for-132-million/amp_articleshow/88971842.cms",
-      "publishedDateTime": "2022-01-18T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-the-ap-interview-exiled-artist-ai-weiwei-on-beijing-games.md",
-      "title": "The AP Interview: Exiled artist Ai Weiwei on Beijing Games",
-      "excerpt": "Ai Weiwei is one of China's most famous artists, and many regard him as one of the world's greatest living ones of his profession. Working with the Swiss architectural firm Herzog & de Meuron, he helped design the Bird's Nest Stadium,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/The-AP-Interview-Exiled-artist-Ai-Weiwei-on-16783772.php",
-      "originalUrl": "https://www.chron.com/news/article/The-AP-Interview-Exiled-artist-Ai-Weiwei-on-16783772.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/23/51/31/21927514/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/The-AP-Interview-Exiled-artist-Ai-Weiwei-on-16783772.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-AP-Interview-Exiled-artist-Ai-Weiwei-on-16783772.php",
-      "publishedDateTime": "2022-01-18T01:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2-architecture.md",
-      "title": "Samsung Introduces Game Changing Exynos 2200 Processor with Xclipse GPU Powered by AMD RDNA 2 Architecture",
-      "excerpt": "Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, today announced its new premium mobile processor, the Exynos 2200. The Exynos 2200 is a freshly designed mobile processor with a powerful AMD RDNA 2 architecture based Samsung Xclipse graphics processing unit (GPU).",
-      "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2/article_63d01e68-06be-5d34-b581-0308460b5ec5.html",
-      "originalUrl": "https://www.register-herald.com/region/samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2/article_63d01e68-06be-5d34-b581-0308460b5ec5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/7/f5/7f55de04-6486-584b-987f-1bb4d418b78e/61e685c85a8b3.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
