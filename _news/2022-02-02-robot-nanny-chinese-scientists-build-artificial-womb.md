@@ -57,20 +57,6 @@ related:
         width: 918
         height: 506
         isCached: true
-  - title: "Chinese AI translation machine startup secures new funding"
-    excerpt: "Timekettle, a Chinese startup developing artificial intelligence-based smart translation machines, has raised several tens of millions of yuan (at least $3 million) from China SME Development Fund in a Series A funding round."
-    publishedDateTime: 2022-01-28T06:14:00Z
-    webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-translation-machine-startup-secures-new-funding"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F1%252F6%252F2%252F0%252F38600261-1-eng-GB%252F20220127%252036Kr_earphone.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "+F9Yb50OtStCCJglYCdvrNah7GJjFuzSIJpsoFeodLSmWkItDBzuKTMZhcMM1Oah1opNbxR5sAUqx/FY6MJm178Tt566MDIVoNtak35TsCgCmItJL1qUi8YGBYmC5GMp/2v2+eLSALHA8lyjPTKcWnc1+7lEB5Hm7r/IxsQWHMGv0bn0vZLf4qo/6CmdONCWB1FPT8GySH+YSazGrPnJeDzbFcPKyWUgEZeQnlflOazuiEKwn04itJpFYJL5f3MNRe+sE10G0qU9TUMMwOh7ohrFVQCMHwip2wLI781L06Dp1ba8xiDGUUY42/PG/9z0CEM1E5M6p79l37FJzL1s90zaOpdUHK7/X+oaD/DtVUjFyR9yHkjImjgJgRzOJZ2IuNzFlnw2TrUrosmmcHU2V7o12lZf16wRwX8D9VwPwZ92Lm+EY2tD4b0SaiZCLr52Xw0n9yuJUMFUgLL9dnf1t3AhmUUftbNqAVK4l1NV6BVXKKsabyfwLGeyt8u2teELbV3GziV8d8m0sXJvX0x4Pg==;exrf4a2jvRccvm0+9xaARA=="
 ---

@@ -52,6 +52,20 @@ related:
         width: 1600
         height: 1502
         isCached: true
+  - title: "Fintech Provides Investors With AI-Driven Research"
+    excerpt: "Magnifi, which is one arm of TIFIN, helps match investors and advisors with firms specializing in the work the investor is looking for. In this example, TIFIN, which stands for Technology In Finance,"
+    publishedDateTime: 2022-02-01T21:24:00Z
+    webUrl: "https://www.fa-mag.com/news/tifin-provides-ai-for-investors-66187.html"
+    type: article
+    provider:
+      name: Financial Advisor
+      domain: fa-mag.com
+    quality: 39
+    images:
+      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Fintech Company Aqueous Asset Launches Valuations Platform AVA"
     excerpt: "As financial technology continues to be more closely associated with proptech, Los-Angeles based fintech company Aqueous Asset on Monday announced the launch of AVA, its AI-powered tech SaaS platform for multifamily valuations."
     publishedDateTime: 2022-01-31T13:37:00Z

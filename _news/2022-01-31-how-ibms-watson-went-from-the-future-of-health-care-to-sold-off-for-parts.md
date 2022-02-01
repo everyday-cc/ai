@@ -56,20 +56,6 @@ related:
         width: 960
         height: 460
         isCached: true
-  - title: "IBM sells parts of Watson Health; what are the repercussions?"
-    excerpt: "IBM Watson Health was an ambitious project introduced to use the core AI platform to help healthcare professionals analyse large amounts of data and assist in cancer treatment."
-    publishedDateTime: 2022-01-28T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/ibm-sells-parts-of-watson-health-what-are-the-repercussions/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/IBMWatson_AIM.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "Fup+1tKF18NEIUil4g/MGsd1TxcH6MLabLbRTHR1zlM7DPTGOzmxjvx15IvITdslOTm4QOEO3lyz6qSJRVBK98yeXi5u2oGkgiUgmsUCAYaVWPMlLlG1jnQlx0IdKxcN8Ci8K0NFN4S6ZYe0UeTYjwk762zWUm0fMvtwHqGEvshcAV07IsBoTzuk3CJNB7EzkwtNW5xg9GZGFjtv0LujxRtkS1RiPz5DPZ5NIsL4ZJ65nU2kL8Bj/RUmtzUoHefhu7KYtSAcE4Gp4mIp2ELvmyLmxm7miGtX6bEmjJMIbVNwvBCHk5bVfytqPjbUxbFBy5VvZvxSdQRi0P0fJmfMRVDxn8qo5476NLDPPP4suasuQvIg8/3CTrU6w3+q3zxqIuGKGP/VB8qyOvfqnqQyXvBA266fQL2OX75LQ0JB392SxtZAhDedSKxpSItCnuIW1W+BrxWdQieIGoWZEUxo+qDgJHirCmboUf9oNrpcOfkpPHPHQmqwHhvxdPGu1LUqpZOxWBU2NNgBJWHoNSsIBQ==;rLlZXy4iYI6BwJLzfaWUow=="
 ---

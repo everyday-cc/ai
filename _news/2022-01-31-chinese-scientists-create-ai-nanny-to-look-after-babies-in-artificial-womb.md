@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/china/science/article/3165325/chinese-scie
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/01/31/237398-ai-nanny.jpg"
         width: 918
         height: 506
-        isCached: true
-  - title: "Chinese AI translation machine startup secures new funding"
-    excerpt: "Timekettle, a Chinese startup developing artificial intelligence-based smart translation machines, has raised several tens of millions of yuan (at least $3 million) from China SME Development Fund in a Series A funding round."
-    publishedDateTime: 2022-01-28T06:14:00Z
-    webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Chinese-AI-translation-machine-startup-secures-new-funding"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F1%252F6%252F2%252F0%252F38600261-1-eng-GB%252F20220127%252036Kr_earphone.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
         isCached: true
   - title: "Robot nanny: Chinese scientists build artificial womb"
     excerpt: "The 'robot nanny' can monitor embryos 'to an unprecedented ... Engineering and Technology in China’s eastern Jiangsu province developed the artificial intelligence (AI) technology to take on the responsibility of bearing children. Minsberg explained ..."

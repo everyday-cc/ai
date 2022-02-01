@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-w
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-week?amp"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/12/Winter-Xicheng-District-Beijing-China-ajmal-mk-unsplash.jpg"
         width: 1600
         height: 1502
+        isCached: true
+  - title: "Fintech Provides Investors With AI-Driven Research"
+    excerpt: "Magnifi, which is one arm of TIFIN, helps match investors and advisors with firms specializing in the work the investor is looking for. In this example, TIFIN, which stands for Technology In Finance,"
+    publishedDateTime: 2022-02-01T21:24:00Z
+    webUrl: "https://www.fa-mag.com/news/tifin-provides-ai-for-investors-66187.html"
+    type: article
+    provider:
+      name: Financial Advisor
+      domain: fa-mag.com
+    quality: 39
+    images:
+      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
+        width: 1200
+        height: 1200
         isCached: true
   - title: "28/01 – Weekly Fintech Recap"
     excerpt: "Partnerships Segmint partners with Snowflake to revolutionize payment transaction enrichment for financial institutions Segmint, the global leader in transaction cleansing and analytics for financial institutions (FIs),"

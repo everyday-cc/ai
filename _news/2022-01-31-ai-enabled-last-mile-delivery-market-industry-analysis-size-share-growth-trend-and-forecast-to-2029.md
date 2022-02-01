@@ -80,20 +80,6 @@ related:
         width: 327
         height: 250
         isCached: true
-  - title: "Computer Vision Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Jan 27, 2022, 23:27 /Comserve / -- Computer Vision Market By Product Type (PC Based and Smart Camera Based) and Application (Quality Control and Inspection ..."
-    publishedDateTime: 2022-01-28T05:39:00Z
-    webUrl: "https://menafn.com/1103604520/Computer-Vision-Market-2021-Growth-Drivers-Regional-Outlook-Competitive-Strategies-and-Forecast-up-to-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?136441"
-        width: 440
-        height: 250
-        isCached: true
 
 secured: "oJHFfdNCtYxv8cptEAoMK7DJgR1DkpEGdJzhE9f5P8IKJJEtmvYHr2UfXXP0N+ZUdwZ6Sxve46/mW4XGW4rMeGn2LhVIJ00ZNqAJjTmrjI3ZwQWmD7XtcDwQGs/azctu0DDPd+S5eZUMyQDx/DZlqKDC4ItWj3lmoUJjNBh3fNcyhhJrXCBXYAD5TObP9D0CxlfJW7YP/yfTn5VMN5IMWogpoFlNiIbO1ZF1EW6eBrPyLrFPuXVAZH/gOLx/aMNZ9pt4VggBwrwaEEhZOyx359IK+8Cf1w6PhvQwSjVP4++FX/EkcHdKm/fh/ByHtwPHGElvu/HWKoJfdMAW9WHqrMA8e+3VtwgJxrQye9a2je8=;Fygo/5UD827GvsECxT66dA=="
 ---

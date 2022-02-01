@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-02-fending-off-ransomware-attacks-using-ai-powered-tools.md",
+      "title": "Fending off ransomware attacks using AI-powered tools",
+      "excerpt": "Why Cohesity believes zero-trust security by itself isn't enough to stop an increasing number of sophisticated ransomware attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/fending-off-ransomware-attacks-using-ai-powered-tools/",
+      "originalUrl": "https://www.zdnet.com/article/fending-off-ransomware-attacks-using-ai-powered-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fending-off-ransomware-attacks-using-ai-powered-tools/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fending-off-ransomware-attacks-using-ai-powered-tools/",
+      "publishedDateTime": "2022-02-01T14:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux.md",
       "title": "Former Google AI exec joins Trax as top product officer to enhance omnichannel shopping UX",
       "excerpt": "Trax announced that, Barak Turovsky, is joining as its new chief product officer. Turovsky will apply his expertise to enhance the omnichannel shopping experience of retailers, brands, and consumers.",
@@ -96,57 +138,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-02-5-ways-ai-is-changing-the-face-of-learning.md",
-      "title": "5 Ways AI Is Changing the Face of Learning",
-      "excerpt": "Artificial intelligence is reshaping and improving business processes across industries. Learn what's in store for corporate learning with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/413652",
-      "originalUrl": "https://www.entrepreneur.com/article/413652",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1643228130-GettyImages-1079013084.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-02-want-fair-redistricting-use-artificial-intelligence.md",
       "title": "Want fair redistricting? Use artificial intelligence",
       "excerpt": "Over 200 years ago, the “Gerrymander,” a salamander-like legislative district, was mocked in a newspaper cartoon.",
@@ -189,21 +180,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-02-tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs.md",
-      "title": "Tesla recalls 'full self-driving' feature that was designed to roll through some stop signs",
-      "excerpt": "Tesla will recall all 53,822 vehicles with its \"full self-driving\" driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios.",
+      "path": "_news/2022-02-02-54000-teslas-recalled-because-full-self-driving-beta-allows-rolling-stop.md",
+      "title": "54,000 Teslas Recalled Because Full Self-Driving Beta Allows 'Rolling Stop'",
+      "excerpt": "Tesla will issue an over-the-air software update to disable the \"rolling stop\" feature in the Full Self-Driving Beta as part of a National Highway Traffic Safety Administration (NHTSA) recall. The feature allows Teslas equipped with the FSD Beta to travel ...",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/02/01/cars/tesla-fsd-stop-sign/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/02/01/cars/tesla-fsd-stop-sign/index.html",
+      "webUrl": "https://www.caranddriver.com/news/a38951178/tesla-rolling-stop-fsd-recall/",
+      "originalUrl": "https://www.caranddriver.com/news/a38951178/tesla-rolling-stop-fsd-recall/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210818094228-tesla-autopilot-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2022-tesla-model-3-mmp-1-1640025520.jpg?crop=1xw:0.7501359434475259xh;center,top&resize=1200:*",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -211,23 +202,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/02/01/cars/tesla-fsd-stop-sign/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/02/01/cars/tesla-fsd-stop-sign/index.html",
-      "publishedDateTime": "2022-02-01T09:29:00-08:00",
+      "ampWebUrl": "https://www.caranddriver.com/news/amp38951178/tesla-rolling-stop-fsd-recall/",
+      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp38951178/tesla-rolling-stop-fsd-recall/",
+      "publishedDateTime": "2022-02-01T08:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Car and Driver",
+        "domain": "caranddriver.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -289,6 +271,58 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-mongodbs-co-founder-is-trying-to-universalize-robotic-deployment.md",
+      "title": "MongoDB’s co-founder is trying to universalize robotic deployment",
+      "excerpt": "To this end they are developing a series of core components, such as object recognition, navigation and gripping,” USV managing partner Albert Wenger said in a post tied to last year’s seed.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/",
+      "originalUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?w=1024",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/amp/",
+      "publishedDateTime": "2022-02-01T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -645,7 +679,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-week",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -918,7 +952,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1013,7 +1047,7 @@
       "originalUrl": "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Education-Market-Analysis-Strategies-Segmentation-and-Forecasts-2021-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1109,7 +1143,7 @@
       "originalUrl": "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1142,50 +1176,6 @@
         "IBM AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-profits-over-politics-aws-and-microsoft-execs-warn-of-chinas-ai-threat-while-growing-ai-hubs-inside-china.md",
-      "title": "Profits over politics: AWS and Microsoft execs warn of China’s AI threat while growing AI hubs inside China",
-      "excerpt": "The two biggest U.S. cloud companies are expanding their AI and cloud-related efforts in China even though their own executives have warned of threats posed by China’s AI development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/enterprise/aws-microsoft-china-ai-cloud",
-      "originalUrl": "https://www.protocol.com/enterprise/aws-microsoft-china-ai-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-aws-is-balancing-profit-potential-in-china-with-ai-risk-its-own-ceo-warned-about-less-than-p-greater-than.png?id=29190512",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548",
-      "publishedDateTime": "2022-01-31T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

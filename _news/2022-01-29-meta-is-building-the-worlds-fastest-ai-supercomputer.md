@@ -25,79 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "5 Ways AI Is Changing the Face of Learning"
-    excerpt: "Artificial intelligence is reshaping and improving business processes across industries. Learn what's in store for corporate learning with AI."
-    publishedDateTime: 2022-02-01T18:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/413652"
+  - title: "Meta builds AI Research SuperCluster for future AI and the metaverse"
+    excerpt: "Meta believes that its new AI Research SuperCluster (RSC) will be among the fastest AI supercomputers running in the world once it’s fully built. The supercomputer is being constructed in phases. In the current phase 1,"
+    publishedDateTime: 2022-01-28T22:09:00Z
+    webUrl: "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730"
+    ampWebUrl: "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 61
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1643228130-GettyImages-1079013084.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-13075344431.jpg"
+        width: 788
+        height: 443
         isCached: true
-  - title: "Uncovering the Secrets of the Big Bang With Artificial Intelligence"
-    excerpt: "Can machine learning be used to uncover the secrets of the quark-gluon plasma? Yes — but only with sophisticated new methods. It could hardly be more complicated: tiny particles whir around wildly with extremely high energy,"
-    publishedDateTime: 2022-01-28T13:09:00Z
-    webUrl: "https://scitechdaily.com/uncovering-the-secrets-of-the-big-bang-with-artificial-intelligence/"
-    ampWebUrl: "https://scitechdaily.com/uncovering-the-secrets-of-the-big-bang-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/uncovering-the-secrets-of-the-big-bang-with-artificial-intelligence/amp/"
+  - title: "Meta builds AI Research SuperCluster for future AI and the metaverse"
+    excerpt: "Each GPU communicates over a 200 Gb/s HDR Infiniband network ... Meta built the RSC to train large AI models in natural language processing (NLP), and to research and train models using trillions of examples. It will also aid in building AI that works ..."
+    publishedDateTime: 2022-01-31T20:35:00Z
+    webUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527"
+    ampWebUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
+    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 59
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 61
     images:
-      - url: "https://scitechdaily.com/images/Quark-Gluon-Plasma-After-Collision-of-Two-Heavy-Nuclei-777x518.jpg"
-        width: 777
-        height: 518
+      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/01/GettyImages-13075344431-696x391-1-620x250.jpg"
+        width: 620
+        height: 250
         isCached: true
-  - title: "The AI & Machine Learning Awards are back for 2022!"
-    excerpt: "Computing is pleased to announce the return of the annual AI & Machine Learning Awards. Artificial intelligence as a concept has existed for decades, but only in recent years have businesses begun large-scale adoption."
-    publishedDateTime: 2022-01-28T09:49:00Z
-    webUrl: "https://www.computing.co.uk/news/4044048/ai-machine-learning-awards-2022"
+  - title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
+    excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
+    publishedDateTime: 2022-01-29T13:20:00Z
+    webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
     type: article
     provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 56
+      name: The Motley Fool
+      domain: fool.com
+    quality: 55
     images:
-      - url: "https://image.chitra.live/api/v1/wps/419ed7f/b19591da-bed3-4ef4-9f50-c7d0a4f07bf9/9/AIMachineLearning-Awards2019-003-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
-  - title: "This AI Learned the Design of a Million Algorithms to Help Build New AIs Faster"
-    excerpt: "The skyrocketing scale of AI has been hard to miss in recent years. The most advanced algorithms now have hundreds of billions of connections, and it takes millions of dollars and a supercomputer to train them."
-    publishedDateTime: 2022-02-01T01:26:00Z
-    webUrl: "https://singularityhub.com/2022/01/31/this-ai-learned-the-design-of-a-million-algorithms-to-help-build-new-ais-faster/"
-    ampWebUrl: "https://singularityhub.com/2022/01/31/this-ai-learned-the-design-of-a-million-algorithms-to-help-build-new-ais-faster/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/01/31/this-ai-learned-the-design-of-a-million-algorithms-to-help-build-new-ais-faster/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 53
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/01/computer-chip-circuits-yellow-black.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
-  - title: "A New Generation of AI is Sweeping the Restaurant World. Employees and Customers are Loving It"
-    excerpt: "Matt Wackerbarth began his career with Domino’s Pizza in 1998, while serving in the Air Force. Working his way through the ranks over the years, he and his wife went on to buy their first [...]"
-    publishedDateTime: 2022-01-31T20:59:00Z
-    webUrl: "https://restauranttechnologynews.com/2022/01/a-new-generation-of-ai-is-sweeping-the-restaurant-world-employees-and-customers-are-loving-it/"
-    type: article
-    provider:
-      name: restauranttechnologynews
-      domain: restauranttechnologynews.com
-    quality: 25
-    images:
-      - url: "https://secureservercdn.net/198.71.233.181/6dc.1b2.myftpupload.com/wp-content/uploads/2022/01/iStock-1348551468-1024x591.jpg"
-        width: 1024
-        height: 591
+      - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
+        width: 5408
+        height: 3605
         isCached: true
 
 secured: "nann71qqQCHRbEbuy3AeLDI2tcBwyX6PMh5ZFgkgeo1N6paQe5BZeZwQhYpb6OIzkBm99Pel2XqYxq9qs2zgBOA+Q1Esej08fz+fiQ6vOZZMpFZ61Jj5dTGoU5QlLNYMr64Q4bL0bb5m/gt9CnWoijKuD2fUG6W6sy4kPUWCGzFRufnRL/g+cILZu6VHmUoWTeaH/kBCQCgBydrVlH8DOa04KWB8WoX8ylatBc+SqzIJepNEBbanTAWWm5E/icXyTP86+TojTZd/KuWQgeIiMSHK37QVblsn/y7YNKczpX5w2nav/fS5j3zfxUv2eYyI+j8g1F766+/SxEy9x7+B/0ugYo4PrDk/RGnunjZA+XVAAEM2pgJAM5IuHJzSdzCKKhANbuFrJUDIWH42r5pUKTQUMnXfGMcnTMLTgk7YaJ2m9hXZooyou3PpNpUUQCu+q04aDtWNJkEoV6IBuUZfv/5GTVWOzJcp+zWdFcu+Lvk7EuH+W3vNp5+H69l2fM+cw8jB0A3fLo//gBydjv9M1g==;SXbuL0OgxX1fV1VDt2Wisw=="

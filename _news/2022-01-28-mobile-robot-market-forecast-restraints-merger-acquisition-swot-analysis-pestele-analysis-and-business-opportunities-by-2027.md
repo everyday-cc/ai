@@ -39,20 +39,6 @@ related:
         width: 268
         height: 249
         isCached: true
-  - title: "Business leaders, Researchers Discuss Challenges and Opportunities Facing AI in Health Care"
-    excerpt: "Business leaders and researchers discussed the opportunities and difficulties of implementing artificial intelligence solutions in healthcare in a virtual event jointly hosted by Harvard Business School and the Harvard T."
-    publishedDateTime: 2022-01-28T06:01:00Z
-    webUrl: "https://www.thecrimson.com/article/2022/1/28/hsph-ai-panel/"
-    type: article
-    provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 29
-    images:
-      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2021/06/27/170511_1350727.jpg.2000x1125_q95_crop-smart_upscale.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Multiple cloud-computing investment opportunities"
     excerpt: "Businesses of every size and sector benefit from the on-going cloud computing revolution. “Potential investment opportunities around the cloud seem endless,” said Christophe Braun, Investment Specialist at Capital Group in Luxembourg,"
     publishedDateTime: 2022-01-31T20:07:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.caranddriver.com/news/amp38951178/tesla-rolling-stop-fsd
 cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp38951178/tesla-rolling-stop-fsd-recall/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Car and Driver
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla recalls 'full self-driving' feature that was designed to roll through some stop signs"
-    excerpt: "Tesla will recall all 53,822 vehicles with its \"full self-driving\" driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
-    publishedDateTime: 2022-02-01T17:29:00Z
-    webUrl: "https://edition.cnn.com/2022/02/01/cars/tesla-fsd-stop-sign/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/02/01/cars/tesla-fsd-stop-sign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/02/01/cars/tesla-fsd-stop-sign/index.html"
+  - title: "Tesla recalls nearly 54K cars: 'Full Self-Driving' software runs stop signs"
+    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
+    publishedDateTime: 2022-02-01T21:17:00Z
+    webUrl: "https://www.chron.com/business/technology/article/Tesla-recall-Full-Self-Driving-stop-signs-16821972.php"
+    ampWebUrl: "https://www.chron.com/business/technology/amp/Tesla-recall-Full-Self-Driving-stop-signs-16821972.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/Tesla-recall-Full-Self-Driving-stop-signs-16821972.php"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 79
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 57
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818094228-tesla-autopilot-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://s.hdnux.com/photos/01/23/65/13/21975804/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Tesla recalls nearly 54,000 cars because self-driving software runs stop signs"
     excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an ..."
@@ -107,19 +107,33 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
-    excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
-    publishedDateTime: 2022-01-30T00:37:00Z
-    webUrl: "https://www.futurecar.com/5166/Self-Driving-Lobbying-Group-Drops-‘Self-Driving’-in-New-Name"
+  - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
+    excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
+    publishedDateTime: 2022-01-31T02:29:00Z
+    webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
     type: article
     provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 24
+      name: Car
+      domain: sgcarmart.com
+    quality: 37
     images:
-      - url: "https://img.futurecar.com/202201/29/l_61f5004608904.jpg"
-        width: 800
-        height: 450
+      - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Tesla recalls ‘full self-driving’ feature that was designed to roll through some stop signs"
+    excerpt: "By Matt McFarland, CNN Business Tesla will recall all 53,822 vehicles with its “full self-driving” driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
+    publishedDateTime: 2022-02-01T22:29:00Z
+    webUrl: "https://localnews8.com/money/cnn-business-consumer/2022/02/01/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 29
+    images:
+      - url: "https://localnews8.b-cdn.net/2022/02/hypatia-h_3e8d558985e236ebf22b7908109dcf20-h_09caa584942c5657bec4a4a9e7225e45-300.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "2t7EDxSrj/vkvFMCE0fnDrm9yf+kbyaQDdfd6iGVOO1i0LXvNyXL9iO7dkny3IlgCxpWZchHMfpKxWZfA6WyJRueYKJUr4QSnEjnxIiKfQiCDz0oG4YuBNOAg7FHQgpZIebSz7cwpfEooQCdyxpNNWJOmqQlUMa9goTrxnBtO5js5C5TeAQ/NnhtlM51e3N3FCD8dC06Gg6xG6shXRovRhYaxarA5MWj8Po5+CoqxpiSqrkGqMMEdChQA69wAcSUPZVdjb4kdvV3yh1NJv5gcVKgQ3UqeO4RmpCWiFrcGS2KbJuX6xpqBTAHMZmyYr9BdRbkcNPWfv4tFz77kKaQiQjJjLAhysyvhijIZsFU9/Q=;sdCGoFQ3epUy512MK7k6zA=="

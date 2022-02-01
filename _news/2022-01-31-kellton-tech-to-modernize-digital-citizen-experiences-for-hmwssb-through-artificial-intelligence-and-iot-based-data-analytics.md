@@ -46,6 +46,20 @@ related:
         width: 480
         height: 265
         isCached: true
+  - title: "Building a Smarter Government with Data, Analytics and Machine Learning in the Cloud"
+    excerpt: "Download this whitepaper to learn how agencies use Databricks and AWS to modernize their approach to data and gain insights that only machine learning can deliver."
+    publishedDateTime: 2022-02-01T22:42:00Z
+    webUrl: "https://fcw.com/assets/building-smarter-government-data-analytics-and-machine-learning-cloud/portal/?oref=fcw-river2"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 32
+    images:
+      - url: "https://cdn.fcw.com/media/screen_shot_2022-01-18_at_3.03.12_pm.png"
+        width: 764
+        height: 927
+        isCached: true
   - title: "Best Data Analytics Certifications 2022"
     excerpt: "Data Analysts are in high demand. Which certification is best for beginning or advancing your career? Review top Data Analytics Certifications now."
     publishedDateTime: 2022-01-29T14:00:00Z

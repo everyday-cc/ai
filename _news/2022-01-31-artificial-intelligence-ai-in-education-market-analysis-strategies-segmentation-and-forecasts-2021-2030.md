@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Educat
 webUrl: "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Education-Market-Analysis-Strategies-Segmentation-and-Forecasts-2021-2030"
 type: article
 quality: 52
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?617111"
         width: 327
-        height: 250
-        isCached: true
-  - title: "Computer Vision Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Jan 27, 2022, 23:27 /Comserve / -- Computer Vision Market By Product Type (PC Based and Smart Camera Based) and Application (Quality Control and Inspection ..."
-    publishedDateTime: 2022-01-28T05:39:00Z
-    webUrl: "https://menafn.com/1103604520/Computer-Vision-Market-2021-Growth-Drivers-Regional-Outlook-Competitive-Strategies-and-Forecast-up-to-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?136441"
-        width: 440
         height: 250
         isCached: true
   - title: "AI-Enabled Last Mile Delivery Market Industry Analysis, Size, Share, Growth, Trend, And Forecast To 2029"

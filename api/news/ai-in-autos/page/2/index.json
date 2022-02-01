@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-18-two-self-driving-shuttle-companies-fail-in-one-week-what-does-it-bode.md",
+      "title": "Two Self-Driving Shuttle Companies Fail In One Week. What Does It Bode?",
+      "excerpt": "Optimus Ride and Olli, two self-driving shuttle companies failed last week. The self-driving shuttle may not be that good an idea right now, but it has the chance to be the core future of public transportation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/18/two-self-driving-shuttle-companies-fail-in-one-week--what-does-it-bode/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/18/two-self-driving-shuttle-companies-fail-in-one-week--what-does-it-bode/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e23f2c8791a1fddb7ac523%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/18/two-self-driving-shuttle-companies-fail-in-one-week--what-does-it-bode/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/01/18/two-self-driving-shuttle-companies-fail-in-one-week--what-does-it-bode/amp/",
+      "publishedDateTime": "2022-01-18T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-autonomous-driving-start-up-wayve-bags-200-million-from-microsoft-virgin-and-baillie-gifford.md",
       "title": "Autonomous driving start-up Wayve bags $200 million from Microsoft, Virgin and Baillie Gifford",
       "excerpt": "Founded in London in 2017, Wayve's team of machine learning scientists and roboticists are trying to pioneer an artificial intelligence ... Chris Burgess, ex-Waymo Principal Engineer Dan McCloskey ...",
@@ -1335,49 +1387,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-online-advertisement-market-to-see-huge-growth-by-2027-baidu-facebook-google.md",
-      "title": "Online Advertisement Market to See Huge Growth by 2027 | Baidu, Facebook, Google",
-      "excerpt": "Advance Market Analytics published a new research publication on “Global Online Advertisement Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/online-advertisement-market-to-see-huge-growth-by-2027-baidu-facebook-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/online-advertisement-market-to-see-huge-growth-by-2027-baidu-facebook-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

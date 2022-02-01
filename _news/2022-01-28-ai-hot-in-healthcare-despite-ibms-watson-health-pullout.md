@@ -42,20 +42,6 @@ related:
         width: 648
         height: 432
         isCached: true
-  - title: "IBM sells parts of Watson Health; what are the repercussions?"
-    excerpt: "IBM Watson Health was an ambitious project introduced to use the core AI platform to help healthcare professionals analyse large amounts of data and assist in cancer treatment."
-    publishedDateTime: 2022-01-28T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/ibm-sells-parts-of-watson-health-what-are-the-repercussions/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/IBMWatson_AIM.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "How IBM’s Watson Went From the Future of Health Care to Sold Off for Parts"
     excerpt: "Most likely, you’re familiar with Watson from the IBM computer system’s appearance on Jeopardy! in 2011, when it beat former champions Ken Jennings and Brad Rudder. Watson’s time on Jeopardy! was fun viewing,"
     publishedDateTime: 2022-01-31T14:00:00Z

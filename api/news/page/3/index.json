@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-29-the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd.md",
+      "title": "The Grain Of Truth In The Critique Of Musk, Tesla And Full Self Driving (FSD)",
+      "excerpt": "The internet erupted last week following the publication of a full-page ad in the New York Times asserting “Don’t be a Tesla Crash Test Dummy” and impugned “Elon Musk’s ill-advised Full Self-Driving robot car experiment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/",
+      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 356,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ee51e20bb0c3fb5b11b53a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/",
+      "publishedDateTime": "2022-01-28T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-29-why-massachusetts-is-ground-zero-for-the-fight-against-facial-recognition.md",
       "title": "Why Massachusetts is ground-zero for the fight against facial recognition",
       "excerpt": "Massachusetts has had a number of cities ban facial recognition in the absence of federal laws as conversations about the technology heat up.",
@@ -536,24 +588,33 @@
     {
       "path": "_news/2022-01-28-gsi-technology-inc-reports-third-quarter-fiscal-2022-results.md",
       "title": "GSI Technology, Inc. Reports Third Quarter Fiscal 2022 Results",
-      "excerpt": "GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its third fiscal quarter ended December 31, 2021. Lee-Lean Shu, Chairman and Chief Executive Officer, commented, “Our third quarter revenue grew 19% year-over-year due to increased orders from our SRAM customer base,",
+      "excerpt": "GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its third fiscal quarter ended December 31, 2021. Summary Financial Results Table (in thousands, except per share amounts) Lee-Lean Shu,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-gsi-technology-inc-reports-third-quarter-fiscal-2022-/2022/01/27/9534856.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-gsi-technology-inc-reports-third-quarter-fiscal-2022-/2022/01/27/9534856.htm",
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-business-health-4a24f7033f4335149fe9841c942f5022",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-business-health-4a24f7033f4335149fe9841c942f5022",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T13:10:00-08:00",
+      "publishedDateTime": "2022-01-27T13:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1115,21 +1176,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-27-artificial-intelligence-why-you-cant-afford-to-ignore-it-any-longer.md",
-      "title": "Artificial Intelligence: Why you can’t afford to ignore it any longer",
-      "excerpt": "By Jonathan Bowdler, Head of Regulatory, ICA Once, public understanding of artificial intelligence (AI) derived only from science-fiction novels and cinema – various Terminators, I, Robot, Blade Runne",
+      "path": "_news/2022-01-27-how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-19025-million-by-2028.md",
+      "title": "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028",
+      "excerpt": "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting a CAGR of 11.1% between 2021 to 2028. In its report titled“Cryptocurrency Market,",
       "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-why-you-cant-afford-ignore-any-longer-",
-      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-why-you-cant-afford-ignore-any-longer-",
+      "webUrl": "https://menafn.com/1103600603/How-Artificial-Intelligence-Will-Boost-the-Cryptocurrency-Market-to-Reach-USD-19025-Million-by-2028",
+      "originalUrl": "https://menafn.com/1103600603/How-Artificial-Intelligence-Will-Boost-the-Cryptocurrency-Market-to-Reach-USD-19025-Million-by-2028",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH5vtW0CA0HMA/article-cover_image-shrink_720_1280/0/1643205321176?e=1649289600&v=beta&t=HL2K_Wn7U9uYkGDBaSHaa2coLRo-lWpi3dIAzvssdC4",
-          "width": 1280,
-          "height": 720,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?938589",
+          "width": 325,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1139,63 +1200,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T02:15:00-08:00",
+      "publishedDateTime": "2022-01-27T02:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-artificial-intelligence-startup-rehinged-launches-carenet-ai.md",
-      "title": "Artificial Intelligence Startup, Rehinged, Launches Carenet AI",
-      "excerpt": "Rehinged, Inc announced the launch of Carenet AI, their market intelligence platform specifically built for the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/",
-      "originalUrl": "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/01/Artificial-Intelligence-Startup_-Rehinged_-Launches-Carenet-AI-01.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/amp/",
-      "publishedDateTime": "2022-01-27T01:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1205,8 +1214,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
+        "AI in Autos",
+        "AI"
       ]
     }
   ],
