@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-01-laiye-and-microsoft-why-chinese-rpa-is-heading-west-to-secure-your-data.md",
+      "title": "Laiye and Microsoft - why Chinese RPA is heading West to secure your data!",
+      "excerpt": "You might also be surprised to hear that enterprise cloud titan Microsoft has announced a strategic partnership with the same provider, to bring robotic process automation (RPA) and software robotics to the UK and Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data",
+      "originalUrl": "https://diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-02/2E6FF118-033F-4AC6-871A-2ED169561EA5.jpeg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data?amp",
+      "publishedDateTime": "2022-02-01T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-profits-over-politics-aws-and-microsoft-execs-warn-of-chinas-ai-threat-while-growing-ai-hubs-inside-china.md",
       "title": "Profits over politics: AWS and Microsoft execs warn of China’s AI threat while growing AI hubs inside China",
       "excerpt": "The two biggest U.S. cloud companies are expanding their AI and cloud-related efforts in China even though their own executives have warned of threats posed by China’s AI development.",
@@ -1370,49 +1413,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-some-menopause-symptoms-tied-to-cognitive-impairment.md",
-      "title": "Some Menopause Symptoms Tied to Cognitive Impairment",
-      "excerpt": "FRIDAY, Jan. 14, 2022 (HealthDay News) -- The severity of certain menopause symptoms is associated with worse cognitive performance among rural women, according to a study published online Jan. 10 ...",
-      "sourceUrl": null,
-      "webUrl": "https://heraldcourier.com/lifestyles/health-med-fit/some-menopause-symptoms-tied-to-cognitive-impairment/article_32b8cd29-941e-5e07-bf4f-2880a7affdc0.html",
-      "originalUrl": "https://heraldcourier.com/lifestyles/health-med-fit/some-menopause-symptoms-tied-to-cognitive-impairment/article_32b8cd29-941e-5e07-bf4f-2880a7affdc0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/assets/v3/editorial/3/09/3091c350-743b-55a5-b3df-c5ab0999e04d/61e1ba3814c8e.image.jpg?crop=600%2C315%2C0%2C67&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bristol Herald Courier",
-        "domain": "heraldcourier.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

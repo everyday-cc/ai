@@ -261,6 +261,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-27-how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-19025-million-by-2028.md",
+      "title": "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028",
+      "excerpt": "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25252700",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25252700",
+      "publishedDateTime": "2022-01-27T01:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences.md",
       "title": "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences",
       "excerpt": "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes.",
@@ -1257,49 +1300,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-r1-rcm-to-buy-artificial-intelligence-software-firm-cloudmed.md",
-      "title": "R1 RCM to buy artificial intelligence software firm Cloudmed",
-      "excerpt": "R1 RCM has entered into an agreement to purchase Cloudmed, a company that uses artificial intelligence and automation for revenue-cycle management, in an all-stock transaction that values Cloudmed at roughly $4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernhealthcare.com/revenue-cycle/r1-rcm-buy-artificial-intelligence-software-firm-cloudmed",
-      "originalUrl": "https://www.modernhealthcare.com/revenue-cycle/r1-rcm-buy-artificial-intelligence-software-firm-cloudmed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/merger-arrows-money_i.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modern Healthcare",
-        "domain": "modernhealthcare.com",
         "images": null,
         "publishers": null,
         "authors": null

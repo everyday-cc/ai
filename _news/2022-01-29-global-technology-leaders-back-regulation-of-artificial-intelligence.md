@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nine Predictions For Artificial Intelligence And Automation In 2022"
-    excerpt: "With search engine algorithms increasingly powered by AI, businesses that aren't optimized for the change will fall behind."
-    publishedDateTime: 2022-01-27T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/01/27/nine-predictions-for-artificial-intelligence-and-automation-in-2022/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61f2c7dc36e77eea9e7440a6/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 579
-        isCached: true
   - title: "Exploration Into The Roots Of Artificial Intelligence In Education"
     excerpt: "Spread the loveAs technology becomes more advanced, schools and other educational facilities have slowly started to incorporate new tools into their modern-day programs. Many teachers rely heavily on this equipment,"
     publishedDateTime: 2022-01-31T11:17:00Z

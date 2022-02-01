@@ -54,6 +54,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "Fujitsu to establish AI ethics and governance office"
+    excerpt: "Fujitsu has announced plans to establish its own AI ethics and governance office that will oversee the “safe and secure deployment” of artificial intelligence (AI) and machine learning technologies. Scheduled to be created on 1 February 2022,"
+    publishedDateTime: 2022-01-31T16:51:00Z
+    webUrl: "https://www.techcentral.ie/fujitsu-to-establish-ai-ethics-and-governance-office/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 54
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/Fujitsu_Sign.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Fujitsu creates AI Ethics and Governance Office"
     excerpt: "Fujitsu has decided to establish a new organization to support its governance of AI ethics. On 1 February, Fujitsu's AI Ethics and Governance Office will go live to accelerate the deployment of technologies including artificial intelligence and other machine learning applications in society."
     publishedDateTime: 2022-01-28T08:06:00Z

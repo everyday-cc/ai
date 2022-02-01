@@ -41,20 +41,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Sam’s Club brings inventory scanning to floor-scrubbing robots"
-    excerpt: "Sam’s Club is adding aisle scanning functionality to robotic floor scrubbers already deployed at all of its 600 stores. Plans call for Sam’s to begin installing Brain Corp’s Inventory Scan towers onto the fleet of Tennant Co."
-    publishedDateTime: 2022-01-27T18:34:00Z
-    webUrl: "https://www.supermarketnews.com/technology/sam-s-club-brings-inventory-scanning-floor-scrubbing-robots"
-    type: article
-    provider:
-      name: Supermarket News
-      domain: supermarketnews.com
-    quality: 39
-    images:
-      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/Sams_Club-inventory_scan-robot_floor_scrubbers-Brain_Corp-Tennant_2.png"
-        width: 770
-        height: 400
-        isCached: true
 
 secured: "oMr15vXVvds5WnIIn8N4Kd1J+BTWe9BhNbrfoAXtntl6l+dPdrAgrf2V3W7hpbb37cPHlekub5vLmX6WAa64DwsQ/KRf9h4mke4Ej3ukcQlrekl0zbSWhh9wgqDwSzcRuRQ62pxFBKEeaDi/r2GhienmKmdRQu9Blzci0F2Byx+jrKnw38jWdaL12qqx6DGZS+DHATse1sko4ETPuTiRHct7LjTOk3Fcw05b+yXWwfP+uVE7sCDes3DwbJAlapF0gCM6qZCOK4AaJgwSOZsnN5DPBKK17V4jW6lTrn/3hYVf5RC+mUgL4eAiXRMIenw+vFEQaVTw8jFJCDC5Ho4NzBM/bQ4FC4ZFLXHMRvj/u9c=;1s4ax4E17p6uVc6/xzBGAQ=="
 ---

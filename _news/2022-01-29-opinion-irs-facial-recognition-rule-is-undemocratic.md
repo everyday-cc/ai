@@ -119,6 +119,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "No more facial recognition? Apple AirPods might be able to recognise the user by checking ear canal"
+    excerpt: "In the latest development, Apple's AirPods will soon be able to verify a user's identity using the inside of the ear. This will be done using an in-ear biometric device that uses ultrasonic signals. These are then reflected against the walls of a user’s ear canal."
+    publishedDateTime: 2022-02-01T10:11:00Z
+    webUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524"
+    ampWebUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 60
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/02/01/237668-fkcvp2px0aypkp.jpeg"
+        width: 918
+        height: 506
+        isCached: true
   - title: "IRS will start using facial recognition to access tax information"
     excerpt: "Why will you soon have to scan your face to access your IRS tax information? You will still be able to file your tax return the old-fashioned way, with paper documents sent via snail mail. But by this summer,"
     publishedDateTime: 2022-01-31T12:57:00Z

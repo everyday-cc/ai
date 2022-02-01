@@ -2,6 +2,178 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-01-09-tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces.md",
+      "title": "TomTom launches new services and announces new partnerships with Baidu, Qualcomm, at CES",
+      "excerpt": "Navigation tech firm TomTom further embedded itself in the world of autonomous driving Monday by announcing a series of new partnerships and software launches at CES. The Amsterdam-based announced Baidu and Zenuity are its first partners to use its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces/98084",
+      "originalUrl": "https://www.itbusiness.ca/news/tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces/98084",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2017/02/Self-driving-car-header.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces/98084?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/tomtom-launches-new-services-and-announces-new-partnerships-with-baidu-qualcomm-at-ces/98084?amp=1",
+      "publishedDateTime": "2022-01-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-09-7-ways-the-technology-sector-could-support-global-society-in-2022.md",
+      "title": "7 ways the technology sector could support global society in 2022",
+      "excerpt": "Learn more Some of the excesses of 2021 have shown us how digital technologies can undermine what philosophers call future “human flourishing.” A lot has been written on this topic in the first few days of the new year,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/",
+      "originalUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1148773616.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/amp/",
+      "publishedDateTime": "2022-01-08T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-09-5-best-ai-stocks-for-2022.md",
+      "title": "5 Best AI Stocks for 2022",
+      "excerpt": "The California-based tech giant utilizes AI in blocking misinformation and other harmful content on its family of apps. Additionally, AI tools developed by Meta Platforms, Inc. (NASDAQ:FB) play a major role in improving the customer shopping experience on Facebook,",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+          "width": 1920,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-08T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-09-ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party.md",
+      "title": "Ramaphosa uses ANC anniversary speech to stamp his authority on the party",
+      "excerpt": "South African President Cyril Ramaphosa delivered a speech to mark the anniversary of the formation of the African National Congress (ANC) over which he also presides as president. It was",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174596",
+      "originalUrl": "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174596",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-08T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-09-could-artificial-intelligence-do-more-harm-than-good-to-society.md",
       "title": "Could Artificial Intelligence Do More Harm Than Good to Society?",
       "excerpt": "I n an increasingly digitized world, the artificial intelligence (AI) boom is only getting started. But could the risks of artificial intelligence outweigh the potential benefits these technologies might lend to society in the years ahead?",
@@ -1033,195 +1205,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-absci-and-deep-learnings-quest-for-the-perfect-protein.md",
-      "title": "Absci and deep learning's quest for the perfect protein",
-      "excerpt": "The company has used one giant A.I. representation of proteins to broaden the search for novel biologics, and hopes to do everything in silico someday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "originalUrl": "https://www.zdnet.com/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2f9500d3248e27e084c1639b553b1684c9998a30/2022/01/07/d62778de-642e-4ac1-91fb-7c07b0416f00/mathew-4039.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "publishedDateTime": "2022-01-07T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous.md",
-      "title": "New controversy in making? Tesla wants only cameras, AI to go fully autonomous",
-      "excerpt": "Tesla chief Elon Musk has shared that the EV company will make a system based on cameras and artificial intelligence to attain full autonomy in driving.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/01/07/600x338/2021-tesla-model-x_1621055198406_1641538769141.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html",
-      "publishedDateTime": "2022-01-07T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge.md",
-      "title": "Artificial intelligence reflects the world around us, and that's a challenge",
-      "excerpt": "Getting artificial intelligence systems to deliver fair and unbiased results, as well as ensure the right business decisions, requires a holistic approach that involves most of the enterprise. IT staff and data scientists cannot -- and should not -- be expected to be solo acts when it comes to AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c86efdc4d077e8b8649f5c81844545a9ae4679d2/2022/01/07/fd2ee2c7-8999-4af6-b91e-5e6602b61eca/buildings-with-rose-new-york-city-march-2021-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge/",
-      "publishedDateTime": "2022-01-07T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-self-driving-truck-company-torc-robotics-picks-austin-for-tech-hub.md",
-      "title": "Self-driving truck company Torc Robotics picks Austin for tech hub",
-      "excerpt": "Torc says it chose Austin because of its deep talent pool as well as its location along the Southwest shipping corridor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/story/business/2022/01/07/torc-robotics-opening-austin-engineering-hub-accelerate-development-its-self-driving-truck-technolog/9118962002/",
-      "originalUrl": "https://www.msn.com/en-us/autos/news/self-driving-truck-company-torc-robotics-picks-austin-for-tech-hub/ar-AASxzw7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/01/06/NAAS/faf46096-7cbd-44f0-8597-5fafbf3d41b4-torc2.jpg?auto=webp&crop=1185,667,x14,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.statesman.com/amp/9118962002",
-      "cdnAmpWebUrl": "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/9118962002",
-      "publishedDateTime": "2022-01-07T09:00:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "statesman.com/story/business/2022/01/07/torc-robotics-opening-austin-engineering-hub-accelerate-development-its-self-driving-truck-technolog/9118962002/",
-        "domain": "statesman.com/story/business/2022/01/07/torc-robotics-opening-austin-engineering-hub-accelerate-development-its-self-driving-truck-technolog/9118962002/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

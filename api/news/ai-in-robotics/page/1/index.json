@@ -97,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-28-walmart-brings-inventory-tracking-robots-to-sams-club.md",
-      "title": "Walmart Brings Inventory-Tracking Robots to Sam's Club",
-      "excerpt": "The retailer is partnering with Brain Corp. to bring a self-cleaning robot to every Sam's Club location in the U.S.",
+      "path": "_news/2022-01-29-musk-robots-to-be-bigger-business-than-tesla-cars.md",
+      "title": "Musk: Robots to be bigger business than Tesla cars",
+      "excerpt": "Elon Musk likes to have a focus - and this year, it looks like it might be robots. He told investors on a Tesla earnings call",
       "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/walmarts-sams-club-has-hired-inventory-robots",
-      "originalUrl": "https://www.thestreet.com/investing/walmarts-sams-club-has-hired-inventory-robots",
+      "webUrl": "https://www.businessghana.com/site/news/technology/255514/Robots-to-be-bigger-business-than-cars",
+      "originalUrl": "https://www.businessghana.com/site/news/technology/255514/Robots-to-be-bigger-business-than-cars",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg2OTk4MTAwODY5NTIzMzQw/sams_club_robots_2.jpg",
-          "width": 620,
-          "height": 349,
+          "url": "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-28-1644271.jpg",
+          "width": 800,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -119,13 +119,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/walmarts-sams-club-has-hired-inventory-robots",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/walmarts-sams-club-has-hired-inventory-robots",
-      "publishedDateTime": "2022-01-27T20:55:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-28T20:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
+        "name": "BusinessGhana",
+        "domain": "businessghana.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -136,7 +136,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {

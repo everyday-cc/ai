@@ -2,6 +2,154 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-27-how-clearly-accurately-predicts-fraudulent-orders-using-amazon-fraud-detector.md",
+      "title": "How Clearly accurately predicts fraudulent orders using Amazon Fraud Detector",
+      "excerpt": "This post was cowritten by Ziv Pollak, Machine Learning Team Lead, and Sarvi Loloei, Machine Learning Engineer at Clearly. The content and opinions in this post are those of the third-party authors and AWS is not responsible for the content or accuracy of this post. A pioneer in online shopping, Clearly",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-clearly-accurately-predicts-fraudulent-orders-using-amazon-fraud-detector/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-clearly-accurately-predicts-fraudulent-orders-using-amazon-fraud-detector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/26/ML-7595-image001-new.png",
+          "width": 671,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T09:46:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-self-driving-teslas-will-cause-insane-traffic-elon-musk-says.md",
+      "title": "Self-driving Teslas will cause 'insane' traffic, Elon Musk says",
+      "excerpt": "Tesla CEO Elon Musk said the autonomous ride hailing service he envisions customers will put their autonomous Teslas to work in will cause \"insane\" traffic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk",
+      "originalUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/01/720/405/tesla-.jpg?ve=1&tl=1",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk.amp",
+      "publishedDateTime": "2022-01-27T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-in-2022.md",
+      "title": "Tesla News: Automaker Prioritizes New Humanoid Robot Over Vehicle Models In 2022",
+      "excerpt": "Tesla is prioritizing the development of a humanoid robot over its vehicles in 2022 and it will be designed to perform dangerous, repetitive, or physical tasks only humans can complete.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909",
+      "originalUrl": "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dc.newsweek.com/en/full/2043470/how-did-elon-musk-become-times-person-year.jpg",
+          "width": 2500,
+          "height": 1720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909?amp=1",
+      "publishedDateTime": "2022-01-27T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-will-teslas-dojo-supercomputer-disrupt-ai-in-2022.md",
       "title": "Will Tesla's Dojo Supercomputer Disrupt AI in 2022?",
       "excerpt": "At Tesla's AI Day in 2021, they introduced the D1 chip and this will power its Dojo supercomputer. I don't want to get too technical, but each chip offers 362 te",
@@ -387,6 +535,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-19025-million-by-2028.md",
+      "title": "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028",
+      "excerpt": "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25252700",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25252700",
+      "publishedDateTime": "2022-01-27T01:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1034,215 +1225,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-meta-platforms-fb-to-launch-worlds-fastest-ai-computer.md",
-      "title": "Meta Platforms (FB) to Launch World's Fastest AI Computer",
-      "excerpt": "Meta Platform's (FB) launches new artificial intelligence supercomputer, which will help lay the groundwork for building Metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/415191",
-      "originalUrl": "https://www.entrepreneur.com/article/415191",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-415191.jpeg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-nvidia-geforce-rtx-3050-review-a-truly-modern-gpu-for-the-masses-hopefully.md",
-      "title": "Nvidia GeForce RTX 3050 review: A truly modern GPU for the masses (hopefully)",
-      "excerpt": "Nvidia's GeForce RTX 3050 delivers great 1080p gaming performance and modern features, if it stays in stock at a sane price.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/608294/nvidia-geforce-rtx-3050-review.html",
-      "originalUrl": "https://www.pcworld.com/article/608294/nvidia-geforce-rtx-3050-review.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2022/01/DSC01896.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/608294/nvidia-geforce-rtx-3050-review.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/608294/nvidia-geforce-rtx-3050-review.html/amp",
-      "publishedDateTime": "2022-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-farm-to-table-ai-will-change-how-people-work-and-innovate-in-2022.md",
-      "title": "'Farm-To-Table' AI Will Change How People Work And Innovate In 2022",
-      "excerpt": "In looking to assert more control over the crown jewels of intellectual property, more companies are joining what I call the “farm-to-table\" AI movement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/farm-to-table-aiwill-changehow-people-workand-innovatein-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/farm-to-table-aiwill-changehow-people-workand-innovatein-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61eff9e3691abc89c9c99297/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/farm-to-table-aiwill-changehow-people-workand-innovatein-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/26/farm-to-table-aiwill-changehow-people-workand-innovatein-2022/amp/",
-      "publishedDateTime": "2022-01-26T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-slimai-lands-31m-to-make-container-security-easy-for-developers.md",
-      "title": "Slim.AI lands $31M to make container security ‘easy’ for developers",
-      "excerpt": "Slim.AI offers developers a platform for container security and optimization, built on the DockerSlim open source project.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/26/slim-ai-lands-31m-to-make-container-security-easy-for-developers/",
-      "originalUrl": "https://venturebeat.com/2022/01/26/slim-ai-lands-31m-to-make-container-security-easy-for-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/slim-ai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/26/slim-ai-lands-31m-to-make-container-security-easy-for-developers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/26/slim-ai-lands-31m-to-make-container-security-easy-for-developers/amp/",
-      "publishedDateTime": "2022-01-26T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

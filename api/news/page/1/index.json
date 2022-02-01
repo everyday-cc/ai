@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-01-laiye-and-microsoft-why-chinese-rpa-is-heading-west-to-secure-your-data.md",
+      "title": "Laiye and Microsoft - why Chinese RPA is heading West to secure your data!",
+      "excerpt": "You might also be surprised to hear that enterprise cloud titan Microsoft has announced a strategic partnership with the same provider, to bring robotic process automation (RPA) and software robotics to the UK and Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data",
+      "originalUrl": "https://diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-02/2E6FF118-033F-4AC6-871A-2ED169561EA5.jpeg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data?amp",
+      "publishedDateTime": "2022-02-01T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-supply-chain-startup-loadsmart-raises-200m-to-automate-logistics-processes.md",
+      "title": "Supply chain startup Loadsmart raises $200M to automate logistics processes",
+      "excerpt": "“The pricing [AI] model is fundamental for our growth strategy ... But Loadsmart had an active 2021, acquiring freight technology startup Kamion and Opendock, a firm that offers warehouse ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/01/supply-chain-startup-loadsmart-raises-200m-to-automate-logistics-processes/",
+      "originalUrl": "https://venturebeat.com/2022/02/01/supply-chain-startup-loadsmart-raises-200m-to-automate-logistics-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/05/truck.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/01/supply-chain-startup-loadsmart-raises-200m-to-automate-logistics-processes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/supply-chain-startup-loadsmart-raises-200m-to-automate-logistics-processes/amp/",
+      "publishedDateTime": "2022-02-01T01:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-building-an-ai-superpower-does-the-uk-stand-a-chance.md",
+      "title": "Building an AI superpower: Does the UK stand a chance?",
+      "excerpt": "He, and others, highlight AI ethics and international standards as a route towards adding value, although Jones acknowledges the “elephant in the room”, adding: “An ethical values-based framework in authoritarian regimes compared to democratic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362082/building-an-ai-superpower-does-the-uk-stand-a-chance",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362082/building-an-ai-superpower-does-the-uk-stand-a-chance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1593438991/itpro/2020/06/Shutterstock_UK_Digital_map.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-01T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-using-cosmic-radiation-to-make-art-with-ai-and-blockchain.md",
       "title": "Using Cosmic Radiation To Make Art With AI And Blockchain",
       "excerpt": "AI-generated image as part of art work initative Celestium on the International Space Station. Celestium, developed by Artificial Mind and the artist Cecilie Waagner Falkenstrøm, is a hybrid AI-blockchain algorithm that uses data from cosmic radiation it ...",
@@ -250,7 +397,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1041,161 +1188,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-30-containers-and-kubernetes-underpin-more-edgy-artificial-intelligence-efforts.md",
-      "title": "Containers and Kubernetes underpin more edgy, artificial intelligence efforts",
-      "excerpt": "Containers are popular, and surveys show rise in Kubernetes adoption as their primary orchestration engine. This is key as applications grow more complex.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/containers-and-kubernetes-underpin-more-artificial-intelligence-efforts/",
-      "originalUrl": "https://www.zdnet.com/article/containers-and-kubernetes-underpin-more-artificial-intelligence-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a3370eb57abfa384af429f356d68ca7cbe8545db/2022/01/29/3ce43d82-f7de-4681-a27a-1cb7c2da4ac3/national-gallery-of-art-washington-dc-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1168,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/containers-and-kubernetes-underpin-more-artificial-intelligence-efforts/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/containers-and-kubernetes-underpin-more-artificial-intelligence-efforts/",
-      "publishedDateTime": "2022-01-29T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-30-bias-in-ai-is-spreading-and-its-time-to-fix-the-problem.md",
-      "title": "Bias in AI is spreading and it’s time to fix the problem",
-      "excerpt": "To unlock the full power of automation and create change, we must understand how and why bias in AI happens and what to do about it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/",
-      "originalUrl": "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1304302959.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/amp/",
-      "publishedDateTime": "2022-01-29T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-30-3-high-growth-chip-stocks-to-buy-for-2022-and-beyond-after-the-market-sell-off.md",
-      "title": "3 High-Growth Chip Stocks to Buy for 2022 and Beyond After the Market Sell-Off",
-      "excerpt": "Even semiconductor stocks, which are coming off a banner year in 2021 thanks to the chip shortage, are hitting the skids on worries that amplified sales growth could (eventually, maybe in 2023) be due for a downturn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/01/29/high-growth-chip-stocks-2022-market-selloff/",
-      "originalUrl": "https://www.fool.com/investing/2022/01/29/high-growth-chip-stocks-2022-market-selloff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/663091/data-center.jpg",
-          "width": 4748,
-          "height": 2671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-29T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

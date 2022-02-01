@@ -119,6 +119,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "No more facial recognition? Apple AirPods might be able to recognise the user by checking ear canal"
+    excerpt: "In the latest development, Apple's AirPods will soon be able to verify a user's identity using the inside of the ear. This will be done using an in-ear biometric device that uses ultrasonic signals. These are then reflected against the walls of a user’s ear canal."
+    publishedDateTime: 2022-02-01T10:11:00Z
+    webUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524"
+    ampWebUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 60
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/02/01/237668-fkcvp2px0aypkp.jpeg"
+        width: 918
+        height: 506
+        isCached: true
   - title: "Opinion: IRS Facial Recognition Rule Is Undemocratic"
     excerpt: "Later this year, the Internal Revenue Service will require IRS website users to agree to biometric scanning to access tax records. Why should the IRS have the ability to put citizens' privacy at such substantial risk?"
     publishedDateTime: 2022-01-29T00:51:00Z
