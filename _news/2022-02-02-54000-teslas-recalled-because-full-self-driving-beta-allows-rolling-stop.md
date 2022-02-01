@@ -9,8 +9,8 @@ ampWebUrl: "https://www.caranddriver.com/news/amp38951178/tesla-rolling-stop-fsd
 cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp38951178/tesla-rolling-stop-fsd-recall/"
 type: article
 quality: 57
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Car and Driver
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla recalls 'full self-driving' feature that was designed to roll through some stop signs"
+    excerpt: "Tesla will recall all 53,822 vehicles with its \"full self-driving\" driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
+    publishedDateTime: 2022-02-01T17:29:00Z
+    webUrl: "https://edition.cnn.com/2022/02/01/cars/tesla-fsd-stop-sign/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/02/01/cars/tesla-fsd-stop-sign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/02/01/cars/tesla-fsd-stop-sign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 79
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818094228-tesla-autopilot-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tesla recalls nearly 54,000 cars because self-driving software runs stop signs"
     excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an ..."
     publishedDateTime: 2022-02-01T15:45:00Z
@@ -42,6 +58,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2022/02/01/8c820215-d839-448c-9f56-c56cb28ae3f3/thumbnail/1200x630/e710cc6b5a65698fb903e23833775342/tesla2-ap-photodavid-zalubowski.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tesla recalls 54,000 vehicles with ‘Full Self-Driving’ over ‘rolling stop’ feature"
+    excerpt: "Rolling stop’ lets vehicles go through intersections with all-way stop signs at up to 5.6mph"
+    publishedDateTime: 2022-02-01T13:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/feb/01/tesla-recall-full-self-driving-software-stop-signs"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/feb/01/tesla-recall-full-self-driving-software-stop-signs"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/feb/01/tesla-recall-full-self-driving-software-stop-signs"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/90caf1059b549eb278062780211dbf3a587a86d8/0_223_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=930901b0599d749acab9885cad2c839f"
+        width: 620
+        height: 372
         isCached: true
   - title: "Tesla issues recall after self-driving software allowed cars to roll through stop signs"
     excerpt: "DETROIT — Tesla is recalling nearly 54,000 vehicles because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature ..."
@@ -75,35 +107,19 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Tesla recalls ‘full self-driving’ feature that was designed to roll through some stop signs"
-    excerpt: "(CNN) — Tesla will recall all 53,822 vehicles with its “full self-driving” driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
-    publishedDateTime: 2022-02-01T17:37:00Z
-    webUrl: "https://wsvn.com/news/us-world/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/"
-    ampWebUrl: "https://wsvn.com/news/us-world/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/amp/"
+  - title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
+    excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
+    publishedDateTime: 2022-01-30T00:37:00Z
+    webUrl: "https://www.futurecar.com/5166/Self-Driving-Lobbying-Group-Drops-‘Self-Driving’-in-New-Name"
     type: article
     provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 49
+      name: futurecar
+      domain: futurecar.com
+    quality: 24
     images:
-      - url: "https://wsvn.com/wp-content/uploads/sites/2/2022/01/tesla-1-e1643736861550.png?w=1024"
-        width: 1024
-        height: 519
-        isCached: true
-  - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
-    excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
-    publishedDateTime: 2022-01-31T02:29:00Z
-    webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
-    type: article
-    provider:
-      name: Car
-      domain: sgcarmart.com
-    quality: 37
-    images:
-      - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
-        width: 1024
-        height: 683
+      - url: "https://img.futurecar.com/202201/29/l_61f5004608904.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "2t7EDxSrj/vkvFMCE0fnDrm9yf+kbyaQDdfd6iGVOO1i0LXvNyXL9iO7dkny3IlgCxpWZchHMfpKxWZfA6WyJRueYKJUr4QSnEjnxIiKfQiCDz0oG4YuBNOAg7FHQgpZIebSz7cwpfEooQCdyxpNNWJOmqQlUMa9goTrxnBtO5js5C5TeAQ/NnhtlM51e3N3FCD8dC06Gg6xG6shXRovRhYaxarA5MWj8Po5+CoqxpiSqrkGqMMEdChQA69wAcSUPZVdjb4kdvV3yh1NJv5gcVKgQ3UqeO4RmpCWiFrcGS2KbJuX6xpqBTAHMZmyYr9BdRbkcNPWfv4tFz77kKaQiQjJjLAhysyvhijIZsFU9/Q=;sdCGoFQ3epUy512MK7k6zA=="

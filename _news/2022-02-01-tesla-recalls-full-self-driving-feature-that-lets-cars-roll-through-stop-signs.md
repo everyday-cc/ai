@@ -109,6 +109,38 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Tesla Recalls Full Self-Driving Vehicles Not Stopping At Stop Signs"
+    excerpt: "Tesla will recall 53,822 of its vehicles that contain its Full Self-Driving (Beta) software because of a defect that may not allow the car to come to a complete stop at some intersections"
+    publishedDateTime: 2022-02-01T18:30:00Z
+    webUrl: "https://oilprice.com/Latest-Energy-News/World-News/Tesla-Recalls-Full-Self-Driving-Vehicles-Not-Stopping-At-Stop-Signs.html"
+    ampWebUrl: "https://oilprice.com/Latest-Energy-News/World-News/Tesla-Recalls-Full-Self-Driving-Vehicles-Not-Stopping-At-Stop-Signs.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Latest-Energy-News/World-News/Tesla-Recalls-Full-Self-Driving-Vehicles-Not-Stopping-At-Stop-Signs.amp.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 59
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/news/718x300/2022-02-01_9scxfsgor8.jpg"
+        width: 718
+        height: 300
+        isCached: true
+  - title: "Tesla recalls full self-driving vehicles over rolling stops"
+    excerpt: "Tesla has been recalled by the National Highway Traffic Safety Administration due to a feature called \"rolling stop.\""
+    publishedDateTime: 2022-02-01T18:29:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2022/02/01/tesla-gets-recalled/9311643735059/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/02/01/tesla-gets-recalled/9311643735059/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/01/tesla-gets-recalled/9311643735059/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/9311643735059/2022/1/3d7153a47822ee68da6753e02c3b8029/v1.5/Tesla-recalls-full-self-driving-vehicles-over-rolling-stops.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Elon Musk: I would be shocked if Tesla does not achieve Full Self-Driving safer than human this year (and 5 years ahead of everyone)"
     excerpt: "Elon Musk gave an update on his expected timeline for Tesla achieving Full Self-Driving capability and he now says that he would be “shocked” if Tesla does not achieve “Full Self-Driving safer than human this year”."
     publishedDateTime: 2022-01-31T13:10:00Z
@@ -175,17 +207,17 @@ related:
         isCached: true
   - title: "Recall alert: Tesla to recall 53K vehicles with full self-driving software"
     excerpt: "Tesla will be recalling 53,822 vehicles that have its Full Self-Driving (Beta) software because the programming allows the cars to do a rolling stop, and not come to a complete stop when required to do so."
-    publishedDateTime: 2022-02-01T17:47:00Z
-    webUrl: "https://www.wpxi.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/"
-    ampWebUrl: "https://www.wpxi.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/?outputType=amp"
+    publishedDateTime: 2022-02-01T19:47:00Z
+    webUrl: "https://www.kiro7.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/"
+    ampWebUrl: "https://www.kiro7.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/?outputType=amp"
     type: article
     provider:
-      name: WPXI
-      domain: wpxi.com
+      name: KIRO-TV
+      domain: kiro7.com
     quality: 57
     images:
-      - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/-Tb4kf4tWvVfskT-YHXnUQrwPKE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/M7JWOZ5FHJFABL4XTQQ6G3CT3I.jpg"
+      - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/-Tb4kf4tWvVfskT-YHXnUQrwPKE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/M7JWOZ5FHJFABL4XTQQ6G3CT3I.jpg"
         width: 1440
         height: 810
         isCached: true
@@ -247,6 +279,29 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Tesla recalls almost 54,000 vehicles due to self-driving system that may disobey stop signs"
+    excerpt: "The beta version of Tesla's Full Self-Driving feature has a function that allows vehicles to perform a rolling stop at stop signs."
+    publishedDateTime: 2022-02-01T19:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1134937_tesla-recalls-almost-54-000-vehicles-due-to-self-driving-system-that-may-disobey-stop-signs"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 29
+    images:
+      - url: "https://images.hgmsites.net/hug/2022-tesla-model-3_100827325_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Tesla will disable “rolling stop” feature on its ‘full self-driving’ cars"
+    excerpt: "According to Tesla's latest earnings report, issued last week, nearly 60,000 drivers are testing out the company's \"full self-driving\" software, on public roads. The report calls the capability, which costs drivers an additional $12,000 and is still in its ..."
+    publishedDateTime: 2022-02-01T20:24:00Z
+    webUrl: "https://www.courthousenews.com/tesla-will-disable-rolling-stop-feature-on-its-full-self-driving-cars/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 18
 
 secured: "J8Tr+EeCNkpsV10EvQ7gyEHLII8ico8mbuuK4qUCdhhMBbwfXk38OI5tYVCZSVR6etMjKgs9nm6hlYAz5i3rGv8LxYUVlj9iFZAX4qCgKjuYADijUgWeTI8nbnqqRTtzCxNuwZLzwBSs2lA8Jnlrxpm67ObwoketlGnIzV8XR49ebykQDBMC/bfNEHYPHb6ya8iXAlULA+LKRPnFi3SUJgt+nUOxqHFcOG14++fQlqi6d/HuYL57CyhvUwlqpzt1suRFP0ub1ZGfkorD8VosDp1kYgJwgXuDUsPjFl1HWahkpw9LcdvECwyc1wfOnB2pIyMV+GmZ1tQklcZUlAK5VzX5y7nofcTL68QfU0wTxnY=;NZ0Ct48hfpzIMc2FJ7Yhdw=="
 ---

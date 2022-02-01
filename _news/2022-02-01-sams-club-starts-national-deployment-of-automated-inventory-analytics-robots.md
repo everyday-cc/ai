@@ -25,22 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Walmart Brings Inventory-Tracking Robots to Sam's Club"
-    excerpt: "The retailer is partnering with Brain Corp. to bring a self-cleaning robot to every Sam's Club location in the U.S."
-    publishedDateTime: 2022-01-28T04:55:00Z
-    webUrl: "https://www.thestreet.com/investing/walmarts-sams-club-has-hired-inventory-robots"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/walmarts-sams-club-has-hired-inventory-robots"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/walmarts-sams-club-has-hired-inventory-robots"
+  - title: "AI storage: a new requirement for the shift in computing and analytics"
+    excerpt: "AI storage is needed as the boundaries of traditional computing and analytics shift to a new era of parallel data management"
+    publishedDateTime: 2022-01-31T13:25:00Z
+    webUrl: "https://www.information-age.com/ai-storage-a-new-requirement-for-the-shift-in-computing-and-analytics-123498640/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
+      name: Information Age
+      domain: information-age.com
+    quality: 39
     images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg2OTk4MTAwODY5NTIzMzQw/sams_club_robots_2.jpg"
-        width: 620
-        height: 349
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/01/ai-storage-a-new-requirement-for-the-shift-in-computing-and-analytics.jpeg.optimal.jpeg"
+        width: 1080
+        height: 608
         isCached: true
+  - title: "Best Data Analytics Certifications 2022"
+    excerpt: "Data Analysts are in high demand. Which certification is best for beginning or advancing your career? Review top Data Analytics Certifications now."
+    publishedDateTime: 2022-01-29T14:00:00Z
+    webUrl: "https://www.itbusinessedge.com/it-management/data-analytics-certification/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 24
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/01/Data-Analyst-Certifications.jpeg"
+        width: 1400
+        height: 935
+        isCached: true
+  - title: "Retina AI Brings Customer Lifetime Value Analytics To Google Ads"
+    excerpt: "Retina AI Brings Customer Lifetime Value Analytics To Google Ads Retina AI announces integration with Google Ads,"
+    publishedDateTime: 2022-02-01T11:30:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220201ny47235/retina-ai-brings-customer-lifetime-value-analytics-to-google-ads"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
+  - title: "Kellton Tech to Modernize Digital Citizen Experiences For HMWSSB Through Artificial Intelligence and IoT-based Data Analytics"
+    excerpt: "Kellton Tech will provide HMWSSB, the Government of Telangana, with IoT-based enterprise intelligence and analytics solutions to drive actionable insights in real-time and transform citizen service experiences as well as the Metro Customer Care as more efficient,"
+    publishedDateTime: 2022-01-31T07:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kellton-tech-modernize-digital-citizen-experiences-hmwssb-through-/2022/01/31/9535561.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Kellton Tech to modernize digital citizen experiences for HMWSSB through Artificial Intelligence and IoT-based Data Analytics"
+    excerpt: "Kellton Tech (BSE: KELLTONTEC) (NSE: KELLTONTEC), a global leader in next-generation digital transformation and enterprise intelligence solutions, announced that it has been selected as a technology partner by Hyderabad Metropolitan Water Supply and Sewerage Board (HMWSSB) to revolutionize its citizen service delivery and create world-class experiences."
+    publishedDateTime: 2022-01-31T20:51:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220131/3902197.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "oMr15vXVvds5WnIIn8N4Kd1J+BTWe9BhNbrfoAXtntl6l+dPdrAgrf2V3W7hpbb37cPHlekub5vLmX6WAa64DwsQ/KRf9h4mke4Ej3ukcQlrekl0zbSWhh9wgqDwSzcRuRQ62pxFBKEeaDi/r2GhienmKmdRQu9Blzci0F2Byx+jrKnw38jWdaL12qqx6DGZS+DHATse1sko4ETPuTiRHct7LjTOk3Fcw05b+yXWwfP+uVE7sCDes3DwbJAlapF0gCM6qZCOK4AaJgwSOZsnN5DPBKK17V4jW6lTrn/3hYVf5RC+mUgL4eAiXRMIenw+vFEQaVTw8jFJCDC5Ho4NzBM/bQ4FC4ZFLXHMRvj/u9c=;1s4ax4E17p6uVc6/xzBGAQ=="
 ---

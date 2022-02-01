@@ -52,22 +52,6 @@ related:
         width: 1600
         height: 1502
         isCached: true
-  - title: "ARMA tie-up proves worth for fintech Credit Clear as clients sign on the dotted line"
-    excerpt: "Repayments fintech Credit Clear has delivered a major business boost after signing two top tier clients that will add $1.6 to $2 million in revenue over the next year. It is a major vote of confidence for its purchase of debt recovery solutions provider ARMA,"
-    publishedDateTime: 2022-01-28T03:23:00Z
-    webUrl: "https://stockhead.com.au/tech/arma-tie-up-proves-worth-for-fintech-credit-clear-as-clients-sign-on-the-dotted-line/"
-    ampWebUrl: "https://stockhead.com.au/tech/arma-tie-up-proves-worth-for-fintech-credit-clear-as-clients-sign-on-the-dotted-line/?amp"
-    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/arma-tie-up-proves-worth-for-fintech-credit-clear-as-clients-sign-on-the-dotted-line/?amp"
-    type: article
-    provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 37
-    images:
-      - url: "https://stockhead.com.au/wp-content/uploads/2022/01/sign-me-up-conor-mcgregor.gif"
-        width: 480
-        height: 262
-        isCached: true
   - title: "28/01 – Weekly Fintech Recap"
     excerpt: "Partnerships Segmint partners with Snowflake to revolutionize payment transaction enrichment for financial institutions Segmint, the global leader in transaction cleansing and analytics for financial institutions (FIs),"
     publishedDateTime: 2022-01-28T20:27:00Z

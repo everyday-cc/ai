@@ -33,6 +33,20 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "Sam’s Club starts national deployment of automated inventory analytics robots"
+    excerpt: "Implementation to leverage scanning accessory which can attach to the almost 600 autonomous floor scrubbers already deployed within Sam’s Club stores nationwide.{/exp:eehive_hacksaw"
+    publishedDateTime: 2022-01-31T17:37:00Z
+    webUrl: "https://www.scmr.com/article/sams_club_starts_national_deployment_of_automated_inventory_analytics_robot"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 36
+    images:
+      - url: "https://www.mmh.com/images/2021_article/Inventory_Scrubbers_4.jpg"
+        width: 480
+        height: 265
+        isCached: true
   - title: "Best Data Analytics Certifications 2022"
     excerpt: "Data Analysts are in high demand. Which certification is best for beginning or advancing your career? Review top Data Analytics Certifications now."
     publishedDateTime: 2022-01-29T14:00:00Z

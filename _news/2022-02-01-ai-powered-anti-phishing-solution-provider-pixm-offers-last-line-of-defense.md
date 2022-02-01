@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/01/ai-powered-anti-phishing-solution
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/ai-powered-anti-phishing-solution-provider-pixm-offers-last-line-of-defense/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Crisis Text Line ends controversial relationship with for-profit AI company"
+    excerpt: "Crisis Text Line has ended its controversial relationship with Loris.ai, a for-profit sister company that promises to help companies \"handle their hard customer conversations with empathy. \" The decision followed outrage over a Politico story that detailed how Loris leveraged Crisis Text Line insights and anonymized user data in order to sell companies customer service optimization software,"
+    publishedDateTime: 2022-02-01T19:31:00Z
+    webUrl: "https://mashable.com/article/crisis-text-line-loris-ai"
+    ampWebUrl: "https://mashable.com/article/crisis-text-line-loris-ai?amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/crisis-text-line-loris-ai?amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 85
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/04DlU6SZhcOW1a3Ul5pS0bO/hero-image.fill.size_1200x675.v1643742610.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Startup Pixm raises $4.3M seed funding round for its computer vision-based anti-phishing software"
     excerpt: "Startup Pixm raises $4.3M seed funding round for its computer vision-based anti-phishing software - SiliconANGLE"
     publishedDateTime: 2022-02-01T11:00:00Z

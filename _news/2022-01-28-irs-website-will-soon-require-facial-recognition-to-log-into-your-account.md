@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The IRS website will soon require facial recognition to log in to your account"
-    excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are. The verification process ..."
-    publishedDateTime: 2022-01-28T03:12:00Z
-    webUrl: "https://www.gwinnettdailypost.com/news/business/the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account/article_de35a3fb-313b-5825-9218-6972a99fdd0c.html"
-    type: article
-    provider:
-      name: Gwinnett Daily Post
-      domain: gwinnettdailypost.com
-    quality: 35
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/a/45/a4544d21-a21a-5f18-8adf-09087fb8c25c/61f3412be7380.image.jpg?crop=1765%2C927%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "58Qj6ujMsK7VyuSyW/YSGqgDff+BUxIimH6HmiMUMnqwvvy5WA+VQNs2nx6ymx+wM6dL3DYJ9odGxq4tIAumvLie+ThRPWvyedlZ9/i0T8rkOxkow2MV/XJtLqRgUqhwuH91bIDBHlm2uRffCr/o1nodcvRe0EXcQLVyt+FTy8MqkLEUVBVZbvME9pG2UPdUwdhfClAH0pqRRFljN9oWYYRsqmwPpcOnzZp1PcxCliJ4qSPVk+t2xmCtANLozOpSJfxMqN+XwH39Vy6Vg1ZOrOe9Ad1bDbQLirDe8d9utbd/4TDbnPOrUONRB2Dp9MYUhD3k60nrsXW+drRXBhCJIEQXwysEcs7tMeAM9IV1cpw0j2RrPv03C17QVCF6tFiBHGrnp1hIMnolB5voY39iIchZF0BHLswRHF+6mwLByXBHXqfdhGheRvRn37r+mA9/feWA76c5moPl09H8HTrnycsT25GFDsrkgsJ9sAe1wgH6x7Dq8wUNZwjrB0JUNiw7Y1PFUtCtHfHNTWmhQ0sxoA==;hw9y3O0PQz42fICNT2N8DA=="
 ---

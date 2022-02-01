@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla recalls 'full self-driving' feature that was designed to roll through some stop signs"
+    excerpt: "Tesla will recall all 53,822 vehicles with its \"full self-driving\" driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
+    publishedDateTime: 2022-02-01T17:29:00Z
+    webUrl: "https://edition.cnn.com/2022/02/01/cars/tesla-fsd-stop-sign/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/02/01/cars/tesla-fsd-stop-sign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/02/01/cars/tesla-fsd-stop-sign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 79
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818094228-tesla-autopilot-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "54,000 Teslas Recalled Because Full Self-Driving Beta Allows 'Rolling Stop'"
     excerpt: "Tesla will issue an over-the-air software update to disable the \"rolling stop\" feature in the Full Self-Driving Beta as part of a National Highway Traffic Safety Administration (NHTSA) recall. The feature allows Teslas equipped with the FSD Beta to travel ..."
     publishedDateTime: 2022-02-01T16:06:00Z
@@ -42,6 +58,22 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2022-tesla-model-3-mmp-1-1640025520.jpg?crop=1xw:0.7501359434475259xh;center,top&resize=1200:*"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Tesla recalls 54,000 vehicles with ‘Full Self-Driving’ over ‘rolling stop’ feature"
+    excerpt: "Rolling stop’ lets vehicles go through intersections with all-way stop signs at up to 5.6mph"
+    publishedDateTime: 2022-02-01T13:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/feb/01/tesla-recall-full-self-driving-software-stop-signs"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/feb/01/tesla-recall-full-self-driving-software-stop-signs"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/feb/01/tesla-recall-full-self-driving-software-stop-signs"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/90caf1059b549eb278062780211dbf3a587a86d8/0_223_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=930901b0599d749acab9885cad2c839f"
+        width: 620
+        height: 372
         isCached: true
   - title: "Tesla issues recall after self-driving software allowed cars to roll through stop signs"
     excerpt: "DETROIT — Tesla is recalling nearly 54,000 vehicles because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature ..."
@@ -75,35 +107,19 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Tesla recalls ‘full self-driving’ feature that was designed to roll through some stop signs"
-    excerpt: "(CNN) — Tesla will recall all 53,822 vehicles with its “full self-driving” driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
-    publishedDateTime: 2022-02-01T17:37:00Z
-    webUrl: "https://wsvn.com/news/us-world/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/"
-    ampWebUrl: "https://wsvn.com/news/us-world/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/amp/"
+  - title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
+    excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
+    publishedDateTime: 2022-01-30T00:37:00Z
+    webUrl: "https://www.futurecar.com/5166/Self-Driving-Lobbying-Group-Drops-‘Self-Driving’-in-New-Name"
     type: article
     provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 49
+      name: futurecar
+      domain: futurecar.com
+    quality: 24
     images:
-      - url: "https://wsvn.com/wp-content/uploads/sites/2/2022/01/tesla-1-e1643736861550.png?w=1024"
-        width: 1024
-        height: 519
-        isCached: true
-  - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
-    excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
-    publishedDateTime: 2022-01-31T02:29:00Z
-    webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
-    type: article
-    provider:
-      name: Car
-      domain: sgcarmart.com
-    quality: 37
-    images:
-      - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
-        width: 1024
-        height: 683
+      - url: "https://img.futurecar.com/202201/29/l_61f5004608904.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "UpF85w2hFZJK2CU+l0yuQjdMvFJ2QKO48CB/hJBCaYMP6JMvJ5NwZHIMKz9rhwS5D/yBIuFtXI+7bo8ifRACFARNrQrAHeQeJDbtAnyVdBWNXWHO8G3T4BUH0YWdv5HJuJXTdrIIOpp4kj7LqpLWsabl9kcyO5cAylxMpi1yNhRTcm8jSdIMb8jqsrg7PKEtzEfzZ7+Xy6XaW78xxlDT+hJ7aPMFcyDXQFIXnY1FtZkLwm4C0HrQBZPddRfhAg03WY3PS4ct1E8EgoA4OaxMZctv1Y5smUuPc+I0L+pj/rQKUKsMYxROdR1pfT4GM43LqiRCxwkWIXRzD7O75WccuBoSrOXXdeNRPaiBT/Gm5ZE=;4p6lEmPnO91xBxBXdrhfpg=="

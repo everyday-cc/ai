@@ -9,7 +9,7 @@ ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220131_25/amp.html"
 cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220131_25/amp.html"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Artificial intelligence system rapidly predicts how two proteins will attach"
-    excerpt: "A new machine learning system can predict the structure formed when two proteins dock, in a process that’s between 50 to 800 times faster than some software-based methods. This could help scientists better understand biological processes or speed the development of new therapies."
-    publishedDateTime: 2022-02-01T17:48:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/942017"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/6c6b24d6-43e5-4260-a03e-2c0e1b2af0be/Rendition/low-res/Content/Public"
-        width: 700
-        height: 466
-        isCached: true
 
 secured: "iaAgVaI51R6H/EmIRzN2vHLgwD+L7iVo+GEpg3l4kLN7QzZcY36MkwgtufRl4tClqcojHGa9C8hFFjfBuonb/57OXf8f0Quux2+XLIgPxu7xP9Eu2WAZMzMyGU+yNkuabaNUq1SWyduvE7LXzJLu29NV11adWpWwuK0AWyh0J6DtQT/jBtZsHe0+VtQgQa4CZ9k4CPszwa1Gm/uTNkEmnwhswLP1sjOGlW/YdIMv3x3X3QWlYJa9UXJSEGin1vTSW+qekD8idfuztGLEY6IhzArDkWS2WNHSSRK5L3YoYorRUG5lPlXXKvENSiTwiQphAQKZzReralBq7gPp75Zy3nuFG5rT+RYrrslhOTEfKJ0=;NgS+PQn8FWiFGl4GjU3fBw=="
 ---
