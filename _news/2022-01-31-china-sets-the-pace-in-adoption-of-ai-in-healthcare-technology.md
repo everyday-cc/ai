@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
 type: article
 quality: 74
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Malnutrition-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "The future role of AI in finance"
+    excerpt: "And, perhaps crucially, whether AI will ever remove the need for human advisors in the financial industry. AI transforming financial sector Business leaders have revealed that the use of technology including AI plays a significant role in filling gaps ..."
+    publishedDateTime: 2022-02-01T05:00:00Z
+    webUrl: "https://www.worldfinance.com/markets/the-future-role-of-ai-in-finance"
+    type: article
+    provider:
+      name: World Finance
+      domain: worldfinance.com
+    quality: 54
+    images:
+      - url: "https://www.worldfinance.com/wp-content/uploads/2021/11/A071_rt-600x450.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Can AI help you save money on healthcare? This insurance company thinks so"
     excerpt: "Using a combination of tech and machine learning, this service is giving employees a future timeline for their medical journey."

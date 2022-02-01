@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/fujitsu-to-stand-up-ai-ethi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-to-stand-up-ai-ethics-and-governance-office/"
 type: article
 quality: 84
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -25,19 +25,21 @@ topics:
   - AI
 
 related:
-  - title: "Fujitsu to establish AI ethics and governance office"
-    excerpt: "Fujitsu has announced plans to establish its own AI ethics and governance office that will oversee the “safe and secure deployment” of artificial intelligence (AI) and machine learning technologies. Scheduled to be created on 1 February 2022,"
-    publishedDateTime: 2022-01-31T15:52:00Z
-    webUrl: "https://www.techcentral.ie/fujitsu-to-establish-ai-ethics-and-governance-office/"
+  - title: "Fujitsu to establish AI Ethics and Governance Office"
+    excerpt: "Fujitsu has announced plans to establish its own AI Ethics and Governance Office that will oversee the “safe and secure deployment” of artificial intelligence (AI) and machine learning technologies. Scheduled to be created on 1 February 2022,"
+    publishedDateTime: 2022-01-31T15:13:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office?amp"
     type: article
     provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 54
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
     images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/Fujitsu_Sign.jpg"
-        width: 620
-        height: 349
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1643641375/itpro/GettyImages-953212734-fujitsu.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "Fujitsu Establishes AI Ethics and Governance Office to Ensure the Safe and Secure Deployment of AI and Leading-edge Technologies in Society"
     excerpt: "Fujitsu Limited today announced the decision to establish a new organization to strengthen its governance of AI ethics.Building and maintaining trust remains central to all of Fujitsu's"

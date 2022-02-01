@@ -42,6 +42,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "The future role of AI in finance"
+    excerpt: "And, perhaps crucially, whether AI will ever remove the need for human advisors in the financial industry. AI transforming financial sector Business leaders have revealed that the use of technology including AI plays a significant role in filling gaps ..."
+    publishedDateTime: 2022-02-01T05:00:00Z
+    webUrl: "https://www.worldfinance.com/markets/the-future-role-of-ai-in-finance"
+    type: article
+    provider:
+      name: World Finance
+      domain: worldfinance.com
+    quality: 54
+    images:
+      - url: "https://www.worldfinance.com/wp-content/uploads/2021/11/A071_rt-600x450.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Can AI help you save money on healthcare? This insurance company thinks so"
     excerpt: "Using a combination of tech and machine learning, this service is giving employees a future timeline for their medical journey."
     publishedDateTime: 2022-01-31T19:30:00Z

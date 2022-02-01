@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Fujitsu to establish AI ethics and governance office"
-excerpt: "Fujitsu has announced plans to establish its own AI ethics and governance office that will oversee the “safe and secure deployment” of artificial intelligence (AI) and machine learning technologies. Scheduled to be created on 1 February 2022,"
-publishedDateTime: 2022-01-31T15:52:00Z
-originalUrl: "https://www.techcentral.ie/fujitsu-to-establish-ai-ethics-and-governance-office/"
-webUrl: "https://www.techcentral.ie/fujitsu-to-establish-ai-ethics-and-governance-office/"
+title: "Fujitsu to establish AI Ethics and Governance Office"
+excerpt: "Fujitsu has announced plans to establish its own AI Ethics and Governance Office that will oversee the “safe and secure deployment” of artificial intelligence (AI) and machine learning technologies. Scheduled to be created on 1 February 2022,"
+publishedDateTime: 2022-01-31T15:13:00Z
+originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office"
+webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office"
+ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office?amp"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 104
+heat: 154
+published: true
 
 provider:
-  name: Mozilla
-  domain: techcentral.ie
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.techcentral.ie/wp-content/uploads/2022/01/Fujitsu_Sign.jpg"
-    width: 620
-    height: 349
+  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1643641375/itpro/GettyImages-953212734-fujitsu.jpg"
+    width: 1260
+    height: 710
     isCached: true
 
 related:
@@ -82,6 +88,6 @@ related:
       domain: japantoday.com
     quality: 34
 
-secured: "MXtL4eEkW+XDqXCdSkiLNo08BDIax5xqDxvHjH+h9+XyUmKTQBQVHAaM4EqybwwgnBgQrOcS1MQ/oK7FiMG0k6iEBekImcIoBWGWRdg9T9UK0OX5p1EbZAIG9jgbKu3UPRAc4NZXYBVi4GWp5XvPpmx4oKYyMXbWH5mEy0T1wyaxk9R/6ol/XjYLy0NpsgiIhaY7L6MS8FXf/SDnJuVf5MOhqic3wSHgOrRNwJx8ODbsdf8JuwaRLDQtrrH7Nupkj9sfTlJOgnVkQ3Z6bnasqCdVEsu+2rnb/lreM4hu9pUNQz2sEaESWwohaDS8QkeyMB7tGwud6YTIucDbxkP4jvJiHbrXE5g8W9UNlkiHnxaC+RKaGgrHQFUFMtQCmUeceYkshmI2Kxwd7a4OEUr0SNzkzoaHHWaAJXVSaVofylcnJfjdmQWH6CJvbP4Vt4MLDwT/tXtZZMoPTfijM2WRlBaLWI1aj4Km53+XUKRZNUaav4ZWmvUbApEiKMcjj4YTle3ULQO7pYwYghfd5xy7MQ==;mfeqj3XFmGVAIR5+lVh1nQ=="
+secured: "WYVyGutm7bop0f2roLSf+/teP5Oqknir5hGeQjQXz53x69OwRfAl9yOXJKMagWGtXGQAs3u0Pwzc8VQR2dQsr3Oz6hJ30kO7fhX66g+Q+NXb/LCbqPInZ/MZ+v+7DY5W3pyks+Y6HixIdA1NZon/J3AyWXv9IJHOutFv90jmwKJSwCaDOub6Kk/jbyLrKHIlbktbTB88MY/r7TUzp9rDNF5Z6tw42Ev8CQVw7TXy45LGanA6PEp4e4BZqRtp9PHrKEkHNa8M7d9voKIrq0dZy1rFxmLulJrhpImef8s3laAJ0S8bXwcVmACPMrFx/RrbNT29hF5DbqhBmp5RmB7ryd1qL+f5wd6+9FFGAsAhfuU=;se1Xc8iq64DahoAG66zHzg=="
 ---
 

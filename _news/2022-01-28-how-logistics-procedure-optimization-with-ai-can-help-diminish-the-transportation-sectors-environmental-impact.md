@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/28/how-logist
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/28/how-logistics-procedure-optimization-with-ai-can-help-diminish-the-transportation-sectors-environmental-impact/amp/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Forbes
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How AI and Construction Robots are Transforming Construction Sector"
+    excerpt: "The fundamental benefit of deploying construction robots is that they reduce time, improve accuracy, and productivity, resulting in larger monetary"
+    publishedDateTime: 2022-01-31T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/how-ai-and-construction-robots-are-transforming-construction-sector-nid-9157.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/7pi9f450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "4mNEnzyVOIu9+isOn2MyByeeT5fPPiDqFlcVEoQwFRf+pYvaceP3drIjhJbL+K5FY3zydcC//HP/p9SZ5yEpp9OkDb/Pr46fLPbkWU+Cu11LZgq+JL8swm9D7qAfkVmxesrCOpSYU+mLM41wgipfsnLSPCbodyX59hRFcziUTtukXP83TYIe94B6K6hY1KpxdfkeZ10C4b3l2Wf5zw6JbWYAE2u1VMwQ001wqz7cpkkaEIlKVmiY57UnFhTbTZa/OTUs/nKkPq3cjMm6xaFU47swIvZYhW4P7H5AqxPEah8YUq4tlH+rY3lyePho2ZRSOELXxPf46BpvTCTQV/nVIHG1sKGE4JcauYPcNQ7DE0TtRdl75yf4S8fDiX/pTQH+FgwCPCWFDJSdTPQyfX3YzTwyad6AN1gK0T+qiBTouQKjBwDzZYrVwAZj4GwMVV8XUjj9M7E9zW7QhLOuZGlN40oKNBXBIPNQPPzMozo9PWwNtJox0iXEjYgV/Y1dtYQuYDW29V1y9DERCjnC2ivMQg==;66K9i1wF0BdzPgvDQ/N32Q=="
 ---

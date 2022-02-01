@@ -57,6 +57,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "The future role of AI in finance"
+    excerpt: "And, perhaps crucially, whether AI will ever remove the need for human advisors in the financial industry. AI transforming financial sector Business leaders have revealed that the use of technology including AI plays a significant role in filling gaps ..."
+    publishedDateTime: 2022-02-01T05:00:00Z
+    webUrl: "https://www.worldfinance.com/markets/the-future-role-of-ai-in-finance"
+    type: article
+    provider:
+      name: World Finance
+      domain: worldfinance.com
+    quality: 54
+    images:
+      - url: "https://www.worldfinance.com/wp-content/uploads/2021/11/A071_rt-600x450.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Can 5G help speed up AI adoption?"
     excerpt: "G is set to transform the technology world. To gain explore some of the key triggers with the 5G movement and how well it will be rolled out, Digital Journal caught up with EdgeQ CEO Vinay Ravuri. With the roll-out of 5G,"
     publishedDateTime: 2022-01-30T19:10:00Z

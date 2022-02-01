@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Can 5G help speed up AI adoption?"
-excerpt: "G is set to transform the technology world. To gain explore some of the key triggers with the 5G movement and how well it will be rolled out, Digital Journal caught up with EdgeQ CEO Vinay Ravuri. With the roll-out of 5G,"
-publishedDateTime: 2022-01-30T19:10:00Z
-originalUrl: "https://www.digitaljournal.com/tech-science/can-5g-help-speed-up-ai-adoption/article"
-webUrl: "https://www.digitaljournal.com/tech-science/can-5g-help-speed-up-ai-adoption/article"
+title: "The future role of AI in finance"
+excerpt: "And, perhaps crucially, whether AI will ever remove the need for human advisors in the financial industry. AI transforming financial sector Business leaders have revealed that the use of technology including AI plays a significant role in filling gaps ..."
+publishedDateTime: 2022-02-01T05:00:00Z
+originalUrl: "https://www.worldfinance.com/markets/the-future-role-of-ai-in-finance"
+webUrl: "https://www.worldfinance.com/markets/the-future-role-of-ai-in-finance"
 type: article
-quality: 39
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: World Finance
+  domain: worldfinance.com
 
 topics:
-  - AI Hardware
   - AI
+  - AI in Finance
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/18795ff0b9de8dbf3539d8fdf37138ec367eb1b0.jpg"
-    width: 768
-    height: 512
+  - url: "https://www.worldfinance.com/wp-content/uploads/2021/11/A071_rt-600x450.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -57,20 +57,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "The future role of AI in finance"
-    excerpt: "And, perhaps crucially, whether AI will ever remove the need for human advisors in the financial industry. AI transforming financial sector Business leaders have revealed that the use of technology including AI plays a significant role in filling gaps ..."
-    publishedDateTime: 2022-02-01T05:00:00Z
-    webUrl: "https://www.worldfinance.com/markets/the-future-role-of-ai-in-finance"
-    type: article
-    provider:
-      name: World Finance
-      domain: worldfinance.com
-    quality: 54
-    images:
-      - url: "https://www.worldfinance.com/wp-content/uploads/2021/11/A071_rt-600x450.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Can AI help you save money on healthcare? This insurance company thinks so"
     excerpt: "Using a combination of tech and machine learning, this service is giving employees a future timeline for their medical journey."
     publishedDateTime: 2022-01-31T19:30:00Z
@@ -85,7 +71,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Can 5G help speed up AI adoption?"
+    excerpt: "G is set to transform the technology world. To gain explore some of the key triggers with the 5G movement and how well it will be rolled out, Digital Journal caught up with EdgeQ CEO Vinay Ravuri. With the roll-out of 5G,"
+    publishedDateTime: 2022-01-30T19:10:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/can-5g-help-speed-up-ai-adoption/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/18795ff0b9de8dbf3539d8fdf37138ec367eb1b0.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
-secured: "MlRjKCa5IIKE/JmDrc60JwveqF3Wu5JFGS4I36q8mCFQHfU4HbTob37UPnYgSBXAplH7uHld0HrisYItcp0jgFbnbRUO16SzRkiltccozuYAHOgYqddpTFByeEzlN1UKwDJCKIexGN258GtE7cHZGc2scDkkx0/5Ws8Px4JZggEATdnz0MLOYQUjfPHTHUI1KSzm0Fetve51K/996wwL6e4UkqsekA3j/QhePvu6W9KSXMdgHr34sd58SzvtLDHKto8tZvyWEXO8bLvy7eUnacTU2AdVbmPQc2CjVJKkqN691F1aSn0xnNnQ3ySO7V9EvKDFSrtMxgMV7u5iZZeOGzvzMg0KfC/y8XlZdUvmNDoNcH/fOaLZP5HuWLgYimOG8hfnPdmfW+0zZt33VssWEPLT8s4HRXD6eQ4tPIE8JoHMnfNLQgBURSvS81vW4YMhPJB3e5JeM749sHFd7MYD7AWE0llawzBx6zacPnvhx7MxZq/SEzcNAyhe/58hiWGPGn65ZwsquLRW5wj/MxNVuA==;t5euF8qxAj0Q4TO+cZ2ktQ=="
+secured: "i9XbHmogYLH8ME4XhOWfH7AVy5oPan7AxnotQCQhV3WWZ1ot4QgOMXL+l32yrObuYkr49smq07jad8AFMwhg7DGoS3nlVfbwnS5KOMVQX/BiinRGMHBR5U1W7jLVaQn+zXhdybh0RlaULZrzjqyh5wo6dB3ngWERyx514RYOckvIMWFaQltv7Q9e7KeFZBZBxyxVv9kf/h0kFdclyMuO+L31Hsp1frXGXxx5IqIUSmSQCUTCet/ji7CgYZgdq3RIkDCxJoJxTmCHgKHg0QM2aRFun/0/RFgj7FWXZhcIRiQBQaMnH+Xa8mZIO9cePFvQ45NV2a20M/nobg5swFlnMKhnNWrpcoLnRTU/ygUkhvQ=;nxoqagTds3WoEQz0lyPptw=="
 ---
 
