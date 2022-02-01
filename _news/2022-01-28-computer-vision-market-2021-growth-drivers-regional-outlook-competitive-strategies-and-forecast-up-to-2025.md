@@ -67,6 +67,20 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Agricultural Robots Market Research Growth, Regions, Type and Application, Forecast Analysis to 2020-2028"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
+    publishedDateTime: 2022-02-01T12:51:00Z
+    webUrl: "https://menafn.com/1103624508/Agricultural-Robots-Market-Research-Growth-Regions-Type-and-Application-Forecast-Analysis-to-2020-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?617111"
+        width: 327
+        height: 250
+        isCached: true
   - title: "AI-Enabled Last Mile Delivery Market Industry Analysis, Size, Share, Growth, Trend, And Forecast To 2029"
     excerpt: "Research Nester published a report titled “ AI-Enabled Last Mile Delivery Market: Global Demand Analysis & Opportunity Outlook 2029 ” which delivers detailed overview of the global AI-enabled last mile delivery market in terms of market segmentation by type,"
     publishedDateTime: 2022-01-30T18:40:00Z

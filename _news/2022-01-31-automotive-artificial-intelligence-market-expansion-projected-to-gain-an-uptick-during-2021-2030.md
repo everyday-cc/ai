@@ -53,6 +53,20 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Agricultural Robots Market Research Growth, Regions, Type and Application, Forecast Analysis to 2020-2028"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
+    publishedDateTime: 2022-02-01T12:51:00Z
+    webUrl: "https://menafn.com/1103624508/Agricultural-Robots-Market-Research-Growth-Regions-Type-and-Application-Forecast-Analysis-to-2020-2028"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?617111"
+        width: 327
+        height: 250
+        isCached: true
   - title: "Computer Vision Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Jan 27, 2022, 23:27 /Comserve / -- Computer Vision Market By Product Type (PC Based and Smart Camera Based) and Application (Quality Control and Inspection ..."
     publishedDateTime: 2022-01-28T05:39:00Z

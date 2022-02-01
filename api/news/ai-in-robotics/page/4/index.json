@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-04-seoul-robotics-introduces-v2x-sensor-tower-to-automate-bmw-fleets-at-munich-manufacturing-facility.md",
+      "title": "Seoul Robotics introduces V2X sensor tower to automate BMW fleets at Munich manufacturing facility",
+      "excerpt": "Seoul Robotics, an AI-based perception software company, wants to turn first- and last-mile logistics hubs for automotive and trucking into mind hives, wherein one sensor tower controls the movements of a fleet,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/04/seoul-robotics-introduces-v2x-sensor-tower-to-automate-bmw-fleets-at-munich-manufacturing-facility/",
+      "originalUrl": "https://techcrunch.com/2022/01/04/seoul-robotics-introduces-v2x-sensor-tower-to-automate-bmw-fleets-at-munich-manufacturing-facility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Screen-Shot-2021-12-28-at-2.36.59-PM-1-1-1.png?w=1024",
+          "width": 1024,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/04/seoul-robotics-introduces-v2x-sensor-tower-to-automate-bmw-fleets-at-munich-manufacturing-facility/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/seoul-robotics-introduces-v2x-sensor-tower-to-automate-bmw-fleets-at-munich-manufacturing-facility/amp/",
+      "publishedDateTime": "2022-01-04T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-seoul-robotics-announces-lidar-enabled-autonomous-logistics-platform.md",
       "title": "Seoul Robotics Announces LiDAR Enabled Autonomous Logistics Platform",
       "excerpt": "The task of transporting cars at the end of the assembly line to its final destination is currently a manual and expensive logistics problem. Seoul Robotics has implemented a LIDAR enabled automation platform to address at BMW Munich plant.",
@@ -1306,49 +1358,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report.md",
-      "title": "HAI ROBOTICS Celebrates 5th Anniversary, Gets AI Unicorn Nomination by Hurun Report",
-      "excerpt": "In the past five years, the company secured strong footholds in factories and warehouses with its ACR solution. It was named a global unicorn in the AI sector by Hurun's index of global unicorn this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
-      "originalUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/8115abd3-6755-4174-881a-6e904d3144cf.jpeg?height=635&t=1640621986&width=1200",
-          "width": 600,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

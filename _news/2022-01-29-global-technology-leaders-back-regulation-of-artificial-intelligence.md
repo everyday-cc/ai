@@ -56,6 +56,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Ghana to develop regulation on artificial intelligence"
+    excerpt: "Ghana will soon have its own regulation to guide the use of Artificial Intelligence for stakeholders. The move is to ensure that the country meets the growing needs of technological advancement. After a short address to climax the Data Protection Week celebration in Accra,"
+    publishedDateTime: 2022-02-01T11:54:00Z
+    webUrl: "https://www.myjoyonline.com/ghana-to-develop-regulation-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: MyJoyOnline
+      domain: myjoyonline.com
+    quality: 37
+    images:
+      - url: "https://www.myjoyonline.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-31-at-9.53.17-AM.jpeg"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "6r0goPhuyGfbqb1ysVksz6J36LxdRm7wooRlC/zCM0bQaArALFQfG/D+Aa/M/ZO/i0YsGc56frRiR+GR94WQBlrqUVWgpAR0iG4Np15VEA6SPHhQY+A9PbAU9LZSskYSrkoS5TbDPUlw4vCu5VysCJOMRBCXKtyddoMxu2RZr0Kqy9dLrrJL7TJ9nkx+FbYhwjqh0QoSrhTf6VcstBzycrOqFuGK0Oul6Z40dgd/xd0ZzxPxg4v4WOUzuJbqv3G69NMHjXauGQxICLaihnI+8Ns5jt8wryDAag+9lw2/TMl2AB3NO2gKzFh4aEN140OjC9plmOWbIE2WPjwogVm+dD8BEbC1PJPiGTMvF6dL2HaX4VIhmP+odUQLqzfP6VUr0diAji0DR6FkLM04tvH5D68UII/G7cGWwxhRaKutaeTG7eXNumh8JxkMfSdhSzpOpsTznL8VV17LWpXsar9oDo4OtfOaVTpvIibo3/WwhW5wn+5LeFDPwIpPX+Mky+LK4ISrhhZ2kGPECdAG1lbV8g==;DlzqxavUQhTuRfn8rKyDiA=="
 ---

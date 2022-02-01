@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 related:
   - title: "Autonomous Tractors with Robot Brains Are Coming to Take Over the Farm"

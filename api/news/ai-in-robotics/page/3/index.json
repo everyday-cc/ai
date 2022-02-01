@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-10-autonomous-tractors-with-robot-brains-are-coming-to-take-over-the-farm.md",
+      "title": "Autonomous Tractors with Robot Brains Are Coming to Take Over the Farm",
+      "excerpt": "John Deere revealed a self-driving tractor at CES with traditional diesel power, while Monarch's was autonomous and electric.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoweek.com/news/future-cars/a38705415/autonomous-tractors-robot-brains-for-farming/",
+      "originalUrl": "https://www.autoweek.com/news/future-cars/a38705415/autonomous-tractors-robot-brains-for-farming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/monarch-3-1641775695.png?crop=1.00xw:0.708xh;0,0.132xh&resize=1200:*",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoweek.com/news/future-cars/amp38705415/autonomous-tractors-robot-brains-for-farming/",
+      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/future-cars/amp38705415/autonomous-tractors-robot-brains-for-farming/",
+      "publishedDateTime": "2022-01-10T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoweek",
+        "domain": "autoweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-when-mind-melds-with-machine-whos-in-control.md",
       "title": "When Mind Melds With Machine, Who’s in Control?",
       "excerpt": "Brain-computer interfaces are getting better all the time—and they’re about to land us in a philosophical quagmire.",
@@ -1326,58 +1369,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-seoul-robotics-introduces-v2x-sensor-tower-to-automate-bmw-fleets-at-munich-manufacturing-facility.md",
-      "title": "Seoul Robotics introduces V2X sensor tower to automate BMW fleets at Munich manufacturing facility",
-      "excerpt": "Seoul Robotics, an AI-based perception software company, wants to turn first- and last-mile logistics hubs for automotive and trucking into mind hives, wherein one sensor tower controls the movements of a fleet,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/04/seoul-robotics-introduces-v2x-sensor-tower-to-automate-bmw-fleets-at-munich-manufacturing-facility/",
-      "originalUrl": "https://techcrunch.com/2022/01/04/seoul-robotics-introduces-v2x-sensor-tower-to-automate-bmw-fleets-at-munich-manufacturing-facility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Screen-Shot-2021-12-28-at-2.36.59-PM-1-1-1.png?w=1024",
-          "width": 1024,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/04/seoul-robotics-introduces-v2x-sensor-tower-to-automate-bmw-fleets-at-munich-manufacturing-facility/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/seoul-robotics-introduces-v2x-sensor-tower-to-automate-bmw-fleets-at-munich-manufacturing-facility/amp/",
-      "publishedDateTime": "2022-01-04T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
