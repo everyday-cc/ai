@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-18-computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028.md",
+      "title": "Computer Vision in Healthcare Market Overview by Rising Trends and Demand 2021 to 2028",
+      "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028-2021-12-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028-2021-12-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-samsung-jetbot-ai-review.md",
       "title": "Samsung JetBot AI+ review",
       "excerpt": "This intelligent and gentle cleaner is packed with features like livestream home monitoring, object recognition, multiple cleaning pattern options, and a self-emptying base. On paper, it’s one ...",

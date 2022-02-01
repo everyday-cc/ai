@@ -2,6 +2,271 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-12-29-futurism-launches-zero-trust-managed-security-acceleration-services.md",
+      "title": "Futurism Launches 'Zero Trust Managed Security Acceleration Services'",
+      "excerpt": "all integrated with IBM Watson – the AI for smarter business. Zero Trust is a conceptual and architectural framework for moving security from a network-oriented, perimeter-based security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/futurism-launches-zero-trust-managed-security-acceleration-services",
+      "originalUrl": "https://www.digitaljournal.com/pr/futurism-launches-zero-trust-managed-security-acceleration-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newswire.com/files/x/6c/7d/4d417b9a4c759dabe0d0feb14674.jpg",
+          "width": 512,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-75-of-acquiring-banks-use-artificial-intelligence-to-detect-card-transaction-fraud.md",
+      "title": "75% of Acquiring Banks Use Artificial Intelligence to Detect Card Transaction Fraud",
+      "excerpt": "AI In Focus, a PYMNTS and Brighterion collaboration, found that AI and related tech are needed to manage increases in both payments volume and fraud attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/artificial-intelligence-bank-fraud-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/amp/",
+      "publishedDateTime": "2021-12-28T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-chinese-scientists-created-an-ai-prosecutor-that-can-press-charges.md",
+      "title": "Chinese Scientists Created an AI 'Prosecutor' That Can Press Charges",
+      "excerpt": "Researchers in China have created an AI \"prosecutor\" that can reportedly identify crimes and file charges against criminals.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
+      "originalUrl": "https://interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/9lwjQ1rK6E/sizes/in-a-first-chinese-scientists-create-ai-prosecutor-that-can-press-charges_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
+      "publishedDateTime": "2021-12-28T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-analytics-and-ai-in-2022-innovation-in-the-era-of-covid.md",
+      "title": "Analytics and AI in 2022: Innovation in the era of COVID",
+      "excerpt": "This year's predictions focus less on analytics technology per se and more on its application to address pandemic-driven phenomena.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/",
+      "originalUrl": "https://www.zdnet.com/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/",
+      "publishedDateTime": "2021-12-28T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-ai-may-cure-the-ills-in-healthcare-tech.md",
+      "title": "AI May Cure The Ills In Healthcare Tech",
+      "excerpt": "As our healthcare system struggles toward a model in which consumers are at the center of the equation, technology is playing a rapidly increasing role in smoothing their way through the ecosystem. Consumers are demanding a better healthcare experience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c9c58c405c5f1f7b90a849%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/amp/",
+      "publishedDateTime": "2021-12-28T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
+      "title": "In Africa, rescuing the languages that Western tech ignores",
+      "excerpt": "Computers have become precise at translating spoken words to text messages, as long as you speak English or another dominant language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/ea37890/2147483647/strip/true/crop/5981x4000+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3c%2F45%2F9efb497bfe7a1ac25fe96c5b7ff5%2Faf25f1d9f7e44e5fb01b3552a4577d8c",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores?_amp=true",
+      "publishedDateTime": "2021-12-28T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges.md",
       "title": "Sjain Ventures is set to launch Finleg, a service that will assist businesses with financial and legal challenges",
       "excerpt": "Finleg one of Sjain Ventures wings is set to launch in 2022 with its offices Raipur and Pune to serve as the company first locations Finleg offers income",
@@ -869,298 +1134,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g.md",
-      "title": "Amazon AWS Outages Highlight Promise And Peril Of Public Clouds For 5G",
-      "excerpt": "Users endure frequent and long outages for cloud-based services like ecommerce or gaming but expect greater uptime for mobile connectivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/",
-      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c9bde2e52ca88e8f8fba46%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/amp/",
-      "publishedDateTime": "2021-12-27T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force.md",
-      "title": "BMW, IKEA Using AI-Powered Exoskeleton That Adds 66 Pounds Of Lift Force",
-      "excerpt": "Powered by a hot-swappable 40-volt battery, it consists of carbon-fiber backpack-like unit that connects to your body at the chest, hips, and upper legs. When the AI-enabled unit senses that you are trying to lift,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/12/27/bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/12/27/bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca23fc1d7ac666fbd10953%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/12/27/bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/12/27/bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force/amp/",
-      "publishedDateTime": "2021-12-27T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-the-2021-good-tech-awards.md",
-      "title": "The 2021 Good Tech Awards",
-      "excerpt": "This year, technology companies stepped up on housing and criminal justice — with a dash of whistle-blowers mixed in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/27/business/27roose/27roose-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.amp.html",
-      "publishedDateTime": "2021-12-27T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-our-most-technical-people-are-down-on-ai-and-thats-a-good-thing.md",
-      "title": "Our most technical people are down on AI ... and that's a good thing",
-      "excerpt": "Commentary: The IEEE crowd is skeptical about AI's most bullish claims, which turns out to be exactly what we need to push it forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
-      "originalUrl": "https://www.techrepublic.com/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/27/45351a94-cac1-42d5-8bd6-3df2bf850703/resize/1200x/3aea1d8794e74fd59682cb05feb0db29/shutterstock-1277342386.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
-      "publishedDateTime": "2021-12-27T11:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-google-opened-an-ai-research-center-in-beijing.md",
-      "title": "Google Opened an AI Research Center in Beijing",
-      "excerpt": "Google has officially opened an artificial intelligence (AI ... autonomous vehicles in just two years’ time. Google’s Waymo project is also working on bringing autonomy to vehicles and ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/google-opened-research-center-beijing",
-      "originalUrl": "https://futurism.com/google-opened-research-center-beijing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/google-opened-research-center-beijing/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-opened-research-center-beijing/amp",
-      "publishedDateTime": "2021-12-27T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations.md",
-      "title": "Covid-19 Causes Global Supply Chain Havoc Intensifying Last Mile Logistics AI Innovations",
-      "excerpt": "This blog discusses COVID-19 impacts on the global supply chain and the havoc it has caused intensifying Last Mile Logistics and Real Time Monitoring of AI intelligence software solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca0586b099be41a4554665%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/amp/",
-      "publishedDateTime": "2021-12-27T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

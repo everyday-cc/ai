@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-01T16:24:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-energy-market-report-covers-future-trends-with-research-2022-2029-schneider-electric-general-electric-alphabet"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-energy-market-report-covers-future-trends-with-research-2022-2029-schneider-electric-general-electric-alphabet"
 type: article
-quality: 2
-heat: 2
+quality: 4
+heat: 4
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.market-news.org/wp-content/uploads/2022/02/Artificial-Intelligence-in-Energy.jpg"
@@ -23,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "RruqJ83uePjhD1EjOX/HDdkHNmmrngIybQ5DcMPhKQsAwgylCDEue+k1ZHm6aGmdryvU5AfYgS3T3reV2CY8H3nHlxHTkNL/8cezFi90VfrK6LjKnCwOBpwIDecQudScuMz2d9BmzUCXu/eT3I88FHlyLW3ee2eb977QYGEij/wMGNz37aFER0IWhwWcxdqjmaNMJEp2ZnMLQ5GWAUvKPLEKs02c/kcJ2o3xTnLsl3GHS6qE/bRJbDqrcYQdH5Bf3WoXrisIzXExUMVpzF7NKpgWy8XwCldAytshopEohdfGXWZPKr5zLcInx6z3mLPZB1Z2pTyy3VAvIEg1/SAzkVjErYdvOHJiRKhu8KgjQt8=;O3PVKqhOBtx5ypCw/yH7JA=="
+secured: "TdYUEx4SglJy5B+cyPPkhfN4DlBP0Ln1flDz6RZMtfcd1vRL95VqtAJDeY3LXDOiBzYum0PegJtA/N72BJ4Q1/qc7kzl2xL+7waPs3/Lfjsf5Q9NcH9AM6rGhVbckRpRoE1+6AZmUvbu5fH5AqFB1Br+EIomAUME1RBpY+Wn8iP1vWLfFvgCb0mtkti8h7g5i9UV1bEwGdE53lrf4jT2SBMtpUmcBrvHsoIdqe7AweQ9TelONDKFXElfivd2uueLv3XbrVoYXEcYJSZVpgnWiQagE4ZLbPiYCKCGLk5G/wtuduUXfk34pfD0VAZeT5AYQvOSZp+lGwEDCl4BYnhrU2nDGjwbk/LWUNKzkqM0yfDO08ZSublFs1OQz7QK4S6x/tq9cmSF9aPOMMUda/xYvinwSogkuNfquc9rZtPNKVK40aw1pE+31SA6lsymJzkuyBlRqPUUtZrUWVE+2Nav5Dq8U8aLsN/b5ZLhMCT0qahtJbZcq6fYt9fttyc3MRJg2GYuMgDYOI/vQHyE7VoR9A==;fdGfBppi7W3wL9uQhVBd2Q=="
 ---
 

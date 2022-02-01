@@ -34,7 +34,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 27
+    quality: 29
     images:
       - url: "https://www.market-news.org/wp-content/uploads/2022/02/Bot-Services.png"
         width: 560

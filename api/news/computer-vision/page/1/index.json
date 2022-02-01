@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-02-civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-idme-facial-recognition.md",
+      "title": "Civil rights groups launch effort to stop IRS use of 'flawed' ID.me facial recognition",
+      "excerpt": "Multiple groups have come together to urge the IRS to stop its use of facial recognition software. Outrage continues to swirl around a proposed plan from the Treasury Department to require some taxpayers to submit to facial recognition and biometric surveillance in order to access their accounts online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
+      "originalUrl": "https://www.zdnet.com/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
+      "publishedDateTime": "2022-02-01T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal.md",
       "title": "No more facial recognition? Apple AirPods might be able to recognise the user by checking ear canal",
       "excerpt": "In the latest development, Apple's AirPods will soon be able to verify a user's identity using the inside of the ear. This will be done using an in-ear biometric device that uses ultrasonic signals. These are then reflected against the walls of a user’s ear canal.",
@@ -248,33 +291,24 @@
     {
       "path": "_news/2022-01-28-gsi-technology-inc-reports-third-quarter-fiscal-2022-results.md",
       "title": "GSI Technology, Inc. Reports Third Quarter Fiscal 2022 Results",
-      "excerpt": "GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its third fiscal quarter ended December 31, 2021. Summary Financial Results Table (in thousands, except per share amounts) Lee-Lean Shu,",
+      "excerpt": "GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its third fiscal quarter ended December 31, 2021. Lee-Lean Shu, Chairman and Chief Executive Officer, commented, “Our third quarter revenue grew 19% year-over-year due to increased orders from our SRAM customer base,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-business-health-4a24f7033f4335149fe9841c942f5022",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-business-health-4a24f7033f4335149fe9841c942f5022",
+      "webUrl": "https://www.tmcnet.com/usubmit/-gsi-technology-inc-reports-third-quarter-fiscal-2022-/2022/01/27/9534856.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-gsi-technology-inc-reports-third-quarter-fiscal-2022-/2022/01/27/9534856.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T13:07:00-08:00",
+      "publishedDateTime": "2022-01-27T13:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1310,41 +1344,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-amazon-suspends-police-use-of-its-facial-recognition.md",
-      "title": "Amazon Suspends Police Use of Its Facial Recognition",
-      "excerpt": "Demonstrators hold images of Amazon CEO Jeff Bezos during a protest of the company's facial recognition system, Rekognition, at Amazon headquarters in Seattle, last Halloween. (AP file photo/Elaine Thompson) NEW YORK (AP) — Amazon banned police use of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/",
-      "originalUrl": "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Computer Vision"
       ]

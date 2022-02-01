@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-26-learn-what-makes-a-self-driving-car-autonomous.md",
+      "title": "Learn what makes a self-driving car autonomous",
+      "excerpt": "Tesla does not build self-driving cars. Neither does General Motors, nor Ford. In fact, there isn't a single self-driving car on sale today. That's because no system packed into a new vehicle meets the SAE Scale of Autonomy's standard to be considered a real autonomous car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/9YiprbK9xrRd1tBOewVjQZT-Pxs=/2021/07/19/f4906df1-4775-4c58-af91-e54e373ad686/tesla-fsd.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/",
+      "publishedDateTime": "2021-12-26T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-25-automation-is-driving-us-toward-self-employment.md",
+      "title": "Automation Is Driving Us Toward Self-Employment",
+      "excerpt": "Self-employment often seems like a dream for most, but with the onset of automation in traditional jobs and the evolving gig economy, we may be moving toward a new normal where self-employment is a traditional route.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stamfordadvocate.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php",
+      "originalUrl": "https://www.stamfordadvocate.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/23/30/65/21859668/3/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T16:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-tesla-agrees-to-stop-letting-drivers-play-video-games-while-driving.md",
+      "title": "Tesla agrees to stop letting drivers play video games while driving",
+      "excerpt": "Tesla, after being under pressure from the US auto safety regulations, has agreed to stop allowing drivers to play video games on the center touch screen in its vehicles while the car is on the move.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/",
+      "originalUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/07/Tesla-Model-S.jpeg",
+          "width": 2880,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1",
+      "publishedDateTime": "2021-12-24T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-baidu-gears-up-for-imminent-metaverse-app-launch.md",
       "title": "Baidu gears up for imminent metaverse app launch",
       "excerpt": "Baidu aims to unveil its technological advances and applications in areas like artificial intelligence, intelligent transportation, biocomputing, quantum computing, and autonomous driving.",

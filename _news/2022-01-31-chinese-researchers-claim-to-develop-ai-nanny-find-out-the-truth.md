@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Robot nanny: Chinese scientists build artificial womb"
+    excerpt: "The 'robot nanny' can monitor embryos 'to an unprecedented ... Engineering and Technology in China’s eastern Jiangsu province developed the artificial intelligence (AI) technology to take on the responsibility of bearing children. Minsberg explained ..."
+    publishedDateTime: 2022-02-01T16:28:00Z
+    webUrl: "https://www.i24news.tv/en/news/international/technology-science/1643731954-robot-nanny-chinese-scientists-build-artificial-womb"
+    type: article
+    provider:
+      name: i24NEWS
+      domain: i24news.tv
+    quality: 39
+    images:
+      - url: "https://cdn.i24news.tv/uploads/67/a9/b2/b2/f2/82/ca/46/4f/4e/c7/e6/77/70/6f/99/67a9b2b2f282ca464f4ec7e677706f99.jpg"
+        width: 512
+        height: 341
+        isCached: true
 
 secured: "FHdKyz5tu1Cgwq+13s6R4sLzfoZPXewI5Sf0YfYfA6ENRvZBHOlpRbJeulJztt88/xjFKukFA7KvNCQ67w5CQQ3kbsmHj22ILiLBVasKr/KNhJ3e4YLBI5IKaKlcG0pKp+DtfixxXDrqChgAJONdoevW10OwSE1GKpsTkTD6MLL+5liM9mJusW/j3KXPPpf0G/cZNqR9fI5PX4Te8Z5h1IsUZFMgWHh3xZWXM9zdxNgAQ3M6AGGod0b0unkIWHS1pC5FgbJI1gRns/JIlg6njN7iKXjd4xsMu35XmoDyfdLJvr3nDavXIXtNoUMnRhikPkOBX2xCTdMxbMVtGrGQmyYiVsGgQZTWJakHOMzW8FU=;RBH0TeGe30bqP0qXB4mgXQ=="
 ---

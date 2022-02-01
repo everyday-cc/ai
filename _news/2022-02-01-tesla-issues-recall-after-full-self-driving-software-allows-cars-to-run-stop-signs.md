@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla Recalls Cars With Full Self-Driving to Prevent Rolling Stops"
+    excerpt: "Tesla told the a federal regulator that rolling stops were allowed only at intersections when no cars, pedestrians or bicyclists were detected but agreed to disable the feature."
+    publishedDateTime: 2022-02-01T17:04:00Z
+    webUrl: "https://www.nytimes.com/2022/02/01/business/tesla-recall.html"
+    ampWebUrl: "https://www.nytimes.com/2022/02/01/business/tesla-recall.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/01/business/tesla-recall.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: "https://static01.nyt.com/images/2022/02/01/multimedia/01tesla-recall/01tesla-recall-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Tesla recalls Full Self Driving feature that lets cars roll through stop signs"
     excerpt: "Tesla is issuing an over-the-air update to recall a \"Full Self-Driving\" (FSD) beta feature that allowed cars to roll through stop signs.."
     publishedDateTime: 2022-02-01T13:21:00Z
@@ -171,17 +187,17 @@ related:
         isCached: true
   - title: "Recall alert: Tesla to recall 53K vehicles with full self-driving software"
     excerpt: "Tesla will be recalling 53,822 vehicles that have its Full Self-Driving (Beta) software because the programming allows the cars to do a rolling stop, and not come to a complete stop when required to do so."
-    publishedDateTime: 2022-02-01T16:47:00Z
-    webUrl: "https://www.wftv.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/"
-    ampWebUrl: "https://www.wftv.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/?outputType=amp"
+    publishedDateTime: 2022-02-01T17:47:00Z
+    webUrl: "https://www.wpxi.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/"
+    ampWebUrl: "https://www.wpxi.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/?outputType=amp"
     type: article
     provider:
-      name: WFTV
-      domain: wftv.com
+      name: WPXI
+      domain: wpxi.com
     quality: 57
     images:
-      - url: "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/-Tb4kf4tWvVfskT-YHXnUQrwPKE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/M7JWOZ5FHJFABL4XTQQ6G3CT3I.jpg"
+      - url: "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/-Tb4kf4tWvVfskT-YHXnUQrwPKE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/M7JWOZ5FHJFABL4XTQQ6G3CT3I.jpg"
         width: 1440
         height: 810
         isCached: true
@@ -198,6 +214,20 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/138d648f5d18489f8cd4c402f68346fa/3000.jpeg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Tesla recalls all 53,822 vehicles with its ‘full self-driving’ feature"
+    excerpt: "By Matt McFarland, CNN Business Tesla will recall all 53,822 vehicles with its “full self-driving” driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
+    publishedDateTime: 2022-02-01T18:26:00Z
+    webUrl: "https://kesq.com/news/2022/02/01/tesla-recalls-all-53822-vehicles-with-its-full-self-driving-feature/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 39
+    images:
+      - url: "https://kesq.b-cdn.net/2022/02/hypatia-h_3e8d558985e236ebf22b7908109dcf20-h_09caa584942c5657bec4a4a9e7225e45-300.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Tesla issues a Full Self-Driving recall because vehicles weren’t stopping at stop signs"
     excerpt: "Tesla’s Full Self-Driving feature has been on regulators’ radar since its inception. Now, the company is facing a Full Self-Driving recall for nearly 54,000 vehicles due to an issue with stop signs. Essentially,"

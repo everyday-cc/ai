@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-31T05:41:00Z
 originalUrl: "https://menafn.com/1103615862/Automotive-Artificial-Intelligence-Market-Expansion-Projected-To-Gain-An-Uptick-During-2021-2030"
 webUrl: "https://menafn.com/1103615862/Automotive-Artificial-Intelligence-Market-Expansion-Projected-To-Gain-An-Uptick-During-2021-2030"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?458613"

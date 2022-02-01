@@ -1,30 +1,46 @@
 ---
 category: news
 title: "Artificial intelligence system rapidly predicts how two proteins will attach"
-excerpt: "This deep-learning model can learn these types of interactions from data,\" says Octavian-Eugen Ganea, a postdoc in the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL ..."
-publishedDateTime: 2022-02-01T16:30:00Z
-originalUrl: "https://phys.org/news/2022-02-artificial-intelligence-rapidly-proteins.html"
-webUrl: "https://phys.org/news/2022-02-artificial-intelligence-rapidly-proteins.html"
-ampWebUrl: "https://phys.org/news/2022-02-artificial-intelligence-rapidly-proteins.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-artificial-intelligence-rapidly-proteins.amp"
+excerpt: "A new machine learning system can predict the structure formed when two proteins dock, in a process that’s between 50 to 800 times faster than some software-based methods. This could help scientists better understand biological processes or speed the development of new therapies."
+publishedDateTime: 2022-02-01T17:48:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/942017"
+webUrl: "https://www.eurekalert.org/news-releases/942017"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-9.jpg"
-    width: 900
-    height: 599
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/6c6b24d6-43e5-4260-a03e-2c0e1b2af0be/Rendition/low-res/Content/Public"
+    width: 700
+    height: 466
     isCached: true
 
-secured: "+DG/cTb34HhH1mJvb6CXToBzyr5S8KIWZDR/lo/ih5eiy+aVHI2o40rtiOgKNyGQaS2I9lXWlZZkySSoi6dUkrnDQ2w7nD6yQHPVQlC1+lagJq1L6TRj+L68noyMiPwaRzQlaemwvm5mFkhclijflagQXW3d9Ih1KuqBzYlzxjhIRuVYjbsde2EBxZKrdxe7nWcTyM4MkFWLRtuEdF7f714KSyWtRRQIexXLgHRpmL1g82kuuvgZab5s+Ul3hEqXO5n3KJC5rtXWGMyixS3ATfF8Y4WLJr3mZdk8IP/mMDgYghOe9hP2syfWXwCZSGK6nrAJUC7ThEbrxUSz/qFmWN/DEP5cFPN+FDcvtPCXfGA=;qOK4E9iioULdCLCdsTqkEw=="
+related:
+  - title: "AI service predicts customer numbers"
+    excerpt: "Cellphone operator SoftBank and the Japan Weather Association have launched a service that can predict customer numbers using AI. The system uses cellphone and weather data in its forecasts to help optimize business."
+    publishedDateTime: 2022-01-31T08:43:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220131_25/"
+    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220131_25/amp.html"
+    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220131_25/amp.html"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 57
+    images:
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220131_25_1074368_L.jpg"
+        width: 640
+        height: 360
+        isCached: true
+
+secured: "rVQdkENjie+NL17rJF72EalzayueI20g2UTYeIffz+xr6o2xzgJYIOKhFx/r49YWiR1UFVFnkdxtmfhQVW3GHm0PtDT7Im4yJMn/KQSpIhjlpdFtI0PxPpJvFHD+ZxXv41XF28PmVk22pUQ4yD6ivOjLavRAImGIpq33C+v/2OsGr07wps9KNI2cCKGTSIaFemcz+Jfg+UC3T+Bs4Kq5ADtovfQGgao0knVd9vRruix/MbyNzZ2tuvwOCvH2qvu9n4rdzd06zgTAfqN0pmgTdBBnMFx/WSHnXwsQ+ftnVtgmhji7U18Ajo8+Q9EyCn72dOsCJPnrshJSZARe7DMVkosZfQ0gmp5W+HVgyC5P4Ds=;DHmhnF/S6tuLYu6YjL7fkQ=="
 ---
 

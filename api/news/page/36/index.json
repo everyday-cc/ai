@@ -2,6 +2,280 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-12-30-the-next-generation-of-robots-the-inside-skinny.md",
+      "title": "The Next Generation Of Robots: The Inside Skinny",
+      "excerpt": "By making robots increasingly autonomous, versatile and tactile, we can envision a future in which humanity can truly excel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-next-generation-of-robots-the-inside-skinny/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-next-generation-of-robots-the-inside-skinny/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc6b5c97be3da24190a841%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-next-generation-of-robots-the-inside-skinny/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-next-generation-of-robots-the-inside-skinny/amp/",
+      "publishedDateTime": "2021-12-30T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-alphabets-waymo-to-expand-ev-fleet-with-geely-partnership.md",
+      "title": "Alphabet’s Waymo to Expand EV Fleet with Geely Partnership",
+      "excerpt": "Waymo has also made clear its intentions ... According to the analyst, Google’s increased focus on artificial intelligence continues to drive greater product functionality and significant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/alphabets-waymo-to-expand-ev-fleet-with-geely-partnership",
+      "originalUrl": "https://www.nasdaq.com/articles/alphabets-waymo-to-expand-ev-fleet-with-geely-partnership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-waymo-to-expand-ev-fleet-with-geely-partnership?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-waymo-to-expand-ev-fleet-with-geely-partnership?amp",
+      "publishedDateTime": "2021-12-30T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-why-now-is-the-time-for-an-ai-bill-of-rights.md",
+      "title": "Why Now Is The Time For An AI Bill Of Rights",
+      "excerpt": "AI-based systems are going to change everything about how we live and work. And, currently, there are no rules of the road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc6a0501f1d4f18790a855%2F0x0.jpg",
+          "width": 1200,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/amp/",
+      "publishedDateTime": "2021-12-30T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-is-your-companys-network-a-black-hole.md",
+      "title": "Is Your Company’s Network A Black Hole?",
+      "excerpt": "Having visibility into the vast volume of data traveling across company networks is a complex problem, but one worth solving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc642d30b627464217943c%2F0x0.jpg",
+          "width": 909,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/amp/",
+      "publishedDateTime": "2021-12-30T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-optical-chip-that-can-efficiently-solve-complex-ai-problems.md",
+      "title": "Optical Chip That Can Efficiently Solve Complex AI Problems",
+      "excerpt": "They combine photonics and electronics to process information at ultra-high speeds, low latency and low power consumption",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems",
+      "originalUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/12/Lightelligence-PACE.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp",
+      "publishedDateTime": "2021-12-30T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-us-blacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut.md",
+      "title": "US-blacklisted AI firm SenseTime shares jump 23% in Hong Kong debut",
+      "excerpt": "Chinese artificial intelligence startup SenseTime jumped as much as 23% from their IPO price as they debuted on the Hong Kong Stock Exchange. The startup had raised $740 million in its IPO and priced its shares at $0.",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640",
+      "originalUrl": "https://inshorts.com/en/news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/30_thu/img_1640841454164_313.jpg?",
+          "width": 1006,
+          "height": 1629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640",
+      "publishedDateTime": "2021-12-29T22:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-30-looking-back-on-2021.md",
       "title": "Looking Back on 2021",
       "excerpt": "It's that time of year again. You know, the time where you start to question everything you are doing with your life, wonder if you have achieved anything at all - and desperately try to fill in your quarterly review forms with the words \"What was my impact?",
@@ -871,290 +1145,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-learn-artificial-intelligence-machine-learning-python-and-more-for-under-30.md",
-      "title": "Learn artificial intelligence, machine learning, Python and more for under $30",
-      "excerpt": "Even with no tech experience, you can learn highly marketable skills to start and advance in a lucrative tech career without taking any time off from your full-time job.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/education/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
-      "originalUrl": "https://www.zdnet.com/education/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9492c3bd3b0d8d9e63d5201ac4b7deb90c2dded3/2021/12/23/864cc429-4142-4d13-9ec2-b68c0800219a/zdnet-premium-machine-learning.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
-      "publishedDateTime": "2021-12-29T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market.md",
-      "title": "Geely’s Zeekr partners with Waymo to build its self-driving taxi fleet for the US market",
-      "excerpt": "On Tuesday, the Chinese multinational automotive company Geely announced that their premium electric brand, Zeekr, will partner up with Waymo. This partnership is to build an all-electric, self-driving vehicle for the Waymo One ride-hailing autonomous fleet in the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/",
-      "originalUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/12/Geely-van.jpg",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1",
-      "publishedDateTime": "2021-12-29T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-big-techs-employees-are-one-of-the-biggest-checks-on-its-power.md",
-      "title": "Big Tech’s employees are one of the biggest checks on its power",
-      "excerpt": "Facebook whistleblower Frances Haugen created ... unexpected and meaningful balance to Big Tech’s power. Then-Google AI research scientist Timnit Gebru speaks at TechCrunch Disrupt SF 2018 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/recode/22848750/whistleblower-facebook-google-apple-employees",
-      "originalUrl": "https://www.vox.com/recode/22848750/whistleblower-facebook-google-apple-employees",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/u9nsQYlXwoTNnDE1PFGtcLtdSIs=/0x0:4800x3200/1400x1050/filters:focal(2408x989:3176x1757):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70326258/GettyImages_1181042575.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/recode/22848750/whistleblower-facebook-google-apple-employees",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/22848750/whistleblower-facebook-google-apple-employees",
-      "publishedDateTime": "2021-12-29T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-opportunities.md",
-      "title": "Worldwide Military Robots Industry to 2026 - Integration With Artificial Intelligence Presents Opportunities",
-      "excerpt": "The \"Military Robots Market Research Report by Type, Operation, and Region - Global Forecast to 2026 - Cumulative Impact of",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24811209/worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-oppor",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24811209/worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-oppor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24811209",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24811209",
-      "publishedDateTime": "2021-12-29T04:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-artificial-intelligence-its-a-fine-balancing-act-between-opportunities-and-pitfalls.md",
-      "title": "Artificial intelligence: It's a fine balancing act between opportunities and pitfalls",
-      "excerpt": "Artificial intelligence is also hailed as ... to create a strong data and AI ecosystem in the country,” says Rohini Srivathsa, National Technology Officer, Microsoft India.",
-      "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/blog/techtank/2022/01/12/how-countries-are-leveraging-computing-power-to-achieve-their-national-artificial-intelligence-strategies/",
-      "originalUrl": "https://www.moneycontrol.com/news/business/artificial-intelligence-its-a-fine-balancing-act-between-opportunities-and-pitfalls-7877851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.brookings.edu/wp-content/uploads/2022/01/taylor-vick-M5tzZtFCOfs-unsplash.jpg?w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/blog/techtank/2022/01/12/how-countries-are-leveraging-computing-power-to-achieve-their-national-artificial-intelligence-strategies/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/techtank/2022/01/12/how-countries-are-leveraging-computing-power-to-achieve-their-national-artificial-intelligence-strategies/amp/",
-      "publishedDateTime": "2021-12-29T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-what-happens-when-an-ai-knows-how-you-feel.md",
-      "title": "What Happens When an AI Knows How You Feel?",
-      "excerpt": "The following month, Facebook announced AI “conflict alerts” for groups ... or detect them remotely.” Timmons’ research, which involves building computational models of human behavior ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-emotional-intelligence/",
-      "originalUrl": "https://www.wired.com/story/artificial-emotional-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61bc7f6c70540627801a5b48/master/pass/Business-AI-Emotions-1290287917-648538841-2.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-emotional-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-emotional-intelligence/amp",
-      "publishedDateTime": "2021-12-29T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

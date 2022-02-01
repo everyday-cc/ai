@@ -75,6 +75,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tesla recalls ‘full self-driving’ feature that was designed to roll through some stop signs"
+    excerpt: "(CNN) — Tesla will recall all 53,822 vehicles with its “full self-driving” driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
+    publishedDateTime: 2022-02-01T17:37:00Z
+    webUrl: "https://wsvn.com/news/us-world/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/"
+    ampWebUrl: "https://wsvn.com/news/us-world/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 49
+    images:
+      - url: "https://wsvn.com/wp-content/uploads/sites/2/2022/01/tesla-1-e1643736861550.png?w=1024"
+        width: 1024
+        height: 519
+        isCached: true
   - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
     excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
     publishedDateTime: 2022-01-31T02:29:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.thecitizen.co.tz/tanzania/news/artificial-intelligence-how-
 ampWebUrl: "https://www.thecitizen.co.tz/tanzania/news/artificial-intelligence-how-tanzania-is-embracing-technology-3699320?view=htmlamp"
 cdnAmpWebUrl: "https://www-thecitizen-co-tz.cdn.ampproject.org/c/s/www.thecitizen.co.tz/tanzania/news/artificial-intelligence-how-tanzania-is-embracing-technology-3699320?view=htmlamp"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.thecitizen.co.tz/resource/blob/3699336/334cdfbcbd2ef40e434eed5a755ea241/robbot-data.jpg"

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "GSI Technology, Inc. Reports Third Quarter Fiscal 2022 Results"
-excerpt: "GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its third fiscal quarter ended December 31, 2021. Summary Financial Results Table (in thousands, except per share amounts) Lee-Lean Shu,"
-publishedDateTime: 2022-01-27T21:07:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-business-health-4a24f7033f4335149fe9841c942f5022"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-business-health-4a24f7033f4335149fe9841c942f5022"
+excerpt: "GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its third fiscal quarter ended December 31, 2021. Lee-Lean Shu, Chairman and Chief Executive Officer, commented, “Our third quarter revenue grew 19% year-over-year due to increased orders from our SRAM customer base,"
+publishedDateTime: 2022-01-27T21:10:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-gsi-technology-inc-reports-third-quarter-fiscal-2022-/2022/01/27/9534856.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-gsi-technology-inc-reports-third-quarter-fiscal-2022-/2022/01/27/9534856.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "iA146mp4VP58zLpAmrZdBNtdIdZLgx2BMVJjUo5NStXolFNPMwY9mW7Wxbw+PTvu6bYNAc9pF3hLTzXQwXRcogqNV1gNc95O0Yeo5kUeWFG19gUI8saxyT/S3HCeTGpVKTpbEeGnQo1UphzJNBSFMbQ6O5a864isNOS+vdJNPFHW1kz2YpnrUe25LTe2wXrnp1W3j2BP3qDik/JFTw7HGybSH1bzrtDsEjc3zEddqzaJjfmdOLJmAz4CK6PK9yRa2lRzrgiV92F73wkzjGAWxMKDUAP/X/oqaNvagMxLSSqSu7Wmg4oJOaQz7OI1njd6BRETjExG1m//NOfPyTnFlnGFeuzy1PAbHwdKD71051c=;Zk9v9tQS6/uVRPkcSj2XLA=="
+secured: "8bb6ZJAQTjfikPMGBwE3+xmuYoWsIuMeVmhkaL+DQhNga/P4BJT5JExD7zOdl8N1BL4df0dqcj3UzgZUYmXGoChtjViQNQzduGUj+EzpMG4JEpcFsailcRDouSzbgORPi2bpl5irdjSKv73M7iz5mN9/5IqfvN5XWI2kK7vyCpmRbtjRYucqrWmDSOE4NA0tDtAIUd9WWdgveaH/f6JT9/y3SLrnEf/l7O39XUc4iD/OduMvDoWr4wrf5Qeuniv5MWvQpJib5SJZTKvHTlHRGgqce+YKHK8JbowFMhXdRaNThzCQ+1y6vFmatWhMCFCRchDrNhf8vGSIGpNSUcMMjS85+i+qmFUgCVU8XjLE4Ak=;vq50UEimWzJdGobJKZNFuw=="
 ---
 

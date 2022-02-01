@@ -46,6 +46,15 @@ related:
         width: 1400
         height: 935
         isCached: true
+  - title: "Retina AI Brings Customer Lifetime Value Analytics To Google Ads"
+    excerpt: "Retina AI Brings Customer Lifetime Value Analytics To Google Ads Retina AI announces integration with Google Ads,"
+    publishedDateTime: 2022-02-01T11:30:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220201ny47235/retina-ai-brings-customer-lifetime-value-analytics-to-google-ads"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
   - title: "Kellton Tech to modernize digital citizen experiences for HMWSSB through Artificial Intelligence and IoT-based Data Analytics"
     excerpt: "Kellton Tech (BSE: KELLTONTEC) (NSE: KELLTONTEC), a global leader in next-generation digital transformation and enterprise intelligence solutions, announced that it has been selected as a technology partner by Hyderabad Metropolitan Water Supply and Sewerage Board (HMWSSB) to revolutionize its citizen service delivery and create world-class experiences."
     publishedDateTime: 2022-01-31T20:51:00Z

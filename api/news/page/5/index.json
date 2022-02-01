@@ -2,6 +2,220 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-26-is-palantir-the-aws-of-data-analytics.md",
+      "title": "Is Palantir the AWS of Data Analytics?",
+      "excerpt": "Fortunately, Palantir Technologies (NYSE: PLTR) develops a software-as-a-service (SaaS) platform called Foundry. Unlike much its competition, Foundry provides multiple capabilities as part of a unified platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/is-palantir-the-aws-of-data-analytics",
+      "originalUrl": "https://www.nasdaq.com/articles/is-palantir-the-aws-of-data-analytics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/is-palantir-the-aws-of-data-analytics?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-palantir-the-aws-of-data-analytics?amp",
+      "publishedDateTime": "2022-01-26T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-the-strategy-and-synergy-of-ai-and-agile-methodologies.md",
+      "title": "The Strategy And Synergy Of AI And Agile Methodologies",
+      "excerpt": "What follows is a brief overview of how agile methodologies emerged and why AI delivers such valuable synergies with agile business. Agile methodology was popularized and refined by software developers in the early 2000s,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/the-strategy-and-synergy-of-ai-and-agile-methodologies/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/the-strategy-and-synergy-of-ai-and-agile-methodologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ef1f526830d08a3a3daadf/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/26/the-strategy-and-synergy-of-ai-and-agile-methodologies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/26/the-strategy-and-synergy-of-ai-and-agile-methodologies/amp/",
+      "publishedDateTime": "2022-01-26T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-baidus-car-making-jv-raises-400-million.md",
+      "title": "Baidu's car-making JV raises $400 million",
+      "excerpt": "Jidu, a joint venture between Chinese technology giant Baidu and Chinese carmaker Geely, said Wednesday that it has raised nearly $400 million from its two parents. The joint venture, established in January 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202201/26/WS61f0ae6ea310cdd39bc83565.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202201/26/WS61f0ae6ea310cdd39bc83565.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202201/26/61f0ae6ea310cdd3d8292ce3.jpeg",
+          "width": 711,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-26T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-iot-under-fire-defining-ai-metas-new-ai-supercomputer.md",
+      "title": "IoT under fire — Defining AI? — Meta’s new AI supercomputer",
+      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/",
+      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/10/15/AI-DECODED-animated-Social-media-–-Logo-only-High-Quality.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/iot-under-fire-defining-ai-metas-new-ai-supercomputer-2/amp/",
+      "publishedDateTime": "2022-01-26T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-baidus-ev-project-jidu-secures-400-million-in-series-a.md",
+      "title": "Baidu’s EV project Jidu secures $400 million in Series A",
+      "excerpt": "Baidu’s electric vehicle (EV) project Jidu Auto announced on Wednesday that it has raised nearly $400 million in Series A as the Chinese search engine giant accelerates the development of EVs with self-driving capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "originalUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2019/10/BAIDU1.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/26/baidus-ev-project-jidu-secures-400-million-in-series-a/",
+      "publishedDateTime": "2022-01-25T23:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-machine-learning-ml-market-is-expected-to-reach-usd-18389-billion-in-2030.md",
       "title": "Machine Learning (ML) Market is Expected to Reach USD 183.89 Billion in 2030",
       "excerpt": "NEW YORK, NY, UNITED STATES, January 26, 2022 /EINPresswire.com / -- Extensive adoption of smartphones, e-commerce, and social media due to rising penetration of the Internet is driving machine learning market revenue growth The global Machine Learning (ML) market size is expected to reach USD 183.",
@@ -917,240 +1131,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-meta-builds-ai-supercomputer-with-access-to-user-data-of-millions-should-we-worry.md",
-      "title": "Meta Builds AI Supercomputer With Access To User Data Of Millions; Should We Worry?",
-      "excerpt": "and translate between languages. On the other hand, the Meta AI Research SuperCluster is different as it aims to build new AI models. \"RSC will help Meta's AI researchers build new and better AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizbot.com/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
-      "originalUrl": "https://www.gizbot.com/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizbot.com/amphtml/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
-      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
-      "publishedDateTime": "2022-01-25T04:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GIZBOT",
-        "domain": "gizbot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-machine-learning-and-artificial-intelligence-implementation-in-practice.md",
-      "title": "Machine Learning And Artificial Intelligence: Implementation In Practice",
-      "excerpt": "When it comes to AI, more and more companies are facing a choice: whether to develop a project using a traditional approach (predefined rules) or with the implementation of ML (teaching machines to do something not by instruction or logic but by examples or some kind of feedback).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61eebc8aace40667193daae5/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/amp/",
-      "publishedDateTime": "2022-01-25T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google.md",
-      "title": "Tunisian enterprise AI startup InstaDeep raises $100M from Alpha, BioNTech, Google",
-      "excerpt": "A recent survey carried out by CNBC reported that 81% of executives worldwide say AI will play a prominent and critical role in how their businesses operate this year. Companies are phasing from the first generation of AI,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/",
-      "originalUrl": "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/762AEA63-1005-49DE-8AAD-2DF6AB8A18BA.jpeg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/amp/",
-      "publishedDateTime": "2022-01-25T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-robotics-startups-seek-to-build-a-better-self-driving-lawn-mower.md",
-      "title": "Robotics Startups Seek to Build a Better Self-Driving Lawn Mower",
-      "excerpt": "Tiger Global led an investment in Electric Sheep Robotics, which makes a device for large-scale, autonomous commercial mowers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-01-25/autonomous-lawn-mowers-are-a-new-fixation-for-robotics-startups",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-01-25/autonomous-lawn-mowers-are-a-new-fixation-for-robotics-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBKA7J7cqqvo/v1/1200x676.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-sparkcognition-announces-123-million-series-d-funding-and-a-unicorn-valuation-to-accelerate-ai-adoption-across-industries.md",
-      "title": "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries",
-      "excerpt": "SparkCognition, a global leader in artificial intelligence (AI) software solutions for business, today announced the close of its $123 million Series D funding",
-      "sourceUrl": null,
-      "webUrl": "https://aithority.com/saas/sparkcognition-announces-123-million-series-d-funding-and-a-unicorn-valuation-to-accelerate-ai-adoption-across-industries/",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sparkcognition-announces-123-million-series-d-funding-and-a-unicorn-valuation-to-accelerate-ai-adoption/article_e8414bf0-5fc1-5936-ba5b-ae0604c9735a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aithority.com/wp-content/uploads/2022/01/SparkCognition-Announces-123-Million-Series-D-Funding-and-a-Unicorn-Valuation-to-Accelerate-AI-Adoption-Across-Industries.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

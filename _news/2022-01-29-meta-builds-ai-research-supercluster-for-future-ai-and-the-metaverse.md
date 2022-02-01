@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/meta-builds-ai-research-superc
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
         width: 5408
         height: 3605
-        isCached: true
-  - title: "Meta Is Building The World’s Fastest AI Supercomputer"
-    excerpt: "There is a strong belief that moderating posts from billions of users can somewhat be a difficult task but Facebook"
-    publishedDateTime: 2022-01-28T18:37:00Z
-    webUrl: "https://techbooky.com/meta-is-building-a-sophisticated-ai-supercomputer/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/6000.jpg?fit=930%2C558&ssl=1"
-        width: 930
-        height: 558
         isCached: true
 
 secured: "i/f9bJs5HmamdsQLB7/h80bxPMJ8Y3IxyzKcO2FrNzg4zt2/3tK34sY8wXd5A5wOfA64imEzloehaCFd/uEWmSOp5Ma5CVCp9DLGl/6IL0UBa4oelXJed+lL/E9KLa2vTqarWZtL9aArT5YIDqSGyeWJlLyBnMmbLJptVnQUT73QQsE2yZE1yNMdDCtOKMeiskvbJ3XVuZT3nRfuRYaub6AOFSUL6xgjGFtsPV0uK4OIZaUoSLm1QaiDC+9toBcX15Vq8PmJOs5z6caw8ZOIBMxtMILkjW/EkcaYh2t22JGo4Vsn9SM0wbl35M+N9U9U4Z4vV0cxtt1WJn1pouSoI3MeF5NjouTPzNT0ntXb5aLCdxP+PbA/uhVxZhztLU9Ss5wreBWaUqriCviTj17mAZKTrqqhun7AK1vc3qSx58Y72qmQI5BEX+aiXRUcala80BGrtcz0H8J4z0VPWfqCc3ramMsz5P1kzwFM4mgQeC6AMlXNF8bOuaieJwhpjwShiUMMzSof5c+aCBVmc+LS+w==;Jm69tgQ2xc6drD8RZEwelg=="

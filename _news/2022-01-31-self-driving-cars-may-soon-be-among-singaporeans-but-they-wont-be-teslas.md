@@ -89,6 +89,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Tesla recalls ‘full self-driving’ feature that was designed to roll through some stop signs"
+    excerpt: "(CNN) — Tesla will recall all 53,822 vehicles with its “full self-driving” driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
+    publishedDateTime: 2022-02-01T17:37:00Z
+    webUrl: "https://wsvn.com/news/us-world/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/"
+    ampWebUrl: "https://wsvn.com/news/us-world/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 49
+    images:
+      - url: "https://wsvn.com/wp-content/uploads/sites/2/2022/01/tesla-1-e1643736861550.png?w=1024"
+        width: 1024
+        height: 519
+        isCached: true
 
 secured: "yVbh4feT04fxsC9IOmOzQ6IBcwYz+/LdqdyRvdu34/nw3O8+Izfr5MrIpcRunrzSp9pvFkDWTEJt5uHjxO4h4qJonqs2ckNC404d2tVqcTb78af6E6dl2/Zn/qmJW6gKW9vRfbnBVXiYiJCSGsYZIsrnSelt+WO6jrmeiec6CqvHrfDUupmKG9vTx4t5aLM4n+QIkKamBpL58GEF726TVA1RmIfzOTy3/ymkcDe+2l8M0bQsUpYaF7Sz9vtAIxLQmc+SOpMUYBiztSJV1IqCPK0tz5htVFway0AE1ubMVH8CzZDt/sKBeq8OLxAFa9bpUjF0CX0XvH6Ue9yWSW1WcA3D9vFpQ3har/LzWPeuuT+YhGyEUCOz4N7xLRMEYuBCa0e1xcco+VdEdlv6tzfs+Vp1yKtNxOgk6q9to1SjyeeX9xQpC5br6EiJFfyWXRxeWiMT3NCe+b3lAgiEFgu+f+j797tXP18F3Uwbec1xdyRvtAvsl42wpBbohASDHN8jTO7z+0TcAiw49giZRP1ceA==;IRhPIlEtC2gMQ4yuM/fP1Q=="
 ---
