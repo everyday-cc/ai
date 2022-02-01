@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/companies/ai-powered-d
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-122012700890_1.html"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Standard
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Digital Skills Assessment Start-up iMocha Raises $14 Million in Series A Funding"
-    excerpt: "AI-powered digital skills assessment platform, iMocha, today announced a $14 million Series A investment round led by Eight Roads Ventures, with participation from existing investors Upekkha and Better Capital."
-    publishedDateTime: 2022-01-27T08:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-in-series-a-funding-1031134315"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://mma.prnewswire.com/media/1735254/AI_Powered_Digital_Skills_Assessment.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "AI-powered digital skills assessment platform start-up iMocha raises $14 mn in Series A Funding"
     excerpt: "AI-powered digital skills assessment platform, iMocha ,announced a $14 million Series A investment round led by Eight Roads Ventures, with participation from existing investors Upekkha and Better Capital."
     publishedDateTime: 2022-01-27T11:07:00Z
@@ -56,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "MinIO Raises $103 Million in Latest Funding Round"
-    excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, announced it has raised $103 million in Series B funding at a $1 billion valuation, enabling the company to accelerate multi-cloud storage adoption."
-    publishedDateTime: 2022-01-28T18:46:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/MinIO-Raises-103-Million-in-Latest-Funding-Round-151167.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 39
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Conversational AI startup NLX raises $5M to scale its offering"
     excerpt: "Conversation artificial intelligence startup NLX Inc. has raised $5 million in funding to assist it in scaling its offering, to increase its headcount and drive sales. Aquila Capital Partners led the seed round with Flying Fish Partners,"
     publishedDateTime: 2022-01-28T01:45:00Z
@@ -83,34 +55,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/nlx.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Tunisian AI Startup InstaDeep Raises $100 Million In Series B Round"
-    excerpt: "InstaDeep, an AI startup based in Tunisia and London has secured $100 million in its Series B financing round co-led"
-    publishedDateTime: 2022-01-28T12:26:00Z
-    webUrl: "https://techbooky.com/tunisian-ai-startup-instadeep-raises-100-million-in-series-b-round/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/insta-deeplogo.png?fit=708%2C430&ssl=1"
-        width: 708
-        height: 430
-        isCached: true
-  - title: "Services automation and remote management startup SuperOps.ai raises USD 14 Mn in Series A"
-    excerpt: "SuperOps.ai offers multiple solutions for MSP needs like IT documentation, project management etc– within the platform and on cloud."
-    publishedDateTime: 2022-01-27T12:20:00Z
-    webUrl: "https://analyticsindiamag.com/services-automation-and-remote-management-startup-superops-ai-raises-usd-14-mn-in-series-a/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 27
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/237607781_377106920669294_6000303580472061354_n.jpg"
-        width: 2048
-        height: 1152
         isCached: true
 
 secured: "xjBbwx/rJjWwe+qXtGRzNNos+X0lGo533vurogdvf0syG5hWCbV/6pH6epekAezewK3H2EkB3w60nzjhbLakz8Wr84Y209gOgO0dbMlXD/f2VKTEsSVFZmOBAe+xB2l2yd6er5U12ACBMpmnwER6y3zuIe6eZPyAq2RuaY8aBRZi4KMdXxDffbAAdP/yf5vSOX/0L/z6s0KH3f8XR2O0pWhfQLHXokvN71LvMsBjNu7eX5kSfYhwdiNN0G3PaG5mFB0W+1mcvJc7d50tbt7hnNPkkIfQB/yXS/tEm8dIESyO90zZE0SMV+0FMsSWVs04ijUd7KL76Qsl20lJE6VMFoJa6IzAqeY/Uueav/C45lo=;GidGjnPU5ub98JPtF4XSlg=="

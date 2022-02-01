@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Exploration Into The Roots Of Artificial Intelligence In Education"
+    excerpt: "Spread the loveAs technology becomes more advanced, schools and other educational facilities have slowly started to incorporate new tools into their modern-day programs. Many teachers rely heavily on this equipment,"
+    publishedDateTime: 2022-01-31T11:17:00Z
+    webUrl: "https://www.thetechedvocate.org/exploration-into-the-roots-of-artificial-intelligence-in-education/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 54
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2020/12/pexels-hasan-albari-1229861.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Global technology leaders back regulation of Artificial Intelligence"
     excerpt: "Artificial intelligence has changed the world and our daily lives. In the coming years, experts predict a meteoric growth in its use. Given the even greater role artificial intell"
     publishedDateTime: 2022-01-29T07:53:00Z

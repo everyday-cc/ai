@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/amp/"
 type: article
 quality: 89
-heat: 120
+heat: 119
 published: true
 
 provider:

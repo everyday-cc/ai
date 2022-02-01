@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnbc.com/2022/01/28/mustafa-suleyman-deepmind-co-founder-quits-google-ai-role-to-be-vc.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -34,6 +34,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-customization-basics-tensors-and-operations.md",
+      "title": "Customization basics: tensors and operations",
+      "excerpt": "To get started, import the tensorflow module. As of TensorFlow 2, eager execution is turned on by default. This enables a more interactive frontend to TensorFlow, the details of which we will discuss much later. import numpy as np ndarray = np.ones([3, 3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=sk",
+      "originalUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=sk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sk",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1482,58 +1534,6 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-how-abigail-annkah-is-using-ai-to-improve-maps-in-africa.md",
-      "title": "How Abigail Annkah is using AI to improve maps in Africa",
-      "excerpt": "As a university student, Abigail Annkah fell in love with mathematics, which soon led to her interest in artificial intelligence. After graduating from the African Institute for Mathematical Sciences, Abigail made it through the competitive process to become an AI resident at Google Research, Accra.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-africa/how-abigail-annkah-using-ai-improve-maps-africa/",
-      "originalUrl": "https://blog.google/around-the-globe/google-africa/how-abigail-annkah-using-ai-improve-maps-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20180717-WA0012_1_AsTd22s.max-1100x1100.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-africa/how-abigail-annkah-using-ai-improve-maps-africa/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-africa/how-abigail-annkah-using-ai-improve-maps-africa/amp/",
-      "publishedDateTime": "2022-01-06T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

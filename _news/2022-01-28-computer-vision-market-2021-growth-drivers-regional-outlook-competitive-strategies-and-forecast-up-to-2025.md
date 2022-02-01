@@ -53,20 +53,6 @@ related:
         width: 555
         height: 250
         isCached: true
-  - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Growth, Trends, and Forecast, 2021-2031"
-    excerpt: "Artificial Intelligence (AI) in Remote Patient Monitoring Market: Contours The shift from volume-based to value-based care in healthcare sector has opened"
-    publishedDateTime: 2022-01-27T08:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-remote-patient-monitoring-market-growth-trends-and-forecast-2021-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/77382e6ba11d374925336267f0919e66e3a9618e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI in Computer Vision Market Growth Analysis, Trends Forecast Regions, Type and Application to 2019 -2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
     publishedDateTime: 2022-01-28T14:46:00Z

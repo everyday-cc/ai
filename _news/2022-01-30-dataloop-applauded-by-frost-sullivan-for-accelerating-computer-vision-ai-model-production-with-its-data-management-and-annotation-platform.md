@@ -55,6 +55,20 @@ related:
         width: 400
         height: 366
         isCached: true
+  - title: "Dataloop Applauded by Frost & Sullivan for Accelerating Computer Vision AI Model Production with its Data Management and Annotation Platform"
+    excerpt: "The platform helps enterprises accelerate computer vision AI model development by accurately labeling data through automated annotation. Comprising integrated deep learning algorithms with pre ..."
+    publishedDateTime: 2022-01-30T19:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1233159&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1730904/Dataloop_Award.jpg "
+        width: 400
+        height: 366
+        isCached: true
 
 secured: "UWWM3n4L4B/yygiFvwWMok9AvEsAc3qNj7PSW/1wDwDDdbxeNnJ2a/q+1d25gqN4ss8oZq2GQFv91QF0HaujkePEfsWSvzR0qjScbF1lsFLfu847dESJbr1pMZNc/kPqGYfpqQ2Qrptjk16aMm5yBUs51CUo5a4br8pIjCrxSrEm7Am7JrXpveF4/fTXk8yKYxqcovlJHiOhJt842KlHHxgTf3fd/LOXovT17fx5MWywmP1IZkIgZB2lQQ5VRfHsVWRNhs8zZZHzeFncVBxueXDPW1DiAzLEjE767g/NgVgHVgc9+T8E6I1EhCTAW6jlMzW9CH41QSBWpCMahYVSreFaWOcFTbxQyKY/VHuVi4k=;ctQDP5hP/ukFq6N8lwxB+w=="
 ---

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.sciencenews.org/wp-content/uploads/2022/01/012422_no_anonymous-ai_feat.jpg"

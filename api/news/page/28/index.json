@@ -2,6 +2,152 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-01-06-as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity.md",
+      "title": "As third-party cookies fade, the cold start problem becomes an opportunity",
+      "excerpt": "The demise of the third-party cookie could transform the cold start problem into an opportunity for businesses and their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/05/as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity/",
+      "originalUrl": "https://venturebeat.com/2022/01/05/as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-526977673.jpg?fit=800%2C420&strip=all",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/05/as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity/amp/",
+      "publishedDateTime": "2022-01-05T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-mobileyes-self-driving-secret-200pb-of-data.md",
+      "title": "Mobileye’s Self-Driving Secret? 200PB of Data",
+      "excerpt": "Mobileye is sitting on a virtual treasure trove of driving data – some 200 petabytes worth. When combined with Mobileye’s state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-d12f56491bde4d348d137f961210da33",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-d12f56491bde4d348d137f961210da33",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-ecovacs-new-deebot-x1-cleans-your-home-and-itself.md",
+      "title": "Ecovacs’ new Deebot X1 cleans your home and itself",
+      "excerpt": "Well-known robot vacuum maker Ecovacs has revealed its newest robot floor cleaner as part of CES 2022: The Ecovacs Deebot X1, and this one is a pretty significant upgrade, with useful new tech. By now we’re all familiar with robot vacuums and mops,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/",
+      "originalUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-deebot-x1-family.jpg",
+          "width": 500,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/?amp",
+      "publishedDateTime": "2022-01-05T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-how-to-approach-conversation-design-with-amazon-lex-building-and-testing-part-3.md",
       "title": "How to approach conversation design with Amazon Lex: Building and testing (Part 3)",
       "excerpt": "In parts one and two of our guide to conversation design with Amazon Lex, we discussed how to gather requirements for your conversational AI application and draft conversational flows. In this post, we help you bring all the pieces together. You’ll learn how draft an interaction model to deliver natural",
@@ -1026,143 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-277-billion-worldwide-image-recognition-industry-to-2026-key-drivers-and-challenges-researchandmarketscom.md",
-      "title": "$27.7 Billion Worldwide Image Recognition Industry to 2026 - Key Drivers and Challenges - ResearchAndMarkets.com",
-      "excerpt": "By Technology (Digital Image Processing, Code Recognition, Facial Recognition, Others), By Deployment, By Application, By End User, By Region, Competition, Forecast",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20178301.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20178301.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/covid-19.jpg",
-          "width": 421,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-amazons-alexa-and-ciscos-webex-are-heading-to-deep-space-on-nasas-upcoming-moon-mission.md",
-      "title": "Amazon’s Alexa and Cisco’s Webex are heading to deep space on NASA’s upcoming Moon mission",
-      "excerpt": "A version of Amazon’s Alexa voice assistant and Cisco’s Webex videoconferencing platform will be included on the flight to space, part of a technology demonstration to see if these tools might benefit future astronauts flying to distant destinations like the Moon and Mars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/1/5/22866746/nasa-artemis-i-amazon-alexa-cisco-webex-lockheed-martin-orion",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/amazon-e2-80-99s-alexa-and-cisco-e2-80-99s-webex-are-heading-to-deep-space-on-nasa-e2-80-99s-upcoming-moon-mission/ar-AASspQE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/Boc52GW4Yzm31bzDh4-WqnItxSc=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23145599/Callisto_on_board_Orion.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2022/1/5/22866746/nasa-artemis-i-amazon-alexa-cisco-webex-lockheed-martin-orion",
-        "domain": "theverge.com/2022/1/5/22866746/nasa-artemis-i-amazon-alexa-cisco-webex-lockheed-martin-orion",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-top-programming-languages-this-coding-favourite-just-topped-the-list-again.md",
-      "title": "Top programming languages: This coding favourite just topped the list again",
-      "excerpt": "Software testing outfit Tiobe has awarded Python the programming language of the year for the second time in a row, thanks to the language's chops in machine learning. The award is given by the company to the programming language that has gained the highest increase in ratings in one year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
-      "originalUrl": "https://www.zdnet.com/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ed880a1e0528a648e5693bdc73c0784d0bc793de/2021/12/20/2ec0bbd4-46c3-430c-87b5-9aaf1dca5995/20211220-owen-beth-report.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
-      "publishedDateTime": "2022-01-05T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

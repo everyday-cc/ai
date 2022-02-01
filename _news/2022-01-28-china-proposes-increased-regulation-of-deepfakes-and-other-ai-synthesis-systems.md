@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/china-proposes-increased-regulation-of-deepfa
 webUrl: "https://www.unite.ai/china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems/"
 type: article
 quality: 133
-heat: 155
+heat: 153
 published: true
 
 provider:

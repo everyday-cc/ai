@@ -29,7 +29,7 @@ related:
   - title: "Artist uses AI to design terrifying, faceless, Bosch-style tarot cards. You okay, hun?"
     excerpt: "With the help of ai_curio's Looking Glass AI, Swedish musician Supercomposite has been compiling a Twitter thread brimming with surreal tarot card designs, straight from the depraved corners of my nightmares."
     publishedDateTime: 2022-01-31T17:43:00Z
-    webUrl: "https://www.pcgamer.com/au/artist-uses-ai-to-design-terrifying-faceless-bosch-style-tarot-cards-you-okay-hun/"
+    webUrl: "https://www.pcgamer.com/artist-uses-ai-to-design-terrifying-faceless-bosch-style-tarot-cards-you-okay-hun/"
     type: article
     provider:
       name: PC Gamer

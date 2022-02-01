@@ -53,20 +53,6 @@ related:
         width: 555
         height: 250
         isCached: true
-  - title: "Artificial Intelligence (AI) in Remote Patient Monitoring Market Growth, Trends, and Forecast, 2021-2031"
-    excerpt: "Artificial Intelligence (AI) in Remote Patient Monitoring Market: Contours The shift from volume-based to value-based care in healthcare sector has opened"
-    publishedDateTime: 2022-01-27T08:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-remote-patient-monitoring-market-growth-trends-and-forecast-2021-2031"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/77382e6ba11d374925336267f0919e66e3a9618e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Edge Artificial Intelligence Chips Market 2021 Top Industry Trend and Segments Analysis up to 2027"
     excerpt: "Comserve / -- Edge Artificial Intelligence Chips Market by Device Type (Consumer Devices, Enterprise Devices) Function (Training, Inference) - Global Industry Analysis & Forecast to 2027 Industry Outlook and Trend Analysis The Edge Artificial Intelligence Chips Market has encountered significant development over the recent years and is anticipated to grow tremendously over the forecast period."
     publishedDateTime: 2022-01-27T11:43:00Z

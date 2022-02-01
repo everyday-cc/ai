@@ -56,6 +56,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Food-tracking artificial-intelligence system aims to reduce malnutrition in long-term care"
+    excerpt: "Team of Waterloo, Toronto researchers developed technology to accurately track how much residents eat at meals"
+    publishedDateTime: 2022-01-31T22:28:00Z
+    webUrl: "https://www.therecord.com/news/waterloo-region/2022/01/31/food-tracking-artificial-intelligence-system-aims-to-reduce-malnutrition-in-long-term-care.html"
+    type: article
+    provider:
+      name: Waterloo Region Record
+      domain: therecord.com
+    quality: 27
+    images:
+      - url: "https://images.thestar.com/5_stszuGanYTnE_cXgS4GC9YWG0=/1200x658/smart/filters:cb(1643668132850)/https://www.therecord.com/content/dam/therecord/news/waterloo-region/2022/01/31/food-tracking-artificial-intelligence-system-aims-to-reduce-malnutrition-in-long-term-care/food_intake.jpg"
+        width: 1200
+        height: 658
+        isCached: true
 
 secured: "+m9niIVn9IKHCvFqlKWYchd4Kb+Z4LLRvTcMJKt2+vH1EKlV1zVYiOVy/7buRYrhhtzRd67fJ3oFvdryv+Bi0lF8t/6DTsmfm5mmaGtSjJiyMf9aV5g/Kpnm5JeJ5u6zuA9JT/VD7o9gjYop1mrL91cn2wUhskuM89My0e0NtTuxTuSTMoRvdIyk5aiCgYUpom1IvcVanz0sj6U879MGdx3httT22sJK05HR1oBGzFc0e6QLMfx5gGhQpFLYjgSUv/gYZF5mLoFg5EShhl1n7SqojowGTJhR2dkEGCbDX1b61CsCXUQ6Z2HfVmlyHF4olvwVwfzuzqIgSZXYueC2KS1o0VIo1Szg1K2pxSfjMa0=;39X1+sDg5OBZK7Ws3j6J2g=="
 ---

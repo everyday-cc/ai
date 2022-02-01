@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Digital Skills Assessment Start-up iMocha Raises $14 Million in Series A Funding"
-    excerpt: "AI-powered digital skills assessment platform, iMocha, today announced a $14 million Series A investment round led by Eight Roads Ventures, with participation from existing investors Upekkha and Better Capital."
-    publishedDateTime: 2022-01-27T08:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-powered-digital-skills-assessment-start-up-imocha-raises-14-million-in-series-a-funding-1031134315"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://mma.prnewswire.com/media/1735254/AI_Powered_Digital_Skills_Assessment.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "AI-powered digital skills assessment start-up iMocha Raises $14 million"
     excerpt: "The new funding will be deployed to increase iMocha's skill library selection, reach more global enterprises, and widen its partnership base within the HR Tech ecosystem."
     publishedDateTime: 2022-01-27T09:18:00Z
@@ -69,48 +55,6 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2021-03/3dff1c24-4e50-4dd2-af5a-b373c2bdc8a8/startup_2480722_960_720.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 800
-        isCached: true
-  - title: "MinIO Raises $103 Million in Latest Funding Round"
-    excerpt: "MinIO Inc., creators of the MinIO multi-cloud object storage suite, announced it has raised $103 million in Series B funding at a $1 billion valuation, enabling the company to accelerate multi-cloud storage adoption."
-    publishedDateTime: 2022-01-28T18:46:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/MinIO-Raises-103-Million-in-Latest-Funding-Round-151167.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 39
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tunisian AI Startup InstaDeep Raises $100 Million In Series B Round"
-    excerpt: "InstaDeep, an AI startup based in Tunisia and London has secured $100 million in its Series B financing round co-led"
-    publishedDateTime: 2022-01-28T12:26:00Z
-    webUrl: "https://techbooky.com/tunisian-ai-startup-instadeep-raises-100-million-in-series-b-round/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/insta-deeplogo.png?fit=708%2C430&ssl=1"
-        width: 708
-        height: 430
-        isCached: true
-  - title: "Services automation and remote management startup SuperOps.ai raises USD 14 Mn in Series A"
-    excerpt: "SuperOps.ai offers multiple solutions for MSP needs like IT documentation, project management etc– within the platform and on cloud."
-    publishedDateTime: 2022-01-27T12:20:00Z
-    webUrl: "https://analyticsindiamag.com/services-automation-and-remote-management-startup-superops-ai-raises-usd-14-mn-in-series-a/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 27
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/237607781_377106920669294_6000303580472061354_n.jpg"
-        width: 2048
-        height: 1152
         isCached: true
 
 secured: "hAVZvG4KUIsBVhpMW8+ZuZZp7bnw9ig0Xi1a84M+8BoLQDlBbsvO/Ov3ohMFVi8myem3IGUDXg0yS/d/3MJlIzSSMfP1r1Yi60B59SqzAy/hhy/m0WIvfoA/hZeH0HA7jD9jSRiK7Ln/2t44KPGd3Knczl8mrxqBgL2NwV6nD88n5N07iD/2iqwbmzeYxtehRPk6g6fMCWVHZCQGRbM6fyfMpgcvOpCdhG+aO4PtagXp1fYbM66n8rguscyaiOC2ptLZr01kqyBqvMrWj0PQ5effmRck9QHo55+AGJGp5Y+i2OUIPPPqgTHbaYkg+VKdUXDphJadbA7e533R1es6Dio5F0JzfcvbUtp2KIgqqtj/j9Ba5ad4EBhK6SUW6WUe7q8Jxr36vBb99ElGrEx9FAh5N6NkcVr/Ne4dPKP+bjpJU6GQPVponJN7SiPw1Hknbe1Lm70DYxNbr7qsuZ8AZyTEHlawu1vvu6YweEEjPhwjrd0YwAltPQbS3OUNvwYiBC4YMs/Jb/BwdFe8ZwmXjg==;GKcDuYw4LjH+gurTNrB70Q=="

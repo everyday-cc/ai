@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/containers-and-kubernetes-u
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/containers-and-kubernetes-underpin-more-artificial-intelligence-efforts/"
 type: article
 quality: 99
-heat: 99
+heat: 100
 published: true
 
 provider:

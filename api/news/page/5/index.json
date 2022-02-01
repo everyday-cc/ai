@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-25-arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores.md",
+      "title": "Arjit Nanda and Miraan Rai bring robotics and AI to reimagine household chores",
+      "excerpt": "They have named their venture - AM Innomates, and their first product is AM Dustbin. A smart combination of automatic and manual controls to lift the lid of the bin and is a pioneer in the Indian mark",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/brand-post/arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores-101643109312459.html",
+      "originalUrl": "https://www.hindustantimes.com/brand-post/arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores-101643109312459.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/01/25/1600x900/02_1643109717177_1643109727318.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/brand-post/arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores-101643109312459-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores-101643109312459-amp.html",
+      "publishedDateTime": "2022-01-25T03:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-how-to-grow-your-startups-sales-and-marketing-with-ai.md",
+      "title": "How To Grow Your Startup's Sales and Marketing with AI",
+      "excerpt": "Given the packed nature of today’s startup environment, where resources are always limited and the pressure to perform is immense, time-consuming tasks resist automation. A lot of early startups and s",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/how-grow-your-startups-sales-marketing-ai-olabisi-adelaja",
+      "originalUrl": "https://www.linkedin.com/pulse/how-grow-your-startups-sales-marketing-ai-olabisi-adelaja",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQE44ket5Ob5jw/article-cover_image-shrink_600_2000/0/1643108728517?e=1649289600&v=beta&t=YcjOJh1cTRXZJULzaXc0iaLEm4USn6b62PTTytPbnoc",
+          "width": 612,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T03:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-how-ai-could-predict-medical-conditions-and-revive-the-healthcare-system.md",
       "title": "How AI Could Predict Medical Conditions And Revive The Healthcare System",
       "excerpt": "The health sector stands to benefit greatly from AI, as the increasing demands of an aging global population promises to continue to strain already tired systems.",
@@ -1114,102 +1210,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-meta-unveils-new-ai-supercomputer.md",
-      "title": "Meta Unveils New AI Supercomputer",
-      "excerpt": "When the AI Research SuperCluster is fully built it will be the fastest AI supercomputer in the world, the Facebook-parent says",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601",
-      "originalUrl": "https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 749,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-472356/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/meta-unveils-new-ai-supercomputer-11643043601",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/meta-unveils-new-ai-supercomputer-11643043601",
-      "publishedDateTime": "2022-01-24T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.md",
-      "title": "CFOs eye tech investments to attract, retain talent with AI/ML skills",
-      "excerpt": "A survey by a financial services and human resources software vendor showed CFOs are on the hunt for finance professionals who have skills in AI and ML platforms that can be used to parse data and tell a business value story.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.html",
-      "originalUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/artificial_intelligence_ai_ml_machine_learning_abstract_gettyimages_by_dny59_959737582_by_kentoh_1042827860-100817845-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.amp.html",
-      "publishedDateTime": "2022-01-24T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

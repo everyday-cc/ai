@@ -26,6 +26,22 @@ images:
     height: 558
     isCached: true
 
+related:
+  - title: "Pennsylvania Senate panel advances expanded use of self-driving vehicles"
+    excerpt: "A Pennsylvania Senate panel has moved forward a bill to permit self-driving vehicles to operate on roadways with or without a driver."
+    publishedDateTime: 2022-01-31T20:18:00Z
+    webUrl: "https://landline.media/pennsylvania-senate-panel-advances-expanded-use-of-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 23
+    images:
+      - url: "https://landline.media/wp-content/uploads/2022/01/220131-autonomous-vehicle-color-fade.jpg"
+        width: 540
+        height: 420
+        isCached: true
+
 secured: "2PpzkktC7N7LcZwFV1ukaP1n0x8goC2wLw4gfIALsW1brxXQ1AItTqISeCNS9bx6B9IXTcbERjJbLQ3vDvJcWvaWxkMnCLIsAylFPUHJZbPF/d3o7od5uZ8AztEYfwgqbRkzgUdW/ir3TmEetXBqMCRRmsiJaaNCrCl5w4L5r3lqr7tYzUX4NQTvI5gbBwBAUmwg0Qif6A9SVPcfPBuWXZGLHOshGGOVhPZt0hSjyX7tR5qjNmCd7e6MenZg8VFsck79p5eE4j0GGH0drENpljyc3NVnuofUN8YExLsp9HMeql3ox4PURekc5uIyMXoLlXRVr55uCDRKGumE7Acz8hj39t/6L6ERDaj/RkdfzV3LMcFa95awA9ghKm6hGx8QU7bHPxlsV+MIBDIfx8OfVG3v3r67+zcIqu0g1hnzJXEFH7Pg1z8FAQ06UCOSffNBtc5DzX8CBdOeSS9XejJgnyVzGMeti8qDtHierpp/qeqBxpTkIILB+/Lj82WmPxdT4i+gjIQ4IpovFIaPr5DXDQ==;AEPk0dARPI83nYdwLnsjmA=="
 ---
 

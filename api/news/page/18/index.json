@@ -2,6 +2,144 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-01-13-sezzle-takes-aim-at-bnpl-fraud-with-ai-machine-learning.md",
+      "title": "Sezzle Takes Aim at BNPL Fraud With AI, Machine Learning",
+      "excerpt": "The latest in digital fraud 2. An interview with Sezzle on using technology like AI and ML to reduce fraud 3. A Deep Dive on fraud in buy now, pay later",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/",
+      "originalUrl": "https://www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2022/01/digital-fraud-buy-now-pay-later-artificial-intelligence-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/amp/",
+      "publishedDateTime": "2022-01-13T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-blended-learning-will-be-the-way-forward-for-the-education-sector.md",
+      "title": "Blended Learning Will Be the Way Forward For the Education Sector",
+      "excerpt": "Blended learning or a balanced composition of physical and digital learning has now become the ‘New Essential’",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/412942",
+      "originalUrl": "https://www.entrepreneur.com/article/412942",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1642064172-Myproject17.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T00:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-dream-by-wombo-is-being-used-to-create-tons-of-ai-powered-video-game-artwork.md",
+      "title": "Dream by Wombo is being used to create tons of AI-powered video game artwork",
+      "excerpt": "Dream by Wombo is being used to create tons of AI-powered video game artwork. While Dream was released in November, it looks like it started catching on in Japan around December and January.",
+      "sourceUrl": null,
+      "webUrl": "https://automaton-media.com/en/news/20220113-8419/",
+      "originalUrl": "https://automaton-media.com/en/news/20220113-8419/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://automaton-media.com/en/wp-content/uploads/2022/01/20220113-188537-header.jpg",
+          "width": 1372,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://automaton-media.com/en/news/20220113-8419/amp/",
+      "cdnAmpWebUrl": "https://automaton--media-com.cdn.ampproject.org/c/s/automaton-media.com/en/news/20220113-8419/amp/",
+      "publishedDateTime": "2022-01-13T00:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "automaton-media",
+        "domain": "automaton-media.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-upstart-a-buy-rating-for-this-ai-based-fintech-winner-in-the-making.md",
       "title": "Upstart: A Buy Rating For This AI-Based Fintech Winner In The Making",
       "excerpt": "Upstart's superior AI-based model brings strong value proposition to consumers and bank partners. Read more to see why UPST is a Buy now and my PT.",
@@ -963,152 +1101,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions.md",
-      "title": "Acuity Brands expands tie-up with Microsoft to enable sustainable building solutions",
-      "excerpt": "Acuity Brands (AYI) expands its collaboration with Microsoft (MSFT) to bring new capabilities to AYI smart lighting, lighting controls and building automation",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
-      "originalUrl": "https://seekingalpha.com/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
-      "publishedDateTime": "2022-01-12T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-tesla-could-be-forced-to-report-full-self-driving-beta-data-to-dmv-after-videos-showing-dangerous-use.md",
-      "title": "Tesla could be forced to report Full Self-Driving Beta data to DMV after ‘videos showing dangerous use’",
-      "excerpt": "Tesla, who managed to avoid reporting autonomous driving data to the DMV, could be forced to open the books on its Full Self-Driving (FSD) Beta to the California DMV after what the latter called “videos showing dangerous use”.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
-      "originalUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/",
-      "publishedDateTime": "2022-01-12T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-placerai-a-location-analytics-startup-finds-100m-at-a-1b-valuation.md",
-      "title": "Placer.ai, a location analytics startup, finds $100M at a $1B valuation",
-      "excerpt": "Many of us are moving around these days a lot less than we used to — because of Covid, we’re working from home instead of an office; and we are traveling and going out less. Now, as we shift back into more “normal” behavior,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/",
-      "originalUrl": "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 277,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-76530606.jpg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/",
-      "publishedDateTime": "2022-01-12T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

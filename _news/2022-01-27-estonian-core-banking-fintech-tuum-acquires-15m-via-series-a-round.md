@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/01/186166-estonian-core-bankin
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/186166-estonian-core-banking-fintech-tuum-acquires-e15m-via-series-a-round/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 1075
     height: 1280
     isCached: true
+
+related:
+  - title: "5 Top Fintech Stocks To Watch This Week"
+    excerpt: "Another top fintech stock to note is Upstart. Essentially, the company offers a cloud-based artificial intelligence (AI) lending platform. Its platform would aggregate consumer demand for loans and connect it to its network of Upstart AI-enabled bank partners."
+    publishedDateTime: 2022-02-01T00:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-week"
+    ampWebUrl: "https://www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-week?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-week?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "irCXuqv4oW0u//lRy7EcKUAR9OLaZG08HhvNo9SXjwNT7fLHCA9Rm0DNnPM0EaSObcP949fqKjB6PLFSsiPkFX9guvnhBfWXfnkUmFPPB6Ot8AanpZnQZYJsMtnEDyV8r8GE/FA/wc6/7OZC8zJjfpwYiAC8FRF2Hhp/GURZDCAXekyA2G2qyUcGWcj5VZJ/clh+v1BymKGRRzauBENuphANo32Ox2giF0afrkQCR7mYeZuXhIO/bmw+l45gCXVxO/Wm1YccWjxOMJREwKUI9gqdzHpbPqXQs5TsxAH19Rt8KT2nZaEw5OwSRX/B/09QKNmFi09MRytzTMwGnBDhr47mp/Os3hfDudz+VbKCosYj24E9Wvr73yEQEs0HubI3fkbh7Nj5JYCAgdcj6badWWi0sIk3jKCY/3ynrA/jJeq93Ncp+WVCO8xpLuXxsUh+UKsJDPl2tKBk8cZqBPpa0vQWSNIWJnsi9R1oOAxC7Qjf3xjtlgzR+wi663VpyaVXHfBaQ+1yOj0+u4LH2r+Fyg==;+gRUPKAuMaYTGVU9QOYwfQ=="
 ---

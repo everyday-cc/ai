@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/28/lessons-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/28/lessons-in-ai-regulation-from-a-tech-founder/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/61f2c7dc36e77eea9e7440a6/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
         height: 579
+        isCached: true
+  - title: "Exploration Into The Roots Of Artificial Intelligence In Education"
+    excerpt: "Spread the loveAs technology becomes more advanced, schools and other educational facilities have slowly started to incorporate new tools into their modern-day programs. Many teachers rely heavily on this equipment,"
+    publishedDateTime: 2022-01-31T11:17:00Z
+    webUrl: "https://www.thetechedvocate.org/exploration-into-the-roots-of-artificial-intelligence-in-education/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 54
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2020/12/pexels-hasan-albari-1229861.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Global technology leaders back regulation of Artificial Intelligence"
     excerpt: "Artificial intelligence has changed the world and our daily lives. In the coming years, experts predict a meteoric growth in its use. Given the even greater role artificial intell"
