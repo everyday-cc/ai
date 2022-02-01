@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "dataminr"
   url: "https://twitter.com/dataminr"
-  followers: 15666
+  followers: 15669
 
 size: 201-500 employees
 yearFounded: 2009
@@ -31,7 +31,7 @@ topics:
   - AI
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1410653495364050945/vYMEe3UF_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1488528840490168329/5cPbX8Xj_400x400.jpg"
     width: 400
     height: 400
     isCached: true
