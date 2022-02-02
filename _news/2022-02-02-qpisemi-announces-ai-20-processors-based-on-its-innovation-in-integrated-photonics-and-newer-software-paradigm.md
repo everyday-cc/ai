@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Qpisemi announces AI 2.0 Processors Based on its Innovation in Integrated Photonics and Newer Software Paradigm"
-excerpt: "Qpisemi ( today announced AI processors based on silicon photonics to fuel AI 2.0 technology and various other applications like bioinformatics, Drug"
-publishedDateTime: 2022-02-02T07:31:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/qpisemi-announces-ai-2-0-processors-based-on-its-innovation-in-integrated-photonics-and-newer-software-paradigm-122020200638_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/qpisemi-announces-ai-2-0-processors-based-on-its-innovation-in-integrated-photonics-and-newer-software-paradigm-122020200638_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/qpisemi-announces-ai-2-0-processors-based-on-its-innovation-in-integrated-photonics-and-newer-software-paradigm-122020200638_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/qpisemi-announces-ai-2-0-processors-based-on-its-innovation-in-integrated-photonics-and-newer-software-paradigm-122020200638_1.html"
+title: "Qpisemi Announces AI 2.0 Processors Based on its Innovation in Integrated Photonics and Newer Software Paradigm"
+excerpt: "There is study in 2019 that points, that training a certain deep neural network for NLP (natural-language processing) produced five times the CO 2 emissions typically associated with driving an automobile over its lifetime. Apart from this, intelligence ..."
+publishedDateTime: 2022-02-02T10:37:00Z
+originalUrl: "https://www.businesswireindia.com/news/fulldetails/qpisemi-announces-ai-20-processors-based-its-innovation-integrated-photonics-newer-software-paradigm/77092"
+webUrl: "https://www.businesswireindia.com/news/fulldetails/qpisemi-announces-ai-20-processors-based-its-innovation-integrated-photonics-newer-software-paradigm/77092"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/02/full/20220202113529.jpg"
+  - url: "https://cms.businesswireindia.com/Uploads/companyLogo/Qpisemi_15686.png"
     width: 600
-    height: 450
+    height: 321
     isCached: true
 
-secured: "LTxU1TAwey6j22o1uskbdp6Cld+PYCY0yCMYIIR0y1Q/2KIRuJjVVO7HPXJpNlbSnrCK0ggyXbpm8BmD2cwjaVI97b1h8/G7k0zAyLQkZob+O1gKTJhwtbEd7RKqGd3Mie4H0C29U39OUnMcxFvxwHWhVUCSeOLJc35XtIPmqaBmPJq+EANGIcaFkOez8RF04McpQlafw/3sVRCVnLjCvXcawJgGc5C1kdkudxSZ1m7nE2qvN23VRnvf063H1npRJrtZ1NOdzP+ayali6Igk2I3X+8BPHa1fE35m+j26iNlWFxhe+R1IIjh2BELceMfgSYkTOJQRkQZJ6+J+1UNaSNIvZ1oUgFdcEKateVj3EUU=;MOJ9t/vkVMqBfFJ0m3eC8A=="
+secured: "9ict1/3wD56WyuhAEscTNHEzAVF6XMTYe+m6rjIb5v0PaJ/wg7p7zxLiHhkpldWWQqDh4+gqkomDy++mpqFdsdxNtqAifCL+jcy+TGVFNHdrURSvnmcu3/zlVW2fWqMQ0fCNZ54p+bj+9MlrZInrKQLGZSV+uMvgNr3uV1dtNf327RZt0Vnf5P2DJ9iHkA6UcGjcWGceMs3/p+iFcNbo4V/sF5QU9X3rVPMyoPbKHQfXbyIV7kIUaJ6rMmlRVz2TnKRgElSDT9qCYv1e1w2c5CNSH1jrnMiZFqGOZty2tAcqlBEX2uAT+LPrdqDdVrt5yU0QwX+UgmE+OQ0JR50yQn6X6hDmtuxeTF0gyZMLbW8=;sqQgCBnN3Pdk6Z4w4OcUfg=="
 ---
 

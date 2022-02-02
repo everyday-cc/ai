@@ -123,6 +123,40 @@
       ]
     },
     {
+      "path": "_news/2022-01-29-waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret.md",
+      "title": "Waymo sues California DMV to keep robotaxi safety details secret",
+      "excerpt": "Waymo, the company that operates a fleet of autonomous taxis in San Francisco, is suing California's DMV to keep safety details secret.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/",
+      "originalUrl": "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/?amp=1",
+      "publishedDateTime": "2022-01-28T15:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-29-the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd.md",
       "title": "The Grain Of Truth In The Critique Of Musk, Tesla And Full Self Driving (FSD)",
       "excerpt": "The internet erupted last week following the publication of a full-page ad in the New York Times asserting “Don’t be a Tesla Crash Test Dummy” and impugned “Elon Musk’s ill-advised Full Self-Driving robot car experiment.",
@@ -1344,49 +1378,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-visionnav-targets-european-market.md",
-      "title": "VisionNav targets European market",
-      "excerpt": "VisionNav targets European market, China. This is a news story by Forkliftaction News, a weekly independent publication about forklifts and the materials handling industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forkliftaction.com/news/visionnav-targets-european-market.aspx?n=25644",
-      "originalUrl": "https://www.forkliftaction.com/news/visionnav-targets-european-market.aspx?n=25644",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forkliftaction.com/upload/gallery/25284.jpg?s=2?v0023-1",
-          "width": 640,
-          "height": 273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "forklift",
-        "domain": "forkliftaction.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo Sues California DMV Over Robotaxi Safety Data"
-    excerpt: "The driverless car company — which is owned by Google parent Alphabet Inc. — operates an autonomous taxi fleet in San Francisco, and the question in the suit is whether public safety-related data can be a trade secret."
-    publishedDateTime: 2022-01-28T17:23:00Z
-    webUrl: "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data"
-    ampWebUrl: "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/0ed328f/2147483647/strip/true/crop/940x490+0+46/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa0%2F40%2Ff54af073727f3f1d09fcd332e8ba%2Fwaymo.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Waymo sues California DMV to keep robotaxi safety details secret"
     excerpt: "Waymo, the company that operates a fleet of autonomous taxis in San Francisco, is suing California's DMV to keep safety details secret."
     publishedDateTime: 2022-01-28T23:48:00Z

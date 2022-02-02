@@ -78,6 +78,20 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 38
+  - title: "IoT in Healthcare Market Manufacturing Analysis and Forecasts by 2027 | Reports and Data"
+    excerpt: "and the surging need for the adoption of cost-control measures in the healthcare sector. The increasing prevalence of AI (Artificial Intelligence) in the medical industry has revolutionized patient care. In 2018, the global spending on IoT initiatives was ..."
+    publishedDateTime: 2022-02-02T10:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/iot-in-healthcare-market-manufacturing-analysis-and-forecasts-by-2027-reports-and-data"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 30
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/6ba83574b4873e683a1c811a2e185ee50a1893bd-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AI-Enabled Last Mile Delivery Market Industry Analysis, Size, Share, Growth, Trend, And Forecast To 2029"
     excerpt: "Research Nester published a report titled “ AI-Enabled Last Mile Delivery Market: Global Demand Analysis & Opportunity Outlook 2029 ” which delivers detailed overview of the global AI-enabled last mile delivery market in terms of market segmentation by type,"
     publishedDateTime: 2022-01-30T18:40:00Z

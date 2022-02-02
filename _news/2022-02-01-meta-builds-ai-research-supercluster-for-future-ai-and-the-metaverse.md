@@ -58,20 +58,6 @@ related:
         width: 5408
         height: 3605
         isCached: true
-  - title: "Meta Is Building The World’s Fastest AI Supercomputer"
-    excerpt: "There is a strong belief that moderating posts from billions of users can somewhat be a difficult task but Facebook"
-    publishedDateTime: 2022-01-28T18:37:00Z
-    webUrl: "https://techbooky.com/meta-is-building-a-sophisticated-ai-supercomputer/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/6000.jpg?fit=930%2C558&ssl=1"
-        width: 930
-        height: 558
-        isCached: true
   - title: "Technology Trends That Will Shape 2022 and Beyond - AI, Big Data, Connected devices (IoT), Cloud, Drones, and Metaverse"
     excerpt: "Just like 2020, 2021 was another year of ups and downs, full of concerning COVID variations and technology innovations. With most of us working remotely and sticking to the home, our lifestyles might have been disrupted,"
     publishedDateTime: 2022-02-02T04:49:00Z

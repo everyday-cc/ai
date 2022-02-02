@@ -80,20 +80,6 @@ related:
         width: 768
         height: 483
         isCached: true
-  - title: "Fintech Trends to Drive 2022: Growth of Buy Now Pay Later and Increased Investments in Technology Enabling Financial Inclusion"
-    excerpt: "When looking at 2021 in review, two fintech trends factor prominently -- Buy Now, Pay Later (BNPL) and technology driving financial empathy/inclusion."
-    publishedDateTime: 2022-01-28T18:57:00Z
-    webUrl: "https://financialit.net/blog/pay-trends/fintech-trends-drive-2022-growth-buy-now-pay-later-and-increased-investments"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 0
-    images:
-      - url: "https://financialit.net/sites/default/files/snimok_ekrana_2022-01-28_175950.jpg"
-        width: 495
-        height: 473
-        isCached: true
 
 secured: "aqXGPzve9oLoekJvlcqyp7UK0/3Td1i13kWAPWZode05RpeB+5PcgS5/92wXlBAJAWODjQvN0ywv85YE4TApT6p2wRm17SrMaXLJWzdpzV9/tfmGrFb8ixOswghce1FHNikjWEEZ2NTN5dELG/7ErER36KS7ej533Wv+Ihlt1KHoH/jvTjOcGjv4HAuV6nxNJL8hs5RopXI2UkfgafJ18cvg7KieNtO4a1/awnxA5i8q36vYnWiNWryBLUl9L4XNjj0MsE3DGLpT2jsnXeOVumgeFBO2X8FKmRI0lHtRFJqpazYCD3RsPaJQlwOW3SRnC68YomlZp2dvVjxYspcAzc5zBTHYoX4dkTUol+Sh+I8=;KbhrqtktPrnSbXJCCbXUyQ=="
 ---

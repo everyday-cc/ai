@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Chip designer mimicking brain, backed by Sam Altman, gets US$25 million funding"
+    excerpt: "Rain Neuromorphics, a startup designing chips that mimic the way the brain works and aims to serve companies using artificial intelligence (AI) algorithms, said on Wednesday (Feb 2) it raised US$25 million."
+    publishedDateTime: 2022-02-02T08:48:00Z
+    webUrl: "https://www.channelnewsasia.com/business/chip-designer-mimicking-brain-backed-sam-altman-gets-us25-million-funding-2474731"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 50
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--VVINj8E5--/c_crop%2Ch_450%2Cw_800%2Cx_0%2Cy_53/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-02t081324z_1_lynxmpei1109u_rtroptp_3_wsjd-conference.jpg?itok=KZjWFBAO"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "TCNGrrwas4FwBxTMDjqQyTUbPhl2tDdda3HHsFVXKbfBngXA3Hhl7NeWsrvg11zchmSVyiSxL+OO4RM/QppkicTxfmu+qNEWrjx2Qcr932DcdSQePZa5yh+XwlC6wvEgvZ5GMV/fr3k23lBPakBbPr2d8f3M5mA88zcntmKF7j6cWz0+uHdyq19Z72kwrX67fv8IrOkEBlR4IF0LyzXCU3WET8wahDkmQg9XYV8rgndqr6lDLHodiJInI6fSPp083atskXTGpXt9qbFb5Zn7c0oyyEOAQ3ShXdD/MLE1FqocdmSpgJT7qsrPsoZrTj7dNi8CYOgTbKLGi9Qxwi+1ET/stw4HjusrKqHG3kBFPLuHQhbvIqex3NH2Zh77hanPSs7LyaHAedCwoCdkrCob9Kmk+oYZnJwVPH9v7qOqn728SyOLwrVVnzkD2bZJxXuBKhkasvNO2gsLepmdht0YJU9M+M6FOR1FxbDSdvDeGMdZWfqbjOYGHAIcimjyOcfQIa0PoJoNoMTaB99+yRp13g==;hHyo//SzmpBC3GxSqEh6sA=="
 ---

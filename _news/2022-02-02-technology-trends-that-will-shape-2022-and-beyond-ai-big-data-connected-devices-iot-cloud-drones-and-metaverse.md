@@ -75,20 +75,6 @@ related:
         width: 5408
         height: 3605
         isCached: true
-  - title: "Meta Is Building The World’s Fastest AI Supercomputer"
-    excerpt: "There is a strong belief that moderating posts from billions of users can somewhat be a difficult task but Facebook"
-    publishedDateTime: 2022-01-28T18:37:00Z
-    webUrl: "https://techbooky.com/meta-is-building-a-sophisticated-ai-supercomputer/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/6000.jpg?fit=930%2C558&ssl=1"
-        width: 930
-        height: 558
-        isCached: true
 
 secured: "z9EvyuD+IX2GPvK0UkXspveNFNYw1cGtcAByyJ9jjJu4SJz5qxSUlmAGlMioFbtU40cTriCGf0Kh9LgDrzA2iaFSFdiK2BUuuL0NDrxCYphkwOPpB2igAJFURXH2fnembfex+xEqoAMyrvWcZ54Gk0kZU5yqodGWGWjbjou84vodWL9zbmrisfSlMudCduy1/k1aCpydBiLVo77VVq9YQE/Mb02Rw2Cu1sFOnc6Rm2BFOiPJbI3vDM5RA0g4Sm+YOXJ0j3AExw75VExslrrTiBU0OkOusHUpdzOvLf6QoKIEX7oyaCPGvANXefgj89wWkZdncPuO8zDwRYD5sSfZAHqRzwyZ+3bc6jMWAJFxx3EGmCMGyUzLiMs2INriV9ocfKEEr+7ekxlO3Cy5lUxkp1d4wla1dQJ1tsfVlu3Q9la7im7kI2oAfKvx1RsKeB2B9ra5Vc5+LbnwRxYWvy9TRLcXB6YoRKVwqH5B4kHvMXh3bypjh9S+iknVCBY3NaeiK6Y59kixSwwkJus3lHQ4oA==;22diva0adbjV9um0oiy1Pw=="
 ---

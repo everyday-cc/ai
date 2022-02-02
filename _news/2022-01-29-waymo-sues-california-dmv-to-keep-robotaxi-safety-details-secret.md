@@ -9,8 +9,8 @@ ampWebUrl: "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-k
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/?amp=1"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Seattle Times
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Waymo Sues California DMV Over Robotaxi Safety Data"
-    excerpt: "The driverless car company — which is owned by Google parent Alphabet Inc. — operates an autonomous taxi fleet in San Francisco, and the question in the suit is whether public safety-related data can be a trade secret."
-    publishedDateTime: 2022-01-28T17:23:00Z
-    webUrl: "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data"
-    ampWebUrl: "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/0ed328f/2147483647/strip/true/crop/940x490+0+46/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa0%2F40%2Ff54af073727f3f1d09fcd332e8ba%2Fwaymo.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Waymo Sues DMV to Keep Robotaxi Safety Data Secret"
     excerpt: "The suit stems from a public records request to the California Department of Motor Vehicles from an unidentified individual or entity seeking access to Waymo’s driverless-deployment application — the basic filled-out form,"
     publishedDateTime: 2022-01-28T23:36:00Z

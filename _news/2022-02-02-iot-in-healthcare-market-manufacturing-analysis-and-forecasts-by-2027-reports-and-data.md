@@ -1,26 +1,27 @@
 ---
 category: news
-title: "AI-Enabled Last Mile Delivery Market Industry Analysis, Size, Share, Growth, Trend, And Forecast To 2029"
-excerpt: "Research Nester published a report titled “ AI-Enabled Last Mile Delivery Market: Global Demand Analysis & Opportunity Outlook 2029 ” which delivers detailed overview of the global AI-enabled last mile delivery market in terms of market segmentation by type,"
-publishedDateTime: 2022-01-30T18:40:00Z
-originalUrl: "https://menafn.com/1103614237/AI-Enabled-Last-Mile-Delivery-Market-Industry-Analysis-Size-Share-Growth-Trend-And-Forecast-To-2029"
-webUrl: "https://menafn.com/1103614237/AI-Enabled-Last-Mile-Delivery-Market-Industry-Analysis-Size-Share-Growth-Trend-And-Forecast-To-2029"
+title: "IoT in Healthcare Market Manufacturing Analysis and Forecasts by 2027 | Reports and Data"
+excerpt: "and the surging need for the adoption of cost-control measures in the healthcare sector. The increasing prevalence of AI (Artificial Intelligence) in the medical industry has revolutionized patient care. In 2018, the global spending on IoT initiatives was ..."
+publishedDateTime: 2022-02-02T10:20:00Z
+originalUrl: "https://www.digitaljournal.com/pr/iot-in-healthcare-market-manufacturing-analysis-and-forecasts-by-2027-reports-and-data"
+webUrl: "https://www.digitaljournal.com/pr/iot-in-healthcare-market-manufacturing-analysis-and-forecasts-by-2027-reports-and-data"
 type: article
-quality: 20
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849700"
-    width: 429
-    height: 249
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/6ba83574b4873e683a1c811a2e185ee50a1893bd-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -77,20 +78,6 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 38
-  - title: "IoT in Healthcare Market Manufacturing Analysis and Forecasts by 2027 | Reports and Data"
-    excerpt: "and the surging need for the adoption of cost-control measures in the healthcare sector. The increasing prevalence of AI (Artificial Intelligence) in the medical industry has revolutionized patient care. In 2018, the global spending on IoT initiatives was ..."
-    publishedDateTime: 2022-02-02T10:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/iot-in-healthcare-market-manufacturing-analysis-and-forecasts-by-2027-reports-and-data"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/6ba83574b4873e683a1c811a2e185ee50a1893bd-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Agricultural Robots Market Research Growth, Regions, Type and Application, Forecast Analysis to 2020-2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
     publishedDateTime: 2022-02-01T12:51:00Z
@@ -104,6 +91,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?617111"
         width: 327
         height: 250
+        isCached: true
+  - title: "AI-Enabled Last Mile Delivery Market Industry Analysis, Size, Share, Growth, Trend, And Forecast To 2029"
+    excerpt: "Research Nester published a report titled “ AI-Enabled Last Mile Delivery Market: Global Demand Analysis & Opportunity Outlook 2029 ” which delivers detailed overview of the global AI-enabled last mile delivery market in terms of market segmentation by type,"
+    publishedDateTime: 2022-01-30T18:40:00Z
+    webUrl: "https://menafn.com/1103614237/AI-Enabled-Last-Mile-Delivery-Market-Industry-Analysis-Size-Share-Growth-Trend-And-Forecast-To-2029"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849700"
+        width: 429
+        height: 249
         isCached: true
   - title: "Automatic Content Recognition Market, Size, Segmentation & Outlook Forecast and Global Research Report to 2027"
     excerpt: "The automatic content recognition market globally is segmented into end-user application, technology, and region. By Technology, the market is segmented into speech recognition, passive fingerprinting, and digital watermarks. The speech recognition segment ..."
@@ -120,6 +121,6 @@ related:
         height: 300
         isCached: true
 
-secured: "oJHFfdNCtYxv8cptEAoMK7DJgR1DkpEGdJzhE9f5P8IKJJEtmvYHr2UfXXP0N+ZUdwZ6Sxve46/mW4XGW4rMeGn2LhVIJ00ZNqAJjTmrjI3ZwQWmD7XtcDwQGs/azctu0DDPd+S5eZUMyQDx/DZlqKDC4ItWj3lmoUJjNBh3fNcyhhJrXCBXYAD5TObP9D0CxlfJW7YP/yfTn5VMN5IMWogpoFlNiIbO1ZF1EW6eBrPyLrFPuXVAZH/gOLx/aMNZ9pt4VggBwrwaEEhZOyx359IK+8Cf1w6PhvQwSjVP4++FX/EkcHdKm/fh/ByHtwPHGElvu/HWKoJfdMAW9WHqrMA8e+3VtwgJxrQye9a2je8=;Fygo/5UD827GvsECxT66dA=="
+secured: "ETAbdr4eugp1Su5YEjOq711XOpxe70iV/otzCxQLQHFG6wSTOTeAdRIPAUS2Q+C/O+YwLpBzWTvOlM4XCxidRKinvg0npAIRX58hhUtx/LPVNaiQQTq/L0zJ2QAsXsKiuO6dFUphvJ52Dj2IjSO32ghhAD4T+ID2r8gMiJVlpYU47zAh3/oNjhhmOU/iXlgXQ0teGEwvUF0SS/5wV5odTg458+LUBKyk6jjWrb0WShtm/UyJNzy3nW9XC6PHibHQWwG+pNPrZQ4QXJT0OlPVt74p1lMitMg9H5XJjBeFLFbN66PjUqIR87coPQUbZXL4c8Fo4yQroY225ufKatlPlID6+31ZUtGJRPJ4O8r+9VA=;xGuuw9DpTiijmZ4Yp8HYZQ=="
 ---
 

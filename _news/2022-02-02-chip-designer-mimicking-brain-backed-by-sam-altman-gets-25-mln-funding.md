@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/chip-designer-mimicking-brain-b
 webUrl: "https://www.reuters.com/technology/chip-designer-mimicking-brain-backed-by-sam-altman-gets-25-mln-funding-2022-02-02/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -40,7 +40,21 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 81
+  - title: "Chip designer mimicking brain, backed by Sam Altman, gets US$25 million funding"
+    excerpt: "Rain Neuromorphics, a startup designing chips that mimic the way the brain works and aims to serve companies using artificial intelligence (AI) algorithms, said on Wednesday (Feb 2) it raised US$25 million."
+    publishedDateTime: 2022-02-02T08:48:00Z
+    webUrl: "https://www.channelnewsasia.com/business/chip-designer-mimicking-brain-backed-sam-altman-gets-us25-million-funding-2474731"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 50
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--VVINj8E5--/c_crop%2Ch_450%2Cw_800%2Cx_0%2Cy_53/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-02-02t081324z_1_lynxmpei1109u_rtroptp_3_wsjd-conference.jpg?itok=KZjWFBAO"
+        width: 1200
+        height: 676
+        isCached: true
 
-secured: "VO3zBrFqCAxKcEMPkB6XXKPAQmfg8c8bwPsXoETdu5aV3zrKv0mY9XOCtnoUiapg/f7H/2Yi/rmbpkIZOLrZ9+ExxWXEfh3fy3ZvzMgRt64MhVx7HEfbRiRGmVX3UJ0SbRz31q7x3kcyR2pvFfJOWeZIx1PSOsL8zJpopWF2l55uimxjFWHER8w5BP78yeD4Kxvo4J56MS5VDYPG8L88t5kDS8tO02eW6x17lRWtd2SMV5Q0mmoSEvCZN390EkbjifysCJY4/WOlOHMkTzSub+QNzubdy9iY7socRBiQhqLDof6rfMX7KNndYfnkIHVQxAuNkWBxG45HL3T8OFq+d6YlisvbEB6J1D9tSB6pZVI=;wNSPQ9OQP1NAvFIrygUc5A=="
+secured: "EzHhO+BJNdgY2R/oQ2B3RoEhM4PTeRf4dGq5eoliteirepY41euzX1A4eMvlGuezlmleHGI+4ieozVxnSQ1NGRqQbyj+hPu0Qy0J95AekpWJnuTsS1EVVd5Iet6Lnh7byG+hvtMHEz39iJMojEJjqg322/Srs3PpAemUnaTGicD9AkzYk+GG4xaZOLd85/e26fuGVJ5gpIba2cwAEUFCKET2bpJVffDp1+NnVKyTrZDTMXnkp5Pe0aLkwUYVtyVWMcbX0Y2GdAKogJPOT0rTgG1+QwHx5pwa0yYYzI50ZkcYx3j4d9XHe3Xsmjh90lwzxDqAc7e8hG6SyI2+h/4gs8f0JipZ3XKOEhpkODVkbTMM7hoOGolEc6yPGPxnlQffVmnnUcDSsf+XUFUci3Tyw7kjx3kXsPsnzjaME7d4itZ9sChZu/aY8SzBXRos011qiAZHL89AZ7bst2bHVnyBEQsroaxI3Vqzy44NhJOSrqZRRQ/H/kcbQTuBGKxlWdSt4sDbEVu3CjeLaEcbUiiyVw==;+W7i3GjQMrgKXiY7TLT5+A=="
 ---
 

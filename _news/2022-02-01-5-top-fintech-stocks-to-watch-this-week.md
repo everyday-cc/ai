@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-w
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-week?amp"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://commercialobserver.com/wp-content/uploads/sites/3/2022/01/10-year-forecast.png?w=768"
         width: 768
         height: 483
-        isCached: true
-  - title: "Fintech Trends to Drive 2022: Growth of Buy Now Pay Later and Increased Investments in Technology Enabling Financial Inclusion"
-    excerpt: "When looking at 2021 in review, two fintech trends factor prominently -- Buy Now, Pay Later (BNPL) and technology driving financial empathy/inclusion."
-    publishedDateTime: 2022-01-28T18:57:00Z
-    webUrl: "https://financialit.net/blog/pay-trends/fintech-trends-drive-2022-growth-buy-now-pay-later-and-increased-investments"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 0
-    images:
-      - url: "https://financialit.net/sites/default/files/snimok_ekrana_2022-01-28_175950.jpg"
-        width: 495
-        height: 473
         isCached: true
 
 secured: "pXtQIj1AJB5i74KNbn8zRoUuhi3rRQ7T+ps4OcmGHH/58ZiassPxoG1ldwyvIjmInIViztq+6qjFfLNvDlvVayISzwAxqZifg7eV6OdxCNydXTOcHvqoEjb4ejgcrExO5A18R50NHPji9psilpSAoyJvsTRIIwo/7Cs6YUi2DdSjaMZeF5WY3F+30OKXntyU3VyBCHuvN2iUP211X6k+OqEF7URcRSJ6zZn7zKVlqvDCXcSKi0yx1HGbIJYejrns2JLl/Quvg9tidsZFUGzTE9E5As2cXnPncIbXaQy8MjFhiKsIsKtMdwVGdEHXlGqZgiXK2olXr5E8dJV6sVU8zNrqQTik3bF2J3Dk9Kabsw0=;QC+0lUHjBjZ7PIyKWfLK6w=="

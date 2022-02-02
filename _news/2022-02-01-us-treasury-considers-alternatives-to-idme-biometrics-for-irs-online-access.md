@@ -71,20 +71,6 @@ related:
         width: 1778
         height: 1000
         isCached: true
-  - title: "Treasury Reconsiders IRS’s Use of ID.Me Face Recognition for Web"
-    excerpt: "The Treasury Department is reconsidering the Internal Revenue Service’s reliance on facial recognition software ID.me for access to its website, an official said Friday amid scrutiny of the company’s collection of images of tens of millions of Americans’ faces."
-    publishedDateTime: 2022-01-28T18:43:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-01-28/treasury-weighing-id-me-alternatives-over-privacy-concerns"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEZLRzdsvnfE/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The IRS plan to require face scans raises concerns about privacy and security"
     excerpt: "It's a major expansion of facial recognition technology by the U.S. government, and it's raising questions about how this kind of data will be used and shared across private and public agencies. Ina Fried, chief technology correspondent for Axios ..."
     publishedDateTime: 2022-02-01T16:32:00Z
