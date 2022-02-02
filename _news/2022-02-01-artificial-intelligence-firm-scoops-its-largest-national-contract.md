@@ -23,6 +23,17 @@ images:
     height: 430
     isCached: true
 
+related:
+  - title: "Artificial intelligence firm scoops its largest national contract"
+    excerpt: "Mark Taylor, CEO and founder of Call360, said: “This is a major win for us and puts Yorkshire on the map as a hub for excellence in artificial intelligence. “We have been investing heavily in building out the teams across the business over the last ..."
+    publishedDateTime: 2022-02-02T00:58:00Z
+    webUrl: "https://bdaily.co.uk/index.php/articles/2022/02/01/artificial-intelligence-firm-scoops-its-largest-national-contract"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 17
+
 secured: "J8hgGk6bIxjM9XiEbpSVpX8Wp5vP0EKwDDXdKRYd7KlPQCSJ/EKUrCZXiQjtoKtlRkDhYTPhtQGDpAOBDrPNX6LiIhwo1UtGtg5vl7enAHifDQJz4PGcoWRCFx/1AqPEG90VhHmZq/gNIbJOFnFjVDY0blDDlcMyhlNAhe0XBmewB2RVUH3rTghVacsyo780bAteRy0keRAnGacrzt988ge1SHeEUOLpN3ZnCPYAZA12podu0gpk4ieBawz7GYbJZbKWFIVjhaYQMWIDxyLL0jj4Yavm+hAtjO9u4ExS/mygY10JoleQLRM68WwRTdwCt+4JM7D7gYV/s3/Hir+uPP9U60Xk4ym4s+Qiz84cSpE=;LLUq73c74I/CVK1xQhboSg=="
 ---
 

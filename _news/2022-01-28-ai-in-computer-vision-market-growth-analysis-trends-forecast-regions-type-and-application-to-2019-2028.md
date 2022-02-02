@@ -63,7 +63,7 @@ related:
     provider:
       name: Inter Press Service
       domain: ipsnews.net
-    quality: 36
+    quality: 38
   - title: "Agricultural Robots Market Research Growth, Regions, Type and Application, Forecast Analysis to 2020-2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
     publishedDateTime: 2022-02-01T12:51:00Z

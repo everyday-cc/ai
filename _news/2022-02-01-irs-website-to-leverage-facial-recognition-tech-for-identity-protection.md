@@ -57,22 +57,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "IRS Website Will Soon Require Facial Recognition To Log Into Your Account"
-    excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are."
-    publishedDateTime: 2022-01-28T10:19:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/?amp"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 58
-    images:
-      - url: "https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2022/01/GettyImages-696625124.jpg?w=1024&h=576&crop=1"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "fnugoBf8AOmAEl01qSeR0pfYc4OvfKdbXBNjAgeGSnHrcNvVAw9K30ixAwK6lQQrMF6Uompuw4HCWbB8qiY1YDEjGSKfCo01FnoTLfVCxNp3YHljBksv7Lv1mRldpYjUgfqZO9/6O/xpX+N1S4pvWRl/OvsF54yInEieq9lC1kvmWydRcR9ianVCBfZHD5ZKQRz8aAcd5cfQWWim0MyakIRr7lJXsfqgGpKEosek04d0Tp53B26zypsIpT+bT1evhhwGiruwluf/1KZyLc1cG9VKW+Zh3MBKcEIbKVH1ay1UYokiR3zqZe5ENNlm36C8sln/oelW+4VfhrHj3Hj2QfgccYUOCsAm/w2GpnyWN2cJzwsplv9ZKuc62pF1Kj8qfZn1Hm1yxAEsf9kcnwxK2ZwdayO+fXNuZWC0LSKz8cBacuNQ5lXknjudYL5lKwslj2rdRkW5sog4d+umWbVIPpBj+LBZPN6140JUNSEFzPYjQ5Hmo6XTyHsPxvZKwvrOR4hvniIKEx1Wn+NRQXP8xQ==;TfuMdmUKpFpCcJKa7s8k/Q=="
 ---

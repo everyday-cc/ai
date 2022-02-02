@@ -45,14 +45,14 @@ related:
         isCached: true
   - title: "Government agencies are tapping a facial recognition company to prove..."
     excerpt: "James Hendler, Rensselaer Polytechnic Institute (THE CONVERSATION) The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing ..."
-    publishedDateTime: 2022-02-01T14:22:00Z
-    webUrl: "https://www.greenwichtime.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
-    ampWebUrl: "https://www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
-    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+    publishedDateTime: 2022-02-01T14:09:00Z
+    webUrl: "https://www.ctpost.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
+    ampWebUrl: "https://www.ctpost.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
     type: article
     provider:
-      name: Greenwich Time
-      domain: greenwichtime.com
+      name: Connecticut Post
+      domain: ctpost.com
     quality: 58
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
@@ -116,6 +116,20 @@ related:
       - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Edmonton police using facial recognition software to search mugshot database"
+    excerpt: "Starting this year, the Edmonton Police Service will be using NEC’s NeoFace Reveal facial recognition technology to help identify suspects in criminal investigations. Sarah Komadina reports."
+    publishedDateTime: 2022-02-02T01:45:00Z
+    webUrl: "https://globalnews.ca/video/8587770/edmonton-police-using-facial-recognition-software-to-search-mugshot-database/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 36
+    images:
+      - url: "https://i0.wp.com/media.globalnews.ca/videostatic/news/ps20ox0i7l-f1fhx2xx5d/6P_FACIAL_RECOGNITION.jpg?w=500&quality=70&strip=all"
+        width: 500
+        height: 281
         isCached: true
   - title: "Apple Finally Brings Mask Recognition Capabilities to Face ID"
     excerpt: "The improved Face ID function for a new version of iOS analyzes the area around the eye to identify someone wearing a mask"

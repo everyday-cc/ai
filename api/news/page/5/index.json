@@ -419,15 +419,15 @@
       "title": "Customization basics: tensors and operations",
       "excerpt": "To get started, import the tensorflow module. As of TensorFlow 2, eager execution is turned on by default. This enables a more interactive frontend to TensorFlow, the details of which we will discuss much later. import numpy as np ndarray = np.ones([3, 3 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=sk",
-      "originalUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=sk",
+      "webUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=nl",
+      "originalUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=nl",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sk",
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=nl",
           "width": 1200,
           "height": 675,
           "title": null,

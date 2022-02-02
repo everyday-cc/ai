@@ -40,6 +40,17 @@ related:
         width: 555
         height: 250
         isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market Expected to Grow at CAGR 5.51% and Forecast to 2028"
+    excerpt: "A New Market Study, Titled “Artificial Intelligence (AI) in Agriculture Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. Request Free Sample Report @  This report studies the Artificial Intelligence (AI) in Agriculture market,"
+    publishedDateTime: 2022-02-01T22:58:00Z
+    webUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/"
+    ampWebUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 38
   - title: "AI in Computer Vision Market Growth Analysis, Trends Forecast Regions, Type and Application to 2019 -2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
     publishedDateTime: 2022-01-28T14:46:00Z
@@ -54,17 +65,6 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Expected to Grow at CAGR 5.51% and Forecast to 2028"
-    excerpt: "A New Market Study, Titled “Artificial Intelligence (AI) in Agriculture Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. Request Free Sample Report @  This report studies the Artificial Intelligence (AI) in Agriculture market,"
-    publishedDateTime: 2022-02-01T22:58:00Z
-    webUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/"
-    ampWebUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 36
   - title: "Agricultural Robots Market Research Growth, Regions, Type and Application, Forecast Analysis to 2020-2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
     publishedDateTime: 2022-02-01T12:51:00Z

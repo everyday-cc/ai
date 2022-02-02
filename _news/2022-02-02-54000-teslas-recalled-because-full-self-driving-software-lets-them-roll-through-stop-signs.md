@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Tesla recall: Self-driving software runs stop signs"
-excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
-publishedDateTime: 2022-02-01T22:04:00Z
-originalUrl: "https://finance-commerce.com/2022/02/tesla-recall-self-driving-software-runs-stop-signs/"
-webUrl: "https://finance-commerce.com/2022/02/tesla-recall-self-driving-software-runs-stop-signs/"
+title: "54,000 Teslas recalled because \"Full Self-Driving\" software lets them roll through stop signs"
+excerpt: "DETROIT -- Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Recall documents posted ..."
+publishedDateTime: 2022-02-02T01:08:00Z
+originalUrl: "https://abc7.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+webUrl: "https://abc7.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
 type: article
-quality: 39
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Finance & Commerce
-  domain: finance-commerce.com
+  name: ABC7
+  domain: abc7.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://finance-commerce.com/files/2022/02/Tesla-AP.jpg"
-    width: 620
-    height: 330
+  - url: "https://cdn.abcotvs.com/dip/images/11529910_020122-kabc-md-tesla-recall-vid.jpg?w=1600"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -121,6 +121,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Tesla recall: Self-driving software runs stop signs"
+    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
+    publishedDateTime: 2022-02-01T22:04:00Z
+    webUrl: "https://finance-commerce.com/2022/02/tesla-recall-self-driving-software-runs-stop-signs/"
+    type: article
+    provider:
+      name: Finance & Commerce
+      domain: finance-commerce.com
+    quality: 39
+    images:
+      - url: "https://finance-commerce.com/files/2022/02/Tesla-AP.jpg"
+        width: 620
+        height: 330
+        isCached: true
   - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
     excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
     publishedDateTime: 2022-01-31T02:29:00Z
@@ -149,21 +163,7 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "54,000 Teslas recalled because \"Full Self-Driving\" software lets them roll through stop signs"
-    excerpt: "DETROIT -- Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Recall documents posted ..."
-    publishedDateTime: 2022-02-02T01:08:00Z
-    webUrl: "https://abc7.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 28
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/11529910_020122-kabc-md-tesla-recall-vid.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
 
-secured: "tA1sQ+PlqxPqVf6am2VRP93nOkd8gMRJP49+LUFkThDHi23JkSt9UbTVVATHbK9DP/gNy9iCHyZWl8s0o6jLJQvR/ifqwu3J1Fp6IL1CLT5qkuj/UjrfjnaenX3AoIeaKMZfeWMknkysgnxIszXPhEmgtTEicFOqV24ZMq8XAyn2d5gpWotplSG7AkB4nuESPX9SgdrdZ0QDJLmQycVH4n5nV8IzTUjIW+42YBlwTWB70LvSMDiealKDFWEvCkYehPejy/2+7wfxkHGV5eFJHSeN3zc7R5Q+NVUnRDNr0rJPcCTBj/fkjUiyoWNEryYhqUjwZtONAfU4BIFWFjIL7MkDb2KiD8tE/+79QcuTxWA=;p4iBZY93scRlkx11MGaq5w=="
+secured: "W32VZJHn+tRFjyXW7fwSVhlPxhh5OgwxdGrd+0eOzNl5vIqsu17M3JdLvUGgJtprzXr5imgp9/1TCytVDVwxl+uPnmbMy9zKg0raIv5uZM/Wwe4+Jlco+IWoOlihVShrbjuFXrvcPueAGfeOiyktYpwCLHdvRKwIhPAWLoykS3+4ab6M4Ri4vOTBkkHCKJAhWKWBqJSyegXZPyDpy+Lx2fX/hfgjDlnlkdcJ8hlOYwh3Foe+DWuFP1f8AJD5ZlNziGYLvyIHR/n+uQFCEFsPEa1rNccFMlc+BgVWPr7xzsvX9U+CClwYdStibZ7scoecRCm3CwpnXKcOxXLxgVxxANDHvJWHCLQQgNqiUC7A+qY=;JyQrhb59/gFMMTLM4+sm/w=="
 ---
 

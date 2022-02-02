@@ -8,7 +8,7 @@ webUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-a
 ampWebUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
 cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "Artificial intelligence (AI) in Education Market Analysis, Strategies, Segmentation and Forecasts 2021 - 2030"

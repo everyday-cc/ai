@@ -1,27 +1,27 @@
 ---
 category: news
-title: "U.S. Agencies Embrace Facial Recognition Technology"
-excerpt: "While facial recognition technology has helped identify more than 1,000 impostors attempting to enter the U.S. with false documents since 2018 and the increasing use of biometrics in airports and ..."
-publishedDateTime: 2022-02-01T16:09:00Z
-originalUrl: "https://thecrimereport.org/2022/02/01/u-s-agencies-embrace-facial-recognition-technology/"
-webUrl: "https://thecrimereport.org/2022/02/01/u-s-agencies-embrace-facial-recognition-technology/"
+title: "Edmonton police using facial recognition software to search mugshot database"
+excerpt: "Starting this year, the Edmonton Police Service will be using NEC’s NeoFace Reveal facial recognition technology to help identify suspects in criminal investigations. Sarah Komadina reports."
+publishedDateTime: 2022-02-02T01:45:00Z
+originalUrl: "https://globalnews.ca/video/8587770/edmonton-police-using-facial-recognition-software-to-search-mugshot-database/"
+webUrl: "https://globalnews.ca/video/8587770/edmonton-police-using-facial-recognition-software-to-search-mugshot-database/"
 type: article
-quality: 39
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: thecrimereport.org
-  domain: thecrimereport.org
+  name: Global News
+  domain: globalnews.ca
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
-    width: 400
-    height: 400
+  - url: "https://i0.wp.com/media.globalnews.ca/videostatic/news/ps20ox0i7l-f1fhx2xx5d/6P_FACIAL_RECOGNITION.jpg?w=500&quality=70&strip=all"
+    width: 500
+    height: 281
     isCached: true
 
 related:
@@ -117,19 +117,19 @@ related:
         width: 734
         height: 413
         isCached: true
-  - title: "Edmonton police using facial recognition software to search mugshot database"
-    excerpt: "Starting this year, the Edmonton Police Service will be using NEC’s NeoFace Reveal facial recognition technology to help identify suspects in criminal investigations. Sarah Komadina reports."
-    publishedDateTime: 2022-02-02T01:45:00Z
-    webUrl: "https://globalnews.ca/video/8587770/edmonton-police-using-facial-recognition-software-to-search-mugshot-database/"
+  - title: "U.S. Agencies Embrace Facial Recognition Technology"
+    excerpt: "While facial recognition technology has helped identify more than 1,000 impostors attempting to enter the U.S. with false documents since 2018 and the increasing use of biometrics in airports and ..."
+    publishedDateTime: 2022-02-01T16:09:00Z
+    webUrl: "https://thecrimereport.org/2022/02/01/u-s-agencies-embrace-facial-recognition-technology/"
     type: article
     provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 36
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
     images:
-      - url: "https://i0.wp.com/media.globalnews.ca/videostatic/news/ps20ox0i7l-f1fhx2xx5d/6P_FACIAL_RECOGNITION.jpg?w=500&quality=70&strip=all"
-        width: 500
-        height: 281
+      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Apple Finally Brings Mask Recognition Capabilities to Face ID"
     excerpt: "The improved Face ID function for a new version of iOS analyzes the area around the eye to identify someone wearing a mask"
@@ -155,6 +155,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "5f/hw6BRwo362CgjmM8rbykpt0r4dCiTCchihmle5kjoa946z1Qpvi7jaczlzBuswUmq/UklVqiKqXtDDj9mYPKJcRzaQCp+6xoZOOLSO/6M4cARdc6M54/Zunmie52yfaJ9npVoetEqItmPToKLUM4rYVBdUlLpQSmpVtqZFAsuF8HzwRHGaB+47cIXMq3H1LUMU5GkXtF/GwkmFnt0gthqaogssZSX2cwcR7blhQQDNImmPYXKlqZzJUoZlU/ld5kMJHapEoOZ5ri3MMg7a5mU8dWSUK8PqyEkkNrIsqnKyShZMvfD9o4Xan42J7zCJJyk7VLARzqH1FBK2x91fL1jX7pUEi3IS+s6bei4Lrg=;1iTdhq7I3M2fCUCP9ho0Cw=="
+secured: "CMU2JutvFUs9JESWXgwgoccdRqz0XRisSJ5BCu3jn0oV5Z0btpCP4gX2wIF0WnFKbbxFw4vN9o/9yF8rLot4BrK3oe976Lqdpo4J+7QEQoCulMhK9brKUxqKc4oVT+tmc/gwGnVOIuOzyqiOm6srK7Su86ak7syGhVIGlNLfFssiYj/dBM4DZhEent0naAIlBzz97loyLPU87JoOl8B3oC+pye/DhAKD7F4aGtZINr9LIoSbKbd8T9HbbZ0z6NXxj+zJs+DN3/gJ+L+UG7vh9LIWq6oS56m9u24lUTYH9b2TBh0oHLzbyHnI6Ogu42xlMyGQOB0y0vAsR1gMMraM/cB757cWPtyRZ/ObsXEYz6g=;c+IihcJOWhY799ZUYu1Fuw=="
 ---
 

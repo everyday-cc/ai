@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-for-all-onli
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://media.wfaa.com/assets/KHOU/images/c5124352-d52e-4a4e-b816-217f7d009267/c5124352-d52e-4a4e-b816-217f7d009267_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "IRS Website Will Soon Require Facial Recognition To Log Into Your Account"
-    excerpt: "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are."
-    publishedDateTime: 2022-01-28T10:19:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/?amp"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2022/01/28/irs-website-will-soon-require-facial-recognition-to-log-into-your-account/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 58
-    images:
-      - url: "https://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2022/01/GettyImages-696625124.jpg?w=1024&h=576&crop=1"
-        width: 1024
-        height: 576
         isCached: true
   - title: "IRS website to leverage facial recognition tech for identity protection"
     excerpt: "Agency to require those wanting to access their accounts to submit selfies and photos of their identification documents"
