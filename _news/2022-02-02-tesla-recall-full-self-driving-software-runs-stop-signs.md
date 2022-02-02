@@ -2,19 +2,19 @@
 category: news
 title: "Tesla recall: ‘Full Self-Driving’ software runs stop signs"
 excerpt: "Tesla is recalling nearly 54,000 vehicles because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
-publishedDateTime: 2022-02-02T00:19:00Z
-originalUrl: "https://www.kansas.com/news/business/article257917263.html"
-webUrl: "https://www.kansas.com/news/business/article257917263.html"
-ampWebUrl: "https://amp.kansas.com/news/business/article257917263.html"
-cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article257917263.html"
+publishedDateTime: 2022-02-02T03:42:00Z
+originalUrl: "https://www.thenewstribune.com/news/business/article257917263.html"
+webUrl: "https://www.thenewstribune.com/news/business/article257917263.html"
+ampWebUrl: "https://amp.thenewstribune.com/news/business/article257917263.html"
+cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article257917263.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Wichita Eagle
-  domain: kansas.com
+  name: News Tribune
+  domain: thenewstribune.com
 
 topics:
   - AI in Autos
@@ -291,6 +291,20 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "Tesla recalls more than 54 thousand ‘full self driving’ cars"
+    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Recall documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
+    publishedDateTime: 2022-02-02T03:37:00Z
+    webUrl: "https://www.abccolumbia.com/2022/02/01/tesla-recalls-more-than-54-thousand-full-self-driving-cars/"
+    type: article
+    provider:
+      name: ABC Columbia
+      domain: abccolumbia.com
+    quality: 54
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2021/02/eba7c33fd390d68742a3d0e176468b9f64f0215a.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla's Full Self-Driving Feature Dealt A Big Blow, Puts Musk's Promises at Risk"
     excerpt: "The Austin-based company is recalling nearly 54,000 cars -- all models combined, S, X, Y, 3 -- for a problem related to the Full Self-Driving Beta advanced driving assistant, according to a notice put online by National Highway Traffic Safety Administration."
     publishedDateTime: 2022-02-01T21:02:00Z
@@ -389,6 +403,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "2MpQ6lbqCW4kMFkhXqbmFz43CmbqKHq6e2PH0Hc2h+PzWo78FZ1gylWFqvBXheAMjbdsKa1zQLwJohETHOBQrleVSgwj3hKnsa5MnoL8pcsPzVR/jvNrThbDBm8E89ze3aFzSE9BXRDPw5huDGdw4/iMyYw+K1idtl1DVKTKK07NhxIOu31cRl0xoaTQN1Ju9ib00X2zpgXiwlFW67eLhauIoMTK1i9RaRm/va2FlGSiFUFth0AH7fnqNiac0h2Pf7eMKKskW686A1DPsHLwqZuX+ZJ68akl4oUk7ALlAWyDd7xmUQDXBu6faoY8eZpdbKwRYTbedeNaD0ssDsoiJcr6W2UIajp3WohWwwwgOrcaCbskFa3tk6jsyis6WwQHZxPmpUHiGHPP5wsTEh+qNR+cf+vXN8sULCnPPC0i1fsD2EoLVZxAGS/C0npvTPnN5EgDtjNzK25qdkAPl2Wrswv+4WHxgysHp3c9sxafNjot++nNy6ItArVLvS8HSRgM62E8RmBwQZPAltisunxf9w==;5D8F0x8n4MQRiwv1SnnJFA=="
+secured: "90wJRFuXfKheeDPBaLOR0vT7use92lbx2e2aaGJcQbfpHBkLgk2/vyrPOh9tYvrV0yCva7Lz23sfwZg3KVB/yGCb6XDCmcsvzp32uy/Hq1r+uUda3NfdpWdjypP3Gzv35tkgX6xrXUHGGD/0klMnIeF6/kD2daUqjpAACjpf20g8BmJPuQW+9mKJhwk4a5pYY8XDKvJkiy1Dlj231CLCS0eGLLV+AIMzAgWRG2GJVhM2ASJPEa+WlG4sJaXOZcXNFhbZ2xpfsGbLx5ErtiZUjc2PGfOkA5zu02d9Stz61+x1EvOV6+/e6vi+fMPJsMayUV9ZeKWit5D5PvEk2wgXWkjlmDf984Q47ve2KHgJnM6HNBh2y1XRxmAe4KmTv5JWK8Ayezhyy9CjnqVKnn/6ofJoMafJK/VJ2IGs4iy8bFvjLxCU61EfxEdxNGTBhqw8AXRIy1116nzsKb/egi2LZN4oq6v8mNCfpedan6vX0V966GZtGCWf4xAdrpYrhgWPPS8OF7DQglMV2ONu1OOblw==;g0iZ5niE39MLIb53HA6oGA=="
 ---
 

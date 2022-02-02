@@ -28,13 +28,13 @@ related:
   - title: "Government agencies are tapping a facial recognition company to prove..."
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID."
     publishedDateTime: 2022-02-01T18:03:00Z
-    webUrl: "https://www.thehour.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
-    ampWebUrl: "https://www.thehour.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
-    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+    webUrl: "https://www.newstimes.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
+    ampWebUrl: "https://www.newstimes.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+    cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
     type: article
     provider:
-      name: The Hour
-      domain: thehour.com
+      name: NewsTimes Danbury
+      domain: newstimes.com
     quality: 58
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

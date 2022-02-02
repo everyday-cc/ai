@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Tesla recalls 'Full Self-Driving' software that runs stop signs"
-excerpt: "Tesla's most recent update to its so-called Full Self-Driving (Beta) software included an \"Assertive\" mode that allowed vehicles to roll through stop signs at speeds of up to 5.6 miles per hour, without coming to a complete stop. Turns out — unsurprising ..."
-publishedDateTime: 2022-02-01T14:04:00Z
-originalUrl: "https://www.autoblog.com/2022/02/01/tesla-full-self-driving-recall-runs-stop-signs/"
-webUrl: "https://www.autoblog.com/2022/02/01/tesla-full-self-driving-recall-runs-stop-signs/"
-ampWebUrl: "https://www.autoblog.com/amp/2022/02/01/tesla-full-self-driving-recall-runs-stop-signs/"
-cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/02/01/tesla-full-self-driving-recall-runs-stop-signs/"
+title: "Tesla recalls more than 54 thousand ‘full self driving’ cars"
+excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Recall documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
+publishedDateTime: 2022-02-02T03:37:00Z
+originalUrl: "https://www.abccolumbia.com/2022/02/01/tesla-recalls-more-than-54-thousand-full-self-driving-cars/"
+webUrl: "https://www.abccolumbia.com/2022/02/01/tesla-recalls-more-than-54-thousand-full-self-driving-cars/"
 type: article
-quality: 59
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Autoblog
-  domain: autoblog.com
+  name: ABC Columbia
+  domain: abccolumbia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/8256x4644+0+640/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2022-01/337cc300-8366-11ec-8ff7-2447848f33ff"
-    width: 800
-    height: 450
+  - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2021/02/eba7c33fd390d68742a3d0e176468b9f64f0215a.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -104,6 +102,22 @@ related:
       - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Rm0HGPtosf1FSDppGhV0lUW00f0=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7WRJVTBJCTCEKKLRNNK7QTZ2DM.jpg"
         width: 506
         height: 338
+        isCached: true
+  - title: "Tesla recalls 'Full Self-Driving' software that runs stop signs"
+    excerpt: "Tesla's most recent update to its so-called Full Self-Driving (Beta) software included an \"Assertive\" mode that allowed vehicles to roll through stop signs at speeds of up to 5.6 miles per hour, without coming to a complete stop. Turns out — unsurprising ..."
+    publishedDateTime: 2022-02-01T14:04:00Z
+    webUrl: "https://www.autoblog.com/2022/02/01/tesla-full-self-driving-recall-runs-stop-signs/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/02/01/tesla-full-self-driving-recall-runs-stop-signs/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/02/01/tesla-full-self-driving-recall-runs-stop-signs/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 59
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/8256x4644+0+640/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2022-01/337cc300-8366-11ec-8ff7-2447848f33ff"
+        width: 800
+        height: 450
         isCached: true
   - title: "Tesla recall: ‘Full Self-Driving’ programmed to roll through stop signs"
     excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Recall documents posted Tuesday by U.S. safety regulators say that Tesla will disable the ..."
@@ -281,20 +295,6 @@ related:
         width: 2048
         height: 1536
         isCached: true
-  - title: "Tesla recalls more than 54 thousand ‘full self driving’ cars"
-    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Recall documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
-    publishedDateTime: 2022-02-02T03:37:00Z
-    webUrl: "https://www.abccolumbia.com/2022/02/01/tesla-recalls-more-than-54-thousand-full-self-driving-cars/"
-    type: article
-    provider:
-      name: ABC Columbia
-      domain: abccolumbia.com
-    quality: 54
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2021/02/eba7c33fd390d68742a3d0e176468b9f64f0215a.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tesla's Full Self-Driving Feature Dealt A Big Blow, Puts Musk's Promises at Risk"
     excerpt: "The Austin-based company is recalling nearly 54,000 cars -- all models combined, S, X, Y, 3 -- for a problem related to the Full Self-Driving Beta advanced driving assistant, according to a notice put online by National Highway Traffic Safety Administration."
     publishedDateTime: 2022-02-01T21:02:00Z
@@ -404,6 +404,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "JwWHvJ0fMtCvrY2zfZuHEhPGunO/ZEPEumSAPW2psRuc64v2UlFHAm714mtlM1aPLLM46rRz54QOfMUSZAdRYO3UvlM1ZovM5KtcRHP9CzqHCV+p0O0mUqvpH7LjRPvWIT4imwKEe9y+TpZS63uvi3k8+hWFBsUYSjTvyjP3LhYrifWFYgMOQ0nthOMd2Wal+MVU6DIB8PvDD93fwAE6VFHY+TkPqE44RxkjsQFWQbMECOEIvXoiOWAMJAsE7tf2F+oLDxyoB0WqY9y8utc0ZHV83bLT4fElk3d7lSCFI+a8zS6RkSqqYolkMx8QgHzI4SUJXpJRkcHtK0U97hTK4PRuWDlo8hbiO/ymWWyO3IXS0PQM1Ms7lMUIbQEzdObE+fz2acLwIt6NDQv718YH0jpy7m05NRA65Ig77QmVWjlCUcRlkEsr/LuxQzHqw3gMV+gFoB1eQPnN1zwPvIdRiN9QBQxn/HJIIZL+oqfpAXljXsOmIrm36Bwq5rTcZt2hjxoKa0IpE9Tvb9vyc6r32g==;OR9cJfqUCm/dZPFkYSvWyw=="
+secured: "jxYt2MMWchoJEhY8whwtMbMYa4+13hpqtHT3PliO4DWnsfhlhkLMF1tts950tkNvbn7sEJf3sv0sJDr5tRhVBf/J7i00aCL+MCeQClGkwvrx5cbL6nssYMOXhro8sKbefuOW1QViFkUIJUGQ9xl8j2oU0hwJa9Sl+4k9HA6pXn2EKSFMfBeOQ7Jck654ZfHgZjAuyS+E30b0mHJV1SSFS3Da318K3hyt/W0IUwYscaXWnzIzgHfxG7nSE6O4I0YCrrvBh7m+lHZx43WdHrAZo8d7JcRfw1k4xvK2tURCXGM1Zh6Qld2LO+w8YXPrL9yhgANa7ZICS5DX+ytc7G72BxSBFR0+EvCAtUzWSvAxZGQ=;66bwD0iOn7JtPglah2EHPA=="
 ---
 

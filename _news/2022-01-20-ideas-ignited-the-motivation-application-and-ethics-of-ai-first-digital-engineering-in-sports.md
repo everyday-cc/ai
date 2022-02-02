@@ -3,8 +3,8 @@ category: news
 title: "Ideas Ignited | The motivation, application and ethics of AI-first digital engineering in sports"
 excerpt: "Quantiphi's Sanjiv Chourasia outlines how technology providers and the sporting ecosystem are integrating AI to elevate sports."
 publishedDateTime: 2022-01-20T06:08:00Z
-originalUrl: "https://www.sportspromedia.com/insights/opinions/sports-tech-application-ethics-ai-digital-engineering-quantiphi-ignition/"
-webUrl: "https://www.sportspromedia.com/insights/opinions/sports-tech-application-ethics-ai-digital-engineering-quantiphi-ignition/"
+originalUrl: "https://www.sportspromedia.com/opinions/sports-tech-application-ethics-ai-digital-engineering-quantiphi-ignition/"
+webUrl: "https://www.sportspromedia.com/opinions/sports-tech-application-ethics-ai-digital-engineering-quantiphi-ignition/"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI Ethics
   - AI
 
-secured: "XGRqYHrHY5m+EzOKoEQgVTTYB4iEhnVAuXfRJ5jg7osXLrGTAa4ZYU3ERXDfKS3cZycCX/XNTi0s7LWZoUly23oVcbVM09BAkNNrmeMqnLasVQ38mtyW+b5dONcJwoNOatArGRL9y+vEr3c9rPpBLwH9B/Fay1vIhYz64a6jefVWv8AQmk/SufBhFWjMR2mHei98DghRbUzPobf88IZWiJgwWXXhRj9jXbBqjkVKOnFU+Svz7gDzZ7FrVzMjC16MBCandDjnLqgSKEeDufrf+U2v1YEpg5eXaYMhYZqqPZj+9uaVcoQFMWl9AKddooEtkf/OON9XpHB7Z07e2ig6bVFcbSJz0e9scKQpmrAKRk4trQCcirRmBPuya907Lpj8/221gw8BZjd/77jWA3skbIelM5jRa9Il+hncQCCejuAh7r6WceMZWp/ZhB0VmmgM0VD1MA2pZW+qRkTp2ZhQI2cc/zqbC/hOuj8qofSJ6T0La+iUJRudCb9zW+bHVrkvpG4LG7NXQaTb3apyLohObQ==;NVc/qHlJixXoll5TzR2NGg=="
+secured: "uHSX/1yWBlyJJ9XNLkalSR0j0z8m9geyF/HZMkdtGwM52iPq9pl/8cOolLi7+c40Q2gko0p1Z6v600GWaz7KUP+MR3Yzz961AyRY5LSm0SpRBHmgG7gkRMjXt3e2A8tDQGMyP9uv5OhVLXqlJs4UhYHvBqaCKyGdw6ctvBmOHEMjxyIJeT84q+q8F7zqTQluHPNwyZD07YjeU+4XzztM8kjDTCQYA5qWzK5j7Wvkye+FHy2G3HW+SF2e+5LofKrU4yXMDHXTdzOzZOusSEhHetV4thRAKi+0gq8pJSRJO2jqlV1uGL9G/hGF2R7DkmKlzE1672S1fC8XBOgn9AHZUWtBF1rIYOlBOO1zYlmIP1/kSgfjiXkza0UCSZeMseb501c1Rl4ZN19C93IyV9x/cS9xbzL9aHLfZ3P5XqoD1U3V0RoaHH+JQm0UcFCUeFSG0Bdx/zG+M6sMyZBZo91QLxaLXhzPXgOObeSMmLU3DTEIfNqBTNL7ZAM5pul8nNUR64NdTwTXTMt7VAKP795O8w==;S6KeitP5Rp2ehabkIFDOrA=="
 ---
 

@@ -39,20 +39,6 @@ related:
         width: 268
         height: 249
         isCached: true
-  - title: "Mobile Robot Market Forecast, Restraints, Merger, Acquisition, SWOT Analysis, PESTELE Analysis and Business Opportunities by 2027"
-    excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
-    publishedDateTime: 2022-01-28T11:58:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-forecast-restraints-merger-acquisition-swot-analysis-pestele-analysis-and-business-opportunities-by-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI-Based Electrical Switchgear Market Size, Growth, Trends, And Global Segments Analysis Report to 2030"
     excerpt: "The global AI-based electrical switchgear market is projected to grow with a moderate CAGR during the forecast period, i.e., 2022-2030, on account"
     publishedDateTime: 2022-01-30T07:40:00Z

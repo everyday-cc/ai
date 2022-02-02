@@ -297,6 +297,20 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "Tesla recalls more than 54 thousand ‘full self driving’ cars"
+    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Recall documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
+    publishedDateTime: 2022-02-02T03:37:00Z
+    webUrl: "https://www.abccolumbia.com/2022/02/01/tesla-recalls-more-than-54-thousand-full-self-driving-cars/"
+    type: article
+    provider:
+      name: ABC Columbia
+      domain: abccolumbia.com
+    quality: 54
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2021/02/eba7c33fd390d68742a3d0e176468b9f64f0215a.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla issues recall after ‘Full Self-Driving’ software allows cars to run stop signs"
     excerpt: "Tesla is recalling nearly 54,000 vehicles because their 'Full Self-Driving' software lets them roll through stop signs without coming to a complete halt."
     publishedDateTime: 2022-02-01T12:52:00Z
@@ -329,14 +343,14 @@ related:
         isCached: true
   - title: "Tesla recall: ‘Full Self-Driving’ software runs stop signs"
     excerpt: "Tesla is recalling nearly 54,000 vehicles because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
-    publishedDateTime: 2022-02-02T00:19:00Z
-    webUrl: "https://www.kansas.com/news/business/article257917263.html"
-    ampWebUrl: "https://amp.kansas.com/news/business/article257917263.html"
-    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article257917263.html"
+    publishedDateTime: 2022-02-02T03:42:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article257917263.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article257917263.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article257917263.html"
     type: article
     provider:
-      name: Wichita Eagle
-      domain: kansas.com
+      name: News Tribune
+      domain: thenewstribune.com
     quality: 39
   - title: "Tesla recalls all 53,822 vehicles with its ‘full self-driving’ feature"
     excerpt: "By Matt McFarland, CNN Business Tesla will recall all 53,822 vehicles with its “full self-driving” driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."

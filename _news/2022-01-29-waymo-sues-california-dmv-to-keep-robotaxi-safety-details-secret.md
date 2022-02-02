@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Waymo sues state DMV to keep robotaxi safety details secret"
-    excerpt: "A court may decide whether Waymo's business interests outweigh the public's right to understand the safety issues around self-driving cars"
-    publishedDateTime: 2022-01-28T13:00:29Z
-    webUrl: "https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice"
-    ampWebUrl: "https://www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice?_amp=true"
-    type: article
-    provider:
-      name: latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice
-      domain: latimes.com/business/story/2022-01-28/waymo-robot-taxi-sues-state-secret-black-ice
-    quality: 174
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/a87d333/2147483647/strip/true/crop/5388x3603+341+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F46%2F743f192846669dfbca0ba9668179%2F473702-sd-me-ucsd-driver-less-vehicels-hl-003.jpg"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Waymo Sues California DMV Over Robotaxi Safety Data"
     excerpt: "The driverless car company — which is owned by Google parent Alphabet Inc. — operates an autonomous taxi fleet in San Francisco, and the question in the suit is whether public safety-related data can be a trade secret."
     publishedDateTime: 2022-01-28T17:23:00Z

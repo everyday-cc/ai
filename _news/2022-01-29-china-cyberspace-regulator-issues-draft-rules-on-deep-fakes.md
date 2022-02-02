@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China Proposes Increased Regulation of Deepfakes and Other AI Synthesis Systems"
-    excerpt: "The Cyberspace Administration of China (CAC) has proposed a new set of draft regulations to govern AI-aided synthesis systems, including deepfakes, virtual reality scenes, text generation, audio, and other sub-sectors of AI media synthesis – a field in which China produces a prodigious number of academic papers and innovative research projects each month."
-    publishedDateTime: 2022-01-28T12:31:00Z
-    webUrl: "https://www.unite.ai/china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 133
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/china-deepfake-rules-2022a.jpg"
-        width: 818
-        height: 514
-        isCached: true
   - title: "China targets deepfakes in proposed regulation governing deep learning AI technologies"
     excerpt: "Providers of services that manipulate images and videos will be required to verify user identities and respect social morality."
     publishedDateTime: 2022-01-29T19:00:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-19-artificial-intelligence-accountability-what-your-company-needs-to-know-if-it-uses-or-develops-products-with-ai.md",
+      "title": "Artificial Intelligence Accountability: What Your Company Needs to Know if it Uses or Develops Products with AI",
+      "excerpt": "AI Creates Unintended Consequences For those familiar with Artificial Intelligence (AI), this is stating the obvious.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-accountability-what-your-company-miller",
+      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-accountability-what-your-company-miller",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH1sqoTfP3DcQ/article-cover_image-shrink_720_1280/0/1642338763542?e=1648684800&v=beta&t=KAup9izJRMc523_UaTK9xutbTd-cI0eZ4eL5TYehNMU",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "Artificial intelligence (AI) services can help companies ... It also continues to invest in next-gen technologies, like Waymo's driverless cars, which could evolve into revenue-generating ...",
@@ -1325,49 +1377,6 @@
       "provider": {
         "name": "dallasinnovates.com",
         "domain": "dallasinnovates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-dmv-revisiting-its-approach-to-regulating-teslas-public-self-driving-test.md",
-      "title": "DMV ‘revisiting’ its approach to regulating Tesla’s public self-driving test",
-      "excerpt": "But confronted with dozens of viral videos showing Tesla’s Full Self-Driving beta technology driving the car into dangerous situations, and a letter of concern from a key state legislator ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job",
-      "originalUrl": "https://www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/fb379c5/2147483647/strip/true/crop/3924x2624+6+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F59%2Fd3%2F70020613444dad0286aa7055aa14%2Fla-photos-1staff-20190912-sacramentopol-robertgourley-940.jpg",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job?_amp=true",
-      "publishedDateTime": "2022-01-11T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
         "images": null,
         "publishers": null,
         "authors": null

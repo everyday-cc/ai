@@ -160,6 +160,59 @@
       ]
     },
     {
+      "path": "_news/2022-01-30-china-targets-deepfakes-in-proposed-regulation-governing-deep-learning-ai-technologies.md",
+      "title": "China targets deepfakes in proposed regulation governing deep learning AI technologies",
+      "excerpt": "Providers of services that manipulate images and videos will be required to verify user identities and respect social morality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai",
+      "originalUrl": "https://www.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/29/5031b18e-bcda-466a-afac-2d1e33ee512e_6a76c979.jpg?itok=uarvlE33&v=1643449822",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai",
+      "publishedDateTime": "2022-01-29T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-01-30-bias-in-ai-is-spreading-and-its-time-to-fix-the-problem.md",
       "title": "Bias in AI is spreading and it’s time to fix the problem",
       "excerpt": "To unlock the full power of automation and create change, we must understand how and why bias in AI happens and what to do about it.",
@@ -520,8 +573,8 @@
       "title": "Ideas Ignited | The motivation, application and ethics of AI-first digital engineering in sports",
       "excerpt": "Quantiphi's Sanjiv Chourasia outlines how technology providers and the sporting ecosystem are integrating AI to elevate sports.",
       "sourceUrl": null,
-      "webUrl": "https://www.sportspromedia.com/insights/opinions/sports-tech-application-ethics-ai-digital-engineering-quantiphi-ignition/",
-      "originalUrl": "https://www.sportspromedia.com/insights/opinions/sports-tech-application-ethics-ai-digital-engineering-quantiphi-ignition/",
+      "webUrl": "https://www.sportspromedia.com/opinions/sports-tech-application-ethics-ai-digital-engineering-quantiphi-ignition/",
+      "originalUrl": "https://www.sportspromedia.com/opinions/sports-tech-application-ethics-ai-digital-engineering-quantiphi-ignition/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1401,51 +1454,6 @@
         "Microsoft AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology.md",
-      "title": "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology",
-      "excerpt": "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,",
-      "sourceUrl": null,
-      "webUrl": "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/",
-      "originalUrl": "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://internationalbanker.com/wp-content/uploads/2021/12/Facial-Recognition-Technology.png",
-          "width": 975,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Banker",
-        "domain": "internationalbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics",
-        "Computer Vision"
       ]
     }
   ],

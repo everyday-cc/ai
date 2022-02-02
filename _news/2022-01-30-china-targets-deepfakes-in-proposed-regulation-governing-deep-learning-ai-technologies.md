@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.scmp.com/tech/policy/article/3165244/china-targets-deepf
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3165244/china-targets-deepfakes-proposed-regulation-governing-deep-learning-ai"
 type: article
 quality: 98
-heat: -1
-published: false
+heat: 108
+published: true
 
 provider:
   name: South China Morning Post
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "China Proposes Increased Regulation of Deepfakes and Other AI Synthesis Systems"
-    excerpt: "The Cyberspace Administration of China (CAC) has proposed a new set of draft regulations to govern AI-aided synthesis systems, including deepfakes, virtual reality scenes, text generation, audio, and other sub-sectors of AI media synthesis – a field in which China produces a prodigious number of academic papers and innovative research projects each month."
-    publishedDateTime: 2022-01-28T12:31:00Z
-    webUrl: "https://www.unite.ai/china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 133
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/china-deepfake-rules-2022a.jpg"
-        width: 818
-        height: 514
-        isCached: true
   - title: "China cyberspace regulator issues draft rules on deep fakes"
     excerpt: "The Cyberspace Administration of China (CAC) announced draft provisions and regulations, called the Administration of Deep Synthesis of Internet Information Services, for content providers who alter"
     publishedDateTime: 2022-01-29T12:47:00Z

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Robot Market Forecast, Restraints, Merger, Acquisition, SWOT Analysis, PESTELE Analysis and Business Opportunities by 2027"
-    excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
-    publishedDateTime: 2022-01-28T11:58:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-forecast-restraints-merger-acquisition-swot-analysis-pestele-analysis-and-business-opportunities-by-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Multiple cloud-computing investment opportunities"
     excerpt: "Businesses of every size and sector benefit from the on-going cloud computing revolution. “Potential investment opportunities around the cloud seem endless,” said Christophe Braun, Investment Specialist at Capital Group in Luxembourg,"
     publishedDateTime: 2022-01-31T20:07:00Z
