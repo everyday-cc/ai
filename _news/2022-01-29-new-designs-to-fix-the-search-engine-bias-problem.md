@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 603
         isCached: true
+  - title: "Tomi.ai Joins StartX to Blaze the Trail for Predictive Marketing in Banking, Real Estate, and SaaS"
+    excerpt: "Tomi.ai is excited to announce its acceptance into StartX, a coveted startup accelerator created by, and for, the brightest Stanford alumni and faculty founders. Tomi.ai is a predictive marketing platform that empowers businesses with long sales & LTV cycles to turn their paid digital marketing into a fully transparent e-commerce-like business."
+    publishedDateTime: 2022-02-01T19:17:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-daaf847f50833b3843ea33457d35b003"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 40
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Seat Belts, Startups, and Why Bias in AI is a Human Problem"
     excerpt: "By Luke Lennon, Director of Brand and Community at Stratyfy Compared to men, women are 47% more likely to be seriously injured and 17% more likely to die if they're in a car crash. Why?  In a word, bias."
     publishedDateTime: 2022-01-28T19:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcentral.co.za/cape-town-start-up-launches-ai-powered-rec
 cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/cape-town-start-up-launches-ai-powered-recruitment-platform/207266/?amp=1"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 2156
     height: 1120
     isCached: true
+
+related:
+  - title: "Max Hospital launches AI based cancer treatment technology"
+    excerpt: "This technique destroys or reduces tumors by combining the precision of intensity-modulated radiation therapy and image guided scan"
+    publishedDateTime: 2022-02-02T06:32:00Z
+    webUrl: "https://www.expresshealthcare.in/news/max-hospital-launches-ai-based-cancer-treatment-technology/433321/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/max-hospital-launches-ai-based-cancer-treatment-technology/433321/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/max-hospital-launches-ai-based-cancer-treatment-technology/433321/"
+    type: article
+    provider:
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 59
+    images:
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/02/02122810/admin-ajax-4-1.jpg"
+        width: 750
+        height: 400
+        isCached: true
 
 secured: "tjSv7Em+Wawsa5JMioHbYZb7no/n/jg7Oe+Maf/faxeexr+0/mh5JRz7LYdFrAWyNhWVQOql1eXLWb1q/qJ7gLhdtIhmFYd8PqLNYCBwcg4Oa5F1OmzV9QMMHAf3UkOR9eEEDlgjtM0qIJTNh7CcXIrqj52jnyZAY75BuKiDNMMCrQcYVKiWIJUzMhGGsw1EX5qM26wjDMuumiHVAKKzqV8zZzS3kH6nO5+xxhyaB37bCYI148Z/QocpdYHHJy5i0x2Fwoo0QdmjMSM7h9fWHiVz7GUAP7p/EzpAVhgUPToslVw1LBygLAJAO2kzXBBjkE5B8/7HhHRJ1XV9ayKZfMG29+jRo8M+ZGgPAUebq+3ZPFgqZ+ovEk2YxV3tNB2wwyMUhUmTLUSHck/JnLfl4GWyzkNKHYwlvWuoc4f0VivR8VOBxqoDxSIgV+LkpaUIR8OeY3cbF8N/+SJZW1A8QIwK8e9hNDsjuUcwnM23sgDKdLEQxF9LxqgOdXCuTO5IhyDiXis+k8qkObDT43hQ5A==;hAqtPCbhAZkKyZmY/Alftg=="
 ---

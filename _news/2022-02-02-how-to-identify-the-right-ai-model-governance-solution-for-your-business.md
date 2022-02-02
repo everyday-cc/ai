@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/01/how-to-identify-the-right-ai-mode
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/how-to-identify-the-right-ai-model-governance-solution-for-your-business/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

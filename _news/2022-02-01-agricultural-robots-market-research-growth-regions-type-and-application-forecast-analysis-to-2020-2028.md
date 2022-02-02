@@ -53,6 +53,20 @@ related:
         width: 555
         height: 250
         isCached: true
+  - title: "Computer Vision in Healthcare Market: Qualitative Analysis, Quantitative Analysis, Forecast up to 2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 02, 2022, 03:33 /Comserve / -- The global Computer Vision in Healthcare market report provides geographic analysis covering regions, such as North America ..."
+    publishedDateTime: 2022-02-02T08:39:00Z
+    webUrl: "https://menafn.com/1103629339/Computer-Vision-in-Healthcare-Market-Qualitative-Analysis-Quantitative-Analysis-Forecast-up-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?444661"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence (AI) in Agriculture Market Expected to Grow at CAGR 5.51% and Forecast to 2028"
     excerpt: "A New Market Study, Titled “Artificial Intelligence (AI) in Agriculture Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. Request Free Sample Report @  This report studies the Artificial Intelligence (AI) in Agriculture market,"
     publishedDateTime: 2022-02-01T22:58:00Z

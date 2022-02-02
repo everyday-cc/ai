@@ -49,6 +49,20 @@ related:
         width: 555
         height: 250
         isCached: true
+  - title: "Computer Vision in Healthcare Market: Qualitative Analysis, Quantitative Analysis, Forecast up to 2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 02, 2022, 03:33 /Comserve / -- The global Computer Vision in Healthcare market report provides geographic analysis covering regions, such as North America ..."
+    publishedDateTime: 2022-02-02T08:39:00Z
+    webUrl: "https://menafn.com/1103629339/Computer-Vision-in-Healthcare-Market-Qualitative-Analysis-Quantitative-Analysis-Forecast-up-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 40
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?444661"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Agricultural Robots Market Research Growth, Regions, Type and Application, Forecast Analysis to 2020-2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
     publishedDateTime: 2022-02-01T12:51:00Z

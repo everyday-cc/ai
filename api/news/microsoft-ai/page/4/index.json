@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-23-global-iot-technology-market-outlook-2026-evaluates-leading-vendors-nvidia-ibm-intel-samsung-electronics-microsoft-and-45-others.md",
+      "title": "Global IoT Technology Market Outlook, 2026 | Evaluates Leading Vendors Nvidia, IBM, Intel, Samsung Electronics, Microsoft, and 45 Others",
+      "excerpt": "The report evaluates leading vendors, products, and services offerings ... evolves to allow IoT networks and systems to become more cognitive. The emerging AIoT market will enable systems to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/global-iot-technology-market-outlook-2026--evaluates-leading-vendors-nvidia-ibm-intel-samsung-electronics-microsoft-and-45-others-301449820.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/global-iot-technology-market-outlook-2026--evaluates-leading-vendors-nvidia-ibm-intel-samsung-electronics-microsoft-and-45-others-301449820.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-c3ai-digital-transformation-institute-announces-call-for-proposals-for-ai-to-transform-cybersecurity-and-secure-critical-infrastructure.md",
       "title": "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure",
       "excerpt": "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure.",

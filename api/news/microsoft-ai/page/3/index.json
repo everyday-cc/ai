@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-05-top-programming-languages-this-coding-favourite-just-topped-the-list-again.md",
+      "title": "Top programming languages: This coding favourite just topped the list again",
+      "excerpt": "Software testing outfit Tiobe has awarded Python the programming language of the year for the second time in a row, thanks to the language's chops in machine learning. The award is given by the company to the programming language that has gained the highest increase in ratings in one year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
+      "originalUrl": "https://www.zdnet.com/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ed880a1e0528a648e5693bdc73c0784d0bc793de/2021/12/20/2ec0bbd4-46c3-430c-87b5-9aaf1dca5995/20211220-owen-beth-report.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
+      "publishedDateTime": "2022-01-05T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-accelerate-the-in-vehicle-digital-experience-with-azure-cognitive-services.md",
       "title": "Accelerate the in-vehicle digital experience with Azure Cognitive Services",
       "excerpt": "Microsoft is helping to reshape the automotive industry in the way it serves its drivers with in-vehicle infotainment systems. Together with the car manufacturers, Microsoft is creating new driving experiences with speech based on the text-to-speech and speech-to-text capabilities within Azure Cognitive",
@@ -1307,49 +1359,6 @@
       "provider": {
         "name": "Analytics Insight",
         "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-global-iot-technology-market-outlook-2026-evaluates-leading-vendors-nvidia-ibm-intel-samsung-electronics-microsoft-and-45-others.md",
-      "title": "Global IoT Technology Market Outlook, 2026 | Evaluates Leading Vendors Nvidia, IBM, Intel, Samsung Electronics, Microsoft, and 45 Others",
-      "excerpt": "The report evaluates leading vendors, products, and services offerings ... evolves to allow IoT networks and systems to become more cognitive. The emerging AIoT market will enable systems to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/global-iot-technology-market-outlook-2026--evaluates-leading-vendors-nvidia-ibm-intel-samsung-electronics-microsoft-and-45-others-301449820.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/global-iot-technology-market-outlook-2026--evaluates-leading-vendors-nvidia-ibm-intel-samsung-electronics-microsoft-and-45-others-301449820.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
