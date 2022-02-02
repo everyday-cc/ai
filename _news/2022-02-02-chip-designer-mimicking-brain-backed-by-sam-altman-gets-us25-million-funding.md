@@ -50,7 +50,23 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 81
+  - title: "Startup that builds 'brain-mimicking' chips gets $25 million funding"
+    excerpt: "Rain Neuromorphics Inc., a startup designing chips that mimic the way the brain works and aims to serve companies using artificial intelligence (AI) algorithms, said on Wednesday it raised $25 million."
+    publishedDateTime: 2022-02-02T10:50:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/startup-that-builds-brain-mimicking-chips-gets-25-million-funding/articleshow/89296710.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/startup-that-builds-brain-mimicking-chips-gets-25-million-funding/amp_articleshow/89296710.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/startup-that-builds-brain-mimicking-chips-gets-25-million-funding/amp_articleshow/89296710.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-89296710,imgsize-89670,width-800/89296710.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
-secured: "+giocsrRMyacd3nN1NqGyRfSjFSLYuoJCWro/czfKVN/9aVtCpGrVUbYjredZtTImxZRhM2YoC26L1X8ImPVBSWwqU+2boN7H4WWPVMfOC0DYylmLMQIzuihUl+Ah2t4ExyFQ4zzbjscUsLnGMfMcefZc2ephByx7ti4B9DcEmm8Z9R4gSvgWELCgQzUKimJzCkkCYEZ3GrzeBkQuaj9CWGZlBJyu7vw0VjEvwxcqrawdCBjv7yz5faNcbK4wE7UaUj7fgtUeWGb1Dd1kysS1hjXQIq48Ojw0QqpAHPOGE/ULdSoKfGPbYaj1sOpiUnMB1z5WYku3RnG9Pjo/bVlqsqflpmgE1kt0s2pIzLWhK4=;rkW/GcqiV0lmW/qCdXw65Q=="
+secured: "hTcyLy5mLuSnhwbec+Cexqr6pUEVN5im6i4zD++nplRSOcJdKdGjDhuEN4HQ+Bt1ObAVqc0jDQhg/Zh3jp3KLLvBnBTbuwc/uy8Yd03owI1OBXAdaPa96u+2aZPxGJUXckcakUsCK0DcLw9B7K5yg7g76paHFAX/jY1dGcp/pLRqXlfudH6huQrtE9ND1LU7cKWKN6j2ZR9K9xeU68hS6+6+zVY47UW7chTOeunK9ZWp01PF76cSvM9KdH8TplrWxEjlFt0L8oAuBWuUSEPJ70EDlJ5v0pp91QnbnJQqLrwYQrrbbwufkqkJRvC7fRrKpdNypYswoL5S48qLAQr34jXNeYau+tjaz47zj5f+lUnr+ktM//gvykMNUDTU1CIwGaVmYWAYRdB06Tx6VN7tTtiDtF26FCncSLmfdAVxYqAZTp/MNwuC0IDdLd4wEloGzJEG4tvI0kfA8ofOMUdUvyN/Zd6Fk+lcbXFyVRA4vcxpe9UuMixRIs4e3MQ9y7AlZRGMwTyfornHI4jC1yA9UA==;AGUuIP6xbDNbm8geUfaFFQ=="
 ---
 

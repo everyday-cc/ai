@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -100,6 +100,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/e957155/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb7%2Fc2%2F297181da4bb8b3e7858e1a017d27%2Fpexels-rodnae-productions-7821913.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Benefits of Artificial Intelligence in Detecting Machine Failure"
+    excerpt: "Technology continues to evolve at an exponential rate. From one year to the next, we are presented with exceptional new innovations that can effectively make our jobs and everyday lives easier. Artificial intelligence (AI),"
+    publishedDateTime: 2022-02-02T11:05:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/benefits-artificial-intelligence-detecting-machine-failure"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 52
+    images:
+      - url: "https://financialit.net/sites/default/files/aimonitoring.jpg"
+        width: 1000
+        height: 643
         isCached: true
   - title: "Global technology leaders back regulation of Artificial Intelligence"
     excerpt: "Artificial intelligence has changed the world and our daily lives. In the coming years, experts predict a meteoric growth in its use. Given the even greater role artificial intell"

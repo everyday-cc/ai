@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Surgical Robots Market Size, Share, Trends, Growth, Opportunity and Industry Analysis 2021-26"
+    excerpt: "According to IMARC Group’s latest report, titled “Surgical Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-02-02T11:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/surgical-robots-market-size-share-trends-growth-opportunity-and-industry-analysis-2021-26"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/6ba83574b4873e683a1c811a2e185ee50a1893bd-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Automatic Speech Recognition (ASR) Software Market is expected to reach a substantially Growth by 2027"
     excerpt: "The global Automatic Speech Recognition (ASR) Software market research report forecast to 2028 has been recently published by Reports and Data to help user understand the current market scenario. The report offers a detailed analysis of market size ..."
     publishedDateTime: 2022-01-31T00:00:00Z

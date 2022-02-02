@@ -2,27 +2,45 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-01-29-waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret.md",
-      "title": "Waymo sues California DMV to keep robotaxi safety details secret",
-      "excerpt": "Waymo, the company that operates a fleet of autonomous taxis in San Francisco, is suing California's DMV to keep safety details secret.",
+      "path": "_news/2022-01-29-report-62-of-orgs-use-voice-technology-to-increase-revenue.md",
+      "title": "Report: 62% of orgs use voice technology to increase revenue",
+      "excerpt": "A new report found that many companies are using voice technology to identify new business opportunities, and to increase revenue.",
       "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/",
-      "originalUrl": "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/",
+      "webUrl": "https://venturebeat.com/2022/01/28/report-62-of-orgs-use-voice-technology-to-increase-revenue/",
+      "originalUrl": "https://venturebeat.com/2022/01/28/report-62-of-orgs-use-voice-technology-to-increase-revenue/",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/voice-conversational-UI.GettyImages-1031313606.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/?amp=1",
-      "publishedDateTime": "2022-01-28T15:48:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2022/01/28/report-62-of-orgs-use-voice-technology-to-increase-revenue/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/report-62-of-orgs-use-voice-technology-to-increase-revenue/amp/",
+      "publishedDateTime": "2022-01-28T16:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -31,7 +49,58 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-could-ai-be-used-to-cheat-on-programming-tests.md",
+      "title": "Could AI be used to cheat on programming tests?",
+      "excerpt": "A new study finds that a freely available AI tool could be used to cheat on coding assignments. But how serious is the threat?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/28/could-ai-be-used-to-cheat-on-programming-tests/",
+      "originalUrl": "https://venturebeat.com/2022/01/28/could-ai-be-used-to-cheat-on-programming-tests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1147087236.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/28/could-ai-be-used-to-cheat-on-programming-tests/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/could-ai-be-used-to-cheat-on-programming-tests/amp/",
+      "publishedDateTime": "2022-01-28T16:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1136,59 +1205,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-will-teslas-dojo-supercomputer-disrupt-ai-in-2022.md",
-      "title": "Will Tesla's Dojo Supercomputer Disrupt AI in 2022?",
-      "excerpt": "At Tesla's AI Day in 2021, they introduced the D1 chip and this will power its Dojo supercomputer. I don't want to get too technical, but each chip offers 362 te",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/01/27/will-teslas-dojo-supercomputer-disrupt-ai-in-2022/",
-      "originalUrl": "https://www.fool.com/investing/2022/01/27/will-teslas-dojo-supercomputer-disrupt-ai-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/663092/gettyimages-1294874384.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "AI in Autos"
       ]

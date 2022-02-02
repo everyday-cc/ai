@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/01/ai-powered-anti-phishing-solution
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/ai-powered-anti-phishing-solution-provider-pixm-offers-last-line-of-defense/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/pixm.png"
         width: 888
         height: 579
+        isCached: true
+  - title: "Yext Drives Personalization with AI-Powered Search Solutions for Healthcare Providers and Facilities"
+    excerpt: "\"The AI-powered tools Yext offers will allow all healthcare organizations ... Capture intent: For patients who prefer to start their journeys on third-party platforms, healthcare organizations can leverage Yext's search optimized landing pages for ..."
+    publishedDateTime: 2022-02-02T12:53:00Z
+    webUrl: "https://www.wjhl.com/business/press-releases/cision/20220202NY49858/yext-drives-personalization-with-ai-powered-search-solutions-for-healthcare-providers-and-facilities/"
+    type: article
+    provider:
+      name: WJHL-TV
+      domain: wjhl.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1738892/Yext_Healthcare_Personalization.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Pixm Raises $4.3M to Stop Zero-day Phishing Attacks with AI Computer Vision"
     excerpt: "Pixm, a computer vision cyber security startup, announced today that it has raised $4.3M in an oversubscribed seed funding round to protect enterprises from undiscovered, non-traditional phishing attacks."

@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-02T10:37:00Z
 originalUrl: "https://www.businesswireindia.com/news/fulldetails/qpisemi-announces-ai-20-processors-based-its-innovation-integrated-photonics-newer-software-paradigm/77092"
 webUrl: "https://www.businesswireindia.com/news/fulldetails/qpisemi-announces-ai-20-processors-based-its-innovation-integrated-photonics-newer-software-paradigm/77092"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cms.businesswireindia.com/Uploads/companyLogo/Qpisemi_15686.png"

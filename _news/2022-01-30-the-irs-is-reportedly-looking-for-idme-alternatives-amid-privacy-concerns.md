@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/technology/the-irs-is-reportedly-lo
 webUrl: "https://www.theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns"
 type: article
 quality: 120
-heat: 170
+heat: 160
 published: true
 
 provider:
@@ -67,20 +67,6 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 53
-  - title: "Treasury Weighing Alternatives to ID.me Over Privacy Concerns"
-    excerpt: "Treasury and the IRS are looking into alternatives to ID.me, the department official said, and the agencies are in the meantime attentive to concerns around the software. “The IRS is consistently looking for ways to make the filing process more secure,"
-    publishedDateTime: 2022-01-28T19:07:00Z
-    webUrl: "https://www.bloombergquint.com/politics/treasury-weighing-id-me-alternatives-over-privacy-concerns"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 24
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "US Treasury considers alternatives to ID.me biometrics for IRS online access"
     excerpt: "An IRS contract being served by ID.me is continuing to generate controversy based on the use of facial recognition and biometric authentication."
     publishedDateTime: 2022-01-31T19:20:00Z

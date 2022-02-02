@@ -7,8 +7,8 @@ originalUrl: "https://www.businessghana.com/site/news/technology/255514/Robots-t
 webUrl: "https://www.businessghana.com/site/news/technology/255514/Robots-to-be-bigger-business-than-cars"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: BusinessGhana
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla ramps up plans to create Optimus humanoid robot"
-    excerpt: "The development of Tesla's autonomous vehicles has dominated the company's focus in recent times, but this year focus will be centred on developing a humanoid robot, according to Tesla CEO Elon Musk."
-    publishedDateTime: 2022-01-31T04:51:00Z
-    webUrl: "https://www.goodgearguide.com.au/article/694815/tesla-ramps-up-plans-create-optimus-humanoid-robot/"
+  - title: "Elon Musk: I would be shocked if Tesla does not achieve Full Self-Driving safer than human this year (and 5 years ahead of everyone)"
+    excerpt: "Elon Musk gave an update on his expected timeline for Tesla achieving Full Self-Driving capability and he now says that he would be “shocked” if Tesla does not achieve “Full Self-Driving safer than human this year”."
+    publishedDateTime: 2022-01-31T13:10:00Z
+    webUrl: "https://electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/"
+    ampWebUrl: "https://electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/amp/"
     type: article
     provider:
-      name: Good Gear Guide
-      domain: goodgearguide.com.au
-    quality: 56
+      name: Electrek
+      domain: electrek.co
+    quality: 58
     images:
-      - url: "https://www.idgcdn.com.au/article/images/600x315/dimg/tesla_bot.png"
-        width: 586
-        height: 315
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Elon Musk says Tesla’s humanoid robot could eventually outgrow its car business"
     excerpt: "During Tesla’s earnings call, Musk said the company’s future humanoid robot — internally named “Optimus” — is the “most important product development we’re doing this year.” Musk first unveiled the robot during Tesla’s AI Day event in August."

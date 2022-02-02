@@ -7,7 +7,7 @@ originalUrl: "https://www.goodgearguide.com.au/article/694815/tesla-ramps-up-pla
 webUrl: "https://www.goodgearguide.com.au/article/694815/tesla-ramps-up-plans-create-optimus-humanoid-robot/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,36 +24,6 @@ images:
     width: 586
     height: 315
     isCached: true
-
-related:
-  - title: "Musk: Robots to be bigger business than Tesla cars"
-    excerpt: "Elon Musk likes to have a focus - and this year, it looks like it might be robots. He told investors on a Tesla earnings call"
-    publishedDateTime: 2022-01-29T04:44:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/255514/Robots-to-be-bigger-business-than-cars"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 56
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-28-1644271.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Elon Musk says Tesla’s humanoid robot could eventually outgrow its car business"
-    excerpt: "During Tesla’s earnings call, Musk said the company’s future humanoid robot — internally named “Optimus” — is the “most important product development we’re doing this year.” Musk first unveiled the robot during Tesla’s AI Day event in August."
-    publishedDateTime: 2022-01-30T10:30:00Z
-    webUrl: "https://www.khaama.com/elon-musk-says-teslas-humanoid-robot-could-eventually-outgrow-its-car-business-0296/"
-    type: article
-    provider:
-      name: Khaama Press
-      domain: khaama.com
-    quality: 52
-    images:
-      - url: "https://www.khaama.com/wp-content/uploads/2022/01/611fa3d20fbf9e0018e88c75.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "Fc5Sw3/0CAnqCVSe//rBBYr0NtOAjo5UQjcSaqs2iUTVFMVkcucOj0AhuPbjlZJzxq+8QnHKdnuFKrZ4wPUKpfq3touV4LdX70CbBh29+OkxzUEsGnm3d4ATiJ8nX8dWN8HVyr7NdajTubcK8xK/xfqKp1Ux+IrfYGewvOWP53wQMt1nY/Fc+CafhhMhoFsdQfZLpqSTQ7CSu9EZyGEym2yEkSHfTgYMX1OWUbwe/K0jnDrPZ9C9Af1wjGGM311SWNWyyRSW0n3mztsg5vKMiZmlbhbG/ckxUNDhcBmIko0z+PdqA0sK/COqP8zxHmskNJKvd1qMaHQY/Tvs8KMMpSlRWTaVBQu5sLc9GuTJRv8=;xHQMvd6icCsLq9J5YHi4tQ=="
 ---

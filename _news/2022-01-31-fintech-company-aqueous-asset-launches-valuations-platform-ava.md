@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "28/01 – Weekly Fintech Recap"
-    excerpt: "Partnerships Segmint partners with Snowflake to revolutionize payment transaction enrichment for financial institutions Segmint, the global leader in transaction cleansing and analytics for financial institutions (FIs),"
-    publishedDateTime: 2022-01-28T20:27:00Z
-    webUrl: "https://financialit.net/news/regtech/2801-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "YZ4m+77HnG4TquNO8Hrkt91jHYh//IoyQFr6V2Vgp02SA650vyfklDyecKyrg0KpSmbvLFlls6MPMpKb1DU6ca4jaTEiJ5ge8O93WOYrcvL58PaR+QNUp7hmokZ4LrdGueDF2K0FR8pbej4qvkB3R/+7N7Dc4P5LDLvQv4oxA0VcYIDWz4311EuXlaZ93f7Vzcgn4IyuyJw7/hsCM5vpTC4wdpyDBHVTxfVb3255WIJARF+K3YbRZZydQC3+iQ5HhfxDcU3kmZTLFPeed1S9trroD2IqFtBHSQg4zDNqlUB6ObfFjrilnZEQVRjXQ/C+vKNckxhE9ZdgXc2ND6SkPubax0Yi885uPvzkX93C/Jki7MDJuswyUXfA8lBvruxqdb/cz5bnU/h/XqDRyK8Vs+/xS12pm94Luo5z7b5KwURSeoHn7ZX4A4HupfTZoQ/jWN2F8N7RxGGH/2rE649cbKtbpNcvISrt+RjTfy0Inswd7LnduAHEBZi4Nlctvq9M7CEZMJlAVaPgk1mDJEFBfg==;MK8yfyrMvOiMw4i8HnnDYQ=="
 ---

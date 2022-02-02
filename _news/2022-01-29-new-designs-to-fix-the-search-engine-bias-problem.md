@@ -71,20 +71,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Seat Belts, Startups, and Why Bias in AI is a Human Problem"
-    excerpt: "By Luke Lennon, Director of Brand and Community at Stratyfy Compared to men, women are 47% more likely to be seriously injured and 17% more likely to die if they're in a car crash. Why?  In a word, bias."
-    publishedDateTime: 2022-01-28T19:58:00Z
-    webUrl: "https://www.linkedin.com/pulse/seat-belts-startups-why-bias-ai-human-problem-stratyfy"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF69qIp3v5Ulg/article-cover_image-shrink_720_1280/0/1643399223083?e=1648684800&v=beta&t=gORi123epftdCspoxQZk90KwqIQn0weFO3AEaf15QAo"
-        width: 1142
-        height: 720
-        isCached: true
 
 secured: "bKGrmbuYuGBHztHz7YBPKbHTml/2APFLumBwfW9EdiN08fOwKNBiMBvokM/dJGWyhe60pm6c1iqQ9Z+v/bJrh0cslhIxAcMRXxf9eAGTxY1nGAdA6KTMLWQZCyy8XCxiBuNnzP1NzCBaMtD+/Yg71HCeg3hFfNLyHAECwHaDrR4Q+JPxr72SEtYT2S+uw/Agss+ZjFp5Z1SZuIwSdSD6UelJUbYG1f+S5pCtlVNwjb0VAF+0YKeheJrAFvSw8C57CieZXju5ndpBpR8iecny+RU1znonvvaLGYRPPKj7LC9GQYSMmYjE7dwqsaL7tNVOxgWPzrq+tmNifMnFor6qgmolEDmEt59ya2PuZpXumMZV4mYN1neQrs5m4T/ESb5MXl5i0bol/TH3VstHGjZHlg74/zW8LJf1wM3w4ZBLHI+NSvSWXNtp5E0FpPYKS5ksDGfRYIPxjnXblso0QljWRnBdlBf/VwrJEMafWYPfRsvtVTkNRaXgI+i4VjI1HevzkiCWvVV4x/MWEGcR6pzVFw==;gzOUyyU0qsOjsv+48hEYAQ=="
 ---

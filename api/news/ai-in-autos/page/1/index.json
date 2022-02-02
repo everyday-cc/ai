@@ -36,21 +36,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-02-54000-teslas-recalled-because-full-self-driving-beta-allows-rolling-stop.md",
-      "title": "54,000 Teslas Recalled Because Full Self-Driving Beta Allows 'Rolling Stop'",
-      "excerpt": "Tesla will issue an over-the-air software update to disable the \"rolling stop\" feature in the Full Self-Driving Beta as part of a National Highway Traffic Safety Administration (NHTSA) recall. The feature allows Teslas equipped with the FSD Beta to travel ...",
+      "path": "_news/2022-02-02-tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature.md",
+      "title": "Tesla to recall nearly 54K cars which could threaten future of Full Self Driving feature",
+      "excerpt": "Tesla will have to recall close to 54,000 of its electric vehicles due to a feature called Rolling Stop which comes with the Full Self Driving premium package. The FSD is still in the Beta version.",
       "sourceUrl": null,
-      "webUrl": "https://www.caranddriver.com/news/a38951178/tesla-rolling-stop-fsd-recall/",
-      "originalUrl": "https://www.caranddriver.com/news/a38951178/tesla-rolling-stop-fsd-recall/",
+      "webUrl": "https://www.neowin.net/news/tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature/",
+      "originalUrl": "https://www.neowin.net/news/tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 425,
       "tags": null,
       "images": [
         {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2022-tesla-model-3-mmp-1-1640025520.jpg?crop=1xw:0.7501359434475259xh;center,top&resize=1200:*",
-          "width": 1200,
-          "height": 600,
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/04/1554374509_screenshot_from_2019-04-04_11-40-06_story.jpg",
+          "width": 760,
+          "height": 428,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -58,14 +58,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.caranddriver.com/news/amp38951178/tesla-rolling-stop-fsd-recall/",
-      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp38951178/tesla-rolling-stop-fsd-recall/",
-      "publishedDateTime": "2022-02-01T08:06:00-08:00",
+      "ampWebUrl": "https://www.neowin.net/amp/tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature/",
+      "publishedDateTime": "2022-02-01T14:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -79,21 +88,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-29-musk-robots-to-be-bigger-business-than-tesla-cars.md",
-      "title": "Musk: Robots to be bigger business than Tesla cars",
-      "excerpt": "Elon Musk likes to have a focus - and this year, it looks like it might be robots. He told investors on a Tesla earnings call",
+      "path": "_news/2022-01-31-elon-musk-i-would-be-shocked-if-tesla-does-not-achieve-full-self-driving-safer-than-human-this-year-and-5-years-ahead-of-everyone.md",
+      "title": "Elon Musk: I would be shocked if Tesla does not achieve Full Self-Driving safer than human this year (and 5 years ahead of everyone)",
+      "excerpt": "Elon Musk gave an update on his expected timeline for Tesla achieving Full Self-Driving capability and he now says that he would be “shocked” if Tesla does not achieve “Full Self-Driving safer than human this year”.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessghana.com/site/news/technology/255514/Robots-to-be-bigger-business-than-cars",
-      "originalUrl": "https://www.businessghana.com/site/news/technology/255514/Robots-to-be-bigger-business-than-cars",
+      "webUrl": "https://electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/",
+      "originalUrl": "https://electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-28-1644271.jpg",
-          "width": 800,
-          "height": 600,
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -101,14 +110,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T20:44:00-08:00",
+      "ampWebUrl": "https://electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/amp/",
+      "publishedDateTime": "2022-01-31T05:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BusinessGhana",
-        "domain": "businessghana.com",
-        "images": null,
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -117,32 +135,40 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-01-29-waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret.md",
-      "title": "Waymo sues California DMV to keep robotaxi safety details secret",
-      "excerpt": "Waymo, the company that operates a fleet of autonomous taxis in San Francisco, is suing California's DMV to keep safety details secret.",
+      "path": "_news/2022-01-29-the-self-driving-coalition-renames-itself-and-abandons-the-term-as-it-distances-itself-further-from-tesla.md",
+      "title": "The Self Driving Coalition Renames Itself And Abandons The Term As It Distances Itself Further From Tesla",
+      "excerpt": "While Tesla touts its Self-Driving tech, the rest of the industry has decided that it wants nothing to do with the term",
       "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/",
-      "originalUrl": "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/",
+      "webUrl": "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/",
+      "originalUrl": "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 77,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9--YE1dEGO0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/?amp=1",
-      "publishedDateTime": "2022-01-28T15:48:00-08:00",
+      "ampWebUrl": "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/amp/",
+      "publishedDateTime": "2022-01-29T03:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
+        "name": "Carscoops",
+        "domain": "carscoops.com",
         "images": null,
         "publishers": null,
         "authors": null

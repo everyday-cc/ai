@@ -82,20 +82,6 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 53
-  - title: "Treasury Weighing Alternatives to ID.me Over Privacy Concerns"
-    excerpt: "Treasury and the IRS are looking into alternatives to ID.me, the department official said, and the agencies are in the meantime attentive to concerns around the software. “The IRS is consistently looking for ways to make the filing process more secure,"
-    publishedDateTime: 2022-01-28T19:07:00Z
-    webUrl: "https://www.bloombergquint.com/politics/treasury-weighing-id-me-alternatives-over-privacy-concerns"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 24
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "g/yYSep9uKOKMnMmBmGqGdGCHY3/VX5sR3xXLYe0oBCGRcopCG7Ymno3mv4vVDgeh0jfSzgzuq81LRbi8AbrTxll0Rz6L7g9LxaDO94PRuAKSikmYbqt0Lkj64nmvNp7mTxqjLMW5EglnHK7omnHRkEp+O36Jl647Bz+keEJvrzfBa+92CM0yHnmcE/GIHwoTfV1H9micRLUU/7KUWe6og2soGGqgaw6wsFNMsWqnVkLeL1Nm2QRYwA282PQkHTzGtYjI79Gsligy8m1LGiAE1kh+C5QZxnEfRAzNCJU4wy1dE+IMVsJ3b1HExbWRhnd7WrnN2B7H33UKatmnPVHMokMaQQPFwaPfd55pdezHowdQHT8XHKw+0lUKc8Q+7y+eHojtRO3sXDcYT8fFIE1rJFvrz3jEN04h+mWQY6B3vKwoAhbBdNVhyyAcPjlshmARA3O2T6Y2amYljQEQ7ZcC6w9r9uDygBAiKs2qSSKbOvLot4yO8iHn0ssJyC8k0cD7WXVZFYs8EVDk8VLgu12IQ==;91ZuojPvZo/vCXAlLUDcgA=="
 ---

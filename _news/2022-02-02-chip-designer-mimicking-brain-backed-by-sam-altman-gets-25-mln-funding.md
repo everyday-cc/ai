@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/chip-designer-mimicking-brain-b
 webUrl: "https://www.reuters.com/technology/chip-designer-mimicking-brain-backed-by-sam-altman-gets-25-mln-funding-2022-02-02/"
 type: article
 quality: 83
-heat: 103
+heat: 114
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 81
+  - title: "Startup that builds 'brain-mimicking' chips gets $25 million funding"
+    excerpt: "Rain Neuromorphics Inc., a startup designing chips that mimic the way the brain works and aims to serve companies using artificial intelligence (AI) algorithms, said on Wednesday it raised $25 million."
+    publishedDateTime: 2022-02-02T10:50:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/startup-that-builds-brain-mimicking-chips-gets-25-million-funding/articleshow/89296710.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/startup-that-builds-brain-mimicking-chips-gets-25-million-funding/amp_articleshow/89296710.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/startup-that-builds-brain-mimicking-chips-gets-25-million-funding/amp_articleshow/89296710.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-89296710,imgsize-89670,width-800/89296710.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Chip designer mimicking brain, backed by Sam Altman, gets US$25 million funding"
     excerpt: "Rain Neuromorphics, a startup designing chips that mimic the way the brain works and aims to serve companies using artificial intelligence (AI) algorithms, said on Wednesday (Feb 2) it raised US$25 million."
     publishedDateTime: 2022-02-02T08:48:00Z

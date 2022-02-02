@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk: I would be shocked if Tesla does not achieve Full Self-Driving safer than human this year (and 5 years ahead of everyone)"
+    excerpt: "Elon Musk gave an update on his expected timeline for Tesla achieving Full Self-Driving capability and he now says that he would be “shocked” if Tesla does not achieve “Full Self-Driving safer than human this year”."
+    publishedDateTime: 2022-01-31T13:10:00Z
+    webUrl: "https://electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/"
+    ampWebUrl: "https://electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 58
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Musk: Robots to be bigger business than Tesla cars"
     excerpt: "Elon Musk likes to have a focus - and this year, it looks like it might be robots. He told investors on a Tesla earnings call"
     publishedDateTime: 2022-01-29T04:44:00Z
@@ -39,20 +55,6 @@ related:
       - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-28-1644271.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Tesla ramps up plans to create Optimus humanoid robot"
-    excerpt: "The development of Tesla's autonomous vehicles has dominated the company's focus in recent times, but this year focus will be centred on developing a humanoid robot, according to Tesla CEO Elon Musk."
-    publishedDateTime: 2022-01-31T04:51:00Z
-    webUrl: "https://www.goodgearguide.com.au/article/694815/tesla-ramps-up-plans-create-optimus-humanoid-robot/"
-    type: article
-    provider:
-      name: Good Gear Guide
-      domain: goodgearguide.com.au
-    quality: 56
-    images:
-      - url: "https://www.idgcdn.com.au/article/images/600x315/dimg/tesla_bot.png"
-        width: 586
-        height: 315
         isCached: true
 
 secured: "Z8tH8XAk3G0Trqq0/sRX7q4s1awoH2WlFECWVP7h2r2j0s+JpFJIRj5JoiXsDqopvGcy4wyyCA7U8UPZTHyKK/3iYKgPMIauMdZ3B+Ny18PvFWE/LUA9LZJ7d3WPESR1aI3unutmQqb1bnjjzuvZiiRtrGfzUrUNaRE+7VWbz2idEYzjltqKsDQG2ml1I/30f2jhFbN5WtCKEDtG/3fpzWU7vUZoKsw+aOmhvHr0HJpnOQWlwt9zxMUWGftlelGw4essCeCilXk4kPijsuHsU1P/Yqq7rxrSgHi9y/nQ+D8nhzRGx5MeiVzCT5c53TnntPgjVjuQNb+YLeQpGBWDhtGMuwb72YoAd82IgVShzdU=;IdOzv4fJc1ETdAgr1Nk1/A=="

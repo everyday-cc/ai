@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-w
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-week?amp"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -50,20 +50,6 @@ related:
       - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "28/01 – Weekly Fintech Recap"
-    excerpt: "Partnerships Segmint partners with Snowflake to revolutionize payment transaction enrichment for financial institutions Segmint, the global leader in transaction cleansing and analytics for financial institutions (FIs),"
-    publishedDateTime: 2022-01-28T20:27:00Z
-    webUrl: "https://financialit.net/news/regtech/2801-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33.jpeg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Fintech Company Aqueous Asset Launches Valuations Platform AVA"
     excerpt: "As financial technology continues to be more closely associated with proptech, Los-Angeles based fintech company Aqueous Asset on Monday announced the launch of AVA, its AI-powered tech SaaS platform for multifamily valuations."

@@ -32,20 +32,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "Waymo sues California DMV over sensitive self-driving safety information"
-    excerpt: "Self-driving tech company Waymo seeks an injunction prohibiting the California Department of Motor Vehicles from releasing information it considers trade secrets and proprietary business information."
-    publishedDateTime: 2022-01-28T19:57:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-sues-california-dmv-over-sensitive-self-driving-safety-information"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 38
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Waymo-MAIN_i_4.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "yCQBcjTHz159Y+q4UOCSvUrvmX68Rri0c8p2ZvENbn2t3q3IyRTp48SeiRGykTAy5Idn+84hy+JtYwB0LD7mVJKuxJz+xAR0OjK1xL/h5PwQMD+YyIi3h52AFl8nKw+poIG2ckc5Tf63Q/oKW4wvLpqYfQsULHWOquUxu1NnD1uxRss+aB4P8mPcTGjC8lOSDYhdyAvnL2wzd2z0ldzX8p0hbKPphnwzrFUcByYTgMT+ieKsWHbtnV6mdEGbv03QhWDZ8BZtvauKFDPR/fUm5oKd4YCQIDz9ToJ0i5bq+30bN00zwarkwOjcuG8kKlupaaVC1aFZ6zTfO04Oyt2Am4j2AuxbFRab5fxyg/rkASA=;l6LFKv9UhEHJ1H2HSUaPZw=="
 ---

@@ -52,20 +52,6 @@ related:
         width: 1600
         height: 1502
         isCached: true
-  - title: "28/01 – Weekly Fintech Recap"
-    excerpt: "Partnerships Segmint partners with Snowflake to revolutionize payment transaction enrichment for financial institutions Segmint, the global leader in transaction cleansing and analytics for financial institutions (FIs),"
-    publishedDateTime: 2022-01-28T20:27:00Z
-    webUrl: "https://financialit.net/news/regtech/2801-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Fintech Company Aqueous Asset Launches Valuations Platform AVA"
     excerpt: "As financial technology continues to be more closely associated with proptech, Los-Angeles based fintech company Aqueous Asset on Monday announced the launch of AVA, its AI-powered tech SaaS platform for multifamily valuations."
     publishedDateTime: 2022-01-31T13:37:00Z

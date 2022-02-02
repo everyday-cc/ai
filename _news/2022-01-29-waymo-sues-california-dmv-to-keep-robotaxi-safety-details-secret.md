@@ -9,8 +9,8 @@ ampWebUrl: "https://www.seattletimes.com/business/waymo-sues-california-dmv-to-k
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/waymo-sues-california-dmv-to-keep-robotaxi-safety-details-secret/?amp=1"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Seattle Times
@@ -32,20 +32,6 @@ related:
       name: California Techwire
       domain: techwire.net
     quality: 39
-  - title: "Waymo sues California DMV over sensitive self-driving safety information"
-    excerpt: "Self-driving tech company Waymo seeks an injunction prohibiting the California Department of Motor Vehicles from releasing information it considers trade secrets and proprietary business information."
-    publishedDateTime: 2022-01-28T19:57:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-sues-california-dmv-over-sensitive-self-driving-safety-information"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 38
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Waymo-MAIN_i_4.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "a0TG0PehNNej1wPvV5d0AEphybf6RjsyTgWY9DH8n7px6xViKsoaQpTtHaG+APNqIZ1NBT3m9dM+f6V16Rh1ae9qlY3I5tTmjQk/n8f+OuxgYLcV8EoUXC0uJeNw4MNnCAyowJmYbUwun+ogpSaXgfC2lr4k0AuSHIBMIFYerMwjROrTTw2nbtINTi+8F5YOX0wMCcAEdgaOx80MOwrHC/MRZxJX2e8TbL8OQ3lY920TEACCRDSme6ct/WQ4KRwyr3sfgLe4f0Cf++J9RREg5ePg+yIFJhoSpTw3mZIKes8b7lMChs/9j4HCbURkqLZ45ARVO20VX9f+xJhL+gkzItA9eHPmDwDIy1wx+FcW28yJzcmo5XKHHaxbKNeWtGUl2u2uOE94K1SaLg2YEE0w7R8y8slLl8FxCRcVBVN1FejLCOmPWVFwpZcDp2ChghQ2ktKvvLTzCjHmtGB+xVyMNWuCQsrDeGN6trIkPxKrN4JN5w//s1UmKAmK5ZJE+Y9VQ9qFrJy4jKhtuqW3/37T8Q==;bzpwnkzmDimHSjZDo0ALig=="
 ---

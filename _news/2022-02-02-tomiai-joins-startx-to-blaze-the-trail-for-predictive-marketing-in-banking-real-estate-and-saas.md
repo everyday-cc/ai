@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 603
         isCached: true
-  - title: "Seat Belts, Startups, and Why Bias in AI is a Human Problem"
-    excerpt: "By Luke Lennon, Director of Brand and Community at Stratyfy Compared to men, women are 47% more likely to be seriously injured and 17% more likely to die if they're in a car crash. Why?  In a word, bias."
-    publishedDateTime: 2022-01-28T19:58:00Z
-    webUrl: "https://www.linkedin.com/pulse/seat-belts-startups-why-bias-ai-human-problem-stratyfy"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF69qIp3v5Ulg/article-cover_image-shrink_720_1280/0/1643399223083?e=1648684800&v=beta&t=gORi123epftdCspoxQZk90KwqIQn0weFO3AEaf15QAo"
-        width: 1142
-        height: 720
-        isCached: true
   - title: "New Designs to Fix the Search Engine Bias Problem"
     excerpt: "Tech companies looking to design next-gen search engines tout the potential of natural language processing (NLP), where GPT-3 leads the field. Yet research shows for all this promise, daunting bias challenges remain."
     publishedDateTime: 2022-01-29T13:40:00Z

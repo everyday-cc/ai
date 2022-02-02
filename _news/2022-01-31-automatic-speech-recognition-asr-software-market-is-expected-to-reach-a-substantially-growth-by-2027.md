@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Surgical Robots Market Size, Share, Trends, Growth, Opportunity and Industry Analysis 2021-26"
+    excerpt: "According to IMARC Group’s latest report, titled “Surgical Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    publishedDateTime: 2022-02-02T11:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/surgical-robots-market-size-share-trends-growth-opportunity-and-industry-analysis-2021-26"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/6ba83574b4873e683a1c811a2e185ee50a1893bd-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Worldwide Autonomous Mobile Robot Industry to 2030 - Featuring Peer Robotics, Verizon and Omron Adept Technologies Among Others - ResearchAndMarkets.c"
     excerpt: "The \"Autonomous Mobile Robot Market by Type, by Application, and by End-User - Global Opportunity Analysis and Industry Forecast 2022-2030\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2022-01-31T14:24:00Z
