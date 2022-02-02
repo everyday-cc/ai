@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/02/02/deepmind-claims-its-new-code-gene
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/deepmind-claims-its-new-code-generating-system-is-competitive-with-human-programmers/amp/"
 type: article
 quality: 97
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind’s AlphaCode AI writes code at a competitive level"
+    excerpt: "DeepMind has created an AI capable of writing code to solve arbitrary problems posed to it, as proven by participating in a coding challenge and placing — well, somewhere in the middle. It won’t be taking any software engineers’ jobs just yet,"
+    publishedDateTime: 2022-02-02T18:04:00Z
+    webUrl: "https://techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/"
+    ampWebUrl: "https://techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-655977302.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Competitive programming with AlphaCode"
     excerpt: "As part of DeepMinds mission to solve intelligence, we created a system called AlphaCode that writes computer programs at a competitive level."
     publishedDateTime: 2022-02-02T00:00:00Z
@@ -76,6 +92,6 @@ related:
         height: 576
         isCached: true
 
-secured: "xPxguYf2pdHBuFK8K3ckL3yo1EelQGv7+lsVy7pa80raONEst0cgH8kc6ohB9K059ewTYum3VdPdRrfdduwMqh+vBqC1OVnNMznwS9HYc1aB9UdOxQfU2s+Fp92u0I+cAFSlxzrAEl0k8aYOXLtyDCSN2BwK7pm3AtSChalfXxBlt+URIxFfFZeSgVCTwZ8FiQf2tNiIukCIOnC6hbate+WmNYiJY9Q7cWBZt1yuDXKYw4/a61J9RxBeoKECWrwEteIcyVc5NYTcz8PcTEKOU1t4YL7R0q7T2wBJcvSQYAoPTnaFwnawBtF2igzdx9+4xwIw4DrZqXeY9GSA24jsZ6aI0V2rA14Osqb7YtoO2XQ=;FjUyYriMX6RfAAy1IIbg5Q=="
+secured: "/jqGCo6ONMPUiN5CtjICuRdX99Zs/8Fs48F5GwgdiAL+NtgvpjcexR4Msd+DHwUYdhRcfg2x4mRfC2ahktEla3hVj6eecYXMcFJxtI4huQGtyqj9QB4WOrpeNcT0RhpD5XPLUu5Oh6lE9L4599VQcVflOSQxKZkoK8b746CJu835epCANotKO30s3S8SQN6PBAsNvbP32ggq+CAJzV7Etzh7oS8QdzE7awC16sEC9fFuaFzVlWV+i5Z0SjErE2osRTjX4NcEXPobw7PrnAAq0Lwq4K0+8AT12YfEftoBFfAEdCPeVidDZdYPrf1ygOqKj1XMmITlVV/zU5al+tB4M2DRNf7OwEPZfKdN63t6UQpgXuwAahl55cimxxNV0gCGmw0GfrEbGgktWnbjyp6+Dh4/dP7gozC1rmzAyc0B67DS0LNDUAreC6EXdBulIs1xRxYBJaUokGAZMRy2IlaCIo3ixLeHGAAZ6pTblRLiYPmIN/2Ivfp7NK6oOaBTpKAijqSuIlHGQQ3lFWS0Y6eb1Q==;rwluWFxZaM61A4di6d59jA=="
 ---
 

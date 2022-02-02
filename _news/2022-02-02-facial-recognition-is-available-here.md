@@ -91,6 +91,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "The Flawed Claims About Bias in Facial Recognition"
+    excerpt: "Recent improvements in face recognition show that disparities previously chalked up to bias are largely the result of a couple of technical issues."
+    publishedDateTime: 2022-02-02T16:57:00Z
+    webUrl: "https://www.lawfareblog.com/flawed-claims-about-bias-facial-recognition"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 54
+    images:
+      - url: "https://www.lawfareblog.com/sites/default/files/facialrecog.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "Facebook will stop using facial recognition data, Meta reports"
     excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
     publishedDateTime: 2022-01-29T14:07:00Z

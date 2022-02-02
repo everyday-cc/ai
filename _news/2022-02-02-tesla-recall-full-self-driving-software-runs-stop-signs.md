@@ -195,6 +195,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla Recalls 54K Self-Driving Cars For Disrespecting The Stop Sign"
+    excerpt: "Tesla will recall 53,822 vehicles that incorporate its full self-driving beta software because the vehicles may not fully stop at stop signs"
+    publishedDateTime: 2022-02-02T17:26:00Z
+    webUrl: "https://hothardware.com/news/tesla-recalls-cars-for-disrespecting-the-stop-sign"
+    ampWebUrl: "https://amp.hothardware.com/news/tesla-recalls-cars-for-disrespecting-the-stop-sign"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/tesla-recalls-cars-for-disrespecting-the-stop-sign"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 59
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/57574/content/stop-sign.jpg"
+        width: 708
+        height: 469
+        isCached: true
   - title: "Tesla recalls 50,000+ vehicles due to ‘Full Self-Driving’ software glitch"
     excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S ..."
     publishedDateTime: 2022-02-01T12:08:00Z
@@ -290,6 +306,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DKRQVCLYYJDO3NAHT4PCPGZTGQ.jpg"
         width: 2048
         height: 1536
+        isCached: true
+  - title: "Tesla To Recall Nearly 54000 ‘Full Self-Driving’ Cars For Running Stop Signs"
+    excerpt: "Tesla will have to recall nearly 54,000 vehicles in the U.S. with the company's “ (FDS)” software, as it lets them roll through"
+    publishedDateTime: 2022-02-02T18:18:00Z
+    webUrl: "https://www.techworm.net/2022/02/tesla-recall-54000-self-driving-car.html"
+    ampWebUrl: "https://www.techworm.net/2022/02/tesla-recall-54000-self-driving-car.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/02/tesla-recall-54000-self-driving-car.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 56
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2022/02/telsa-car.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Tesla recalls nearly 54,000 cars because self-driving software runs stop signs"
     excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an ..."
@@ -457,6 +489,17 @@ related:
         width: 700
         height: 388
         isCached: true
+  - title: "Tesla recall: ‘Full Self-Driving’ software runs stop signs"
+    excerpt: "Tesla is recalling nearly 54,000 vehicles because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
+    publishedDateTime: 2022-02-02T16:23:00Z
+    webUrl: "https://www.kansas.com/news/business/article257917263.html"
+    ampWebUrl: "https://amp.kansas.com/news/business/article257917263.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article257917263.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 39
   - title: "Tesla recalling over 53,000 EVs as self-driving units may ignore stop signs"
     excerpt: "Tesla Inc. will have to recall 53,822 units of its self-driving electric vehicles in the United States. The affected models are those fitted with the beta version of its Full Self-Driving software. Based on the"
     publishedDateTime: 2022-02-02T06:43:00Z

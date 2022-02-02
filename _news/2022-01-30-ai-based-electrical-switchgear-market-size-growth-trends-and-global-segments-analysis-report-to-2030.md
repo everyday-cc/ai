@@ -67,6 +67,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Potential Opportunities Worth ~USD 50 Bn Opening Up for Artificial Intelligence Companies – Exclusive Research Published by MarketsandMarkets™"
+    excerpt: "Currently, businesses have low access to primary intelligence to clarify some unknowns and adjacencies in these opportunity areas – Organizations such as Facebook ... of automation on AI market? Therefore, MarketsandMarkets research and analysis focuses ..."
+    publishedDateTime: 2022-02-02T18:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/potential-opportunities-worth-usd-50-bn-opening-up-for-artificial-intelligence-companies-exclusive-research-published-by-marketsandmarkets"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 3
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-5-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "m0vxFgI1I3XnwdVB2HatMPwSGjkSsEKByCd5bcf3irdW8jXjJepyM+Rmlffw5LRjgSOocYVEoAQUuBeAY9MmPnR1qNCds3KJkN6VoHEHbkQdE+1sF2sI96iPD+uU+M5zI9CtOaf6Toqa0HE9Sl69l2F9P1QZfsrF/Rzq55XQjjHrzJsLp0Cb4Zklj6PHrGn/FV7h9znsIymDtJzj9kqjOqoIvrwATwfFM7Z03Ibkd/U23n11qqXhPvKGazlm39Mn2Ti18IuR7ywkSwcVLqvG9HOpS7HVOCxGFv7UUZ5WkR93LScrDFdQ6IZ7QrR9YV1xzx9TAOElaZWwkbTB5G6TJ0YRE/nQWJz/DaOjtrtxu20=;vqaj3iLLNWYhKxj76XIm3g=="
 ---

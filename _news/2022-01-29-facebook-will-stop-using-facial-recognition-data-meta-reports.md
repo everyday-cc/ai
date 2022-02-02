@@ -101,6 +101,20 @@ related:
         width: 800
         height: 518
         isCached: true
+  - title: "The Flawed Claims About Bias in Facial Recognition"
+    excerpt: "Recent improvements in face recognition show that disparities previously chalked up to bias are largely the result of a couple of technical issues."
+    publishedDateTime: 2022-02-02T16:57:00Z
+    webUrl: "https://www.lawfareblog.com/flawed-claims-about-bias-facial-recognition"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 54
+    images:
+      - url: "https://www.lawfareblog.com/sites/default/files/facialrecog.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "Four arrests in Live Facial Recognition operation in central London"
     excerpt: "As part of ongoing work to tackle serious and violent crime in Westminster, four men were arrested on 28 January."
     publishedDateTime: 2022-01-29T12:34:00Z

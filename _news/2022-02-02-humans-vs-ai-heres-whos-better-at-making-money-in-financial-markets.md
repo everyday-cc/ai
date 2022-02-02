@@ -8,7 +8,7 @@ webUrl: "https://theconversation.com/humans-vs-ai-heres-whos-better-at-making-mo
 ampWebUrl: "https://theconversation.com/amp/humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Finance
 
 related:
   - title: "Humans vs AI: Here's who's better at making money in financial markets"

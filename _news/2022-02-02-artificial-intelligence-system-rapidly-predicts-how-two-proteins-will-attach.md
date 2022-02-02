@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence system rapidly predicts how two proteins will attach"
-excerpt: "This deep-learning model can learn these types of interactions from data,\" says Octavian-Eugen Ganea, a postdoc in the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL ..."
-publishedDateTime: 2022-02-01T17:17:00Z
-originalUrl: "https://phys.org/news/2022-02-artificial-intelligence-rapidly-proteins.html"
-webUrl: "https://phys.org/news/2022-02-artificial-intelligence-rapidly-proteins.html"
-ampWebUrl: "https://phys.org/news/2022-02-artificial-intelligence-rapidly-proteins.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-artificial-intelligence-rapidly-proteins.amp"
+excerpt: "This deep-learning model can learn these types of interactions from data,\" says Octavian-Eugen Ganea, a postdoc in the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and co-lead author of the paper. Ganea's co-lead author is Xinyuan ..."
+publishedDateTime: 2022-02-02T03:18:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/02/220201165655.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/02/220201165655.htm"
 type: article
-quality: 54
-heat: 54
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-9.jpg"
-    width: 900
-    height: 599
-    isCached: true
-
-secured: "oAmlVgllL71yjLLYr7D1G2rbxAPALZsh6m94e88mkmgvOmfyOAk28uOY53Tjgp93gLJ/fidSloNrJrlZGizsT+YyFjLod4h4Kgd7Gf3BzgyLJQP5WDdqOs4euFvpiY6oKnWiDHMAIOpWyvpp7ykBtD8NeKTa5Qu755y2OsqWDY+JnKkKX9MpHuRyQyDEVQ/uOR1AjBv+tfBipXw3XkAE7TWrb3fd8B9xHMH6m6K3BDdR+cTzxUqYQjD3ydX1tDg17sCn+Gr+v7KG5wkkZ3hl64gVK7KNWVr9nzBKW7YAvgdlFENdDpj0A7wWbSsU7zG6UyzmKMPXU1n3EvXxaeLF2xQOyfu+gvMu3tkeCPlX22C66WAZ8507rrOovmKweG2CFkw5MS34+Qd0j+7nwYP9X0HEFuARc6mWh1pLuG+J3mb3E0czjkVeLsbJikjDyVzYdwuj0NejXth40yVYBos9CGaKy21n1y+sXhFl8fOfsq2kTd0NyErs+1p29L3QQB9qJW93cAH8kzsLZHLlwuLm7Q==;mxcMYYu58Dt7cxHqdNz7yQ=="
+secured: "jwmEfWqDaaTuT2OmI9UmlmA8UwdVV/FWCVtkxmfm/1fm0Grh3hJL6g/DudMfe2pZwS71ol6WXNv77P6Gi5ukNgwOOX0BVlZdgeb6+cF+2Pdp3IRy7Qi2M+/W6dsUakTaM+V/F5eBiUETnfXqUh+jwG1ewdCMlAo5VoovxuO0/5ke86dT/x9Z8HGtqYIu8HCMYB8qMF+dMh6MW5LEOqYH04lmmeqY6EDaHwaKcodOqWoTyD8D8TVYKm6nanUVGFTUiiEovd3J+9gAhFo8Eq3cgCigqo5gpyQZ8feFpkc+0vl8cXG4QR1HNL2KH9FmyCePX8COBk3d8jdOe8z6A5zrr1/Tuuhoy/41QZtJhAmtnrc=;TaOwtSdXgUHAlwvw9/W5MQ=="
 ---
 

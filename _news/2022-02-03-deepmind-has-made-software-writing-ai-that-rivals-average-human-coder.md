@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind’s AlphaCode AI writes code at a competitive level"
+    excerpt: "DeepMind has created an AI capable of writing code to solve arbitrary problems posed to it, as proven by participating in a coding challenge and placing — well, somewhere in the middle. It won’t be taking any software engineers’ jobs just yet,"
+    publishedDateTime: 2022-02-02T18:04:00Z
+    webUrl: "https://techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/"
+    ampWebUrl: "https://techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-655977302.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "DeepMind claims its new code-generating system is competitive with human programmers"
     excerpt: "DeepMind has created a code-generating AI system, AlphaCode, that the Alphabet-backed lab claims is competitive with human programmers."
     publishedDateTime: 2022-02-02T16:00:00Z
@@ -72,6 +88,6 @@ related:
         height: 576
         isCached: true
 
-secured: "RHEgW7kRsve7OTsdMCqwSL15GcAY10JLR+w96n4lx9i7OM9C8nBnHsQ32xJl1u3afxklYbF/3Zg+pP2NKtlQJdkgstsyoBBHgH071TZeN+ZRWSz7cY/28hgzC201eaZBVTPAs7Cum7w+WppiiF9kYdX/EUz0cu+SOu21l85/47YlhGGs3nf4cLxEFDdEXiajIxizhNHs3RIzUSkqPTyX6Mze1mmMA2FmEabAGQTB9mzwDOJCUDnnKwBFfMSLiff4XWciKVmXfNpqofdGkqvZPIBZ7nnVhq9zNJnbt3ZtVyELPofKL+tbppDoo+Kk2CikdkuurPYYEUtUWp08zn5zlEnL+OHeg0DHRBNrVRRNldc=;AUJ/ZyCOLldgFqmAfvOlZA=="
+secured: "Nf6PAsmF7/MpZmwv1mhy1pDF3Q3dmUyOW+4p13ijrNgBnV93jhpi9fLhSmincHKixOanHnCtT7qvyuTuk/x8M0ZqwmCJ6ep8sChv4FP7YHQKT+J854zj6UJ2bswPwT92Gh7Aly6uTNsTfiDVxslL2S8UUC9bqgR7lwLS9LDjwbCYTYkkCti73/fYbGeG3QCTki3/+uuxLrGqpekE7pYxom0JrUt1Cj48BLQB8AXxeTMiAaTyuVl3Imc/ZbDsuqjxHMNS6qj++rkNfOpcH24iw/tVwR/9JVLY7aYlYXp8pU5NOSgfF3DdFPv9VljavuI7A6iyQDfXtYek5QN5Uct29BhHlIHTHW8cFnSK+AxBUjYLuIAFhSJx7aw42Hq8vXZwEbj1Eg4uXQ9Ojbwt+1aySbWYkf80v4KzGvY3wWvd78oDf4av4iBk68GBIRW6diKrLddApv71JWQS4LLni0dU78N0E3dUwXbG5MUmTuekXFR+3WCFLdmvHzKITNCZDsHapxidv3T72S0XRdna1VMjag==;SByIAjOUlkVM5+M5D4bdgA=="
 ---
 
