@@ -135,6 +135,20 @@ related:
         width: 620
         height: 330
         isCached: true
+  - title: "Tesla recalling over 53,000 EVs as self-driving units may ignore stop signs"
+    excerpt: "Tesla Inc. will have to recall 53,822 units of its self-driving electric vehicles in the United States. The affected models are those fitted with the beta version of its Full Self-Driving software. Based on the"
+    publishedDateTime: 2022-02-02T06:43:00Z
+    webUrl: "https://www.econotimes.com/Tesla-recalling-over-53000-EVs-as-self-driving-units-may-ignore-stop-signs-1626243"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 37
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20220202d6d5250b48a87e450_th_1024x0.jpeg"
+        width: 640
+        height: 420
+        isCached: true
   - title: "Tesla recalls ‘full self-driving’ feature that was designed to roll through some stop signs"
     excerpt: "By Matt McFarland, CNN Business Tesla will recall all 53,822 vehicles with its “full self-driving” driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
     publishedDateTime: 2022-02-01T22:29:00Z

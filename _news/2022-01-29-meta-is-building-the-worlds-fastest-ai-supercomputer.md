@@ -71,6 +71,20 @@ related:
         width: 5408
         height: 3605
         isCached: true
+  - title: "Technology Trends That Will Shape 2022 and Beyond - AI, Big Data, Connected devices (IoT), Cloud, Drones, and Metaverse"
+    excerpt: "Just like 2020, 2021 was another year of ups and downs, full of concerning COVID variations and technology innovations. With most of us working remotely and sticking to the home, our lifestyles might have been disrupted,"
+    publishedDateTime: 2022-02-02T04:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/technology-trends-shape-2022-beyond-ai-big-data-iot-hari-gottipati"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 15
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFKSVcaTz2Nsg/article-cover_image-shrink_720_1280/0/1643775820059?e=1649289600&v=beta&t=qJOH2aoDdRLeprHv4MaNi-Qkn7VDbeyVNSAhnPDYt9I"
+        width: 1137
+        height: 720
+        isCached: true
 
 secured: "nann71qqQCHRbEbuy3AeLDI2tcBwyX6PMh5ZFgkgeo1N6paQe5BZeZwQhYpb6OIzkBm99Pel2XqYxq9qs2zgBOA+Q1Esej08fz+fiQ6vOZZMpFZ61Jj5dTGoU5QlLNYMr64Q4bL0bb5m/gt9CnWoijKuD2fUG6W6sy4kPUWCGzFRufnRL/g+cILZu6VHmUoWTeaH/kBCQCgBydrVlH8DOa04KWB8WoX8ylatBc+SqzIJepNEBbanTAWWm5E/icXyTP86+TojTZd/KuWQgeIiMSHK37QVblsn/y7YNKczpX5w2nav/fS5j3zfxUv2eYyI+j8g1F766+/SxEy9x7+B/0ugYo4PrDk/RGnunjZA+XVAAEM2pgJAM5IuHJzSdzCKKhANbuFrJUDIWH42r5pUKTQUMnXfGMcnTMLTgk7YaJ2m9hXZooyou3PpNpUUQCu+q04aDtWNJkEoV6IBuUZfv/5GTVWOzJcp+zWdFcu+Lvk7EuH+W3vNp5+H69l2fM+cw8jB0A3fLo//gBydjv9M1g==;SXbuL0OgxX1fV1VDt2Wisw=="
 ---

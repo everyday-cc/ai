@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Uncovering the Secrets of the Big Bang With Artificial Intelligence"
-    excerpt: "Can machine learning be used to uncover the secrets of the quark-gluon plasma? Yes — but only with sophisticated new methods. It could hardly be more complicated: tiny particles whir around wildly with extremely high energy,"
-    publishedDateTime: 2022-01-28T13:09:00Z
-    webUrl: "https://scitechdaily.com/uncovering-the-secrets-of-the-big-bang-with-artificial-intelligence/"
-    ampWebUrl: "https://scitechdaily.com/uncovering-the-secrets-of-the-big-bang-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/uncovering-the-secrets-of-the-big-bang-with-artificial-intelligence/amp/"
+  - title: "This AI Learned the Design of a Million Algorithms to Help Build New AIs Faster"
+    excerpt: "The skyrocketing scale of AI has been hard to miss in recent years. The most advanced algorithms now have hundreds of billions of connections, and it takes millions of dollars and a supercomputer to train them."
+    publishedDateTime: 2022-02-01T01:26:00Z
+    webUrl: "https://singularityhub.com/2022/01/31/this-ai-learned-the-design-of-a-million-algorithms-to-help-build-new-ais-faster/"
+    ampWebUrl: "https://singularityhub.com/2022/01/31/this-ai-learned-the-design-of-a-million-algorithms-to-help-build-new-ais-faster/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/01/31/this-ai-learned-the-design-of-a-million-algorithms-to-help-build-new-ais-faster/?amp=1"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 59
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 53
     images:
-      - url: "https://scitechdaily.com/images/Quark-Gluon-Plasma-After-Collision-of-Two-Heavy-Nuclei-777x518.jpg"
-        width: 777
-        height: 518
+      - url: "https://singularityhub.com/wp-content/uploads/2022/01/computer-chip-circuits-yellow-black.jpeg"
+        width: 1068
+        height: 601
         isCached: true
 
 secured: "v1zxxFNPqbQk4oKPKbZMzmof26JLkiyFZAyRc4pcjwz1k/2+xNQPKMh4Rr0Yb9xHP42Oyr+Wd+7QFbkd+IefzobiurZ6b5ml+fcrIq1n2UZP7XfihhnmIolKaDhZ+E9sfgKRpKbtb5jwHDOVSy5UBz3rj+OineJLoYo6vlEYxX627/2C9vfxXf3crlewdo23/BInG59VJdvaRnrOfaKJx6xBrAOQa43eC3po2NNq8b8WUED2l03oySzDnGmvYg8dnidNbeDmJb1UB/tHjKftJPfZMnofq42F3bfD2JyOe9jwe5NXCi4tnUyfWGdl5/sWTc5jMk7VFqjj23YKz+VKD5k/YoAQBNQVGlsDbN7XeIbUb4vjD4mS58Ilg16WbUTjfUvCi4eUqw7WWy9oHSGi6JcXRZ0Kg968+K8LbMVbcMvozKdEBeJLhv/VzRlNMxmZHUXBfK4KR5/992b/jwWSGd4oLydg0Zy8K3OdmaBOSDOW1KhL5TshB96yIVIpnxnOnoNkSgUntjWHbh7WEjAG5g==;3goXoVVX9lo3syYZirAsOw=="

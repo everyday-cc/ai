@@ -3,18 +3,18 @@ category: news
 title: "Government agencies are tapping a facial recognition company to prove..."
 excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID."
 publishedDateTime: 2022-02-01T18:03:00Z
-originalUrl: "https://www.newstimes.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
-webUrl: "https://www.newstimes.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
-ampWebUrl: "https://www.newstimes.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
-cdnAmpWebUrl: "https://www-newstimes-com.cdn.ampproject.org/c/s/www.newstimes.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+originalUrl: "https://www.darientimes.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
+webUrl: "https://www.darientimes.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
+ampWebUrl: "https://www.darientimes.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+cdnAmpWebUrl: "https://www-darientimes-com.cdn.ampproject.org/c/s/www.darientimes.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: NewsTimes Danbury
-  domain: newstimes.com
+  name: Darien Times
+  domain: darientimes.com
 
 topics:
   - Computer Vision
@@ -39,6 +39,6 @@ related:
       domain: zdnet.com
     quality: 61
 
-secured: "1xq8l/htOtznk1PcPkPgRrWPGBMvrwvX80MncsCP15RkJwSyvi9FjY1zPpABTE0pOxFgGUTTWN7hjheR2ivVpQqj8li1EzdPE6gnCRAy3yb5AizqUUops3PxV5t7tL/8YUe6eckS/OWa1+nR3JTnlvWQ6AIAURyOHBRbbWSAd91mugU8XRzT5Mf9bgCm9sHBAU9o08LVJE21ZQ72ez2bsy9jm9qtpQOkm/X7lUlJZUFx/JvXQGa58SzfrlQsew5jkwoiwKC2XQm8dvMFLCW3TEjtX0ZVSFLEocoPDzeY96gyTsN0aa1xgoBprRG5INTzcquCcFq2F7i09jhltV7ThslUrh5ChwsxppKtgslssLM=;LaO2VWHAhWtAR5cHAypTuQ=="
+secured: "S3y1C23t1dlbi57rHZbHACFCQXbQ9pJNU46TfMQIwOS3GGnYctmstS7053YFF68l9yNfUl4cA5vS9gQfzc3tpLTGQCkE0LrtPDpqgZLn6E1Znk143hK7nJWWhu0X/rrj+yTT4w4ItWiF9mgukp1c4biI4h3lNNezTmrmY2+g2iNU9zWp3ZDC3UFUZLxNR8neYGOg8iek3I11oW+E+wGxmoVx4BzwtMEy5GHumo0U9k2r/F6ObnZukcFKmZq7Pf1MTpLQsSU2DhVR0cHCmXwEU5ooGZCWGRHq9AtveZyvCTbRjGCOO5HHgJQm64tpNcPxkz9b50aJG2PBEMnNcTmDNxDEBRQofekDsqg38ymM95k=;VwxVOXrlrln4SleJPsPIrA=="
 ---
 

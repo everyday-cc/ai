@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Educat
 webUrl: "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Education-Market-Analysis-Strategies-Segmentation-and-Forecasts-2021-2030"
 type: article
 quality: 52
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 38
-  - title: "AI in Computer Vision Market Growth Analysis, Trends Forecast Regions, Type and Application to 2019 -2028"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
-    publishedDateTime: 2022-01-28T14:46:00Z
-    webUrl: "https://menafn.com/1103606484/AI-in-Computer-Vision-Market-Growth-Analysis-Trends-Forecast-Regions-Type-and-Application-to-2019-2028"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?25642"
-        width: 374
-        height: 250
-        isCached: true
   - title: "Agricultural Robots Market Research Growth, Regions, Type and Application, Forecast Analysis to 2020-2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
     publishedDateTime: 2022-02-01T12:51:00Z

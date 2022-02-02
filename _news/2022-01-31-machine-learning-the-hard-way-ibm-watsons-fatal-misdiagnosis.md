@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/01/31/machine_learning_the_hard
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Hot in Healthcare Despite IBM’s Watson Health Pullout"
-    excerpt: "Earlier this week, the tech giant IBM sold off chunks of its once-promising artificial intelligence (AI)-guided division Watson Health. Despite this setback, European firms see a bright future for the use of AI in healthcare."
-    publishedDateTime: 2022-01-28T14:45:00Z
-    webUrl: "https://www.labiotech.eu/trends-news/ibm-watson-health-ai/"
-    type: article
-    provider:
-      name: the Top 10
-      domain: labiotech.eu
-    quality: 71
-    images:
-      - url: "https://www.labiotech.eu/wp-content/uploads/2022/01/AI-ibm-watson-health.jpg"
-        width: 960
-        height: 460
-        isCached: true
   - title: "How IBM’s Watson Went From the Future of Health Care to Sold Off for Parts"
     excerpt: "Most likely, you’re familiar with Watson from the IBM computer system’s appearance on Jeopardy! in 2011, when it beat former champions Ken Jennings and Brad Rudder. Watson’s time on Jeopardy! was fun viewing,"
     publishedDateTime: 2022-01-31T14:00:00Z

@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Qpisemi Announces AI 2.0 Processors Based on its Innovation in Integrated Photonics and Newer Software Paradigm"
-excerpt: "Qpisemi Announces AI 2.0 Processors Based on its Innovation in Integrated Photonics and Newer Software Paradigm"
-publishedDateTime: 2022-02-02T03:30:00Z
-originalUrl: "https://www.businesswireindia.com/qpisemi-announces-ai-20-processors-based-on-its-innovation-in-integrated-photonics-and-newer-software-paradigm-77092.html"
-webUrl: "https://www.businesswireindia.com/qpisemi-announces-ai-20-processors-based-on-its-innovation-in-integrated-photonics-and-newer-software-paradigm-77092.html"
+title: "Qpisemi announces AI 2.0 Processors Based on its Innovation in Integrated Photonics and Newer Software Paradigm"
+excerpt: "There is study in 2019 that points, that training a certain deep neural network for NLP (natural-language processing) produced five times the CO2 emissions typically associated with driving an ..."
+publishedDateTime: 2022-02-02T06:55:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Business/20220202/3903027.html"
+webUrl: "https://news.webindia123.com/news/Articles/Business/20220202/3903027.html"
 type: article
-quality: 19
-heat: 19
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
 
-images:
-  - url: "https://cms.businesswireindia.com/Uploads/news-multimedia/images/Picture_77092.jpg"
-    width: 446
-    height: 318
-    isCached: true
-
-secured: "6xfJZ0vi91w1gMu5ptKf9p6AwbWxFblKMUt3o76sh55RLOcsWoDbzU1fvDXMWX37K2xyo0kjBfrc/TYUaqVMq/YCSxCJBfKREs56JZOtvG49PEI5RAXQjIezkN+F4LqmfUbaHAZexN/XNF8LQa+8z4GCclG8SFc79cVZFxL7S2MrzjxxyBYC+4HPchJh4Y8NK/ODKIsUsKIsYJtIVigMix5JTdP3GORv8eHZB8HX8/Uv+EkGyKLCGwljKU2B25NGET8EZ/2K1NKifJTCXUc72njmI3oo97wSR9yQf6voRP6bQ5rGFy8Fu7AdMe3ZSzc7E/7InlpwQGujqWbhWdLfWBG6IcS3/GGevQBp928Nq90=;RRMTPB9UolOFP/EvfiqVHA=="
+secured: "x6/JnZh3ZXo5q5ahucNFK/FvhBVIqJ8ahEzcSMo7vrKP4mkJXKMBuEjfOUv8YkVVoPYR2vsokwwNG0FwkQT8P+CjenFG/mueGO9nKAe2pwbfT3EL9yqSPUBCS7LUmN2/cZqcgGKaRuiSO0AJ/nM4P7K5xWqLwYstrGvgYs8Fq4Vi7moc/TTA+nXZCz1NlcmINVKbGnc+OxgKkIs2w1U1hh1vDXarrMUWwMQS3MK24pf2cZiLDsrmb4rU32Z8ZHvG352cpgtsgwHHPD7KvX2h3ZKCtUluBEz/GMq4iuevHvWlJLkPxj8kLBEN3Z4Qnliny3AyI/lOuaDR2HpTY20Ss4huwVpwu3W28GCciISp04Y=;OJQhCWOItngjB4tHfUfOvA=="
 ---
 

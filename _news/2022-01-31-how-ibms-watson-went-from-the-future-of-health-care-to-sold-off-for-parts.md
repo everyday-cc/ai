@@ -42,20 +42,6 @@ related:
         width: 648
         height: 432
         isCached: true
-  - title: "AI Hot in Healthcare Despite IBM’s Watson Health Pullout"
-    excerpt: "Earlier this week, the tech giant IBM sold off chunks of its once-promising artificial intelligence (AI)-guided division Watson Health. Despite this setback, European firms see a bright future for the use of AI in healthcare."
-    publishedDateTime: 2022-01-28T14:45:00Z
-    webUrl: "https://www.labiotech.eu/trends-news/ibm-watson-health-ai/"
-    type: article
-    provider:
-      name: the Top 10
-      domain: labiotech.eu
-    quality: 71
-    images:
-      - url: "https://www.labiotech.eu/wp-content/uploads/2022/01/AI-ibm-watson-health.jpg"
-        width: 960
-        height: 460
-        isCached: true
 
 secured: "Fup+1tKF18NEIUil4g/MGsd1TxcH6MLabLbRTHR1zlM7DPTGOzmxjvx15IvITdslOTm4QOEO3lyz6qSJRVBK98yeXi5u2oGkgiUgmsUCAYaVWPMlLlG1jnQlx0IdKxcN8Ci8K0NFN4S6ZYe0UeTYjwk762zWUm0fMvtwHqGEvshcAV07IsBoTzuk3CJNB7EzkwtNW5xg9GZGFjtv0LujxRtkS1RiPz5DPZ5NIsL4ZJ65nU2kL8Bj/RUmtzUoHefhu7KYtSAcE4Gp4mIp2ELvmyLmxm7miGtX6bEmjJMIbVNwvBCHk5bVfytqPjbUxbFBy5VvZvxSdQRi0P0fJmfMRVDxn8qo5476NLDPPP4suasuQvIg8/3CTrU6w3+q3zxqIuGKGP/VB8qyOvfqnqQyXvBA266fQL2OX75LQ0JB392SxtZAhDedSKxpSItCnuIW1W+BrxWdQieIGoWZEUxo+qDgJHirCmboUf9oNrpcOfkpPHPHQmqwHhvxdPGu1LUqpZOxWBU2NNgBJWHoNSsIBQ==;rLlZXy4iYI6BwJLzfaWUow=="
 ---
