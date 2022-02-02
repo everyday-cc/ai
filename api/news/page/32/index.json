@@ -2,6 +2,57 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-01-05-ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg.md",
+      "title": "AI startup Fractal becomes unicorn with $360 million investment from TPG",
+      "excerpt": "Fractal has raised $360 million from TPG in a new financing round and entered the unicorn club as the Mumbai and New York-based AI startup, which counts Google and Wells Fargo among its customers, scales its offerings and begins preparation for an IPO.",
+      "sourceUrl": null,
+      "webUrl": "https://news.yahoo.com/ai-startup-fractal-becomes-unicorn-093148938.html",
+      "originalUrl": "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 276,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/yjWJApiXP.r3.tXCfl4n6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NjU-/https://s.yimg.com/uu/api/res/1.2/tRJXoqN6AhGj67TxBBsBaQ--~B/aD00MDAwO3c9ODUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/9d520e0099165578729ab4784e4fc873",
+          "width": 1200,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-deere-rolls-out-fully-autonomous-tractor-at-ces.md",
       "title": "Deere rolls out fully autonomous tractor at CES",
       "excerpt": "The images are fed to the onboard computer, where a convolutional neural network—an advanced form of artificial intelligence that analyzes images—classifies pixels in milliseconds, identifies ...",
@@ -1156,48 +1207,6 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-nvidia-wants-omniverse-to-be-metaverse-builders-glue.md",
-      "title": "Nvidia wants Omniverse to be metaverse builders' glue",
-      "excerpt": "The free collaborative 3D graphics and rendering toolkit comes out of public beta, and its cross-app support could be a sign of where all the other VR/AR tools need to go.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/nvidia-wants-omniverse-to-be-metaverse-builders-glue/ar-AASqkWf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/cryso2yyzDiLrn1C8sMAb-IIdCA=/1200x630/2022/01/04/41284882-37c0-400a-8286-4e1f1a780479/nvidia-omniverse-audio2face-rhino.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-      "publishedDateTime": "2022-01-04T08:45:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnet.com/tech/computing/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-        "domain": "cnet.com/tech/computing/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Musk: Robots to be bigger business than Tesla cars"
-    excerpt: "Elon Musk likes to have a focus - and this year, it looks like it might be robots. He told investors on a Tesla earnings call"
-    publishedDateTime: 2022-01-29T04:44:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/255514/Robots-to-be-bigger-business-than-cars"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 56
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-28-1644271.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "Z8tH8XAk3G0Trqq0/sRX7q4s1awoH2WlFECWVP7h2r2j0s+JpFJIRj5JoiXsDqopvGcy4wyyCA7U8UPZTHyKK/3iYKgPMIauMdZ3B+Ny18PvFWE/LUA9LZJ7d3WPESR1aI3unutmQqb1bnjjzuvZiiRtrGfzUrUNaRE+7VWbz2idEYzjltqKsDQG2ml1I/30f2jhFbN5WtCKEDtG/3fpzWU7vUZoKsw+aOmhvHr0HJpnOQWlwt9zxMUWGftlelGw4essCeCilXk4kPijsuHsU1P/Yqq7rxrSgHi9y/nQ+D8nhzRGx5MeiVzCT5c53TnntPgjVjuQNb+YLeQpGBWDhtGMuwb72YoAd82IgVShzdU=;IdOzv4fJc1ETdAgr1Nk1/A=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-02-traffic-artificial-intelligence.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-traffic-artificial-intelligence.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How giving AI bots control over nuclear weapons could spark World War III"
+    excerpt: "Training a nuclear weapons AI program also poses a major challenge, as nukes have, thankfully, only been used twice in history in Hiroshima and Nagasaki, meaning any system would struggle to learn."
+    publishedDateTime: 2022-02-02T18:11:00Z
+    webUrl: "https://nypost.com/2022/02/02/how-giving-ai-bots-control-over-nuclear-weapons-could-spark-world-war-iii/"
+    ampWebUrl: "https://nypost.com/2022/02/02/how-giving-ai-bots-control-over-nuclear-weapons-could-spark-world-war-iii/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/02/02/how-giving-ai-bots-control-over-nuclear-weapons-could-spark-world-war-iii/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 56
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/02/newspress-collage-21060207-1643808806718.png?w=1024&#038;strip=all"
+        width: 1023
+        height: 682
+        isCached: true
   - title: "Snap One debuts Control4 & Josh.ai Consumer Campaign"
     excerpt: "Control4, the automation brand of Snap One, and Josh.ai are taking their recent strategic distribution partnership a step further by offering several new resources to help integrators"
     publishedDateTime: 2022-02-02T16:42:00Z

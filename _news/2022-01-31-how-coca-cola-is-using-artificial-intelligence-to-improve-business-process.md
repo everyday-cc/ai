@@ -7,7 +7,7 @@ originalUrl: "https://www.ictsd.org/how-coca-cola-is-using-artificial-intelligen
 webUrl: "https://www.ictsd.org/how-coca-cola-is-using-artificial-intelligence-to-improve-business-process/"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,47 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "How AI accelerates insurance claims processing"
+    excerpt: "The immediate aftermath of a vehicular crash is difficult for all parties involved. The drivers have to process trauma and figure out how to get their damaged cars repaired or replaced. Insurance companies have to conduct damage assessments and figure out the most efficient and least expensive route to get the claims resolved."
+    publishedDateTime: 2022-02-02T19:51:00Z
+    webUrl: "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/"
+    ampWebUrl: "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2012/11/insurance-for-ride-sharing.jpg?w=1200&strip=all"
+        width: 803
+        height: 558
+        isCached: true
+  - title: "LeapMind Announces AI Image processing model which operates on edge devices"
+    excerpt: "LeapMind today announced an AI image processing model which operates in real time on edge device. This AI image processing model uses the company's ultra-low power consumption AI inference accelerator IP \"Efficiera\" to operate in real time on edge devices to reduce the noise and improve the image quality of noisy images."
+    publishedDateTime: 2022-01-31T07:32:00Z
+    webUrl: "https://www.design-reuse.com/news/51335/leapmind-ai-image-processing-model.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 37
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage51335/lepmindb.jpg"
+        width: 657
+        height: 444
+        isCached: true
+  - title: "How Coke Cola Is Using Artificial Intelligence To Improve Business Process?"
+    excerpt: "What Business Strategy Does Coca-Cola Use? We are focusing on choice, convenience, and the consumer with our new business strategy. With Coca-Cola’s evolving business strategy,"
+    publishedDateTime: 2022-01-31T04:48:00Z
+    webUrl: "https://www.ictsd.org/how-coke-cola-is-using-artificial-intelligence-to-improve-business-process/"
+    type: article
+    provider:
+      name: ICTSD
+      domain: ictsd.org
+    quality: 15
 
 secured: "fMgYUxVFilCfk1Zyr1vQM2qx5Z/45OQISGEiLl6ePVxI/6AlIH4Um2wpsQ4aZoW9M+jszeBM8l1+PUVts1+JVy0mFbPRHeJ4Ny4kk9dLfOAvFTnYnA4zkdeYjbX+pEVr18r6NmH6tip4l7jANUKpKGZxKdpqHkH5IXOjRRSGP8XwpejHAcE9VAvhHQQZqnArwRMmoTIUL9/44bDGZx+Yz6sl9nU+S+s5hExI0MNYMTzEXpiIyKj5XMMmsSCKqHg+zV4KYg07ab56DrvSpsbGUvhEUnZqDhSpfS3rt/fBHnqINwW0hF8BOJy6Ri5fmthMS7MPZHmlgdnPy1k2SfjDigNT8TuwJyo+UaoS+wCod+Q=;RCtlI6/vj/fdY0OWSDycfg=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-03-how-ai-accelerates-insurance-claims-processing.md",
+      "title": "How AI accelerates insurance claims processing",
+      "excerpt": "The immediate aftermath of a vehicular crash is difficult for all parties involved. The drivers have to process trauma and figure out how to get their damaged cars repaired or replaced. Insurance companies have to conduct damage assessments and figure out the most efficient and least expensive route to get the claims resolved.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/",
+      "originalUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2012/11/insurance-for-ride-sharing.jpg?w=1200&strip=all",
+          "width": 803,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/",
+      "publishedDateTime": "2022-02-02T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-balance-your-data-for-machine-learning-with-amazon-sagemaker-data-wrangler.md",
       "title": "Balance your data for machine learning with Amazon SageMaker Data Wrangler",
       "excerpt": "Amazon SageMaker Data Wrangler is a new capability of Amazon SageMaker that makes it faster for data scientists and engineers to prepare data for machine learning (ML) applications by using a visual interface. It contains over 300 built-in data transformations so you can quickly normalize, transform,",
@@ -715,7 +767,7 @@
       "originalUrl": "https://www.wsj.com/articles/ai-could-cut-hiring-biases-as-companies-make-push-to-find-workers-proponents-say-11643797804",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -754,7 +806,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1182,58 +1235,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-here-come-the-underdogs-of-the-robot-olympics.md",
-      "title": "Here Come the Underdogs of the Robot Olympics",
-      "excerpt": "They’re meant to draw talent from beyond the hermetic world of military R&D and jump-start innovation on very hard problems ... and the software packages to power them, plus the AI to decide whether that black spot is solid ground or a precipitous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/",
-      "originalUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61f853d9a098d1434bc85a47/master/pass/2022_01_17_WIRED_DARPA_SubT_ROBOTS_206_FNL-FA.jpg",
-          "width": 2400,
-          "height": 1647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp",
-      "publishedDateTime": "2022-02-01T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

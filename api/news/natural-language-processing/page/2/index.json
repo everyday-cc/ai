@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-15-duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement.md",
+      "title": "Duolingo is now mixing A/B testing and copy testing to boost user engagement",
+      "excerpt": "Learning a language is hard, that's why Duolingo is now using a tool called Expurrimenter to help boost user retention by trying out different messaging techniques in-app and in notifications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
+      "originalUrl": "https://www.neowin.net/news/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2022/01/1642181054_duolingo_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
+      "publishedDateTime": "2022-01-14T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-15-ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services.md",
       "title": "Ramco Systems builds voice biometric authentication on Azure Cognitive Services",
       "excerpt": "Ramco aims to facilitate authentication in a post-COVID world, where many countries mandate the use of facemasks which can affect facial recognition accuracy.",
@@ -1367,49 +1419,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-a-new-method-to-make-ai-generated-voices-more-expressive.md",
-      "title": "A new method to make AI-generated voices more expressive",
-      "excerpt": "Researchers have found a way to make AI-generated voices ... voice-overs in animated movies, automatic translation of speech in multiple languages–and more.The method could also help create ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/939258",
-      "originalUrl": "https://www.eurekalert.org/news-releases/939258",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/images/audioicon_e4_rel.jpg",
-          "width": 585,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T05:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

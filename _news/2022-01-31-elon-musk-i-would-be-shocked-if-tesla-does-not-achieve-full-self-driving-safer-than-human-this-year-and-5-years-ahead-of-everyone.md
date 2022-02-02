@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-saf
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/31/elon-musk-tesla-full-self-driving-safer-than-human-this-year-5-years-ahead-of-everyone/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Electrek
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Musk: Robots to be bigger business than Tesla cars"
-    excerpt: "Elon Musk likes to have a focus - and this year, it looks like it might be robots. He told investors on a Tesla earnings call"
-    publishedDateTime: 2022-01-29T04:44:00Z
-    webUrl: "https://www.businessghana.com/site/news/technology/255514/Robots-to-be-bigger-business-than-cars"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 56
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-28-1644271.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Elon Musk says Tesla’s humanoid robot could eventually outgrow its car business"
     excerpt: "During Tesla’s earnings call, Musk said the company’s future humanoid robot — internally named “Optimus” — is the “most important product development we’re doing this year.” Musk first unveiled the robot during Tesla’s AI Day event in August."
     publishedDateTime: 2022-01-30T10:30:00Z
