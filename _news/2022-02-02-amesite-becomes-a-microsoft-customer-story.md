@@ -33,6 +33,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Teradata Expands Partnership with Microsoft to Offer its Platform on the Azure Ecosystem"
+    excerpt: "“Teradata and Microsoft are combining their data, AI and cloud capabilities to help teams across industries and professions make data-driven decisions faster.” For more information about this partnership, visit https://www.teradata.com/Cloud/Azure."
+    publishedDateTime: 2022-02-02T15:43:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Teradata-Expands-Partnership-with-Microsoft-to-Offer-its-Platform-on-the-Azure-Ecosystem-151229.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 45
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ooredoo, Microsoft Explore 5G Potential in Live Sports Media and Broadcasting"
     excerpt: "A consortium of locally based media and technology companies, including Ooredoo Qatar, Al Jazeera, beIN SPORTS and Microsoft, played a leading role in an International Broadcasting Convention (IBC) accelerator programme aimed at fostering collaborative innovation between the broadcasting and technology sectors to push forward new technologies and use cases."
     publishedDateTime: 2022-02-01T00:24:00Z

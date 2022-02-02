@@ -1,29 +1,43 @@
 ---
 category: news
-title: "Humans vs AI: here's who's better at making money in financial markets"
-excerpt: "This rapid technological progress has also had a huge impact on the financial services industry ... algorithms are commonly used by traders, machine learning or AI algorithms are far less usual ..."
-publishedDateTime: 2022-02-02T13:40:00Z
-originalUrl: "https://menafn.com/1103630861/Humans-vs-AI-heres-whos-better-at-making-money-in-financial-markets"
-webUrl: "https://menafn.com/1103630861/Humans-vs-AI-heres-whos-better-at-making-money-in-financial-markets"
+title: "Humans vs AI: here’s who’s better at making money in financial markets"
+excerpt: "As such, AI often appears in behind-the-scenes processes ... such as the EU legal directive MIFID II or business ethics. The experiments themselves did not engage in any unethical activities ..."
+publishedDateTime: 2022-02-02T12:54:00Z
+originalUrl: "https://theconversation.com/humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
+webUrl: "https://theconversation.com/humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
+ampWebUrl: "https://theconversation.com/amp/humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
-  - AI in Finance
+  - AI Ethics
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2022-02/02/TC_7aac3image_story.jpg"
-    width: 2376
-    height: 1226
-    isCached: true
+related:
+  - title: "Humans vs AI: Here's who's better at making money in financial markets"
+    excerpt: "Artificial intelligence (AI) has now closely matched or even surpassed ... emergence and growth of the financial technology industry (FinTech), where technology startups increasingly challenge ..."
+    publishedDateTime: 2022-02-02T16:00:00Z
+    webUrl: "https://phys.org/news/2022-02-humans-ai-money-financial.html"
+    ampWebUrl: "https://phys.org/news/2022-02-humans-ai-money-financial.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-humans-ai-money-financial.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/humans-vs-ai-heres-who.jpg"
+        width: 1356
+        height: 668
+        isCached: true
 
-secured: "ahAxsnRgdU+KsV1Kbyo3pzXzQ2fLJDDkbRAaVtKkV9rxTw8iV3U87hwnF4z4xYwWnezl/7ulHhFc8aBBGRMjdWXOFZHLfepIFNzARCwHDDZaUNkMRMaqKnQ4gFxIjOLNQJCX8HubJxSbd9nVqNDNE7BB5OyWF7ZXihQkh6fBi286sdt2ymwEBoqsF5d+h2k0928TQFNEzKswnabupaB7MDloua5hKVQAQCvsFJUREcc2dDuS23pWRjVtOAV+npMr6Gn1zivayDTkhxzTUOti5CzZLLrWYONUeRKHY8XfKSgkrT0l97BjUXU86mnGisDm4uoqsXiYsAE0KgfVxYoXc+XxKuQqcCD/hQe2aZk1GlY=;g48vwwndKedsYxQfQCFyrA=="
+secured: "PrTFy0JYAXocUeb0zJOltMeFyEoRmviexc4Wub7eYn5Q0Fo4XK9/SVy2q5siEeuLGjtgdMaqCX4Uv+cNTRxm85XW0sO+zZRJJjg5M+CuM8VLRaCPJCAJ7bxf2kvUI7BN4l586ubCKqlCx/NurW2JQerFZU7jLlbnmoP6PiJOgYHQ82wEUW7kaSckkOsn9SLM6CseN+GrH6KZ5H47Mzo69cUw0zo6f0hbh2p81zJ5c/Fi2X3Mh5QsPI8b0bp3Ao0truAuvumgAEijMNwzvDhgwSI8Uw779tj9GknZukgTgvqIgdt9Gp9/qwowLNqzKzfwuyjDfkjVyxc35lXlGhTIOp9nEbGPVo8bBZrhNuTY5Eb0BrXBAAE4FJOObR+NAKfpCSnkt7A4A4TVadq+6qd5/WxEktkYcfVCuDd2ZJxuAMwGVZbyEVdDxRqfGOc1iimmo/vvwKNq52o3RxkS+jUJdvPcL8LoJgqi/fErTzsHCcXYs6wo4Wurw0pMvgPvCZHIgBbwZE9Ip1bXr5s/QlUWcg==;b4qevt/6xHhkLdQPzryuVQ=="
 ---
 

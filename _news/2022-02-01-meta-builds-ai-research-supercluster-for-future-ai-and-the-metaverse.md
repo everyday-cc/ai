@@ -36,7 +36,7 @@ related:
     provider:
       name: Electronic Design
       domain: electronicdesign.com
-    quality: 54
+    quality: 58
     images:
       - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/02/272129674_454504216213565_903503002058288683_n.61f96f7484598.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200

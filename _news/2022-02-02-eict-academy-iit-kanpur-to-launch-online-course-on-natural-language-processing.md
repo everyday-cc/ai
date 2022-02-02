@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/cities/lucknow-news/eict-academy-iit-
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/lucknow-news/eict-academy-iit-kanpur-to-launch-online-course-on-natural-language-processing-101643811419627-amp.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 900
     isCached: true
 
-secured: "N2N3Iene6nH2dvIq2jonom0dDQ8knAh5nbG3bW56wRA6DxKO8ac1TKrHRD9OCWRHhZQZaWskifob5HiXi3xcvixL5AIZdiyGKldxRuoKSrAbbHzcAzX2mhKQ0CGEY8iOnGyaNi8eGxOOjiu2t0jtr7jV/CJEwB6+Mnx7Wxh+PtvmKaLxhmup2Z/03s6gaakIF7HEryUYt5iSsv0ProdxqOeZwTZFnsW08jWb1DBTcBQFClCnqdHOn703fFHoSgRSoedLw7i9xUaQLZIIlZkaTLZ8644dsNztdAM+q9NJ11cp6b9IHZM7occHpeM9TpQue0ZRI1Higg0phKaTaYU2eSAtjx8G4/yUXh23feDTSGE=;g3E1JWL5b4xdhZgKyCzsyA=="
+related:
+  - title: "IIT Kanpur Launches Two Weeks Online Course On ‘Natural Language Processing’"
+    excerpt: "The program is designed to master the knowledge of Natural Language Processing with future directions and hands-on live sessions, an IIT Kanpur statement said."
+    publishedDateTime: 2022-02-02T16:32:00Z
+    webUrl: "https://www.ndtv.com/education/iit-kanpur-launches-two-weeks-online-course-on-natural-language-processing"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 36
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2022/2/2/iit-kanpur-featured-image.jpg"
+        width: 1280
+        height: 854
+        isCached: true
+
+secured: "rjj+FXZOQDDuwerYp6D2yBiASeUu5XB/uLk7LgsHxLejvg3QgGW2+/vSMB85wIrEnbltof6jgbABh4h8OQ8au6+z9+bB5zS3Hh2O8/INg3C86LWBXUxHU0A2B2+T/k/G5/Dh0e2O9oy8W1RvFMKrctu1QxzwAgT5Ty/XrniE7lkT2P6blbXJvytSScPpV2q0DN2vuJBIjArO+9jUNb5TKIpeaiwuVwYVkfyWHJs3LoJL635atAWwRMWDsESzQAglGkaX9hdD109qjAd2qnuw8jX6wW6TEEmF93xbwzOsvdxmaI9QoQcZgLW72xGdp5LDFuVgwY6bNtEFG8x4KiQn1v+TJ90bJt8Xqwj6kuD1FxbQAn73i7ibv3sqJbYCllj9ow41/SRVOOG8dDg3H4ig//S+03gXb1C8ltF9H8/O3/ptF/Qcu3TLMHmehxNPgjRqpglQs0Y//98dvCqqKCTq83ntnGy61Bydhs590gaBUD4PfptFxi5F3Hsc1HeQajiuaY0j5DAXs/dlxep21V0i1A==;ePgN88VHgpmNwVygEDcoCA=="
 ---
 

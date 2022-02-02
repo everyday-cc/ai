@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/tesla-to-recall-nearly-54k-cars-which-cou
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature/"
 type: article
 quality: 95
-heat: 445
+heat: 455
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://www.pe.com/wp-content/uploads/2022/02/US_Tesla_Full_Self-Driving_Recall_10402.jpg?w=1024&h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Tesla recalling self-driving cars that roll through stop signs"
+    excerpt: "Tesla is recalling all 53,822 of its electric cars with a “full self-driving” feature after it was determined the vehicles were programmed to roll through stop signs."
+    publishedDateTime: 2022-02-02T15:37:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 59
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2022/02/01/us_tesla_full_self-driving_recall_10402_c0-234-5616-3510_s1200x700.jpg?cb8bdaaafe19aeefebbc81a4d50578aeb1d81bb7"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Tesla Recalls Full Self-Driving Vehicles Not Stopping At Stop Signs"
     excerpt: "Tesla will recall 53,822 of its vehicles that contain its Full Self-Driving (Beta) software because of a defect that may not allow the car to come to a complete stop at some intersections"

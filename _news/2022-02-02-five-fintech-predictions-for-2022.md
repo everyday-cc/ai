@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-finte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -157,6 +157,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/14/014d7741-65f6-5688-9ccd-386fd168c483/61fa8b489d478.image.jpg?crop=1080%2C567%2C0%2C20&resize=1080%2C567&order=crop%2Cresize"
         width: 1080
         height: 567
+        isCached: true
+  - title: "Knowledge Innovations, Ghana Fintech and Payments Association to host webinar on FinTech innovations in Africa"
+    excerpt: "The FinTech and Innovations focused event would bring together ... especially in machine learning and artificial intelligence (AI), lack of sustained intercontinental collaborations, and challenging business environment. The upcoming webinar is however ..."
+    publishedDateTime: 2022-02-02T16:13:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Knowledge-Innovations-Ghana-Fintech-and-Payments-Association-to-host-webinar-on-FinTech-innovations-in-Africa-1459822"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 4
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/730/73089117.jpg"
+        width: 600
+        height: 601
         isCached: true
 
 secured: "0OcFQDbvkxw6b2V0lJfV7jZfuw3kePBzuq1xOdqXQ+d0rsm+GzDxbPGSChpcdyuy4AVO4Mm2FswpCYKmt6trHFt/j0gHt0KDmiPMUU2CsJ3Bf0W/bLuL2LvGtNEL4QHJZC3f0bbwZ0ZINn3i1stSKKUiU9zdoI2IfYcXTqIq4gXi/NcqX+AcjPFo4u/XSIDcOIoj+UYaRjtYUjhT7AuO9mcYw3E8+98skE53wJ6AvuEzvI6DiL1b1GicEzseDPse5XiE3LcqGNxi1pv13B+4o5v1Hwi0MuCA0X5WRyx67C2Zrk6pOGRNKd7wlnEGVJG2/faoOAx4HNxdpJ62hraGTK9YiSaZn0MuynGbMDDV9Dw=;YzYTt8W+4xuNUeCadP5REw=="

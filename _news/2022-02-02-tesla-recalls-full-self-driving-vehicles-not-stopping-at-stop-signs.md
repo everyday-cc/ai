@@ -121,6 +121,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Tesla recalling self-driving cars that roll through stop signs"
+    excerpt: "Tesla is recalling all 53,822 of its electric cars with a “full self-driving” feature after it was determined the vehicles were programmed to roll through stop signs."
+    publishedDateTime: 2022-02-02T15:37:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 59
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2022/02/01/us_tesla_full_self-driving_recall_10402_c0-234-5616-3510_s1200x700.jpg?cb8bdaaafe19aeefebbc81a4d50578aeb1d81bb7"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Tesla recalls full self-driving vehicles over rolling stops"
     excerpt: "Tesla has been recalled by the National Highway Traffic Safety Administration due to a feature called \"rolling stop.\""
     publishedDateTime: 2022-02-01T18:29:00Z

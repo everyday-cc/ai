@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-02T14:40:00Z
 originalUrl: "https://www.thetablet.co.uk/blogs/6/1981/robots-drones-and-smart-churches-catholic-social-teaching-and-the-artificial-intelligence-revolution"
 webUrl: "https://www.thetablet.co.uk/blogs/6/1981/robots-drones-and-smart-churches-catholic-social-teaching-and-the-artificial-intelligence-revolution"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://www.thetablet.co.uk/UserFiles/images/blogs/webinar-Sean-mainimage.jpg"
@@ -24,6 +25,6 @@ images:
     height: 455
     isCached: true
 
-secured: "1JfjfI3LSJiMl0RkZLpSlOqQjfw1td34ST+u8/WG3cG3152QgUEf/prHr7RUJ3LaR8iL7GCa0czAczw8Q4dytd9lfq05c0CX12Pm/lP2VCp5RjzeFWFaBKmpPHYWUNIVJ0DodPvheDx4pZQfkcDCy8bxgU1dzMNGq0lOunYb6myJlX6BzlRikQisAN1ObaCWrVzsHy4P522sLwLXOZKCne9F52IsUT4e4S+T+VnmAl1RVdINT6gLHVsxWBhC1chpbtzCOEq3DKGp/aw9ixU7J8DAq6X6UDi/aKHZahywn2hxEYHze4Vo6wo02RSxF7gYOcK+85OQwWHbqat9jEJ2hVzasakSV28qtqAECkTi4b0=;wZ6AiROfCyLG0KMYK+idIA=="
+secured: "kYZXCOkON0mWacY5E+R0ab5Qm66N/48TTDIxh1REqpfjVAo5yNl+jC/UJ1GtTVMzBEJuziBLTaQb/qW5djGrYe1YiRCTh9CoctK+0ZAGOdpSAIpe09KWK6ah4WCcDur1HHE3QtLuihIWEnEVl8eUhbL2sTTWWpeiA1df7Aj3uc22tKQ0gAAm9Z5P1kOgZWoG/HSRhK+oo0CeFtWkDOmIht9VXOijyNTej7YSETxw8ZWwFcZscUEnT0Hqn008ZRbtEnWAov9xA+USx4t3MoflWN7mYocPY3KPTrlI4DkkXyy/pczk5IO8HEDUWQIN9T0dMG9UbOWJG5TxWbFRxhZHq9S7sTb8JjoPubFFxljh4BYjlJn9A7YE8W0oGt1TY71mmJlnP1ak1m+aOuL0hZ/tNIWZkZ0Fgz/o/Qnn4lV4iRF1mINNYWiFPISV6GEXCOhkYR8km5c+ufCj5of1hVqailrvgcYwxhNuszwRYVPh+G7OOJJUG63CxBxTtoXfjN6yy6sLDtJpn2gXzDL90aSw1g==;B4KyCcvQhnc8ZZJfxBUE1g=="
 ---
 

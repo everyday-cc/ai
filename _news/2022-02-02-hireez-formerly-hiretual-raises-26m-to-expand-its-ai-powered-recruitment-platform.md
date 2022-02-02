@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-2
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 91
 published: true
 
 provider:
@@ -47,6 +47,6 @@ related:
         height: 1120
         isCached: true
 
-secured: "QS7y4eXwp+VNkFx7+2UiTXicul3oUghjGL1qJjVim5iexflb7FL7HyLgoY41CBK3o9zulD2tzLZHChVv7jgr+H5Y/ZixpbSdnbsfT4uxF03Mywkgg5J1losy5cyOq/U71xbGBOz7jE5Jw7v1MMHim+G/GsbTd2mPWYFfM7X/g6bWC3a6Nh7hWv485h4bnDMfgV0NIaslwzqNEAsNP7v0FPexqwVqXf0S67Qj+AvNkZQhymhzSAklZW3OU5Q8ZkW8CTzltCCUYBkcdE4ibkBmVEhsH9iaKmgaf7iaPNegSkwChO4A/WX3YznGR0ME340W/BorOTFPQ1+cR+c80ZCbRY2xvgnsNuOspFC4S5XI2V0=;6HJdMhFDEgt3TVZU6c7x3Q=="
+secured: "BvO/FTyYHdYGFjnhWlwIYyWetyxX5O4pNHw6bW+0SsjSAdvSfL1gsYnUHdKH929xiVyz5444OCLIsf4eac2e+QM1LyYfLSWi2bivXryqXn+2x+5q/gzSWyCAxWJ3VHrLcJBBIijvdRcdGEj8xq+HO2msCTR0n2ptO1t3zkwy6Lk1PxFy2uNNsCQxIAd0Rz3QHm7zUYZ+Zm+ekTNaCwAgW2TYbuODpYJpJRbDocHXveouk8vFDOXN1mBqoaMuC/ch5U8tdk2UqH2Hk1OSNGl9PpY0E2VomER5MJ7TsjJh0gasFOZrb9d4Y/DWi+6SYXB6EysDSsbI1ZteHv3pwcWcb6wrew9RrcSKMeTguNULRNW9KTrkgwmE/pDrxucneBF35nh3oVi+Zjz09tNH1ZutW2BvPf2qIbNIKt+ubUdEw9tOb7glGL3ZUgfilzykr1iYeZ71Syt+jfszy8i3Dp5Lsv12JWUbNkIA9ZtZeK8jlAxiXnYiMIxZj+T+YKZWskHujrtBgvQFHHfo+j8OS7PFDg==;h/tG86ATWB6u+d9PQMlJXg=="
 ---
 

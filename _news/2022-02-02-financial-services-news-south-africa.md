@@ -7,7 +7,7 @@ originalUrl: "https://www.bizcommunity.com/Articles/196/518/key1-20211224090400/
 webUrl: "https://www.bizcommunity.com/Articles/196/518/key1-20211224090400/edt-20220117182000.html"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,19 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Most in-demand and best-paying tech jobs in South Africa"
+    excerpt: "Michael Page has released its Salary Guide and Hiring Insights report for 2022, revealing the most in-demand skills and experience, and highest paid tech jobs in South Africa."
+    publishedDateTime: 2022-02-02T16:16:00Z
+    webUrl: "https://mybroadband.co.za/news/business/432564-most-in-demand-and-best-paying-tech-jobs-in-south-africa.html"
+    ampWebUrl: "https://mybroadband.co.za/news/business/432564-most-in-demand-and-best-paying-tech-jobs-in-south-africa.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/business/432564-most-in-demand-and-best-paying-tech-jobs-in-south-africa.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 24
 
 secured: "+NdR8Nrzpry7jAa9FniOA8K2Hx++NvK7Uhnn/xTEjgySXxtG72NPmknNbj/AdTMpo5do6wrJGmP/xSNHBw09TtcBMANnXA4eDl+HkkzES2Y7d6BDL76citBu42Z9zWXnGqXL9nnUD9OI+Ba6ZggogobMchkZe62SPBzLP3BmqjHdUv2XOmNocyHQ1VRi3Y6o+TP4/mF6XUWdUUXGS1lcbXopktqw4vVRykvtuAbQ8CUjYLjzqun3iM4uFXjQ95aCRNgBjAdDjOG1q4R96NynSFF051wUB37gjAMZkIjlknWwSBRc0MJxOFeP8z0k2kHUDiRSuWXp0NJYeL1kchDaPDGWwLNWC3zWF6oi5Vrrq2BvXQDHmFCulUKHze7Dijs7zdnwhhBh3orwN6EJs4+6W2Jpff+BbPfLDzeXBNlcsLSZWlqWY1GXCD0XzrETWS3ibsznBQkCT7wxBoSFDVmk84UGew/khKHvKKm1WrPkapemN1n1OQZXFJ+24O0ZMAcdWSQxEuyi4XfyMfT4I2Hzcw==;tTikbKK9yOlJMbO4QVOcFA=="
 ---

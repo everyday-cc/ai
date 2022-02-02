@@ -119,6 +119,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Tesla recalling self-driving cars that roll through stop signs"
+    excerpt: "Tesla is recalling all 53,822 of its electric cars with a “full self-driving” feature after it was determined the vehicles were programmed to roll through stop signs."
+    publishedDateTime: 2022-02-02T15:37:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 59
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2022/02/01/us_tesla_full_self-driving_recall_10402_c0-234-5616-3510_s1200x700.jpg?cb8bdaaafe19aeefebbc81a4d50578aeb1d81bb7"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Tesla Recalls Full Self-Driving Vehicles Not Stopping At Stop Signs"
     excerpt: "Tesla will recall 53,822 of its vehicles that contain its Full Self-Driving (Beta) software because of a defect that may not allow the car to come to a complete stop at some intersections"
     publishedDateTime: 2022-02-01T18:30:00Z
@@ -545,6 +561,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "zeJ0g9if+KU+K6cNe0hYm+mFSvPypms2bWjdP2ttBXkB7QTVkWQnISI35MS1QSU1bLQZUUKmXCH2uoMArSIRKUvDaVNmO3V3ZtLntagurt1bYcfo6Aa6yqwPs4+ukOllL7CXWMAWR3/9m55eZ8bCiEPIkPPn2tmBbtUDPFKxbt6tBxaJ2k3fP8D4sjVvFXOBWsTkatNlDkuLAnbJpkFL24FMa9QHka5QI/v573ay1HiaNY7UMBergxqEy0bE2KK/h/gpgCJx9cngudwf+xNg/zu0sdykkJckCsCguL+pbz8TR9q3LolL0CZ6YQY97wyYNCQmpciCz1qQxGwySvUzr6JSKsovkcLWccVnUFn85XY=;zjz7yBOYqMipdXbAwg9gWw=="
+secured: "XbE9arSXIUxEdC5GtvaoV2Acj3hTqZKjfU6W6Z8VmFsAKQc/H2EyDrX0+Hp6Zk0gnPDpPFqKazmez1iz68ULs0XcqSFI7k+0YSR8cFah7AjhGU9syvNpX7Sw+xoNPv1tsfjtKGxdZpafn8oVL1YSMPUoqQ5S1Zh0ooZ71N8aUWks5YrbfTIaAySCjtJn+u2zHfMP9B2Rny4N0V6n0akPJzkRBxWvoySwA5SH5jLKQQvuGAwkDsPXLD2gGw7bviCV+cZhiy1ECh/PuTtPPto+Sp9LdvjpQK8toB6yTqcsYXWi26dsz2JtYTdKPMlF+UwFjO/oGkkV9MoIpis4Ilb0N/blG9F1KiNqVNMcMqX1cFNZdvikUXe+7xRe4U+4rva/rNbJdJyOyfb3d5zah6LB5+wYA1QjdHzaVWtglM5ZhYdtIwMYz25RxfATFXWetv3JnxO1cHYE8L2E2K1S/gtwohDb0A521Ix6VU4CTfn8BWMNg61zq70rPz0+3e4fUeM47yeTLempJHQFyYVAtWDsGQ==;tRtXGN9C/04NWVd/t5Eo0Q=="
 ---
 

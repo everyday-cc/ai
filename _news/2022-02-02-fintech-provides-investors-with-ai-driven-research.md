@@ -154,6 +154,20 @@ related:
         width: 1080
         height: 567
         isCached: true
+  - title: "Knowledge Innovations, Ghana Fintech and Payments Association to host webinar on FinTech innovations in Africa"
+    excerpt: "The FinTech and Innovations focused event would bring together ... especially in machine learning and artificial intelligence (AI), lack of sustained intercontinental collaborations, and challenging business environment. The upcoming webinar is however ..."
+    publishedDateTime: 2022-02-02T16:13:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Knowledge-Innovations-Ghana-Fintech-and-Payments-Association-to-host-webinar-on-FinTech-innovations-in-Africa-1459822"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 4
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/730/73089117.jpg"
+        width: 600
+        height: 601
+        isCached: true
 
 secured: "aqXGPzve9oLoekJvlcqyp7UK0/3Td1i13kWAPWZode05RpeB+5PcgS5/92wXlBAJAWODjQvN0ywv85YE4TApT6p2wRm17SrMaXLJWzdpzV9/tfmGrFb8ixOswghce1FHNikjWEEZ2NTN5dELG/7ErER36KS7ej533Wv+Ihlt1KHoH/jvTjOcGjv4HAuV6nxNJL8hs5RopXI2UkfgafJ18cvg7KieNtO4a1/awnxA5i8q36vYnWiNWryBLUl9L4XNjj0MsE3DGLpT2jsnXeOVumgeFBO2X8FKmRI0lHtRFJqpazYCD3RsPaJQlwOW3SRnC68YomlZp2dvVjxYspcAzc5zBTHYoX4dkTUol+Sh+I8=;KbhrqtktPrnSbXJCCbXUyQ=="
 ---

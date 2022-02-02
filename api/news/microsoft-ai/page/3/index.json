@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-06-xpeng-integrates-text-to-speech-service-from-microsoft-in-p7-smart-sedan.md",
+      "title": "XPENG Integrates Text-to-Speech Service From Microsoft in P7 Smart Sedan",
+      "excerpt": "XPENG has upgraded its auto-grade voice assistant using Microsoft custom neural voice capability, based on Neural Text-to-Speech (TTS), a feature of Azure AI. This press release features multimedia. View the full release here:  XPENG P7 smart cockpit (Photo: Business Wire) XPENG installed the new voice assistant functionality via a major over-the-air (OTA) upgrade for its P7 smart sedan customers in China.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-china-guangzhou-ea429fb4476642e7813d438aa9b2b301",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-china-guangzhou-ea429fb4476642e7813d438aa9b2b301",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-top-programming-languages-this-coding-favourite-just-topped-the-list-again.md",
       "title": "Top programming languages: This coding favourite just topped the list again",
       "excerpt": "Software testing outfit Tiobe has awarded Python the programming language of the year for the second time in a row, thanks to the language's chops in machine learning. The award is given by the company to the programming language that has gained the highest increase in ratings in one year.",
@@ -1317,49 +1360,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-top-intelligent-automation-jobs-to-apply-for-in-december-2021.md",
-      "title": "Top Intelligent Automation Jobs to Apply For in December 2021",
-      "excerpt": "A list of top intelligent automation jobs for techie to apply for in December 2021 to receive offer letters from jobs in intelligent automation. Artificial intelligence expertise is needed for automation jobs in December.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-intelligent-automation-jobs-to-apply-for-in-december-2021/",
-      "originalUrl": "https://www.analyticsinsight.net/top-intelligent-automation-jobs-to-apply-for-in-december-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-Intelligent-Automation-Jobs-to-Apply-For-in-December-2021.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-24T01:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },
