@@ -81,34 +81,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI Medical Imaging Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
-    excerpt: "The Global AI Medical Imaging Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
-    publishedDateTime: 2022-01-28T07:21:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-medical-imaging-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 6
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "AI In Financial Wellness Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
-    excerpt: "The Global AI In Financial Wellness Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
-    publishedDateTime: 2022-01-28T07:21:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-financial-wellness-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 3
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "m0vxFgI1I3XnwdVB2HatMPwSGjkSsEKByCd5bcf3irdW8jXjJepyM+Rmlffw5LRjgSOocYVEoAQUuBeAY9MmPnR1qNCds3KJkN6VoHEHbkQdE+1sF2sI96iPD+uU+M5zI9CtOaf6Toqa0HE9Sl69l2F9P1QZfsrF/Rzq55XQjjHrzJsLp0Cb4Zklj6PHrGn/FV7h9znsIymDtJzj9kqjOqoIvrwATwfFM7Z03Ibkd/U23n11qqXhPvKGazlm39Mn2Ti18IuR7ywkSwcVLqvG9HOpS7HVOCxGFv7UUZ5WkR93LScrDFdQ6IZ7QrR9YV1xzx9TAOElaZWwkbTB5G6TJ0YRE/nQWJz/DaOjtrtxu20=;vqaj3iLLNWYhKxj76XIm3g=="
 ---

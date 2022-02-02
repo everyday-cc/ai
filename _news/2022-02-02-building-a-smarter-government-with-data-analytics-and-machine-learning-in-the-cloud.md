@@ -76,6 +76,24 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 19
+  - title: "Auditing And The Case Of Artificial And Business Intelligence, What Is Predictive Analytics?"
+    excerpt: "Predictive analytics and artificial intelligence differ significantly in that artificial ... The self-driving car developed by Google, Waymo, is a great example of a prescriptive analytics application. The goal of predictive analytics is to make ..."
+    publishedDateTime: 2022-01-31T09:13:00Z
+    webUrl: "https://www.ictsd.org/auditing-and-the-case-of-artificial-and-business-intelligence-what-is-predictive-analytics/"
+    type: article
+    provider:
+      name: ICTSD
+      domain: ictsd.org
+    quality: 0
+  - title: "In The Case Of Artificial And Business Intelligence, What Is Predictive Analytics?"
+    excerpt: "The self-driving car developed by Google, Waymo, is a great example of a prescriptive analytics application. Using the gender question as the example, when you ask for a response on the respondent’s gender, predefined answers are automatically populated."
+    publishedDateTime: 2022-01-31T08:38:00Z
+    webUrl: "https://www.ictsd.org/in-the-case-of-artificial-and-business-intelligence-what-is-predictive-analytics/"
+    type: article
+    provider:
+      name: ICTSD
+      domain: ictsd.org
+    quality: 0
   - title: "Kellton Tech to Modernize Digital Citizen Experiences For HMWSSB Through Artificial Intelligence and IoT-based Data Analytics"
     excerpt: "Kellton Tech will provide HMWSSB, the Government of Telangana, with IoT-based enterprise intelligence and analytics solutions to drive actionable insights in real-time and transform citizen service experiences as well as the Metro Customer Care as more efficient,"
     publishedDateTime: 2022-01-31T07:45:00Z
@@ -95,6 +113,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "3P0bVKh6aB0eWPAd92MJWiG8ZkJmF4TN1PdRDT5m4gGJDqa9s+nkHH9fEXILPlnJf0WQNQK1wnuDhCZayAAKmoV4mcawDEcuWA+YNin5jZZsuCsqDu8aqYOGijdKDkHjjKACqrV3nyu0zLMUeNZht/TogOG6TJSebhy4GlI9+Up/1oR72BnlUwPJPApS2rXGmY9JIvhEynocBEaFueURw8mbkNSznKIkiiLuzbaGp720Rng6a3H6gtlrAcXwTMjCFq25dLpncM2WI18dvSx73Y7irSAlBJXaxdTMMitiZHTDLERJwCn7GDujAMrt5L8ipsZsDZax0Ig6peCo7L6i/cksrCiuGpqCoTQMjwZrvwg=;su9MdPrG/MNvQF1Zu9F7cg=="
+secured: "9+MbOoE8dbDRcx+yHn2Zo35aA/Rf3cPJq/aB1ADoAkVrfHFrUBgm5pWa79N6pYbk8USqoeYctCeswQlk+gVHHlh5sDrh+JcDDaPFBlJzHsrvXhCgHoUYSTJoqWyAzCpE81VTv3iMfK6c3ltEz9aFVdFq0ptPmdYqaUCHIQS0h8I57YbxGkrktjkWsX8YRlMo/f6q069MDLggVVkOVv31xH0aCjcWBaq9JMc354OnsgGybwuGSM26V0KlAgWEgIgmb9HCWriBmRTCS+dBze9XfqmTALZhGn1GaAGnhegiAnsUWEVo446ce7Ed6jtwkf2116RiHqcH8Yvp/lS3XxyC+/xZbKViPs4dYD19ZHVt+bfco4dZUgjK+GowFBq9w22faNTyC5KmevmdODLi7mMYC7PeJKpbKUhvlXmJ2oGv6g7mIoQV9pELWhb1QKiBie0gInYKqIyuORst9d13pO9E/tO+4VmggR0L9PsJ1VaP+ScoJRXZ83goHwmIWWuUWMxx0+wUf5CPnGKXqTpxeSaybQ==;cDJlC4b4AouvV1LH1BA1eA=="
 ---
 

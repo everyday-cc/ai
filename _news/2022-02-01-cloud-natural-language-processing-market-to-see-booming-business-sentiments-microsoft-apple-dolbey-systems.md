@@ -26,19 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chip Market to See Booming Growth | Advanced Micro Devices, Google, Nvidia"
-    excerpt: "Advance Market Analytics published a new research publication on “Global Artificial Intelligence Chip Market Insights, to 2027” with 232 pages and"
-    publishedDateTime: 2022-01-28T08:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-see-booming-growth-advanced-micro-devices-google-nvidia"
+  - title: "Deep Learning System Software Market Outlook 2022: Big Things Are Happening : Google, Microsoft, IBM"
+    excerpt: "Edison, NJ — (SBWIRE) — 01/31/2022 — A Latest intelligence report published by AMA Research with title \"Deep Learning System Software Market Outlook to 2026. A detailed study accumulated to offer Latest insights about acute features of the Global ..."
+    publishedDateTime: 2022-01-31T17:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-system-software-market-outlook-2022-big-things-are-happening-google-microsoft-ibm"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 42
+    quality: 41
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/f7a69d877923f8b2435d63dfc02962bbaf6ce22e-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Bot Services Market Report Covers Future Trends with Research 2022-2029 | Microsoft, IBM, Facebook"
+    excerpt: "The Global Bot Services Market is expected to grow at a significant CAGR of 30.4% by 2028.Bot services offer the possibility of adding intelligent agents"
+    publishedDateTime: 2022-02-01T16:02:00Z
+    webUrl: "https://www.digitaljournal.com/pr/bot-services-market-report-covers-future-trends-with-research-2022-2029-microsoft-ibm-facebook"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://www.market-news.org/wp-content/uploads/2022/02/Bot-Services.png"
+        width: 560
+        height: 280
         isCached: true
 
 secured: "cEkQmTgKNzSv+Gk8XP+xEwKqHxevdsYeGVXHW/VSbxis6V1y/5zypgANLddBJgKpsYzidLNXF1b2n/hyQq0VRh0EzgSo9iUV6Qf32513fbi2tPr7mZAKv/xMtBxbOVeo3AdAZpPI+cBRE4KesfErDs9srOZwlWky5s9cPmeY5kQlnzU5odiXA0E5hUIjw4igY3C6h0Q5VMBe9GtWMRB7QbH9TxK6sZygsR+GdBimMELCe7oNJ434bzin9qJwHWI8Rf7igyXq/J9gwqA70isnaNiYbMYUpUWCDks45wiE7paR2E9Tq8RLv4XbYp1nt7juT0FE2Z9I0Wz2bQuJtQ0pJZla11ePwFuZNVbRIPeSTGU=;jplbKBIbAOH4icfiOCvPxA=="

@@ -56,6 +56,20 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "Analysts Think These 5 Chinese Stocks Could Rebound in 2022"
+    excerpt: "This helped with momentum in Chinese tech stocks like Baidu, Inc. (NASDAQ:BIDU), however, the Chinese market remains largely speculative due to uncertainty about regulations. UBS analyst Wei Xiong raised the price target on Baidu,"
+    publishedDateTime: 2022-02-01T22:50:00Z
+    webUrl: "https://www.insidermonkey.com/blog/analysts-think-these-5-chinese-stocks-could-rebound-in-2022-1022831/2/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 24
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/28020415/Stocks-to-Invest.jpg"
+        width: 1280
+        height: 815
+        isCached: true
 
 secured: "FHdKyz5tu1Cgwq+13s6R4sLzfoZPXewI5Sf0YfYfA6ENRvZBHOlpRbJeulJztt88/xjFKukFA7KvNCQ67w5CQQ3kbsmHj22ILiLBVasKr/KNhJ3e4YLBI5IKaKlcG0pKp+DtfixxXDrqChgAJONdoevW10OwSE1GKpsTkTD6MLL+5liM9mJusW/j3KXPPpf0G/cZNqR9fI5PX4Te8Z5h1IsUZFMgWHh3xZWXM9zdxNgAQ3M6AGGod0b0unkIWHS1pC5FgbJI1gRns/JIlg6njN7iKXjd4xsMu35XmoDyfdLJvr3nDavXIXtNoUMnRhikPkOBX2xCTdMxbMVtGrGQmyYiVsGgQZTWJakHOMzW8FU=;RBH0TeGe30bqP0qXB4mgXQ=="
 ---

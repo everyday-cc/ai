@@ -89,20 +89,6 @@ related:
         width: 7996
         height: 5331
         isCached: true
-  - title: "Tesla Recall: 'Full Self-Driving' Software Runs Stop Signs"
-    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to"
-    publishedDateTime: 2022-02-01T16:52:00Z
-    webUrl: "https://time.com/6143986/tesla-recall-self-driving-software/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 69
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2022/02/AP22032404810402.jpg"
-        width: 5616
-        height: 3744
-        isCached: true
   - title: "Tesla issues recall; self-driving tech can run stop signs"
     excerpt: "DETROIT (AP) — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will ..."
     publishedDateTime: 2022-02-01T13:51:00Z
@@ -341,6 +327,17 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Tesla recall: ‘Full Self-Driving’ software runs stop signs"
+    excerpt: "Tesla is recalling nearly 54,000 vehicles because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
+    publishedDateTime: 2022-02-02T00:19:00Z
+    webUrl: "https://www.kansas.com/news/business/article257917263.html"
+    ampWebUrl: "https://amp.kansas.com/news/business/article257917263.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article257917263.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 39
   - title: "Tesla recalls all 53,822 vehicles with its ‘full self-driving’ feature"
     excerpt: "By Matt McFarland, CNN Business Tesla will recall all 53,822 vehicles with its “full self-driving” driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
     publishedDateTime: 2022-02-01T18:26:00Z
@@ -393,6 +390,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "pjooNDbY+O5kHyNDN0XXmESQmHlBN0sQe9WyG++cVEPDzufjoFY3k6Aeb3bDmwI5uqGaKY8tHzq9IiWhlgCZknX8+Jjh0RH0YYmwvwWrYrej+StCpCtfo14OvvxXc1cIIGFBRc5iwoWi3fCpdbvyoDqFpr8y+SAI68eZHtG0g+Y+JpolWjnp0DXTeX/Tn1X3Uo2ucvoSyC2zBLJv+MPXCQT27dtgjD88mJbfDvqo0Ilxj/b0sM86SVJ1dUxwenI5T2s5pcvTYFOXZEKVy9iWfgGX3cPNmnFNrHXwCKZpSQiB45MxBjFkJCtxwk2brBb4C3LSnZZjLwcU92bXEe1jMxuJvIgCD7o0PGylgOCXjC8=;kkKJJ/v66Ebv7ku3Gt1mYg=="
+secured: "Bz8mbr0t7WMYBHKmpC9OFoIVvDXC3Z8zqapPqc2OxYAihzbvUeyPPE9nCT1xbV3V4Hz09Fxc9uFQfnI2NjqzZzLbs7fQRI658W95dGFvHT4YHsjLc1wzYZNRCYgnwVo+uK4AJ0DH/j0zCbxsxtsNpGli91IS6VXwZkbADdOA4PJdvm6G9Mz0+YxRBwim96CbcP4F7CT89kr4oKwpvqIrbv1UYWG7du1463maAvZ3vzaZY9v72/NU8bMpqooXRVcRe7Qs0G9sra7bPbpRd4InM2xawoiZ1JmbWsbHX9SWq5OCFqeJNF74qZci7MsrXmEUntVb6KYTe3fIN2KQBXfAJ752A7lQaZv+996CzEApGxlqrf2nPwQZ2w0gRGYhTXmDGQE1bmKaldmZ0YknriM7Cs4J55y+VpycVCyA3jofYgGqv+I+9ObK/ncTiA9FVydxEQQJTWNkka9cSvynX3RsPj8TzaBqzmy81YmDYiXDy5ZXShC1VQBigTvYm6I6W6MJixmjI4vOJRvM4yWKX5JQpQ==;EdsXon+dXUR4D+jvEVmzDA=="
 ---
 

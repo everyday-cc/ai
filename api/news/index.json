@@ -180,21 +180,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-02-54000-teslas-recalled-because-full-self-driving-beta-allows-rolling-stop.md",
-      "title": "54,000 Teslas Recalled Because Full Self-Driving Beta Allows 'Rolling Stop'",
-      "excerpt": "Tesla will issue an over-the-air software update to disable the \"rolling stop\" feature in the Full Self-Driving Beta as part of a National Highway Traffic Safety Administration (NHTSA) recall. The feature allows Teslas equipped with the FSD Beta to travel ...",
+      "path": "_news/2022-02-02-tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs.md",
+      "title": "Tesla recalls 'full self-driving' feature that was designed to roll through some stop signs",
+      "excerpt": "Tesla will recall all 53,822 vehicles with its \"full self-driving\" driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios.",
       "sourceUrl": null,
-      "webUrl": "https://www.caranddriver.com/news/a38951178/tesla-rolling-stop-fsd-recall/",
-      "originalUrl": "https://www.caranddriver.com/news/a38951178/tesla-rolling-stop-fsd-recall/",
+      "webUrl": "https://edition.cnn.com/2022/02/01/cars/tesla-fsd-stop-sign/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/02/01/cars/tesla-fsd-stop-sign/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 159,
       "tags": null,
       "images": [
         {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2022-tesla-model-3-mmp-1-1640025520.jpg?crop=1xw:0.7501359434475259xh;center,top&resize=1200:*",
-          "width": 1200,
-          "height": 600,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210818094228-tesla-autopilot-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -202,14 +202,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.caranddriver.com/news/amp38951178/tesla-rolling-stop-fsd-recall/",
-      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp38951178/tesla-rolling-stop-fsd-recall/",
-      "publishedDateTime": "2022-02-01T08:06:00-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/02/01/cars/tesla-fsd-stop-sign/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/02/01/cars/tesla-fsd-stop-sign/index.html",
+      "publishedDateTime": "2022-02-01T09:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -438,7 +447,7 @@
       "originalUrl": "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -766,7 +775,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/31/now-for-the-hard-part-deploying-ai-at-scale/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -952,7 +961,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1047,7 +1056,7 @@
       "originalUrl": "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Education-Market-Analysis-Strategies-Segmentation-and-Forecasts-2021-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 112,
       "tags": null,
       "images": [
         {

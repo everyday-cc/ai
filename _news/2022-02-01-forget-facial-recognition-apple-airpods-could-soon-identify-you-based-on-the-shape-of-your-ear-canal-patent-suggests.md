@@ -75,6 +75,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Facial Recognition is available here!"
+    excerpt: "The Edmonton Police Service now has access to a facial recognition software called NeoFace Reveal, which it believes will help identify suspects in criminal investigations. Supt."
+    publishedDateTime: 2022-02-01T22:59:00Z
+    webUrl: "https://www.linkedin.com/pulse/facial-recognition-available-here-dennis-turner"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGGxtCtWnJJWQ/article-cover_image-shrink_600_2000/0/1643755584430?e=1649289600&v=beta&t=O7bWIBvNLEoUqBicIsp1hslW0kB1BOhfkIRIzEGvhP8"
+        width: 800
+        height: 518
+        isCached: true
   - title: "Government building national facial recognition database"
     excerpt: "The Department for Home Affairs has begun work on its national facial recognition database, putting a large project for consolidating national ID matching to tender last week. Home Affairs is looking for a company that will “build and deploy” this system which will include migrating a pre-existing centralised database of facial images collected from state driver licenses,"
     publishedDateTime: 2022-02-01T03:14:00Z

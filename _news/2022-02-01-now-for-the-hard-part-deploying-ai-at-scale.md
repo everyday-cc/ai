@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/31/now-for-the-hard-part-deploying-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/31/now-for-the-hard-part-deploying-ai-at-scale/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -1,32 +1,24 @@
 ---
 category: news
-title: "Tesla Recall: 'Full Self-Driving' Software Runs Stop Signs"
-excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to"
-publishedDateTime: 2022-02-01T16:52:00Z
-originalUrl: "https://time.com/6143986/tesla-recall-self-driving-software/"
-webUrl: "https://time.com/6143986/tesla-recall-self-driving-software/"
+title: "Tesla recall: ‘Full Self-Driving’ software runs stop signs"
+excerpt: "Tesla is recalling nearly 54,000 vehicles because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
+publishedDateTime: 2022-02-02T00:19:00Z
+originalUrl: "https://www.kansas.com/news/business/article257917263.html"
+webUrl: "https://www.kansas.com/news/business/article257917263.html"
+ampWebUrl: "https://amp.kansas.com/news/business/article257917263.html"
+cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article257917263.html"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Time
-  domain: time.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Wichita Eagle
+  domain: kansas.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://api.time.com/wp-content/uploads/2022/02/AP22032404810402.jpg"
-    width: 5616
-    height: 3744
-    isCached: true
 
 related:
   - title: "The Grain Of Truth In The Critique Of Musk, Tesla And Full Self Driving (FSD)"
@@ -397,6 +389,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "r/Di83fWagGRadXBzRwByQLc+AgS6r0NSWj35kzp7hbH7ZwbeHbra3RAVxnNmflwkn9/C1p7fOhUQ+UAM7DzbTK66pOQJDPR1obCIJPt9en7uoTIUYR2Ph8D0i8qthmZelWbcbkafcqDHdCkrTNoCHw8hOjJm/JjpyqymDAGYycny+YxplpMXHfWBuV7o69x42u4Qp6N94N4NMNtQ1v8/ZDZlrX61HtOz4qy7+xCc6OdipQsSjJ1rfu/ymbLKqQh042ueM5FpBNjwRNa/3LT9spO/9mjhMYN1OjyFFhpEdDWiqckdFcdhGnQKhnlI+b3WEIwhyB5nBkJg80FvEaT40+fvdmQe1r5us91Zyrgyg0=;Tm4ugKnT8nYXHQZtPVSjFA=="
+secured: "2MpQ6lbqCW4kMFkhXqbmFz43CmbqKHq6e2PH0Hc2h+PzWo78FZ1gylWFqvBXheAMjbdsKa1zQLwJohETHOBQrleVSgwj3hKnsa5MnoL8pcsPzVR/jvNrThbDBm8E89ze3aFzSE9BXRDPw5huDGdw4/iMyYw+K1idtl1DVKTKK07NhxIOu31cRl0xoaTQN1Ju9ib00X2zpgXiwlFW67eLhauIoMTK1i9RaRm/va2FlGSiFUFth0AH7fnqNiac0h2Pf7eMKKskW686A1DPsHLwqZuX+ZJ68akl4oUk7ALlAWyDd7xmUQDXBu6faoY8eZpdbKwRYTbedeNaD0ssDsoiJcr6W2UIajp3WohWwwwgOrcaCbskFa3tk6jsyis6WwQHZxPmpUHiGHPP5wsTEh+qNR+cf+vXN8sULCnPPC0i1fsD2EoLVZxAGS/C0npvTPnN5EgDtjNzK25qdkAPl2Wrswv+4WHxgysHp3c9sxafNjot++nNy6ItArVLvS8HSRgM62E8RmBwQZPAltisunxf9w==;5D8F0x8n4MQRiwv1SnnJFA=="
 ---
 

@@ -3,18 +3,18 @@ category: news
 title: "Government agencies are tapping a facial recognition company to prove..."
 excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID."
 publishedDateTime: 2022-02-01T18:03:00Z
-originalUrl: "https://www.darientimes.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
-webUrl: "https://www.darientimes.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
-ampWebUrl: "https://www.darientimes.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
-cdnAmpWebUrl: "https://www-darientimes-com.cdn.ampproject.org/c/s/www.darientimes.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+originalUrl: "https://www.thehour.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
+webUrl: "https://www.thehour.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
+ampWebUrl: "https://www.thehour.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Darien Times
-  domain: darientimes.com
+  name: The Hour
+  domain: thehour.com
 
 topics:
   - Computer Vision
@@ -39,6 +39,6 @@ related:
       domain: zdnet.com
     quality: 61
 
-secured: "0TW3NrP0GFGxxzfVIn3EqkYlGcrlcfUNRG5dGUHmn/04jh0rA5WsUTzhvI+yV0SZ8MCKexqmWs5BIXhQ/oa1ffxBud+TXtuOe6ack6UauxOFdAspZBVSV7KZPkWyoS06uyE7tnEi7zYV1Ld2tm3whfvLn8EHv/rQkDZiecYE5s4mY268yF44PQO7JXx8URgUXJObfO4yk7eXgis7NzrMKkLXqRmUBhTlbgnp1H9hI+nh0UDwCT2KARh1KzS9yQ1pym3Qgm2NrhUCRAa/ODSGaxYLWquV9Arkjq0J1GPphEkx3KE4mWZjKEFfTMbJ/Xtmkk/8HdDwVCJHcWqzU6/gPoAoK2TpgBelmCwEQGr5Ybs=;zg/jJUUMrHiIgfblGLdbhQ=="
+secured: "ZfkzLsX6gSSrJRoKal5Kv2ogU8WyQdrmXnn5/+O23W2nZ3OpDED3r8po+tnivBh+Wmjp9G6up+e5hdrGwNbD/GoxwEuKn8L1C9K5xfzCT1WmysylIpSp8s2fq2tiAono4vXflvANL/neCsv7ciCY8Cixw5St9LgwMsHlsbT06And9BQhm+NpfX69Y+pMJqdainKRbqmhQpDzefj3WeD9ERkLiAQMbOhc6sgI6Ao60k5oo9YcDuMFabUZbH9oaAfnwHJuj9J7FBQ3blyMRPrN0hPAIbqbRM3+3zgfCDGGevSgobeAqaPNWthQfqdRhe/H1LE37G/3SDGAI0Dm8MUlvlhP4FG0mi+ijAjZK26Sttg=;5W5hTO1Th467BRco2uXYKw=="
 ---
 

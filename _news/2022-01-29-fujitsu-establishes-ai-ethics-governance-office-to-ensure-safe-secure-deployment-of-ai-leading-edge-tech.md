@@ -62,15 +62,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Fujitsu creates AI Ethics and Governance Office"
-    excerpt: "Fujitsu has decided to establish a new organization to support its governance of AI ethics. On 1 February, Fujitsu's AI Ethics and Governance Office will go live to accelerate the deployment of technologies including artificial intelligence and other machine learning applications in society."
-    publishedDateTime: 2022-01-28T08:06:00Z
-    webUrl: "https://www.telecompaper.com/news/fujitsu-creates-ai-ethics-and-governance-office--1412114"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "Fujitsu establishes AI ethics and governance office"
     excerpt: "Fujitsu Ltd has announced the decision to establish a new organization to strengthen its governance of AI ethics. The company said building and maintaining trust remains central to all of its business activities,"
     publishedDateTime: 2022-01-31T21:58:00Z

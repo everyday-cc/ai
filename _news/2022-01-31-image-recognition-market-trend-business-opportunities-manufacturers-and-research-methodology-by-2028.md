@@ -81,34 +81,6 @@ related:
         width: 421
         height: 250
         isCached: true
-  - title: "AI Medical Imaging Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
-    excerpt: "The Global AI Medical Imaging Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
-    publishedDateTime: 2022-01-28T07:21:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-medical-imaging-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 6
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "AI In Financial Wellness Market Outlook 2022: Global Industry Share, Growth, Drivers, Emerging Technologies, and Forecast Research Report 2026"
-    excerpt: "The Global AI In Financial Wellness Market has witnessed continuous growth in the past few years and is projected to grow even further during the forecast"
-    publishedDateTime: 2022-01-28T07:21:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-financial-wellness-market-outlook-2022-global-industry-share-growth-drivers-emerging-technologies-and-forecast-research-report-2026"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 3
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/80b7298b1466c5c2de9177991ab4b5d345b3f367-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "3CbLy5DgVUwpkK2JMHpAjh9p6WAsF5ycqIyGqS2WsWFXuWlE993bHjXI304OtcBgeS87tYUylq8YWoxkKCfuHN260vlyDddqfd0jhcPBlMSmhD+jL/FT38KnA9byslklKTx9lNsJmlEY+narnETDQSf6tG41HKh+2vPruBwhI9odKbFES219WZw+1GuKCKivjMPgdxRxr/OzdufwkCd5i/UI9lw+LMWUABwn1dd1bDRNOs3kJb37K1FHtMx0ti3ZTUY0hkt0u9nQlKSjVljJPuDDO/77H3+zw35YcZf56mfaxRkk0uGsrtae/3eVIdKJ5Gyt/0rwmYWw6GQadH+qLaGnG+nbAt7V6oJYLujC3FM=;k3IC0VVSL/Z9vlBCX9ukTA=="
 ---

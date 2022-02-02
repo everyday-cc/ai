@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Educat
 webUrl: "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Education-Market-Analysis-Strategies-Segmentation-and-Forecasts-2021-2030"
 type: article
 quality: 52
-heat: 92
+heat: 112
 published: true
 
 provider:
@@ -54,6 +54,17 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market Expected to Grow at CAGR 5.51% and Forecast to 2028"
+    excerpt: "A New Market Study, Titled “Artificial Intelligence (AI) in Agriculture Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. Request Free Sample Report @  This report studies the Artificial Intelligence (AI) in Agriculture market,"
+    publishedDateTime: 2022-02-01T22:58:00Z
+    webUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/"
+    ampWebUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 36
   - title: "Agricultural Robots Market Research Growth, Regions, Type and Application, Forecast Analysis to 2020-2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
     publishedDateTime: 2022-02-01T12:51:00Z
@@ -81,6 +92,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849700"
         width: 429
         height: 249
+        isCached: true
+  - title: "Automatic Content Recognition Market, Size, Segmentation & Outlook Forecast and Global Research Report to 2027"
+    excerpt: "The automatic content recognition market globally is segmented into end-user application, technology, and region. By Technology, the market is segmented into speech recognition, passive fingerprinting, and digital watermarks. The speech recognition segment ..."
+    publishedDateTime: 2022-02-02T00:18:00Z
+    webUrl: "https://ipsnews.net/business/2022/02/02/automatic-content-recognition-market-size-segmentation-outlook-forecast-and-global-research-report-to-2027/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 4
+    images:
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2022/02/925-mrfr2011-2.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "QdiV1XrGD+Ud7g7GXyv8ZAWMqz3KJfALRs/LAbbKPh3ysViixomSOEn+BOIu22K/Cl7pfpvWrwzgUwR4elfoC63rf220i6oIv8PIc9nCXAOsSWefDXUwvjTDCahjmgdoRMOmaVdCdFQA+ugEVMF2Mcbui0k3xNWq8DLiq70ZZZB03haavNu1w3guBwu5ZQPKd3IN2kZLf8hJXI4emhLoha8OMK8izAsOupkAvgI9Gl/ZF4ziDcdLhmqzZ2R+lGOorvHQGiALrdJWat1j4FLV+D0Zk0nRJ8I9luH9kR4r9xfa+ILwMbu+928lSpnj8PZGwx56b3fErAqdZgCS4uLk3LBwcGt+VftpexFnp4U3tys=;5DuCTkYMbzp+csZt6XBDrw=="

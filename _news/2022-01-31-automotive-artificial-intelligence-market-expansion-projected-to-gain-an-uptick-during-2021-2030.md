@@ -54,6 +54,17 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market Expected to Grow at CAGR 5.51% and Forecast to 2028"
+    excerpt: "A New Market Study, Titled “Artificial Intelligence (AI) in Agriculture Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. Request Free Sample Report @  This report studies the Artificial Intelligence (AI) in Agriculture market,"
+    publishedDateTime: 2022-02-01T22:58:00Z
+    webUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/"
+    ampWebUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 36
   - title: "Agricultural Robots Market Research Growth, Regions, Type and Application, Forecast Analysis to 2020-2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
     publishedDateTime: 2022-02-01T12:51:00Z
@@ -81,6 +92,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849700"
         width: 429
         height: 249
+        isCached: true
+  - title: "Automatic Content Recognition Market, Size, Segmentation & Outlook Forecast and Global Research Report to 2027"
+    excerpt: "The automatic content recognition market globally is segmented into end-user application, technology, and region. By Technology, the market is segmented into speech recognition, passive fingerprinting, and digital watermarks. The speech recognition segment ..."
+    publishedDateTime: 2022-02-02T00:18:00Z
+    webUrl: "https://ipsnews.net/business/2022/02/02/automatic-content-recognition-market-size-segmentation-outlook-forecast-and-global-research-report-to-2027/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 4
+    images:
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2022/02/925-mrfr2011-2.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "zlJomWi94g/reFxg9py/mKlOCm0G8HXBty+DNnxmKTpKB6NleZ5+0lNw7XvX4xA3ZMtjylE8TCIgSEYD+WHRPObvmDWjjnU0Hxnm9wjd8glFJ69D/0jg/9CkwQbX2TIeFksdd1UBGij1TnjvMg2BPX++Y6DIKa1yDC4hLufbf9z/IOOMDaYmMZ5YdjWDaptQ+5V22NXJ3ttwSWEc0jOdOpDuUIv36RaoFXe7sfMu3ZVgkQmTUIvih5LflRr55oYEOv1A9p9h0jLQxpnW/1m+ZxucdcRZrPIJSBme/7lwBJRtMKRXSfP7WlFGj8fvu6n9mqza+51Xlyfki6vomAc9vTsIwwXAMomDfEFfOXL96PQ=;aMkcmnR5ZTZkmPHY3ojUhg=="

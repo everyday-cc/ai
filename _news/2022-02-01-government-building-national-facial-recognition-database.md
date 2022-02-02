@@ -73,6 +73,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Facial Recognition is available here!"
+    excerpt: "The Edmonton Police Service now has access to a facial recognition software called NeoFace Reveal, which it believes will help identify suspects in criminal investigations. Supt."
+    publishedDateTime: 2022-02-01T22:59:00Z
+    webUrl: "https://www.linkedin.com/pulse/facial-recognition-available-here-dennis-turner"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGGxtCtWnJJWQ/article-cover_image-shrink_600_2000/0/1643755584430?e=1649289600&v=beta&t=O7bWIBvNLEoUqBicIsp1hslW0kB1BOhfkIRIzEGvhP8"
+        width: 800
+        height: 518
+        isCached: true
   - title: "Forget facial recognition! Apple AirPods could soon identify you based on the shape of your EAR CANAL, patent suggests"
     excerpt: "The new biometric device would use ultrasonic signals reflected against the walls of a user's ear canal to authenticate a user, the Cupertino tech giant explains in a new patent."
     publishedDateTime: 2022-01-31T20:52:00Z

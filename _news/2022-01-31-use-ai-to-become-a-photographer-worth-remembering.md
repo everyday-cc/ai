@@ -9,7 +9,7 @@ ampWebUrl: "https://www.macworld.com/article/609683/use-ai-to-become-a-photograp
 cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html/amp"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

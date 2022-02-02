@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cloud Natural Language Processing Market to see Booming Business Sentiments | Microsoft, Apple, Dolbey Systems"
+    excerpt: "Advance Market Analytics published a new research publication on “Global Cloud Natural Language Processing Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new ..."
+    publishedDateTime: 2022-02-01T07:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-to-see-booming-business-sentiments-microsoft-apple-dolbey-systems"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/213a4dc4c587c92a338fe018937e54078e3b44c9-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Bot Services Market Report Covers Future Trends with Research 2022-2029 | Microsoft, IBM, Facebook"
     excerpt: "The Global Bot Services Market is expected to grow at a significant CAGR of 30.4% by 2028.Bot services offer the possibility of adding intelligent agents"
     publishedDateTime: 2022-02-01T16:02:00Z

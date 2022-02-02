@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
 type: article
 quality: 74
-heat: 126
+heat: 124
 published: true
 
 provider:

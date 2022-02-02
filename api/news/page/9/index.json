@@ -566,6 +566,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-21-ai-is-too-important-to-not-be-regulated-sundar-pichai.md",
+      "title": "AI Is Too Important To Not Be Regulated: Sundar Pichai",
+      "excerpt": "Pichai wrote in an op-ed for the Financial Times that he has no question in his mind that artificial intelligence needs ... Loon, X, Waymo and Google Fiber. “Sundar brings humility and a deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/",
+      "originalUrl": "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2019/07/pichai-google-ceo-featured.jpg",
+          "width": 1360,
+          "height": 1020,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-is-too-important-to-not-be-regulated-sundar-pichai/amp/",
+      "publishedDateTime": "2022-01-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-harnessing-noise-in-optical-computing-for-ai.md",
       "title": "Harnessing noise in optical computing for AI",
       "excerpt": "\"This optical system represents a computer hardware architecture that can enhance the creativity of artificial neural networks used in AI and machine learning, but more importantly, it ...",
@@ -1121,58 +1164,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-meta-researchers-build-an-ai-that-learns-equally-well-from-visual-written-or-spoken-materials.md",
-      "title": "Meta researchers build an AI that learns equally well from visual, written or spoken materials",
-      "excerpt": "Advances in the AI realm are constantly coming out, but they tend to be limited to a single domain: For instance, a cool new method for producing synthetic speech isn’t also a way to recognize expressions on human faces.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/20/meta-researchers-build-an-ai-that-learns-equally-well-from-visual-written-or-spoken-materials/",
-      "originalUrl": "https://techcrunch.com/2022/01/20/meta-researchers-build-an-ai-that-learns-equally-well-from-visual-written-or-spoken-materials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1249853438.jpg?w=1024",
-          "width": 1024,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/20/meta-researchers-build-an-ai-that-learns-equally-well-from-visual-written-or-spoken-materials/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/20/meta-researchers-build-an-ai-that-learns-equally-well-from-visual-written-or-spoken-materials/amp/",
-      "publishedDateTime": "2022-01-20T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

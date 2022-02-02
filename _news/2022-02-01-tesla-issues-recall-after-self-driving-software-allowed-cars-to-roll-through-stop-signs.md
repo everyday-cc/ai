@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla recalls 'full self-driving' feature that was designed to roll through some stop signs"
+    excerpt: "Tesla will recall all 53,822 vehicles with its \"full self-driving\" driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
+    publishedDateTime: 2022-02-01T17:29:00Z
+    webUrl: "https://edition.cnn.com/2022/02/01/cars/tesla-fsd-stop-sign/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/02/01/cars/tesla-fsd-stop-sign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/02/01/cars/tesla-fsd-stop-sign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 79
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210818094228-tesla-autopilot-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "54,000 Teslas Recalled Because Full Self-Driving Beta Allows 'Rolling Stop'"
     excerpt: "Tesla will issue an over-the-air software update to disable the \"rolling stop\" feature in the Full Self-Driving Beta as part of a National Highway Traffic Safety Administration (NHTSA) recall. The feature allows Teslas equipped with the FSD Beta to travel ..."
     publishedDateTime: 2022-02-01T16:06:00Z
@@ -107,33 +123,33 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
-    excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
-    publishedDateTime: 2022-01-31T02:29:00Z
-    webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
+  - title: "Tesla recall: Self-driving software runs stop signs"
+    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
+    publishedDateTime: 2022-02-01T22:04:00Z
+    webUrl: "https://finance-commerce.com/2022/02/tesla-recall-self-driving-software-runs-stop-signs/"
     type: article
     provider:
-      name: Car
-      domain: sgcarmart.com
-    quality: 37
+      name: Finance & Commerce
+      domain: finance-commerce.com
+    quality: 39
     images:
-      - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
-        width: 1024
-        height: 683
+      - url: "https://finance-commerce.com/files/2022/02/Tesla-AP.jpg"
+        width: 620
+        height: 330
         isCached: true
-  - title: "Tesla recalls ‘full self-driving’ feature that was designed to roll through some stop signs"
-    excerpt: "By Matt McFarland, CNN Business Tesla will recall all 53,822 vehicles with its “full self-driving” driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
-    publishedDateTime: 2022-02-01T22:29:00Z
-    webUrl: "https://localnews8.com/money/cnn-business-consumer/2022/02/01/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/"
+  - title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
+    excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
+    publishedDateTime: 2022-01-30T00:37:00Z
+    webUrl: "https://www.futurecar.com/5166/Self-Driving-Lobbying-Group-Drops-‘Self-Driving’-in-New-Name"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 29
+      name: futurecar
+      domain: futurecar.com
+    quality: 24
     images:
-      - url: "https://localnews8.b-cdn.net/2022/02/hypatia-h_3e8d558985e236ebf22b7908109dcf20-h_09caa584942c5657bec4a4a9e7225e45-300.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://img.futurecar.com/202201/29/l_61f5004608904.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "UTRMmzTY6ZM9os0MYl0Z68fP522Tgsj+tfbYuw/tUU+fbK+DccDPLEhofssj0s/q0Rlu2Toqls0/c763oN514DCaMh7e9f1kRc3VHfoMZRqOj6tLwqX4m8y+xgyo3WgGqv8SaZA9QMUEws/LLKTV2djMTUreAS/c3yQyGN+NsvC2MbCUlLd7dRte0g3fafjmOBY9p3eNSsen04AwVe5OXQipbTg+osubEbhC113dC3z5N5BFUzncMq3/JO+55xaLOKicEStVCA3XreY51Dy2SiPAmQGRSoW2/qKyhDWKxYsVvWEkPf1Bq9eoqsKx2oJF9hQiJdfjo6pggPmaoNgXy0dV1bFfgIsfhexxZ2uHkMk=;KytfVfiIR+8MugDqsoBCtw=="
