@@ -39,6 +39,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Amesite Becomes a Microsoft Customer Story"
+    excerpt: "\"We fully took advantage of the tools in Azure to benefit our customers,\" said Amesite Founder and CEO, Dr. Ann Marie Sastry. \"Our customers need scalability, security, and speed.\" Read Amesite's full Microsoft Customer Story here."
+    publishedDateTime: 2022-02-02T13:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-amesite-becomes-microsoft-customer-story-/2022/02/02/9537713.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "bdBVZB9mMM4k0pZthCVkzzBBlLILG5cDZuHB18tEEKc672Hq6Jix3EDV6DP/DPrXQcfjhZMEHHc2x4gwUs/6dz4Acf0ix49IeEm2dGDkqs3WnRNu0bCHDWlqhawTJT49maJ1Ymh99wm7yA8McO1U50C/utBoSC1WmfKSeJQed5tjCbCHQANnomI/XDw1E67rrWAs8R6eCmlDPcBx9KMRglUjaHN69pi5AWfy86qjABwKI2+EXd/RJm6hEdq02BsDx9P+U2Zr/AZv6ZKN+Qop9pM+eYlv8bIwOVGoZ9HA+19I/oL9D6IOEf5V43f2wIYhA+21WVsjxRG4PJaktzOT4FJzITZ8EVQA535LY3+WkojQUDEQru017Z47vKGCYkJoxuIMcjlRQ71rEZ90VO29UgM1vUdchQ+Colfx7l8emrbPSkzdwD5k4SRnoM6thXopirze8IOvcWEAtJhAy415ua6CzP5hkM8+P7Jolgw90mT89ZPojp3G7GLhSAeWcacg9RvtxkcHwrJw7ck6GhZgYA==;2Mb4PY3yqRCkgLZ/lb1WRw=="
 ---

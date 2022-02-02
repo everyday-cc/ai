@@ -484,6 +484,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Tesla agrees to recall 54,000 vehicles over ‘rolling stop’ feature in self-driving mode"
+    excerpt: "Tesla is recalling 53,822 vehicles equipped with a test version of its Full-Self Driving software that can allow the vehicle to roll through four-way"
+    publishedDateTime: 2022-02-02T13:41:00Z
+    webUrl: "https://www.repairerdrivennews.com/2022/02/02/tesla-agrees-to-recall-54000-vehicles-over-rolling-stop-feature-in-self-driving-mode/"
+    type: article
+    provider:
+      name: Repairer Driven News
+      domain: repairerdrivennews.com
+    quality: 31
+    images:
+      - url: "https://www.repairerdrivennews.com/wp-content/uploads/2022/02/0x0-ModelS_18-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Tesla recalls ‘full self-driving’ feature that was designed to roll through some stop signs"
     excerpt: "By Matt McFarland, CNN Business Tesla will recall all 53,822 vehicles with its “full self-driving” driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
     publishedDateTime: 2022-02-01T22:29:00Z
@@ -512,6 +526,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Yet another Tesla flaw casts doubt on 'full self-driving' tech"
+    excerpt: "It turns out the problems with Tesla's \"full self-driving\" feature aren't just the fact that it's unreliable and super expensive. Apparently, it was also designed to break the law now and then. The news: Tesla is recalling nearly 54,000 vehicles with its ..."
+    publishedDateTime: 2022-02-02T14:54:00Z
+    webUrl: "https://www.kake.com/story/45797302/yet-another-tesla-flaw-casts-doubt-on-full-self-driving-tech"
+    type: article
+    provider:
+      name: KAKE.com
+      domain: kake.com
+    quality: 19
   - title: "Tesla will disable “rolling stop” feature on its ‘full self-driving’ cars"
     excerpt: "According to Tesla's latest earnings report, issued last week, nearly 60,000 drivers are testing out the company's \"full self-driving\" software, on public roads. The report calls the capability, which costs drivers an additional $12,000 and is still in its ..."
     publishedDateTime: 2022-02-01T20:24:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercom
 webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -28,54 +28,6 @@ images:
     width: 5408
     height: 3605
     isCached: true
-
-related:
-  - title: "Meta builds AI Research SuperCluster for future AI and the metaverse"
-    excerpt: "Meta believes that its new AI Research SuperCluster (RSC) will be among the fastest AI supercomputers running in the world once it’s fully built. The supercomputer is being constructed in phases. In the current phase 1,"
-    publishedDateTime: 2022-01-28T22:09:00Z
-    webUrl: "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730"
-    ampWebUrl: "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 61
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-13075344431.jpg"
-        width: 788
-        height: 443
-        isCached: true
-  - title: "Meta builds AI Research SuperCluster for future AI and the metaverse"
-    excerpt: "Each GPU communicates over a 200 Gb/s HDR Infiniband network ... Meta built the RSC to train large AI models in natural language processing (NLP), and to research and train models using trillions of examples. It will also aid in building AI that works ..."
-    publishedDateTime: 2022-01-31T20:35:00Z
-    webUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527"
-    ampWebUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 61
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2022/01/GettyImages-13075344431-696x391-1-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
-  - title: "Technology Trends That Will Shape 2022 and Beyond - AI, Big Data, Connected devices (IoT), Cloud, Drones, and Metaverse"
-    excerpt: "Just like 2020, 2021 was another year of ups and downs, full of concerning COVID variations and technology innovations. With most of us working remotely and sticking to the home, our lifestyles might have been disrupted,"
-    publishedDateTime: 2022-02-02T04:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/technology-trends-shape-2022-beyond-ai-big-data-iot-hari-gottipati"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 15
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFKSVcaTz2Nsg/article-cover_image-shrink_720_1280/0/1643775820059?e=1649289600&v=beta&t=qJOH2aoDdRLeprHv4MaNi-Qkn7VDbeyVNSAhnPDYt9I"
-        width: 1137
-        height: 720
-        isCached: true
 
 secured: "TOn/ntkJXuvuOGL8o2ER+7nxzu1y8a4HUdAknGW4sdI9PPmhBOODB7SY6SqqpIb38cIRBSPWbK8QJamxaUW6liZDgWG6U8Wn1emAjM8GJYg1WSHFg7khp+WGkvgK3HUmcsBF5OO7CijEG8Lm8VK6zCAC8LfS0fWnK9lh+MxFtm/QckJcco7znRmSdZShwJ23QI8fvFRLLJC87W6DtfAsghAq9Zl8fL83fQmHLKYSMnwQqiwPyzUcU57bb19PxHuMtK0pviBlpeyrcN+QbsnaWIw5mqhn1La57vEIZdo5UNq6qipgLXsI9lexd+k5zN3LKnWcwwszKrVnZ6zXfIyOu5bdfZ5ivdCL448/FM5TlNcMVd7PDXY6PE/+GkfPl17s9Tt0pD6jLcRFpTzVzZkTwVE/1IjaqDoR3b24Mzexc1DgadpXZCZTFk01fWKytvCaGvKlbYWes0e+Y2dQKzAPBybvAtsKnGwfA6WqaviFslBaiWXcAt7b5jf4xd/Iy2X/NB4d80QDWqW3RHT3mh+RNg==;Hbz98h2gI//DeBfen7z3ag=="
 ---

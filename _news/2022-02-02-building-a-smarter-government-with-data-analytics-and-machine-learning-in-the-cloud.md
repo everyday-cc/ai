@@ -39,6 +39,20 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "Israeli AI predictive analytics co Pecan raises $66m"
+    excerpt: "Pecan’s low-code predictive modeling and data science platform allows business intelligence (BI) analysts to predict revenue-impacting risks and outcomes. Israeli AI-based predictive analytics company Pecan today announced it has completed a $66 million Series C financing round led by Insight Partners,"
+    publishedDateTime: 2022-02-02T14:07:00Z
+    webUrl: "https://en.globes.co.il/en/article-israeli-ai-predictive-analytics-co-pecan-raises-66m-1001400901"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1643793700/direct/Pecan.ai_Founders_1._credit_Daniel_Hanoch_zpvl8j.jpg"
+        width: 800
+        height: 392
+        isCached: true
   - title: "Sam’s Club starts national deployment of automated inventory analytics robots"
     excerpt: "Implementation to leverage scanning accessory which can attach to the almost 600 autonomous floor scrubbers already deployed within Sam’s Club stores nationwide.{/exp:eehive_hacksaw"
     publishedDateTime: 2022-01-31T17:37:00Z

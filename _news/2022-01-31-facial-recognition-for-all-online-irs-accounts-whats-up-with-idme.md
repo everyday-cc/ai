@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "IRS will start using facial recognition to access tax information"
-    excerpt: "Why will you soon have to scan your face to access your IRS tax information? You will still be able to file your tax return the old-fashioned way, with paper documents sent via snail mail. But by this summer,"
-    publishedDateTime: 2022-01-31T12:57:00Z
-    webUrl: "https://www.wfaa.com/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    ampWebUrl: "https://www.wfaa.com/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 59
-    images:
-      - url: "https://media.wfaa.com/assets/KHOU/images/c5124352-d52e-4a4e-b816-217f7d009267/c5124352-d52e-4a4e-b816-217f7d009267_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "IRS website to leverage facial recognition tech for identity protection"
     excerpt: "Agency to require those wanting to access their accounts to submit selfies and photos of their identification documents"
     publishedDateTime: 2022-01-31T18:46:00Z
@@ -60,6 +44,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/bigstock_Facial_Recognition_Security_Sy_295494367__1_.61f82d7468f43.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "IRS to start using facial recognition technology for online account access"
+    excerpt: "Starting in summer 2022, the Internal Revenue Service will start asking taxpayers to use facial recognition technology to access their online accounts."
+    publishedDateTime: 2022-02-02T13:08:00Z
+    webUrl: "https://www.krgv.com/news/irs-to-start-using-facial-recognition-technology-for-online-account-access"
+    type: article
+    provider:
+      name: KRGV
+      domain: krgv.com
+    quality: 37
+    images:
+      - url: "http://dcer237tfveol.cloudfront.net/v2/pD1PMFzw8Umi7Yps6CdbwAFRKt7ymUV3XcQPLr7o4008vG9pKt86R9asYWYy_-17su22c6IvzBtNIIzwzrjb-34fCist6iKXvH-XG8pT9zGQRo_SfhIMZxnC11dd6Yovql9yBt-tdIY7N5DDP6xAnJ"
+        width: 854
+        height: 480
         isCached: true
 
 secured: "CdkJgnbcsnSsFK+lT+dghTJ2WMr9pImmSdPP3IELl74BdDEIabDTtw/4YnVrdnmWMJT7DxOSJHagKNsvN/Z0ADkz4Nl3V03kjzU6Ku9RF3CLvQoudtWjLSa2ea9gFfjvkOlrpt/VZ23Zgo45A4Img6ASMl8BBrroNLQlpn/Tpx8ZuQ9B3gb1ul3EefTIjN76/j9fl5I0BcsZs8FB/X/AbudoF+Wb6i0znjvVkP2BG3hb56Q2WJP8ATCMUNL7dAGRnhXKn8FT2hoyzAWCXooT6D4PAo8+JxTdlrcDO7XdDYC/gCK3po1zgaC3pPf5MRMYH44UpQeplZCGNH9OL+zL21XTtnNhLs6CRjJUlCqqh4a+sjlbmlnMYBYpwN+8ZMS4V5m1drjNBg/UBtCKb9O98pREUCG4HGIsx9fvAewumWh6JJNHD8U+dUzBo4W7bOXD+dgbnvMlBEDJbJU+a/XVUVzTqJwNu3qAAgP3QqCpIobGvz3g5bZzUdgaZ7SrjZENsAGqUgdP/MZburtPJBHPQA==;YbeRl3EwFO86gPOuyAls0w=="

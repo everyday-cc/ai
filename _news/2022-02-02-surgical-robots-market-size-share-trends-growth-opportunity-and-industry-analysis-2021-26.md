@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Robot Market Statistics, Industry Growth and Demand Analysis Research Report by 2027"
-    excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
-    publishedDateTime: 2022-02-01T03:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-statistics-industry-growth-and-demand-analysis-research-report-by-2027"
+  - title: "2022 Trends from Robots.Jobs Shows Dramatic Growth in Robotics and Artificial Intelligence Career Opportunities"
+    excerpt: "BOSTON, MA / ACCESSWIRE / February 2, 2022 / The U.S. market for robotics and artificial intelligence career openings ... including industrial, healthcare, biotech, logistics, consumer and more,” said Ann P. Walsh, CEO & cofounder, Robots.Jobs."
+    publishedDateTime: 2022-02-02T14:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/2022-trends-from-robots-jobs-shows-dramatic-growth-in-robotics-and-artificial-intelligence-career-opportunities"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 29
+    quality: 51
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/9d6f7d754a30d3c40f99f9e7a56ebc4b2a659eb9-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Automatic Speech Recognition (ASR) Software Market is expected to reach a substantially Growth by 2027"
-    excerpt: "The global Automatic Speech Recognition (ASR) Software market research report forecast to 2028 has been recently published by Reports and Data to help user understand the current market scenario. The report offers a detailed analysis of market size ..."
-    publishedDateTime: 2022-01-31T00:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/automatic-speech-recognition-asr-software-market-is-expected-to-reach-a-substantially-growth-by-2027-2"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/f7a69d877923f8b2435d63dfc02962bbaf6ce22e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Worldwide Autonomous Mobile Robot Industry to 2030 - Featuring Peer Robotics, Verizon and Omron Adept Technologies Among Others - ResearchAndMarkets.c"
-    excerpt: "The \"Autonomous Mobile Robot Market by Type, by Application, and by End-User - Global Opportunity Analysis and Industry Forecast 2022-2030\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2022-01-31T14:24:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=608552"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://www.accesswire.com/users/newswire/images/686506/PRRobotsjobs2TWWire.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
-secured: "mBYsWsIy5IC7GQzEnRHBy98yT6cvwfd+zHpjfEZDXTVBRsi/RR2PLi955XRKpjt6JjR7ouE4NbVaEsCFJUZX8eZqghFyuDAjNxcCsazWAnS1l+sLkzWu1YyDDJDIlDCFF6kgIVvBiaKjHaMZCI6+Cb/L6r1Wr8U+39J67w5I6UPi1+oHXyp6cETsZwqFUfmJK7NVbU6PFzyMBxNikezNpgxTwr+/pWh+6OovW3S46BeGV2zHoapaGIypXQIJR9Ak0jcvRNbLeadP2tm8WK/pNcoC9NqkeZRd1vppRiJ0DkUgNKJTMZnWDLFd+IH+oiVPBKps+G83UJabACwWLtiHupBiuiwvilzizQoTJKRQurc=;LxUsnVL6IRFs00/0hCT7Ww=="
+secured: "1BG7tzeMnD7zFpaTBTDo4q+HDV94aGXmMUb94grwZyng2q3iMoQDC3EElbnIknjIOtXsQgY7oa+vRUvF8iBirUgwXKBSchDWstQkea5R5flHAgZ1cMv/idy4nAtraC/BppnmZLkVaeLh8k4nmOPAmVKr6MD/I7LW1k8xXQ9nowLuB6MdD8GcysYd8J0Jo0hJWNJuH6YwBCISt2UcDbVV0Gqj8dpBvkXqMgW6lEY574MO4Xbo9II5eZ+sFGRajpxwKto5O9Gb6CyWFDcdwHa4AYl5fXuobBrjsQg4y73LeSup9ffXcKP9mb9S7XBCuGWPlS+FqSR0R8RNvhOryeFT707X81Ez0bevE2oKUyrhficm9tn+Ue5f6SbXUs4ZQpIeSC5Duu3XjoMJhFNI1p8PiE+gzNMijA+MUeTVn9MNd5DSZGlZODzinXrj4tusBqPKugydSFtVVdF4ebt8ZN8V/ZtEEqesSd+rfqa7IxPa7YREWWjso1i+ytnTU401yA8khzOn/t+25I+L3g1aGvfAKg==;SQbjWK0QCc0SbexMbAh4uA=="
 ---
 

@@ -41,21 +41,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IRS will start using facial recognition to access tax information"
-    excerpt: "Why will you soon have to scan your face to access your IRS tax information? You will still be able to file your tax return the old-fashioned way, with paper documents sent via snail mail. But by this summer,"
-    publishedDateTime: 2022-01-31T12:57:00Z
-    webUrl: "https://www.wfaa.com/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    ampWebUrl: "https://www.wfaa.com/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
+  - title: "IRS to start using facial recognition technology for online account access"
+    excerpt: "Starting in summer 2022, the Internal Revenue Service will start asking taxpayers to use facial recognition technology to access their online accounts."
+    publishedDateTime: 2022-02-02T13:08:00Z
+    webUrl: "https://www.krgv.com/news/irs-to-start-using-facial-recognition-technology-for-online-account-access"
     type: article
     provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 59
+      name: KRGV
+      domain: krgv.com
+    quality: 37
     images:
-      - url: "https://media.wfaa.com/assets/KHOU/images/c5124352-d52e-4a4e-b816-217f7d009267/c5124352-d52e-4a4e-b816-217f7d009267_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "http://dcer237tfveol.cloudfront.net/v2/pD1PMFzw8Umi7Yps6CdbwAFRKt7ymUV3XcQPLr7o4008vG9pKt86R9asYWYy_-17su22c6IvzBtNIIzwzrjb-34fCist6iKXvH-XG8pT9zGQRo_SfhIMZxnC11dd6Yovql9yBt-tdIY7N5DDP6xAnJ"
+        width: 854
+        height: 480
         isCached: true
 
 secured: "fnugoBf8AOmAEl01qSeR0pfYc4OvfKdbXBNjAgeGSnHrcNvVAw9K30ixAwK6lQQrMF6Uompuw4HCWbB8qiY1YDEjGSKfCo01FnoTLfVCxNp3YHljBksv7Lv1mRldpYjUgfqZO9/6O/xpX+N1S4pvWRl/OvsF54yInEieq9lC1kvmWydRcR9ianVCBfZHD5ZKQRz8aAcd5cfQWWim0MyakIRr7lJXsfqgGpKEosek04d0Tp53B26zypsIpT+bT1evhhwGiruwluf/1KZyLc1cG9VKW+Zh3MBKcEIbKVH1ay1UYokiR3zqZe5ENNlm36C8sln/oelW+4VfhrHj3Hj2QfgccYUOCsAm/w2GpnyWN2cJzwsplv9ZKuc62pF1Kj8qfZn1Hm1yxAEsf9kcnwxK2ZwdayO+fXNuZWC0LSKz8cBacuNQ5lXknjudYL5lKwslj2rdRkW5sog4d+umWbVIPpBj+LBZPN6140JUNSEFzPYjQ5Hmo6XTyHsPxvZKwvrOR4hvniIKEx1Wn+NRQXP8xQ==;TfuMdmUKpFpCcJKa7s8k/Q=="

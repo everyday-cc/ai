@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/02/01/ai-powered-anti-phishing-solution
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/ai-powered-anti-phishing-solution-provider-pixm-offers-last-line-of-defense/amp/"
 type: article
 quality: 85
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -40,49 +40,42 @@ related:
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 85
+    quality: 185
     images:
       - url: "https://helios-i.mashable.com/imagery/articles/04DlU6SZhcOW1a3Ul5pS0bO/hero-image.fill.size_1200x675.v1643742610.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Startup Pixm raises $4.3M seed funding round for its computer vision-based anti-phishing software"
-    excerpt: "Startup Pixm raises $4.3M seed funding round for its computer vision-based anti-phishing software - SiliconANGLE"
-    publishedDateTime: 2022-02-01T11:00:00Z
-    webUrl: "https://siliconangle.com/2022/02/01/startup-pixm-raises-4-3m-seed-funding-round-computer-vision-based-anti-phishing-software/"
+  - title: "Crisis Text Line claims anonymized conversation data helps build AI for ‘a more empathetic world’"
+    excerpt: "Politico recently reported how Crisis Text Line (which is not affiliated with the National Suicide Prevention Lifeline) is sharing data from conversations with Loris.ai, which builds AI systems designed to increase empathetic conversation by customer service reps."
+    publishedDateTime: 2022-02-01T00:01:00Z
+    webUrl: "https://www.theverge.com/2022/1/31/22906979/crisis-text-line-loris-ai-epic-privacy-mental-health"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2022/1/31/22906979/crisis-text-line-loris-ai-epic-privacy-mental-health"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/1/31/22906979/crisis-text-line-loris-ai-epic-privacy-mental-health"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
+      name: The Verge
+      domain: theverge.com
+    quality: 78
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/pixm.png"
-        width: 888
-        height: 579
+      - url: "https://cdn.vox-cdn.com/thumbor/3TskkybU35SfTIoBk6W2wSpExJU=/0x0:8256x5504/1400x933/filters:focal(3133x3086:4453x4406):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70455911/1125671890.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "Yext Drives Personalization with AI-Powered Search Solutions for Healthcare Providers and Facilities"
-    excerpt: "\"The AI-powered tools Yext offers will allow all healthcare organizations ... Capture intent: For patients who prefer to start their journeys on third-party platforms, healthcare organizations can leverage Yext's search optimized landing pages for ..."
-    publishedDateTime: 2022-02-02T12:53:00Z
-    webUrl: "https://www.wjhl.com/business/press-releases/cision/20220202NY49858/yext-drives-personalization-with-ai-powered-search-solutions-for-healthcare-providers-and-facilities/"
+  - title: "Mental health helpline ends AI data-sharing relationship"
+    excerpt: "A mental health text helpline will no longer share data with an AI customer support business, after criticism of their relationship. Loris.ai used anonymised data from Crisis Text Line (CTL) to develop AI systems to help customer service agents understand sentiment in chats."
+    publishedDateTime: 2022-02-02T14:12:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-60218894?pinned_post_locator=urn:bbc:cps:curie:asset:5826734b-3834-465d-96a2-a87bb4f9d403&pinned_post_asset_id=60218894&pinned_post_type=share"
     type: article
     provider:
-      name: WJHL-TV
-      domain: wjhl.com
-    quality: 39
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1738892/Yext_Healthcare_Personalization.jpg"
-        width: 400
-        height: 225
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1837D/production/_123079199_depressed2gettyimages-1223735400.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Pixm Raises $4.3M to Stop Zero-day Phishing Attacks with AI Computer Vision"
-    excerpt: "Pixm, a computer vision cyber security startup, announced today that it has raised $4.3M in an oversubscribed seed funding round to protect enterprises from undiscovered, non-traditional phishing attacks."
-    publishedDateTime: 2022-02-01T11:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/02/01/9536420.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
 
 secured: "Ck40E3n7o8TFRXVQsVK4FvPS4FXJICr93ZE1LAbHy9nZFHBtQJ7A8u98wtN9dihHPjD1wgPIlBDMGS/l39WDcGK9UoPGg3KjOmWx5fR78ZoGnYudo4dR3DU64FdPtbvo4XMJZAHcvQ09/Vsg6afMXpXbjgXY9KcfszdXQcxvqMqOl0oI8ydQMA7aMQeA/7/y/zfnkBd4y2bvuu+oaelFNgk8tlmudaTLKzseEOpZDfAKiZl84Nh4Ow5IteVMdRxJHUmTkfQqVY1v/uJf3U4jIrl0tv/pXdrpeFbnRS/9C2vmQlMSos4lNAZbnLeg2kt+OKr5ywP320+Les2WRCeLvJAeVgZ7XcfgivL73wdX+lw=;iiGqap2q/cICa/KuD64Yzg=="
 ---

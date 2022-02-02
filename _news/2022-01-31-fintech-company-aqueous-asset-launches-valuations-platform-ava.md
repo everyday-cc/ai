@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Five Fintech Predictions For 2022"
+    excerpt: "Automation solutions like robotic process automation (RPA) are ideal in increasing workplace efficiencies, while also eliminating cost-creating redundancies."
+    publishedDateTime: 2022-02-02T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/619bb0ad1e58e165649de1e8/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 803
+        isCached: true
   - title: "5 Top Fintech Stocks To Watch This Week"
     excerpt: "Another top fintech stock to note is Upstart. Essentially, the company offers a cloud-based artificial intelligence (AI) lending platform. Its platform would aggregate consumer demand for loans and connect it to its network of Upstart AI-enabled bank partners."
     publishedDateTime: 2022-02-01T00:06:00Z
@@ -52,6 +68,22 @@ related:
         width: 1600
         height: 1502
         isCached: true
+  - title: "8 Tech Innovations to Step Up Your FinTech Branding"
+    excerpt: "FinTech is an exciting industry. Single-handedly, it has disrupted banking, mobile payments, blockchain, crowdfunding, and many other giant sectors of finance. As the snazzy new kid, it has gained a lot of fan following over the years and introduced innovations that have made paying goods for services trouble-free and smarter."
+    publishedDateTime: 2022-01-31T17:03:00Z
+    webUrl: "https://techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/"
+    ampWebUrl: "https://techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/01/8-tech-innovations-to-step-up-your-fintech-branding.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Fintech Provides Investors With AI-Driven Research"
     excerpt: "Magnifi, which is one arm of TIFIN, helps match investors and advisors with firms specializing in the work the investor is looking for. In this example, TIFIN, which stands for Technology In Finance,"
     publishedDateTime: 2022-02-01T21:24:00Z
@@ -65,6 +97,62 @@ related:
       - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
         width: 1200
         height: 1200
+        isCached: true
+  - title: "Fintech leaders press PM Boris Johnson for IPO reforms"
+    excerpt: "The founders of some of the UK’s largest privately-owned fintech businesses have met with UK Prime Minister Boris Johnson today to discuss reforms aimed at encouraging more tech firms to list on the London market."
+    publishedDateTime: 2022-01-31T11:49:00Z
+    webUrl: "https://www.altfi.com/article/8778_fintech-leaders-press-pm-boris-johnson-for-ipo-reforms"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/fintech-leaders-press-pm-boris-johnson-for-ipo-reforms.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Five key tech priorities for financial services leaders in 2022"
+    excerpt: "Technology in modern financial services can be a complex subject. This is what business leaders should focus on for success"
+    publishedDateTime: 2022-01-31T08:54:00Z
+    webUrl: "https://business-reporter.co.uk/2022/01/31/five-key-tech-priorities-for-financial-services-leaders-in-2022/"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 24
+    images:
+      - url: "https://businessreporter-197a1.kxcdn.com/wp-content/uploads/2022/01/group-of-businesspeople-and-financial-technology-concept-picture-id916358718.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tech Trends for 2022 and Beyond"
+    excerpt: "Technology has been changing society since humans began using stone tools, and the pace of change is only accelerating. Here are predictions from six Rutgers technology experts about which innovations"
+    publishedDateTime: 2022-01-31T15:25:00Z
+    webUrl: "https://www.rutgers.edu/news/tech-trends-2022-and-beyond-0"
+    type: article
+    provider:
+      name: Rutgers University
+      domain: rutgers.edu
+    quality: 24
+    images:
+      - url: "https://www.rutgers.edu/sites/default/files/2022-01/Lg_InternetofThings_ss1160793658.jpg"
+        width: 2100
+        height: 1400
+        isCached: true
+  - title: "Fintech Cadence Announces Partnership with Fintel Connect"
+    excerpt: "Fintech Cadence announces today their partnership with Fintel Connect. The partnership will enhance the resources, offerings and capabilities that Fintech Cadence provides to"
+    publishedDateTime: 2022-02-02T12:44:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/14/014d7741-65f6-5688-9ccd-386fd168c483/61fa8b489d478.image.jpg?crop=1080%2C567%2C0%2C20&resize=1080%2C567&order=crop%2Cresize"
+        width: 1080
+        height: 567
         isCached: true
 
 secured: "YZ4m+77HnG4TquNO8Hrkt91jHYh//IoyQFr6V2Vgp02SA650vyfklDyecKyrg0KpSmbvLFlls6MPMpKb1DU6ca4jaTEiJ5ge8O93WOYrcvL58PaR+QNUp7hmokZ4LrdGueDF2K0FR8pbej4qvkB3R/+7N7Dc4P5LDLvQv4oxA0VcYIDWz4311EuXlaZ93f7Vzcgn4IyuyJw7/hsCM5vpTC4wdpyDBHVTxfVb3255WIJARF+K3YbRZZydQC3+iQ5HhfxDcU3kmZTLFPeed1S9trroD2IqFtBHSQg4zDNqlUB6ObfFjrilnZEQVRjXQ/C+vKNckxhE9ZdgXc2ND6SkPubax0Yi885uPvzkX93C/Jki7MDJuswyUXfA8lBvruxqdb/cz5bnU/h/XqDRyK8Vs+/xS12pm94Luo5z7b5KwURSeoHn7ZX4A4HupfTZoQ/jWN2F8N7RxGGH/2rE649cbKtbpNcvISrt+RjTfy0Inswd7LnduAHEBZi4Nlctvq9M7CEZMJlAVaPgk1mDJEFBfg==;MK8yfyrMvOiMw4i8HnnDYQ=="

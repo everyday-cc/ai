@@ -26,24 +26,6 @@ images:
     height: 574
     isCached: true
 
-related:
-  - title: "Company supplying self-driving vehicles to Toronto, Durham transit projects shuts down"
-    excerpt: "Local Motors, the U.S.-based company engaged in multiple pilot projects around the world — including in Toronto and Whitby — shut down Jan. 14"
-    publishedDateTime: 2022-01-28T21:43:00Z
-    webUrl: "https://www.thestar.com/news/gta/2022/01/28/company-supplying-self-driving-vehicles-to-toronto-durham-transit-projects-shuts-down.html"
-    ampWebUrl: "https://www.thestar.com/amp/news/gta/2022/01/28/company-supplying-self-driving-vehicles-to-toronto-durham-transit-projects-shuts-down.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2022/01/28/company-supplying-self-driving-vehicles-to-toronto-durham-transit-projects-shuts-down.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 36
-    images:
-      - url: "https://images.thestar.com/rr_RAR1d10fs5MKrCV0H8RDo0Ok=/1200x624/smart/filters:cb(1643406231820)/https://www.thestar.com/content/dam/thestar/news/gta/2022/01/28/company-supplying-self-driving-vehicles-to-toronto-durham-transit-projects-shuts-down/autonomous_shuttle.jpg"
-        width: 1200
-        height: 624
-        isCached: true
-
 secured: "q6w7ALMK6OXojtRx2K1bjJleSEDZ+C+0HAAu52CvSzoUyikPxZfdEZV+C5Iem8DOsLcPpz6voEnokhJtTEmUiZg8UlqX8iqDykyE56vv3BM/GeV6ZlWJnRelmF1BDMZIBwImzvWqo4mKMTOv1lLicCZo+Vd8zJqamFGUx72z4WNW/v63HOMF5bJVNV4lfqkyLbthO1/ZGQlQDNeKf2os4fUXAuk2SkPQKNgXW56imLJSpzz09GRotBq8gSwo6279/stngX7BVMxA3R3mMcL27gfwkUjwFQJboOINvjM7aOP0k830BtWzT7HHS2NVuFasIJDEVU8UrlQBpqT/nOCVQ2vaq3b2aYnsuEEjNlGdQB8=;jp29CoaV8wnlUzpsEiewpg=="
 ---
 

@@ -82,6 +82,20 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 53
+  - title: "Why the Prospect of the IRS Using Facial Recognition Is So Alarming"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number ..."
+    publishedDateTime: 2022-02-02T13:37:00Z
+    webUrl: "https://slate.com/technology/2022/02/irs-id-me-facial-recognition.html"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 39
+    images:
+      - url: "https://compote.slate.com/images/6e84f7ce-4227-46e1-b24a-83ad6d9d0e54.jpeg?width=780&height=520&rect=3858x2572&offset=0x1543"
+        width: 780
+        height: 520
+        isCached: true
 
 secured: "g/yYSep9uKOKMnMmBmGqGdGCHY3/VX5sR3xXLYe0oBCGRcopCG7Ymno3mv4vVDgeh0jfSzgzuq81LRbi8AbrTxll0Rz6L7g9LxaDO94PRuAKSikmYbqt0Lkj64nmvNp7mTxqjLMW5EglnHK7omnHRkEp+O36Jl647Bz+keEJvrzfBa+92CM0yHnmcE/GIHwoTfV1H9micRLUU/7KUWe6og2soGGqgaw6wsFNMsWqnVkLeL1Nm2QRYwA282PQkHTzGtYjI79Gsligy8m1LGiAE1kh+C5QZxnEfRAzNCJU4wy1dE+IMVsJ3b1HExbWRhnd7WrnN2B7H33UKatmnPVHMokMaQQPFwaPfd55pdezHowdQHT8XHKw+0lUKc8Q+7y+eHojtRO3sXDcYT8fFIE1rJFvrz3jEN04h+mWQY6B3vKwoAhbBdNVhyyAcPjlshmARA3O2T6Y2amYljQEQ7ZcC6w9r9uDygBAiKs2qSSKbOvLot4yO8iHn0ssJyC8k0cD7WXVZFYs8EVDk8VLgu12IQ==;91ZuojPvZo/vCXAlLUDcgA=="
 ---

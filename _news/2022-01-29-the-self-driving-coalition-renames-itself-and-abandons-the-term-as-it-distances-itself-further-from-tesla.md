@@ -9,8 +9,8 @@ ampWebUrl: "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organizat
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Carscoops
@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Tesla does ‘the craziest things you can imagine’: Boston man’s viral video shows autopilot dangers"
-    excerpt: "A video of a Tesla driving itself in Boston shows issues with the company's \"Full Self-Driving\" beta program. Read more on Boston.com."
-    publishedDateTime: 2022-02-02T05:11:00Z
-    webUrl: "https://www.boston.com/news/cars/2022/02/01/self-driving-tesla-boston-video-elon-musk/"
-    ampWebUrl: "https://www.boston.com/news/cars/2022/02/01/self-driving-tesla-boston-video-elon-musk/?amp=1"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/cars/2022/02/01/self-driving-tesla-boston-video-elon-musk/?amp=1"
+  - title: "Tesla releases new Full Self-Driving Beta software update (10.10) to remove ‘rolling stop’, address some corner cases and more"
+    excerpt: "Tesla has started to releases a new Full Self-Driving Beta software update (10.10) that includes several changes including removing ‘rolling stop’, addressing some corner cases, and more. Tesla Full Self-Driving Beta Since October 2020,"
+    publishedDateTime: 2022-02-02T13:03:00Z
+    webUrl: "https://electrek.co/2022/02/02/tesla-full-self-driving-beta-software-update-10-10-remove-rolling-stop-corner-cases/"
+    ampWebUrl: "https://electrek.co/2022/02/02/tesla-full-self-driving-beta-software-update-10-10-remove-rolling-stop-corner-cases/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/02/tesla-full-self-driving-beta-software-update-10-10-remove-rolling-stop-corner-cases/amp/"
     type: article
     provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 39
+      name: Electrek
+      domain: electrek.co
+    quality: 61
     images:
-      - url: "https://www.boston.com/wp-content/uploads/2022/02/self-driving-dangers-61f9c871b8e2b.jpg"
-        width: 841
-        height: 350
-        isCached: true
-  - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
-    excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
-    publishedDateTime: 2022-01-31T02:29:00Z
-    webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
-    type: article
-    provider:
-      name: Car
-      domain: sgcarmart.com
-    quality: 37
-    images:
-      - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
-        width: 1024
-        height: 683
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/09/Tesla-Full-Self-Driving-Beta-v10-e1631354582912.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "qy6wdcFB79YRiHPXwdpN2SE73yWEINqHzhBSh0oEDjPkpRTT1xzEQ7vVaw3T7NT3oLmPllcpFE43PvFNnzcsKaFSMhU66w7oLCPpWoe/B3lOTsPD9sWm4CHKu3x8weoySopioNbqWb4nX9wR2Vwpv24bl9G6JgN5LpE67bZKVTkaQTORQzqBbIjbKK1QvHNmWxHMiL8CW50szEqfAEfXq3tWVV8Psi73K1m+rzX8I9EzOzu2Hus96REicofZdaRPhiaU1NKgopsedFU+3GvB6Udp2dUeV76rqTV+B5bTQBqX15CHhPFcJdBgUqIg5g1YJt+FXdBYDv+ckcvfprHhGz4GAJZGLeHHbBr7KcIAtZIuExqoAFYa2HQSSz2x94r28N4pSO+0J5gVAUoiQARWBim4hp/0ijkN6eIx6rDaj3etK9uIy8+yKL15fxYW141O2lzL6EpOzR5NRstycQqzluq2RqEBlPVT6GfzHoCiwfCKIg7iI6e7CZUGG095LqatMd1BGPqesniJutq0NIEhzA==;3NgNgOzv1FvkBg8I19F15w=="

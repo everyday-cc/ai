@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-
 cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: IT Business
@@ -28,35 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meta builds AI Research SuperCluster for future AI and the metaverse"
-    excerpt: "Meta believes that its new AI Research SuperCluster (RSC) will be among the fastest AI supercomputers running in the world once it’s fully built. The supercomputer is being constructed in phases. In the current phase 1,"
-    publishedDateTime: 2022-01-28T22:09:00Z
-    webUrl: "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730"
-    ampWebUrl: "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1"
+  - title: "Meta Uses NVIDIA Chips to Build Sprawling New Supercomputer for AI"
+    excerpt: "Meta, which changed in name from Facebook, said the AI Research Supercluster would contain a total of 16,000 of NVIDIA's graphics processing chips to train machine-learning models faster and more accurately than it has been able to previously. The company ..."
+    publishedDateTime: 2022-02-02T14:17:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21215547/electronic-design-meta-uses-nvidia-chips-to-build-sprawling-new-supercomputer-for-ai"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 61
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 54
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-13075344431.jpg"
-        width: 788
-        height: 443
-        isCached: true
-  - title: "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center"
-    excerpt: "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project."
-    publishedDateTime: 2022-01-29T13:20:00Z
-    webUrl: "https://fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 55
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
-        width: 5408
-        height: 3605
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/02/272129674_454504216213565_903503002058288683_n.61f96f7484598.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Technology Trends That Will Shape 2022 and Beyond - AI, Big Data, Connected devices (IoT), Cloud, Drones, and Metaverse"
     excerpt: "Just like 2020, 2021 was another year of ups and downs, full of concerning COVID variations and technology innovations. With most of us working remotely and sticking to the home, our lifestyles might have been disrupted,"

@@ -54,6 +54,20 @@ related:
         width: 1600
         height: 950
         isCached: true
+  - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
+    excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
+    publishedDateTime: 2022-01-31T02:29:00Z
+    webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
+    type: article
+    provider:
+      name: Car
+      domain: sgcarmart.com
+    quality: 37
+    images:
+      - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
     excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
     publishedDateTime: 2022-01-30T00:37:00Z

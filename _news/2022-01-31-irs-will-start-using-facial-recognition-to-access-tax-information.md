@@ -27,35 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition for all online IRS accounts: What's up with ID.me?"
-    excerpt: "Soon, all IRS accounts will require ID.me registration with a \"video selfie.\" Learn how it works and what the risks are."
-    publishedDateTime: 2022-01-30T23:30:00Z
-    webUrl: "https://www.cnet.com/personal-finance/taxes/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
+  - title: "Clearview AI's Revolutionary Facial Recognition Platform Awarded U.S. Patent"
+    excerpt: "The \"Methods for Providing Information About a Person Based on Facial Recognition\" patent, U.S. Patent No. 11,250,266, issued by the U.S. Patent and Trademark Office (USPTO), is the first of its kind for a facial recognition company and was awarded to Clearview AI for its ability to gather publicly available information from the open internet (social media sites,"
+    publishedDateTime: 2022-01-31T11:12:00Z
+    webUrl: "https://aithority.com/vision/face-recognition/clearview-ai-revolutionary-facial-recognition-platform-awarded-us-patent/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 151
     images:
-      - url: "https://www.cnet.com/a/img/-Y2FC1FfYakP-RnZZ6IzirC829w=/1200x630/2020/07/14/b34e2000-8454-4185-8032-4c6e8a9f54f3/yt-vs-selfie-camera-3.jpg"
-        width: 1200
-        height: 630
+      - url: "https://aithority.com/wp-content/uploads/2022/01/Clearview-AIs-Revolutionary-Facial-Recognition-Platform-Awarded-U.S.-Patent.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "IRS website to leverage facial recognition tech for identity protection"
-    excerpt: "Agency to require those wanting to access their accounts to submit selfies and photos of their identification documents"
-    publishedDateTime: 2022-01-31T18:46:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21255085/irs-website-to-leverage-facial-recognition-tech-for-identity-protection"
+  - title: "Forget facial recognition! Apple AirPods could soon identify you based on the shape of your EAR CANAL, patent suggests"
+    excerpt: "The new biometric device would use ultrasonic signals reflected against the walls of a user's ear canal to authenticate a user, the Cupertino tech giant explains in a new patent."
+    publishedDateTime: 2022-01-31T20:52:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 50
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/01/31/16/53594163-0-image-a-14_1643647535757.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Facial recognition for cattle on the way"
+    excerpt: "The day when producers simply scan the faces of their stock on their smartphone as they walk up the crush, and have all their individual information immediately at hand, might not be far off, thanks to novel livestock facial recognition technology being developed by an Australian researcher."
+    publishedDateTime: 2022-01-30T22:55:00Z
+    webUrl: "https://www.northweststar.com.au/story/7600492/facial-recognition-for-cattle-on-the-way/"
+    type: article
+    provider:
+      name: The North West Star
+      domain: northweststar.com.au
     quality: 39
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/bigstock_Facial_Recognition_Security_Sy_295494367__1_.61f82d7468f43.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://www.northweststar.com.au/images/transform/v1/crop/frm/38U3JBx5nNussShT8aZyYjc/8e0765a2-a6c6-4358-a66d-91416bc426f5.jpg/r0_914_2753_2469_w1200_h678_fmax.jpg"
         width: 1200
-        height: 630
+        height: 678
+        isCached: true
+  - title: "Government building national facial recognition database"
+    excerpt: "The Department for Home Affairs has begun work on its national facial recognition database, putting a large project for consolidating national ID matching to tender last week. Home Affairs is looking for a company that will “build and deploy” this system which will include migrating a pre-existing centralised database of facial images collected from state driver licenses,"
+    publishedDateTime: 2022-02-01T03:14:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/government-building-national-facial-recognition-database.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/facial%20recognition%20system.jpg"
+        width: 734
+        height: 413
         isCached: true
 
 secured: "FAWQrZLhmCY7cIwZ8TUY78VAsgVgcEFoIx/gT5Qc0cKX/MoD0VMBwm+AFbcci5H4TQ03IvR4er0Gi0ojRS3Hn5VnfpKM5k9c+c+lOqnHrAM3KMO/5tcmjNrkG5snoYRgNDbrU5yMZ8XDHneIeWc5lbnbjsXEBLICXStoMpih+zm8NbF7zjhMEtcYOOaqYbqx+KlR0KECO7iwYMVk3Sf8cTXBRiHm2tcuiVK0/TIzlUtJtJDcbzhFdREaHKIHiHJY6fVWR/9gdMnpKLF6xn8MeEnPkqLBZk1mslve0LDix/XR7rtUk82n4ludWL7Ac5F1F1SdHl6B2n+bTVtqF4E/whz29dM8EV7Wg//xxvQeCqmJWCL2g8D/rAFRuzJERIe1VeaTY5VOvkhLGQ9K87AErvO8dGMQ0Wa4IlGDHI4rEa8obRIjU6T6IMheI++Yb9evMhhcUmDRsBfnoe8AvAjvU7C2oRedt9n6Go4psY8z9T5KBi0/COz3IakpEV+FBGn9PljXH4rTrW2394VXgyVCrQ==;MVu6ZFBc7XodGS909vs3wg=="

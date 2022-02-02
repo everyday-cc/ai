@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/technology/the-irs-is-reportedly-lo
 webUrl: "https://www.theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns"
 type: article
 quality: 120
-heat: 160
+heat: 170
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 53
+  - title: "Why the Prospect of the IRS Using Facial Recognition Is So Alarming"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number ..."
+    publishedDateTime: 2022-02-02T13:37:00Z
+    webUrl: "https://slate.com/technology/2022/02/irs-id-me-facial-recognition.html"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 39
+    images:
+      - url: "https://compote.slate.com/images/6e84f7ce-4227-46e1-b24a-83ad6d9d0e54.jpeg?width=780&height=520&rect=3858x2572&offset=0x1543"
+        width: 780
+        height: 520
+        isCached: true
   - title: "US Treasury considers alternatives to ID.me biometrics for IRS online access"
     excerpt: "An IRS contract being served by ID.me is continuing to generate controversy based on the use of facial recognition and biometric authentication."
     publishedDateTime: 2022-01-31T19:20:00Z

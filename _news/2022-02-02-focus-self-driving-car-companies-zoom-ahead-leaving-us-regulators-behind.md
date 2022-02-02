@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/focus-self-driving-car-companies-zoo
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind?amp"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2021/02/hyundai-e-gmp-electric-car-platform-december-2020-2.jpg?quality=82&strip=all"
         width: 1600
         height: 950
+        isCached: true
+  - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
+    excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
+    publishedDateTime: 2022-01-31T02:29:00Z
+    webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
+    type: article
+    provider:
+      name: Car
+      domain: sgcarmart.com
+    quality: 37
+    images:
+      - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Will state-by-state regulation of self-driving vehicles work -- and keep people safe?"
     excerpt: "UPS invests in self-driving cars A future where motorists share streets and highways with driverless cars may still be years away, but transportation experts are saying now's the time for elected leaders to plan for that scenario."
