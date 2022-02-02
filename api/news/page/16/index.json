@@ -2,6 +2,188 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-01-18-natural-language-processing-market-key-drivers-in-2022-regional-investments-top-competitors-and-industry-share.md",
+      "title": "Natural Language Processing Market Key Drivers in 2022, Regional Investments, Top Competitors and Industry Share",
+      "excerpt": "Jan 18, 2022 (The Expresswire) -- The global “Natural Language Processing Market 2022” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-drivers-in-2022-regional-investments-top-competitors-and-industry-share-2022-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-drivers-in-2022-regional-investments-top-competitors-and-industry-share-2022-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-pinc-aitm-launches-insights-an-enhanced-technology-offering-for-customized-on-demand-healthcare-analytics.md",
+      "title": "PINC AI(TM) Launches INsights, an Enhanced Technology Offering for Customized, On-Demand Healthcare Analytics",
+      "excerpt": "PINC AI™, the technology and services platform of Premier, Inc (NASDAQ: PINC), today launched INsights, an enhanced self-service healthcare solution for the creation of customized, on-demand analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/01/18/pinc-ai-tm-launches-insights-an-enhanced-technology-offering-for-customized-on",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/01/18/pinc-ai-tm-launches-insights-an-enhanced-technology-offering-for-customized-on",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-why-giving-ai-human-ethics-is-probably-a-terrible-idea.md",
+      "title": "Why giving AI ‘human ethics’ is probably a terrible idea",
+      "excerpt": "If you want artificial intelligence to have human ethics, you have to teach it to evolve ethics like we do. At least that’s what a pair of researchers from the International Institute of Information Technology in Bangalore,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-giving-ai-human-ethics-probably-terrible-idea",
+      "originalUrl": "https://thenextweb.com/news/why-giving-ai-human-ethics-probably-terrible-idea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fsadneuralrobot.jpg&signature=6bd2c761533772c01de1fc66f8328674",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T15:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-brainchip-achieves-full-commercialization-of-its-akd1000-aiot-chip-with-availability-of-mini-pcie-boards-in-high-volume.md",
+      "title": "BrainChip Achieves Full Commercialization of Its AKD1000 AIoT Chip With Availability of Mini PCIe Boards in High Volume",
+      "excerpt": "BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), a leading provider of ultra-low power high performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-brainchip-holdings-ltd-944dfbaa40d34d96b09a42e7bf3a634a",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-brainchip-holdings-ltd-944dfbaa40d34d96b09a42e7bf3a634a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-new-york-times-ad-warns-against-teslas-full-self-driving.md",
       "title": "New York Times ad warns against Tesla’s “Full Self-Driving”",
       "excerpt": "A full page advertisement in Sunday’s New York Times took aim at Tesla’s “Full Self-Driving” software, calling it “the worst software ever sold by a Fortune 500 company” and offering $10,000, the same price as the software itself to the first person who could",
@@ -966,206 +1148,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-computer-vision-system-market-statistics-development-and-growthmarket-players-cognex-basler-omron-2022-2027.md",
-      "title": "Computer Vision System Market Statistics, Development and Growth,Market Players: Cognex, Basler, Omron-2022- 2027",
-      "excerpt": "Jan 17, 2022 (Heraldkeepers) -- The Computer Vision System Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-statistics-development-and-growthmarket-players-cognex-basler-omron-2022--2027-2022-01-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-statistics-development-and-growthmarket-players-cognex-basler-omron-2022--2027-2022-01-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-natural-language-processing-nlp-software-market-statistics-development-and-growthmarket-players-google-explosion-ai-ibm-2022-2027.md",
-      "title": "Natural Language Processing (NLP) Software Market Statistics, Development and Growth,Market Players: Google, Explosion AI, IBM-2022- 2027",
-      "excerpt": "Jan 17, 2022 (Heraldkeepers) -- The Natural Language Processing (NLP) Software Market report provides a detailed analysis of global market size, regional and country-level market size ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-statistics-development-and-growthmarket-players-google-explosion-ai-ibm-2022--2027-2022-01-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-statistics-development-and-growthmarket-players-google-explosion-ai-ibm-2022--2027-2022-01-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-16T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-how-ai-will-drive-the-hybrid-work-environment.md",
-      "title": "How AI will drive the hybrid work environment",
-      "excerpt": "Artificial intelligence has the capacity to vastly improve work-from-home and hybrid work environments. But getting there will not be as simple.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/",
-      "originalUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Remote-Work.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/",
-      "publishedDateTime": "2022-01-16T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-exploring-ai-ethics-and-accountability.md",
-      "title": "Exploring AI ethics and accountability",
-      "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
-      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=628,fit=crop,quality=80,format=auto,onerror=redirect/wp-content/uploads/2018/02/GettyImages-679721306.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
-      "publishedDateTime": "2022-01-16T11:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

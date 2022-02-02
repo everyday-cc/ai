@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Metro approves license plate readers, allows facial recognition"
+    excerpt: "Metro Council on Tuesday approved the controversial use of license plate readers and sent the new, much debated legislation to Mayor John Cooper, who has signaled support for it. This week's Metro Council session spanned more than four hours yet spent close to a quarter of its time on legislation that has been debated in this and alternate versions since 2020."
+    publishedDateTime: 2022-02-02T20:53:00Z
+    webUrl: "https://www.nashvillepost.com/politics/metro/metro-approves-license-plate-readers-allows-facial-recognition/article_20098f9c-846a-11ec-95bd-032eecf6b05f.html"
+    type: article
+    provider:
+      name: Nashville Post
+      domain: nashvillepost.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nashvillepost.com/content/tncms/assets/v3/editorial/e/a1/ea1a26ce-846b-11ec-ac12-dbe4b5d8fc75/61faf2420059a.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "VPJ1Otiq3KV4wirc5YWA/6fC97nWuAw4ILkB6KRAjPUtvwLFX4DoQP+FAGHaucgRFdMiUkh4v2Q3uX62w7qfIT6dEDEUghOmqDb36XsW5lZeX0w15iOvYyYg7HtSnrMtBdrG07UqoGp8lQANfdcqot8Z/9Tbpl/YNqhTDETYye8h9NgWOFmplTdA5Sk6n5x9sb7pEMERcX3UlAfd4ZIgFke6GuneMYkic9HJWOtIJY0YH629sHwzJptWym5cjzYm4aQFwUmwXr/3WBTLdHGG4IbmcDwNz4nfEelsB6+zyTVqiXDMuMTlbf3bAoAzGT8icml1DNnABq5xehPY6rW4Lv+G2D1WPuJ9ZhezPGEQnefZZM7Qh9ZBoXN9cfy1c/wXq/5vMYCbTUQCQ6+zT2f36kumP9BIrWN1dXvo+Wme1Pw7t9DlL1UIflxHWYoBGLy2jMXIYCAm6laOFyvjTLYYmoYUgOp1ucDYTshNIbfyl15w/JiHTvOpsHCaiqy7T5+faU+JkCtExybM2t6XQlaACg==;Qa/UeZbBQHZ+ERP8JpVeOw=="
 ---

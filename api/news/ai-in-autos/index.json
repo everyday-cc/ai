@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-02-02-tesla-releases-new-full-self-driving-beta-software-update-1010-to-remove-rolling-stop-address-some-corner-cases-and-more.md",
-      "title": "Tesla releases new Full Self-Driving Beta software update (10.10) to remove ‘rolling stop’, address some corner cases and more",
-      "excerpt": "Tesla has started to releases a new Full Self-Driving Beta software update (10.10) that includes several changes including removing ‘rolling stop’, addressing some corner cases, and more. Tesla Full Self-Driving Beta Since October 2020,",
+      "path": "_news/2022-02-03-hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses.md",
+      "title": "Hilariously Poor Tesla Full Self Driving Performance In Boston Highlights Its Weaknesses",
+      "excerpt": "Tesla seems to be in the news every single week for one reason or another. Sometimes it’s because they build products that are shockingly fast and other times it’s because they build products that are missing brake pads.",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/02/02/tesla-full-self-driving-beta-software-update-10-10-remove-rolling-stop-corner-cases/",
-      "originalUrl": "https://electrek.co/2022/02/02/tesla-full-self-driving-beta-software-update-10-10-remove-rolling-stop-corner-cases/",
+      "webUrl": "https://www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/",
+      "originalUrl": "https://www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/09/Tesla-Full-Self-Driving-Beta-v10-e1631354582912.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.carscoops.com/wp-content/uploads/2022/02/Tesla.gif",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/02/02/tesla-full-self-driving-beta-software-update-10-10-remove-rolling-stop-corner-cases/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/02/tesla-full-self-driving-beta-software-update-10-10-remove-rolling-stop-corner-cases/amp/",
-      "publishedDateTime": "2022-02-02T05:03:00-08:00",
+      "ampWebUrl": "https://www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/amp/",
+      "publishedDateTime": "2022-02-02T13:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

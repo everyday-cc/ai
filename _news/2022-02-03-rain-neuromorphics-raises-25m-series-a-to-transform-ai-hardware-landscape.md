@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-02T20:55:00Z
 originalUrl: "https://menafn.com/1103633023/Rain-Neuromorphics-Raises-25M-Series-A-to-Transform-AI-Hardware-Landscape"
 webUrl: "https://menafn.com/1103633023/Rain-Neuromorphics-Raises-25M-Series-A-to-Transform-AI-Hardware-Landscape"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://menafn.com/updates/pr/2022-02/02/EP_93ffaimage_story.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 534
     isCached: true
 
-secured: "9tzCYBGeQtBTK7+JR4ga7n8XjjvD1vg0lneTYVm6s9dMlGO6mj9z+AOArmy2zownp9UN2MIqdkGKZPUqlW3f/02ddYSXv1Yg1yhTYokc1fIX6htRezuT8fIXZ5RTHiFS5GZJ2gZg/oo40ms6O64arrkASHwTQQlwy/KMv38GsuiNDrd9YlamvhJVMR31K+X6pc7c9IPNKWw4BIY2yBpSjOnHNmbJ7m6aLd92V/Ksq15XYlVPkY3AWimi9XbMFRzQ3SIlUQDrpQo+vQnY9FVmLb+ArGVn/XAesN+eZAUyeakrbaAt7T8F13p9YERA9lDCohf8GNYy9IYDKqsf/letmm+DA6Wzu9MBXlIUHtoavAI=;nmUopDzUlAEwLTsncf+roQ=="
+secured: "F5NmAFtnN4IuL8JtVV4w6DvTRq/eCP4e4FUAoE7W6ThJZixrXBnHCmg7lN5Q82kYO6AutGX9mIFUqZAfnm741GF0lV1lJkXKOuW0jO6SpDfr5FjItWYvTSSJS8xUSXP9HqE4s9usmLWFI8ulRdHL0zL3EmNKvxugB4GyCeCGpkDyJV2BeI8c75FisvDj9X0hzBXfG6FSZZ2Xyf9q0Wl8yHTatTuJh5OkCYRlQ191C5VzjCB2oFh41FLpEXHXt5/gDl0t2PkbQ3/ux0xxmNV5t1cE1jp7XVwSEknk5O8a0nwOV7cvowiOKSbspqpk8+IVTdNlA4b5+CQgFwJy+EhyLJ/zPHfSSODysSJiV0mwdpLsqjiGjQyBd3lB6/ZQ2xeGz5fv2YhslrRfxtA3PXXIs54Ch3jG4+m0Q4JF4eMxXCn8uNzqAyYi+vhaAD1hDJft5dsl4AzREMbx2VIH27d4G01lFary/3pmiXIfn2h+eIq/ZHS+Zq3PfA+su++ni6k4hXBQ1OKtVyYBUuP9dqButg==;Ft94arCeBrYOLAfuzRk0TA=="
 ---
 

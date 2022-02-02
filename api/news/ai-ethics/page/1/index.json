@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-03-how-ai-accelerates-insurance-claims-processing.md",
+      "title": "How AI accelerates insurance claims processing",
+      "excerpt": "The immediate aftermath of a vehicular crash is difficult for all parties involved. The drivers have to process trauma and figure out how to get their damaged cars repaired or replaced. Insurance companies have to conduct damage assessments and figure out the most efficient and least expensive route to get the claims resolved.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/",
+      "originalUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2012/11/insurance-for-ride-sharing.jpg?w=1200&strip=all",
+          "width": 803,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/",
+      "publishedDateTime": "2022-02-02T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-ai-could-cut-hiring-biases-as-companies-make-push-to-find-workers-proponents-say.md",
       "title": "AI Could Cut Hiring Biases as Companies Make Push to Find Workers, Proponents Say",
       "excerpt": "While the potential for bias in AI has been a concern, some say well-crafted algorithms can help companies be fairer in their hiring decisions.",
@@ -1409,50 +1462,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-former-co-leader-of-googles-ethical-ai-team-timnit-gebru-thinks-that-ai-needs-to-slow-down.md",
-      "title": "Former co-leader of Google’s Ethical AI team, Timnit Gebru, thinks that AI needs to slow down",
-      "excerpt": "The ‘move fast and break things’ attitude dominating AI technology today could spell disaster for future generations.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/former-co-leader-of-googles-ethical-ai-team-timnit-gebru-thinks-ai-needs-to-slow-down/",
-      "originalUrl": "https://analyticsindiamag.com/former-co-leader-of-googles-ethical-ai-team-timnit-gebru-thinks-ai-needs-to-slow-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/tg-banner_11zon.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

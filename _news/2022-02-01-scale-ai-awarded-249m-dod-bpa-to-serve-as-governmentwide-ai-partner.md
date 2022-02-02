@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-01T10:48:00Z
 originalUrl: "https://www.govconwire.com/2022/02/scale-ai-awarded-249m-dod-bpa-to-serve-as-government-wide-ai-partner/"
 webUrl: "https://www.govconwire.com/2022/02/scale-ai-awarded-249m-dod-bpa-to-serve-as-government-wide-ai-partner/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.govconwire.com/wp-content/uploads/2022/02/00P4y00001ficpKEAQ.png"

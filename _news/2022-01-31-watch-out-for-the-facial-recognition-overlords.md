@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-fo
 webUrl: "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-for-facial-recognition-overlords-apple-microsoft"
 type: article
 quality: 69
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -146,6 +146,20 @@ related:
       - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Three Key Problems with the Government's Use of a Flawed Facial Recognition Service"
+    excerpt: "Forcing people to use private ID-verification to access tax accounts or other government services raises serious privacy and equity issues."
+    publishedDateTime: 2022-02-02T22:06:00Z
+    webUrl: "https://www.aclu.org/news/privacy-technology/three-key-problems-with-the-governments-use-of-a-flawed-facial-recognition-service"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 33
+    images:
+      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "rk/ucoznUITgjCQI7l1rf/aRzhZba1hX7izOD65R8qSG9ObTTOTBc3mub2d5qf1Wg4a5AgLBZ2yPK2+2lJ+L7XXDimTrb5e2TFtsU8kGajCNDKfvCVXH+ZCOZom7Qti+rqpF72ThzYkwSt8pMTuRq1Int/okU2gAoyrO+U0wWPVopN5oeWVdhYJCkcs+tGo4esrREx4QsKFFPNjJbDGBGxFtLbdl2mV9tg/n7/0SlnrHrdPTb89vCRpoyJqophYVA+AKEcQqwzUBwKGffiJp5y607HB7RFfIE3Ox1YH1cUGcrgRGbMAX9u5lQ4Cjh27tR+K858xNppRRrfDdpNN5Uf1bkVmGf837s6690jJSmoe4LHd7u1KDzKR/5IxEVwJxD3k6V4XsGAFEME+UZA3wcm/mRIKKlct816ciVUyPsp5ve857jDiw7ofEXD+URWBi+tcwAXliGiaK/Vl7upE7DFyY0Q4xDsCVR0dUHw3VlrKNMIxYShmMOskniWo4TisLxDhGmagZADR/DUHkl/FKng==;UrNeqcSjzdrRThZBOisE0A=="

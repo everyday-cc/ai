@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-clearview-ais-revolutionary-facial
 webUrl: "https://aithority.com/vision/face-recognition/clearview-ai-revolutionary-facial-recognition-platform-awarded-us-patent/"
 type: article
 quality: 151
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/facial%20recognition%20system.jpg"
         width: 734
         height: 413
+        isCached: true
+  - title: "Metro approves license plate readers, allows facial recognition"
+    excerpt: "Metro Council on Tuesday approved the controversial use of license plate readers and sent the new, much debated legislation to Mayor John Cooper, who has signaled support for it. This week's Metro Council session spanned more than four hours yet spent close to a quarter of its time on legislation that has been debated in this and alternate versions since 2020."
+    publishedDateTime: 2022-02-02T20:53:00Z
+    webUrl: "https://www.nashvillepost.com/politics/metro/metro-approves-license-plate-readers-allows-facial-recognition/article_20098f9c-846a-11ec-95bd-032eecf6b05f.html"
+    type: article
+    provider:
+      name: Nashville Post
+      domain: nashvillepost.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nashvillepost.com/content/tncms/assets/v3/editorial/e/a1/ea1a26ce-846b-11ec-ac12-dbe4b5d8fc75/61faf2420059a.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ai2QWxQvrT3Ot8O5TA5kHWszLLbE/lwZz0a/vpQMP+pm6nQAyGZGV5i5PkCkaBBczjkB80WAS7PXHLDXDaFHRyM4/oYO/XTBqcNt1PTWXUo10sFVVaAiBnfCp8TN8H5WU5l8u2lJU1s0BdxNRTIKgtW7veTIjsNK4HvrANDX8So2Bs/9jFpZuEzmD33jGUw+c7/NnRDCINYQnqGLiVzQ4mgOGqosI1RJLgdb0YKx3nsg39vGAqB+GavzO5j0Y0X3EPM06B3IcwN6p2MPJpmx41Q+3XGKdxKVdOPaVpXAmK+BWW/mshitZwdGIrJmWkw2KrxGGJHeXb6WoIMEgfaVRbA3zSNnmUKyq8Ei3sJ7WoA=;LbyIwOSDWqAqogU0XE3fAA=="

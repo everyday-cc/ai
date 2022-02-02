@@ -40,7 +40,7 @@ related:
     provider:
       name: GovCon Wire
       domain: govconwire.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.govconwire.com/wp-content/uploads/2022/02/00P4y00001ficpKEAQ.png"
         width: 1200

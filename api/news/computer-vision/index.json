@@ -62,7 +62,7 @@
       "originalUrl": "https://www.tmcnet.com/usubmit/-clearview-ais-revolutionary-facial-recognition-platform-awarded-us-/2022/01/31/9535612.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -105,7 +105,7 @@
       "originalUrl": "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-for-facial-recognition-overlords-apple-microsoft",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -484,6 +484,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-vimaan-emerges-from-stealth-with-first-of-its-kind-computer-vision-platform-for-inventory-management.md",
+      "title": "Vimaan Emerges from Stealth with First of its Kind Computer Vision Platform for Inventory Management",
+      "excerpt": "SANTA CLARA, Calif., Jan. 26, 2022 /PRNewswire/ -- Vimaan, a computer vision company for warehouse inventory management, emerged from stealth to announce its leading-edge, field proven solutions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/n25232247/vimaan-emerges-from-stealth-with-first-of-its-kind-computer-vision-platform-for-inventory-manageme",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/n25232247/vimaan-emerges-from-stealth-with-first-of-its-kind-computer-vision-platform-for-inventory-manageme",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1734135/Vimaan_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25232247",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25232247",
+      "publishedDateTime": "2022-01-26T00:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1320,49 +1363,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-train-smart-retail-ais-50x-faster-with-mindtechs-new-synthetic-data-application-pack.md",
-      "title": "Train Smart Retail AIs 50x Faster With Mindtech's New Synthetic Data Application Pack",
-      "excerpt": "Mindtech Global, developer of the world's leading synthetic data creation platform for training AI vision systems – has released a new application pack for companies developing smart retail ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/b25072890/train-smart-retail-ais-50x-faster-with-mindtechs-new-synthetic-data-application-pack",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/b25072890/train-smart-retail-ais-50x-faster-with-mindtechs-new-synthetic-data-application-pack",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25072890",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25072890",
-      "publishedDateTime": "2022-01-17T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

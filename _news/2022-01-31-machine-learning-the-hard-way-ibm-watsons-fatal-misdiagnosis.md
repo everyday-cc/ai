@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/01/31/machine_learning_the_hard
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Fall of IBM Watson Health: The Rise of Forever AI by Ean Mikale"
+    excerpt: "Listen to the Article Instead! Over the past few weeks, there have been numerous articles concerning the failure of IBM's Watson Health Unit and it's subsequent fire sale to Venture Capitalists, for an undisclosed amount thought to hover around $1 Billion USD."
+    publishedDateTime: 2022-01-31T17:19:00Z
+    webUrl: "https://www.linkedin.com/pulse/fall-ibm-watson-health-rise-forever-ai-ean-mikale-mikale-j-d-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQG_RLAVXBG_Nw/article-cover_image-shrink_720_1280/0/1643642565345?e=1649289600&v=beta&t=YzZNEn2KlsoYz6R7ff3V549dtT4GtZP47Ug-VVFPq3A"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "How IBM’s Watson Went From the Future of Health Care to Sold Off for Parts"
     excerpt: "Most likely, you’re familiar with Watson from the IBM computer system’s appearance on Jeopardy! in 2011, when it beat former champions Ken Jennings and Brad Rudder. Watson’s time on Jeopardy! was fun viewing,"
     publishedDateTime: 2022-01-31T14:00:00Z

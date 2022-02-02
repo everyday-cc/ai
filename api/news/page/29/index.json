@@ -2,6 +2,177 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-01-07-robot-swarms-to-the-rescue.md",
+      "title": "Robot swarms to the rescue",
+      "excerpt": "Swarm robotics is an emerging field that offers infinite possibilities to study the models of control and coordination ... to build their nests come to mind in vivid flashes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itp.net/emergent-tech/robot-swarms-to-the-rescue",
+      "originalUrl": "https://www.itp.net/emergent-tech/robot-swarms-to-the-rescue",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-the-chillax-baby-mood-ai-smart-monitor-focuses-on-privacy.md",
+      "title": "The Chillax Baby Mood AI Smart Monitor focuses on privacy",
+      "excerpt": "Chillax announces its unique Baby Mood AI smart baby monitor with AI and machine learning that grows with your baby.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/",
+      "originalUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/baby-mood-_05-2.jpg",
+          "width": 655,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/?amp",
+      "publishedDateTime": "2022-01-06T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-ambarella-amba-unveils-ai-based-image-signal-processor.md",
+      "title": "Ambarella (AMBA) Unveils AI-Based Image Signal Processor",
+      "excerpt": "Ambarella AMBA recently announced the launch of Artificial Intelligence (“AI”)-based Image Signal Processor (“AISP”) during the ongoing Consumer Electronics Show (“CES)",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor",
+      "originalUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp",
+      "publishedDateTime": "2022-01-06T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better.md",
+      "title": "Kokoon Nightbuds now use AI to help manage your sound sleep better",
+      "excerpt": "Now, Kukoon has announced new features to improve your sleep quality further and claims its new algorithm uses AI to offer a deeper analysis to help you get more rest at night. Kukoon’s earbuds house crucial sensors to detect your sleep including an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/",
+      "originalUrl": "https://www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/01/2e4044c474547bd67f0e0598228f61af.jpg",
+          "width": 1440,
+          "height": 959,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/amp/",
+      "publishedDateTime": "2022-01-06T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics.md",
       "title": "What meets the eye: get granular consumer insights with visual analytics",
       "excerpt": "Social network and search engine algorithms favor images and video over plain text, which means visual content receives wider reach and better engagement from users now than ever before.",
@@ -928,196 +1099,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg.md",
-      "title": "AI Startup Fractal Joins Unicorn Club After $360 Million Investment From TPG",
-      "excerpt": "AI startup Fractal, which is based in Mumbai and New York, has received a $360 million investment from private equity giant TPG's Asia investment arm, valuing the company at over $1 billion and becoming the latest startup from India to achieve unicorn status.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/",
-      "originalUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d67ba2000e8e2814f3d174%2F0x0.jpg",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/amp/",
-      "publishedDateTime": "2022-01-05T20:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-ethical-ai-ai-with-morality.md",
-      "title": "Ethical AI: AI with Morality",
-      "excerpt": "As soon as the term Artificial Intelligence comes into a discussion somewhere in the corners of the mind there arrives a scenario much like the movie ‘Terminator’. But relax our current discussion will not be about whether machines will take control over humans or not until and unless we want so.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ethical-ai-morality-utkarsh-sharma",
-      "originalUrl": "https://www.linkedin.com/pulse/ethical-ai-morality-utkarsh-sharma",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHY6r9n5imA2g/article-cover_image-shrink_720_1280/0/1641443202337?e=1646870400&v=beta&t=eQEdERReKBwO5eSxvvr9kvs2_LzNHeI1HRICvOdRF24",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-robot-tractors-may-be-heading-to-a-farm-near-you.md",
-      "title": "Robot tractors may be heading to a farm near you",
-      "excerpt": "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you",
-      "originalUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-chinese-scientists-build-factory-robot-that-can-read-minds.md",
-      "title": "Chinese scientists build factory robot that can read minds",
-      "excerpt": "Researchers in China say they have developed an industrial robot that can read a human co-worker’s mind with 96 per cent accuracy.The robot not only monitored the worker’s brain waves, but also collected electric signals from muscles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds",
-      "originalUrl": "https://www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2022/9a25a14b-7d84-4317-888e-fbcad66d54b5_d05c091f.jpg?itok=uu4W3u9u",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds?amp",
-      "publishedDateTime": "2022-01-05T17:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-w
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data?amp"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 640
     height: 360
     isCached: true
+
+related:
+  - title: "Teradata Announces Global Partnership with Microsoft"
+    excerpt: "Teradata (NYSE: TDC) today announced a global partnership with Microsoft to integrate the Teradata Vantage data platform with Microsoft Azure. With this announcement, businesses seeking to modernize their data analytics workloads with security,"
+    publishedDateTime: 2022-02-02T14:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-teradata-announces-global-partnership-with-microsoft-/2022/02/02/9537973.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "K33ymxH4p3KWObFbuR+v/P2e8ZbmvXnzgqIxpAopumFWwJ4cQLMqMvh70NURsRYpMXdFP7OZgip3EI3J4Y4uvKeTJKnwJeNPtC6w3dSXy23ezmbcOkuC27bD0OLGA8PSUdRzCO6qXr3o5zENzLNxEp+qpEcQ1WzT1rilfxPUE8IwxnVgVYnfqfHP8PPDAHk2vjedHOc3uZd7gPKwM6PXfK/XcW1NfLfuqNX1gtW1rTp0T9jAY5PXgITrKJ9bbVT70Af83wdqZB7tAO2u4aZlHref59qSLsw5YIR6i20d3XjacZsIXplWPd9CdSFIikqwsyT8X7FY8so7eUJQHMXD7TtXVdJXOS3/xMYvyZQQiAK8O9RM76ANjS4SoeKFk7/MP+3+2VBxM1jdj8CKU/q2/5vtDQRCMTYYdUoo//3CIppQ7A2+uEkWAhV/uonQDcFdvDnoYb8A3iBqxb/fmfn++bnBuUeeaxrLQBROClFjdpwpfn6Po9fg7JMx3xOjOPxahsdSg2tSLIMdMYoaPWwCyQ==;dsDb9gJGqcUmFGCVl0qhyA=="
 ---

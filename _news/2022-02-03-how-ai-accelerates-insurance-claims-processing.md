@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-
 ampWebUrl: "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2012/11/insurance-for-ride-sharing.jpg?w=1200&strip=all"
@@ -64,6 +65,6 @@ related:
       domain: ictsd.org
     quality: 15
 
-secured: "zvsxJc/hOnmv8EVWACd+tm03dEi/i3t8KpM5RaIAhmKMlaDhEDKuqmcWSC6IzGzat8dCM9M9mhwvCX3oL2HQoi/hBlExmddJEa00kCi4nJ7TU7rq2ZqDdy58rCH954ONi2IsF6o0DuirWS/fUuW5AWwisU4nvoZVLVQCYbAOhMm6VOcC9FyA/AtIuxJjIZgeQIx8TT7mRvT89Uk8A+fpurcTUXbiA+DWVadwesPIQ9966FTRAc67jjTBvT8+PAhgAzNJYTf+7e2RqOMFGDZUbsal1ru8fXig+cm95Eg3DaUFAuksi3XKAmyp+a+A42mLbII33Thasu9pqHYuVMEa45GGOhN4ILQ3NadssPJNFyo=;lEKcHjx4AeMlOYFuQAUeoA=="
+secured: "fGNeSwSS4O2xUCAlorrgdKxcc0Ua2m5e8tfmwiNZVzDKu+8D9z92Xfdu9rsUuKhl0FE4iB344C6rK9dddKw+Tc5JYT87BsCQSocG/Y21XLeZFlFoRlL4PH4ksA82a+OqhNqms7wL6PfIVmkm4V/krIDjIOwQWvbhcYY17lwhdLAa8HKnp4OIy6SlqknwkFyVWgo6K16aM2TPH9fTN+AEyYmNGFGFxenR5vZSzg2jKvmy/tAXEGb4QOKWvgOqeFl7MTcK+mcPwCvxLUW+U6/VW5CDKAv+cPA/zRMh2U3OT+J744q9SMBUD7MxAuQLjvBsAStNjqxaKI6nDUcj02/mqz2zxtvyamIG2C5jxsllyHlePtvRVmhjvLNgg1CIBbAS4jak8F0/1knTkAvVOXx5HqkGFrE8Q3GUJJs0QC8PFbW7Z6F1OP8KqEjcIfb9Ti7C5giU0Y4NSymEOfZ8PaU+/2xV83M4vqb8fj0gCGsOWtEWsrtNpXIDNZCaGRoihqA/zfqIQ+1c9y3b71oSGdjvRQ==;gGgEIi2WrsVlWrABMY4wDg=="
 ---
 

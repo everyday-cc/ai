@@ -107,6 +107,59 @@
       ]
     },
     {
+      "path": "_news/2022-01-29-all-symbols-in-tensorflow-datasets.md",
+      "title": "All symbols in TensorFlow Datasets",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
+      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-28-why-deepmind-co-founder-mustafa-suleyman-has-quit-google-to-become-a-vc.md",
       "title": "Why DeepMind co-founder Mustafa Suleyman has quit Google to become a VC",
       "excerpt": "DeepMind co-founder Mustafa Suleyman surprised many of his followers last week when he announced he's leaving Google to become a venture capitalist.",
@@ -163,15 +216,15 @@
       "title": "Customization basics: tensors and operations",
       "excerpt": "To get started, import the tensorflow module. As of TensorFlow 2, eager execution is turned on by default. This enables a more interactive frontend to TensorFlow, the details of which we will discuss much later. import numpy as np ndarray = np.ones([3, 3 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=nl",
-      "originalUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=nl",
+      "webUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=sk",
+      "originalUrl": "https://www.tensorflow.org/tutorials/customization/basics?hl=sk",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=nl",
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sk",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -1497,58 +1550,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-basic-classification-classify-images-of-clothing.md",
-      "title": "Basic classification: Classify images of clothing",
-      "excerpt": "This guide trains a neural network model to classify images of clothing, like sneakers and shirts. It's okay if you don't understand all the details; this is a fast-paced overview of a complete TensorFlow program with the details explained as you go.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/keras/classification?hl=fi",
-      "originalUrl": "https://www.tensorflow.org/tutorials/keras/classification?hl=fi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=fi",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

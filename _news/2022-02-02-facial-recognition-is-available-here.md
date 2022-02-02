@@ -147,6 +147,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Three Key Problems with the Government's Use of a Flawed Facial Recognition Service"
+    excerpt: "Forcing people to use private ID-verification to access tax accounts or other government services raises serious privacy and equity issues."
+    publishedDateTime: 2022-02-02T22:06:00Z
+    webUrl: "https://www.aclu.org/news/privacy-technology/three-key-problems-with-the-governments-use-of-a-flawed-facial-recognition-service"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 33
+    images:
+      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "G88aLHcUnNhNQshtOh/F4wgFvHKPLQ7IAQRhuvWMq27+L5+vRuLNlD/p6/uDUVs5FeKzbf4JAaIZzG5ZTYIi3VzIIwslw7clPkYJuk1VufQ1yaMv/nC2UGHWsUnagNb0d+BL29SPcQTbQAQBqVakYEJuGwQvjRbun+3fMnzjhM7+U/o4hCoXUGiGye4Mpb5tPE/9AoR7N/TFu3f1/OQwbc2riL5KtUiQtvUlpazTNHY32bC8pk06F2fK0qHJN7KXa59wFaWqHPWxoh/W2Ot+mvq4/hrFtQSZ531j3PpW2OrNG2gqKD4T8JFgKhpEbkVWYrYsFj81FywWODPAscIxq7fdOicsBSuzZHuyJ3OM0BqZK1v9i7W63i1Wbzx2aKKSl2hLr477/BqbugKzThw/39cUxUh2gFmhzNsTsch/RHz5U02N5G3iSXcoyU+irma863/5A+WCfKwSfzJj/pZluaPE+FAf2E5Gi3M0/yg3A6+qHm7nfxQiTf6VBMlmVvfBcJCjHiJ5y2x4jO2V/ZsJmg==;ubX8Lp4jt0tidUcbvf57sA=="
 ---
