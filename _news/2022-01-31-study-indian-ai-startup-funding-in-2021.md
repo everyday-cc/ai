@@ -40,20 +40,6 @@ related:
         width: 740
         height: 462
         isCached: true
-  - title: "How artificial intelligence plays a critical role in delivering excellent micro-moments"
-    excerpt: "People today are constantly on the go, and they have a lot of needs. They need to learn something, get something done, or buy something."
-    publishedDateTime: 2022-01-29T12:56:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-plays-critical-role-delivering-arek-skuza"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 29
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHxqXDPuMeSnw/article-cover_image-shrink_720_1280/0/1643460384382?e=1648684800&v=beta&t=XU2mTlk02BKJLLjKS2yUA9Zvlp1nvF4nsAQZa4w1OOw"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "inPx+bevSWsmjxIxh4efFs6ncsrLXSlCsaqZJmzC8nhnT5SY2hyzGnhnujgkcacReHKXBUcJ2HBYma8RMkr8/uGHNY8carGM4aGEK9/Or1anjRI9Q20mAhowwtn6A9C5oIQZM51VHh4D0s2RarsQlJKFLwt3HXapw7Vpq2iy3WV5Whkmwz07TwEdNcsHRqk9ZzasqhUu7tAxT9FyM7kFeVIgtmDuNfHT+PUW9GuzU51C1RMxDxDXTCtaYX0F6VjWneHShuf72pRZTmQ0azM5M5r8bIF/uuO1aL2PCPOGTZ1Qsa8+IT7xaOtnOPaBP4cYp4GuzA67ne+HskOvL0bt9h9W0QGUGn3654j7s8ZBeuwR0VqkQPSXFq+J7AJBhP+nzMyVHoiiF6MawZIiqs6wN3NDixXH9XvQz0QBvHruNyIRHE4DsvT39dv1/pj+gKQpFCmzR7/Evc9ZZ1FcyWy12u5/9AsMrijmf4lW1Uuaha3bkwYMo/GB1TH+xZgMOIvb/1GXPnelsa1Mq7gHjut0rg==;+yully8E0adCRIPAXsJ6qQ=="
 ---

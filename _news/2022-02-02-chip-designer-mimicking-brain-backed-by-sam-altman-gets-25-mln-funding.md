@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/chip-designer-mimicking-brain-b
 webUrl: "https://www.reuters.com/technology/chip-designer-mimicking-brain-backed-by-sam-altman-gets-25-mln-funding-2022-02-02/"
 type: article
 quality: 83
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chip designer mimicking brain, backed by Sam Altman, gets $25 million funding"
+    excerpt: "(Reuters) - Rain Neuromorphics Inc., a startup designing chips that mimic the way the brain works and aims to serve companies using artificial intelligence (AI) algorithms, said on Wednesday it raised $25 million. Gordon Wilson, CEO and co-founder of Rain ..."
+    publishedDateTime: 2022-02-03T04:43:00Z
+    webUrl: "https://www.reuters.com/article/chips-rain-neuromorphics-funding-idCAKBN2K70JB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2K70JB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2K70JB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20220202&t=2&i=1589737556&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI1109U"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Chip Designer Mimicking Brain, Backed by Sam Altman, Gets $25 Million Funding"
     excerpt: "Gordon Wilson, CEO and co-founder of Rain, said that while most AI chips on the market today are digital, his company's technology is analogue. Digital chips read 1s and 0s while analogue chips can decipher incremental information such as sound waves."
     publishedDateTime: 2022-02-02T08:29:00Z

@@ -43,22 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "The Self Driving Coalition Renames Itself And Abandons The Term As It Distances Itself Further From Tesla"
-    excerpt: "While Tesla touts its Self-Driving tech, the rest of the industry has decided that it wants nothing to do with the term"
-    publishedDateTime: 2022-01-29T11:11:00Z
-    webUrl: "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/"
-    ampWebUrl: "https://www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/autonomous-vehicle-lobby-organization-distances-itself-further-from-tesla/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 57
-    images:
-      - url: "https://i.ytimg.com/vi/9--YE1dEGO0/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
 
 secured: "8vCI+VcSQRt77nxFYmz0esedWMR7wulEvERzPB6WoR1wiVDwYQvjqJ3fFqGaZz28fdZbEhauqSSd7QrNbg7ZyrFUrsNSprlrUJSqc9PK1N9NabnbEQumKdGUrcpI/aMSlvqkkkX6TfTjSCU9yvcd6lDSlg8+2eEeA35lZNrZBFJwFJ1t1eGV4sc1IQuweg/sJtK4dKZmF4NMVyS6UmQT0Cv/2Pm4mbllBPavEUx8Ch3Qy9g9DTtp+TzSlqFcsJlDXg0PT0xmNkTdfYO2jkuLajAHviNsLt4z2/Es0g1As0iqPgKG5tAVYg4ODzwLzZICJPpLYG0cOb55twKjyw42VH70TyTqmSBenZkOlMMg+zz5r75PSmRG6uHhr6uV63MIqRDdEW3kfBGupKTbTbagdv1f7sRVZvxVJ1+LryRl2b0lx2tYaghuT6GZ1P43xlhowsDP13w5LEc64xa+uQ6mjWXDGGuk3TaQlE+SHbm7EkbVxMsIu2+NOh1BC+EGRajwsHEFBv0eD/4rXOLuD5LtPw==;CVPW6hG1/TArzSSJ0BIwSw=="
 ---

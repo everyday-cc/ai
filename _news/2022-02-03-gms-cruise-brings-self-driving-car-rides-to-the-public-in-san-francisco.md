@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-t
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/amp/"
 type: article
 quality: 73
-heat: 73
+heat: 74
 published: true
 
 provider:

@@ -130,20 +130,6 @@ related:
         width: 320
         height: 320
         isCached: true
-  - title: "Four arrests in Live Facial Recognition operation in central London"
-    excerpt: "As part of ongoing work to tackle serious and violent crime in Westminster, four men were arrested on 28 January."
-    publishedDateTime: 2022-01-29T12:34:00Z
-    webUrl: "https://news.met.police.uk/news/four-arrests-in-live-facial-recognition-operation-in-central-london-441509"
-    type: article
-    provider:
-      name: Metropolitan Police Service
-      domain: police.uk
-    quality: 39
-    images:
-      - url: "https://resources.mynewsdesk.com/image/upload/b_auto,c_pad,h_628,q_auto:good,w_1200/vkozryxfhmiarcisbznu.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "U.S. Agencies Embrace Facial Recognition Technology"
     excerpt: "While facial recognition technology has helped identify more than 1,000 impostors attempting to enter the U.S. with false documents since 2018 and the increasing use of biometrics in airports and ..."
     publishedDateTime: 2022-02-01T16:09:00Z

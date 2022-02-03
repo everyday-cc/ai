@@ -2,21 +2,29 @@
 category: news
 title: "Driverless big-rig truck company partners with Union Pacific to haul freight from Tucson to Phoenix"
 excerpt: "TuSimple is headquartered in San Diego but has its \"operational heart\" in Tucson, with several hundred employees there including engineers, artificial-intelligence experts ... the company claims. Driverless truck company to haul freight from Tucson ..."
-publishedDateTime: 2022-02-02T18:16:00Z
-originalUrl: "https://www.palmbeachpost.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
-webUrl: "https://www.palmbeachpost.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
+publishedDateTime: 2022-02-02T17:46:00Z
+originalUrl: "https://www.freep.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
+webUrl: "https://www.freep.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
+ampWebUrl: "https://amp.freep.com/amp/9291341002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/9291341002"
 type: article
-quality: 5
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Palm Beach Post
-  domain: palmbeachpost.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2020/03/05/PPHX/42d3dafe-87c2-4b5c-907b-05ccb19fa9e1-TuSimple.jpg?auto=webp&crop=7951,4473,x0,y405&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "No drivers needed: Union Pacific to use robot trucks from San Diego’s TuSimple to haul freight"
@@ -59,6 +67,6 @@ related:
       domain: azcentral.com
     quality: 5
 
-secured: "jTyFsLXIOQYIMf3ZtYMxLXh4JNP+HFodnxNtGZWIk8MT8Bt3JHC7PS/8RWTW8g89FdnbUm0xXZ0/ZIGkqCwfaztWsoYdq4oTD5kkTS5TbgmVo1cCiCCBbBFtv8l+fP2rZx2+9uRGay8FvcJV9JfAThMcgYw9vGNrn7f9YHBb4ruXDX4Hx9kxERmYhEve9NScOBybOeaegK1E+5qq4voghmBe6egC4ftCIMC2AdQFgNAnCALvS61cIVyjvBHU6h7YtvhYP8UMc7T7W+5iM90yWbXuYEaYf5kUs/hWevNp0OtC5hNj+QCAUvtzkcXH5QUMXm7XxnBAQOSa2VXnCnVBYA41UHrpXhROtnrD7fs0sj87oOjyBoVYykfpwAPYmOG0WIYP+ndA5Kxh6+/lgSOF1kieLb7+lcsc6SXRqsNnpQIzISFlwPJhM1PQdKYHnq5XiCYB5H34FyI5zSX///tn1zNwUsG9splkA+f7etvhPt+Iovg+XQKO2hIql26FsIGtfpf5LSwT/gN0xCMlYekUbQ==;BJL9MVKasANS6BLNkwbayw=="
+secured: "tpqmdyjN2tfDfohlTj2zTeDfKyxCtVa1zQzq7BMKr9qbBzyGmCdjsguanqqgd5l6JZHeWFNiDNzkZ+9a71iOtzi4fezC7jjPz5flpmt1/ubf20LQ2PztmOlscEhkWHWFMhO1RRRo8YAVrz+BShJiyhvm/kn8GELhMfx7b+3CQnZJXm3nQq0MELK77PR09C1/hQfFV3ijWc73RJKejd7etdU2rKuBUW09fGwryBvHh5I87ZDswLsf2WoXCr7CBE7+VxtIIOwI0yNlVhytcAWDoMpiE4N7oID89WMnhz+E7P+jWEhTCJhq8OhrAwGnj5Jb/QKqtQvacUZy3gjZqMdiJT8M/yDLwB3MnU3TO2p8wBw=;cuE4rY6fyTppOUE8GZUUsA=="
 ---
 
