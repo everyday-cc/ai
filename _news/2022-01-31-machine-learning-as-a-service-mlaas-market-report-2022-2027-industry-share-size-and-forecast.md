@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning as a Service (MLaaS) Market Report 2022-2027: Industry Share, Size and Future Scope"
+    excerpt: "Machine learning comprises a broad set of algorithms that are ... excellence and the widespread adoption of cloud-based solutions in the banking, financial services and insurance (BFSI) sector, have also created a positive outlook for the market."
+    publishedDateTime: 2022-02-03T13:23:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-report-2022-2027-industry-share-size-and-future-scope"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 41
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEiTsO5WFGrR2jbwtfT0yGgwqAPIXKWCIKyCJCbuZx_nrss0__bVmKWSlRKjJ5iieKzmNrODMyD2G43nxsugpU976WBApgT1L_TvG5zu71Xe1amWqX_Pqq2MCsAVVVl_c0qizgzL6w-Hc93DGvfeeK51rgJSCJ8H60ommeQxQvx-qrSAxo1iJHv0GPk=w519-h304"
+        width: 455
+        height: 304
+        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market : Industry Analysis, Size, Share, Growth, Trends and Forecast"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 03, 2022, 04:52 /Comserve / -- Machine Learning as a Service (MLaaS) Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent ..."
     publishedDateTime: 2022-02-03T10:40:00Z

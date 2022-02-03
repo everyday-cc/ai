@@ -2,6 +2,203 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-02-raffleai-secures-18-million-commitment-for-continued-expansion.md",
+      "title": "raffle.ai Secures $18 Million Commitment for Continued Expansion",
+      "excerpt": "PRNewswire/ -- raffle.ai, the next-gen enterprise search engine powered by artificial intelligence, today announced that it has raised an $18 million commitment from K1 Investment Management, a leading investment firm focused on high-growth enterprise software companies,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/raffle-ai-secures-18-million-commitment-for-continued-expansion-1031153691",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/raffle-ai-secures-18-million-commitment-for-continued-expansion-1031153691",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/882948/K1_Logo.jpg",
+          "width": 397,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-electric-sheep-turns-old-lawnmowers-into-robots.md",
+      "title": "Electric Sheep turns old lawnmowers into robots",
+      "excerpt": "A company that turns old lawn tech into state of the art robots got a big vote of confidence via major fundraising. Electric Sheep, whose name harkens to the Philip K. Dick novel upon which Blade Runner was based,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/electric-sheep-turns-old-lawnmowers-into-robots/",
+      "originalUrl": "https://www.zdnet.com/article/electric-sheep-turns-old-lawnmowers-into-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/50cd2f0335ec51b3848ec4da8142562e1997afe7/2022/01/31/b2d2f6d3-9281-43a6-b128-0c1004d57be6/electric-sheep.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/electric-sheep-turns-old-lawnmowers-into-robots/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/electric-sheep-turns-old-lawnmowers-into-robots/",
+      "publishedDateTime": "2022-02-02T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-five-fintech-predictions-for-2022.md",
+      "title": "Five Fintech Predictions For 2022",
+      "excerpt": "Automation solutions like robotic process automation (RPA) are ideal in increasing workplace efficiencies, while also eliminating cost-creating redundancies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/619bb0ad1e58e165649de1e8/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/",
+      "publishedDateTime": "2022-02-02T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-turkey-taps-artificial-intelligence-in-its-fight-against-wildfires.md",
+      "title": "Turkey taps artificial intelligence in its fight against wildfires",
+      "excerpt": "The Ministry of Agriculture and Forestry plans to implement artificial intelligence (AI) technology to tackle forest fires, which destroyed large swaths",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news",
+      "originalUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/02/02/thumbs/800x531/179522.jpg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news/amp",
+      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news/amp",
+      "publishedDateTime": "2022-02-02T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sabah",
+        "domain": "dailysabah.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-ai-could-cut-hiring-biases-as-companies-make-push-to-find-workers-proponents-say.md",
       "title": "AI Could Cut Hiring Biases as Companies Make Push to Find Workers, Proponents Say",
       "excerpt": "While the potential for bias in AI has been a concern, some say well-crafted algorithms can help companies be fairer in their hiring decisions.",
@@ -62,7 +259,7 @@
       "originalUrl": "https://techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -95,6 +292,99 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-chatbot-startup-gupshup-buys-knowlarity-in-100-million-deal.md",
+      "title": "Chatbot Startup Gupshup Buys Knowlarity in $100 Million Deal",
+      "excerpt": "Chatbot developer Gupshup Inc. said it is acquiring cloud communications startup Knowlarity Communications Pvt. to bolster its voice messaging and video solutions capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-02-02/chatbot-startup-gupshup-buys-knowlarity-in-100-million-deal",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-02-02/chatbot-startup-gupshup-buys-knowlarity-in-100-million-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7D8PmRMUYyk/v0/1200x681.png",
+          "width": 1200,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-01T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-alphabet-a-shares-googl-q4-2021-earnings-call-transcript.md",
+      "title": "Alphabet (A shares) (GOOGL) Q4 2021 Earnings Call Transcript",
+      "excerpt": "Q4 2021 Earnings CallFeb 01, 2022, 5:00 p.m. ETContents:  Prepared Remarks Questions and Answers Call Participants  Prepared Remarks:  OperatorWelcome, everyone, and thank you for standing by for the Alphabet's fourth quarter 2021 earnings conference call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/earnings/call-transcripts/2022/02/02/alphabet-a-shares-googl-q4-2021-earnings-call-tran/",
+      "originalUrl": "https://www.msn.com/en-us/money/companies/alphabet-a-shares-googl-q4-2021-earnings-call-transcript/ar-AATnP7H",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-01T21:00:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fool.com/earnings/call-transcripts/2022/02/02/alphabet-a-shares-googl-q4-2021-earnings-call-tran/",
+        "domain": "fool.com/earnings/call-transcripts/2022/02/02/alphabet-a-shares-googl-q4-2021-earnings-call-tran/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -146,6 +436,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-competitive-programming-with-alphacode.md",
+      "title": "Competitive programming with AlphaCode",
+      "excerpt": "As part of DeepMinds mission to solve intelligence, we created a system called AlphaCode that writes computer programs at a competitive level.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode",
+      "originalUrl": "https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/vz8uwIhCXl_JqJGaUoUessaut6aLXPffnRi4fq7M82o01WJOBKFIWkPLh6Hg-tvnJCLw6mKu-gEGUNIPftbm7xzwUfZFKRl9VW-Nl-IbIFcbgAiKh7A9",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -870,320 +1212,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-using-cosmic-radiation-to-make-art-with-ai-and-blockchain.md",
-      "title": "Using Cosmic Radiation To Make Art With AI And Blockchain",
-      "excerpt": "AI-generated image as part of art work initative Celestium on the International Space Station. Celestium, developed by Artificial Mind and the artist Cecilie Waagner Falkenstrøm, is a hybrid AI-blockchain algorithm that uses data from cosmic radiation it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f884edf630cd90e840ec2b/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1017,
-          "height": 1007,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/amp/",
-      "publishedDateTime": "2022-01-31T21:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-now-for-the-hard-part-deploying-ai-at-scale.md",
-      "title": "Now for the hard part: Deploying AI at scale",
-      "excerpt": "There's still a lot of work to do before organizations can push the value proposition and scalability of AI to its limits.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/31/now-for-the-hard-part-deploying-ai-at-scale/",
-      "originalUrl": "https://venturebeat.com/2022/01/31/now-for-the-hard-part-deploying-ai-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1337227407-e1643640496556.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/31/now-for-the-hard-part-deploying-ai-at-scale/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/31/now-for-the-hard-part-deploying-ai-at-scale/amp/",
-      "publishedDateTime": "2022-01-31T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse.md",
-      "title": "Meta builds AI Research SuperCluster for future AI and the metaverse",
-      "excerpt": "Each GPU communicates over a 200 Gb/s HDR Infiniband network ... Meta built the RSC to train large AI models in natural language processing (NLP), and to research and train models using trillions of examples. It will also aid in building AI that works ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527",
-      "originalUrl": "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2022/01/GettyImages-13075344431-696x391-1-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1",
-      "publishedDateTime": "2022-01-31T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-start-up-an-ai-powered-lending-revolution-with-upstart.md",
-      "title": "Start Up an AI-Powered Lending Revolution with Upstart",
-      "excerpt": "California-based Upstart (NASDAQ: UPST) is seeking to upend the lending business as we know it. More than your typical investment, a stake in UPST stock is a way to participate in a modern-day grassroots movement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/start-up-an-ai-powered-lending-revolution-with-upstart",
-      "originalUrl": "https://www.nasdaq.com/articles/start-up-an-ai-powered-lending-revolution-with-upstart",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/start-up-an-ai-powered-lending-revolution-with-upstart?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/start-up-an-ai-powered-lending-revolution-with-upstart?amp",
-      "publishedDateTime": "2022-01-31T12:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-airbnb-says-ai-program-thwarts-thousands-of-party-houses-in-florida.md",
-      "title": "Airbnb says AI program thwarts thousands of party houses in Florida",
-      "excerpt": "My issue is the proliferation of party houses,” said Rep. Dan Daley, perhaps the Legislature’s most strident advocate of effective regulation of vacation rental homes, during a committee debate last week.",
-      "sourceUrl": null,
-      "webUrl": "https://floridapolitics.com/archives/491186-airbnb-says-ai-program-thwarts-thousands-of-party-houses-in-florida/",
-      "originalUrl": "https://floridapolitics.com/archives/491379-airbnb-ai-program-party-houses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://floridapolitics.com/wp-content/uploads/2020/06/Airbnb-Large.jpeg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-31T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Florida Politics",
-        "domain": "floridapolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-scale-ai-awarded-250m-ai-contract-by-department-of-defense.md",
-      "title": "Scale AI awarded $250M AI contract by Department of Defense",
-      "excerpt": "Scale AI, a tech startup that focuses on the data that powers artificial intelligence, has won a nearly $250 million blanket purchasing agreement that aims to give all federal agencies access to its tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/scale-ai-awarded-250m-ai-contract-by-department-of-defense/",
-      "originalUrl": "https://www.fedscoop.com/scale-ai-awarded-250m-ai-contract-by-department-of-defense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fedscoop.com/wp-content/uploads/sites/5/2021/02/6492397.jpg?w=1200&h=500&crop=1",
-          "width": 1200,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-31T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-business-intelligence-startup-forwrd-emerges-from-stealth-with-35m.md",
-      "title": "Business intelligence startup Forwrd emerges from stealth with $3.5M",
-      "excerpt": "Israeli business intelligence startup Forwrd has come out of stealth with $3.5 million seed funding from Angular Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/31/business-intelligence-startup-forwrd-emerges-from-stealth-with-3-5m/",
-      "originalUrl": "https://venturebeat.com/2022/01/31/business-intelligence-startup-forwrd-emerges-from-stealth-with-3-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/analysis.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/31/business-intelligence-startup-forwrd-emerges-from-stealth-with-3-5m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/31/business-intelligence-startup-forwrd-emerges-from-stealth-with-3-5m/amp/",
-      "publishedDateTime": "2022-01-31T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

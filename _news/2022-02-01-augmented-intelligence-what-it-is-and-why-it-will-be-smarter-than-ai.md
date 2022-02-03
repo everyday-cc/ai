@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sciencefocus.com/future-technology/augmented-intelligenc
 cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/augmented-intelligence/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: BBC Focus
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Fulcrum Equity Partners Announces Investment in Supply Wisdom's AI/ML Risk Intelligence Platform"
+    excerpt: "ATLANTA, Feb. 3, 2022 /PRNewswire-PRWeb/ -- Fulcrum Equity Partners, an Atlanta-based growth equity firm, has announced an investment in Supply Wisdom, a global technology company that provides continuous third-party risk intelligence, monitoring ..."
+    publishedDateTime: 2022-02-03T13:16:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fulcrum-equity-partners-announces-investment-in-supply-wisdoms-ai-ml-risk-intelligence-platform/article_28edd364-aa29-55e8-88fe-bfde98f4b0d8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
   - title: "How Does Amazon Use Business Intelligence?"
     excerpt: "By using its recommendation engine, Amazon makes use of its data. While you are using Amazon’s website, it collects details about who you are and what you buy. As well as what you buy, Amazon keeps track of what items you viewed,"
     publishedDateTime: 2022-01-31T02:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/emergence-of-self-driving-cars-drives-the-gr
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "FOCUS-Self-driving car companies zoom ahead, leaving U.S. regulators behind"
-    excerpt: "Self-driving vehicle companies from Tesla Inc to General Motors Co's Cruise are racing to start making money with their technology, outrunning efforts by regulators and Congress to write rules of the road for robot-driven vehicles."
-    publishedDateTime: 2022-02-02T06:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind"
-    ampWebUrl: "https://www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 52
   - title: "Stunning Apple Car design imagines the self-driving car experience"
     excerpt: "Stunning Apple Car design renders imagine what the first-gen electric self-driving vehicle from Apple will look and feel like."
     publishedDateTime: 2022-02-01T12:31:00Z
@@ -54,20 +43,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2021/02/hyundai-e-gmp-electric-car-platform-december-2020-2.jpg?quality=82&strip=all"
         width: 1600
         height: 950
-        isCached: true
-  - title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
-    excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
-    publishedDateTime: 2022-01-30T00:37:00Z
-    webUrl: "https://www.futurecar.com/5166/Self-Driving-Lobbying-Group-Drops-‘Self-Driving’-in-New-Name"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 24
-    images:
-      - url: "https://img.futurecar.com/202201/29/l_61f5004608904.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "How We Get Self-Driving Back on Track in 2022"
     excerpt: "The AV industry has some of the smartest people in the world tirelessly working to make the dream of commercial self-driving cars a reality. We also have the funding to get there, and we all understand the immense positive societal impact this technology will have."

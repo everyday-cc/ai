@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -96,6 +96,20 @@ related:
       - url: "https://compote.slate.com/images/6e84f7ce-4227-46e1-b24a-83ad6d9d0e54.jpeg?width=780&height=520&rect=3858x2572&offset=0x1543"
         width: 780
         height: 520
+        isCached: true
+  - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-03T13:03:00Z
+    webUrl: "https://www.govexec.com/technology/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361499/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 25
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2022/02/02/020322faceidGE/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "US Treasury considers alternatives to ID.me biometrics for IRS online access"
     excerpt: "An IRS contract being served by ID.me is continuing to generate controversy based on the use of facial recognition and biometric authentication."

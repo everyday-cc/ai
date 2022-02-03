@@ -93,6 +93,20 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 53
+  - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-03T13:03:00Z
+    webUrl: "https://www.govexec.com/technology/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361499/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 25
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2022/02/02/020322faceidGE/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "US Treasury considers alternatives to ID.me biometrics for IRS online access"
     excerpt: "An IRS contract being served by ID.me is continuing to generate controversy based on the use of facial recognition and biometric authentication."
     publishedDateTime: 2022-01-31T19:20:00Z

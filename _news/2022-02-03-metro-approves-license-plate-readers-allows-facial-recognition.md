@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Clearview: Glasses With Facial Recognition Are Here And The Air Force Has Them"
+    excerpt: "Clearview AI is bringing glasses with facial recognition to the Air Force. Meanwhile, it's selling to the FBI and ICE, despite concerns over the technology. Clearview AI, the facial recognition company backed by Facebook and Palantir investor Peter Thiel ..."
+    publishedDateTime: 2022-02-03T14:13:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2022/02/03/clearview-ai-glasses-with-facial-recognition-are-here-and-the-air-force-is-using-them/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61fbe16d5551f14b1679be48/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 633
+        isCached: true
   - title: "IRS will start using facial recognition to access tax information"
     excerpt: "Why will you soon have to scan your face to access your IRS tax information? You will still be able to file your tax return the old-fashioned way, with paper documents sent via snail mail. But by this summer,"
     publishedDateTime: 2022-01-31T12:57:00Z

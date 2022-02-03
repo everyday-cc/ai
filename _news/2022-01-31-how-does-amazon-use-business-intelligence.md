@@ -35,6 +35,15 @@ related:
         width: 960
         height: 413
         isCached: true
+  - title: "Fulcrum Equity Partners Announces Investment in Supply Wisdom's AI/ML Risk Intelligence Platform"
+    excerpt: "ATLANTA, Feb. 3, 2022 /PRNewswire-PRWeb/ -- Fulcrum Equity Partners, an Atlanta-based growth equity firm, has announced an investment in Supply Wisdom, a global technology company that provides continuous third-party risk intelligence, monitoring ..."
+    publishedDateTime: 2022-02-03T13:16:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fulcrum-equity-partners-announces-investment-in-supply-wisdoms-ai-ml-risk-intelligence-platform/article_28edd364-aa29-55e8-88fe-bfde98f4b0d8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
 
 secured: "jOv+lZLpNa4+awevvrIAOArH7dVKhs5y8E4tOMmkiI3tfxX0X7+yRQAxzsY8gKgFC9C+eZdV4p5ByINcRm+/eQZx5tqMqz979XamfkI0++uvExPq+jotdIx0qP22eONm0YPjg1ZaAd2g+iOdoeqyRCEV0Ljnh4lcbh25t3shaafrAs5/52yKllrh/+T56nAMbWfx/ORDWzpha8ttm+yPBaV3Ijl1zSFVkoY55iHRosNjgOLconwk+yMGlOqaMlsRRpwAUxMkt4Acw2vTEiKotZVfHA+a8RbwcgUp2H48q4ivl/bKoAsHRvviq9try/rmsFmHe99zSDn6FIdzIaCy98gOy24b+UIy5lRCU+7Lph8=;WCc4/a8adf7+FNMK9czqMg=="
 ---

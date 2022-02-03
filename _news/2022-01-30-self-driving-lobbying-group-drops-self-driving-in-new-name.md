@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Emergence of Self-Driving Cars Drives the Growth in Machine Learning Market"
-    excerpt: "An essential component of centralized electronic control unit or ECU of a driverless car, machine learning technological solutions are expected to witness substantial demand in coming years. The solutions in the global machine learning market are anticipated to experience heightened demand owing to their application in self-driving cars."
-    publishedDateTime: 2022-02-02T09:19:00Z
-    webUrl: "https://techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/"
-    ampWebUrl: "https://techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/amp/"
+  - title: "Watch Toyota’s outrageous self-driving Supra drift car go sideways"
+    excerpt: "As the automotive community awaits the dawn of a fully autonomous, self-driving car, the Toyota Research Institute (TRI) has other things in mind. Care for a self-drifting vehicle, specifically a new Supra with Toyota’s Nonlinear Model Predictive Control ..."
+    publishedDateTime: 2022-02-03T14:35:00Z
+    webUrl: "https://www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/"
+    ampWebUrl: "https://www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/02/Machine-Learning-Market.jpeg"
-        width: 1728
-        height: 1094
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/02/Screenshot-16.v1.cropped.jpg"
+        width: 1440
+        height: 589
         isCached: true
   - title: "FOCUS-Self-driving car companies zoom ahead, leaving U.S. regulators behind"
     excerpt: "Self-driving vehicle companies from Tesla Inc to General Motors Co's Cruise are racing to start making money with their technology, outrunning efforts by regulators and Congress to write rules of the road for robot-driven vehicles."
@@ -52,63 +52,35 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 52
-  - title: "Stunning Apple Car design imagines the self-driving car experience"
-    excerpt: "Stunning Apple Car design renders imagine what the first-gen electric self-driving vehicle from Apple will look and feel like."
-    publishedDateTime: 2022-02-01T12:31:00Z
-    webUrl: "https://bgr.com/tech/stunning-apple-car-design-imagine-the-self-driving-car-experience/"
-    ampWebUrl: "https://bgr.com/tech/stunning-apple-car-design-imagine-the-self-driving-car-experience/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/stunning-apple-car-design-imagine-the-self-driving-car-experience/amp/"
+  - title: "Watch Toyota showing off self-driving drift car with tech that can take over when things get slippery"
+    excerpt: "THE TECHNOLOGY behind a new self-driving drift car from Toyota is being hailed as an important safety breakthrough for road cars Using a Toyota GR Supra as a base car, the Toyota Research Institute (TRI), a US-based R&D arm of the Japanese car-maker ..."
+    publishedDateTime: 2022-02-03T14:20:00Z
+    webUrl: "https://www.driving.co.uk/video/watch-toyota-showing-off-self-driving-drift-car-with-tech-that-can-take-over-when-things-get-slippery/"
+    ampWebUrl: "https://www.driving.co.uk/video/watch-toyota-showing-off-self-driving-drift-car-with-tech-that-can-take-over-when-things-get-slippery/amp/"
+    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/video/watch-toyota-showing-off-self-driving-drift-car-with-tech-that-can-take-over-when-things-get-slippery/amp/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 44
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 29
     images:
-      - url: "https://bgr.com/wp-content/uploads/2021/02/hyundai-e-gmp-electric-car-platform-december-2020-2.jpg?quality=82&strip=all"
-        width: 1600
-        height: 950
+      - url: "https://i.ytimg.com/vi/MfU5_gzqPaM/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
-  - title: "How We Get Self-Driving Back on Track in 2022"
-    excerpt: "The AV industry has some of the smartest people in the world tirelessly working to make the dream of commercial self-driving cars a reality. We also have the funding to get there, and we all understand the immense positive societal impact this technology will have."
-    publishedDateTime: 2022-01-31T19:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-we-get-self-driving-back-track-2022-raquel-urtasun"
+  - title: "NEWS TAGGED SELF-DRIVING CAR"
+    excerpt: "Mercedes-Benz recently announced its Level 3 self-driving system Drive Pilot has been approved by the German Federal Motor Transport Authority (KBA) and can now operate on roads i"
+    publishedDateTime: 2022-02-03T09:17:00Z
+    webUrl: "https://www.digitimes.com/tag/self-driving_car/00111368.html"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: Digi Times
+      domain: digitimes.com
     quality: 24
     images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
-  - title: "BigBear.ai Advances Commercial Market Growth Strategy with Appointment of B2B Marketing Expert Carla Fitzgerald as Chief Marketing Officer"
-    excerpt: "Fitzgerald brings more than 25 years of B2B-focused technology marketing experience with public and private global companies, including companies that do business with the Federal government. She specializes in providing innovative go-to-market strategies for SaaS and enterprise software businesses,"
-    publishedDateTime: 2022-01-31T12:02:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/bigbear-ai-advances-commercial-market-growth-strategy-with-appointment-of-b2b-marketing-expert-carla-fitzgerald/article_c0a06fdd-04ca-5e42-9327-25a3cb6ee77d.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 20
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/0/50/05050457-cec8-5551-8736-2a1ea83556f4/61f7e20133ae4.image.jpg?resize=400%2C500"
-        width: 400
-        height: 500
-        isCached: true
-  - title: "Self-driving Car Market to Eyewitness Stunning Growth by 2028 Covid-19 Analysis | General Motors, Ford, Daimler, Volkswagen"
-    excerpt: "Stratagem Market Insights‘ market research study highlights the key reasons behind the increasing demand for Self-driving Car. This detailed market report is transferred to the data based on an extensive survey of the current market. Information about ..."
-    publishedDateTime: 2022-02-02T20:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-to-eyewitness-stunning-growth-by-2028-covid-19-analysis-general-motors-ford-daimler-volkswagen"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
-    images:
-      - url: "https://marketresearchinsights2017.files.wordpress.com/2022/02/market-research-2.png"
-        width: 1024
-        height: 600
+      - url: "https://ad.digitimes.com.tw/webadImg/en_20220119_semiconductor_bigbutton.jpg"
+        width: 336
+        height: 280
         isCached: true
 
 secured: "4W2s+16I4wCLMUYBfzfAuHYHlsp3MIP/7+QogBXrp7/x42hiAjYnZod7bd3HWjWgQVvrqIFoLO9eh2mQ4kiKbiTpZ0TRlZeIacgrnYagGeZ3msUwvBlLPJh89haeA2BZxF/O/vcEBORGJbvVw/6LDypqfGXubTTmg9wG62OaT7JiFjxZcMfXkfhYhSDui1c15Bi/hsNWxp6RWJYMqSS+FnORcLeGW/vGhSZd0jHys5G4FsLOazGwwehzEdsfbT01EHs+Ho/q82tCS1+6dDPWbh9GEV5ZpbH3Yzid7XNF9VzkR5ifIvBlCeLs887SllVH4en/twoSFtRqak2hsFzIzSm984dt5y10UHHkVg5qS4oTCBLNgxFZKoXU5tqyahXnnKQzD52QgTgEcygehYQjoKKo9pBFmIJ5sdhPTBQwp5koLs0gJQrzpEv1ots6xiZ8MsEu7oPZNKkfei1DNENlw562i56pCnAxQY12Ef2s4Uy4614Oqd0I3oNTxi/A+TOdggih+Hf/c1/8JHeU/RTt5w==;SloaI9BqQlSKHWIXTFBQmw=="

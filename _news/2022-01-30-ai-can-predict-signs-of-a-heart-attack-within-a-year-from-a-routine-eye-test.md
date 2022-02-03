@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-wit
 cdnAmpWebUrl: "https://www-wrbl-com.cdn.ampproject.org/c/s/www.wrbl.com/news/ai-can-predict-signs-of-a-heart-attack-within-a-year-from-a-routine-eye-test/amp/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: WRBL
@@ -40,22 +40,6 @@ related:
     quality: 53
     images:
       - url: "https://fox8.com/wp-content/uploads/sites/12/2022/01/eye-scan.jpg?w=1280"
-        width: 1280
-        height: 813
-        isCached: true
-  - title: "Artificial intelligence system can predict signs of a heart attack using routine eye test"
-    excerpt: "An artificial intelligence system is capable of spotting whether someone will have a heart attack within the next year — through a routine eye scan."
-    publishedDateTime: 2022-01-29T21:39:00Z
-    webUrl: "https://www.wbtw.com/health/artificial-intelligence-system-can-predict-signs-of-a-heart-attack-using-routine-eye-test/"
-    ampWebUrl: "https://www.wbtw.com/health/artificial-intelligence-system-can-predict-signs-of-a-heart-attack-using-routine-eye-test/amp/"
-    cdnAmpWebUrl: "https://www-wbtw-com.cdn.ampproject.org/c/s/www.wbtw.com/health/artificial-intelligence-system-can-predict-signs-of-a-heart-attack-using-routine-eye-test/amp/"
-    type: article
-    provider:
-      name: WBTW
-      domain: wbtw.com
-    quality: 50
-    images:
-      - url: "https://www.wbtw.com/wp-content/uploads/sites/22/2022/01/eye-scan.jpg?w=1280"
         width: 1280
         height: 813
         isCached: true

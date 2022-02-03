@@ -9,8 +9,8 @@ ampWebUrl: "https://www.geekwire.com/2022/cybersecurity-startup-plextrac-raises-
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/cybersecurity-startup-plextrac-raises-70m/amp/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: GeekWire
@@ -24,19 +24,21 @@ topics:
   - AI
 
 related:
-  - title: "Cybersecurity Services Market to Witness Huge Growth by 2029 | IBM, Symantec, Micro Focus"
-    excerpt: "The Advances in artificial intelligence (AI), machine learning (ML) and the Internet of Things ... healthcare, pharmaceuticals, financial services, energy, technology, real estate, logistics, F & B, media, etc. but also your company data, country profiles ..."
-    publishedDateTime: 2022-02-02T14:22:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cybersecurity-services-market-to-witness-huge-growth-by-2029-ibm-symantec-micro-focus"
+  - title: "Virtual CISO startup Cynomi raises $3.5M to help SMBs automate cybersecurity"
+    excerpt: "Cynomi, an Israeli cybersecurity startup that has built a virtual CISO ... human component and instead uses artificial intelligence (AI) technology to emulate a human CISO and automate previously ..."
+    publishedDateTime: 2022-02-03T14:36:00Z
+    webUrl: "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/"
+    ampWebUrl: "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
     images:
-      - url: "https://www.market-news.org/wp-content/uploads/2022/02/Cybersecurity-Services.jpg"
-        width: 600
-        height: 363
+      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-174074147.jpg?w=1024"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "gjiXc7YNUXGYRfhI+OdaBMvUPVSvY52wVDwVQWH6NjJwPXDi6l3NPn3sTiK+6Km5Hz43KMKZkzYCDWvrpqF/XobXq0B+/fXhIKLGJxpEN3dNz72C9X1+9yp1xGveOP60WqMP/AVZJAMtwDFaSRvVrNN30ZeNerY69cvPjla+NEuB1/JlYDVMqPtESrX6uzwG0H/O41pz4mcsiQHI4m0aeVr2JbcGZEqt/dksLLDdLBza+9sZCj0P4d8+faIO4SXofOwOMuMlcNhWYRXWykQh+rkDyfdp/T6ddWBeQWxOK60Z1pTOhDPhFn9X8SAs44AWHbVjr38tiJpUQirZ1DLWRlTKsg9m7YBOik2OTanmfEmjMUZJUH0FI+4RzfN6u+zlDbVMxSe8RGDjFFWft4sdXgwFRH4wwTCupTh3gy/dr8ttuvNKxIs5xJ3eTL4jJMoiTYnqafIjDzbPhi0HCorBHHig1Cjjj8tYXJ4V24gWgcXRjuK1uvQnowGBJw+Y/HC4TKOr65C0r4VFw3Icj0YsiA==;NTRiDScKNbcQ5wbx0Q+cLA=="

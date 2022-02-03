@@ -872,6 +872,40 @@
       ]
     },
     {
+      "path": "_news/2022-01-20-elogic-hires-manufacturing-leader-as-industry-solution-architect.md",
+      "title": "eLogic Hires Manufacturing Leader as Industry Solution Architect",
+      "excerpt": "Azure Machine Learning, Azure SQL, and Azure Data Lake. \"I am excited to start this new phase of my career and leverage my extensive functional and technical experience to help manufacturers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/elogic-hires-manufacturing-leader-as-industry-solution-architect/article_63ee750f-398c-5c0d-9562-d27909ffc145.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/elogic-hires-manufacturing-leader-as-industry-solution-architect/article_63ee750f-398c-5c0d-9562-d27909ffc145.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-20T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-ontrak-announces-behavioral-health-industry-leading-end-to-end-ai-services-across-entire-care-journey.md",
       "title": "Ontrak Announces Behavioral Health Industry Leading End To End AI Services Across Entire Care Journey",
       "excerpt": "Ontrak, Inc (\"Ontrak\" or the \"Company\"), a leading AI-powered and telehealth-enabled healthcare company, today announced that its behavioral health industry-leading intervention platform will integrate AI services that wrap around members at",
@@ -1375,58 +1409,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-walgreens-moves-to-ai-driven-search-experience-with-algolia.md",
-      "title": "Walgreens moves to AI-driven search experience with Algolia",
-      "excerpt": "The companies hope to provide an AI-driven solution that analyzes users' search terms, predict their intent, and deliver more search results.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/",
-      "originalUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/Walgreens_store-e1621433287338.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/17/walgreens-moves-to-ai-driven-search-experience-with-algolia/amp/",
-      "publishedDateTime": "2022-01-17T19:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
