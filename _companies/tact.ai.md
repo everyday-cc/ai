@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "tact_ai"
   url: "https://twitter.com/tact_ai"
-  followers: 1297
+  followers: 1298
 
 size: 51-200 employees
 yearFounded: 2012
