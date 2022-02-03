@@ -43,6 +43,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "We took a ‘self-driving’ Tesla for a spin in Boston. Here’s how it did."
+    excerpt: "For all the wrong reasons. It all started with a tweet from a Boston driver named Taylor Ogan. He drove his Black Tesla Model Y on self-driving mode around South Boston, showing in a video how it fails to navigate city streets properly. This was ..."
+    publishedDateTime: 2022-02-03T16:01:00Z
+    webUrl: "https://www.bostonglobe.com/2022/02/03/business/we-took-self-driving-tesla-spin-boston-heres-how-it-did/"
+    ampWebUrl: "https://www.bostonglobe.com/2022/02/03/business/we-took-self-driving-tesla-spin-boston-heres-how-it-did/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2022/02/03/business/we-took-self-driving-tesla-spin-boston-heres-how-it-did/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 59
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/oJvWD55Zh5WvZpGaRqcCWOPgyvU=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SHFXT2JS74SHR5IZM6TDOO3ZDA.jpg"
+        width: 506
+        height: 337
+        isCached: true
 
 secured: "8vCI+VcSQRt77nxFYmz0esedWMR7wulEvERzPB6WoR1wiVDwYQvjqJ3fFqGaZz28fdZbEhauqSSd7QrNbg7ZyrFUrsNSprlrUJSqc9PK1N9NabnbEQumKdGUrcpI/aMSlvqkkkX6TfTjSCU9yvcd6lDSlg8+2eEeA35lZNrZBFJwFJ1t1eGV4sc1IQuweg/sJtK4dKZmF4NMVyS6UmQT0Cv/2Pm4mbllBPavEUx8Ch3Qy9g9DTtp+TzSlqFcsJlDXg0PT0xmNkTdfYO2jkuLajAHviNsLt4z2/Es0g1As0iqPgKG5tAVYg4ODzwLzZICJPpLYG0cOb55twKjyw42VH70TyTqmSBenZkOlMMg+zz5r75PSmRG6uHhr6uV63MIqRDdEW3kfBGupKTbTbagdv1f7sRVZvxVJ1+LryRl2b0lx2tYaghuT6GZ1P43xlhowsDP13w5LEc64xa+uQ6mjWXDGGuk3TaQlE+SHbm7EkbVxMsIu2+NOh1BC+EGRajwsHEFBv0eD/4rXOLuD5LtPw==;CVPW6hG1/TArzSSJ0BIwSw=="
 ---

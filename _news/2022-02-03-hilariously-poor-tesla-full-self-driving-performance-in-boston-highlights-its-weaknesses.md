@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-d
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/amp/"
 type: article
 quality: 65
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "We took a ‘self-driving’ Tesla for a spin in Boston. Here’s how it did."
+    excerpt: "For all the wrong reasons. It all started with a tweet from a Boston driver named Taylor Ogan. He drove his Black Tesla Model Y on self-driving mode around South Boston, showing in a video how it fails to navigate city streets properly. This was ..."
+    publishedDateTime: 2022-02-03T16:01:00Z
+    webUrl: "https://www.bostonglobe.com/2022/02/03/business/we-took-self-driving-tesla-spin-boston-heres-how-it-did/"
+    ampWebUrl: "https://www.bostonglobe.com/2022/02/03/business/we-took-self-driving-tesla-spin-boston-heres-how-it-did/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2022/02/03/business/we-took-self-driving-tesla-spin-boston-heres-how-it-did/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 59
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/oJvWD55Zh5WvZpGaRqcCWOPgyvU=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SHFXT2JS74SHR5IZM6TDOO3ZDA.jpg"
+        width: 506
+        height: 337
+        isCached: true
   - title: "Self-driving Tesla does ‘the craziest things you can imagine’: Boston man’s viral video shows autopilot dangers"
     excerpt: "A video of a Tesla driving itself in Boston shows issues with the company's \"Full Self-Driving\" beta program. Read more on Boston.com."
     publishedDateTime: 2022-02-02T05:11:00Z

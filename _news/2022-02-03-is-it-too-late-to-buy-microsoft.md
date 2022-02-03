@@ -2,9 +2,9 @@
 category: news
 title: "Is It Too Late to Buy Microsoft?"
 excerpt: "Integrating AI and machine learning into its cloud and enterprise software ... the intelligent cloud platform, which consists of Azure, GitHub, server products, and other cloud-based services such as databases, is growing faster than overall revenue ..."
-publishedDateTime: 2022-02-03T12:23:00Z
-originalUrl: "https://www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft"
-webUrl: "https://www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft"
+publishedDateTime: 2022-02-03T13:24:00Z
+originalUrl: "https://www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft?time=1643889902"
+webUrl: "https://www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft?time=1643889902"
 ampWebUrl: "https://www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft?amp"
 type: article
@@ -38,6 +38,6 @@ related:
         height: 428
         isCached: true
 
-secured: "wG/qvdeSZg+gn0yzGf3HOSRwYRBg/ZP7P3IbW3mThMliSXsLXLPmDRrZeRPI+15SHaXS4rD00frT1CSTOFscn+yK08I4gvMpr7flmboObUHzX/k2weicrw4KlS1B69g+01E/ilyeJcaXJLoPImCcfDzTFgw71Sg5gBWR6XhhZqYoFF2EKHjDqK6I73/YX1S7O/9zjbAr+S4P+3koRBO4hg6ac9/QETcN2Cd37OHtZgRt1jAg7ddWHTQDnAKrALq9DjKxU/kJmbISvhzthSz8IJafsr0xQVBm0jGD4xsppmoNuN04NX6ciBuFZPIP6REU8vpYterPu0VuTsB2NMHnhmlSN71bNu3Bpz/7a9yTI9Q=;/z5Hdf/e79FJj4ZzdKOvCQ=="
+secured: "Y8kllJ9Ec+PntJeIREnRCc22qMnf5vBhlgZKa7yVWWwLpUpusdp9XVS1ctJ9mO+8iJoAjCkpB31M7JSSJNT90c1G+QK9a6LP9kQkSkwfjxOsskrA/PZBZ6mp5Qgk04uOaOnwrqpPa9QLL1gCjODNggdor5o+6a/ghLMcpZN5MesXj5lInjy45+Bl7qsok7QwtEk2MDSjQY2LN/+ks4Di2250mcVI0Nb4CsryAYCuDbC6KPTAG+hv7QP0zzToI3cpfi4Vh+3fMeB7vvHknRNKP0pZgokOPDNRc5R4sj3ncLZ+Y/IxUt4es2HQufW3KrrTEZga4LP8+XRCRe974I9NfQfGFmk8ox4srXUoBu8cYOQ=;wTYvPJ8RzxTy3moA8nOqBw=="
 ---
 

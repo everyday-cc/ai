@@ -73,7 +73,21 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Google’s DeepMind AI can now code better than humans"
+    excerpt: "Google’s artificial intelligence division DeepMind has developed a powerful AI system capable of beating humans at competitive computer programming. DeepMind evaluated its AlphaCode system by simulating participation in 10 recent coding contests hosted ..."
+    publishedDateTime: 2022-02-03T16:35:00Z
+    webUrl: "https://www.independent.co.uk/tech/google-deepmind-artificial-intelligence-coding-b2006940.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 54
+    images:
+      - url: "https://static.independent.co.uk/2022/02/03/14/deepmind%20ai%20coding.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 901
+        isCached: true
 
-secured: "eZ5UTaT3KW3P6zINqF/fbNfZ6VwRTX+fJXPKleBqRQjgHU70+fINeN+L081hXtUwmyFyULL31EVhpiTi8yLRggLkPYOmrLuXZSKs3qiIKUH7nNYrTS3kirGm3lEMHlINtjiYKG/82p5f1l+NlpZIQ6WhtXbDs7mB2/Usn3YEQebH4FctAIeGOu4i+rSomjVY8rYmZavMTQKst9hOj1hYv7ojhRsKP6VPvP7QWYZOl8vpjamoS0kP6MX5zXwZhvCONAprAXkATw7GxIlKS6TiZFBmk3rUAB5EzOdiGZHmWEu6N1dMouJs8p4v+AJ65zPouHFBIoGcF0OesAevHrNtOvK6Jp7OxkXMU2bUzsEkfWU=;iKuReh7men7rMT8cTF3dWw=="
+secured: "zte5Jrlt4wfU8CnMQR8u8CzvJ7Df3hAtxxgeSkk722BianvnXUrgRmtiXiivWepel327Y657lxRjJRIGs8YkPW09i50fn1bV24z8lmw5dR3CR0pRhjGDG4dRPdE3Kqcl4bGGOaA3aKPQwuN29G3vcf817Tcd/0zKDfWvQunNo94Bhro+aKaeZdt+GARtymqIqImPDjq+UaMCFoOwGGji+idRZNrViw+9Uj4ZkbCG0yeaKphl2TYzG2FLhWA0jmXQLY0Jph6f+6jWu+3Jkki8zrlhZFEP5/XE6c0YC0Q1BSMkYLgMTEcb0EiZh1IJSudZX02yi+iL34ib61gj4dFdgd2dZchTMfkrqeTPZinIlArIHazkmltG7KFWC6xaBcFAdYvpY/z4e1xkoEkiijGC1g7R1oK96/C6z7nMbmLbbTcJNXH7pYvj3UoA7IiE+fNtKHO/jll9WIOw3u0q7qfPdcxsDUWUHttRbth/7pDSJW2tuXpblunOWeAbu3SvgvAf4tun5UZdPMvA5WqFErALIw==;26Oha18c7qr/sONaMdAuQA=="
 ---
 

@@ -515,6 +515,20 @@ related:
       name: Wichita Eagle
       domain: kansas.com
     quality: 39
+  - title: "Testing a self-driving Tesla in Boston. What could go wrong?"
+    excerpt: "Globe tech reporter Pranshu Verma tagged along as Boston driver Taylor Ogan drove his Black Tesla Model Y on \"full self-driving\" mode around South Boston. “Full self-driving” is a feature in beta testing that Tesla drivers can pay upwards of $12,000 to ..."
+    publishedDateTime: 2022-02-03T15:30:00Z
+    webUrl: "https://www.bostonglobe.com/video/2022/02/03/business/technology/testing-a-self-driving-tesla-in-boston-what-could-go-wrong/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
+    images:
+      - url: "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=315"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla issues a Full Self-Driving recall because vehicles weren’t stopping at stop signs"
     excerpt: "Tesla’s Full Self-Driving feature has been on regulators’ radar since its inception. Now, the company is facing a Full Self-Driving recall for nearly 54,000 vehicles due to an issue with stop signs. Essentially,"
     publishedDateTime: 2022-02-01T13:23:00Z

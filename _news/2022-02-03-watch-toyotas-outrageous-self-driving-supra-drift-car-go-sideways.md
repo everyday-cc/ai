@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/watch-toyotas-outrageous-self-driving-supr
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
-    excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
-    publishedDateTime: 2022-01-30T00:37:00Z
-    webUrl: "https://www.futurecar.com/5166/Self-Driving-Lobbying-Group-Drops-‘Self-Driving’-in-New-Name"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 24
-    images:
-      - url: "https://img.futurecar.com/202201/29/l_61f5004608904.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "NEWS TAGGED SELF-DRIVING CAR"
     excerpt: "Mercedes-Benz recently announced its Level 3 self-driving system Drive Pilot has been approved by the German Federal Motor Transport Authority (KBA) and can now operate on roads i"
     publishedDateTime: 2022-02-03T09:17:00Z
@@ -87,6 +73,6 @@ related:
         height: 280
         isCached: true
 
-secured: "OBjK1/DsKKsPcwA/dJL9VRQM6Ox7Apl7hBFYHetRELTuZJ964POydpSE4rpLxoAMxOspyrqkUtYRvqhoWfl6KhSRRc8AKyY+EIq/zmtXRzpfPGVJADCPDbldyPwNk3N/0jUDUkbUhNvknPhKpjnKMJ9zIJrwKy8rbzerja/bSC9bK4xZtn9CbVOqr/Ji0nqpLOK4CfzEBB4x8oIFCWOSwQx8hkuZx9p+fG1o4Og8sljoEIil03GGId/iGia8P93Xo7rSxF9GdZgXri2NroCzpn0jJkZkbeSO3ga0feQ3D87dvXNlifkGt1kaIK4/D5pRMyXVxItQUMWjt24EUOh3EqZjF362hcAp6r8UPMZQ+gI=;59P9cchCk1Dyt8ZrsI8GPw=="
+secured: "iSbusqvDw/Lok3Iz1YivGrw1wGhnycrtcpnyydesc0pNam1J+r+ztGqZS+X/5B1bfRh6X0PipKs6eQW5fpAzbkazCjXUPJQkBmp4coLbSJ1PaS/5G3XHxTbKat/IDfVUE+m5Xvm79CSRgyqCvldWNkSYEFUiM4ijFOq9Eqw3YyKQXRKyUawkZYvujByI6zbtQ+fjAT4EJW5xokLRptDxcSfBNihqHL/9BwkkvYGmahIAClRacHdVT+VMuBV0TdT8X4sFRkqgdNLoyfL5xwS2Vmh84Ug6uAF12KB7pNJWVytbY4xM8xoz7zLjm3XanuJixvefdH2d6GdpkRL69dln/nGbyXqha7mSjNfSWraZgk3Rs+9rwMgq1y5mFln9Fr9JOucrFqpI+7iuPszi2lHK0CT7tG/rk/8v0eVn0WbovuG6/7yFI6l3f6xExumrpuajGI9U7sfLXIApEwMj1//YVqw4TxLup30q78HHzeuw6iv35+XpG3cJ30gQyCTqHc0P/p9o62dzQj6PmXrXgS9WXQ==;/SeWS4JGFp25yN6tGe7UAg=="
 ---
 

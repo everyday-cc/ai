@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-statistics-i
 webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-statistics-industry-growth-and-demand-analysis-research-report-by-2027"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Speech Recognition (ASR) Software Market is expected to reach a substantially Growth by 2027"
-    excerpt: "The global Automatic Speech Recognition (ASR) Software market research report forecast to 2028 has been recently published by Reports and Data to help user understand the current market scenario. The report offers a detailed analysis of market size ..."
-    publishedDateTime: 2022-01-31T00:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/automatic-speech-recognition-asr-software-market-is-expected-to-reach-a-substantially-growth-by-2027-2"
+  - title: "Overview of the fintech industry: stats, trends, and companies in the ecosystem market research report"
+    excerpt: "In recent years, we've seen a ballooning of activity in fintech — an expansive term applied to technology-driven disruptions in financial services, where financial companies and startups use artificial intelligence (AI) and other tech in their day-to-day ..."
+    publishedDateTime: 2022-02-03T16:02:00Z
+    webUrl: "https://www.businessinsider.com/fintech-ecosystem-report"
+    ampWebUrl: "https://www.businessinsider.com/fintech-ecosystem-report?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-ecosystem-report?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/5fa2c30f69331a0011bc738d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "FinTech Blockchain Market: Meticulous Research® Reveals Why This Market is Growing at a CAGR of 59.9% to Reach $36.04 Billion by 2028"
+    excerpt: "Higher blockchain & AI adoption in the region is contributing to the continued transition toward FinTech blockchain technology. Besides, the majority of established FinTech blockchain players and a conducive environment for budding start-ups are expected ..."
+    publishedDateTime: 2022-02-03T06:56:00Z
+    webUrl: "https://www.digitaljournal.com/pr/fintech-blockchain-market-meticulous-research-reveals-why-this-market-is-growing-at-a-cagr-of-59-9-to-reach-36-04-billion-by-2028"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 23
+    quality: 8
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/f7a69d877923f8b2435d63dfc02962bbaf6ce22e-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-5-600x337.png"
         width: 600
         height: 337
-        isCached: true
-  - title: "Worldwide Autonomous Mobile Robot Industry to 2030 - Featuring Peer Robotics, Verizon and Omron Adept Technologies Among Others - ResearchAndMarkets.c"
-    excerpt: "The \"Autonomous Mobile Robot Market by Type, by Application, and by End-User - Global Opportunity Analysis and Industry Forecast 2022-2030\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2022-01-31T14:24:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=608552"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "AP0J/hJBGoYO6c/nUerdKtK5dAdMSgPd/FR6XFJ1/sEkibGkPtU+52Gv74Hwkyqbp1f7Rpzj/XqYCKD56M6GmSiFnGVwDfTHPrpQYCvlwS7r2gEThyVcJoCebJ0uh31w1eiD7vzLeAh2kI1221rdU8IjMLHDHDmRLbHoTCTrr4gir/+gb5f7bhL6XLyIZdycWzCfSc0oWtsTOfH5yRKdVv5cmU+lIQxPsz6U+cQVtaykcUZrEFO11K15HeehpR/y1p58VrWhXiDVjg24UombkZgSrzkxx+QntdwbhBHuAnqcdkAym0z1Tmw9H9jRNFHbrGMq2jahMVKm7bEMiA+HI6M7IMF5r9vpnWGWUh48HEQ=;GUW4Wec3WUedkmuU0AxWxQ=="

@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-03T14:50:00Z
 originalUrl: "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication"
 webUrl: "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication"
 type: article
-quality: 69
-heat: 119
+quality: 71
+heat: 121
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI Ethics
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FAIvHumanHed.jpg&signature=1d49fa78f49d046b9d0e17884d4723b0"
@@ -91,6 +92,6 @@ related:
       domain: finextra.com
     quality: 19
 
-secured: "Z1b59lpMc6tKGbR7Nhgxlvup+wQdV2i0ppVC/8C6W2y5Xb7jiJhKDv3yHhOmTnez77e1zNN84fZWii0UOZepVDVGX/TGLYs6fSx24Z6qvq59mPHwmEXusyhPXWFiBj0gv0fsTHZqq4yaStOKWb948PVx3pN3vbybayuZ2zcr5R7iTSpblRxMivIDlYrydFn/sU6DJUWZn61mRXeevD3UPtmdp7hTvp5Zo64D3BOmME6bp8STQNlmjW6HdLxMZNvYyHdv9WedGiKNewQbVxNnMSUjxN/yHHEAakj/AMii1cLv93fHZZdvHdZLlp5et4QrNGi+S9igylZI7gYtFgEq83nBo1vykqQiBg6cRn2AzUk=;1hvw799D6tLA7IgnMpGCTA=="
+secured: "fyKXURRi0GX+SkAI2RfmE04VRwHbI094EM23RoVLkdL9eiHVpWgYogTzRSPfL3DtvDX88ka9cQHocykB9BWKbZqosSnTZ2eLgORHGXenGj3QGmTU3s8Eqdknp2SMsq4xSCHWvY30dwAAgNMLjoGX/8rYkdGlcwtZMiZRUjd8FBp+sW0oXjNXT+r6eghpkeexvUdsXX8g7QBDM4+DpM7g1ZAFzmIXH23FVI29DGm8PiFpntMRFsVOFfxUDfm/0Xf5PT/T4d8FXDMKlLDA78paFc9uaET3RoAGNIsB9LMn602VUtyaJVJLOUkZie2hjeUfzLEok0+z+kDfXbNTI4hIRmVGA0HqoVLkqpKKFuJmnDXkaIg3SKnfNJzkdL8faV9VxfdUzB3dTzURE754ovavAS8wTazFjsjKKRmyMVGa7vZIs5RS2JvvgOmoM7BT1aW7UwJ/2kMAjO7F/msfmA8BaK/uZDTukgbGmiuvQ5UNhxLYzAIWSF4sLgTHgYT/uIYLJIrTMyZ8t5BrGZgmZ5o4Dw==;6y9QkI8WIRnYtF+TD727YQ=="
 ---
 

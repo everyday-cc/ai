@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/bad-news-for-developers-dee
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -77,7 +77,21 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Google’s DeepMind AI can now code better than humans"
+    excerpt: "Google’s artificial intelligence division DeepMind has developed a powerful AI system capable of beating humans at competitive computer programming. DeepMind evaluated its AlphaCode system by simulating participation in 10 recent coding contests hosted ..."
+    publishedDateTime: 2022-02-03T16:35:00Z
+    webUrl: "https://www.independent.co.uk/tech/google-deepmind-artificial-intelligence-coding-b2006940.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 54
+    images:
+      - url: "https://static.independent.co.uk/2022/02/03/14/deepmind%20ai%20coding.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 901
+        isCached: true
 
-secured: "w99lOKQ/+mqCGkOBtvk98p4HkQrlaTmuQPcVnOm//lDkiT0KDBVzM4N6TcAlT2Hjy1CXoPNe51pZl10MlNgeOnVgwLcGGtg8vm4ctfZqt4W/Hyig77fCesB0Cu2v9MVYUaZ37OU+Hxs3RIO7vEuYwHKa1Ow/R52JvYTAxGHmdJ7pGiFKqm8UYzsAs0gjLxAdWXj/QBEHS5UGBHsDrpiH59E/pkUCRZhXKkZkQtjhzYi+x+Up+t1nbKihSrhsNSGDdy364STEet4HMyvAqfSKpu1sYTsiavgjtinpOEFISWKvTJpmmhGjrfoFxHYigkToILjf+/hOdRJnwvtQzuevtsqZMyLr1apjdRMoELro5zE=;Qhi1BYJyXTRfkHsRk8cf5g=="
+secured: "Kol88rzurNO+SyEluIwTO796MvK03wIiXpqDZIExeSlkr+cdipmdlqZQ52PnitAUlKFD++Ko91JEtWOEB8uDmuQ9eWarPY2Lrs1qMBab78cVcPz2y8/ISHsFAUpkHrkfipN3jzKXvzrAA+k3HGsQQkibKG6vBOwc0Nwf8MP4YKmCZCjyrIAPJPowFLuzlzNJadB2Zna8YC0vCe7U4uc07xVhKtiAW/1vrrtcLOolL+pTBe5p/7XdtH8ttGZuEnnNVtPyp2DWS87sKTxYqJkXu+uUcozKZJoum1xkBefBRspCKQ55Nu8c/zSQGYTHoCkXh/yjMGHadaGDqZ2+vEXJUb+pAqVcAsfBKF0JcJo4XqkHQmQBq3UDpCOnfpSF0YaKMGGxQga4eluO2rQR88B1pN6T5cQK7gsVs0ucAoxa5YhKbJ5f/HFilUd8wlgODusGIpWGcf56FBJzKwnBRdMMWbdbYjsfqMUsicmTCrGsxcHXo3eQ8aI3rxiF0Ai5sKlaCVo87BXKC6VOk/cp7fC3rw==;Lx6EAtOC3i+N7ZNMStyUzQ=="
 ---
 

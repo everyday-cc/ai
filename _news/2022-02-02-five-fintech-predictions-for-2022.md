@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-finte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -190,6 +190,15 @@ related:
         width: 1139
         height: 757
         isCached: true
+  - title: "Fintech Funding Reaches New Highs"
+    excerpt: "\"Fintech is altering all of that by reducing prices ... including chatbots, artificial intelligence (AI), blockchains, and crypto-assets. Corporate venture arms and digital incubators have been established by large multinational banks, who are investing ..."
+    publishedDateTime: 2022-02-03T13:27:00Z
+    webUrl: "https://www.finextra.com/blogposting/21733/fintech-funding-reaches-new-highs"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "Knowledge Innovations, Ghana Fintech and Payments Association to host webinar on FinTech innovations in Africa"
     excerpt: "The FinTech and Innovations focused event would bring together ... especially in machine learning and artificial intelligence (AI), lack of sustained intercontinental collaborations, and challenging business environment. The upcoming webinar is however ..."
     publishedDateTime: 2022-02-02T16:13:00Z

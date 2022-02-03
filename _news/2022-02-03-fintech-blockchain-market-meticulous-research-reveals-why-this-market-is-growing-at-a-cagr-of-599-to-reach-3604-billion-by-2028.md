@@ -25,15 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI in banking market to reach $64.03 billion by 2030: Allied Market Research"
-    excerpt: "Increase in investment by banking companies in AI and machine learning solutions, rise in preference for personalized financial services, and surge in"
-    publishedDateTime: 2022-02-02T01:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-ai-in-banking-market-to-reach-64-03-billion-by-2030-allied-market-research"
+  - title: "Overview of the fintech industry: stats, trends, and companies in the ecosystem market research report"
+    excerpt: "In recent years, we've seen a ballooning of activity in fintech — an expansive term applied to technology-driven disruptions in financial services, where financial companies and startups use artificial intelligence (AI) and other tech in their day-to-day ..."
+    publishedDateTime: 2022-02-03T16:02:00Z
+    webUrl: "https://www.businessinsider.com/fintech-ecosystem-report"
+    ampWebUrl: "https://www.businessinsider.com/fintech-ecosystem-report?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-ecosystem-report?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/5fa2c30f69331a0011bc738d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Mobile Robot Market Statistics, Industry Growth and Demand Analysis Research Report by 2027"
+    excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
+    publishedDateTime: 2022-02-01T03:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-statistics-industry-growth-and-demand-analysis-research-report-by-2027"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 31
+    quality: 29
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/9d6f7d754a30d3c40f99f9e7a56ebc4b2a659eb9-600x337.jpg"
         width: 600
