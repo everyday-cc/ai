@@ -105,6 +105,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "DeepMind AI can code like an average developer"
+    excerpt: "Is that a good thing? DeepMind has created an AI system named AlphaCode that it says \"writes computer programs at a competitive level.\" Of course, it didn't say what sort of competition. Most developers would do well in an inhaling pizza competition ..."
+    publishedDateTime: 2022-02-03T11:31:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/54317-deepmind-ai-can-code-like-an-average-developer"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/57aaaef3d1acef37622cefd5b8e4d976_L.jpg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "DeepMind AI rivals average human competitive coder"
     excerpt: "Google-owned artificial-intelligence company DeepMind has announced a big achievement in competitive computer programming. After simulating 10 contests, with more than 5,000 participants, AI system AlphaCode has ranked in the top 54% of competitors."
     publishedDateTime: 2022-02-02T16:00:00Z
@@ -121,8 +135,8 @@ related:
         isCached: true
   - title: "Google DeepMind’s AlphaCode system beats thousands of human experts in coding contest"
     excerpt: "The AlphaCode system, created by Google’s AI subsidiary DeepMind, ranked in the top 54 per cent of competitors after going up against 5,000 human software engineers. Oriol Vinyals, a research scientist at DeepMind, said that the milestone brought Google ..."
-    publishedDateTime: 2022-02-03T07:33:00Z
-    webUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5?shareToken=5ff598804dcf05ddeba7904ffbc18d66"
+    publishedDateTime: 2022-02-03T12:33:00Z
+    webUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5?shareToken=810b6be0c8d73804f19de9bbc7d8d8c0"
     type: article
     provider:
       name: The Times
@@ -134,6 +148,6 @@ related:
         height: 675
         isCached: true
 
-secured: "h39O2beUWS/8zaGgMcOC2vKfmewBIGTesj3Hv8SdJQbykavejxH+NUajcPSzX1QiO/OhzSx6185Ad6HWLWDHQk+tznCK2nimA754jeRk/n3eUSIG4CLkujznRYbVQwH7MU2HG/0LGB+3Sqo28FdKcDzjvnBtNuOPPGxE01PACIKCoTGXHJxU0Y/pglUPv8Kv0SLk8oCznRMYCukZiXefjheGVSnjXMgd49vR4uuuho/0BImuxEZLA7WoLIel5DJ/T0xjaq8QQ/X/4t8/Ukl2kkiIjTEkmDzJ1hiLLlsKtZEBLJe+A7uGCHcvJt5gBD3ZY3YBtNtzTwUcrFZfAaw/cCtZqnw1zJoDIpdEn5wIwAY=;A3MsYv8kQJHCm3adDErUDw=="
+secured: "sZF7LqGOozlEqocRadIIMQiCnXo1A+nvB6Wu1wvRZkaaV7mFfoK/2YC5pxQlZrIpRXLJbI87bDv/DE1c+5lH2kgMe1Gy7DAHC9zl79o8sTZiFvtSKFJXar3SPOaqMO4cnhbdbIRBhXV6MjUztaRLzMSHhwBSVW1JiUBrYndPwcgXZc8u/zYFLugdbHltBWokeaPD3bGMkpcSaycEISy4CH0yAFjE8n9T7exOSbxRxvNwSUYQliCLRnuAgZ/xBo+1Uub638Lrm9OkJu58BnU1PR6X1IZ8BmHMJ16rbtvaUbrjW0XIZ9wOygJhce3E6U8PtVTcwoiLv3FyghhD5+RbMglZPpYalyQnF9zjYb+aETFZjvn5a/feXQTRQcfW0mkeWGSmEIMv5HOqiLcJzolYxBrByJ44rPQhmTmjEv0aFGuoxQKgwptk5uOS/L+EyFjYCp93+WNOV7XxUkw5TlKdYFlhEt1cjnx7D0/2GfqrirJ4pKJe4Xf2lerTKvxScgmYLJz1bWzun2D5fEQ3rWGbwQ==;jtFzzQrWwZ7rcE5ZGl0DFA=="
 ---
 

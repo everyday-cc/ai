@@ -2,19 +2,19 @@
 category: news
 title: "Government agencies are tapping a facial recognition company to prove..."
 excerpt: "James Hendler, Rensselaer Polytechnic Institute (THE CONVERSATION) The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing ..."
-publishedDateTime: 2022-02-01T14:09:00Z
-originalUrl: "https://www.ctpost.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
-webUrl: "https://www.ctpost.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
-ampWebUrl: "https://www.ctpost.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
-cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+publishedDateTime: 2022-02-01T14:22:00Z
+originalUrl: "https://www.greenwichtime.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
+webUrl: "https://www.greenwichtime.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
+ampWebUrl: "https://www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: Greenwich Time
+  domain: greenwichtime.com
 
 topics:
   - Computer Vision
@@ -116,6 +116,6 @@ related:
         height: 630
         isCached: true
 
-secured: "pWf2D4KeFzqKgG1ZpnP+641AOqt3xGwXZGkyiusnK0j2oO9WuPy2CAmpm1evZ3a+6dDaOqs5ad5tVrWbl8CW2GuD0Z88u+g75mCKUZzlvKCRa0zYsTNVHJAApiuUuwtQktmjR91ysM7XdERI3B7i3d/TbPgdhaZ2W6MW4u8TC6A0xz6vkrscY36U+MOXxG43pDfiIaabtVbHS2zMDMu4Njuvv+rvfQwujMrHcn2BwiD5jBOHUauYzDVYGxc4ASR14vGiOej+pGRitJsfJUmleQeBxRk0TtwV88uoc/96IXmMUmWra7jdPp/xFNUyP0szzSrf47Nq7gQ86/oxXmxJ0fLVe1fmABS428sIUcdeF+Q=;MBDvmCGFPenT7yvThhK36Q=="
+secured: "wO0QCkEAoABY6PsKB4B0MQ0f2sHMM4H+nwK5L7QBaIuN9A02NckC8NN75+RK2k+BUjM9JtgD3Eex09uZnLyZtnlqsTs6mssUu6MMSaGCRdVVzrVb5gmJThlVk6txw+8hcFTiLEvziiAedYyUlBPyIlj9rgJCjUxsw5Yt3dBucUn9DLl9W2MQP9vMptIrSK0373W29aLWVdiDuIEzr/G5UlEPHsAV+NjYYkDMmSCyoxUCEATX3OZ4QWt0f/yqy9f5ilAUqR0pWhVUjBHkczDAaHFo+1qnivIABSwsTmW5MNkQfSnshZSRdLmkeVDrFdCROW1OWVDJygt8mr24UcDFcbFRG1ZdB5sJMnThBrMINBE=;E34wwrzl5lQZDOU3w03anQ=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Google DeepMind’s AlphaCode system beats thousands of human experts in coding contest"
 excerpt: "The AlphaCode system, created by Google’s AI subsidiary DeepMind, ranked in the top 54 per cent of competitors after going up against 5,000 human software engineers. Oriol Vinyals, a research scientist at DeepMind, said that the milestone brought Google ..."
-publishedDateTime: 2022-02-03T07:33:00Z
-originalUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5?shareToken=5ff598804dcf05ddeba7904ffbc18d66"
-webUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5?shareToken=5ff598804dcf05ddeba7904ffbc18d66"
+publishedDateTime: 2022-02-03T12:33:00Z
+originalUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5?shareToken=810b6be0c8d73804f19de9bbc7d8d8c0"
+webUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5?shareToken=810b6be0c8d73804f19de9bbc7d8d8c0"
 type: article
 quality: 32
 heat: -1
@@ -119,6 +119,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "DeepMind AI can code like an average developer"
+    excerpt: "Is that a good thing? DeepMind has created an AI system named AlphaCode that it says \"writes computer programs at a competitive level.\" Of course, it didn't say what sort of competition. Most developers would do well in an inhaling pizza competition ..."
+    publishedDateTime: 2022-02-03T11:31:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/54317-deepmind-ai-can-code-like-an-average-developer"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/57aaaef3d1acef37622cefd5b8e4d976_L.jpg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "DeepMind AI rivals average human competitive coder"
     excerpt: "Google-owned artificial-intelligence company DeepMind has announced a big achievement in competitive computer programming. After simulating 10 contests, with more than 5,000 participants, AI system AlphaCode has ranked in the top 54% of competitors."
     publishedDateTime: 2022-02-02T16:00:00Z
@@ -134,6 +148,6 @@ related:
         height: 576
         isCached: true
 
-secured: "+YNyGbg8E4Uj6gxj5Whq8ePMrS11ywXR4o77/tj1vwfR4VY7Xp+mHE8A5IA3M3NK3Wbfl2GkP1nVlGq+PAInSrQ4LNFLUVOxmHBbDc73MiCbg/qPQTgvVksjgwO/J2M54PfqqCArYZ+pCgwH8SViL6zIKvNgShgg8WRne2lnWV1qnJFz2A9rB8fuBFe8NyhfAco8zQdd2+2yW9JahPT2JDnzX70XLOP94fJkftMDHVOjBbHlVCDIO+nN0m4seOwzGNVSmrvOhI1aUrR7IjvBM8B+DSUZUowEFmcMPjbIOeW2vUYmoNqmrzgEQyGT3GnEeVb8MXTug+W/fCQW883lk+7mibchtPU+RTwAg3XraEByoXw46HmbJrVNlGLQkREfLs95c99s0diyA7LlfTQNo55T6ebY+p3ycK2GjN1PFamp7Eotag5PiB9PveDWHTTTxOf+K8e7MhflODCh5APSWwOQDaPEoYwwP1zRmaTj0d9PB0K5X5EtyntzdAlBGQq5rOD02vDLsjNXRwyXb254Hw==;rHmVz2QDG7gusD+ZkYcDRA=="
+secured: "Ob15tTddLEo4Wtd6glgmMGEFxTJmefoxIZMiOFaPoNN/Yo6ta3pkWoInzQUCi9C+T8xwNfwz/wvC3PKnvffBnzJPhE39DQmSwLSp5eQsqxSgafRK8BNyU28xdLzhwWL62QJ3xWh5ZzvPDvi/FwbEh7izwVhIHHL2ILwmP8ZLUeSaw2PKZXbXKZZoOsLHEm3d7DQFBEq0pv7zLFn6YDWFCF6JzF/0GSPp0azZmEht+cN7AM8CXranhHiwd8xWPU0J85lj1BkiOilLOCn6TZkTh7C4DMsa9AIH0JqH66jjt6qqMYXheMXb33R9WoebHHkTJNEaxfjGvALShL9vzuUB/YhNZaAkwhcxXSkBgNbCoWw=;tIGxjLmf3i+3yGowV2Kzeg=="
 ---
 

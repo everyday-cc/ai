@@ -25,6 +25,19 @@ images:
     height: 534
     isCached: true
 
+related:
+  - title: "BrainChip Holdings outlines go-to-market strategy for its neuromorphic artificial intelligence chips"
+    excerpt: "BrainChip Holdings Ltd (ASX:BRN) CEO Sean Hehir spoke to Proactive about the technology group's go-to-market strategy for its neuromorphic artificial intelligence chips. Hehir says neuromorphic technology, which he says mimics the brain as artificial ..."
+    publishedDateTime: 2022-02-01T00:52:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/972713/brainchip-holdings-outlines-go-to-market-strategy-for-its-neuromorphic-artificial-intelligence-chips-972713.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/972713"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/972713"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 37
+
 secured: "F5NmAFtnN4IuL8JtVV4w6DvTRq/eCP4e4FUAoE7W6ThJZixrXBnHCmg7lN5Q82kYO6AutGX9mIFUqZAfnm741GF0lV1lJkXKOuW0jO6SpDfr5FjItWYvTSSJS8xUSXP9HqE4s9usmLWFI8ulRdHL0zL3EmNKvxugB4GyCeCGpkDyJV2BeI8c75FisvDj9X0hzBXfG6FSZZ2Xyf9q0Wl8yHTatTuJh5OkCYRlQ191C5VzjCB2oFh41FLpEXHXt5/gDl0t2PkbQ3/ux0xxmNV5t1cE1jp7XVwSEknk5O8a0nwOV7cvowiOKSbspqpk8+IVTdNlA4b5+CQgFwJy+EhyLJ/zPHfSSODysSJiV0mwdpLsqjiGjQyBd3lB6/ZQ2xeGz5fv2YhslrRfxtA3PXXIs54Ch3jG4+m0Q4JF4eMxXCn8uNzqAyYi+vhaAD1hDJft5dsl4AzREMbx2VIH27d4G01lFary/3pmiXIfn2h+eIq/ZHS+Zq3PfA+su++ni6k4hXBQ1OKtVyYBUuP9dqButg==;Ft94arCeBrYOLAfuzRk0TA=="
 ---
 

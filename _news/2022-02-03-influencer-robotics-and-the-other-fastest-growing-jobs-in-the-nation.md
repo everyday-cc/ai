@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Influencer, robotics and the other fastest-growing jobs in the nation"
-excerpt: "“When I can go start a YouTube channel and game and make a ... green jobs, automation and robotics. In jobs with degrees, artificial intelligence consultant saw the biggest increase in job postings over the last five years, then blockchain developer ..."
-publishedDateTime: 2022-02-03T04:46:00Z
-originalUrl: "https://www.bizjournals.com/albany/news/2022/02/02/fastest-growing-jobs-influencer-robotics.html"
-webUrl: "https://www.bizjournals.com/albany/news/2022/02/02/fastest-growing-jobs-influencer-robotics.html"
+excerpt: "Overall, the big winners on job growth for non-degree jobs are in social media, green jobs, automation and robotics. In jobs with degrees, artificial intelligence consultant saw the biggest increase in job postings over the last five years,"
+publishedDateTime: 2022-02-03T03:44:00Z
+originalUrl: "https://www.bizjournals.com/milwaukee/news/2022/02/02/fastest-growing-jobs-influencer-robotics.html"
+webUrl: "https://www.bizjournals.com/milwaukee/news/2022/02/02/fastest-growing-jobs-influencer-robotics.html"
 type: article
 quality: 34
 heat: 34
@@ -18,6 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "RnuxU3e3rnwMwWhV4akWXfiprW5igk0sWSkOta8KnrWH7DXngjjAFOxOppt9k/rO7f9kZKBPvohZm+ZCkPFokijjqxRASb5cH586StnrzUXyi2oCyagmKziKHtoldWkyavQfmNh9fxsht/N2YuzWVgD4xLB5D6fdSioQ682YVdXYGSgJ4mggtIWE3Zv4qBTHepn5CaM9HVaeV0MA+yvDADI+yVwrtodQGPaSejzeOYTxMmoOpFwZN8c6FbgKrvZj6Y8Vn6HObbHeGM9ixjUNRvW2xEVeJOTiqKtbRG2qRwXUR7n90sTXvII84dKYX+2vrReJEd/9m+HONRKKDADE6y2YceNPjnHjBTgOPDRtxWnJxbCdaTdCI2LToA2e+5vogbHht85LZ6/rV8iiiQbfm3kmamv3BcdBxRUzO3+HTUPkrSr7TQgfjNcNBH1oPW9LLRUHk8G2i6W5gJk9/xl3BdozMtvDGzz+80ZLFvlE8oLag7TEQbjwGbQJkLOtUEpdHAE4yAK2/zfV4rUSfRCAkg==;u9jq7dhiQ7/9ChZSRgLd/g=="
+secured: "PdqRPLfcgVydxD+w1V3ylm+u4IXxFNiEPwthAzCbc5pqN5vWAhwME9k1cSA4NBcILz5AtXlvW9eNUupc0FOpTxu2KXxVY1oiiL1WpWFP9+cgdxKDzhcsxTMasS8ve8i2PMWUNomIdlzRtWGxmslWucVzRy1EN175foAocRU23w1wrA8RPOd7ZTtP4ng2fM886v+uApgiy6e4rvl4ZpIQ0lM03MJ5JLtjdxEfS6/zS4Nx8YWaFAIPjBp6V+FeQ+TM0LPhK+jiuFve2kBQpv1IPYqhhBXPMvzpBCN57uQuN9jkfBSA4qk+OXl0dFlPK25nlMSDUp2o+XLUNBMdFrXf3RNO3xKNgsd2T/ExMb+E9vwViZwgNF2o5UB/ZxiICnvzBEWJ2VOxdvrHjXqnVLglv6YPXGn53amTBDo8LaVG41bbxhIZ81X6nuKneNlgVafr9mKQhGnDPv9HNlibyTJxEGMxUdqNBx4iuvlkDFrM0wfMxBVWzAWt8FENECh6S8fOdqbku/QhBJ69C0mXHMPLgw==;YZgcWZf/bOLswqiyMQX+nw=="
 ---
 

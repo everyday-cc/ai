@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/amp/"
 type: article
 quality: 104
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "DeepMind AI can code like an average developer"
+    excerpt: "Is that a good thing? DeepMind has created an AI system named AlphaCode that it says \"writes computer programs at a competitive level.\" Of course, it didn't say what sort of competition. Most developers would do well in an inhaling pizza competition ..."
+    publishedDateTime: 2022-02-03T11:31:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/54317-deepmind-ai-can-code-like-an-average-developer"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/57aaaef3d1acef37622cefd5b8e4d976_L.jpg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "DeepMind AI rivals average human competitive coder"
     excerpt: "Google-owned artificial-intelligence company DeepMind has announced a big achievement in competitive computer programming. After simulating 10 contests, with more than 5,000 participants, AI system AlphaCode has ranked in the top 54% of competitors."
     publishedDateTime: 2022-02-02T16:00:00Z
@@ -125,8 +139,8 @@ related:
         isCached: true
   - title: "Google DeepMind’s AlphaCode system beats thousands of human experts in coding contest"
     excerpt: "The AlphaCode system, created by Google’s AI subsidiary DeepMind, ranked in the top 54 per cent of competitors after going up against 5,000 human software engineers. Oriol Vinyals, a research scientist at DeepMind, said that the milestone brought Google ..."
-    publishedDateTime: 2022-02-03T07:33:00Z
-    webUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5?shareToken=5ff598804dcf05ddeba7904ffbc18d66"
+    publishedDateTime: 2022-02-03T12:33:00Z
+    webUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5?shareToken=810b6be0c8d73804f19de9bbc7d8d8c0"
     type: article
     provider:
       name: The Times

@@ -40,6 +40,20 @@ related:
         width: 365
         height: 250
         isCached: true
+  - title: "Social Robots Market Report 2022-2027: Industry Size, Demand, Share and Future Scope"
+    excerpt: "For instance, the widespread integration of machine learning (ML) and artificial intelligence (AI) with social robots to facilitate meaningful communication between the robots and individuals is positively influencing the market growth. Moreover ..."
+    publishedDateTime: 2022-02-03T12:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/social-robots-market-report-2022-2027-industry-size-demand-share-and-future-scope"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEiuvz2PrH9s5xBkR6ary_bVQ_u7Vu0ULRIjXa3jTmH1SPFd1DQ8IDCsHFrECh0cAon7NN89LxnVzLSOwwvtI1B_t-KYXr1nloUVuritJeNbfdAlc_h0oUWTqjp3vww6fm9s7ce_UJYPVK8heuVElHQsJQjbmPtUPk0xDy7E2OB0gWBB7eykqshHE1s=w494-h329"
+        width: 427
+        height: 329
+        isCached: true
   - title: "Physical Therapy Software Market By Industry Research, Supply, Size, Share and Prospects 2019-2027"
     excerpt: "Be it artificial intelligence (AI), internet of things ... world is directly proportional to the growth of global Physical Therapy Software market. In the next two years, more than 20 billion ..."
     publishedDateTime: 2022-02-01T18:40:00Z

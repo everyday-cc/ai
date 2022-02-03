@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/two-new-dialects-of-inuktut-language-now-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 760
     height: 428
     isCached: true
+
+related:
+  - title: "Is It Too Late to Buy Microsoft?"
+    excerpt: "Integrating AI and machine learning into its cloud and enterprise software ... the intelligent cloud platform, which consists of Azure, GitHub, server products, and other cloud-based services such as databases, is growing faster than overall revenue ..."
+    publishedDateTime: 2022-02-03T12:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft"
+    ampWebUrl: "https://www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "dHTjhXJ5puXZmruABiK1Knj4NlSoXJGlZSzMji+hEfLwSiR1FGp6IxWfzYe+1iGkw1UzDmsTclhAHmDcXCUwODIfBjfBWnF+La3DR2gacJovLXvwFaDc7518LNtLZAo49YzS5kY+2h3i7F/1JYtMCzS8KqpoHZWeLWzytnD23DObGql1ny+pcbNLU+lR4i79US5cWiWaWFNTXh7ef18fzom596dajgAHbztusSf1supQ2Orawk+LpfgnG6AT3XgbtjzoHzYeoxd0Q1MKY069fPZwsaDiawFuASNN6XYvdVWjr3V5767VPXq8wLznF3txHjKJBwemt+r63cT6MK+7fmfI1lY3Zve3xPWuJn0eo64=;ZMJDEjeix/yinQhQClKESw=="
 ---

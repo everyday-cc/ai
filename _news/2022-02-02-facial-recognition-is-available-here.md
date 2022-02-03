@@ -61,14 +61,14 @@ related:
         isCached: true
   - title: "Government agencies are tapping a facial recognition company to prove..."
     excerpt: "James Hendler, Rensselaer Polytechnic Institute (THE CONVERSATION) The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing ..."
-    publishedDateTime: 2022-02-01T14:09:00Z
-    webUrl: "https://www.ctpost.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
-    ampWebUrl: "https://www.ctpost.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
-    cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+    publishedDateTime: 2022-02-01T14:22:00Z
+    webUrl: "https://www.greenwichtime.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
+    ampWebUrl: "https://www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
+      name: Greenwich Time
+      domain: greenwichtime.com
     quality: 58
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"

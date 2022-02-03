@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Here’s what’s wrong with an IRS proposal to use facial recognition technology for tax filing"
+    excerpt: "Because of privacy concerns, the IRS is reconsidering its plan to require the use of facial recognition to file taxes online this year. metamorworks - stock.adobe.com The U.S. Internal Revenue ..."
+    publishedDateTime: 2022-02-03T12:02:00Z
+    webUrl: "https://chicago.suntimes.com/2022/2/3/22914680/facial-recognition-irs-tax-filing-privacy-concerns-james-hendler-the-conversation-other-views"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2022/2/3/22914680/facial-recognition-irs-tax-filing-privacy-concerns-james-hendler-the-conversation-other-views"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2022/2/3/22914680/facial-recognition-irs-tax-filing-privacy-concerns-james-hendler-the-conversation-other-views"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 48
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/8beLPC1Cz-KzYFA-wvp1fFgYWjg=/0x0:6006x4004/1400x1050/filters:focal(3051x1015:4011x1975):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70466031/AdobeStock_164918001.0.jpeg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "IRS website to leverage facial recognition tech for identity protection"
     excerpt: "Agency to require those wanting to access their accounts to submit selfies and photos of their identification documents"
     publishedDateTime: 2022-01-31T18:46:00Z

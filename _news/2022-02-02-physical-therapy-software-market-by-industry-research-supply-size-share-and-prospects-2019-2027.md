@@ -53,6 +53,20 @@ related:
         width: 365
         height: 250
         isCached: true
+  - title: "Social Robots Market Report 2022-2027: Industry Size, Demand, Share and Future Scope"
+    excerpt: "For instance, the widespread integration of machine learning (ML) and artificial intelligence (AI) with social robots to facilitate meaningful communication between the robots and individuals is positively influencing the market growth. Moreover ..."
+    publishedDateTime: 2022-02-03T12:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/social-robots-market-report-2022-2027-industry-size-demand-share-and-future-scope"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEiuvz2PrH9s5xBkR6ary_bVQ_u7Vu0ULRIjXa3jTmH1SPFd1DQ8IDCsHFrECh0cAon7NN89LxnVzLSOwwvtI1B_t-KYXr1nloUVuritJeNbfdAlc_h0oUWTqjp3vww6fm9s7ce_UJYPVK8heuVElHQsJQjbmPtUPk0xDy7E2OB0gWBB7eykqshHE1s=w494-h329"
+        width: 427
+        height: 329
+        isCached: true
 
 secured: "syXsLDqYMzoUIh6GC93PAxUjU4KseRSXgw4UATs70HvL152iqC/+uI0t+65T615VsVvGhpAK5YKDg7btRifarMRa3uV5m5cpwO22zoLe6RItfxHtKTobK9dSgQWHTc6bTpQrcOO4tSI3F7q7rxMCyCsuDxOyH5iR3LBNNVx04AUX59Ijb9jhvRLuRJg2Od3zqxeLwRBsxdvPDn/EkfWuuCNARbTTmjq3nZNmeCAql3Z695VrV4Ju5tKktD2Lcquuo94RbEEmAH5xA84OItlLe+PI1ctuDOl8Vz/iXqOGhSVx9JYy6vbp1/NhW4cy+cEeTVHFNwcoho6FZUs0e4IncytcjGSKOBMGS2FlD1hZKf4=;E18QQ/jehiJMGytqcXasXQ=="
 ---
