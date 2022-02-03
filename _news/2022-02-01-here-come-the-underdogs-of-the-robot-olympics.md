@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 2400
     height: 1647
     isCached: true
+
+related:
+  - title: "Olympics-Chinese women online show more interest in Winter Games"
+    excerpt: "BEIJING (Reuters) – Women in China have shown more interest than men in searching online for Winter Olympics-related information, a report by search engine company Baidu showed on Wednesday."
+    publishedDateTime: 2022-02-02T06:36:00Z
+    webUrl: "https://www.metro.us/olympics-chinese-women-online-show/"
+    ampWebUrl: "https://www.metro.us/olympics-chinese-women-online-show/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/olympics-chinese-women-online-show/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 44
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportSportsNews/tagreuters.com2022binary_LYNXMPEI1105D-BASEIMAGE.jpg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "R69TKVAzMZAO7XITrPFmfvbFaHN+bAdrn/NL9B9GzWBzVrHkBCcXp2pqay7aA4gwc+k05n/7gwy7AeFabe26DP5SWNxKTMPkj+RWufjuYuA7Eyw13dNn1gx1/Q47hD0/vyr2SC/hduTr71Qg9lpkfeNF1TUQY6hAmnDbblxhqLbpyPEYku1s11ZkaINHj6qW6dfl1tWOB+Pk/8wkZUyB7/bNXMeUFFIcdBuFB+ANdvx4SWLR/5Iikj/psp2dFmJIzMdhf7ZXqE2G5F5rv5i1j3NwztkpcBRT4V2XiHYsNoVaNlET6KgSvOc1/h7ZQ1azukdElPbs4JXnbhBjZXVlgD26BQLGb3fkuK+1VxudHjkLDEwIIeEzuxaZV/RMec2Kum7AbBKU/ZfVPS3HKpoGhAOjIbUN78fhtNa4PjZJo+qqX2ZxV/RKm3aKs5p9qzIt29IZCEWGVOVCibm32MTziYVoLKa/n7k335SBliCpwZZdpUfRPQ3G+rYwlF56I/j2FsQOj/aR4qBL0gvD0QEZjA==;x7XiAa67udzFj5lke2CPkw=="
 ---

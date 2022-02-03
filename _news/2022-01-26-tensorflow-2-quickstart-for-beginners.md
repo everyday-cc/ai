@@ -3,12 +3,9 @@ category: news
 title: "TensorFlow 2 quickstart for beginners"
 excerpt: "Load a prebuilt dataset. Build a neural network machine learning model that classifies images. Train this neural network. Evaluate the accuracy of the model. This tutorial is a Google Colaboratory notebook. Python programs are run directly in the browser ..."
 publishedDateTime: 2022-01-26T00:00:00Z
-originalUrl: "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=zh_tw"
-webUrl: "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=zh_tw"
+originalUrl: "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ur"
+webUrl: "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ur"
 type: article
-quality: 56
-heat: 56
-published: false
 
 provider:
   name: TensorFlow
@@ -24,11 +21,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.tensorflow.org/images/tf_logo_social.png?hl=zh_tw"
+  - url: "https://www.tensorflow.org/images/tf_logo_social.png?hl=ur"
     width: 1200
     height: 675
     isCached: true
 
-secured: "elGQGinkMnccU9xfgecx3g3372C4HNF2JQ7sQLt5nVN/aLwy+DglTMPBsN9zXhlmF+512tWK1T5hzlUgyOxVNP5RX8Xp85BAO5ZH2sTJqDkSI9d1QEEKOx2km/vflTD78+EkgyFTOQWB/7Uq/AamksU8vhtuiQ8OmfE6YOM5QXycvtf1A8ZBmeyM01qDMDhviHuREJ4bXMrOE1hZguWGsCoL5SAaPhpfPnU9wJU8oTgntTcJlpkkT7jx/aoJ+cXHGU4Azx6Rwj7noOJpvdjpg8Sw4GTakpu3E/l09LAbcpvTUMDTMghGyJxkO9NtB1qSBtpGVV12XKt4VPEc8A2Ag/Y34hTS2zz6ub6/89GCnqo=;sOREtCfbcA2xZlXoKwT5pg=="
+secured: "K56wK7ZbhYztWHddM3YauCYcw8r0R3DsfX5mrzHJkNNagEg3TW5NN/SEX2HiHZVCxIZ+RrEIUWfm2SYV9jZz3VVo0cpx1WWfNwGwxs5NO1D6NLpmM3kfuJ/eBf6ZHU4KgWwkPFBJakkjltR6K/OLah7Jj9uRx6qZOI6LVPSNBmq9epikiShBGjSybBPa2WfPBRY3RshzwQ7hGzyMUHul4LpsEz/9VNM3xgz6kGRLwNYV5t590xddCjFheDYd2bPIBJAe0CE+bIR139PO7gty7lkNkHx6QNvhNWVJ9cMka3O/bpBs3PGxrFGqdoqUp+01bkXGf8JoZOt6mCocFYvXyfPSuHexyyNw3JIX56IXqy0=;+VzsvqMDHloq092HWpSzmw=="
 ---
 

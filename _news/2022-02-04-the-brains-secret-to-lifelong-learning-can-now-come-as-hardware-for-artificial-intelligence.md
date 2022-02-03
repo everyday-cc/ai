@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-03T19:10:00Z
 originalUrl: "https://www.purdue.edu/newsroom/releases/2022/Q1/the-brains-secret-to-lifelong-learning-can-now-come-as-hardware-for-artificial-intelligence.html"
 webUrl: "https://www.purdue.edu/newsroom/releases/2022/Q1/the-brains-secret-to-lifelong-learning-can-now-come-as-hardware-for-artificial-intelligence.html"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.purdue.edu/uns/images/2022/ramanathan-portraitOG.jpg"
@@ -23,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "n8ah7LUHR3z0cFJWRCzOk5O3lJhf5yppzAtngzSwnJDN3VFJZpOvI5FmBnApeT4j9G33PLDuDTYz78EWFO9/K/87opUcs8Fa3Lrplwe7ZDpJmyWCWrip1l1k3TSGT1GpP7prRRTshaz+Mdz5hAdt8V6WoONsY0LiKkpPL1v85fXr1dUNnQtxNbglE9J4N/RG08BvA/onPigFFfesxLx/vgM0io2Q6P8scYe2/yNR7VhRGuzzLQG0JBdbWcvF9VOV5BocAGjATnb2j0H3452+i4dyl+Wv4N5xoU78Vr5RJem71vXGMHP3H9hko0kZbKH5nunTN6tQ8q/aCryTbdfgFlhYWD0MU42cLOcltK5pcCk=;VW6XE/9XKhvXSz0ldUdOWA=="
+secured: "gAFd+hm55K4UOAFvrq22Kcx/lvI5wRoYWAIt5knAGmAosiF9pn8sX+N+EubFbfVI5ciq6i3zaUgFMuv4lVD/v/o6X1zuXRaMDNrlZae6qjNWSzotwaOy1KpyWTpg0ZqmVFuVz842MZ2e7WXlwA0IUa4CvdQWp56VSrZuTEBHz0dSQ4MFGh40Hjad0nQN0+K2olDy7kyZNLLuo6R1y/OR0mCZErlZo8NNUJrgId7Upnic87Vy5tyWABBgQS1zcOlg+TPXVwdf6VkKPFKL70QqGegYgJYtcekT/CaFnxc4QR/pQTN3hMacn/9qeC223S6cQ5FmDyvwsRWGNnnIcLria17rC4eADVohpC81JzNjgP538y/Xt4u34z3MYO6kUd/ST8zuPYt+Gy9jlHyDkLYb7gyhGoeG6b/jddVtaEmJtLMs+2lkzL5KlGZyfMejbSKJmIhlvSW7KumsA7xDdcLxxhBo8J7RwYfcB52OViVBtQcxMmb0I8B/OO3tPPTQ9f09y69x+GN2Qdkyd5tWFywazw==;xS6qClKjPiRbwwTWpykVxA=="
 ---
 

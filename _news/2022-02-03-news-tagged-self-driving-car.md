@@ -84,6 +84,17 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Self-Driving Freight Deliveries to Begin in Arizona This Spring"
+    excerpt: "These driver-out demonstrations aim to prove that TuSimple's artificial intelligence autonomous driving technology ... in a statement. In the self-driving technology world, there are five levels of autonomy. At Level 4, no human is required to be in ..."
+    publishedDateTime: 2022-02-03T21:26:00Z
+    webUrl: "https://www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring"
+    ampWebUrl: "https://www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 24
 
 secured: "YYpQ1BcMGDvlt7xP+XwQ3zIGMAzJ7RPf2X+XMq85htijHFCbYcP0hr+DcLFOVeRW6lu/tglm09AZrmIlS1/KnFynIeVfj3oCzynZMycFb8Rtfd/z1GBNVG7EbebRyMlLaMshaSKIwkjf/EJLoBfHHYgN5spmWVdLDhuM4Vlb9EXiZ1uckgLRuDx+nbITWTv3+2HrgwwdYEOv+SRDmpnOpC42fQah1iC78iuVZjVYPETUF+zTkApy7kO7t/BlCbi4PXaVmxHeY7UzbRg/J4hphkmO/t5C5xrxkJxM6I04Ix/dyvFZ2dD4fyb/DZNeH7Fw3UDonpVivbRpnp/1DZrOF1kq2t0ESDLVVU4RjUM9q6Q=;7bDRN08KKBz19T1sFiquXQ=="
 ---

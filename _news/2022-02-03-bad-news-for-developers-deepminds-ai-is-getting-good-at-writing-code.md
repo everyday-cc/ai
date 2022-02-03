@@ -33,8 +33,8 @@ images:
 related:
   - title: "DeepMind’s new AI can write code that’s better than yours"
     excerpt: "Artificial intelligence (AI) company DeepMind has developed a new coding engine capable of outperforming many human developers, called AlphaCode. As explained in a paper published by the firm, AlphaCode is able to write computer programs at a ..."
-    publishedDateTime: 2022-02-03T17:49:00Z
-    webUrl: "https://www.techradar.com/au/news/deepminds-new-ai-can-write-code-thats-better-than-yours"
+    publishedDateTime: 2022-02-03T18:05:00Z
+    webUrl: "https://www.techradar.com/news/deepminds-new-ai-can-write-code-thats-better-than-yours"
     type: article
     provider:
       name: TechRadar

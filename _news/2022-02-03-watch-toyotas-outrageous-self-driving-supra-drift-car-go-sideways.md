@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/watch-toyotas-outrageous-self-driving-supr
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -88,6 +88,17 @@ related:
         width: 336
         height: 280
         isCached: true
+  - title: "Self-Driving Freight Deliveries to Begin in Arizona This Spring"
+    excerpt: "These driver-out demonstrations aim to prove that TuSimple's artificial intelligence autonomous driving technology ... in a statement. In the self-driving technology world, there are five levels of autonomy. At Level 4, no human is required to be in ..."
+    publishedDateTime: 2022-02-03T21:26:00Z
+    webUrl: "https://www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring"
+    ampWebUrl: "https://www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 24
 
 secured: "iSbusqvDw/Lok3Iz1YivGrw1wGhnycrtcpnyydesc0pNam1J+r+ztGqZS+X/5B1bfRh6X0PipKs6eQW5fpAzbkazCjXUPJQkBmp4coLbSJ1PaS/5G3XHxTbKat/IDfVUE+m5Xvm79CSRgyqCvldWNkSYEFUiM4ijFOq9Eqw3YyKQXRKyUawkZYvujByI6zbtQ+fjAT4EJW5xokLRptDxcSfBNihqHL/9BwkkvYGmahIAClRacHdVT+VMuBV0TdT8X4sFRkqgdNLoyfL5xwS2Vmh84Ug6uAF12KB7pNJWVytbY4xM8xoz7zLjm3XanuJixvefdH2d6GdpkRL69dln/nGbyXqha7mSjNfSWraZgk3Rs+9rwMgq1y5mFln9Fr9JOucrFqpI+7iuPszi2lHK0CT7tG/rk/8v0eVn0WbovuG6/7yFI6l3f6xExumrpuajGI9U7sfLXIApEwMj1//YVqw4TxLup30q78HHzeuw6iv35+XpG3cJ30gQyCTqHc0P/p9o62dzQj6PmXrXgS9WXQ==;/SeWS4JGFp25yN6tGe7UAg=="
 ---

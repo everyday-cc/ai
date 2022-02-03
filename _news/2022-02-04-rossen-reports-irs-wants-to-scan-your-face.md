@@ -2,19 +2,19 @@
 category: news
 title: "Rossen Reports: IRS wants to scan your face"
 excerpt: "The I. R. S. Is partnering with the company ID me to implement facial recognition software as part of the identity verification process. So here's what you need to set up an account with the I. R. S. And I'd. Me you've got to take a picture of your photo ..."
-publishedDateTime: 2022-02-03T20:46:00Z
-originalUrl: "https://www.wmur.com/article/rossen-reports-irs-wants-to-scan-your-face/38974949"
-webUrl: "https://www.wmur.com/article/rossen-reports-irs-wants-to-scan-your-face/38974949"
-ampWebUrl: "https://www.wmur.com/amp/article/rossen-reports-irs-wants-to-scan-your-face/38974949"
-cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/rossen-reports-irs-wants-to-scan-your-face/38974949"
+publishedDateTime: 2022-02-03T22:31:00Z
+originalUrl: "https://www.kcra.com/article/rossen-reports-irs-wants-to-scan-your-face/38974949"
+webUrl: "https://www.kcra.com/article/rossen-reports-irs-wants-to-scan-your-face/38974949"
+ampWebUrl: "https://www.kcra.com/amp/article/rossen-reports-irs-wants-to-scan-your-face/38974949"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/rossen-reports-irs-wants-to-scan-your-face/38974949"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: WMUR9
-  domain: wmur.com
+  name: KCRA
+  domain: kcra.com
 
 topics:
   - Computer Vision
@@ -26,6 +26,6 @@ images:
     height: 677
     isCached: true
 
-secured: "C+R3bvn9niQV3Gmx1glD/WvitP7AyeUmN9rKITFLtUG7TjaueGYOzprHlADdKctuspJ65yOFka1R1oev57lSPXHljoqfj8Y/YyjB6KWwVfaBTBl0rA0OaR+rnHg07dd1XcopRRBJEIgOIpQAj9qD6hqN3oAXAWGdHt4/GPQ7HviG8bTZoX2k9LwBov5z/BqGp9wqpSU7GPjT+EZsd4sc5ZUhmgq7sIcMMiE6mri/nRqn52BU3nvfZbxobNMfXtngz9wTOqbI6TSXWd5gG/SB+00zNo+DcCO/f7H1KgX78qW6LXtubpEa55D8vkiWtIMLjfoYZcK5miZmbEwVb/xfNWMHB9oXnJGQaEWSNjGGFr4=;PeynyO61+PhZ1H7hVzVvaQ=="
+secured: "eLCp/yoMIAnhHRL3BH/HnMIYxsPn6blEeG1FcR+12BOcoRQhs0+wsn03OF5D6Wu7FOEdVztzcuJJqMnfc9ka+kvjsuQ/bPNm0guZVNwV5QiCegsnmbOvT2LuIwL4gIlI5UuwPa18J7GUSC2cfOx8wTguM32OejWI+FozZwlxoLm5PgBeHmf3v+C3B42QosHedCX683n8Bbokvdvxo8riMAqEH/YYBfIRDELACeLGfTFE96RC7FArOITTIgDKUuB3MEPvdIGf9wNJsfcuwYPPEFz52lGI0bVF5aOsNOLLsMZ8j6nanZ7EEfMxjdGGMj0cVnAfHASjvegkMEzpJR4EJXio1E1JPwLYbv6i55vBobk=;xhVkNXDN/Z5Qppl0SY444A=="
 ---
 

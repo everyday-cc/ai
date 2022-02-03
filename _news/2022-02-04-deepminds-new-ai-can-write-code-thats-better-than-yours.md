@@ -2,9 +2,9 @@
 category: news
 title: "DeepMind’s new AI can write code that’s better than yours"
 excerpt: "Artificial intelligence (AI) company DeepMind has developed a new coding engine capable of outperforming many human developers, called AlphaCode. As explained in a paper published by the firm, AlphaCode is able to write computer programs at a ..."
-publishedDateTime: 2022-02-03T17:49:00Z
-originalUrl: "https://www.techradar.com/au/news/deepminds-new-ai-can-write-code-thats-better-than-yours"
-webUrl: "https://www.techradar.com/au/news/deepminds-new-ai-can-write-code-thats-better-than-yours"
+publishedDateTime: 2022-02-03T18:05:00Z
+originalUrl: "https://www.techradar.com/news/deepminds-new-ai-can-write-code-thats-better-than-yours"
+webUrl: "https://www.techradar.com/news/deepminds-new-ai-can-write-code-thats-better-than-yours"
 type: article
 quality: 84
 heat: -1
@@ -106,6 +106,6 @@ related:
         height: 901
         isCached: true
 
-secured: "WfOmhLfTcyAdI0oxUnc+J8j4TRa/T41j1V1BJPiYpX2+c86PESW8W1GV0QK6H/SwFkxwK3Km+jUZGDri+MRi/DsiASZLeSQ4+MIP+TSPbqUDlnyblNv1TSPP1ErJ4F0HF0didoZypyoXVba24Nk0VYzqbZu19AXBNKgQDuTmL4MHCOS7OXkGaXE5GCmkFPJT4K3hGIljLgoSWG0sJvIcBGVFqMtiq2p8XJo+csO5bFJ1lS5gn5bXczlgZdIJXyTd906IdYSCd1ATb0DbcGRgLSJ7dp7VYkyTpFzLbeZij3qNYb3up14J0a21DYUZiSnY1aiwXZmDwqxMsLN1XBYNpffUYVPrLipaxgNNT9Z8RZE=;loPbxa4CTE8vCONeyMcxew=="
+secured: "S8VoC5g9VkgO3kQXMk9iPNay8kQ0UmyOhMNYyS8IJbKLTVRFKaF8XndzoRQMrtcxHbOi+VUZZ+H4LWjHy3Z1G+5cEhOQPDJ9Mho5wT4BuRFQ2/sJXlKuRslaskLbYSfhicu7T0tfn+ggl7AfYHMZaP4UafcdTq6GdIBfQrUKhSfjRtUHh/YBX6tqucrwv/69RnAR2pQr/NOgf2hoeGmtTGg8aGB+pstUXRgYwzVbKSL4+mtnNFPmvG47TLokIXI1ZuejBuCxpJxNcy5IOs8XE62XlR5yUbDgEyzgSWxljYN9w0wPaGzNFgcV2Z+rRwvpc02cOCiOHNnQtjEbKVawEPIYVyn05AW7JmOQM1pF4nM=;g+myXdSLRqqYvVZOSZgOjQ=="
 ---
 
