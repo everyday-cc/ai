@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-d
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/amp/"
 type: article
 quality: 65
-heat: 75
+heat: 76
 published: true
 
 provider:

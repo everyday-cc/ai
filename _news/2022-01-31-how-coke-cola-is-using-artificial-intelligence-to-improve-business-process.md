@@ -34,6 +34,22 @@ related:
         width: 803
         height: 558
         isCached: true
+  - title: "Edelweiss General Insurance launches AI Voice Bot for automated motor claim registration"
+    excerpt: "With varying dialects in India, our technology allows tailoring speech recognition models to adapt to users’ speaking styles, expressions, and unique vocabularies, and also to accommodate background noises, accents, and voice patterns. Our voice bots ..."
+    publishedDateTime: 2022-02-03T07:30:00Z
+    webUrl: "https://www.freepressjournal.in/business/edelweiss-general-insurance-launches-ai-voice-bot-for-automated-motor-claim-registration"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/edelweiss-general-insurance-launches-ai-voice-bot-for-automated-motor-claim-registration"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/edelweiss-general-insurance-launches-ai-voice-bot-for-automated-motor-claim-registration"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 50
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2021-05/f89d6954-aaab-40a1-8c49-646586dd0233/insurance_policy_pexels.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 784
+        isCached: true
   - title: "LeapMind Announces AI Image processing model which operates on edge devices"
     excerpt: "LeapMind today announced an AI image processing model which operates in real time on edge device. This AI image processing model uses the company's ultra-low power consumption AI inference accelerator IP \"Efficiera\" to operate in real time on edge devices to reduce the noise and improve the image quality of noisy images."
     publishedDateTime: 2022-01-31T07:32:00Z

@@ -2,6 +2,58 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-01-05-why-home-robots-are-a-lot-further-away-than-you-think.md",
+      "title": "Why ‘home robots’ are a lot further away than you think",
+      "excerpt": "We all want robot companions, butlers, and laborers. We also want time travel and magic beer mugs that get empty.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-home-robots-are-further-away-than-you-think",
+      "originalUrl": "https://thenextweb.com/news/why-home-robots-are-further-away-than-you-think",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fpinnochio.jpg&signature=8b9996b535d66c0e8fa2152d0c7a643e",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T13:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-self-driving-advances-could-accelerate-in-2022.md",
       "title": "Self-Driving Advances Could Accelerate in 2022",
       "excerpt": "The autonomous/self-driving vehicle investment thesis is a mix of frustration and allure, but the latter trait could be highlighted in 2022 as more technological advancements come to pass. Should that happen,",
@@ -1117,58 +1169,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh.md",
-      "title": "CES 2022 Innovation Awards: An airbag for your hips, a hands-free selfie drone and VR for ADH",
-      "excerpt": "This collection of products from the CES 2022 Innovation Awards will help your life in ways you never imagined.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
-      "originalUrl": "https://www.techrepublic.com/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/04/8104ba05-afbc-46b9-849c-82b6df46f80d/resize/400x/094cd4415c823d97fe5579ea3b4ded4d/air-neo-1111233-2-2.jpg",
-          "width": 400,
-          "height": 301,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
-      "publishedDateTime": "2022-01-04T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

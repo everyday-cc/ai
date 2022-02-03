@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Taxpayers will have to use to facial recognition software to file with the IRS"
+    excerpt: "If you haven’t already filed your taxes, your face may become the key to getting it done. Reset learns more about the facial recognition software the IRS started using this year."
+    publishedDateTime: 2022-02-03T08:12:00Z
+    webUrl: "https://www.wbez.org/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad"
+    ampWebUrl: "https://www.wbez.org/amp/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad"
+    cdnAmpWebUrl: "https://www-wbez-org.cdn.ampproject.org/c/s/www.wbez.org/amp/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad"
+    type: article
+    provider:
+      name: WBEZ
+      domain: wbez.org
+    quality: 55
+    images:
+      - url: "https://api.wbez.org/v2/images/462329f1-d357-447b-b5aa-78854f5138b8.jpg?mode=FILL&width=1200&height=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IRS website to leverage facial recognition tech for identity protection"
     excerpt: "Agency to require those wanting to access their accounts to submit selfies and photos of their identification documents"
     publishedDateTime: 2022-01-31T18:46:00Z

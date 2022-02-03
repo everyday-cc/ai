@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-01-19-former-google-scientist-says-the-computers-that-run-our-lives-exploit-us-and-he-has-a-way-to-stop-them.md",
+      "title": "Former Google scientist says the computers that run our lives exploit us — and he has a way to stop them",
+      "excerpt": "From Facebook algorithms that learn how to ... AI and Digital Policy and the new bias-fighting Distributed Artificial Intelligence Research Institute from former Google star Timnit Gebru, to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2022/01/17/artificial-intelligence-ai-empathy-emotions/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2022/01/17/artificial-intelligence-ai-empathy-emotions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KIDEI4DYQ4I6ZHOOOMJVPHPEGQ.jpg&w=1440",
+          "width": 1339,
+          "height": 1034,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-19T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-robotaxis-get-new-learning-strategies-to-face-the-edge.md",
       "title": "Robotaxis get new learning strategies to face \"the edge\"",
       "excerpt": "But to get there, autonomous vehicle developers face a daunting challenge: equipping their cars to meet an array of scenarios than can't be fully anticipated. AI and deep learning tools have been the secret sauce for self-driving car programs,",
@@ -1168,58 +1211,6 @@
       ],
       "topics": [
         "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-pix2pix-image-to-image-translation-with-a-conditional-gan.md",
-      "title": "pix2pix: Image-to-image translation with a conditional GAN",
-      "excerpt": "This tutorial demonstrates how to build and train a conditional generative adversarial network (cGAN) called pix2pix that learns a mapping from input images to output images, as described in Image-to-image translation with conditional adversarial networks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/generative/pix2pix?hl=no",
-      "originalUrl": "https://www.tensorflow.org/tutorials/generative/pix2pix?hl=no",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=no",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Google AI",
         "AI"
       ]
