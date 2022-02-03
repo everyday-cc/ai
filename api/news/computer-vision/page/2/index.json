@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-18-multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration.md",
+      "title": "Multi-layer security cover with facial recognition systems in place for R-Day celebration",
+      "excerpt": "After the improvised explosive device (IED) was found at Ghazipur Flower Market ahead of the Republic Day and later diffused, the Delhi Police have fortified areas in and around Rajpath with multi-layer security cover,",
+      "sourceUrl": null,
+      "webUrl": "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393",
+      "originalUrl": "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.mathrubhumi.com/polopoly_fs/1.3515805.1548470408!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393",
+      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/india/multi-layer-security-cover-with-facial-recognition-systems-in-place-for-r-day-celebration-1.6370393",
+      "publishedDateTime": "2022-01-17T18:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mathrubhumi",
+        "domain": "mathrubhumi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-01-17-train-smart-retail-ais-50x-faster-with-mindtechs-new-synthetic-data-application-pack.md",
       "title": "Train Smart Retail AIs 50x Faster With Mindtech's New Synthetic Data Application Pack",
       "excerpt": "Mindtech Global, developer of the world's leading synthetic data creation platform for training AI vision systems – has released a new application pack for companies developing smart retail ...",
@@ -1352,49 +1396,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-telanganas-facial-recognition-technology-comes-under-scanner.md",
-      "title": "Telangana’s facial recognition technology comes under scanner",
-      "excerpt": "A division bench of the state high court issued a notice to the state government and the Hyderabad city police commissioner, seeking an explanation over the propriety of the usage of technology and whether it infringes on one’s privacy while being in public places.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024.html",
-      "originalUrl": "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/01/05/1600x900/aa424bd6-6e53-11ec-9428-b30a84c15666_1641409525856.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html",
-      "publishedDateTime": "2022-01-05T11:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

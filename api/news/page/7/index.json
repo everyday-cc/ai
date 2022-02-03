@@ -2,6 +2,370 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-25-studying-the-big-bang-with-artificial-intelligence.md",
+      "title": "Studying the big bang with artificial intelligence",
+      "excerpt": "It could hardly be more complicated: tiny particles whir around wildly with extremely high energy, countless interactions occur in the tangled mess of quantum particles, and this results in a state of matter known as \"quark-gluon plasma\".",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-01-big-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2022-01-big-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/studying-the-big-bang.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-01-big-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-big-artificial-intelligence.amp",
+      "publishedDateTime": "2022-01-25T07:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-find-another-machine-learning-investment-besides-c3ai.md",
+      "title": "Find Another Machine Learning Investment Besides C3.ai",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The trend is definitely not the friend of AI stock holders, and turnaround hopes are fading as the company's",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/414973",
+      "originalUrl": "https://www.entrepreneur.com/article/414973",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce.md",
+      "title": "FedEx and Microsoft announce new cross-platform logistics solution for e-commerce",
+      "excerpt": "FedEx Corp. and Microsoft Corp announced the next solution as part of their multiyear collaboration to transform commerce, supply chains and",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/",
+      "originalUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/01/FedEx-and-Microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce-01.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/",
+      "publishedDateTime": "2022-01-25T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences.md",
+      "title": "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences",
+      "excerpt": "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/",
+      "originalUrl": "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dev.rodpub.com/images/248/280_main.jpg",
+          "width": 1542,
+          "height": 833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Contract Pharma",
+        "domain": "contractpharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management.md",
+      "title": "Vectra Acquires Siriux Security Technologies to Extend Leadership in Identity and SaaS Threat Management",
+      "excerpt": "Vectra AI, a leader in AI-driven threat detection and response, today announced it has acquired Siriux Security Technologies, a leading provider of",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management/article_b47cb748-a4d8-5da2-ae05-c7428121873c.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management/article_b47cb748-a4d8-5da2-ae05-c7428121873c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-how-minority-languages-found-an-unlikely-ally-in-translation-companies.md",
+      "title": "How minority languages found an unlikely ally in translation companies",
+      "excerpt": "Professional translation companies are becoming an unlikely partner in protecting minority languages for future generations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openglobalrights.org/how-minority-languages-found-an-unlikely-ally-in-translation-companies/index.cfm",
+      "originalUrl": "https://www.openglobalrights.org/how-minority-languages-found-an-unlikely-ally-in-translation-companies/index.cfm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.openglobalrights.org/userfiles/image/Tirosh_Images_01-25-22.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openglobalrights",
+        "domain": "openglobalrights.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-mercedes-sees-luminar-eyes-in-its-self-driving-cars.md",
+      "title": "Mercedes sees Luminar eyes in its self-driving cars",
+      "excerpt": "Mercedes-Benz has taken a major step forward in its efforts to produce self-driving cars, partnering with Luminar to include the latter’s Iris lidar technology in Mercedes-Benz vehicles. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/",
+      "originalUrl": "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/01/mercedes-luminar.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/",
+      "publishedDateTime": "2022-01-25T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-why-we-must-create-an-ai-bill-of-rights.md",
+      "title": "Why We Must Create An AI Bill Of Rights",
+      "excerpt": "If eliminating the use of personally identifiable information completely is not a viable option, it should be clear that customers have the ability to manage their information, as well as pull out at any point.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/why-we-must-create-an-ai-bill-of-rights/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/why-we-must-create-an-ai-bill-of-rights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61eebd0af3b04eb1de11b53e/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/why-we-must-create-an-ai-bill-of-rights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/25/why-we-must-create-an-ai-bill-of-rights/amp/",
+      "publishedDateTime": "2022-01-25T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-meta-builds-ai-supercomputer-with-access-to-user-data-of-millions-should-we-worry.md",
       "title": "Meta Builds AI Supercomputer With Access To User Data Of Millions; Should We Worry?",
       "excerpt": "and translate between languages. On the other hand, the Meta AI Research SuperCluster is different as it aims to build new AI models. \"RSC will help Meta's AI researchers build new and better AI ...",
@@ -809,405 +1173,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-meta-unveils-new-ai-supercomputer-destined-to-be-worlds-fastest.md",
-      "title": "Meta unveils new AI supercomputer destined to be world's fastest",
-      "excerpt": "Meta has unveiled the AI Research SuperCluster (RSC), a new supercomputer that’s among the fastest in the world. And it’ll only get faster – by the end of the year it should rank number one, with computing power on the exascale.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/",
-      "originalUrl": "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 389,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/f2fac32/2147483647/strip/true/crop/1200x800+304+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc3%2F17%2F7537049247e4aaaf863110e796e0%2Fmeta-rsc-2.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/?amp=true",
-      "publishedDateTime": "2022-01-24T20:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-darwinbox-nabs-72m-for-its-all-in-one-hr-cloud-software-solution.md",
-      "title": "Darwinbox nabs $72M for its all-in-one HR cloud software solution",
-      "excerpt": "Darwinbox, a startup developing software to manage HR functions like recruitment and onboarding, has raised $72 million in a funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/24/darwinbox-nabs-72m-for-its-all-in-one-hr-cloud-software-solution/",
-      "originalUrl": "https://venturebeat.com/2022/01/24/darwinbox-nabs-72m-for-its-all-in-one-hr-cloud-software-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1261563652.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/24/darwinbox-nabs-72m-for-its-all-in-one-hr-cloud-software-solution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/darwinbox-nabs-72m-for-its-all-in-one-hr-cloud-software-solution/amp/",
-      "publishedDateTime": "2022-01-24T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-sparse-weights-using-structural-pruning.md",
-      "title": "Sparse weights using structural pruning",
-      "excerpt": "Structural pruning weights from your model to make it sparse in specific pattern can accelerate model inference time with appropriate HW supports. This tutorial shows you how to: Define and train a model on the mnist dataset with a specific structural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/model_optimization/guide/pruning/pruning_with_sparsity_2_by_4",
-      "originalUrl": "https://www.tensorflow.org/model_optimization/guide/pruning/pruning_with_sparsity_2_by_4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T16:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-deepmind-the-podcast-returns-for-season-2.md",
-      "title": "DeepMind: The Podcast returns for Season 2",
-      "excerpt": "Were proud to launch a new season of DeepMind: The Podcast, with stories of the latest breakthroughs, innovations, and challenges from inside the lab.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/DeepMind-The-Podcast-returns-for-Season-2",
-      "originalUrl": "https://deepmind.com/blog/article/DeepMind-The-Podcast-returns-for-Season-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/33DKJ7GyiVceFfJZ2-acjZaqj0s3zqbu3wM6GsP_XIyDKyB0ToIGI65sGaFjsY602v44P_vyyQdnC97-7_vhHq1YYYAylUvIkXp4xLy7d90tW4-d0g",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-getting-ai-from-the-lab-to-production.md",
-      "title": "Getting AI from the lab to production",
-      "excerpt": "The enterprise is eager to push AI out of the lab and into production environments, where it will hopefully usher in a new era of productivity and profitability. But this is not as easy as it seems because it turns out that AI tends to behave much differently in the test bed than it does in the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/",
-      "originalUrl": "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/",
-      "publishedDateTime": "2022-01-24T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings.md",
-      "title": "Momentum in Azure Cloud to Aid Microsoft's (MSFT) Q2 Earnings",
-      "excerpt": "Microsoft's (MSFT) fiscal second-quarter performance is likely to reflect momentum in the Azure cloud platform due to rapid digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/414815",
-      "originalUrl": "https://www.entrepreneur.com/article/414815",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-414815.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-transforming-modern-medical-devices-with-machine-learning-ai-inference.md",
-      "title": "Transforming Modern Medical Devices with Machine Learning & AI Inference",
-      "excerpt": "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/X1P1_web.jpeg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-5-trends-to-watch-in-2022-robotics.md",
-      "title": "5 Trends to Watch in 2022 Robotics",
-      "excerpt": "Growing Investment in Robotics Companies – Investors continue funding the latest robotics innovations in various industries, including the medical, manufacturing, logistics, hospitali",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics",
-      "originalUrl": "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/5-trends-to-watch-2022-robotics?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/5-trends-to-watch-2022-robotics?amp",
-      "publishedDateTime": "2022-01-24T11:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

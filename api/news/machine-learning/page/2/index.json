@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-21-metas-data2vec-is-a-step-toward-one-neural-network-to-rule-them-all.md",
+      "title": "Meta's 'data2vec' is a step toward One Neural Network to Rule Them All",
+      "excerpt": "The race is on to create one neural network that can process multiple kinds of data -- a more-general artificial intelligence that doesn't discriminate about types of data but instead can crunch them all within the same basic structure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/metas-data2vec-is-the-next-step-toward-one-neural-network-to-rule-them-all/",
+      "originalUrl": "https://www.zdnet.com/article/metas-data2vec-is-the-next-step-toward-one-neural-network-to-rule-them-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/cc0198274730c40eb390433e6769edb02bf0534e/2022/01/19/2aeebf93-5f35-402b-8747-92011fd79fa7/meta-2022-data2vec-scores-on-vit-test.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/metas-data2vec-is-the-next-step-toward-one-neural-network-to-rule-them-all/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-data2vec-is-the-next-step-toward-one-neural-network-to-rule-them-all/",
+      "publishedDateTime": "2022-01-20T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-mckinsey-donates-machine-learning-pipeline-tool-kedro-to-the-linux-foundation.md",
       "title": "McKinsey donates machine learning pipeline tool Kedro to the Linux Foundation",
       "excerpt": "Kedro, a machine learning model tool originally developed by McKinsey's QuantumBlack, has been donated to the Linux Foundation.",
@@ -701,41 +753,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-18-onesoft-and-entegra-team-up-to-advance-innovation-of-og-pipeline-ili-services-with-machine-learning.md",
-      "title": "OneSoft and ENTEGRA Team Up to Advance Innovation of O&G Pipeline ILI Services with Machine Learning",
-      "excerpt": "EDMONTON, AB and INDIANAPOLIS, IN/ ACCESSWIRE / January 18, 2022 / OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF)(\"OneSoft\") and ENTEGRA LLP (\"ENTEGRA\") have entered into a business arrangement (\"Agreement\") whereby ENTEGRA will incorporate the Cognitive Integrity Management (\"CIM\") software-as-a-service (\"SaaS\") solution developed by OneSoft's subsidiary,",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/01/18/onesoft-and-entegra-team-up-to-advance-innovation-of-o-g-pipeline-ili-services",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/01/18/onesoft-and-entegra-team-up-to-advance-innovation-of-o-g-pipeline-ili-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-01-18-pacbio-pacb-to-leverage-googles-deep-learning-technologies.md",
       "title": "PacBio (PACB) to Leverage Google's Deep Learning Technologies",
       "excerpt": "The collaboration builds on prior PacBio and Google research. A recent bioRxiv publication titled: “Deep Consensus: Gap-Aware Sequence Transformers for Sequence Correction,” demonstrated improvements in variant calling and suggested that Google’s DeepConsensus machine learning tool can expand the yield of 99.",
@@ -913,6 +930,50 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-onesoft-and-entegra-team-up-to-advance-innovation-of-og-pipeline-ili-services-with-machine-learning.md",
+      "title": "OneSoft and ENTEGRA Team Up to Advance Innovation of O&G Pipeline ILI Services with Machine Learning",
+      "excerpt": "EDMONTON, AB and INDIANAPOLIS, IN / ACCESSWIRE / January 18, 2022 / OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (“OneSoft“) and ENTEGRA LLP (“ENTEGRA ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/onesoft-and-entegra-team-up-to-advance-innovation-of-og-pipeline-ili-services-with-machine-learning",
+      "originalUrl": "https://www.digitaljournal.com/pr/onesoft-and-entegra-team-up-to-advance-innovation-of-og-pipeline-ili-services-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-5-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]
@@ -1295,49 +1356,6 @@
       "provider": {
         "name": "openpr.com",
         "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers.md",
-      "title": "NVIDIA released Deep-Learning Dynamic Super Resolution in its latest Game Ready drivers",
-      "excerpt": "NVIDIA releases Deep-Learning Dynamic Super Resolution, a technology that uses artificial intelligence to improve the performance of games.",
-      "sourceUrl": null,
-      "webUrl": "https://windowsreport.com/nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers/",
-      "originalUrl": "https://windowsreport.com/nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2022/01/fWEJy2chKV.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers/?amp",
-      "publishedDateTime": "2022-01-13T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
         "images": null,
         "publishers": null,
         "authors": null

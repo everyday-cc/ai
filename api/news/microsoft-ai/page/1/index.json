@@ -1197,24 +1197,33 @@
     {
       "path": "_news/2022-01-18-onesoft-and-entegra-team-up-to-advance-innovation-of-og-pipeline-ili-services-with-machine-learning.md",
       "title": "OneSoft and ENTEGRA Team Up to Advance Innovation of O&G Pipeline ILI Services with Machine Learning",
-      "excerpt": "EDMONTON, AB and INDIANAPOLIS, IN/ ACCESSWIRE / January 18, 2022 / OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF)(\"OneSoft\") and ENTEGRA LLP (\"ENTEGRA\") have entered into a business arrangement (\"Agreement\") whereby ENTEGRA will incorporate the Cognitive Integrity Management (\"CIM\") software-as-a-service (\"SaaS\") solution developed by OneSoft's subsidiary,",
+      "excerpt": "EDMONTON, AB and INDIANAPOLIS, IN / ACCESSWIRE / January 18, 2022 / OneSoft Solutions Inc. (TSXV:OSS)(OTCQB:OSSIF) (“OneSoft“) and ENTEGRA LLP (“ENTEGRA ...",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/01/18/onesoft-and-entegra-team-up-to-advance-innovation-of-o-g-pipeline-ili-services",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/01/18/onesoft-and-entegra-team-up-to-advance-innovation-of-o-g-pipeline-ili-services",
+      "webUrl": "https://www.digitaljournal.com/pr/onesoft-and-entegra-team-up-to-advance-innovation-of-og-pipeline-ili-services-with-machine-learning",
+      "originalUrl": "https://www.digitaljournal.com/pr/onesoft-and-entegra-team-up-to-advance-innovation-of-og-pipeline-ili-services-with-machine-learning",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-5-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T06:13:00-08:00",
+      "publishedDateTime": "2022-01-18T04:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

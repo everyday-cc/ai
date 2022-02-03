@@ -2,6 +2,376 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-01-17-researchers-use-ai-to-analyze-tweets-debating-vaccination-and-climate-change.md",
+      "title": "Researchers use AI to analyze tweets debating vaccination and climate change",
+      "excerpt": "Using artificial intelligence (AI) researchers have found that between 2007 and 2016 online sentiments around climate change were uniform, but this was not the case with vaccination.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.html",
+      "originalUrl": "https://phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg",
+          "width": 2880,
+          "height": 1616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.amp",
+      "publishedDateTime": "2022-01-17T01:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-microsoft-or-googlenot-including-apple-since-unix-and-linux-are-similar-operating-systems.md",
+      "title": "Microsoft or Google?(Not including Apple since UNIX and Linux are similar Operating Systems)",
+      "excerpt": "(declared by Internet Corporation for assigned names and numbers) forced me to migrate to another web cloud host, is when i realised why the Capital Market's has valued Google(founded 20 years back an",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/microsoft-googlenot-including-apple-since-unix-linux",
+      "originalUrl": "https://www.linkedin.com/pulse/microsoft-googlenot-including-apple-since-unix-linux",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHh5CGcgOO_qA/article-cover_image-shrink_600_2000/0/1642407176748?e=1648684800&v=beta&t=1AERQroJUMwF9yNs2NwH1uR4ITqBGl_8b7lOMv3pwBw",
+          "width": 1022,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member.md",
+      "title": "AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member",
+      "excerpt": "Nota (CEO Myungsu Chae), an AI optimization technology company, announced that it has been promoted to Premier status in the NVIDIA Inception program. NVIDIA Inception nurtures cutting-edge startups revolutionizing industries with advancements in AI and data science.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member-1031105822",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member-1031105822",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1724963/image_1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai.md",
+      "title": "7bridges raises $17M to automate logistics supply chains using AI",
+      "excerpt": "Supply chain logistics — getting components and eventually finished products from A to B to C — is one of the most critical parts of running a business, not least because it is one of the most complex,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/",
+      "originalUrl": "https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1319013665.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/amp/",
+      "publishedDateTime": "2022-01-16T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.md",
+      "title": "Free-energy principle can explain how neural networks are optimized for efficiency",
+      "excerpt": "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
+      "publishedDateTime": "2022-01-16T20:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-3-ways-that-artificial-intelligence-ai-will-change-your-job-forever.md",
+      "title": "3 Ways That Artificial Intelligence (AI) Will Change Your Job Forever",
+      "excerpt": "Artificial Intelligence is becoming more capable by the day, learning new skills, and with it, changing the jobs and tasks humans will perform in the future. Here we look at how artificial intelligence (AI) will change our jobs forever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e4fde1134e946cf9b0f30d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/amp/",
+      "publishedDateTime": "2022-01-16T20:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-hands-on-machine-learning-with-aws-and-nvidia.md",
+      "title": "Hands-on Machine Learning with AWS and NVIDIA",
+      "excerpt": "In this course, you will gain hands-on experience on building, training, and deploying scalable machine learning models with Amazon SageMaker and Amazon EC2 instances powered by NVIDIA GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/education/skillbuilder/hands-on-machine-learning-with-aws-and-nvidia-0_uuLQhb76EeuDZhJOHjRP6Q",
+      "originalUrl": "https://www.usnews.com/education/skillbuilder/hands-on-machine-learning-with-aws-and-nvidia-0_uuLQhb76EeuDZhJOHjRP6Q",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-16T19:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-17-amazon-suspends-police-use-of-its-facial-recognition.md",
+      "title": "Amazon Suspends Police Use of Its Facial Recognition",
+      "excerpt": "Demonstrators hold images of Amazon CEO Jeff Bezos during a protest of the company's facial recognition system, Rekognition, at Amazon headquarters in Seattle, last Halloween. (AP file photo/Elaine Thompson) NEW YORK (AP) — Amazon banned police use of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/",
+      "originalUrl": "https://www.courthousenews.com/amazon-suspends-police-use-of-its-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-16T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-01-17-computer-vision-system-market-statistics-development-and-growthmarket-players-cognex-basler-omron-2022-2027.md",
       "title": "Computer Vision System Market Statistics, Development and Growth,Market Players: Cognex, Basler, Omron-2022- 2027",
       "excerpt": "Jan 17, 2022 (Heraldkeepers) -- The Computer Vision System Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth ...",
@@ -823,402 +1193,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-ag-report-john-deere-reveals-driverless-tractor.md",
-      "title": "Ag Report: John Deere reveals driverless tractor",
-      "excerpt": "COLUMBUS - John Deere revealed its autonomous tractor at the Consumer Electronics Show earlier this month. Spectrum News 1 agriculture expert Andy Vance said farmers have used computer technology for decades.",
-      "sourceUrl": null,
-      "webUrl": "https://spectrumnews1.com/oh/cleveland/news/2022/01/12/ag-report--john-deere-reveals-driverless-tractor",
-      "originalUrl": "https://spectrumnews1.com/oh/cleveland/news/2022/01/12/ag-report--john-deere-reveals-driverless-tractor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s7d2.scene7.com/is/image/TWCNews/r4f167445_rrd_1x_01122022",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "spectrumnews1",
-        "domain": "spectrumnews1.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-why-is-the-nfl-crowd-sourcing-feckless-ai-solutions-to-its-concussion-problem.md",
-      "title": "Why is the NFL crowd-sourcing feckless AI solutions to its concussion problem?",
-      "excerpt": "Some companies have too much data and not enough humans to review. The NFL has the opposite problem. So why is it crowd-sourcing solutions?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-solutions-concussion-problem",
-      "originalUrl": "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-solutions-concussion-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fwtfnfl.jpg&signature=9fa80da85c44e5785b125cf3026e7b65",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-checkers-installing-voice-ai-in-all-company-run-locations.md",
-      "title": "Checkers Installing Voice AI in All Company-Run Locations",
-      "excerpt": "AI voice ordering is rolling out in a big way under a new partnership between the fast-food giant Checkers and tech partner Presto.",
-      "sourceUrl": null,
-      "webUrl": "https://www.franchisetimes.com/franchise_news/checkers-installing-voice-ai-in-all-company-run-locations/article_b4d593ac-7577-11ec-aab8-0fb934cd9896.html",
-      "originalUrl": "https://www.franchisetimes.com/franchise_news/checkers-installing-voice-ai-in-all-company-run-locations/article_b4d593ac-7577-11ec-aab8-0fb934cd9896.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/franchisetimes.com/content/tncms/assets/v3/editorial/c/d0/cd00feee-7577-11ec-b2b3-d3eb5c04a2fe/61e1dbd092a84.image.jpg?crop=749%2C393%2C0%2C0&resize=749%2C393&order=crop%2Cresize",
-          "width": 749,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Franchise Times",
-        "domain": "franchisetimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-facebook-has-designed-a-humanlike-mechanical-eyeball-along-with-a-body-and-head-that-would-be-covered-in-a-mold-resembling-human-skin.md",
-      "title": "Facebook has designed a humanlike mechanical eyeball, along with a body and head that would be covered in a mold 'resembling human skin.'",
-      "excerpt": "Facebook, aka Meta, has been somewhat public in its work in robotics, posting on its corporate AI department website about research on tactile sensors and open developer tools. Still, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebook-patents-animatronic-eyeball-robot-head-resembling-human-skin-meta-2022-1",
-      "originalUrl": "https://www.businessinsider.com/facebook-patents-animatronic-eyeball-robot-head-resembling-human-skin-meta-2022-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61e0b62fc5e27c00185b86f9?width=1200&format=jpeg",
-          "width": 1084,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-ai-training-leverage-your-tech-skills-and-send-your-career-soaring.md",
-      "title": "AI training: Leverage your tech skills and send your career soaring",
-      "excerpt": "If you feel like your tech career is a little stalled, all you have to do is build on the skills you already have to move up in data science, game development, IoT, cybersecurity and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-training-leverage-your-tech-skills-and-send-your-career-soaring/",
-      "publishedDateTime": "2022-01-14T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-how-ai-and-language-intelligence-are-helping-employees-learn.md",
-      "title": "How AI and language intelligence are helping employees learn",
-      "excerpt": "Embrace the transformation AI and language intelligence offer to see how human-machine collaboration can help businesses thrive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/",
-      "originalUrl": "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-970562458.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/",
-      "publishedDateTime": "2022-01-14T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement.md",
-      "title": "Duolingo is now mixing A/B testing and copy testing to boost user engagement",
-      "excerpt": "Learning a language is hard, that's why Duolingo is now using a tool called Expurrimenter to help boost user retention by trying out different messaging techniques in-app and in notifications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "originalUrl": "https://www.neowin.net/news/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2022/01/1642181054_duolingo_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/",
-      "publishedDateTime": "2022-01-14T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared.md",
-      "title": "Roborock vs. Roomba: 2 impressive robot vacuum mop combos compared",
-      "excerpt": "When the vacuum is done it will then instruct the Braava to start mopping. Both devices share your home's ... Another company, Samsung, made similar claims, but unfortunately, its Jet Bot AI Plus couldn't perform as advertised, so I'll need to test ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/kitchen-and-household/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
-      "originalUrl": "https://www.cnet.com/home/kitchen-and-household/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/wBwmRgI6ss08ArJU5-SSMcfUo_s=/1200x630/2022/01/04/1c7cad62-3698-4e16-85c4-713ad851a0ee/roborock-s7-maxv-ultra-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
-      "publishedDateTime": "2022-01-14T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

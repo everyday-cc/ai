@@ -2,6 +2,403 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-01-24-how-insight-partners-vets-ai-startups.md",
+      "title": "How Insight Partners Vets AI Startups",
+      "excerpt": "Lonne Jaffe, a managing director at Insight Partners, talked with WSJ Pro AI about the type of AI companies the New York City-based firm invests in, how it vets those companies and what it sees as the next AI opportunity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-insight-partners-vets-ai-startups-11643029203",
+      "originalUrl": "https://www.wsj.com/articles/how-insight-partners-vets-ai-startups-11643029203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-471948/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-we-are-indias-1st-telco-to-build-big-data-aiml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.md",
+      "title": "We are India's 1st telco to build Big Data AI/ML Cloud Advanced Analytics Platform on AWS: Vodafone Idea",
+      "excerpt": "Dr Chaube believes that there is a critical need for telecom service providers to transform from 'Telco to Techno' and technologies such as 5G, Artifi..",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-89093507,imgsize-71636,width-1200,height-628,overlay-ettelecom/we-are-india-s-1st-telco-to-build-big-data-ai-ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093507",
+      "publishedDateTime": "2022-01-24T03:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-why-your-next-home-will-be-built-by-robots.md",
+      "title": "Why Your Next Home Will Be Built By Robots",
+      "excerpt": "A quiet revolution is occurring in the systems used to create modern housing. The new twist on an old method is called volumetric modular manufacturing (VMM).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ead0c48891970940d30501/0x0.jpg?format=jpg&crop=3524,2348,x829,y0,safe&fit=crop",
+          "width": 3524,
+          "height": 2348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/amp/",
+      "publishedDateTime": "2022-01-24T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-tcv-backs-canadian-ai-startup-that-accelerates-drug-research.md",
+      "title": "TCV Backs Canadian AI Startup That Accelerates Drug Research",
+      "excerpt": "TCV and Inovia Capital are leading a $50 million funding round for a Canadian biomedical software startup that has some of the world’s largest pharmaceutical companies as clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canadian-ai-startup-that-accelerates-drug-research",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canadian-ai-startup-that-accelerates-drug-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGEeAY9waLeU/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock.md",
+      "title": "This Tech Giant Appears To Be A Better Pick Over Electronic Arts Stock",
+      "excerpt": "We believe that Microsoft stock currently appears to be an attractive pick over its industry peer Electronic Arts stock, despite its comparatively higher valuation. MSFT stock trades at 13.4x trailing revenues,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/24/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/24/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60d1a7a844c5c5f04eed7e3a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/24/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/01/24/this-tech-giant-appears-to-be-a-better-pick-over-electronic-arts-stock/amp/",
+      "publishedDateTime": "2022-01-24T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-artificial-intelligence-data-could-help-treat-sepsis-and-covid.md",
+      "title": "Artificial intelligence data could help treat sepsis - and COVID",
+      "excerpt": "In the early hours of Jan. 15, 2018, Neeta Long woke with what felt like a bad case of the flu — so bad, her husband, Phil, rushed her to the emergency room at B.C.'s Royal Columbian Hospital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.castanet.net/news/BC/357876/Artificial-intelligence-data-could-help-treat-sepsis-and-COVID",
+      "originalUrl": "https://www.castanet.net/news/BC/357876/Artificial-intelligence-data-could-help-treat-sepsis-and-COVID",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.castanet.net/content/2022/1/neeta-long.jpgw960._p3572578.jpg",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Castanet",
+        "domain": "castanet.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-the-race-to-ai-value-3-themes-from-new-aiml-and-deep-learning-research-report.md",
+      "title": "The Race to AI Value: 3 Themes From New AI/ML and Deep Learning Research Report",
+      "excerpt": "New study finds organisations not prioritising AI/ML and Deep Learning are losing competitiveness The artificial intelligence (AI) market is expected to reach $554.3 billion in revenue by 2024 as AI technologies gain adoption across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/race-ai-value-3-themes-from-new-aiml-deep-learning-sean-stacey-",
+      "originalUrl": "https://www.linkedin.com/pulse/race-ai-value-3-themes-from-new-aiml-deep-learning-sean-stacey-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGKQTi8QB2JtA/article-cover_image-shrink_600_2000/0/1643013654820?e=1648684800&v=beta&t=gS3hGValJL4REoros_azRgfd7IX3eZAiBK6-dQLNYZM",
+          "width": 1349,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T00:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-migrate-from-estimator-to-keras-apis.md",
+      "title": "Migrate from Estimator to Keras APIs",
+      "excerpt": "(For migrating model/checkpoint saving workflows to TensorFlow 2, check out the SavedModel and Checkpoint migration guides.) This example shows how to perform training and evaluation with tf.estimator.Estimator in TensorFlow 1. Start by defining a few ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/migrate/migrating_estimator",
+      "originalUrl": "https://www.tensorflow.org/guide/migrate/migrating_estimator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-23T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good.md",
       "title": "How AI, machine learning are being increasingly used to drive social good",
       "excerpt": "While technologies like artificial intelligence (AI) and machine learning (ML) have become part of many aspects of our daily lives in recent times, they are increasingly being used for the social good as well.",
@@ -830,387 +1227,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-irs-to-require-facial-recognition-for-digital-services.md",
-      "title": "IRS to Require Facial Recognition for Digital Services",
-      "excerpt": "People who use the IRS digital portal will need to be prepared starting in the summer to submit a live video selfie and various documentation to make and view payments and access tax records.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services",
-      "originalUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/a2d6975/2147483647/strip/true/crop/940x490+0+132/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7a%2F7d%2F80c58fef8b932e1f1ad5c9c6f006%2Fshutterstock-camera-lens-up-close.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true",
-      "publishedDateTime": "2022-01-21T15:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-everything-connected-18-orchestrating-intelligence.md",
-      "title": "Everything Connected 18 - Orchestrating Intelligence",
-      "excerpt": "Douglas Adams in the Hitchhiker's Guide to the Galaxy states that the answer to life, the universe and everything is 42, but what really is the question? We talk about Big Data and all the analytics that it entails to try to intelligently solve problems,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/everything-connected-18-orchestrating-intelligence-numorpho",
-      "originalUrl": "https://www.linkedin.com/pulse/everything-connected-18-orchestrating-intelligence-numorpho",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGzx4KA1WRijA/article-cover_image-shrink_720_1280/0/1642784572532?e=1649289600&v=beta&t=I7qMHowAGeh6fPtPB4GcoJX8Y2e5Tf8ztHmDJLAX2dY",
-          "width": 1236,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-sells-watson-health-assets-to-investment-firm.md",
-      "title": "IBM Sells Watson Health Assets to Investment Firm",
-      "excerpt": "The tech giant said its deal with Francisco Partners wouldn’t weaken its commitments to other artificial-intelligence technology and healthcare clients that use its IT services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "originalUrl": "https://www.wsj.com/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 359,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-471681/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-sells-watson-health-assets-to-investment-firm-11642772712",
-      "publishedDateTime": "2022-01-21T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-stat-partners-with-applied-xl-to-launch-a-new-clinical-trials-monitoring-platform-powered-by-artificial-intelligence.md",
-      "title": "STAT partners with Applied XL to launch a new clinical trials monitoring platform powered by artificial intelligence",
-      "excerpt": "Since 2015, our team at STAT has worked tirelessly to deliver trusted and authoritative journalism about health, medicine, and the life sciences to millions of readers around the world. We are thrilled to unveil a new product that has been",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20204007.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20204007.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.md",
-      "title": "IRS to start requiring facial recognition scans to access tax returns",
-      "excerpt": "The Internal Revenue Service is going to start requiring users of its online tax payment system to provide a selfie to a third-party company in order to access their accounts. Beginning in summer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns",
-      "originalUrl": "https://www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp",
-      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp",
-      "publishedDateTime": "2022-01-21T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Q13 FOX News",
-        "domain": "q13fox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-is-selling-off-its-watson-health-assets.md",
-      "title": "IBM is selling off its Watson Health assets",
-      "excerpt": "Watson Health was borne out of IBM's larger Watson effort, which aims to use artificial intelligence to solve a range of problems for businesses and consumers — from creating a computer that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "originalUrl": "https://www.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220121123649-ibm-office-californie-file-0120-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "publishedDateTime": "2022-01-21T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-deepmind-co-founder-mustafa-suleyman-leaves-google.md",
-      "title": "DeepMind co-founder Mustafa Suleyman leaves Google",
-      "excerpt": "Mustafa Suleyman, a co-founder of artificial intelligence research company DeepMind, has left Google to join venture capital firm Greylock Partners. Suleyman has brought to an end an eight-year run at Google,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/deepmind-ai-mustafa-suleyman-google-greylock-partners-152049755.html",
-      "originalUrl": "https://www.engadget.com/deepmind-ai-mustafa-suleyman-google-greylock-partners-152049755.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/fcd690c0-7acc-11ec-afe2-9c62fe8a75df",
-          "width": 5760,
-          "height": 3840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model.md",
-      "title": "Microsoft will force update your PCs to Windows 10 21H2 to train its own ML Update model",
-      "excerpt": "Microsoft has begun the forced rollout of Windows 10 21H2 update to Windows 10 20H2 devices in order to help train its Machine Learning-assisted intelligent Windows Update rollout model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/06/1624557503_windows_10_21h2_pc_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "publishedDateTime": "2022-01-21T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

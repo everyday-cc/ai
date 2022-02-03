@@ -29,7 +29,7 @@ related:
     provider:
       name: San Diego Union-Tribune
       domain: sandiegouniontribune.com
-    quality: 47
+    quality: 49
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/71e9bc7/2147483647/strip/true/crop/5742x3840+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F15%2F88%2F4d29ef594e77aaf56184e4d2539f%2Fsilvergate-capital.jpg"
         width: 320

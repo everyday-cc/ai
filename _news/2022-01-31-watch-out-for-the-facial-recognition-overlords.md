@@ -155,7 +155,7 @@ related:
     provider:
       name: Aclu.org
       domain: aclu.org
-    quality: 33
+    quality: 35
     images:
       - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
         width: 1200

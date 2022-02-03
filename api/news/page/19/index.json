@@ -2,6 +2,379 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-01-14-deep-learning-has-deep-problems.md",
+      "title": "Deep learning has deep problems",
+      "excerpt": "Can’t multi-task Deep learning has some major issues which will eventually lead it to become a dead end. For 20 years, deep learning has come to dominate artificial intelligence research and applications through a series of useful commercial applications But according to IEEE Spectrum the",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems",
+      "originalUrl": "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/f97416722213d9fce2e04a73b9cf58df_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-the-world-in-your-pocket-how-smartphones-will-get-smarter-in-2022.md",
+      "title": "The world in your pocket: How smartphones will get smarter in 2022",
+      "excerpt": "Google, OnePlus, Asus and Motorola give us a taste of how our phones will be more useful, intelligent and powerful over the next 12 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/9Zn77uc7NrEvhS7S7s9-IptN6dM=/2021/08/27/bb908ae7-2e0f-4120-9a87-35b83d23c133/p1016830-1.jpg",
+          "width": 5670,
+          "height": 2835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/",
+      "publishedDateTime": "2022-01-14T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-were-failing-at-the-ethics-of-ai-heres-how-we-make-real-impact.md",
+      "title": "We’re failing at the ethics of AI. Here’s how we make real impact",
+      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Stefan Klebert, Chief Executive Officer,",
+      "sourceUrl": null,
+      "webUrl": "https://europeansting.com/2022/01/14/were-failing-at-the-ethics-of-ai-heres-how-we-make-real-impact/",
+      "originalUrl": "https://europeansting.com/2022/01/14/were-failing-at-the-ethics-of-ai-heres-how-we-make-real-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://europeansting.files.wordpress.com/2022/01/robots.jpeg",
+          "width": 716,
+          "height": 1002,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://europeansting.com/2022/01/14/were-failing-at-the-ethics-of-ai-heres-how-we-make-real-impact/amp/",
+      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2022/01/14/were-failing-at-the-ethics-of-ai-heres-how-we-make-real-impact/amp/",
+      "publishedDateTime": "2022-01-14T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "europeansting.com",
+        "domain": "europeansting.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-389-billion-by-2026.md",
+      "title": "The Worldwide Far-Field Speech and Voice Recognition Industry is Expected to Reach $3.89 Billion by 2026",
+      "excerpt": "The \"Global Far-Field Speech and Voice Recognition Market (2021-2026) by Component, Application & Microphone Solution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25052541/the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-3-89-billion-by",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25052541/the-worldwide-far-field-speech-and-voice-recognition-industry-is-expected-to-reach-3-89-billion-by",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25052541",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25052541",
+      "publishedDateTime": "2022-01-14T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-timekettles-translator-earbuds-break-language-barriers-bring-in-simultaneous-translation.md",
+      "title": "Timekettle's translator earbuds break language barriers, bring in simultaneous translation",
+      "excerpt": "Translate through phone — one user speaks through the earbuds, the other - through the paired phone Continuous translation — leave your phone next to a speaker and get continuous translation of their words (like for lectures) Share earbuds — users get one earbud each,",
+      "sourceUrl": null,
+      "webUrl": "https://www.phonearena.com/news/live-translation-earbuds-talk-freely_id137680",
+      "originalUrl": "https://www.phonearena.com/news/live-translation-earbuds-talk-freely_id137680",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m-cdn.phonearena.com/images/article/137680-wide-two_1200/Timekettles-translator-earbuds-break-language-barriers-bring-in-simultaneous-translation.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T01:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phone Arena",
+        "domain": "phonearena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-from-robot-soccer-to-speedgate-these-sports-of-the-future-already-exist.md",
+      "title": "From robot soccer to speedgate, these sports of the future already exist",
+      "excerpt": "These high-tech sports may sound like they come from the future, but they already exist. Here are some of the most ground-breaking. In drone soccer, teams of between three and five pilots score points by flying their \"striker\" drone through their opponent's goal,",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/01/14/sport/futuristic-high-tech-sports-spc-intl/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/01/14/sport/futuristic-high-tech-sports-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220113174210-robocup-2019-sydney-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/01/14/sport/futuristic-high-tech-sports-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/14/sport/futuristic-high-tech-sports-spc-intl/index.html",
+      "publishedDateTime": "2022-01-14T01:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-metas-spanish-language-moderators-describe-harrowing-tale-of-working-amid-pandemic.md",
+      "title": "Meta’s Spanish language moderators describe harrowing tale of working amid pandemic",
+      "excerpt": "Meta's Spanish language moderarors have been required to report to the office since April 2021 despite the rising number of Covid cases in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bgr.in/news/metas-spanish-language-moderators-describe-harrowing-tale-of-working-amid-pandemic-1036063/",
+      "originalUrl": "https://www.bgr.in/news/metas-spanish-language-moderators-describe-harrowing-tale-of-working-amid-pandemic-1036063/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.bgr.in/wp-content/uploads/2022/01/meta-1200-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T00:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "www.bgr.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-ai-driven-asset-management-startup-catapulted-to-fame-by-tesla-trades-raises-146m-from-softbank.md",
+      "title": "AI-Driven Asset Management Startup, Catapulted To Fame By Tesla Trades, Raises $146M From SoftBank",
+      "excerpt": "Artificial intelligence-focused fintech group Qraft Technologies Inc. said it has received a $146 million investment from Japanese conglomerate SoftBank Group Corp. (OTC: SFTBY).",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/ai-driven-asset-management-startup-catapulted-to-fame-by-tesla-trades-raises-146m-from-softbank-1031102394",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/ai-driven-asset-management-startup-catapulted-to-fame-by-tesla-trades-raises-146m-from-softbank-1031102394",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/jp-valery-lvfoii3sjq8-unsplash_2.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-the-neuropathic-pain-market-to-get-driven-by-machine-learning.md",
       "title": "The Neuropathic Pain Market to get driven by Machine Learning",
       "excerpt": "The Neuropathic Pain Market is ascertained to make greater strides in the future The present day and futuristic cutting edge technology namely IoT AI and Big Data operate better in a lightning fast and reliable internet connection The benefits of",
@@ -393,6 +766,41 @@
       ]
     },
     {
+      "path": "_news/2022-01-14-cognitive-computing-and-artificial-intelligence-systems-market-in-healthcare-expected-to-reach-161-billion-by-2022.md",
+      "title": "Cognitive Computing and Artificial Intelligence Systems Market in Healthcare Expected to Reach $16.1 billion by 2022",
+      "excerpt": "Major market players such as IBM, Microsoft and Google have made significant investments in finding healthcare uses for cognitive computing ... software and services. Whereas, based on technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2019/01/cognitive-computing-and-artificial-intelligence-systems-market-in-healthcare-expected-to-reach-16-1-billion-by-2022.html",
+      "originalUrl": "https://www.medgadget.com/2019/01/cognitive-computing-and-artificial-intelligence-systems-market-in-healthcare-expected-to-reach-16-1-billion-by-2022.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-janes-news-page.md",
       "title": "Janes - News page",
       "excerpt": "Boeing is to expand its F/A-18E/F Super Hornet and EA-18G Growler industrial team for Germany, with ... New Czech Defence Minister Jana Černochová presented her ministry's priorities during a ...",
@@ -729,449 +1137,6 @@
       "provider": {
         "name": "Business Because",
         "domain": "businessbecause.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-how-protais-ai-powered-platform-is-improving-drug-discovery.md",
-      "title": "How Protai’s AI-powered platform is improving drug discovery",
-      "excerpt": "Protai claims it's reshaping the drug discovery and development process using proteomics and an end-to-end AI-based platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/",
-      "originalUrl": "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1331723660-e1642087280811.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/",
-      "publishedDateTime": "2022-01-13T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-sales-enablement-startup-highspot-raises-248m-at-35b-valuation.md",
-      "title": "Sales enablement startup Highspot raises $248M at $3.5B valuation",
-      "excerpt": "Sales software maker Highspot Inc. today said that it has raised a $248 million funding round after growing revenues nearly tenfold over the last three years. B Capital Group and D1 Capital Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/",
-      "originalUrl": "https://siliconangle.com/2022/01/13/sales-enablement-startup-highspot-raises-248m-3-5b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1138450928.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/amp/",
-      "publishedDateTime": "2022-01-13T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic.md",
-      "title": "New startup shows how emotion-detecting AI is intrinsically problematic",
-      "excerpt": "Hume, a new company emerging from stealth, claims that it is 'ethically' applying emotion AI. But the science is shaky at best.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/",
-      "originalUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/YouFirst-AI-emotion-tracking-brand-video-campaigns.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/amp/",
-      "publishedDateTime": "2022-01-13T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-microsoft-msft-accelerates-manufacturing-homegrown-chips.md",
-      "title": "Microsoft (MSFT) Accelerates Manufacturing Homegrown Chips",
-      "excerpt": "Microsoft (MSFT) hires key Apple engineer Mike Filippo to manufacture in-house processors for the servers running its cloud-computing services and Surface line of personal computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/413080",
-      "originalUrl": "https://www.entrepreneur.com/article/413080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-413080.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond.md",
-      "title": "16 Industries And Functions That Will Benefit From AI In 2022 And Beyond",
-      "excerpt": "The experts of Forbes Technology Council are always looking ahead to the latest trends in cutting-edge technology. Below, 16 of them share the industries they believe have the most to gain from implementing AI as well as how the technology will be specifically applied in 2022 and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61df1425c8d22322f13806f0%2F0x0.jpg",
-          "width": 1200,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/",
-      "publishedDateTime": "2022-01-13T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-advancing-genomics-to-better-understand-and-treat-disease.md",
-      "title": "Advancing genomics to better understand and treat disease",
-      "excerpt": "Genome sequencing can help us better understand, diagnose and treat disease. For example, healthcare providers are increasingly using genome sequencing to diagnose rare genetic diseases, such as elevated risk for breast cancer or pulmonary arterial hypertension, which are estimated to affect roughly",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/advancing-genomics-better-understand-and-treat-disease/",
-      "originalUrl": "https://blog.google/technology/health/advancing-genomics-better-understand-and-treat-disease/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-Genome-Graphics_blog.max-700x700.png",
-          "width": 684,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/health/advancing-genomics-better-understand-and-treat-disease/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/advancing-genomics-better-understand-and-treat-disease/amp/",
-      "publishedDateTime": "2022-01-13T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-investing-in-ai-or-vr-stocks-dont-overlook-meta-platforms-in-2022.md",
-      "title": "Investing in AI or VR Stocks? Don't Overlook Meta Platforms in 2022",
-      "excerpt": "I want to take a quick look about Meta Platforms, formerly known as Facebook. I'm going to take a quick look at three things. First, just the current market it's hit",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/01/13/investing-in-ai-or-vr-stocks-dont-overlook-meta-pl/",
-      "originalUrl": "https://www.fool.com/investing/2022/01/13/investing-in-ai-or-vr-stocks-dont-overlook-meta-pl/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/661066/gettyimages-1351141161.jpg",
-          "width": 2120,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-leaders-across-healthcare-academia-and-technology-form-new-coalition-to-transform-healthcare-journey-through-responsible-ai-adoption.md",
-      "title": "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption",
-      "excerpt": "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C).",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature.md",
-      "title": "Electric Vehicle Checkpoint: Tesla Will Raise Price of Self-Driving Feature",
-      "excerpt": "See the latest news for the top stocks in the electric vehicle space including Ford, Rivian, Lucid, Nio, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature",
-      "originalUrl": "https://www.thestreet.com/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgyODY1MjE0OTAxODU1NTg0/nyse-trader_4.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature",
-      "publishedDateTime": "2022-01-13T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
         "images": null,
         "publishers": null,
         "authors": null

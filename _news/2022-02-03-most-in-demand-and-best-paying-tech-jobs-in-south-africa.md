@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "South Africa and technological unemployment, the bleakness ahead"
+    excerpt: "Everyday realities faced by the majority of South Africans. Unemployment has just about doubled in the past decade, escalating food prices and ever-increasing petrol prices. These all have an impact on the standard of living of all South Africans."
+    publishedDateTime: 2022-02-02T19:14:00Z
+    webUrl: "https://www.linkedin.com/pulse/south-africa-technological-unemployment-bleakness-ahead-magagane"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
   - title: "Financial Services News South Africa"
     excerpt: "We provide a quality service for our clients by staying abreast of accounting and tax law changes and by taking a proactive interest in the efficient financial management of your business."
     publishedDateTime: 2022-02-01T21:42:00Z

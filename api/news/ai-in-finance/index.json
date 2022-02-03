@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-03-humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets.md",
+      "title": "Humans vs AI: Here's who's better at making money in financial markets",
+      "excerpt": "Artificial intelligence (AI) has now closely matched or even surpassed ... emergence and growth of the financial technology industry (FinTech), where technology startups increasingly challenge ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-02-humans-ai-money-financial.html",
+      "originalUrl": "https://phys.org/news/2022-02-humans-ai-money-financial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/humans-vs-ai-heres-who.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-02-humans-ai-money-financial.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-humans-ai-money-financial.amp",
+      "publishedDateTime": "2022-02-02T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-five-fintech-predictions-for-2022.md",
       "title": "Five Fintech Predictions For 2022",
       "excerpt": "Automation solutions like robotic process automation (RPA) are ideal in increasing workplace efficiencies, while also eliminating cost-creating redundancies.",
@@ -1325,59 +1368,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-how-to-build-a-data-science-and-machine-learning-roadmap-in-2022.md",
-      "title": "How to build a data science and machine learning roadmap in 2022",
-      "excerpt": "Despite the growing enthusiasm for DSML's core technologies, getting results from its strategies is elusive for enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/",
-      "originalUrl": "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1081869346-e1641824655432.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/amp/",
-      "publishedDateTime": "2022-01-10T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

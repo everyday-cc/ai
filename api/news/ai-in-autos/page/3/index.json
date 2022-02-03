@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-12-tesla-could-be-forced-to-report-full-self-driving-beta-data-to-dmv-after-videos-showing-dangerous-use.md",
+      "title": "Tesla could be forced to report Full Self-Driving Beta data to DMV after ‘videos showing dangerous use’",
+      "excerpt": "Tesla, who managed to avoid reporting autonomous driving data to the DMV, could be forced to open the books on its Full Self-Driving (FSD) Beta to the California DMV after what the latter called “videos showing dangerous use”.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
+      "originalUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/",
+      "publishedDateTime": "2022-01-12T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-richardsons-skyven-raises-65m-in-oversubscribed-seed-round-and-grants-for-its-clean-tech.md",
       "title": "Richardson’s Skyven Raises $6.5M in Oversubscribed Seed Round and Grants for Its Clean Tech",
       "excerpt": "The energy-as-a-service company aims to reduce industrial emissions through AI and an IoT platform that identifies areas to lower fuel consumption.",
@@ -1359,49 +1411,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-mobileyes-self-driving-secret-200pb-of-data.md",
-      "title": "Mobileye’s Self-Driving Secret? 200PB of Data",
-      "excerpt": "Mobileye is sitting on a virtual treasure trove of driving data – some 200 petabytes worth. When combined with Mobileye’s state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-d12f56491bde4d348d137f961210da33",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-d12f56491bde4d348d137f961210da33",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

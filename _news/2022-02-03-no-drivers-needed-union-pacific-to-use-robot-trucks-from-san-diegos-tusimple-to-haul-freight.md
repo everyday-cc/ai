@@ -8,8 +8,8 @@ webUrl: "https://www.sandiegouniontribune.com/business/story/2022-02-02/no-drive
 ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-02-02/no-drivers-needed-union-pacific-to-use-robot-trucks-from-san-diegos-tusimple-to-haul-freight?_amp=true"
 cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-02-02/no-drivers-needed-union-pacific-to-use-robot-trucks-from-san-diegos-tusimple-to-haul-freight?_amp=true"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://ca-times.brightspotcdn.com/dims4/default/71e9bc7/2147483647/strip/true/crop/5742x3840+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F15%2F88%2F4d29ef594e77aaf56184e4d2539f%2Fsilvergate-capital.jpg"
@@ -67,6 +68,6 @@ related:
       domain: azcentral.com
     quality: 5
 
-secured: "Kauj6kDPn9ja5fvNfEelOhxU4KtkdukDw7FbbSqvIOTKqjJywZrT/smzIHBZUEvaFstQtBw9it1EWLVkc8R8pLoo81rCqRveKDHaCbDnSg47NP0eNszuDlhL2ib4+De/lANH+7ACueOd4fA57lEWmTX2de9Fycp6fTy7J92vM+oJJdzUV/5Ri0b0sctlZTrCygYWhye09jemHVOdQ7pBhRqNIwcYaLHYN+vFoOAK9bgU0HCm+IgMdV2hwEUooCq/MuZKsZiEWpVE96Vu1H7iC+4VFnofw7/8WTXJH7FTbNNDy7a7xBOXeTxuKLUy1dm1TRz/IelmV0jOQiWcPF5oU9nneDcAG445tnlyjdtoHeM=;PioY1hkzyRyBSC9R8Bt76g=="
+secured: "gmdl7RusFKHKlSY0Awk3d7OwBf5V2DqByMAqwk26esLtF2xLn7529EH9pJXTWXquUQas+RRid+UyN2s3DSheLtfVw4Eof3tLj4UQ3nlKxHwy2d9800O81gFJ51xoiTYjvPtvqGIeTsBrBHT1mMGNk19swTnMYzpCNMGNhoWvTbFCgF4NH6XF99V9kqljBQe5/2G+nIFOzw3urHin3KFD5rcxHHWwmcTpTSe6MV2pZYk+YG2jDav5wD2DsJcSwWCfODvrLrl8rJU9DhUq02pMNVuxGtZjApYzGiQZAMS6vDb/MqVUw3yOsJSgtRM9nOkg1B5jEKRZaUJWi2hbaXVTr7jaqbQRjD4LiIfU8MeYGmrn3hmJ0ORjiGWc02cUANRBIU8Evrr/sBN4AqL9YQPqySTMAeDSun9JSbIgbTGIx3eMM9AgBEBTSocSFg33UfSax5LVADGr70m3C4G+bagwHtOlc30OffxiAk2KJ5+kUYSe5q2ZctOyKDkoo8xb1pPPIdWwKBX5PU3cOo1m16K8Cw==;pjjnl9ljIJ+dpCsx8OSvow=="
 ---
 

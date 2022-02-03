@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362104
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office?amp"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -56,17 +56,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Fujitsu Establishes AI Ethics & Governance Office To Ensure Safe & Secure Deployment Of AI & Leading-edge Tech"
-    excerpt: "Fujitsu Establishes AI Ethics and Governance Office to Ensure the Safe and Secure Deployment of AI and Leading-edge Technologies in Society. TOKYO, Jan 28, 2022 - (JCN Newswire) -"
-    publishedDateTime: 2022-01-29T07:48:00Z
-    webUrl: "https://www.scoop.co.nz/stories/SC2201/S00041/fujitsu-establishes-ai-ethics-governance-office-to-ensure-safe-secure-deployment-of-ai-leading-edge-tech.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/SC2201/S00041/fujitsu-establishes-ai-ethics-governance-office-to-ensure-safe-secure-deployment-of-ai-leading-edge-tech.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2201/S00041/fujitsu-establishes-ai-ethics-governance-office-to-ensure-safe-secure-deployment-of-ai-leading-edge-tech.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 34
   - title: "Fujitsu establishes AI ethics and governance office"
     excerpt: "Fujitsu Ltd has announced the decision to establish a new organization to strengthen its governance of AI ethics. The company said building and maintaining trust remains central to all of its business activities,"
     publishedDateTime: 2022-01-31T21:58:00Z

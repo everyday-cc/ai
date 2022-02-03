@@ -2,6 +2,421 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-01-13-machine-learning-and-natural-language-processing-size-does-matter.md",
+      "title": "Machine learning and natural language processing – size does matter!",
+      "excerpt": "Natural language processing has made huge progress in the last few years, leading to massive advances in areas like machine translation and potentially useful tools for content authors and editors. How was it done?",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/machine-learning-natural-language-processing-size-does-matter-",
+      "originalUrl": "https://www.linkedin.com/pulse/machine-learning-natural-language-processing-size-does-matter-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQE_FAvVvkL2NA/article-cover_image-shrink_720_1280/0/1641814713549?e=1648684800&v=beta&t=l8BaQavdUSAC7hjxtSY7MhQiy1PC8WTl7ccbKNih4jA",
+          "width": 1199,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-facial-recognition-market-size-2022-global-industry-current-trends-top-companies-application-growth-factors-development-and-forecast-to.md",
+      "title": "Facial Recognition Market Size 2022: Global Industry Current Trends, Top Companies, Application, Growth Factors, Development And Forecast To 2026",
+      "excerpt": "Jan 13, 2022 (Market Insight Reports) -- Facial Recognition Market size is set to hit USD 12 billion by 2026, according to a new research report by Global Market Insights, Inc. Global facial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-global-industry-current-trends-top-companies-application-growth-factors-development-and-forecast-to-2026-2022-01-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-global-industry-current-trends-top-companies-application-growth-factors-development-and-forecast-to-2026-2022-01-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-sezzle-takes-aim-at-bnpl-fraud-with-ai-machine-learning.md",
+      "title": "Sezzle Takes Aim at BNPL Fraud With AI, Machine Learning",
+      "excerpt": "The latest in digital fraud 2. An interview with Sezzle on using technology like AI and ML to reduce fraud 3. A Deep Dive on fraud in buy now, pay later",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/",
+      "originalUrl": "https://www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2022/01/digital-fraud-buy-now-pay-later-artificial-intelligence-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/amp/",
+      "publishedDateTime": "2022-01-13T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-blended-learning-will-be-the-way-forward-for-the-education-sector.md",
+      "title": "Blended Learning Will Be the Way Forward For the Education Sector",
+      "excerpt": "Blended learning or a balanced composition of physical and digital learning has now become the ‘New Essential’",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/412942",
+      "originalUrl": "https://www.entrepreneur.com/article/412942",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1642064172-Myproject17.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T00:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-dream-by-wombo-is-being-used-to-create-tons-of-ai-powered-video-game-artwork.md",
+      "title": "Dream by Wombo is being used to create tons of AI-powered video game artwork",
+      "excerpt": "Dream by Wombo is being used to create tons of AI-powered video game artwork. While Dream was released in November, it looks like it started catching on in Japan around December and January.",
+      "sourceUrl": null,
+      "webUrl": "https://automaton-media.com/en/news/20220113-8419/",
+      "originalUrl": "https://automaton-media.com/en/news/20220113-8419/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://automaton-media.com/en/wp-content/uploads/2022/01/20220113-188537-header.jpg",
+          "width": 1372,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://automaton-media.com/en/news/20220113-8419/amp/",
+      "cdnAmpWebUrl": "https://automaton--media-com.cdn.ampproject.org/c/s/automaton-media.com/en/news/20220113-8419/amp/",
+      "publishedDateTime": "2022-01-13T00:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "automaton-media",
+        "domain": "automaton-media.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-upstart-a-buy-rating-for-this-ai-based-fintech-winner-in-the-making.md",
+      "title": "Upstart: A Buy Rating For This AI-Based Fintech Winner In The Making",
+      "excerpt": "Upstart's superior AI-based model brings strong value proposition to consumers and bank partners. Read more to see why UPST is a Buy now and my PT.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4479438-upstart-upst-fintech-winner-stock-buy",
+      "originalUrl": "https://seekingalpha.com/article/4479438-upstart-upst-fintech-winner-stock-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1283432364/medium_image_1283432364.jpg",
+          "width": 768,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4479438-upstart-upst-fintech-winner-stock-buy",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4479438-upstart-upst-fintech-winner-stock-buy",
+      "publishedDateTime": "2022-01-12T23:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-rta-forum-reviews-traffic-rules-of-driverless-flying-taxis-in-dubai.md",
+      "title": "RTA forum reviews traffic rules of driverless flying taxis in Dubai",
+      "excerpt": "DUBAI- Dubai’s Roads and Transport Authority (RTA) has recently held the first legal forum to review the rules and regulations governing operations for passenger transport autonomous air vehicles. This preliminary step aims to chart out suitable structures and develop rules and regulations required for the operation of this ultra-advanced mode of future transportation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/uae/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/",
+      "originalUrl": "https://www.zawya.com/uae/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/170926082913CCGH.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/WAM20220112142948653/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/WAM20220112142948653/",
+      "publishedDateTime": "2022-01-12T22:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-ai-comes-alive-in-industrial-automation.md",
+      "title": "AI Comes Alive in Industrial Automation",
+      "excerpt": "Artificial intelligence (AI ... With RL, you have deep learning and within the deep neural network of an ML learning network,” said Nicholson. “You can apply the algorithms to robots. As the robots learn their tasks, they get a numerical reward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/ai-comes-alive-industrial-automation",
+      "originalUrl": "https://www.designnews.com/automation/ai-comes-alive-industrial-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/2A8YM6D.jpg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-is-amazon-creepier-than-google-at-this-point.md",
+      "title": "Is Amazon creepier than Google at this point?",
+      "excerpt": "We could go on and on. Remember Rekognition, the facial recognition system Amazon allowed police to use that sparked fears the company was essentially supporting the surveillance state?",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/business/amazon-vs-google-too-creepy-privacy-scandals/",
+      "originalUrl": "https://bgr.com/business/amazon-vs-google-too-creepy-privacy-scandals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2019/01/1b8toh.jpg?quality=82&strip=all",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/business/amazon-vs-google-too-creepy-privacy-scandals/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/business/amazon-vs-google-too-creepy-privacy-scandals/amp/",
+      "publishedDateTime": "2022-01-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-just-in-pentagon-research-priorities-to-include-microelectronics-next-g.md",
       "title": "JUST IN: Pentagon Research Priorities to Include Microelectronics, 'Next-G'",
       "excerpt": "The Pentagon's research and engineering office's list of 14 technology priorities will be revealed as early as Jan. 17, Undersecretary of Defense for Research and Engineering Heidi Shyu told reporters.",
@@ -706,435 +1121,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-seekout-will-expand-ai-powered-recruitment-tools-with-new-125m.md",
-      "title": "SeekOut will expand AI-powered recruitment tools with new $125M",
-      "excerpt": "SeekOut, an AI-powered recruitment platform, has raised $125 million in funding to expand its software platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/",
-      "originalUrl": "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1092756998-e1636570502724.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/amp/",
-      "publishedDateTime": "2022-01-12T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-ai-futureai-raises-2-million-to-develop-artificial-general-intelligence.md",
-      "title": "AI: FutureAI Raises $2 Million to Develop Artificial General Intelligence",
-      "excerpt": "Today, FutureAI, an early-stage deep technology startup, announced that it has raised $2 million in an initial funding round. The company is developing artificial general intelligence (AGI) that replicates facets of the true understanding common to all human beings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ai-futureai-raises-2-million-develop-artificial-general-/2022/01/12/9524861.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ai-futureai-raises-2-million-develop-artificial-general-/2022/01/12/9524861.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T05:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions.md",
-      "title": "Acuity Brands expands tie-up with Microsoft to enable sustainable building solutions",
-      "excerpt": "Acuity Brands (AYI) expands its collaboration with Microsoft (MSFT) to bring new capabilities to AYI smart lighting, lighting controls and building automation",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
-      "originalUrl": "https://seekingalpha.com/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
-      "publishedDateTime": "2022-01-12T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-tesla-could-be-forced-to-report-full-self-driving-beta-data-to-dmv-after-videos-showing-dangerous-use.md",
-      "title": "Tesla could be forced to report Full Self-Driving Beta data to DMV after ‘videos showing dangerous use’",
-      "excerpt": "Tesla, who managed to avoid reporting autonomous driving data to the DMV, could be forced to open the books on its Full Self-Driving (FSD) Beta to the California DMV after what the latter called “videos showing dangerous use”.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
-      "originalUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/",
-      "publishedDateTime": "2022-01-12T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-placerai-a-location-analytics-startup-finds-100m-at-a-1b-valuation.md",
-      "title": "Placer.ai, a location analytics startup, finds $100M at a $1B valuation",
-      "excerpt": "Many of us are moving around these days a lot less than we used to — because of Covid, we’re working from home instead of an office; and we are traveling and going out less. Now, as we shift back into more “normal” behavior,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/",
-      "originalUrl": "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 277,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-76530606.jpg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/",
-      "publishedDateTime": "2022-01-12T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana.md",
-      "title": "Headspace Health acquires AI-powered mental health and wellness company Sayana",
-      "excerpt": "Headspace Health has acquired Sayana, an AI-powered mental health and wellness company, for an undisclosed amount. Headspace Health says the acquisition of the San Francisco-based company will expand its ability to provide personalized self-care to its users.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/",
-      "originalUrl": "https://techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/HH_Sayana.png?w=1024",
-          "width": 1022,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/amp/",
-      "publishedDateTime": "2022-01-12T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-ai-standards-hub-will-help-uk-businesses-improve-ai-governance.md",
-      "title": "AI Standards Hub will help UK businesses improve AI governance",
-      "excerpt": "The launch of the initiative, led by the Alan Turing Institute, comes as 1.3 million UK businesses are expected to use AI by 2040",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1641989946/itpro/GettyImages-AI-concept.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp",
-      "publishedDateTime": "2022-01-12T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-snowflake-stock-looks-like-a-buy-at-300.md",
-      "title": "Snowflake Stock Looks Like A Buy At $300",
-      "excerpt": "Cloud-based data warehousing specialist Snowflake stock (NYSE: SNOW) stock has declined by almost 15% over the last month, trading at about $300 per share currently. The decline comes on the back of a broader sell-off in software names and high-multiple",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b4a0f0e0601e4e30a76c44%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/amp/",
-      "publishedDateTime": "2022-01-12T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants.md",
-      "title": "Daring more raw AI-ness, a critique of personified voice assistants",
-      "excerpt": "Personality and gender in voice assistants is not something that emerges due to the nature of “AI systems”. Rather, it is",
-      "sourceUrl": null,
-      "webUrl": "https://uxdesign.cc/daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants-a700ec8cc7fe",
-      "originalUrl": "https://uxdesign.cc/daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants-a700ec8cc7fe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*aL6JXr0isbYlFpddX1l0ZA.png",
-          "width": 1200,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "uxdesign.cc",
-        "domain": "uxdesign.cc",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

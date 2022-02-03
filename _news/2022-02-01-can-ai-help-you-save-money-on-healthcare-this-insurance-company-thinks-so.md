@@ -87,20 +87,6 @@ related:
         width: 1000
         height: 643
         isCached: true
-  - title: "Global technology leaders back regulation of Artificial Intelligence"
-    excerpt: "Artificial intelligence has changed the world and our daily lives. In the coming years, experts predict a meteoric growth in its use. Given the even greater role artificial intell"
-    publishedDateTime: 2022-01-29T07:53:00Z
-    webUrl: "https://www.barandbench.com/columns/global-technology-leaders-back-regulation-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Bar & Bench
-      domain: barandbench.com
-    quality: 41
-    images:
-      - url: "https://gumlet.assettype.com/barandbench%2Fimport%2F2016%2F05%2FAI.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 736
-        height: 432
-        isCached: true
   - title: "Can 5G help speed up AI adoption?"
     excerpt: "G is set to transform the technology world. To gain explore some of the key triggers with the 5G movement and how well it will be rolled out, Digital Journal caught up with EdgeQ CEO Vinay Ravuri. With the roll-out of 5G,"
     publishedDateTime: 2022-01-30T19:10:00Z

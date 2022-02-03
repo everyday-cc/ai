@@ -2,6 +2,248 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-29-the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd.md",
+      "title": "The Grain Of Truth In The Critique Of Musk, Tesla And Full Self Driving (FSD)",
+      "excerpt": "The internet erupted last week following the publication of a full-page ad in the New York Times asserting “Don’t be a Tesla Crash Test Dummy” and impugned “Elon Musk’s ill-advised Full Self-Driving robot car experiment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/",
+      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 366,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ee51e20bb0c3fb5b11b53a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/",
+      "publishedDateTime": "2022-01-28T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-why-massachusetts-is-ground-zero-for-the-fight-against-facial-recognition.md",
+      "title": "Why Massachusetts is ground-zero for the fight against facial recognition",
+      "excerpt": "Massachusetts has had a number of cities ban facial recognition in the absence of federal laws as conversations about the technology heat up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/",
+      "originalUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2022/01/massachusetts-cities-banning-facial-recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/massachusetts-banning-facial-recognition/?amp",
+      "publishedDateTime": "2022-01-28T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-waymo-sues-california-dmv-over-robotaxi-safety-data.md",
+      "title": "Waymo Sues California DMV Over Robotaxi Safety Data",
+      "excerpt": "The driverless car company — which is owned by Google parent Alphabet Inc. — operates an autonomous taxi fleet in San Francisco, and the question in the suit is whether public safety-related data can be a trade secret.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data",
+      "originalUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/0ed328f/2147483647/strip/true/crop/940x490+0+46/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa0%2F40%2Ff54af073727f3f1d09fcd332e8ba%2Fwaymo.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true",
+      "publishedDateTime": "2022-01-28T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-achieve-ai-success-with-a-people-first-data-strategy.md",
+      "title": "Achieve AI Success With A People-First Data Strategy",
+      "excerpt": "As the pandemic has accelerated digital transformation, organizations are successfully deploying and scaling AI projects across more sophisticated, critical scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f4135315543e644d7440a4/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/amp/",
+      "publishedDateTime": "2022-01-28T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate.md",
+      "title": "Use a web browser plugin to quickly translate text with Amazon Translate",
+      "excerpt": "Web browsers can be a single pane of glass for organizations to interact with their information—all of the tools can be viewed and accessed on one screen so that users don’t have to switch between applications and interfaces. For example, a customer call center might have several different applications",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/24/ML-6697-image009.png",
+          "width": 323,
+          "height": 303,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-28T08:18:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-28-causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making.md",
       "title": "CausaLens gets $45M for no-code technology that introduces cause and effect into AI decision making",
       "excerpt": "One of the most popular applications of artificial intelligence to date has been to use it to predict things, using algorithms trained with historical data to determine a future outcome. But popularity doesn’t always mean success: predictive AI leaves out a lot of the nuance,",
@@ -331,6 +573,92 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-facebook-owner-meta-builds-worlds-most-powerful-ai-supercomputer.md",
+      "title": "Facebook owner Meta builds world’s most powerful AI supercomputer",
+      "excerpt": "It said the system would build on recent improvements in AI such as language translation and image recognition to pave the way for the “metaverse”, the immersive virtual worlds that the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/technology/2022/01/24/facebook-owner-meta-builds-worlds-powerful-ai-supercomputer/",
+      "originalUrl": "https://www.telegraph.co.uk/technology/2022/01/24/facebook-owner-meta-builds-worlds-powerful-ai-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/technology/2022/01/24/TELEMMGLPICT000275946245_trans_NvBQzQNjv4BqvqfDbYV_7XcRT56v9L25rEz8u_yM_qElUUgDZt2_D2M.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T23:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-2d-materials-could-be-used-to-simulate-brain-synapses-in-computers.md",
+      "title": "2D Materials could be used to simulate brain synapses in computers",
+      "excerpt": "a component that acts as a sort of synaptic cell in an artificial neural network, says KTH Associate Professor Max Hamedi. \"Instead of transistors that are either on or off, and the need for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/01/220128100738.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/01/220128100738.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -869,324 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-elon-musk-tesla-is-prioritizing-product-development-of-optimus-humanoid-robot-in-2022.md",
-      "title": "Elon Musk: Tesla is prioritizing product development of Optimus humanoid robot in 2022",
-      "excerpt": "Elon Musk announced that Tesla is going to be shifting its product development to make Tesla Bot, a humanoid robot also known as Optimus, a priority in 2022. This is quite a surprising change of strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/",
-      "originalUrl": "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/27/elon-musk-tesla-prioritizing-product-development-optimus-humanoid-robot-2022/amp/",
-      "publishedDateTime": "2022-01-27T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models.md",
-      "title": "Vanti Analytics secures $16M to assist manufacturers in deploying AI models",
-      "excerpt": "Vanti Analytics, a startup developing an AI model management platform for manufacturers , has raised $16 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/",
-      "originalUrl": "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/aluminum-manufacturing_recycle-aluminum_05102018.jpg?w=1200&strip=all",
-          "width": 1142,
-          "height": 940,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/",
-      "publishedDateTime": "2022-01-27T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-artificial-intelligence-why-you-cant-afford-to-ignore-it-any-longer.md",
-      "title": "Artificial Intelligence: Why you can’t afford to ignore it any longer",
-      "excerpt": "By Jonathan Bowdler, Head of Regulatory, ICA Once, public understanding of artificial intelligence (AI) derived only from science-fiction novels and cinema – various Terminators, I, Robot, Blade Runne",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-why-you-cant-afford-ignore-any-longer-",
-      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-why-you-cant-afford-ignore-any-longer-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQH5vtW0CA0HMA/article-cover_image-shrink_720_1280/0/1643205321176?e=1649289600&v=beta&t=HL2K_Wn7U9uYkGDBaSHaa2coLRo-lWpi3dIAzvssdC4",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-artificial-intelligence-startup-rehinged-launches-carenet-ai.md",
-      "title": "Artificial Intelligence Startup, Rehinged, Launches Carenet AI",
-      "excerpt": "Rehinged, Inc announced the launch of Carenet AI, their market intelligence platform specifically built for the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/",
-      "originalUrl": "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/01/Artificial-Intelligence-Startup_-Rehinged_-Launches-Carenet-AI-01.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/artificial-intelligence-startup-rehinged-launches-carenet-ai/amp/",
-      "publishedDateTime": "2022-01-27T01:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-3-beaten-down-fintech-stocks-to-buy-now.md",
-      "title": "3 Beaten-Down Fintech Stocks to Buy Now",
-      "excerpt": "The fintech industry received more than its fair share of abuse during the current stock market correction. While these are relatively high-risk stocks, it's going to take more than a higher interest rate environment to stop them from disrupting their respective niches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702",
-      "originalUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?time=1643279702",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-beaten-down-fintech-stocks-to-buy-now?amp",
-      "publishedDateTime": "2022-01-27T01:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-ai-and-optimism-jim-mellon-wants-us-all-to-live-longer.md",
-      "title": "AI And Optimism: Jim Mellon Wants Us All To Live Longer",
-      "excerpt": "The longevity industry today is like the internet industry of 20 years ago, when it was still in its dial-up phase, and downloading information was like sucking jelly through a straw.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2022/01/27/ai-and-optimism-jim-mellon-wants-us-all-to-live-longer/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/01/27/ai-and-optimism-jim-mellon-wants-us-all-to-live-longer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f02a4534ff21fd58c99297/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/01/27/ai-and-optimism-jim-mellon-wants-us-all-to-live-longer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/01/27/ai-and-optimism-jim-mellon-wants-us-all-to-live-longer/amp/",
-      "publishedDateTime": "2022-01-27T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-19025-million-by-2028.md",
-      "title": "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028",
-      "excerpt": "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25252700",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25252700",
-      "publishedDateTime": "2022-01-27T01:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

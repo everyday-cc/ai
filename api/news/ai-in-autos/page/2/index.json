@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-20-visionnav-targets-european-market.md",
+      "title": "VisionNav targets European market",
+      "excerpt": "VisionNav targets European market, China. This is a news story by Forkliftaction News, a weekly independent publication about forklifts and the materials handling industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forkliftaction.com/news/visionnav-targets-european-market.aspx?n=25644",
+      "originalUrl": "https://www.forkliftaction.com/news/visionnav-targets-european-market.aspx?n=25644",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forkliftaction.com/upload/gallery/25284.jpg?s=2?v0023-1",
+          "width": 640,
+          "height": 273,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-19T22:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "forklift",
+        "domain": "forkliftaction.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-how-to-invest-in-artificial-intelligence-3-companies-to-watch.md",
       "title": "How to Invest in Artificial Intelligence -- 3 Companies to Watch",
       "excerpt": "Artificial Intelligence has long been a staple of ... From the sudden reality of driverless cars to Siri's clever retorts on the iPhone, AI is a bigger part of our lives than ever.",
@@ -1326,58 +1369,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-tesla-could-be-forced-to-report-full-self-driving-beta-data-to-dmv-after-videos-showing-dangerous-use.md",
-      "title": "Tesla could be forced to report Full Self-Driving Beta data to DMV after ‘videos showing dangerous use’",
-      "excerpt": "Tesla, who managed to avoid reporting autonomous driving data to the DMV, could be forced to open the books on its Full Self-Driving (FSD) Beta to the California DMV after what the latter called “videos showing dangerous use”.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
-      "originalUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/",
-      "publishedDateTime": "2022-01-12T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -101,20 +101,6 @@ related:
         width: 1000
         height: 643
         isCached: true
-  - title: "Global technology leaders back regulation of Artificial Intelligence"
-    excerpt: "Artificial intelligence has changed the world and our daily lives. In the coming years, experts predict a meteoric growth in its use. Given the even greater role artificial intell"
-    publishedDateTime: 2022-01-29T07:53:00Z
-    webUrl: "https://www.barandbench.com/columns/global-technology-leaders-back-regulation-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Bar & Bench
-      domain: barandbench.com
-    quality: 41
-    images:
-      - url: "https://gumlet.assettype.com/barandbench%2Fimport%2F2016%2F05%2FAI.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 736
-        height: 432
-        isCached: true
 
 secured: "MlRjKCa5IIKE/JmDrc60JwveqF3Wu5JFGS4I36q8mCFQHfU4HbTob37UPnYgSBXAplH7uHld0HrisYItcp0jgFbnbRUO16SzRkiltccozuYAHOgYqddpTFByeEzlN1UKwDJCKIexGN258GtE7cHZGc2scDkkx0/5Ws8Px4JZggEATdnz0MLOYQUjfPHTHUI1KSzm0Fetve51K/996wwL6e4UkqsekA3j/QhePvu6W9KSXMdgHr34sd58SzvtLDHKto8tZvyWEXO8bLvy7eUnacTU2AdVbmPQc2CjVJKkqN691F1aSn0xnNnQ3ySO7V9EvKDFSrtMxgMV7u5iZZeOGzvzMg0KfC/y8XlZdUvmNDoNcH/fOaLZP5HuWLgYimOG8hfnPdmfW+0zZt33VssWEPLT8s4HRXD6eQ4tPIE8JoHMnfNLQgBURSvS81vW4YMhPJB3e5JeM749sHFd7MYD7AWE0llawzBx6zacPnvhx7MxZq/SEzcNAyhe/58hiWGPGn65ZwsquLRW5wj/MxNVuA==;t5euF8qxAj0Q4TO+cZ2ktQ=="
 ---

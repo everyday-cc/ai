@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-14-nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers.md",
+      "title": "NVIDIA released Deep-Learning Dynamic Super Resolution in its latest Game Ready drivers",
+      "excerpt": "NVIDIA releases Deep-Learning Dynamic Super Resolution, a technology that uses artificial intelligence to improve the performance of games.",
+      "sourceUrl": null,
+      "webUrl": "https://windowsreport.com/nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers/",
+      "originalUrl": "https://windowsreport.com/nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2022/01/fWEJy2chKV.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/nvidia-released-deep-learning-dynamic-super-resolution-in-its-latest-game-ready-drivers/?amp",
+      "publishedDateTime": "2022-01-13T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-its-machine-learning-not-ai.md",
       "title": "It's machine learning, not AI.",
       "excerpt": "\"At the moment, the best way to survive a patient with heart failure is calling 911\". This is the response from Jaeson Bang, the CEO of FutureCardia when someone asked him if his startup is adopting AI to predict and prevent patients with heart failure.",
@@ -1376,58 +1419,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-alteryx-announces-intent-to-buy-trifacta.md",
-      "title": "Alteryx announces intent to buy Trifacta",
-      "excerpt": "Analytics company Alteryx announced late yesterday its intent to acquire data preparation provider Trifacta for $400 million in cash. The deal will also include $75 million of restricted stock as inducement for Trifacta staff to say on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alteryx-announces-intent-to-buy-trifacta/",
-      "originalUrl": "https://www.zdnet.com/article/alteryx-announces-intent-to-buy-trifacta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ea61aba202ff04580cd2ef338f3149199c6a2085/2022/01/07/fc47fb37-4b90-423d-a4d5-840cfd90649d/citizen-ds.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alteryx-announces-intent-to-buy-trifacta/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alteryx-announces-intent-to-buy-trifacta/",
-      "publishedDateTime": "2022-01-07T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

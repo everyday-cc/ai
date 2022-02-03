@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-02T22:06:00Z
 originalUrl: "https://www.aclu.org/news/privacy-technology/three-key-problems-with-the-governments-use-of-a-flawed-facial-recognition-service"
 webUrl: "https://www.aclu.org/news/privacy-technology/three-key-problems-with-the-governments-use-of-a-flawed-facial-recognition-service"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
@@ -158,6 +159,6 @@ related:
         height: 400
         isCached: true
 
-secured: "4APcpgZcV2B+Uar2Fn2uRlG2Mqj63pYnau+DQvIbWvJxaexQk0dxgY/i+IUpffT2xPTftVtmjShwTOGer5NTsycsv80y7yuLjfnrKfP+lAbC1Wm84OmDDVzlvSRFA3IadbMgBl1F+LqJ/Ku+UuuzGPmYErjn5Lam1p6ui2xIIDkkR8ogJeJh0ZYWB+1I8SULkepXO5D0A0+A/++bqoqGidcztHzQPjkUFQtu0CHbAW0pWDlfj0K10Y3cIwPH+GZlNpCu/v0jBajPBGU5HuowO93v/+onmgm3RSYcmpg9jq3AWMRFI+OPUraWDkuAbAnDhnrW/pebj7v743XdFVQFPjxwcgKZyvu9VLl1DKCRV8o=;oWoSqjcO19ay2pMuR2Pi6g=="
+secured: "9n2TQ+7Ad7mH3TJSepAaeQ1uXyqAxR+uQkmj8WUIHvA/vzOnjO4dRthoyicX+RHnhoTI0ZJWS8QEqSKiATBLWaCMXiRQC4h6Yblgqq9w09s1+cMwWR0GRGHTTb7kgcgKD8QUNZr3681uB6YKLMaz8eFPEza+l/XMqETepaTbcvyD6RPMDqOgRnE8z1fc+Odk/cEcryr/X4kNHXMW3YevILZwnZBx/+DCLD6D2M5icQMMf3aQeYs5riOx1DxbfnImC9YXOT9piauMJy49QckRcV78+5exj/bGGty/3iY+RE2qxumGPklEXKpRzTpvyp9Aff1jP8l3BDrlKX9mcehpdEQUuh1WZznTFdVZnuY5znI9WKu7OhihGN9p7gqfCQEmIKYltG49FmkWQ84o4XnfNg82uuIYAVwPRh6r/YIIA9FRGY3PQ1SzqqbjlEaKUHVDi7PRReNxQxnJEWG0cuhzLhOvY/hghtV9JPTiXnRPM3uAvhjM6U2PbShnWnny+dBjTNL09EZUFZkzXLvTObwyAA==;+xWYWQ8MozZFWVTQiPy1tA=="
 ---
 

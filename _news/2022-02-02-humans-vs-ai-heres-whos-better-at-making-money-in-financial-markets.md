@@ -38,6 +38,15 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Humans trump AI at making money in financial markets - study"
+    excerpt: "Humans still have the edge over artificial intelligence when it comes to making money in the financial markets, according to a new paper which raises questions about previous research into the topic."
+    publishedDateTime: 2022-02-03T00:33:00Z
+    webUrl: "https://www.finextra.com/newsarticle/39627/humans-trump-ai-at-making-money-in-financial-markets---study"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "PrTFy0JYAXocUeb0zJOltMeFyEoRmviexc4Wub7eYn5Q0Fo4XK9/SVy2q5siEeuLGjtgdMaqCX4Uv+cNTRxm85XW0sO+zZRJJjg5M+CuM8VLRaCPJCAJ7bxf2kvUI7BN4l586ubCKqlCx/NurW2JQerFZU7jLlbnmoP6PiJOgYHQ82wEUW7kaSckkOsn9SLM6CseN+GrH6KZ5H47Mzo69cUw0zo6f0hbh2p81zJ5c/Fi2X3Mh5QsPI8b0bp3Ao0truAuvumgAEijMNwzvDhgwSI8Uw779tj9GknZukgTgvqIgdt9Gp9/qwowLNqzKzfwuyjDfkjVyxc35lXlGhTIOp9nEbGPVo8bBZrhNuTY5Eb0BrXBAAE4FJOObR+NAKfpCSnkt7A4A4TVadq+6qd5/WxEktkYcfVCuDd2ZJxuAMwGVZbyEVdDxRqfGOc1iimmo/vvwKNq52o3RxkS+jUJdvPcL8LoJgqi/fErTzsHCcXYs6wo4Wurw0pMvgPvCZHIgBbwZE9Ip1bXr5s/QlUWcg==;b4qevt/6xHhkLdQPzryuVQ=="
 ---

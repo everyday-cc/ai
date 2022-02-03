@@ -2,6 +2,193 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-02-crisis-text-line-ends-controversial-relationship-with-for-profit-ai-company.md",
+      "title": "Crisis Text Line ends controversial relationship with for-profit AI company",
+      "excerpt": "Crisis Text Line has ended its controversial relationship with Loris.ai, a for-profit sister company that promises to help companies \"handle their hard customer conversations with empathy. \" The decision followed outrage over a Politico story that detailed how Loris leveraged Crisis Text Line insights and anonymized user data in order to sell companies customer service optimization software,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/crisis-text-line-loris-ai",
+      "originalUrl": "https://mashable.com/article/crisis-text-line-loris-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/04DlU6SZhcOW1a3Ul5pS0bO/hero-image.fill.size_1200x675.v1643742610.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/crisis-text-line-loris-ai?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/crisis-text-line-loris-ai?amp",
+      "publishedDateTime": "2022-02-01T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux.md",
+      "title": "Former Google AI exec joins Trax as top product officer to enhance omnichannel shopping UX",
+      "excerpt": "Trax announced that, Barak Turovsky, is joining as its new chief product officer. Turovsky will apply his expertise to enhance the omnichannel shopping experience of retailers, brands, and consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/",
+      "originalUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/online-shopping-shutterstock_224467054-1.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/amp/",
+      "publishedDateTime": "2022-02-01T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-want-fair-redistricting-use-artificial-intelligence.md",
+      "title": "Want fair redistricting? Use artificial intelligence",
+      "excerpt": "Over 200 years ago, the “Gerrymander,” a salamander-like legislative district, was mocked in a newspaper cartoon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html",
+      "originalUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/PdC_O1q7OQzw1frCV0NMi-1SkB4=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FWAFTSG63FBRTBWC6VVVY46YJE.jpg",
+          "width": 1200,
+          "height": 939,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html?outputType=amp",
+      "publishedDateTime": "2022-02-01T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors.md",
+      "title": "How XpertRule’s multiple AI tools compares to BPM competitors",
+      "excerpt": "and predictive explainable machine learning. Both the authoring and deployment components of the Viabl.ai platform are 100 percent cloud-native and run serverless on AWS and Azure or on Premise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/",
+      "originalUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/GettyImages-829804548.jpg?w=1200&strip=all",
+          "width": 564,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/amp/",
+      "publishedDateTime": "2022-02-01T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-mongodbs-co-founder-is-trying-to-universalize-robotic-deployment.md",
       "title": "MongoDB’s co-founder is trying to universalize robotic deployment",
       "excerpt": "To this end they are developing a series of core components, such as object recognition, navigation and gripping,” USV managing partner Albert Wenger said in a post tied to last year’s seed.",
@@ -94,6 +281,58 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-oleg-rogynskyy-founds-people-ai-to-increase-sales-productivity.md",
+      "title": "Oleg Rogynskyy Founds People AI To Increase Sales Productivity",
+      "excerpt": "People.AI is an artificial intelligence (AI) platform for enterprise revenue, helping sales, marketing, and customer success teams uncover every revenue opportunity by capturing all customer contacts,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/",
+      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f80bdd2de490a68e5b3a77/0x0.jpg?format=jpg&crop=1360,764,x0,y70,safe&fit=crop",
+          "width": 1360,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/amp/",
+      "publishedDateTime": "2022-02-01T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -243,7 +482,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/01/supply-chain-startup-loadsmart-raises-200m-to-automate-logistics-processes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -398,7 +637,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/31/now-for-the-hard-part-deploying-ai-at-scale/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -661,7 +900,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -929,236 +1168,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-ocean-exploration-with-advanced-underwater-robotics.md",
-      "title": "Ocean Exploration With Advanced Underwater Robotics",
-      "excerpt": "With optimised techniques and machine learning, underwater robots can be created that mimic the movement and manoeuvrability of fish",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/01/swim-carlingfish.jpg",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics/amp",
-      "publishedDateTime": "2022-01-31T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-food-tracking-ai-system-developed-to-reduce-malnutrition-in-ltc-homes.md",
-      "title": "Food-tracking AI system developed to reduce malnutrition in LTC homes",
-      "excerpt": "New technology could help reduce malnutrition and improve overall health in long-term care homes by automatically recording and tracking how much food residents consume.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.html",
-      "originalUrl": "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/food-tracking-ai-syste.jpg",
-          "width": 2007,
-          "height": 1082,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.amp",
-      "publishedDateTime": "2022-01-31T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-budibase-brings-open-source-to-low-code-web-app-development.md",
-      "title": "Budibase brings open source to low-code web app development",
-      "excerpt": "Let the OSS Enterprise newsletter guide your open source journey!  The burgeoning no-code / low-code movement is showing little sign of slowing, with countless new products and companies hitting the market to help coders and non-coders alike make the most of the skills that they have.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/",
-      "originalUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/Budibase.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/amp/",
-      "publishedDateTime": "2022-01-31T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-with-an-eye-on-future-dubai-invests-in-artificial-intelligence.md",
-      "title": "With an Eye on Future Dubai Invests in Artificial Intelligence",
-      "excerpt": "Dubai has emerged as a leading centre for research and development in emerging industries with a primary focus on embracing new technologies. Digital transformation in the government and p - Mediawire",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/business/international-business/with-an-eye-on-future-dubai-invests-in-artificial-intelligence/articleshow/89241977.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/business/international-business/with-an-eye-on-future-dubai-invests-in-artificial-intelligence/articleshow/89241977.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-89241977,width-1070,height-580,imgsize-643370,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/business/international-business/with-an-eye-on-future-dubai-invests-in-artificial-intelligence/amp_articleshow/89241977.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/with-an-eye-on-future-dubai-invests-in-artificial-intelligence/amp_articleshow/89241977.cms",
-      "publishedDateTime": "2022-01-31T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-use-ai-to-become-a-photographer-worth-remembering.md",
-      "title": "Use AI to become a photographer worth remembering",
-      "excerpt": "The Complete Award-Winning Luminar AI Bundle gives you the tools and the knowledge to create professional-grade photography.",
-      "sourceUrl": null,
-      "webUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html",
-      "originalUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.macworld.com/wp-content/uploads/2022/01/sale_310759_article_image.jpeg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html/amp",
-      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html/amp",
-      "publishedDateTime": "2022-01-31T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macworld",
-        "domain": "macworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

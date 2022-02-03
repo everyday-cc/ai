@@ -2,6 +2,160 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-03-gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco.md",
+      "title": "GM’s Cruise brings self-driving car rides to the public in San Francisco",
+      "excerpt": "Cruise, the autonomous car company acquired by General Motors in 2016, has announced the launch of driverless car rides in San Francisco. The rides are offered to the public for free at this time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/",
+      "originalUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/02/gm-cruise-car.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/amp/",
+      "publishedDateTime": "2022-02-02T16:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-findability-hopes-to-make-ai-adoption-easier-for-enterprises.md",
+      "title": "Findability hopes to make AI adoption easier for enterprises",
+      "excerpt": "When rolling out a suite like Findability’s, he added, “Now within just a few months their products can be enabled with AI, and it’ll start telling their end customers that ‘This will ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/",
+      "originalUrl": "https://venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1297913719-e1643839268515.jpg?fit=800%2C429&strip=all",
+          "width": 800,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/findability-hopes-to-make-ai-adoption-easier-for-enterprises/amp/",
+      "publishedDateTime": "2022-02-02T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-scale-ai-gets-into-the-synthetic-data-game.md",
+      "title": "Scale AI gets into the synthetic data game",
+      "excerpt": "Scale AI’s path to becoming a $7.3 billion company ... self-driving trucks and automated bots used in warehouses and on-demand delivery. The startup has since morphed into a data management ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/",
+      "originalUrl": "https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1222958278.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/amp/",
+      "publishedDateTime": "2022-02-02T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-announcing-the-launch-of-the-model-copy-feature-for-amazon-comprehend-custom-models.md",
       "title": "Announcing the launch of the model copy feature for Amazon Comprehend custom models",
       "excerpt": "Technology trends and advancements in digital media in the past decade or so have resulted in the proliferation of text-based data. The potential benefits of mining this text to derive insights, both tactical and strategic, is enormous. This is called natural language processing (NLP). You can use NLP,",
@@ -356,6 +510,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets.md",
+      "title": "Humans vs AI: Here's who's better at making money in financial markets",
+      "excerpt": "Artificial intelligence (AI) has now closely matched or even surpassed ... emergence and growth of the financial technology industry (FinTech), where technology startups increasingly challenge ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-02-humans-ai-money-financial.html",
+      "originalUrl": "https://phys.org/news/2022-02-humans-ai-money-financial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/humans-vs-ai-heres-who.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-02-humans-ai-money-financial.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-humans-ai-money-financial.amp",
+      "publishedDateTime": "2022-02-02T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1041,193 +1238,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-crisis-text-line-ends-controversial-relationship-with-for-profit-ai-company.md",
-      "title": "Crisis Text Line ends controversial relationship with for-profit AI company",
-      "excerpt": "Crisis Text Line has ended its controversial relationship with Loris.ai, a for-profit sister company that promises to help companies \"handle their hard customer conversations with empathy. \" The decision followed outrage over a Politico story that detailed how Loris leveraged Crisis Text Line insights and anonymized user data in order to sell companies customer service optimization software,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/crisis-text-line-loris-ai",
-      "originalUrl": "https://mashable.com/article/crisis-text-line-loris-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/04DlU6SZhcOW1a3Ul5pS0bO/hero-image.fill.size_1200x675.v1643742610.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/crisis-text-line-loris-ai?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/crisis-text-line-loris-ai?amp",
-      "publishedDateTime": "2022-02-01T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux.md",
-      "title": "Former Google AI exec joins Trax as top product officer to enhance omnichannel shopping UX",
-      "excerpt": "Trax announced that, Barak Turovsky, is joining as its new chief product officer. Turovsky will apply his expertise to enhance the omnichannel shopping experience of retailers, brands, and consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/",
-      "originalUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/online-shopping-shutterstock_224467054-1.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/amp/",
-      "publishedDateTime": "2022-02-01T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-want-fair-redistricting-use-artificial-intelligence.md",
-      "title": "Want fair redistricting? Use artificial intelligence",
-      "excerpt": "Over 200 years ago, the “Gerrymander,” a salamander-like legislative district, was mocked in a newspaper cartoon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html",
-      "originalUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/PdC_O1q7OQzw1frCV0NMi-1SkB4=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FWAFTSG63FBRTBWC6VVVY46YJE.jpg",
-          "width": 1200,
-          "height": 939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html?outputType=amp",
-      "publishedDateTime": "2022-02-01T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors.md",
-      "title": "How XpertRule’s multiple AI tools compares to BPM competitors",
-      "excerpt": "and predictive explainable machine learning. Both the authoring and deployment components of the Viabl.ai platform are 100 percent cloud-native and run serverless on AWS and Azure or on Premise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/",
-      "originalUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/GettyImages-829804548.jpg?w=1200&strip=all",
-          "width": 564,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/amp/",
-      "publishedDateTime": "2022-02-01T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

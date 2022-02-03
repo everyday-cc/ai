@@ -2,6 +2,236 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-31-ocean-exploration-with-advanced-underwater-robotics.md",
+      "title": "Ocean Exploration With Advanced Underwater Robotics",
+      "excerpt": "With optimised techniques and machine learning, underwater robots can be created that mimic the movement and manoeuvrability of fish",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics",
+      "originalUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/01/swim-carlingfish.jpg",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics/amp",
+      "publishedDateTime": "2022-01-31T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-food-tracking-ai-system-developed-to-reduce-malnutrition-in-ltc-homes.md",
+      "title": "Food-tracking AI system developed to reduce malnutrition in LTC homes",
+      "excerpt": "New technology could help reduce malnutrition and improve overall health in long-term care homes by automatically recording and tracking how much food residents consume.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.html",
+      "originalUrl": "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/food-tracking-ai-syste.jpg",
+          "width": 2007,
+          "height": 1082,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.amp",
+      "publishedDateTime": "2022-01-31T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-budibase-brings-open-source-to-low-code-web-app-development.md",
+      "title": "Budibase brings open source to low-code web app development",
+      "excerpt": "Let the OSS Enterprise newsletter guide your open source journey!  The burgeoning no-code / low-code movement is showing little sign of slowing, with countless new products and companies hitting the market to help coders and non-coders alike make the most of the skills that they have.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/",
+      "originalUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/Budibase.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/amp/",
+      "publishedDateTime": "2022-01-31T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-with-an-eye-on-future-dubai-invests-in-artificial-intelligence.md",
+      "title": "With an Eye on Future Dubai Invests in Artificial Intelligence",
+      "excerpt": "Dubai has emerged as a leading centre for research and development in emerging industries with a primary focus on embracing new technologies. Digital transformation in the government and p - Mediawire",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/business/international-business/with-an-eye-on-future-dubai-invests-in-artificial-intelligence/articleshow/89241977.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/international-business/with-an-eye-on-future-dubai-invests-in-artificial-intelligence/articleshow/89241977.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-89241977,width-1070,height-580,imgsize-643370,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/business/international-business/with-an-eye-on-future-dubai-invests-in-artificial-intelligence/amp_articleshow/89241977.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/with-an-eye-on-future-dubai-invests-in-artificial-intelligence/amp_articleshow/89241977.cms",
+      "publishedDateTime": "2022-01-31T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-use-ai-to-become-a-photographer-worth-remembering.md",
+      "title": "Use AI to become a photographer worth remembering",
+      "excerpt": "The Complete Award-Winning Luminar AI Bundle gives you the tools and the knowledge to create professional-grade photography.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html",
+      "originalUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.macworld.com/wp-content/uploads/2022/01/sale_310759_article_image.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html/amp",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html/amp",
+      "publishedDateTime": "2022-01-31T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-watch-out-for-the-facial-recognition-overlords.md",
       "title": "Watch Out for the Facial Recognition Overlords",
       "excerpt": "More technology companies are becoming gatekeepers to our identities and ‘faceprints.’ That could get messy.",
@@ -113,7 +343,7 @@
       "originalUrl": "https://www.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -984,248 +1214,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd.md",
-      "title": "The Grain Of Truth In The Critique Of Musk, Tesla And Full Self Driving (FSD)",
-      "excerpt": "The internet erupted last week following the publication of a full-page ad in the New York Times asserting “Don’t be a Tesla Crash Test Dummy” and impugned “Elon Musk’s ill-advised Full Self-Driving robot car experiment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/",
-      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 366,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61ee51e20bb0c3fb5b11b53a/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/",
-      "publishedDateTime": "2022-01-28T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-why-massachusetts-is-ground-zero-for-the-fight-against-facial-recognition.md",
-      "title": "Why Massachusetts is ground-zero for the fight against facial recognition",
-      "excerpt": "Massachusetts has had a number of cities ban facial recognition in the absence of federal laws as conversations about the technology heat up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/",
-      "originalUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2022/01/massachusetts-cities-banning-facial-recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/massachusetts-banning-facial-recognition/?amp",
-      "publishedDateTime": "2022-01-28T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-waymo-sues-california-dmv-over-robotaxi-safety-data.md",
-      "title": "Waymo Sues California DMV Over Robotaxi Safety Data",
-      "excerpt": "The driverless car company — which is owned by Google parent Alphabet Inc. — operates an autonomous taxi fleet in San Francisco, and the question in the suit is whether public safety-related data can be a trade secret.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data",
-      "originalUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/0ed328f/2147483647/strip/true/crop/940x490+0+46/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa0%2F40%2Ff54af073727f3f1d09fcd332e8ba%2Fwaymo.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true",
-      "publishedDateTime": "2022-01-28T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-achieve-ai-success-with-a-people-first-data-strategy.md",
-      "title": "Achieve AI Success With A People-First Data Strategy",
-      "excerpt": "As the pandemic has accelerated digital transformation, organizations are successfully deploying and scaling AI projects across more sophisticated, critical scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/",
-      "originalUrl": "https://www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f4135315543e644d7440a4/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/amp/",
-      "publishedDateTime": "2022-01-28T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate.md",
-      "title": "Use a web browser plugin to quickly translate text with Amazon Translate",
-      "excerpt": "Web browsers can be a single pane of glass for organizations to interact with their information—all of the tools can be viewed and accessed on one screen so that users don’t have to switch between applications and interfaces. For example, a customer call center might have several different applications",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/24/ML-6697-image009.png",
-          "width": 323,
-          "height": 303,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T08:18:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

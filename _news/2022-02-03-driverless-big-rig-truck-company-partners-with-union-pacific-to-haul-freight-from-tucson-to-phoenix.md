@@ -37,7 +37,7 @@ related:
     provider:
       name: San Diego Union-Tribune
       domain: sandiegouniontribune.com
-    quality: 47
+    quality: 49
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/71e9bc7/2147483647/strip/true/crop/5742x3840+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F15%2F88%2F4d29ef594e77aaf56184e4d2539f%2Fsilvergate-capital.jpg"
         width: 320
@@ -67,6 +67,6 @@ related:
       domain: azcentral.com
     quality: 5
 
-secured: "iOVGoZZwM6868+BYJEl1DiqtFZPOJKMIkoKaRWJs9Aa+rC9nM0UEL+j/2FtGrdBbVq0wySjiaIuEa06WT9ZKSjPdCLMcoMYW8jcnZvIUePyz3HviDNJu3Xu8TvKGhU3MjK4UT1t+6WZYXpMQhTQvDoJEEVYCiceeLrya+GUQDuOtvDMmhosdIEtQuey0foTWcyMThPBVQ0YtHyuY6l3zopn95qbNWDDOfcdhE3DvXR92L3rpg68FOztbTgh1S4UxNGIFLuC6DBSu31vo9UpeEd9TEM6Hz7MEBmEgYOL4jT69HncyWg4NKOb/vXSRynzgpdK09D+Bb5JMMdoeTykawvsVhRjPSbTzJexKQTKkkLc=;ozy9ZPJG319ELzeVkEw+4g=="
+secured: "w25/+WbSyZRItDNIma6v2CnQNBWv1ECWbk7L5QC1QdDI33MERifRbURe4nWeXegEaQapzZ951vsjJHRjKlmi6kWtVpvMcU2t8Mj6/4AVhWZqajPA4Q1qYjVzdOgvOxd3Oyfr7/LALvbGZbmICt+oHn5LBYLrSspENgdlQ9pSZeGLka2MMe+Yr/KE2rEghN3L03rn7TY6Lspos8ajysvFYH85qrPS/NcGycC4XkWuhcwHLOzeoexhSx6wXnnGyOvRCEn9guDxrkVPRPdoxvMnVlqGGqiL+sjjbNDGRCNDgPisCLeSDpjven5mwHPrNtUjYxbO6W1HnCvOIwnEMPgO/Jamhwrj+722Ky2O2Ik5lnbe5xUWTQXf4u95EhDdL0w5PcLPuws5dCH70Uu1wyuYUSioRS7+GiMArM065caQwGxeSu8i4fIs8lSGqWG2wMlf9Z/T3YpsxRd38BMjSqIuRFxzkrMVx49KMMfHIYW521Mx+CI4GGlcX/3Q1NQ7ieDIupyV/HLL7StVbrFJYPmwVA==;CAu564rhiJxNQ0sM7ZfxJg=="
 ---
 
