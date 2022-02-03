@@ -9,7 +9,7 @@ ampWebUrl: "https://investorplace.com/2022/02/kscp-stock-is-plunging-today-despi
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/02/kscp-stock-is-plunging-today-despite-announcing-another-robot-victory/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "KSCP Stock Is Plunging Today Despite Announcing Another Robot Victory"
+    excerpt: "Knightscope has had a wild start to its life in the public markets ... There’s no denying that robotic security measures with artificial intelligence (AI) capabilities will be tempting for the entire industry. And Knightscope is well primed to help ..."
+    publishedDateTime: 2022-02-03T05:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/kscp-stock-is-plunging-today-despite-announcing-another-robot-victory"
+    ampWebUrl: "https://www.nasdaq.com/articles/kscp-stock-is-plunging-today-despite-announcing-another-robot-victory?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/kscp-stock-is-plunging-today-despite-announcing-another-robot-victory?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "xZq86iB+84l6S2Ecv0CNYZse5PRQAKqMypK+TjilEZYgFbheKyp+HjB/tVe0mU2JBPsXblgyN3RJfFEzp8F0RSD+rO5FDwl4tTsnZe960n9qhaXu+JUfnayN/a/x/ViVE4uuHrRrl0uQy761b/bWQT/jBA1vsSvbl4r9an72Dx+0Ns9v5298nmmVsEh4ODMAwyY3/fJ/7qaRWFTVxHxKI4/e7mm1Wak02BiwqHMiXdd5h9W5c2e5V1upIr+8dfzxRI8lQdU0bpcZRUvJpr/UHPf9DEUcSLvGfAS0DvjTD/s9sGAxqeMwx61QaaPef3LCJaazN+au3R7su3txn+1MPD+JkvlK1GioEDcTwj3ZCc4Ov38vQ9GLD4u7YfXrAOZXOTbToSGewkAxZu7OzCZCjBpdYvQL1/poMyVlQqJmRmQwh7lDS5UFNaF35afkZfx9pm/UD1s6y2kOGzzg4xyuDucWUtXbo3Mu9HjTtVup3xUF34eFyj1fywf0to8mj9U2aAQK6IsJErlDS8SNRu2uAw==;OxbQaBST/sAxQ4mikh62Nw=="
 ---

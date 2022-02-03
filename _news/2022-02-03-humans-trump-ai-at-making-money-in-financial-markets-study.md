@@ -46,6 +46,20 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 41
+  - title: "Humans vs AI: here's who's better at making money in markets"
+    excerpt: "AI's financial forecasts We analyzed 27 peer ... such as the EU legal directive MIFID II or business ethics. The experiments themselves did not engage in any unethical activities – they did ..."
+    publishedDateTime: 2022-02-03T05:24:00Z
+    webUrl: "https://menafn.com/1103634120/Humans-vs-AI-heres-whos-better-at-making-money-in-markets"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/03/AT_9ee2eimage_story.jpg"
+        width: 600
+        height: 330
+        isCached: true
 
 secured: "tvAvG4T9sJ7TWsvRzb+sIY/6eEDIUMepwh+orTYgUewVvdnyUBrbdBsFZoFQMIk0u6zlcwZDnLIftpxe6YWAe0MhoATNmY7e9mSogTun3rOJZXoaX3mxtB/2XqwscRLXhMbNU+NuBYaZR8iLcOoNTNSZkoaT5pUDDj6RV2vQ+dv4Zh2EC5+V7TIcaPv7Zy6KvZBPxo7hTlAvQew9ot9offXZ9aQip8CxyCIDU1j9cfxfg4BEmGWNpRRYPN6/UEguHZHDVZRd5n4D763KCYm5tsrVAaUzj1MqKx3PC1N0sztytDDr5fkWzzv4YMiNOLbXkpc72lC4rqmQcCOwxifGgzy3zeSNvMm5CIkWoDHv0nQ=;KqUhnp9OsdYolwfR6/yG/Q=="
 ---

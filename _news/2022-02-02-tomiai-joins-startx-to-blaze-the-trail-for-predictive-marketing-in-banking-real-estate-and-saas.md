@@ -41,36 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Monetizing and protecting an AI-powered virtual identity in today’s world"
-    excerpt: "While voice technology and virtual identities could lead to new content experiences, there are ample concerns about what the future holds."
-    publishedDateTime: 2022-01-29T14:40:00Z
-    webUrl: "https://venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world/"
-    ampWebUrl: "https://venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/monetizing-and-protecting-an-ai-powered-virtual-identity-in-todays-world/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1158392795.jpg?w=1200&strip=all"
-        width: 1200
-        height: 603
-        isCached: true
-  - title: "New Designs to Fix the Search Engine Bias Problem"
-    excerpt: "Tech companies looking to design next-gen search engines tout the potential of natural language processing (NLP), where GPT-3 leads the field. Yet research shows for all this promise, daunting bias challenges remain."
-    publishedDateTime: 2022-01-29T13:40:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/how-new-designs-can-fix-the-search-engines-bias-problem"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 24
-    images:
-      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/61f53ef3399310c58692e6c8_shahadat-rahman-BfrQnKBulYQ-unsplash.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "rVla/1EFJLAIzahEaQjZyBegFm6divQO6qj1XObNYrJE+qsonfYZyHNdnFNzf/VJ64/85Cli5Fe336reeLSPCpv/HsWMOPU6hE5TM0z9S0D2vAhyHfwc2yFhcZtUlFoxJ7R86mak4MbnFm7gGxQC3IgtfVVtMVkjLRUtOLTZBgSj5wlwhnqw3+c4S2JHIqJVpYUp+SH8FjY+r0L+BvY5sUQikElo+ODbipACFCu3ub0N48X+wnd6j3NFDPIQh/PQ/bhXLPMXL6pCsJLdW7HfYOz377lBKP8jy+CMFVeK7fbtopTVhgLULTf8ar9JEiZnDvWSZHJmYhr2KbuCvrGBSIwXPMDQcgCAoGnn9/EO6rM=;AESDlCnPeVKUAKZBzieb3w=="
 ---

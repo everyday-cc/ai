@@ -169,6 +169,20 @@ related:
         width: 1080
         height: 567
         isCached: true
+  - title: "Cypriot fintech to take part in PwC startup programme"
+    excerpt: "Cypriot fintech company WiRE ... other participating startups include Sedicii, Resistant AI, Outseer, RiskSave Technologies, EvoluteIQ, Albany Group, Insig AI and Panthera Solutions."
+    publishedDateTime: 2022-02-03T06:31:00Z
+    webUrl: "https://cyprus-mail.com/2022/02/03/cypriot-fintech-to-take-part-in-pwc-startup-programme/"
+    type: article
+    provider:
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 24
+    images:
+      - url: "https://cyprus-mail.com/wp-content/uploads/2022/02/pwc-wire-UK.jpg"
+        width: 1139
+        height: 757
+        isCached: true
   - title: "Knowledge Innovations, Ghana Fintech and Payments Association to host webinar on FinTech innovations in Africa"
     excerpt: "The FinTech and Innovations focused event would bring together ... especially in machine learning and artificial intelligence (AI), lack of sustained intercontinental collaborations, and challenging business environment. The upcoming webinar is however ..."
     publishedDateTime: 2022-02-02T16:13:00Z

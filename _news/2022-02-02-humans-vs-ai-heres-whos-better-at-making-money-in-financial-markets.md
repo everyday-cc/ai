@@ -38,6 +38,20 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Humans vs AI: here's who's better at making money in markets"
+    excerpt: "AI's financial forecasts We analyzed 27 peer ... such as the EU legal directive MIFID II or business ethics. The experiments themselves did not engage in any unethical activities – they did ..."
+    publishedDateTime: 2022-02-03T05:24:00Z
+    webUrl: "https://menafn.com/1103634120/Humans-vs-AI-heres-whos-better-at-making-money-in-markets"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/03/AT_9ee2eimage_story.jpg"
+        width: 600
+        height: 330
+        isCached: true
   - title: "Humans trump AI at making money in financial markets - study"
     excerpt: "Humans still have the edge over artificial intelligence when it comes to making money in the financial markets, according to a new paper which raises questions about previous research into the topic."
     publishedDateTime: 2022-02-03T00:33:00Z

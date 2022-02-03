@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-fo
 webUrl: "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-for-facial-recognition-overlords-apple-microsoft"
 type: article
 quality: 69
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://www.lawfareblog.com/sites/default/files/facialrecog.jpg"
         width: 2048
         height: 1536
-        isCached: true
-  - title: "Facebook will stop using facial recognition data, Meta reports"
-    excerpt: "Meta, Facebook's parent company, announced that the social media will stop using its facial recognition system that was used to automatically tag users in photos, videos and memories. The system will continue to be used in other functions."
-    publishedDateTime: 2022-01-29T14:07:00Z
-    webUrl: "https://aldianews.com/culture/heritage-and-history/facebook-will-stop"
-    type: article
-    provider:
-      name: AL DA News
-      domain: aldianews.com
-    quality: 39
-    images:
-      - url: "https://aldianews.com/sites/default/files/2022-01/erika-ardila.jpeg"
-        width: 320
-        height: 320
         isCached: true
   - title: "U.S. Agencies Embrace Facial Recognition Technology"
     excerpt: "While facial recognition technology has helped identify more than 1,000 impostors attempting to enter the U.S. with false documents since 2018 and the increasing use of biometrics in airports and ..."
