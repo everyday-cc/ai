@@ -205,6 +205,22 @@ related:
         width: 708
         height: 469
         isCached: true
+  - title: "Tesla recalls 50,000 cars that disobey stop signs in self-driving mode"
+    excerpt: "Tesla is recalling more than 50,000 cars in the US because the AI behind its self-driving feature acted too aggressively, rolling past stop signs rather than coming fully to a halt as required by law in many states. The company’s “Full Self-Driving ..."
+    publishedDateTime: 2022-02-03T16:40:00Z
+    webUrl: "https://www.newscientist.com/article/2307147-tesla-recalls-50000-cars-that-disobey-stop-signs-in-self-driving-mode/"
+    ampWebUrl: "https://www.newscientist.com/article/2307147-tesla-recalls-50000-cars-that-disobey-stop-signs-in-self-driving-mode/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2307147-tesla-recalls-50000-cars-that-disobey-stop-signs-in-self-driving-mode/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 59
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/02/03152212/PRI_221384327.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Tesla recalls 50,000+ vehicles due to ‘Full Self-Driving’ software glitch"
     excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S ..."
     publishedDateTime: 2022-02-01T12:08:00Z

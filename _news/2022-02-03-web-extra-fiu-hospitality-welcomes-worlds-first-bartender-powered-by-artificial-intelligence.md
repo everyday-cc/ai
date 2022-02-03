@@ -8,8 +8,8 @@ webUrl: "https://miami.cbslocal.com/video/6194851-web-extra-fiu-hospitality-welc
 ampWebUrl: "https://miami.cbslocal.com/video/6194851-web-extra-fiu-hospitality-welcomes-worlds-first-bartender-powered-by-artificial-intelligence/?amp"
 cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/6194851-web-extra-fiu-hospitality-welcomes-worlds-first-bartender-powered-by-artificial-intelligence/?amp"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://m101675-ecdn.mp.lura.live/1/998162/anv-pvw/6AF/C9E/6AFC9E157900E30178FBE4C5EEE38F90_4.jpg?Expires=1738454400&KeyName=mcpkey1&Signature=g3ugfJvZETCG-Z-7WBGW6uSZ6Es"

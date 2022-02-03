@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Pixm Raises $4.3M to Stop Zero-day Phishing Attacks with AI Computer Vision"
-excerpt: "Pixm, a computer vision cyber security startup, announced today that it has raised $4.3M in an oversubscribed seed funding round to protect enterprises from undiscovered, non-traditional phishing ..."
-publishedDateTime: 2022-02-01T12:04:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220201005581/pixm-raises-43m-to-stop-zero-day-phishing-attacks-with-ai-computer-vision"
-webUrl: "https://www.morningstar.com/news/business-wire/20220201005581/pixm-raises-43m-to-stop-zero-day-phishing-attacks-with-ai-computer-vision"
+excerpt: "Pixm, a computer vision cyber security startup, announced today that it has raised $4.3M in an oversubscribed seed funding round to protect enterprises from undiscovered, non-traditional phishing attacks."
+publishedDateTime: 2022-02-01T11:11:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/02/01/9536420.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/02/01/9536420.htm"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -34,6 +34,6 @@ related:
         height: 579
         isCached: true
 
-secured: "1D15CvUhigH+nxI/+DGjab74vnJy1PMM8ita91KbdJg6UuRduPQxMeJ3DwcfB4sjbgzGhqP3UDZI5z3MiogZeOuI6bZWDXCa4tFQLnJjDHpBx5Sw4v3RbOZwNZBk/ENd7ZSzxmCsp1C7fZrW7mNz05e+wQma9AEJ0a4GxsL6zgMMVmUOiI/G/AQ8GrIWhPrs0096Dg59OKrJ6BVQXICC6R2BOiWtgww4RFJkaM6v6ZK+R6KFtaws5VLPkCQPRrHRG7zG1fgozl1gywWi4XjjWYtN8uSf4ZMFhEqE0VAjDz4FnVWCoUfwD8lH80Tlmd9QBo9VxNSZT5eu0WdwqduEo1A6DIS2Mozf6ShDWJCZYxU=;xqXaTz3vfyA4b8sr1PPwKA=="
+secured: "iGpkNHTZ/M7g0YaJpkc3a2fVgQf5s7mxaWPcJLCIPw96qgXKV+UM9hbKl7R2fzPHDoaZVOgSh+dW9jaLTTeD64umBDjdA0Nhxjw+Urp53Zvd/anaNd6vaJo194vei3362l+mlMYTKeV3tFi3G/DgZewhStzLy7T5GdCPW++1W4Ql64hh9EDhkULVjNduEA1ylWfrAFaHAfJHk4NXBgr9uTfvRO7igyySxWUOXaWwzUPochMiyFlwx+hZQh8fPkTTEdsrdZgAD56KlkG6t4Sb04fU2SsSNLw4TNiGp/9s6IdfD5vqSLaKKdb8lBueg46ZV4EbOw4z7+Q+VVvAn1erbvCP95wzrVD/QTG412HVwxs=;cqBTNjYbrpiArLP2D6bdlg=="
 ---
 

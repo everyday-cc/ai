@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 806
         isCached: true
+  - title: "The AI technology revolution in practical data protection in Finance"
+    excerpt: "Made for innovators interested in creating the next breakthroughs in machine intelligence to enhance human potential."
+    publishedDateTime: 2022-02-03T08:49:00Z
+    webUrl: "https://techhq.com/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
+    ampWebUrl: "https://techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
+    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 76
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2022/02/shutterstock_1202221816-375x210.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "The future role of AI in finance"
     excerpt: "And, perhaps crucially, whether AI will ever remove the need for human advisors in the financial industry. AI transforming financial sector Business leaders have revealed that the use of technology including AI plays a significant role in filling gaps ..."
     publishedDateTime: 2022-02-01T05:00:00Z

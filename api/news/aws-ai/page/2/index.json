@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-01-12-cellebrite-joins-aws-partner-network-as-an-advanced-technology-partner.md",
-      "title": "Cellebrite Joins AWS Partner Network as an Advanced Technology Partner",
-      "excerpt": "Company announces Cellebrite Guardian is available on AWS, part of the Company’s industry leading investigative Digital Intelligence platform. Customers can now harness the powe",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/01/12/9524624.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/01/12/9524624.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-12-amazon-amzn-boosts-aws-portfolio-with-new-ec2-instances.md",
       "title": "Amazon (AMZN) Boosts AWS Portfolio with New EC2 Instances",
       "excerpt": "AWS announces the general availability of purpose-built Amazon EC2 instances, Hpc6a, which are designed for HPC workloads.",
@@ -1418,6 +1384,59 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-explore-amazon-sagemaker-serverless-inference-for-deploying-ml-models.md",
+      "title": "Explore Amazon SageMaker Serverless Inference for Deploying ML Models",
+      "excerpt": "Invent 2021 user conference earlier this month, Amazon Web Services‘ Amazon SageMaker Serverless Inference is a new inference option to deploy machine learning models without configuring and managing the compute infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/explore-amazon-sagemaker-serverless-inference-deploying-janakiram-msv",
+      "originalUrl": "https://www.linkedin.com/pulse/explore-amazon-sagemaker-serverless-inference-deploying-janakiram-msv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQF_v9S4FOAWYQ/article-cover_image-shrink_600_2000/0/1640146369662?e=1646870400&v=beta&t=7XPeAvELZF1fxTTBuiJ3JdPVUs4qxJgnjMSIh3-SWd4",
+          "width": 640,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T20:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

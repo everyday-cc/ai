@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-10-responsibility-key-to-broader-understanding-and-acceptance-of-ai-in-2022.md",
+      "title": "Responsibility Key to Broader Understanding and Acceptance of AI in 2022",
+      "excerpt": "For its What’s Next in Tech for 2022 survey the College turned to its faculty leadership team and advisory board to get their educated opinions on potential technology trends and developments that could make headlines in the next 12 to 18 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cc.gatech.edu/news/responsibility-key-broader-understanding-and-acceptance-ai-2022",
+      "originalUrl": "https://www.cc.gatech.edu/news/responsibility-key-broader-understanding-and-acceptance-ai-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2022/2022%20predictions%20graphic.jpg",
+          "width": 1650,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-10T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Georgia Tech News Center",
+        "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-gulf-uniquely-placed-for-ai-innovation-as-50-of-data-workers-now-automate-manual-tasks.md",
       "title": "Gulf uniquely placed for AI innovation as 50% of data workers now automate manual tasks",
       "excerpt": "Despite strong progress, research shows that Gulf businesses struggle to unlock the value of AI innovation due to inconsistent staff training",

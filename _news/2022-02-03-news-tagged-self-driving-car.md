@@ -41,6 +41,22 @@ related:
         width: 1440
         height: 589
         isCached: true
+  - title: "Toyota built an autonomous self-drifting sports car"
+    excerpt: "The automaker has built a Supra sports car with the capability of performing drift racing-style driving on a track. The project is a collaboration between the Toyota Research Institute and Stanford University's Dynamic Design Lab, which has previously ..."
+    publishedDateTime: 2022-02-03T18:20:00Z
+    webUrl: "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car"
+    ampWebUrl: "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 74
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/02/720/405/supra.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
+        isCached: true
   - title: "FOCUS-Self-driving car companies zoom ahead, leaving U.S. regulators behind"
     excerpt: "Self-driving vehicle companies from Tesla Inc to General Motors Co's Cruise are racing to start making money with their technology, outrunning efforts by regulators and Congress to write rules of the road for robot-driven vehicles."
     publishedDateTime: 2022-02-02T06:01:00Z

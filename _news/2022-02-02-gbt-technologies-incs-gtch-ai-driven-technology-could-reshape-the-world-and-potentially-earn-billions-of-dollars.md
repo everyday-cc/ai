@@ -26,8 +26,8 @@ images:
 related:
   - title: "“Center for Responsible AI Technologies” founded"
     excerpt: "Closely linked to this is the professorship “Ethics of AI in Neuroscience” at TUM, which investigates AI topics from a social science and medical perspective. At the University of Augsburg ..."
-    publishedDateTime: 2022-02-03T16:20:00Z
-    webUrl: "https://idw-online.de/de/news787819"
+    publishedDateTime: 2022-02-03T16:44:00Z
+    webUrl: "https://idw-online.de/en/news787819"
     type: article
     provider:
       name: idw

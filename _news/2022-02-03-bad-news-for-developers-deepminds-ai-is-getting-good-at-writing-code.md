@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/bad-news-for-developers-dee
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind’s new AI can write code that’s better than yours"
+    excerpt: "Artificial intelligence (AI) company DeepMind has developed a new coding engine capable of outperforming many human developers, called AlphaCode. As explained in a paper published by the firm, AlphaCode is able to write computer programs at a ..."
+    publishedDateTime: 2022-02-03T17:49:00Z
+    webUrl: "https://www.techradar.com/au/news/deepminds-new-ai-can-write-code-thats-better-than-yours"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/vZLMcEg5JqfGeXydVkkxhk-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "DeepMind has made software-writing AI that rivals average human coder"
     excerpt: "DeepMind, a UK-based AI company, has taught some of its machines to write its own computer software – and it performs almost as well as an average human programmer when judged in competition. DeepMind’s new AlphaCode is claimed to be able to solve software problems that require a combination of critical thinking,"
     publishedDateTime: 2022-02-02T16:04:00Z

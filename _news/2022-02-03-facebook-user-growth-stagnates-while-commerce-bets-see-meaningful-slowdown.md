@@ -24,22 +24,6 @@ images:
     height: 363
     isCached: true
 
-related:
-  - title: "Meta's Q4 capex hits $5.5bn for data centers and offices, as shares plummet on Facebook stagnation"
-    excerpt: "With its core product slowing, and struggling to attract younger audiences, Facebook has begun to pivot to the 'metaverse ... As part of that, it this month launched the 'AI Research SuperCluster,' a system comprised of Nvidia DGX A100s, that will ..."
-    publishedDateTime: 2022-02-03T14:38:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/metas-q4-capex-hits-55bn-for-data-centers-and-offices-as-shares-plummet-on-facebook-stagnation/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 10
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Facebook_iDFCvdY.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "dAf6w3lektSIYLEJIjCzKu+HRD+J5EbN9BozfGPhaFbUdsLNE1LgW1fu6SqWbTi9ERpgVm5cSmtFJNki3pod58FJdAT4AJMYkLb4Vb/l5jO/hpb8+FYuvuBq8bZkIfUlqGAT2SCMpaIxU/v/HSngScJ/zThstM8QhsZHtZ7Ur0hq7W9fwX27blbhp6mo7dBgCQTMU3k2Ks1hnybwiqV3W4adh8EzkxtiAzrQIdOsyrHZ+CmEQk/tupdyN6b0+VNSMJuVptLXwvmECMbqDvfQLi4DFmExcNWebDBf0rTBH88Fha0Sgs7FmMxPv5AJl1MAaKRbBMsw5qUFt+G5I3Fe+7/Q1ZYmw11rcWL2tGTGIGI=;GU3ewKOO4UpyaoTvY1dNhw=="
 ---
 

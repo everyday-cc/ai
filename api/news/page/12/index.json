@@ -2,6 +2,144 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-01-21-deci-wants-to-help-enterprises-build-computer-vision-models-faster.md",
+      "title": "Deci wants to help enterprises build computer vision models faster",
+      "excerpt": "“The big advantage of SuperGradients is that it enables easy development of a wide range of pre-trained models across all the major computer vision tasks using a few lines of code. These pre ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/",
+      "originalUrl": "https://venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-3-e1628543109807.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/amp/",
+      "publishedDateTime": "2022-01-20T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-21-growth-alert-robotics-rise-to-70-billion-by-2028.md",
+      "title": "Growth Alert! Robotics Rise to $70 Billion by 2028",
+      "excerpt": "Growth = opportunity. And here’s one: robots. There are currently more than 2.7 million industrial robots and that number is growing by around 400,000 each year!",
+      "sourceUrl": null,
+      "webUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/",
+      "originalUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://banyanhill.com/wp-content/uploads/2022/01/Industrial-robots-2-BPD-20220120.jpg",
+          "width": 1000,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://banyanhill.com/growth-alert-robotics-rise-70-billion-2028/amp/",
+      "cdnAmpWebUrl": "https://banyanhill-com.cdn.ampproject.org/c/s/banyanhill.com/growth-alert-robotics-rise-70-billion-2028/amp/",
+      "publishedDateTime": "2022-01-20T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Banyan Hill Publishing",
+        "domain": "banyanhill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-21-the-irs-will-start-using-facial-recognition-this-summer-and-youll-have-to-send-off-a-selfie-if-you-want-to-pay-your-taxes-online.md",
+      "title": "The IRS will start using facial recognition this summer — and you'll have to send off a selfie if you want to pay your taxes online",
+      "excerpt": "which will involve sending off a selfie for facial recognition. Security blogger Brian Krebs was the first to spot a message on the IRS website directing users to create an account with a company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/The-IRS-will-start-using-facial-recognition-this-summer-and-youll-have-to-send-off-a-selfie-if-you-want-to-pay-your-taxes-online/articleshow/89022614.cms",
+      "originalUrl": "https://www.businessinsider.in/The-IRS-will-start-using-facial-recognition-this-summer-and-youll-have-to-send-off-a-selfie-if-you-want-to-pay-your-taxes-online/articleshow/89022614.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/89022453.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/the-irs-will-start-using-facial-recognition-this-summer-and-youll-have-to-send-off-a-selfie-if-you-want-to-pay-your-taxes-online/amp_articleshow/89022614.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/the-irs-will-start-using-facial-recognition-this-summer-and-youll-have-to-send-off-a-selfie-if-you-want-to-pay-your-taxes-online/amp_articleshow/89022614.cms",
+      "publishedDateTime": "2022-01-20T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-meta-researchers-build-an-ai-that-learns-equally-well-from-visual-written-or-spoken-materials.md",
       "title": "Meta researchers build an AI that learns equally well from visual, written or spoken materials",
       "excerpt": "Advances in the AI realm are constantly coming out, but they tend to be limited to a single domain: For instance, a cool new method for producing synthetic speech isn’t also a way to recognize expressions on human faces.",
@@ -992,155 +1130,6 @@
         "TensorFlow",
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027.md",
-      "title": "Deep Learning Courses for NLP Market, Indutry Analysis and Prospect, Market Players : Coursera, IBM, UpX Academy – 2022 – 2027",
-      "excerpt": "Jan 20, 2022 (Heraldkeepers) -- The \"Deep Learning Courses for NLP\" Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027-2022-01-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027-2022-01-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-african-leaders-must-wake-up-before-the-continent-runs-out-of-time-in-digital-race.md",
-      "title": "African leaders must wake up before the continent runs out of time in digital race",
-      "excerpt": "It is hard to imagine how South Africa's leaders could finally focus on strengthening the country's eroding systems while they remain too focused on their belly buttons. South Africa, and much of Africa,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/african-leaders-must-wake-up-before-continent-runs-out-solly-moeng",
-      "originalUrl": "https://www.linkedin.com/pulse/african-leaders-must-wake-up-before-continent-runs-out-solly-moeng",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEuUsI5-Dk2ZA/article-cover_image-shrink_720_1280/0/1642629490030?e=1649289600&v=beta&t=xYrN2NI1CTY7K161Mhtr45x5VVITQHPM4cLbhS042tI",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T14:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-ambientai-brings-computer-vision-intelligence-to-physical-security.md",
-      "title": "Ambient.ai brings 'computer vision intelligence' to physical security",
-      "excerpt": "It seems the security industry is awash in a plethora of new video analysis solutions that are rapidly making up for the shortcomings of prior technologies. Indeed, today’s artificial intelligence (AI) platforms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21253743/ambientai-brings-computer-vision-intelligence-to-physical-security",
-      "originalUrl": "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21253743/ambientai-brings-computer-vision-intelligence-to-physical-security",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/ambient_graphic.61e885c95cd0f.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

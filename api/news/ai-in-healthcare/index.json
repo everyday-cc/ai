@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-04-artificial-intelligence-and-dental-insurance-it-is-more-than-a-focus-on-radiology-and-fraud.md",
+      "title": "Artificial Intelligence And Dental Insurance – It Is More Than A Focus On Radiology And Fraud",
+      "excerpt": "Over the years, much has been said about artificial intelligence (AI) and the healthcare industry. Much of it has been focused on two extremes. On one hand, there’s the fairly mature use of neural networks for radiological analysis. On the other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y26,safe&fit=crop",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/amp/",
+      "publishedDateTime": "2022-02-03T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-artificial-intelligence-ai-in-education-market-analysis-strategies-segmentation-and-forecasts-2021-2030.md",
       "title": "Artificial intelligence (AI) in Education Market Analysis, Strategies, Segmentation and Forecasts 2021 - 2030",
       "excerpt": "In a recently published report, Artificial intelligence (AI) in Education Market report for till 2030. The report further now discusses; the vario",
@@ -1269,49 +1321,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-artificial-intelligence-in-supply-chain-market-size-worth-143-billion-globally-by-2028-at-2017-cagr-verified-market-research.md",
-      "title": "Artificial Intelligence In Supply Chain Market size worth $ 14.3 Billion, Globally, by 2028 at 20.17% CAGR: Verified Market Research®",
-      "excerpt": "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management, Supply Chain Planning, Warehouse Management,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 806
         isCached: true
+  - title: "The AI technology revolution in practical data protection in Finance"
+    excerpt: "Made for innovators interested in creating the next breakthroughs in machine intelligence to enhance human potential."
+    publishedDateTime: 2022-02-03T08:49:00Z
+    webUrl: "https://techhq.com/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
+    ampWebUrl: "https://techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
+    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 76
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2022/02/shutterstock_1202221816-375x210.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "Exploration Into The Roots Of Artificial Intelligence In Education"
     excerpt: "Spread the loveAs technology becomes more advanced, schools and other educational facilities have slowly started to incorporate new tools into their modern-day programs. Many teachers rely heavily on this equipment,"
     publishedDateTime: 2022-01-31T11:17:00Z

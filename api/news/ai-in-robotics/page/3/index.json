@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-11-doosan-robotics-raises-337-million-in-funding.md",
+      "title": "Doosan Robotics Raises $33.7 million in Funding",
+      "excerpt": "Doosan Robotics, a South Korea-based developer of collaborative robotic arms, last week announced $33.7 million in funding, led Praxis Capital Partners and Korea Investment Partners. Funds will be used to expand global sales base and strengthen R&D to attract additional partnerships both global and domestic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/investments-and-expansions/22412-doosan-robotics-raises-33-7-million-in-funding",
+      "originalUrl": "https://www.thefastmode.com/investments-and-expansions/22412-doosan-robotics-raises-33-7-million-in-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/6d5d7f5e080163f1711b73910da57301.jpg?t=20220111_020921",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-10T18:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life.md",
       "title": "A Colorado 'fusioneer' invented a painting robot and an inspiring way of life",
       "excerpt": "And the robot holding a paintbrush. One look at this room can be overwhelming for visitors, so Paul Kirby likes to start simple. It’s an old trick he learned as a ski instructor in Vail, when he realized every skier has slightly different goals for the slopes.",
@@ -1315,58 +1358,6 @@
         "name": "pymnts.com",
         "domain": "pymnts.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022.md",
-      "title": "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022",
-      "excerpt": "Designed with prosumer content creators and mid-level enterprises in mind, the innovative camera robot system defines the next generation of motion control through its proprietary user-friendly ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-1031079326",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-1031079326",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1718980/CES_20PR_NINA_201_ID_b68368801933.jpg",
-          "width": 257,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

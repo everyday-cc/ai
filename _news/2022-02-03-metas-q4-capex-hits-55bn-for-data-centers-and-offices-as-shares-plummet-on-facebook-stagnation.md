@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook user growth stagnates while commerce bets see 'meaningful slowdown'"
-    excerpt: "Those are: Reels, community messaging, e-commerce, ads, privacy, artificial intelligence and the metaverse. But that last item — the raison d'être for Facebook's ambitious ... according to Forrester Research data shared in an email with Marketing ..."
-    publishedDateTime: 2022-02-03T15:47:00Z
-    webUrl: "https://www.marketingdive.com/news/facebook-user-growth-stagnates-while-commerce-bets-see-meaningful-slowdown/618252/"
+  - title: "Facebook parent Meta announces massive AI supercomputer"
+    excerpt: "Facebook parent Meta Platforms Inc said on Monday that its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the world when completed in mid-2022. Meta said in a blog post that its new AI Research ..."
+    publishedDateTime: 2022-02-03T18:25:00Z
+    webUrl: "https://www.thedailystar.net/toggle/news/facebook-parent-meta-announces-massive-ai-supercomputer-2953756"
+    ampWebUrl: "https://www.thedailystar.net/toggle/news/facebook-parent-meta-announces-massive-ai-supercomputer-2953756?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/facebook-parent-meta-announces-massive-ai-supercomputer-2953756?amp"
     type: article
     provider:
-      name: Marketing Dive
-      domain: marketingdive.com
-    quality: 21
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
     images:
-      - url: "https://www.marketingdive.com/user_media/cache/f4/9d/f49d195a4fa91e17a12158cdcb4ff02a.jpg"
-        width: 770
-        height: 363
+      - url: "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/02/03/covers.jpg?itok=RsxeG-z2"
+        width: 750
+        height: 393
         isCached: true
 
 secured: "8GsyX8gf4uQoM516lYAL1y0YAn0BUUJ0mu4Ll1TpWDirhToK8ZZmfIZjsQo6TuaFwLciH0qK3nQYtCMPMd3pY3/MAdooZqH0E0JOXqkXJ3/ILTKs2UeGp5nNWWztUVk1HsnkdufED8qtXRwE9glhBPDM73HZYcnFMnqGj8V3ESDLNVqvp2o+cTnIraRzyy3s5HdcYOoUJZK3O2FFdR5Y9cweyYnsG8uWaCOkKKzcMNFWgQZuJP0JjBsdsKG272oXN10//PyJy8HToJZrKUh8cSnQGERRv9DOm7U6Xc1Fag92JU3k7ADnuPOtd77+mcPrTaZHf1I63rgpJIO0800lCuF/2EZyUhgypPJVpKqODNi36yFM0jd1vPEHMMviFlOAgiesjOAu2K11rdcowNAUir/V/kvI8tnenwq6BxF5rZ/n66KXHAEnKxZa/qwOk4hNa//XGHm0N6OdQ2cgc8d+aq1nNXz4VDJjhDpnqePDandHMqgkGA6rbk+uxKFxkdTFX9A5J+lha/DxroQcevdLZw==;eE+fOCDTqyGE7fQJSUkHjw=="

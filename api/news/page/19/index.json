@@ -2,6 +2,152 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-01-15-tensoriot-2021-aws-reinvent-recap.md",
+      "title": "TensorIoT 2021 AWS re:Invent Recap",
+      "excerpt": "By: Nicholas Burden, Senior Technical Evangelist, TensorIoT  Another year of technical innovation is in the books, and once again the annual Amazon Web Services (AWS) re:Invent 2021 conference announced the latest advancements in Internet of Things (IoT),",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/tensoriot-2021-aws-reinvent-recap-tensoriot",
+      "originalUrl": "https://www.linkedin.com/pulse/tensoriot-2021-aws-reinvent-recap-tensoriot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGdJXxjmUxkkQ/article-cover_image-shrink_600_2000/0/1642110759002?e=1649289600&v=beta&t=MfGjsXb0M4tl1xbt18sxMLSHUDWa6EuU26c0YNW3ff0",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-disrupting-the-economics-of-software-testing-through-ai.md",
+      "title": "Disrupting the economics of software testing through AI",
+      "excerpt": "Torsten Volk, managing research director at EMA, highlights 5 categories of AI and 6 pain points of test automation that AI addresses.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/test/disrupting-the-economics-of-software-testing-through-ai/",
+      "originalUrl": "https://sdtimes.com/test/disrupting-the-economics-of-software-testing-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2022/01/b744404607f524183cc48bd943733e2f.jpg",
+          "width": 917,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-ag-report-john-deere-reveals-driverless-tractor.md",
+      "title": "Ag Report: John Deere reveals driverless tractor",
+      "excerpt": "COLUMBUS - John Deere revealed its autonomous tractor at the Consumer Electronics Show earlier this month. Spectrum News 1 agriculture expert Andy Vance said farmers have used computer technology for decades.",
+      "sourceUrl": null,
+      "webUrl": "https://spectrumnews1.com/oh/cleveland/news/2022/01/12/ag-report--john-deere-reveals-driverless-tractor",
+      "originalUrl": "https://spectrumnews1.com/oh/cleveland/news/2022/01/12/ag-report--john-deere-reveals-driverless-tractor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s7d2.scene7.com/is/image/TWCNews/r4f167445_rrd_1x_01122022",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "spectrumnews1",
+        "domain": "spectrumnews1.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-15-why-is-the-nfl-crowd-sourcing-feckless-ai-solutions-to-its-concussion-problem.md",
       "title": "Why is the NFL crowd-sourcing feckless AI solutions to its concussion problem?",
       "excerpt": "Some companies have too much data and not enough humans to review. The NFL has the opposite problem. So why is it crowd-sourcing solutions?",
@@ -1045,146 +1191,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-amazon-fixes-security-flaw-in-aws-glue-service.md",
-      "title": "Amazon fixes security flaw in AWS Glue service",
-      "excerpt": "Amazon Web Services fixes a flaw that could give an attacker access to data of other users on its Glue managed data integration service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-fixes-security-flaw-in-aws-glue-service/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-fixes-security-flaw-in-aws-glue-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5ce181958b42162c42543bf7eefa3ab6467f7c9c/2021/12/01/bf754524-8f7c-47d1-8b10-d0f28da9d080/20211201-sf-dec.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-fixes-security-flaw-in-aws-glue-service/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-fixes-security-flaw-in-aws-glue-service/",
-      "publishedDateTime": "2022-01-14T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-chinese-restaurant-chain-is-forced-to-use-robot-waiters-during-the-covid-pandemic.md",
-      "title": "Chinese restaurant chain is forced to use ROBOT waiters during the Covid pandemic",
-      "excerpt": "Directors at The Chinese Buffet unveiled one BellaBot in each of four restaurants in Liverpool, St Helens, Bolton and Wigan, to serve food to diners in place of humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/01/14/13/52927541-0-image-a-63_1642165520636.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
-      "publishedDateTime": "2022-01-14T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-deep-learning-has-deep-problems.md",
-      "title": "Deep learning has deep problems",
-      "excerpt": "Can’t multi-task Deep learning has some major issues which will eventually lead it to become a dead end. For 20 years, deep learning has come to dominate artificial intelligence research and applications through a series of useful commercial applications But according to IEEE Spectrum the",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems",
-      "originalUrl": "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/f97416722213d9fce2e04a73b9cf58df_L.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T04:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

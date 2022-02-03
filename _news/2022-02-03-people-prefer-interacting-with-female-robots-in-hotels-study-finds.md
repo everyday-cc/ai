@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/02/220203083556.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/02/220203083556.htm"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "People are more comfortable interacting with a robot if it appears female"
+    excerpt: "... Hotel in Las Vegas to the fully automated FlyZoo hotel chain in China where guests interact only with robots and artificial intelligence (AI) features. In the UK a Chinese buffet chain purchased four 'BellaBots' at about $20,000 each to fill gaps in ..."
+    publishedDateTime: 2022-02-03T18:52:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10473397/People-comfortable-interacting-robot-appears-female.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10473397/amp/People-comfortable-interacting-robot-appears-female.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10473397/amp/People-comfortable-interacting-robot-appears-female.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 58
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/02/03/18/53740955-0-image-a-42_1643911614773.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "People prefer interacting with female robots in hotels"
     excerpt: "... Hotel in Las Vegas to the fully automated FlyZoo hotel chain in China where guests interact only with robots and artificial intelligence (AI) features. For the study, survey participants were presented with one of four scenarios about interacting with ..."
     publishedDateTime: 2022-02-03T11:16:00Z

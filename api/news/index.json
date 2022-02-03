@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-04-people-are-more-comfortable-interacting-with-a-robot-if-it-appears-female.md",
+      "title": "People are more comfortable interacting with a robot if it appears female",
+      "excerpt": "... Hotel in Las Vegas to the fully automated FlyZoo hotel chain in China where guests interact only with robots and artificial intelligence (AI) features. In the UK a Chinese buffet chain purchased four 'BellaBots' at about $20,000 each to fill gaps in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10473397/People-comfortable-interacting-robot-appears-female.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10473397/People-comfortable-interacting-robot-appears-female.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/02/03/18/53740955-0-image-a-42_1643911614773.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10473397/amp/People-comfortable-interacting-robot-appears-female.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10473397/amp/People-comfortable-interacting-robot-appears-female.html",
+      "publishedDateTime": "2022-02-03T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-the-state-of-ai-ethics-the-principles-the-tools-the-regulations.md",
+      "title": "The state of AI ethics: The principles, the tools, the regulations",
+      "excerpt": "Register here. What do we talk about when we talk about AI ethics? Just like AI itself, definitions for AI ethics seem to abound. A definition that seems to have garnered some consensus is that AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/",
+      "originalUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1256138488-e1643905043558.jpg?fit=800%2C588&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/amp/",
+      "publishedDateTime": "2022-02-03T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-artificial-intelligence-and-dental-insurance-it-is-more-than-a-focus-on-radiology-and-fraud.md",
+      "title": "Artificial Intelligence And Dental Insurance – It Is More Than A Focus On Radiology And Fraud",
+      "excerpt": "Over the years, much has been said about artificial intelligence (AI) and the healthcare industry. Much of it has been focused on two extremes. On one hand, there’s the fairly mature use of neural networks for radiological analysis. On the other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y26,safe&fit=crop",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/amp/",
+      "publishedDateTime": "2022-02-03T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues.md",
       "title": "Report: 79% of ML teams say they ‘lack access’ to data needed to identify bias and ethics issues",
       "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. A new report from Arize AI illustrates that the day-to-day reality for data scientists and machine learning ...",
@@ -270,7 +417,7 @@
       "originalUrl": "https://www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -477,7 +624,7 @@
       "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1105,161 +1252,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-wrk-secures-43m-to-help-businesses-automate-common-workflows.md",
-      "title": "Wrk secures $43M to help businesses automate common workflows",
-      "excerpt": "natural language processing, and other technologies. One of the more popular automation technologies is robotic process automation (RPA), a software solution that lets customers build, deploy ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/02/wrk-secures-43m-to-help-businesses-automate-common-workflows/",
-      "originalUrl": "https://venturebeat.com/2022/02/02/wrk-secures-43m-to-help-businesses-automate-common-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/Wrker-Header-BG-4-1.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/02/wrk-secures-43m-to-help-businesses-automate-common-workflows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/wrk-secures-43m-to-help-businesses-automate-common-workflows/amp/",
-      "publishedDateTime": "2022-02-02T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator.md",
-      "title": "Two new dialects of Inuktut language now available in Microsoft Translator",
-      "excerpt": "With the latest update, users will now be able to translate between the two new additions and any of over 100 supported languages and dialects in the Microsoft Translator apps, Office, and Translator for Bing. Through Azure Cognitive Services Translator ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "originalUrl": "https://www.neowin.net/news/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/02/1487659776_microsoft-translator_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "publishedDateTime": "2022-02-02T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-call-center-conversation-intelligence-startup-talkmap-nabs-8m.md",
-      "title": "Call center conversation intelligence startup Talkmap nabs $8M",
-      "excerpt": "Customer conversation intelligence startup Talkmap has raised $8 million from Stage 1 Ventures in a Series A round of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/",
-      "originalUrl": "https://venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/11/shutterstock_291603116.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/amp/",
-      "publishedDateTime": "2022-02-02T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

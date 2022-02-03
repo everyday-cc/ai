@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind’s new AI can write code that’s better than yours"
+    excerpt: "Artificial intelligence (AI) company DeepMind has developed a new coding engine capable of outperforming many human developers, called AlphaCode. As explained in a paper published by the firm, AlphaCode is able to write computer programs at a ..."
+    publishedDateTime: 2022-02-03T17:49:00Z
+    webUrl: "https://www.techradar.com/au/news/deepminds-new-ai-can-write-code-thats-better-than-yours"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/vZLMcEg5JqfGeXydVkkxhk-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "DeepMind has made software-writing AI that rivals average human coder"
     excerpt: "DeepMind, a UK-based AI company, has taught some of its machines to write its own computer software – and it performs almost as well as an average human programmer when judged in competition. DeepMind’s new AlphaCode is claimed to be able to solve software problems that require a combination of critical thinking,"
     publishedDateTime: 2022-02-02T16:04:00Z
@@ -88,6 +102,6 @@ related:
         height: 413
         isCached: true
 
-secured: "8iWKLMfGtykOB67riA5ZKMwDLK4/wLvv4psbDcywhSlUYtZcE5dkjR6TSan3WnclXmpGYM5mkcv9W5BqOKk4tP4hHo32Py5CGNuBmh95UUUvkexyOgitSGWCE6nFAuh/QBhUQcx73vsufRRT1+phMu0DJD1yW2vlrLnnL2fYYtztWNk1Jkc4s8PjViYU0QNLISxQZdrtoIKC8iKnbx/mxqOauFqG7XGzHK+uNmsXtsdXH0TSzH8QljutKsfnr62smVtnGlCISttdvkSQQ3Pv5qnNIIx4ViPqsUTtRwlInY1iOASy2mAh8lDBG06uGhrpLAD+PfEk3ObW+xBDrwJuw6OoFes+JIgXaVtQi1/zebA=;SSjAWmk31hAGpdG6sGVZvg=="
+secured: "ypaNMpQRLoszT0Gy9ONUEcAihB8GKB5BMHnIWbixeE84q4vbPOKICJLarcC2Khmgjqsm4Vs5Hn8E2YvXGssCatPmOcjtyCobS0heNkLdHD/2Jo/CVy8dzJUzaXDh1PjInjGjp9SDOfYo/MctBnedvwdxolj2mXJFX2Sb4WDSSh9vsXjiqQtyLQ//EBh32saWyhW2eEPuKVDP6eSba0gdPlpNd0eNurUsXRCv0igcRkpr+Ytbjoay5Wt/EwIMlV3QBspF79urJXg1alwrJ8trmhIjxK0zGBga2fxKyyIpyHJszNtqN0SwfdAHPltb3Eb1+J0RSb+fkLhrF4zxpt3xMH7lv9DRuNu2TYjZzBrhXkQ8NnXzwJ6ANqxbNDezAmYWtB3yAx3Z8RlPYoX0gFUAjOIhA13nKgJwsCYe5kCMpO5onVEMXG4YmLiWReh1/Qf96sT9Dl8iPESL+/aC+5YKqfrIlKlugHedKjJqtTtk3SCN9njrVLpu6fPhIejckZ8MzOyvQOg+/GN6oKJOizwxDw==;5PVWTh0AVDsK2TrR0WMPmw=="
 ---
 

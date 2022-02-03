@@ -2,6 +2,160 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-31-use-ai-to-become-a-photographer-worth-remembering.md",
+      "title": "Use AI to become a photographer worth remembering",
+      "excerpt": "The Complete Award-Winning Luminar AI Bundle gives you the tools and the knowledge to create professional-grade photography.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html",
+      "originalUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.macworld.com/wp-content/uploads/2022/01/sale_310759_article_image.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html/amp",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html/amp",
+      "publishedDateTime": "2022-01-31T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-watch-out-for-the-facial-recognition-overlords.md",
+      "title": "Watch Out for the Facial Recognition Overlords",
+      "excerpt": "More technology companies are becoming gatekeepers to our identities and ‘faceprints.’ That could get messy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-for-facial-recognition-overlords-apple-microsoft",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-for-facial-recognition-overlords-apple-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iY64pWg9Fj8U/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-30T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-chinese-scientists-create-ai-nanny-to-look-after-babies-in-artificial-womb.md",
+      "title": "Chinese scientists create AI nanny to look after babies in artificial womb",
+      "excerpt": "Technology won’t be a problem for its future application, but legal and ethical concerns might, warns Beijing-based researcher.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/30/3a67679c-ae63-438d-9823-d9cd26b35347_133e8188.jpg?itok=V-lHp7fa&v=1643542137",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial",
+      "publishedDateTime": "2022-01-30T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-china-sets-the-pace-in-adoption-of-ai-in-healthcare-technology.md",
       "title": "China sets the pace in adoption of AI in healthcare technology",
       "excerpt": "It’s like I am back in China with her. The technology is so convenient,” says Li. China has been quick to deploy a range of new technologies to relieve the burden on hospitals, care systems and families caring for the sick and elderly.",
@@ -1057,161 +1211,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/amp/",
       "publishedDateTime": "2022-01-28T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate.md",
-      "title": "Use a web browser plugin to quickly translate text with Amazon Translate",
-      "excerpt": "Web browsers can be a single pane of glass for organizations to interact with their information—all of the tools can be viewed and accessed on one screen so that users don’t have to switch between applications and interfaces. For example, a customer call center might have several different applications",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/24/ML-6697-image009.png",
-          "width": 323,
-          "height": 303,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T08:18:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making.md",
-      "title": "CausaLens gets $45M for no-code technology that introduces cause and effect into AI decision making",
-      "excerpt": "One of the most popular applications of artificial intelligence to date has been to use it to predict things, using algorithms trained with historical data to determine a future outcome. But popularity doesn’t always mean success: predictive AI leaves out a lot of the nuance,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/",
-      "originalUrl": "https://techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1079012838.jpg?w=1024",
-          "width": 1024,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/28/causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making/amp/",
-      "publishedDateTime": "2022-01-28T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-how-logistics-procedure-optimization-with-ai-can-help-diminish-the-transportation-sectors-environmental-impact.md",
-      "title": "How Logistics Procedure Optimization With AI Can Help Diminish The Transportation Sector's Environmental Impact",
-      "excerpt": "However, AI might. If we want to transform our current course, we need the private sector's commitment. In the words of Paul Polman, \"Sustainability makes good business sense, and we're all on the same team at the end of the day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/28/how-logistics-procedure-optimization-with-ai-can-help-diminish-the-transportation-sectors-environmental-impact/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/28/how-logistics-procedure-optimization-with-ai-can-help-diminish-the-transportation-sectors-environmental-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f2b93d97c9ff08aae22686/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/28/how-logistics-procedure-optimization-with-ai-can-help-diminish-the-transportation-sectors-environmental-impact/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/28/how-logistics-procedure-optimization-with-ai-can-help-diminish-the-transportation-sectors-environmental-impact/amp/",
-      "publishedDateTime": "2022-01-28T06:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
