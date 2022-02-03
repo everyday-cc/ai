@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-04-neuroscientists-use-deep-learning-model-to-simulate-brain-topography.md",
+      "title": "Neuroscientists use deep learning model to simulate brain topography",
+      "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/brain.jpg",
+          "width": 1920,
+          "height": 1462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
+      "publishedDateTime": "2022-02-03T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-people-are-more-comfortable-interacting-with-a-robot-if-it-appears-female.md",
       "title": "People are more comfortable interacting with a robot if it appears female",
       "excerpt": "... Hotel in Las Vegas to the fully automated FlyZoo hotel chain in China where guests interact only with robots and artificial intelligence (AI) features. In the UK a Chinese buffet chain purchased four 'BellaBots' at about $20,000 each to fill gaps in ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10473397/People-comfortable-interacting-robot-appears-female.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -105,7 +148,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -145,7 +188,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1200,58 +1244,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-how-video-games-could-be-used-to-generate-ai-training-data.md",
-      "title": "How video games could be used to generate AI training data",
-      "excerpt": "Some researchers believe that video games could be used to more effectively generate AI training data. But they're not a perfect solution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/",
-      "originalUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/super-nes-switch-controller.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/amp/",
-      "publishedDateTime": "2022-02-02T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

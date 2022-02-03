@@ -48,6 +48,22 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 19
+  - title: "Rise of the fembots! People are more comfortable interacting with a robot if it appears FEMALE than male – especially if it has human-like features, study finds"
+    excerpt: "These are important considerations for AI robot developers as well as for hospitality employers to consider as they think about adopting robots more widely,' Seo said. 'We may start to see more robots as replacements of human employees in hotels and ..."
+    publishedDateTime: 2022-02-03T18:48:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10473397/People-comfortable-interacting-robot-appears-female.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10473397/amp/People-comfortable-interacting-robot-appears-female.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10473397/amp/People-comfortable-interacting-robot-appears-female.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 14
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/02/03/18/53740955-0-image-a-42_1643911614773.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "u7Ld0NT74MBNKov8GqbIBiQSJvRnx5xvXJnDSHKKccVdZ0+NJS2fWElhSVuhFet5EjuDQMz3zKns4JUIUQgDCIq556KKVJ8lVk3caVEQkzKwRMi7gX3h/Jqxj0edULSO3wyaKuIWRA3SdhB/9INuvIXftMhPU9Dm8s1tKsAeS5UPrIWzTuDqDNb5tSnsUIVvoEEq75Jh3BxaQC1j4JjapcoBSRM6YVlvSdzwmErFKeLvvGxDntxiFYbPpkir4WMHF1Z1pZZlXJagzNGL3uw2irIzKRnL7dkiW5IUyPvZdXwUlle5l4fwami1rJEbev75YvNa0mRt9V6CAjY7yGoA5Nl+0IqpK/Gwmgoz1x9stgQ=;ag05DElb6RQr1Ku/8GyNjw=="
 ---

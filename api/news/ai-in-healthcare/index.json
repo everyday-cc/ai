@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidteich/2022/02/03/artificial-intelligence-and-dental-insurance--it-is-more-than-a-focus-on-radiology-and-fraud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {

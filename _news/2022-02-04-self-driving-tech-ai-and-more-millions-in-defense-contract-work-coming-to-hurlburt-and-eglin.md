@@ -2,19 +2,19 @@
 category: news
 title: "Self-driving tech, AI and more: Millions in defense contract work coming to Hurlburt and Eglin"
 excerpt: "HURLBURT FIELD — A San Diego-based company working on self-driving technology and artificial intelligence for the piloting of military aircraft will work at Hurlburt Field for the next 18 months under a $15 million contract for research and development ..."
-publishedDateTime: 2022-02-03T18:20:00Z
-originalUrl: "https://www.usatoday.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
-webUrl: "https://www.usatoday.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
-ampWebUrl: "https://amp.usatoday.com/amp/9224262002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/9224262002"
+publishedDateTime: 2022-02-03T20:01:00Z
+originalUrl: "https://www.jsonline.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
+webUrl: "https://www.jsonline.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
+ampWebUrl: "https://amp.jsonline.com/amp/9224262002"
+cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/9224262002"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Milwaukee Journal Sentinel
+  domain: jsonline.com
 
 topics:
   - AI in Autos
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "diD2G+9i8U9AROIHL8gdG75OCaSHlEOEK6rvLefSWfP1gmz2z3qaNSgiaBigIcspK3+vBcL4z4cobae1g/lUHoKTgtZn79aXwjRhJPuk1pO/GmvSlI6dVh9ZbCjRO32UmrPRSMspZiPFS0mIAXieHDanzlv00Qh9YEagzCy93lvXqliM0wqDsNtld7/eN9ni0jWR1gjjt55gdmyz0U8D4uS0KyN4Lxp6ZqizOUCL+gKSzUSefRJD5VkuIFJWlDqexK3FEyVv9We85os4KS4/g33saf4N86PcA9KsSF+Z4BaVdrw96Tl8rrPmqqRP3Ku/0RzbEiFP6lOnCmmxfM7DEVfJZBzPAbdX1jAEM/0la9g=;To3gMjNWSoJkzxUHskl2rg=="
+secured: "zGZIaJaXWjxuO3g3JQBTLNT1sbfdKe61Monv01gBcPz4GB6taZjLASRUJou14IWLNGhQEfcq5Z7kz8FBg8W7JPHNGnWbRnXUF/NJC8O4STVcepf6oASV4iXXTcefzya0rOASeBt1icUa5i8eSXvsMocJPB0jpQbz+AoxBhCWyrR5O5AQuxi9pkZ70gRcvY3BexdmvvGJcrjbIoKrzYg5KQGmMJRoLv5b5nJG9LNa/J2UcR3USr6nAsJq6RGD48sKAbYG3CAF9aOBulGEuPyX7h/CAVPtiFbyIbq9HXWpct1Nw8gZtP3MOeiEjqV8HH+sJvmPns5geeMRJzbMdaZuMVS8GHhs78WIrLpDiLXE7nQ=;pd6DN2dgbhzqhGnEjn0rog=="
 ---
 

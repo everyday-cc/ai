@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-22-tinyml-is-bringing-deep-learning-models-to-microcontrollers.md",
+      "title": "TinyML is bringing deep learning models to microcontrollers",
+      "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Deep learning models owe their initial success to large server",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/tinyml-deep-learning-microcontrollers-syndication",
+      "originalUrl": "https://thenextweb.com/news/tinyml-deep-learning-microcontrollers-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FTinyML.jpg&signature=997d2edaf97d5f261cf3e6961cc0200a",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-21-microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model.md",
+      "title": "Microsoft will force update your PCs to Windows 10 21H2 to train its own ML Update model",
+      "excerpt": "Microsoft has begun the forced rollout of Windows 10 21H2 update to Windows 10 20H2 devices in order to help train its Machine Learning-assisted intelligent Windows Update rollout model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/06/1624557503_windows_10_21h2_pc_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
+      "publishedDateTime": "2022-01-21T07:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-what-learning-can-learn-from-machine-learning.md",
       "title": "What Learning Can Learn From Machine Learning",
       "excerpt": "Taking a few bits and bytes from machine learning could go a long way to improving K-12 and postsecondary learning.",
@@ -1258,93 +1363,6 @@
       "provider": {
         "name": "India Times",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-the-building-blocks-of-artificial-vision.md",
-      "title": "The building blocks of artificial vision",
-      "excerpt": "Another computational approach is thus required. AI needs artificial neural networks that mimic the intuitive way the brain works. This makes identification and decision making much faster compared to having to calculate everything and every point exactly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/the-building-blocks-of-artificial-vision/",
-      "originalUrl": "https://www.embedded.com/the-building-blocks-of-artificial-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2022/01/Neuromorphic-Vision.jpeg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-17T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-17-free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.md",
-      "title": "Free-energy principle can explain how neural networks are optimized for efficiency",
-      "excerpt": "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
-      "publishedDateTime": "2022-01-16T20:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

@@ -41,6 +41,20 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "Facial recognition technology identifies the 'unique' noses of cattle"
+    excerpt: "Cattle branding and ear tags may become a thing of the past - in the future, farmers may simply be able to use facial recognition technology on their smart phone to locate their cattle. An Australian researcher has developed this AI-powered system to ..."
+    publishedDateTime: 2022-02-03T20:19:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/breakfast/facial-recognition-software-identifies-unique-muzzles-cattle/13740970"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13740972-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "CMU2JutvFUs9JESWXgwgoccdRqz0XRisSJ5BCu3jn0oV5Z0btpCP4gX2wIF0WnFKbbxFw4vN9o/9yF8rLot4BrK3oe976Lqdpo4J+7QEQoCulMhK9brKUxqKc4oVT+tmc/gwGnVOIuOzyqiOm6srK7Su86ak7syGhVIGlNLfFssiYj/dBM4DZhEent0naAIlBzz97loyLPU87JoOl8B3oC+pye/DhAKD7F4aGtZINr9LIoSbKbd8T9HbbZ0z6NXxj+zJs+DN3/gJ+L+UG7vh9LIWq6oS56m9u24lUTYH9b2TBh0oHLzbyHnI6Ogu42xlMyGQOB0y0vAsR1gMMraM/cB757cWPtyRZ/ObsXEYz6g=;c+IihcJOWhY799ZUYu1Fuw=="
 ---

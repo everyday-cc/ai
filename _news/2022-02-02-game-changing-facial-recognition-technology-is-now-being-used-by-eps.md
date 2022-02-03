@@ -9,8 +9,8 @@ ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504.amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CTV News
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition technology identifies the 'unique' noses of cattle"
+    excerpt: "Cattle branding and ear tags may become a thing of the past - in the future, farmers may simply be able to use facial recognition technology on their smart phone to locate their cattle. An Australian researcher has developed this AI-powered system to ..."
+    publishedDateTime: 2022-02-03T20:19:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/breakfast/facial-recognition-software-identifies-unique-muzzles-cattle/13740970"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13740972-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Edmonton police using facial recognition software to search mugshot database"
     excerpt: "Starting this year, the Edmonton Police Service will be using NEC’s NeoFace Reveal facial recognition technology to help identify suspects in criminal investigations. Sarah Komadina reports."
     publishedDateTime: 2022-02-02T01:45:00Z

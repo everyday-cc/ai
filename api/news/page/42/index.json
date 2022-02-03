@@ -2,6 +2,91 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-12-28-google-opened-an-ai-research-center-in-beijing.md",
+      "title": "Google Opened an AI Research Center in Beijing",
+      "excerpt": "Google has officially opened an artificial intelligence (AI ... autonomous vehicles in just two years’ time. Google’s Waymo project is also working on bringing autonomy to vehicles and ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/google-opened-research-center-beijing",
+      "originalUrl": "https://futurism.com/google-opened-research-center-beijing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/google-opened-research-center-beijing/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-opened-research-center-beijing/amp",
+      "publishedDateTime": "2021-12-27T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations.md",
+      "title": "Covid-19 Causes Global Supply Chain Havoc Intensifying Last Mile Logistics AI Innovations",
+      "excerpt": "This blog discusses COVID-19 impacts on the global supply chain and the havoc it has caused intensifying Last Mile Logistics and Real Time Monitoring of AI intelligence software solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca0586b099be41a4554665%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/amp/",
+      "publishedDateTime": "2021-12-27T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges.md",
       "title": "The Maritime Robotics Challenge: Collaboration to Solve “Unsolvable” Challenges",
       "excerpt": "The Mohamed Bin Zayed International Robotics Challenge offers more than $3 million USD in prizes.  This year, the Maritime Robotics Challenge is designed to bring emerging technologies together to tac",
@@ -1015,102 +1100,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-artificial-intelligence-chip-market-2021-will-record-massive-growth-trend-analysis-and-forecast-till-2028.md",
-      "title": "Artificial Intelligence Chip Market 2021 will Record Massive Growth, Trend Analysis and Forecast till 2028",
-      "excerpt": "Artificial intelligence AI chips are specialized silicon chips which incorporate AI technology and are used for machine learning AI helps in eliminating or minimizing the risk to human life in many industry verticals The need for more efficient systems for",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "originalUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc27270452_g.jpg",
-          "width": 737,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "publishedDateTime": "2021-12-26T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-healthcare-artificial-intelligence-ai-market-global-outlook-forecast-2021-2026.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026",
-      "excerpt": "The global healthcare artificial i (AI) market was valued at USD 4.56 Billion in 2020 and is expected to reach USD 44.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-",
-      "originalUrl": "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFN3KUv92pUiA/article-cover_image-shrink_720_1280/0/1640584699270?e=1646265600&v=beta&t=NJFZ9MBZ46wpmQCKKHH9iE-Nkg81eoZOPikGjeSauBg",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-26T22:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

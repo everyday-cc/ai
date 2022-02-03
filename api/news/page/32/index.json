@@ -2,6 +2,110 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-01-06-google-prediction-framework-addresses-data-pipeline-drudgery.md",
+      "title": "Google Prediction Framework addresses data pipeline drudgery",
+      "excerpt": "Framework weaves together Google Cloud Platform services to simplify the implementation of prediction projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html",
+      "originalUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/executive-pushing-boulder-uphill_deadline_stress_struggle-100746928-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.amp.html",
+      "publishedDateTime": "2022-01-05T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-formant-raises-18m-to-help-companies-manage-fleets-of-robots.md",
+      "title": "Formant raises $18M to help companies manage fleets of robots",
+      "excerpt": "Formant, a startup developing a platform to help manage companies manage fleets of robots, has raised $18 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/",
+      "originalUrl": "https://venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1273518964.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/amp/",
+      "publishedDateTime": "2022-01-05T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels.md",
       "title": "Cadillac’s new self-driving concept is a luxury loveseat on wheels",
       "excerpt": "The InnerSpace concept looks like a futuristic car from the outside—but inside, there's a two-seat loveseat surrounded by one of the widest screens we've ever seen, and no steering wheel or pedals.",
@@ -1099,92 +1203,6 @@
         "Machine Learning",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-sensorycloudai-launches-cloud-based-voice-and-vision-ai-services.md",
-      "title": "SensoryCloud.ai Launches Cloud-Based Voice and Vision AI Services",
-      "excerpt": "Sensory Inc., a Silicon Valley innovator of machine learning solutions for speech recognition and biometric identification, announces the beta release of SensoryCloud.ai,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sensorycloud-ai-launches-cloud-based-voice-and-vision-ai-services/article_80415a91-b610-5684-89db-5cd5c8b0d6ae.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sensorycloud-ai-launches-cloud-based-voice-and-vision-ai-services/article_80415a91-b610-5684-89db-5cd5c8b0d6ae.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/c5/5c50f657-b3c4-5f6c-8abe-ab37ed895a8d/60c0e2770671e.image.jpg?crop=1500%2C788%2C0%2C26&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-va-turns-to-ai-to-streamline-administrative-tasks.md",
-      "title": "VA Turns to AI to Streamline Administrative Tasks",
-      "excerpt": "The Department of Veterans Affairs is exploring how to use artificial intelligence tools to drive efficiencies in a wide range of medical and clerical areas.",
-      "sourceUrl": null,
-      "webUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks",
-      "originalUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202201/GettyImages-1300745916.jpg?itok=8Qx7rF5Z",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks?amp",
-      "cdnAmpWebUrl": "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks?amp",
-      "publishedDateTime": "2022-01-05T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fedtechmagazine.com",
-        "domain": "fedtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
