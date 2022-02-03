@@ -22,20 +22,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "The IRS is reportedly looking for ID.me alternatives amid privacy concerns"
-    excerpt: "The Treasury Department and Internal Revenue Service (IRS) are reportedly looking for alternatives to the controversial facial recognition software ID.me, according to a report by Bloomberg. As Bloomberg notes,"
-    publishedDateTime: 2022-01-29T18:50:39Z
-    webUrl: "https://www.theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns"
-    type: article
-    provider:
-      name: theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns
-      domain: theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns
-    quality: 120
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/x3VLjI4OFWFNXl9jMMXAnN78hZI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11900073/acastro_180730_1777_facial_recognition_0003.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
     excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
     publishedDateTime: 2022-01-31T15:13:00Z
@@ -67,6 +53,31 @@ related:
       - url: "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000"
         width: 1778
         height: 1000
+        isCached: true
+  - title: "Civil rights groups launch effort to stop IRS use of 'flawed' ID.me facial recognition"
+    excerpt: "Multiple groups have come together to urge the IRS to stop its use of facial recognition software. Outrage continues to swirl around a proposed plan from the Treasury Department to require some taxpayers to submit to facial recognition and biometric surveillance in order to access their accounts online."
+    publishedDateTime: 2022-02-01T18:47:00Z
+    webUrl: "https://www.zdnet.com/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 61
+  - title: "The Flawed Claims About Bias in Facial Recognition"
+    excerpt: "Recent improvements in face recognition show that disparities previously chalked up to bias are largely the result of a couple of technical issues."
+    publishedDateTime: 2022-02-02T16:57:00Z
+    webUrl: "https://www.lawfareblog.com/flawed-claims-about-bias-facial-recognition"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 54
+    images:
+      - url: "https://www.lawfareblog.com/sites/default/files/facialrecog.jpg"
+        width: 2048
+        height: 1536
         isCached: true
   - title: "Why the Prospect of the IRS Using Facial Recognition Is So Alarming"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number ..."

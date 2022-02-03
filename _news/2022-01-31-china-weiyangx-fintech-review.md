@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 803
         isCached: true
+  - title: "How can traditional banks survive in the age of Fintech?"
+    excerpt: "Thanks to their agile mindset and better product positioning, not only are Fintech’s crashing entry ... organization processes and graduating to AI-led banking. Every industry goes through ..."
+    publishedDateTime: 2022-02-03T10:04:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-can-traditional-banks-survive-in-the-age-of-fintech/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-can-traditional-banks-survive-in-the-age-of-fintech/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-can-traditional-banks-survive-in-the-age-of-fintech/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Pic.jpg.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "5 Top Fintech Stocks To Watch This Week"
     excerpt: "Another top fintech stock to note is Upstart. Essentially, the company offers a cloud-based artificial intelligence (AI) lending platform. Its platform would aggregate consumer demand for loans and connect it to its network of Upstart AI-enabled bank partners."
     publishedDateTime: 2022-02-01T00:06:00Z

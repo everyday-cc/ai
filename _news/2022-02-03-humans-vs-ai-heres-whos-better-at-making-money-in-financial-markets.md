@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-02-humans-ai-money-financial.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-humans-ai-money-financial.amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -33,6 +33,17 @@ related:
     webUrl: "https://theconversation.com/humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
     ampWebUrl: "https://theconversation.com/amp/humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
     cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 41
+  - title: "Humans v AI: here’s who’s better at making money in financial markets"
+    excerpt: "As such, AI often appears in behind-the-scenes processes ... such as the EU legal directive MIFID II or business ethics. The experiments themselves did not engage in any unethical activities ..."
+    publishedDateTime: 2022-02-02T17:56:00Z
+    webUrl: "https://theconversation.com/humans-v-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
+    ampWebUrl: "https://theconversation.com/amp/humans-v-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/humans-v-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
     type: article
     provider:
       name: The Conversation
@@ -62,6 +73,6 @@ related:
       domain: finextra.com
     quality: 19
 
-secured: "/W14rKVtitj32lTV20NKS4+qYmpOSeK+EEkJTeTs2T0BtN1RuWdJVIwuhA/1LItvXTiMPMh1npzfCIpkl5Q52pvGRattpl/Noz40SsdJ6iFo57IboZlmqEuKjJAL5MBMjOPcOG75awM0VXpDNIIruhG45DhSUF8D2dSJZmdoKzdcW7fFocwXM8vWvzxyHJ3kkX1q9VRR/hHSMn8/T9L1YbvGiXJXInxaetnQkFMZwWDbpPxszIVkatB645d5BiY74GnjPoptb8dksF/1C70tFM3xF81eJnuHEtWMtSX3CIOwj/+hirVJ7WkiPnROmXIi4t10v9ymVX2RqD8CzlLUB7JHL5imS1IYSmsa2tbaqmM=;SKyocbycWHX4LOlntMcqcA=="
+secured: "CbeqyW9j0Yiw0+MLtgK5ECYz3+SdY4jNh8FocNO7I3Ia/MBlVFvhSysQmqtMC1hk2jxmbt1I1VrydxUnnBCiLp2kYcec6zNR/Ic7j94ypY84M9CypJguoN/IPFgjh50W/G1XA5NzyOxJW3OekCdXYMhyff4pqh6YR0NaiVeTcHhGWUerm2OgCS0OHdQ7fmT8ius1wdvTORaKC6T6FbvfOqbQ1LYJCUtQtnXOMg9kKnuQW+DcemcUPtnsGR5mWtF/Orpg5m4LGowwfyvHits7i5aIZE7RACvgdCEUkGp4AqOQ649NJP+G/zFXuronOZZ73AhWCY5q4/Bvyvnbx3ZIApzsURTKSDy58h/1ZEr3mE4ZtmDUm1LVmcEg2bVW56vnF8HEHz/5iBIsxw1JXXs0UtDyHnI7OVmmjHS1dNBu77UQnS6c32Jo5u08tk5hZiIHds0c36D11MGYr/7G1SBx+on/lj3jastAIb0YVu0A9VAsu/1xMFaWvZ+Mc9IybC4SgWHlU+5R33wmm31whwzdSw==;L+hOpT1dweEcEw4IsDKl+w=="
 ---
 

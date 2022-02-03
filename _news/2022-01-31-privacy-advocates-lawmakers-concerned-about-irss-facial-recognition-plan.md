@@ -9,8 +9,8 @@ ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: HuffPost
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The IRS is reportedly looking for ID.me alternatives amid privacy concerns"
-    excerpt: "The Treasury Department and Internal Revenue Service (IRS) are reportedly looking for alternatives to the controversial facial recognition software ID.me, according to a report by Bloomberg. As Bloomberg notes,"
-    publishedDateTime: 2022-01-29T18:50:39Z
-    webUrl: "https://www.theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns"
-    type: article
-    provider:
-      name: theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns
-      domain: theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns
-    quality: 120
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/x3VLjI4OFWFNXl9jMMXAnN78hZI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11900073/acastro_180730_1777_facial_recognition_0003.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
     excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
     publishedDateTime: 2022-01-31T19:13:00Z
@@ -60,6 +46,31 @@ related:
       - url: "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000"
         width: 1778
         height: 1000
+        isCached: true
+  - title: "Civil rights groups launch effort to stop IRS use of 'flawed' ID.me facial recognition"
+    excerpt: "Multiple groups have come together to urge the IRS to stop its use of facial recognition software. Outrage continues to swirl around a proposed plan from the Treasury Department to require some taxpayers to submit to facial recognition and biometric surveillance in order to access their accounts online."
+    publishedDateTime: 2022-02-01T18:47:00Z
+    webUrl: "https://www.zdnet.com/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 61
+  - title: "The Flawed Claims About Bias in Facial Recognition"
+    excerpt: "Recent improvements in face recognition show that disparities previously chalked up to bias are largely the result of a couple of technical issues."
+    publishedDateTime: 2022-02-02T16:57:00Z
+    webUrl: "https://www.lawfareblog.com/flawed-claims-about-bias-facial-recognition"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 54
+    images:
+      - url: "https://www.lawfareblog.com/sites/default/files/facialrecog.jpg"
+        width: 2048
+        height: 1536
         isCached: true
   - title: "The IRS plan to require face scans raises concerns about privacy and security"
     excerpt: "It's a major expansion of facial recognition technology by the U.S. government, and it's raising questions about how this kind of data will be used and shared across private and public agencies. Ina Fried, chief technology correspondent for Axios ..."

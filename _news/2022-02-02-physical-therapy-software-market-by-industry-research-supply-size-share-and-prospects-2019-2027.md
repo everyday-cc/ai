@@ -39,6 +39,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market : Industry Analysis, Size, Share, Growth, Trends and Forecast"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 03, 2022, 04:52 /Comserve / -- Machine Learning as a Service (MLaaS) Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent ..."
+    publishedDateTime: 2022-02-03T10:40:00Z
+    webUrl: "https://menafn.com/1103635916/Machine-Learning-as-a-Service-MLaaS-Market-Industry-Analysis-Size-Share-Growth-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?734605"
+        width: 365
+        height: 250
+        isCached: true
 
 secured: "syXsLDqYMzoUIh6GC93PAxUjU4KseRSXgw4UATs70HvL152iqC/+uI0t+65T615VsVvGhpAK5YKDg7btRifarMRa3uV5m5cpwO22zoLe6RItfxHtKTobK9dSgQWHTc6bTpQrcOO4tSI3F7q7rxMCyCsuDxOyH5iR3LBNNVx04AUX59Ijb9jhvRLuRJg2Od3zqxeLwRBsxdvPDn/EkfWuuCNARbTTmjq3nZNmeCAql3Z695VrV4Ju5tKktD2Lcquuo94RbEEmAH5xA84OItlLe+PI1ctuDOl8Vz/iXqOGhSVx9JYy6vbp1/NhW4cy+cEeTVHFNwcoho6FZUs0e4IncytcjGSKOBMGS2FlD1hZKf4=;E18QQ/jehiJMGytqcXasXQ=="
 ---

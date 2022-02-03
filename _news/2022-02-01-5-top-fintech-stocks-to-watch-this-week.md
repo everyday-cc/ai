@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 803
         isCached: true
+  - title: "How can traditional banks survive in the age of Fintech?"
+    excerpt: "Thanks to their agile mindset and better product positioning, not only are Fintech’s crashing entry ... organization processes and graduating to AI-led banking. Every industry goes through ..."
+    publishedDateTime: 2022-02-03T10:04:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-can-traditional-banks-survive-in-the-age-of-fintech/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-can-traditional-banks-survive-in-the-age-of-fintech/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-can-traditional-banks-survive-in-the-age-of-fintech/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Pic.jpg.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "China: WeiyangX Fintech Review"
     excerpt: "The above is a weekly synopsis of the biggest stories on Fintech in China provided by WeiyangX, part of Tsinghua University, in partnership with Crowdfund Insider. WeiyangX is the most influential website focusing on Fintech in China."
     publishedDateTime: 2022-01-30T16:36:00Z

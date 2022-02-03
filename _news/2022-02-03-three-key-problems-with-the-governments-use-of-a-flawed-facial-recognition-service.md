@@ -102,20 +102,6 @@ related:
         width: 800
         height: 518
         isCached: true
-  - title: "The Flawed Claims About Bias in Facial Recognition"
-    excerpt: "Recent improvements in face recognition show that disparities previously chalked up to bias are largely the result of a couple of technical issues."
-    publishedDateTime: 2022-02-02T16:57:00Z
-    webUrl: "https://www.lawfareblog.com/flawed-claims-about-bias-facial-recognition"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 54
-    images:
-      - url: "https://www.lawfareblog.com/sites/default/files/facialrecog.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "U.S. Agencies Embrace Facial Recognition Technology"
     excerpt: "While facial recognition technology has helped identify more than 1,000 impostors attempting to enter the U.S. with false documents since 2018 and the increasing use of biometrics in airports and ..."
     publishedDateTime: 2022-02-01T16:09:00Z
