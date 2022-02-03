@@ -2,6 +2,40 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-12-31-rismallcollaborative-research-understanding-human-object-interactions-from-first-person-and-third-person-videos.md",
+      "title": "RI:Small:Collaborative Research: Understanding Human-Object Interactions from First-person and Third-person Videos",
+      "excerpt": "The 1st-person view is ideal for object recognition, while the 3rd-person view is ideal for human activity recognition. Thus, this project will investigate unique solutions to challenging problems that would otherwise be difficult to overcome when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1812850&HistoricalAwards=false",
+      "originalUrl": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1812850&HistoricalAwards=false",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-30T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nsf.gov",
+        "domain": "nsf.gov",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-crashing-the-self-driving-party-of-tesla-co.md",
       "title": "Crashing The Self-Driving Party Of Tesla & Co.",
       "excerpt": "Self-driving cars — and their hands-free precursors from the likes of Tesla, Cadillac, Audi, and Ford — may be barreling towards an obstacle that they can all see and can’t avoid: the courtroom.",
@@ -1157,61 +1191,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-2021-was-a-breakthrough-year-for-ai.md",
-      "title": "2021 was a breakthrough year for AI",
-      "excerpt": "As 2021 comes to a close, we take a quick look at all the major developments that took place in the AI space worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
-      "originalUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/AI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
-      "publishedDateTime": "2021-12-29T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI",
-        "Microsoft AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/5243/production/_123095012_deepmind1-1.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Google DeepMind’s AlphaCode system beats thousands of human experts in coding contest"
+    excerpt: "An artificial intelligence tool developed by Google beat thousands of seasoned programmers in a series of coding competitions.The AlphaCode system, created by Google’s AI subsidiary DeepMind, ranked in the top 54 per cent of competitors after going up against 5,"
+    publishedDateTime: 2022-02-03T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 32
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4c36539a-8481-11ec-a9c8-2dfad00a5965.jpg?crop=4371%2C2459%2C100%2C96&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Dpfcoj/FTqOs4KH9ux4DdjupIMdxGWLPZL/uJkUWoDjCVn6Z38FFlJZ3gw2C6lCBnXu5yRO6RDvrKFFO9ofAT1sCaFxYOSflTgiFPStSm5fhGclsp+sChlVGxxNE2G0WvGZpvvMEF8XS2vKOa/BIS7XTfehK4A3+qJuovcsydV0kgj/ti6pHhi+BIaJaKCoS3BIU4Z59KJCYHuqixd6neguFJcZ3PvWITn2ajwDbPAec6inE+LgMARapaVFOr3Eh3N1D1S4gEA8wU9V2rta4arJLzgavQUUBy6OMB+R0uKnrOJ5yoFFd1IAyYEIzLwK9Vf6Sii9J6GvVqBaHQN0kkEsSNRYZHCUOb5nurmLU/V09VoFbhP/4QOaCxEl0JLEOW31CNPGu94mZ87GlH0EOOqMt7yeCXXwz46caSLFqbj9zydb1iBNYF0cavWdhc8+GaflzsCQobvs0WJqm6+bKr4ero8D1EPo5NOxsyhsthucyoCoyP29qwTVr74Y1DZ83OId9llhuUh0TnD4mYx2AuA==;xrHSsp559mZD7oYIEweXIg=="

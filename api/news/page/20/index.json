@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-01-14-dude-wheres-my-driverless-car.md",
+      "title": "Dude, Where’s My Driverless Car?",
+      "excerpt": "When will driverless cars hit the road? While car manufacturers and tech giants are making optimistic predictions about the future of autonomous vehicles, there are many challenges in the way",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessbecause.com/news/insights/8012/driverless-cars-future",
+      "originalUrl": "https://www.businessbecause.com/news/insights/8012/driverless-cars-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessbecause.com/uploads/default/news/images/1641574105.png",
+          "width": 750,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.businessbecause.com/news/insights/8012/driverless-cars-future",
+      "cdnAmpWebUrl": "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/insights/8012/driverless-cars-future",
+      "publishedDateTime": "2022-01-13T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Because",
+        "domain": "businessbecause.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-how-protais-ai-powered-platform-is-improving-drug-discovery.md",
       "title": "How Protai’s AI-powered platform is improving drug discovery",
       "excerpt": "Protai claims it's reshaping the drug discovery and development process using proteomics and an end-to-end AI-based platform.",
@@ -1155,51 +1198,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-artificial-intelligence-in-security-market-to-see-booming-growth-acalvio-cylance-ibm-micron.md",
-      "title": "Artificial Intelligence in Security Market to See Booming Growth | Acalvio, Cylance, IBM, Micron",
-      "excerpt": "Advance Market Analytics published a new research publication on Artificial Intelligence in Security Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2526101/artificial-intelligence-in-security-market-to-see-booming",
-      "originalUrl": "https://www.openpr.com/news/2526101/artificial-intelligence-in-security-market-to-see-booming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/V/1/V113166983_g.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming",
-      "publishedDateTime": "2022-01-13T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security",
-        "AI in Healthcare"
       ]
     }
   ],

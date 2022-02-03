@@ -2,6 +2,49 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-12-28-robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says.md",
+      "title": "Robotics might be ‘bigger than industrial revolution,’ Lightspeed Partner says",
+      "excerpt": "Raviraj Jain, whose firm has invested in a startup that’s developing a grasping tool, says warehouses represent ‘the biggest opportunity’ for robotics at present",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says-11640620538194.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says-11640620538194.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/12/27/600x338/Robotics_1640620827696_1640620827828.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says/amp-11640620538194.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says/amp-11640620538194.html",
+      "publishedDateTime": "2021-12-27T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators.md",
       "title": "Baidu Create 2021 Successfully Launched In Metaverse, Ushering In A Golden Decade Of AI For Creators",
       "excerpt": "Having L4 intelligent driving capabilities, Baidu's smart EV venture, Jidu Auto, has been designed to operate under the concepts of \"free movement\", \"natural communication\", and \"self-improvement\".",
@@ -1057,49 +1100,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-fintech-a-force-for-financial-inclusion-in-palestine.md",
-      "title": "Fintech: A force for financial inclusion in Palestine",
-      "excerpt": "Majd Zghyer is the strategy officer at uMake, an entrepreneurship support organisation (ESO) based in Ramallah, Palestine. This year",
-      "sourceUrl": null,
-      "webUrl": "https://www.wamda.com/index.php/2021/12/fintech-force-financial-inclusion-palestine",
-      "originalUrl": "https://www.wamda.com/index.php/2021/12/fintech-force-financial-inclusion-palestine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.wamda.com/feature-images/c55cbfccaa370a6.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-26T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wamda.com",
-        "domain": "wamda.com",
         "images": null,
         "publishers": null,
         "authors": null

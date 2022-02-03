@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Emergence of Self-Driving Cars Drives the Growth in Machine Learning Market"
+    excerpt: "An essential component of centralized electronic control unit or ECU of a driverless car, machine learning technological solutions are expected to witness substantial demand in coming years. The solutions in the global machine learning market are anticipated to experience heightened demand owing to their application in self-driving cars."
+    publishedDateTime: 2022-02-02T09:19:00Z
+    webUrl: "https://techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/"
+    ampWebUrl: "https://techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/02/Machine-Learning-Market.jpeg"
+        width: 1728
+        height: 1094
+        isCached: true
   - title: "FOCUS-Self-driving car companies zoom ahead, leaving U.S. regulators behind"
     excerpt: "Self-driving vehicle companies from Tesla Inc to General Motors Co's Cruise are racing to start making money with their technology, outrunning efforts by regulators and Congress to write rules of the road for robot-driven vehicles."
     publishedDateTime: 2022-02-02T06:01:00Z
@@ -38,36 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 52
-  - title: "Self-driving cars may soon be among Singaporeans, but they won't be Teslas"
-    excerpt: "Self-driving cars, for all the apparent buzz around them recently, are actually not unfamiliar to keen observers of the auto industry. They've long been heralded as the next step in mobility, bringing not just added convenience,"
-    publishedDateTime: 2022-01-31T02:29:00Z
-    webUrl: "https://www.sgcarmart.com/news/events_features.php?AID=4074&GASRC=sgcm"
-    type: article
-    provider:
-      name: Car
-      domain: sgcarmart.com
-    quality: 37
-    images:
-      - url: "https://i.i-sgcm.com/news/article_events/2022/4074_1_l.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Will state-by-state regulation of self-driving vehicles work -- and keep people safe?"
-    excerpt: "UPS invests in self-driving cars A future where motorists share streets and highways with driverless cars may still be years away, but transportation experts are saying now's the time for elected leaders to plan for that scenario."
-    publishedDateTime: 2022-01-31T11:30:00Z
-    webUrl: "https://abcnews.go.com/US/state-state-regulation-driving-vehicles-work-people-safe/story?id=82463123"
-    ampWebUrl: "https://abcnews.go.com/amp/US/state-state-regulation-driving-vehicles-work-people-safe/story?id=82463123"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/state-state-regulation-driving-vehicles-work-people-safe/story?id=82463123"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 37
-    images:
-      - url: "https://s.abcnews.com/images/Business/driverless-car-gty-jpo-190202_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Self-Driving Lobbying Group Drops ‘Self-Driving' in New Name"
     excerpt: "Wayo, Lyft, Ford, Uber, and Volvo got together to create a lobbying group in Washington, D.C. to lobby lawmakers to pass favorable legislation on autonomous vehicles. The"
     publishedDateTime: 2022-01-30T00:37:00Z
@@ -81,6 +67,48 @@ related:
       - url: "https://img.futurecar.com/202201/29/l_61f5004608904.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "How We Get Self-Driving Back on Track in 2022"
+    excerpt: "The AV industry has some of the smartest people in the world tirelessly working to make the dream of commercial self-driving cars a reality. We also have the funding to get there, and we all understand the immense positive societal impact this technology will have."
+    publishedDateTime: 2022-01-31T19:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-we-get-self-driving-back-track-2022-raquel-urtasun"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
+        isCached: true
+  - title: "BigBear.ai Advances Commercial Market Growth Strategy with Appointment of B2B Marketing Expert Carla Fitzgerald as Chief Marketing Officer"
+    excerpt: "Fitzgerald brings more than 25 years of B2B-focused technology marketing experience with public and private global companies, including companies that do business with the Federal government. She specializes in providing innovative go-to-market strategies for SaaS and enterprise software businesses,"
+    publishedDateTime: 2022-01-31T12:02:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/bigbear-ai-advances-commercial-market-growth-strategy-with-appointment-of-b2b-marketing-expert-carla-fitzgerald/article_c0a06fdd-04ca-5e42-9327-25a3cb6ee77d.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 20
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/0/50/05050457-cec8-5551-8736-2a1ea83556f4/61f7e20133ae4.image.jpg?resize=400%2C500"
+        width: 400
+        height: 500
+        isCached: true
+  - title: "Self-driving Car Market to Eyewitness Stunning Growth by 2028 Covid-19 Analysis | General Motors, Ford, Daimler, Volkswagen"
+    excerpt: "Stratagem Market Insights‘ market research study highlights the key reasons behind the increasing demand for Self-driving Car. This detailed market report is transferred to the data based on an extensive survey of the current market. Information about ..."
+    publishedDateTime: 2022-02-02T20:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-to-eyewitness-stunning-growth-by-2028-covid-19-analysis-general-motors-ford-daimler-volkswagen"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://marketresearchinsights2017.files.wordpress.com/2022/02/market-research-2.png"
+        width: 1024
+        height: 600
         isCached: true
 
 secured: "MTXPlW70a86P5+kpMqeFug3qW4ElZ/zTnfrpxtUd0sBRuxuOVU2G7K2Q6aEsDOxBxxhAOpdeMLfOAO1qvJ+k78lSPu6i7IRu4aGU0uEOWn/75PmmDqffFiYBZS8BEV43RjS1UGlGjIpPflFEj6u7Ha8Ogeq0S5zmUHEdKVsGZqa1kxKgazo29zORTnzalDpk3sBUMjB+is8hXixUryYbMyOuDikRjRtevEV5qASxRtseTiXle5GkO3Tqh2P3HiXx9o7+52IDEtgB0mICGTB1C3cbwq0NeEsgONlaSXWwXi2Fn953cdLOgwOH5fzrXD7zQJnrAguEPY3JEKP3roneGHcdFBimJF1YIX0Jcz8N+Rg=;9Vj60IgegiCCH8enSLgK1A=="

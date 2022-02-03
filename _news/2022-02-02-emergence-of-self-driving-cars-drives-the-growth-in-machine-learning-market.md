@@ -1,46 +1,33 @@
 ---
 category: news
-title: "Self-driving Car Market to Eyewitness Stunning Growth by 2028 Covid-19 Analysis | General Motors, Ford, Daimler, Volkswagen"
-excerpt: "Stratagem Market Insights‘ market research study highlights the key reasons behind the increasing demand for Self-driving Car. This detailed market report is transferred to the data based on an extensive survey of the current market. Information about ..."
-publishedDateTime: 2022-02-02T20:10:00Z
-originalUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-to-eyewitness-stunning-growth-by-2028-covid-19-analysis-general-motors-ford-daimler-volkswagen"
-webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-to-eyewitness-stunning-growth-by-2028-covid-19-analysis-general-motors-ford-daimler-volkswagen"
+title: "Emergence of Self-Driving Cars Drives the Growth in Machine Learning Market"
+excerpt: "An essential component of centralized electronic control unit or ECU of a driverless car, machine learning technological solutions are expected to witness substantial demand in coming years. The solutions in the global machine learning market are anticipated to experience heightened demand owing to their application in self-driving cars."
+publishedDateTime: 2022-02-02T09:19:00Z
+originalUrl: "https://techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/"
+webUrl: "https://techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/"
+ampWebUrl: "https://techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/amp/"
+cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/amp/"
 type: article
-quality: 13
-heat: -1
-published: false
+quality: 59
+heat: 119
+published: true
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Impacts
+  domain: techbullion.com
 
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://marketresearchinsights2017.files.wordpress.com/2022/02/market-research-2.png"
-    width: 1024
-    height: 600
+  - url: "https://techbullion.com/wp-content/uploads/2022/02/Machine-Learning-Market.jpeg"
+    width: 1728
+    height: 1094
     isCached: true
 
 related:
-  - title: "Emergence of Self-Driving Cars Drives the Growth in Machine Learning Market"
-    excerpt: "An essential component of centralized electronic control unit or ECU of a driverless car, machine learning technological solutions are expected to witness substantial demand in coming years. The solutions in the global machine learning market are anticipated to experience heightened demand owing to their application in self-driving cars."
-    publishedDateTime: 2022-02-02T09:19:00Z
-    webUrl: "https://techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/"
-    ampWebUrl: "https://techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/02/Machine-Learning-Market.jpeg"
-        width: 1728
-        height: 1094
-        isCached: true
   - title: "FOCUS-Self-driving car companies zoom ahead, leaving U.S. regulators behind"
     excerpt: "Self-driving vehicle companies from Tesla Inc to General Motors Co's Cruise are racing to start making money with their technology, outrunning efforts by regulators and Congress to write rules of the road for robot-driven vehicles."
     publishedDateTime: 2022-02-02T06:01:00Z
@@ -110,7 +97,21 @@ related:
         width: 400
         height: 500
         isCached: true
+  - title: "Self-driving Car Market to Eyewitness Stunning Growth by 2028 Covid-19 Analysis | General Motors, Ford, Daimler, Volkswagen"
+    excerpt: "Stratagem Market Insights‘ market research study highlights the key reasons behind the increasing demand for Self-driving Car. This detailed market report is transferred to the data based on an extensive survey of the current market. Information about ..."
+    publishedDateTime: 2022-02-02T20:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/self-driving-car-market-to-eyewitness-stunning-growth-by-2028-covid-19-analysis-general-motors-ford-daimler-volkswagen"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 13
+    images:
+      - url: "https://marketresearchinsights2017.files.wordpress.com/2022/02/market-research-2.png"
+        width: 1024
+        height: 600
+        isCached: true
 
-secured: "Th0TmYe6KeqZIHuoF14V/+Zj1AePYoNAsADbDO6Ll96jdaaezXtjIR/77WbrTO9qcOlQt+WG88/DPUdY/xi8UzjdyB4Voc70UMfvr4bX2z2d+bZmITiibZ8t5vefo8eWuIFiytWDiMWsd6ynPZ7ggy52S64iYZ/tNcwRLm5bhzUQPWPHBMvi6vMEZ+qjqBCdF+MwM1wS5f/tCBDU6lcZqmOjQPN4YNQEiEZbuZKRihO3JcXzlHAbdjoe8HdYMJJzmjAzpQDU0gKTqQJ51YH3zKGP899ogG8XODaM05e5V/jD0DskRGusQ8zgf+7Qj/O/MLcZpIpOVtAROtgUQ5AZ7AKJFK0MTR08fotwcxdUeUE=;oeTUffQfnFCIXNWmZUhDwA=="
+secured: "wEBz63xHPtqFJtDLmwuHhHeB5tl/b5OV6ezI8Lgd9IjGIY9K+MJ9s4HTxxMSx5rEJ18A3K0mPfdeZ5RSb+0yEYMYEsjL4e17Hxkg0157Ex6jbdhGGY1KH0uegZqocEpzoVQBOrFdE/qWXzNHeLHXFINCwxqaUY6i+1bByDpw9TKhOTzOENI8E/ZODY1IvI41AJXCr3oNB79CoKuAqrL+wIaybac66fAdhPt+KX/Frw3wBT1Rq6PrY/YgxU3LwXmLoqyHj8JQfVzANHApkiXXAkE4DsEN8ythbsnUC377BKlLzuh0E2+EQs+38HeiFWpb2fNxH/VpOUj2aydGg6uVVlmugSGOnyI8kzDRttcPPCU=;4xHykP9WQjL6v9Myp8YV2A=="
 ---
 

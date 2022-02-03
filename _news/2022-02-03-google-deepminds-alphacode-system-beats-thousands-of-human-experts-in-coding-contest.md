@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Competitive programming with AlphaCode"
-excerpt: "As part of DeepMinds mission to solve intelligence, we created a system called AlphaCode that writes computer programs at a competitive level."
-publishedDateTime: 2022-02-02T00:00:00Z
-originalUrl: "https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode"
-webUrl: "https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode"
+title: "Google DeepMind’s AlphaCode system beats thousands of human experts in coding contest"
+excerpt: "An artificial intelligence tool developed by Google beat thousands of seasoned programmers in a series of coding competitions.The AlphaCode system, created by Google’s AI subsidiary DeepMind, ranked in the top 54 per cent of competitors after going up against 5,"
+publishedDateTime: 2022-02-03T00:01:00Z
+originalUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5"
+webUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5"
 type: article
-quality: 74
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: DeepMind
-  domain: deepmind.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Times
+  domain: thetimes.co.uk
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
-  - url: "https://lh3.googleusercontent.com/vz8uwIhCXl_JqJGaUoUessaut6aLXPffnRi4fq7M82o01WJOBKFIWkPLh6Hg-tvnJCLw6mKu-gEGUNIPftbm7xzwUfZFKRl9VW-Nl-IbIFcbgAiKh7A9"
-    width: 512
-    height: 288
+  - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4c36539a-8481-11ec-a9c8-2dfad00a5965.jpg?crop=4371%2C2459%2C100%2C96&resize=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -61,6 +57,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Competitive programming with AlphaCode"
+    excerpt: "As part of DeepMinds mission to solve intelligence, we created a system called AlphaCode that writes computer programs at a competitive level."
+    publishedDateTime: 2022-02-02T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/vz8uwIhCXl_JqJGaUoUessaut6aLXPffnRi4fq7M82o01WJOBKFIWkPLh6Hg-tvnJCLw6mKu-gEGUNIPftbm7xzwUfZFKRl9VW-Nl-IbIFcbgAiKh7A9"
+        width: 512
+        height: 288
+        isCached: true
   - title: "DeepMind has made software-writing AI that rivals average human coder"
     excerpt: "DeepMind, a UK-based AI company, has taught some of its machines to write its own computer software – and it performs almost as well as an average human programmer when judged in competition. DeepMind’s new AlphaCode is claimed to be able to solve software problems that require a combination of critical thinking,"
     publishedDateTime: 2022-02-02T16:04:00Z
@@ -91,21 +101,7 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Google DeepMind’s AlphaCode system beats thousands of human experts in coding contest"
-    excerpt: "An artificial intelligence tool developed by Google beat thousands of seasoned programmers in a series of coding competitions.The AlphaCode system, created by Google’s AI subsidiary DeepMind, ranked in the top 54 per cent of competitors after going up against 5,"
-    publishedDateTime: 2022-02-03T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 32
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4c36539a-8481-11ec-a9c8-2dfad00a5965.jpg?crop=4371%2C2459%2C100%2C96&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "pDF+HZJdM8W3XtSMHm0TKFtKuNJlOnRc2ui0cRnZ4Jd5Gou3JtM92aKvaEiPApWQbZ8n+xf+01kS8QMdptZhY0bmUUHaTZl/sPFQF+udsU+ozNIgc8k+paS1tbq0sf6p1w9LCqr95TMIoc49EHF8u3IzqPu9+z7jzaCoN6hqYX5DQnSEY20UK/b/kXBQaio80XBKyIy4V6PKnd3LlkCp0xoNt8PRGWaJDhtxkXkGTNSTfR8mEuFF2rRT/PCpFJcwU9KJBB/qezrjU7XLFIs+QROoeJswJnS6yqbR92y1beGX0MDqY97jxrZFfyv6JZGlQG/pC9cnqdegenPqKjhfZ+f0a3cru4esevI2zLX1ScE=;iwzdOoDUkmP47gUyBSpV3A=="
+secured: "e+XZBhM4Yvpt+NX4AnHGOCxww6NVCuuz9VrnjbiqttUjz3zcPyJrFjlSRppjppZjOHVOlaIyQ3TMrVjBnTOVCTJjZEig4HLY01E88zSWpW/Tj8KeJJoE94t0W7uOyObT15awPHRaExyQjUDnIXJP/9i2dM7vDJWCA9BxnAF/CjbIRo8KSGFA29zOmpSraQOrXaB9vl1E7QxixAwhKft4sn0kZEjQ+rCPrdLMAZZr+UIeoWTKSH7DzPHXd0Fr/dMK7OVcX/0Y8dAMjes5vUcSf7Ld6b2vhHcEHo2qh4CoKC0agpOAkbPKZUT/8AWjf7/tMhMrIjYbRWVX7IS+jo4gDyq+EKpuXTLtUB1LUgv5QjE=;OSDWfkE3GJ6raS6mFMteJw=="
 ---
 
