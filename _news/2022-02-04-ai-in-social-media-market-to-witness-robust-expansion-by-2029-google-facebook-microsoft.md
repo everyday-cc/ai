@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-04T15:15:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-to-witness-robust-expansion-by-2029-google-facebook-microsoft"
 webUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-to-witness-robust-expansion-by-2029-google-facebook-microsoft"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Facebook AI
 
 images:
   - url: "https://www.market-news.org/wp-content/uploads/2022/02/AI-in-Social-Media.jpg"
@@ -56,6 +57,6 @@ related:
         height: 630
         isCached: true
 
-secured: "MnHoFR1HQy3QfrkYIteD3p4eTC/CguvBHLcKZ5z5N52MsAOfjE5FLwM26iyzWfZVMj96HMNZUjtWrvymUnS+j2iCz5N/cYCDu1vWcM9YSfU33KTWrQNdcmkVSmuUnVkQIRIy8s71psqnhL1oRi2Mz7xYKEtyyfJUJxz8BUvpRx9l1UcALuDFs4lSL5W7gMqcDNW+p852ffmCQ/chXuDXKlM1qah/7h+81MJBdVezPSADfF3F1CmOUKOs8vUjvMN/1iyEmE3f/jgdDQ86VQFr35pzZr6+4/RLU2xIhQhGPI0Pzv7UuBvnm+W9LyvcU89Bd/I0X4GYVPV1w0JzJe8ChROxb+7kGq2aIlWr32cKYB4=;vYXlzFEifMzOSVZSOInwug=="
+secured: "PtRiexXdk4UzJhClJGqlNSnzcpso0EsAnFK2rdjjnaWpSRBgC4MaBqIofBbxAHq4MZda0iwEDm9/ka/zzZIXm0tFrLCKjpVwvNVMRIXMqKDWtP/yqKMsOsmG3BjNT4VHAf60JChsZzH63i/h3QuLNJ/TedWN6vh/4+9qCTOwnL5fp8Dc+ABCZ3FUZyMY4pnDl3kHuqo0FvBv71Wq9lNr8YrKOXfNYUEP9nsGxtQt2yQXOBTN2PJJ7NCuNX02Z2w/xq+HUoOB4rslG5O7u/x4RYbISpqS+c/MCZQqU6Jyo1I037kL3mfEXL6MJpwoFnFC/OOSwT0gw2uRZFRAcevRiuQLGTzzJ23lfeafG/aur0Z+xy64bjhiyuWAAqE4hMRQjhkcZv+a8yiIVsjGICyR7rQtjVNeRRyJD2117a2qDKdxrLQ9KJIVgnGMOk97r74gGi8K34xjwBJOpLeggN2allFJgACid04HNLw81YHgdZefFonZlQ5yYHyl90W96wAzauJvRb5my03AZxbBiHxxgw==;ZtdCSeNPrOLto5iFPXxVmw=="
 ---
 

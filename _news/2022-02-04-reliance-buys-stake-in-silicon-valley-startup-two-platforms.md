@@ -24,21 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "What 20 years in Silicon Valley’s security sector teaches you about launching a successful startup"
-    excerpt: "Building a sustainable operation is incredibly difficult, but launching and establishing a successful security startup is possible."
-    publishedDateTime: 2022-01-31T01:17:00Z
-    webUrl: "https://venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/"
-    ampWebUrl: "https://venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/30/what-20-years-in-silicon-valleys-security-sector-teaches-you-about-launching-a-successful-startup/amp/"
+  - title: "Jio Platforms Invests $15 Million In Silicon Valley Start-Up TWO"
+    excerpt: "TWO is a Silicon Valley-based tech start-up founded by Pranav Mistry. TWO -- an Artificial Reality (AR) company -- said it believes the next chapter of Artificial Intelligence (AI) is visual and interactive. The AR platform enables real-time AI voice and ..."
+    publishedDateTime: 2022-02-04T12:43:00Z
+    webUrl: "https://www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346"
+    ampWebUrl: "https://www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346/amp/1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 75
+      name: NDTV
+      domain: ndtv.com
+    quality: 42
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://c.ndtvimg.com/2019-12/9hua9ik8_jio_650x400_04_December_19.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
+    excerpt: "The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences. Notably, TWO's Artificial Reality platform enables real-time AI ..."
+    publishedDateTime: 2022-02-04T14:45:00Z
+    webUrl: "https://menafn.com/1103642231/Jio-Platforms-invests-15-mn-in-AI-VR-startup-Two-Platforms"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?150158"
+        width: 432
+        height: 250
         isCached: true
 
 secured: "WUuFyuucIKUhWvhFDOTpl5oiV4Ut2Qp0qiZA4/lY+6DYpo6HhsyVEW1RhTpgdGJHz6mC5W/iUF+sG/vlLsGLBI3bEuFeUYl5gnwsFwLqd/CzWF4PcP0YYrhgyGpabQ660uYyQWx+R/J/P9J0nruZbpTmU5swpOWaBLjWJYoKSETPM49wQvm66vzTbsZD908tjqehcN2XOT0+O6ZWORPcuHLrDVdIgwO2IVKTIVecYsy1v5zwm8GiK7LuXzKrwwbIGy1mm4HPAl5ZajyFpeiXnlqXbGaXRWgZdNepb0lvfj/ewf/nBrwFCwdsOO0bdCjyzQ2bIASlzEg0WoyRyfRaDom+Syn5Gr+xShT5kKHm2/w=;Fq+cbR49WT9VEuDOA87CYQ=="

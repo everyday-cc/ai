@@ -36,15 +36,6 @@ related:
         width: 960
         height: 413
         isCached: true
-  - title: "How Does Amazon Use Business Intelligence?"
-    excerpt: "By using its recommendation engine, Amazon makes use of its data. While you are using Amazon’s website, it collects details about who you are and what you buy. As well as what you buy, Amazon keeps track of what items you viewed,"
-    publishedDateTime: 2022-01-31T02:55:00Z
-    webUrl: "https://www.ictsd.org/how-does-amazon-use-business-intelligence/"
-    type: article
-    provider:
-      name: ICTSD
-      domain: ictsd.org
-    quality: 4
 
 secured: "N4HjIfGbB6HpfpnV0OhSaiwoVNXzifXWTAPI8kj738HTgxCzi6uC+P86LmjM+UsHTrxEtKtkd+GEyyXf1ZkWE4eezk8Uu5Hj6gUQKdiW62LS5PppnkYz0ym0S1U6YPQNjnysI6/Fit0Vbs7Rjr8I7/X3vZJykboDIt+naZltvd12XZSwetviUy7GA2ATr4fAJeMgYMI5ciywnmbxrzPXqZH5lX3ICTXpBDiIus2t03FtRpLDZyLy8OadLQ95ZBXZvE+DwuEqDRstkw6rfAjS0Pv8NjnSh/LiNyok/n4dcc0GchWD5XbByDG8f7m9cDMuQApZBYS9IG7Eo1lWFB+YuvobaJS7184IJwq5ykMrjwzHE0qfDB5ILfxpoV+zZ9fj3yjL2Xi5bRnWr3J2dpN6mllzAI0iH2gLh0vTByZbzqfS/feHFFh77aSzJe7fuCPcTbrQc9uC5B1PlA937Mx7w/RpaTsKnwH/GMG1Jka2Oy77YzGT51RpcK3iTAjCZcLyrXFexezbcFto+Lw9B8cGQg==;08Mk2tDdXB7IUKAr91MfPg=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 918
         height: 506
         isCached: true
+  - title: "Chinese dissident Ai voices criticism as Winter Games open"
+    excerpt: "Ai Weiwei, possibly China's best-known dissident, aired criticism of Beijing's human rights record and response to the pandemic, in an interview with The Associated Press Friday, in which he also took aim at World Health Organization Director-General ..."
+    publishedDateTime: 2022-02-04T18:49:00Z
+    webUrl: "https://www.startribune.com/chinese-dissident-ai-voices-criticism-as-winter-games-open/600143127/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 37
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1643924422"
+        width: 1680
+        height: 876
+        isCached: true
   - title: "Analysts Think These 5 Chinese Stocks Could Rebound in 2022"
     excerpt: "In this article, we discuss the 5 Chinese stocks that could rebound in 2022 according to analysts. - All Parts"
     publishedDateTime: 2022-02-01T22:50:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/balance-your-data-fo
 webUrl: "https://aws.amazon.com/blogs/machine-learning/balance-your-data-for-machine-learning-with-amazon-sagemaker-data-wrangler/"
 type: article
 quality: 104
-heat: 124
+heat: 126
 published: true
 
 provider:

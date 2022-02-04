@@ -125,6 +125,20 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 53
+  - title: "Another lawmaker raises concerns with IRS plan to use facial recognition"
+    excerpt: "Sen. Roger Wicker, R-Miss., is asking the IRS to provide answers to a series of questions around their use of facial recognition and third-party vendor ID.me by Feb. 17. (Photo by Joshua Roberts/Getty Images) The ranking Republican on the Senate Commerce ..."
+    publishedDateTime: 2022-02-04T18:55:00Z
+    webUrl: "https://www.scmagazine.com/analysis/data-security/another-lawmaker-raises-concerns-with-irs-plan-to-use-facial-recognition"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 53
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2022/02/Wicker-e1643998430844.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Here’s what’s wrong with an IRS proposal to use facial recognition technology for tax filing"
     excerpt: "Because of privacy concerns, the IRS is reconsidering its plan to require the use of facial recognition to file taxes online this year. metamorworks - stock.adobe.com The U.S. Internal Revenue ..."
     publishedDateTime: 2022-02-03T12:02:00Z
@@ -254,6 +268,6 @@ related:
         height: 554
         isCached: true
 
-secured: "zjZK6+lLOVaPo2qtg4u06peUlP8giqHDnJ9ezPS7ZNUSxVWCGtgCcF15RT3lHrz5k8RIJBdx7/tbe0zL+pFiDQ6XFU9qF7ompS92qNQyvcZHV9MsxK/p5+OG1RoDtvUQSEgxWlHeRenKoWSxfa6MXEfoQAg8myconJVMlXW78rqyjsdnaez1yDokPIkpTqgtzHgTzlO5PWBqMqgHbcDVXyyOXGmTt6X8672K6vjueynlm2wKmkC6NP66PGN6CEGLopbLb0DnU4dcPFh30U7e4PumQCJtOuYUcUIaPEcx9TFkaSQyp9XTqERr7OsOzL8EzpARONZtIOK/2TR/zaiuadlQovoRqryAJBnA45ujqOU=;WPwUFIoxmNngVM/L/resDg=="
+secured: "zDSe7ggrJ0//rJaRxcFGaF0A/nvya5I+3iyvoA6qvOfodjl26J/ibixadW58ZJlSBc4zmAFshXzmkMq/bjqNScAdLT6oVZoAcrqB25zjlrfQoa/TCCwCnhKGJMm2ztDYA4iY7+nZ1Mw7IV0fLYcF5xUXEdXl3s5AhbsTT4REysU1tqxfzqslyTkk9k0mPhg0HLtLGg1DYDOFWBLCKEm7RB+DxX2SseiMpUPgHByOodT8ZbMlX7t/EAuyuVIqRfhUAUFM5WqHrR9Iwt0Y5Z/CsvJsmJ9/d0FVlQX2Qdfxye/48wSu9j/5e3jbj5YFns2oo/CZdnuQnicXG3nFLuYrZXL6jkA7YIJMgEQUEUEzQuwkj/60OU8BPPBsdqRl2qDWp5SM+GGNaXW18AYchz+jZgx2mhfM8RvCaIhU46UWRksTldcgM/tYI95jbsaV3vSbPiFxlf0tR3+zs8UoMd0sEJaUMbcXBI+Y+yhs1Utb+b7Xde98zqPl39+sBQkHuenIsoLNljpDw/OB9d+6xrGk8g==;VLZaL7I8apa6DuJVuWz7ug=="
 ---
 

@@ -107,6 +107,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 0
+  - title: "Kellton Tech to Modernize Digital Citizen Experiences For HMWSSB Through Artificial Intelligence and IoT-based Data Analytics"
+    excerpt: "Kellton Tech will provide HMWSSB, the Government of Telangana, with IoT-based enterprise intelligence and analytics solutions to drive actionable insights in real-time and transform citizen ..."
+    publishedDateTime: 2022-02-04T18:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1234248&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "oMr15vXVvds5WnIIn8N4Kd1J+BTWe9BhNbrfoAXtntl6l+dPdrAgrf2V3W7hpbb37cPHlekub5vLmX6WAa64DwsQ/KRf9h4mke4Ej3ukcQlrekl0zbSWhh9wgqDwSzcRuRQ62pxFBKEeaDi/r2GhienmKmdRQu9Blzci0F2Byx+jrKnw38jWdaL12qqx6DGZS+DHATse1sko4ETPuTiRHct7LjTOk3Fcw05b+yXWwfP+uVE7sCDes3DwbJAlapF0gCM6qZCOK4AaJgwSOZsnN5DPBKK17V4jW6lTrn/3hYVf5RC+mUgL4eAiXRMIenw+vFEQaVTw8jFJCDC5Ho4NzBM/bQ4FC4ZFLXHMRvj/u9c=;1s4ax4E17p6uVc6/xzBGAQ=="
 ---

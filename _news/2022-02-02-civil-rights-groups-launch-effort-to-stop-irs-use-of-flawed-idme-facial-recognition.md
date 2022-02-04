@@ -114,6 +114,20 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 53
+  - title: "Another lawmaker raises concerns with IRS plan to use facial recognition"
+    excerpt: "Sen. Roger Wicker, R-Miss., is asking the IRS to provide answers to a series of questions around their use of facial recognition and third-party vendor ID.me by Feb. 17. (Photo by Joshua Roberts/Getty Images) The ranking Republican on the Senate Commerce ..."
+    publishedDateTime: 2022-02-04T18:55:00Z
+    webUrl: "https://www.scmagazine.com/analysis/data-security/another-lawmaker-raises-concerns-with-irs-plan-to-use-facial-recognition"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 53
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2022/02/Wicker-e1643998430844.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Here’s what’s wrong with an IRS proposal to use facial recognition technology for tax filing"
     excerpt: "Because of privacy concerns, the IRS is reconsidering its plan to require the use of facial recognition to file taxes online this year. metamorworks - stock.adobe.com The U.S. Internal Revenue ..."
     publishedDateTime: 2022-02-03T12:02:00Z

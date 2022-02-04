@@ -33,7 +33,7 @@ related:
     provider:
       name: Design News
       domain: designnews.com
-    quality: 53
+    quality: 57
     images:
       - url: "https://www.designnews.com/sites/designnews.com/files/X1P1_web.jpeg"
         width: 770

@@ -9,7 +9,7 @@ ampWebUrl: "https://technology.inquirer.net/114521/how-far-have-chips-come-to-em
 cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/114521/how-far-have-chips-come-to-emulate-human-brain/amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Could Computer Chips Rewire Like the Brain?"
+    excerpt: "As companies use more and more data to improve how AI recognizes images, learns languages and carries out other complex tasks, a paper published in Science this week shows a way that computer chips could dynamically rewire themselves to take in new data ..."
+    publishedDateTime: 2022-02-04T10:47:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/could-computer-chips-rewire-like-the-brain-358226"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 54
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/358226/could-computer-chips-rewire-like-the-brain-358226-640x360.jpg?cb=20220204"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "fOXtcVOqDrWAXGHweho36oRG9/TGSTYFhiaF7bF4b6h98WU0kpKzlBzohDUn9YL9omPHIpFxIyFcBnVh3RvcTo2ZnUgTZDM71vSpI00op+6sk688M5L0q1VR9vX+ALGyAo9cOH8e82DY9YI3e7hFT7LulUdJUEPVFzOESX7QNBo7JUjbHuVqiFdB3cZMgCZS2e0y1k9T4So2QWHBN45yZTDjdbZIms5eqO5FmSNCaoqJAnPL5TBnCGan04R2yvCT8dUEZqbCmO9APFI6su2Fd2MXzCpSkmtUohTwwV2gfF/vUIEPkKli5/YazVmz/8MEnwJv+QQjfOk9Gk8HIsDZ5DImUtjS4dilvvxjBoXhYDCJjBvdq2G6jWGUjmANA7HNgQkNWpI4L3wkVatZpgZCPJycuotahS8O5h6cIxAQwUsojvLchLSm9PIfnYLfp0SuQxKAeYqDjg7OhoT4ubPscMfbeHl14dsu5IBxhVfEA3xLmYTMjE+Bd/R1kQHHCb0sKRF816m24vpPcc89zc97ag==;fOMkThqwKg3+lKZ0rmzZVQ=="
 ---

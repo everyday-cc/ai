@@ -40,6 +40,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Reliance Buys Stake In Silicon Valley Startup Two Platforms"
+    excerpt: "The startup is founded by Pranav Mistry, former chief executive officer and president of Samsung Technology and Advanced Research. “TWO are excited to partner with Jio to push the boundaries of AI and introduce applications of Artificial Reality to ..."
+    publishedDateTime: 2022-02-04T14:56:00Z
+    webUrl: "https://www.bloombergquint.com/business/reliance-buys-stake-in-silicon-valley-startup-two-platforms"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 22
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2022-02%2F0571cc1d-b393-454c-80ba-518960938df6%2F355638075.jpg?rect=0%2C0%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vkvufgs+CHXx3AC1WcwIihDZdzKBVK5oEl0XqdufNIQo0wMwIy+oA7rgVfa8jhpw71dmLiOyPFQjmpSRtlYrQhpJqACrZ1PL4ZHQbbkIWoWSs5bSgtwB2L3pUh0qHvQ0PUem5wEb5nYB7RxNrpqpThNMNZZbEs2y9BdAcXOVDP4qI8rSBs/H1fGjQNpAxiQrpZ5J2gfOFPrGLgp8Jpl598T6vALbrtoiqhyd12Zeo3tJ8wDkUU/1vZ30hLk4wHMs5MWmRuxbjo5H1IiKRQeHLLAiTT/cdRQJGuFjt2X7tR612DA0SIRRSvPUOY68dFNgO8K7WVEaeaGWD+R+v220UqLTNMFP/3LF+DJRRqY3+gA=;ChhTXqLX47XEUYYEqYUc7Q=="
 ---

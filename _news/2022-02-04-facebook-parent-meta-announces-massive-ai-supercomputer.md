@@ -35,7 +35,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://www.market-news.org/wp-content/uploads/2022/02/AI-in-Social-Media.jpg"
         width: 600

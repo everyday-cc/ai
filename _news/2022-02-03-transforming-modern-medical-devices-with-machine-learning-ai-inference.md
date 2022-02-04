@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-03T00:01:00Z
 originalUrl: "https://www.designnews.com/industry/transforming-modern-medical-devices-machine-learning-ai-inference"
 webUrl: "https://www.designnews.com/industry/transforming-modern-medical-devices-machine-learning-ai-inference"
 type: article
-quality: 53
-heat: 63
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
+  - AI Hardware
 
 images:
   - url: "https://www.designnews.com/sites/designnews.com/files/X1P1_web.jpeg"
@@ -40,6 +42,6 @@ related:
         height: 450
         isCached: true
 
-secured: "dlPh6lVDOnP0RNL3kxSroylwaXUJincRpsv55D9phqEoRCo723wDAOmLLk3Grx/PTrPM9zFp+3GgzSw4ZHXRX3JzRqmd5LAnyrzrEC2sKb1BU5QtJRx3MMXdJ7sfrYlHt5CR48tO2Y1uNoiZCHwwX71XXlPrk92HqVVCVG+yLI4C3kkYQvVvzLyt6mblzU7hnhUyvsHJyp+DKobFUztGCMzERriz50SMkUqiLVFKAYE0jhgSywWaIHjjs6RbnUsERbNmVIlItDFHPmPJPrj20Fg4nDZHCNpqA7y0fzs0IiPRR2MdrSZ3XxzTvoDmo1eZCYG7MYKPBJuRZLZCd16wV7ucBnAcomeX+W/yusDMH/E=;9y41SVC1GVsD9f2TmVWLmA=="
+secured: "KeLvtzBjdm7W5EXiDxBbV/NYBORG/bFbrhcLVEH5I3bB4QVzEN5Uk7k9eA3cYFhxNL9PM+7/l7vyCOhBxdL5m79EvPco9NtC1Czhwh9sJOslWLLKc9fO+2JpVzpndEE9aFFpfEPjD6J4D/MEdjBAuYoNVbeYhCwuSTz3NrZ/wNYxIYHLAtMKp4fV6lo3koZ1d9IAgmeFrwmyXDLOMbGsudWTxyhCiTrsI92OtJaYHOYeji9HFxVTtPfLe1TkPwEFqqKuesgnbd9iGvB2Q8e55cFs+cUvHv5lj/IWn5Lm5p6ecom60royWK7U9u9y8XEoUjhOCL9ItUsMYL/fDROQDBxlUr6jLXRq38c1gCYZPVbW5+c/YKeQPacCNweLttDzyKpCM1Tub2IwWC7CXE8l1SSeRUlcgG3TESlVR9GkLEhifiGo0V/xU9sBIFlYJw2LuLuLoZ9/uwyT1xZFY5d52ni7Gg4HkfEDGSNJjQFf8xCMU1vdWKIva853PZOTRS/ulXDpvIK493rAqIX22/MQJg==;+Lxn7ziOug//wnRg84906w=="
 ---
 

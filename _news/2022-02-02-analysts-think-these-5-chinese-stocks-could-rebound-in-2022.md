@@ -71,6 +71,20 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "Chinese dissident Ai voices criticism as Winter Games open"
+    excerpt: "Ai Weiwei, possibly China's best-known dissident, aired criticism of Beijing's human rights record and response to the pandemic, in an interview with The Associated Press Friday, in which he also took aim at World Health Organization Director-General ..."
+    publishedDateTime: 2022-02-04T18:49:00Z
+    webUrl: "https://www.startribune.com/chinese-dissident-ai-voices-criticism-as-winter-games-open/600143127/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 37
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1643924422"
+        width: 1680
+        height: 876
+        isCached: true
 
 secured: "aPtYcN0ynzQz/VbHaHWb7ZrVlwHxrbdXHMxGTOOaG/XAU15mjFNnw971C7tJ6pPt88dk9efUDyctqAVY0Cp6z6wXXJhfkHHzBb+b/N4Ma7chLCFmM6zDcSc07VkgCmL+0gsehMRNzal1sy7JxIU9uJfhKYmhJphxxDQe9KQzIHgdApXZLM0cjQeDpIItovOaCaQBSspNC8ETUjDW1K6L1WZSH73frDAtF6vM5xXBNaj6qVnLi+ZIlem3Sx4Lcw2d9kCvfu+sFG+09F8r1aTJ3W6x9rqasIj3PGprsNZuKtgtx1xwPtT6czbwZIxGzdfxVCATdnERWiplBwKXCKlo8yy0oOlo2pD05ER0tpSjOVhuwtdXLofDWa9mAux+yLe6zsRWpPGq4A3ZMOJjixK12QGaoRYWDda+MZAPRwVhdAeI0UBvPXW59mfmaNhDW+NDHbycLQ+WD5thZXCGQ3Ko4WCiNVOsHcfZaODcuht0NxelE3yRZX+Vw1qwb3nNN52ZnZYg0AANtEslQRN2YXLWXA==;cQNVLkQtOTIuhytXUoQNlQ=="
 ---
