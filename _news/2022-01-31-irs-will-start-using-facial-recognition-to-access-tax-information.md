@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Air Force taps Clearview AI to research face-identifying augmented reality glasses."
+    excerpt: "By Kashmir Hill The U.S. Air Force is looking into keeping its airfields safer with help from the facial recognition start-up Clearview AI. The Air Force Research Laboratory awarded Clearview $49,847 to research augmented reality glasses that could scan ..."
+    publishedDateTime: 2022-02-04T01:03:00Z
+    webUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html"
+    ampWebUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 81
+    images:
+      - url: "https://static01.nyt.com/images/2022/02/03/multimedia/03economy-briefing-clearview/03economy-briefing-clearview-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Clearview: Glasses With Facial Recognition Are Here And The Air Force Has Them"
     excerpt: "Clearview AI is bringing glasses with facial recognition to the Air Force. Meanwhile, it's selling to the FBI and ICE, despite concerns over the technology. Clearview AI, the facial recognition company backed by Facebook and Palantir investor Peter Thiel ..."
     publishedDateTime: 2022-02-03T14:13:00Z

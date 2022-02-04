@@ -1,29 +1,32 @@
 ---
 category: news
-title: "Forget facial recognition! Apple AirPods could soon identify you based on the shape of your EAR CANAL, patent suggests"
-excerpt: "The new biometric device would use ultrasonic signals reflected against the walls of a user's ear canal to authenticate a user, the Cupertino tech giant explains in a new patent."
-publishedDateTime: 2022-01-31T20:52:00Z
-originalUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
-webUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
-ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
-cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
+title: "Air Force taps Clearview AI to research face-identifying augmented reality glasses."
+excerpt: "By Kashmir Hill The U.S. Air Force is looking into keeping its airfields safer with help from the facial recognition start-up Clearview AI. The Air Force Research Laboratory awarded Clearview $49,847 to research augmented reality glasses that could scan ..."
+publishedDateTime: 2022-02-04T01:03:00Z
+originalUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html"
+webUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html"
+ampWebUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
 type: article
-quality: 50
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Daily Mail
-  domain: dailymail.co.uk
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
   - AI
 
 images:
-  - url: "https://i.dailymail.co.uk/1s/2022/01/31/16/53594163-0-image-a-14_1643647535757.jpg"
-    width: 636
-    height: 382
+  - url: "https://static01.nyt.com/images/2022/02/03/multimedia/03economy-briefing-clearview/03economy-briefing-clearview-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -40,22 +43,6 @@ related:
       - url: "https://aithority.com/wp-content/uploads/2022/01/Clearview-AIs-Revolutionary-Facial-Recognition-Platform-Awarded-U.S.-Patent.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Air Force taps Clearview AI to research face-identifying augmented reality glasses."
-    excerpt: "By Kashmir Hill The U.S. Air Force is looking into keeping its airfields safer with help from the facial recognition start-up Clearview AI. The Air Force Research Laboratory awarded Clearview $49,847 to research augmented reality glasses that could scan ..."
-    publishedDateTime: 2022-02-04T01:03:00Z
-    webUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html"
-    ampWebUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 81
-    images:
-      - url: "https://static01.nyt.com/images/2022/02/03/multimedia/03economy-briefing-clearview/03economy-briefing-clearview-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Clearview: Glasses With Facial Recognition Are Here And The Air Force Has Them"
     excerpt: "Clearview AI is bringing glasses with facial recognition to the Air Force. Meanwhile, it's selling to the FBI and ICE, despite concerns over the technology. Clearview AI, the facial recognition company backed by Facebook and Palantir investor Peter Thiel ..."
@@ -86,6 +73,22 @@ related:
       - url: "https://media.wfaa.com/assets/KHOU/images/c5124352-d52e-4a4e-b816-217f7d009267/c5124352-d52e-4a4e-b816-217f7d009267_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Forget facial recognition! Apple AirPods could soon identify you based on the shape of your EAR CANAL, patent suggests"
+    excerpt: "The new biometric device would use ultrasonic signals reflected against the walls of a user's ear canal to authenticate a user, the Cupertino tech giant explains in a new patent."
+    publishedDateTime: 2022-01-31T20:52:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 50
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/01/31/16/53594163-0-image-a-14_1643647535757.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Facial recognition for cattle on the way"
     excerpt: "The day when producers simply scan the faces of their stock on their smartphone as they walk up the crush, and have all their individual information immediately at hand, might not be far off, thanks to novel livestock facial recognition technology being developed by an Australian researcher."
@@ -130,6 +133,6 @@ related:
         height: 630
         isCached: true
 
-secured: "lx20v4yME7v+zhfY6vWwnxNDMswfzXmHDMDWznzGNJ8kNiYqcg731gwiWuw6fpeJ6fcIpeD7My40d7+i2wwWsNF9y0oHpTvNyE1r81GHgGAntg8OgMq+lqxXiPs/5H8DptrhKRF66/O/q1WNS3IT3Rinb/eKtWJa1RUFFIwp/xTOS8x1YsR+5mkvPYI8JfIgidOJ2YXXuj0o0XTnXbQ2gkgggQ5S7NWsvbxKCHzfR6eq2UFHU6hGrtdNe08fHUaSdQiK04yk5wf9mBLRaWxatbFACMuDmpoBxqWPl165cPXnlyrnOxDsG9OgV+mac6/j3jypGBLtpIwKJrG/MhRJO9lZaylVPFtu/ff6ynLqVNQ=;PlHf2OSzxvQvEK0z/RobsQ=="
+secured: "rI7Sd3bngmJo3TQBAtlEESo1VuBY2DkVuevCzO1JidBCmAG7OlnM8pwGQkoXL5sX+w276L0sIxjI/C3GjXs9dd7TOWJ5yJWpUdQwYO2DKksNlC53QfVe4KIUIVWEQ2OQ5eqpJAAo+B/84enQGB6q2Cd0EywYlnsquq5avv3t6mlv/RRbmL4C93KXhCIuXz9oDASk7H0uf0xbHEI8cwmdSN3kJ7vcJG4VofTrPvlfKgraAfprNbAOiAbURXBsP0EsNruH4Ty9XsPZG7r4XzAKxne7ngvDeuVTAAvoeWWEgB4Mx+uTdjjvtLu2Zl7y3CRwSzL0JSAA5CmwYcoqJUTHMLtO5HX9hhGW9fWTxLAQvY8=;a9ZCuUaTlUWsxrdIbpW6pw=="
 ---
 

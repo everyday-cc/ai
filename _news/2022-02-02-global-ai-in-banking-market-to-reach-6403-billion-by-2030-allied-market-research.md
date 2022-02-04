@@ -32,7 +32,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 20
+    quality: 22
     images:
       - url: "https://www.abnewswire.com/uploads/1643890995.jpeg"
         width: 1280

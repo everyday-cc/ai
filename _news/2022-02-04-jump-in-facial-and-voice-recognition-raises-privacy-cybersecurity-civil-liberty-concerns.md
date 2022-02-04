@@ -8,7 +8,7 @@ webUrl: "https://www.natlawreview.com/article/jump-facial-and-voice-recognition-
 ampWebUrl: "https://www.natlawreview.com/article/jump-facial-and-voice-recognition-raises-privacy-cybersecurity-civil-liberty?amp"
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/jump-facial-and-voice-recognition-raises-privacy-cybersecurity-civil-liberty?amp"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"

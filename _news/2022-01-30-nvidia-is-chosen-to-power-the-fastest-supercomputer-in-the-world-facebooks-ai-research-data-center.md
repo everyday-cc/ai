@@ -18,6 +18,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg"
@@ -25,6 +26,6 @@ images:
     height: 3605
     isCached: true
 
-secured: "Bgpo3713MeOIBVwtxU8JeFVDTmGKq42TAJfL2T/acwyx66qvQ+6D9NZHFNTWsRVtMlFwnDds3tk4Wb59pzLUPmODsgPCMXyv2Q2tTFiIbYxxt3+umIwgb5LWEQb0z+rMI8p4GFRiqk6XKzHkLYey45gO9G35dFmCXWxI2CXebcpYwK4PxiexNV6TdrImH6MZkSOSWfzDtcCZ5tETNEldM50kxfxM9s1qTiZ3Mf/sLOymsHQ8lOJyZlNlQhB6BQji/nXfITKyCxXqhJg1A/7zMCdABpMLn4z/x3E3H0MWYQHGZQp0JnLoh2k0IfJ+uFE5h0gjGDyd75lnP7rDpTzSahj978qGVnFyXTJxxV9rP0M=;Ho6IjszQ+1wt5+TEQsUWFQ=="
+secured: "1mUd3b2v1uP+tlTRADo3RISpgHU6ggKOJnrolwvLxOxjNTykeCVM6D6pJ6zjdfzpNjXWiTg4WeUrhEjDbxTU2IaT4X3dX0+uPX5/ipTtyjvyDqgTixnqLyIYCc0nkIxlns65Zkncpz1V02js4VRK1GPORGxcn1w4DJPLhc94IYaSiFU+BiGIrUZv3IuIhTOHEVf9Myx5ClYO98AgMucOnPY7/grI4VudDDEfQ1fLW0EFBWrf52/PZCYAn/c88hTY2J6cQbJgtKsGYgcHAkbBtWPLzDUUHxvdGhHmHWsjtkI4FFtK0kNxgfPuZTH3EIPJPfwQrIM8+g89ck5dGxXx+mDPItmnQjgChPCndaPWkaQGTusWvzwb3ofHTW/yt9i9/yBoaDatpJiArYGoLkyq0Jl5O2UWYIr4RoRifQMiggfz0mldNi2Rti7s3M4+sklfoSUJJZCjY5ZD6l5oxfEOb3xcqNU/f4X+aGTFtUku1zpt7BrUQAPPUT89fMs76oU3Vf+aMg3OUrposVGS1lUzsQ==;beTM0xdRD+QZCs8VTNDJuw=="
 ---
 

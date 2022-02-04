@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-03T23:04:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-artificial-intelligence-in-drug-discovery-market-to-rise-at-33-9-cagr-to-reach-usd-5558-0-million-by-2029-polaris-market-research"
 webUrl: "https://www.digitaljournal.com/pr/ai-artificial-intelligence-in-drug-discovery-market-to-rise-at-33-9-cagr-to-reach-usd-5558-0-million-by-2029-polaris-market-research"
 type: article
-quality: 20
+quality: 22
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.abnewswire.com/uploads/1643890995.jpeg"
@@ -40,6 +41,6 @@ related:
         height: 337
         isCached: true
 
-secured: "ZKxpnIMYl2ZEoq/ZBpcDD7nl5ixx9x1QhkqbNCZypW1tpWhOrZQestNFQMqMXE35XbftfXDs0WGTLelNNlZjtUJ3AIwNZvfd4bZ99dShZzX9PM3uKUAd1coWpBpC+5bFQXUkRyI1b2u9ZxGJkkj8g3PSe/rPIQl928UZdhiC2bbUrkzuJ9Zv3GMCktz0fXDbj5s0ifZbRRjkXqgcMVyLHourklXsY82w1IqP4rFeFMNuhsIj2uFjrsIb76Oc9Rmaq+6MQk/ajLl2gr5xE/zFBQybMxPOR1SBVUpOeO7aBa51OKAdLu2/15a5C85qxFMjO/QHfVRF77mDKZsLnLGmy2z+kbTifc3+fgcTA3ynw+4=;cYO76WDRntdEvPCDUZncCg=="
+secured: "QWgDXIm98iAoT+t1sal+HG8qVlW2bC/DaWw/CAFcBgS41n1uB2uBFopvq+TlKekWvFz+JUMJATUwjjcdJ46t4Nx/IHqXX5eQr2EbqdMbLvPqNQSBVGK7HH2mH6JSdaKU2ZusPzKiEdVTAoookLaYHRScsLahUrT+TDQXMDezE6bnzQVl9xrUQym42zWDMBR9XBmkQoc/owQm3hk2plD7pPeYWO+LAwkr5Ab68i9vuktQmCeRQF0DhGNsU7FV7iMO1fsAsePYObRY0KzGh3syqiUBUtJu6AdQLvNOJtYJb6XDSQWWbjhGX0IWzdhCOQFXoxVq8BW7IlAsogPPwn2LYZlNVLfK/CiN51RZIkbCP4aQGG3mZr/nnzC238L5OzWqv9glOjPRqnosvYDvdGOeLp7Fodx1Xbeq04W/j8L7fXDjTlX7muryw5tsHyIoBDUiLKtl0zbQd/ELVzqBOusP215O2JUPXRhlGpXIpyrRy/R2EKXS0SsNiEdimN2KSdYKxTXg3gNi+d22Tb14vydxoQ==;J6WhqBq/eLUmjTLsQtv5eg=="
 ---
 
