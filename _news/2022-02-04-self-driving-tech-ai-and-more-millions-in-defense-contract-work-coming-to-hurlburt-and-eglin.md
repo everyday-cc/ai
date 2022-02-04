@@ -2,19 +2,19 @@
 category: news
 title: "Self-driving tech, AI and more: Millions in defense contract work coming to Hurlburt and Eglin"
 excerpt: "HURLBURT FIELD — A San Diego-based company working on self-driving technology and artificial intelligence for the piloting of military aircraft will work at Hurlburt Field for the next 18 months under a $15 million contract for research and development ..."
-publishedDateTime: 2022-02-04T08:14:00Z
-originalUrl: "https://www.statesman.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
-webUrl: "https://www.statesman.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
-ampWebUrl: "https://amp.statesman.com/amp/9224262002"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/9224262002"
+publishedDateTime: 2022-02-04T11:58:00Z
+originalUrl: "https://www.cincinnati.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
+webUrl: "https://www.cincinnati.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
+ampWebUrl: "https://amp.cincinnati.com/amp/9224262002"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/9224262002"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - AI in Autos
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ffTD7IBAx+C6Hq/bsA7gAeLTIwB2SF+y0liLgWYj2YnkNQRhfqIXDgwRwrS7n5eBvnB34X2Ux0r+nyLNttz1b5ds0vxA6TTJ6lstANqNAqTAvtAy7+T8JlZ7Do7Nhfl8FB3xTpXok9M0/6Jgg7rGkzFhbJmTYa3pTDnyz/7gwP6EER8ThtM4LYODHwm9UUSRLyGCgzr3LwDxW0dO+Uao5/LGv0RqIp1tjaIi4PNVZmHXqPzTqaTM8q90Urc8MW2dVAzsXR37qOGSKuIUK/0SANVYzmV9BPuOBX3ZTmzMNMUo2uGFtIhJvuLNt8fbsY9DEMQHFcehFLZtpLJ/7KMFgAgv12iOdHNxo1CwuwNIMm0HOKtNR3A4PkAKaXIiaTxNgLGUFKc/ktuxVh/IfTXWXe9XBJva4u7rJjFKyanK2mFKU1WCKmhOF9kJttJCgQNbxHDC7gEEN4svVBHHvYnDVd+wLzvgsHlacLP7VDQCOIj0Xd4eDXRUhMLXpgWvOSDPDTpsWEVQ/NBFItcno4ogTw==;k2g6/Kat/38X2GsTITXmIg=="
+secured: "T8GHyol0V1L6EfVlmXlCvbt7JbyWz9Pc1AK/nUjK44zojMC311DzBXsDNqmN/GgBd8pbZ9evAENfdgI6ZuGAuMdKi/bLMyN5ZkZDwjwDEHaH3rT+AEjr1K67XLfy5drpKlfaSBxaZDKHyni12cX/dPN5DMPuRznrhTl8zdqU772TeriECXwCKtHZTgObZXO6yctXi6pe3FPwIOR0XLRyJvJiQtGn6b8KmMNIgmNajU+56cd/adgwhT9J6Y3Dg3UnQijtB/3h0AQCDGJNADIo1KQhznLfuLmyQtWJIZR7oeUAdUMONqaB6ymravMEjysIn3nIP0KUwasvgy7NmUUQYyxs1MLGpKBRNwMCdBUBHLY=;QHdUpR5nDYG5OpD476hswQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-05-intel-launches-its-arc-graphics-chips-for-pc-gaming.md",
+      "title": "Intel launches its Arc graphics chips for PC gaming",
+      "excerpt": "Intel aims to disrupt the duopoly of Nvidia and Advanced Micro Devices with its own Arc standalone graphics chips launching today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
+      "originalUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/intel-arch-7.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
+      "publishedDateTime": "2022-01-04T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-with-intel-mobileyes-newest-chip-automakers-can-bring-automated-driving-to-cars.md",
       "title": "With Intel Mobileye’s newest chip, automakers can bring automated driving to cars",
       "excerpt": "Intel subsidiary Mobileye is plans to bring a new supercomputer to market designed to give passenger cars, trucks and SUVs autonomous driving powers. The company introduced Tuesday at the 2022 CES tech trade show a new system-on-chip called EyeQ Ultra that is purpose-built for autonomous driving.",

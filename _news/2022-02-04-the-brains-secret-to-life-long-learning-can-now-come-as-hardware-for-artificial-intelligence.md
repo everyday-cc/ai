@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/02/220203160544.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/02/220203160544.htm"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Science Daily
@@ -37,6 +37,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Study reveals brain's life-long learning may now become hardware for AI"
+    excerpt: "A new study has found a way that computer chips could dynamically rewire themselves to take in new data like the brain does, helping AI to keep learning over time. The study has been published in ..."
+    publishedDateTime: 2022-02-04T11:25:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220204/3903900.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "XzfEV4TR/Hk3aze/7kNCOYWYO1PvR/Lw8t+DVzauXd7w2alKeLlS6qMaoiRhdsfgksagjd3qUR7yorboI0iJYne5O9VEtcXBashEl1M7cVdQXmduMA6gWXt94R1d16gwTb0yLFdaO2lNsUM8br31a45WOTSRirUlDnH+Qaoce/saetg5xjzBzF+4AIzXde4kDDoneAbfx3SbXyPBYcbOQWTjs2XISw66iqvZfqSPQ4QoGapwcFjPPuo7mBjoRab9Pi++JoCTVo7QSy6ejRSCVYbLbIeLS02INctZ9KsCyyu+n0oJZ9/MmWSg8R9/YsXsHpslcCkm9WMUen3roQ8QdkM/h3ae+LwPxYccaoSf+Bc=;5KNu9dwYj+Rc0QaCEpe/CQ=="
 ---

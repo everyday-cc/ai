@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-06-restaurant-robotics-shift-to-customer-facing-roles.md",
+      "title": "Restaurant Robotics Shift to Customer-Facing Roles",
+      "excerpt": "As labor challenges persist, restaurants are looking for solutions, and some tech companies are looking to bring robotics into customer-service roles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/",
+      "originalUrl": "https://www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/food-service-automation-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/amp/",
+      "publishedDateTime": "2022-01-05T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022.md",
       "title": "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022",
       "excerpt": "Designed with prosumer content creators and mid-level enterprises in mind, the innovative camera robot system defines the next generation of motion control through its proprietary user-friendly ...",
@@ -1332,49 +1375,6 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-abb-adds-more-human-intelligence-to-industrial-robots.md",
-      "title": "ABB Adds More Human Intelligence to Industrial Robots",
-      "excerpt": "One of the trends in industrial robotics is to create machines that can more intuitively and carefully handle tasks as humans might. To that end, ABB Robotics has introduced a set of software features called Integrated Force Control that makes robots more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/abb-adds-more-human-intelligence-industrial-robots",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/abb-adds-more-human-intelligence-industrial-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/ABBphoto.jpg",
-          "width": 500,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

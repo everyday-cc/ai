@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-04-startup-that-models-materials-at-atomic-level-raises-seed-capital.md",
+      "title": "Startup That Models Materials at Atomic Level Raises Seed Capital",
+      "excerpt": "San Francisco-based startup Mat3ra raised $3 million in seed funding led by Draper Associates for an AI-based platform that helps companies model new materials at the atomic level. Mat3ra, formerly known as Exabyte.io, will use the funding to accelerate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
+      "originalUrl": "https://www.wsj.com/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-479731/social",
+          "width": 1280,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
+      "publishedDateTime": "2022-02-04T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-ai-weiwei-helped-design-beijings-olympic-stadium-but-he-regrets-how-its-being-used-today.md",
+      "title": "Ai Weiwei helped design Beijing's Olympic stadium. But he regrets how it's being used today",
+      "excerpt": "Christiane Amanpour's interview with Ai Weiwei airs Friday 1pm ET. See more here. As the Beijing Winter Olympics gets underway, artist Ai Weiwei is once again criticizing China's ruling Communist Party -- and the International Olympic Committee (IOC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html",
+      "originalUrl": "https://www.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html",
+      "publishedDateTime": "2022-02-04T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics.md",
+      "title": "Singapore releases software toolkit to guide financial sector on AI ethics",
+      "excerpt": "The Monetary Authority of Singapore (MAS) said the documents detailed methodologies for incorporating the FEAT principles--of Fairness, Ethics, Accountability, and Transparency--into the use of AI within the financial services sector. The whitepapers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
+      "publishedDateTime": "2022-02-04T03:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-most-read-articles-eus-chips-act-honeybee-robotics-5g.md",
+      "title": "Most Read articles – EU’s Chips Act, Honeybee Robotics, 5G",
+      "excerpt": "Blue Origin buying Honeybee Robotics and the EU’s Chips Act… 5. NEC buys Blue Danube NEC has bought Blue Danube Systems, a U.S.-based provider of CBRS/4G/5G RAN products and AI/ML-based software solutions that help mobile operators address 5G network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-articles-eus-chips-act-honeybee-robotics-5g-2022-02/",
+      "originalUrl": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-articles-eus-chips-act-honeybee-robotics-5g-2022-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/sites/5/2013/04/7-micro-gan-6-in-wafer-with-high-voltage-power-transitors.jpg",
+          "width": 534,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-04T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-cloud-computing-spending-just-hit-another-huge-milestone.md",
       "title": "Cloud-computing spending just hit another huge milestone",
       "excerpt": "Read More Amazon Web Services had a 33% share, followed by Microsoft Azure's 22%, and Google Cloud's 9% ... in virtual and augmented reality environments, while storage, machine learning, IoT and data analytics will be essential to support operations ...",
@@ -51,6 +241,49 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-the-brains-secret-to-life-long-learning-can-now-come-as-hardware-for-artificial-intelligence.md",
+      "title": "The brain’s secret to life-long learning can now come as hardware for artificial intelligence",
+      "excerpt": "Purdue University. (2022, February 3). The brain’s secret to life-long learning can now come as hardware for artificial intelligence. ScienceDaily. Retrieved February 3, 2022 from www.sciencedaily.com/releases/2022/02/220203160544.htm Purdue University.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/02/220203160544.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/02/220203160544.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T13:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -514,7 +747,7 @@
       "originalUrl": "https://www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -618,7 +851,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/03/top-ai-trends-to-watch-for-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -721,7 +954,7 @@
       "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -993,248 +1226,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-scale-ai-gets-into-the-synthetic-data-game.md",
-      "title": "Scale AI gets into the synthetic data game",
-      "excerpt": "Scale AI’s path to becoming a $7.3 billion company ... self-driving trucks and automated bots used in warehouses and on-demand delivery. The startup has since morphed into a data management ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/",
-      "originalUrl": "https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1222958278.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/amp/",
-      "publishedDateTime": "2022-02-02T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-announcing-the-launch-of-the-model-copy-feature-for-amazon-comprehend-custom-models.md",
-      "title": "Announcing the launch of the model copy feature for Amazon Comprehend custom models",
-      "excerpt": "Technology trends and advancements in digital media in the past decade or so have resulted in the proliferation of text-based data. The potential benefits of mining this text to derive insights, both tactical and strategic, is enormous. This is called natural language processing (NLP). You can use NLP,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-the-model-copy-feature-for-amazon-comprehend-custom-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-the-model-copy-feature-for-amazon-comprehend-custom-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T14:34:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses.md",
-      "title": "Hilariously Poor Tesla Full Self Driving Performance In Boston Highlights Its Weaknesses",
-      "excerpt": "Tesla seems to be in the news every single week for one reason or another. Sometimes it’s because they build products that are shockingly fast and other times it’s because they build products that are missing brake pads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/",
-      "originalUrl": "https://www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2022/02/Tesla.gif",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/amp/",
-      "publishedDateTime": "2022-02-02T13:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-how-ai-accelerates-insurance-claims-processing.md",
-      "title": "How AI accelerates insurance claims processing",
-      "excerpt": "The immediate aftermath of a vehicular crash is difficult for all parties involved. The drivers have to process trauma and figure out how to get their damaged cars repaired or replaced. Insurance companies have to conduct damage assessments and figure out the most efficient and least expensive route to get the claims resolved.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/",
-      "originalUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2012/11/insurance-for-ride-sharing.jpg?w=1200&strip=all",
-          "width": 803,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/",
-      "publishedDateTime": "2022-02-02T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-pentagons-new-data-and-ai-office-hits-ioc-milestone-gets-500m-budget.md",
-      "title": "Pentagon’s new data and AI office hits IOC milestone, gets $500M budget",
-      "excerpt": "The office of the chief digital and artificial intelligence will be responsible for scaling up data, analytics and AI to enable faster and better decision-making \"from campaigning to conflict.\"",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2022/02/pentagons-new-data-and-ai-office-hits-ioc-milestone-gets-500m-budget/",
-      "originalUrl": "https://breakingdefense.com/2022/02/pentagons-new-data-and-ai-office-hits-ioc-milestone-gets-500m-budget/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2021/11/211129_pentagon_code_gfx_v2b.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2022/02/pentagons-new-data-and-ai-office-hits-ioc-milestone-gets-500m-budget/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2022/02/pentagons-new-data-and-ai-office-hits-ioc-milestone-gets-500m-budget/amp/",
-      "publishedDateTime": "2022-02-02T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

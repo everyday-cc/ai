@@ -103,20 +103,6 @@ related:
         width: 1000
         height: 643
         isCached: true
-  - title: "Can 5G help speed up AI adoption?"
-    excerpt: "G is set to transform the technology world. To gain explore some of the key triggers with the 5G movement and how well it will be rolled out, Digital Journal caught up with EdgeQ CEO Vinay Ravuri. With the roll-out of 5G,"
-    publishedDateTime: 2022-01-30T19:10:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/can-5g-help-speed-up-ai-adoption/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/18795ff0b9de8dbf3539d8fdf37138ec367eb1b0.jpg"
-        width: 768
-        height: 512
-        isCached: true
 
 secured: "UVnk0roX0cAZRGD52Grozm41duNkZlPjyZvn0dhojnRgH+50h2JE9BJDUiSx1jdAf37xsOeIzViEmmoVaP8IU8PbRmO1atgfDXW/oygUSU4FzxjtUym+xkpyflwGrmywiqU97VYZJmZYjRO2KhyZo7Ud4bBLI14I9J0B+W+G5xe0xwMlPWN39PcwjVp9sqbSL+O1uJ7D2tDLKWh9OoAlXp084TKmZwK49+9v+vrLe9sq+zuyWPJyBuMf0DW2igM7/JUiD0zCozPpVahdQ6NtsKfF700l8/Z5QVhwQNm00AG4K/H8Gw4Q2jpl/OEMpRRAMTP9dlVaHGt9ykEqt0vtSM0NMLpIkkwsaS92/OOjQIBGP/dDTvT76NO0cRZcXzWo1usNY2KYaAIVeFA5E1wxNkVfsuZ+xVYgngCN0WYeuNYEXOHtqRrXeWOFnk9Tm5bURVLBVmXDYCxYZlcfRN6qO3tZEb5h5emtseZrMcZfm/YW1miPOizkJUR4wHYfBbnjvb49Vm3pIOBIq3tJCxhyLQ==;wYYv8Wc/a2/IVlCsJbBCtA=="
 ---

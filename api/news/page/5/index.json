@@ -2,6 +2,250 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-29-meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse.md",
+      "title": "Meta builds AI Research SuperCluster for future AI and the metaverse",
+      "excerpt": "Meta believes that its new AI Research SuperCluster (RSC) will be among the fastest AI supercomputers running in the world once it’s fully built. The supercomputer is being constructed in phases. In the current phase 1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730",
+      "originalUrl": "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-13075344431.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1",
+      "publishedDateTime": "2022-01-28T14:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities.md",
+      "title": "AI Weekly: AI supercomputers and facial recognition to verify taxpayers’ identities",
+      "excerpt": "Meta (formerly Facebook) announced an AI supercomputer. Also, more revelations about the IRS' use of facial recognition have come to light.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
+      "originalUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
+      "publishedDateTime": "2022-01-28T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-building-global-ai-with-local-impact-in-an-ai-economy.md",
+      "title": "Building global AI with local impact in an AI economy",
+      "excerpt": "Thanks to tech advances in the AI economy that enable remote work, orgs developing AI can now collaborate with people from almost anywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/",
+      "originalUrl": "https://venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1206094124.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/building-global-ai-with-local-impact-in-an-ai-economy/amp/",
+      "publishedDateTime": "2022-01-28T13:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so.md",
+      "title": "Watch now: Are Illinois farmers ready for self-driving tractors? Deere thinks so.",
+      "excerpt": "The high-tech vehicle emblazoned with the Moline company's iconic deer logo marks a massive leap forward for farmers, who will have a solution for improving yields and efficiencies. That could",
+      "sourceUrl": null,
+      "webUrl": "https://pantagraph.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_001de15b-c913-510e-8b7b-b7fd4c014e75.html",
+      "originalUrl": "https://pantagraph.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_001de15b-c913-510e-8b7b-b7fd4c014e75.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pantagraph.com/content/tncms/assets/v3/editorial/0/01/001de15b-c913-510e-8b7b-b7fd4c014e75/61f43f90e8fb7.preview.jpg?crop=1024%2C538%2C0%2C72&resize=1024%2C538&order=crop%2Cresize",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-28T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quad-City Times",
+        "domain": "pantagraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd.md",
+      "title": "The Grain Of Truth In The Critique Of Musk, Tesla And Full Self Driving (FSD)",
+      "excerpt": "The internet erupted last week following the publication of a full-page ad in the New York Times asserting “Don’t be a Tesla Crash Test Dummy” and impugned “Elon Musk’s ill-advised Full Self-Driving robot car experiment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/",
+      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 366,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ee51e20bb0c3fb5b11b53a/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2022/01/28/the-grain-of-truth-in-the-critique-of-musk-tesla-and-full-self-driving-fsd/amp/",
+      "publishedDateTime": "2022-01-28T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-29-why-massachusetts-is-ground-zero-for-the-fight-against-facial-recognition.md",
       "title": "Why Massachusetts is ground-zero for the fight against facial recognition",
       "excerpt": "Massachusetts has had a number of cities ban facial recognition in the absence of federal laws as conversations about the technology heat up.",
@@ -945,259 +1189,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-self-driving-teslas-will-cause-insane-traffic-elon-musk-says.md",
-      "title": "Self-driving Teslas will cause 'insane' traffic, Elon Musk says",
-      "excerpt": "Tesla CEO Elon Musk said the autonomous ride hailing service he envisions customers will put their autonomous Teslas to work in will cause \"insane\" traffic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk",
-      "originalUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/01/720/405/tesla-.jpg?ve=1&tl=1",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/self-driving-teslas-insane-traffic-elon-musk.amp",
-      "publishedDateTime": "2022-01-27T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-in-2022.md",
-      "title": "Tesla News: Automaker Prioritizes New Humanoid Robot Over Vehicle Models In 2022",
-      "excerpt": "Tesla is prioritizing the development of a humanoid robot over its vehicles in 2022 and it will be designed to perform dangerous, repetitive, or physical tasks only humans can complete.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909",
-      "originalUrl": "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dc.newsweek.com/en/full/2043470/how-did-elon-musk-become-times-person-year.jpg",
-          "width": 2500,
-          "height": 1720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-news-automaker-prioritizes-new-humanoid-robot-over-vehicle-models-2022-3384909?amp=1",
-      "publishedDateTime": "2022-01-27T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-will-teslas-dojo-supercomputer-disrupt-ai-in-2022.md",
-      "title": "Will Tesla's Dojo Supercomputer Disrupt AI in 2022?",
-      "excerpt": "At Tesla's AI Day in 2021, they introduced the D1 chip and this will power its Dojo supercomputer. I don't want to get too technical, but each chip offers 362 te",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/01/27/will-teslas-dojo-supercomputer-disrupt-ai-in-2022/",
-      "originalUrl": "https://www.fool.com/investing/2022/01/27/will-teslas-dojo-supercomputer-disrupt-ai-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/663092/gettyimages-1294874384.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-sas-tops-aites-fraud-and-aml-machine-learning-platforms-matrix.md",
-      "title": "SAS tops Aite's fraud and AML machine learning platforms matrix",
-      "excerpt": "SAS has earned the foremost best-in-class title in Aite-Novarica Group's Aite Matrix: Leading Fraud & AML Machine Learning Platforms. The AI and analytics leader achieved top billing among 11 competing anti-fraud and financial crime technology vendors,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-tops-aite-s-fraud-and-aml-machine-learning-platforms-matrix-1031136115",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-tops-aite-s-fraud-and-aml-machine-learning-platforms-matrix-1031136115",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1735421/SAS_Top_Billing_on_Aite_Anti_Fraud_assessment.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-three-trends-all-leaders-should-know-about-ai.md",
-      "title": "Three Trends All Leaders Should Know About AI",
-      "excerpt": "The book was intended to provide an overview of the approaching trends for artificial intelligence (AI). The purpose of this article is not meant to provide a book report, but rather to share with you what I am learning about AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/27/three-trends-all-leaders-should-know-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/27/three-trends-all-leaders-should-know-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/27/three-trends-all-leaders-should-know-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/27/three-trends-all-leaders-should-know-about-ai/amp/",
-      "publishedDateTime": "2022-01-27T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

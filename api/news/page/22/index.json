@@ -2,6 +2,239 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-01-14-investing-in-ai-or-vr-stocks-dont-overlook-meta-platforms-in-2022.md",
+      "title": "Investing in AI or VR Stocks? Don't Overlook Meta Platforms in 2022",
+      "excerpt": "I want to take a quick look about Meta Platforms, formerly known as Facebook. I'm going to take a quick look at three things. First, just the current market it's hit",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/01/13/investing-in-ai-or-vr-stocks-dont-overlook-meta-pl/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/13/investing-in-ai-or-vr-stocks-dont-overlook-meta-pl/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/661066/gettyimages-1351141161.jpg",
+          "width": 2120,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-leaders-across-healthcare-academia-and-technology-form-new-coalition-to-transform-healthcare-journey-through-responsible-ai-adoption.md",
+      "title": "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption",
+      "excerpt": "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature.md",
+      "title": "Electric Vehicle Checkpoint: Tesla Will Raise Price of Self-Driving Feature",
+      "excerpt": "See the latest news for the top stocks in the electric vehicle space including Ford, Rivian, Lucid, Nio, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature",
+      "originalUrl": "https://www.thestreet.com/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgyODY1MjE0OTAxODU1NTg0/nyse-trader_4.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature",
+      "publishedDateTime": "2022-01-13T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-samsung-unveils-new-mram-based-in-memory-computing-chip.md",
+      "title": "Samsung unveils new MRAM-based in-memory computing chip",
+      "excerpt": "Samsung has just announced the successful creation of the world's first MRAM-based in-memory computing chip, made with A.I. computing in mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/samsung-new-mram-in-memory-computing-chip-hits-98-percent-accuracy-in-ai/",
+      "originalUrl": "https://www.digitaltrends.com/computing/samsung-new-mram-in-memory-computing-chip-hits-98-percent-accuracy-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/mobile-world-congress-day-1.jpg",
+          "width": 2000,
+          "height": 1332,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/samsung-new-mram-in-memory-computing-chip-hits-98-percent-accuracy-in-ai/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/samsung-new-mram-in-memory-computing-chip-hits-98-percent-accuracy-in-ai/?amp",
+      "publishedDateTime": "2022-01-13T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-10-ways-artificial-intelligence-will-change-the-world-in-2022.md",
+      "title": "10 Ways Artificial Intelligence will Change the World in 2022",
+      "excerpt": "From time being AI has been applied in different sectors such as Healthcare, Machine Learning, Education, Enterprise and many other. To know how AI is been applied in 2022 in different sectors read the below article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/10-ways-artificial-intelligence-will-change-the-world-in-2022/",
+      "originalUrl": "https://www.analyticsinsight.net/10-ways-artificial-intelligence-will-change-the-world-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2022/01/10-Ways-Artificial-Intelligence-will-Change-the-World-in-2022.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives.md",
       "title": "Five Things Every Enterprise Can Do To Ensure The Long-Term Success And Sustainability Of AI Initiatives",
       "excerpt": "As companies prioritize sustainable value creation, it’s past time for AI to become a bigger part of the conversation. By taking these five steps, organizations can go a long way in achieving resilient AI initiatives that benefit all stakeholders.",
@@ -948,213 +1181,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-rta-forum-reviews-traffic-rules-of-driverless-flying-taxis-in-dubai.md",
-      "title": "RTA forum reviews traffic rules of driverless flying taxis in Dubai",
-      "excerpt": "DUBAI- Dubai’s Roads and Transport Authority (RTA) has recently held the first legal forum to review the rules and regulations governing operations for passenger transport autonomous air vehicles. This preliminary step aims to chart out suitable structures and develop rules and regulations required for the operation of this ultra-advanced mode of future transportation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/uae/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/",
-      "originalUrl": "https://www.zawya.com/uae/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/170926082913CCGH.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/WAM20220112142948653/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/WAM20220112142948653/",
-      "publishedDateTime": "2022-01-12T22:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-ai-comes-alive-in-industrial-automation.md",
-      "title": "AI Comes Alive in Industrial Automation",
-      "excerpt": "Artificial intelligence (AI ... With RL, you have deep learning and within the deep neural network of an ML learning network,” said Nicholson. “You can apply the algorithms to robots. As the robots learn their tasks, they get a numerical reward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/ai-comes-alive-industrial-automation",
-      "originalUrl": "https://www.designnews.com/automation/ai-comes-alive-industrial-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/2A8YM6D.jpg",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-is-amazon-creepier-than-google-at-this-point.md",
-      "title": "Is Amazon creepier than Google at this point?",
-      "excerpt": "We could go on and on. Remember Rekognition, the facial recognition system Amazon allowed police to use that sparked fears the company was essentially supporting the surveillance state?",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/business/amazon-vs-google-too-creepy-privacy-scandals/",
-      "originalUrl": "https://bgr.com/business/amazon-vs-google-too-creepy-privacy-scandals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2019/01/1b8toh.jpg?quality=82&strip=all",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/business/amazon-vs-google-too-creepy-privacy-scandals/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/business/amazon-vs-google-too-creepy-privacy-scandals/amp/",
-      "publishedDateTime": "2022-01-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-just-in-pentagon-research-priorities-to-include-microelectronics-next-g.md",
-      "title": "JUST IN: Pentagon Research Priorities to Include Microelectronics, 'Next-G'",
-      "excerpt": "The Pentagon's research and engineering office's list of 14 technology priorities will be revealed as early as Jan. 17, Undersecretary of Defense for Research and Engineering Heidi Shyu told reporters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationaldefensemagazine.org/articles/2022/1/13/pentagon-re-chief-to-prioritize-microelectronics-ai",
-      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2022/1/13/pentagon-re-chief-to-prioritize-microelectronics-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2022/shyu_jh.ashx?h=500&w=878&la=en&hash=EAA527C73047AE120D324B6AA277E215",
-          "width": 878,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Defense Magazine",
-        "domain": "nationaldefensemagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantitative-analysis-forecast-up-to-2030.md",
-      "title": "Artificial Intelligence in Military Market: Revenue Growth, Key Players, Qualitative Analysis, Quantitative Analysis, Forecast up to 2030",
-      "excerpt": "The artificial intelligence in military market is projected to grow from USD 6.26 billion in 2017 to USD 18.82 billion by 2025, at a CAGR of 14.75% during the forecast period. \"Increasing investments to develop AI integrated systems and rising adoption of cloud-based applications are key factors driving the growth of the artificial intelligence in military market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/25030379/artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantita",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/25030379/artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantita",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25030379",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25030379",
-      "publishedDateTime": "2022-01-12T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

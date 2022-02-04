@@ -110,6 +110,15 @@ related:
       name: Governing
       domain: governing.com
     quality: 24
+  - title: "Watch this self-driving car by Toyota that can drift all on its own"
+    excerpt: "The TRI states that the objective of its work is to make autonomous vehicles more capable, and therefore safer, in scenarios such as driving on black ice or avoiding sudden obstacles. \"At TRI, our goal is to use advanced technologies that augment and ..."
+    publishedDateTime: 2022-02-04T10:22:00Z
+    webUrl: "https://www.tweaktown.com/news/84400/watch-this-self-driving-car-by-toyota-that-can-drift-all-on-its-own/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 4
 
 secured: "Kwyy7RMZX9lSTWB3mO8JrE+2Fbujtf4zx5YHFlcn/p/pAlqauh7FWh+sZH8/tIYm2cZ/Jp3FQFrZcKR8hwUv5G5Rve+kbvqtuSMfa2IWonWCOpq7HfZrvtIhngY97p341ETwFDmlEaoavVfElaFxx72oELJFZB/HdMHfqhpORWELthav4QxpXVPZ90m7V4cdlXjIPWtLZ8OIs5kN1UqYLiFv3R+t+AT7ImGV8XJSlOAw7Y+jcFjZv6sBKkoURbJrl/FIY83xFjQw8glcGyK/nzkleD1w2yylDvg32egR3p/618Z7vHdXHmBhW3rMrHlF7aU2KxYcH9uWEpNFbo32kfDOfKxuvva+5bAsKEr4OXTk/a4XmhfLTMzEezWmSyVFx55ergfQrzX42WnFB3ADDysdBJHFafpJ2GUqKQPUSb93lsdKPOnA4hZ7sKQiCtBSYoDc8uXb3dOioCYxIJrB/Yt/PRn1FQBcHnr9TPQE3oWerHJOe40/3BBg8GNjvR64xIpno+toG2T+WlJDg5vPzg==;wk4lvo/KvLhqz5p4O8pv6w=="
 ---

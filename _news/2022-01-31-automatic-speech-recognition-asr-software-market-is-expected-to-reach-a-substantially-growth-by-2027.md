@@ -33,11 +33,25 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 28
+    quality: 32
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/NFT-museum-AFP-1K-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "The Global AI in Banking Market Will Grow to $64.03 Billion by 2030, at a CAGR of 32.6% During 2021-2030 - ResearchAndMarkets.com"
+    excerpt: "The global AI in banking market size was valued at $3.88 billion in 2020, and is projected to reach $64.03 billion by 2030, growing at a CAGR of 32.6% from 2021 to 2030. Artificial Intelligence (AI) brings the advantage of digitization to banks and helps them meet the competition posed by FinTech players."
+    publishedDateTime: 2022-01-31T15:36:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-artificial-intelligence-191c37af1daa431fbbac9cb8d851c54a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Voice Biometrics Market is Expected to Reach USD 5,889.9 Million in 2028"
     excerpt: "Various social networking sites including Facebook, Twitter, LinkedIn, and others are striving persistently to develop advanced speech recognition so that the voice input taken through speech recognition facilities can also be implemented as a voice ..."
@@ -52,6 +66,20 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/1fc2c692d0ecf827c5d9f525ec49bd06c6e93e1d-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "(AI) Artificial Intelligence in Drug Discovery Market to Rise at 33.9% CAGR, to Reach USD 5,558.0 Million by 2029: Polaris Market Research"
+    excerpt: "By offering, the software division has the largest market share. The two of the most popular AI platforms are Google AI and Microsoft Azure. By technology, machine learning involves a gamut of techniques that can assist people in making better decisions as ..."
+    publishedDateTime: 2022-02-03T23:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-artificial-intelligence-in-drug-discovery-market-to-rise-at-33-9-cagr-to-reach-usd-5558-0-million-by-2029-polaris-market-research"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 22
+    images:
+      - url: "https://www.abnewswire.com/uploads/1643890995.jpeg"
+        width: 1280
+        height: 451
         isCached: true
   - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
     excerpt: "request for a sample – https://www.futuremarketinsights.com/reports/sample/rep-gb-5032 In addition to some of the most commonplace vision disorders, newly establishing problems such as digital eye strain (more popularly, computer vision syndrome ..."

@@ -2,28 +2,26 @@
 category: news
 title: "Quantifind Launches Graphyte™ in Microsoft Azure for Cloud-Powered Financial Crimes and Risk Intelligence"
 excerpt: "Quantifind, a provider of software as a service (SaaS) used by banks and governments to significantly improve financial crimes risk screening and investigations performance, today announced that the risk insights provided by its Graphyte platform are now available from Microsoft Azure cloud computing service and co-sell ready."
-publishedDateTime: 2022-01-31T16:08:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-cloud-computing-services-cloud-computing-palo-alto-a6aad21d254f1b363406f3edab51e28c"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-cloud-computing-services-cloud-computing-palo-alto-a6aad21d254f1b363406f3edab51e28c"
+publishedDateTime: 2022-01-31T16:01:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/quantifind-launches-graphyte-in-microsoft-azure-for-cloud-powered-financial-crimes-and-risk-intelligence-1031145038"
+webUrl: "https://markets.businessinsider.com/news/stocks/quantifind-launches-graphyte-in-microsoft-azure-for-cloud-powered-financial-crimes-and-risk-intelligence-1031145038"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "GRFjyBo/bcrX5EyNuK3WkHo/47sL3T6nEJc27+eTWOmdqA3pYU/qTj0Yl2ATKnZdtMLK2Fo1ZkmY1iaUJ0pzjPSGex6YxXx1IyWBQM7GdjEr4nmVz/GLnAESdYLjDY35t3I65CGZ471tPs4J8XtKQeXjnZ4E1ZjIiX0OfHMz2NlyttqLel6Niz3ZczUChUwyOPlyx1haTcRiW50x05slHydmqC1vzmMT2CGlRd/1T/5/9RHIqyi1/69CRLEL//LzeCP5c0zAfNswBxMTWgqbFFsHVzaz/M5qSOBFcEhVTpV90NMKlhboriJc3UAMDX8ti609GLQ5YqMx23DCfRE9ujJdRWrIDy2A0S4FYka9D6A=;vEp/B8CyS8Kk3IOK7qu5FA=="
+secured: "laK/luwmrEZC/H4yGgp1MLrcTuBQw41xBlH0odAt0ia/386rBKroFig3+aKpJdkcQYrqsfplHOmJPeV5S2r5uZgFmJdHSkJ3WZm855hCTAZddU8c9cYQEFlqNOUpHxIAjEGJVbZDExwR///LyZOUsJJ1Wd1p83vDV2NtBwromhabhtsSiUtp5dagSgK2P5F/emvYEs5I9ieDyI9ZZBk0fAbgaHfy+4lvxduJzDU7qpII5mSK3uLd2oTB68VfHUn67x+NtZoGhhsYygKcQbbNYl+zoYbWDEZA1s6re6AQQFbvhYrU4AJ900nELtZFV7owNiJoEzZP2IkgeEqybBbxGUehLBFO9JBiRY7ZjAmxYlw=;ClrYKvIve1vJv2X6EEz3OQ=="
 ---
 

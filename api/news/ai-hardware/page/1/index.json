@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-04-most-read-articles-eus-chips-act-honeybee-robotics-5g.md",
+      "title": "Most Read articles – EU’s Chips Act, Honeybee Robotics, 5G",
+      "excerpt": "Blue Origin buying Honeybee Robotics and the EU’s Chips Act… 5. NEC buys Blue Danube NEC has bought Blue Danube Systems, a U.S.-based provider of CBRS/4G/5G RAN products and AI/ML-based software solutions that help mobile operators address 5G network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-articles-eus-chips-act-honeybee-robotics-5g-2022-02/",
+      "originalUrl": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-articles-eus-chips-act-honeybee-robotics-5g-2022-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/sites/5/2013/04/7-micro-gan-6-in-wafer-with-high-voltage-power-transitors.jpg",
+          "width": 534,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-04T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-chip-designer-mimicking-brain-backed-by-sam-altman-gets-25-million-funding.md",
       "title": "Chip designer mimicking brain, backed by Sam Altman, gets $25 million funding",
       "excerpt": "(Reuters) - Rain Neuromorphics Inc., a startup designing chips that mimic the way the brain works and aims to serve companies using artificial intelligence (AI) algorithms, said on Wednesday it raised $25 million. Gordon Wilson, CEO and co-founder of Rain ...",
@@ -1365,49 +1409,6 @@
         "AI Hardware",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-samsung-develops-in-memory-computing-for-ai-chips.md",
-      "title": "Samsung develops in-memory computing for AI chips",
-      "excerpt": "Samsung Electronics announced it has developed an in-memory computing technology that merges memory and system semiconductors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
-      "originalUrl": "https://www.upi.com/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/5981642180108/2022/1/16421803414018/v1.5/Samsung-develops-in-memory-computing-for-AI-chips.jpg",
-          "width": 680,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
-      "publishedDateTime": "2022-01-14T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

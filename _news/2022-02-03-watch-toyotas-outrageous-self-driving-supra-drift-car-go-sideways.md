@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/watch-toyotas-outrageous-self-driving-supr
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -115,6 +115,15 @@ related:
       name: Governing
       domain: governing.com
     quality: 24
+  - title: "Watch this self-driving car by Toyota that can drift all on its own"
+    excerpt: "The TRI states that the objective of its work is to make autonomous vehicles more capable, and therefore safer, in scenarios such as driving on black ice or avoiding sudden obstacles. \"At TRI, our goal is to use advanced technologies that augment and ..."
+    publishedDateTime: 2022-02-04T10:22:00Z
+    webUrl: "https://www.tweaktown.com/news/84400/watch-this-self-driving-car-by-toyota-that-can-drift-all-on-its-own/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 4
 
 secured: "iSbusqvDw/Lok3Iz1YivGrw1wGhnycrtcpnyydesc0pNam1J+r+ztGqZS+X/5B1bfRh6X0PipKs6eQW5fpAzbkazCjXUPJQkBmp4coLbSJ1PaS/5G3XHxTbKat/IDfVUE+m5Xvm79CSRgyqCvldWNkSYEFUiM4ijFOq9Eqw3YyKQXRKyUawkZYvujByI6zbtQ+fjAT4EJW5xokLRptDxcSfBNihqHL/9BwkkvYGmahIAClRacHdVT+VMuBV0TdT8X4sFRkqgdNLoyfL5xwS2Vmh84Ug6uAF12KB7pNJWVytbY4xM8xoz7zLjm3XanuJixvefdH2d6GdpkRL69dln/nGbyXqha7mSjNfSWraZgk3Rs+9rwMgq1y5mFln9Fr9JOucrFqpI+7iuPszi2lHK0CT7tG/rk/8v0eVn0WbovuG6/7yFI6l3f6xExumrpuajGI9U7sfLXIApEwMj1//YVqw4TxLup30q78HHzeuw6iv35+XpG3cJ30gQyCTqHc0P/p9o62dzQj6PmXrXgS9WXQ==;/SeWS4JGFp25yN6tGe7UAg=="
 ---

@@ -29,14 +29,14 @@ images:
 related:
   - title: "Self-driving tech, AI and more: Millions in defense contract work coming to Hurlburt and Eglin"
     excerpt: "HURLBURT FIELD — A San Diego-based company working on self-driving technology and artificial intelligence for the piloting of military aircraft will work at Hurlburt Field for the next 18 months under a $15 million contract for research and development ..."
-    publishedDateTime: 2022-02-04T08:14:00Z
-    webUrl: "https://www.statesman.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
-    ampWebUrl: "https://amp.statesman.com/amp/9224262002"
-    cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/9224262002"
+    publishedDateTime: 2022-02-04T11:58:00Z
+    webUrl: "https://www.cincinnati.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/9224262002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/9224262002"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 47
     images:
       - url: "https://www.gannett-cdn.com/presto/2022/01/26/NNWF/d2e9238e-ae63-47a9-98c6-c01c3d791204-F-35.jpg?auto=webp&crop=1319,742,x0,y68&format=pjpg&width=1200"

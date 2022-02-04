@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
-    excerpt: "“Since 2008, the government of China has further strengthened its control, and the human rights situation has further deteriorated,” Ai told AP. Here are Connecticut Magazine's experts' picks for the 25 best restaurants that opened since the start of 2020."
-    publishedDateTime: 2022-02-04T05:00:00Z
-    webUrl: "https://www.registercitizen.com/news/article/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
-    ampWebUrl: "https://www.registercitizen.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
-    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
-    type: article
-    provider:
-      name: The Register Citizen
-      domain: registercitizen.com
-    quality: 57
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/70/16/21988228/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Olympics-Chinese women online show more interest in Winter Games"
     excerpt: "BEIJING (Reuters) – Women in China have shown more interest than men in searching online for Winter Olympics-related information, a report by search engine company Baidu showed on Wednesday."
     publishedDateTime: 2022-02-02T06:36:00Z
@@ -63,6 +47,17 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
+    excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest Summer Olympics, he hoped the Games and the venue's distinct architectu"
+    publishedDateTime: 2022-02-04T12:10:00Z
+    webUrl: "https://www.kentucky.com/news/business/article258038808.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article258038808.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article258038808.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 37
 
 secured: "R69TKVAzMZAO7XITrPFmfvbFaHN+bAdrn/NL9B9GzWBzVrHkBCcXp2pqay7aA4gwc+k05n/7gwy7AeFabe26DP5SWNxKTMPkj+RWufjuYuA7Eyw13dNn1gx1/Q47hD0/vyr2SC/hduTr71Qg9lpkfeNF1TUQY6hAmnDbblxhqLbpyPEYku1s11ZkaINHj6qW6dfl1tWOB+Pk/8wkZUyB7/bNXMeUFFIcdBuFB+ANdvx4SWLR/5Iikj/psp2dFmJIzMdhf7ZXqE2G5F5rv5i1j3NwztkpcBRT4V2XiHYsNoVaNlET6KgSvOc1/h7ZQ1azukdElPbs4JXnbhBjZXVlgD26BQLGb3fkuK+1VxudHjkLDEwIIeEzuxaZV/RMec2Kum7AbBKU/ZfVPS3HKpoGhAOjIbUN78fhtNa4PjZJo+qqX2ZxV/RKm3aKs5p9qzIt29IZCEWGVOVCibm32MTziYVoLKa/n7k335SBliCpwZZdpUfRPQ3G+rYwlF56I/j2FsQOj/aR4qBL0gvD0QEZjA==;x7XiAa67udzFj5lke2CPkw=="
 ---

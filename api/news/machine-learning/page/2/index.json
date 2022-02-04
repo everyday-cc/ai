@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-24-the-role-of-experimentation-in-fundamental-machine-learning-research.md",
+      "title": "The Role of Experimentation in Fundamental Machine Learning Research",
+      "excerpt": "I recently watched an excellent talk from Dr. Tom Goldstein given to the National Science Foundation in which he discussed the current limitations of machine learning (ML) research and a path forward to correct those issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/role-experimentation-fundamental-machine-learning-research-hayduk",
+      "originalUrl": "https://www.linkedin.com/pulse/role-experimentation-fundamental-machine-learning-research-hayduk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGcEsZZqZ_5uw/article-cover_image-shrink_720_1280/0/1642882009429?e=1649289600&v=beta&t=KhZCE_ZymXpdGA-g3PznWqxQcBELkQqzS7fIuHQN5-0",
+          "width": 1240,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-23T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-overcoming-ai-and-ml-roadblocks-in-financial-services.md",
       "title": "Overcoming AI and ML Roadblocks in Financial Services",
       "excerpt": "Artificial intelligence and machine learning have become critically important to financial services companies —86% say it’s important to their success in the next two years. A recent survey from Red Hat and IDG explores the challenges around AI and ML deployment,",
@@ -1339,49 +1391,6 @@
       "provider": {
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-ai-from-sensor-data-to-smart-monitoring.md",
-      "title": "AI: from sensor data to smart monitoring",
-      "excerpt": "The solution to navigating the data lies in automation and artificial intelligence (AI ... can process huge amounts of data using Deep Neural Networks (DNNs). These neural networks are key ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/ai-from-sensor-data-to-smart-monitoring/",
-      "originalUrl": "https://www.itproportal.com/features/ai-from-sensor-data-to-smart-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ADy2QfDipAoaDjWjQ4zRq-1200-80.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/ai-from-sensor-data-to-smart-monitoring/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-from-sensor-data-to-smart-monitoring/",
-      "publishedDateTime": "2022-01-18T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
         "images": null,
         "publishers": null,
         "authors": null

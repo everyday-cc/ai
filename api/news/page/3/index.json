@@ -2,6 +2,236 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-02-game-changing-facial-recognition-technology-is-now-being-used-by-eps.md",
+      "title": "'Game changing' facial recognition technology is now being used by EPS",
+      "excerpt": "Edmonton police say they have already been able to see the benefits of the facial recognition technology they recently began to use.",
+      "sourceUrl": null,
+      "webUrl": "https://edmonton.ctvnews.ca/game-changing-facial-recognition-technology-is-now-being-used-by-eps-1.5763504",
+      "originalUrl": "https://edmonton.ctvnews.ca/game-changing-facial-recognition-technology-is-now-being-used-by-eps-1.5763504",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504/_jcr_content/root/responsivegrid/image.coreimg.png",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504.amp.html",
+      "publishedDateTime": "2022-02-01T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-crisis-text-line-ends-controversial-relationship-with-for-profit-ai-company.md",
+      "title": "Crisis Text Line ends controversial relationship with for-profit AI company",
+      "excerpt": "Crisis Text Line has ended its controversial relationship with Loris.ai, a for-profit sister company that promises to help companies \"handle their hard customer conversations with empathy. \" The decision followed outrage over a Politico story that detailed how Loris leveraged Crisis Text Line insights and anonymized user data in order to sell companies customer service optimization software,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/crisis-text-line-loris-ai",
+      "originalUrl": "https://mashable.com/article/crisis-text-line-loris-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/04DlU6SZhcOW1a3Ul5pS0bO/hero-image.fill.size_1200x675.v1643742610.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/crisis-text-line-loris-ai?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/crisis-text-line-loris-ai?amp",
+      "publishedDateTime": "2022-02-01T11:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux.md",
+      "title": "Former Google AI exec joins Trax as top product officer to enhance omnichannel shopping UX",
+      "excerpt": "Trax announced that, Barak Turovsky, is joining as its new chief product officer. Turovsky will apply his expertise to enhance the omnichannel shopping experience of retailers, brands, and consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/",
+      "originalUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/online-shopping-shutterstock_224467054-1.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/former-google-ai-exec-joins-trax-as-top-product-officer-to-enhance-omnichannel-shopping-ux/amp/",
+      "publishedDateTime": "2022-02-01T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-want-fair-redistricting-use-artificial-intelligence.md",
+      "title": "Want fair redistricting? Use artificial intelligence",
+      "excerpt": "Over 200 years ago, the “Gerrymander,” a salamander-like legislative district, was mocked in a newspaper cartoon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html",
+      "originalUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/PdC_O1q7OQzw1frCV0NMi-1SkB4=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FWAFTSG63FBRTBWC6VVVY46YJE.jpg",
+          "width": 1200,
+          "height": 939,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html?outputType=amp",
+      "publishedDateTime": "2022-02-01T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors.md",
+      "title": "How XpertRule’s multiple AI tools compares to BPM competitors",
+      "excerpt": "and predictive explainable machine learning. Both the authoring and deployment components of the Viabl.ai platform are 100 percent cloud-native and run serverless on AWS and Azure or on Premise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/",
+      "originalUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/GettyImages-829804548.jpg?w=1200&strip=all",
+          "width": 564,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/amp/",
+      "publishedDateTime": "2022-02-01T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-mongodbs-co-founder-is-trying-to-universalize-robotic-deployment.md",
       "title": "MongoDB’s co-founder is trying to universalize robotic deployment",
       "excerpt": "To this end they are developing a series of core components, such as object recognition, navigation and gripping,” USV managing partner Albert Wenger said in a post tied to last year’s seed.",
@@ -852,7 +1082,7 @@
       "originalUrl": "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -937,232 +1167,6 @@
         "AI",
         "AI in Education",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber.md",
-      "title": "Human Borgs: How Artificial Intelligence Can Kill Creativity And Make Us Dumber",
-      "excerpt": "New experimental research shows that artificial intelligence should be used with caution as a decision support tool for human decision making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nelsongranados/2022/01/31/human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber/",
-      "originalUrl": "https://www.forbes.com/sites/nelsongranados/2022/01/31/human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f7da97908bf6944864d942/0x0.jpg?format=jpg&crop=1533,781,x227,y55,safe&fit=crop",
-          "width": 1533,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nelsongranados/2022/01/31/human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nelsongranados/2022/01/31/human-borgs-how-artificial-intelligence-can-kill-creativity-and-make-us-dumber/amp/",
-      "publishedDateTime": "2022-01-31T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-clearview-ais-revolutionary-facial-recognition-platform-awarded-us-patent.md",
-      "title": "Clearview AI's Revolutionary Facial Recognition Platform Awarded U.S. Patent",
-      "excerpt": "The \"Methods for Providing Information About a Person Based on Facial Recognition\" patent, U.S. Patent No. 11,250,266, issued by the U.S. Patent and Trademark Office (USPTO), is the first of its kind for a facial recognition company and was awarded to Clearview AI for its ability to gather publicly available information from the open internet (social media sites,",
-      "sourceUrl": null,
-      "webUrl": "https://aithority.com/vision/face-recognition/clearview-ai-revolutionary-facial-recognition-platform-awarded-us-patent/",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-clearview-ais-revolutionary-facial-recognition-platform-awarded-us-/2022/01/31/9535612.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aithority.com/wp-content/uploads/2022/01/Clearview-AIs-Revolutionary-Facial-Recognition-Platform-Awarded-U.S.-Patent.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-31T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-machine-learning-the-hard-way-ibm-watsons-fatal-misdiagnosis.md",
-      "title": "Machine learning the hard way: IBM Watson's fatal misdiagnosis",
-      "excerpt": "One of Watson's early set pieces was taking a complex set of symptoms and finding the most probable diagnosis out of an encyclopaedic knowledge of rare diseases. A different challenge marked its demise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/",
-      "originalUrl": "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2019/09/23/shutterstock_doc.jpg",
-          "width": 648,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/",
-      "publishedDateTime": "2022-01-31T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-profits-over-politics-aws-and-microsoft-execs-warn-of-chinas-ai-threat-while-growing-ai-hubs-inside-china.md",
-      "title": "Profits over politics: AWS and Microsoft execs warn of China’s AI threat while growing AI hubs inside China",
-      "excerpt": "The two biggest U.S. cloud companies are expanding their AI and cloud-related efforts in China even though their own executives have warned of threats posed by China’s AI development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/enterprise/aws-microsoft-china-ai-cloud",
-      "originalUrl": "https://www.protocol.com/enterprise/aws-microsoft-china-ai-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-aws-is-balancing-profit-potential-in-china-with-ai-risk-its-own-ceo-warned-about-less-than-p-greater-than.png?id=29190512",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548",
-      "publishedDateTime": "2022-01-31T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-ocean-exploration-with-advanced-underwater-robotics.md",
-      "title": "Ocean Exploration With Advanced Underwater Robotics",
-      "excerpt": "With optimised techniques and machine learning, underwater robots can be created that mimic the movement and manoeuvrability of fish",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/01/swim-carlingfish.jpg",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics/amp",
-      "publishedDateTime": "2022-01-31T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

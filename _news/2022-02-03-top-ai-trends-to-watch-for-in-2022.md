@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/03/top-ai-tre
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/03/top-ai-trends-to-watch-for-in-2022/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

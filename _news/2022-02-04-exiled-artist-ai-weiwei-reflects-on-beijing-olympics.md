@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
-excerpt: "“Since 2008, the government of China has further strengthened its control, and the human rights situation has further deteriorated,” Ai told AP. Here are Connecticut Magazine's experts' picks for the 25 best restaurants that opened since the start of 2020."
-publishedDateTime: 2022-02-04T05:00:00Z
-originalUrl: "https://www.registercitizen.com/news/article/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
-webUrl: "https://www.registercitizen.com/news/article/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
-ampWebUrl: "https://www.registercitizen.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
-cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
+excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest Summer Olympics, he hoped the Games and the venue's distinct architectu"
+publishedDateTime: 2022-02-04T12:10:00Z
+originalUrl: "https://www.kentucky.com/news/business/article258038808.html"
+webUrl: "https://www.kentucky.com/news/business/article258038808.html"
+ampWebUrl: "https://amp.kentucky.com/news/business/article258038808.html"
+cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article258038808.html"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Register Citizen
-  domain: registercitizen.com
+  name: Lexington Herald Leader
+  domain: kentucky.com
 
 topics:
   - AI
-
-images:
-  - url: "https://s.hdnux.com/photos/01/23/70/16/21988228/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
-    isCached: true
 
 related:
   - title: "Here Come the Underdogs of the Robot Olympics"
@@ -59,6 +53,6 @@ related:
         height: 534
         isCached: true
 
-secured: "DuKedDA2CfmfdL2+YFd4JCflKO/rpad96/SvC72+c9UFq8eZ88OxWoGA7025hKLxJqs7xT9okcuNpGQMTQe7KoYQ7LIUPzfC60nLh6isOEJjN0QfhCbBmBVaiZ8yrNC0K64ZXK9xOWHvhq32OIIJPnszA8ruBAj7nIXnsrdLdWiX0isa58ogIaSBhj/nwzKhY6fePzIr4FH7dEQQmRlEJUulNqcY11J2DOPfkTznRWGaQWH9r2wvXuwAtFFScw7mCNOba4LIWDDaCPHsBgWop47SHVPfWFByo64ttDtaUYhljvBP7+vzzHAFGAVgUQsSbQTFRxHcVOr7K4JuYuWsUU5nxPQQkL9/FFNBVJnk1g4=;LqDuBEC9St0P0DFe7Sb1aQ=="
+secured: "mn5mw9hnc2fLCZdRUFYCeIAh6V0I75P/P9XtmQUGe2A3kk468UzDkj3Yo3kP4MionC6UjWCvuELbjLe/2TS1yc2dwJidYoKn81eOJjdN+ibcLl/+xLuhOHi2L3tKwmoXm4GqlltT1z8QMk9xiqfRsRmtERFWlR7ZFkvqqYlPScItXsga+V8L2dp+k31FNYt3TR1w57qCJljtmWZJ0C4VyiSlASCUeTIpEEivqZqyY94BBjXh9z2R792+YtZUEEJm4XxdsvmxwXC3I2uWjwGjmUmw+6vqhUxLq4aaQkDmo4UnKDA5fUpty59YEGVInXfbykFT0UdbWETxdevQiqSisGeBlBO2JkVkbfc2Q+n3P9sUFqVNkyGDPQ4Va6vXixzHS/5gfZb4uo8eNN2TzJYeK9eS72vd0GsUEbYpkayus54citR6xiKiw4KcFKM8kKZtlxRSuR+GcwMsYKQOgEMyEg4ywVPEqyMZVnQmashlK4WwR+myDJSyJLy6iCFZ4IUpdAzA5Lv3vPHtCvA5v7tOPA==;GLYHSpMOCRVFlbQIAhn4mg=="
 ---
 

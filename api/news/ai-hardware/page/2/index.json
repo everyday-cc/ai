@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-15-samsung-develops-in-memory-computing-for-ai-chips.md",
+      "title": "Samsung develops in-memory computing for AI chips",
+      "excerpt": "Samsung Electronics announced it has developed an in-memory computing technology that merges memory and system semiconductors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
+      "originalUrl": "https://www.upi.com/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5981642180108/2022/1/16421803414018/v1.5/Samsung-develops-in-memory-computing-for-AI-chips.jpg",
+          "width": 680,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/",
+      "publishedDateTime": "2022-01-14T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-4-principles-for-responsible-ai.md",
       "title": "4 principles for responsible AI",
       "excerpt": "Did you miss a session from the Future of Work Summit? Head over to our Future of Work Summit on-demand library to stream. Alejandro Saucedo is the engineering director at Seldon, and a chief ...",
@@ -1369,58 +1412,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-intel-launches-its-arc-graphics-chips-for-pc-gaming.md",
-      "title": "Intel launches its Arc graphics chips for PC gaming",
-      "excerpt": "Intel aims to disrupt the duopoly of Nvidia and Advanced Micro Devices with its own Arc standalone graphics chips launching today.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
-      "originalUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/intel-arch-7.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
-      "publishedDateTime": "2022-01-04T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],
