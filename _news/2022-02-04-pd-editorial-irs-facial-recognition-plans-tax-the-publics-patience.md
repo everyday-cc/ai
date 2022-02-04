@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
-excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-publishedDateTime: 2022-02-03T13:03:00Z
-originalUrl: "https://www.govexec.com/technology/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361499/"
-webUrl: "https://www.govexec.com/technology/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361499/"
+title: "PD Editorial: IRS facial recognition plans tax the public’s patience"
+excerpt: "Editorials represent the views of The Press Democrat editorial board and The Press Democrat as an institution. The editorial board and the newsroom operate separately and independently of one another. The Internal Revenue Service found a way to become even ..."
+publishedDateTime: 2022-02-04T08:20:00Z
+originalUrl: "https://www.pressdemocrat.com/article/opinion/pd-editorial-irs-facial-recognition-plans-tax-the-publics-patience/"
+webUrl: "https://www.pressdemocrat.com/article/opinion/pd-editorial-irs-facial-recognition-plans-tax-the-publics-patience/"
 type: article
-quality: 25
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Government Executive
-  domain: govexec.com
+  name: Santa Rosa Press Democrat
+  domain: pressdemocrat.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.govexec.com/media/img/cd/2022/02/02/020322faceidGE/open-graph.jpg"
-    width: 400
-    height: 400
+  - url: "https://imengine.prod.srp.navigacloud.com?uuid=f02c97b5-2355-5b05-a9a9-5d3e1ae02e0a&type=primary&q=72&width=1200"
+    width: 1199
+    height: 777
     isCached: true
 
 related:
@@ -121,19 +121,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "PD Editorial: IRS facial recognition plans tax the public’s patience"
-    excerpt: "Editorials represent the views of The Press Democrat editorial board and The Press Democrat as an institution. The editorial board and the newsroom operate separately and independently of one another. The Internal Revenue Service found a way to become even ..."
-    publishedDateTime: 2022-02-04T08:20:00Z
-    webUrl: "https://www.pressdemocrat.com/article/opinion/pd-editorial-irs-facial-recognition-plans-tax-the-publics-patience/"
+  - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-03T13:03:00Z
+    webUrl: "https://www.govexec.com/technology/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361499/"
     type: article
     provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 39
+      name: Government Executive
+      domain: govexec.com
+    quality: 25
     images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=f02c97b5-2355-5b05-a9a9-5d3e1ae02e0a&type=primary&q=72&width=1200"
-        width: 1199
-        height: 777
+      - url: "https://cdn.govexec.com/media/img/cd/2022/02/02/020322faceidGE/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
@@ -164,6 +164,6 @@ related:
         height: 554
         isCached: true
 
-secured: "XLlYcI+C1LzjOXDGfWstGXhFtFHfNQHtD+xNQ+EXijv3BJLhTQmpsNDi2PEMVyxTSU+bBFKX7waQFvj2Qii4Q/JfrKisOgb9n8a5R2oJslisZ9byEdWFrqK0Cmc0HisN3c7pMDAcT+i7OWrRPCu0+zcVK9F+UP7Umk4RRC4I6obJR8mBX821ZDioBebCQD1wjPyq2Gdp7/dA/Fxi7PaQRfjMEXm99hb9ybgcqpoysqJ6+YJ1MtqEi23SLxRGrfoClOWWFlZ6sMPC2ENr7WMzBhg3QlAihgMj8X5bCNBZwmHJ7vQfmCt9Xt6dIP/d2yunqLgB7mfH6HKNcwpl9DHgJoSh7hVZ6cxexMATfaJ9dls=;27/3u+mp3rYCrxxVi0gUNg=="
+secured: "53wQvNUs/yfgUZ/3RmXgJpWwLPbZ05HzLT1ssDMhF1zbbSBUvInrD5agY5dwkVyj940wg2uHtFKYgIVfjzHelFiyr4hxiL2C62w+SC2o1i+WgpKmnIv/pyhihqKLzg4wvNMiAX6cf1S8L1UpJVQYsZ540yoXjaBPFNvXmLk3S+hJZ/rcXdg+YnCXHEgAv409jOtkp2JBCTsFglj5IHHbnPqOw9mb/TxhiYgP2J+Lhz2xh40g9O3UZSFgweYvOGEnWuwCT/8BU5nPct7qyUxTNGj23D6XnZD5FKfCNfWB9j2k7SaX0HZ/kuHoqPuARK9XXSknHHtGJ0WRREVv9BnQCXeEqYriYEuCxv5hzz3BY+w=;1NQQKskE3dge4/zHCiT5nA=="
 ---
 

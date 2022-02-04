@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Cypriot fintech to take part in PwC startup programme"
-excerpt: "Cypriot fintech company WiRE ... other participating startups include Sedicii, Resistant AI, Outseer, RiskSave Technologies, EvoluteIQ, Albany Group, Insig AI and Panthera Solutions."
-publishedDateTime: 2022-02-03T06:31:00Z
-originalUrl: "https://cyprus-mail.com/2022/02/03/cypriot-fintech-to-take-part-in-pwc-startup-programme/"
-webUrl: "https://cyprus-mail.com/2022/02/03/cypriot-fintech-to-take-part-in-pwc-startup-programme/"
+title: "How RBI’s Fintech unit can spur a wave of Innovation and Digitization in India"
+excerpt: "Adopt digital solutions, AI, and data analytics technology 2 ... One shining example of this scenario is how Indonesia’s regulatory authority (OJK) responded to the fintech lending crisis in 2018. In 2018, Indonesia’s fintech industry was known ..."
+publishedDateTime: 2022-02-04T07:09:00Z
+originalUrl: "https://www.telegraphindia.com/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
+webUrl: "https://www.telegraphindia.com/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
+ampWebUrl: "https://www.telegraphindia.com/amp/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
+cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
 type: article
-quality: 24
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Cyprus Mail
-  domain: cyprus-mail.com
+  name: The Telegraph
+  domain: telegraphindia.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://cyprus-mail.com/wp-content/uploads/2022/02/pwc-wire-UK.jpg"
-    width: 1139
-    height: 757
+  - url: "https://assets.telegraphindia.com/telegraph/2022/Feb/1643954674_ver-10-rbi-fintech.JPG"
+    width: 708
+    height: 412
     isCached: true
 
 related:
@@ -100,22 +102,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "How RBI’s Fintech unit can spur a wave of Innovation and Digitization in India"
-    excerpt: "Adopt digital solutions, AI, and data analytics technology 2 ... One shining example of this scenario is how Indonesia’s regulatory authority (OJK) responded to the fintech lending crisis in 2018. In 2018, Indonesia’s fintech industry was known ..."
-    publishedDateTime: 2022-02-04T07:09:00Z
-    webUrl: "https://www.telegraphindia.com/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
-    ampWebUrl: "https://www.telegraphindia.com/amp/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 40
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2022/Feb/1643954674_ver-10-rbi-fintech.JPG"
-        width: 708
-        height: 412
-        isCached: true
   - title: "Fintech Provides Investors With AI-Driven Research"
     excerpt: "Magnifi, which is one arm of TIFIN, helps match investors and advisors with firms specializing in the work the investor is looking for. In this example, TIFIN, which stands for Technology In Finance,"
     publishedDateTime: 2022-02-01T21:24:00Z
@@ -186,6 +172,20 @@ related:
         width: 1080
         height: 567
         isCached: true
+  - title: "Cypriot fintech to take part in PwC startup programme"
+    excerpt: "Cypriot fintech company WiRE ... other participating startups include Sedicii, Resistant AI, Outseer, RiskSave Technologies, EvoluteIQ, Albany Group, Insig AI and Panthera Solutions."
+    publishedDateTime: 2022-02-03T06:31:00Z
+    webUrl: "https://cyprus-mail.com/2022/02/03/cypriot-fintech-to-take-part-in-pwc-startup-programme/"
+    type: article
+    provider:
+      name: Cyprus Mail
+      domain: cyprus-mail.com
+    quality: 24
+    images:
+      - url: "https://cyprus-mail.com/wp-content/uploads/2022/02/pwc-wire-UK.jpg"
+        width: 1139
+        height: 757
+        isCached: true
   - title: "Fintech Funding Reaches New Highs"
     excerpt: "\"Fintech is altering all of that by reducing prices ... including chatbots, artificial intelligence (AI), blockchains, and crypto-assets. Corporate venture arms and digital incubators have been established by large multinational banks, who are investing ..."
     publishedDateTime: 2022-02-03T13:27:00Z
@@ -210,6 +210,6 @@ related:
         height: 601
         isCached: true
 
-secured: "qN1SNjN17ff+ODLW4Abund0EwpVmDuVGavrwApNdxN8SnzC1jB0hWusLRUYJaojpyQwoDZmOEQ7Gjb1BXjVvK91kN/aEAPvu1uxAsrTy20/8uzYNMEtYE9PkEAAyeazEjD3hfzV18SRUCQZpiqe7yZnH/FgP5F3MI62mo1IYcS3KOCuFPnN55gn7c8ntvHyi/6Q53pIZRGxkAnZuwqX5YV5BVZgik8dCG4Txr07XKVfPUw6nbQAqJDUb5U9XfJB0X+VjgwDrDtvIZbEXkoW7+j+UtKF0bwr/Ur4BoUUSrA59xOGQgwtW/ST6Ylk2x3wq5Nz6uqgH/+oWz/mdhHhQ5bS4jq/rvkuKgjW988Q/1sa0+vMZoHgmU8Cui9JbqCwUZ5Q+nlOeDMIj9zOoRoiomjqn4foZLqldmcqTdU0tpb01Mr00cUTI04qSaxQZv33W7bdAp9u9IgXxKx9eP85Z7N+H5iAKttB3kwdRT42Nnzw4N8hrgd4A2bZdqNhgl/lm26Kfrc069DK36xlYDE+yEw==;DNm2niG4l2fdKsHAjjAhDA=="
+secured: "qIdjdGLG47yLtzNaNa36sQN63uI1MHQQ8BagUDYtzNuXTrgXsGPj9GHo2BxGsQvwy+1j7DYQlIUsqeOOf1NSgykDB5M7e166tjK0LM/6BLwnI+Igb5CxMJRYteoGlC9JuN+YgFs69r9NuO/F/quoMCapxaWfkGOR+SCdyKyV1r2LmPCxRJJpHDquMqBl27ivM+ll9T5yvlkV2hSJAlqIWJJKA9NUcVfdiJxw4akkOOLiXPDj/OHbQ+/LPdowYfEBLt+JBlWDSYagWP/MacH4R3Fq0ugX4l7IUxKZpRX8bBvGAwZmzRC9QB1eBdezbR7uSRHaNnF+Avyl2zo9Uw8YWDG5IGoSJzePG9CrXwvgMDQ=;iyYIk4RRieSv+Agp06XBRA=="
 ---
 

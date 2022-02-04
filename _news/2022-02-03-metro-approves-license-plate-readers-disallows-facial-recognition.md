@@ -107,6 +107,20 @@ related:
         width: 780
         height: 520
         isCached: true
+  - title: "PD Editorial: IRS facial recognition plans tax the public’s patience"
+    excerpt: "Editorials represent the views of The Press Democrat editorial board and The Press Democrat as an institution. The editorial board and the newsroom operate separately and independently of one another. The Internal Revenue Service found a way to become even ..."
+    publishedDateTime: 2022-02-04T08:20:00Z
+    webUrl: "https://www.pressdemocrat.com/article/opinion/pd-editorial-irs-facial-recognition-plans-tax-the-publics-patience/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 39
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=f02c97b5-2355-5b05-a9a9-5d3e1ae02e0a&type=primary&q=72&width=1200"
+        width: 1199
+        height: 777
+        isCached: true
   - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
     publishedDateTime: 2022-02-03T13:03:00Z

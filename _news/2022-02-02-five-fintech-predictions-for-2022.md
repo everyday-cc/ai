@@ -58,22 +58,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "China: WeiyangX Fintech Review"
-    excerpt: "The above is a weekly synopsis of the biggest stories on Fintech in China provided by WeiyangX, part of Tsinghua University, in partnership with Crowdfund Insider. WeiyangX is the most influential website focusing on Fintech in China."
-    publishedDateTime: 2022-01-30T16:36:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/01/186298-china-weiyangx-fintech-review-229/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/01/186298-china-weiyangx-fintech-review-229/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/186298-china-weiyangx-fintech-review-229/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/12/Winter-Xicheng-District-Beijing-China-ajmal-mk-unsplash.jpg"
-        width: 1600
-        height: 1502
-        isCached: true
   - title: "8 Tech Innovations to Step Up Your FinTech Branding"
     excerpt: "FinTech is an exciting industry. Single-handedly, it has disrupted banking, mobile payments, blockchain, crowdfunding, and many other giant sectors of finance. As the snazzy new kid, it has gained a lot of fan following over the years and introduced innovations that have made paying goods for services trouble-free and smarter."
     publishedDateTime: 2022-01-31T17:03:00Z
@@ -105,6 +89,22 @@ related:
       - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/02/iStock-852000540.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "How RBI’s Fintech unit can spur a wave of Innovation and Digitization in India"
+    excerpt: "Adopt digital solutions, AI, and data analytics technology 2 ... One shining example of this scenario is how Indonesia’s regulatory authority (OJK) responded to the fintech lending crisis in 2018. In 2018, Indonesia’s fintech industry was known ..."
+    publishedDateTime: 2022-02-04T07:09:00Z
+    webUrl: "https://www.telegraphindia.com/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
+    ampWebUrl: "https://www.telegraphindia.com/amp/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 40
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2022/Feb/1643954674_ver-10-rbi-fintech.JPG"
+        width: 708
+        height: 412
         isCached: true
   - title: "Fintech Provides Investors With AI-Driven Research"
     excerpt: "Magnifi, which is one arm of TIFIN, helps match investors and advisors with firms specializing in the work the investor is looking for. In this example, TIFIN, which stands for Technology In Finance,"

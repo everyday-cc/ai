@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Space Robotics Market Share, Size, Growth, Trends, Top Companies, Industry Demand and Opportunity 2021-26"
+    excerpt: "Furthermore, the rising adoption of artificial intelligence (AI) and deep learning (DL) in the robotics industry is driving the market. Moreover, the key players are introducing AI-based robots that provide greater exploration benefits and enhance mobility ..."
+    publishedDateTime: 2022-02-04T07:01:00Z
+    webUrl: "https://www.digitaljournal.com/pr/space-robotics-market-share-size-growth-trends-top-companies-industry-demand-and-opportunity-2021-26"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjpqD1yIqNfAq4wxBd4Zca4Gtt4FfRdOgXcfEIojylz53waSWM5eSZpNS22Y9H0ZOctYqtX5bvR9pHXdDQeZMKeZVU3k3QM_HFBM1zpFAfiDEXPPFtps5-Do7XMhsU25ux4VisQkk5Omfr8Y60WPDQ9_LFYyahwfa_EUeYAi4oRM0X14S6RldCLnOA=s320"
+        width: 320
+        height: 240
+        isCached: true
   - title: "Mobile Robot Market Statistics, Industry Growth and Demand Analysis Research Report by 2027"
     excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
     publishedDateTime: 2022-02-01T03:50:00Z

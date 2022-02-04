@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
-excerpt: "“Since 2008, the government of China has further strengthened its control, and the human rights situation has further deteriorated,” Ai told AP. Here are Connecticut Magazine's experts' picks for the 25 best restaurants that opened since the start of 2020."
-publishedDateTime: 2022-02-04T05:00:00Z
-originalUrl: "https://www.registercitizen.com/news/article/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
-webUrl: "https://www.registercitizen.com/news/article/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
-ampWebUrl: "https://www.registercitizen.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
-cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
+excerpt: "BEIJING (AP) — When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest stadium for the 2008 Summer Olympics, he hoped the Games and the venue's distinct architecture — the instantly recognizable weave of curving steel beams ..."
+publishedDateTime: 2022-02-04T07:38:00Z
+originalUrl: "https://www.mysanantonio.com/sports/article/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
+webUrl: "https://www.mysanantonio.com/sports/article/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
+ampWebUrl: "https://www.mysanantonio.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
+cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Register Citizen
-  domain: registercitizen.com
+  name: My San Antonio
+  domain: mysanantonio.com
 
 topics:
   - AI
@@ -59,6 +59,6 @@ related:
         height: 534
         isCached: true
 
-secured: "J+PdKYEFoAVT8SExfzzq4BR5AxlTufP8FUVTPPg1jzEbNPUATxfq8K9ZHbeo/I9V7jRmRFpTgbimNW+JjsocXF7MJYBHpxZ2q/szYNy6k1pgGUi4BxH7Sgkyaqzqty37ChijhTgyqXER0wc7UcDL6+pfNZGqmmhgZkyKnA65hOB4qCC6M/LnswoUb+nls5X2PIY10/WpebaFwdmo699i/jRVFsH3H/axv/tpe57Ohdg86pdBlTtSobGbfYhfrbWAMcsDk+HEom1GnXQ8FZnpuiK6MlW//lcOlBkRNfVgTqOFHLiVQSFEB7yzUd/i8bPCeXs2WuZ8AIR5UF4QED1kHxAqQs10f6RHmRYkIfOTwLI=;+wYjvIgqHMpJ95lePJGPzg=="
+secured: "Z38l0XLmWLz2FlyJWT0tA6l8AIxKfjDHPbdd3Rdky27vDL8Y4Q05BJ/i2ZtI/LmbcWpIZuNamaUT/SMJ1wfll/hnI547BWZC5pLrxw4j1o9RsNDBzSO0iEOfNhorJhOjX0ZMPC30SpnmDTf+j3MIdrqoKQQbcUONMVOO8tcNlaCdYJ80gwbLyGdbjpFgFxTDplcwfx+2Gz2tEdCRX6vPtAOkmATQv1xLtwn+6YYuTE0pfE0uBH7JWOVXs6dKfreqiHWtFg3pXnaLNbsf+vlc7JWwPhAA8sLK8aGxOnc+trWS48uD8EtATzea4VpxHce/8x2yKi0StaSGRcy9EJvlYBX54uoc6p2Ij1tCDpf7rf0=;9tHooDVSjeQm0V2EPZIA5A=="
 ---
 
