@@ -44,18 +44,20 @@ related:
         height: 1647
         isCached: true
   - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
-    excerpt: "BEIJING — When the artist Ai Weiwei was picked to help design Beijing's Bird's Nest stadium for the 2008 Summer Olympics, he hoped the Games and the venue's distinct architecture — the instantly recognizable weave of curving steel beams — would ..."
-    publishedDateTime: 2022-02-04T04:56:00Z
-    webUrl: "https://www.startribune.com/exiled-artist-ai-weiwei-reflects-on-beijing-olympics/600142925/"
+    excerpt: "“Since 2008, the government of China has further strengthened its control, and the human rights situation has further deteriorated,” Ai told AP. Here are Connecticut Magazine's experts' picks for the 25 best restaurants that opened since the start of 2020."
+    publishedDateTime: 2022-02-04T05:00:00Z
+    webUrl: "https://www.registercitizen.com/news/article/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
+    ampWebUrl: "https://www.registercitizen.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
+    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
     type: article
     provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 37
+      name: The Register Citizen
+      domain: registercitizen.com
+    quality: 57
     images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1643924422"
-        width: 1680
-        height: 876
+      - url: "https://s.hdnux.com/photos/01/23/70/16/21988228/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "FoDTlZE5dICP7CNv1D2oFDdbXGIfAhKtHMpRF+hiTYQXV8Dyc89PZQwISOAeqw7LkbUQkeB/u0RxNl4gq5sJneEGHLVelVQagP638L57pumxUhBLgx2d769Kexl01FJ6PTXfjgl6cQ3nhTiPvG49i67JIh9hCy2rQGYrtBIbe8nxWVN32LMwr70eXHXWpBnubR3ZHPMf6kLHDdYUEx6GHAF9rhV7uWFRIG+moccM7MmTUgg/38sC4QFdjxkSAfE72GADf7df+Pp45y1isQwCD90YArqULBBhIDCVbPte9yfcXbivOPO5Fy17c+xODkIeV11Hps0QL1gg2q+IKg2RjOmpoOHMcE0MFCIrXJW51Ag=;00d3BkYUTK0J6ts9sBu1ag=="

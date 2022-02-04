@@ -66,6 +66,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Market data suggests positive returns on C3.ai Inc. (AI)"
+    excerpt: "Let’s start up with the current stock price of C3.ai Inc. (AI), which is $24.74 to be very precise. The Stock rose vividly during the last session to $26.89 after opening rate of $26.72 while the lowest price it went was recorded $25."
+    publishedDateTime: 2022-02-02T20:13:00Z
+    webUrl: "https://investchronicle.com/2022/02/02/market-data-suggests-positive-returns-on-c3-ai-inc-ai/"
+    type: article
+    provider:
+      name: investchronicle
+      domain: investchronicle.com
+    quality: 39
+    images:
+      - url: "https://investchronicle.com/wp-content/uploads/2020/01/17.png"
+        width: 448
+        height: 307
+        isCached: true
   - title: "Artificial Intelligence (AI) in Agriculture Market Expected to Grow at CAGR 5.51% and Forecast to 2028"
     excerpt: "A New Market Study, Titled “Artificial Intelligence (AI) in Agriculture Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. Request Free Sample Report @  This report studies the Artificial Intelligence (AI) in Agriculture market,"
     publishedDateTime: 2022-02-01T22:58:00Z

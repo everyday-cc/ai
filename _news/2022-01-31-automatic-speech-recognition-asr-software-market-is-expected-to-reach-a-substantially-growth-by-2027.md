@@ -24,6 +24,22 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "Image Recognition Market Trend, Business Opportunities, Manufacturers and Research Methodology by 2028"
+    excerpt: "The global image recognition market size is expected to reach USD 80.29 Billion at a steady CAGR of 15.3% in 2028, according to latest analysis by Emergen"
+    publishedDateTime: 2022-01-31T11:48:00Z
+    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-trend-business-opportunities-manufacturers-and-research-methodology-by-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 8
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/f7a69d877923f8b2435d63dfc02962bbaf6ce22e-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "W1zaC0qHmdPtbIWgQ9i/ZfcUHwo1ySTd75bebW9KTclq1xiz5UogRBL08t+mCk8Y3sBkR4SVYIQ9a4NcGRwpaE8ye6196ePkUw+pOTMnFG0PqzG4Wbg4K7z2uaaZPr0YY2U3fH9pG82oLxb4dP/KLJalSertLnVaibTHsXVGyqREsvnFlrkLYz8OJJxeVk85f92i4UutSE55azQWvS3NsYIjaR35lwlnveZ1nQCdSSRiWqP/rqwPVHMQYmTvC9npAIS2rjJ6VV11N9WN54E4qvLd11HImGOuCyWQ94/L3/HODXWEVMYKnYdJQaMkRxWr4BR4wVVFQkhpZg/nUj0cr46A/0vpCoSryUrO8V+6z1I=;7SzCub/87iMy65gBLecfsw=="
 ---
 

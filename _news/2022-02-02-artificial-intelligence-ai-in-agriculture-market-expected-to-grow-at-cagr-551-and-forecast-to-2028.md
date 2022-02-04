@@ -63,6 +63,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Market data suggests positive returns on C3.ai Inc. (AI)"
+    excerpt: "Let’s start up with the current stock price of C3.ai Inc. (AI), which is $24.74 to be very precise. The Stock rose vividly during the last session to $26.89 after opening rate of $26.72 while the lowest price it went was recorded $25."
+    publishedDateTime: 2022-02-02T20:13:00Z
+    webUrl: "https://investchronicle.com/2022/02/02/market-data-suggests-positive-returns-on-c3-ai-inc-ai/"
+    type: article
+    provider:
+      name: investchronicle
+      domain: investchronicle.com
+    quality: 39
+    images:
+      - url: "https://investchronicle.com/wp-content/uploads/2020/01/17.png"
+        width: 448
+        height: 307
+        isCached: true
   - title: "IoT in Healthcare Market Manufacturing Analysis and Forecasts by 2027 | Reports and Data"
     excerpt: "and the surging need for the adoption of cost-control measures in the healthcare sector. The increasing prevalence of AI (Artificial Intelligence) in the medical industry has revolutionized patient care. In 2018, the global spending on IoT initiatives was ..."
     publishedDateTime: 2022-02-02T10:20:00Z

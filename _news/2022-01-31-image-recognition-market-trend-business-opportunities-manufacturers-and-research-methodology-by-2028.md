@@ -25,45 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "AI Chip Market Top Companies, Business Growth, Investment Opportunities, And Forecast To 2030"
-    excerpt: "The global AI chip market is expected to garner a large revenue by growing at a remarkable CAGR throughout the forecast period, i.e. 2021 – 2030,"
-    publishedDateTime: 2022-01-30T14:34:00Z
-    webUrl: "https://menafn.com/1103613676/AI-Chip-Market-Top-Companies-Business-Growth-Investment-Opportunities-And-Forecast-To-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?430328"
-        width: 268
-        height: 249
-        isCached: true
-  - title: "Multiple cloud-computing investment opportunities"
-    excerpt: "Businesses of every size and sector benefit from the on-going cloud computing revolution. “Potential investment opportunities around the cloud seem endless,” said Christophe Braun, Investment Specialist at Capital Group in Luxembourg,"
-    publishedDateTime: 2022-01-31T20:07:00Z
-    webUrl: "https://delano.lu/article/multiple-cloud-computing-inves"
-    type: article
-    provider:
-      name: Delano
-      domain: delano.lu
-    quality: 24
-    images:
-      - url: "https://assets.paperjam.lu/images/articles/multiple-cloud-computing-inves/0.5/0.5/600/400/467456.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Potential Opportunities Worth ~USD 50 Bn Opening Up for Artificial Intelligence Companies – Exclusive Research Published by MarketsandMarkets™"
-    excerpt: "Currently, businesses have low access to primary intelligence to clarify some unknowns and adjacencies in these opportunity areas – Organizations such as Facebook ... of automation on AI market? Therefore, MarketsandMarkets research and analysis focuses ..."
-    publishedDateTime: 2022-02-02T18:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/potential-opportunities-worth-usd-50-bn-opening-up-for-artificial-intelligence-companies-exclusive-research-published-by-marketsandmarkets"
+  - title: "Automatic Speech Recognition (ASR) Software Market is expected to reach a substantially Growth by 2027"
+    excerpt: "The global Automatic Speech Recognition (ASR) Software market research report forecast to 2028 has been recently published by Reports and Data to help user understand the current market scenario. The report offers a detailed analysis of market size ..."
+    publishedDateTime: 2022-01-31T00:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/automatic-speech-recognition-asr-software-market-is-expected-to-reach-a-substantially-growth-by-2027-2"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 3
+    quality: 23
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-5-600x337.png"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/f7a69d877923f8b2435d63dfc02962bbaf6ce22e-600x337.jpg"
         width: 600
         height: 337
         isCached: true

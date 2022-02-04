@@ -2,19 +2,19 @@
 category: news
 title: "Self-driving tech, AI and more: Millions in defense contract work coming to Hurlburt and Eglin"
 excerpt: "HURLBURT FIELD — A San Diego-based company working on self-driving technology and artificial intelligence for the piloting of military aircraft will work at Hurlburt Field for the next 18 months under a $15 million contract for research and development ..."
-publishedDateTime: 2022-02-04T03:33:00Z
-originalUrl: "https://www.tennessean.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
-webUrl: "https://www.tennessean.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
-ampWebUrl: "https://amp.tennessean.com/amp/9224262002"
-cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/9224262002"
+publishedDateTime: 2022-02-04T06:46:00Z
+originalUrl: "https://www.indystar.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
+webUrl: "https://www.indystar.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
+ampWebUrl: "https://amp.indystar.com/amp/9224262002"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/9224262002"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Tennessean
-  domain: tennessean.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - AI in Autos
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "hloiWSQiRUZM0NYhnCOlzoj3BCDpMwhy/uOtW5D3+BWBKEHjulY/ncX7ZPLLG3+WExL0ojA0RbUHNdbR+fE/DJoc+IOQpuEJgGvzSJEWsdEHvCW3KhB22T1TBRqXV5HkXfGKkRP7CSI00gLFkR51qCYFEVnsZQmHB7gNVzt70v+Z5YUZm3NK0ll2j2jwKLqJQWPCCyrA6R0VlEsAxlh92RpKWSkXY8JV1Jg6ltgqLwP23ECzyIkuBpQ5pR5Jyn1d31ohfcuRknSvkF/E2JWrOU0VHtyv3Ji9aeNUBNB/JQYtSq1PQw7BfTW9P0qsjB/Rn1CltuEwIU3oVbU2GhvlH5VSFQ2PTUw+i88ZWiIKQ+4=;LfAF+PBUFIF0Wf5E58aXHA=="
+secured: "+kfA7LE5+SeLwWmIQJJP66rvBsiYuIfimog28NvWVPkLsyODzTEkck3TdhkbxnaZloxG+yFdDV5+kuZGg22lTjGA5eGDnBRLbXeJDfykif55a1k5dbFvcUzIQ9W4O2AMJSCjwJry6Mh20tOirZPL3jSjB4VJC4bcOymEwFhMLi01+8EOqchevu0LNs3fMHY/ty25Aevolue2v7DasWeTcM3tRAwzbaLkvNXzDRcpeCambBVQvMq0GHvDfDP+Pe0JiPnXHPYIWBXbhVlPP++zwMUejD8aLgaNxBQBKayra7b3HkV0XlHrZWmt6nReJK71URogwVRQjGQczYh50Uj2W/2FWPZi1eY5gwtAJIJ8fmE=;b2BXBDILvoLnCmtbp+HFQA=="
 ---
 

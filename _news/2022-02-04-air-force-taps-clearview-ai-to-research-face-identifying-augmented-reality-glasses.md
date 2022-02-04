@@ -8,7 +8,7 @@ webUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-gl
 ampWebUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
 type: article
-quality: 81
+quality: 83
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://static01.nyt.com/images/2022/02/03/multimedia/03economy-briefing-clearview/03economy-briefing-clearview-facebookJumbo.jpg"

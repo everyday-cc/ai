@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
+    excerpt: "“Since 2008, the government of China has further strengthened its control, and the human rights situation has further deteriorated,” Ai told AP. Here are Connecticut Magazine's experts' picks for the 25 best restaurants that opened since the start of 2020."
+    publishedDateTime: 2022-02-04T05:00:00Z
+    webUrl: "https://www.registercitizen.com/news/article/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
+    ampWebUrl: "https://www.registercitizen.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
+    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
+    type: article
+    provider:
+      name: The Register Citizen
+      domain: registercitizen.com
+    quality: 57
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/70/16/21988228/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Olympics-Chinese women online show more interest in Winter Games"
     excerpt: "BEIJING (Reuters) – Women in China have shown more interest than men in searching online for Winter Olympics-related information, a report by search engine company Baidu showed on Wednesday."
     publishedDateTime: 2022-02-02T06:36:00Z
@@ -46,20 +62,6 @@ related:
       - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportSportsNews/tagreuters.com2022binary_LYNXMPEI1105D-BASEIMAGE.jpg"
         width: 800
         height: 534
-        isCached: true
-  - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
-    excerpt: "BEIJING — When the artist Ai Weiwei was picked to help design Beijing's Bird's Nest stadium for the 2008 Summer Olympics, he hoped the Games and the venue's distinct architecture — the instantly recognizable weave of curving steel beams — would ..."
-    publishedDateTime: 2022-02-04T04:56:00Z
-    webUrl: "https://www.startribune.com/exiled-artist-ai-weiwei-reflects-on-beijing-olympics/600142925/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 37
-    images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1643924422"
-        width: 1680
-        height: 876
         isCached: true
 
 secured: "R69TKVAzMZAO7XITrPFmfvbFaHN+bAdrn/NL9B9GzWBzVrHkBCcXp2pqay7aA4gwc+k05n/7gwy7AeFabe26DP5SWNxKTMPkj+RWufjuYuA7Eyw13dNn1gx1/Q47hD0/vyr2SC/hduTr71Qg9lpkfeNF1TUQY6hAmnDbblxhqLbpyPEYku1s11ZkaINHj6qW6dfl1tWOB+Pk/8wkZUyB7/bNXMeUFFIcdBuFB+ANdvx4SWLR/5Iikj/psp2dFmJIzMdhf7ZXqE2G5F5rv5i1j3NwztkpcBRT4V2XiHYsNoVaNlET6KgSvOc1/h7ZQ1azukdElPbs4JXnbhBjZXVlgD26BQLGb3fkuK+1VxudHjkLDEwIIeEzuxaZV/RMec2Kum7AbBKU/ZfVPS3HKpoGhAOjIbUN78fhtNa4PjZJo+qqX2ZxV/RKm3aKs5p9qzIt29IZCEWGVOVCibm32MTziYVoLKa/n7k335SBliCpwZZdpUfRPQ3G+rYwlF56I/j2FsQOj/aR4qBL0gvD0QEZjA==;x7XiAa67udzFj5lke2CPkw=="
