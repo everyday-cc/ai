@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "owkinscience"
   url: "https://www.twitter.com/owkinscience"
-  followers: 2599
+  followers: 2598
 
 size: 51-200 employees
 yearFounded: 2016
@@ -31,7 +31,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1410935554968109057/owN6vUa8_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1489569105858506753/15Bj3Lfx_400x400.jpg"
     width: 400
     height: 400
     isCached: true
