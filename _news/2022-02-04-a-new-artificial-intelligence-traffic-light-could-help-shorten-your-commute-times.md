@@ -106,20 +106,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "How AI and Construction Robots are Transforming Construction Sector"
-    excerpt: "The fundamental benefit of deploying construction robots is that they reduce time, improve accuracy, and productivity, resulting in larger monetary"
-    publishedDateTime: 2022-01-31T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/how-ai-and-construction-robots-are-transforming-construction-sector-nid-9157.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/7pi9f450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "Artificial Intelligence in Predicting Web Traffic Spikes"
     excerpt: "Machine Learning, specifically Artificial Intelligence, is great at analyzing information to either deduce patterns or classify information into predetermined categories. As ever, data is key ..."
     publishedDateTime: 2022-02-03T23:27:00Z

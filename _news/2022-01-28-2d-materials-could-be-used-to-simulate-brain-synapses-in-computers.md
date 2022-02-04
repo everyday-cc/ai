@@ -1,26 +1,24 @@
 ---
 category: news
-title: "2D materials could be used to simulate brain synapses in computers"
-excerpt: "a component that acts as a sort of synaptic cell in an artificial neural network, says KTH Associate Professor Max Hamedi. “Instead of transistors that are either on or off, and the need for ..."
-publishedDateTime: 2022-01-28T14:19:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/941619"
-webUrl: "https://www.eurekalert.org/news-releases/941619"
+title: "2D Materials could be used to simulate brain synapses in computers"
+excerpt: "a component that acts as a sort of synaptic cell in an artificial neural network, says KTH Associate Professor Max Hamedi. \"Instead of transistors that are either on or off, and the need for ..."
+publishedDateTime: 2022-01-28T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/01/220128100738.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/01/220128100738.htm"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/afffba6f-8de4-4945-867a-eb29faad54f1/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 300
-    isCached: true
-
-secured: "iNsL6T6PqZ+CVD2sEqv8oiRBuswBOS4nE4Vp84ElUeI8Od/cWWJEVugX2SNOEUeAWmsXWxn0Kl7TLbFeLilG+2w6Os/e5a85ghLzO/RRt9MaUYTAzKsbJJC8NNhGsVoqQuIjA2co6fuot/PyhQreZa7ylUcyZ17oKEAJordFFXVGnPa3mZsWgLcVbXa/H22+9eklwNEhUvH48UgtSp18D5SMAMUnOlHRu5VZyN6hpnTZDCzS+Pw7fjKbQJjY/uqFMr1RTBAmPoTC9OTaujrwKOhaQhbfo2wiu12fiLdmR2EdiSxYY1SN5qRGXM92jCKkVuBfqXlMIqhSpZIkJ80BnErgF2AonCau6jrqOiq4w9M=;zKut5AAJAVl5DD7d+8yasQ=="
+secured: "EK2UXcKpuTJSUXfzOvjjnKCU2IEEYkLflXgmn6WRkk2Bj+YBaXwCdVdlkUuSDr8po+0Id2IFyZt11dK4O/PjjO2PephW5X9DihIqlbN24l3Z5eucoOGEvVi89t8doTkflBA4Q386Cocap6tCmftyh/VPA7h0sTonRDGA1OGZHs+f4qIrUGd7Me4Al3klbhBWithsFWH6yWGjVLGMf8NkeaeJSdbMjEuVrJVN6R1NsgpwxbTqm2TpagcILfSOewppb3KU2Z1OEGlLz+BKLJgl0jkFuvLRU99OdiLrpFgAwpY6TX7HMln0U78bb4pIl0ReikItu6hAZyh30tQng4c+LltT7Rthfz+vD6JSzWmUZ88=;hT6+8h5cVehoZ95zDxZ7DQ=="
 ---
 

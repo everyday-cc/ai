@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Atmos by CallCabinet now supports SA English within its analytics engine"
-    excerpt: "Every conversation is analysed through AI-driven natural language processing to deliver a critical and evolving understanding of call emotion and sentiment. Atmos is uniquely positioned to fill every compliance gap, capturing and archiving essential ..."
-    publishedDateTime: 2022-02-03T06:52:00Z
-    webUrl: "https://www.itweb.co.za/content/j5alrvQadkgvpYQk"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/j5alrvQadkgvpYQk"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/j5alrvQadkgvpYQk"
+  - title: "Transforming Modern Medical Devices with Machine Learning & AI Inference"
+    excerpt: "The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive, manufacturing, retail, and logistics, in the form of machine learning (ML) based approaches to tough problems such as ..."
+    publishedDateTime: 2022-02-03T00:01:00Z
+    webUrl: "https://www.designnews.com/industry/transforming-modern-medical-devices-machine-learning-ai-inference"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 43
+      name: Design News
+      domain: designnews.com
+    quality: 53
     images:
-      - url: "https://lh3.googleusercontent.com/tMgvUn1UVWpuvleZAfmoZJPnv8g3_UZv-cpBZMKpnBwJrS3CAj1JRsXv7be-9DRIBRO2VS4SYZvdu2GwTNiAaXstuOS5mG-Dwgg=w816-h428"
-        width: 814
-        height: 428
-        isCached: true
-  - title: "Building a Smarter Government with Data, Analytics and Machine Learning in the Cloud"
-    excerpt: "Download this whitepaper to learn how agencies use Databricks and AWS to modernize their approach to data and gain insights that only machine learning can deliver."
-    publishedDateTime: 2022-02-01T22:42:00Z
-    webUrl: "https://fcw.com/assets/building-smarter-government-data-analytics-and-machine-learning-cloud/portal/?oref=fcw-river2"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 32
-    images:
-      - url: "https://cdn.fcw.com/media/screen_shot_2022-01-18_at_3.03.12_pm.png"
-        width: 764
-        height: 927
+      - url: "https://www.designnews.com/sites/designnews.com/files/X1P1_web.jpeg"
+        width: 770
+        height: 400
         isCached: true
 
 secured: "Ie32cioNmzwNRxKCIaDnzxhRn9ro8971qpCDwfbrWdmOELEc6HXaTghYVXp6XPfj+Ps61Ut3DRTWBSaH+XduvFgiCsJqJkRPe/J1R7pt5d1DN7oResmIUK0hUaXkywvhnNzZE6q7WhS43Be1POjurUQ2IUOkOgA8XW4aZaXmYYuPyP6Yu6lHf7yvdTaBV6hurqSqhvK7RwQrmFl58LXIbgG26SiuR2128lpoQuVpk1CPtL+SxFuYKjkEdkKarUlCw/P2ZFAWnL8TN/WJO4F9ZQ9thZS/j9Ubhxch/IsG1NbvvWko+mxa8QCIE0JWVaJU+2Uxo1ml7kBnVmfQ183YBYYcip6QqTW6b1IbIEAWh20=;TFvv6MkBhEbWcNm7WcCzlg=="

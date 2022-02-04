@@ -41,20 +41,6 @@ related:
         width: 814
         height: 428
         isCached: true
-  - title: "CLARA Analytics Takes On Escalating Commercial Auto Claims With Its AI-Driven Litigation Avoidance Engine"
-    excerpt: "As commercial auto losses continue to climb, CLARA Analytics (“CLARA”), the leading provider of artificial intelligence (AI) technology in the commercial insurance industry, releases its latest Litigation for Commercial Auto,"
-    publishedDateTime: 2022-02-02T14:32:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-insurance-industry-8fb22a7086604ac0906a0f320b928c14"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "9+MbOoE8dbDRcx+yHn2Zo35aA/Rf3cPJq/aB1ADoAkVrfHFrUBgm5pWa79N6pYbk8USqoeYctCeswQlk+gVHHlh5sDrh+JcDDaPFBlJzHsrvXhCgHoUYSTJoqWyAzCpE81VTv3iMfK6c3ltEz9aFVdFq0ptPmdYqaUCHIQS0h8I57YbxGkrktjkWsX8YRlMo/f6q069MDLggVVkOVv31xH0aCjcWBaq9JMc354OnsgGybwuGSM26V0KlAgWEgIgmb9HCWriBmRTCS+dBze9XfqmTALZhGn1GaAGnhegiAnsUWEVo446ce7Ed6jtwkf2116RiHqcH8Yvp/lS3XxyC+/xZbKViPs4dYD19ZHVt+bfco4dZUgjK+GowFBq9w22faNTyC5KmevmdODLi7mMYC7PeJKpbKUhvlXmJ2oGv6g7mIoQV9pELWhb1QKiBie0gInYKqIyuORst9d13pO9E/tO+4VmggR0L9PsJ1VaP+ScoJRXZ83goHwmIWWuUWMxx0+wUf5CPnGKXqTpxeSaybQ==;cDJlC4b4AouvV1LH1BA1eA=="
 ---

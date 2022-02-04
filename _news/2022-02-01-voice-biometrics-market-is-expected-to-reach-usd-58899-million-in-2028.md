@@ -67,20 +67,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Automatic Speech Recognition (ASR) Software Market is expected to reach a substantially Growth by 2027"
-    excerpt: "The global Automatic Speech Recognition (ASR) Software market research report forecast to 2028 has been recently published by Reports and Data to help user understand the current market scenario. The report offers a detailed analysis of market size ..."
-    publishedDateTime: 2022-01-31T00:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/automatic-speech-recognition-asr-software-market-is-expected-to-reach-a-substantially-growth-by-2027-2"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/f7a69d877923f8b2435d63dfc02962bbaf6ce22e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "(AI) Artificial Intelligence in Drug Discovery Market to Rise at 33.9% CAGR, to Reach USD 5,558.0 Million by 2029: Polaris Market Research"
     excerpt: "By offering, the software division has the largest market share. The two of the most popular AI platforms are Google AI and Microsoft Azure. By technology, machine learning involves a gamut of techniques that can assist people in making better decisions as ..."
     publishedDateTime: 2022-02-03T23:04:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Yext Maintains Leadership in Enterprise Search Category with Recognition in G2 and SoftwareReviews Industry Reports"
 excerpt: "The company's hallmark Answers solution, for example, applies advanced natural language processing (NLP) to understand and answer complex questions asked on business websites, help centers, intranets, and more. For the fifth consecutive quarter ..."
-publishedDateTime: 2022-02-03T12:11:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/yext-maintains-leadership-in-enterprise-search-category-with-recognition-in-g2-and-softwarereviews-industry-reports/article_75b4db28-7aee-57de-8a3f-8990a29c7a1d.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/yext-maintains-leadership-in-enterprise-search-category-with-recognition-in-g2-and-softwarereviews-industry-reports/article_75b4db28-7aee-57de-8a3f-8990a29c7a1d.html"
+publishedDateTime: 2022-02-03T12:31:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/yext-maintains-leadership-in-enterprise-search-category-with-recognition-in-g2-and-softwarereviews-industry-reports/article_75b4db28-7aee-57de-8a3f-8990a29c7a1d.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/yext-maintains-leadership-in-enterprise-search-category-with-recognition-in-g2-and-softwarereviews-industry-reports/article_75b4db28-7aee-57de-8a3f-8990a29c7a1d.html"
 type: article
 quality: 17
 heat: 17
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Xrf+l7Treg19QefJvIVIf4j5UgTrgDCWtusEoqt3UZvOu9tEm4TKomX/t+29grRDWM4/O/0PeDP4K253oQa8CoDq3b+hsg+fpt8TljvztpWZaeaQIcg7rdfDBK8Vp1+X+F+Mda0jj0VUOL/TnpZpiUKMZoR8qDss/ahpTH82WZ1UFuNPqU1Edw0CuQ0qT1F6IejLD/w7dzH+N4YKtb4Dbq/U2jiCtApfkEF3XgCgx++6Nbq+T6yxfBkoLTwNZsz/6E8z1kLgaJvjaETZU3ojy4LS5lGoRyAiAZH9tVkBlMiF/3U5FeuDhs9QfNbbnvOqy6eSoGKHxCdhZOxQQKta9pWYTRL4unldsCtE1ni8lsnMx2pcJY9vA+PLMaE+NdqEQKpzq6uIaxMgm4D8qO1lKfWlIuBGxEDa7hMcXw9hH8ntQ0PikCuvYPsj3HWG5md7oawb0ZXE7lXhMH3AWMAgJkP2whGW6KC5jZxDDUGq6B9GvYM5amIbGOoYrUBhKaYe2enK+tFNbETIszdlE3VmDg==;RTUAIUthStRDdMxiK0/t1Q=="
+secured: "X5f1Dqrtaw/JX4n1YzATtjVZA+szO71bVmlTQbAgt1LzV1j0Mmqskf3Wc5aRCXq0Lqa929jpXF7IHJ1NY9oInDQiszcnGAMJbEwtXg4s+5XOrmTgEOTPILk6TE2bSdUOGa16ioJGovrJx05pqhh4cDYwS+ThAewr4q/tazHvBm8KAPAFed/D10mCnck0nqDgBC/Nc/ZlxSKgxFPuTivEzwpcWI7j9JstVkT+mk35BNsjuUgUD0KdA44UeX4XSqYDUPOB8DwBQzOmCpbpR7iPuDKvV/d/tn27j6VJKEkzPgDKlrounNF6D2SFecqWK2guMXSa1rHo1OeZJRJR+JGAnmPNzmlmVAR/x5Pa8fWMQS8=;SX2nRO6FBFnOY2Uyle5EZA=="
 ---
 

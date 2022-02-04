@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp"
 type: article
 quality: 76
-heat: 86
+heat: 87
 published: true
 
 provider:

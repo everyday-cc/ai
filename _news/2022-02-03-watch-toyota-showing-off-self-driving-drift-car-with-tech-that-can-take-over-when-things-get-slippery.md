@@ -75,17 +75,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "FOCUS-Self-driving car companies zoom ahead, leaving U.S. regulators behind"
-    excerpt: "Self-driving vehicle companies from Tesla Inc to General Motors Co's Cruise are racing to start making money with their technology, outrunning efforts by regulators and Congress to write rules of the road for robot-driven vehicles."
-    publishedDateTime: 2022-02-02T06:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind"
-    ampWebUrl: "https://www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 52
   - title: "NEWS TAGGED SELF-DRIVING CAR"
     excerpt: "Mercedes-Benz recently announced its Level 3 self-driving system Drive Pilot has been approved by the German Federal Motor Transport Authority (KBA) and can now operate on roads i"
     publishedDateTime: 2022-02-03T09:17:00Z

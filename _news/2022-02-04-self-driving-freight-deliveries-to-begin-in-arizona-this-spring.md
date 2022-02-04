@@ -69,17 +69,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "FOCUS-Self-driving car companies zoom ahead, leaving U.S. regulators behind"
-    excerpt: "Self-driving vehicle companies from Tesla Inc to General Motors Co's Cruise are racing to start making money with their technology, outrunning efforts by regulators and Congress to write rules of the road for robot-driven vehicles."
-    publishedDateTime: 2022-02-02T06:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind"
-    ampWebUrl: "https://www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 52
   - title: "Watch Toyota showing off self-driving drift car with tech that can take over when things get slippery"
     excerpt: "THE TECHNOLOGY behind a new self-driving drift car from Toyota is being hailed as an important safety breakthrough for road cars Using a Toyota GR Supra as a base car, the Toyota Research Institute (TRI), a US-based R&D arm of the Japanese car-maker ..."
     publishedDateTime: 2022-02-03T14:20:00Z

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Ai Weiwei helped design Beijing's Olympic stadium. But he regrets how it's being used today"
-excerpt: "Christiane Amanpour's interview with Ai Weiwei airs Friday 1pm ET. See more here. As the Beijing Winter Olympics gets underway, artist Ai Weiwei is once again criticizing China's ruling Communist Party -- and the International Olympic Committee (IOC ..."
+excerpt: "The IOC, meanwhile, did not respond directly to Ai's accusations, but said in a statement to CNN that it \"recognizes and upholds human rights,\" which are \"enshrined\" in both the Olympic Charter and the organization's code of ethics. \"Given the diverse ..."
 publishedDateTime: 2022-02-04T11:58:00Z
 originalUrl: "https://www.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html"
 webUrl: "https://www.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html"
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "http://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-super-tease.jpg"
@@ -30,6 +30,6 @@ images:
     height: 619
     isCached: true
 
-secured: "ECd563d0aI7Pg61B7AdU1y38STRm3DyYPYRT/y1snFNM36forUSiDHzkm0O6CWJgSc3aH5jrNPRJp0wT0nDiJJY0mSqGPLA+npRIHKfGlAYHnmoH2Movl88tQo6eTmPReMukUEvV5Z0ihPgUbSHeKxguPO7f7JB6XDu3MN4jkjPL1JTQFRQpHw/hAGtcSVdv7vU041Y3jf7bsvCpdY/mGPP+bd+z573k2U9gB4zCpvfeBK43Avj/26Lzdm+YqBXTZEdVb5h/AAV7WnUvwEMLh6jnoeZl2L1DYOSBVAKhRbgWKWQRoK6vGNzTBhFll7zLsTGKZUl5HVH6/ExG+QyW0eK8ykoKIOmPQlHSXsBLXWeXRJLdzIxZeYuYVCMfuGO8Vlqkr9U/9V48IbqQMEUsnJYTOoN+ysNepuSkGfpAsl9oE8DW/ZPsBLENUUbo+A68gV/fODG+ebi+CvY2EBPPo8rHPzFidl88z8OAfp7DLb6yR/kjlwNa7l9TcSRqHfiH1HfTjou3REHrfcMhC2F3xg==;ECDwysJrLJX+T5dw0gup0w=="
+secured: "R2jVk5OHROdFq806zfkoVE3mA5ZF7jCBCpiTdSN5gqWFs51Ny/WfZ4phmkUpx90sHHA2QivQjYzzIkUi993InOOoNip1p7Mkh4ryzRBhHX0YaZLA64TL8q9pdF80ARMzkPiZKNz0UiUnCTOnqlJ6AQXjwleuQUWnYfUzcVveZ9GTNGrrulZ0SXAG5qcK0UT5qo6LVExZLOFXKhg9CKsu/W4dS0AKI46g5sFnyoZESekofOVrmn/K0JkbwLnA+lz8ICjn10fJda3r1wZdM6t0RQpjebYiKYDCfTHoxkmf63MJwsDf0ZUc42fpjs8aD5/5dYYwVPaTo7iwazm9+Ky78/YcNy2Hz2HEoBmk5EyEs3A=;5wXk2xk31MYau/g9x1z56Q=="
 ---
 

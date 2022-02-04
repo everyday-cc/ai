@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-to-report-q4-earnings%3A
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-to-report-q4-earnings%3A-whats-in-the-cards?amp"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,19 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "Amazon (AMZN) Q4 Earnings Crush Estimates, Sales Rise Y/Y"
+    excerpt: "AWS introduced six capabilities for Amazon SageMaker, namely Canvas, Ground Truth Plus, Studio, Training Compiler, Inference Recommender and Serverless Inference. The company unveiled a managed wide area network (WAN) service, namely AWS Cloud WAN ..."
+    publishedDateTime: 2022-02-04T16:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-q4-earnings-crush-estimates-sales-rise-y-y"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-q4-earnings-crush-estimates-sales-rise-y-y?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-q4-earnings-crush-estimates-sales-rise-y-y?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 71
 
 secured: "khvHh1Ob07SK1d+n0yVKt/w7sABvdhNjHvglvS3DnwgWIbWsH31EAlVtJgNGnUL3jnQlzU9kCu6w2txoZQQw/4chxYz8XWtjQViMUFbZOjAmt3O/mWVC614Mj1djWHlnlMXdfh4GBdzXYD4zJ0Q96ofa5n7pUG7WTpsFm5HwDShU+3KJs90EQFnmCdJHf/4FrPKkwTn2D1LTSxNnWs8L4xcy5ZNttYUS0vYrbimrlMdVP5I6VyLBl3tIPx1glvw1EAYGbdZhtVrIT5hSd13cuti0ZnIFgWyNkUexVB6WVxxSwLPKa1Rp+Fvlwi3TJFhnC3qOJYU2LB3l4vHlPmWV+xILH0GYx6LWpsCkvA8ejAI=;JpE85dQBc0OXS0aN5DTBJg=="
 ---

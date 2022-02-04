@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/good-thinking/artificially-intelligent-traffic-
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true"
 type: article
 quality: 187
-heat: 257
+heat: 247
 published: true
 
 provider:
@@ -93,20 +93,6 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/children-eating-road-food.jpg"
         width: 1200
         height: 1000
-        isCached: true
-  - title: "How AI and Construction Robots are Transforming Construction Sector"
-    excerpt: "The fundamental benefit of deploying construction robots is that they reduce time, improve accuracy, and productivity, resulting in larger monetary"
-    publishedDateTime: 2022-01-31T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/how-ai-and-construction-robots-are-transforming-construction-sector-nid-9157.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/7pi9f450308.jpg"
-        width: 450
-        height: 308
         isCached: true
   - title: "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times"
     excerpt: "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights."

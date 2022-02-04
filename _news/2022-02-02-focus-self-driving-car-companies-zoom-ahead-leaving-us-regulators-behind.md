@@ -21,104 +21,61 @@ topics:
   - AI
 
 related:
-  - title: "Watch Toyota’s outrageous self-driving Supra drift car go sideways"
-    excerpt: "As the automotive community awaits the dawn of a fully autonomous, self-driving car, the Toyota Research Institute (TRI) has other things in mind. Care for a self-drifting vehicle, specifically a new Supra with Toyota’s Nonlinear Model Predictive Control ..."
-    publishedDateTime: 2022-02-03T14:35:00Z
-    webUrl: "https://www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/"
-    ampWebUrl: "https://www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/amp/"
+  - title: "Strict Literal Interpretation Is A Hardheaded Drawback Of Machine Learning And Likewise Bad For AI Self-Driving Cars"
+    excerpt: "Au contraire, mon ami (on the contrary, my friends)! Here’s the deal. Let’s discuss self-driving cars (for my ongoing and extensive coverage of Autonomous Vehicles or AVs, including self-driving cars, see the link here). The advent of today’s self ..."
+    publishedDateTime: 2022-02-04T16:33:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/02/Screenshot-16.v1.cropped.jpg"
-        width: 1440
-        height: 589
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60a9c53023e63ae0ae36aeb8/0x0.jpg?format=jpg&crop=4362,2454,x0,y41,safe&fit=crop"
+        width: 4362
+        height: 2454
         isCached: true
-  - title: "My Big Fat Self-Driving Road Trip"
-    excerpt: "Many cars now offer some version of driving assistance, but most manufacturers’ self-driving systems, even Tesla’s Autopilot, requires the humans sitting in the driver’s seats to keep their hands on the steering wheel while the car is piloting itself."
-    publishedDateTime: 2022-02-04T10:25:00Z
-    webUrl: "https://www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.html"
-    ampWebUrl: "https://www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.amp.html"
+  - title: "Emergence of Self-Driving Cars Drives the Growth in Machine Learning Market"
+    excerpt: "An essential component of centralized electronic control unit or ECU of a driverless car, machine learning technological solutions are expected to witness substantial demand in coming years. The solutions in the global machine learning market are anticipated to experience heightened demand owing to their application in self-driving cars."
+    publishedDateTime: 2022-02-02T09:19:00Z
+    webUrl: "https://techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/"
+    ampWebUrl: "https://techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/amp/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
     images:
-      - url: "https://static01.nyt.com/images/2022/02/04/opinion/04manjoo1/04manjoo1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://techbullion.com/wp-content/uploads/2022/02/Machine-Learning-Market.jpeg"
+        width: 1728
+        height: 1094
         isCached: true
-  - title: "Toyota built an autonomous self-drifting sports car"
-    excerpt: "The automaker has built a Supra sports car with the capability of performing drift racing-style driving on a track. The project is a collaboration between the Toyota Research Institute and Stanford University's Dynamic Design Lab, which has previously ..."
-    publishedDateTime: 2022-02-03T18:20:00Z
-    webUrl: "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car"
-    ampWebUrl: "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp"
+  - title: "The brain’s secret to life-long learning can now come as hardware for artificial intelligence"
+    excerpt: "Purdue University. (2022, February 3). The brain’s secret to life-long learning can now come as hardware for artificial intelligence. ScienceDaily. Retrieved February 3, 2022 from www.sciencedaily.com/releases/2022/02/220203160544.htm Purdue University."
+    publishedDateTime: 2022-02-03T21:52:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/02/220203160544.htm"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 74
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/02/720/405/supra.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Watch Toyota showing off self-driving drift car with tech that can take over when things get slippery"
-    excerpt: "THE TECHNOLOGY behind a new self-driving drift car from Toyota is being hailed as an important safety breakthrough for road cars Using a Toyota GR Supra as a base car, the Toyota Research Institute (TRI), a US-based R&D arm of the Japanese car-maker ..."
-    publishedDateTime: 2022-02-03T14:20:00Z
-    webUrl: "https://www.driving.co.uk/video/watch-toyota-showing-off-self-driving-drift-car-with-tech-that-can-take-over-when-things-get-slippery/"
-    ampWebUrl: "https://www.driving.co.uk/video/watch-toyota-showing-off-self-driving-drift-car-with-tech-that-can-take-over-when-things-get-slippery/amp/"
-    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/video/watch-toyota-showing-off-self-driving-drift-car-with-tech-that-can-take-over-when-things-get-slippery/amp/"
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 53
+  - title: "How We Get Self-Driving Back on Track in 2022"
+    excerpt: "The AV industry has some of the smartest people in the world tirelessly working to make the dream of commercial self-driving cars a reality. We also have the funding to get there, and we all understand the immense positive societal impact this technology will have."
+    publishedDateTime: 2022-01-31T19:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-we-get-self-driving-back-track-2022-raquel-urtasun"
     type: article
     provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 29
-    images:
-      - url: "https://i.ytimg.com/vi/MfU5_gzqPaM/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "NEWS TAGGED SELF-DRIVING CAR"
-    excerpt: "Mercedes-Benz recently announced its Level 3 self-driving system Drive Pilot has been approved by the German Federal Motor Transport Authority (KBA) and can now operate on roads i"
-    publishedDateTime: 2022-02-03T09:17:00Z
-    webUrl: "https://www.digitimes.com/tag/self-driving_car/00111368.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
+      name: LinkedIn
+      domain: linkedin.com
     quality: 24
     images:
-      - url: "https://ad.digitimes.com.tw/webadImg/en_20220119_semiconductor_bigbutton.jpg"
-        width: 336
-        height: 280
+      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
+        width: 1400
+        height: 800
         isCached: true
-  - title: "Self-Driving Freight Deliveries to Begin in Arizona This Spring"
-    excerpt: "These driver-out demonstrations aim to prove that TuSimple's artificial intelligence autonomous driving technology ... in a statement. In the self-driving technology world, there are five levels of autonomy. At Level 4, no human is required to be in ..."
-    publishedDateTime: 2022-02-03T21:26:00Z
-    webUrl: "https://www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring"
-    ampWebUrl: "https://www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 24
-  - title: "Watch this self-driving car by Toyota that can drift all on its own"
-    excerpt: "The TRI states that the objective of its work is to make autonomous vehicles more capable, and therefore safer, in scenarios such as driving on black ice or avoiding sudden obstacles. \"At TRI, our goal is to use advanced technologies that augment and ..."
-    publishedDateTime: 2022-02-04T10:22:00Z
-    webUrl: "https://www.tweaktown.com/news/84400/watch-this-self-driving-car-by-toyota-that-can-drift-all-on-its-own/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 4
 
 secured: "Kwyy7RMZX9lSTWB3mO8JrE+2Fbujtf4zx5YHFlcn/p/pAlqauh7FWh+sZH8/tIYm2cZ/Jp3FQFrZcKR8hwUv5G5Rve+kbvqtuSMfa2IWonWCOpq7HfZrvtIhngY97p341ETwFDmlEaoavVfElaFxx72oELJFZB/HdMHfqhpORWELthav4QxpXVPZ90m7V4cdlXjIPWtLZ8OIs5kN1UqYLiFv3R+t+AT7ImGV8XJSlOAw7Y+jcFjZv6sBKkoURbJrl/FIY83xFjQw8glcGyK/nzkleD1w2yylDvg32egR3p/618Z7vHdXHmBhW3rMrHlF7aU2KxYcH9uWEpNFbo32kfDOfKxuvva+5bAsKEr4OXTk/a4XmhfLTMzEezWmSyVFx55ergfQrzX42WnFB3ADDysdBJHFafpJ2GUqKQPUSb93lsdKPOnA4hZ7sKQiCtBSYoDc8uXb3dOioCYxIJrB/Yt/PRn1FQBcHnr9TPQE3oWerHJOe40/3BBg8GNjvR64xIpno+toG2T+WlJDg5vPzg==;wk4lvo/KvLhqz5p4O8pv6w=="
 ---

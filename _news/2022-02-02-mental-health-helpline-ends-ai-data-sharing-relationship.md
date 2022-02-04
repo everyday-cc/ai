@@ -3,16 +3,20 @@ category: news
 title: "Mental health helpline ends AI data-sharing relationship"
 excerpt: "A mental health text helpline will no longer share data with an AI customer support business, after criticism of their relationship. Loris.ai used anonymised data from Crisis Text Line (CTL) to develop AI systems to help customer service agents understand sentiment in chats."
 publishedDateTime: 2022-02-02T14:12:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-60218894?pinned_post_locator=urn:bbc:cps:curie:asset:5826734b-3834-465d-96a2-a87bb4f9d403&pinned_post_asset_id=60218894&pinned_post_type=share"
-webUrl: "https://www.bbc.co.uk/news/technology-60218894?pinned_post_locator=urn:bbc:cps:curie:asset:5826734b-3834-465d-96a2-a87bb4f9d403&pinned_post_asset_id=60218894&pinned_post_type=share"
+originalUrl: "https://www.bbc.com/news/technology-60218894?via=indexdotco"
+webUrl: "https://www.bbc.com/news/technology-60218894?via=indexdotco"
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -73,6 +77,6 @@ related:
         height: 933
         isCached: true
 
-secured: "BvbcuzjySxJIZRT+y7Z/27/Gq6eVYRcMGJ0RFomtrIbCp+JtUCp8QSicMrwJJluY7gEXm4/SrtZGd3s6fW3juAkpBc9GuVni6zFUvHyYXe900id4mbnu4yGpHGm7Kgos81IJ5xfYdQX1Z61Md/wHB0P3+YZaPp29vY1WkK+3UFGEho/OupUCHgAoci6Fp0P7fz6hyZRj8bpJuI0hCNqm6GCz4LIPxoaG5mdmtJ/PVH2Fdi81A6xsmfPkmvIl6J24atTVCGbsXT/ruJtNExyty82ysGFwv4Suzb4Hcg221T7d644Bp3rlS7o/iw3kRt0sWuW3BVhggE2myICgFYCGTgZNck2j5lHkBSXJKvoj3/2Sadc96VhX1A3EwvGxTkJLmh9G2cHJ8W3M+u54CaI8kTbC27JXgmCwoqW3g0Psk/gvQ55ZXecF+LBCjudFd92JSHOU5wgYS1X0zGlVLBjY8WBJhJ4YlSjRo94FDDYmlQzL77biV8QSOTx8c/0GuUdP1c1xfmbvRpbHRBKt0RM7pQ==;BJQtPdzkLRlBeMqcoXEQCg=="
+secured: "Xt+FpSqJyuo5Tl11kZ8WGvJbKWuIg3GSm6Hwlit75nVaiKBUq1N4Gejmc9//1fL9j6ReCRgagcTOJHuyRiJg3ljDB+zu5+x7+5W4u4V9f8yjIwcm2aHjBD3naVqb8nDfDCGci1j+mGhOQxOz5F6pnsgSSNODTvjiYqEZPhJJ4KfTUIrteXm/Puh45vkYfOdEjCfeS4c+/tgY3hYLcl+m350ksbhr/abQwX5srVK2N5a93t9OMLd2QyDpINZzave3bV4l69RxDWet3kUjVk6+8n0yP+aTnAjFpBFfBB+iwAIOqgZ6ZFtdyvwqamgmcZkxXUSqnB6pYaM0lXuQIhP9E/E0oCM7VL6QsCHWeEorZ24=;HO5hNubGjfa4VLptKPT+LQ=="
 ---
 

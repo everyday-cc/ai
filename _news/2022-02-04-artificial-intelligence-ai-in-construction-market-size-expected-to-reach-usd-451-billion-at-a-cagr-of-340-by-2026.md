@@ -54,20 +54,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Automatic Speech Recognition (ASR) Software Market is expected to reach a substantially Growth by 2027"
-    excerpt: "The global Automatic Speech Recognition (ASR) Software market research report forecast to 2028 has been recently published by Reports and Data to help user understand the current market scenario. The report offers a detailed analysis of market size ..."
-    publishedDateTime: 2022-01-31T00:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/automatic-speech-recognition-asr-software-market-is-expected-to-reach-a-substantially-growth-by-2027-2"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/f7a69d877923f8b2435d63dfc02962bbaf6ce22e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Voice Biometrics Market is Expected to Reach USD 5,889.9 Million in 2028"
     excerpt: "Various social networking sites including Facebook, Twitter, LinkedIn, and others are striving persistently to develop advanced speech recognition so that the voice input taken through speech recognition facilities can also be implemented as a voice ..."
     publishedDateTime: 2022-02-01T14:20:00Z
