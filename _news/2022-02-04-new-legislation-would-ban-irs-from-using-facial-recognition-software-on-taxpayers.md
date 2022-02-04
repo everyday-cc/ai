@@ -211,6 +211,34 @@ related:
         width: 1199
         height: 777
         isCached: true
+  - title: "GOP lawmakers move to stop IRS facial recognition technology"
+    excerpt: "Republicans in Congress are raising concerns about the Internal Revenue Service’s move to use facial recognition technology to authenticate taxpayers before they can access their online accounts, introducing a bill that would ban the practice. The IRS ..."
+    publishedDateTime: 2022-02-04T21:06:00Z
+    webUrl: "https://www.accountingtoday.com/news/gop-lawmakers-move-to-stop-irs-facial-recognition-technology"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/a4b6c57/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2b%2F95%2F021b51a74a8f93d36ab8e268ad75%2Firs-building-spotlight.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IRS facial recognition plan gets fierce blowback from bipartisan senators"
+    excerpt: "In the wake of a controversial plan by the Internal Revenue Service to implement third-party services that rely on facial recognition, bipartisan senators on Thursday demanded that the IRS “immediately discontinue” any programs that collect ..."
+    publishedDateTime: 2022-02-04T21:00:00Z
+    webUrl: "https://www.fastcompany.com/90719029/irs-facial-recognition-plan-gets-fierce-blowback-from-bipartisan-senators"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 38
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-IRS-facial-recognition-plan-gets-blowback-from-bipartisan-senators.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "IRS to start using facial recognition technology for online account access"
     excerpt: "Starting in summer 2022, the Internal Revenue Service will start asking taxpayers to use facial recognition technology to access their online accounts."
     publishedDateTime: 2022-02-02T13:08:00Z
@@ -282,6 +310,6 @@ related:
         height: 554
         isCached: true
 
-secured: "Bjs0XLb6+pDsuOhgHEXzYdOu4MTtZQ4lsDzCmfQj/2fcJ0XvuQ/pUfxLIQEs+10S69w+ZaR9rSXAGZboAc9HFibyn+YNCpvMP/h+HKHl6zXwpLbT2rqRurx0bt+F8UiXnUzf+LtnnZ5shuD0oqG3ixZ2sLiPlJ2O9wesn2PS+3Iq2ToHxCS4ZcTruKTeKrm+0n4tFFOOihVAshE22IAizE92BoWkODkp4zGKXGHkhrb3vzK5tcc+cTND1+Brt16Tq6as64FNLHxgjKzW+eP/VFTWf+0GAcq5tGd1OQgwyo18nCbLMrfgxLCJsfTQdL5zpTowoHX9HSI2T4bKbBVCpksB0Je4bKQnyIvp/9xyXmI=;JhVjJh4qj2RwpcmxRbjtEA=="
+secured: "Cjcx4RsZrWCu6w6mK/ej7zLl2P3NZJqI3jEVrf/taF+1qB/QfnK4Mqi/8wRSVfdmyFqwTZ0Fr2oF7/jaMmfuRt7aYIehy/7NOwsRDrpMRNbC/i8CIsuNL6TbLPLKVHmGiQvK2i/ltvarsLujXCnYc9qXTqKI6GPS5b5JT7HghdUi8DY0g3vZKK/0yVwpBeLM8a/FWbrncZPUiD6wXyzHPlnyiEu1lV31IWmqC5Y+4aEDZXX4GmJL8ewm4cSXJCvDeuCcb7mpw9Fpo5A+a0Z4nd3j9Has4IepCk6pC14h3FfOGu2MHHW6Fc78eAqHQWwkYJvCKHMDciC2pCcjfKhnSWeWkTPGLcMX9urvtKMmOQKcIDECT4/uF2rtxg3qZJ9hdGTaiCXymKn5Tr13noIp97XLeJhUFYqN6PMYafNIVEQOV9j4b0/YdxnggH+CSgfyXCbW7+82M5fvOf9WUykzkYkcNHP0+1Y1SBKROUrZK7dmMMio0vymknMTHFuXqprX0xfClHV9b/t0ok20x77EVg==;iLTAVuwyikeYcokB0daRSQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Educat
 webUrl: "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Education-Market-Analysis-Strategies-Segmentation-and-Forecasts-2021-2030"
 type: article
 quality: 52
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Artificial Intelligence Market Expansion Projected To Gain An Uptick During 2021-2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Automotive Artificial Intelligence Market for 2021 till 2030. Rep"
-    publishedDateTime: 2022-01-31T05:41:00Z
-    webUrl: "https://menafn.com/1103615862/Automotive-Artificial-Intelligence-Market-Expansion-Projected-To-Gain-An-Uptick-During-2021-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 43
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?458613"
-        width: 555
-        height: 250
-        isCached: true
   - title: "Computer Vision in Healthcare Market: Qualitative Analysis, Quantitative Analysis, Forecast up to 2030"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 02, 2022, 03:33 /Comserve / -- The global Computer Vision in Healthcare market report provides geographic analysis covering regions, such as North America ..."
     publishedDateTime: 2022-02-02T08:39:00Z

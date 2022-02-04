@@ -106,7 +106,7 @@
       "originalUrl": "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Education-Market-Analysis-Strategies-Segmentation-and-Forecasts-2021-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -353,6 +353,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-support-services-to-help-patient-adherence.md",
+      "title": "Support Services to Help Patient Adherence",
+      "excerpt": "Thus, there are tools that we can use to nudge patients to remind them to adhere to their therapy. I think that’s true. I love the discussion about artificial intelligence [AI] because I think ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajmc.com/view/support-services-to-help-patient-adherence",
+      "originalUrl": "https://www.ajmc.com/view/support-services-to-help-patient-adherence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/0vv8moc6/ajmc/ee323705caadf15aceaa441d310103f233b47e93-1920x1080.png?fit=crop&auto=format",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The American Journal of Managed Care",
+        "domain": "ajmc.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1269,58 +1312,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare.md",
-      "title": "DeepScribe Raises $30M To Become First Widely Accepted Application of Voice + AI in Healthcare",
-      "excerpt": "Press Release DeepScribe, the first widely accepted application of voice and AI technology in healthcare, announced today that it has raised $30 million led by Nina Achadjian at Index Ventures, with participation from Alex Wang,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare/",
-      "originalUrl": "https://venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20220111005911/en/1325062/4/Deepscribe-22.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare/amp/",
-      "publishedDateTime": "2022-01-11T09:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

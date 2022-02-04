@@ -188,6 +188,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tech Trends for 2022 and Beyond"
+    excerpt: "Technology has been changing society since humans began using stone tools, and the pace of change is only accelerating. Here are predictions from six Rutgers technology experts about which innovations"
+    publishedDateTime: 2022-01-31T15:25:00Z
+    webUrl: "https://www.rutgers.edu/news/tech-trends-2022-and-beyond-0"
+    type: article
+    provider:
+      name: Rutgers University
+      domain: rutgers.edu
+    quality: 24
+    images:
+      - url: "https://www.rutgers.edu/sites/default/files/2022-01/Lg_InternetofThings_ss1160793658.jpg"
+        width: 2100
+        height: 1400
+        isCached: true
   - title: "Cypriot fintech to take part in PwC startup programme"
     excerpt: "Cypriot fintech company WiRE ... other participating startups include Sedicii, Resistant AI, Outseer, RiskSave Technologies, EvoluteIQ, Albany Group, Insig AI and Panthera Solutions."
     publishedDateTime: 2022-02-03T06:31:00Z

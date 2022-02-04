@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese scientists create AI nanny to look after babies in artificial womb"
-    excerpt: "Technology won’t be a problem for its future application, but legal and ethical concerns might, warns Beijing-based researcher."
-    publishedDateTime: 2022-01-31T06:00:00Z
-    webUrl: "https://www.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial"
-    ampWebUrl: "https://amp.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3165325/chinese-scientists-create-ai-nanny-look-after-babies-artificial"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 85
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/30/3a67679c-ae63-438d-9823-d9cd26b35347_133e8188.jpg?itok=V-lHp7fa&v=1643542137"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Chinese scientists build robot nanny to care for babies in artificial womb"
     excerpt: "Scientists in China have created a robotic artificial intelligence system to monitor and care for ... Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today."
     publishedDateTime: 2022-02-04T19:08:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://static.independent.co.uk/2022/01/31/16/robot%20nanny%20china.jpg?quality=75&width=1200&auto=webp"
         width: 1200
         height: 899
-        isCached: true
-  - title: "Chinese dissident Ai voices criticism as Winter Games open"
-    excerpt: "Ai Weiwei, possibly China's best-known dissident, aired criticism of Beijing's human rights record and response to the pandemic, in an interview with The Associated Press Friday, in which he also took aim at World Health Organization Director-General ..."
-    publishedDateTime: 2022-02-04T18:49:00Z
-    webUrl: "https://www.startribune.com/chinese-dissident-ai-voices-criticism-as-winter-games-open/600143127/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 37
-    images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1643924422"
-        width: 1680
-        height: 876
         isCached: true
   - title: "Analysts Think These 5 Chinese Stocks Could Rebound in 2022"
     excerpt: "In this article, we discuss the 5 Chinese stocks that could rebound in 2022 according to analysts. - All Parts"

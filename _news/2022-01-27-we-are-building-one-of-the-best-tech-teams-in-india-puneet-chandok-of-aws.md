@@ -19,6 +19,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.livemint.com/img/2022/01/27/600x338/Screenshot_2022-01-27_at_12.39.53_PM_1643267407588_1643267428596.png"

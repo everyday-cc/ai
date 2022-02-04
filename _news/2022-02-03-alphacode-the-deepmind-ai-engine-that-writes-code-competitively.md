@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI Weekly: DeepMind’s AlphaCode, automatic age verification, and a new open language model"
+    excerpt: "Register here. This week in AI, DeepMind detailed a new code-generating system, AlphaCode, that it claims is competitive with top human programmers. Supermarket chains in the U.K. announced that ..."
+    publishedDateTime: 2022-02-04T21:11:00Z
+    webUrl: "https://venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/"
+    ampWebUrl: "https://venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 94
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all"
+        width: 1200
+        height: 593
+        isCached: true
   - title: "DeepMind Says Its AlphaCode AI Can Write Codes, But Is It Great?"
     excerpt: "DeepMind claims that its newfangled AI (artificial intelligence) coding engine is capable of performing as good as a human programmer. The British AI subsidiary of Alphabet has created an AI-backed system dubbed AlphaCode. According to DeepMind ..."
     publishedDateTime: 2022-02-03T10:08:00Z

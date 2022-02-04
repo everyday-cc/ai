@@ -2,19 +2,19 @@
 category: news
 title: "DHS evaluating the use of robot dogs to patrol the US southern border"
 excerpt: "Robot dogs, also known as Automated Ground Surveillance ... But four-legged drones, and other forms of artificial intelligence, have been designed for autonomous operation. Inaccuracies and biases in their design have real-life consequences."
-publishedDateTime: 2022-02-04T20:24:00Z
-originalUrl: "https://www.statesman.com/story/news/politics/border-issues/2022/02/04/homeland-security-may-use-robot-dogs-patrol-us-southern-border/6649655001/"
-webUrl: "https://www.statesman.com/story/news/politics/border-issues/2022/02/04/homeland-security-may-use-robot-dogs-patrol-us-southern-border/6649655001/"
-ampWebUrl: "https://amp.statesman.com/amp/6649655001"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/6649655001"
+publishedDateTime: 2022-02-04T21:45:00Z
+originalUrl: "https://www.jsonline.com/story/news/politics/border-issues/2022/02/04/homeland-security-may-use-robot-dogs-patrol-us-southern-border/6649655001/"
+webUrl: "https://www.jsonline.com/story/news/politics/border-issues/2022/02/04/homeland-security-may-use-robot-dogs-patrol-us-southern-border/6649655001/"
+ampWebUrl: "https://amp.jsonline.com/amp/6649655001"
+cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/6649655001"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Milwaukee Journal Sentinel
+  domain: jsonline.com
 
 topics:
   - AI in Robotics
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "cbutuV6J/NlQ3LUwL3/xVN6kJ+L0Qy6GRiST4QtotZ4AmssmVfm45xvKNmta5ScDY3H72pY7oiPYPHdE4JtLmC+3i3J33HeZiHtaVEwQ6clO8aVSjADPePAIhh4kj/HyHDPD1xUH7cOUfkQ89nTtIFX2bIt+VFrl96kTZGPioTYLugjLijd8gXQsxBK7JMKrfNkSonT27hw+jaGC5i2SerF3N9cPR3SpEWfz3WhWh7lCB/domx07tax6Wc9L0niV03JAqGsP4qVwHak/DyfIhsyLFvzMs6uDtdEOfkZ8TNHrWwwK1cWLg0hPT66WKXIUCbsEcx8l4Sr2dstnqp0SFsvYTFrNRsjywR7+ac9M4gE=;Ql4zh60M+OdbXc65tNEy0Q=="
+secured: "O/LXbOFGtmrUO/S+Z+LfpU97O13hfTjee8eUmGmDIs47FBMVbtP4v9PjhaXUWTaov14x5oG95AiDXQzGDMLXH8YJFUF0fz1EZFF24/BLthnEyYnd0737tewwuQn4alA8xmdwB/+b78koCaPvGkzmfcUnbdbnMCztMAhsmADN6pGPLvKeN+NnyYUfoXHaL1r/zp/KrU7Fa5IkoVARmxjVhHR9SMEHxutfec3Zi8XFuK/B1r5Ee7LWz90mjDAkx5noYgngNKiK2s+gW+K3UsOe1FfujS9oZHhozLcAtwpvKnC24ZjbFn8eLhQJIg2uFZzJmM+XUJjxN/f4gzbH/kzKcV4dHqppqY3whlv3y2eRP4E=;h9cJx5kftzo7zolbklmJIg=="
 ---
 

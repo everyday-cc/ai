@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
 type: article
 quality: 87
-heat: 267
+heat: 287
 published: true
 
 provider:
@@ -214,6 +214,34 @@ related:
       - url: "https://imengine.prod.srp.navigacloud.com?uuid=f02c97b5-2355-5b05-a9a9-5d3e1ae02e0a&type=primary&q=72&width=1200"
         width: 1199
         height: 777
+        isCached: true
+  - title: "GOP lawmakers move to stop IRS facial recognition technology"
+    excerpt: "Republicans in Congress are raising concerns about the Internal Revenue Service’s move to use facial recognition technology to authenticate taxpayers before they can access their online accounts, introducing a bill that would ban the practice. The IRS ..."
+    publishedDateTime: 2022-02-04T21:06:00Z
+    webUrl: "https://www.accountingtoday.com/news/gop-lawmakers-move-to-stop-irs-facial-recognition-technology"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/a4b6c57/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2b%2F95%2F021b51a74a8f93d36ab8e268ad75%2Firs-building-spotlight.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IRS facial recognition plan gets fierce blowback from bipartisan senators"
+    excerpt: "In the wake of a controversial plan by the Internal Revenue Service to implement third-party services that rely on facial recognition, bipartisan senators on Thursday demanded that the IRS “immediately discontinue” any programs that collect ..."
+    publishedDateTime: 2022-02-04T21:00:00Z
+    webUrl: "https://www.fastcompany.com/90719029/irs-facial-recognition-plan-gets-fierce-blowback-from-bipartisan-senators"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 38
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-IRS-facial-recognition-plan-gets-blowback-from-bipartisan-senators.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "IRS to start using facial recognition technology for online account access"
     excerpt: "Starting in summer 2022, the Internal Revenue Service will start asking taxpayers to use facial recognition technology to access their online accounts."

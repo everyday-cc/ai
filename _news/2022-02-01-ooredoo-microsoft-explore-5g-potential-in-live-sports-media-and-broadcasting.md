@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/22737-ooredoo-mic
 webUrl: "https://www.thefastmode.com/technology-solutions/22737-ooredoo-microsoft-explore-5g-potential-in-live-sports-media-and-broadcasting"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,45 +23,6 @@ images:
     width: 752
     height: 408
     isCached: true
-
-related:
-  - title: "How the partnership with OpenAI has cemented Microsoft’s position in Supercomputers"
-    excerpt: "The collaboration with OpenAI is steered to develop new technologies for Microsoft Azure and extend large-scale AI capabilities to achieve artificial general intelligence."
-    publishedDateTime: 2022-01-31T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-the-partnership-with-openai-has-cemented-microsofts-position-in-supercomputers/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 48
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Azure_AIM.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Teradata Expands Partnership with Microsoft to Offer its Platform on the Azure Ecosystem"
-    excerpt: "“Teradata and Microsoft are combining their data, AI and cloud capabilities to help teams across industries and professions make data-driven decisions faster.” For more information about this partnership, visit https://www.teradata.com/Cloud/Azure."
-    publishedDateTime: 2022-02-02T15:43:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Teradata-Expands-Partnership-with-Microsoft-to-Offer-its-Platform-on-the-Azure-Ecosystem-151229.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 45
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amesite Becomes a Microsoft Customer Story"
-    excerpt: "\"We fully took advantage of the tools in Azure to benefit our customers,\" said Amesite Founder and CEO, Dr. Ann Marie Sastry. \"Our customers need scalability, security, and speed.\" Read Amesite's full Microsoft Customer Story here."
-    publishedDateTime: 2022-02-02T13:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-amesite-becomes-microsoft-customer-story-/2022/02/02/9537713.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "CZJjqUk1wBbPcfSSgnKJO8voc4CUpisgnLIsUQ0kU2OpLA4+PPbZSMFSqBuq8N85hZhIEuqJDIJCnA7sXdRqjuzAL30icOsnoW18wxbpALmfSLgKeAKWSK+f1QU3Cd7s1C66hDOT7zS7Qgo0VKDw6l5d96kspfnBrKvqvzd0e/60SGe9LOEzWOUmN1ASZF/COSEYr7tcOTq4SUdJIhlQrwR/r80hY4EPu85/s0SGL/VOEDMUECPLRP30keqe6so/4ATc7HO1o94WEoPqksgFo92dY6VAjWBXaVbEvHQ6p0axA8XfVgEOWWgmGaGAPpbWZSjZ/uBF1Bu+snKk9KIcGy/4a8OXg4NLRIqAozyN4FNXE3ftw99X+tw2HKLBwW8tprrsPBU0Ks6e2gytlz2lZoVFdHzTPaUcA0hEVQODtSHBN/ATLd5eMj97upPX6bP+HjVUq9CSNUOr+x0tJ2lF+EtfHt7/GZxWBJXye+qk03mqNEiGKwGM++nWiYogn82qwrvkax+4TAEMVeQcE+StwQ==;MybYE1FJ3AU/Z9asiBPYPg=="
 ---

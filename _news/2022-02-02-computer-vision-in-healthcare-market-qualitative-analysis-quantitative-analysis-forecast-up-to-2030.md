@@ -40,20 +40,6 @@ related:
         width: 458
         height: 250
         isCached: true
-  - title: "Automotive Artificial Intelligence Market Expansion Projected To Gain An Uptick During 2021-2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Automotive Artificial Intelligence Market for 2021 till 2030. Rep"
-    publishedDateTime: 2022-01-31T05:41:00Z
-    webUrl: "https://menafn.com/1103615862/Automotive-Artificial-Intelligence-Market-Expansion-Projected-To-Gain-An-Uptick-During-2021-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 43
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?458613"
-        width: 555
-        height: 250
-        isCached: true
   - title: "Market data suggests positive returns on C3.ai Inc. (AI)"
     excerpt: "Let’s start up with the current stock price of C3.ai Inc. (AI), which is $24.74 to be very precise. The Stock rose vividly during the last session to $26.89 after opening rate of $26.72 while the lowest price it went was recorded $25."
     publishedDateTime: 2022-02-02T20:13:00Z

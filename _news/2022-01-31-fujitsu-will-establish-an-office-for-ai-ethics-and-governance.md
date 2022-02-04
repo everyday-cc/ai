@@ -41,17 +41,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Fujitsu to stand up AI ethics and governance office"
-    excerpt: "Fujitsu said it will establish an AI ethics and governance office to ensure the safe and secure deployment of AI technologies. To be headed by Junichi Arahori, the new office will focus on implementing ethical measures related to the research,"
-    publishedDateTime: 2022-01-31T05:56:00Z
-    webUrl: "https://www.zdnet.com/article/fujitsu-to-stand-up-ai-ethics-and-governance-office/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/fujitsu-to-stand-up-ai-ethics-and-governance-office/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-to-stand-up-ai-ethics-and-governance-office/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "Fujitsu to establish AI ethics and governance office"
     excerpt: "Fujitsu has announced plans to establish its own AI ethics and governance office that will oversee the “safe and secure deployment” of artificial intelligence (AI) and machine learning technologies. Scheduled to be created on 1 February 2022,"
     publishedDateTime: 2022-01-31T16:51:00Z
