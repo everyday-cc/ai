@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1017
     height: 1007
     isCached: true
+
+related:
+  - title: "Can global supply chain disasters be solved by artificial intelligence and blockchain technology?"
+    excerpt: "Artificial Intelligence can find structures in real-time that can pose a systemic risk. This can help identify patterns of connections that are likely to delay and cause trade credit contagion. This can help businesses respond to weaknesses before another ..."
+    publishedDateTime: 2022-02-04T10:02:00Z
+    webUrl: "https://www.texarkanagazette.com/news/2022/feb/04/can-global-supply-chain-disasters-be-solved-by/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 39
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200564465_DaigleJamie_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 369
+        height: 462
+        isCached: true
 
 secured: "HlTopcPAAkbqmu1RCvSs2eD/HeWnNFmE0npctnwD9at0bxgqLavK2tsov5DZSxfZuIJ7C9iyrz953ZAEu/s+S0zNFd/fyug/oIZxDaZaTyx2zPqZURZt9UfS3Oo+kHQ7Jzla6S2686sgOTL6tn2s2QaN9lVIyMoKuQC+2L/s6r/1QeH/i0ftTa+bcMgWF3zTF1uqpQXdCmj4g6yVPQHjhd+CHpedqomAyooYTwRv16gf2zfz5Z2VBK034L6X0ERLxopSY5550D/0L5A1GDrAEvYoyUMD3SgDr0LTiy+iV6Mhu0zjoZfQ8bxncGDmbtvvww3b9B6l26IjTbQ9z6rLhRBKqZ/dQO/DXnSgJvm4i3TktRZUeEK4OVUE2lmwhHRhM+bvx5g6avGZg6ds2uHVHsALgQ+6dwnpp9BgHZA94nL+8H3SYRipr/McoDMPO9o7YvkIbAwBvRhvYdnNergBejSJwsqiKXEUov+jgxrKb3qh09hxh2CteB/maAim41jnosCHyfGJ1cAmO5DpNfSR6g==;nQfs/KOMz8cjmi5CcNzWMQ=="
 ---

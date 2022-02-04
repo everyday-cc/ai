@@ -2,6 +2,59 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-01-12-can-humans-teach-robots-to-think-like-us.md",
+      "title": "Can Humans Teach Robots To Think Like Us?",
+      "excerpt": "Teaching robots to think like humans may be the next frontier for tech developers and researchers involved in the ongoing development of technologies such as AI and robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d66f8dbbb58ffd41f3d174%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/amp/",
+      "publishedDateTime": "2022-01-12T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact.md",
       "title": "How An Ethical AI Startup Makes A Triple-Bottom Line Impact",
       "excerpt": "Even tech companies can consider people and planet, as well as profit. And they can find investors who share their social mission.",
@@ -1113,58 +1166,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-tesla-full-self-driving-has-an-assertive-mode-that-can-make-rolling-stops.md",
-      "title": "Tesla Full Self-Driving has an 'Assertive' mode that can make rolling stops",
-      "excerpt": "Tesla's polarizing Full Self-Driving beta software is back with another round of controversy. Now included with the software are profiles that change the behavior of the software, and one selection may engage in behavior that violates US traffic laws.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-assertive-mode-rolling-stops/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-assertive-mode-rolling-stops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/ZznhwJPP1wmRpl5zBeqxPLaLpBs=/2021/07/19/56f4362c-0a83-43a4-bbbd-42f736aa06ce/ogi-fsd.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-assertive-mode-rolling-stops/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-assertive-mode-rolling-stops/",
-      "publishedDateTime": "2022-01-11T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

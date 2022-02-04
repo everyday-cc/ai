@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/automatic-speech-recognition-asr
 webUrl: "https://www.digitaljournal.com/pr/automatic-speech-recognition-asr-software-market-is-expected-to-reach-a-substantially-growth-by-2027-2"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Image Recognition Market Trend, Business Opportunities, Manufacturers and Research Methodology by 2028"
-    excerpt: "The global image recognition market size is expected to reach USD 80.29 Billion at a steady CAGR of 15.3% in 2028, according to latest analysis by Emergen"
-    publishedDateTime: 2022-01-31T11:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-trend-business-opportunities-manufacturers-and-research-methodology-by-2028"
+  - title: "Artificial Intelligence (AI) in Construction Market Size Expected to Reach USD 4.51 Billion at a CAGR of 34.0% By 2026"
+    excerpt: "The global Artificial Intelligence (AI) in the Construction market is forecast to reach USD 4.51 Billion by 2026, according to a new report by Reports and Data. The easy risk mitigation of quality, and safety, coupled with the time and cost consumption ..."
+    publishedDateTime: 2022-02-04T10:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-construction-market-size-expected-to-reach-usd-4-51-billion-at-a-cagr-of-34-0-by-2026"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 8
+    quality: 28
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/f7a69d877923f8b2435d63dfc02962bbaf6ce22e-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/NFT-museum-AFP-1K-600x337.jpg"
         width: 600
         height: 337
         isCached: true
+  - title: "Voice Biometrics Market is Expected to Reach USD 5,889.9 Million in 2028"
+    excerpt: "Various social networking sites including Facebook, Twitter, LinkedIn, and others are striving persistently to develop advanced speech recognition so that the voice input taken through speech recognition facilities can also be implemented as a voice ..."
+    publishedDateTime: 2022-02-01T14:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/voice-biometrics-market-is-expected-to-reach-usd-5889-9-million-in-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/1fc2c692d0ecf827c5d9f525ec49bd06c6e93e1d-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
+    excerpt: "request for a sample – https://www.futuremarketinsights.com/reports/sample/rep-gb-5032 In addition to some of the most commonplace vision disorders, newly establishing problems such as digital eye strain (more popularly, computer vision syndrome ..."
+    publishedDateTime: 2022-02-02T10:01:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-02-02/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-59-during-the-forecast-period-2022-2029"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 10
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
+  - title: "AI as a Service (AIaaS) Market will Touch USD 43.29 Billion at a Whopping 25.8% CAGR by 2030- Report by Market Research Future (MRFR)"
+    excerpt: "Market Overview: According to a comprehensive research report by Market Research Future (MRFR), \"AI as a Service Market information by Technology, by Vertical and Region"
+    publishedDateTime: 2022-01-31T09:31:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25302391/ai-as-a-service-aiaas-market-will-touch-usd-43-29-billion-at-a-whopping-25-8-cagr-by-2030-report-b"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25302391"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25302391"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "W1zaC0qHmdPtbIWgQ9i/ZfcUHwo1ySTd75bebW9KTclq1xiz5UogRBL08t+mCk8Y3sBkR4SVYIQ9a4NcGRwpaE8ye6196ePkUw+pOTMnFG0PqzG4Wbg4K7z2uaaZPr0YY2U3fH9pG82oLxb4dP/KLJalSertLnVaibTHsXVGyqREsvnFlrkLYz8OJJxeVk85f92i4UutSE55azQWvS3NsYIjaR35lwlnveZ1nQCdSSRiWqP/rqwPVHMQYmTvC9npAIS2rjJ6VV11N9WN54E4qvLd11HImGOuCyWQ94/L3/HODXWEVMYKnYdJQaMkRxWr4BR4wVVFQkhpZg/nUj0cr46A/0vpCoSryUrO8V+6z1I=;7SzCub/87iMy65gBLecfsw=="
 ---

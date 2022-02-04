@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-01-24-microsoft-and-customer-fedex-partner-on-logistics-as-a-service.md",
+      "title": "Microsoft and customer FedEx partner on 'logistics as a service'",
+      "excerpt": "Microsoft and FedEx reveal more about their partnership around analytics, supply-chain and logistics management and specifically how Dynamics 365 will play a role.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/361dfa27d5375b1220767d0a3791d5367e4aeef1/2022/01/24/7b2e92e8-299c-4bfc-8871-80dbf6c8e4ce/microsoftfedexlogistics.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 925,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "publishedDateTime": "2022-01-24T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-sas-viya-is-living-large-on-azure.md",
       "title": "SAS Viya is living large on Azure",
       "excerpt": "A year and a half in, there is a critical mass of Viya embedded inside Azure analytics, and existing SAS customers are starting to buy in. By \"hiding in plain sight,\" could Azure make SAS cool again with a new generation of customers?",
@@ -1152,58 +1204,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-23-why-user-education-is-necessary-to-avoid-ai-failure.md",
-      "title": "Why User Education Is Necessary To Avoid AI Failure",
-      "excerpt": "AI failure, in most cases, is attributed to technology-centric factors like the quality of data or the capabilities of algorithms and hardware used, ignoring the most crucial aspect of AI success—the end user.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/22/why-user-education-is-necessary-to-avoid-ai-failure/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/22/why-user-education-is-necessary-to-avoid-ai-failure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61d6726b1998bdcbce034eae/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/22/why-user-education-is-necessary-to-avoid-ai-failure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/22/why-user-education-is-necessary-to-avoid-ai-failure/amp/",
-      "publishedDateTime": "2022-01-22T19:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

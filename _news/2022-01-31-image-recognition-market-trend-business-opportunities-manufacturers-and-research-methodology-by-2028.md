@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/image-recognition-market-trend-b
 webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-trend-business-opportunities-manufacturers-and-research-methodology-by-2028"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Speech Recognition (ASR) Software Market is expected to reach a substantially Growth by 2027"
-    excerpt: "The global Automatic Speech Recognition (ASR) Software market research report forecast to 2028 has been recently published by Reports and Data to help user understand the current market scenario. The report offers a detailed analysis of market size ..."
-    publishedDateTime: 2022-01-31T00:00:00Z
-    webUrl: "https://www.digitaljournal.com/pr/automatic-speech-recognition-asr-software-market-is-expected-to-reach-a-substantially-growth-by-2027-2"
+  - title: "Potential Opportunities Worth ~USD 50 Bn Opening Up for Artificial Intelligence Companies – Exclusive Research Published by MarketsandMarkets™"
+    excerpt: "Currently, businesses have low access to primary intelligence to clarify some unknowns and adjacencies in these opportunity areas – Organizations such as Facebook ... of automation on AI market? Therefore, MarketsandMarkets research and analysis focuses ..."
+    publishedDateTime: 2022-02-02T18:00:00Z
+    webUrl: "https://www.digitaljournal.com/pr/potential-opportunities-worth-usd-50-bn-opening-up-for-artificial-intelligence-companies-exclusive-research-published-by-marketsandmarkets"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 23
+    quality: 3
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/f7a69d877923f8b2435d63dfc02962bbaf6ce22e-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-5-600x337.png"
         width: 600
         height: 337
         isCached: true

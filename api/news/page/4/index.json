@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-31-food-tracking-ai-system-developed-to-reduce-malnutrition-in-ltc-homes.md",
+      "title": "Food-tracking AI system developed to reduce malnutrition in LTC homes",
+      "excerpt": "New technology could help reduce malnutrition and improve overall health in long-term care homes by automatically recording and tracking how much food residents consume.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.html",
+      "originalUrl": "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/food-tracking-ai-syste.jpg",
+          "width": 2007,
+          "height": 1082,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.amp",
+      "publishedDateTime": "2022-01-31T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-budibase-brings-open-source-to-low-code-web-app-development.md",
       "title": "Budibase brings open source to low-code web app development",
       "excerpt": "Let the OSS Enterprise newsletter guide your open source journey!  The burgeoning no-code / low-code movement is showing little sign of slowing, with countless new products and companies hitting the market to help coders and non-coders alike make the most of the skills that they have.",
@@ -1191,49 +1233,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-why-massachusetts-is-ground-zero-for-the-fight-against-facial-recognition.md",
-      "title": "Why Massachusetts is ground-zero for the fight against facial recognition",
-      "excerpt": "Massachusetts has had a number of cities ban facial recognition in the absence of federal laws as conversations about the technology heat up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/",
-      "originalUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2022/01/massachusetts-cities-banning-facial-recognition.jpg?auto=compress%2Cformat&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/massachusetts-banning-facial-recognition/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/massachusetts-banning-facial-recognition/?amp",
-      "publishedDateTime": "2022-01-28T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

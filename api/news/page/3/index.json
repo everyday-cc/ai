@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-01-mongodbs-co-founder-is-trying-to-universalize-robotic-deployment.md",
+      "title": "MongoDB’s co-founder is trying to universalize robotic deployment",
+      "excerpt": "To this end they are developing a series of core components, such as object recognition, navigation and gripping,” USV managing partner Albert Wenger said in a post tied to last year’s seed.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/",
+      "originalUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1160976646.jpg?w=1024",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/01/mongodbs-founder-is-trying-to-universalize-robotic-deployment/amp/",
+      "publishedDateTime": "2022-02-01T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-traffic-lights-controlled-using-artificial-intelligence.md",
       "title": "Traffic lights controlled using artificial intelligence",
       "excerpt": "Roads are chronically congested and vehicles queue endlessly at junctions. Rush hour is especially bad for long traffic jams. At the Fraunhofer Institute for Optronics, System Technologies and Image Exploitation IOSB,",
@@ -391,7 +443,7 @@
       "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -852,7 +904,7 @@
       "originalUrl": "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Education-Market-Analysis-Strategies-Segmentation-and-Forecasts-2021-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1110,48 +1162,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-food-tracking-ai-system-developed-to-reduce-malnutrition-in-ltc-homes.md",
-      "title": "Food-tracking AI system developed to reduce malnutrition in LTC homes",
-      "excerpt": "New technology could help reduce malnutrition and improve overall health in long-term care homes by automatically recording and tracking how much food residents consume.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.html",
-      "originalUrl": "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/food-tracking-ai-syste.jpg",
-          "width": 2007,
-          "height": 1082,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.amp",
-      "publishedDateTime": "2022-01-31T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://investorplace.com/2022/02/7-web-3-0-plays-that-could-be-the-
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/02/7-web-3-0-plays-that-could-be-the-best-plays-you-ever-make/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "7 Web 3.0 Plays That Could Be the Best Plays You Ever Make"
+    excerpt: "It’s still a fancy phrase, but Web 3.0, or Web3, is just another reference for an evolved internet where advanced natural language processing capabilities, artificial intelligence (AI) and deep machine learning applications are being created to power up ..."
+    publishedDateTime: 2022-02-04T08:42:00Z
+    webUrl: "https://www.entrepreneur.com/article/416814"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875"
+        width: 675
+        height: 380
+        isCached: true
 
 secured: "5VlgClS98tH/E8fi7FX7Onq/OupODStgO1TCuhMp05XYom5Oh6aOh9nMvZpBRpIst5jAtfMgGnP+45Nxpnsc0OropEOrvhGUORf3YNy8uJSyyfukULP2f7dICnGUaYxuKcFt9RohU6csVcGmyZ3Cn50hjlUlP61s1WOh5A/c7mJb33xYI7FYzn2Qinareiru0yvD8K0gvde6jcTN5SOhrc1qxl0o/rHkcRGE2MdiR5lAyXbJIBV2LZx4C4B/1mPjZ64KNfNmcJ2MF1Uqv+DbDm4R6nowMaiZhOKuoq1fNlGGoxkhi0L0i/zyqNZ7AP9YDgNFQMM8A4VOmngnty5IAfAcSJOBxq+Hccl6HQltBIfkvTFW24NhPWPu2f8qwgcm6PdZfwWPjo+94usyF+WyiHnxIwq2TsyEB7HRzMxYipgKsOxDNqrN2n2QPLz4xgGeNY+vauxVqlnNFr7/vZpMj1GcZnzgpBgRtdAun4WeVijNR5z8qqSmgYUMpl/2S4D+w0FmDH53lXIykB+aVLRFPA==;uOS49wxBc8rt0YGdskLW7g=="
 ---

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Toyota built an autonomous self-drifting sports car"
-excerpt: "The automaker has built a Supra sports car with the capability of performing drift racing-style driving on a track. The project is a collaboration between the Toyota Research Institute and Stanford University's Dynamic Design Lab, which has previously ..."
-publishedDateTime: 2022-02-03T18:20:00Z
-originalUrl: "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car"
-webUrl: "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car"
-ampWebUrl: "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp"
+title: "My Big Fat Self-Driving Road Trip"
+excerpt: "Many cars now offer some version of driving assistance, but most manufacturers’ self-driving systems, even Tesla’s Autopilot, requires the humans sitting in the driver’s seats to keep their hands on the steering wheel while the car is piloting itself."
+publishedDateTime: 2022-02-04T10:25:00Z
+originalUrl: "https://www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.html"
+webUrl: "https://www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.html"
+ampWebUrl: "https://www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.amp.html"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/02/720/405/supra.jpg?ve=1&tl=1"
-    width: 720
-    height: 405
+  - url: "https://static01.nyt.com/images/2022/02/04/opinion/04manjoo1/04manjoo1-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 1440
         height: 589
         isCached: true
-  - title: "My Big Fat Self-Driving Road Trip"
-    excerpt: "Many cars now offer some version of driving assistance, but most manufacturers’ self-driving systems, even Tesla’s Autopilot, requires the humans sitting in the driver’s seats to keep their hands on the steering wheel while the car is piloting itself."
-    publishedDateTime: 2022-02-04T10:25:00Z
-    webUrl: "https://www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.html"
-    ampWebUrl: "https://www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.amp.html"
+  - title: "Toyota built an autonomous self-drifting sports car"
+    excerpt: "The automaker has built a Supra sports car with the capability of performing drift racing-style driving on a track. The project is a collaboration between the Toyota Research Institute and Stanford University's Dynamic Design Lab, which has previously ..."
+    publishedDateTime: 2022-02-03T18:20:00Z
+    webUrl: "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car"
+    ampWebUrl: "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Fox News
+      domain: foxnews.com
     quality: 74
     images:
-      - url: "https://static01.nyt.com/images/2022/02/04/opinion/04manjoo1/04manjoo1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/02/720/405/supra.jpg?ve=1&tl=1"
+        width: 720
+        height: 405
         isCached: true
   - title: "FOCUS-Self-driving car companies zoom ahead, leaving U.S. regulators behind"
     excerpt: "Self-driving vehicle companies from Tesla Inc to General Motors Co's Cruise are racing to start making money with their technology, outrunning efforts by regulators and Congress to write rules of the road for robot-driven vehicles."
@@ -116,6 +116,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "TiEBaqQcjR70+enOzwwmp4429uce7NbdkZiFx54tADeed064KsgfZeLUXjECKwVj8kTZtpMTQaXWDTNGME6+SnW054FQoFU09dkL264oy5kS/28qFr0DS/YsvkGt2ckLSyZmU9t2gxaNGd8aL1Wgmux2vlVeDTp9ruZPThxrJ4R3+FkYkcwNYpezU9JsAqyJQ8yWUYSClYLkvxEaWECgMml+GMPRE71Fvz0GL0DvqDbPlP5zcUJEspie8MeOv7yFTMl4hHRWX4dCjksDWtO64I6qiKmB3YqaBHXBA6jE1Vj6OmOcpIc5Pxs51mbJBWHawp/rVTll4ePVj4l1xpjAxaMZlp3PqYxtKuJG0rw81RU=;pjz5KK2EJfhwwGgJ99OyDQ=="
+secured: "96B7htc+fzTP2zS3nD7SKg+Ds0wiXzDaarevLiSIAhOTJMWq72GSgFUkdfQ4KVYliSBqmZsO4TkQRnBT5vXgqZImFm29CZO49K6qPdPSzdOGqiy0ZFgaG2L883P3g0VJdZN3oCn1VKKrX9m2l24lYTR5wUan45hcJaK9blPLkQeBwK3MbZ7REg6UGXDs482bPVRZ5BrmkzDeAPRXrMP9wxDp1yI3ybX/Wi6jGMsjGSGqr8sIrUma48zQ/zbXjwrDhWlrcIfWU2TAFh7x3jIivdm14Up/HBPRedoZoIOHZbQogkX/8JjeCgTD8fgAO+aHGyE72+jm8AjVT9BAMTsgcntPW5YdH4PBuSlAaII0S5s=;XqxHMyTOw2KuEsBZ2vTcPg=="
 ---
 

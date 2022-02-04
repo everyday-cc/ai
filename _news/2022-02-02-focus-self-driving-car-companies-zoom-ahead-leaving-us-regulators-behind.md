@@ -37,6 +37,22 @@ related:
         width: 1440
         height: 589
         isCached: true
+  - title: "My Big Fat Self-Driving Road Trip"
+    excerpt: "Many cars now offer some version of driving assistance, but most manufacturers’ self-driving systems, even Tesla’s Autopilot, requires the humans sitting in the driver’s seats to keep their hands on the steering wheel while the car is piloting itself."
+    publishedDateTime: 2022-02-04T10:25:00Z
+    webUrl: "https://www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.html"
+    ampWebUrl: "https://www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: "https://static01.nyt.com/images/2022/02/04/opinion/04manjoo1/04manjoo1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Toyota built an autonomous self-drifting sports car"
     excerpt: "The automaker has built a Supra sports car with the capability of performing drift racing-style driving on a track. The project is a collaboration between the Toyota Research Institute and Stanford University's Dynamic Design Lab, which has previously ..."
     publishedDateTime: 2022-02-03T18:20:00Z

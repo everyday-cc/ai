@@ -44,15 +44,15 @@ related:
         height: 1647
         isCached: true
   - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
-    excerpt: "BEIJING (AP) — When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest stadium for the 2008 Summer Olympics, he hoped the Games and the venue's distinct architecture — the instantly recognizable weave of curving steel beams ..."
-    publishedDateTime: 2022-02-04T07:38:00Z
-    webUrl: "https://www.mysanantonio.com/sports/article/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
-    ampWebUrl: "https://www.mysanantonio.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
-    cdnAmpWebUrl: "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
+    excerpt: "“Since 2008, the government of China has further strengthened its control, and the human rights situation has further deteriorated,” Ai told AP. Here are Connecticut Magazine's experts' picks for the 25 best restaurants that opened since the start of 2020."
+    publishedDateTime: 2022-02-04T05:00:00Z
+    webUrl: "https://www.registercitizen.com/news/article/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
+    ampWebUrl: "https://www.registercitizen.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
+    cdnAmpWebUrl: "https://www-registercitizen-com.cdn.ampproject.org/c/s/www.registercitizen.com/sports/amp/The-AP-Interview-Exiled-artist-reflects-on-16830875.php"
     type: article
     provider:
-      name: My San Antonio
-      domain: mysanantonio.com
+      name: The Register Citizen
+      domain: registercitizen.com
     quality: 57
     images:
       - url: "https://s.hdnux.com/photos/01/23/70/16/21988228/3/ratio3x2_400.jpg"

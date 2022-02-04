@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-04-cloud-computing-spending-just-hit-another-huge-milestone.md",
+      "title": "Cloud-computing spending just hit another huge milestone",
+      "excerpt": "Read More Amazon Web Services had a 33% share, followed by Microsoft Azure's 22%, and Google Cloud's 9% ... in virtual and augmented reality environments, while storage, machine learning, IoT and data analytics will be essential to support operations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cloud-computing-spending-just-hit-another-huge-milestone/",
+      "originalUrl": "https://www.zdnet.com/article/cloud-computing-spending-just-hit-another-huge-milestone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5ce181958b42162c42543bf7eefa3ab6467f7c9c/2021/12/01/bf754524-8f7c-47d1-8b10-d0f28da9d080/20211201-sf-dec.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cloud-computing-spending-just-hit-another-huge-milestone/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloud-computing-spending-just-hit-another-huge-milestone/",
+      "publishedDateTime": "2022-02-04T02:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock.md",
       "title": "Strong Earnings From Cloud Behemoths Bode Well For Snowflake Stock",
       "excerpt": "Per the Trefis machine learning engine which analyzes historical stock price ... While there are other rivals in this space, including Amazon’s Redshift, Microsoft’s Azure Synapse, and Google’s Big Query, Snowflake offers strong product differentiation.",
@@ -1374,58 +1426,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-what-really-matters-when-selecting-a-cloud-data-analytics-platform.md",
-      "title": "What Really Matters When Selecting A Cloud Data Analytics Platform",
-      "excerpt": "Just like with an electrical grid, the next wave of analytical workloads will “plug in” to whatever compute/storage grid that makes the most sense at the time, whether it be location, pricing, regulations and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/18/what-really-matters-when-selecting-a-cloud-data-analytics-platform/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/18/what-really-matters-when-selecting-a-cloud-data-analytics-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede30bbf9898700074a916c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/18/what-really-matters-when-selecting-a-cloud-data-analytics-platform/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/18/what-really-matters-when-selecting-a-cloud-data-analytics-platform/amp/",
-      "publishedDateTime": "2022-01-18T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

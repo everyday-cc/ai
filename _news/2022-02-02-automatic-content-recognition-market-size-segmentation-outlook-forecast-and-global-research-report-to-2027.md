@@ -120,20 +120,6 @@ related:
         width: 327
         height: 250
         isCached: true
-  - title: "AI-Enabled Last Mile Delivery Market Industry Analysis, Size, Share, Growth, Trend, And Forecast To 2029"
-    excerpt: "Research Nester published a report titled “ AI-Enabled Last Mile Delivery Market: Global Demand Analysis & Opportunity Outlook 2029 ” which delivers detailed overview of the global AI-enabled last mile delivery market in terms of market segmentation by type,"
-    publishedDateTime: 2022-01-30T18:40:00Z
-    webUrl: "https://menafn.com/1103614237/AI-Enabled-Last-Mile-Delivery-Market-Industry-Analysis-Size-Share-Growth-Trend-And-Forecast-To-2029"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849700"
-        width: 429
-        height: 249
-        isCached: true
 
 secured: "pmVncZ/QvYwDajDGEaJjaCCPDSicEBjnk+cMzMVeTTXXHKRrugdgxPJmEJnVpA2bQIulri9Rc5Ivn1dJ3UkItQN51Wa60zy2gguZC4NyunR2ah4kEYmn5ZL32F0/EHiVjDyiGEerhtcLNI9oOmuptnRy3e3PrTA3dajZvTY6/jVVsIlUBCepn4KO5qFjSRmeq3ZOLM5yaOWqX8yO2IgTFlPDVKLO9welZaleOu+PaEnS8sBXcv3uqSvRfL9hQVWQl5co3r25Y0MMxinirwKMPBxARXci2+1zroXKuKiHcvBbOcdkmS8y2SVB3YHQxwgALaR4YwbsA3+7Jvq/YMkPJ5zDWlj7T3evCaTauSJHFXIoc4PDsBvB9v0/tTUhyV2NKKQfVw56FfUs0dCz7c0UeIKWgJzZDLE9orQGRA9jSTrXhr/lQmczdzs7Ol0nM6I3hN87kyaJc1jsXWx0HYQHNkeu95PLqDRUhQx6hNRzdZyTuee7BCQh4O1YidmKxfKmCQ0vZLhsIhiOculxYcmHlA==;n6ms6gPF7EwlPGvSaVpQgw=="
 ---
