@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-clearview-ais-revolutionary-facial
 webUrl: "https://aithority.com/vision/face-recognition/clearview-ai-revolutionary-facial-recognition-platform-awarded-us-patent/"
 type: article
 quality: 151
-heat: 221
+heat: 211
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2022/01/31/16/53594163-0-image-a-14_1643647535757.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Facial recognition for cattle on the way"
-    excerpt: "The day when producers simply scan the faces of their stock on their smartphone as they walk up the crush, and have all their individual information immediately at hand, might not be far off, thanks to novel livestock facial recognition technology being developed by an Australian researcher."
-    publishedDateTime: 2022-01-30T22:55:00Z
-    webUrl: "https://www.northweststar.com.au/story/7600492/facial-recognition-for-cattle-on-the-way/"
-    type: article
-    provider:
-      name: The North West Star
-      domain: northweststar.com.au
-    quality: 39
-    images:
-      - url: "https://www.northweststar.com.au/images/transform/v1/crop/frm/38U3JBx5nNussShT8aZyYjc/8e0765a2-a6c6-4358-a66d-91416bc426f5.jpg/r0_914_2753_2469_w1200_h678_fmax.jpg"
-        width: 1200
-        height: 678
         isCached: true
   - title: "Government building national facial recognition database"
     excerpt: "The Department for Home Affairs has begun work on its national facial recognition database, putting a large project for consolidating national ID matching to tender last week. Home Affairs is looking for a company that will “build and deploy” this system which will include migrating a pre-existing centralised database of facial images collected from state driver licenses,"

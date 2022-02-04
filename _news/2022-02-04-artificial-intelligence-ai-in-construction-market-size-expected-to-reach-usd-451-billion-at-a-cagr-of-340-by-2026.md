@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robotic Prosthetic Market Size Expected to Reach USD 2,384.4 Million at a CAGR of 8.9%, in 2028"
+    excerpt: "Growing demand for robotic prosthetic products due to increasing incidents ... according to latest report by Reports and Data. Emergence of mind-controlled humonics is considered one of the most important factors to impact market revenue growth."
+    publishedDateTime: 2022-02-04T13:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robotic-prosthetic-market-size-expected-to-reach-usd-2384-4-million-at-a-cagr-of-8-9-in-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 27
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/CCC-9-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "The Global AI in Banking Market Will Grow to $64.03 Billion by 2030, at a CAGR of 32.6% During 2021-2030 - ResearchAndMarkets.com"
     excerpt: "The global AI in banking market size was valued at $3.88 billion in 2020, and is projected to reach $64.03 billion by 2030, growing at a CAGR of 32.6% from 2021 to 2030. Artificial Intelligence (AI) brings the advantage of digitization to banks and helps them meet the competition posed by FinTech players."
     publishedDateTime: 2022-01-31T15:36:00Z

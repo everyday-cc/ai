@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/deep-learning-system-software-ma
 webUrl: "https://www.digitaljournal.com/pr/deep-learning-system-software-market-outlook-2022-big-things-are-happening-google-microsoft-ibm"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,17 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud Natural Language Processing Market to see Booming Business Sentiments | Microsoft, Apple, Dolbey Systems"
-    excerpt: "Advance Market Analytics published a new research publication on “Global Cloud Natural Language Processing Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new ..."
-    publishedDateTime: 2022-02-01T07:36:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-to-see-booming-business-sentiments-microsoft-apple-dolbey-systems"
+  - title: "Artificial Intelligence (AI) Market May Set Epic Growth Story with IBM, John Deere, Microsoft, Agribotix, CropX"
+    excerpt: "The Latest research study released by HTF MI “Global Artificial Intelligence (AI) Market” with 100+ pages of analysis on business Strategy taken up by key"
+    publishedDateTime: 2022-02-04T14:09:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-market-may-set-epic-growth-story-with-ibm-john-deere-microsoft-agribotix-cropx"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 36
+    quality: 51
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/213a4dc4c587c92a338fe018937e54078e3b44c9-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/CCC-9-600x337.png"
         width: 600
         height: 337
         isCached: true

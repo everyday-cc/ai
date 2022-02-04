@@ -26,81 +26,113 @@ images:
     isCached: true
 
 related:
-  - title: "China sets the pace in adoption of AI in healthcare technology"
-    excerpt: "It’s like I am back in China with her. The technology is so convenient,” says Li. China has been quick to deploy a range of new technologies to relieve the burden on hospitals, care systems and families caring for the sick and elderly."
-    publishedDateTime: 2022-01-31T05:00:00Z
-    webUrl: "https://www.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
-    ampWebUrl: "https://amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
+  - title: "AI traffic lights could reduce waiting times at intersections"
+    excerpt: "Ordinarily, traffic lights change color in response to predetermined rules and induction loop sensors embedded in the road. According to new research, however, making those lights artificially intelligent may keep traffic flowing faster and smoother."
+    publishedDateTime: 2022-02-01T21:49:00Z
+    webUrl: "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/"
+    ampWebUrl: "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 74
+      name: New Atlas
+      domain: newatlas.com
+    quality: 187
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd231b63e-2186-47c8-9939-6645634a32e5.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://assets.newatlas.com/dims4/default/9f0d40d/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fae%2Fbb55bec34fc69662304187b12097%2Fiosb-ina-traffic-lights-controlled-using-artificial-intelligence-pic-1.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "AI Collaboration to Create Personalized Healthcare"
-    excerpt: "Health at Scale and Walmart's AI collaboration will enable the retailer's employees to find providers and interventions that are a fit for their personal health needs."
-    publishedDateTime: 2022-02-01T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
+  - title: "Traffic lights controlled using artificial intelligence"
+    excerpt: "Roads are chronically congested and vehicles queue endlessly at junctions. Rush hour is especially bad for long traffic jams. At the Fraunhofer Institute for Optronics, System Technologies and Image Exploitation IOSB,"
+    publishedDateTime: 2022-02-01T14:40:00Z
+    webUrl: "https://techxplore.com/news/2022-02-traffic-artificial-intelligence.html"
+    ampWebUrl: "https://techxplore.com/news/2022-02-traffic-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-traffic-artificial-intelligence.amp"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 74
-    images:
-      - url: "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 295
-        isCached: true
-  - title: "Advancing the technology of AI assistance for anesthesiologists"
-    excerpt: "In a special edition of Artificial Intelligence in Medicine ... in which the software's neural networks simultaneously learned how its dosing choices maintain unconsciousness and how to critique ..."
-    publishedDateTime: 2022-02-02T15:52:00Z
-    webUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: techxplore.com
+      domain: techxplore.com
     quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/anesthesiologists.jpg"
-        width: 1920
-        height: 1348
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/traffic-lights-control.jpg"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Can AI help you save money on healthcare? This insurance company thinks so"
-    excerpt: "Using a combination of tech and machine learning, this service is giving employees a future timeline for their medical journey."
-    publishedDateTime: 2022-01-31T19:30:00Z
-    webUrl: "https://www.benefitnews.com/advisers/news/ai-can-help-employees-with-health-plan-costs-according-to-marpai"
+  - title: "Food-tracking AI system developed to reduce malnutrition in LTC homes"
+    excerpt: "New technology could help reduce malnutrition and improve overall health in long-term care homes by automatically recording and tracking how much food residents consume."
+    publishedDateTime: 2022-01-31T09:58:00Z
+    webUrl: "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.html"
+    ampWebUrl: "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.amp"
     type: article
     provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 52
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/e957155/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb7%2Fc2%2F297181da4bb8b3e7858e1a017d27%2Fpexels-rodnae-productions-7821913.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/food-tracking-ai-syste.jpg"
+        width: 2007
+        height: 1082
+        isCached: true
+  - title: "New Artificial Intelligence-based Food-tracking System Reduces Malnutrition"
+    excerpt: "A new artificial-intelligence-based system estimates how much food has been consumed to reduce malnutrition among home care residents."
+    publishedDateTime: 2022-01-31T17:36:00Z
+    webUrl: "https://www.medindia.net/news/new-artificial-intelligence-based-food-tracking-system-reduces-malnutrition-205440-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/new-artificial-intelligence-based-food-tracking-system-reduces-malnutrition-205440-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-based-food-tracking-system-reduces-malnutrition-205440-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 55
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/children-eating-road-food.jpg"
         width: 1200
-        height: 630
+        height: 1000
         isCached: true
-  - title: "The Benefits of Artificial Intelligence in Detecting Machine Failure"
-    excerpt: "Technology continues to evolve at an exponential rate. From one year to the next, we are presented with exceptional new innovations that can effectively make our jobs and everyday lives easier. Artificial intelligence (AI),"
-    publishedDateTime: 2022-02-02T11:05:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/benefits-artificial-intelligence-detecting-machine-failure"
+  - title: "How AI and Construction Robots are Transforming Construction Sector"
+    excerpt: "The fundamental benefit of deploying construction robots is that they reduce time, improve accuracy, and productivity, resulting in larger monetary"
+    publishedDateTime: 2022-01-31T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/how-ai-and-construction-robots-are-transforming-construction-sector-nid-9157.html"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/7pi9f450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
+  - title: "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times"
+    excerpt: "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights."
+    publishedDateTime: 2022-02-03T17:40:00Z
+    webUrl: "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050"
+    ampWebUrl: "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
     quality: 52
     images:
-      - url: "https://financialit.net/sites/default/files/aimonitoring.jpg"
-        width: 1000
-        height: 643
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d5cda2e76ce28a417dd3047a1d3ffed6.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Artificial Intelligence in Predicting Web Traffic Spikes"
+    excerpt: "Machine Learning, specifically Artificial Intelligence, is great at analyzing information to either deduce patterns or classify information into predetermined categories. As ever, data is key ..."
+    publishedDateTime: 2022-02-03T23:27:00Z
+    webUrl: "https://itwire.com/guest-articles/artificial-intelligence-in-predicting-web-traffic-spikes.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 37
+    images:
+      - url: "https://itwire.com/images/Lead-Machine_Pink_300x250.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "Hv1vaF6wIZ8SpTmx3Ucioo1Tc/iLkASDzCSVSu3iRzWH/K+d/4jqlcijgLViVp80pTtKDkkQ/D8bAIynrilJyy4ZSCb8Ihxf3uIXgvYtVoxm4IU95vo9DJToB7ZGjunMwJqJ3zNihjtaNfBcIe6dBCT4y6JxM5FL9uq2o1M3FljUAqRTfVk/6a6d0f+DFoP53otv4kEvZHsE92QAPjJmjQ3wLkgF7pDGf/XUJm1suB5WHIv1+LDuGpkOO65hu/nF8nL1UNq9h1tDStym9VTqHFwdwiWiCSEVEzPC4HGB+eaYDR9gSGmlw+n/1fUQQzC1F2i4thY+zTOyb28w+c4tzSMV/xBvlQsooq+L1cCLdPMCpnJUAUs+i5c3aKYXBW+W7iAnzhu/hinpghOFToCS0MIeW9IT5NPrV5e0gjpCdFVSUr1EGsMVidtdLnTHU2fbtloj2QH3HOLLxwHgzwKx3Qf69xGY2yXh8IXRz0n1O1hGcgBG8BYKd5M9q+83l6fIJsSzWQEDYdOqhgXce1rqvQ==;pth+OkqAjpFqgOBE8rBeEQ=="

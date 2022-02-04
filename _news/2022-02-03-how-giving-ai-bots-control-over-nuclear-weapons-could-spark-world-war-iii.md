@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Traffic lights controlled using artificial intelligence"
-    excerpt: "Roads are chronically congested and vehicles queue endlessly at junctions. Rush hour is especially bad for long traffic jams. At the Fraunhofer Institute for Optronics, System Technologies and Image Exploitation IOSB,"
-    publishedDateTime: 2022-02-01T14:40:00Z
-    webUrl: "https://techxplore.com/news/2022-02-traffic-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-traffic-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-traffic-artificial-intelligence.amp"
+  - title: "Giving an AI control of nuclear weapons: What could possibly go wrong?"
+    excerpt: "if an autonomous nuclear weapon concluded with 99 percent confidence a nuclear war is about to begin, should it fire?"
+    publishedDateTime: 2022-02-01T11:00:00Z
+    webUrl: "https://thebulletin.org/2022/02/giving-an-ai-control-of-nuclear-weapons-what-could-possibly-go-wrong/"
+    ampWebUrl: "https://thebulletin.org/2022/02/giving-an-ai-control-of-nuclear-weapons-what-could-possibly-go-wrong/amp/"
+    cdnAmpWebUrl: "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2022/02/giving-an-ai-control-of-nuclear-weapons-what-could-possibly-go-wrong/amp/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
+      name: Bulletin of the Atomic Scientists
+      domain: thebulletin.org
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/traffic-lights-control.jpg"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Snap One debuts Control4 & Josh.ai Consumer Campaign"
-    excerpt: "Control4, the automation brand of Snap One, and Josh.ai are taking their recent strategic distribution partnership a step further by offering several new resources to help integrators"
-    publishedDateTime: 2022-02-02T16:42:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/snap-one-debuts-control4-josh-ai-consumer-campaign"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 39
-    images:
-      - url: "https://www.securitysystemsnews.com/uploads/blog/ad8600a79c5ab5e817a822ff70e2093d.jpg"
-        width: 260
-        height: 261
+      - url: "https://thebulletin.org/wp-content/uploads/2022/02/nuclear-football.png"
+        width: 839
+        height: 700
         isCached: true
 
 secured: "di4usadws6+H+8EU5YeI50cOGBfSer8+Ff8z9BL9UNw1Q5KCKrLzxt7mRHxvg8ugDUehS/t9Dd2iU40wDDRW9roQNG6+RiEWvnF0Fh/FWK4BLuKXO1W+r8QPCVul20W0JJxpC+GGqkBgbGM6oNtltcFXsGbF8h2taVSCCYR1OPt92KZtMC+HXxmdoWSCVYMjwzoVHN+Pq7QcuTi57WJMcJvoL5D6L1nPZjQAT7Bw6MEugTLDqZSJGuue0ELp+52Xdk22rT0iyAL0hW4lYjMypQvQ6PlnZpbiH8yYbYCXnlxBKayJ63EAQ+sncbr4+XR+sVv1VTIby+0+0ETp1P39B+eLQzsvg21v3JF1C/N9zs0=;hXMFCLYrhRk+PsQQMsXDlA=="

@@ -116,6 +116,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Founders Fund Reportedly Invests in Corporate Card Fintech Ramp at $8B Valuation"
+    excerpt: "The company invests across all stages and sectors, including aerospace, AI, advanced computing ... Blockchain peer-to-peer / marketplace lending and other forms of Fintech. 2021 was a record-breaking year forDealMaker, the market-leadingtechnology platform ..."
+    publishedDateTime: 2022-02-04T14:36:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Billion-Dollars-scaled-1024x768.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Fintech Company Aqueous Asset Launches Valuations Platform AVA"
     excerpt: "As financial technology continues to be more closely associated with proptech, Los-Angeles based fintech company Aqueous Asset on Monday announced the launch of AVA, its AI-powered tech SaaS platform for multifamily valuations."
     publishedDateTime: 2022-01-31T13:37:00Z

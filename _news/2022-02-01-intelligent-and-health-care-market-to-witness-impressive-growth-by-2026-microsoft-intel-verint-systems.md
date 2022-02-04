@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/intelligent-and-health-care-mark
 webUrl: "https://www.digitaljournal.com/pr/intelligent-and-health-care-market-to-witness-impressive-growth-by-2026-microsoft-intel-verint-systems"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -26,17 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "IT-enabled Healthcare Market Is Thriving Worldwide with B-soft, Aerotel Medical Systems, eHealth Technologies, GE Healthcare"
-    excerpt: "Latest survey on IT-enabled Healthcare Market is conducted to provide hidden gems performance analysis of IT-enabled Healthcare to better demonstrate"
-    publishedDateTime: 2022-01-31T12:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/it-enabled-healthcare-market-is-thriving-worldwide-with-b-soft-aerotel-medical-systems-ehealth-technologies-ge-healthcare"
+  - title: "Cloud Natural Language Processing Market to see Booming Business Sentiments | Microsoft, Apple, Dolbey Systems"
+    excerpt: "Advance Market Analytics published a new research publication on “Global Cloud Natural Language Processing Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new ..."
+    publishedDateTime: 2022-02-01T07:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-to-see-booming-business-sentiments-microsoft-apple-dolbey-systems"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 12
+    quality: 36
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/f7a69d877923f8b2435d63dfc02962bbaf6ce22e-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/213a4dc4c587c92a338fe018937e54078e3b44c9-600x337.jpg"
         width: 600
         height: 337
         isCached: true

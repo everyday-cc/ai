@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/anesthesiologists.jpg"
         width: 1920
         height: 1348
-        isCached: true
-  - title: "New AI technology could help reduce malnutrition in long-term care homes"
-    excerpt: "New technology could help reduce malnutrition and improve overall health in long-term care homes by automatically recording and tracking how much food residents consume."
-    publishedDateTime: 2022-01-31T12:39:00Z
-    webUrl: "https://www.news-medical.net/news/20220131/New-AI-technology-could-help-reduce-malnutrition-in-long-term-care-homes.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220131/New-AI-technology-could-help-reduce-malnutrition-in-long-term-care-homes.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220131/New-AI-technology-could-help-reduce-malnutrition-in-long-term-care-homes.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 56
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Malnutrition-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
   - title: "Can AI help you save money on healthcare? This insurance company thinks so"
     excerpt: "Using a combination of tech and machine learning, this service is giving employees a future timeline for their medical journey."

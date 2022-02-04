@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/it-enabled-healthcare-market-is-
 webUrl: "https://www.digitaljournal.com/pr/it-enabled-healthcare-market-is-thriving-worldwide-with-b-soft-aerotel-medical-systems-ehealth-technologies-ge-healthcare"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -25,20 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Intelligent and Health Care Market to Witness Impressive Growth by 2026 | Microsoft, Intel, Verint Systems"
-    excerpt: "Artificial intelligence in healthcare has the potential to help healthcare providers in a variety of ways, including patient care and administrative tasks. Although most AI and healthcare technologies have a close connection to the healthcare industry ..."
-    publishedDateTime: 2022-02-01T09:40:00Z
-    webUrl: "https://www.digitaljournal.com/pr/intelligent-and-health-care-market-to-witness-impressive-growth-by-2026-microsoft-intel-verint-systems"
+  - title: "HEALTHRHYTHMS AND UCHEALTH PARTNER TO BRING AI-BASED, PREDICTIVE MENTAL HEALTH PLATFORM TO MILLIONS OF PATIENTS"
+    excerpt: "a digital mental health startup that seeks to become the behavioral health intelligence layer across all of healthcare, today announced a partnership with UCHealth to scale the benefits of its groundbreaking artificial intelligence (AI) -based digital ..."
+    publishedDateTime: 2022-02-03T13:16:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/healthrhythms-and-uchealth-partner-to-bring-ai-based-predictive-mental-health-platform-to-millions-of/article_e8032e70-067e-5d7c-b779-8ad7fd4880fa.html"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/1fc2c692d0ecf827c5d9f525ec49bd06c6e93e1d-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
+  - title: "HEALTHRHYTHMS AND UCHEALTH PARTNER TO BRING AI-BASED, PREDICTIVE MENTAL HEALTH PLATFORM TO MILLIONS OF PATIENTS"
+    excerpt: "HealthRhythms, a digital mental health startup that seeks to become the behavioral health intelligence layer across all of healthcare, today announced a partnership with UCHealth to scale the benefits of its groundbreaking artificial intelligence (AI) -based digital platform to millions of patients."
+    publishedDateTime: 2022-02-03T20:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-healthrhythms-uchealth-partner-bring-ai-based-predictive-mental-/2022/02/03/9538626.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "faJpbM0fxuhCMg7J6nRcMcU/u4GtLbyE5XPooTUu7aItqmnu1PiiEEf4CKP8LNoXfGuSqQpTYLM+DcL2veQ/1awNBjji0fW9Ei2k91gmaWcdhnkWel57MR1lBVpplHYWoCE7Cend/OKopSY8cOhtZbuFF5mu5XVu5Dlo8+1oVpY2UHfVLmVxO/XSiINgwwwJdyRw3+oWbwXM6AbYVYSCmQQ0qgvyU2lAb2fuTsDpb3HMn/Bo23BEaVU4sIsvDWF/XWO42POOyrK/vZV216qIQQMDGwhkPtLpn5XYZ5Gxu8CO/03mImWaBzCx0ILc8A+49pcAfLHwt7/lVNuqPt6QKeNRBiGMk2t32ZOOCdS68Kw=;tNYiNEY6pULDVkkGLiwnng=="
 ---

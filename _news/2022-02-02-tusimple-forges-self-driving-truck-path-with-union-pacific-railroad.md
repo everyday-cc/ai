@@ -43,21 +43,28 @@ related:
         isCached: true
   - title: "Driverless big-rig truck company partners with Union Pacific to haul freight from Tucson to Phoenix"
     excerpt: "TuSimple so far has completed seven runs with no drivers on board on Interstate 10 and neighboring roads between the two Arizona metro areas"
-    publishedDateTime: 2022-02-02T12:15:00Z
+    publishedDateTime: 2022-02-02T11:15:00Z
+    webUrl: "https://www.usatoday.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/9291341002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/9291341002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 45
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/05/PPHX/42d3dafe-87c2-4b5c-907b-05ccb19fa9e1-TuSimple.jpg?auto=webp&crop=7951,4473,x0,y405&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Driverless big-rig truck company partners with Union Pacific to haul freight from Tucson to Phoenix"
+    excerpt: "TuSimple is headquartered in San Diego but has its \"operational heart\" in Tucson, with several hundred employees there including engineers, artificial-intelligence experts, mechanics, freight ..."
+    publishedDateTime: 2022-02-02T17:56:00Z
     webUrl: "https://www.azcentral.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
     type: article
     provider:
       name: The Arizona Republic
       domain: azcentral.com
-    quality: 5
-  - title: "Driverless big-rig truck company partners with Union Pacific to haul freight from Tucson to Phoenix"
-    excerpt: "TuSimple is headquartered in San Diego but has its \"operational heart\" in Tucson, with several hundred employees there including engineers, artificial-intelligence experts ... the company claims. Driverless truck company to haul freight from Tucson ..."
-    publishedDateTime: 2022-02-02T18:16:00Z
-    webUrl: "https://www.palmbeachpost.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
     quality: 5
 
 secured: "9GPgMUjFPsLWdyGEH9sGNyAYjFwIqraSiEq+BHw5dgTrVU4ygVLutOYd+SKV1rLOBJRUBm3ocSTUTUgWGlgFbLa9ZLbAz119Xn9Hez/ebPpL9CpNYKz8j9l27hdIqhP7Sg/c24+TAL3qb9/a//MsSPWDqbKTRm0XkoMvzPOmvkXAvJAO/TKQ5IHHkHfE451d2rsaWoGHVG6orVgi/O0ujNaEJbvzbLolTof7dtifyJlJZfWKtF4UJB+iiScwIo3rRYO+PRBEROcX6XIQoTP+PBBAZitrrcQcjhj2yF4iomGyNtWyVdkGewr8Fy+NRC43IsuFw7X8P7XV0RqMFkQZGcKYUfM/NJeQOMoSzk1a7COhEMDXLZDfmnTdXPizom6fOLOb1wuKPc7a+salbjRWkkz9mtUMU4T5SrF4BVfyH2TZrF3kqAQsEL43C6ASHfs1L5nbKKpmCM9kpXsqCkSID3Qj3Nej9MzaemJcUh4KeOoOycZuvrci0ZDTXZcBQ8Ud8kQRwsnctYa+N68DFm3ymw==;N8ev7Bm6PfpkiflZEtUe2Q=="

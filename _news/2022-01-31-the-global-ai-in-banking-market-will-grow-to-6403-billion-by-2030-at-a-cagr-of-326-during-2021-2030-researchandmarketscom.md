@@ -39,6 +39,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Robotic Prosthetic Market Size Expected to Reach USD 2,384.4 Million at a CAGR of 8.9%, in 2028"
+    excerpt: "Growing demand for robotic prosthetic products due to increasing incidents ... according to latest report by Reports and Data. Emergence of mind-controlled humonics is considered one of the most important factors to impact market revenue growth."
+    publishedDateTime: 2022-02-04T13:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robotic-prosthetic-market-size-expected-to-reach-usd-2384-4-million-at-a-cagr-of-8-9-in-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 27
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/CCC-9-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Automatic Speech Recognition (ASR) Software Market is expected to reach a substantially Growth by 2027"
     excerpt: "The global Automatic Speech Recognition (ASR) Software market research report forecast to 2028 has been recently published by Reports and Data to help user understand the current market scenario. The report offers a detailed analysis of market size ..."
     publishedDateTime: 2022-01-31T00:00:00Z

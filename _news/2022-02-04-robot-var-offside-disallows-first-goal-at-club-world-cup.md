@@ -26,11 +26,11 @@ images:
 
 related:
   - title: "Robot VAR offside disallows first goal at FIFA Club World Cup"
-    excerpt: "pic.twitter.com/EsT82AhiUz — Marcelo Lewkowicz (@marcelolewko) February 3, 2022 The VAR no longer manually places lines on the broadcaster's television pictures, with the new system using dedicated cameras and Artificial Intelligence (AI). Twelve cameras ..."
-    publishedDateTime: 2022-02-04T12:13:00Z
-    webUrl: "https://www.espn.com/soccer/fifa-club-world-cup/story/4585586/robot-var-offside-disallows-first-goal-at-fifa-club-world-cup"
-    ampWebUrl: "https://www.espn.com/soccer/fifa-club-world-cup/story/4585586/robot-var-offside-disallows-first-goal-at-fifa-club-world-cup?platform=amp"
-    cdnAmpWebUrl: "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/soccer/fifa-club-world-cup/story/4585586/robot-var-offside-disallows-first-goal-at-fifa-club-world-cup?platform=amp"
+    excerpt: "FIFA's new ground-breaking limb-tracking VAR offside technology disallowed its first-ever goal at the Club World Cup on Thursday."
+    publishedDateTime: 2022-02-04T12:08:00Z
+    webUrl: "https://global.espn.com/football/fifa-club-world-cup/story/4585586/robot-var-offside-disallows-first-goal-at-fifa-club-world-cup"
+    ampWebUrl: "https://global.espn.com/football/fifa-club-world-cup/story/4585586/robot-var-offside-disallows-first-goal-at-fifa-club-world-cup?platform=amp"
+    cdnAmpWebUrl: "https://global-espn-com.cdn.ampproject.org/c/s/global.espn.com/football/fifa-club-world-cup/story/4585586/robot-var-offside-disallows-first-goal-at-fifa-club-world-cup?platform=amp"
     type: article
     provider:
       name: ESPN
@@ -42,6 +42,6 @@ related:
         height: 729
         isCached: true
 
-secured: "rRHNIAt9RdMOk0AuaynqFb1EZXu91wL0nigIBX7hCePQgBJinNCSXdGJCAuGUq2dBX0rlHRqOVTeNhdIC5Gg+Gl/qIZUBkp95aUeNhy8mgAeNMiebbOxW0yZLSa3TER0W6gVGyIDKlsajse2tDEFpz8zSv5a5S8ZxXRoIb2NmhLov6V8DZL5Hx/jWyG0ZuHTDTTZfxa8NRpDWANrguM3QXGIdEn+bomFyD78QQ461vYmOKmyx4CH+OggfKIlHls/IyHSIU9q+GY38RrsljxUABfnTQGw/j6KogTyh0saTmvaIYcowfUj/ufhhscWGmWSGQgq8Sc6oOZYO3kstZ/LL3kgaWjyoHK8Oy7K2Z6zFg0=;tJjz56hUMnk1fFAZs+daRw=="
+secured: "8ZqGJZ8XTnXpkwfq2fSGV7dScZN0GvvdUOSZn51qgl3cduEmUTeMYRAvKCV+tSzQgiIqhy84FgWvTZXf0x2BbhG2dMYynqpN4racmQvIZwLgfIQvXf2YLYyD7lVbTW+9sQPQWdG2UyLaN63BI8BwjCifqZaV57HeEdikDZOsj10LeQy3GDGl+ON3zxviyuD4lOLbDj/WJ0aI2tlL4sWRCU7GCtthcx8wu9F0yebKOzwR223E8Wendj+SIxKBjgEwzZVtWME9JdsoO8k/gQal8rJD9WKUVJNzF5PzVT2bHGIpuoq17Ara5MoY/prLTsBS1LjetmELO7e/Ooq1E3qquwbvU4HVHIL3nb8Qfh6xwI+2+BqUnEQdXLrz6MLvf1a8P78JMkqlUntPrxMlK+fj+LvVjIphzf/EuQ0OShd6ArELfn/GVeYPmsiD+ngYA0QrH2Ggge5mfWwMsVkXh94sMakkw9mefEjtTH8XDsAJy/j+M6nhubYg4IOxTkBRwr5YfzSxFkHSC6ZVRV3K9Kqqnw==;Ku/Nbs/5BuD1PluHDROnTg=="
 ---
 

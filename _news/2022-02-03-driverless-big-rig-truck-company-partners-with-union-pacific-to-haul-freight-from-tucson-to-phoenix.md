@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Driverless big-rig truck company partners with Union Pacific to haul freight from Tucson to Phoenix"
-excerpt: "TuSimple is headquartered in San Diego but has its \"operational heart\" in Tucson, with several hundred employees there including engineers, artificial-intelligence experts ... the company claims. Driverless truck company to haul freight from Tucson ..."
-publishedDateTime: 2022-02-02T18:16:00Z
-originalUrl: "https://www.palmbeachpost.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
-webUrl: "https://www.palmbeachpost.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
+excerpt: "TuSimple is headquartered in San Diego but has its \"operational heart\" in Tucson, with several hundred employees there including engineers, artificial-intelligence experts, mechanics, freight ..."
+publishedDateTime: 2022-02-02T17:56:00Z
+originalUrl: "https://www.azcentral.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
+webUrl: "https://www.azcentral.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Palm Beach Post
-  domain: palmbeachpost.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - AI in Autos
@@ -35,6 +35,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Driverless big-rig truck company partners with Union Pacific to haul freight from Tucson to Phoenix"
+    excerpt: "TuSimple so far has completed seven runs with no drivers on board on Interstate 10 and neighboring roads between the two Arizona metro areas"
+    publishedDateTime: 2022-02-02T11:15:00Z
+    webUrl: "https://www.usatoday.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/9291341002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/9291341002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 45
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/05/PPHX/42d3dafe-87c2-4b5c-907b-05ccb19fa9e1-TuSimple.jpg?auto=webp&crop=7951,4473,x0,y405&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "TuSimple forges self-driving truck path with Union Pacific Railroad"
     excerpt: "In what's believed to be a first-of-its-kind partnership, self-driving truck company TuSimple said Wednesday it will soon work with Union Pacific Railroad to haul freight on a major route in Arizona. TuSimple this spring plans to carry goods for Union ..."
     publishedDateTime: 2022-02-02T12:15:00Z
@@ -49,16 +65,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Driverless big-rig truck company partners with Union Pacific to haul freight from Tucson to Phoenix"
-    excerpt: "TuSimple so far has completed seven runs with no drivers on board on Interstate 10 and neighboring roads between the two Arizona metro areas"
-    publishedDateTime: 2022-02-02T12:15:00Z
-    webUrl: "https://www.azcentral.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 5
 
-secured: "A7v+f0SuHOtxapl7vBg8Az1CVDNbipAugHUi/FjUK+/TZ4wLjjbiSPw0lWHyArRwl26RX93q8bmUnUcoppNojZRp5/PFjV0y2hP1MkPxqGuyHAv67qX+sBntgiZRw4xMyowqF6065v35SGQ63fuh0vDuv/vS5Zn1lackBegsVJysp4TRPraEyxuMlQRGYikI5yJ0tP5ld3gCGu/ZmEcPSig5LrbmlEB2q19wZXaiy/9sRBZ156v790g44KryiNL9uitF+1zpEv0Pu3N04/Bwevb3VsbBwKOu2s4m4rWwSSoh/8QQzxDpA+ILsSO6R1t42E3QyL0lenTmBhUrxUCLtmxca3rv1hCM796N2rdRB6vapJxlojuSkfnBRrvD88MBscuKTaGuYDyPyT/raiKDl00khb2rAZKiGej1RNj1TZveGfXu+CiJmx8qOjliSbWM+Rv8D66JKHqh9CwsOwBLD0Zp1RWg6nM3cYaiQreR8fOGPemu7ZpHpLr95O/7S7Hi+eD9dD1VlODnvtuCwFP/8Q==;tpJ5nPKv7UkWJ7O/PjcOuA=="
+secured: "FLa+Ww/ufQmVk1+/lIuXirvNS92C92/oUW1/TmZyO/2aiKP9rWmUO5lUeRx+63mo2OkPd9YOk3GoacwgVHyHCxvAvrPYMurRFybMqxJE81tLOC4blZ61lwRTKDUUOBqLkEs/TTl+camOxqIqrb4aVhfYSY4nQnsgcGWCekgAucyI/M+lLI5fOxzWscuIjz9UHyNiZOYpNqI+DHYzvAu6TypnUXWCR0H5urJYJHY5DhMqnZJweFMEfXGU4V/0rlWRgX1fa2NRmtm4cufMfFGflC0xocwoaaZDZ1Rqgf9Q6YqH93wyCFBcAcU96yMa2huKraB8Jsuav7S1OFqsvGdINdnpTtEVcnG9Weyci7skT6E=;uF8J2Vwut3P8clOP5xcnWw=="
 ---
 

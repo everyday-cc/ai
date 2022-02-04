@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-07-natural-language-processing-nlp.md",
+      "title": "Natural Language Processing (NLP)¶",
+      "excerpt": "nowadays, a lot of natural language processing is statistical in nature, i.e. it uses statistical and probabilistic algorithms to learn rules for solving language problem such techniques don’t have a deep understanding of language in the way that humans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfu.ca/~tjd/310summer2019/chp22_nlp.html",
+      "originalUrl": "https://www.sfu.ca/~tjd/310summer2019/chp22_nlp.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T15:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Simon Fraser University",
+        "domain": "www.sfu.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology.md",
       "title": "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology",
       "excerpt": "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,",
@@ -1370,50 +1404,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-finetuning-technological-systems-for-healthcare-with-natural-language-processing.md",
-      "title": "Finetuning Technological Systems for Healthcare with Natural Language Processing",
-      "excerpt": "Natural language processing or NLP is a technological innovation that allows machines to understand human expression and predict human behaviour. Natural language or the language used by humans to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-post/finetuning-technological-systems-for-healthcare-with-natural-language-processing-101640270063565.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-post/finetuning-technological-systems-for-healthcare-with-natural-language-processing-101640270063565.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2021/12/23/1600x900/unnamed_(2)_(1)_1640270151576_1640270155692.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-post/finetuning-technological-systems-for-healthcare-with-natural-language-processing-101640270063565-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/finetuning-technological-systems-for-healthcare-with-natural-language-processing-101640270063565-amp.html",
-      "publishedDateTime": "2021-12-23T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
