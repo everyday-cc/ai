@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Tesla recalls full self-driving vehicles over rolling stops"
-excerpt: "Tesla has been recalled by the National Highway Traffic Safety Administration due to a feature called \"rolling stop.\""
-publishedDateTime: 2022-02-01T18:29:00Z
-originalUrl: "https://www.upi.com/Top_News/US/2022/02/01/tesla-gets-recalled/9311643735059/"
-webUrl: "https://www.upi.com/Top_News/US/2022/02/01/tesla-gets-recalled/9311643735059/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/02/01/tesla-gets-recalled/9311643735059/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/01/tesla-gets-recalled/9311643735059/"
+title: "Tesla’s ‘Full Self-Driving’ phantom braking problem is getting worse"
+excerpt: "On Wednesday, a Washington Post analysis found complaints about the automatic braking issue in the EVs are higher than ever in recent months, and the issue could be traced back to recent changes to Tesla's Autopilot software and hardware."
+publishedDateTime: 2022-02-03T22:13:00Z
+originalUrl: "https://mashable.com/article/tesla-fsd-phantom-braking"
+webUrl: "https://mashable.com/article/tesla-fsd-phantom-braking"
+ampWebUrl: "https://mashable.com/article/tesla-fsd-phantom-braking?amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi_com/9311643735059/2022/1/3d7153a47822ee68da6753e02c3b8029/v1.5/Tesla-recalls-full-self-driving-vehicles-over-rolling-stops.jpg"
-    width: 800
-    height: 533
+  - url: "https://helios-i.mashable.com/imagery/articles/06P6Iwf3lnDbD7b8OPdv0jd/hero-image.fill.size_1200x675.v1643829413.jpg"
+    width: 1199
+    height: 675
     isCached: true
 
 related:
@@ -58,22 +58,6 @@ related:
       - url: "https://static01.nyt.com/images/2022/02/01/multimedia/01tesla-recall/01tesla-recall-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Tesla’s ‘Full Self-Driving’ phantom braking problem is getting worse"
-    excerpt: "On Wednesday, a Washington Post analysis found complaints about the automatic braking issue in the EVs are higher than ever in recent months, and the issue could be traced back to recent changes to Tesla's Autopilot software and hardware."
-    publishedDateTime: 2022-02-03T22:13:00Z
-    webUrl: "https://mashable.com/article/tesla-fsd-phantom-braking"
-    ampWebUrl: "https://mashable.com/article/tesla-fsd-phantom-braking?amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/06P6Iwf3lnDbD7b8OPdv0jd/hero-image.fill.size_1200x675.v1643829413.jpg"
-        width: 1199
-        height: 675
         isCached: true
   - title: "Tesla recalls Full Self Driving feature that lets cars roll through stop signs"
     excerpt: "Tesla is issuing an over-the-air update to recall a \"Full Self-Driving\" (FSD) beta feature that allowed cars to roll through stop signs.."
@@ -168,6 +152,22 @@ related:
       - url: "https://d32r1sh890xpii.cloudfront.net/news/718x300/2022-02-01_9scxfsgor8.jpg"
         width: 718
         height: 300
+        isCached: true
+  - title: "Tesla recalls full self-driving vehicles over rolling stops"
+    excerpt: "Tesla has been recalled by the National Highway Traffic Safety Administration due to a feature called \"rolling stop.\""
+    publishedDateTime: 2022-02-01T18:29:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2022/02/01/tesla-gets-recalled/9311643735059/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/02/01/tesla-gets-recalled/9311643735059/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/01/tesla-gets-recalled/9311643735059/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/9311643735059/2022/1/3d7153a47822ee68da6753e02c3b8029/v1.5/Tesla-recalls-full-self-driving-vehicles-over-rolling-stops.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Tesla Says It’s Updating Self-Driving Cars to No Longer Break the Law"
     excerpt: "Tesla has agreed to update the software on almost 54,000 of its cars because a recent “Full Self-Driving” software update allowed them to break road rules and roll through stop signs without ..."
@@ -650,6 +650,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "mm9HW4RpL344sjsvvS616MOZyaIW3a3VEDLb5HTNd2VuVBX7vbu4UUkx/c0i92H6EOlfBb1VQpRAlYayD11kQtV2mzVMXO0j44+iHdBlaJd7kTZuUpNO/B4pEMTGlZUWGShPGZGaN8vctgoqx7AAJeXir45D42mVea/0W8CtoGi6jhMB/rnnmMPqTBNCclzyuP5pQiRZWuhgqytYU3msszRGP/mKWzmCS/gXA/fXkNdYFvvbc1r6JqdbXdUlcHI9H22Tkyx2g7QMZ4UkFcw18eomaX3Z4tnW9pKyn86VBqCKlsnNmxLRP4Xi3LzgeAyjsGTO6ki27tVl+50gftN1/BoR3UmIqLeqabGChck489MCfmbOVg+VHeYnQqrFawMisIfPomn1Sv4EN4kosMuQRlOrahB88y4Y8AwC+fFvzdrS7bPDL/o+7mHxmSxrxF4awoTh+dKvXu8pijdFYv5K/98inadrj8I+YA9guwVjHSZ+yocygWMFJtcbHpoN8aa10RtQiEiU0M3dFrsKOyqS0A==;Mfm7j9oE3VR3cOsISLdtGg=="
+secured: "tu06A/60qq4BrayMFaoiZl6UKmxkscJ75RkZmijvpJc3+IKY8sy/wSkTGX8ykeiYjU9KWKTAOKK7c/OL2EBX69ronQGVozqWvGsoKaFEffjzlX1TJ97K2eXwYpZFQD9/BEvM0B12FAu2q827e4ed9TnZ4g6xknTlaHrdjQt+nTHba0JdBQA55qgm2AciV6FmE9mM7UGnCnIIrVfopKv+0RsvQfqvsoUDoJDtUKk7smB2EO8fcYZev/WqwefxvpWXaLOUCGxDB9dmiwMrlGsRzwj4SwFRS166+CovUOYbA7lmRCsWLd3aS5xT7nd6yesAvlxo5G+uf9z3VMnsLUUh3GrWOzlCSLUvAUKLUTxiYkE=;/35K0IHVmy1WL2zzMPIUkQ=="
 ---
 

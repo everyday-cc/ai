@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-03T21:52:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/02/220203160544.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/02/220203160544.htm"
 type: article
-quality: 51
-heat: 61
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "The brain’s secret to lifelong learning can now come as hardware for artificial intelligence"

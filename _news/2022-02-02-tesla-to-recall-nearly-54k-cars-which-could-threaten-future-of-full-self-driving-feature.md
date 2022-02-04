@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/tesla-to-recall-nearly-54k-cars-which-cou
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature/"
 type: article
 quality: 95
-heat: 505
+heat: 515
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static01.nyt.com/images/2022/02/01/multimedia/01tesla-recall/01tesla-recall-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ phantom braking problem is getting worse"
+    excerpt: "On Wednesday, a Washington Post analysis found complaints about the automatic braking issue in the EVs are higher than ever in recent months, and the issue could be traced back to recent changes to Tesla's Autopilot software and hardware."
+    publishedDateTime: 2022-02-03T22:13:00Z
+    webUrl: "https://mashable.com/article/tesla-fsd-phantom-braking"
+    ampWebUrl: "https://mashable.com/article/tesla-fsd-phantom-braking?amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/06P6Iwf3lnDbD7b8OPdv0jd/hero-image.fill.size_1200x675.v1643829413.jpg"
+        width: 1199
+        height: 675
         isCached: true
   - title: "Tesla recalls Full Self Driving feature that lets cars roll through stop signs"
     excerpt: "Tesla is issuing an over-the-air update to recall a \"Full Self-Driving\" (FSD) beta feature that allowed cars to roll through stop signs.."

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "CLARA Analytics Takes On Escalating Commercial Auto Claims With Its AI-Driven Litigation Avoidance Engine"
-excerpt: "As commercial auto losses continue to climb, CLARA Analytics (\"CLARA\"), the leading provider of artificial intelligence (AI) technology in the commercial insurance industry, releases its latest Litigation for Commercial Auto,"
-publishedDateTime: 2022-02-02T14:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-clara-analytics-takes-escalating-commercial-auto-claims-with-/2022/02/02/9538024.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-clara-analytics-takes-escalating-commercial-auto-claims-with-/2022/02/02/9538024.htm"
+excerpt: "As commercial auto losses continue to climb, CLARA Analytics (“CLARA”), the leading provider of artificial intelligence (AI) technology in the commercial insurance industry, releases its latest Litigation for Commercial Auto,"
+publishedDateTime: 2022-02-02T14:32:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-insurance-industry-8fb22a7086604ac0906a0f320b928c14"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-insurance-industry-8fb22a7086604ac0906a0f320b928c14"
 type: article
-quality: 2
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Atmos by CallCabinet now supports SA English within its analytics engine"
@@ -50,6 +56,6 @@ related:
         height: 927
         isCached: true
 
-secured: "k/5F002DD9ZBIcafmC+QzEkb4HS4wTrDXRqUnloJPTvfbFK05TYynogWh4BeqpsfHrU+ZKERgrf6a7A6CabFH04zWPvTyvcfNk9hwoyPSOFQ0OvR5fccj6egY7ed7WbojLgo8quJ+GvVMAnGY/DZeIzZA+1bRS9xOZWN2GXSqufA12Q55jxysVQa3Mlr5pO7Az5CCHDQ/UbSFdOY9xlMFnEY4/2CZX5HSe0fOZSCdaLDF4wViN7oXC6U5YB37bgJlYv7W81BxgbZ7cVx1CK6UHSAawwr5pEpMWp1NESVr2liE6dXH2mCQ9230JxvaDxXi0MjsTfM1hE+PFuM/6nR0SuaAWN83Pc2BLM3FGITimk=;xKvwOddeLcJPHHh0ovQFig=="
+secured: "Ie32cioNmzwNRxKCIaDnzxhRn9ro8971qpCDwfbrWdmOELEc6HXaTghYVXp6XPfj+Ps61Ut3DRTWBSaH+XduvFgiCsJqJkRPe/J1R7pt5d1DN7oResmIUK0hUaXkywvhnNzZE6q7WhS43Be1POjurUQ2IUOkOgA8XW4aZaXmYYuPyP6Yu6lHf7yvdTaBV6hurqSqhvK7RwQrmFl58LXIbgG26SiuR2128lpoQuVpk1CPtL+SxFuYKjkEdkKarUlCw/P2ZFAWnL8TN/WJO4F9ZQ9thZS/j9Ubhxch/IsG1NbvvWko+mxa8QCIE0JWVaJU+2Uxo1ml7kBnVmfQ183YBYYcip6QqTW6b1IbIEAWh20=;TFvv6MkBhEbWcNm7WcCzlg=="
 ---
 

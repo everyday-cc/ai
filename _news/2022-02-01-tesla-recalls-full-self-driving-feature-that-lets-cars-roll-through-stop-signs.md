@@ -61,6 +61,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ phantom braking problem is getting worse"
+    excerpt: "On Wednesday, a Washington Post analysis found complaints about the automatic braking issue in the EVs are higher than ever in recent months, and the issue could be traced back to recent changes to Tesla's Autopilot software and hardware."
+    publishedDateTime: 2022-02-03T22:13:00Z
+    webUrl: "https://mashable.com/article/tesla-fsd-phantom-braking"
+    ampWebUrl: "https://mashable.com/article/tesla-fsd-phantom-braking?amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/06P6Iwf3lnDbD7b8OPdv0jd/hero-image.fill.size_1200x675.v1643829413.jpg"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Tesla issues recall; self-driving tech can run stop signs"
     excerpt: "DETROIT (AP) — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will ..."
     publishedDateTime: 2022-02-01T13:51:00Z

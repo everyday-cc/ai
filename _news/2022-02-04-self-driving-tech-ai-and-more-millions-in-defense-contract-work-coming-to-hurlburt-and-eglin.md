@@ -2,19 +2,19 @@
 category: news
 title: "Self-driving tech, AI and more: Millions in defense contract work coming to Hurlburt and Eglin"
 excerpt: "HURLBURT FIELD — A San Diego-based company working on self-driving technology and artificial intelligence for the piloting of military aircraft will work at Hurlburt Field for the next 18 months under a $15 million contract for research and development ..."
-publishedDateTime: 2022-02-03T18:20:00Z
-originalUrl: "https://www.usatoday.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
-webUrl: "https://www.usatoday.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
-ampWebUrl: "https://amp.usatoday.com/amp/9224262002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/9224262002"
+publishedDateTime: 2022-02-04T03:33:00Z
+originalUrl: "https://www.tennessean.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
+webUrl: "https://www.tennessean.com/story/news/military/2022/01/28/hurlburt-eglin-give-local-companies-millions-defense-contract-work/9224262002/"
+ampWebUrl: "https://amp.tennessean.com/amp/9224262002"
+cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/9224262002"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Tennessean
+  domain: tennessean.com
 
 topics:
   - AI in Autos
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "U1LXGoFE9OB9/Bmv4RuJXnpeP10kNbJnKdoaMk7N0WywdLZmr7WZMArsMOqnPID5idfwgoEGD7f+d2HjUS6IebnJ/T1D1nfhA5ApUxtVrcnJAXDFegdrn6Oy2nMoUiPL/MsPQG2dBwSAD4NBOMz+o7LtXtTzMX6+ZK+5B0bON0+pdTDN2ZohBnkMR4ukV6FwcTt2rsQKARZn2GDtjLKYCxLPofoRTdkqhRghzKixBjt3rs/phI/oeRU4kbunEZGeNSW/4Z6N3Us51vSiTyPK9ZSfvBlg2GAPGqfwmr7HadJbntH3EkzbGxZ7hGaSRThMdZ5Uux3XvjN2cQyC2NVPAXU0Y7QZE0QqcTotYI99f62BLKClB1RrdagPSDHfrlKUyxLiNQofvs4kz5eQlV/pyHHxFncH4TXz4gKEFgZMMTDLEHut+VTEtZgltmmSxOVPzzYewNFBmKrlT/Qs/gHh4MIli4DojPhZNqjsR+ymez/4wWh1W11ZoI+ZQZIPKtbF5+jpAD7jOX3ltfnn+qaYpQ==;T/FsZBH3XzdeVjz35vlsQw=="
+secured: "hloiWSQiRUZM0NYhnCOlzoj3BCDpMwhy/uOtW5D3+BWBKEHjulY/ncX7ZPLLG3+WExL0ojA0RbUHNdbR+fE/DJoc+IOQpuEJgGvzSJEWsdEHvCW3KhB22T1TBRqXV5HkXfGKkRP7CSI00gLFkR51qCYFEVnsZQmHB7gNVzt70v+Z5YUZm3NK0ll2j2jwKLqJQWPCCyrA6R0VlEsAxlh92RpKWSkXY8JV1Jg6ltgqLwP23ECzyIkuBpQ5pR5Jyn1d31ohfcuRknSvkF/E2JWrOU0VHtyv3Ji9aeNUBNB/JQYtSq1PQw7BfTW9P0qsjB/Rn1CltuEwIU3oVbU2GhvlH5VSFQ2PTUw+i88ZWiIKQ+4=;LfAF+PBUFIF0Wf5E58aXHA=="
 ---
 

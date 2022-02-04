@@ -33,7 +33,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 51
+    quality: 53
 
 secured: "gAFd+hm55K4UOAFvrq22Kcx/lvI5wRoYWAIt5knAGmAosiF9pn8sX+N+EubFbfVI5ciq6i3zaUgFMuv4lVD/v/o6X1zuXRaMDNrlZae6qjNWSzotwaOy1KpyWTpg0ZqmVFuVz842MZ2e7WXlwA0IUa4CvdQWp56VSrZuTEBHz0dSQ4MFGh40Hjad0nQN0+K2olDy7kyZNLLuo6R1y/OR0mCZErlZo8NNUJrgId7Upnic87Vy5tyWABBgQS1zcOlg+TPXVwdf6VkKPFKL70QqGegYgJYtcekT/CaFnxc4QR/pQTN3hMacn/9qeC223S6cQ5FmDyvwsRWGNnnIcLria17rC4eADVohpC81JzNjgP538y/Xt4u34z3MYO6kUd/ST8zuPYt+Gy9jlHyDkLYb7gyhGoeG6b/jddVtaEmJtLMs+2lkzL5KlGZyfMejbSKJmIhlvSW7KumsA7xDdcLxxhBo8J7RwYfcB52OViVBtQcxMmb0I8B/OO3tPPTQ9f09y69x+GN2Qdkyd5tWFywazw==;xS6qClKjPiRbwwTWpykVxA=="
 ---
