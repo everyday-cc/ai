@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 632
+heat: 627
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 12928969
+  followers: 12930206
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Bk7bw56UiR4Rxjh925JX1z5kajTkz3YcQy3wmnzUL8isAziQoYhMTw3XXqSdVcY+MyGNcGwLlmOYQofRUvVp91Rvz4+bXoHIEGBIgqO4IGOeCPCrkSASkJjmyii3GnrnrgQ/h2XJsyxxIoQwj1tdaurH7PCxBae0AYpe5dIUDLOoViZIdBvOWYEGZQ82T/ece7yClMqp3VQd52yFFiav/2My2Mv83oG0pJcL3t/xd4rl4hg9SlweEgy+aCwmb2T96V+FfoGXtElM6dsHu4evsud0p/Jrj60M15ro1lK/Ra3DgQjqbSkRNAItYQztotrr0J0VLM/xM+tb3E8RTrJtuCTQcd34oq52couXZCqFWPB5GmmeFbS1v9ig+tHhUMgCV+Vs6ihjJUzG+DwQF/QNin8o8tX3wpTxM/vm13Pdn3A=;8htFhmi+gD3INomrt6glJQ=="
+secured: "A22hZDm+qpuyy5vCZ9vtksj8Oh089+MGrNqhdCuqBGNCQWHTebfO/iv63sFgRxdYWQl7QVYhvxG+NADM33XIfmiLGj11H5BvYL6/CNfT+73KOMelu735ydOS5dY0c+9kLrqJp4zBEounu5M3uOmz3dG/lMLcM9FypaIWwORvkWtGsRUBvkgcy+QXxoK5AhOToyQ6wxSJFd1NT2C+eaBJvgxvFAzWswTATaTLKhbirgWiQvIONxELP9JYDSl0sfVbe1J8X83gdcKzOiffrq7lHjfQvjuqtKCA4Uc6F7gJXzsf2XOxRANJWsmEN1OjY/Yv8Ug72nDdlgoKNqNiDdoTGqak8UG9gSxv8bsBX7ul6urJ2vJkq4icadrm5rVdzHlVB+vYFZ+FjdbSf/waWQUxLTiMyddDLy2Ih50djmz4UJA=;q8QqLN96BGA60nSviOMBvg=="
 ---
 
