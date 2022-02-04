@@ -1,27 +1,27 @@
 ---
 category: news
-title: "US Treasury considers alternatives to ID.me biometrics for IRS online access"
-excerpt: "An IRS contract being served by ID.me is continuing to generate controversy based on the use of facial recognition and biometric authentication."
-publishedDateTime: 2022-01-31T19:20:00Z
-originalUrl: "https://www.biometricupdate.com/202201/us-treasury-considers-alternatives-to-id-me-biometrics-for-irs-online-access"
-webUrl: "https://www.biometricupdate.com/202201/us-treasury-considers-alternatives-to-id-me-biometrics-for-irs-online-access"
+title: "Facial Recognition Plan from IRS Raises Big Concerns"
+excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+publishedDateTime: 2022-02-04T20:30:00Z
+originalUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/"
+webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/"
 type: article
-quality: 21
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: Scientific American
+  domain: scientificamerican.com
 
 topics:
-  - AWS AI
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/06/25135841/selfie-for-onboarding-identity-verification.jpg"
-    width: 864
-    height: 554
+  - url: "https://static.scientificamerican.com/sciam/cache/file/8276C43B-F484-45D8-A0EAEB4DD77803B6.jpg"
+    width: 790
+    height: 496
     isCached: true
 
 related:
@@ -113,20 +113,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8a908e86-949a-47e2-bb6f-e66f0457fb1d/4c62452d-7cfc-444a-ae22-e6e0f44db918/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Facial Recognition Plan from IRS Raises Big Concerns"
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-    publishedDateTime: 2022-02-04T20:30:00Z
-    webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 54
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/8276C43B-F484-45D8-A0EAEB4DD77803B6.jpg"
-        width: 790
-        height: 496
         isCached: true
   - title: "The IRS plan to require face scans raises concerns about privacy and security"
     excerpt: "It's a major expansion of facial recognition technology by the U.S. government, and it's raising questions about how this kind of data will be used and shared across private and public agencies. Ina Fried, chief technology correspondent for Axios ..."
@@ -281,7 +267,21 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "US Treasury considers alternatives to ID.me biometrics for IRS online access"
+    excerpt: "An IRS contract being served by ID.me is continuing to generate controversy based on the use of facial recognition and biometric authentication."
+    publishedDateTime: 2022-01-31T19:20:00Z
+    webUrl: "https://www.biometricupdate.com/202201/us-treasury-considers-alternatives-to-id-me-biometrics-for-irs-online-access"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/06/25135841/selfie-for-onboarding-identity-verification.jpg"
+        width: 864
+        height: 554
+        isCached: true
 
-secured: "g/yYSep9uKOKMnMmBmGqGdGCHY3/VX5sR3xXLYe0oBCGRcopCG7Ymno3mv4vVDgeh0jfSzgzuq81LRbi8AbrTxll0Rz6L7g9LxaDO94PRuAKSikmYbqt0Lkj64nmvNp7mTxqjLMW5EglnHK7omnHRkEp+O36Jl647Bz+keEJvrzfBa+92CM0yHnmcE/GIHwoTfV1H9micRLUU/7KUWe6og2soGGqgaw6wsFNMsWqnVkLeL1Nm2QRYwA282PQkHTzGtYjI79Gsligy8m1LGiAE1kh+C5QZxnEfRAzNCJU4wy1dE+IMVsJ3b1HExbWRhnd7WrnN2B7H33UKatmnPVHMokMaQQPFwaPfd55pdezHowdQHT8XHKw+0lUKc8Q+7y+eHojtRO3sXDcYT8fFIE1rJFvrz3jEN04h+mWQY6B3vKwoAhbBdNVhyyAcPjlshmARA3O2T6Y2amYljQEQ7ZcC6w9r9uDygBAiKs2qSSKbOvLot4yO8iHn0ssJyC8k0cD7WXVZFYs8EVDk8VLgu12IQ==;91ZuojPvZo/vCXAlLUDcgA=="
+secured: "fj1YsE68mv06z1XlRElZJrckKbrohTd4t6BF0XCon0VESDBCMxMmRsBbPk9CSoyx2xcdyN4jEYFjV6IddyqaiuWxHhrepKdCArP9OOEsVyIuwPfhheanDaNkT59PvRKZ4QqvVrTOxfDzyjgvTSRaSqRaBkwlrwi8G8joCiHoiHwlnBMGvSR9gK7bpTI8DymZZ79BlRUD9oYY5VzZnOKiUwidBcYBzhr3sZIi2iTLsvJNk7l7K1rad5cq5M8VelIRcoibEmkTkW+W7eCPRcr8lFO4L6L6aS1oRoMpOAlaDCernDRV1J7lkEf0h9KSmiCEbdJCIq+4G5NLtmLqhETDmXSsaGGAfnquu/06uhEJIKs=;OXNvELDco2DDwlA5zL9z4A=="
 ---
 

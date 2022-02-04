@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-07-natural-language-processing-in-psychiatry-the-promises-and-perils-of-a-transformative-approach.md",
+      "title": "Natural language processing in psychiatry: the promises and perils of a transformative approach",
+      "excerpt": "Crucially, what is concealed to the typical human observer can be revealed through computational tools made available through machine learning and natural language processing (NLP). NLP is a subdivision of computer science that focuses on the learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/natural-language-processing-in-psychiatry-the-promises-and-perils-of-a-transformative-approach/1EF95BF39C8C663026E5ED49C4FFC5EB",
+      "originalUrl": "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/natural-language-processing-in-psychiatry-the-promises-and-perils-of-a-transformative-approach/1EF95BF39C8C663026E5ED49C4FFC5EB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-natural-language-processing-nlp.md",
       "title": "Natural Language Processing (NLP)¶",
       "excerpt": "nowadays, a lot of natural language processing is statistical in nature, i.e. it uses statistical and probabilistic algorithms to learn rules for solving language problem such techniques don’t have a deep understanding of language in the way that humans ...",
@@ -1350,49 +1384,6 @@
       "provider": {
         "name": "cio.economictimes.indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
-      "title": "In Africa, rescuing the languages that Western tech ignores",
-      "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/",
-      "originalUrl": "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/12/24/PDTN/c7fad02d-adbe-4204-bd09-9f438ace1084-AP21356747118534.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/9013584002",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/9013584002",
-      "publishedDateTime": "2021-12-23T21:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
         "images": null,
         "publishers": null,
         "authors": null

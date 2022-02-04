@@ -111,6 +111,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facial Recognition Plan from IRS Raises Big Concerns"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-04T20:30:00Z
+    webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 54
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/8276C43B-F484-45D8-A0EAEB4DD77803B6.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "Another lawmaker raises concerns with IRS plan to use facial recognition"
     excerpt: "Sen. Roger Wicker, R-Miss., is asking the IRS to provide answers to a series of questions around their use of facial recognition and third-party vendor ID.me by Feb. 17. (Photo by Joshua Roberts/Getty Images) The ranking Republican on the Senate Commerce ..."
     publishedDateTime: 2022-02-04T18:55:00Z

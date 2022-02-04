@@ -66,15 +66,6 @@ related:
       name: ICTSD
       domain: ictsd.org
     quality: 15
-  - title: "How Coke Cola Is Using Artificial Intelligence To Improve Business Process?"
-    excerpt: "What Business Strategy Does Coca-Cola Use? We are focusing on choice, convenience, and the consumer with our new business strategy. With Coca-Cola’s evolving business strategy,"
-    publishedDateTime: 2022-01-31T04:48:00Z
-    webUrl: "https://www.ictsd.org/how-coke-cola-is-using-artificial-intelligence-to-improve-business-process/"
-    type: article
-    provider:
-      name: ICTSD
-      domain: ictsd.org
-    quality: 15
 
 secured: "a0LfqkLo7NQVOhdxzDC5aKKkVSIG158W8qI8k9ImqJ66OfXEfIUo418DWqP5QK0yUWq2bS+P+bC8emThS+vdatEfhqkl1cLxlT0sdXf5wqNV+Xd7YV+W2y4OW+OoHAYWdjjupSwiahVvCz5fGYcBavAlt2s/fpC1opTTLk2aZOpVZPRhn+thzjGRKlrQenxqXb8uYs9pOkHtio8Iegh1iS3W8m0bEdGeRhnOc85Y1HZ08mw8w+Po6mG6nuJPKkxfL+yp09/Ojj/4ztmOdfZwZN7JCxacnGIx/QHhuSd4RlaZHHkvvGgHZgtIVWcnD+e7oFpPDSocNO0DW40BvtkVf5VR0aoJlZEQC4N2jPXpa9g=;PI/5VBkCU41K/fj2DwAgnw=="
 ---

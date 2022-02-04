@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-02-five-fintech-predictions-for-2022.md",
+      "title": "Five Fintech Predictions For 2022",
+      "excerpt": "Automation solutions like robotic process automation (RPA) are ideal in increasing workplace efficiencies, while also eliminating cost-creating redundancies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/619bb0ad1e58e165649de1e8/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/",
+      "publishedDateTime": "2022-02-02T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-turkey-taps-artificial-intelligence-in-its-fight-against-wildfires.md",
+      "title": "Turkey taps artificial intelligence in its fight against wildfires",
+      "excerpt": "The Ministry of Agriculture and Forestry plans to implement artificial intelligence (AI) technology to tackle forest fires, which destroyed large swaths",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news",
+      "originalUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/02/02/thumbs/800x531/179522.jpg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news/amp",
+      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news/amp",
+      "publishedDateTime": "2022-02-02T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sabah",
+        "domain": "dailysabah.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-ai-could-cut-hiring-biases-as-companies-make-push-to-find-workers-proponents-say.md",
       "title": "AI Could Cut Hiring Biases as Companies Make Push to Find Workers, Proponents Say",
       "excerpt": "While the potential for bias in AI has been a concern, some say well-crafted algorithms can help companies be fairer in their hiring decisions.",
@@ -687,6 +781,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-01-ai-collaboration-to-create-personalized-healthcare.md",
+      "title": "AI Collaboration to Create Personalized Healthcare",
+      "excerpt": "Health at Scale and Walmart's AI collaboration will enable the retailer's employees to find providers and interventions that are a fit for their personal health needs.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare",
+      "originalUrl": "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 295,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare",
+      "publishedDateTime": "2022-02-01T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-oleg-rogynskyy-founds-people-ai-to-increase-sales-productivity.md",
       "title": "Oleg Rogynskyy Founds People AI To Increase Sales Productivity",
       "excerpt": "People.AI is an artificial intelligence (AI) platform for enterprise revenue, helping sales, marketing, and customer success teams uncover every revenue opportunity by capturing all customer contacts,",
@@ -1064,152 +1201,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-using-cosmic-radiation-to-make-art-with-ai-and-blockchain.md",
-      "title": "Using Cosmic Radiation To Make Art With AI And Blockchain",
-      "excerpt": "AI-generated image as part of art work initative Celestium on the International Space Station. Celestium, developed by Artificial Mind and the artist Cecilie Waagner Falkenstrøm, is a hybrid AI-blockchain algorithm that uses data from cosmic radiation it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f884edf630cd90e840ec2b/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1017,
-          "height": 1007,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/02/01/using-cosmic-radiation-to-make-art-with-ai-and-blockchain/amp/",
-      "publishedDateTime": "2022-01-31T21:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-now-for-the-hard-part-deploying-ai-at-scale.md",
-      "title": "Now for the hard part: Deploying AI at scale",
-      "excerpt": "There's still a lot of work to do before organizations can push the value proposition and scalability of AI to its limits.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/31/now-for-the-hard-part-deploying-ai-at-scale/",
-      "originalUrl": "https://venturebeat.com/2022/01/31/now-for-the-hard-part-deploying-ai-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1337227407-e1643640496556.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/31/now-for-the-hard-part-deploying-ai-at-scale/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/31/now-for-the-hard-part-deploying-ai-at-scale/amp/",
-      "publishedDateTime": "2022-01-31T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse.md",
-      "title": "Meta builds AI Research SuperCluster for future AI and the metaverse",
-      "excerpt": "Each GPU communicates over a 200 Gb/s HDR Infiniband network ... Meta built the RSC to train large AI models in natural language processing (NLP), and to research and train models using trillions of examples. It will also aid in building AI that works ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527",
-      "originalUrl": "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2022/01/GettyImages-13075344431-696x391-1-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/120527?amp=1",
-      "publishedDateTime": "2022-01-31T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

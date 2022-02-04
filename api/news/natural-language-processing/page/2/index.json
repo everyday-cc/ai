@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-18-natural-language-processing-market-key-drivers-in-2022-regional-investments-top-competitors-and-industry-share.md",
+      "title": "Natural Language Processing Market Key Drivers in 2022, Regional Investments, Top Competitors and Industry Share",
+      "excerpt": "Jan 18, 2022 (The Expresswire) -- The global “Natural Language Processing Market 2022” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-drivers-in-2022-regional-investments-top-competitors-and-industry-share-2022-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-drivers-in-2022-regional-investments-top-competitors-and-industry-share-2022-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-17-natural-language-processing-nlp-software-market-statistics-development-and-growthmarket-players-google-explosion-ai-ibm-2022-2027.md",
       "title": "Natural Language Processing (NLP) Software Market Statistics, Development and Growth,Market Players: Google, Explosion AI, IBM-2022- 2027",
       "excerpt": "Jan 17, 2022 (Heraldkeepers) -- The Natural Language Processing (NLP) Software Market report provides a detailed analysis of global market size, regional and country-level market size ...",
@@ -1411,40 +1463,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-natural-language-processing-in-psychiatry-the-promises-and-perils-of-a-transformative-approach.md",
-      "title": "Natural language processing in psychiatry: the promises and perils of a transformative approach",
-      "excerpt": "Crucially, what is concealed to the typical human observer can be revealed through computational tools made available through machine learning and natural language processing (NLP). NLP is a subdivision of computer science that focuses on the learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/natural-language-processing-in-psychiatry-the-promises-and-perils-of-a-transformative-approach/1EF95BF39C8C663026E5ED49C4FFC5EB",
-      "originalUrl": "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/natural-language-processing-in-psychiatry-the-promises-and-perils-of-a-transformative-approach/1EF95BF39C8C663026E5ED49C4FFC5EB",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

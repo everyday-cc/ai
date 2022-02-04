@@ -46,6 +46,101 @@
       ]
     },
     {
+      "path": "_news/2022-01-24-ibm-bids-farewell-to-watson-health-assets.md",
+      "title": "IBM Bids Farewell to Watson Health Assets",
+      "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
+      "originalUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/IBM%20corporate%20headquarters%20sign.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-23T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-ibm-is-selling-off-its-watson-health-assets.md",
+      "title": "IBM is selling off its Watson Health assets",
+      "excerpt": "Watson Health was borne out of IBM's larger Watson effort, which aims to use artificial intelligence to solve a range of problems for businesses and consumers — from creating a computer that can ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220121123649-ibm-office-californie-file-0120-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "publishedDateTime": "2022-01-21T21:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-22-ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai.md",
       "title": "AI Weekly: Watson Health and semi-autonomous driving failures show the dangers of overpromising AI",
       "excerpt": "AI technologies can fall short of their promise, as news from this week about Watson Health and semi-autonomous driving systems showed.",
@@ -174,58 +269,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-is-selling-off-its-watson-health-assets.md",
-      "title": "IBM is selling off its Watson Health assets",
-      "excerpt": "Watson Health was borne out of IBM's larger Watson effort, which aims to use artificial intelligence to solve a range of problems for businesses and consumers — from creating a computer that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "originalUrl": "https://www.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220121123649-ibm-office-californie-file-0120-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
-      "publishedDateTime": "2022-01-21T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

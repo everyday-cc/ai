@@ -41,21 +41,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Chinese researchers claim to develop AI nanny. Find out the truth"
-    excerpt: "In what may seem like a rerun of a Hollywood movie, Chinese researchers have claimed to develop an artificial intelligence nanny, which can monitor and take care of embryos as they grow into foetuses in an artificial womb environment."
-    publishedDateTime: 2022-01-31T04:25:00Z
-    webUrl: "https://www.wionews.com/science/chinese-researchers-claim-to-develop-ai-nanny-find-out-the-truth-449099"
-    ampWebUrl: "https://www.wionews.com/science/chinese-researchers-claim-to-develop-ai-nanny-find-out-the-truth-449099/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/chinese-researchers-claim-to-develop-ai-nanny-find-out-the-truth-449099/amp"
+  - title: "Chinese scientists build robot nanny to care for babies in artificial womb"
+    excerpt: "Scientists in China have created a robotic artificial intelligence system to monitor and care for ... Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today."
+    publishedDateTime: 2022-02-04T19:08:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
+    ampWebUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
+    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
     type: article
     provider:
-      name: WION
-      domain: wionews.com
+      name: The Independent
+      domain: independent.co.uk
     quality: 57
     images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/01/31/237398-ai-nanny.jpg"
-        width: 918
-        height: 506
+      - url: "https://static.independent.co.uk/2022/01/31/16/robot%20nanny%20china.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 899
         isCached: true
   - title: "Chinese dissident Ai voices criticism as Winter Games open"
     excerpt: "Ai Weiwei, possibly China's best-known dissident, aired criticism of Beijing's human rights record and response to the pandemic, in an interview with The Associated Press Friday, in which he also took aim at World Health Organization Director-General ..."

@@ -41,20 +41,6 @@ related:
         width: 740
         height: 462
         isCached: true
-  - title: "Study: Indian AI startup funding in 2021"
-    excerpt: "The numbers reflect the demand, with start-up funding increasing to $1,108 million in 2021 compared to $836.3 million in 2020."
-    publishedDateTime: 2022-01-31T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/study-indian-ai-startup-funding-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Startup-Funding-2021-scaled.jpg"
-        width: 2560
-        height: 1280
-        isCached: true
 
 secured: "5StHR4gWvArk4xs59+9++xWK6O6uT+YKPK/QGbDGf1pLuw3ApegNeDmunY93mt9MwZkgKwiUX+U9AmDHTvyz1qlokoOtXA7qoahodVl4F1YyZs5bb+YTPt1P0alH/Z3MH12o4NidxUVs21Nmy7GxBmWsX6nR1vw0ajHs2fVONRRqlkpu7tmfSyjPmgu2jFQ5oSxzyyXYvY8yjalyVl+DM/wFNzkt4+mjkdnfsQsjs5QaST3ZKUTawx1PzycOJ47Bww6kC+vT3fWSbzFhvHIsKFHlp4ouBsy+1l0uvN3N/3XOlc9C3fsnVJvOYzFzeG3NjzJmY4/HIRK9LVafkY3GYUrEX8+okQGHtC+d1WlxvXmlDSn2CGme9kqRik/O6Ivty+cw61Rm/fhPYboiNkkpzamKQkvPrUit0CyVdHBi7URvYL7gC5zUs+lWEhT67pE1HDK+igpK8C2Mg7XIsvyN/9r5xIxuTuitW4gmIOAubE5mq6Z+u2LC0IwLSexuDPle/IvCiJG6wQhHQDSNw4zhyg==;tUX/cUOqpEEZ/DixlqaWYQ=="
 ---

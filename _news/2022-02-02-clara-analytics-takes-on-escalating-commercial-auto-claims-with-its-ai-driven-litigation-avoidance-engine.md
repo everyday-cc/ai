@@ -39,6 +39,20 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "The Benefits of Artificial Intelligence in Detecting Machine Failure"
+    excerpt: "Technology continues to evolve at an exponential rate. From one year to the next, we are presented with exceptional new innovations that can effectively make our jobs and everyday lives easier. Artificial intelligence (AI),"
+    publishedDateTime: 2022-02-02T11:05:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/benefits-artificial-intelligence-detecting-machine-failure"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 52
+    images:
+      - url: "https://financialit.net/sites/default/files/aimonitoring.jpg"
+        width: 1000
+        height: 643
+        isCached: true
 
 secured: "Ie32cioNmzwNRxKCIaDnzxhRn9ro8971qpCDwfbrWdmOELEc6HXaTghYVXp6XPfj+Ps61Ut3DRTWBSaH+XduvFgiCsJqJkRPe/J1R7pt5d1DN7oResmIUK0hUaXkywvhnNzZE6q7WhS43Be1POjurUQ2IUOkOgA8XW4aZaXmYYuPyP6Yu6lHf7yvdTaBV6hurqSqhvK7RwQrmFl58LXIbgG26SiuR2128lpoQuVpk1CPtL+SxFuYKjkEdkKarUlCw/P2ZFAWnL8TN/WJO4F9ZQ9thZS/j9Ubhxch/IsG1NbvvWko+mxa8QCIE0JWVaJU+2Uxo1ml7kBnVmfQ183YBYYcip6QqTW6b1IbIEAWh20=;TFvv6MkBhEbWcNm7WcCzlg=="
 ---

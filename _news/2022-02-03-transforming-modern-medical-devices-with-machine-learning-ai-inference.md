@@ -7,8 +7,8 @@ originalUrl: "https://www.designnews.com/industry/transforming-modern-medical-de
 webUrl: "https://www.designnews.com/industry/transforming-modern-medical-devices-machine-learning-ai-inference"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Design News
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Benefits of Artificial Intelligence in Detecting Machine Failure"
+    excerpt: "Technology continues to evolve at an exponential rate. From one year to the next, we are presented with exceptional new innovations that can effectively make our jobs and everyday lives easier. Artificial intelligence (AI),"
+    publishedDateTime: 2022-02-02T11:05:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/benefits-artificial-intelligence-detecting-machine-failure"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 52
+    images:
+      - url: "https://financialit.net/sites/default/files/aimonitoring.jpg"
+        width: 1000
+        height: 643
+        isCached: true
   - title: "CLARA Analytics Takes On Escalating Commercial Auto Claims With Its AI-Driven Litigation Avoidance Engine"
     excerpt: "As commercial auto losses continue to climb, CLARA Analytics (“CLARA”), the leading provider of artificial intelligence (AI) technology in the commercial insurance industry, releases its latest Litigation for Commercial Auto,"
     publishedDateTime: 2022-02-02T14:32:00Z

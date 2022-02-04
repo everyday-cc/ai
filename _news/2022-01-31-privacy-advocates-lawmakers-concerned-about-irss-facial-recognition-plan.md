@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
 type: article
 quality: 87
-heat: 257
+heat: 267
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8a908e86-949a-47e2-bb6f-e66f0457fb1d/4c62452d-7cfc-444a-ae22-e6e0f44db918/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Facial Recognition Plan from IRS Raises Big Concerns"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-04T20:30:00Z
+    webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 54
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/8276C43B-F484-45D8-A0EAEB4DD77803B6.jpg"
+        width: 790
+        height: 496
         isCached: true
   - title: "The IRS plan to require face scans raises concerns about privacy and security"
     excerpt: "It's a major expansion of facial recognition technology by the U.S. government, and it's raising questions about how this kind of data will be used and shared across private and public agencies. Ina Fried, chief technology correspondent for Axios ..."

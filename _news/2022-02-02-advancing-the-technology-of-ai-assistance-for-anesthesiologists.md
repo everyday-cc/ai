@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anest
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,65 +27,77 @@ images:
     isCached: true
 
 related:
-  - title: "China sets the pace in adoption of AI in healthcare technology"
-    excerpt: "It’s like I am back in China with her. The technology is so convenient,” says Li. China has been quick to deploy a range of new technologies to relieve the burden on hospitals, care systems and families caring for the sick and elderly."
-    publishedDateTime: 2022-01-31T05:00:00Z
-    webUrl: "https://www.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
-    ampWebUrl: "https://amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
+  - title: "Max Hospital launches AI based cancer treatment technology"
+    excerpt: "This technique destroys or reduces tumors by combining the precision of intensity-modulated radiation therapy and image guided scan"
+    publishedDateTime: 2022-02-02T06:32:00Z
+    webUrl: "https://www.expresshealthcare.in/news/max-hospital-launches-ai-based-cancer-treatment-technology/433321/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/max-hospital-launches-ai-based-cancer-treatment-technology/433321/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/max-hospital-launches-ai-based-cancer-treatment-technology/433321/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 74
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 59
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd231b63e-2186-47c8-9939-6645634a32e5.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/02/02122810/admin-ajax-4-1.jpg"
+        width: 750
+        height: 400
         isCached: true
-  - title: "AI Collaboration to Create Personalized Healthcare"
-    excerpt: "Health at Scale and Walmart's AI collaboration will enable the retailer's employees to find providers and interventions that are a fit for their personal health needs."
-    publishedDateTime: 2022-02-01T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
+  - title: "“Center for Responsible AI Technologies” founded"
+    excerpt: "Closely linked to this is the professorship “Ethics of AI in Neuroscience” at TUM, which investigates AI topics from a social science and medical perspective. At the University of Augsburg ..."
+    publishedDateTime: 2022-02-03T16:44:00Z
+    webUrl: "https://idw-online.de/en/news787819"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 74
+      name: idw
+      domain: idw-online.de
+    quality: 39
     images:
-      - url: "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 295
+      - url: "https://files.idw-online.de/corona_idw.png"
+        width: 615
+        height: 284
         isCached: true
-  - title: "Can AI help you save money on healthcare? This insurance company thinks so"
-    excerpt: "Using a combination of tech and machine learning, this service is giving employees a future timeline for their medical journey."
-    publishedDateTime: 2022-01-31T19:30:00Z
-    webUrl: "https://www.benefitnews.com/advisers/news/ai-can-help-employees-with-health-plan-costs-according-to-marpai"
+  - title: "5 Ways AI Is Changing the Face of Learning"
+    excerpt: "Learn what's in store for corporate learning with AI.  I’ve been in the education business for decades as a senior lecturer, trainer and CEO. When people ask me about the biggest challenge that learners face,"
+    publishedDateTime: 2022-02-01T22:43:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/5-Ways-AI-Is-Changing-the-Face-of-Learning-16822491.php"
     type: article
     provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 52
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 37
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/e957155/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb7%2Fc2%2F297181da4bb8b3e7858e1a017d27%2Fpexels-rodnae-productions-7821913.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.hdnux.com/photos/01/23/65/41/21977155/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "The Benefits of Artificial Intelligence in Detecting Machine Failure"
-    excerpt: "Technology continues to evolve at an exponential rate. From one year to the next, we are presented with exceptional new innovations that can effectively make our jobs and everyday lives easier. Artificial intelligence (AI),"
-    publishedDateTime: 2022-02-02T11:05:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/benefits-artificial-intelligence-detecting-machine-failure"
+  - title: "Bethesda based startup uses AI technology for birthday greetings from Presidents and Royalty"
+    excerpt: "BestWishes.ai BestWishes.ai Celebrity Birthday Wishes AI startup is making birthdays great again, with personalized videos from f"
+    publishedDateTime: 2022-01-31T23:45:00Z
+    webUrl: "https://menafn.com/1103620875/Bethesda-based-startup-uses-AI-technology-for-birthday-greetings-from-Presidents-and-Royalty"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 52
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 26
     images:
-      - url: "https://financialit.net/sites/default/files/aimonitoring.jpg"
-        width: 1000
-        height: 643
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?816709"
+        width: 374
+        height: 250
+        isCached: true
+  - title: "GBT Technologies Inc’s (GTCH) AI driven-technology could reshape the world and potentially earn billions of dollars"
+    excerpt: "\"AI Stocks\"A small company called GBT Technologies Inc. (OTC PINK: GTCH) develops AI-driven technology primarily for the medical industry as well as"
+    publishedDateTime: 2022-02-01T17:30:00Z
+    webUrl: "https://www.digitaljournal.com/pr/gbt-technologies-incs-gtch-ai-driven-technology-could-reshape-the-world-and-potentially-earn-billions-of-dollars"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.abnewswire.com/uploads/1643591440.jpeg"
+        width: 1500
+        height: 1000
         isCached: true
 
 secured: "nuJVCrZw0WbV8LAn4SdwBuPS5K1qeFnIRG79SRt5ae0pNTSKtVSM5qAY0m0wm6/zXcNXs5PQ6JFd+g7gmAzMcKXP04A1v7byyL0iZ6kSswuFWpwO0JUq+s7GOTDCQ+Y0PrDJavmAcOkfwSN+VyU3iYsm/4mZLT1Q94SBpeVCnDQ2/uRZw866FUmlsFMA8ZRGI3+X7u8K8LbNKU+o0+eVgXtLWsByozB1YIC5Cj6LdFCyopdqw7l6PT3KEOU1dEZEoCgVQuAiwQUVjXJMMoskqarF9zrBJgWBic7Pep3TV0NKbKY1eek/9jI92JBHN5Fk3OMCiXnVBWnKvx8NVodXB/D7/IESmfq4iFcM2VXH5M4=;fZlC/ngDQQ1QBI/EBlEudA=="

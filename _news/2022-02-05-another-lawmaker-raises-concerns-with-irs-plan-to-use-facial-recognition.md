@@ -114,6 +114,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facial Recognition Plan from IRS Raises Big Concerns"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-04T20:30:00Z
+    webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 54
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/8276C43B-F484-45D8-A0EAEB4DD77803B6.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "The IRS plan to require face scans raises concerns about privacy and security"
     excerpt: "It's a major expansion of facial recognition technology by the U.S. government, and it's raising questions about how this kind of data will be used and shared across private and public agencies. Ina Fried, chief technology correspondent for Axios ..."
     publishedDateTime: 2022-02-01T16:32:00Z
@@ -268,6 +282,6 @@ related:
         height: 554
         isCached: true
 
-secured: "ij1XzC3d3plavFU3RCfg/nWGnI02u91/5vU1e+MH2SnYDdbBXKwJqZ3eqkKDfS/aqq4M2PBIczb7zYFlImFKizdvd4gbvm6tPzuEVk5BgUg93ndLuYsM5QQs33atews0B6j3qxvrbu1/PZRQ2wb0g90ZQiv4/VRGUSH5rncoirjMy7b1LvdMGEoO8TkZ4/ssPQfZRf4/KbROmoJ5pR1AGnbufj2GpGomhz0ooPHbkkuwUbHTuhXMgUqpyvHdpxIlVRMvUmSmPDXzFTZndcfdOqF1OgigT6dW4TAIcGLtot14049F4XG/xz44RFZuhdn+65W76DLTjVz70TheJKLg/vipt7yfhtATkyShSBqu6mQ=;vo2ghUWiDNgTUzVjOQiMqQ=="
+secured: "WghDQKX+yqrjlbPCWJFtqjjLYqmIyBbHBkY0TpQcw89oumoF+fTsrM0xv1wEQrDCmw58KX0d++WGHDbBgfXDoHs5rE71WMDDTpwBWLAdhs/SrJdN8eG/mYgK2woNP7QB5x8m1q5d3DNggKVD/xPNID9cwvjSX0AsDsTQBu1ZsE5YrbvfzrZUI/fcQsBR2UCCNYqKuYwt44PNbKdll6WWEU/RpuIrLE+JRPp5Y6JY/p+LZpZesmYhZlhBbGRtrZARcRozCel3Vd+VZe0FOqeIAhdz3LEy20fsIRXPXXGo85hk8g/0Ja3svBSM7g5X13GCP5TGCivWaIF7sIVI9n45Sax7ObIlEJalH+d7YIJhaBvf1siYGvxzcmb7o0Jrt7qLrfjQRovgKyyVE6egdGV74i7ut/+keTH4bl/V4Ilme+qoXMWPpNV6Euh1Q/Oz0BoMNg/nQR1fY0zJy2jwlFb+35CqWZmP744+ouZ7qHigfpiaV60JG1xCZCbrSF4s+rpXIcpY8MBWseqXub4lijVBaw==;Vu+PIETf3wgbJS1EfxAqUQ=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "IBM is selling off its Watson Health assets"
 excerpt: "Watson Health was borne out of IBM's larger Watson effort, which aims to use artificial intelligence to solve a range of problems for businesses and consumers — from creating a computer that can ..."
-publishedDateTime: 2022-01-21T19:59:00Z
-originalUrl: "https://www.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html"
-webUrl: "https://www.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html"
+publishedDateTime: 2022-01-22T05:31:00Z
+originalUrl: "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html"
+webUrl: "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 619
     isCached: true
 
-secured: "eR52GQT7vaXZD55zDQT6q+GWxp43EOlJK6AJpwEW6LXonyrO/aA2GPpqQZBhy69MtAhmWrz4szGYny2BMSlmdXNFCjRDaY5sbHzxkFUF8Q3ThGQ1kXbyMHDbb4kqiPuae3kiVmdiPjxBgNfkUqwsQjPplsg2+kDXGlnL+gXEV4DxNfWbdz/txjYlQOWgPiblJxYFm4FBjmc0zZSLjgw0GfyohIsm8Hm6inYw6Y7QWNYaJhV48Ob5brJc10ae8XqH8yfzoa04kkkXi2n0Ryy7NeAN4w+VjWPP7xSWmiAJz+0hGG7bBXcRtJK/CA24ABU29pUM7E9J97XahnEwvGuGG7xlMYEfp5akL8xGJaAW2k0=;qkcA87cqs6brZ5vMn7ziyQ=="
+secured: "vqKNAiOeeZwiz0l1946n5YPyTcp9sk5JdUmki2Ul3y0vjq03lgCoI8HIoplh5IBXFTU3y35CYnGHZ8yIHprWU5zXEHW3B3Qj7XnnK4MaXQqrn3ozmgOU7PuKbiTmFZevwxwGEhGMFXzBE52gyuhMvfG3M1/hD+LamYGnknTOi/iQ+uzkz4hAudptd2tsfT4DFnIiw8VFWRf/b0ZiPziwHk5BtmNZhevhsGIF6rcccO1+ddlhOf7vuL0+WS62LA0v8MqOsRRMTshkDnByRIDKRx4ZbJX+51eDbrO25pv1nqEw96V/JEb9+ve0VDvWwdXl6Gd6UnVI1JHyDXUhilCYyW2p2uOh00AcSaJWd63krWk=;5wKE8FyXxeO0gK8bRMr4zw=="
 ---
 

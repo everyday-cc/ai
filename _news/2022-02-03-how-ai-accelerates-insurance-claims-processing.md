@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-clai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
     excerpt: "What Business Strategy Does Coca-Cola Use? We are focusing on choice, convenience, and the consumer with our new business strategy. With Coca-Cola’s evolving business strategy, it will become a total beverage company that offers a diverse line of drinks with low or no sugar in different packages and from different locations – including low-sugar and no-sugar options."
     publishedDateTime: 2022-01-31T08:47:00Z
     webUrl: "https://www.ictsd.org/how-coca-cola-is-using-artificial-intelligence-to-improve-business-process/"
-    type: article
-    provider:
-      name: ICTSD
-      domain: ictsd.org
-    quality: 15
-  - title: "How Coke Cola Is Using Artificial Intelligence To Improve Business Process?"
-    excerpt: "What Business Strategy Does Coca-Cola Use? We are focusing on choice, convenience, and the consumer with our new business strategy. With Coca-Cola’s evolving business strategy,"
-    publishedDateTime: 2022-01-31T04:48:00Z
-    webUrl: "https://www.ictsd.org/how-coke-cola-is-using-artificial-intelligence-to-improve-business-process/"
     type: article
     provider:
       name: ICTSD

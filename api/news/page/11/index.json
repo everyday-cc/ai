@@ -2,6 +2,153 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-24-why-your-next-home-will-be-built-by-robots.md",
+      "title": "Why Your Next Home Will Be Built By Robots",
+      "excerpt": "A quiet revolution is occurring in the systems used to create modern housing. The new twist on an old method is called volumetric modular manufacturing (VMM).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ead0c48891970940d30501/0x0.jpg?format=jpg&crop=3524,2348,x829,y0,safe&fit=crop",
+          "width": 3524,
+          "height": 2348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/24/why-your-next-home-will-be-built-by-robots/amp/",
+      "publishedDateTime": "2022-01-24T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-tcv-backs-canadian-ai-startup-that-accelerates-drug-research.md",
+      "title": "TCV Backs Canadian AI Startup That Accelerates Drug Research",
+      "excerpt": "TCV and Inovia Capital are leading a $50 million funding round for a Canadian biomedical software startup that has some of the world’s largest pharmaceutical companies as clients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canadian-ai-startup-that-accelerates-drug-research",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canadian-ai-startup-that-accelerates-drug-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGEeAY9waLeU/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-we-are-indias-1st-telco-to-build-big-data-aiml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.md",
+      "title": "We are India's 1st telco to build Big Data AI/ML Cloud Advanced Analytics Platform on AWS: Vodafone Idea",
+      "excerpt": "The Indian telecom industry has been at the heart of the technology driven disruption over the last decade. With over 986 million active wireless subs..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-89093127,imgsize-41536,width-1200,height-628,overlay-etcio/we-are-india-s-1st-telco-to-build-big-data-ai-ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
+      "publishedDateTime": "2022-01-24T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-we-are-indias-1st-telco-to-build-big-data-aiml-cloud-advanced-analytics-platform-on-aws-vodafone.md",
       "title": "We are India's 1st telco to build Big Data AI/ML Cloud Advanced Analytics Platform on AWS: Vodafone",
       "excerpt": "The Indian telecom industry has been at the heart of the technology driven disruption over the last decade. With over 986 million active wireless subscribers, the industry has an opportunity to also drive transformation for businesses across industries.",
@@ -336,6 +483,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-ibm-bids-farewell-to-watson-health-assets.md",
+      "title": "IBM Bids Farewell to Watson Health Assets",
+      "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
+      "originalUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/IBM%20corporate%20headquarters%20sign.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-23T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -980,21 +1170,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-22-ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai.md",
-      "title": "AI Weekly: Watson Health and semi-autonomous driving failures show the dangers of overpromising AI",
-      "excerpt": "AI technologies can fall short of their promise, as news from this week about Watson Health and semi-autonomous driving systems showed.",
+      "path": "_news/2022-01-22-ibm-is-selling-off-its-watson-health-assets.md",
+      "title": "IBM is selling off its Watson Health assets",
+      "excerpt": "Watson Health was borne out of IBM's larger Watson effort, which aims to use artificial intelligence to solve a range of problems for businesses and consumers — from creating a computer that can ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/",
-      "originalUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/",
+      "webUrl": "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/ibm_watson_avatar_pos-e1560280426131.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220121123649-ibm-office-californie-file-0120-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1002,16 +1192,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/amp/",
-      "publishedDateTime": "2022-01-21T21:30:00-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "publishedDateTime": "2022-01-21T21:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1028,188 +1218,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-ibm-sells-its-watson-healthcare-assets-to-francisco-partners.md",
-      "title": "IBM sells its Watson healthcare assets to Francisco Partners",
-      "excerpt": "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Francisco Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "originalUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/import/2014/05/ibm.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 917,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
-      "publishedDateTime": "2022-01-21T21:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications.md",
-      "title": "Telenor teams with AWS to accelerate modernisation of telecommunications",
-      "excerpt": "Telenor, an international provider of tele, data and media communications services, and AWS will invest in joint go-to-market activities in select industries—such as manufacturing, supply chain and logistics,",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/telecoms-and-nbn/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications.html",
-      "originalUrl": "https://itwire.com/telecoms-and-nbn/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/b5bf9e446b95b7a0bd33dbe4eed25746_M.jpg",
-          "width": 375,
-          "height": 211,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T17:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-irs-to-require-facial-recognition-for-digital-services.md",
-      "title": "IRS to Require Facial Recognition for Digital Services",
-      "excerpt": "People who use the IRS digital portal will need to be prepared starting in the summer to submit a live video selfie and various documentation to make and view payments and access tax records.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services",
-      "originalUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/a2d6975/2147483647/strip/true/crop/940x490+0+132/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7a%2F7d%2F80c58fef8b932e1f1ad5c9c6f006%2Fshutterstock-camera-lens-up-close.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true",
-      "publishedDateTime": "2022-01-21T15:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-everything-connected-18-orchestrating-intelligence.md",
-      "title": "Everything Connected 18 - Orchestrating Intelligence",
-      "excerpt": "Douglas Adams in the Hitchhiker's Guide to the Galaxy states that the answer to life, the universe and everything is 42, but what really is the question? We talk about Big Data and all the analytics that it entails to try to intelligently solve problems,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/everything-connected-18-orchestrating-intelligence-numorpho",
-      "originalUrl": "https://www.linkedin.com/pulse/everything-connected-18-orchestrating-intelligence-numorpho",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGzx4KA1WRijA/article-cover_image-shrink_720_1280/0/1642784572532?e=1649289600&v=beta&t=I7qMHowAGeh6fPtPB4GcoJX8Y2e5Tf8ztHmDJLAX2dY",
-          "width": 1236,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

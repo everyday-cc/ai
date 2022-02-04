@@ -7,7 +7,7 @@ originalUrl: "https://www.wjhl.com/business/press-releases/cision/20220202NY4985
 webUrl: "https://www.wjhl.com/business/press-releases/cision/20220202NY49858/yext-drives-personalization-with-ai-powered-search-solutions-for-healthcare-providers-and-facilities/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "USD 715.20 Mn growth expected in Artificial Intelligence-Based Personalization Market | Driven by high unsubscribe rate for mass marketing | Technavio"
-    excerpt: "According to the recent market study by Technavio, the artificial intelligence-based personalization market size is expected to increase by USD 715.20 million from 2020 to 2025, accelerating at a CAGR of 19."
-    publishedDateTime: 2022-02-01T10:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/usd-715-20-mn-growth-expected-in-artificial-intelligence-based-personalization-market-driven-by-high/article_63deda60-d4a4-5255-8755-c639b7c38c43.html"
+  - title: "AI Collaboration to Create Personalized Healthcare"
+    excerpt: "Health at Scale and Walmart's AI collaboration will enable the retailer's employees to find providers and interventions that are a fit for their personal health needs."
+    publishedDateTime: 2022-02-01T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 14
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 74
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/2f/62f547a7-3b75-5b44-83e4-25e5fef55bfe/61f91a45c206d.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 295
         isCached: true
+  - title: "Creaite 2.0 – Artificial Intelligence Meets Quality Content Creation"
+    excerpt: "What’s NEW In Creaite 2.0? Totally Revamped A.I Writing Engine For WAY Better Content And WAY Better Accuracy The content that the original Creaite produced was already scary good. Most of our customers STILL can’t believe how good the content is."
+    publishedDateTime: 2022-01-31T14:33:00Z
+    webUrl: "https://www.linkedin.com/pulse/creaite-20-artificial-intelligence-meets-quality-content-larder"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 52
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFkqB7EjRgg6Q/article-cover_image-shrink_600_2000/0/1643639562961?e=1649289600&v=beta&t=ff2Bv20K9Xwgh47wrIsS76qzLaTRfiH9hCOsXhmXq0s"
+        width: 525
+        height: 360
+        isCached: true
+  - title: "Specialized software company will create healthcare-specific solutions to improve health outcomes"
+    excerpt: "Drawing upon the combined expertise of its parent companies, Predictive Health Solutions will create solutions tailored specifically to the healthcare industry. Pinnacle Solutions brings capabilities in data analytics, artificial intelligence, and machine ..."
+    publishedDateTime: 2022-02-04T00:10:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220203ny51783/center-for-discovery-innovation-and-development-partners-with-data-analytics-firm-to-create-predictive-health-solutions-a-software-company-focused-on-improving-outcomes"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 6
 
 secured: "AqbaBqnYKo5M7B31ts+5uSd28kAEcB+Py/1zD9veN0iAlcfjHTlt4eO+4rp4XeoXJRLGxDVl25QTZCcomUwwwsVCHgZbkvm17Ge+oj3NDbU6128RY96PLLWARQhW6xROpUfX2EYEXCw/wWpU+KRaOqKob4qtMWN/2ri0E4WAeODLKS14qKkFnu0GF04yBVJDivHIceWnwObQpzo8TrO9bAzp97Qi767lOih+bLLjmJKek3DddYEnCr0trFPwDcdChoC6hrRb6Onbn1hG4f3lTMqpExImrfaEko0JqwehmM/LcTX6zrX43LIi8RaYxbxoDgFVonqrJsAqPzz7ioA4dG8rDIrMe4Hhaaaqwod5TFk=;z2fp6wLyUF15cfPn78rrGQ=="
 ---

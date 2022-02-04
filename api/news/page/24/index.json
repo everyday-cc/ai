@@ -2,6 +2,195 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-01-13-ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry.md",
+      "title": "AI-powered transcription platform DeepScribe raises $30M to unburden doctors from tedious data entry",
+      "excerpt": "DeepScribe, an AI-powered medical transcription platform, has raised $30 million in series A funding led by Nina Achadjian at Index Ventures, with participation from Scale.ai CEO Alex Wang, Figma CEO Dylan Field,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/",
+      "originalUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/deepscribe-founders.jpeg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/",
+      "publishedDateTime": "2022-01-12T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-provenir-customer-reliant-funding-named-lendit-fintech-industry-awards-top-small-business-lending-platform-finalist.md",
+      "title": "Provenir Customer Reliant Funding Named LendIT Fintech Industry Awards ‘Top Small Business Lending Platform’ Finalist",
+      "excerpt": "Provenir, a global leader in AI-powered risk decisioning software, today congratulated its customer Reliant Funding for being recognized as a LendIT Fintech Industry Awards 2021 finalist. The fifth annual LendIT Fintech Industry Awards honor the world’s leading influencers and innovators in 14 unique categories.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-small-business-parsippany-f33dabbcc5a94dd298539f53fcc7389e",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-small-business-parsippany-f33dabbcc5a94dd298539f53fcc7389e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-california-may-finally-regulate-teslas-full-self-driving-beta-test.md",
+      "title": "California May Finally Regulate Tesla's \"Full Self-Driving\" Beta Test",
+      "excerpt": "California allows vehicle manufacturers to implement Level 2 systems in production vehicles but has much more stringent requirements for tests of any semi-autonomous system meant to move further up the chain.",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132",
+      "originalUrl": "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2c5c03495b6e5210a97c22476d2fec12.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132/amp",
+      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132/amp",
+      "publishedDateTime": "2022-01-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-how-to-close-more-deals-with-artificial-intelligence.md",
+      "title": "How To Close More Deals With Artificial Intelligence",
+      "excerpt": "These days, responsiveness is the number one determining factor between businesses that can and can’t go the distance in the midst of huge external challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/12/how-to-close-more-deals-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/12/how-to-close-more-deals-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61def87513ac86adcd34b4ef%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/12/how-to-close-more-deals-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/01/12/how-to-close-more-deals-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-01-12T07:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-artificial-intelligence-trade-could-roar-back-in-2022.md",
       "title": "Artificial Intelligence Trade Could Roar Back in 2022",
       "excerpt": "Artificial intelligence (AI) is one of the premier disruptive technologies, but that status didn't prevent some AI equities from sliding alongside other innovative growth fare in 2021. However, it wasn't an entirely lost year for AI investors,",
@@ -935,178 +1124,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-dldsr.md",
-      "title": "Upcoming NVIDIA Game-Ready Driver Release Receives Deep Learning Dynamic Super Resolution (DLDSR)",
-      "excerpt": "In a blog post released yesterday, NVIDIA detailed the features of their next game-ready GeForce driver, which will be available to the general public on January",
-      "sourceUrl": null,
-      "webUrl": "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html",
-      "originalUrl": "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T23:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guru3D.com",
-        "domain": "guru3d.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-how-managed-services-will-evolve-in-2022-the-data-analytics-revolution.md",
-      "title": "How managed services will evolve in 2022: The data analytics revolution",
-      "excerpt": "In 2022, cloud managed service providers look to support decision-makers in configuring and maintaining data stored in cloud environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
-      "originalUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1171422745-e1641922862738.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/",
-      "publishedDateTime": "2022-01-11T22:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry.md",
-      "title": "Robo Inu Finance Aims to Create a New Era of Payment Methods Using the Fintech Industry",
-      "excerpt": "Robu Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial freedom. They are creating a financial tool for individuals to manage their finances better and for companies to leverage an AI to enhance people's lives in the fintech industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketersmedia.com/wp-content/uploads/2022/01/5-8-500x236.jpg",
-          "width": 500,
-          "height": 236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25011004",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004",
-      "publishedDateTime": "2022-01-11T22:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-richardsons-skyven-raises-65m-in-oversubscribed-seed-round-and-grants-for-its-clean-tech.md",
-      "title": "Richardson’s Skyven Raises $6.5M in Oversubscribed Seed Round and Grants for Its Clean Tech",
-      "excerpt": "The energy-as-a-service company aims to reduce industrial emissions through AI and an IoT platform that identifies areas to lower fuel consumption.",
-      "sourceUrl": null,
-      "webUrl": "https://dallasinnovates.com/richardsons-skyven-technologies-announces-4-million-seed-round-6-5m-in-total-new-capital/",
-      "originalUrl": "https://dallasinnovates.com/richardsons-skyven-technologies-announces-4-million-seed-round-6-5m-in-total-new-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s24806.pcdn.co/wp-content/uploads/2018/04/ArunGupta_970-Skyven-Technologies.jpg",
-          "width": 970,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T20:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dallasinnovates.com",
-        "domain": "dallasinnovates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

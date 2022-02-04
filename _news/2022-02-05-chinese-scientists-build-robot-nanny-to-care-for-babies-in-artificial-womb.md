@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Analysts Think These 5 Chinese Stocks Could Rebound in 2022"
-excerpt: "In this article, we discuss the 5 Chinese stocks that could rebound in 2022 according to analysts. - All Parts"
-publishedDateTime: 2022-02-01T22:50:00Z
-originalUrl: "https://www.insidermonkey.com/blog/analysts-think-these-5-chinese-stocks-could-rebound-in-2022-1022831/?singlepage=1"
-webUrl: "https://www.insidermonkey.com/blog/analysts-think-these-5-chinese-stocks-could-rebound-in-2022-1022831/?singlepage=1"
+title: "Chinese scientists build robot nanny to care for babies in artificial womb"
+excerpt: "Scientists in China have created a robotic artificial intelligence system to monitor and care for ... Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today."
+publishedDateTime: 2022-02-04T19:08:00Z
+originalUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
+webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
+ampWebUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
+cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
 type: article
-quality: 24
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Insider Monkey
-  domain: insidermonkey.com
+  name: The Independent
+  domain: independent.co.uk
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/28020415/Stocks-to-Invest.jpg"
-    width: 1280
-    height: 815
+  - url: "https://static.independent.co.uk/2022/01/31/16/robot%20nanny%20china.jpg?quality=75&width=1200&auto=webp"
+    width: 1200
+    height: 899
     isCached: true
 
 related:
@@ -40,22 +42,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/30/3a67679c-ae63-438d-9823-d9cd26b35347_133e8188.jpg?itok=V-lHp7fa&v=1643542137"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Chinese scientists build robot nanny to care for babies in artificial womb"
-    excerpt: "Scientists in China have created a robotic artificial intelligence system to monitor and care for ... Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today."
-    publishedDateTime: 2022-02-04T19:08:00Z
-    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
-    ampWebUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
-    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 57
-    images:
-      - url: "https://static.independent.co.uk/2022/01/31/16/robot%20nanny%20china.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 899
         isCached: true
   - title: "Robot nanny: Chinese scientists build artificial womb"
     excerpt: "The 'robot nanny' can monitor embryos 'to an unprecedented ... Engineering and Technology in China’s eastern Jiangsu province developed the artificial intelligence (AI) technology to take on the responsibility of bearing children. Minsberg explained ..."
@@ -85,7 +71,21 @@ related:
         width: 1680
         height: 876
         isCached: true
+  - title: "Analysts Think These 5 Chinese Stocks Could Rebound in 2022"
+    excerpt: "In this article, we discuss the 5 Chinese stocks that could rebound in 2022 according to analysts. - All Parts"
+    publishedDateTime: 2022-02-01T22:50:00Z
+    webUrl: "https://www.insidermonkey.com/blog/analysts-think-these-5-chinese-stocks-could-rebound-in-2022-1022831/?singlepage=1"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 24
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/28020415/Stocks-to-Invest.jpg"
+        width: 1280
+        height: 815
+        isCached: true
 
-secured: "aPtYcN0ynzQz/VbHaHWb7ZrVlwHxrbdXHMxGTOOaG/XAU15mjFNnw971C7tJ6pPt88dk9efUDyctqAVY0Cp6z6wXXJhfkHHzBb+b/N4Ma7chLCFmM6zDcSc07VkgCmL+0gsehMRNzal1sy7JxIU9uJfhKYmhJphxxDQe9KQzIHgdApXZLM0cjQeDpIItovOaCaQBSspNC8ETUjDW1K6L1WZSH73frDAtF6vM5xXBNaj6qVnLi+ZIlem3Sx4Lcw2d9kCvfu+sFG+09F8r1aTJ3W6x9rqasIj3PGprsNZuKtgtx1xwPtT6czbwZIxGzdfxVCATdnERWiplBwKXCKlo8yy0oOlo2pD05ER0tpSjOVhuwtdXLofDWa9mAux+yLe6zsRWpPGq4A3ZMOJjixK12QGaoRYWDda+MZAPRwVhdAeI0UBvPXW59mfmaNhDW+NDHbycLQ+WD5thZXCGQ3Ko4WCiNVOsHcfZaODcuht0NxelE3yRZX+Vw1qwb3nNN52ZnZYg0AANtEslQRN2YXLWXA==;cQNVLkQtOTIuhytXUoQNlQ=="
+secured: "eMWtx6ow+5xJj+xGNYRYP2+SQlyhbfez/xn36ddN7ajVumeYZg7QvxHXuNi0J2YmZ752iWZftGYoRGRNKWtDz4c1kMsr4wSgpoVYeon9ZRVfzHL1SU8qhcwFdopMEyjhDmcBQlWXvjEiwtcxeihXSkJ7pNHh+M2NkBxmL+XKAnWtfolDhlXR4AylHBULtCSNIi+JI8d9Y+IH8DZm+E8/y9GnGpth8RJ8nIU92z7hIIsQJHgOXaWICTV70MY4Lm9Ai2b+xDBai5W9+ly0efgQk6xJleY3xUPEf1Kj6jnwFYAK0J4uT7L9g212zcChoRvXMRrzyHAH2iBk0vZI3VCU0E+nlDZgArRhH0gsjC9mL4U=;0OTeNKvxsgbo/se12mwcrg=="
 ---
 

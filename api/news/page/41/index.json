@@ -2,6 +2,186 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-12-29-geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market.md",
+      "title": "Geely’s Zeekr partners with Waymo to build its self-driving taxi fleet for the US market",
+      "excerpt": "On Tuesday, the Chinese multinational automotive company Geely announced that their premium electric brand, Zeekr, will partner up with Waymo. This partnership is to build an all-electric, self-driving vehicle for the Waymo One ride-hailing autonomous fleet in the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/",
+      "originalUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/12/Geely-van.jpg",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1",
+      "publishedDateTime": "2021-12-29T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-big-techs-employees-are-one-of-the-biggest-checks-on-its-power.md",
+      "title": "Big Tech’s employees are one of the biggest checks on its power",
+      "excerpt": "Facebook whistleblower Frances Haugen created ... unexpected and meaningful balance to Big Tech’s power. Then-Google AI research scientist Timnit Gebru speaks at TechCrunch Disrupt SF 2018 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/recode/22848750/whistleblower-facebook-google-apple-employees",
+      "originalUrl": "https://www.vox.com/recode/22848750/whistleblower-facebook-google-apple-employees",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/u9nsQYlXwoTNnDE1PFGtcLtdSIs=/0x0:4800x3200/1400x1050/filters:focal(2408x989:3176x1757):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70326258/GettyImages_1181042575.0.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/recode/22848750/whistleblower-facebook-google-apple-employees",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/recode/22848750/whistleblower-facebook-google-apple-employees",
+      "publishedDateTime": "2021-12-29T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-opportunities.md",
+      "title": "Worldwide Military Robots Industry to 2026 - Integration With Artificial Intelligence Presents Opportunities",
+      "excerpt": "The \"Military Robots Market Research Report by Type, Operation, and Region - Global Forecast to 2026 - Cumulative Impact of",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24811209/worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-oppor",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24811209/worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-oppor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24811209",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24811209",
+      "publishedDateTime": "2021-12-29T04:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-artificial-intelligence-its-a-fine-balancing-act-between-opportunities-and-pitfalls.md",
+      "title": "Artificial intelligence: It's a fine balancing act between opportunities and pitfalls",
+      "excerpt": "Artificial intelligence is also hailed as ... to create a strong data and AI ecosystem in the country,” says Rohini Srivathsa, National Technology Officer, Microsoft India.",
+      "sourceUrl": null,
+      "webUrl": "https://www.brookings.edu/blog/techtank/2022/01/12/how-countries-are-leveraging-computing-power-to-achieve-their-national-artificial-intelligence-strategies/",
+      "originalUrl": "https://www.moneycontrol.com/news/business/artificial-intelligence-its-a-fine-balancing-act-between-opportunities-and-pitfalls-7877851.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.brookings.edu/wp-content/uploads/2022/01/taylor-vick-M5tzZtFCOfs-unsplash.jpg?w=1200&h=630&crop=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.brookings.edu/blog/techtank/2022/01/12/how-countries-are-leveraging-computing-power-to-achieve-their-national-artificial-intelligence-strategies/amp/",
+      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/techtank/2022/01/12/how-countries-are-leveraging-computing-power-to-achieve-their-national-artificial-intelligence-strategies/amp/",
+      "publishedDateTime": "2021-12-29T04:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-what-happens-when-an-ai-knows-how-you-feel.md",
       "title": "What Happens When an AI Knows How You Feel?",
       "excerpt": "The following month, Facebook announced AI “conflict alerts” for groups ... or detect them remotely.” Timmons’ research, which involves building computational models of human behavior ...",
@@ -950,184 +1130,6 @@
         "IBM AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-75-of-acquiring-banks-use-artificial-intelligence-to-detect-card-transaction-fraud.md",
-      "title": "75% of Acquiring Banks Use Artificial Intelligence to Detect Card Transaction Fraud",
-      "excerpt": "AI In Focus, a PYMNTS and Brighterion collaboration, found that AI and related tech are needed to manage increases in both payments volume and fraud attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/",
-      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/artificial-intelligence-bank-fraud-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/amp/",
-      "publishedDateTime": "2021-12-28T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-chinese-scientists-created-an-ai-prosecutor-that-can-press-charges.md",
-      "title": "Chinese Scientists Created an AI 'Prosecutor' That Can Press Charges",
-      "excerpt": "Researchers in China have created an AI \"prosecutor\" that can reportedly identify crimes and file charges against criminals.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
-      "originalUrl": "https://interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/9lwjQ1rK6E/sizes/in-a-first-chinese-scientists-create-ai-prosecutor-that-can-press-charges_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
-      "publishedDateTime": "2021-12-28T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-analytics-and-ai-in-2022-innovation-in-the-era-of-covid.md",
-      "title": "Analytics and AI in 2022: Innovation in the era of COVID",
-      "excerpt": "This year's predictions focus less on analytics technology per se and more on its application to address pandemic-driven phenomena.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/",
-      "originalUrl": "https://www.zdnet.com/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/",
-      "publishedDateTime": "2021-12-28T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-ai-may-cure-the-ills-in-healthcare-tech.md",
-      "title": "AI May Cure The Ills In Healthcare Tech",
-      "excerpt": "As our healthcare system struggles toward a model in which consumers are at the center of the equation, technology is playing a rapidly increasing role in smoothing their way through the ecosystem. Consumers are demanding a better healthcare experience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c9c58c405c5f1f7b90a849%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/amp/",
-      "publishedDateTime": "2021-12-28T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
