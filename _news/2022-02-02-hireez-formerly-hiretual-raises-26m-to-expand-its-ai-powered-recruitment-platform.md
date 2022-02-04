@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-2
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/amp/"
 type: article
 quality: 80
-heat: 91
+heat: 90
 published: true
 
 provider:

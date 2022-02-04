@@ -2,6 +2,42 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-13-artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantitative-analysis-forecast-up-to-2030.md",
+      "title": "Artificial Intelligence in Military Market: Revenue Growth, Key Players, Qualitative Analysis, Quantitative Analysis, Forecast up to 2030",
+      "excerpt": "The artificial intelligence in military market is projected to grow from USD 6.26 billion in 2017 to USD 18.82 billion by 2025, at a CAGR of 14.75% during the forecast period. \"Increasing investments to develop AI integrated systems and rising adoption of cloud-based applications are key factors driving the growth of the artificial intelligence in military market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/25030379/artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantita",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/25030379/artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantita",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25030379",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25030379",
+      "publishedDateTime": "2022-01-12T15:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-nuro-add-airbags-for-people-to-self-driving-delivery-vehicles.md",
       "title": "Nuro Add Airbags (for People) to Self-Driving Delivery Vehicles",
       "excerpt": "Pedestrians can be an absent-minded bunch, so Nuro's newest delivery bot adds an external airbag to protect those who may collide with it on the sidewalk.",
@@ -1356,51 +1392,6 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-nvidia-drive-orin-chip-to-power-baidus-jidu-robot-ev-same-as-nio.md",
-      "title": "Nvidia DRIVE Orin Chip To Power Baidu's JiDU Robot EV, Same As Nio",
-      "excerpt": "U.S. listed Chinese internet giant Baidu Inc (NASDAQ: BIDU) is following in Nio Inc's (NYSE: NIO) footsteps to adopt Nvidia Corp’s (NASDAQ: NVDA) self-driving chip capabilities, cnEVpost ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/22/01/24922477/nvidia-drive-orin-chip-to-power-baidus-jidu-robot-ev-same-as-nio",
-      "originalUrl": "https://www.benzinga.com/news/22/01/24922477/nvidia-drive-orin-chip-to-power-baidus-jidu-robot-ev-same-as-nio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24922477",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24922477",
-      "publishedDateTime": "2022-01-06T00:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware",
         "AI in Robotics"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-19-ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns.md",
+      "title": "Ambient’s computer vision detects dangerous behaviors, but raises privacy concerns",
+      "excerpt": "Ambient, which is using computer vision to develop security systems, is emerging from stealth. But its software raises privacy concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/",
+      "originalUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1134171213.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/amp/",
+      "publishedDateTime": "2022-01-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-this-computer-vision-startup-is-addressing-one-of-the-biggest-gaps-in-manufacturing-production-quality-powered-by-the-intel-startup-program.md",
       "title": "This computer vision startup is addressing one of the biggest gaps in manufacturing production quality, powered by the Intel Startup Program",
       "excerpt": "To help manufacturers perform production quality inspections more accurately and cost-effectively, Constems-AI uses computer vision-based AI to automate business operations processes by ...",
@@ -1361,51 +1413,6 @@
         "AI",
         "AI Ethics",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-meeting-the-aiml-design-challenge.md",
-      "title": "Meeting the AI/ML design challenge",
-      "excerpt": "Symmetric and Asymmetric multiprocessor platforms continue to proliferate, driven by the rapid growth of AI/ML applications for voice, image, text and object recognition. There is a revolution underway in software development & integration methodologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-technology/meeting-the-ai-ml-design-challenge/243330/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-technology/meeting-the-ai-ml-design-challenge/243330/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/243330/AdobeStock_405123819.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

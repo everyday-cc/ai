@@ -87,6 +87,20 @@ related:
         width: 854
         height: 480
         isCached: true
+  - title: "Will IRS Require Use of Facial Recognition Software To Access Tax Info Online?"
+    excerpt: "another reader asked. As of this writing, it’s true that the IRS is requiring taxpayers to use facial recognition software designed by a technology company called ID.me to access IRS documents and services online. We reached out to the IRS for comment ..."
+    publishedDateTime: 2022-02-04T00:27:00Z
+    webUrl: "https://www.snopes.com/fact-check/irs-facial-recognition-software/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 35
+    images:
+      - url: "https://www.snopes.com/tachyon/2022/02/GettyImages-1205818979.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
 
 secured: "Gwk8vC0Z4HK6qWsEqG2SJTD8bAPsmtvJ6WwZJwgS5Jpq3HNyMlbfqZmwORXOIH2WuGpw9+X8B7jRIqbqlcAafR6WK0HaMWs7k0LMNxKturwZYcXZd9M8HkQb3iv1yMMtpfGto4nwuYvKPbTKrlHsS0eovlorIPy098VolVcJsYMVri5veQIAGvB/mBZxXyzNi9dyCzaw6WG+p9U2v6N/7u7+h0zHHDFZzxcBbEl1YxeGWbZLb/pAXVlNMFAk4EjD7UJ71anDJPAGiJmlxp+mTEKKnY0Yd/iLNyAzzLFx7Licgw0l/eZbke8X4IY6GuIMlCd5GsI2oqTQsYyn3st5tDZ3h3IfvtaS7yQ+VwoHBSVUYEStQJZy8OriDSFkAqeGq/4SlujTtS3XI/neMdFwTSyhUW3NzFPfKjJQAy9i6++Jlwg4QZ7eMrZgfoZPoa1ukKSQppBh+0abmkQPO/86QIigPhrhCmFWHuBZaQxOVazmm36G3tprZtHD0IRc87ywFVDD6nmSyW5c2azY9xz2RA==;AayY66393ZzjK1mVR/ed7Q=="
 ---

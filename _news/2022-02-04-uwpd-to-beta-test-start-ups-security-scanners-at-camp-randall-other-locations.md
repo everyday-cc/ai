@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-03T22:01:00Z
 originalUrl: "https://badgerherald.com/news/2022/02/03/uwpd-to-beta-test-start-ups-security-scanners-at-camp-randall-other-locations/"
 webUrl: "https://badgerherald.com/news/2022/02/03/uwpd-to-beta-test-start-ups-security-scanners-at-camp-randall-other-locations/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Security
+  - Computer Vision
 
 images:
   - url: "https://badgerherald.com/wp-content/uploads/2021/03/DJI_0131.jpg"
@@ -24,6 +25,6 @@ images:
     height: 2591
     isCached: true
 
-secured: "9/s7/G7JL7oyZDz0+POcH7wGwe1FI3YKZyNEUApuItE64pp4NdFg8VZKn4wXo7z/jOitBCavSFWjovLnK5N/Yy+dPwqOhqd3i/2h/k0Hl9t7G8j48odaoHVnXbEkj8wx9zRoLhdoeidjF/KIEAUy1VGWgcEsHX64y1nNUVw+FIod0o2dX75IyDVPMJeKf3wkJaG6FGEcsyZNGGqE3B6KUPxzx9R5iF3torsgzIdLSKo8PW/xjMpYeACMV518vRI8ZohDkXrnEwkO3wxv6riDalN2wW5feo9sAJ3BkAfsyQP4u1QgI2WmGRkhDG2x2A2atu+tklW/SalO/xDY4Feb2MzK6ptVeRAGsL9xwDZZnWs=;TFcN6iNc070Q+3gNJGuWrQ=="
+secured: "qhsKCTzWyTk25V45zaxVzpatqNAx/twUJ2xsJmfK3TQ3KrBhjXLoKgSNgNnzct6vZA8oK1rMyjQ6HIh7kj60q08JQM5z3WtrSvHwzbxOhWuoHxvmAM48T4Zqqi13oGX8AkA7OXWCzd4PL1nME/EisPcFJo03GbY7SPBHDg0r3O7jwdIFwylbfKLOw50gKYOSnzOIyGGr9uBXkgK1jwIhGFvb7OV0q1oBmdoUWEwe4Ly0pk0S/LHA0axjZlWNP9jhME5tfku5PDyKrVQd9Smsp1okKo2qoAELEbejSOywu5fec/cGRaP4TL/CuwcXAqhxM7v3c1ZOWgId1axsJxBWHYRXsLoG0Mwp7md3J6QPanaWKqXCWKsZqmkQxDoP6WGUeCApO7ZVZV+/XrxUpb/eM4g7WN9nQTIPZN6a+b2YOLDytfls6o1JGkxFCJD5165al4E8Fhm3oY0uVLC5XLjTIn7fUdGfZ+651VpdyPLoyQPassOOC5dX91WIkP5ldtNv2zPmbSstBfyzwIDTczPQQA==;pBIUN3jezCepxuPIsbl26A=="
 ---
 

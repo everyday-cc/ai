@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI-Based Electrical Switchgear Market Size, Growth, Trends, And Global Segments Analysis Report to 2030"
-    excerpt: "The global AI-based electrical switchgear market is projected to grow with a moderate CAGR during the forecast period, i.e., 2022-2030, on account"
-    publishedDateTime: 2022-01-30T07:40:00Z
-    webUrl: "https://menafn.com/1103612669/AI-Based-Electrical-Switchgear-Market-Size-Growth-Trends-And-Global-Segments-Analysis-Report-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?357629"
-        width: 421
-        height: 250
-        isCached: true
   - title: "Potential Opportunities Worth ~USD 50 Bn Opening Up for Artificial Intelligence Companies – Exclusive Research Published by MarketsandMarkets™"
     excerpt: "Currently, businesses have low access to primary intelligence to clarify some unknowns and adjacencies in these opportunity areas – Organizations such as Facebook ... of automation on AI market? Therefore, MarketsandMarkets research and analysis focuses ..."
     publishedDateTime: 2022-02-02T18:00:00Z

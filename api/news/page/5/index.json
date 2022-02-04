@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-29-waymo-sues-california-dmv-over-robotaxi-safety-data.md",
+      "title": "Waymo Sues California DMV Over Robotaxi Safety Data",
+      "excerpt": "The driverless car company — which is owned by Google parent Alphabet Inc. — operates an autonomous taxi fleet in San Francisco, and the question in the suit is whether public safety-related data can be a trade secret.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data",
+      "originalUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/0ed328f/2147483647/strip/true/crop/940x490+0+46/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa0%2F40%2Ff54af073727f3f1d09fcd332e8ba%2Fwaymo.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/waymo-sues-california-dmv-over-robotaxi-safety-data?_amp=true",
+      "publishedDateTime": "2022-01-28T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-29-fedex-surround-logistics-powered-by-ai.md",
       "title": "Fedex Surround - Logistics powered by AI",
       "excerpt": "FedEX and Microsoft bring together FedEx network intelligence with capabilities from Microsoft Dynamics 365 to introduce a cross-platform “logistics as a service” The companies announced on January 24,",
@@ -1165,57 +1208,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models.md",
-      "title": "Vanti Analytics secures $16M to assist manufacturers in deploying AI models",
-      "excerpt": "Vanti Analytics, a startup developing an AI model management platform for manufacturers , has raised $16 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/",
-      "originalUrl": "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/aluminum-manufacturing_recycle-aluminum_05102018.jpg?w=1200&strip=all",
-          "width": 1142,
-          "height": 940,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/",
-      "publishedDateTime": "2022-01-27T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

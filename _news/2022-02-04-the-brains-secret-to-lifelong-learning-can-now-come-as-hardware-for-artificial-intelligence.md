@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Sutherland Wins 2021 Brandon Hall Group HCM Excellence Awards in Four Categories: Reinventing Learning with Cognitive Technologies"
+    excerpt: "\"Sutherland is reinventing the way companies implement learning programs using AI cognitive technology and machine learning. It is great to be recognized for driving the industry in a new, future-ready direction.\" Sutherland shares the podium with some of ..."
+    publishedDateTime: 2022-02-04T00:10:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220203ny52396/sutherland-wins-2021-brandon-hall-group-hcm-excellence-awards-in-four-categories-reinventing-learning-with-cognitive-technologies"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 0
+
 secured: "gAFd+hm55K4UOAFvrq22Kcx/lvI5wRoYWAIt5knAGmAosiF9pn8sX+N+EubFbfVI5ciq6i3zaUgFMuv4lVD/v/o6X1zuXRaMDNrlZae6qjNWSzotwaOy1KpyWTpg0ZqmVFuVz842MZ2e7WXlwA0IUa4CvdQWp56VSrZuTEBHz0dSQ4MFGh40Hjad0nQN0+K2olDy7kyZNLLuo6R1y/OR0mCZErlZo8NNUJrgId7Upnic87Vy5tyWABBgQS1zcOlg+TPXVwdf6VkKPFKL70QqGegYgJYtcekT/CaFnxc4QR/pQTN3hMacn/9qeC223S6cQ5FmDyvwsRWGNnnIcLria17rC4eADVohpC81JzNjgP538y/Xt4u34z3MYO6kUd/ST8zuPYt+Gy9jlHyDkLYb7gyhGoeG6b/jddVtaEmJtLMs+2lkzL5KlGZyfMejbSKJmIhlvSW7KumsA7xDdcLxxhBo8J7RwYfcB52OViVBtQcxMmb0I8B/OO3tPPTQ9f09y69x+GN2Qdkyd5tWFywazw==;xS6qClKjPiRbwwTWpykVxA=="
 ---
 

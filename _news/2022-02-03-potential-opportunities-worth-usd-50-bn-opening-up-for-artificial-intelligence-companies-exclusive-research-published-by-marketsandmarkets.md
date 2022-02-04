@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI-Based Electrical Switchgear Market Size, Growth, Trends, And Global Segments Analysis Report to 2030"
-    excerpt: "The global AI-based electrical switchgear market is projected to grow with a moderate CAGR during the forecast period, i.e., 2022-2030, on account"
-    publishedDateTime: 2022-01-30T07:40:00Z
-    webUrl: "https://menafn.com/1103612669/AI-Based-Electrical-Switchgear-Market-Size-Growth-Trends-And-Global-Segments-Analysis-Report-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?357629"
-        width: 421
-        height: 250
-        isCached: true
   - title: "Image Recognition Market Trend, Business Opportunities, Manufacturers and Research Methodology by 2028"
     excerpt: "The global image recognition market size is expected to reach USD 80.29 Billion at a steady CAGR of 15.3% in 2028, according to latest analysis by Emergen"
     publishedDateTime: 2022-01-31T11:48:00Z

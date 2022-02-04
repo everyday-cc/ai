@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-24-lg-to-showcase-self-driving-vehicle-next-month.md",
+      "title": "LG to showcase self driving vehicle next month",
+      "excerpt": "The LG Omnipod, a mobility concept solution that can serve as \"a home office, an entertainment center or even a lounge,\" will be on display at a mobility fair at the COEX convention center in southern Seoul on Feb.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "originalUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgk.timesnownews.com/story/1200_x_900_62.png?tr=w-400,h-300,fo-auto",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "publishedDateTime": "2022-01-24T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews.com",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-22-everything-connected-18-orchestrating-intelligence.md",
       "title": "Everything Connected 18 - Orchestrating Intelligence",
       "excerpt": "Douglas Adams in the Hitchhiker's Guide to the Galaxy states that the answer to life, the universe and everything is 42, but what really is the question? We talk about Big Data and all the analytics that it entails to try to intelligently solve problems,",
@@ -1370,42 +1413,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantitative-analysis-forecast-up-to-2030.md",
-      "title": "Artificial Intelligence in Military Market: Revenue Growth, Key Players, Qualitative Analysis, Quantitative Analysis, Forecast up to 2030",
-      "excerpt": "The artificial intelligence in military market is projected to grow from USD 6.26 billion in 2017 to USD 18.82 billion by 2025, at a CAGR of 14.75% during the forecast period. \"Increasing investments to develop AI integrated systems and rising adoption of cloud-based applications are key factors driving the growth of the artificial intelligence in military market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/25030379/artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantita",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/25030379/artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantita",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25030379",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25030379",
-      "publishedDateTime": "2022-01-12T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

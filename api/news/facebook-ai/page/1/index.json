@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2022-01-30-nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research-data-center.md",
+      "title": "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center",
+      "excerpt": "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/29/nvidia-chosen-power-supercomputer-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/663126/semiconductor-research-microchips.jpg",
+          "width": 5408,
+          "height": 3605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-29T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-29-ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities.md",
       "title": "AI Weekly: AI supercomputers and facial recognition to verify taxpayers’ identities",
       "excerpt": "Meta (formerly Facebook) announced an AI supercomputer. Also, more revelations about the IRS' use of facial recognition have come to light.",
@@ -1406,40 +1458,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-01-metaverse-ai-and-and-other-big-digital-trends-to-watch-in-2022.md",
-      "title": "Metaverse, AI and and other big digital trends to watch in 2022",
-      "excerpt": "Here are six digital trends that will influence life in 2022. Social media: more privacy, quality and algorithm tweaks Platforms will concentrate on privacy and content quality in feeds. Despite recent public criticism,",
-      "sourceUrl": null,
-      "webUrl": "https://www.coventrytelegraph.net/news/uk-world-news/metaverse-ai-big-digital-trends-22621948",
-      "originalUrl": "https://www.coventrytelegraph.net/news/uk-world-news/metaverse-ai-big-digital-trends-22621948",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-01T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Coventry Telegraph",
-        "domain": "coventrytelegraph.net",
         "images": null,
         "publishers": null,
         "authors": null

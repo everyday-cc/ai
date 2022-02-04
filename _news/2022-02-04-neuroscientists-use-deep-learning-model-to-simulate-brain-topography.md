@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-br
 ampWebUrl: "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp"
 type: article
-quality: 74
-heat: 84
+quality: 76
+heat: 86
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/brain.jpg"
@@ -35,7 +36,7 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 33
+    quality: 35
 
 secured: "5FiBfLJvn37ci363WZl0xhG3AzGx3jW0mFhvCSgiw65FMpS6OqhrCxEbtxyKwtRGFkUF/6HF5ObmSUcMwHZZqhGzYN+JP0kEXPHE8PBKvQPHvy5xQKqvR5dP1eeOBETs0ZDPECvuLmQsuHBGWN3VLnGpq3m76jHg+JKizKWg4ZDtAfJlf2+IVsPnZCrEMz5B6XlPhkU2Npa0XUEwKs6cajbeS+nm3kIJCamzqnyqSV8yZr9mohqzYoikfFMVDst6YATDnaUgccJnkrduclIhc3W38P2cqOdUtDs7AgYGdHCLrkaoFyqpgLv+T4/8ThiE/JqyzDggOU2biCtPegYPbZQUHmFuqt2aEyt3fdvUIpAKei8+Fveqh23Qd8Vl3yv/6Hv3+iEU+IBhe8KEidzt1LHmPUwwuvWdmmQDo3+vrh8sGjO9FjzSOr4BSuS9Zi68cTnmA7riYtEo9boT1S287I9cNS2hFT1i72Q3UckTwpGYSlB4ZK9YaLMSCXlu/X6F3yHr8Hgc2mkdHB5xEu0Quw==;GfREkiLbZ0Q27oDfJ0YNHQ=="
 ---

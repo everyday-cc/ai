@@ -10,7 +10,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -410,7 +411,7 @@
       "originalUrl": "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {

@@ -56,6 +56,22 @@ related:
         width: 480
         height: 295
         isCached: true
+  - title: "Advancing the technology of AI assistance for anesthesiologists"
+    excerpt: "In a special edition of Artificial Intelligence in Medicine ... in which the software's neural networks simultaneously learned how its dosing choices maintain unconsciousness and how to critique ..."
+    publishedDateTime: 2022-02-02T15:52:00Z
+    webUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/anesthesiologists.jpg"
+        width: 1920
+        height: 1348
+        isCached: true
   - title: "New AI technology could help reduce malnutrition in long-term care homes"
     excerpt: "New technology could help reduce malnutrition and improve overall health in long-term care homes by automatically recording and tracking how much food residents consume."
     publishedDateTime: 2022-01-31T12:39:00Z

@@ -2,6 +2,128 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-01-04-google-has-deepmind-microsoft-has-openai-will-aws-be-left-behind.md",
+      "title": "Google has DeepMind, Microsoft has OpenAI. Will AWS be left behind?",
+      "excerpt": "AWS has been inconspicuous when it comes to collaboration with similar AI research labs. Does this pose a major disadvantage when compared to Google and Microsoft?",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/google-has-deepmind-microsoft-has-openai-will-aws-be-left-behind/",
+      "originalUrl": "https://analyticsindiamag.com/google-has-deepmind-microsoft-has-openai-will-aws-be-left-behind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/AILab_AIM.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-caris-life-sciences-to-present-at-the-40th-annual-jp-morgan-healthcare-conference.md",
+      "title": "Caris Life Sciences to Present at the 40th Annual J.P. Morgan Healthcare Conference",
+      "excerpt": "Caris Life Sciences® (Caris), the leading molecular science and technology company actively developing and delivering innovative solutions to revolutionize healthcare, announced today that",
+      "sourceUrl": null,
+      "webUrl": "https://www.kpvi.com/news/national_news/caris-life-sciences-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference/article_00e4850e-80b9-5c5a-8dd0-8753956320d8.html",
+      "originalUrl": "https://www.kpvi.com/news/national_news/caris-life-sciences-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference/article_00e4850e-80b9-5c5a-8dd0-8753956320d8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPVI",
+        "domain": "kpvi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-natural-language-processing-nlp-market.md",
+      "title": "Natural Language Processing (NLP) Market",
+      "excerpt": "Natural Language Processing (NLP) Market ' a New Report by Coherent Market Insights, analyzes at the competitive environment and projections for future growth. The Natural Language Processing (NLP ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103483967/Natural-Language-Processing-NLP-Market-Grow-at-CAGR-of-204-During-Forecast-2028-Apple-Inc-Inovalon-3M-IBM",
+      "originalUrl": "https://menafn.com/1103483967/Natural-Language-Processing-NLP-Market-Grow-at-CAGR-of-204-During-Forecast-2028-Apple-Inc-Inovalon-3M-IBM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-01/04/EP_72fb8image_story.png",
+          "width": 824,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T23:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery.md",
       "title": "AI, robotics, home care and mental health to lead healthcare delivery",
       "excerpt": "Healthcare delivery in the country is going to witness further changes this year in the wake of continuing Covid-19 pandemic. Segments like home healthcare, mental health screening and use of technologies like telemedicine,",
@@ -1023,144 +1145,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-robo-dogs-and-therapy-bots-artificial-intelligence-goes-cuddly.md",
-      "title": "Robo-dogs and therapy bots: Artificial intelligence goes cuddly",
-      "excerpt": "In Japan mechanical companions are finding their way into the hearts of stressed-out adults, schoolchildren, and patients with PTSD or dementia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/robo-dogs-therapy-bots-artificial-intelligence/",
-      "originalUrl": "https://www.cbsnews.com/news/robo-dogs-therapy-bots-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/01/03/2fe2df27-a54e-457e-8391-a829769c3f6e/thumbnail/1200x630/bdc4a46af1af8eed58d370a42a8e332b/robo-dog.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/robo-dogs-therapy-bots-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/robo-dogs-therapy-bots-artificial-intelligence/",
-      "publishedDateTime": "2022-01-03T05:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-tesla-rival-races-to-introduce-driverless-cars-by-2024.md",
-      "title": "Tesla rival races to introduce driverless cars by 2024",
-      "excerpt": "Making predictions about technology is a notoriously dangerous sport, and the onset of driverless cars is a particularly perilous thing to forecast.  Googl",
-      "sourceUrl": null,
-      "webUrl": "https://www.newstalkzb.co.nz/news/business/tesla-rival-races-to-introduce-driverless-cars-by-2024/",
-      "originalUrl": "https://www.newstalkzb.co.nz/news/business/tesla-rival-races-to-introduce-driverless-cars-by-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newstalkzb.co.nz/media/fcidrzb5/amnon-shashua-co-founder-of-mobileye.jpg?mode=crop&width=635&height=395&rnd=132856969817230000",
-          "width": 635,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newstalk ZB",
-        "domain": "newstalkzb.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-honor-watch-gs-3-real-life-images-emerge-comes-with-8-channel-heart-rate-ai-engine.md",
-      "title": "Honor Watch GS 3 real-life images emerge, comes with 8-channel heart rate AI engine",
-      "excerpt": "Real-life images of the Honor Watch GS 3 have emerged for the first time, comes with 8-channel AI heart rate engine but no wireless charging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/01/03/honor-watch-gs-3-real-life-images-emerge-no-wireless-charging/",
-      "originalUrl": "https://www.gizmochina.com/2022/01/03/honor-watch-gs-3-real-life-images-emerge-no-wireless-charging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/08/Honor-Watch-GS3-featured.png",
-          "width": 618,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/01/03/honor-watch-gs-3-real-life-images-emerge-no-wireless-charging/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/01/03/honor-watch-gs-3-real-life-images-emerge-no-wireless-charging/?amp=1",
-      "publishedDateTime": "2022-01-03T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

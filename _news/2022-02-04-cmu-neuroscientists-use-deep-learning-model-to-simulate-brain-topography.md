@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-03T19:32:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/942341"
 webUrl: "https://www.eurekalert.org/news-releases/942341"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 related:
   - title: "Neuroscientists use deep learning model to simulate brain topography"
@@ -29,7 +30,7 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/brain.jpg"
         width: 1920

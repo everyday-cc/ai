@@ -2,6 +2,144 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-01-13-californias-dmv-reevaluating-stance-on-teslas-full-self-driving-beta.md",
+      "title": "California’s DMV Reevaluating Stance On Tesla’s Full Self-Driving Beta",
+      "excerpt": "The DMV had previously considered Tesla's FSD as a Level 2 system, but videos and software updates are forcing a rethink",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/",
+      "originalUrl": "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2020/10/Tesla-Full-Self-Driving-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/amp/",
+      "publishedDateTime": "2022-01-12T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-landingai-hires-vision-expert-dechow-to-correct-the-big-data-fallacy.md",
+      "title": "Landing.AI hires vision expert Dechow to correct the Big Data fallacy",
+      "excerpt": "Practical application of deep learning may require focusing less on giant datasets, more on the way examples of training data are handled, says Andrew Ng.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/landing-ai-hires-vision-expert-dechow-to-correct-the-big-data-fallacy/",
+      "originalUrl": "https://www.zdnet.com/article/landing-ai-hires-vision-expert-dechow-to-correct-the-big-data-fallacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a9c230b2219899024419d49ddbf8917ea2181f51/2022/01/12/35f7de6c-7d8e-412c-92b3-c20127b51bc0/andrew-ng-2022-zoom-call-with-zdnet.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/landing-ai-hires-vision-expert-dechow-to-correct-the-big-data-fallacy/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/landing-ai-hires-vision-expert-dechow-to-correct-the-big-data-fallacy/",
+      "publishedDateTime": "2022-01-12T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-machine-learning-ai-used-to-rapidly-detect-sepsis.md",
+      "title": "Machine learning, AI used to rapidly detect sepsis",
+      "excerpt": "Sepsis strikes roughly 2 million people each year and is the cause of one in three hospital deaths in the United States, according to the Centers for Disease Control and Prevention. “Sepsis is the body’s extreme response to an infection and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/",
+      "originalUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ajc.com/resizer/8fTbEGrlh6x5xJYQWrHSKMW_Q68=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-12-2022/t_966c65e132e24545b6b37ee7896e70eb_name_sepsis.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp",
+      "publishedDateTime": "2022-01-12T09:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-navrina-singh-ceo-and-founder-of-credo-ai-interview-series.md",
       "title": "Navrina Singh, CEO and Founder of Credo AI – Interview Series",
       "excerpt": "Navrina Singh is CEO and Founder of Credo AI, a company designing the first comprehensive AI governance SaaS platform that enables companies and individuals to better understand and deliver trustworthy and ethical AI,",
@@ -1004,126 +1142,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines.md",
-      "title": "Fomo launches “Fomo Robotics” to offer UV Disinfection Machines",
-      "excerpt": "IAQ Technologies LLC, a wholly owned subsidiaries of Fomo (FOMC) and Energy Intelligence Center LLC plans to offer UV Disinfection Robots, designed and sold by a leading provider",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
-      "originalUrl": "https://seekingalpha.com/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
-      "publishedDateTime": "2022-01-12T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-aiml-at-scale-the-next-horizon-for-ppgs-data-strategy.md",
-      "title": "AI/ML at scale: The next horizon for PPG’s data strategy",
-      "excerpt": "At PPG, data is key not only to IT strategy, but to enabling business strategy, says Jeff Lipniskis, global IT director. With a solid foundation in place, his focus now is on being AI ready.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html",
-      "originalUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/01/horizon_transformation_change_future_hope_bright-100746109-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html/amp",
-      "publishedDateTime": "2022-01-12T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-government-backs-turing-institute-in-bid-to-set-global-ai-technical-standards.md",
-      "title": "Government backs Turing Institute in bid to set global AI technical standards",
-      "excerpt": "The DCMS has announced an AI Standards Hub, comprising The Alan Turing Institute, the National Physical Laboratory and the British Standards Institution to set a global bar for AI technical standards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards",
-      "originalUrl": "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1",
-      "publishedDateTime": "2022-01-12T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

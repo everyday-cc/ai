@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-for-all-onli
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "http://dcer237tfveol.cloudfront.net/v2/pD1PMFzw8Umi7Yps6CdbwAFRKt7ymUV3XcQPLr7o4008vG9pKt86R9asYWYy_-17su22c6IvzBtNIIzwzrjb-34fCist6iKXvH-XG8pT9zGQRo_SfhIMZxnC11dd6Yovql9yBt-tdIY7N5DDP6xAnJ"
         width: 854
         height: 480
+        isCached: true
+  - title: "Will IRS Require Use of Facial Recognition Software To Access Tax Info Online?"
+    excerpt: "another reader asked. As of this writing, it’s true that the IRS is requiring taxpayers to use facial recognition software designed by a technology company called ID.me to access IRS documents and services online. We reached out to the IRS for comment ..."
+    publishedDateTime: 2022-02-04T00:27:00Z
+    webUrl: "https://www.snopes.com/fact-check/irs-facial-recognition-software/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 35
+    images:
+      - url: "https://www.snopes.com/tachyon/2022/02/GettyImages-1205818979.jpg"
+        width: 2121
+        height: 1414
         isCached: true
 
 secured: "CdkJgnbcsnSsFK+lT+dghTJ2WMr9pImmSdPP3IELl74BdDEIabDTtw/4YnVrdnmWMJT7DxOSJHagKNsvN/Z0ADkz4Nl3V03kjzU6Ku9RF3CLvQoudtWjLSa2ea9gFfjvkOlrpt/VZ23Zgo45A4Img6ASMl8BBrroNLQlpn/Tpx8ZuQ9B3gb1ul3EefTIjN76/j9fl5I0BcsZs8FB/X/AbudoF+Wb6i0znjvVkP2BG3hb56Q2WJP8ATCMUNL7dAGRnhXKn8FT2hoyzAWCXooT6D4PAo8+JxTdlrcDO7XdDYC/gCK3po1zgaC3pPf5MRMYH44UpQeplZCGNH9OL+zL21XTtnNhLs6CRjJUlCqqh4a+sjlbmlnMYBYpwN+8ZMS4V5m1drjNBg/UBtCKb9O98pREUCG4HGIsx9fvAewumWh6JJNHD8U+dUzBo4W7bOXD+dgbnvMlBEDJbJU+a/XVUVzTqJwNu3qAAgP3QqCpIobGvz3g5bZzUdgaZ7SrjZENsAGqUgdP/MZburtPJBHPQA==;YbeRl3EwFO86gPOuyAls0w=="

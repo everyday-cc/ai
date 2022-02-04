@@ -2,6 +2,152 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-22-how-the-us-department-of-energy-is-transforming-ai.md",
+      "title": "How The US Department Of Energy Is Transforming AI",
+      "excerpt": "The DOE is maximizing the impacts of AI through strategic coordination, planning and customer service excellence including addressing AI ethics, AI principles, and AI risk management playbook highlights helping to transform the use of AI within the agency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61ec05324e09a09bf5f6699b/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/01/22/how-the-us-department-of-energy-is-transforming-ai/amp/",
+      "publishedDateTime": "2022-01-22T04:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence.md",
+      "title": "The never-ending effort to bake common business sense into artificial intelligence",
+      "excerpt": "There needs to be a feedback loop to ensure customers are enjoying the experience as much as you're enjoying creating the experience.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/27c067b844739f5797fc93d4b7c4a8028a4b0244/2022/01/21/49e6021c-8611-4222-bd2d-404ef13c80fe/buildings-hudson-yards-as-see-from-javits-center-january-2022-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-never-ending-effort-to-bake-common-business-sense-into-artificial-intelligence/",
+      "publishedDateTime": "2022-01-22T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-elon-musks-brain-chip-startup-prepares-for-first-ever-human-trials.md",
+      "title": "Elon Musk’s brain chip startup prepares for first ever human trials",
+      "excerpt": "Elon Musk appears close to beginning the first ever human trials of his brain-computer interface technology. A new job posting for a ‘Clinical Trial Director’ at Neuralink reveals that the neurotech startup is preparing to take its brain chip research to the next stage.",
+      "sourceUrl": null,
+      "webUrl": "https://boards.greenhouse.io/neuralink/jobs/4723041003",
+      "originalUrl": "https://www.independent.co.uk/tech/elon-musk-neuralink-human-trials-b1998521.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/497/300/original/Neuralink_logo.jpg?1632771349",
+          "width": 820,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-22T00:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-01-22-ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai.md",
       "title": "AI Weekly: Watson Health and semi-autonomous driving failures show the dangers of overpromising AI",
       "excerpt": "AI technologies can fall short of their promise, as news from this week about Watson Health and semi-autonomous driving systems showed.",
@@ -1011,144 +1157,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-russias-marker-robot-is-a-testbed-for-its-next-gen-military-tech.md",
-      "title": "Russia’s Marker Robot is a Testbed For Its Next-Gen Military Tech",
-      "excerpt": "Russia announced that it had completed research on its experimental Marker robot combat vehicle. The machine, designed from the start as a testbed for future tools and technologies, was never designed for combat,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnas.org/press/in-the-news/russias-marker-robot-is-a-testbed-for-its-next-gen-military-tech",
-      "originalUrl": "https://www.cnas.org/press/in-the-news/russias-marker-robot-is-a-testbed-for-its-next-gen-military-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.us-east-1.amazonaws.com/files.cnas.org/title/GettyImages-110699791.jpg?mtime=20210507014832&focal=none",
-          "width": 1024,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNAS",
-        "domain": "cnas.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-how-will-self-driving-cars-affect-cities-like-chicago.md",
-      "title": "How Will Self-Driving Cars Affect Cities Like Chicago?",
-      "excerpt": "Self-driving cars are spreading out across the country, and you may see one yourself on the Kennedy or Dan Ryan Expressway soon. CBS News’ Laura Podesta has a report, and DePaul University Professor Joe Schwieterman talks with CBS 2’s Jim Williams and Marie Saavedra about how self-driving cars will affect big cities like Chicago.",
-      "sourceUrl": null,
-      "webUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/",
-      "originalUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/A62/148/A62148484122E4CB516218C23E149CBE.jpg?Expires=1737763200&KeyName=mcpkey1&Signature=fLzgtdGVzWxw5PRkk1suUHf8_Ok",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/?amp",
-      "cdnAmpWebUrl": "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/?amp",
-      "publishedDateTime": "2022-01-20T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-new-ratings-aim-to-make-partial-self-driving-safer.md",
-      "title": "New Ratings Aim To Make Partial ‘Self Driving’ Safer",
-      "excerpt": "Many partially automated systems that “share” the driving with motorists, like Autopilot, Pilot Assist and Super Cruise, don't provide enough back-up protections, according to a new ratings system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/",
-      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e9e75f4b77c5fa20f81778/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/",
-      "publishedDateTime": "2022-01-20T13:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

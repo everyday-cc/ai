@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c1fe6fbf-8a87-4328-9e75-816009a07a59"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg"
         width: 480
         height: 295
+        isCached: true
+  - title: "Advancing the technology of AI assistance for anesthesiologists"
+    excerpt: "In a special edition of Artificial Intelligence in Medicine ... in which the software's neural networks simultaneously learned how its dosing choices maintain unconsciousness and how to critique ..."
+    publishedDateTime: 2022-02-02T15:52:00Z
+    webUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/anesthesiologists.jpg"
+        width: 1920
+        height: 1348
         isCached: true
   - title: "New AI technology could help reduce malnutrition in long-term care homes"
     excerpt: "New technology could help reduce malnutrition and improve overall health in long-term care homes by automatically recording and tracking how much food residents consume."

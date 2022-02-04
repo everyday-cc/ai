@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-04-neuroscientists-use-deep-learning-model-to-simulate-brain-topography.md",
+      "title": "Neuroscientists use deep learning model to simulate brain topography",
+      "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/brain.jpg",
+          "width": 1920,
+          "height": 1462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
+      "publishedDateTime": "2022-02-03T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-game-changing-facial-recognition-technology-is-now-being-used-by-eps.md",
       "title": "'Game changing' facial recognition technology is now being used by EPS",
       "excerpt": "Edmonton police say they have already been able to see the benefits of the facial recognition technology they recently began to use.",
@@ -252,7 +296,7 @@
       "originalUrl": "https://www.cnet.com/personal-finance/taxes/facial-recognition-for-all-online-irs-accounts-whats-up-with-id-me/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1318,58 +1362,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns.md",
-      "title": "Ambient’s computer vision detects dangerous behaviors, but raises privacy concerns",
-      "excerpt": "Ambient, which is using computer vision to develop security systems, is emerging from stealth. But its software raises privacy concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/",
-      "originalUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1134171213.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/ambients-computer-vision-detects-dangerous-behaviors-but-raises-privacy-concerns/amp/",
-      "publishedDateTime": "2022-01-19T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -14,9 +14,10 @@ provider:
   domain: benzinga.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
+  - AI in Autos
 
-secured: "IdP0ofJuwjQyghyhvmwNW53zgrEyuS7jq/Micbw9bywxQEGm+LorrFqqhhx0fK5K2mPX+IlZtE16ZonA0eamEUhrgXe7aeyB9w2Tg3fHnjL0IPvs0Jk/kQESBc3Muef+HAbKpUFfhKg5gqDiGkFAz1dIlzN9xZ+FLldF3DqRma5uspI9Sr6HdcTkL1ZomkE61H5mAkzboxzPS5pRznMJnLfvqj7y/67ueFlB825+5coMf5qB5HOEbP8dwqwmiF7oKc/rv9KUuqBaZqorsqKEpBp+yg3njeKs+vd6G4MR15m+BEnlMFj0MW+jEw8woMVv6DEfsV86nTuS1RkSR9jUOiJIhNl7yLSzy04auNpHSSg=;UB5IlCiD4eebtW0qkC/kmQ=="
+secured: "Cg8kzDAlbtPdpI+pVeiWgtc5vCgrTlcbO7+w5EVIV1gddKQivXIQkai3V/dB8mIFUlXKzN7fOqYKW0+sC+T1YRH0Tx9P3GxrLuKp8Mrge2t+7c4EBTYIe3ZwN548nNP24rJmJTktgaNif5ommO43K0RbwAFBbTHuOZsZSAZg3F/2OLH++00K4iyQHJPYH0IxrHmyxmVUeFYFU/wbRDhof40Io9jG5GMMCem537Q4FE2t4JwKxAxxHLQV4WFN8q5jaD2qDKtUQaPbydri21qwmdiB//TaQG2kAaLoHiJr1fLnQuSMXKz8jVpMHE6C2eir47HK8V+Dl2VaeWPkaSu9LD7YKkpjH4gP7xBHzasPeDY=;boZ2byv9JSQrTqNPvmDohg=="
 ---
 

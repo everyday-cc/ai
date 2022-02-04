@@ -2,6 +2,144 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-01-25-intelligent-ultrasound-extends-agreement-with-ge-healthcare.md",
+      "title": "Intelligent Ultrasound Extends Agreement With GE Healthcare",
+      "excerpt": "By Michael Susin Intelligent Ultrasound Group PLC said Tuesday that it has signed an agreement extension with GE Healthcare to use its software in a",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/intelligent-ultrasound-extends-agreement-with-ge-healthcare-271643099776",
+      "originalUrl": "https://www.marketwatch.com/story/intelligent-ultrasound-extends-agreement-with-ge-healthcare-271643099776",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/intelligent-ultrasound-extends-agreement-with-ge-healthcare-271643099776",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intelligent-ultrasound-extends-agreement-with-ge-healthcare-271643099776",
+      "publishedDateTime": "2022-01-24T23:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology.md",
+      "title": "Vodafone upgrades customer service with AI and speech recognition technology",
+      "excerpt": "Ever get frustrated when you can’t talk to a real person? Vodafone’s answer to this won’t be adding real people but rather AI-powered chat bots and smart speech recognition tools as a way of improving the customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techguide.com.au/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
+      "originalUrl": "https://www.techguide.com.au/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techguide.com.au/wp-content/uploads/2016/10/vodafixed-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techguide.com.au/amp/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
+      "cdnAmpWebUrl": "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/mobiles-news/vodafone-upgrades-customer-service-with-ai-and-speech-recognition-technology/",
+      "publishedDateTime": "2022-01-24T21:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Guide",
+        "domain": "techguide.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer.md",
+      "title": "Meta says it will soon have the world's fastest AI supercomputer",
+      "excerpt": "Everything you need to know about AI An executive guide to artificial intelligence, from machine learning and general AI to neural networks. Read More Development of the RSC is ongoing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
+      "originalUrl": "https://www.zdnet.com/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
+      "publishedDateTime": "2022-01-24T20:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-behavioural-and-cognitive-psychotherapy.md",
       "title": "Behavioural and Cognitive Psychotherapy",
       "excerpt": "You are leaving Cambridge Core and will be taken to this journal's article submission site. To send this article to your account, please select one or more formats and confirm that you agree to abide by our usage policies. If this is the first time you use ...",
@@ -1066,136 +1204,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-oh-great-ai-can-not-only-be-racist-and-sexist-but-ageist-too.md",
-      "title": "Oh great — AI can not only be racist and sexist, but ageist too",
-      "excerpt": "Current research on bias in AI focuses mainly on gender and race. But what about age-related bias — can AI be ageist?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-can-be-racist-sexist-ageist-syndication",
-      "originalUrl": "https://thenextweb.com/news/ai-can-be-racist-sexist-ageist-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FElderly-woman-AI-hed.jpg&signature=acb61ad7c179237f58c19be72fcf6bb6",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T05:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-lg-to-showcase-self-driving-vehicle-next-month.md",
-      "title": "LG to showcase self driving vehicle next month",
-      "excerpt": "The LG Omnipod, a mobility concept solution that can serve as \"a home office, an entertainment center or even a lounge,\" will be on display at a mobility fair at the COEX convention center in southern Seoul on Feb.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
-      "originalUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgk.timesnownews.com/story/1200_x_900_62.png?tr=w-400,h-300,fo-auto",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
-      "publishedDateTime": "2022-01-24T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews.com",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-alcatraz-ai-deems-facial-recognition-as-the-future-of-security.md",
-      "title": "Alcatraz AI deems facial recognition as the future of security",
-      "excerpt": "Door access control has undergone many changes in recent years with new technology and practices going in and out of style. With the recent developments in AI, the future of security technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
-      "publishedDateTime": "2022-01-24T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "AI in Security"
       ]
     }
   ],
