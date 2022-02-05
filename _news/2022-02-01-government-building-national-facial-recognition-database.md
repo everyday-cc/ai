@@ -25,65 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI's Revolutionary Facial Recognition Platform Awarded U.S. Patent"
-    excerpt: "The \"Methods for Providing Information About a Person Based on Facial Recognition\" patent, U.S. Patent No. 11,250,266, issued by the U.S. Patent and Trademark Office (USPTO), is the first of its kind for a facial recognition company and was awarded to Clearview AI for its ability to gather publicly available information from the open internet (social media sites,"
-    publishedDateTime: 2022-01-31T11:12:00Z
-    webUrl: "https://aithority.com/vision/face-recognition/clearview-ai-revolutionary-facial-recognition-platform-awarded-us-patent/"
+  - title: "No more facial recognition? Apple AirPods might be able to recognise the user by checking ear canal"
+    excerpt: "In the latest development, Apple's AirPods will soon be able to verify a user's identity using the inside of the ear. This will be done using an in-ear biometric device that uses ultrasonic signals. These are then reflected against the walls of a user’s ear canal."
+    publishedDateTime: 2022-02-01T10:11:00Z
+    webUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524"
+    ampWebUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 151
+      name: WION
+      domain: wionews.com
+    quality: 60
     images:
-      - url: "https://aithority.com/wp-content/uploads/2022/01/Clearview-AIs-Revolutionary-Facial-Recognition-Platform-Awarded-U.S.-Patent.jpg"
-        width: 1600
-        height: 900
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/02/01/237668-fkcvp2px0aypkp.jpeg"
+        width: 918
+        height: 506
         isCached: true
-  - title: "Air Force taps Clearview AI to research face-identifying augmented reality glasses."
-    excerpt: "By Kashmir Hill The U.S. Air Force is looking into keeping its airfields safer with help from the facial recognition start-up Clearview AI. The Air Force Research Laboratory awarded Clearview $49,847 to research augmented reality glasses that could scan ..."
-    publishedDateTime: 2022-02-04T01:03:00Z
-    webUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html"
-    ampWebUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
+  - title: "Government agencies are tapping a facial recognition company to prove..."
+    excerpt: "James Hendler, Rensselaer Polytechnic Institute (THE CONVERSATION) The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing ..."
+    publishedDateTime: 2022-02-01T14:22:00Z
+    webUrl: "https://www.greenwichtime.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
+    ampWebUrl: "https://www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 83
+      name: Greenwich Time
+      domain: greenwichtime.com
+    quality: 58
     images:
-      - url: "https://static01.nyt.com/images/2022/02/03/multimedia/03economy-briefing-clearview/03economy-briefing-clearview-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Clearview: Glasses With Facial Recognition Are Here And The Air Force Has Them"
-    excerpt: "Clearview AI is bringing glasses with facial recognition to the Air Force. Meanwhile, it's selling to the FBI and ICE, despite concerns over the technology. Clearview AI, the facial recognition company backed by Facebook and Palantir investor Peter Thiel ..."
-    publishedDateTime: 2022-02-03T14:13:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2022/02/03/clearview-ai-glasses-with-facial-recognition-are-here-and-the-air-force-is-using-them/"
+  - title: "Government agencies are tapping a facial recognition company to prove..."
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID."
+    publishedDateTime: 2022-02-01T18:03:00Z
+    webUrl: "https://www.thehour.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
+    ampWebUrl: "https://www.thehour.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
+      name: The Hour
+      domain: thehour.com
+    quality: 58
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61fbe16d5551f14b1679be48/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 633
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "IRS will start using facial recognition to access tax information"
-    excerpt: "Why will you soon have to scan your face to access your IRS tax information? You will still be able to file your tax return the old-fashioned way, with paper documents sent via snail mail. But by this summer,"
-    publishedDateTime: 2022-01-31T12:57:00Z
-    webUrl: "https://www.wfaa.com/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    ampWebUrl: "https://www.wfaa.com/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
+  - title: "Facial Recognition is available here!"
+    excerpt: "The Edmonton Police Service now has access to a facial recognition software called NeoFace Reveal, which it believes will help identify suspects in criminal investigations. Supt."
+    publishedDateTime: 2022-02-01T22:59:00Z
+    webUrl: "https://www.linkedin.com/pulse/facial-recognition-available-here-dennis-turner"
     type: article
     provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 59
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
     images:
-      - url: "https://media.wfaa.com/assets/KHOU/images/c5124352-d52e-4a4e-b816-217f7d009267/c5124352-d52e-4a4e-b816-217f7d009267_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGGxtCtWnJJWQ/article-cover_image-shrink_600_2000/0/1643755584430?e=1649289600&v=beta&t=O7bWIBvNLEoUqBicIsp1hslW0kB1BOhfkIRIzEGvhP8"
+        width: 800
+        height: 518
         isCached: true
   - title: "Forget facial recognition! Apple AirPods could soon identify you based on the shape of your EAR CANAL, patent suggests"
     excerpt: "The new biometric device would use ultrasonic signals reflected against the walls of a user's ear canal to authenticate a user, the Cupertino tech giant explains in a new patent."
@@ -101,20 +103,85 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Metro approves license plate readers, allows facial recognition"
-    excerpt: "Metro Council on Tuesday approved the controversial use of license plate readers and sent the new, much debated legislation to Mayor John Cooper, who has signaled support for it. This week's Metro Council session spanned more than four hours yet spent close to a quarter of its time on legislation that has been debated in this and alternate versions since 2020."
-    publishedDateTime: 2022-02-02T20:53:00Z
-    webUrl: "https://www.nashvillepost.com/politics/metro/metro-approves-license-plate-readers-allows-facial-recognition/article_20098f9c-846a-11ec-95bd-032eecf6b05f.html"
+  - title: "U.S. Agencies Embrace Facial Recognition Technology"
+    excerpt: "While facial recognition technology has helped identify more than 1,000 impostors attempting to enter the U.S. with false documents since 2018 and the increasing use of biometrics in airports and ..."
+    publishedDateTime: 2022-02-01T16:09:00Z
+    webUrl: "https://thecrimereport.org/2022/02/01/u-s-agencies-embrace-facial-recognition-technology/"
     type: article
     provider:
-      name: Nashville Post
-      domain: nashvillepost.com
+      name: thecrimereport.org
+      domain: thecrimereport.org
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nashvillepost.com/content/tncms/assets/v3/editorial/e/a1/ea1a26ce-846b-11ec-ac12-dbe4b5d8fc75/61faf2420059a.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Facial recognition technology identifies the 'unique' noses of cattle"
+    excerpt: "Cattle branding and ear tags may become a thing of the past - in the future, farmers may simply be able to use facial recognition technology on their smart phone to locate their cattle. An Australian researcher has developed this AI-powered system to ..."
+    publishedDateTime: 2022-02-03T20:19:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/breakfast/facial-recognition-software-identifies-unique-muzzles-cattle/13740970"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13740972-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Edmonton police using facial recognition software to search mugshot database"
+    excerpt: "Starting this year, the Edmonton Police Service will be using NEC’s NeoFace Reveal facial recognition technology to help identify suspects in criminal investigations. Sarah Komadina reports."
+    publishedDateTime: 2022-02-02T01:45:00Z
+    webUrl: "https://globalnews.ca/video/8587770/edmonton-police-using-facial-recognition-software-to-search-mugshot-database/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 36
+    images:
+      - url: "https://i0.wp.com/media.globalnews.ca/videostatic/news/ps20ox0i7l-f1fhx2xx5d/6P_FACIAL_RECOGNITION.jpg?w=500&quality=70&strip=all"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Three Key Problems with the Government's Use of a Flawed Facial Recognition Service"
+    excerpt: "Forcing people to use private ID-verification to access tax accounts or other government services raises serious privacy and equity issues."
+    publishedDateTime: 2022-02-02T22:06:00Z
+    webUrl: "https://www.aclu.org/news/privacy-technology/three-key-problems-with-the-governments-use-of-a-flawed-facial-recognition-service"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 35
+    images:
+      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple Finally Brings Mask Recognition Capabilities to Face ID"
+    excerpt: "The improved Face ID function for a new version of iOS analyzes the area around the eye to identify someone wearing a mask"
+    publishedDateTime: 2022-01-31T22:23:00Z
+    webUrl: "https://mobileidworld.com/apple-finally-brings-mask-recognition-capabilities-face-id-013102/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/ani-kolleshi-vu-DaZVeny0-unsplash-1-scaled.jpg"
+        width: 800
+        height: 478
+        isCached: true
+  - title: "Yellow.ai recognised in the first-ever 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms"
+    excerpt: "Yellow.ai, the world's leading next-gen total experience (TX) automation platform, trusted by 1000-plus enterprises globally, today announced it has been recognised as a Niche Player in the 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms."
+    publishedDateTime: 2022-02-01T02:21:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220131/3902362.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "VPJ1Otiq3KV4wirc5YWA/6fC97nWuAw4ILkB6KRAjPUtvwLFX4DoQP+FAGHaucgRFdMiUkh4v2Q3uX62w7qfIT6dEDEUghOmqDb36XsW5lZeX0w15iOvYyYg7HtSnrMtBdrG07UqoGp8lQANfdcqot8Z/9Tbpl/YNqhTDETYye8h9NgWOFmplTdA5Sk6n5x9sb7pEMERcX3UlAfd4ZIgFke6GuneMYkic9HJWOtIJY0YH629sHwzJptWym5cjzYm4aQFwUmwXr/3WBTLdHGG4IbmcDwNz4nfEelsB6+zyTVqiXDMuMTlbf3bAoAzGT8icml1DNnABq5xehPY6rW4Lv+G2D1WPuJ9ZhezPGEQnefZZM7Qh9ZBoXN9cfy1c/wXq/5vMYCbTUQCQ6+zT2f36kumP9BIrWN1dXvo+Wme1Pw7t9DlL1UIflxHWYoBGLy2jMXIYCAm6laOFyvjTLYYmoYUgOp1ucDYTshNIbfyl15w/JiHTvOpsHCaiqy7T5+faU+JkCtExybM2t6XQlaACg==;Qa/UeZbBQHZ+ERP8JpVeOw=="
 ---

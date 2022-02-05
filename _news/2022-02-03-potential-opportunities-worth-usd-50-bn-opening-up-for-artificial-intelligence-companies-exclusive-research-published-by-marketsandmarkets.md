@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/potential-opportunities-worth-us
 webUrl: "https://www.digitaljournal.com/pr/potential-opportunities-worth-usd-50-bn-opening-up-for-artificial-intelligence-companies-exclusive-research-published-by-marketsandmarkets"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Image Recognition Market Trend, Business Opportunities, Manufacturers and Research Methodology by 2028"
-    excerpt: "The global image recognition market size is expected to reach USD 80.29 Billion at a steady CAGR of 15.3% in 2028, according to latest analysis by Emergen"
-    publishedDateTime: 2022-01-31T11:48:00Z
-    webUrl: "https://www.digitaljournal.com/pr/image-recognition-market-trend-business-opportunities-manufacturers-and-research-methodology-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 8
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/f7a69d877923f8b2435d63dfc02962bbaf6ce22e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "h3M/x3umT1mH3bgPxuJ2pTSB0hZB0nKYcbdZh9aeB0P3uui6vQWFcAek1H1Sq5Pgx6kw5n2kZUw2ZJwefRfUX5iABIb90d7uA2CL4cnEn/OR4jxHGMvcTBHdO/CZIYNlUdJRtJT6noj+cEZ1NlhEr8YF7h2Bq+pbZ/kTnGMI+tti8SyhunpncvpOvbx8/q1S8ndHUBelINc7qcvsNNgcwHTy/k2BZlFB1NAi0gCrddhbLZOHJLsZHfuITIrrze4XLIwc267/KuZD3DLfBi43KJ2ceCHbs3DS8WGhP4Waia7f4KZXrt8GLiwHRvrENM2asMlkxs0EVPfEt7EPq7Yih9jbg7XkEoasRq4k+p5DinvQkvsdtUwaTk88KZCup22Vpc/SQebNSLsTdoFjOrQjJFdLbKSPU+yDYhH48jigVo9WsUFV+GOg5e89Mj9VWvpiCfggrQQiZ96oOVWaP8a4jo88VTQ8Fd2tXIu9Sm0qU5RPgsyb0Su3vE0Sfi2yYoe4Aa4DNMElV2cW5qnGhyj+9g==;Kt49Bzt2IB6HtvO43hLnsA=="
 ---

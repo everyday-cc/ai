@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-02-05-ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles.md",
-      "title": "Ag Expo rolls out innovations in A.I., robotics, electric vehicles",
-      "excerpt": "New robotics, artificial intelligence and zero-emission vehicles look to steal the three-day show — the largest of its kind — at a time when problems like water and labor scarcity are giving inventors plenty to work on. Advancements in computer ...",
+      "path": "_news/2022-02-05-top-5-ways-ai-can-enhance-your-content-creation-process.md",
+      "title": "Top 5 Ways AI Can Enhance Your Content-Creation Process",
+      "excerpt": "No matter what content you write or what stories your brand tells, there’s a good chance that robots can help you do it more efficiently. Here's how you can incorporate AI into your content ... tools that can help kick start your inspiration include ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-a-i-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.html",
-      "originalUrl": "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-a-i-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.html",
+      "webUrl": "https://www.entrepreneur.com/article/413954",
+      "originalUrl": "https://www.entrepreneur.com/article/413954",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/3/74/37433be8-1a79-523c-8cf3-89c216f4e07b/61fdac8f356b3.image.jpg?resize=1024%2C540",
-          "width": 1024,
-          "height": 540,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1643651340-shutterstock-489499681.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-a-i-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.amp.html",
-      "cdnAmpWebUrl": "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-a-i-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.amp.html",
-      "publishedDateTime": "2022-02-04T16:06:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-04T10:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -53,7 +62,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "\r\n",

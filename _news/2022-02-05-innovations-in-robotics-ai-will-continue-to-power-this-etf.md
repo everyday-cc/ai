@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-cont
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf?amp"
 type: article
 quality: 99
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -19,6 +19,24 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Ag Expo rolls out innovations in AI, robotics, electric vehicles"
+    excerpt: "Technology that farmers have only dreamed about will be on full display next week at Tulare's annual World Ag Expo."
+    publishedDateTime: 2022-02-04T23:00:00Z
+    webUrl: "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.html"
+    ampWebUrl: "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.amp.html"
+    cdnAmpWebUrl: "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.amp.html"
+    type: article
+    provider:
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 89
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/3/74/37433be8-1a79-523c-8cf3-89c216f4e07b/61fdac8f356b3.image.jpg?resize=1024%2C540"
+        width: 1024
+        height: 540
+        isCached: true
 
 secured: "DmOQmrruAH98H3CJMJkPT9dLAu9sLJRj4AU9QyfDDRuwc5dcJfUBg3pCilHyZxRJSSWdQ93ducPnURj0w7LbJ4Mcd2qTtVntSXhgZFlpO4AMEBkLOUeGpn+Z1q/G2XDxi1QMNBPK8yOJSQR6z2E7R1+sdr3vd36y4ttV2YmqX1ZSTPPPaXEqmbHprhGcqpDm6T2J7w1XUAx8KK1xgQHpwyfMJ1TK9OJmJQQYjr0BVacuaZbvXMTh0gpk9QfgnJqO1f60aEgPGCCpEfI9Hr9DBe7qCyCpQ/My29v7N0fvlAbtRWgN7DQ/LbsWh0P4OiAKz9Vdx0tTXkVBKEyEnFnsE2QQC5oJCGtyt6MsPWz5So1aJhOgSSgdk8KYGlFAfW1gy6s0NTUaNw8sTbaBkfcj/LBjt5nixJYwz6j535lTWNOykGPZ4sUkecTjdc1iqvW6YGrnTBdV1GPyBin0hDIKiEYj+z1qDU6DmclfpzT/ZikYJHMHcLMcSKxtwBkTbOCpclDU917cGz048skv0jc5yQ==;Ywn/LGRVmQuzhnTXmCfvhA=="
 ---

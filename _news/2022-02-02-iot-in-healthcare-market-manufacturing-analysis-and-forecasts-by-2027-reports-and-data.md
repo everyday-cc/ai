@@ -25,86 +25,75 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence (AI) in Education Market Analysis, Strategies, Segmentation and Forecasts 2021 - 2030"
-    excerpt: "In a recently published report, Artificial intelligence (AI) in Education Market report for till 2030. The report further now discusses; the vario"
-    publishedDateTime: 2022-01-31T12:40:00Z
-    webUrl: "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Education-Market-Analysis-Strategies-Segmentation-and-Forecasts-2021-2030"
+  - title: "Machine Learning as a Service (MLaaS) Market Report 2022-2027: Industry Share, Size and Future Scope"
+    excerpt: "Machine learning comprises a broad set of algorithms that are ... excellence and the widespread adoption of cloud-based solutions in the banking, financial services and insurance (BFSI) sector, have also created a positive outlook for the market."
+    publishedDateTime: 2022-02-03T13:23:00Z
+    webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-report-2022-2027-industry-share-size-and-future-scope"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 41
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEiTsO5WFGrR2jbwtfT0yGgwqAPIXKWCIKyCJCbuZx_nrss0__bVmKWSlRKjJ5iieKzmNrODMyD2G43nxsugpU976WBApgT1L_TvG5zu71Xe1amWqX_Pqq2MCsAVVVl_c0qizgzL6w-Hc93DGvfeeK51rgJSCJ8H60ommeQxQvx-qrSAxo1iJHv0GPk=w519-h304"
+        width: 455
+        height: 304
+        isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market : Industry Analysis, Size, Share, Growth, Trends and Forecast"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 03, 2022, 04:52 /Comserve / -- Machine Learning as a Service (MLaaS) Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent ..."
+    publishedDateTime: 2022-02-03T10:40:00Z
+    webUrl: "https://menafn.com/1103635916/Machine-Learning-as-a-Service-MLaaS-Market-Industry-Analysis-Size-Share-Growth-Trends-and-Forecast"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 52
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?154985"
-        width: 458
-        height: 250
-        isCached: true
-  - title: "Computer Vision in Healthcare Market: Qualitative Analysis, Quantitative Analysis, Forecast up to 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 02, 2022, 03:33 /Comserve / -- The global Computer Vision in Healthcare market report provides geographic analysis covering regions, such as North America ..."
-    publishedDateTime: 2022-02-02T08:39:00Z
-    webUrl: "https://menafn.com/1103629339/Computer-Vision-in-Healthcare-Market-Qualitative-Analysis-Quantitative-Analysis-Forecast-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?444661"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Market data suggests positive returns on C3.ai Inc. (AI)"
-    excerpt: "Let’s start up with the current stock price of C3.ai Inc. (AI), which is $24.74 to be very precise. The Stock rose vividly during the last session to $26.89 after opening rate of $26.72 while the lowest price it went was recorded $25."
-    publishedDateTime: 2022-02-02T20:13:00Z
-    webUrl: "https://investchronicle.com/2022/02/02/market-data-suggests-positive-returns-on-c3-ai-inc-ai/"
-    type: article
-    provider:
-      name: investchronicle
-      domain: investchronicle.com
-    quality: 39
-    images:
-      - url: "https://investchronicle.com/wp-content/uploads/2020/01/17.png"
-        width: 448
-        height: 307
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Expected to Grow at CAGR 5.51% and Forecast to 2028"
-    excerpt: "A New Market Study, Titled “Artificial Intelligence (AI) in Agriculture Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. Request Free Sample Report @  This report studies the Artificial Intelligence (AI) in Agriculture market,"
-    publishedDateTime: 2022-02-01T22:58:00Z
-    webUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/"
-    ampWebUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
     quality: 38
-  - title: "Agricultural Robots Market Research Growth, Regions, Type and Application, Forecast Analysis to 2020-2028"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
-    publishedDateTime: 2022-02-01T12:51:00Z
-    webUrl: "https://menafn.com/1103624508/Agricultural-Robots-Market-Research-Growth-Regions-Type-and-Application-Forecast-Analysis-to-2020-2028"
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?734605"
+        width: 365
+        height: 250
+        isCached: true
+  - title: "Social Robots Market Report 2022-2027: Industry Size, Demand, Share and Future Scope"
+    excerpt: "For instance, the widespread integration of machine learning (ML) and artificial intelligence (AI) with social robots to facilitate meaningful communication between the robots and individuals is positively influencing the market growth. Moreover ..."
+    publishedDateTime: 2022-02-03T12:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/social-robots-market-report-2022-2027-industry-size-demand-share-and-future-scope"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 32
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEiuvz2PrH9s5xBkR6ary_bVQ_u7Vu0ULRIjXa3jTmH1SPFd1DQ8IDCsHFrECh0cAon7NN89LxnVzLSOwwvtI1B_t-KYXr1nloUVuritJeNbfdAlc_h0oUWTqjp3vww6fm9s7ce_UJYPVK8heuVElHQsJQjbmPtUPk0xDy7E2OB0gWBB7eykqshHE1s=w494-h329"
+        width: 427
+        height: 329
+        isCached: true
+  - title: "Physical Therapy Software Market By Industry Research, Supply, Size, Share and Prospects 2019-2027"
+    excerpt: "Be it artificial intelligence (AI), internet of things ... world is directly proportional to the growth of global Physical Therapy Software market. In the next two years, more than 20 billion ..."
+    publishedDateTime: 2022-02-01T18:40:00Z
+    webUrl: "https://menafn.com/1103626121/Physical-Therapy-Software-Market-By-Industry-Research-Supply-Size-Share-and-Prospects-2019-2027"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 22
+    quality: 25
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?617111"
-        width: 327
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?888888"
+        width: 372
         height: 250
         isCached: true
-  - title: "Automatic Content Recognition Market, Size, Segmentation & Outlook Forecast and Global Research Report to 2027"
-    excerpt: "The automatic content recognition market globally is segmented into end-user application, technology, and region. By Technology, the market is segmented into speech recognition, passive fingerprinting, and digital watermarks. The speech recognition segment ..."
-    publishedDateTime: 2022-02-02T00:18:00Z
-    webUrl: "https://ipsnews.net/business/2022/02/02/automatic-content-recognition-market-size-segmentation-outlook-forecast-and-global-research-report-to-2027/"
+  - title: "Aerostat Systems Market 2022-2027: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    excerpt: "Moreover, numerous organizations are utilizing intelligent video surveillance systems owing to their various advantages, such as object recognition and video analytics, and thereby further ..."
+    publishedDateTime: 2022-02-05T03:40:00Z
+    webUrl: "https://menafn.com/1103643931/Aerostat-Systems-Market-2022-2027-Global-Industry-Trends-Share-Size-Growth-Opportunity-and-Forecast"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 4
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
     images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2022/02/925-mrfr2011-2.jpg"
-        width: 300
-        height: 300
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?768954"
+        width: 374
+        height: 250
         isCached: true
 
 secured: "ETAbdr4eugp1Su5YEjOq711XOpxe70iV/otzCxQLQHFG6wSTOTeAdRIPAUS2Q+C/O+YwLpBzWTvOlM4XCxidRKinvg0npAIRX58hhUtx/LPVNaiQQTq/L0zJ2QAsXsKiuO6dFUphvJ52Dj2IjSO32ghhAD4T+ID2r8gMiJVlpYU47zAh3/oNjhhmOU/iXlgXQ0teGEwvUF0SS/5wV5odTg458+LUBKyk6jjWrb0WShtm/UyJNzy3nW9XC6PHibHQWwG+pNPrZQ4QXJT0OlPVt74p1lMitMg9H5XJjBeFLFbN66PjUqIR87coPQUbZXL4c8Fo4yQroY225ufKatlPlID6+31ZUtGJRPJ4O8r+9VA=;xGuuw9DpTiijmZ4Yp8HYZQ=="

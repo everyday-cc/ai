@@ -25,95 +25,303 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI's Revolutionary Facial Recognition Platform Awarded U.S. Patent"
-    excerpt: "The \"Methods for Providing Information About a Person Based on Facial Recognition\" patent, U.S. Patent No. 11,250,266, issued by the U.S. Patent and Trademark Office (USPTO), is the first of its kind for a facial recognition company and was awarded to Clearview AI for its ability to gather publicly available information from the open internet (social media sites,"
-    publishedDateTime: 2022-01-31T11:12:00Z
-    webUrl: "https://aithority.com/vision/face-recognition/clearview-ai-revolutionary-facial-recognition-platform-awarded-us-patent/"
+  - title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
+    excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
+    publishedDateTime: 2022-01-31T15:13:00Z
+    webUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590"
+    ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 151
+      name: HuffPost
+      domain: huffpost.com
+    quality: 87
     images:
-      - url: "https://aithority.com/wp-content/uploads/2022/01/Clearview-AIs-Revolutionary-Facial-Recognition-Platform-Awarded-U.S.-Patent.jpg"
-        width: 1600
-        height: 900
+      - url: "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000"
+        width: 1778
+        height: 1000
         isCached: true
-  - title: "Air Force taps Clearview AI to research face-identifying augmented reality glasses."
-    excerpt: "By Kashmir Hill The U.S. Air Force is looking into keeping its airfields safer with help from the facial recognition start-up Clearview AI. The Air Force Research Laboratory awarded Clearview $49,847 to research augmented reality glasses that could scan ..."
-    publishedDateTime: 2022-02-04T01:03:00Z
-    webUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html"
-    ampWebUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
+  - title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
+    excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
+    publishedDateTime: 2022-01-31T19:13:00Z
+    webUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590?d_id=3110524&ncid_tag=tweetlnkushpmg00000050"
+    ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 83
+      name: HuffPost
+      domain: huffpost.com
+    quality: 87
     images:
-      - url: "https://static01.nyt.com/images/2022/02/03/multimedia/03economy-briefing-clearview/03economy-briefing-clearview-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000"
+        width: 1778
+        height: 1000
         isCached: true
-  - title: "Clearview: Glasses With Facial Recognition Are Here And The Air Force Has Them"
-    excerpt: "Clearview AI is bringing glasses with facial recognition to the Air Force. Meanwhile, it's selling to the FBI and ICE, despite concerns over the technology. Clearview AI, the facial recognition company backed by Facebook and Palantir investor Peter Thiel ..."
-    publishedDateTime: 2022-02-03T14:13:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2022/02/03/clearview-ai-glasses-with-facial-recognition-are-here-and-the-air-force-is-using-them/"
+  - title: "Civil rights groups launch effort to stop IRS use of 'flawed' ID.me facial recognition"
+    excerpt: "Multiple groups have come together to urge the IRS to stop its use of facial recognition software. Outrage continues to swirl around a proposed plan from the Treasury Department to require some taxpayers to submit to facial recognition and biometric surveillance in order to access their accounts online."
+    publishedDateTime: 2022-02-01T18:47:00Z
+    webUrl: "https://www.zdnet.com/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
+      name: ZDNet
+      domain: zdnet.com
+    quality: 61
+  - title: "Taxpayers will have to use to facial recognition software to file with the IRS"
+    excerpt: "If you haven’t already filed your taxes, your face may become the key to getting it done. Reset learns more about the facial recognition software the IRS started using this year."
+    publishedDateTime: 2022-02-03T08:12:00Z
+    webUrl: "https://www.wbez.org/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad"
+    ampWebUrl: "https://www.wbez.org/amp/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad"
+    cdnAmpWebUrl: "https://www-wbez-org.cdn.ampproject.org/c/s/www.wbez.org/amp/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad"
+    type: article
+    provider:
+      name: WBEZ
+      domain: wbez.org
+    quality: 55
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61fbe16d5551f14b1679be48/0x0.jpg?format=jpg&width=1200&fit=bounds"
+      - url: "https://api.wbez.org/v2/images/462329f1-d357-447b-b5aa-78854f5138b8.jpg?mode=FILL&width=1200&height=630"
         width: 1200
-        height: 633
+        height: 630
         isCached: true
-  - title: "IRS will start using facial recognition to access tax information"
-    excerpt: "Why will you soon have to scan your face to access your IRS tax information? You will still be able to file your tax return the old-fashioned way, with paper documents sent via snail mail. But by this summer,"
-    publishedDateTime: 2022-01-31T12:57:00Z
-    webUrl: "https://www.wfaa.com/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    ampWebUrl: "https://www.wfaa.com/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
+  - title: "The Flawed Claims About Bias in Facial Recognition"
+    excerpt: "Recent improvements in face recognition show that disparities previously chalked up to bias are largely the result of a couple of technical issues."
+    publishedDateTime: 2022-02-02T16:57:00Z
+    webUrl: "https://www.lawfareblog.com/flawed-claims-about-bias-facial-recognition"
     type: article
     provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 59
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 54
     images:
-      - url: "https://media.wfaa.com/assets/KHOU/images/c5124352-d52e-4a4e-b816-217f7d009267/c5124352-d52e-4a4e-b816-217f7d009267_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://www.lawfareblog.com/sites/default/files/facialrecog.jpg"
+        width: 2048
+        height: 1536
         isCached: true
-  - title: "Forget facial recognition! Apple AirPods could soon identify you based on the shape of your EAR CANAL, patent suggests"
-    excerpt: "The new biometric device would use ultrasonic signals reflected against the walls of a user's ear canal to authenticate a user, the Cupertino tech giant explains in a new patent."
-    publishedDateTime: 2022-01-31T20:52:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
+  - title: "New legislation would ban IRS from using facial recognition software on taxpayers"
+    excerpt: "EXCLUSIVE: The Internal Revenue Service (IRS) would be barred from using facial recognition software on taxpayers under new legislation introduced Friday in Congress."
+    publishedDateTime: 2022-02-04T12:22:00Z
+    webUrl: "https://www.foxbusiness.com/politics/irs-facial-recognition-software-taxpayers-ban-legislation"
+    ampWebUrl: "https://www.foxbusiness.com/politics/irs-facial-recognition-software-taxpayers-ban-legislation.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/irs-facial-recognition-software-taxpayers-ban-legislation.amp"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 50
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 54
     images:
-      - url: "https://i.dailymail.co.uk/1s/2022/01/31/16/53594163-0-image-a-14_1643647535757.jpg"
-        width: 636
-        height: 382
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8a908e86-949a-47e2-bb6f-e66f0457fb1d/4c62452d-7cfc-444a-ae22-e6e0f44db918/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Government building national facial recognition database"
-    excerpt: "The Department for Home Affairs has begun work on its national facial recognition database, putting a large project for consolidating national ID matching to tender last week. Home Affairs is looking for a company that will “build and deploy” this system which will include migrating a pre-existing centralised database of facial images collected from state driver licenses,"
-    publishedDateTime: 2022-02-01T03:14:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/government-building-national-facial-recognition-database.html"
+  - title: "Facial Recognition Plan from IRS Raises Big Concerns"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-04T20:30:00Z
+    webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/"
     type: article
     provider:
-      name: acs.org.au
-      domain: acs.org.au
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 54
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/8276C43B-F484-45D8-A0EAEB4DD77803B6.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "The IRS plan to require face scans raises concerns about privacy and security"
+    excerpt: "It's a major expansion of facial recognition technology by the U.S. government, and it's raising questions about how this kind of data will be used and shared across private and public agencies. Ina Fried, chief technology correspondent for Axios ..."
+    publishedDateTime: 2022-02-01T16:32:00Z
+    webUrl: "https://www.wbur.org/hereandnow/2022/02/01/irs-video-selfie-records"
+    ampWebUrl: "https://amp.wbur.org/hereandnow/2022/02/01/irs-video-selfie-records"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/hereandnow/2022/02/01/irs-video-selfie-records"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 53
+  - title: "Another lawmaker raises concerns with IRS plan to use facial recognition"
+    excerpt: "Sen. Roger Wicker, R-Miss., is asking the IRS to provide answers to a series of questions around their use of facial recognition and third-party vendor ID.me by Feb. 17. (Photo by Joshua Roberts/Getty Images) The ranking Republican on the Senate Commerce ..."
+    publishedDateTime: 2022-02-04T18:55:00Z
+    webUrl: "https://www.scmagazine.com/analysis/data-security/another-lawmaker-raises-concerns-with-irs-plan-to-use-facial-recognition"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 53
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2022/02/Wicker-e1643998430844.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Here’s what’s wrong with an IRS proposal to use facial recognition technology for tax filing"
+    excerpt: "Because of privacy concerns, the IRS is reconsidering its plan to require the use of facial recognition to file taxes online this year. metamorworks - stock.adobe.com The U.S. Internal Revenue ..."
+    publishedDateTime: 2022-02-03T12:02:00Z
+    webUrl: "https://chicago.suntimes.com/2022/2/3/22914680/facial-recognition-irs-tax-filing-privacy-concerns-james-hendler-the-conversation-other-views"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2022/2/3/22914680/facial-recognition-irs-tax-filing-privacy-concerns-james-hendler-the-conversation-other-views"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2022/2/3/22914680/facial-recognition-irs-tax-filing-privacy-concerns-james-hendler-the-conversation-other-views"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 48
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/8beLPC1Cz-KzYFA-wvp1fFgYWjg=/0x0:6006x4004/1400x1050/filters:focal(3051x1015:4011x1975):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70466031/AdobeStock_164918001.0.jpeg"
+        width: 1400
+        height: 1050
+        isCached: true
+  - title: "IRS website to leverage facial recognition tech for identity protection"
+    excerpt: "Agency to require those wanting to access their accounts to submit selfies and photos of their identification documents"
+    publishedDateTime: 2022-01-31T18:46:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21255085/irs-website-to-leverage-facial-recognition-tech-for-identity-protection"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
     quality: 39
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/facial%20recognition%20system.jpg"
-        width: 734
-        height: 413
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/bigstock_Facial_Recognition_Security_Sy_295494367__1_.61f82d7468f43.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Why the Prospect of the IRS Using Facial Recognition Is So Alarming"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number ..."
+    publishedDateTime: 2022-02-02T13:37:00Z
+    webUrl: "https://slate.com/technology/2022/02/irs-id-me-facial-recognition.html"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 39
+    images:
+      - url: "https://compote.slate.com/images/6e84f7ce-4227-46e1-b24a-83ad6d9d0e54.jpeg?width=780&height=520&rect=3858x2572&offset=0x1543"
+        width: 780
+        height: 520
+        isCached: true
+  - title: "Metro approves license plate readers, disallows facial recognition"
+    excerpt: "They may also hone in on vehicle makes, models and colors. Those that troubled critics most were those that also included facial recognition capability, without which some racial implications would theoretically no longer be a factor, though that has not ..."
+    publishedDateTime: 2022-02-03T15:00:00Z
+    webUrl: "https://www.nashvillepost.com/politics/metro/metro-approves-license-plate-readers-disallows-facial-recognition/article_20098f9c-846a-11ec-95bd-032eecf6b05f.html"
+    type: article
+    provider:
+      name: Nashville Post
+      domain: nashvillepost.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nashvillepost.com/content/tncms/assets/v3/editorial/e/a1/ea1a26ce-846b-11ec-ac12-dbe4b5d8fc75/61faf2420059a.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "PD Editorial: IRS facial recognition plans tax the public’s patience"
+    excerpt: "Editorials represent the views of The Press Democrat editorial board and The Press Democrat as an institution. The editorial board and the newsroom operate separately and independently of one another. The Internal Revenue Service found a way to become even ..."
+    publishedDateTime: 2022-02-04T08:20:00Z
+    webUrl: "https://www.pressdemocrat.com/article/opinion/pd-editorial-irs-facial-recognition-plans-tax-the-publics-patience/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 39
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=f02c97b5-2355-5b05-a9a9-5d3e1ae02e0a&type=primary&q=72&width=1200"
+        width: 1199
+        height: 777
+        isCached: true
+  - title: "GOP lawmakers move to stop IRS facial recognition technology"
+    excerpt: "Republicans in Congress are raising concerns about the Internal Revenue Service’s move to use facial recognition technology to authenticate taxpayers before they can access their online accounts, introducing a bill that would ban the practice. The IRS ..."
+    publishedDateTime: 2022-02-04T21:06:00Z
+    webUrl: "https://www.accountingtoday.com/news/gop-lawmakers-move-to-stop-irs-facial-recognition-technology"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/a4b6c57/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2b%2F95%2F021b51a74a8f93d36ab8e268ad75%2Firs-building-spotlight.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IRS facial recognition plan gets fierce blowback from bipartisan senators"
+    excerpt: "In the wake of a controversial plan by the Internal Revenue Service to implement third-party services that rely on facial recognition, bipartisan senators on Thursday demanded that the IRS “immediately discontinue” any programs that collect ..."
+    publishedDateTime: 2022-02-04T21:00:00Z
+    webUrl: "https://www.fastcompany.com/90719029/irs-facial-recognition-plan-gets-fierce-blowback-from-bipartisan-senators"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 38
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-IRS-facial-recognition-plan-gets-blowback-from-bipartisan-senators.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "IRS to start using facial recognition technology for online account access"
+    excerpt: "Starting in summer 2022, the Internal Revenue Service will start asking taxpayers to use facial recognition technology to access their online accounts."
+    publishedDateTime: 2022-02-02T13:08:00Z
+    webUrl: "https://www.krgv.com/news/irs-to-start-using-facial-recognition-technology-for-online-account-access"
+    type: article
+    provider:
+      name: KRGV
+      domain: krgv.com
+    quality: 37
+    images:
+      - url: "http://dcer237tfveol.cloudfront.net/v2/pD1PMFzw8Umi7Yps6CdbwAFRKt7ymUV3XcQPLr7o4008vG9pKt86R9asYWYy_-17su22c6IvzBtNIIzwzrjb-34fCist6iKXvH-XG8pT9zGQRo_SfhIMZxnC11dd6Yovql9yBt-tdIY7N5DDP6xAnJ"
+        width: 854
+        height: 480
+        isCached: true
+  - title: "Will IRS Require Use of Facial Recognition Software To Access Tax Info Online?"
+    excerpt: "another reader asked. As of this writing, it’s true that the IRS is requiring taxpayers to use facial recognition software designed by a technology company called ID.me to access IRS documents and services online. We reached out to the IRS for comment ..."
+    publishedDateTime: 2022-02-04T00:27:00Z
+    webUrl: "https://www.snopes.com/fact-check/irs-facial-recognition-software/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 35
+    images:
+      - url: "https://www.snopes.com/tachyon/2022/02/GettyImages-1205818979.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
+  - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-03T13:03:00Z
+    webUrl: "https://www.govexec.com/technology/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361499/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 25
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2022/02/02/020322faceidGE/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-04T14:44:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361604/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 25
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/02/04/020322faceidGE/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "US Treasury considers alternatives to ID.me biometrics for IRS online access"
+    excerpt: "An IRS contract being served by ID.me is continuing to generate controversy based on the use of facial recognition and biometric authentication."
+    publishedDateTime: 2022-01-31T19:20:00Z
+    webUrl: "https://www.biometricupdate.com/202201/us-treasury-considers-alternatives-to-id-me-biometrics-for-irs-online-access"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/06/25135841/selfie-for-onboarding-identity-verification.jpg"
+        width: 864
+        height: 554
         isCached: true
 
 secured: "yB+ZLsFAkkfE8rLRT73lq0rxhMsl3a3wlodHQxSj38NEzHiaFvTHm9mAgW2NgTjOLPeCsBoFgeneC91pk3d6sSA1JVmEGPC3NsTwh4PXzGRc2fZfCIqItfb1VTn4mPJIeBse5H3AR7yzD/0z/lczBXc9uymLO7Z8zj69dibSQDEkEi8pD4cdUdZX/2ej+69iZvsPdqIXX3dMtz+Kel01fXjHFBgTbrscGyrU6+lPtc7mrecNUEtUjBHtYCcLd0R2adE46poSpD7gEUZBL2Eelb22GMAd5Ff2EjIzDgyiKGxCZ1GNGBiK75Lauf528f8KS0n+J7Q+CLULZzjx1R1nHkJjG0UUh7UJMnkSBZqNnmU=;vKXyjJt68e1fDLxZlMiicA=="

@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Ag Expo rolls out innovations in A.I., robotics, electric vehicles"
-excerpt: "New robotics, artificial intelligence and zero-emission vehicles look to steal the three-day show — the largest of its kind — at a time when problems like water and labor scarcity are giving inventors plenty to work on. Advancements in computer ..."
-publishedDateTime: 2022-02-05T00:06:00Z
-originalUrl: "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-a-i-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.html"
-webUrl: "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-a-i-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.html"
-ampWebUrl: "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-a-i-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.amp.html"
-cdnAmpWebUrl: "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-a-i-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.amp.html"
+title: "Ag Expo rolls out innovations in AI, robotics, electric vehicles"
+excerpt: "Technology that farmers have only dreamed about will be on full display next week at Tulare's annual World Ag Expo."
+publishedDateTime: 2022-02-04T23:00:00Z
+originalUrl: "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.html"
+webUrl: "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.html"
+ampWebUrl: "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.amp.html"
+cdnAmpWebUrl: "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.amp.html"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 89
+heat: -1
+published: false
 
 provider:
   name: The Bakersfield Californian
@@ -26,6 +26,19 @@ images:
     height: 540
     isCached: true
 
-secured: "6tDDlNdKw2l65QTb46I55ATzp+Hc0Ezt+zy7yqjxNA32y8OVtk+3k5VS/CR0zaeK3Sd+abbFGGiTQlNBnxhcQfVSsaVEKuzjt+aGgHBvAkywvGRK7BImNx2SS1cknBbPoQpEZG++WMQFqmhblXNet3lOtRiZL3q+1J9wxBek2YIOe9FQlMW2sRlduyvnHfnROpwcbx1NvHzhfb6aP7IrgdJPzsAdAPoAwS16UZIMR9EW4jE5bjuLFEaCz7WV9ogNxN16Dm782JyUpyikUHllPEOuLcKMTbobyO7QM5YGC+BWy3tG392nUn77hTdhrv3ABzafWjOC0wlaOaYSDzTFh4yduOVp9Yga7p+AWr2Wz6I=;YwlL2DHs+ss0m6wyYfyAfA=="
+related:
+  - title: "Innovations in Robotics, AI Will Continue to Power This ETF"
+    excerpt: "More innovation in robotics and artificial intelligence could bloom out of healthy competition, which could power the First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT) even further. The disruptive space, highlighted by robots and AI ..."
+    publishedDateTime: 2022-02-04T17:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf"
+    ampWebUrl: "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 99
+
+secured: "XJBtpGKtEMLHlu/6pHKa6paLZdLy1djuAVfEaoJYuaL+CxLMPf4EsxKSoBa1LTBbrveR6So3r5QWIXOukFstQZe27/FL02qwMz2X5/37urv1WsZyz6Icb+o4tj3NTcY/qQuOJGyTk1qbHSsd0RGjqJptClL7/LYjVONtCbyV+C4cwng/5U2RSwJMt+ZfbgsCRYZfK/XMphbbGpcL9vlA1X6cGXDP0KANbQTS23yqyj7jwWSO+dW4m45F0Hwz//nS2tV/ZkgW0G73c0MbBM0CtLsE24oeLwhIDC28EG52jzwj3RVCiXOtkaSV3Y4eJMDzTFirL2bNCz3d6Nh6NkJ2F2YT1ZxGwBhFagamgbULupE=;7ybwTr83OEzuA1vhQn0noA=="
 ---
 

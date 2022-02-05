@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI's Revolutionary Facial Recognition Platform Awarded U.S. Patent"
-    excerpt: "The \"Methods for Providing Information About a Person Based on Facial Recognition\" patent, U.S. Patent No. 11,250,266, issued by the U.S. Patent and Trademark Office (USPTO), is the first of its kind for a facial recognition company and was awarded to Clearview AI for its ability to gather publicly available information from the open internet (social media sites,"
-    publishedDateTime: 2022-01-31T11:12:00Z
-    webUrl: "https://aithority.com/vision/face-recognition/clearview-ai-revolutionary-facial-recognition-platform-awarded-us-patent/"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 151
-    images:
-      - url: "https://aithority.com/wp-content/uploads/2022/01/Clearview-AIs-Revolutionary-Facial-Recognition-Platform-Awarded-U.S.-Patent.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Air Force taps Clearview AI to research face-identifying augmented reality glasses."
     excerpt: "By Kashmir Hill The U.S. Air Force is looking into keeping its airfields safer with help from the facial recognition start-up Clearview AI. The Air Force Research Laboratory awarded Clearview $49,847 to research augmented reality glasses that could scan ..."
     publishedDateTime: 2022-02-04T01:03:00Z
@@ -58,66 +44,6 @@ related:
       - url: "https://static01.nyt.com/images/2022/02/03/multimedia/03economy-briefing-clearview/03economy-briefing-clearview-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "IRS will start using facial recognition to access tax information"
-    excerpt: "Why will you soon have to scan your face to access your IRS tax information? You will still be able to file your tax return the old-fashioned way, with paper documents sent via snail mail. But by this summer,"
-    publishedDateTime: 2022-01-31T12:57:00Z
-    webUrl: "https://www.wfaa.com/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    ampWebUrl: "https://www.wfaa.com/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/money/facial-recognition-tax-information/285-2cf2d66d-b633-48e9-bc3b-a56f88269722"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 59
-    images:
-      - url: "https://media.wfaa.com/assets/KHOU/images/c5124352-d52e-4a4e-b816-217f7d009267/c5124352-d52e-4a4e-b816-217f7d009267_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Forget facial recognition! Apple AirPods could soon identify you based on the shape of your EAR CANAL, patent suggests"
-    excerpt: "The new biometric device would use ultrasonic signals reflected against the walls of a user's ear canal to authenticate a user, the Cupertino tech giant explains in a new patent."
-    publishedDateTime: 2022-01-31T20:52:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 50
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/01/31/16/53594163-0-image-a-14_1643647535757.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Government building national facial recognition database"
-    excerpt: "The Department for Home Affairs has begun work on its national facial recognition database, putting a large project for consolidating national ID matching to tender last week. Home Affairs is looking for a company that will “build and deploy” this system which will include migrating a pre-existing centralised database of facial images collected from state driver licenses,"
-    publishedDateTime: 2022-02-01T03:14:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/government-building-national-facial-recognition-database.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/facial%20recognition%20system.jpg"
-        width: 734
-        height: 413
-        isCached: true
-  - title: "Metro approves license plate readers, allows facial recognition"
-    excerpt: "Metro Council on Tuesday approved the controversial use of license plate readers and sent the new, much debated legislation to Mayor John Cooper, who has signaled support for it. This week's Metro Council session spanned more than four hours yet spent close to a quarter of its time on legislation that has been debated in this and alternate versions since 2020."
-    publishedDateTime: 2022-02-02T20:53:00Z
-    webUrl: "https://www.nashvillepost.com/politics/metro/metro-approves-license-plate-readers-allows-facial-recognition/article_20098f9c-846a-11ec-95bd-032eecf6b05f.html"
-    type: article
-    provider:
-      name: Nashville Post
-      domain: nashvillepost.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nashvillepost.com/content/tncms/assets/v3/editorial/e/a1/ea1a26ce-846b-11ec-ac12-dbe4b5d8fc75/61faf2420059a.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "zPbNwksh4EXQ99eJrvnMIQlHBXq42ZDisbPEsEW1M7kab9qR26/5q5Y9dksUYS8axgUjSyJ3jp4/szbPXbCilxXLrKkCvCymmBxE+9/zL31FN9UKjb8HTIRdAxfh9UxQlA4+GSryMaHHhZFqB6Cs4PuoOMwscKLj4Uq2I8AIpbKJ4J9yBkQoPRDmvn4oE6Xm6qsitONTq+xR1pMNaragfmWKqmM9W05/6xVLZnfmc+KJSHefdImunU5GEQKLWKKXE2DvO2HRtsOzhEBAe3r54GN9xU8gw1IVX3KpNxLQ6rJg5YxsYe2Mg4QQQG8+3KGh1jOLm276z/VjugrWbYvLNlFzR7UJ5KEfdp0+YdEotIfRkBZzyHT/rsuTB+QQNKx4NBcWQOGQD4yKSAjVYXAWiNdoxA98jfj5nX7PA9a8HfAbl81tlrrXgzWMU6acyG1xsCocCcYhGO0kRbO0+AB5HJh+EahVoKyhngjhOL99n9TbhwBJJTFVKI37oLI+Fbtz2HsDP2ZAnRnr2zOpW+ovyA==;gIn3s2du+Xhe8yj1JXF5Aw=="

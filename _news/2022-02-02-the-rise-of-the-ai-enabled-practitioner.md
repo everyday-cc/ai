@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2022/02/02/the-rise-of-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/02/02/the-rise-of-the-ai-enabled-practitioner/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://cdn.techhq.com/wp-content/uploads/2022/02/shutterstock_1202221816-375x210.jpg"
         width: 375
         height: 210
-        isCached: true
-  - title: "Exploration Into The Roots Of Artificial Intelligence In Education"
-    excerpt: "Spread the loveAs technology becomes more advanced, schools and other educational facilities have slowly started to incorporate new tools into their modern-day programs. Many teachers rely heavily on this equipment,"
-    publishedDateTime: 2022-01-31T11:17:00Z
-    webUrl: "https://www.thetechedvocate.org/exploration-into-the-roots-of-artificial-intelligence-in-education/"
-    type: article
-    provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 54
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2020/12/pexels-hasan-albari-1229861.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "The future role of AI in finance"
     excerpt: "And, perhaps crucially, whether AI will ever remove the need for human advisors in the financial industry. AI transforming financial sector Business leaders have revealed that the use of technology including AI plays a significant role in filling gaps ..."

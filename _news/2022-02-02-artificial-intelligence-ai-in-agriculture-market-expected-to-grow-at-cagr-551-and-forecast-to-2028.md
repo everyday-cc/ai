@@ -9,7 +9,7 @@ ampWebUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-i
 cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -21,89 +21,61 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Artificial intelligence (AI) in Education Market Analysis, Strategies, Segmentation and Forecasts 2021 - 2030"
-    excerpt: "In a recently published report, Artificial intelligence (AI) in Education Market report for till 2030. The report further now discusses; the vario"
-    publishedDateTime: 2022-01-31T12:40:00Z
-    webUrl: "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Education-Market-Analysis-Strategies-Segmentation-and-Forecasts-2021-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 52
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?154985"
-        width: 458
-        height: 250
-        isCached: true
-  - title: "Computer Vision in Healthcare Market: Qualitative Analysis, Quantitative Analysis, Forecast up to 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 02, 2022, 03:33 /Comserve / -- The global Computer Vision in Healthcare market report provides geographic analysis covering regions, such as North America ..."
-    publishedDateTime: 2022-02-02T08:39:00Z
-    webUrl: "https://menafn.com/1103629339/Computer-Vision-in-Healthcare-Market-Qualitative-Analysis-Quantitative-Analysis-Forecast-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?444661"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Market data suggests positive returns on C3.ai Inc. (AI)"
-    excerpt: "Let’s start up with the current stock price of C3.ai Inc. (AI), which is $24.74 to be very precise. The Stock rose vividly during the last session to $26.89 after opening rate of $26.72 while the lowest price it went was recorded $25."
-    publishedDateTime: 2022-02-02T20:13:00Z
-    webUrl: "https://investchronicle.com/2022/02/02/market-data-suggests-positive-returns-on-c3-ai-inc-ai/"
-    type: article
-    provider:
-      name: investchronicle
-      domain: investchronicle.com
-    quality: 39
-    images:
-      - url: "https://investchronicle.com/wp-content/uploads/2020/01/17.png"
-        width: 448
-        height: 307
-        isCached: true
-  - title: "IoT in Healthcare Market Manufacturing Analysis and Forecasts by 2027 | Reports and Data"
-    excerpt: "and the surging need for the adoption of cost-control measures in the healthcare sector. The increasing prevalence of AI (Artificial Intelligence) in the medical industry has revolutionized patient care. In 2018, the global spending on IoT initiatives was ..."
-    publishedDateTime: 2022-02-02T10:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/iot-in-healthcare-market-manufacturing-analysis-and-forecasts-by-2027-reports-and-data"
+  - title: "Artificial Intelligence (AI) in Construction Market Size Expected to Reach USD 4.51 Billion at a CAGR of 34.0% By 2026"
+    excerpt: "The global Artificial Intelligence (AI) in the Construction market is forecast to reach USD 4.51 Billion by 2026, according to a new report by Reports and Data. The easy risk mitigation of quality, and safety, coupled with the time and cost consumption ..."
+    publishedDateTime: 2022-02-04T10:41:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-construction-market-size-expected-to-reach-usd-4-51-billion-at-a-cagr-of-34-0-by-2026"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 30
+    quality: 32
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/6ba83574b4873e683a1c811a2e185ee50a1893bd-600x337.jpg"
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/NFT-museum-AFP-1K-600x337.jpg"
         width: 600
         height: 337
         isCached: true
-  - title: "Agricultural Robots Market Research Growth, Regions, Type and Application, Forecast Analysis to 2020-2028"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
-    publishedDateTime: 2022-02-01T12:51:00Z
-    webUrl: "https://menafn.com/1103624508/Agricultural-Robots-Market-Research-Growth-Regions-Type-and-Application-Forecast-Analysis-to-2020-2028"
+  - title: "Robotic Prosthetic Market Size Expected to Reach USD 2,384.4 Million at a CAGR of 8.9%, in 2028"
+    excerpt: "Growing demand for robotic prosthetic products due to increasing incidents ... according to latest report by Reports and Data. Emergence of mind-controlled humonics is considered one of the most important factors to impact market revenue growth."
+    publishedDateTime: 2022-02-04T13:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robotic-prosthetic-market-size-expected-to-reach-usd-2384-4-million-at-a-cagr-of-8-9-in-2028"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 27
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/CCC-9-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "(AI) Artificial Intelligence in Drug Discovery Market to Rise at 33.9% CAGR, to Reach USD 5,558.0 Million by 2029: Polaris Market Research"
+    excerpt: "By offering, the software division has the largest market share. The two of the most popular AI platforms are Google AI and Microsoft Azure. By technology, machine learning involves a gamut of techniques that can assist people in making better decisions as ..."
+    publishedDateTime: 2022-02-03T23:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-artificial-intelligence-in-drug-discovery-market-to-rise-at-33-9-cagr-to-reach-usd-5558-0-million-by-2029-polaris-market-research"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 22
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?617111"
-        width: 327
-        height: 250
+      - url: "https://www.abnewswire.com/uploads/1643890995.jpeg"
+        width: 1280
+        height: 451
         isCached: true
-  - title: "Automatic Content Recognition Market, Size, Segmentation & Outlook Forecast and Global Research Report to 2027"
-    excerpt: "The automatic content recognition market globally is segmented into end-user application, technology, and region. By Technology, the market is segmented into speech recognition, passive fingerprinting, and digital watermarks. The speech recognition segment ..."
-    publishedDateTime: 2022-02-02T00:18:00Z
-    webUrl: "https://ipsnews.net/business/2022/02/02/automatic-content-recognition-market-size-segmentation-outlook-forecast-and-global-research-report-to-2027/"
+  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
+    excerpt: "request for a sample – https://www.futuremarketinsights.com/reports/sample/rep-gb-5032 In addition to some of the most commonplace vision disorders, newly establishing problems such as digital eye strain (more popularly, computer vision syndrome ..."
+    publishedDateTime: 2022-02-02T10:01:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-02-02/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-59-during-the-forecast-period-2022-2029"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 4
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 10
     images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2022/02/925-mrfr2011-2.jpg"
-        width: 300
-        height: 300
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
         isCached: true
 
 secured: "0WHvgx7JIoGANERVJntzrnITuNJET/hxLs0vYGiGg/ZdMSIT3QLQTX54XqXE62QlpmeyQIefGHLEAnfx/B7UnlUg46BYx1KP5Lqk9qeCk3+lXG3hYPv9BrzvC3CMeZDU2Hga6jREAXZ+GehBD0a2En8quQSsUXgal0SZOUKVt1IdNSfaXbIN3autGYcH5hzOBzgCK+V9z4PUZjQX/3jySEO9Y8HtLeE/3gFBj1W1NGGXSMMqVH90XcS2WP+RRmd5LfJ95I/vMvw050+0Kt9hox343mAHbvsb+c1TqA6LoWh7Q34qAlPMPFmCyXss5zQsWgKrp5V7B/xOrDdPeEzWTECu70P8nHvMtfhKa3jLg7yvSzZOdonLvwnufnvi1C5hqqyo+ivbSey7cXBppy83rgC9FfadShSoF1NG3Z36v83xgcLjzdb1IoxFQwIBtMksj/LcBPnEtjsYJe6u0wxfvV3VujTWh6Q8AY2azakfvuUep6FmgnL3VhC550HDILhQXafXurYH5dZFrkCADACuYg==;WGdyPr/nCaaLof4576aSBw=="

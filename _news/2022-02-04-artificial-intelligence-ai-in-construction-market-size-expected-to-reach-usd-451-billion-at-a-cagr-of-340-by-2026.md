@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-co
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-construction-market-size-expected-to-reach-usd-4-51-billion-at-a-cagr-of-34-0-by-2026"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Agriculture Market Expected to Grow at CAGR 5.51% and Forecast to 2028"
+    excerpt: "A New Market Study, Titled “Artificial Intelligence (AI) in Agriculture Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. Request Free Sample Report @  This report studies the Artificial Intelligence (AI) in Agriculture market,"
+    publishedDateTime: 2022-02-01T22:58:00Z
+    webUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/"
+    ampWebUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 38
   - title: "Robotic Prosthetic Market Size Expected to Reach USD 2,384.4 Million at a CAGR of 8.9%, in 2028"
     excerpt: "Growing demand for robotic prosthetic products due to increasing incidents ... according to latest report by Reports and Data. Emergence of mind-controlled humonics is considered one of the most important factors to impact market revenue growth."
     publishedDateTime: 2022-02-04T13:57:00Z
@@ -37,34 +48,6 @@ related:
     quality: 27
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/CCC-9-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "The Global AI in Banking Market Will Grow to $64.03 Billion by 2030, at a CAGR of 32.6% During 2021-2030 - ResearchAndMarkets.com"
-    excerpt: "The global AI in banking market size was valued at $3.88 billion in 2020, and is projected to reach $64.03 billion by 2030, growing at a CAGR of 32.6% from 2021 to 2030. Artificial Intelligence (AI) brings the advantage of digitization to banks and helps them meet the competition posed by FinTech players."
-    publishedDateTime: 2022-01-31T15:36:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-health-artificial-intelligence-191c37af1daa431fbbac9cb8d851c54a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Voice Biometrics Market is Expected to Reach USD 5,889.9 Million in 2028"
-    excerpt: "Various social networking sites including Facebook, Twitter, LinkedIn, and others are striving persistently to develop advanced speech recognition so that the voice input taken through speech recognition facilities can also be implemented as a voice ..."
-    publishedDateTime: 2022-02-01T14:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/voice-biometrics-market-is-expected-to-reach-usd-5889-9-million-in-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 23
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/1fc2c692d0ecf827c5d9f525ec49bd06c6e93e1d-600x337.jpg"
         width: 600
         height: 337
         isCached: true

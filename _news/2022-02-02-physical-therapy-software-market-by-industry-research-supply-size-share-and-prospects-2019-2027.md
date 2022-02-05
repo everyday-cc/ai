@@ -67,6 +67,34 @@ related:
         width: 427
         height: 329
         isCached: true
+  - title: "IoT in Healthcare Market Manufacturing Analysis and Forecasts by 2027 | Reports and Data"
+    excerpt: "and the surging need for the adoption of cost-control measures in the healthcare sector. The increasing prevalence of AI (Artificial Intelligence) in the medical industry has revolutionized patient care. In 2018, the global spending on IoT initiatives was ..."
+    publishedDateTime: 2022-02-02T10:20:00Z
+    webUrl: "https://www.digitaljournal.com/pr/iot-in-healthcare-market-manufacturing-analysis-and-forecasts-by-2027-reports-and-data"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 30
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/6ba83574b4873e683a1c811a2e185ee50a1893bd-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Aerostat Systems Market 2022-2027: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    excerpt: "Moreover, numerous organizations are utilizing intelligent video surveillance systems owing to their various advantages, such as object recognition and video analytics, and thereby further ..."
+    publishedDateTime: 2022-02-05T03:40:00Z
+    webUrl: "https://menafn.com/1103643931/Aerostat-Systems-Market-2022-2027-Global-Industry-Trends-Share-Size-Growth-Opportunity-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?768954"
+        width: 374
+        height: 250
+        isCached: true
 
 secured: "syXsLDqYMzoUIh6GC93PAxUjU4KseRSXgw4UATs70HvL152iqC/+uI0t+65T615VsVvGhpAK5YKDg7btRifarMRa3uV5m5cpwO22zoLe6RItfxHtKTobK9dSgQWHTc6bTpQrcOO4tSI3F7q7rxMCyCsuDxOyH5iR3LBNNVx04AUX59Ijb9jhvRLuRJg2Od3zqxeLwRBsxdvPDn/EkfWuuCNARbTTmjq3nZNmeCAql3Z695VrV4Ju5tKktD2Lcquuo94RbEEmAH5xA84OItlLe+PI1ctuDOl8Vz/iXqOGhSVx9JYy6vbp1/NhW4cy+cEeTVHFNwcoho6FZUs0e4IncytcjGSKOBMGS2FlD1hZKf4=;E18QQ/jehiJMGytqcXasXQ=="
 ---

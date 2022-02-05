@@ -160,20 +160,6 @@ related:
         width: 768
         height: 483
         isCached: true
-  - title: "Fintech leaders press PM Boris Johnson for IPO reforms"
-    excerpt: "The founders of some of the UK’s largest privately-owned fintech businesses have met with UK Prime Minister Boris Johnson today to discuss reforms aimed at encouraging more tech firms to list on the London market."
-    publishedDateTime: 2022-01-31T11:49:00Z
-    webUrl: "https://www.altfi.com/article/8778_fintech-leaders-press-pm-boris-johnson-for-ipo-reforms"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/fintech-leaders-press-pm-boris-johnson-for-ipo-reforms.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Fintech Cadence Announces Partnership with Fintel Connect"
     excerpt: "Fintech Cadence announces today their partnership with Fintel Connect. The partnership will enhance the resources, offerings and capabilities that Fintech Cadence provides to"
     publishedDateTime: 2022-02-02T12:44:00Z

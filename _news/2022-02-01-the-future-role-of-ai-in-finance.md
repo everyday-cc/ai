@@ -57,20 +57,6 @@ related:
         width: 375
         height: 210
         isCached: true
-  - title: "Exploration Into The Roots Of Artificial Intelligence In Education"
-    excerpt: "Spread the loveAs technology becomes more advanced, schools and other educational facilities have slowly started to incorporate new tools into their modern-day programs. Many teachers rely heavily on this equipment,"
-    publishedDateTime: 2022-01-31T11:17:00Z
-    webUrl: "https://www.thetechedvocate.org/exploration-into-the-roots-of-artificial-intelligence-in-education/"
-    type: article
-    provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 54
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2020/12/pexels-hasan-albari-1229861.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "i9XbHmogYLH8ME4XhOWfH7AVy5oPan7AxnotQCQhV3WWZ1ot4QgOMXL+l32yrObuYkr49smq07jad8AFMwhg7DGoS3nlVfbwnS5KOMVQX/BiinRGMHBR5U1W7jLVaQn+zXhdybh0RlaULZrzjqyh5wo6dB3ngWERyx514RYOckvIMWFaQltv7Q9e7KeFZBZBxyxVv9kf/h0kFdclyMuO+L31Hsp1frXGXxx5IqIUSmSQCUTCet/ji7CgYZgdq3RIkDCxJoJxTmCHgKHg0QM2aRFun/0/RFgj7FWXZhcIRiQBQaMnH+Xa8mZIO9cePFvQ45NV2a20M/nobg5swFlnMKhnNWrpcoLnRTU/ygUkhvQ=;nxoqagTds3WoEQz0lyPptw=="
 ---

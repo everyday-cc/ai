@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-finte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/"
 type: article
 quality: 74
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -149,20 +149,6 @@ related:
       - url: "https://commercialobserver.com/wp-content/uploads/sites/3/2022/01/10-year-forecast.png?w=768"
         width: 768
         height: 483
-        isCached: true
-  - title: "Fintech leaders press PM Boris Johnson for IPO reforms"
-    excerpt: "The founders of some of the UK’s largest privately-owned fintech businesses have met with UK Prime Minister Boris Johnson today to discuss reforms aimed at encouraging more tech firms to list on the London market."
-    publishedDateTime: 2022-01-31T11:49:00Z
-    webUrl: "https://www.altfi.com/article/8778_fintech-leaders-press-pm-boris-johnson-for-ipo-reforms"
-    type: article
-    provider:
-      name: altfi.com
-      domain: altfi.com
-    quality: 24
-    images:
-      - url: "https://www.altfi.com/images/featured/fintech-leaders-press-pm-boris-johnson-for-ipo-reforms.jpg"
-        width: 1200
-        height: 720
         isCached: true
   - title: "Tech Trends for 2022 and Beyond"
     excerpt: "Technology has been changing society since humans began using stone tools, and the pace of change is only accelerating. Here are predictions from six Rutgers technology experts about which innovations"

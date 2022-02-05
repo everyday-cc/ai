@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/healthr
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/healthrhythms-and-uchealth-partner-to-bring-ai-based-predictive-mental-health-platform-to-millions-of/article_e8032e70-067e-5d7c-b779-8ad7fd4880fa.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "IT-enabled Healthcare Market Is Thriving Worldwide with B-soft, Aerotel Medical Systems, eHealth Technologies, GE Healthcare"
-    excerpt: "Latest survey on IT-enabled Healthcare Market is conducted to provide hidden gems performance analysis of IT-enabled Healthcare to better demonstrate"
-    publishedDateTime: 2022-01-31T12:14:00Z
-    webUrl: "https://www.digitaljournal.com/pr/it-enabled-healthcare-market-is-thriving-worldwide-with-b-soft-aerotel-medical-systems-ehealth-technologies-ge-healthcare"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 12
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/f7a69d877923f8b2435d63dfc02962bbaf6ce22e-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "HEALTHRHYTHMS AND UCHEALTH PARTNER TO BRING AI-BASED, PREDICTIVE MENTAL HEALTH PLATFORM TO MILLIONS OF PATIENTS"
     excerpt: "HealthRhythms, a digital mental health startup that seeks to become the behavioral health intelligence layer across all of healthcare, today announced a partnership with UCHealth to scale the benefits of its groundbreaking artificial intelligence (AI) -based digital platform to millions of patients."
     publishedDateTime: 2022-02-03T20:06:00Z

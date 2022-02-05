@@ -25,73 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence (AI) in Education Market Analysis, Strategies, Segmentation and Forecasts 2021 - 2030"
-    excerpt: "In a recently published report, Artificial intelligence (AI) in Education Market report for till 2030. The report further now discusses; the vario"
-    publishedDateTime: 2022-01-31T12:40:00Z
-    webUrl: "https://menafn.com/1103618155/Artificial-intelligence-AI-in-Education-Market-Analysis-Strategies-Segmentation-and-Forecasts-2021-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 52
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?154985"
-        width: 458
-        height: 250
-        isCached: true
-  - title: "Computer Vision in Healthcare Market: Qualitative Analysis, Quantitative Analysis, Forecast up to 2030"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 02, 2022, 03:33 /Comserve / -- The global Computer Vision in Healthcare market report provides geographic analysis covering regions, such as North America ..."
-    publishedDateTime: 2022-02-02T08:39:00Z
-    webUrl: "https://menafn.com/1103629339/Computer-Vision-in-Healthcare-Market-Qualitative-Analysis-Quantitative-Analysis-Forecast-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?444661"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Market data suggests positive returns on C3.ai Inc. (AI)"
-    excerpt: "Let’s start up with the current stock price of C3.ai Inc. (AI), which is $24.74 to be very precise. The Stock rose vividly during the last session to $26.89 after opening rate of $26.72 while the lowest price it went was recorded $25."
-    publishedDateTime: 2022-02-02T20:13:00Z
-    webUrl: "https://investchronicle.com/2022/02/02/market-data-suggests-positive-returns-on-c3-ai-inc-ai/"
-    type: article
-    provider:
-      name: investchronicle
-      domain: investchronicle.com
-    quality: 39
-    images:
-      - url: "https://investchronicle.com/wp-content/uploads/2020/01/17.png"
-        width: 448
-        height: 307
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Expected to Grow at CAGR 5.51% and Forecast to 2028"
-    excerpt: "A New Market Study, Titled “Artificial Intelligence (AI) in Agriculture Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. Request Free Sample Report @  This report studies the Artificial Intelligence (AI) in Agriculture market,"
-    publishedDateTime: 2022-02-01T22:58:00Z
-    webUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/"
-    ampWebUrl: "https://ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/01/artificial-intelligence-ai-in-agriculture-market-expected-to-grow-at-cagr-5-51-and-forecast-to-2028/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 38
-  - title: "IoT in Healthcare Market Manufacturing Analysis and Forecasts by 2027 | Reports and Data"
-    excerpt: "and the surging need for the adoption of cost-control measures in the healthcare sector. The increasing prevalence of AI (Artificial Intelligence) in the medical industry has revolutionized patient care. In 2018, the global spending on IoT initiatives was ..."
-    publishedDateTime: 2022-02-02T10:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/iot-in-healthcare-market-manufacturing-analysis-and-forecasts-by-2027-reports-and-data"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 30
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/6ba83574b4873e683a1c811a2e185ee50a1893bd-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Agricultural Robots Market Research Growth, Regions, Type and Application, Forecast Analysis to 2020-2028"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication and consumer electronic component"
     publishedDateTime: 2022-02-01T12:51:00Z
@@ -105,6 +38,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?617111"
         width: 327
         height: 250
+        isCached: true
+  - title: "Worldwide Autonomous Mobile Robot Industry to 2030 - Featuring Peer Robotics, Verizon and Omron Adept Technologies Among Others - ResearchAndMarkets.c"
+    excerpt: "The \"Autonomous Mobile Robot Market by Type, by Application, and by End-User - Global Opportunity Analysis and Industry Forecast 2022-2030\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2022-01-31T14:24:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=608552"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "pmVncZ/QvYwDajDGEaJjaCCPDSicEBjnk+cMzMVeTTXXHKRrugdgxPJmEJnVpA2bQIulri9Rc5Ivn1dJ3UkItQN51Wa60zy2gguZC4NyunR2ah4kEYmn5ZL32F0/EHiVjDyiGEerhtcLNI9oOmuptnRy3e3PrTA3dajZvTY6/jVVsIlUBCepn4KO5qFjSRmeq3ZOLM5yaOWqX8yO2IgTFlPDVKLO9welZaleOu+PaEnS8sBXcv3uqSvRfL9hQVWQl5co3r25Y0MMxinirwKMPBxARXci2+1zroXKuKiHcvBbOcdkmS8y2SVB3YHQxwgALaR4YwbsA3+7Jvq/YMkPJ5zDWlj7T3evCaTauSJHFXIoc4PDsBvB9v0/tTUhyV2NKKQfVw56FfUs0dCz7c0UeIKWgJzZDLE9orQGRA9jSTrXhr/lQmczdzs7Ol0nM6I3hN87kyaJc1jsXWx0HYQHNkeu95PLqDRUhQx6hNRzdZyTuee7BCQh4O1YidmKxfKmCQ0vZLhsIhiOculxYcmHlA==;n6ms6gPF7EwlPGvSaVpQgw=="
