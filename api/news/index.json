@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-06-how-a-big-blue-van-from-1986-paved-the-way-for-self-driving-cars.md",
+      "title": "How a big blue van from 1986 paved the way for self-driving cars",
+      "excerpt": "This was the world’s first self-driving automobile: A pioneering work of computer science and engineering somehow built in a world where fax machines were still the predominant way to send documents, and most phones still had cords. But despite being ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-history/",
+      "originalUrl": "https://www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/navlab-1-5-autonomous-vehicles.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-history/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-history/?amp",
+      "publishedDateTime": "2022-02-05T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-we-need-to-decouple-ai-from-human-brains-and-biases.md",
       "title": "We need to decouple AI from human brains and biases",
       "excerpt": "Hardly a decade later, these same scientists contributed to dramatic breakthroughs in robotics, natural language processing, and computer vision. Although a lot of time has passed since then ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-biases",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1144,59 +1196,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues.md",
-      "title": "Report: 79% of ML teams say they ‘lack access’ to data needed to identify bias and ethics issues",
-      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. A new report from Arize AI illustrates that the day-to-day reality for data scientists and machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/",
-      "originalUrl": "https://venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1076658510-e1643733014824.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/amp/",
-      "publishedDateTime": "2022-02-03T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

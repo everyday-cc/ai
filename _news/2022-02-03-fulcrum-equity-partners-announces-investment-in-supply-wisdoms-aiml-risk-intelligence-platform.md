@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fulcr
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fulcrum-equity-partners-announces-investment-in-supply-wisdoms-ai-ml-risk-intelligence-platform/article_28edd364-aa29-55e8-88fe-bfde98f4b0d8.html"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -20,22 +20,15 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Augmented Intelligence: What it is and why it will be smarter than AI"
-    excerpt: "Why are we working so hard to make computers that compute better, when we could be using computers to help us think and act better?"
-    publishedDateTime: 2022-02-01T03:00:00Z
-    webUrl: "https://www.sciencefocus.com/future-technology/augmented-intelligence/"
-    ampWebUrl: "https://www.sciencefocus.com/future-technology/augmented-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/augmented-intelligence/amp/"
+  - title: "OmboriGrid Announces Strategic Partnership with Pathr.ai to Offer Spatial Intelligence to Retailers"
+    excerpt: "STOCKHOLM, Feb. 2, 2022 /PRNewswire/ -- OmboriGrid announced that they are working with leading artificial intelligence (AI) powered spatial intelligence platform Pathr.ai to offer new insights to retailers on how in-store technology affects customer behavior."
+    publishedDateTime: 2022-02-02T11:54:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220202io50014/omborigrid-announces-strategic-partnership-with-pathrai-to-offer-spatial-intelligence-to-retailers"
     type: article
     provider:
-      name: BBC Focus
-      domain: sciencefocus.com
-    quality: 59
-    images:
-      - url: "https://images.immediate.co.uk/production/volatile/sites/4/2022/02/Augmented-intelligence-d46816f.jpg?quality=90&resize=960,413"
-        width: 960
-        height: 413
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 3
 
 secured: "N4HjIfGbB6HpfpnV0OhSaiwoVNXzifXWTAPI8kj738HTgxCzi6uC+P86LmjM+UsHTrxEtKtkd+GEyyXf1ZkWE4eezk8Uu5Hj6gUQKdiW62LS5PppnkYz0ym0S1U6YPQNjnysI6/Fit0Vbs7Rjr8I7/X3vZJykboDIt+naZltvd12XZSwetviUy7GA2ATr4fAJeMgYMI5ciywnmbxrzPXqZH5lX3ICTXpBDiIus2t03FtRpLDZyLy8OadLQ95ZBXZvE+DwuEqDRstkw6rfAjS0Pv8NjnSh/LiNyok/n4dcc0GchWD5XbByDG8f7m9cDMuQApZBYS9IG7Eo1lWFB+YuvobaJS7184IJwq5ykMrjwzHE0qfDB5ILfxpoV+zZ9fj3yjL2Xi5bRnWr3J2dpN6mllzAI0iH2gLh0vTByZbzqfS/feHFFh77aSzJe7fuCPcTbrQc9uC5B1PlA937Mx7w/RpaTsKnwH/GMG1Jka2Oy77YzGT51RpcK3iTAjCZcLyrXFexezbcFto+Lw9B8cGQg==;08Mk2tDdXB7IUKAr91MfPg=="
 ---

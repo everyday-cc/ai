@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-01-24-how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good.md",
+      "title": "How AI, machine learning are being increasingly used to drive social good",
+      "excerpt": "While technologies like artificial intelligence (AI) and machine learning (ML) have become part of many aspects of our daily lives in recent times, they are increasingly being used for the social good as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/23/full/1642956258-155.jpg?im=Resize,width=1200",
+          "width": 1200,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
+      "publishedDateTime": "2022-01-23T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities.md",
+      "title": "Australian Space Agency believes existing robotics can be used for terrestrial activities",
+      "excerpt": "Robotics used in mining, for instance, could provide sustainable solutions for space exploration, the agency said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "originalUrl": "https://www.zdnet.com/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/dc3b79f93d7c9d39148f428678cf93140ee41f9e/2022/01/23/fce9aace-98b8-42a2-8b9a-ec1c7daf4607/robotic-roadmap.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
+      "publishedDateTime": "2022-01-23T16:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-ibm-bids-farewell-to-watson-health-assets.md",
       "title": "IBM Bids Farewell to Watson Health Assets",
       "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
@@ -1114,92 +1209,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-22-irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.md",
-      "title": "IRS to start requiring facial recognition scans to access tax returns",
-      "excerpt": "The Internal Revenue Service is going to start requiring users of its online tax payment system to provide a selfie to a third-party company in order to access their accounts. Beginning in summer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns",
-      "originalUrl": "https://www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp",
-      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/irs-to-start-requiring-facial-recognition-scans-to-access-tax-returns.amp",
-      "publishedDateTime": "2022-01-21T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Q13 FOX News",
-        "domain": "q13fox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-deepmind-co-founder-mustafa-suleyman-leaves-google.md",
-      "title": "DeepMind co-founder Mustafa Suleyman leaves Google",
-      "excerpt": "Mustafa Suleyman, a co-founder of artificial intelligence research company DeepMind, has left Google to join venture capital firm Greylock Partners. Suleyman has brought to an end an eight-year run at Google,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/deepmind-ai-mustafa-suleyman-google-greylock-partners-152049755.html",
-      "originalUrl": "https://www.engadget.com/deepmind-ai-mustafa-suleyman-google-greylock-partners-152049755.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/fcd690c0-7acc-11ec-afe2-9c62fe8a75df",
-          "width": 5760,
-          "height": 3840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

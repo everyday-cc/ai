@@ -28,6 +28,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 0
+  - title: "Yellow.ai recognised in the first-ever 2022 GartnerÂ® Magic Quadrantâ„¢ for Enterprise Conversational AI Platforms"
+    excerpt: "BENGALURU, India, Jan. 31, 2022 /PRNewswire/ -- Yellow.ai, the world's leading next-gen total experience (TX) automation platform, trusted by 1000+ enterprises globally, today announced it has ..."
+    publishedDateTime: 2022-02-05T18:35:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1234408&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "K4LzafvmzaELOMRWvFfMANYXdSCT1vx3X3rAZeQ6SfGivqt/NjqMxtIkX8hza147aCLQOWaksr5g+6oHJMrZTB85qnwWWfnq7N/KRfoRIti7BV1uCMDKVruq4mZcOh07jqu0mF7db4skx8uaXUYKdUtY5lvXZT9CQvVlGJb/lhfvVXORtOLuciboQhjna8ghBv3Ot+5X6d90iXZgtTPVRGJboV7Mjb38A49CO4mRX1XG/JBwBslCUSQcWxVRf2IouAnbi2nVL4i0u62ET6hRlgvbVHSMm0Cx5BF7c1FscyCYhx8d5p0VN4IteSv0oTVaA6QuBP8QEsx3fNrcXkPFycTqjvX8I4Lh18kSI/2k9q4=;WcBKI/QAQSlIycjEThuPew=="
 ---

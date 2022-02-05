@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-
 cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
 type: article
 quality: 60
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -155,15 +155,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Yellow.ai recognised in the first-ever 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms"
-    excerpt: "Yellow.ai, the world's leading next-gen total experience (TX) automation platform, trusted by 1000-plus enterprises globally, today announced it has been recognised as a Niche Player in the 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms."
-    publishedDateTime: 2022-02-01T02:21:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220131/3902362.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "Ot8yNNoFalNMLGSlQkiFe7ePoI2ly/GJAUNWOpurjB+WGgALi36IDV53ak+X3LWyVM7MExP0lzsgJyLPkVwJsUIXqMiOnDDaWG//WIVzXl4L9ZM8ObacOooUJrVA51HSO7czEpv4ykikVWdk4UWNkBH78232lFwXs+fXHoTlGcmvP02XfOIXjjKKu6UAFQByIxzRILSgZfLcpCA8w9ndoiZ6XhYOWl77lNt0ajstJVoPFTQz4KdKfMdi947uJrK7MIvqlr8HQ32/QTLxhbIhxbbpDSvQqKXn7jtDJcJ6xA1MpmttkzH6pa+JRIhe1xf+j0TP93jx4Y8RuXYIFx3bRTC800RzxzW1yB+J7eUwd5E=;9aTrxBM1YUaPtR1DS0mtzg=="
 ---

@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-25-boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.md",
+      "title": "Boeing to pour $450 million into program for self-driving air taxi",
+      "excerpt": "Aviation company Boeing said Monday that it's investing almost a half-billion more dollars into its sky taxi startup Wisk Aero, in a bid to bring the first self-flying air taxi to the market before the decade is out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/6161643040260/2022/1/7a2b04a5d4d56049d60ea43bce3c9397/v1.5/Boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.jpg",
+          "width": 533,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
+      "publishedDateTime": "2022-01-24T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m.md",
+      "title": "Ceremorphic addresses AI, HPC, and the metaverse with QS 1 chip, lands $50M",
+      "excerpt": "Ceremorphic, a startup, is coming out of stealth mode with $50 million of series A funding along with the announcement of the QS 1 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
+      "originalUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340728386-e1643043402598.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
+      "publishedDateTime": "2022-01-24T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-could-artificial-intelligence-help-people-survive-one-of-the-worlds-deadliest-diseases.md",
       "title": "Could artificial intelligence help people survive one of the world's deadliest diseases?",
       "excerpt": "Sepsis is responsible for one in five deaths worldwide, and is likely an underlying cause of COVID-19 deaths. Now a Vancouver immunologist says he's found a key solution using artificial intelligence",
@@ -1080,101 +1175,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good.md",
-      "title": "How AI, machine learning are being increasingly used to drive social good",
-      "excerpt": "While technologies like artificial intelligence (AI) and machine learning (ML) have become part of many aspects of our daily lives in recent times, they are increasingly being used for the social good as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/23/full/1642956258-155.jpg?im=Resize,width=1200",
-          "width": 1200,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
-      "publishedDateTime": "2022-01-23T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities.md",
-      "title": "Australian Space Agency believes existing robotics can be used for terrestrial activities",
-      "excerpt": "Robotics used in mining, for instance, could provide sustainable solutions for space exploration, the agency said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
-      "originalUrl": "https://www.zdnet.com/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/dc3b79f93d7c9d39148f428678cf93140ee41f9e/2022/01/23/fce9aace-98b8-42a2-8b9a-ec1c7daf4607/robotic-roadmap.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
-      "publishedDateTime": "2022-01-23T16:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

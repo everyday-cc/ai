@@ -2,6 +2,100 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-01-12-basic-classification-classify-images-of-clothing.md",
+      "title": "Basic classification: Classify images of clothing",
+      "excerpt": "This guide trains a neural network model to classify images of clothing, like sneakers and shirts. It's okay if you don't understand all the details; this is a fast-paced overview of a complete TensorFlow program with the details explained as you go.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tutorials/keras/classification?hl=fi",
+      "originalUrl": "https://www.tensorflow.org/tutorials/keras/classification?hl=fi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=fi",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-proofpoint-acquires-ai-based-data-protection-startup-dathena.md",
+      "title": "Proofpoint Acquires AI-Based Data Protection Startup Dathena",
+      "excerpt": "Proofpoint, which was acquired by private equity firm Thoma Bravo in 2021, has merged with Dathena, a New York-based AI data protection platform. Dathena's platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.inforisktoday.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-a-18300",
+      "originalUrl": "https://www.inforisktoday.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-a-18300",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-showcase_image-4-a-18300.jpg",
+          "width": 860,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Info Risk Today",
+        "domain": "inforisktoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-top-ai-chatbots-for-business-in-2022-benefits-and-platform-integrations.md",
       "title": "Top AI chatbots for business in 2022: Benefits and platform integrations",
       "excerpt": "Pro: Users can engage an unlimited number of contacts for $10 per month through Facebook Messenger, email, or SMS. Chatfuel offers businesses a centralized platform to create AI conversational ...",
@@ -1134,101 +1228,6 @@
         "Google AI",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-global-artificial-intelligence-ai-in-security-market-emerging-trends-major-key-players-nvidia-corporation-us-and-intel-corporation-us.md",
-      "title": "Global Artificial Intelligence (AI) in Security Market: Emerging Trends, Major Key Players NVIDIA Corporation (US) and Intel Corporation (US)",
-      "excerpt": "According to the report The global Artificial AI in Security market size is expected to reach 20 94 Billion by 2028 growing at the CAGR of 18 65 from 2021 to 2028 The major factor driving the growth of",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2523696/global-artificial-intelligence-ai-in-security-market",
-      "originalUrl": "https://www.openpr.com/news/2523696/global-artificial-intelligence-ai-in-security-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/V/1/V111113641_g.jpg",
-          "width": 603,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2523696/global-artificial-intelligence-ai-in-security-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2523696/global-artificial-intelligence-ai-in-security-market",
-      "publishedDateTime": "2022-01-11T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-has-ai-found-a-treatment-for-fragile-x.md",
-      "title": "Has AI found a treatment for Fragile X?",
-      "excerpt": "What if AI can substantially speed it up? That's the premise of Quris, an artificial intelligence company hoping to disrupt the pharmaceutical arena. The company just announced the final close of $28 million in seed funding to support its clinical prediction platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/has-ai-found-a-treatment-for-fragile-x/",
-      "originalUrl": "https://www.zdnet.com/article/has-ai-found-a-treatment-for-fragile-x/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a735ce92987d1c2468957f5b2ba40babd8f10947/2022/01/10/774ba7aa-3d2e-48aa-a3e0-4f7599319aaa/fragile-x.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/has-ai-found-a-treatment-for-fragile-x/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/has-ai-found-a-treatment-for-fragile-x/",
-      "publishedDateTime": "2022-01-11T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

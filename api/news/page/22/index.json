@@ -2,6 +2,92 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-01-14-chinese-restaurant-chain-is-forced-to-use-robot-waiters-during-the-covid-pandemic.md",
+      "title": "Chinese restaurant chain is forced to use ROBOT waiters during the Covid pandemic",
+      "excerpt": "Directors at The Chinese Buffet unveiled one BellaBot in each of four restaurants in Liverpool, St Helens, Bolton and Wigan, to serve food to diners in place of humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/01/14/13/52927541-0-image-a-63_1642165520636.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html",
+      "publishedDateTime": "2022-01-14T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-deep-learning-has-deep-problems.md",
+      "title": "Deep learning has deep problems",
+      "excerpt": "Can’t multi-task Deep learning has some major issues which will eventually lead it to become a dead end. For 20 years, deep learning has come to dominate artificial intelligence research and applications through a series of useful commercial applications But according to IEEE Spectrum the",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems",
+      "originalUrl": "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/f97416722213d9fce2e04a73b9cf58df_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-the-world-in-your-pocket-how-smartphones-will-get-smarter-in-2022.md",
       "title": "The world in your pocket: How smartphones will get smarter in 2022",
       "excerpt": "Google, OnePlus, Asus and Motorola give us a taste of how our phones will be more useful, intelligent and powerful over the next 12 months.",
@@ -1061,100 +1147,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-dude-wheres-my-driverless-car.md",
-      "title": "Dude, Where’s My Driverless Car?",
-      "excerpt": "When will driverless cars hit the road? While car manufacturers and tech giants are making optimistic predictions about the future of autonomous vehicles, there are many challenges in the way",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessbecause.com/news/insights/8012/driverless-cars-future",
-      "originalUrl": "https://www.businessbecause.com/news/insights/8012/driverless-cars-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessbecause.com/uploads/default/news/images/1641574105.png",
-          "width": 750,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.businessbecause.com/news/insights/8012/driverless-cars-future",
-      "cdnAmpWebUrl": "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/insights/8012/driverless-cars-future",
-      "publishedDateTime": "2022-01-13T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Because",
-        "domain": "businessbecause.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-how-protais-ai-powered-platform-is-improving-drug-discovery.md",
-      "title": "How Protai’s AI-powered platform is improving drug discovery",
-      "excerpt": "Protai claims it's reshaping the drug discovery and development process using proteomics and an end-to-end AI-based platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/",
-      "originalUrl": "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1331723660-e1642087280811.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/",
-      "publishedDateTime": "2022-01-13T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -23,17 +23,6 @@ images:
     height: 324
     isCached: true
 
-related:
-  - title: "OmboriGrid Announces Strategic Partnership with Pathr.ai to Offer Spatial Intelligence to Retailers"
-    excerpt: "STOCKHOLM, Feb. 2, 2022 /PRNewswire/ -- OmboriGrid announced that they are working with leading artificial intelligence (AI) powered spatial intelligence platform Pathr.ai to offer new insights to retailers on how in-store technology affects customer behavior."
-    publishedDateTime: 2022-02-02T11:54:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220202io50014/omborigrid-announces-strategic-partnership-with-pathrai-to-offer-spatial-intelligence-to-retailers"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 3
-
 secured: "1ePA0d3HewbnLfjEZYMQKKInwQ5m59NAJEAf1lWmUafObzJ7Q2BQbuJeP1ApTPVClpoDlXECIV5Uf56bJfrlhUVSnjnkBgqQ4Ql0RrjNiv4VXq7dG/g4aVry9WMOPAgTHLRQSiv8oMUAYs5NBt8FkkLMdffVvqRDBovlns6SCTYMsFzEGFQRK0GNdMAlDAiKsdn6XsM56x+CppNa4VQ7Y6ladYGxLhI1iiNx714IBSzent5rpq9wxWBSdFhGLmgcRIqwU1KVydHGrYeISE0SQYuzi8J0aa3jgZm9rRrwiFUVZXxgtY4SzUhVEj16m4GbcvxyHJ7k8MuQ5A5BxwdupKzDA4Y3vE8w+jfXGgwNkAc=;FFxPfZElbWH+YdqQcXab+w=="
 ---
 

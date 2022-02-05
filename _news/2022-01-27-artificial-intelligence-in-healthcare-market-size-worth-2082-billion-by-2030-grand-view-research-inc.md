@@ -2,46 +2,25 @@
 category: news
 title: "Artificial Intelligence In Healthcare Market Size Worth $208.2 Billion By 2030: Grand View Research, Inc."
 excerpt: "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030, according to a new report by"
-publishedDateTime: 2022-01-27T10:05:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research-inc--864587650.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research-inc--864587650.html"
+publishedDateTime: 2022-01-27T09:05:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research/article_0b3ff320-f08b-515f-a303-682b0f3f75c2.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research/article_0b3ff320-f08b-515f-a303-682b0f3f75c2.html"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
-    width: 1400
-    height: 733
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/c6/8c66b3a9-1b92-5bab-a37c-b539b9d30a53/6098f2b83f2d2.image.jpg?crop=810%2C425%2C295%2C0&resize=810%2C425&order=crop%2Cresize"
+    width: 810
+    height: 425
     isCached: true
 
-related:
-  - title: "Global Data Annotation Tools Market (Services) Size Value to Reach USD 3,046.7 Million by 2028, at 27.2% CAGR: Polaris Market Research"
-    excerpt: "According to the latest research study, the report predicts the global Data Annotation Tools Market size & share to reach around USD 3,046.7 Million by 2028 from USD"
-    publishedDateTime: 2022-01-27T22:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/ab25272947/global-data-annotation-tools-market-services-size-value-to-reach-usd-3-046-7-million-by-2028-at-2"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25272947"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25272947"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
-    images:
-      - url: "https://www.abnewswire.com/uploads/1643286664.jpeg"
-        width: 1280
-        height: 451
-        isCached: true
-
-secured: "WUNU4ltTVMD9ebYrT1q3CxotHyDNhx+ktVbCLTvzkPaE25/7yIVCW+gaD6RbvKn88mwZr+rcvnPkuvzggsgPZmrSNmiEriog42Yb7sc2XLFrFSNT0gs/rCG/6KXGANnEFvVLZ42BiV/Bif+skHiC1LzAu0yP5GvJ5RZPtpRGNYgFdJM0+fsrB9RtUzhBtZ+6lKTCOYGih+2Y3a1VfpMDNCgL1S8Dx2ZydY3Q3C1KeP4Md9bxQvO6SZXNjZPZTRf7nEAXrkw4Wly+435X9aScuNNvveGE8NW6lqaCCdV6kQr9SmCZAjUJFfapYgqM7n6wRCBMRZ9BXcKYRWZauPnce1W5j3pDl2EOlQ32PPOkuKGefdZhrJoCQsukAUrIPpjdj3rkmBlCUdhk5qFwJU7zQBZ3ZvHls5ZWUi+BE/2IP2hzHKa7zzsucIStAOSko1oIhRcyijRNxrATBICawOal8bpJ9MgtGW5oXD1VKvNAWFP7M+gk+h1zZJr/9fdP1KzLQQ3X+iK05Uy9ezKNDx2j/w==;G6EQFUCrjpHmgxRghwlXcA=="
+secured: "SF57mtyxCXiX9hcCBPY3yz3iyjNwYKX4Qmh0vxBUMQl1AoNsLj14nNrFhecvLteY50BSj863HeljVQS01CEt1DCz8Ub6VTcW1W5/4XKL+FYKsm0lIs7Eol9tbVznVjC1AFGO5JKGnLu2NXVWx99VNboBu7LHn46QfWAooEvhYRRWQ0tXaBN65g4FFcAwpMTVdxOc3z8RrmFMRvikaZSEpIHk6bOYll9q98qYke6xIBeyCtKludf3sjtEBzHWXzxBJf/PhEDEeM4labRmXwClVN+oDGypFGsZU/LQ6RsGqzrnZtpG77WYT8zhazZTQw+OH44k3Qpqb4UTbyW9x3lLk5a5phMfa1AjPgs7++A9KvU=;JDTNOZxTXQwVd9eRkCKmng=="
 ---
 

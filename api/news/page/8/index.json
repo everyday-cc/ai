@@ -2,6 +2,100 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-01-27-pimloc-grabs-75m-to-pitch-more-businesses-on-ai-for-privacy-video-tools.md",
+      "title": "Pimloc grabs $7.5M to pitch more businesses on AI-for-privacy video tools",
+      "excerpt": "Pimloc, a UK computer vision startup that’s sharpened its business pitch to sell an AI service for quickly anonymizing video — automating the blurring of faces or licence plates, along with a suite of other visual search services — has grabbed another chunk of seed funding:",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/26/pimoc-seed-expansion/",
+      "originalUrl": "https://techcrunch.com/2022/01/26/pimoc-seed-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Screenshot-2022-01-26-at-18.25.45.png?w=1024",
+          "width": 1023,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/26/pimoc-seed-expansion/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/26/pimoc-seed-expansion/amp/",
+      "publishedDateTime": "2022-01-26T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics.md",
+      "title": "U.S. Steel to invest in Carnegie Foundry to accelerate advanced robotics",
+      "excerpt": "U.S. Steel <> has entered into a strategic investment and partnership with robotics and artificial intelligence studio Carnegie Foundry, the Pittsburgh",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
+      "originalUrl": "https://seekingalpha.com/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1186090916/image_1186090916.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
+      "publishedDateTime": "2022-01-26T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-airbnb-blocked-11000-bookings-in-arizona-last-year-with-anti-party-system.md",
       "title": "Airbnb blocked 11,000 bookings in Arizona last year with 'anti-party' system",
       "excerpt": "Because these types of parties tend to pop up around the holidays, Airbnb also strengthened rules to prevent one-night bookings for guests who didn't have a positive rental history.",
@@ -1013,102 +1107,6 @@
       "images": [
         {
           "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=zh_tw",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-mobile-artificial-intelligence-ai-market-sales-is-expected-to-reach-8480-billion-by-2030.md",
-      "title": "Mobile Artificial Intelligence (AI) Market Sales is Expected to Reach $84.80 Billion by 2030",
-      "excerpt": "According to the latest report of Allied Market Research, titled “Mobile Artificial Intelligence (AI) Market by Technology Node (20–28nm, 10nm, 7nm, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/mobile-artificial-intelligence-ai-market-sales-is-expected-to-reach-84-80-billion-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/mobile-artificial-intelligence-ai-market-sales-is-expected-to-reach-84-80-billion-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/77382e6ba11d374925336267f0919e66e3a9618e-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-save-and-load-a-model-using-a-distribution-strategy.md",
-      "title": "Save and load a model using a distribution strategy",
-      "excerpt": "Pre-trained models and datasets built by Google and the community Tools Ecosystem of tools to help you use TensorFlow",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/distribute/save_and_load?hl=el",
-      "originalUrl": "https://www.tensorflow.org/tutorials/distribute/save_and_load?hl=el",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=el",
           "width": 1200,
           "height": 675,
           "title": null,

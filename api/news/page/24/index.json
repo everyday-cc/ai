@@ -2,6 +2,104 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-01-13-artificial-intelligence-in-security-market-to-see-booming-growth-acalvio-cylance-ibm-micron.md",
+      "title": "Artificial Intelligence in Security Market to See Booming Growth | Acalvio, Cylance, IBM, Micron",
+      "excerpt": "Advance Market Analytics published a new research publication on Artificial Intelligence in Security Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2526101/artificial-intelligence-in-security-market-to-see-booming",
+      "originalUrl": "https://www.openpr.com/news/2526101/artificial-intelligence-in-security-market-to-see-booming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/V/1/V113166983_g.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming",
+      "publishedDateTime": "2022-01-13T03:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-machine-learning-and-natural-language-processing-size-does-matter.md",
+      "title": "Machine learning and natural language processing – size does matter!",
+      "excerpt": "Natural language processing has made huge progress in the last few years, leading to massive advances in areas like machine translation and potentially useful tools for content authors and editors. How was it done?",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/machine-learning-natural-language-processing-size-does-matter-",
+      "originalUrl": "https://www.linkedin.com/pulse/machine-learning-natural-language-processing-size-does-matter-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQE_FAvVvkL2NA/article-cover_image-shrink_720_1280/0/1641814713549?e=1648684800&v=beta&t=l8BaQavdUSAC7hjxtSY7MhQiy1PC8WTl7ccbKNih4jA",
+          "width": 1199,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-facial-recognition-market-size-2022-global-industry-current-trends-top-companies-application-growth-factors-development-and-forecast-to.md",
       "title": "Facial Recognition Market Size 2022: Global Industry Current Trends, Top Companies, Application, Growth Factors, Development And Forecast To 2026",
       "excerpt": "Jan 13, 2022 (Market Insight Reports) -- Facial Recognition Market size is set to hit USD 12 billion by 2026, according to a new research report by Global Market Insights, Inc. Global facial ...",
@@ -1035,91 +1133,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-agendia-to-provide-first-digital-mammaprint-capability-to-brazil.md",
-      "title": "Agendia to Provide First Digital MammaPrint Capability to Brazil",
-      "excerpt": "AI solution will expand Agendia's testing platform in the Brazilian breast cancer market Digital MammaPrint offers fast turnaround time to molecular diagnostics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/b25018571/agendia-to-provide-first-digital-mammaprint-capability-to-brazil",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/b25018571/agendia-to-provide-first-digital-mammaprint-capability-to-brazil",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25018571",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25018571",
-      "publishedDateTime": "2022-01-12T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-seekout-will-expand-ai-powered-recruitment-tools-with-new-125m.md",
-      "title": "SeekOut will expand AI-powered recruitment tools with new $125M",
-      "excerpt": "SeekOut, an AI-powered recruitment platform, has raised $125 million in funding to expand its software platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/",
-      "originalUrl": "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1092756998-e1636570502724.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/amp/",
-      "publishedDateTime": "2022-01-12T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

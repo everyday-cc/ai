@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-01-oleg-rogynskyy-founds-people-ai-to-increase-sales-productivity.md",
+      "title": "Oleg Rogynskyy Founds People AI To Increase Sales Productivity",
+      "excerpt": "People.AI is an artificial intelligence (AI) platform for enterprise revenue, helping sales, marketing, and customer success teams uncover every revenue opportunity by capturing all customer contacts,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/",
+      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f80bdd2de490a68e5b3a77/0x0.jpg?format=jpg&crop=1360,764,x0,y70,safe&fit=crop",
+          "width": 1360,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/amp/",
+      "publishedDateTime": "2022-02-01T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-here-come-the-underdogs-of-the-robot-olympics.md",
       "title": "Here Come the Underdogs of the Robot Olympics",
       "excerpt": "They’re meant to draw talent from beyond the hermetic world of military R&D and jump-start innovation on very hard problems ... and the software packages to power them, plus the AI to decide whether that black spot is solid ground or a precipitous ...",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1129,58 +1181,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-budibase-brings-open-source-to-low-code-web-app-development.md",
-      "title": "Budibase brings open source to low-code web app development",
-      "excerpt": "Let the OSS Enterprise newsletter guide your open source journey!  The burgeoning no-code / low-code movement is showing little sign of slowing, with countless new products and companies hitting the market to help coders and non-coders alike make the most of the skills that they have.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/",
-      "originalUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/Budibase.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/amp/",
-      "publishedDateTime": "2022-01-31T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-02-two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator.md",
+      "title": "Two new dialects of Inuktut language now available in Microsoft Translator",
+      "excerpt": "With the latest update, users will now be able to translate between the two new additions and any of over 100 supported languages and dialects in the Microsoft Translator apps, Office, and Translator for Bing. Through Azure Cognitive Services Translator ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
+      "originalUrl": "https://www.neowin.net/news/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2017/02/1487659776_microsoft-translator_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
+      "publishedDateTime": "2022-02-02T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-call-center-conversation-intelligence-startup-talkmap-nabs-8m.md",
       "title": "Call center conversation intelligence startup Talkmap nabs $8M",
       "excerpt": "Customer conversation intelligence startup Talkmap has raised $8 million from Stage 1 Ventures in a Series A round of funding.",
@@ -1164,58 +1216,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-oleg-rogynskyy-founds-people-ai-to-increase-sales-productivity.md",
-      "title": "Oleg Rogynskyy Founds People AI To Increase Sales Productivity",
-      "excerpt": "People.AI is an artificial intelligence (AI) platform for enterprise revenue, helping sales, marketing, and customer success teams uncover every revenue opportunity by capturing all customer contacts,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/",
-      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f80bdd2de490a68e5b3a77/0x0.jpg?format=jpg&crop=1360,764,x0,y70,safe&fit=crop",
-          "width": 1360,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/02/01/oleg-rogynsky-founds-people-ai-to-increase-sales-productivity/amp/",
-      "publishedDateTime": "2022-02-01T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

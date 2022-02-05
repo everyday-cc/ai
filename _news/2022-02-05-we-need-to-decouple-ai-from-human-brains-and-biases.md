@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-
 webUrl: "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-biases"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     height: 640
     isCached: true
 
-secured: "snPDWKDlJYVTjons+KwSJL4dIalFwJy5/TlrAYW61r7rIFE7Iph+ffpjTnjAL6AYoE2qY07yTdeKQXe+swZPiVQnAR2sMLyRECKaIhrf/KL4FPMsOr82/S7swgpz8Mh90wyrvtmx7O1khY/GNg2WHK0Ee53x97cJJH3JZcqtv107BNHvCfulGVGRNCyzCxFOVxRnqNcY5Oal0hcce34uK6fM9Fg8sN6yOd32ecaeYeZAWfeQ8Hv3DpK/T5dSOZT42NPkZav5r/6PktX773QvvCx6UKPlOt0lu9t8ixSqh7kif56uz+7gB+ywEPK3NfOFGopo5SysNSQEnDwHepnhE33AKjhQUq6R8Fy3iCNtEWU=;wvsF55AVZAEig8IBWueKlA=="
+related:
+  - title: "Human brain's secret to learning as hardware for AI"
+    excerpt: "As companies use more and more data to improve how AI recognizes images, learns languages and carries out other complex tasks, a paper published in Science this week shows a way that computer chips could dynamically rewire themselves to take in new data ..."
+    publishedDateTime: 2022-02-05T17:06:00Z
+    webUrl: "https://www.manilatimes.net/2022/02/06/business/sunday-business-it/human-brains-secret-to-learning-as-hardware-for-ai/1831963"
+    ampWebUrl: "https://www.manilatimes.net/2022/02/06/business/sunday-business-it/human-brains-secret-to-learning-as-hardware-for-ai/1831963/amp"
+    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/02/06/business/sunday-business-it/human-brains-secret-to-learning-as-hardware-for-ai/1831963/amp"
+    type: article
+    provider:
+      name: The Manila Times
+      domain: manilatimes.net
+    quality: 39
+
+secured: "kI0y4e10jj9qvTCzOl2wUDjAPZaOzuB6JmS5qDZWu1fEtSMdyeaQj3eZ3dxyYDuvchIrcDD9USG/Uoz8cDololYZzs4Ys2QCeKsybM2azuF0R/eYpEssZZC0MEe/6SR4/Y6EXOA38wIprIJdtJZ2xYXbUFuSIl5yWZJTw7j/CsgbZ9A2jEYJlr7AbmcAhFyoCjJ4OkNa/mNHBxlIDHhEsUghx3UNsmTbXdFrjsq60ZKzt+A8bA+tRfVXboTiwQkfh9E2zSY9DQGt9AV4PsP7Iv9IV9Y25rN0Zczs7r8NjR1P/k3qn61XAucseuh/sSM66PFeP4tk3apvYkADtN4I+4zNFjQ96hRKK3oNrncunQODBBXkb6H4VSEvqb9XfYmRY4igpJ8a2pWBf1x/r5+7PCehgu+09morD9iVJ3Vg12aERqSQsy/O8s+ZlFUgFlDTYQGDEX9uPTNOS+IDvfPvjBajfnbZrTKQ6wUKJdAPJk43yBkc7eGvPg+ta3eLhnrEtx3NVPy7d7wGEJHzu9o1IA==;nU2mI3qiOXm4BXObMsHeQw=="
 ---
 

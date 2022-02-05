@@ -155,15 +155,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Yellow.ai recognised in the first-ever 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms"
-    excerpt: "Yellow.ai, the world's leading next-gen total experience (TX) automation platform, trusted by 1000-plus enterprises globally, today announced it has been recognised as a Niche Player in the 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms."
-    publishedDateTime: 2022-02-01T02:21:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220131/3902362.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "wO0QCkEAoABY6PsKB4B0MQ0f2sHMM4H+nwK5L7QBaIuN9A02NckC8NN75+RK2k+BUjM9JtgD3Eex09uZnLyZtnlqsTs6mssUu6MMSaGCRdVVzrVb5gmJThlVk6txw+8hcFTiLEvziiAedYyUlBPyIlj9rgJCjUxsw5Yt3dBucUn9DLl9W2MQP9vMptIrSK0373W29aLWVdiDuIEzr/G5UlEPHsAV+NjYYkDMmSCyoxUCEATX3OZ4QWt0f/yqy9f5ilAUqR0pWhVUjBHkczDAaHFo+1qnivIABSwsTmW5MNkQfSnshZSRdLmkeVDrFdCROW1OWVDJygt8mr24UcDFcbFRG1ZdB5sJMnThBrMINBE=;E34wwrzl5lQZDOU3w03anQ=="
 ---

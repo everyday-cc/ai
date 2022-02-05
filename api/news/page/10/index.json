@@ -2,6 +2,99 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-01-25-sparkcognition-announces-123-million-series-d-funding-and-a-unicorn-valuation-to-accelerate-ai-adoption-across-industries.md",
+      "title": "SparkCognition Announces $123 Million Series D Funding and a Unicorn Valuation to Accelerate AI Adoption Across Industries",
+      "excerpt": "SparkCognition, a global leader in artificial intelligence (AI) software solutions for business, today announced the close of its $123 million Series D funding",
+      "sourceUrl": null,
+      "webUrl": "https://aithority.com/saas/sparkcognition-announces-123-million-series-d-funding-and-a-unicorn-valuation-to-accelerate-ai-adoption-across-industries/",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/sparkcognition-announces-123-million-series-d-funding-and-a-unicorn-valuation-to-accelerate-ai-adoption/article_e8414bf0-5fc1-5936-ba5b-ae0604c9735a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://aithority.com/wp-content/uploads/2022/01/SparkCognition-Announces-123-Million-Series-D-Funding-and-a-Unicorn-Valuation-to-Accelerate-AI-Adoption-Across-Industries.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-advancing-ai-in-telecommunications-where-are-you-in-your-modernization-strategy.md",
+      "title": "Advancing AI In Telecommunications: Where Are You In Your Modernization Strategy?",
+      "excerpt": "This blog discusses advancing AI in the Telecommunications Industry, and provides examples of companies leading the way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/01/25/advancing-ai-in-telecommunications-where-are-you-in-your-modernization-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/01/25/advancing-ai-in-telecommunications-where-are-you-in-your-modernization-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61efeb5ec2e30dc61706d579/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/01/25/advancing-ai-in-telecommunications-where-are-you-in-your-modernization-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/01/25/advancing-ai-in-telecommunications-where-are-you-in-your-modernization-strategy/amp/",
+      "publishedDateTime": "2022-01-25T03:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores.md",
       "title": "Arjit Nanda and Miraan Rai bring robotics and AI to reimagine household chores",
       "excerpt": "They have named their venture - AM Innomates, and their first product is AM Dustbin. A smart combination of automatic and manual controls to lift the lid of the bin and is a pioneer in the Indian mark",
@@ -1124,101 +1217,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.md",
-      "title": "Boeing to pour $450 million into program for self-driving air taxi",
-      "excerpt": "Aviation company Boeing said Monday that it's investing almost a half-billion more dollars into its sky taxi startup Wisk Aero, in a bid to bring the first self-flying air taxi to the market before the decade is out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/6161643040260/2022/1/7a2b04a5d4d56049d60ea43bce3c9397/v1.5/Boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.jpg",
-          "width": 533,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/01/24/boeing-wisk-aero-self-flying-taxi/6161643040260/",
-      "publishedDateTime": "2022-01-24T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m.md",
-      "title": "Ceremorphic addresses AI, HPC, and the metaverse with QS 1 chip, lands $50M",
-      "excerpt": "Ceremorphic, a startup, is coming out of stealth mode with $50 million of series A funding along with the announcement of the QS 1 chip.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
-      "originalUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340728386-e1643043402598.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/ceremorphic-addresses-ai-hpc-and-the-metaverse-with-qs-1-chip-lands-50m/amp/",
-      "publishedDateTime": "2022-01-24T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

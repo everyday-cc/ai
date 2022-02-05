@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Google DeepMind’s AlphaCode system beats thousands of human experts in coding contest"
-excerpt: "The AlphaCode system, created by Google’s AI subsidiary DeepMind, ranked in the top 54 per cent of competitors after going up against 5,000 human software engineers. Oriol Vinyals, a research scientist at DeepMind, said that the milestone brought Google ..."
-publishedDateTime: 2022-02-03T12:33:00Z
-originalUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5?shareToken=810b6be0c8d73804f19de9bbc7d8d8c0"
-webUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5?shareToken=810b6be0c8d73804f19de9bbc7d8d8c0"
+excerpt: "An artificial intelligence tool developed by Google beat thousands of seasoned programmers in a series of coding competitions.The AlphaCode system, created by Google’s AI subsidiary DeepMind, ranked in the top 54 per cent of competitors after going up against 5,"
+publishedDateTime: 2022-02-03T00:01:00Z
+originalUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5"
+webUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5"
 type: article
 quality: 32
 heat: -1
@@ -132,6 +132,6 @@ related:
         height: 576
         isCached: true
 
-secured: "Ee12Y7uNWbrDBjjC9D6iwxrPMYhcIK82ruO8KT3KepwDaorxPbVIFwkhXtzBHaS/87QtWVNJ7OkdwNFzfjlo1CS0PR6vJXKUFxbYKiNKNnezAH4zQENHMhUSbO1pok1B4d6kAZ70D778LcWkucPqot3LPOHzrmgdbDJpMiKuvaIcK8lu2s+CN1KiGZB/PqHPNJl1fHiuyvI5u8QyG+ebZTkIlLKjCzE1/30vU1vBdj7ldLJUV/yMJbMIjGUZ2RoldAk9pQxK91gUN+xIc/9vjVjwcCiGVhMNp5e6OApi+w1D9CzB9yokVlKL68scPwEjVRCroUAUcLAxrhgKyjibnakVhPqb626bNQBz2lBpC/TlOeUm8FDl144csqGoWs2Q42dB1jfLUJlm7KHWbU8fDbo5LO60FuUiH0Kicmii5XLR6sRxJet2DuYneW5ThAO6bi90VWUEe3XPpAiPadAv7IFthcYwI29+st37ew1r9Hlnc1yTdW+orjGCI9IET3HHSxab083003DsOnO0EWgmOQ==;BAPB587BiN30qnoMir8FZg=="
+secured: "x5e7EDFPlgRL78QSlZD+WASwboJPrhb5v5ZDmuS9vI+rwZEP2XTpbnlg2js6Ld4Tahy0/d1Cl+FJkldASFsZJ5zzMoO9+k68Mbm2UA4rHZVlFFjG5HteXrHoP9moLVaX23xzGCZLjU2pkJj7a50VTjvTFzXhybRFcjyIgQF/0zE+hM7OA/oR1B8pZegXJ/2sTA4QHZvo4YWZNGghp1IW4OAW6vE/SUQB4JOMQMOPwpt7kvEPX4+vIxwHd+mwoIaiCN09hqz/xNhn7/nJgoIytblM0CS0G8J+0wMvJA+he1Iw9L1mkaC/90DGFjiKYQjS87DY4h8pNR5BY3nY/SG7G/CbqGfyJ4eK/cTyPDsT7AE=;zZjBRAYqLEs9AUDNLYenJw=="
 ---
 

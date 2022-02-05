@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-27-three-trends-all-leaders-should-know-about-ai.md",
+      "title": "Three Trends All Leaders Should Know About AI",
+      "excerpt": "The book was intended to provide an overview of the approaching trends for artificial intelligence (AI). The purpose of this article is not meant to provide a book report, but rather to share with you what I am learning about AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/27/three-trends-all-leaders-should-know-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/27/three-trends-all-leaders-should-know-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f89f505db3eef289c346955/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/27/three-trends-all-leaders-should-know-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/27/three-trends-all-leaders-should-know-about-ai/amp/",
+      "publishedDateTime": "2022-01-27T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-27-elon-musk-tesla-is-prioritizing-product-development-of-optimus-humanoid-robot-in-2022.md",
       "title": "Elon Musk: Tesla is prioritizing product development of Optimus humanoid robot in 2022",
       "excerpt": "Elon Musk announced that Tesla is going to be shifting its product development to make Tesla Bot, a humanoid robot also known as Optimus, a priority in 2022. This is quite a surprising change of strategy.",
@@ -392,7 +443,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -435,6 +486,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-artificial-intelligence-in-healthcare-market-size-worth-2082-billion-by-2030-grand-view-research-inc.md",
+      "title": "Artificial Intelligence In Healthcare Market Size Worth $208.2 Billion By 2030: Grand View Research, Inc.",
+      "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030, according to a new report by",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research/article_0b3ff320-f08b-515f-a303-682b0f3f75c2.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research/article_0b3ff320-f08b-515f-a303-682b0f3f75c2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/c6/8c66b3a9-1b92-5bab-a37c-b539b9d30a53/6098f2b83f2d2.image.jpg?crop=810%2C425%2C295%2C0&resize=810%2C425&order=crop%2Cresize",
+          "width": 810,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T01:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1084,100 +1178,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-pimloc-grabs-75m-to-pitch-more-businesses-on-ai-for-privacy-video-tools.md",
-      "title": "Pimloc grabs $7.5M to pitch more businesses on AI-for-privacy video tools",
-      "excerpt": "Pimloc, a UK computer vision startup that’s sharpened its business pitch to sell an AI service for quickly anonymizing video — automating the blurring of faces or licence plates, along with a suite of other visual search services — has grabbed another chunk of seed funding:",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/26/pimoc-seed-expansion/",
-      "originalUrl": "https://techcrunch.com/2022/01/26/pimoc-seed-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Screenshot-2022-01-26-at-18.25.45.png?w=1024",
-          "width": 1023,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/26/pimoc-seed-expansion/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/26/pimoc-seed-expansion/amp/",
-      "publishedDateTime": "2022-01-26T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics.md",
-      "title": "U.S. Steel to invest in Carnegie Foundry to accelerate advanced robotics",
-      "excerpt": "U.S. Steel <> has entered into a strategic investment and partnership with robotics and artificial intelligence studio Carnegie Foundry, the Pittsburgh",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
-      "originalUrl": "https://seekingalpha.com/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1186090916/image_1186090916.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3791968-us-steel-to-invest-in-carnegie-foundry-to-accelerate-advanced-robotics",
-      "publishedDateTime": "2022-01-26T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
