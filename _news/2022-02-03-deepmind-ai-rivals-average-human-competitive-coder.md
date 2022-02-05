@@ -118,9 +118,9 @@ related:
         height: 600
         isCached: true
   - title: "Google DeepMind’s AlphaCode system beats thousands of human experts in coding contest"
-    excerpt: "An artificial intelligence tool developed by Google beat thousands of seasoned programmers in a series of coding competitions.The AlphaCode system, created by Google’s AI subsidiary DeepMind, ranked in the top 54 per cent of competitors after going up against 5,"
-    publishedDateTime: 2022-02-03T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5"
+    excerpt: "The AlphaCode system, created by Google’s AI subsidiary DeepMind, ranked in the top 54 per cent of competitors after going up against 5,000 human software engineers. Oriol Vinyals, a research scientist at DeepMind, said that the milestone brought Google ..."
+    publishedDateTime: 2022-02-03T12:33:00Z
+    webUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5?shareToken=810b6be0c8d73804f19de9bbc7d8d8c0"
     type: article
     provider:
       name: The Times

@@ -3,8 +3,8 @@ category: news
 title: "Fintech Cadence Announces Partnership with Fintel Connect"
 excerpt: "Fintech Cadence announces today their partnership with Fintel Connect. The partnership will enhance the resources, offerings and capabilities that Fintech Cadence provides to"
 publishedDateTime: 2022-02-02T12:44:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html"
 type: article
 quality: 24
 heat: -1
@@ -157,6 +157,6 @@ related:
         height: 601
         isCached: true
 
-secured: "jtKOlexPN3Z+ogx3oLP9jWzyi5BadJ9h3sG9C3MxjqWjOMesxnbGJ6PVjRMhb1Y5WOz40FJVpwPx51pqIqIdwIgMGknGLrjRe3d783SSAB3zCMxywZKFiYTr5MWJOpXuCgORKgBm9e++WlRsuwzDQGnlRVy1AuSrDthxXZtd12MEjcIt6NM6vqQpHYJQIB4WtBBih1gLxkszexubAOsPi4eeWk3I672qfgBwaQih2B8X5JzBO7/IGDEnwJLkzKGjZ7s6PRVMJJR4pTFpWOlqDNOvILnRj6AVrkP+olAmoGk8ZinODxo3K6a3B+gOegHB3GfwSSmF/XXk6uVFWaDuOnDFUmf1rKsPMwaJvEjwWQeHv9Mv1f/4KggxJejQJs1nP6Gpr8uggL1xMKw7ETU+bicw1Y6HxVNwrO2U4/ePZTbBA2NJZyGGHfS+UXPCGgZE5FXCGCtdq4y36U3poH2qB9fdaqsai5+RltLZRPIqhLvoHswKUhEXImVx1w8UjFTNVw92lrcnZDwue1tqj1kqXw==;QYrGU/tQVs7N+2+M649DBQ=="
+secured: "bDHvrOrmwvD/jjdHUIA7S6U/5kPV4Hp0LNHoZYDSfJUBuHgE01TVERcUObFlqZLQ0L07gxrRoJwFXfsq8nqxCZkgOnyRvEBwMlsIJ3W6U11fe57M+X8cTjX8iaUDfXRmNo8iYY/qIk5P57kBTCikBBi/jFkYMEU+mKrPwLlZ2utusxPThipnrzfnyhRZL0/tWTF8WRDfeSj4q+McQE59JuLbLph3+cpRQkiaIZJavlYTNosFQSEAMRhODIbOHird32aw5JQjDoM1PxYraP0i9YZB5kO0xBjRjDoP3EJCqLXhgx3ojZqtwqPMLESgWoezEG25gcBRv62InzWkPdCKlNWDLJTA43+oZslPxT8voLs=;LB9VMhABj+tmCKuxq9pgTw=="
 ---
 

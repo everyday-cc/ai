@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artifici
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp"
 type: article
 quality: 85
-heat: 85
+heat: 87
 published: true
 
 provider:
