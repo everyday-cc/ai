@@ -84,20 +84,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Bethesda based startup uses AI technology for birthday greetings from Presidents and Royalty"
-    excerpt: "BestWishes.ai BestWishes.ai Celebrity Birthday Wishes AI startup is making birthdays great again, with personalized videos from f"
-    publishedDateTime: 2022-01-31T23:45:00Z
-    webUrl: "https://menafn.com/1103620875/Bethesda-based-startup-uses-AI-technology-for-birthday-greetings-from-Presidents-and-Royalty"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?816709"
-        width: 374
-        height: 250
-        isCached: true
 
 secured: "djxXD1Twe5TIYtn86YhJTNUbbIZxDGF8akx8/O3BGSqxr1XHRhX5x00zjrNkduFcQlhFu5nVaMzYkEesqxtYPg2Bcp/wRHsvQLJ+3+oympEnAWd2uXkDg5ZX43l48xp1kqLlYfvEYcm0qox6eDjP6PcPZHc1qLgF3EFqvrkIDe7NyP06eqjpA0Jft/RW4mU4N556MU2oNY2WZVG9eAclRcGUzvUFF1S0d9AMccYO6C3+mVEVqm6q2UGmvRj6lpHGXYY9twEgtHUAd92uGVuQLfsEO9QRG063FIW9U2ryDMEJHvsBDBm51R0v6AwFsKrZ2QYcii/AfPrAZeAimxSFlhB9BwpKWye6LhW7/wK8hUY=;xzqf+Sq08jToxD6gmOaDEQ=="
 ---

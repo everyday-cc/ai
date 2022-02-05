@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/02/05/despite-recent-progress-ai-powered-c
 ampWebUrl: "https://venturebeat.com/2022/02/05/despite-recent-progress-ai-powered-chatbots-still-have-a-long-way-to-go/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/05/despite-recent-progress-ai-powered-chatbots-still-have-a-long-way-to-go/amp/"
 type: article
-quality: 88
-heat: 88
+quality: 90
+heat: 90
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2017/06/shutterstock_571952740.jpg?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 644
     isCached: true
 
-secured: "Tjt7onS7omMTZ8FUA5HHf7E+iqgVuMq6t6FoBpnDHWdMAPIJDwmwGDutf9p8Wsv5rCzzBBkd7C3bItrf3R9K0QSt3CWqKl1KgIqhFytgdFBle6zrnAIQ+EgWvO/pFrcedPB3XvqpJTyg1KjJmEbzOKLc6AmRXxAx3jxGn3TXLxUNcLguVX28gVjMtcSwKtuiAQlcYAtcH6wY5DeN23Zzv00ZGFBAVoaQwFN+E8EHJ6N1vJHfoIj9gqSI0JwRAZuERCeUu3iwo/L6KL47ZmeDPFhnJbn2B7SXqB14NpNXzZHDIIj9kXG+f1cFTXP0rYGWmGKQRHQBKmwyVc4++GCynM4ofFLZNwuEoiNwrDCb9hg=;wqm6+GrYVw85rbn6yLl19A=="
+secured: "U1oI5rfJbySz4jqK47v2PvEDIBAJCf7JT0RD+1mtnRPcyv9FOA6nfX16HP1eWRMkhxZFEhUWWolnaxYse+/9Qtw75+dL34jpIWVdws1zWayk1zq90jgyFJ96ZQ5LNpa52pSDs4fHV/Vn/9/osDwIFRwlFtfUcLuEeIEqeLZtNUC1nmFvWXlCRAKiL/oQTNcc4oXDBEkiCe7mfJhMX5Eil9xvdB9+hnirxT4thu0uzgi6HdljKp0Y5Cum1vQreTwOHhc4I5TgJmQXD9+hPVBEExZzx21nqHuaY2nOiDqpQtctGKixwhOFd/qc9fb8fZzVjRYMW5injh35wl6NO0c4dtK1vfqFBHZD6FfaK8i1Zoxe5u/1wSTaWAGwEdNIU5dSQP1g6wcO0bBuAtZRG0SUvSs/NSTw/t3OopLmX1SWlrIWF//zhhQ4ombmtxHixOI0eAxtBpEKZmCOoXIgIz/lMB7qCr3/cHQufLtOsWNlkaFkMYYaj7C8mCYcxd12IQvHuNf0XNp3kqtDeQFGsuuVcw==;UYwjTNpTXFY8LoccRZEkBQ=="
 ---
 

@@ -60,22 +60,6 @@ related:
         width: 640
         height: 379
         isCached: true
-  - title: "Crisis Text Line claims anonymized conversation data helps build AI for ‘a more empathetic world’"
-    excerpt: "Politico recently reported how Crisis Text Line (which is not affiliated with the National Suicide Prevention Lifeline) is sharing data from conversations with Loris.ai, which builds AI systems designed to increase empathetic conversation by customer service reps."
-    publishedDateTime: 2022-02-01T00:01:00Z
-    webUrl: "https://www.theverge.com/2022/1/31/22906979/crisis-text-line-loris-ai-epic-privacy-mental-health"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2022/1/31/22906979/crisis-text-line-loris-ai-epic-privacy-mental-health"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/1/31/22906979/crisis-text-line-loris-ai-epic-privacy-mental-health"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 78
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/3TskkybU35SfTIoBk6W2wSpExJU=/0x0:8256x5504/1400x933/filters:focal(3133x3086:4453x4406):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70455911/1125671890.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
 
 secured: "FNtTIKoBAmTJwFuSbcrjEiCW5Uw9JPv9TMTD6vorE0BWDIYqxp3DmIHLyqAI/nouHmjP+erCGofmgAHnXV76HJffsIrnQqOCugBAPK45ejsJ59wwv9jJsjRIYn5p+Iok/vkPLs9o9QmQTzQptaonE57OnF5I1amBuC49QMtdnQHaFACjusIoOo37yw3Tce4xUUAlXQIS7GUGiH2svhq/HDmQEiOnXW6xWFdg2fs6fmxB6XVsHi5u7KdEt3qXzzTh2GDjhikHpdYurgjnzsu9iTHIYedDf5vhi7JFDvrqzBlhBtiqnmpZ6HNV6R511wtZYIvNOVyA6aB66KarKp9P185CaliJU4cgUnCZa05Erx2nqLqxcu6Id9LRf1v6h8xasqSbzC+QPM8Y+TJffgI/gxkKOA8Qw1J1pMMa9borPFkPesDBtiU/+cqF8yAMiuo9TNHuIrUQvxVPhi8j1OW4iqBllRgpgHjjSkHKJrKZxX9zxEhh454ZHlZ2+p0ragghQjdE3KZ2prv0D8kBbzC8HQ==;ebqIXa/Q/6IAIeTDX71Utg=="
 ---

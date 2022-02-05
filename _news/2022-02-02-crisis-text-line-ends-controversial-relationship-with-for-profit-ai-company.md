@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/crisis-text-line-loris-ai?amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/crisis-text-line-loris-ai?amp"
 type: article
 quality: 185
-heat: 215
+heat: 205
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2012/01/shutterstock_23541934.jpg?w=1200&strip=all"
         width: 640
         height: 379
-        isCached: true
-  - title: "Crisis Text Line claims anonymized conversation data helps build AI for ‘a more empathetic world’"
-    excerpt: "Politico recently reported how Crisis Text Line (which is not affiliated with the National Suicide Prevention Lifeline) is sharing data from conversations with Loris.ai, which builds AI systems designed to increase empathetic conversation by customer service reps."
-    publishedDateTime: 2022-02-01T00:01:00Z
-    webUrl: "https://www.theverge.com/2022/1/31/22906979/crisis-text-line-loris-ai-epic-privacy-mental-health"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2022/1/31/22906979/crisis-text-line-loris-ai-epic-privacy-mental-health"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2022/1/31/22906979/crisis-text-line-loris-ai-epic-privacy-mental-health"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 78
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/3TskkybU35SfTIoBk6W2wSpExJU=/0x0:8256x5504/1400x933/filters:focal(3133x3086:4453x4406):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70455911/1125671890.0.jpg"
-        width: 1400
-        height: 933
         isCached: true
   - title: "Mental health helpline ends AI data-sharing relationship"
     excerpt: "A mental health text helpline will no longer share data with an AI customer support business, after criticism of their relationship. Loris.ai used anonymised data from Crisis Text Line (CTL) to develop AI systems to help customer service agents understand sentiment in chats."

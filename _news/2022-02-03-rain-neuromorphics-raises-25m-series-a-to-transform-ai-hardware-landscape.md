@@ -7,7 +7,7 @@ originalUrl: "https://www.design-reuse.com/news/51363/rain-neuromorphics-funding
 webUrl: "https://www.design-reuse.com/news/51363/rain-neuromorphics-funding.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 980
     height: 570
     isCached: true
-
-related:
-  - title: "BrainChip Holdings outlines go-to-market strategy for its neuromorphic artificial intelligence chips"
-    excerpt: "BrainChip Holdings Ltd (ASX:BRN) CEO Sean Hehir spoke to Proactive about the technology group's go-to-market strategy for its neuromorphic artificial intelligence chips. Hehir says neuromorphic technology, which he says mimics the brain as artificial ..."
-    publishedDateTime: 2022-02-01T00:52:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/972713/brainchip-holdings-outlines-go-to-market-strategy-for-its-neuromorphic-artificial-intelligence-chips-972713.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/972713"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/972713"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 37
 
 secured: "4WXd82l0l++3ybLH0d8YWrDPEi9FXfC2X1O8ElG8jI7udHFNKb54ayw/1Ri+4wWQMN+8DGXpb53gY8174aLBlPPcwIl8wcxDlLqkeW1EqR+vPuYvrp+nXr50uVQ1v6gBjjA/45xeI4hJ+LhrW7JuaZ2fmpj9Cnt7/cX+qFy1UTd6k9Z1oVQlqRsJXALCS5Of7igkRNy6pKO62mAUeqD+dwkKqrYyxOnzhDY0MrtigpmuQM0F/vI8F+B8wjr4CsR+Yh102P2WgcchdqrQTHYIFJvX/yeFZyv+XUNJpimCujEZcoOJtlqWbpCuzlrhR5tqzrpyNkCcQH77AcVy23sb09rPD/zY3WO3yQXcvrduFYk=;88QpWfxm21Pr4eVQbIS6xg=="
 ---

@@ -71,20 +71,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Bethesda based startup uses AI technology for birthday greetings from Presidents and Royalty"
-    excerpt: "BestWishes.ai BestWishes.ai Celebrity Birthday Wishes AI startup is making birthdays great again, with personalized videos from f"
-    publishedDateTime: 2022-01-31T23:45:00Z
-    webUrl: "https://menafn.com/1103620875/Bethesda-based-startup-uses-AI-technology-for-birthday-greetings-from-Presidents-and-Royalty"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?816709"
-        width: 374
-        height: 250
-        isCached: true
   - title: "GBT Technologies Inc’s (GTCH) AI driven-technology could reshape the world and potentially earn billions of dollars"
     excerpt: "\"AI Stocks\"A small company called GBT Technologies Inc. (OTC PINK: GTCH) develops AI-driven technology primarily for the medical industry as well as"
     publishedDateTime: 2022-02-01T17:30:00Z

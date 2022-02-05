@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 803
         isCached: true
-  - title: "5 Top Fintech Stocks To Watch This Week"
-    excerpt: "Another top fintech stock to note is Upstart. Essentially, the company offers a cloud-based artificial intelligence (AI) lending platform. Its platform would aggregate consumer demand for loans and connect it to its network of Upstart AI-enabled bank partners."
-    publishedDateTime: 2022-02-01T00:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-week"
-    ampWebUrl: "https://www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-week?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-top-fintech-stocks-to-watch-this-week?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "How Emerging Fintech Markets are catching up to the Western World"
     excerpt: "By Paul Marcantonio, Executive Director UK & Western Europe at ECOMMPAY For the longest time, the West has been ahead of other markets in terms of financial technologies. Everyone knows Silicon Valley,"
     publishedDateTime: 2022-02-02T20:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/bad-news-for-developers-dee
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/"
 type: article
 quality: 104
-heat: 155
+heat: 154
 published: true
 
 provider:
