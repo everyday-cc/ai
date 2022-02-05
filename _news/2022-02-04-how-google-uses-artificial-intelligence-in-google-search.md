@@ -7,7 +7,7 @@ originalUrl: "https://searchengineland.com/how-google-uses-artificial-intelligen
 webUrl: "https://searchengineland.com/how-google-uses-artificial-intelligence-in-google-search-379746"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,77 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Investing in AI Stocks"
+    excerpt: "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ..."
+    publishedDateTime: 2022-02-02T17:26:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/A.I._hand_playing_the_game_of_Go.width-700.jpg"
+        width: 700
+        height: 525
+        isCached: true
+  - title: "Fending off ransomware attacks using AI-powered tools"
+    excerpt: "Why Cohesity believes zero-trust security by itself isn't enough to stop an increasing number of sophisticated ransomware attacks."
+    publishedDateTime: 2022-02-01T22:16:00Z
+    webUrl: "https://www.zdnet.com/article/fending-off-ransomware-attacks-using-ai-powered-tools/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/fending-off-ransomware-attacks-using-ai-powered-tools/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fending-off-ransomware-attacks-using-ai-powered-tools/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+  - title: "Artificial Intelligence’s Role in Banking 3.0"
+    excerpt: "By Richard Shearer, CEO of Tintra PLC In the modern banking world new technologies play a widely reported role in anti-money laundering (AML) protocols preventing financial crime – however it is important that we do not overlook technology’s potential for establishing financial innocence."
+    publishedDateTime: 2022-02-02T22:08:00Z
+    webUrl: "https://www.globalbankingandfinance.com/artificial-intelligences-role-in-banking-3-0/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/artificial-intelligences-role-in-banking-3-0/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligences-role-in-banking-3-0/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 57
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/02/iStock-1250153410.jpg"
+        width: 750
+        height: 389
+        isCached: true
+  - title: "The Benefits of Artificial Intelligence in Detecting Machine Failure"
+    excerpt: "Technology continues to evolve at an exponential rate. From one year to the next, we are presented with exceptional new innovations that can effectively make our jobs and everyday lives easier. Artificial intelligence (AI),"
+    publishedDateTime: 2022-02-02T11:05:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/benefits-artificial-intelligence-detecting-machine-failure"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 52
+    images:
+      - url: "https://financialit.net/sites/default/files/aimonitoring.jpg"
+        width: 1000
+        height: 643
+        isCached: true
+  - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
+    excerpt: "The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences. Notably, TWO's Artificial Reality platform enables real-time AI ..."
+    publishedDateTime: 2022-02-04T14:45:00Z
+    webUrl: "https://menafn.com/1103642231/Jio-Platforms-invests-15-mn-in-AI-VR-startup-Two-Platforms"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?150158"
+        width: 432
+        height: 250
+        isCached: true
 
 secured: "3qRWo7+CXyfeuRffypeDRoczOOBfah9oTIppu62C6XLSQSoo9lSc5DPFyG4d9LH3ZoavEnyEtoNW2HytftomXNssgbAy5r+9UIYFtKfzY6RKe7l7mcnqV//A3PeKP0KeNsd+fyGnm3DDq8eSFJLBwsrxWbHasReQhbZAl3QtDeWD/iUwEZ4JNQJFQShE5+GP0hGGzbdohlMU8i1XQi2pgP7dvvFiy2UphrJN9pEO9tJsVCTD8BxE5Lkq9D90IaPrg7q34V73MX8NyBclRKqF6MqD87Oye4hglUfXLbano311fzMkZgRvH0ovrp+xl2JO1E7s7Uv8oWAWPhMsr78nKksqqTzxX/XUXHvzIJm2HcJH15Y0FGdtwgT9roQwREBYW8EjPSFJT8UheIz6ynax9HeCWdrBmdewvKnFQ8DQImdgC4HxosudcP5WqH1klrj5JqHVr5tpWXGZjzkadJEjG7ZhBuww2hD/trzJrE3yxKGDeqyAkGyHHRJ10wPOhl4DmUwj8j7OGeEL8wThTtTQHQ==;1j3lnzTqKq8SN+ZqJkjnHQ=="
 ---

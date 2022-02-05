@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Chinese dissident Ai voices criticism as Winter Games open"
-excerpt: "Ai Weiwei, possibly China’s best-known dissident, aired criticism of Beijing’s human rights record and response to the pandemic, in an interview with The Associated Press Friday, in which he also took aim at World Health Organization Director-General ..."
-publishedDateTime: 2022-02-05T00:27:00Z
-originalUrl: "https://www.columbiamissourian.com/sports/other_sports/chinese-dissident-ai-voices-criticism-as-winter-games-open/article_1342d1e3-77de-57b2-bdcd-dcbe2bae295a.html"
-webUrl: "https://www.columbiamissourian.com/sports/other_sports/chinese-dissident-ai-voices-criticism-as-winter-games-open/article_1342d1e3-77de-57b2-bdcd-dcbe2bae295a.html"
-ampWebUrl: "https://www.columbiamissourian.com/sports/other_sports/chinese-dissident-ai-voices-criticism-as-winter-games-open/article_1342d1e3-77de-57b2-bdcd-dcbe2bae295a.amp.html"
-cdnAmpWebUrl: "https://www-columbiamissourian-com.cdn.ampproject.org/c/s/www.columbiamissourian.com/sports/other_sports/chinese-dissident-ai-voices-criticism-as-winter-games-open/article_1342d1e3-77de-57b2-bdcd-dcbe2bae295a.amp.html"
+title: "Chinese Dissident Ai Voices Criticism as Winter Games Open"
+excerpt: "Ai Weiwei, possibly China’s best-known dissident, aired criticism of Beijing’s human rights record and response to the pandemic, in an interview with The Associated Press on Friday, in which he also took aim at World Health Organization Director ..."
+publishedDateTime: 2022-02-05T06:03:00Z
+originalUrl: "https://www.voanews.com/a/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
+webUrl: "https://www.voanews.com/a/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
+ampWebUrl: "https://www.voanews.com/amp/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
+cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
 type: article
 quality: 57
 heat: 67
 published: false
 
 provider:
-  name: Columbia Missourian
-  domain: columbiamissourian.com
+  name: Voice of America
+  domain: voanews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/assets/v3/editorial/6/ff/6ff7ec6a-2784-5f46-b8ae-b5da8119698f/61fdc3a016997.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://gdb.voanews.com/09dd0000-0a00-0242-3747-08d9e86c9c7e_w1080_h608_s.jpg"
+    width: 1080
+    height: 608
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 815
         isCached: true
 
-secured: "oGMFzNzQTch78IS5PsPVwMqb2NEfWijXX38sJX2b5V/QkjwPIItKdo2ukxC73ZrTkEt0qDkVCe9NLjBjjDANuPxH0mLeMtTjVOT2SjsHv9t8QipiHHrOspqcEmO8JLTmHEhMFozijHbY6iD2nN+PisT+VbaeQR8u+tVf7UHGoiTbh2Nr+smPuNkQC2rqKMofBgwLa2YlEhgTTTHM7B/T/AzK5WaOimklfEDrS4gIvcCwoNcu9jTamHP8I7kMPmbQhjqgVPqju8lRT6e6uC2wyTAJ/cXEYao1pv/tjSfi6ssekbuVSfIo+nO6vt98x7DyT9X4PA48MLUs3SoG9mSq5ycuLmw5OWkeVn0XUgwPLFk=;KwNoKVba+y0OYxUjynhsHA=="
+secured: "B0KShPBA8iTdXoGeheRbXG9HDNXMCVVDzRAexyuMtZppX9x3xxbAvu4fmyYsUi1smRddeXJ4Wnm4INnfvx4nk5+x2orU+PLZWsUlbSvItCJLz0zlRvrr7WRuR+03gnmA2QB9wZFIKFbciOubg2wosnOCGIeixdxaeaXgR/ltvGAr7fopmMh100H3QfqJi4FGS34SsTdSS6cL5UOeYWd2f2Je5J/03SAAcz3Ear7D6TKF9mZgXtxdxL/XyYr5wXIbE4aKosW3MeT5MNN5voUe805NQRwH5KabJlSiPegYnqEzjA6vgHpNNq4D/CcyErI1FDdQhciPl/O2HShUlr0Ewlk2QtrNEKzTCrTEquTzfqY=;aW9LERfJPNM3pxFgvVb1qw=="
 ---
 

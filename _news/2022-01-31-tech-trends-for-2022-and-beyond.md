@@ -146,20 +146,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Fintech Company Aqueous Asset Launches Valuations Platform AVA"
-    excerpt: "As financial technology continues to be more closely associated with proptech, Los-Angeles based fintech company Aqueous Asset on Monday announced the launch of AVA, its AI-powered tech SaaS platform for multifamily valuations."
-    publishedDateTime: 2022-01-31T13:37:00Z
-    webUrl: "https://commercialobserver.com/2022/01/aqueous-asset-ava/"
-    type: article
-    provider:
-      name: Commercial Observer
-      domain: commercialobserver.com
-    quality: 24
-    images:
-      - url: "https://commercialobserver.com/wp-content/uploads/sites/3/2022/01/10-year-forecast.png?w=768"
-        width: 768
-        height: 483
-        isCached: true
   - title: "Fintech Cadence Announces Partnership with Fintel Connect"
     excerpt: "Fintech Cadence announces today their partnership with Fintel Connect. The partnership will enhance the resources, offerings and capabilities that Fintech Cadence provides to"
     publishedDateTime: 2022-02-02T12:44:00Z

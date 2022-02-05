@@ -2,6 +2,92 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-12-28-googles-founders-visited-warren-buffett-and-decided-to-model-alphabet-on-berkshire-hathaway.md",
+      "title": "Google’s founders visited Warren Buffett — and decided to model Alphabet on Berkshire Hathaway",
+      "excerpt": "\"The genesis of Alphabet is a meeting that Larry and Sergey and I had about a decade ago where we flew ... to Omaha, and we visited Warren Buffett.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com.au/google-founders-modeled-alphabet-warren-buffett-berkshire-hathaway-2019-12-2",
+      "originalUrl": "https://www.businessinsider.com.au/google-founders-modeled-alphabet-warren-buffett-berkshire-hathaway-2019-12-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5de7ba49fd9db2057d3ad5d6?format=jpeg",
+          "width": 4352,
+          "height": 3264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com.au/google-founders-modeled-alphabet-warren-buffett-berkshire-hathaway-2019-12-2/amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/google-founders-modeled-alphabet-warren-buffett-berkshire-hathaway-2019-12-2/amp",
+      "publishedDateTime": "2021-12-27T20:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider Australia",
+        "domain": "businessinsider.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-india-must-remain-practical-amid-politics-around-killer-robots.md",
+      "title": "India Must Remain Practical Amid Politics Around ‘Killer Robots’",
+      "excerpt": "Lethal Autonomous Weapons are systems that make their own decisions on who to kill, thus raising ethical questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
+      "originalUrl": "https://www.thequint.com/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2021-12%2F4a9b2ee4-42be-463d-a970-7e5d06ef108d%2Fhero_image_4__2_.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
+      "publishedDateTime": "2021-12-27T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-more-chinese-automakers-collaborating-on-evs-avs.md",
       "title": "More Chinese automakers collaborating on EVs, AVs",
       "excerpt": "More Chinese carmakers and tech companies are working together to get ahead in EVs and AVs as the world pushes towards greener vehicles.",
@@ -1040,91 +1126,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world.md",
-      "title": "Second largest in AI talent pool, Bengaluru ranked fifth in the world",
-      "excerpt": "The ranking is derived based on a framework of indicators such as talent pool, investments, diversity of talent, the evolution of the country's digital foundations (TIDE).",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/01/full/1559400341-8581.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html",
-      "publishedDateTime": "2021-12-27T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai.md",
-      "title": "India Symposium 2021 strengthens India and Europe ties in Fintech and AI",
-      "excerpt": "Institute of Chartered Accountants of India (ICAI), Netherlands Chapter organised 9th edition of the “India Symposium 2021” on the 9th of December 2021 conceptualised by Dr Vikas Chaturvedi, Chairman,",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/ani-press-releases/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai/789246/",
-      "originalUrl": "https://theprint.in/ani-press-releases/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai/789246/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2021/12/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/ani-press-releases/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai/789246/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/india-symposium-2021-strengthens-india-and-europe-ties-in-fintech-and-ai/789246/?amp",
-      "publishedDateTime": "2021-12-27T04:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

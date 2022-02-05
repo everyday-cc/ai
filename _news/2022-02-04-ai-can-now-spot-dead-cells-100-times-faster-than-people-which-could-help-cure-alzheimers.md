@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-03T16:37:00Z
 originalUrl: "https://thenextweb.com/news/ai-can-now-spot-dead-cells-100-times-faster-than-people-which-could-help-cure-alzheimers"
 webUrl: "https://thenextweb.com/news/ai-can-now-spot-dead-cells-100-times-faster-than-people-which-could-help-cure-alzheimers"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FAI.jpg&signature=84706dd2f0af6835075b10907e9bf6a8"

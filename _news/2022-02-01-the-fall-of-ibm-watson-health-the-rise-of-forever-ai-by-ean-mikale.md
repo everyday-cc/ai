@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/fall-ibm-watson-health-rise-forever
 webUrl: "https://www.linkedin.com/pulse/fall-ibm-watson-health-rise-forever-ai-ean-mikale-mikale-j-d-"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1080
     height: 720
     isCached: true
-
-related:
-  - title: "How IBM’s Watson Went From the Future of Health Care to Sold Off for Parts"
-    excerpt: "Most likely, you’re familiar with Watson from the IBM computer system’s appearance on Jeopardy! in 2011, when it beat former champions Ken Jennings and Brad Rudder. Watson’s time on Jeopardy! was fun viewing,"
-    publishedDateTime: 2022-01-31T14:00:00Z
-    webUrl: "https://slate.com/technology/2022/01/ibm-watson-health-failure-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Slate
-      domain: slate.com
-    quality: 39
-    images:
-      - url: "https://compote.slate.com/images/3f661f9b-ce42-4537-8689-d342bde54590.jpeg?width=780&height=520&rect=3000x2000&offset=0x0"
-        width: 780
-        height: 520
-        isCached: true
 
 secured: "RNgaYKr21CgoY/i8fDWM9FIN4myES3EiC1CgIi0FsGWXAUb6mNhrBWLE0PgzI5ry5Hl3QV4EVww4NZRS9Dj/yaOL0r8BZgPJdpvY1SGapmj9VqfIv2QWgq0wyMqdyFs49/K29ZZ0IGNiFKLIHUvymUprhzsGjOKhfbH60CrwnUGdVq3iIelolbYFtbdalmTfjiUtOq+yBLaC62yC+9/zgRy26jdqChiuUYRdDT+ktsAIXKBMs2xJ68wqKupIRhpAxbxkGg56YPcUJwvi/5EydefgX5UapnJC39Ii8NL3Mbct3EozfcRAbliAewpq8Sc3SEoNu2VUAvxSkFHFK2cuHcqqfCHZnjtUT7SSNSdkg5Q=;aj+t8c3Ut2K4mVrc9hExow=="
 ---

@@ -25,21 +25,86 @@ images:
     isCached: true
 
 related:
-  - title: "Atmos by CallCabinet now supports SA English within its analytics engine"
-    excerpt: "Every conversation is analysed through AI-driven natural language processing to deliver a critical and evolving understanding of call emotion and sentiment. Atmos is uniquely positioned to fill every compliance gap, capturing and archiving essential ..."
-    publishedDateTime: 2022-02-03T06:52:00Z
-    webUrl: "https://www.itweb.co.za/content/j5alrvQadkgvpYQk"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/j5alrvQadkgvpYQk"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/j5alrvQadkgvpYQk"
+  - title: "Power BI and Azure as the future of enterprise analytics"
+    excerpt: "The automated machine learning in Power BI is the AutoML feature from Azure Machine Learning, which looks at what you’re trying to predict and what data you have available, and iterates through ..."
+    publishedDateTime: 2022-02-01T05:33:00Z
+    webUrl: "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/"
+    ampWebUrl: "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/amp/"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 43
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 91
     images:
-      - url: "https://lh3.googleusercontent.com/tMgvUn1UVWpuvleZAfmoZJPnv8g3_UZv-cpBZMKpnBwJrS3CAj1JRsXv7be-9DRIBRO2VS4SYZvdu2GwTNiAaXstuOS5mG-Dwgg=w816-h428"
-        width: 814
-        height: 428
+      - url: "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2016/06/power-bi-reports.jpg?x75348"
+        width: 770
+        height: 460
+        isCached: true
+  - title: "Israeli AI predictive analytics co Pecan raises $66m"
+    excerpt: "Pecan’s low-code predictive modeling and data science platform allows business intelligence (BI) analysts to predict revenue-impacting risks and outcomes. Israeli AI-based predictive analytics company Pecan today announced it has completed a $66 million Series C financing round led by Insight Partners,"
+    publishedDateTime: 2022-02-02T14:07:00Z
+    webUrl: "https://en.globes.co.il/en/article-israeli-ai-predictive-analytics-co-pecan-raises-66m-1001400901"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1643793700/direct/Pecan.ai_Founders_1._credit_Daniel_Hanoch_zpvl8j.jpg"
+        width: 800
+        height: 392
+        isCached: true
+  - title: "AI-led Analytics to play crucial role in Government’s vision of India@100"
+    excerpt: "FM highlighted that Artificial Intelligence (AI) as a sunrise opportunity while advocating promoting digital economy & fintech, technology enabled development; and we, at Course5 Intelligence ..."
+    publishedDateTime: 2022-02-03T14:39:00Z
+    webUrl: "https://menafn.com/1103637622/AI-led-Analytics-to-play-crucial-role-in-Governments-vision-of-India100"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?45645"
+        width: 311
+        height: 250
+        isCached: true
+  - title: "Sam’s Club starts national deployment of automated inventory analytics robots"
+    excerpt: "Implementation to leverage scanning accessory which can attach to the almost 600 autonomous floor scrubbers already deployed within Sam’s Club stores nationwide.{/exp:eehive_hacksaw"
+    publishedDateTime: 2022-01-31T17:37:00Z
+    webUrl: "https://www.scmr.com/article/sams_club_starts_national_deployment_of_automated_inventory_analytics_robot"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 36
+    images:
+      - url: "https://www.mmh.com/images/2021_article/Inventory_Scrubbers_4.jpg"
+        width: 480
+        height: 265
+        isCached: true
+  - title: "Retina AI Brings Customer Lifetime Value Analytics To Google Ads"
+    excerpt: "Retina AI Brings Customer Lifetime Value Analytics To Google Ads Retina AI announces integration with Google Ads,"
+    publishedDateTime: 2022-02-01T11:30:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220201ny47235/retina-ai-brings-customer-lifetime-value-analytics-to-google-ads"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
+  - title: "North America Speech Analytics Market: Which Trend Will Emerge Growth in Near Future?"
+    excerpt: "On the basis of solutions, the market is further classified into phonetic, phrase recognition, LVCSR, detection analysis, speech analytics software, indexing, speech engine, risk & compliance ..."
+    publishedDateTime: 2022-02-04T05:42:00Z
+    webUrl: "https://menafn.com/1103640252/North-America-Speech-Analytics-Market-Which-Trend-Will-Emerge-Growth-in-Near-Future"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 17
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/04/EP_9a2bbimage_story.jpeg"
+        width: 480
+        height: 400
         isCached: true
 
 secured: "9+MbOoE8dbDRcx+yHn2Zo35aA/Rf3cPJq/aB1ADoAkVrfHFrUBgm5pWa79N6pYbk8USqoeYctCeswQlk+gVHHlh5sDrh+JcDDaPFBlJzHsrvXhCgHoUYSTJoqWyAzCpE81VTv3iMfK6c3ltEz9aFVdFq0ptPmdYqaUCHIQS0h8I57YbxGkrktjkWsX8YRlMo/f6q069MDLggVVkOVv31xH0aCjcWBaq9JMc354OnsgGybwuGSM26V0KlAgWEgIgmb9HCWriBmRTCS+dBze9XfqmTALZhGn1GaAGnhegiAnsUWEVo446ce7Ed6jtwkf2116RiHqcH8Yvp/lS3XxyC+/xZbKViPs4dYD19ZHVt+bfco4dZUgjK+GowFBq9w22faNTyC5KmevmdODLi7mMYC7PeJKpbKUhvlXmJ2oGv6g7mIoQV9pELWhb1QKiBie0gInYKqIyuORst9d13pO9E/tO+4VmggR0L9PsJ1VaP+ScoJRXZ83goHwmIWWuUWMxx0+wUf5CPnGKXqTpxeSaybQ==;cDJlC4b4AouvV1LH1BA1eA=="

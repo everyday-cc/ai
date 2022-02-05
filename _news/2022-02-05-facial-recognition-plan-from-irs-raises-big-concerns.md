@@ -2,9 +2,9 @@
 category: news
 title: "Facial Recognition Plan from IRS Raises Big Concerns"
 excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-publishedDateTime: 2022-02-04T20:30:00Z
-originalUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/"
-webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/"
+publishedDateTime: 2022-02-05T05:51:00Z
+originalUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/?spMailingID=71204517&spUserID=NDMxMDU2MzgxMDU5S0&spJobID=2232804658&spReportId=MjIzMjgwNDY1OAS2"
+webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/?spMailingID=71204517&spUserID=NDMxMDU2MzgxMDU5S0&spJobID=2232804658&spReportId=MjIzMjgwNDY1OAS2"
 type: article
 quality: 54
 heat: -1
@@ -138,6 +138,22 @@ related:
       - url: "https://files.scmagazine.com/wp-content/uploads/2022/02/Wicker-e1643998430844.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Republicans, Democrats come together to fight IRS’ plan to use facial recognition for taxes"
+    excerpt: "In a rare display of bipartisanship, legislators from across the aisle came together this week in protest of the Internal Revenue Service’s (IRS) use of facial recognition software. Last week it was revealed that the government agency had entered into a ..."
+    publishedDateTime: 2022-02-04T23:53:00Z
+    webUrl: "https://www.dailydot.com/debug/irs-facial-recognition-bipartisan-pushback/"
+    ampWebUrl: "https://www.dailydot.com/debug/irs-facial-recognition-bipartisan-pushback/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/irs-facial-recognition-bipartisan-pushback/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 49
+    images:
+      - url: "https://uploads.dailydot.com/2022/02/IRS-face-scan.jpg?auto=compress&fm=pjpg&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "Here’s what’s wrong with an IRS proposal to use facial recognition technology for tax filing"
     excerpt: "Because of privacy concerns, the IRS is reconsidering its plan to require the use of facial recognition to file taxes online this year. metamorworks - stock.adobe.com The U.S. Internal Revenue ..."
@@ -324,6 +340,6 @@ related:
         height: 554
         isCached: true
 
-secured: "r8SwtAiB7suBVc++Fonisr3vDBzKL30Izv9o88qZADnei4xlcs4IMJiKP9loYRyUnVXl2UInOlHIFr4iu3qYr48KweLASDTzh8lVDvsaD/g0jzQycN+SNQRvicwzkrn64mB6tlIoZl1tsMy8B2MXGzknrErEYmAGCa0HYcQVD6vFG2YUWXy7nGuyPq9ImWPfhw3q2Zy1Nr4t4ict5cRUL5unagz1zgGXJjoKel6bPwcVOogGnMASCUI0O9H31mIC2VMl3KHznD8AO6TB4fZ+mPbP/IoXWVjGNuWS1spBhYhAlBRdFQOeGaLlOrmUMAg5Z+fRw3ijH96qWlPJ7Gg3PBEjrkp+eIboBSERzQ7uo7kTvO+lS9kY30jEGvcD3vB9IaP7nuGGNZff2Y5SEXxuotD4YQH2io+4/gwy96clwb/abLjF3KBY1H8ihFMBcy3eIX4ABEXdhQODSSXegtR9jHH8cTUp8lvtEehoEScliKaMQqsv0yutbaC9+xAtX0SvJ/tJCKeONGi9EPIYq2PiJw==;ZOpTIVT1wHoF91dO3XdUUw=="
+secured: "KOOSaxNDSE3PrPNf06+prnqYgDGoWM5h8Ur4Z3MbYmKCZIkYLPMrn/1fTpveH0+2RlViXCqiek6nqNl8efDkNJRZqc8msP99jyaXjIhs8MQrD4NhnDRgDMaUvY5lcsnG+7BOXPct5Wvg7VnSQNc53nigk4hxCEFVTqVCBHnYm2vzOptuVZ2pe7xvtXUNquttcQjlv5gHd3R7jbzZ3yds96zGcBJ9prXKDvBvu0YbWiW/6ZEd85Svf2vRf7iP/tZiZ3wq3lhZv+IUxMaA2B8uKFtvUKc+jPx3KYPqCAUSoFRXNd/W8B/eZwCULNT5RSf5IuUlAcNU4YhZXgEzhZ60itaNWnnifNRsPKOVDhbNhBY=;0h4AMNpB6m4FyWtZb+uckw=="
 ---
 

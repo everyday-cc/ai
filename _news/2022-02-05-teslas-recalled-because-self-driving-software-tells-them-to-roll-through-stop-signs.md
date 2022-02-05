@@ -2,17 +2,17 @@
 category: news
 title: "Teslas recalled because self-driving software tells them to roll through stop signs"
 excerpt: "DETROIT -- Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Recall documents posted ..."
-publishedDateTime: 2022-02-05T02:40:00Z
-originalUrl: "https://abc7news.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
-webUrl: "https://abc7news.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+publishedDateTime: 2022-02-05T02:39:00Z
+originalUrl: "https://abc7ny.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+webUrl: "https://abc7ny.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: ABC7 San Francisco
-  domain: abc7news.com
+  name: abc7NY
+  domain: abc7ny.com
 
 topics:
   - AI in Autos
@@ -86,6 +86,22 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-10/c620fc20-35a1-11ec-bfef-81fc93a51f7b"
         width: 7996
         height: 5331
+        isCached: true
+  - title: "Tesla Full Self-Driving Beta runs into a pole in what could be the first FSD accident caught on video"
+    excerpt: "A Tesla vehicle using Full Self-Driving Beta has been caught on video running into a pole in what could be the first accident on the FSD Beta. Last month, Elon Musk was claiming that Tesla’s ..."
+    publishedDateTime: 2022-02-04T00:00:00Z
+    webUrl: "https://electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/"
+    ampWebUrl: "https://electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://i.ytimg.com/vi/dtTtANwfvfg/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
   - title: "Tesla issues recall; self-driving tech can run stop signs"
     excerpt: "DETROIT (AP) — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will ..."
@@ -680,6 +696,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "kzjbRroaxtqXi9t+4PlzxaD/oFBvQYVsr8le715OXJYHIuH+hImrt7ih2uzRpDz2jBCbgwgwlfVpo63iNOU7+rI7Z7Kl2bEFJ07+qKxBiLVaxRHmoxPFM51whXA90+OgfqVMfmh/xJdbnd3QdyO5FLmdTILppSYZpPC6aBXj74obrsGz6DVcx4iQriOUg34BfMtESvK5wZyYZrmQ3C4GS+U6X41Y8YtDPdTOvmhWS6IZtMHX0DOjGxVWQ7doC8iFBmIwzDpX/IRmX/VzDoC42TcHAZO/mhMq/LitGzH49q3Yysiz1GF+7Pp77FBUPYMdbDjs3IfJ3wB70YO5XAuX3PbHN7UIxFU+wrg+fhrotkM=;gimXmIKrdPd9ofVC0157yw=="
+secured: "+HnIyB3Y5/CZkirfpx9r8QGKBvwVWoNS4S+umH5OcC4Y2qfK+SxxOewbpiWnD5pYIIdZRFFagWe8CE4Yl1zllO0TYwoTZwyv4Dhf9wSztTER4BSv2DmodMZPV1XINyGMbxD3Rn8mv0CVe6Hq00U7Gw4GnRTE/EceEq7plr99tFQt5ru4ocm/aTVWH1kjV2WHxo2IOQ785byO86tDF9F7S8wiZeCTpdTmLckeCB9/dr33Xs7k/WZu6Y1bs0VByBEmRLMAIJXCpC56J/rn5XG+H9B4yAk6O1LhTYf8lEhIF8nLkNd/s11IvPJuz5m2tnbZu9+tSjifq7Bqa7KzNf6iZyr73IOagHwMoDnNW/Lc0/k=;/4BfcnZ/iSZZ8W6PrntTaw=="
 ---
 

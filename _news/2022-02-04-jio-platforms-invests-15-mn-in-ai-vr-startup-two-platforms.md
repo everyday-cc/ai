@@ -24,45 +24,75 @@ images:
     isCached: true
 
 related:
-  - title: "Jio Platforms Invests $15 Million In Silicon Valley Start-Up TWO"
-    excerpt: "TWO is a Silicon Valley-based tech start-up founded by Pranav Mistry. TWO -- an Artificial Reality (AR) company -- said it believes the next chapter of Artificial Intelligence (AI) is visual and interactive. The AR platform enables real-time AI voice and ..."
-    publishedDateTime: 2022-02-04T12:43:00Z
-    webUrl: "https://www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346"
-    ampWebUrl: "https://www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346/amp/1"
+  - title: "Investing in AI Stocks"
+    excerpt: "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ..."
+    publishedDateTime: 2022-02-02T17:26:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 42
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
     images:
-      - url: "https://c.ndtvimg.com/2019-12/9hua9ik8_jio_650x400_04_December_19.jpg"
-        width: 650
-        height: 400
+      - url: "https://m.foolcdn.com/media/dubs/images/A.I._hand_playing_the_game_of_Go.width-700.jpg"
+        width: 700
+        height: 525
         isCached: true
-  - title: "Reliance Buys Stake In Silicon Valley Startup Two Platforms"
-    excerpt: "The startup is founded by Pranav Mistry, former chief executive officer and president of Samsung Technology and Advanced Research. “TWO are excited to partner with Jio to push the boundaries of AI and introduce applications of Artificial Reality to ..."
-    publishedDateTime: 2022-02-04T14:56:00Z
-    webUrl: "https://www.bloombergquint.com/business/reliance-buys-stake-in-silicon-valley-startup-two-platforms"
+  - title: "Fending off ransomware attacks using AI-powered tools"
+    excerpt: "Why Cohesity believes zero-trust security by itself isn't enough to stop an increasing number of sophisticated ransomware attacks."
+    publishedDateTime: 2022-02-01T22:16:00Z
+    webUrl: "https://www.zdnet.com/article/fending-off-ransomware-attacks-using-ai-powered-tools/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/fending-off-ransomware-attacks-using-ai-powered-tools/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fending-off-ransomware-attacks-using-ai-powered-tools/"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 22
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+  - title: "Artificial Intelligence’s Role in Banking 3.0"
+    excerpt: "By Richard Shearer, CEO of Tintra PLC In the modern banking world new technologies play a widely reported role in anti-money laundering (AML) protocols preventing financial crime – however it is important that we do not overlook technology’s potential for establishing financial innocence."
+    publishedDateTime: 2022-02-02T22:08:00Z
+    webUrl: "https://www.globalbankingandfinance.com/artificial-intelligences-role-in-banking-3-0/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/artificial-intelligences-role-in-banking-3-0/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligences-role-in-banking-3-0/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 57
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2022-02%2F0571cc1d-b393-454c-80ba-518960938df6%2F355638075.jpg?rect=0%2C0%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/02/iStock-1250153410.jpg"
+        width: 750
+        height: 389
         isCached: true
-  - title: "Jio Platforms invests $15 mn in AI, VR startup 'Two Platforms'"
-    excerpt: "The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences. Notably, TWO's Artificial Reality platform enables real-time AI voice and video calls, digital humans, immersive spaces and ..."
-    publishedDateTime: 2022-02-05T04:28:00Z
-    webUrl: "https://www.freepressjournal.in/business/jio-platforms-invests-15-mn-in-ai-vr-startup-two-platforms"
+  - title: "The Benefits of Artificial Intelligence in Detecting Machine Failure"
+    excerpt: "Technology continues to evolve at an exponential rate. From one year to the next, we are presented with exceptional new innovations that can effectively make our jobs and everyday lives easier. Artificial intelligence (AI),"
+    publishedDateTime: 2022-02-02T11:05:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/benefits-artificial-intelligence-detecting-machine-failure"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 17
+      name: Financial IT
+      domain: financialit.net
+    quality: 52
+    images:
+      - url: "https://financialit.net/sites/default/files/aimonitoring.jpg"
+        width: 1000
+        height: 643
+        isCached: true
+  - title: "How Google uses artificial intelligence In Google Search"
+    excerpt: "Search Engine Land » Google » Google: SEO » How Google uses artificial intelligence In Google Search As Google continues to leverage more artificial intelligence and machine learning in Google ..."
+    publishedDateTime: 2022-02-03T17:07:00Z
+    webUrl: "https://searchengineland.com/how-google-uses-artificial-intelligence-in-google-search-379746"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 37
+    images:
+      - url: "https://searchengineland.com/figz/wp-content/seloads/2015/10/google-brain-data1-ss-1920.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "vkvufgs+CHXx3AC1WcwIihDZdzKBVK5oEl0XqdufNIQo0wMwIy+oA7rgVfa8jhpw71dmLiOyPFQjmpSRtlYrQhpJqACrZ1PL4ZHQbbkIWoWSs5bSgtwB2L3pUh0qHvQ0PUem5wEb5nYB7RxNrpqpThNMNZZbEs2y9BdAcXOVDP4qI8rSBs/H1fGjQNpAxiQrpZ5J2gfOFPrGLgp8Jpl598T6vALbrtoiqhyd12Zeo3tJ8wDkUU/1vZ30hLk4wHMs5MWmRuxbjo5H1IiKRQeHLLAiTT/cdRQJGuFjt2X7tR612DA0SIRRSvPUOY68dFNgO8K7WVEaeaGWD+R+v220UqLTNMFP/3LF+DJRRqY3+gA=;ChhTXqLX47XEUYYEqYUc7Q=="
 ---

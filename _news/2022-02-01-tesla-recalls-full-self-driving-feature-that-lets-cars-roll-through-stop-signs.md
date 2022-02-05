@@ -77,6 +77,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Tesla Full Self-Driving Beta runs into a pole in what could be the first FSD accident caught on video"
+    excerpt: "A Tesla vehicle using Full Self-Driving Beta has been caught on video running into a pole in what could be the first accident on the FSD Beta. Last month, Elon Musk was claiming that Tesla’s ..."
+    publishedDateTime: 2022-02-04T00:00:00Z
+    webUrl: "https://electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/"
+    ampWebUrl: "https://electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://i.ytimg.com/vi/dtTtANwfvfg/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Tesla issues recall; self-driving tech can run stop signs"
     excerpt: "DETROIT (AP) — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will ..."
     publishedDateTime: 2022-02-01T13:51:00Z
@@ -583,12 +599,12 @@ related:
         isCached: true
   - title: "Teslas recalled because self-driving software tells them to roll through stop signs"
     excerpt: "DETROIT -- Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Recall documents posted ..."
-    publishedDateTime: 2022-02-05T02:40:00Z
-    webUrl: "https://abc7news.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+    publishedDateTime: 2022-02-05T02:39:00Z
+    webUrl: "https://abc7ny.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
     type: article
     provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
+      name: abc7NY
+      domain: abc7ny.com
     quality: 33
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11538119_020122-kabc-11pm-tesla-recall-vid.jpg?w=1600"

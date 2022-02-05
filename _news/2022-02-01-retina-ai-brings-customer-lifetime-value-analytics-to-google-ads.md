@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "AI storage: a new requirement for the shift in computing and analytics"
-    excerpt: "AI storage is needed as the boundaries of traditional computing and analytics shift to a new era of parallel data management"
-    publishedDateTime: 2022-01-31T13:25:00Z
-    webUrl: "https://www.information-age.com/ai-storage-a-new-requirement-for-the-shift-in-computing-and-analytics-123498640/"
+  - title: "Power BI and Azure as the future of enterprise analytics"
+    excerpt: "The automated machine learning in Power BI is the AutoML feature from Azure Machine Learning, which looks at what you’re trying to predict and what data you have available, and iterates through ..."
+    publishedDateTime: 2022-02-01T05:33:00Z
+    webUrl: "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/"
+    ampWebUrl: "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/amp/"
     type: article
     provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 39
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 91
     images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2022/01/ai-storage-a-new-requirement-for-the-shift-in-computing-and-analytics.jpeg.optimal.jpeg"
-        width: 1080
-        height: 608
+      - url: "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2016/06/power-bi-reports.jpg?x75348"
+        width: 770
+        height: 460
         isCached: true
   - title: "Israeli AI predictive analytics co Pecan raises $66m"
     excerpt: "Pecan’s low-code predictive modeling and data science platform allows business intelligence (BI) analysts to predict revenue-impacting risks and outcomes. Israeli AI-based predictive analytics company Pecan today announced it has completed a $66 million Series C financing round led by Insight Partners,"
@@ -47,6 +49,20 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "AI-led Analytics to play crucial role in Government’s vision of India@100"
+    excerpt: "FM highlighted that Artificial Intelligence (AI) as a sunrise opportunity while advocating promoting digital economy & fintech, technology enabled development; and we, at Course5 Intelligence ..."
+    publishedDateTime: 2022-02-03T14:39:00Z
+    webUrl: "https://menafn.com/1103637622/AI-led-Analytics-to-play-crucial-role-in-Governments-vision-of-India100"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?45645"
+        width: 311
+        height: 250
+        isCached: true
   - title: "Sam’s Club starts national deployment of automated inventory analytics robots"
     excerpt: "Implementation to leverage scanning accessory which can attach to the almost 600 autonomous floor scrubbers already deployed within Sam’s Club stores nationwide.{/exp:eehive_hacksaw"
     publishedDateTime: 2022-01-31T17:37:00Z
@@ -61,33 +77,34 @@ related:
         width: 480
         height: 265
         isCached: true
-  - title: "Kellton Tech to modernize digital citizen experiences for HMWSSB through Artificial Intelligence and IoT-based Data Analytics"
-    excerpt: "Kellton Tech (BSE: KELLTONTEC) (NSE: KELLTONTEC), a global leader in next-generation digital transformation and enterprise intelligence solutions, announced that it has been selected as a technology partner by Hyderabad Metropolitan Water Supply and Sewerage Board (HMWSSB) to revolutionize its citizen service delivery and create world-class experiences."
-    publishedDateTime: 2022-01-31T20:51:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220131/3902197.html"
+  - title: "Building a Smarter Government with Data, Analytics and Machine Learning in the Cloud"
+    excerpt: "Download this whitepaper to learn how agencies use Databricks and AWS to modernize their approach to data and gain insights that only machine learning can deliver."
+    publishedDateTime: 2022-02-01T22:42:00Z
+    webUrl: "https://fcw.com/assets/building-smarter-government-data-analytics-and-machine-learning-cloud/portal/?oref=fcw-river2"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-  - title: "Kellton Tech to Modernize Digital Citizen Experiences For HMWSSB Through Artificial Intelligence and IoT-based Data Analytics"
-    excerpt: "Kellton Tech will provide HMWSSB, the Government of Telangana, with IoT-based enterprise intelligence and analytics solutions to drive actionable insights in real-time and transform citizen ..."
-    publishedDateTime: 2022-02-02T20:35:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1233876&cat=PR News Wire"
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 32
+    images:
+      - url: "https://cdn.fcw.com/media/screen_shot_2022-01-18_at_3.03.12_pm.png"
+        width: 764
+        height: 927
+        isCached: true
+  - title: "North America Speech Analytics Market: Which Trend Will Emerge Growth in Near Future?"
+    excerpt: "On the basis of solutions, the market is further classified into phonetic, phrase recognition, LVCSR, detection analysis, speech analytics software, indexing, speech engine, risk & compliance ..."
+    publishedDateTime: 2022-02-04T05:42:00Z
+    webUrl: "https://menafn.com/1103640252/North-America-Speech-Analytics-Market-Which-Trend-Will-Emerge-Growth-in-Near-Future"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-  - title: "Kellton Tech to Modernize Digital Citizen Experiences For HMWSSB Through Artificial Intelligence and IoT-based Data Analytics"
-    excerpt: "Kellton Tech will provide HMWSSB, the Government of Telangana, with IoT-based enterprise intelligence and analytics solutions to drive actionable insights in real-time and transform citizen ..."
-    publishedDateTime: 2022-02-04T18:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1234248&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 17
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/04/EP_9a2bbimage_story.jpeg"
+        width: 480
+        height: 400
+        isCached: true
 
 secured: "C7Gl3AvjOE3FRm7EAspLIOX2gB0bmqkUvm2PX6n7ueklktoaa+em0HZxUhlsZfOIyxx+k2nLA+1FkVYzaTuLp3qsK5hD/QjHhi94WA+bqF7W0iWPq51NaFwAXMEUfYw8ego1MPF3mtWwG+9avjtMpojWUycAy2ccap3wY+fEELGFzGqnAT5AdkiNwxsvYy8EqQf7yhX5szyMaDapPqmtO2sAF+PpzoZDcuL3UdCk9zcEw0cMTMcsyUGp56/OvXaX/DcZwf+gzPlSbkVUsr+A8sPkTlEn2wnBqz+6KlrubCDxU/sDwBJlt4ponNHp+oIyqNw5KHWgr2r9rC22IBuFZfFj8RTwZeYfQA5nOJmedQ4=;tfd3b0GOUkrCG/tblPfOFw=="
 ---

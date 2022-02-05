@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide Autonomous Mobile Robot Industry to 2030 - Featuring Peer Robotics, Verizon and Omron Adept Technologies Among Others - ResearchAndMarkets.c"
-    excerpt: "The \"Autonomous Mobile Robot Market by Type, by Application, and by End-User - Global Opportunity Analysis and Industry Forecast 2022-2030\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2022-01-31T14:24:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=608552"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Automatic Content Recognition Market, Size, Segmentation & Outlook Forecast and Global Research Report to 2027"
     excerpt: "The automatic content recognition market globally is segmented into end-user application, technology, and region. By Technology, the market is segmented into speech recognition, passive fingerprinting, and digital watermarks. The speech recognition segment ..."
     publishedDateTime: 2022-02-02T00:18:00Z

@@ -34,20 +34,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
-    excerpt: "The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences. Notably, TWO's Artificial Reality platform enables real-time AI ..."
-    publishedDateTime: 2022-02-04T14:45:00Z
-    webUrl: "https://menafn.com/1103642231/Jio-Platforms-invests-15-mn-in-AI-VR-startup-Two-Platforms"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?150158"
-        width: 432
-        height: 250
-        isCached: true
   - title: "Reliance Buys Stake In Silicon Valley Startup Two Platforms"
     excerpt: "The startup is founded by Pranav Mistry, former chief executive officer and president of Samsung Technology and Advanced Research. “TWO are excited to partner with Jio to push the boundaries of AI and introduce applications of Artificial Reality to ..."
     publishedDateTime: 2022-02-04T14:56:00Z
