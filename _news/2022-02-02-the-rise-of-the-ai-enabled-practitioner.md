@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2022/02/02/the-rise-of-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/02/02/the-rise-of-the-ai-enabled-practitioner/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://cdn.techhq.com/wp-content/uploads/2022/02/shutterstock_1202221816-375x210.jpg"
         width: 375
         height: 210
-        isCached: true
-  - title: "The future role of AI in finance"
-    excerpt: "And, perhaps crucially, whether AI will ever remove the need for human advisors in the financial industry. AI transforming financial sector Business leaders have revealed that the use of technology including AI plays a significant role in filling gaps ..."
-    publishedDateTime: 2022-02-01T05:00:00Z
-    webUrl: "https://www.worldfinance.com/markets/the-future-role-of-ai-in-finance"
-    type: article
-    provider:
-      name: World Finance
-      domain: worldfinance.com
-    quality: 54
-    images:
-      - url: "https://www.worldfinance.com/wp-content/uploads/2021/11/A071_rt-600x450.jpg"
-        width: 600
-        height: 450
         isCached: true
 
 secured: "vrBeKPWAmdWOg1wMzGKDJco5CC9cOzPdBYf6RuW2BGPA3KyiJ3ZUprgU3sFZ1G/+UtUi2omMnGzsGMAnZ9nGReeKbvf8oVyEvIcQrvJsi7qVoHSzwQw0HCQs++m47BYJS7ikhRWmPxzEkbD3RMhkwUJPtI3E4TRGmSxPVdowxxEoc5MStnOUR8LXoRBCPe/+ZkvP75y6ONgi9lsKtrSdKBGmVE8FTUkcrxA5USlOrz28v3s1nKxWZZVeD0fLO2czdqSKPitDUlx9AYPiBZc35G4dokJ6o8Kwki2ohOCyNNqSUS09OSd7m/GybqbxaRlwokn57g3APqedHKo+Rp2n5SjO1gBEqc9iDqaTDeWSSXQsUsgkcxQ/fYr46N07a7KKK9hXp0D6gyNa8B3kdfP+SE3NQQgrTE6An00z9WM987/4Axh93V7UkmZNt9S+RjnU6EPTaVRWe8KxkEhPsKpNkWGs4pSttDkoqTRFkBpHtBTJuu2IFzitboBsRSn3UOdhKhNNI3fRM5Dr9fy7Q3lE/g==;VPo1de/R/VmX71V9jLoqiA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-
 cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
 type: article
 quality: 60
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQGGxtCtWnJJWQ/article-cover_image-shrink_600_2000/0/1643755584430?e=1649289600&v=beta&t=O7bWIBvNLEoUqBicIsp1hslW0kB1BOhfkIRIzEGvhP8"
         width: 800
         height: 518
-        isCached: true
-  - title: "Government building national facial recognition database"
-    excerpt: "The Department for Home Affairs has begun work on its national facial recognition database, putting a large project for consolidating national ID matching to tender last week. Home Affairs is looking for a company that will “build and deploy” this system which will include migrating a pre-existing centralised database of facial images collected from state driver licenses,"
-    publishedDateTime: 2022-02-01T03:14:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/government-building-national-facial-recognition-database.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/facial%20recognition%20system.jpg"
-        width: 734
-        height: 413
         isCached: true
   - title: "U.S. Agencies Embrace Facial Recognition Technology"
     excerpt: "While facial recognition technology has helped identify more than 1,000 impostors attempting to enter the U.S. with false documents since 2018 and the increasing use of biometrics in airports and ..."

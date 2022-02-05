@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Mobile Robot Market Statistics, Industry Growth and Demand Analysis Research Report by 2027"
-    excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market"
-    publishedDateTime: 2022-02-01T03:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/mobile-robot-market-statistics-industry-growth-and-demand-analysis-research-report-by-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/9d6f7d754a30d3c40f99f9e7a56ebc4b2a659eb9-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "FinTech Blockchain Market: Meticulous Research® Reveals Why This Market is Growing at a CAGR of 59.9% to Reach $36.04 Billion by 2028"
     excerpt: "Higher blockchain & AI adoption in the region is contributing to the continued transition toward FinTech blockchain technology. Besides, the majority of established FinTech blockchain players and a conducive environment for budding start-ups are expected ..."
     publishedDateTime: 2022-02-03T06:56:00Z

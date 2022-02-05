@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 806
         isCached: true
-  - title: "The future role of AI in finance"
-    excerpt: "And, perhaps crucially, whether AI will ever remove the need for human advisors in the financial industry. AI transforming financial sector Business leaders have revealed that the use of technology including AI plays a significant role in filling gaps ..."
-    publishedDateTime: 2022-02-01T05:00:00Z
-    webUrl: "https://www.worldfinance.com/markets/the-future-role-of-ai-in-finance"
-    type: article
-    provider:
-      name: World Finance
-      domain: worldfinance.com
-    quality: 54
-    images:
-      - url: "https://www.worldfinance.com/wp-content/uploads/2021/11/A071_rt-600x450.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "dOIPrIm8cmP0J7YCvSjnXDi8nRZJz4fUgYKrSDG8En+ryDYNDpjhSyY9NFkiocAQxynUBqF5OkqLD3QtliFbRqOt0AIA6+8SAs9ddrisCts87e0r3cqOZt8EnieetjZXJz6C2vSiAzEHjbUSgJREvUwW6wRrBqEi2QkH29/OSm3zyp8K4MzQ/bzBdDAh67eBy5wROq6D0x7wemIqLtGvxBLKETcYJV/HatWk1nQ6bdyQ6OpC+NtcigkRPZSbmAARk0cC12VMLGKOUn4JZCycsGzKxoEW4X4m9feE9tMA/qcCI3u+c1/CW0mnCw2nNzb7+kE0aALWreoyQaN3NDDztNy9glhpERkqeVyxgm/Jyd0a+AD04W+tvjNrC5CL+Dh88ddamxBf8aA/2PGbmJbqpz+H6kF+1kf7+uMMhEk4ee9ijgyL/EynViSmR6S24FdafETk/Vi+13TtVO4ZIPngnFTpyVv3v4WokIusLnOh6v0yUksbbY3yKCLStpOenwG6JHQWNt+ZlhZDwln+JTYX4g==;uSBXDxeeXJxc6yDlPUWQ/w=="
 ---

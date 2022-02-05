@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-gl
 ampWebUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
 type: article
-quality: 83
-heat: 93
+quality: 183
+heat: 193
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         height: 633
         isCached: true
 
-secured: "ufKa/mLE559mJxZI2SIqIEie2iZzcZnVVZ2oxQLEs2q/atL9U0V9upuq6kadNLW9en8yie0FuABLRY/dzdoFtCmQ0MiDleRAsfKrvTx7X1Du+VdRgR9/74gr16fw2WS/C818THt9J//xCZsgqPso903zxCyFh+xO9lpTxCdNTPGTAOyqggsrg1Gcsc6upczdLDc2gERx+Vt4P5XnoEq+6jEMzMBCJpDhIEGFBPrl+uxiVS6361kfKBXlXr1q2EVghmf1W2+bhOOTtx5MJ2ThQMqiaj/GmMKxDqHp8/QGxDQxc6sFsXKoYYL3+3xQvwXLS1GaEfHsqmHjKwBkTxGife+kceOA4yb32GQTrZLZqMleucT+TFbJ45OhmTayg5nSNAPOgOzfpk8ZTOpmN+xX7saUG6FIOKzOB/VcrHJ5b46zyGXg05lQdbkvkK1OBuguFRWo8ttGR7QH1ZedWajut7fnpI5Pa303joHKGOMoMUZxivV8uZekzQIY7vLulyVl41MGZ5n21tpip/t03SdMYA==;Yu8018lSMb3zMoT0AJIgVQ=="
+secured: "lzIz1hNpcBXaRSWaNRnegvM3XfEbkZV40Y69jBYSF2jQXyqIDaUM0rcyaIZnmzqbnA+V4Q643NC5mKAUBJdiby/h2/2/x+aC+cWD4/ZjYB5Q9TQh5ieR6PhmDkSWJFqGOAANsC7fS1eTQsvTAHWttWlosfbDZEYGUwk/auoP6beTIKNKrkKO5g5feuygh0uT+bt6fvdqSLp29RaR0mSD4kZGolThKVFtdt2dwZ3GD2a/TY86y2lHnsLRujjQ1X54Mi/+ExYk5pGpjr7jCPEvzUpotpdUya35lT1jYeOrGS6IAdJjhYjDt+FtNQg04wBmzuZvslooj1HLgx1shxWilliq0WJpdKgVmFMKP6FuDPb1DgX5aPCqmo3XSAT5F5OCe+bdePCvAnzzp60s7z7sxDgeuEaQsiCET6lIExvMs0tAQx6YYSOVbQB/vguJHa1nkkUwY8jkOlQ6SBCahBZOCnIPLSSLEjbOfqW5AzlzgBX9HtXAXZKuyuF9zChRfQgz1rKumEP8lQOo4n2vCV3wKWSAiT1mfWuKwwALZapNac0=;6uQdZY0sNVuXHmtoGwRJ1g=="
 ---
 

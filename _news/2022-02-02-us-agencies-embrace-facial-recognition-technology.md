@@ -71,20 +71,6 @@ related:
         width: 800
         height: 518
         isCached: true
-  - title: "Government building national facial recognition database"
-    excerpt: "The Department for Home Affairs has begun work on its national facial recognition database, putting a large project for consolidating national ID matching to tender last week. Home Affairs is looking for a company that will “build and deploy” this system which will include migrating a pre-existing centralised database of facial images collected from state driver licenses,"
-    publishedDateTime: 2022-02-01T03:14:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/government-building-national-facial-recognition-database.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/facial%20recognition%20system.jpg"
-        width: 734
-        height: 413
-        isCached: true
   - title: "Metro approves license plate readers, allows facial recognition"
     excerpt: "Metro Council on Tuesday approved the controversial use of license plate readers and sent the new, much debated legislation to Mayor John Cooper, who has signaled support for it. This week's Metro Council session spanned more than four hours yet spent close to a quarter of its time on legislation that has been debated in this and alternate versions since 2020."
     publishedDateTime: 2022-02-02T20:53:00Z

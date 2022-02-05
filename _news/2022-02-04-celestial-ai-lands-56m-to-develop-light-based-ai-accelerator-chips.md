@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/02/04/celestial-ai-lands-56m-to-develop-li
 ampWebUrl: "https://venturebeat.com/2022/02/04/celestial-ai-lands-56m-to-develop-light-based-ai-accelerator-chips/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/04/celestial-ai-lands-56m-to-develop-light-based-ai-accelerator-chips/amp/"
 type: article
-quality: 104
-heat: 134
+quality: 204
+heat: 234
 published: true
 
 provider:
@@ -74,6 +74,6 @@ related:
         height: 289
         isCached: true
 
-secured: "FN62No2rvYN5isiYPwIaxi5TJuhDAUKoz4vTOSXSd0Phd/9GcH1RCsaFhWRV84YGNT747owL/TgxLGwH/ixeSiKo/cKnujqeIbVxLkEb4F9mlITO/581CIXgHZn4DgndC5etIgz67hs+cAaNpzwFNPlSAMyllTAcE5dGZ9yVKOjikxY5Ew1W7yP83+boHcG/7kR0uILf7YM/3OcFwUgFGYoAO5eBON3JHuXyd+WFP+Z/CKBuaTjvoYVd7UdXcMhfdlY57ijCSYXZ0IEz49C6NJ2+7yCkKriEHLTAAtzdLWkRdiuc7GyAtRsdxkAEvC/F5xHEyFFlu759N/BJ6Tx/BVBuAYCOfyxIc3FSz8RFSxEMBmhwSPnCBy1Orx3cXhBAKrEnbWL5GNJey++J+JLtRfzso4Ly4UyufxIGRFX9hobCuZEmPRiy/6RVDqH73+tGYbEr3PbHWLKi/68RcqW1gTNH7dNt0B21w+dm5pMuw1uJ+FBcCrEvJjmCensTPiVsqv1jGw8eUei8BQYUl8aVVA==;3pZMcvESDJkhLg3b23Z/bQ=="
+secured: "XTKA/pHdNuAp4EjLWXOMujThrMHmknlwnGCrJsY2YdS1pHwlkzKr/3y0Yvrt30NIU80+rbsmg3KQj7dlzUXjx07pecX99/nzTHzgB2PF6vr91qcrGb7XW6Hlq4Px6YoIbFsbdFIrLpBmIQq551STVLR1N5QCDOO9NBs5iP3voZpiJbGqr85PguWkOmgUSb6IkLBkiPDvSj5ePKp7ynbTmQrKm+kJ/Cg1RIAvewvflLpifoVv5Yx2f3HRqQw2Uj6rhMl9eCcVdcwqbBoZI6/F+9pV2kZAHU9U0fQ3/ms7gVxplQvh190z4P5PW1ldV/sl7Ra6w0lnKZNynR2nR73DiGbhvXvOyh2HcwufVOU5rxyMvPZ1QFjge5kQfYhB/TnELwIIz/vcfnPcFndVvzma8/4FYiCX4ZvFyCY7YXcCUpRteaaw4jkotETsYM+DqxVQD+CM82iNMAVgyfnLJCiUsCY1zL8hVOI8yhF4kx28G52fyI3F9/2PfqXkKtBBh0tFIFQpuZa05Gk5vN43RGgjj0ap5NiTVmxhr5DrGqXa+qQ=;DWw7voPXA8EQljI/C147oQ=="
 ---
 

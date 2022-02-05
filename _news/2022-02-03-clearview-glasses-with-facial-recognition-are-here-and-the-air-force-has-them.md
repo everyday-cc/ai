@@ -39,7 +39,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 83
+    quality: 183
     images:
       - url: "https://static01.nyt.com/images/2022/02/03/multimedia/03economy-briefing-clearview/03economy-briefing-clearview-facebookJumbo.jpg"
         width: 1050
