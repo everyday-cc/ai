@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-ml
 webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-report-2022-2027-industry-share-size-and-future-scope"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market Report 2022-2027: Industry Share, Size and Forecast"
-    excerpt: "(MENAFN- EIN Presswire) service.jpeg' width='300' height='200' /> Machine Learning as a Service (MLaaS) Market. IMARC Group expects the market to reach US$ 25.67 Billion by 2027,"
-    publishedDateTime: 2022-01-31T10:40:00Z
-    webUrl: "https://menafn.com/1103617585/Machine-Learning-as-a-Service-MLaaS-Market-Report-2022-2027-Industry-Share-Size-and-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 43
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/31/EP_ceca2image_story.jpeg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market : Industry Analysis, Size, Share, Growth, Trends and Forecast"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 03, 2022, 04:52 /Comserve / -- Machine Learning as a Service (MLaaS) Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent ..."
     publishedDateTime: 2022-02-03T10:40:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/fall-ibm-watson-health-rise-forever
 webUrl: "https://www.linkedin.com/pulse/fall-ibm-watson-health-rise-forever-ai-ean-mikale-mikale-j-d-"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning the hard way: IBM Watson's fatal misdiagnosis"
-    excerpt: "One of Watson's early set pieces was taking a complex set of symptoms and finding the most probable diagnosis out of an encyclopaedic knowledge of rare diseases. A different challenge marked its demise."
-    publishedDateTime: 2022-01-31T10:30:00Z
-    webUrl: "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 76
-    images:
-      - url: "https://regmedia.co.uk/2019/09/23/shutterstock_doc.jpg"
-        width: 648
-        height: 432
-        isCached: true
   - title: "How IBM’s Watson Went From the Future of Health Care to Sold Off for Parts"
     excerpt: "Most likely, you’re familiar with Watson from the IBM computer system’s appearance on Jeopardy! in 2011, when it beat former champions Ken Jennings and Brad Rudder. Watson’s time on Jeopardy! was fun viewing,"
     publishedDateTime: 2022-01-31T14:00:00Z

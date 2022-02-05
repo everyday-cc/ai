@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning the hard way: IBM Watson's fatal misdiagnosis"
-    excerpt: "One of Watson's early set pieces was taking a complex set of symptoms and finding the most probable diagnosis out of an encyclopaedic knowledge of rare diseases. A different challenge marked its demise."
-    publishedDateTime: 2022-01-31T10:30:00Z
-    webUrl: "https://www.theregister.com/2022/01/31/machine_learning_the_hard_way/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/31/machine_learning_the_hard_way/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 76
-    images:
-      - url: "https://regmedia.co.uk/2019/09/23/shutterstock_doc.jpg"
-        width: 648
-        height: 432
-        isCached: true
   - title: "The Fall of IBM Watson Health: The Rise of Forever AI by Ean Mikale"
     excerpt: "Listen to the Article Instead! Over the past few weeks, there have been numerous articles concerning the failure of IBM's Watson Health Unit and it's subsequent fire sale to Venture Capitalists, for an undisclosed amount thought to hover around $1 Billion USD."
     publishedDateTime: 2022-01-31T17:19:00Z

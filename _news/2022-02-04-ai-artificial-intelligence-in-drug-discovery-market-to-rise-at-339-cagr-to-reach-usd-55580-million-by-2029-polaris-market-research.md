@@ -96,17 +96,6 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "AI as a Service (AIaaS) Market will Touch USD 43.29 Billion at a Whopping 25.8% CAGR by 2030- Report by Market Research Future (MRFR)"
-    excerpt: "Market Overview: According to a comprehensive research report by Market Research Future (MRFR), \"AI as a Service Market information by Technology, by Vertical and Region"
-    publishedDateTime: 2022-01-31T09:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25302391/ai-as-a-service-aiaas-market-will-touch-usd-43-29-billion-at-a-whopping-25-8-cagr-by-2030-report-b"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25302391"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25302391"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 8
 
 secured: "QWgDXIm98iAoT+t1sal+HG8qVlW2bC/DaWw/CAFcBgS41n1uB2uBFopvq+TlKekWvFz+JUMJATUwjjcdJ46t4Nx/IHqXX5eQr2EbqdMbLvPqNQSBVGK7HH2mH6JSdaKU2ZusPzKiEdVTAoookLaYHRScsLahUrT+TDQXMDezE6bnzQVl9xrUQym42zWDMBR9XBmkQoc/owQm3hk2plD7pPeYWO+LAwkr5Ab68i9vuktQmCeRQF0DhGNsU7FV7iMO1fsAsePYObRY0KzGh3syqiUBUtJu6AdQLvNOJtYJb6XDSQWWbjhGX0IWzdhCOQFXoxVq8BW7IlAsogPPwn2LYZlNVLfK/CiN51RZIkbCP4aQGG3mZr/nnzC238L5OzWqv9glOjPRqnosvYDvdGOeLp7Fodx1Xbeq04W/j8L7fXDjTlX7muryw5tsHyIoBDUiLKtl0zbQd/ELVzqBOusP215O2JUPXRhlGpXIpyrRy/R2EKXS0SsNiEdimN2KSdYKxTXg3gNi+d22Tb14vydxoQ==;J6WhqBq/eLUmjTLsQtv5eg=="
 ---

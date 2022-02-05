@@ -69,15 +69,6 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 19
-  - title: "Auditing And The Case Of Artificial And Business Intelligence, What Is Predictive Analytics?"
-    excerpt: "Predictive analytics and artificial intelligence differ significantly in that artificial ... The self-driving car developed by Google, Waymo, is a great example of a prescriptive analytics application. The goal of predictive analytics is to make ..."
-    publishedDateTime: 2022-01-31T09:13:00Z
-    webUrl: "https://www.ictsd.org/auditing-and-the-case-of-artificial-and-business-intelligence-what-is-predictive-analytics/"
-    type: article
-    provider:
-      name: ICTSD
-      domain: ictsd.org
-    quality: 0
   - title: "Kellton Tech to Modernize Digital Citizen Experiences For HMWSSB Through Artificial Intelligence and IoT-based Data Analytics"
     excerpt: "Kellton Tech will provide HMWSSB, the Government of Telangana, with IoT-based enterprise intelligence and analytics solutions to drive actionable insights in real-time and transform citizen ..."
     publishedDateTime: 2022-02-02T20:35:00Z

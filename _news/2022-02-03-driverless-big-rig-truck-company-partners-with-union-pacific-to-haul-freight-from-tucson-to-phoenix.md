@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Driverless big-rig truck company partners with Union Pacific to haul freight from Tucson to Phoenix"
+    excerpt: "TuSimple is headquartered in San Diego but has its \"operational heart\" in Tucson, with several hundred employees there including engineers, artificial-intelligence experts, mechanics, freight handlers and others, said Pat Dillon, the company's chief ..."
+    publishedDateTime: 2022-02-05T01:44:00Z
+    webUrl: "https://www.usatoday.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/?gnt-cfr=1"
+    ampWebUrl: "https://amp.usatoday.com/amp/9291341002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/9291341002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 45
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/05/PPHX/42d3dafe-87c2-4b5c-907b-05ccb19fa9e1-TuSimple.jpg?auto=webp&crop=7951,4473,x0,y405&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "TuSimple forges self-driving truck path with Union Pacific Railroad"
     excerpt: "In what's believed to be a first-of-its-kind partnership, self-driving truck company TuSimple said Wednesday it will soon work with Union Pacific Railroad to haul freight on a major route in Arizona. TuSimple this spring plans to carry goods for Union ..."
     publishedDateTime: 2022-02-02T12:15:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
     provider:
       name: Lexington Herald Leader
       domain: kentucky.com
+    quality: 37
+  - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
+    excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest stadium for the 2008 Summer Olympics, he hoped the Games and the venue's distinct architecture — the instantly recognizable weave of curving steel beams — would symbolize ..."
+    publishedDateTime: 2022-02-04T21:32:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article258038808.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article258038808.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article258038808.html"
+    type: article
+    provider:
+      name: The Sun News
+      domain: myrtlebeachonline.com
     quality: 37
 
 secured: "R69TKVAzMZAO7XITrPFmfvbFaHN+bAdrn/NL9B9GzWBzVrHkBCcXp2pqay7aA4gwc+k05n/7gwy7AeFabe26DP5SWNxKTMPkj+RWufjuYuA7Eyw13dNn1gx1/Q47hD0/vyr2SC/hduTr71Qg9lpkfeNF1TUQY6hAmnDbblxhqLbpyPEYku1s11ZkaINHj6qW6dfl1tWOB+Pk/8wkZUyB7/bNXMeUFFIcdBuFB+ANdvx4SWLR/5Iikj/psp2dFmJIzMdhf7ZXqE2G5F5rv5i1j3NwztkpcBRT4V2XiHYsNoVaNlET6KgSvOc1/h7ZQ1azukdElPbs4JXnbhBjZXVlgD26BQLGb3fkuK+1VxudHjkLDEwIIeEzuxaZV/RMec2Kum7AbBKU/ZfVPS3HKpoGhAOjIbUN78fhtNa4PjZJo+qqX2ZxV/RKm3aKs5p9qzIt29IZCEWGVOVCibm32MTziYVoLKa/n7k335SBliCpwZZdpUfRPQ3G+rYwlF56I/j2FsQOj/aR4qBL0gvD0QEZjA==;x7XiAa67udzFj5lke2CPkw=="

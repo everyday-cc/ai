@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Food-tracking AI system developed to reduce malnutrition in LTC homes"
-    excerpt: "New technology could help reduce malnutrition and improve overall health in long-term care homes by automatically recording and tracking how much food residents consume."
-    publishedDateTime: 2022-01-31T09:58:00Z
-    webUrl: "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.html"
-    ampWebUrl: "https://techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-food-tracking-ai-malnutrition-ltc-homes.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/food-tracking-ai-syste.jpg"
-        width: 2007
-        height: 1082
-        isCached: true
   - title: "New AI technology could help reduce malnutrition in long-term care homes"
     excerpt: "New technology could help reduce malnutrition and improve overall health in long-term care homes by automatically recording and tracking how much food residents consume."
     publishedDateTime: 2022-01-31T12:39:00Z
@@ -106,6 +90,38 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d5cda2e76ce28a417dd3047a1d3ffed6.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times"
+    excerpt: "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights. A new study out of Germany says having traffic lights use AI ..."
+    publishedDateTime: 2022-02-05T02:02:00Z
+    webUrl: "https://www.gizmodo.com.au/2022/02/a-new-artificial-intelligence-traffic-light-could-help-shorten-your-commute-times/"
+    ampWebUrl: "https://www.gizmodo.com.au/2022/02/a-new-artificial-intelligence-traffic-light-could-help-shorten-your-commute-times/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/02/a-new-artificial-intelligence-traffic-light-could-help-shorten-your-commute-times/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 52
+    images:
+      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2022/02/04/d5cda2e76ce28a417dd3047a1d3ffed6-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI Traffic Light That Improves Traffic Flow By Up To 15% In Simulation Will Now Be Used In Real Life"
+    excerpt: "And the results have been good enough to encourage the team and the city to now try the AI at the intersection in real life. Read Also: Honda Scanned Drivers’ Brains To Develop Advanced Future Safety Technologies “The assumptions about traffic ..."
+    publishedDateTime: 2022-02-05T01:43:00Z
+    webUrl: "https://www.carscoops.com/2022/02/ai-traffic-light-that-improves-traffic-flow-by-up-to-15-in-simulation-will-now-be-used-in-real-life/"
+    ampWebUrl: "https://www.carscoops.com/2022/02/ai-traffic-light-that-improves-traffic-flow-by-up-to-15-in-simulation-will-now-be-used-in-real-life/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/ai-traffic-light-that-improves-traffic-flow-by-up-to-15-in-simulation-will-now-be-used-in-real-life/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 42
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/02/2022-Lemgo-Traffic-Lights-1-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
   - title: "Artificial Intelligence in Predicting Web Traffic Spikes"
     excerpt: "Machine Learning, specifically Artificial Intelligence, is great at analyzing information to either deduce patterns or classify information into predetermined categories. As ever, data is key ..."

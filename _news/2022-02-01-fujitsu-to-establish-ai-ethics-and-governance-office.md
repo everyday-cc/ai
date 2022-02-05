@@ -41,20 +41,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Fujitsu will establish an office for AI ethics and governance"
-    excerpt: "Fujitsu said that it would create an AI ethics and governance division to guarantee that AI technologies are used safely and securely. The new office, which will be led by Junichi Arahori, will concentrate on adopting ethical standards connected to AI and other machine learning technologies throughout research,"
-    publishedDateTime: 2022-01-31T09:40:00Z
-    webUrl: "https://bestgamingpro.com/fujitsu-will-establish-an-office-for-ai-ethics-and-governance/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 54
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/Fujitsu-to-stand-up-AI-ethics-and-governance-office.png"
-        width: 600
-        height: 375
-        isCached: true
   - title: "Fujitsu establishes AI ethics and governance office"
     excerpt: "Fujitsu Ltd has announced the decision to establish a new organization to strengthen its governance of AI ethics. The company said building and maintaining trust remains central to all of its business activities,"
     publishedDateTime: 2022-01-31T21:58:00Z

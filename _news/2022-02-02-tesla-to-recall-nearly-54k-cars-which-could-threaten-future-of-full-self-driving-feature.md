@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/tesla-to-recall-nearly-54k-cars-which-cou
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature/"
 type: article
 quality: 95
-heat: 525
+heat: 535
 published: true
 
 provider:
@@ -580,6 +580,20 @@ related:
       - url: "https://s1.econotimes.com/assets/uploads/20220202d6d5250b48a87e450_th_1024x0.jpeg"
         width: 640
         height: 420
+        isCached: true
+  - title: "Teslas recalled because self-driving software tells them to roll through stop signs"
+    excerpt: "DETROIT -- Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Recall documents posted ..."
+    publishedDateTime: 2022-02-05T02:43:00Z
+    webUrl: "https://abc11.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 33
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/11538119_020122-kabc-11pm-tesla-recall-vid.jpg?w=1600"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Tesla issues a Full Self-Driving recall because vehicles weren’t stopping at stop signs"
     excerpt: "Tesla’s Full Self-Driving feature has been on regulators’ radar since its inception. Now, the company is facing a Full Self-Driving recall for nearly 54,000 vehicles due to an issue with stop signs. Essentially,"

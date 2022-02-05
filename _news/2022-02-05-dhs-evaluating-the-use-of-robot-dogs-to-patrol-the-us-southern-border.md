@@ -2,19 +2,19 @@
 category: news
 title: "DHS evaluating the use of robot dogs to patrol the US southern border"
 excerpt: "Robot dogs, also known as Automated Ground Surveillance ... But four-legged drones, and other forms of artificial intelligence, have been designed for autonomous operation. Inaccuracies and biases in their design have real-life consequences."
-publishedDateTime: 2022-02-05T00:15:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/border-issues/2022/02/04/homeland-security-may-use-robot-dogs-patrol-us-southern-border/6649655001/"
-webUrl: "https://www.indystar.com/story/news/politics/border-issues/2022/02/04/homeland-security-may-use-robot-dogs-patrol-us-southern-border/6649655001/"
-ampWebUrl: "https://amp.indystar.com/amp/6649655001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6649655001"
+publishedDateTime: 2022-02-05T01:02:00Z
+originalUrl: "https://www.freep.com/story/news/politics/border-issues/2022/02/04/homeland-security-may-use-robot-dogs-patrol-us-southern-border/6649655001/"
+webUrl: "https://www.freep.com/story/news/politics/border-issues/2022/02/04/homeland-security-may-use-robot-dogs-patrol-us-southern-border/6649655001/"
+ampWebUrl: "https://amp.freep.com/amp/6649655001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/6649655001"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - AI in Robotics
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "uWgftZwNZfILDajbxZ12SHuhRpbOwhNes+vf+UkO4nL9VCDs5tNx/bSY8sVlMCJnqofo3iGmJdNmaWnZbZw8gbsbAqWXV8QxNSWAn0QaXp9c7286E1xezuS7Knnl4B4uLhXpy+f3ASCeDFjxNXiilvAWMC4Ans8dzrGsYipTG58Yz+X143WkRwJvWeFbyYmRehB7iDUYpR3PEYXvkR7xJMmy7zKjdLS/o9vIefDjc0o1du03+qkHkI/SRsDMoG4bQa/SV0ghGH7DkJQ8rVbY6G8Vs/QxS/Jh1p+ajitGUdpgTuNrA0ZVlNAd7O5ColN+7IKTpUd7Y5XDxwQ26so85wo2UHDWlsDpBQjbNG3lDeY=;0XezE55ig1Us9mMfw4k46A=="
+secured: "voxXUO81iDSW9UrGUz/d0K/rCv+DYlLrtjNTnf8EchV9bSvr9A0zvapZi1VglkIY8ID7LYUJPifeBf5hVFwYx5qZt8sIubN3ZaOVYmGBpwu6yP5hLg3EjMdEkHTD5sSZJ1ddGNEJCt27RnClkXEKNQqfEr0SjuBFe764REwNS2CLrNu9zbcxMjody0Mot7dbS9MHEwd9Jvr+eFpKfP+vZAO43CXd77r1Vitviy1K5gxYgAJXYe7Q1Kknp4QjRRgwBQUs5V/ymxfuDRplbG9tIOFnQiw14/4eu1Wr4IZxJ1b9KjohYPzB1kFrV8U4dip/bATd3FAHvzHxT3V5eNmyAExBlBsTjnMncilkBdjIL6E=;hG5zmbpIxuSDNMcy1g8auA=="
 ---
 
