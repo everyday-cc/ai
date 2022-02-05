@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-
 cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 150
+published: true
 
 provider:
   name: WION
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Out for the Facial Recognition Overlords"
-    excerpt: "More technology companies are becoming gatekeepers to our identities and ‘faceprints.’ That could get messy."
-    publishedDateTime: 2022-01-31T07:30:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2022-01-31/watch-out-for-facial-recognition-overlords-apple-microsoft"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iY64pWg9Fj8U/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Government agencies are tapping a facial recognition company to prove..."
     excerpt: "James Hendler, Rensselaer Polytechnic Institute (THE CONVERSATION) The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing ..."
     publishedDateTime: 2022-02-01T14:22:00Z
@@ -101,6 +87,34 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Facial recognition technology identifies the 'unique' noses of cattle"
+    excerpt: "Cattle branding and ear tags may become a thing of the past - in the future, farmers may simply be able to use facial recognition technology on their smart phone to locate their cattle. An Australian researcher has developed this AI-powered system to ..."
+    publishedDateTime: 2022-02-03T20:19:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/breakfast/facial-recognition-software-identifies-unique-muzzles-cattle/13740970"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 39
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13740972-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Edmonton police using facial recognition software to search mugshot database"
+    excerpt: "Starting this year, the Edmonton Police Service will be using NEC’s NeoFace Reveal facial recognition technology to help identify suspects in criminal investigations. Sarah Komadina reports."
+    publishedDateTime: 2022-02-02T01:45:00Z
+    webUrl: "https://globalnews.ca/video/8587770/edmonton-police-using-facial-recognition-software-to-search-mugshot-database/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 36
+    images:
+      - url: "https://i0.wp.com/media.globalnews.ca/videostatic/news/ps20ox0i7l-f1fhx2xx5d/6P_FACIAL_RECOGNITION.jpg?w=500&quality=70&strip=all"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Three Key Problems with the Government's Use of a Flawed Facial Recognition Service"
     excerpt: "Forcing people to use private ID-verification to access tax accounts or other government services raises serious privacy and equity issues."
     publishedDateTime: 2022-02-02T22:06:00Z
@@ -115,6 +129,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple Finally Brings Mask Recognition Capabilities to Face ID"
+    excerpt: "The improved Face ID function for a new version of iOS analyzes the area around the eye to identify someone wearing a mask"
+    publishedDateTime: 2022-01-31T22:23:00Z
+    webUrl: "https://mobileidworld.com/apple-finally-brings-mask-recognition-capabilities-face-id-013102/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/ani-kolleshi-vu-DaZVeny0-unsplash-1-scaled.jpg"
+        width: 800
+        height: 478
+        isCached: true
+  - title: "Yellow.ai recognised in the first-ever 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms"
+    excerpt: "Yellow.ai, the world's leading next-gen total experience (TX) automation platform, trusted by 1000-plus enterprises globally, today announced it has been recognised as a Niche Player in the 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms."
+    publishedDateTime: 2022-02-01T02:21:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220131/3902362.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "Ot8yNNoFalNMLGSlQkiFe7ePoI2ly/GJAUNWOpurjB+WGgALi36IDV53ak+X3LWyVM7MExP0lzsgJyLPkVwJsUIXqMiOnDDaWG//WIVzXl4L9ZM8ObacOooUJrVA51HSO7czEpv4ykikVWdk4UWNkBH78232lFwXs+fXHoTlGcmvP02XfOIXjjKKu6UAFQByIxzRILSgZfLcpCA8w9ndoiZ6XhYOWl77lNt0ajstJVoPFTQz4KdKfMdi947uJrK7MIvqlr8HQ32/QTLxhbIhxbbpDSvQqKXn7jtDJcJ6xA1MpmttkzH6pa+JRIhe1xf+j0TP93jx4Y8RuXYIFx3bRTC800RzxzW1yB+J7eUwd5E=;9aTrxBM1YUaPtR1DS0mtzg=="
 ---

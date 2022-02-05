@@ -25,21 +25,81 @@ images:
     isCached: true
 
 related:
-  - title: "'Game changing' facial recognition technology is now being used by EPS"
-    excerpt: "Edmonton police say they have already been able to see the benefits of the facial recognition technology they recently began to use."
-    publishedDateTime: 2022-02-01T22:10:00Z
-    webUrl: "https://edmonton.ctvnews.ca/game-changing-facial-recognition-technology-is-now-being-used-by-eps-1.5763504"
-    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504.amp.html"
+  - title: "No more facial recognition? Apple AirPods might be able to recognise the user by checking ear canal"
+    excerpt: "In the latest development, Apple's AirPods will soon be able to verify a user's identity using the inside of the ear. This will be done using an in-ear biometric device that uses ultrasonic signals. These are then reflected against the walls of a user’s ear canal."
+    publishedDateTime: 2022-02-01T10:11:00Z
+    webUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524"
+    ampWebUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 59
+      name: WION
+      domain: wionews.com
+    quality: 60
     images:
-      - url: "https://beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504/_jcr_content/root/responsivegrid/image.coreimg.png"
-        width: 1020
-        height: 574
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/02/01/237668-fkcvp2px0aypkp.jpeg"
+        width: 918
+        height: 506
+        isCached: true
+  - title: "Government agencies are tapping a facial recognition company to prove..."
+    excerpt: "James Hendler, Rensselaer Polytechnic Institute (THE CONVERSATION) The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing ..."
+    publishedDateTime: 2022-02-01T14:22:00Z
+    webUrl: "https://www.greenwichtime.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
+    ampWebUrl: "https://www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+    cdnAmpWebUrl: "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+    type: article
+    provider:
+      name: Greenwich Time
+      domain: greenwichtime.com
+    quality: 58
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Government agencies are tapping a facial recognition company to prove..."
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID."
+    publishedDateTime: 2022-02-01T18:03:00Z
+    webUrl: "https://www.thehour.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
+    ampWebUrl: "https://www.thehour.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
+    type: article
+    provider:
+      name: The Hour
+      domain: thehour.com
+    quality: 58
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Facial Recognition is available here!"
+    excerpt: "The Edmonton Police Service now has access to a facial recognition software called NeoFace Reveal, which it believes will help identify suspects in criminal investigations. Supt."
+    publishedDateTime: 2022-02-01T22:59:00Z
+    webUrl: "https://www.linkedin.com/pulse/facial-recognition-available-here-dennis-turner"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGGxtCtWnJJWQ/article-cover_image-shrink_600_2000/0/1643755584430?e=1649289600&v=beta&t=O7bWIBvNLEoUqBicIsp1hslW0kB1BOhfkIRIzEGvhP8"
+        width: 800
+        height: 518
+        isCached: true
+  - title: "U.S. Agencies Embrace Facial Recognition Technology"
+    excerpt: "While facial recognition technology has helped identify more than 1,000 impostors attempting to enter the U.S. with false documents since 2018 and the increasing use of biometrics in airports and ..."
+    publishedDateTime: 2022-02-01T16:09:00Z
+    webUrl: "https://thecrimereport.org/2022/02/01/u-s-agencies-embrace-facial-recognition-technology/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Edmonton police using facial recognition software to search mugshot database"
     excerpt: "Starting this year, the Edmonton Police Service will be using NEC’s NeoFace Reveal facial recognition technology to help identify suspects in criminal investigations. Sarah Komadina reports."
@@ -55,6 +115,43 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Three Key Problems with the Government's Use of a Flawed Facial Recognition Service"
+    excerpt: "Forcing people to use private ID-verification to access tax accounts or other government services raises serious privacy and equity issues."
+    publishedDateTime: 2022-02-02T22:06:00Z
+    webUrl: "https://www.aclu.org/news/privacy-technology/three-key-problems-with-the-governments-use-of-a-flawed-facial-recognition-service"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 35
+    images:
+      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Apple Finally Brings Mask Recognition Capabilities to Face ID"
+    excerpt: "The improved Face ID function for a new version of iOS analyzes the area around the eye to identify someone wearing a mask"
+    publishedDateTime: 2022-01-31T22:23:00Z
+    webUrl: "https://mobileidworld.com/apple-finally-brings-mask-recognition-capabilities-face-id-013102/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/ani-kolleshi-vu-DaZVeny0-unsplash-1-scaled.jpg"
+        width: 800
+        height: 478
+        isCached: true
+  - title: "Yellow.ai recognised in the first-ever 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms"
+    excerpt: "Yellow.ai, the world's leading next-gen total experience (TX) automation platform, trusted by 1000-plus enterprises globally, today announced it has been recognised as a Niche Player in the 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms."
+    publishedDateTime: 2022-02-01T02:21:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220131/3902362.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "4W6sGDMEs0rZDyBZ/ob8GNw1yDNf82xvBNPYAYxnRQquiSTWbm339WO/4EaR18stP8vjqzSi0QBW4yYOVopdce/vgcs6Ug3ao6l7470iNPAPLbT20iCSyyUTAjqWaQeSFc+UMz2t7VBKs5ndA9CdxbSyu5De6qTX7M8DJF96QDNB51vMdnHN3FjQ0c2Y7TtKzrjj+PibiUH79bWLtUxStqhAaCgjXj8Ia7yhMMVy3BettDApoFHnXTKKdbswT6k+L3cOZCsGmAQecqPgwNVQGW+a8br81ZL93LRDq44CG5Vdvg0RsqHY5HeLRQM+lx1xZNr9bufjIH6DXJ/x/d2EtmBMtJ1FK6S8Xf/Me7SDuAQ=;TJtHW4OUOuFH8vINijodFA=="
 ---

@@ -29,14 +29,14 @@ images:
 related:
   - title: "DHS evaluating the use of robot dogs to patrol the US southern border"
     excerpt: "Robot dogs, also known as Automated Ground Surveillance ... But four-legged drones, and other forms of artificial intelligence, have been designed for autonomous operation. Inaccuracies and biases in their design have real-life consequences."
-    publishedDateTime: 2022-02-04T21:45:00Z
-    webUrl: "https://www.jsonline.com/story/news/politics/border-issues/2022/02/04/homeland-security-may-use-robot-dogs-patrol-us-southern-border/6649655001/"
-    ampWebUrl: "https://amp.jsonline.com/amp/6649655001"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/6649655001"
+    publishedDateTime: 2022-02-05T00:15:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/border-issues/2022/02/04/homeland-security-may-use-robot-dogs-patrol-us-southern-border/6649655001/"
+    ampWebUrl: "https://amp.indystar.com/amp/6649655001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6649655001"
     type: article
     provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 59
     images:
       - url: "https://www.gannett-cdn.com/presto/2022/02/03/PPHX/192f59ef-529b-48aa-9cb9-3b1bf25147bb-dhs-robotDog1.jpg?auto=webp&crop=686,386,x40,y0&format=pjpg&width=1200"

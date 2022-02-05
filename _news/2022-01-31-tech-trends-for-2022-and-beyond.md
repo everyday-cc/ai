@@ -174,20 +174,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Five key tech priorities for financial services leaders in 2022"
-    excerpt: "Technology in modern financial services can be a complex subject. This is what business leaders should focus on for success"
-    publishedDateTime: 2022-01-31T08:54:00Z
-    webUrl: "https://business-reporter.co.uk/2022/01/31/five-key-tech-priorities-for-financial-services-leaders-in-2022/"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 24
-    images:
-      - url: "https://businessreporter-197a1.kxcdn.com/wp-content/uploads/2022/01/group-of-businesspeople-and-financial-technology-concept-picture-id916358718.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fintech Cadence Announces Partnership with Fintel Connect"
     excerpt: "Fintech Cadence announces today their partnership with Fintel Connect. The partnership will enhance the resources, offerings and capabilities that Fintech Cadence provides to"
     publishedDateTime: 2022-02-02T12:44:00Z

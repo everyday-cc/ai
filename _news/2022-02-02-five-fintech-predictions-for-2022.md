@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-finte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/"
 type: article
 quality: 74
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -163,20 +163,6 @@ related:
       - url: "https://www.altfi.com/images/featured/fintech-leaders-press-pm-boris-johnson-for-ipo-reforms.jpg"
         width: 1200
         height: 720
-        isCached: true
-  - title: "Five key tech priorities for financial services leaders in 2022"
-    excerpt: "Technology in modern financial services can be a complex subject. This is what business leaders should focus on for success"
-    publishedDateTime: 2022-01-31T08:54:00Z
-    webUrl: "https://business-reporter.co.uk/2022/01/31/five-key-tech-priorities-for-financial-services-leaders-in-2022/"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 24
-    images:
-      - url: "https://businessreporter-197a1.kxcdn.com/wp-content/uploads/2022/01/group-of-businesspeople-and-financial-technology-concept-picture-id916358718.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Tech Trends for 2022 and Beyond"
     excerpt: "Technology has been changing society since humans began using stone tools, and the pace of change is only accelerating. Here are predictions from six Rutgers technology experts about which innovations"
