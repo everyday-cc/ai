@@ -131,20 +131,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Tech Trends for 2022 and Beyond"
-    excerpt: "Technology has been changing society since humans began using stone tools, and the pace of change is only accelerating. Here are predictions from six Rutgers technology experts about which innovations"
-    publishedDateTime: 2022-01-31T15:25:00Z
-    webUrl: "https://www.rutgers.edu/news/tech-trends-2022-and-beyond-0"
-    type: article
-    provider:
-      name: Rutgers University
-      domain: rutgers.edu
-    quality: 24
-    images:
-      - url: "https://www.rutgers.edu/sites/default/files/2022-01/Lg_InternetofThings_ss1160793658.jpg"
-        width: 2100
-        height: 1400
-        isCached: true
   - title: "Fintech Cadence Announces Partnership with Fintel Connect"
     excerpt: "Fintech Cadence announces today their partnership with Fintel Connect. The partnership will enhance the resources, offerings and capabilities that Fintech Cadence provides to"
     publishedDateTime: 2022-02-02T12:44:00Z

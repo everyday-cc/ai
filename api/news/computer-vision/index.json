@@ -193,6 +193,58 @@
       ]
     },
     {
+      "path": "_news/2022-02-01-privacy-advocates-lawmakers-concerned-about-irss-facial-recognition-plan.md",
+      "title": "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan",
+      "excerpt": "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590?d_id=3110524&ncid_tag=tweetlnkushpmg00000050",
+      "originalUrl": "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590?d_id=3110524&ncid_tag=tweetlnkushpmg00000050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 297,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000",
+          "width": 1778,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp",
+      "publishedDateTime": "2022-01-31T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-privacy-advocates-lawmakers-concerned-about-irss-facial-recognition-plan.md",
       "title": "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan",
       "excerpt": "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden.",
@@ -1323,50 +1375,6 @@
       "provider": {
         "name": "Security",
         "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-ambientai-emerges-from-stealth-with-sights-set-on-remaking-physical-security.md",
-      "title": "Ambient.ai emerges from stealth with sights set on remaking physical security",
-      "excerpt": "Second-generation object recognition systems can identify people and things but lack context for observed behavior. In contrast, Ambient.ai’s technology understands the context of the scene and ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/01/19/ambient-ai-emerges-stealth-sights-set-remaking-physical-security/",
-      "originalUrl": "https://siliconangle.com/2022/01/19/ambient-ai-emerges-stealth-sights-set-remaking-physical-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/poster3.jpg",
-          "width": 2880,
-          "height": 1622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null

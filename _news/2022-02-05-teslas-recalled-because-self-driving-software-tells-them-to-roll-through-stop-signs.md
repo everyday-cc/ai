@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Teslas recalled because self-driving software tells them to roll through stop signs"
-excerpt: "DETROIT -- Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Recall documents posted ..."
-publishedDateTime: 2022-02-05T02:39:00Z
-originalUrl: "https://abc7ny.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
-webUrl: "https://abc7ny.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+excerpt: "Recall documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
+publishedDateTime: 2022-02-05T07:37:00Z
+originalUrl: "https://abc7chicago.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+webUrl: "https://abc7chicago.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: abc7NY
-  domain: abc7ny.com
+  name: ABC 7 Chicago
+  domain: abc7chicago.com
 
 topics:
   - AI in Autos
@@ -696,6 +696,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "+HnIyB3Y5/CZkirfpx9r8QGKBvwVWoNS4S+umH5OcC4Y2qfK+SxxOewbpiWnD5pYIIdZRFFagWe8CE4Yl1zllO0TYwoTZwyv4Dhf9wSztTER4BSv2DmodMZPV1XINyGMbxD3Rn8mv0CVe6Hq00U7Gw4GnRTE/EceEq7plr99tFQt5ru4ocm/aTVWH1kjV2WHxo2IOQ785byO86tDF9F7S8wiZeCTpdTmLckeCB9/dr33Xs7k/WZu6Y1bs0VByBEmRLMAIJXCpC56J/rn5XG+H9B4yAk6O1LhTYf8lEhIF8nLkNd/s11IvPJuz5m2tnbZu9+tSjifq7Bqa7KzNf6iZyr73IOagHwMoDnNW/Lc0/k=;/4BfcnZ/iSZZ8W6PrntTaw=="
+secured: "SglEPCGeD6toGoAgmwzfndPUdcLYNBDcQK2x1LPmRBJ3iLQGUY/8CQwM6g+eNox2nKhAgPcrL31TV3uQlFBjWl5/gSmDQHGYGJ7EZGln4wA7HYeFzJia8lwxmZwAe/l1fYKOLYGXbLK7PJ19OwOfNCDsldy9jetn9tXCDbd5fJpt4PUpXHVG4ZpTcorHx0aLIx9Fp+nQ+/5ufoiUOlSslqeYda0mT/fkdNJwSCj5hdZTEEh7oMevf8NoMeZusOeqSnPifOk8IwKMvAXVv8yavQjY0c7lVF7qWJmTvaYI68bRjACbAIQR3tBAJ4MzvWTyP//cnyL4s4CotK6wVY9IsP41hL1YN4IlHpMzY93Pg68=;UovhxPSGArYwRiTAKquE5g=="
 ---
 

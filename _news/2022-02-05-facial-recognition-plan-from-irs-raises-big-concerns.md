@@ -27,22 +27,6 @@ images:
 related:
   - title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
     excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
-    publishedDateTime: 2022-01-31T15:13:00Z
-    webUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590"
-    ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
-    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
-    type: article
-    provider:
-      name: HuffPost
-      domain: huffpost.com
-    quality: 87
-    images:
-      - url: "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000"
-        width: 1778
-        height: 1000
-        isCached: true
-  - title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
-    excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
     publishedDateTime: 2022-01-31T19:13:00Z
     webUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590?d_id=3110524&ncid_tag=tweetlnkushpmg00000050"
     ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
@@ -340,6 +324,6 @@ related:
         height: 554
         isCached: true
 
-secured: "KOOSaxNDSE3PrPNf06+prnqYgDGoWM5h8Ur4Z3MbYmKCZIkYLPMrn/1fTpveH0+2RlViXCqiek6nqNl8efDkNJRZqc8msP99jyaXjIhs8MQrD4NhnDRgDMaUvY5lcsnG+7BOXPct5Wvg7VnSQNc53nigk4hxCEFVTqVCBHnYm2vzOptuVZ2pe7xvtXUNquttcQjlv5gHd3R7jbzZ3yds96zGcBJ9prXKDvBvu0YbWiW/6ZEd85Svf2vRf7iP/tZiZ3wq3lhZv+IUxMaA2B8uKFtvUKc+jPx3KYPqCAUSoFRXNd/W8B/eZwCULNT5RSf5IuUlAcNU4YhZXgEzhZ60itaNWnnifNRsPKOVDhbNhBY=;0h4AMNpB6m4FyWtZb+uckw=="
+secured: "3fNh2b5142o+CK9/TJu3sHk5pzQjZcwUaHoQeVF0avlo19HGBZ3C8WXQSyOwLI2OPKbIarrSn044UKEPL9bXFdVgg1eFH64c7EOz4XHDzhXxlkjh2Sh6Bx5LQyFcKNGtO7uO0QfRP9pMPu9qNV5YDLIL8z0xLmoaWJDWI2f1ZHZQbyb2xsLHA6bKYd0o9sV2FVJf6q2x4RQcBYeXphVUo0g+C24w8KxJKJWgn/+27tWAbeEcscbfR3NfEnSZt8PTKFOvsydoVNJ77VVbz7BwDMZL4mtc1b7u8wnYbhULcSD9X+8aK9YvFFyjCWw7aw7uzUi1Hcdr3+8PmOKA1RfWd4euVjnXCiZ6fzYj936ID2Obz14cePd7XudwNU6YRKNwt/1VJMkNKEAZ5g0axJpLrcXO7mZAUmkQCi+M6xFcabaTeKWkH5qnwdBfKIEap5+3dEaFgbtzEMAkE0rjZB9SYXmE8g3VfTdDOWrhZhRz3RNO0jgaHgwIcUT7W6kbo0aP2eg3b9cEdagMHN5SMIPyJQ==;GkGoJQygE8r5EMjZfgtqYg=="
 ---
 

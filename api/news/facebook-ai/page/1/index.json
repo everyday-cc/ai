@@ -597,6 +597,58 @@
       ]
     },
     {
+      "path": "_news/2022-01-22-frightening-reality-of-meta-built-artificial-intelligence-that-can-think-the-way-we-do.md",
+      "title": "Frightening Reality of Meta-Built Artificial Intelligence That Can Think 'the Way We Do'",
+      "excerpt": "In a Facebook post on Thursday ... \"Exciting breakthrough: Meta AI research built a system that learns from speech, vision and text without needing labeled training data,\" Zuckerberg wrote ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/frightening-reality-meta-built-artificial-intelligence-that-can-think-way-we-do-1671805",
+      "originalUrl": "https://www.newsweek.com/frightening-reality-meta-built-artificial-intelligence-that-can-think-way-we-do-1671805",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1973296/mark-zuckerberg-meta-facebook-artificial-intelligence-algorithm.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/frightening-reality-meta-built-artificial-intelligence-that-can-think-way-we-do-1671805?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/frightening-reality-meta-built-artificial-intelligence-that-can-think-way-we-do-1671805?amp=1",
+      "publishedDateTime": "2022-01-21T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-meta-researchers-build-an-ai-that-learns-equally-well-from-visual-written-or-spoken-materials.md",
       "title": "Meta researchers build an AI that learns equally well from visual, written or spoken materials",
       "excerpt": "Advances in the AI realm are constantly coming out, but they tend to be limited to a single domain: For instance, a cool new method for producing synthetic speech isn’t also a way to recognize expressions on human faces.",
@@ -1434,40 +1486,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-abi-research-2022-will-see-increasing-ai-role-in-augmented-and-virtual-reality.md",
-      "title": "ABI Research: 2022 Will See Increasing AI Role in Augmented and Virtual Reality",
-      "excerpt": "Trend Report identifies the key AR market trend that will deliver in 2022-and the one that won't NEW YORK, Jan. 4, 2022 /PRNewswire/ -- In its new whitepaper, 70 Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-01/54889884-abi-research-2022-will-see-increasing-ai-role-in-augmented-and-virtual-reality-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-01/54889884-abi-research-2022-will-see-increasing-ai-role-in-augmented-and-virtual-reality-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null

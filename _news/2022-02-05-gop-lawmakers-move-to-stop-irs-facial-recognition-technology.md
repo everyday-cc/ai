@@ -27,22 +27,6 @@ images:
 related:
   - title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
     excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
-    publishedDateTime: 2022-01-31T15:13:00Z
-    webUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590"
-    ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
-    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"
-    type: article
-    provider:
-      name: HuffPost
-      domain: huffpost.com
-    quality: 87
-    images:
-      - url: "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000"
-        width: 1778
-        height: 1000
-        isCached: true
-  - title: "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan"
-    excerpt: "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden."
     publishedDateTime: 2022-01-31T19:13:00Z
     webUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590?d_id=3110524&ncid_tag=tweetlnkushpmg00000050"
     ampWebUrl: "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp"

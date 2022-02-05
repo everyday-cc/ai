@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -98,6 +98,15 @@ related:
         width: 432
         height: 250
         isCached: true
+  - title: "C3.ai (NYSE:AI) Stock Rating Upgraded by Zacks Investment Research"
+    excerpt: "Zacks Investment Research upgraded shares of C3.ai (NYSE:AI) from a sell rating to a hold rating in a report released on Tuesday morning, Zacks.com reports. According to Zacks, “C3.ai Inc. is an ..."
+    publishedDateTime: 2022-02-05T08:45:00Z
+    webUrl: "https://etfdailynews.com/news/c3-ai-nyseai-stock-rating-upgraded-by-zacks-investment-research/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 17
 
 secured: "tlqCsyG8IRSVmYgb2ZNmd5qU5rCpWTM/0YqvQkkhBzZxOnQ0H3MDJ9XjoqWU+YaA61zadpnDtNdT+NoFBqryK0Iono8AKi/leBrS9XtOJ2GCqPvh/O2BDbrtalSh9QrN+wCncDZfuO1i8pB72/n0up9Nc56sfPq0sXSrkp4PUlHB8lsaTQ7y1rumnVBwqM2ydqhVRIuyaT6sr7NFT45TMqzp64fLk3/Q6qqqaakt/vKQ2ekqqe3BUV7VuaJIAY5cGrXs5X2CWGPbaDCO1Cz2St5fK7IH40AttrCpvswxAW0Td64NEBY00AqDyz++r44/NKwyVzkvikEvdPIneZwzfJP2IwcY3Q29YXVE5BA8D10=;JivCasT9VUu5zWAq54r58Q=="
 ---

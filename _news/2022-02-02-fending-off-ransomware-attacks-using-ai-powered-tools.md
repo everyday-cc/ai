@@ -96,6 +96,15 @@ related:
         width: 432
         height: 250
         isCached: true
+  - title: "C3.ai (NYSE:AI) Stock Rating Upgraded by Zacks Investment Research"
+    excerpt: "Zacks Investment Research upgraded shares of C3.ai (NYSE:AI) from a sell rating to a hold rating in a report released on Tuesday morning, Zacks.com reports. According to Zacks, “C3.ai Inc. is an ..."
+    publishedDateTime: 2022-02-05T08:45:00Z
+    webUrl: "https://etfdailynews.com/news/c3-ai-nyseai-stock-rating-upgraded-by-zacks-investment-research/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 17
 
 secured: "rh1NSsbMs9gK21ARVHYrZ2DRAC/nM7Z848PH393VfmGYgr6SX+o/sl1+DaF1mJdV3agkfpwl3ab0Z1XvvmLOWiDMv6MuhPy1yLGHuwCjhaUo6azfJwg6/j546OK2u+O5eYBHqxmN1wcepbHmK/aeD07g4FVclBHQGTS7Pq7fJYIhYL5TB01ujywnbzLm769rookIQr57O1ayayi5meD18m35cxCLMNn7nmZtSQn8+T0kgHjKhtfZneIIWQxp5dkyicMqjbn73kj9mm7dhWG/nSSHhhNRLobI71WcFOchTQFnYoTgTRuYylhrX/9ySoGXYS0K7qZ6Ws59u4CLKupri6zpR5khjk1zt7lbsvPvBGMc+ckFsdsfWMOcqwlNYkEJ4h3UP3lb1GmkMsAvSrc22d9z399CJrmoFeVsqeAoOaGBI+knT6S+UON+HPGWRKTbbGTWCpRHkDENJrixiQnPgGwW/VBWpHwcnbTSqCvz+PGJTrTe7hSgObVAMFaOmA3e26Dw2+1zx7Qak+JE+q76eQ==;EKAM/ryDOpAgX9S+eaNyKA=="
 ---
