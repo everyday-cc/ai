@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp"
 type: article
 quality: 76
-heat: 87
+heat: 98
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: EurekAlert!
       domain: eurekalert.org
     quality: 35
+  - title: "Study develops deep learning model to simulate brain topography"
+    excerpt: "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization or ..."
+    publishedDateTime: 2022-02-05T12:25:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220205/3904319.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "C5mG8BvXKM1xOFkDh53s7BVF+SXvceVflx2U9f74NJlKEGTTVf2c5wVMKmXjF8paos32HWtilRmEfQK8M5Wo1iH9FyTiYRx6bms2Xv9GP/AuDxeSa941J/zDpyPqDPNtn9+F5pgRby/xq2j/jeiNIstp0PVknxyjewTvtnRsLaf+7ZkcbwocFTk4IwCckYd/bRkKqrZD7qN5Fyk5HtQHYgS2C6hTK3zwz3miBy3khXRhcAhfEoXLTaq+pK7E7ljklbkI9CM0TKDeCA+RuD/OgUYJm1wrOu/u/TxD7+UsTs6UfAxx/sKR+3REHIsgQxSzzGJT0YNvFpqWJ+PRf7tpcLtLLYWj4ebOcWJlwjDGXMzSZqd1bZk+lKppmd8b/huw73zVpuJPUmWK5e65n+qdt5lClQCrlt0p/eeo4KjXfjtxgZ9AbehKiDC8tVfJg/gdAdFfEwzAEZHf9uDP5UA7SV/LjdzNdkN8gTUGG1wj2dXZM/Nrm1bpvHOO4Q7385deisZU7yJw/3/V/p8GWQ48eQ==;gDmbdh9q581oY/SR5bLMOQ=="
 ---

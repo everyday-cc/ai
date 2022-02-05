@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-05-jio-platforms-invests-15-mn-in-pranav-mistrys-ai-firm-two-platforms-inc.md",
+      "title": "Jio Platforms invests $15 mn in Pranav Mistry's AI firm Two Platforms Inc",
+      "excerpt": "Two Platforms will work collaboratively with Jio Platforms to fast-track the adoption of new technologies and build disruptive technologies such as AI, metaverse, and mixed realities",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc-11643976301683.html",
+      "originalUrl": "https://www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc-11643976301683.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/02/04/600x338/Jio_1568175568621_1643976769228.jpg",
+          "width": 599,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc/amp-11643976301683.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc/amp-11643976301683.html",
+      "publishedDateTime": "2022-02-05T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-heres-what-henry-kissinger-thinks-about-the-future-of-artificial-intelligence.md",
       "title": "Here's What Henry Kissinger Thinks About the Future of Artificial Intelligence",
       "excerpt": "For some, artificial intelligence represents nothing ... a competition that includes both algorithms made to get your self-driving car speeding over to Wendy’s faster and able to autonomously ...",
@@ -340,7 +382,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/04/celestial-ai-lands-56m-to-develop-light-based-ai-accelerator-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -729,7 +771,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1161,59 +1203,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-humans-v-ai-we-found-out-whos-better-at-making-money.md",
-      "title": "Humans v AI: We found out who’s better at making money",
-      "excerpt": "Artificial intelligence (AI) has now closely matched or even surpassed ... emergence and growth of the financial technology industry (fintech), where technology startups increasingly challenge ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication",
-      "originalUrl": "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FAIvHumanHed.jpg&signature=1d49fa78f49d046b9d0e17884d4723b0",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

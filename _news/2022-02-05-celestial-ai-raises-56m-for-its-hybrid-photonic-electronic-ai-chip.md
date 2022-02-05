@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 595
         isCached: true
+  - title: "Celestial AI Raises $56M in Series A Funding"
+    excerpt: "Celestial AI, a Sunnyvale, Calif.-based AI-accelerator company with ... proprietary Photonic Fabric™ technology that uses light for data movement both within chip and between chips. The Photonic Fabric enables optically addressable memory and compute ..."
+    publishedDateTime: 2022-02-05T12:41:00Z
+    webUrl: "https://www.finsmes.com/2022/02/celestial-ai-raises-56m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/07/mori-400x293.jpg"
+        width: 400
+        height: 293
+        isCached: true
   - title: "Celestial AI Raises $56 Million Series A to Disrupt the Artificial Intelligence Chipset Industry with Novel Photonic-Electronic Technology Platform"
     excerpt: "Celestial AI’s mission is to fundamentally transform the way computing is done with a new processing system, based on their proprietary Photonic Fabric™ technology platform, that uses light for data movement both within chip and between chips."
     publishedDateTime: 2022-02-05T10:20:00Z

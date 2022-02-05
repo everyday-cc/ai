@@ -53,6 +53,20 @@ related:
         width: 1728
         height: 1094
         isCached: true
+  - title: "This is not a self-driving car"
+    excerpt: "He’s not alone, either. YouTube’s favorite auto reviewer Doug DeMuro has referred to Super Cruise as a “self-driving” system, arguing that any attempt to draw distinction between an advanced driver assistance system and autonomous technology was ju ..."
+    publishedDateTime: 2022-02-04T18:55:00Z
+    webUrl: "https://www.theverge.com/2022/2/4/22917903/adas-av-autonomous-super-cruise-autopilot-language"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 54
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/8kVW_xQJNQf9oN_cXQXRx2wEXQE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19704170/cadillac_2021_escalade_0433.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The brain’s secret to life-long learning can now come as hardware for artificial intelligence"
     excerpt: "Purdue University. (2022, February 3). The brain’s secret to life-long learning can now come as hardware for artificial intelligence. ScienceDaily. Retrieved February 3, 2022 from www.sciencedaily.com/releases/2022/02/220203160544.htm Purdue University."
     publishedDateTime: 2022-02-03T21:52:00Z
@@ -62,20 +76,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 53
-  - title: "How We Get Self-Driving Back on Track in 2022"
-    excerpt: "The AV industry has some of the smartest people in the world tirelessly working to make the dream of commercial self-driving cars a reality. We also have the funding to get there, and we all understand the immense positive societal impact this technology will have."
-    publishedDateTime: 2022-01-31T19:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-we-get-self-driving-back-track-2022-raquel-urtasun"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
 
 secured: "Kwyy7RMZX9lSTWB3mO8JrE+2Fbujtf4zx5YHFlcn/p/pAlqauh7FWh+sZH8/tIYm2cZ/Jp3FQFrZcKR8hwUv5G5Rve+kbvqtuSMfa2IWonWCOpq7HfZrvtIhngY97p341ETwFDmlEaoavVfElaFxx72oELJFZB/HdMHfqhpORWELthav4QxpXVPZ90m7V4cdlXjIPWtLZ8OIs5kN1UqYLiFv3R+t+AT7ImGV8XJSlOAw7Y+jcFjZv6sBKkoURbJrl/FIY83xFjQw8glcGyK/nzkleD1w2yylDvg32egR3p/618Z7vHdXHmBhW3rMrHlF7aU2KxYcH9uWEpNFbo32kfDOfKxuvva+5bAsKEr4OXTk/a4XmhfLTMzEezWmSyVFx55ergfQrzX42WnFB3ADDysdBJHFafpJ2GUqKQPUSb93lsdKPOnA4hZ7sKQiCtBSYoDc8uXb3dOioCYxIJrB/Yt/PRn1FQBcHnr9TPQE3oWerHJOe40/3BBg8GNjvR64xIpno+toG2T+WlJDg5vPzg==;wk4lvo/KvLhqz5p4O8pv6w=="
 ---

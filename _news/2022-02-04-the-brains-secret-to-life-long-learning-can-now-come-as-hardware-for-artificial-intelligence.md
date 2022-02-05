@@ -55,6 +55,20 @@ related:
         width: 1728
         height: 1094
         isCached: true
+  - title: "This is not a self-driving car"
+    excerpt: "He’s not alone, either. YouTube’s favorite auto reviewer Doug DeMuro has referred to Super Cruise as a “self-driving” system, arguing that any attempt to draw distinction between an advanced driver assistance system and autonomous technology was ju ..."
+    publishedDateTime: 2022-02-04T18:55:00Z
+    webUrl: "https://www.theverge.com/2022/2/4/22917903/adas-av-autonomous-super-cruise-autopilot-language"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 54
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/8kVW_xQJNQf9oN_cXQXRx2wEXQE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19704170/cadillac_2021_escalade_0433.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "FOCUS-Self-driving car companies zoom ahead, leaving U.S. regulators behind"
     excerpt: "Self-driving vehicle companies from Tesla Inc to General Motors Co's Cruise are racing to start making money with their technology, outrunning efforts by regulators and Congress to write rules of the road for robot-driven vehicles."
     publishedDateTime: 2022-02-02T06:01:00Z
@@ -66,20 +80,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 52
-  - title: "How We Get Self-Driving Back on Track in 2022"
-    excerpt: "The AV industry has some of the smartest people in the world tirelessly working to make the dream of commercial self-driving cars a reality. We also have the funding to get there, and we all understand the immense positive societal impact this technology will have."
-    publishedDateTime: 2022-01-31T19:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-we-get-self-driving-back-track-2022-raquel-urtasun"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"
-        width: 1400
-        height: 800
-        isCached: true
 
 secured: "XzfEV4TR/Hk3aze/7kNCOYWYO1PvR/Lw8t+DVzauXd7w2alKeLlS6qMaoiRhdsfgksagjd3qUR7yorboI0iJYne5O9VEtcXBashEl1M7cVdQXmduMA6gWXt94R1d16gwTb0yLFdaO2lNsUM8br31a45WOTSRirUlDnH+Qaoce/saetg5xjzBzF+4AIzXde4kDDoneAbfx3SbXyPBYcbOQWTjs2XISw66iqvZfqSPQ4QoGapwcFjPPuo7mBjoRab9Pi++JoCTVo7QSy6ejRSCVYbLbIeLS02INctZ9KsCyyu+n0oJZ9/MmWSg8R9/YsXsHpslcCkm9WMUen3roQ8QdkM/h3ae+LwPxYccaoSf+Bc=;5KNu9dwYj+Rc0QaCEpe/CQ=="
 ---

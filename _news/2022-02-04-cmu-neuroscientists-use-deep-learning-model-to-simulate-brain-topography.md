@@ -36,6 +36,15 @@ related:
         width: 1920
         height: 1462
         isCached: true
+  - title: "Study develops deep learning model to simulate brain topography"
+    excerpt: "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization or ..."
+    publishedDateTime: 2022-02-05T12:25:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220205/3904319.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "wOki6kVoSXrEWqZStKP+BAXG2FXiY/c7FG+I/MkVRPWoEq93iQqiNie7EDpphpybNNWxyENOuMtAXEJIAakWPgaeipAxbl+ZU/zdWNtPj5w6Sh9UjgS9AKy0WTIDJfezYTIJuEiWSu6BHBHE51o6kSiD7n4g5eJdH8BBFmfaXskaK26gTfBxe3Ik7q7cT9XhyhsiZajVjZqozbULpyrzXA8dpAvOjXQ0kfA0x6GTm6vMT9RgyJLHg0jlErs4zL30R+hXeKcHB9sNT16K32zTA9geHaCjXuxKNMfvPiDAKpK0h8d8LO89mpdyWEI0UxtUS0nDB8LBPBNyrI6mguvZjefX06D0Cvxf/6WZKIs0w80=;x7K1E9QCE92mCPd07vDyCw=="
 ---

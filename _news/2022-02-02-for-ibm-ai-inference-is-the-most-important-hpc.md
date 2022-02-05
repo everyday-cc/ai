@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2022/02/01/for-ibm-ai-inference-is-the-
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/02/01/for-ibm-ai-inference-is-the-most-important-hpc/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 660
     height: 387
     isCached: true
-
-related:
-  - title: "Cray’s Slingshot Interconnect Is At The Heart Of HPE’s HPC And AI Ambitions"
-    excerpt: "Microsoft Azure would seem to be a shoe-in for Slingshot ... But, by the same token, when you give HPC and AI applications more bandwidth, they can often make use of it – unlike hyperscale analytics and infrastructure applications, which don’t need ..."
-    publishedDateTime: 2022-01-31T20:58:00Z
-    webUrl: "https://www.nextplatform.com/2022/01/31/crays-slingshot-interconnect-is-at-the-heart-of-hpes-hpc-and-ai-ambitions/"
-    ampWebUrl: "https://www.nextplatform.com/2022/01/31/crays-slingshot-interconnect-is-at-the-heart-of-hpes-hpc-and-ai-ambitions/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/01/31/crays-slingshot-interconnect-is-at-the-heart-of-hpes-hpc-and-ai-ambitions/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/hpe-logo.jpg"
-        width: 819
-        height: 511
-        isCached: true
 
 secured: "mhP7O9DohoZOB+FGmtvhXoxQptAnVOeXIMNcdLx1tbLbRwZTTurAGVFwauoeLbFYrN9IAUToSyp73aqf0q9IpVGFVY+Yv3GmDpbaTn2cONj54uGUhBCmy3r4Kza85Qgd4nhU9PkAWBomKBWOvn49kQc0cDYD8RNmrscEaZXCLMQk9ovhwMmgd7jHTUr718y8AqvXCDrPd20jnI7rEmD7u0oGBIGBxRk7n52vWZATLNiAYmQCg3UYLEyMqEdAmh0rmEx2JBDBP3Ak/SjVsBeJp6G4ag9WFUDYHh+519WxzR+D+t1K4Cdk9/bAA+yx8K9HssCr/7oCOPljVKZQ3LBquznstRPu+P9ggKouKYRGNQqGAF8t5VGQ67oZa24opZJ+046joEUCOH2p0itQ+jLWXDHdtZ1e7HcluXwRog082LOY334Ah5mklAVUoG/2qskrwupObJ8s0EVKpl3v7SGRMSOkVemOg5wmSsspT/GNe2RaM4bFrHk3gFySHhliut8OAVbAktnz7XdAhokNKIs0bg==;IL9YOF+u1m/F2ZsFW+MWTQ=="
 ---

@@ -57,22 +57,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Government agencies are tapping a facial recognition company to prove..."
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID."
-    publishedDateTime: 2022-02-01T18:03:00Z
-    webUrl: "https://www.thehour.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
-    ampWebUrl: "https://www.thehour.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
-    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
-    type: article
-    provider:
-      name: The Hour
-      domain: thehour.com
-    quality: 58
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Facial Recognition is available here!"
     excerpt: "The Edmonton Police Service now has access to a facial recognition software called NeoFace Reveal, which it believes will help identify suspects in criminal investigations. Supt."
     publishedDateTime: 2022-02-01T22:59:00Z
@@ -86,22 +70,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQGGxtCtWnJJWQ/article-cover_image-shrink_600_2000/0/1643755584430?e=1649289600&v=beta&t=O7bWIBvNLEoUqBicIsp1hslW0kB1BOhfkIRIzEGvhP8"
         width: 800
         height: 518
-        isCached: true
-  - title: "Forget facial recognition! Apple AirPods could soon identify you based on the shape of your EAR CANAL, patent suggests"
-    excerpt: "The new biometric device would use ultrasonic signals reflected against the walls of a user's ear canal to authenticate a user, the Cupertino tech giant explains in a new patent."
-    publishedDateTime: 2022-01-31T20:52:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10460575/amp/Apple-AirPods-soon-identify-based-shape-EAR-CANAL-patent-suggests.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 50
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/01/31/16/53594163-0-image-a-14_1643647535757.jpg"
-        width: 636
-        height: 382
         isCached: true
   - title: "Government building national facial recognition database"
     excerpt: "The Department for Home Affairs has begun work on its national facial recognition database, putting a large project for consolidating national ID matching to tender last week. Home Affairs is looking for a company that will “build and deploy” this system which will include migrating a pre-existing centralised database of facial images collected from state driver licenses,"
@@ -130,6 +98,34 @@ related:
       - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Metro approves license plate readers, allows facial recognition"
+    excerpt: "Metro Council on Tuesday approved the controversial use of license plate readers and sent the new, much debated legislation to Mayor John Cooper, who has signaled support for it. This week's Metro Council session spanned more than four hours yet spent close to a quarter of its time on legislation that has been debated in this and alternate versions since 2020."
+    publishedDateTime: 2022-02-02T20:53:00Z
+    webUrl: "https://www.nashvillepost.com/politics/metro/metro-approves-license-plate-readers-allows-facial-recognition/article_20098f9c-846a-11ec-95bd-032eecf6b05f.html"
+    type: article
+    provider:
+      name: Nashville Post
+      domain: nashvillepost.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nashvillepost.com/content/tncms/assets/v3/editorial/e/a1/ea1a26ce-846b-11ec-ac12-dbe4b5d8fc75/61faf2420059a.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Metro approves license plate readers, disallows facial recognition"
+    excerpt: "They may also hone in on vehicle makes, models and colors. Those that troubled critics most were those that also included facial recognition capability, without which some racial implications would theoretically no longer be a factor, though that has not ..."
+    publishedDateTime: 2022-02-03T15:00:00Z
+    webUrl: "https://www.nashvillepost.com/politics/metro/metro-approves-license-plate-readers-disallows-facial-recognition/article_20098f9c-846a-11ec-95bd-032eecf6b05f.html"
+    type: article
+    provider:
+      name: Nashville Post
+      domain: nashvillepost.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nashvillepost.com/content/tncms/assets/v3/editorial/e/a1/ea1a26ce-846b-11ec-ac12-dbe4b5d8fc75/61faf2420059a.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Edmonton police using facial recognition software to search mugshot database"
     excerpt: "Starting this year, the Edmonton Police Service will be using NEC’s NeoFace Reveal facial recognition technology to help identify suspects in criminal investigations. Sarah Komadina reports."
