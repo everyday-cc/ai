@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-finte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "8 Tech Innovations to Step Up Your FinTech Branding"
-    excerpt: "FinTech is an exciting industry. Single-handedly, it has disrupted banking, mobile payments, blockchain, crowdfunding, and many other giant sectors of finance. As the snazzy new kid, it has gained a lot of fan following over the years and introduced innovations that have made paying goods for services trouble-free and smarter."
-    publishedDateTime: 2022-01-31T17:03:00Z
-    webUrl: "https://techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/"
-    ampWebUrl: "https://techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/01/8-tech-innovations-to-step-up-your-fintech-branding.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "How Emerging Fintech Markets are catching up to the Western World"
     excerpt: "By Paul Marcantonio, Executive Director UK & Western Europe at ECOMMPAY For the longest time, the West has been ahead of other markets in terms of financial technologies. Everyone knows Silicon Valley,"
     publishedDateTime: 2022-02-02T20:56:00Z

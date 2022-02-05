@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/power-bi-and-azure-as-the-futur
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?45645"
         width: 311
         height: 250
-        isCached: true
-  - title: "Sam’s Club starts national deployment of automated inventory analytics robots"
-    excerpt: "Implementation to leverage scanning accessory which can attach to the almost 600 autonomous floor scrubbers already deployed within Sam’s Club stores nationwide.{/exp:eehive_hacksaw"
-    publishedDateTime: 2022-01-31T17:37:00Z
-    webUrl: "https://www.scmr.com/article/sams_club_starts_national_deployment_of_automated_inventory_analytics_robot"
-    type: article
-    provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
-    quality: 36
-    images:
-      - url: "https://www.mmh.com/images/2021_article/Inventory_Scrubbers_4.jpg"
-        width: 480
-        height: 265
         isCached: true
   - title: "Building a Smarter Government with Data, Analytics and Machine Learning in the Cloud"
     excerpt: "Download this whitepaper to learn how agencies use Databricks and AWS to modernize their approach to data and gain insights that only machine learning can deliver."

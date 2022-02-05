@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Teslas recalled because self-driving software tells them to roll through stop signs"
-excerpt: "Recall documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
-publishedDateTime: 2022-02-05T07:37:00Z
-originalUrl: "https://abc7chicago.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
-webUrl: "https://abc7chicago.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+excerpt: "DETROIT -- Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Recall documents posted ..."
+publishedDateTime: 2022-02-05T02:40:00Z
+originalUrl: "https://abc7news.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+webUrl: "https://abc7news.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: ABC 7 Chicago
-  domain: abc7chicago.com
+  name: ABC7 San Francisco
+  domain: abc7news.com
 
 topics:
   - AI in Autos
@@ -696,6 +696,6 @@ related:
       domain: courthousenews.com
     quality: 18
 
-secured: "SglEPCGeD6toGoAgmwzfndPUdcLYNBDcQK2x1LPmRBJ3iLQGUY/8CQwM6g+eNox2nKhAgPcrL31TV3uQlFBjWl5/gSmDQHGYGJ7EZGln4wA7HYeFzJia8lwxmZwAe/l1fYKOLYGXbLK7PJ19OwOfNCDsldy9jetn9tXCDbd5fJpt4PUpXHVG4ZpTcorHx0aLIx9Fp+nQ+/5ufoiUOlSslqeYda0mT/fkdNJwSCj5hdZTEEh7oMevf8NoMeZusOeqSnPifOk8IwKMvAXVv8yavQjY0c7lVF7qWJmTvaYI68bRjACbAIQR3tBAJ4MzvWTyP//cnyL4s4CotK6wVY9IsP41hL1YN4IlHpMzY93Pg68=;UovhxPSGArYwRiTAKquE5g=="
+secured: "yTCVPQosSk42silz4VmYqXi3tMS3/iYHuqBEttycfD8iBnp89riJvy/BSxk4mzS2E8vFICc5lG+OD/DbtY3e22wNZ/D/D25jbH0m1OLyOjMtnN81jafMoZ8XorLoJWnkA6n2I9127zJ/OuRSHViJGcRQq9Rk20dxuX5syp8feFPAAijvDz0gDo6zA/7bF0M+3LOFVxOCzuWkyBvObTDmujts2FGC4LPQv0QZj0duL4v5qFIhONeBYlRT17yebwwJ8vobI0Cu81Ev/wAVk4XQET6+9jQndDrhaWWhBsm38qBhIsXoJLiISpuzs6781rICtcJY7iozmdMvS7CzXdaSU1FFnaDA1K6VYiITPUgZkm8=;t2hn2ewxg1Tg+Cmh92VB1w=="
 ---
 

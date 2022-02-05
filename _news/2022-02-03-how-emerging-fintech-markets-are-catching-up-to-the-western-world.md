@@ -70,22 +70,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "8 Tech Innovations to Step Up Your FinTech Branding"
-    excerpt: "FinTech is an exciting industry. Single-handedly, it has disrupted banking, mobile payments, blockchain, crowdfunding, and many other giant sectors of finance. As the snazzy new kid, it has gained a lot of fan following over the years and introduced innovations that have made paying goods for services trouble-free and smarter."
-    publishedDateTime: 2022-01-31T17:03:00Z
-    webUrl: "https://techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/"
-    ampWebUrl: "https://techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/8-tech-innovations-to-step-up-your-fintech-branding/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/01/8-tech-innovations-to-step-up-your-fintech-branding.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "How RBI’s Fintech unit can spur a wave of Innovation and Digitization in India"
     excerpt: "Adopt digital solutions, AI, and data analytics technology 2 ... One shining example of this scenario is how Indonesia’s regulatory authority (OJK) responded to the fintech lending crisis in 2018. In 2018, Indonesia’s fintech industry was known ..."
     publishedDateTime: 2022-02-04T07:09:00Z

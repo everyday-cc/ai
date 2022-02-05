@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "New Artificial Intelligence-based Food-tracking System Reduces Malnutrition"
-    excerpt: "A new artificial-intelligence-based system estimates how much food has been consumed to reduce malnutrition among home care residents."
-    publishedDateTime: 2022-01-31T17:36:00Z
-    webUrl: "https://www.medindia.net/news/new-artificial-intelligence-based-food-tracking-system-reduces-malnutrition-205440-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/new-artificial-intelligence-based-food-tracking-system-reduces-malnutrition-205440-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-artificial-intelligence-based-food-tracking-system-reduces-malnutrition-205440-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 55
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/children-eating-road-food.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times"
     excerpt: "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights."
     publishedDateTime: 2022-02-03T17:40:00Z

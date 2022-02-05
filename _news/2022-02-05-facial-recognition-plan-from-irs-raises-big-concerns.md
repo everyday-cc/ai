@@ -2,9 +2,9 @@
 category: news
 title: "Facial Recognition Plan from IRS Raises Big Concerns"
 excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-publishedDateTime: 2022-02-05T05:51:00Z
-originalUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/?spMailingID=71204517&spUserID=NDMxMDU2MzgxMDU5S0&spJobID=2232804658&spReportId=MjIzMjgwNDY1OAS2"
-webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/?spMailingID=71204517&spUserID=NDMxMDU2MzgxMDU5S0&spJobID=2232804658&spReportId=MjIzMjgwNDY1OAS2"
+publishedDateTime: 2022-02-05T07:18:00Z
+originalUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/?amp;text=Facial"
+webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/?amp;text=Facial"
 type: article
 quality: 54
 heat: -1
@@ -154,20 +154,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/8beLPC1Cz-KzYFA-wvp1fFgYWjg=/0x0:6006x4004/1400x1050/filters:focal(3051x1015:4011x1975):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70466031/AdobeStock_164918001.0.jpeg"
         width: 1400
         height: 1050
-        isCached: true
-  - title: "IRS website to leverage facial recognition tech for identity protection"
-    excerpt: "Agency to require those wanting to access their accounts to submit selfies and photos of their identification documents"
-    publishedDateTime: 2022-01-31T18:46:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21255085/irs-website-to-leverage-facial-recognition-tech-for-identity-protection"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/bigstock_Facial_Recognition_Security_Sy_295494367__1_.61f82d7468f43.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Why the Prospect of the IRS Using Facial Recognition Is So Alarming"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number ..."
@@ -324,6 +310,6 @@ related:
         height: 554
         isCached: true
 
-secured: "3fNh2b5142o+CK9/TJu3sHk5pzQjZcwUaHoQeVF0avlo19HGBZ3C8WXQSyOwLI2OPKbIarrSn044UKEPL9bXFdVgg1eFH64c7EOz4XHDzhXxlkjh2Sh6Bx5LQyFcKNGtO7uO0QfRP9pMPu9qNV5YDLIL8z0xLmoaWJDWI2f1ZHZQbyb2xsLHA6bKYd0o9sV2FVJf6q2x4RQcBYeXphVUo0g+C24w8KxJKJWgn/+27tWAbeEcscbfR3NfEnSZt8PTKFOvsydoVNJ77VVbz7BwDMZL4mtc1b7u8wnYbhULcSD9X+8aK9YvFFyjCWw7aw7uzUi1Hcdr3+8PmOKA1RfWd4euVjnXCiZ6fzYj936ID2Obz14cePd7XudwNU6YRKNwt/1VJMkNKEAZ5g0axJpLrcXO7mZAUmkQCi+M6xFcabaTeKWkH5qnwdBfKIEap5+3dEaFgbtzEMAkE0rjZB9SYXmE8g3VfTdDOWrhZhRz3RNO0jgaHgwIcUT7W6kbo0aP2eg3b9cEdagMHN5SMIPyJQ==;GkGoJQygE8r5EMjZfgtqYg=="
+secured: "2yzH8Rrd8rz2SqmXKcvguuM83nGSBHe/VGGiZOgVBx93DycZe473Uhxs72+QbiASLGv4aIpiOeFGmb8EazzxwoWSsoSI31vx0ekjxnt887fGyX/RDqmUzuXEdhiSj1WNTNo7baL/GmVpwyKpQwXjP8HSeV1foxGzzp9Y29U2rXrPd8XNxhcGZ+031MbHzdwsl5XhkuTw2xd+EplwFVr+UvK1y+OiE40FbBRQQouYX+fnABYScZO/qsn3pgxJe/dG44BVVu9qLCr4BYUSiebHZohLPdhXJ+TpLFO6aAkW6h45Qdc0BZX/voX3MBq4KZ0faPQTGJvjvdDSLXVr8UkIuw3VGrusBX+Au8hVuOPsp+s=;V1uD5JDgpZmaiZwWM0l9Aw=="
 ---
 

@@ -2,48 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2022-01-19-american-financial-acquires-insurance-risk-assessment-platform-verikai.md",
-      "title": "American Financial acquires insurance risk assessment platform Verikai",
-      "excerpt": "American Financial Group (AFG) buys San Francisco-based  Verikai, a machine learning and artificial intelligence firm that uses a predictive risk tool for assessing",
-      "sourceUrl": null,
-      "webUrl": "https://www.insurancejournal.com/news/national/2022/01/21/650423.htm",
-      "originalUrl": "https://seekingalpha.com/news/3788967-american-financial-acquires-insurance-risk-assessment-platform-verikai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.insurancejournal.com/img/insurance-journal-logo-680.png",
-          "width": 681,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T12:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-19-artificial-intelligence-and-machine-learning-preventing-financial-fraud.md",
       "title": "Artificial Intelligence and Machine Learning: preventing financial fraud",
       "excerpt": "By Professor Jon Crowcroft, iKVA Data from UK Finance shows that a total of £753.9 million was lost through fraudulent activity in the first half of 2021 alone, an increase of 30% compared to the same period in 2020.",
@@ -1122,6 +1080,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-iqt-research-report-projects-expenditures-on-quantum-computing-by-banks-and-other-financial-institution-to-reach-6318-million-by-2028.md",
+      "title": "IQT Research Report Projects Expenditures on Quantum Computing by Banks and other Financial Institution to Reach $631.8 million by 2028",
+      "excerpt": "According to a new report from Inside Quantum Technology, worldwide expenditures for Quantum Computing will exceed $630 million in 2027 and then go",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/iqt-research-report-projects-expenditures-on-quantum-computing-by-banks-and-other-financial-institution-to/article_c82a4953-20bc-5576-86f0-11ca4531abdd.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/iqt-research-report-projects-expenditures-on-quantum-computing-by-banks-and-other-financial-institution-to/article_c82a4953-20bc-5576-86f0-11ca4531abdd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/57/25711748-5885-5531-ab72-67b49867d9dd/61e6c4c0504b8.image.jpg",
+          "width": 717,
+          "height": 262,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

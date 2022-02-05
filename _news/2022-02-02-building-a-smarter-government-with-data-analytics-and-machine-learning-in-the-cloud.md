@@ -69,20 +69,6 @@ related:
         width: 311
         height: 250
         isCached: true
-  - title: "Sam’s Club starts national deployment of automated inventory analytics robots"
-    excerpt: "Implementation to leverage scanning accessory which can attach to the almost 600 autonomous floor scrubbers already deployed within Sam’s Club stores nationwide.{/exp:eehive_hacksaw"
-    publishedDateTime: 2022-01-31T17:37:00Z
-    webUrl: "https://www.scmr.com/article/sams_club_starts_national_deployment_of_automated_inventory_analytics_robot"
-    type: article
-    provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
-    quality: 36
-    images:
-      - url: "https://www.mmh.com/images/2021_article/Inventory_Scrubbers_4.jpg"
-        width: 480
-        height: 265
-        isCached: true
   - title: "Retina AI Brings Customer Lifetime Value Analytics To Google Ads"
     excerpt: "Retina AI Brings Customer Lifetime Value Analytics To Google Ads Retina AI announces integration with Google Ads,"
     publishedDateTime: 2022-02-01T11:30:00Z
