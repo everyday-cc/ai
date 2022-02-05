@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-
 cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
 type: article
 quality: 60
-heat: 170
+heat: 160
 published: true
 
 provider:
@@ -154,20 +154,6 @@ related:
       - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Apple Finally Brings Mask Recognition Capabilities to Face ID"
-    excerpt: "The improved Face ID function for a new version of iOS analyzes the area around the eye to identify someone wearing a mask"
-    publishedDateTime: 2022-01-31T22:23:00Z
-    webUrl: "https://mobileidworld.com/apple-finally-brings-mask-recognition-capabilities-face-id-013102/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/ani-kolleshi-vu-DaZVeny0-unsplash-1-scaled.jpg"
-        width: 800
-        height: 478
         isCached: true
   - title: "Yellow.ai recognised in the first-ever 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms"
     excerpt: "Yellow.ai, the world's leading next-gen total experience (TX) automation platform, trusted by 1000-plus enterprises globally, today announced it has been recognised as a Niche Player in the 2022 Gartner Magic Quadrant for Enterprise Conversational AI Platforms."

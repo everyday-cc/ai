@@ -163,20 +163,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple Finally Brings Mask Recognition Capabilities to Face ID"
-    excerpt: "The improved Face ID function for a new version of iOS analyzes the area around the eye to identify someone wearing a mask"
-    publishedDateTime: 2022-01-31T22:23:00Z
-    webUrl: "https://mobileidworld.com/apple-finally-brings-mask-recognition-capabilities-face-id-013102/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/ani-kolleshi-vu-DaZVeny0-unsplash-1-scaled.jpg"
-        width: 800
-        height: 478
-        isCached: true
 
 secured: "qTt7wAH4NQ1uyYbpbCgrRSMelCJxqkhFXCWGn39B4fYgx9OSrE8XXz1+6aVshZyxsxUALEmuF9KJ+a4hT951jZRhoq0T/ZZHgqm0EmIpVsT/1fSlvCJ95Z948uD3386G2c8NbwhjUKZQLw+8NbGw0AtHDf+bY/UCB5nAZ6aOEAvzhf4T3cuy0rDCZUZ71BiVJCVOKWpQa3mATjZYdHPNx/zqo5Kr7kz24IeqImtZviXZ2xqZfig/SEq0LF/n7ks1jOy7bGjTAmLJgIrLTlYBfIKHPI3ooxQtFZuxyho/yvmf8TUU8hyuNSbaf/OeCefldyrbvhTzg+2onyW+4D7h+rKdomrAp3xeIRC5952KHbQ=;Hi0k//f6JtR36a7hb2w9QQ=="
 ---

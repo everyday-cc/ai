@@ -93,6 +93,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
+    excerpt: "Jio Platforms announced on Friday that it has invested $15 million in Two Platforms (TWO) for a 25 per cent equity stake. The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences."
+    publishedDateTime: 2022-02-05T07:11:00Z
+    webUrl: "https://www.suryaa.com/117077-jio-platforms-invests-15-mn-in-ai-vr-startup-two-platforms.html"
+    type: article
+    provider:
+      name: Suryaa
+      domain: suryaa.com
+    quality: 37
+    images:
+      - url: "  \n\n\n\n                                    https://www.suryaa.com/suryaa-images/englishnews/bigimage/9_7245.jpg\n\n\n    "
+        width: 500
+        height: 305
+        isCached: true
   - title: "C3.ai (NYSE:AI) Stock Rating Upgraded by Zacks Investment Research"
     excerpt: "Zacks Investment Research upgraded shares of C3.ai (NYSE:AI) from a sell rating to a hold rating in a report released on Tuesday morning, Zacks.com reports. According to Zacks, “C3.ai Inc. is an ..."
     publishedDateTime: 2022-02-05T08:45:00Z

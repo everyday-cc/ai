@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/413954"
 webUrl: "https://www.entrepreneur.com/article/413954"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Entrepreneur
@@ -27,24 +27,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "How Government Call Centers Can Use Conversational AI"
-    excerpt: "centers and other government call centers are using conversational artificial intelligence technology to improve services for citizens."
-    publishedDateTime: 2022-01-31T22:20:00Z
-    webUrl: "https://statetechmagazine.com/article/2022/01/how-government-call-centers-can-use-conversational-ai-perfcon"
-    ampWebUrl: "https://statetechmagazine.com/article/2022/01/how-government-call-centers-can-use-conversational-ai-perfcon?amp"
-    cdnAmpWebUrl: "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2022/01/how-government-call-centers-can-use-conversational-ai-perfcon?amp"
-    type: article
-    provider:
-      name: Statetechmagazine
-      domain: statetechmagazine.com
-    quality: 59
-    images:
-      - url: "https://statetechmagazine.com/sites/statetechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202201/GettyImages-1329397938.jpg?itok=bkoiiKo6"
-        width: 1440
-        height: 500
-        isCached: true
 
 secured: "CPUHYOJyVusKNonfC7Hd7myF+hvurVPgC3HX86nekRWESqrmshZmeM9w2Yzs0QO2yaKjw/l2rTtOCcfI+0CWVhffLn8dEx+5K79mZqlNf2NkZaUtWFEvyurjbuhKm5twFA50auHM8j+Aph9u2L9iKxRk2V72I7OTWyOSxzO1qATRD3KITyYcTSghfHLPbuZlcHgbQmdK4Fr4fcg0UrHR0Ns9idqCPzYmoUpUaMU8rUXml9z+AVRh0U6TAbjEas4G27fZiA9ZvM9ogYWYb6E88P1uxec5mN99VYE+Bgd+L1lbSMf6gfesZl15uc2YwrUTmkEYLeg+wzkaVjt40PjKlpyUVGal1wQlA69EbBBIep5/kIzLQH/mow++AFlh3raTpbl0QUnHW1Z0roOZUB4NRFrGLLwI6P6XL3HIZHmiK4gSfs/BG6alwuyqn1jSUc5RaLPbcNHNjt1PkS+V8iBN1a2xZYIMwsRD91Om0D0F+PzYJUtNWA1jPIGb2lCQ0NQVN1VlAOfjL2BN6lSHL8qKjQ==;10l7M7SL5a/AF8tQ4LA3bQ=="
 ---

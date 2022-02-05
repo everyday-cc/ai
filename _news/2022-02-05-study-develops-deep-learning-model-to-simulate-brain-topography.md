@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-05T12:25:00Z
 originalUrl: "https://news.webindia123.com/news/Articles/Science/20220205/3904319.html"
 webUrl: "https://news.webindia123.com/news/Articles/Science/20220205/3904319.html"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 related:
   - title: "Neuroscientists use deep learning model to simulate brain topography"

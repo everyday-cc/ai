@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Jio Platforms invests $15 mn in AI, VR startup 'Two Platforms'"
-    excerpt: "The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences. Notably, TWO's Artificial Reality platform enables real-time AI voice and video calls, digital humans, immersive spaces and ..."
-    publishedDateTime: 2022-02-05T04:28:00Z
-    webUrl: "https://www.freepressjournal.in/business/jio-platforms-invests-15-mn-in-ai-vr-startup-two-platforms"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 17
 
 secured: "FAb9kCan9nx8KSX1MokSiXGs58IUD2y11unOBPC+cKatGnanqCc4zLGmbUX+tf7QziLovMqXKKfyAqo1sFHsZoNmiLSq5L9N7M7c//4e1YKbH899eYb0BPe+ooQ9HEBU3UYJp274fRl16RQVSt/b/XcsQKMrTihQuFxDZF9ouGFls2qZxgF6wNvlLDdb95ycpIRVYPZWRU7Ccp8Q8DHFbcmI1UFBsHlAxDFMjL7sB0BQg1293MBFRjJx7gANZb05l74KEhnVIfRTq6bYmoKfLYeTBKsbzruTaE9kw7fthpfMtIPt+FUHLoBl5eHSafKsq098MgcXsK514cfnN83UQbdKmYxBS69gM6wofgHPJs0=;IL8TY+ssa5x1s4oNd+mqwQ=="
 ---

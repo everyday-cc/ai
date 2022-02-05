@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 522
         isCached: true
+  - title: "U.K. Airports Trial AI Security Project"
+    excerpt: "Project DARTMOUTH will utilize Pangiam’s technologies alongside Google Cloud’s artificial intelligence (AI) and machine learning (ML) computer vision tools, such as their Vertex AI Platform. This technology will be tested within the security facilities ..."
+    publishedDateTime: 2022-02-05T13:45:00Z
+    webUrl: "https://www.hstoday.us/industry/u-k-airports-trial-ai-security-project/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 54
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2022/02/agsairports.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "Ga1xxKtYweHpvwe4dZvtOwTDn89XwjMb/rNMlG0OWjJamUYh59UGVxsr7PN2Bm+MOuuCpYR7g/ypTcRuG0yMypzgIDaKOiD2GGqrszW7SyfMt9nesq3QUvbfnh+m385YqKyL8jr4zfru6/WJjS/aLvEOOdAgHrggwb3RpRd+gujNGWitu5IveuZfSF8ysGvIRI0CricnA08+XkWll7nmmiRL6nAozgCxpvQcu28JKimNPXo46TjWx9YwkwRqf8P+Xonww4pZQd0d/TFs43+JaWdAgFoxZStKz7u4BJDYAwgp+xqR1AriKDVu8SQ06kb1gIcCRXS4MMqV2mGN9Yhc6PuyaIlFyQV4bMRgec/5bTng5kmf4xxUa3ZhR2GVVuIvYWXRJrmweDmGkojCkTRLJSPsZSBDZa3B/V4n+t2yX4+/e0d+KpoZFm4ZlfPm0Se/QEuWpeWKPWjRux1NPHAuKS/jsZex1d0jKaYgcm3g3EHuwszOr8dwx9ZFbAhJbvwj6PccXppndFGmC2/PpYa7zw==;SBPdM2oOUicxtjjf/GrE1A=="
 ---

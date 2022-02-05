@@ -1,72 +1,122 @@
 ---
 category: news
-title: "Jio Platforms invests $15 mn in AI, VR startup 'Two Platforms'"
-excerpt: "The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences. Notably, TWO's Artificial Reality platform enables real-time AI voice and video calls, digital humans, immersive spaces and ..."
-publishedDateTime: 2022-02-05T04:28:00Z
-originalUrl: "https://www.freepressjournal.in/business/jio-platforms-invests-15-mn-in-ai-vr-startup-two-platforms"
-webUrl: "https://www.freepressjournal.in/business/jio-platforms-invests-15-mn-in-ai-vr-startup-two-platforms"
+title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
+excerpt: "Jio Platforms announced on Friday that it has invested $15 million in Two Platforms (TWO) for a 25 per cent equity stake. The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences."
+publishedDateTime: 2022-02-05T07:11:00Z
+originalUrl: "https://www.suryaa.com/117077-jio-platforms-invests-15-mn-in-ai-vr-startup-two-platforms.html"
+webUrl: "https://www.suryaa.com/117077-jio-platforms-invests-15-mn-in-ai-vr-startup-two-platforms.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Free Press Journal
-  domain: freepressjournal.in
+  name: Suryaa
+  domain: suryaa.com
 
 topics:
   - AI
 
-related:
-  - title: "Jio Platforms invests $15 mn in Pranav Mistry's AI firm Two Platforms Inc"
-    excerpt: "Two Platforms will work collaboratively with Jio Platforms to fast-track the adoption of new technologies and build disruptive technologies such as AI, metaverse, and mixed realities"
-    publishedDateTime: 2022-02-05T12:16:00Z
-    webUrl: "https://www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc-11643976301683.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc/amp-11643976301683.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc/amp-11643976301683.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 56
-    images:
-      - url: "https://images.livemint.com/img/2022/02/04/600x338/Jio_1568175568621_1643976769228.jpg"
-        width: 599
-        height: 338
-        isCached: true
-  - title: "Jio Backs Ex-Samsung Chief Pranav Mistry’s AI Firm To Build Metaverse, Web3 Capabilities"
-    excerpt: "Only last month, Jio’s sister company Reliance Retail invested in robotics startup Adverbb Technologies and quick commerce startup Dunzo Its latest bet, TWO is an AR company that enables real ..."
-    publishedDateTime: 2022-02-04T13:07:00Z
-    webUrl: "https://inc42.com/buzz/jio-backs-ex-samsung-chief-pranav-mistrys-ai-firm-to-build-metaverse-web3-capabilities/"
-    ampWebUrl: "https://inc42.com/buzz/jio-backs-ex-samsung-chief-pranav-mistrys-ai-firm-to-build-metaverse-web3-capabilities/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/jio-backs-ex-samsung-chief-pranav-mistrys-ai-firm-to-build-metaverse-web3-capabilities/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 50
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/02/pranav-mistry-social.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Jio Platforms Invests $15 Million In Silicon Valley Start-Up TWO"
-    excerpt: "TWO is a Silicon Valley-based tech start-up founded by Pranav Mistry. TWO -- an Artificial Reality (AR) company -- said it believes the next chapter of Artificial Intelligence (AI) is visual and interactive. The AR platform enables real-time AI voice and ..."
-    publishedDateTime: 2022-02-04T12:43:00Z
-    webUrl: "https://www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346"
-    ampWebUrl: "https://www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 42
-    images:
-      - url: "https://c.ndtvimg.com/2019-12/9hua9ik8_jio_650x400_04_December_19.jpg"
-        width: 650
-        height: 400
-        isCached: true
+images:
+  - url: "  \n\n\n\n                                    https://www.suryaa.com/suryaa-images/englishnews/bigimage/9_7245.jpg\n\n\n    "
+    width: 500
+    height: 305
+    isCached: true
 
-secured: "LoCgn95n+yE0IICjQ8ow+OexApGspsXuV9phNXekNq79uDJrcpY7Pjt7ax8oCIRt9Lkq5QR25doxH+XqF2M4k9sjHnSn7aiPTIV7Q+VTJ+eUBfWEYgJ6DNqnUOkSrav9T5D9TfUx1prE0D1pNuxMtgIsm7Rinuwq4h6wkaZ4wd5cdRyDk4IM/6AHCVdj9JWYMw+qF4lBxZto/GwM5i0G+kSktPMusRVAObwWR0pr+c6PvvdnuEIBo2kX+AVH/cx9x3wQj9HzuJZ6qxlNli7NUdEvigBJKXxVSDazoV43Lx4cbmNIw3Wc8NzaLLXfGdWkR9ocedff7YpedqR/q0B6YizvZXQgEGzg0JKlKU1Y6SvIrKCLHz7smVkP4zzyVWWPSrV//CGjM6HDrw4YnpRklIWfeWLk7zzpjVGdAHCaplXxVf+lOOMfSK8z2Tv28HttKCW+zkf0lZ0F9RT1BwRG+mKQ/fq2jR55JuiOr5rPeUQ2Pi4cs/qykClFqQVIvLwwlNVJm3N4LFBBkE0D7T5wXA==;UMLfyRw973Tx9JpOZdSBBw=="
+related:
+  - title: "Investing in AI Stocks"
+    excerpt: "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ..."
+    publishedDateTime: 2022-02-02T17:26:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/A.I._hand_playing_the_game_of_Go.width-700.jpg"
+        width: 700
+        height: 525
+        isCached: true
+  - title: "Fending off ransomware attacks using AI-powered tools"
+    excerpt: "Why Cohesity believes zero-trust security by itself isn't enough to stop an increasing number of sophisticated ransomware attacks."
+    publishedDateTime: 2022-02-01T22:16:00Z
+    webUrl: "https://www.zdnet.com/article/fending-off-ransomware-attacks-using-ai-powered-tools/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/fending-off-ransomware-attacks-using-ai-powered-tools/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fending-off-ransomware-attacks-using-ai-powered-tools/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+  - title: "Artificial Intelligence’s Role in Banking 3.0"
+    excerpt: "By Richard Shearer, CEO of Tintra PLC In the modern banking world new technologies play a widely reported role in anti-money laundering (AML) protocols preventing financial crime – however it is important that we do not overlook technology’s potential for establishing financial innocence."
+    publishedDateTime: 2022-02-02T22:08:00Z
+    webUrl: "https://www.globalbankingandfinance.com/artificial-intelligences-role-in-banking-3-0/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/artificial-intelligences-role-in-banking-3-0/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligences-role-in-banking-3-0/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 57
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/02/iStock-1250153410.jpg"
+        width: 750
+        height: 389
+        isCached: true
+  - title: "The Benefits of Artificial Intelligence in Detecting Machine Failure"
+    excerpt: "Technology continues to evolve at an exponential rate. From one year to the next, we are presented with exceptional new innovations that can effectively make our jobs and everyday lives easier. Artificial intelligence (AI),"
+    publishedDateTime: 2022-02-02T11:05:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/benefits-artificial-intelligence-detecting-machine-failure"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 52
+    images:
+      - url: "https://financialit.net/sites/default/files/aimonitoring.jpg"
+        width: 1000
+        height: 643
+        isCached: true
+  - title: "How Google uses artificial intelligence In Google Search"
+    excerpt: "Search Engine Land » Google » Google: SEO » How Google uses artificial intelligence In Google Search As Google continues to leverage more artificial intelligence and machine learning in Google ..."
+    publishedDateTime: 2022-02-03T17:07:00Z
+    webUrl: "https://searchengineland.com/how-google-uses-artificial-intelligence-in-google-search-379746"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 37
+    images:
+      - url: "https://searchengineland.com/figz/wp-content/seloads/2015/10/google-brain-data1-ss-1920.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
+    excerpt: "The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences. Notably, TWO's Artificial Reality platform enables real-time AI ..."
+    publishedDateTime: 2022-02-04T14:45:00Z
+    webUrl: "https://menafn.com/1103642231/Jio-Platforms-invests-15-mn-in-AI-VR-startup-Two-Platforms"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?150158"
+        width: 432
+        height: 250
+        isCached: true
+  - title: "C3.ai (NYSE:AI) Stock Rating Upgraded by Zacks Investment Research"
+    excerpt: "Zacks Investment Research upgraded shares of C3.ai (NYSE:AI) from a sell rating to a hold rating in a report released on Tuesday morning, Zacks.com reports. According to Zacks, “C3.ai Inc. is an ..."
+    publishedDateTime: 2022-02-05T08:45:00Z
+    webUrl: "https://etfdailynews.com/news/c3-ai-nyseai-stock-rating-upgraded-by-zacks-investment-research/"
+    type: article
+    provider:
+      name: ETF Daily News
+      domain: etfdailynews.com
+    quality: 17
+
+secured: "yYpA4cWj+zeB9Q3ekyg7wnX3EYv9rhiN2NF60BTEVUOk/3K9aNlPYensOFFjJGglPzyBG7bag1Di9SSoLMM6JBs4uo5+26ifgopP1XpT/3LScc8LiyOXRc55bVUaJLYK/H6GHEhsJCgnfPEWdWb5+DZgEQMapPvkQITkaEhwvySouU1rWDvPTuABV2dQBIVxpbdj2r9mRj/lgxPaOR6hYwF6OVfaHl4vjK0vX0bNlJtMj+9BTL5oQQGUybfeVKGqx4LNvjUyJrKHasq8+/AcQHKNP/UavO0T5hhALbWbu5J2mfnY+Jgq0Y5aw4EuHlyqxL//c9OIWdA40CrB5oZHcb8SdYMJE+cRnzUoWisrX6Q=;8JbNqczTEwIyu9tvVcktVA=="
 ---
 

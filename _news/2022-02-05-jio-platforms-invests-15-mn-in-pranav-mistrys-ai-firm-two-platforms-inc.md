@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/jio-platforms-invests-15-mn-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc/amp-11643976301683.html"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Jio Platforms invests $15 mn in AI, VR startup 'Two Platforms'"
-    excerpt: "The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences. Notably, TWO's Artificial Reality platform enables real-time AI voice and video calls, digital humans, immersive spaces and ..."
-    publishedDateTime: 2022-02-05T04:28:00Z
-    webUrl: "https://www.freepressjournal.in/business/jio-platforms-invests-15-mn-in-ai-vr-startup-two-platforms"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 17
 
 secured: "KVIUhF1TcNgnTdXfmpRBxzM5LkCh85GoWwkL2tvZuNtNdu2/Z58+B46btbTdy/n9LDEG9pAnLJRYShw4QSwwXuf6KGv82oyU4fiOaZCJrwQhY67UEu0EiUFfvfgLfirQ3sfqGxyoFPDv9t8NYwCPyw6EWEGc2g9a23QjOhKYLCPFDHNncw3h6txjLYmTsYU0yh2yT5Lml+Xmhc68lnqUh6jBnu78R7WhpESXxe5/23uhnAWpxiYEQuyVmJyPsa7Twu1zU5hzpdKwluER63gLy3iwJDODGyinrPEizr5MjSGHnIhfU9qcx13fICrdQc+Mi5a51Ll/5oetk/P1+hD4e8rVq902SOdP3HXTjge4o0Y=;yCjVcZOpn1ABF9s0ZQiSwA=="
 ---
