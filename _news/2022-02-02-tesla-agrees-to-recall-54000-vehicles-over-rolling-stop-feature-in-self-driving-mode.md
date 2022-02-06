@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla to recall nearly 54K cars which could threaten future of Full Self Driving feature"
-    excerpt: "Tesla will have to recall close to 54,000 of its electric vehicles due to a feature called Rolling Stop which comes with the Full Self Driving premium package. The FSD is still in the Beta version."
-    publishedDateTime: 2022-02-01T22:20:00Z
-    webUrl: "https://www.neowin.net/news/tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature/"
-    ampWebUrl: "https://www.neowin.net/amp/tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 95
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2019/04/1554374509_screenshot_from_2019-04-04_11-40-06_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ phantom braking problem is getting worse"
     excerpt: "On Wednesday, a Washington Post analysis found complaints about the automatic braking issue in the EVs are higher than ever in recent months, and the issue could be traced back to recent changes to Tesla's Autopilot software and hardware."
     publishedDateTime: 2022-02-03T22:13:00Z
@@ -73,6 +57,22 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Hilariously Poor Tesla Full Self Driving Performance In Boston Highlights Its Weaknesses"
+    excerpt: "Tesla seems to be in the news every single week for one reason or another. Sometimes it’s because they build products that are shockingly fast and other times it’s because they build products that are missing brake pads."
+    publishedDateTime: 2022-02-02T21:01:00Z
+    webUrl: "https://www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/"
+    ampWebUrl: "https://www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 65
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/02/Tesla.gif"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tesla recalling self-driving cars that roll through stop signs"
     excerpt: "Tesla is recalling all 53,822 of its electric cars with a “full self-driving” feature after it was determined the vehicles were programmed to roll through stop signs."
     publishedDateTime: 2022-02-02T15:37:00Z
@@ -88,38 +88,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2022/02/01/us_tesla_full_self-driving_recall_10402_c0-234-5616-3510_s1200x700.jpg?cb8bdaaafe19aeefebbc81a4d50578aeb1d81bb7"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Tesla Says It’s Updating Self-Driving Cars to No Longer Break the Law"
-    excerpt: "Tesla has agreed to update the software on almost 54,000 of its cars because a recent “Full Self-Driving” software update allowed them to break road rules and roll through stop signs without ..."
-    publishedDateTime: 2022-02-01T21:54:00Z
-    webUrl: "https://futurism.com/tesla-updating-rolling-stops"
-    ampWebUrl: "https://futurism.com/tesla-updating-rolling-stops/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-updating-rolling-stops/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2022/02/tesla-updating-rolling-stops-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Turns out Tesla’s self-driving cars don’t stop at stop signs"
-    excerpt: "Last week, Elon Musk promised Tesla shareholders that his company would achieve “full-self-driving safer than a human” by the end of 2022. This week, 54,000 Tesla vehicles are being recalled because the company’s self-driving technology can’t ..."
-    publishedDateTime: 2022-02-01T22:03:00Z
-    webUrl: "https://www.mic.com/impact/teslas-recall-self-driving-cars-rolling-stop"
-    ampWebUrl: "https://www.mic.com/impact/teslas-recall-self-driving-cars-rolling-stop/amp"
-    cdnAmpWebUrl: "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/impact/teslas-recall-self-driving-cars-rolling-stop/amp"
-    type: article
-    provider:
-      name: Mic
-      domain: mic.com
-    quality: 59
-    images:
-      - url: "https://imgix.bustle.com/uploads/getty/2022/2/1/a6988204-be10-4b37-848e-b416a8afe48c-getty-1365012175.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Tesla Recalls 54K Self-Driving Cars For Disrespecting The Stop Sign"
     excerpt: "Tesla will recall 53,822 vehicles that incorporate its full self-driving beta software because the vehicles may not fully stop at stop signs"
@@ -153,6 +121,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "We took a ‘self-driving’ Tesla for a spin in Boston. Here’s how it did."
+    excerpt: "For all the wrong reasons. It all started with a tweet from a Boston driver named Taylor Ogan. He drove his Black Tesla Model Y on self-driving mode around South Boston, showing in a video how it fails to navigate city streets properly. This was ..."
+    publishedDateTime: 2022-02-03T16:01:00Z
+    webUrl: "https://www.bostonglobe.com/2022/02/03/business/we-took-self-driving-tesla-spin-boston-heres-how-it-did/"
+    ampWebUrl: "https://www.bostonglobe.com/2022/02/03/business/we-took-self-driving-tesla-spin-boston-heres-how-it-did/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2022/02/03/business/we-took-self-driving-tesla-spin-boston-heres-how-it-did/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 59
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/oJvWD55Zh5WvZpGaRqcCWOPgyvU=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SHFXT2JS74SHR5IZM6TDOO3ZDA.jpg"
+        width: 506
+        height: 337
+        isCached: true
   - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
     excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
     publishedDateTime: 2022-02-04T21:52:00Z
@@ -168,22 +152,6 @@ related:
       - url: "https://media.wfmynews2.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Tesla recalls nearly 54K cars: 'Full Self-Driving' software runs stop signs"
-    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
-    publishedDateTime: 2022-02-01T21:17:00Z
-    webUrl: "https://www.chron.com/business/technology/article/Tesla-recall-Full-Self-Driving-stop-signs-16821972.php"
-    ampWebUrl: "https://www.chron.com/business/technology/amp/Tesla-recall-Full-Self-Driving-stop-signs-16821972.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/Tesla-recall-Full-Self-Driving-stop-signs-16821972.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 57
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/65/13/21975804/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
         isCached: true
   - title: "Tesla To Recall Nearly 54000 ‘Full Self-Driving’ Cars For Running Stop Signs"
     excerpt: "Tesla will have to recall nearly 54,000 vehicles in the U.S. with the company's “ (FDS)” software, as it lets them roll through"
@@ -215,21 +183,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tesla's Full Self-Driving Feature Dealt A Big Blow, Puts Musk's Promises at Risk"
-    excerpt: "The Austin-based company is recalling nearly 54,000 cars -- all models combined, S, X, Y, 3 -- for a problem related to the Full Self-Driving Beta advanced driving assistant, according to a notice put online by National Highway Traffic Safety Administration."
-    publishedDateTime: 2022-02-01T21:02:00Z
-    webUrl: "https://www.thestreet.com/investing/teslas-full-self-driving-feature-dealt-a-big-blow-puts-musks-promises-at-risk"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/teslas-full-self-driving-feature-dealt-a-big-blow-puts-musks-promises-at-risk"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/teslas-full-self-driving-feature-dealt-a-big-blow-puts-musks-promises-at-risk"
+  - title: "This is not a self-driving car"
+    excerpt: "He’s not alone, either. YouTube’s favorite auto reviewer Doug DeMuro has referred to Super Cruise as a “self-driving” system, arguing that any attempt to draw distinction between an advanced driver assistance system and autonomous technology was ju ..."
+    publishedDateTime: 2022-02-04T18:55:00Z
+    webUrl: "https://www.theverge.com/2022/2/4/22917903/adas-av-autonomous-super-cruise-autopilot-language"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
+      name: The Verge
+      domain: theverge.com
     quality: 54
     images:
-      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTg1OTk1NzI3NDQzMzM4OTQ3/amd.jpg"
-        width: 620
-        height: 400
+      - url: "https://cdn.vox-cdn.com/thumbor/8kVW_xQJNQf9oN_cXQXRx2wEXQE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19704170/cadillac_2021_escalade_0433.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Tesla recall: ‘Full Self-Driving’ software runs stop signs"
     excerpt: "Tesla is recalling nearly 54,000 vehicles because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
@@ -242,20 +208,6 @@ related:
       name: News Tribune
       domain: thenewstribune.com
     quality: 39
-  - title: "Tesla recall: Self-driving software runs stop signs"
-    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
-    publishedDateTime: 2022-02-01T22:04:00Z
-    webUrl: "https://finance-commerce.com/2022/02/tesla-recall-self-driving-software-runs-stop-signs/"
-    type: article
-    provider:
-      name: Finance & Commerce
-      domain: finance-commerce.com
-    quality: 39
-    images:
-      - url: "https://finance-commerce.com/files/2022/02/Tesla-AP.jpg"
-        width: 620
-        height: 330
-        isCached: true
   - title: "Tesla recalls Full Self-Driving beta software"
     excerpt: "Tesla has issued a recall on its recently released Full-Driving beta software that included Assertive mode. The Assertive mode allowed the vehicles to run"
     publishedDateTime: 2022-02-02T11:17:00Z
@@ -323,20 +275,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tesla recalls ‘full self-driving’ feature that was designed to roll through some stop signs"
-    excerpt: "By Matt McFarland, CNN Business Tesla will recall all 53,822 vehicles with its “full self-driving” driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios."
-    publishedDateTime: 2022-02-01T22:29:00Z
-    webUrl: "https://localnews8.com/money/cnn-business-consumer/2022/02/01/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 29
-    images:
-      - url: "https://localnews8.b-cdn.net/2022/02/hypatia-h_3e8d558985e236ebf22b7908109dcf20-h_09caa584942c5657bec4a4a9e7225e45-300.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "54,000 Teslas recalled because \"Full Self-Driving\" software lets them roll through stop signs"
     excerpt: "DETROIT -- Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Recall documents posted ..."
     publishedDateTime: 2022-02-02T01:08:00Z
@@ -350,6 +288,20 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/11529910_020122-kabc-md-tesla-recall-vid.jpg?w=1600"
         width: 1600
         height: 900
+        isCached: true
+  - title: "NEWS TAGGED SELF-DRIVING CAR"
+    excerpt: "Mercedes-Benz recently announced its Level 3 self-driving system Drive Pilot has been approved by the German Federal Motor Transport Authority (KBA) and can now operate on roads i"
+    publishedDateTime: 2022-02-03T09:17:00Z
+    webUrl: "https://www.digitimes.com/tag/self-driving_car/00111368.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 24
+    images:
+      - url: "https://ad.digitimes.com.tw/webadImg/en_20220119_semiconductor_bigbutton.jpg"
+        width: 336
+        height: 280
         isCached: true
   - title: "Yet another Tesla flaw casts doubt on 'full self-driving' tech"
     excerpt: "It turns out the problems with Tesla's \"full self-driving\" feature aren't just the fact that it's unreliable and super expensive. Apparently, it was also designed to break the law now and then. The news: Tesla is recalling nearly 54,000 vehicles with its ..."

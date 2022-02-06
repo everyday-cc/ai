@@ -57,20 +57,6 @@ related:
         width: 750
         height: 400
         isCached: true
-  - title: "5 Ways AI Is Changing the Face of Learning"
-    excerpt: "Learn what's in store for corporate learning with AI.  I’ve been in the education business for decades as a senior lecturer, trainer and CEO. When people ask me about the biggest challenge that learners face,"
-    publishedDateTime: 2022-02-01T22:43:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/5-Ways-AI-Is-Changing-the-Face-of-Learning-16822491.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/65/41/21977155/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "eTrKme76lf9pCj3HFtP96NQKNTXgJc32/DPuzwtvQtkywogaYUaY19qR1dS9mGKQe3f1ENdIgHn9EyihPaXWA5Cjx6S29n0Y3rhNN6dv2hb9vZ/Jtz1HuXmMXdZejWFcZ1yWINaBCBrAeLoSKB/57Z1B3UxxalV9Qr78tB3osKTufAwAxXhnrSM1ncecnpSg/Cs1ORLm4eGkkURpPl4inAbGBHP03NAhRSIAe7cuz+ZS+AidmGIDClX6adNs62EfBa3RyRohBCXy2L7+iZXjTs4YANiVnXG4Ubu/D+Kr2207nxZx0C8uv59ka22yH0Lt4UR3M97OCexQhQIErOcW+n0Zl2UnwVATH8piEBsKewM=;WGKscytrIcrhz3ltslYnqA=="
 ---

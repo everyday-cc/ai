@@ -40,15 +40,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 24
-  - title: "Financial Services News South Africa"
-    excerpt: "We provide a quality service for our clients by staying abreast of accounting and tax law changes and by taking a proactive interest in the efficient financial management of your business."
-    publishedDateTime: 2022-02-01T21:42:00Z
-    webUrl: "https://www.bizcommunity.com/Articles/196/518/key1-20211224090400/edt-20220117182000.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 4
 
 secured: "hdbeezXVO6LWR7yOO2Li8eZdC6kBFkU7jf4y9HURCIS9c7pDyRhlNQ3HWQIWYIYDfXFwHnvACEEb/ComhfrME5zhsLFYYbeEMo9z40kNWKLsFijKou7dZnz1wmfdPs/Tkuas5FIgyUumO+0VkTJEQX+6bT3RsqNaY82uvs2oMA96gSxbEP5B94GtSNye5dKWu6mtFgALi7gTqyvyTuKgXxmMTseYhFBZ3maNFX8/JwfZ+jgUvRVlgV6+1WaRY8tLDfxlKpk6ogcjHBzTD9Hwb+hILgoTBFkp/6bjGXMo4m4kq7Pa2pjjksDqeRjICluATZzi8pMenCUgQIM24476uiKdIMoBp7dtDTHieNvNREI=;Tmj2IcTuKRyu6GSzZyG+QA=="
 ---

@@ -25,6 +25,22 @@ images:
     height: 2899
     isCached: true
 
+related:
+  - title: "Researchers develop artificial connections for damaged nervous systems"
+    excerpt: "due to the redirection of information in the neural network, and from an amplification of weak signals provided by the artificial synapses, according to the researchers. 'This innovative approach ..."
+    publishedDateTime: 2022-02-06T13:26:00Z
+    webUrl: "https://menafn.com/1103648209/Researchers-develop-artificial-connections-for-damaged-nervous-systems"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2022-02/06/I_805dbimage_story.jpg"
+        width: 400
+        height: 239
+        isCached: true
+
 secured: "sRr/81+qeYN+Un+jOj5NFkrtB16vQch+A1tYEl1DEh0y6VVUKoWa8Lm+3MmF8l+YTO4lNULWxFvTEmFm0KnBcOq81BcaboYmUw7MX56WL6LiUumN6fbkKIAPZUCek7qqt+9wOd09mwyknMBDscnNtHD+T4zYYZO4jXYS0BmXywDro4pMLlMxSxlu0N6CK9g2Xc7kyZ4Yid7UE659dCptNdUQzfEDhJ84QxrCnGX2TbbU08jFkrZAvrXUPK5u6Fny4deQXT8b+/Fs+zd1ByVwnwHhS3rxWgb/jKQo+CbBGO02vKzHjPf9idGiKDZ78CmBQceNKztFUjIOwCeHzZHyGfNibkERWTfZVywecN4lvR9mxFKu8ZlkdTE2WTjN+Clms9j4TGJQSRPkaA76biijhRHhimemxjKw8YaFgJfYCuI6w58xTraY+86fgaVzIBLguOnKHlDt6G0K7NtlJd4+7wTj2CFel7ptBNf2rX4XxOj1V4xUqLQK8xovw+5W5YpK3CmDjHKZO1xNwiNo9kYUow==;itENaTdIyfjs9Wp4khz0Lw=="
 ---
 

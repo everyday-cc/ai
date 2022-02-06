@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/02/ai-traffic-light-that-improves-tra
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/ai-traffic-light-that-improves-traffic-flow-by-up-to-15-in-simulation-will-now-be-used-in-real-life/amp/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -24,70 +24,6 @@ images:
     width: 1024
     height: 555
     isCached: true
-
-related:
-  - title: "AI traffic lights could reduce waiting times at intersections"
-    excerpt: "Ordinarily, traffic lights change color in response to predetermined rules and induction loop sensors embedded in the road. According to new research, however, making those lights artificially intelligent may keep traffic flowing faster and smoother."
-    publishedDateTime: 2022-02-01T21:49:00Z
-    webUrl: "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/"
-    ampWebUrl: "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 187
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/9f0d40d/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fae%2Fbb55bec34fc69662304187b12097%2Fiosb-ina-traffic-lights-controlled-using-artificial-intelligence-pic-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times"
-    excerpt: "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights."
-    publishedDateTime: 2022-02-03T17:40:00Z
-    webUrl: "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050"
-    ampWebUrl: "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 52
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d5cda2e76ce28a417dd3047a1d3ffed6.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times"
-    excerpt: "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights. A new study out of Germany says having traffic lights use AI ..."
-    publishedDateTime: 2022-02-05T02:02:00Z
-    webUrl: "https://www.gizmodo.com.au/2022/02/a-new-artificial-intelligence-traffic-light-could-help-shorten-your-commute-times/"
-    ampWebUrl: "https://www.gizmodo.com.au/2022/02/a-new-artificial-intelligence-traffic-light-could-help-shorten-your-commute-times/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/02/a-new-artificial-intelligence-traffic-light-could-help-shorten-your-commute-times/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 52
-    images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2022/02/04/d5cda2e76ce28a417dd3047a1d3ffed6-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Artificial Intelligence in Predicting Web Traffic Spikes"
-    excerpt: "Machine Learning, specifically Artificial Intelligence, is great at analyzing information to either deduce patterns or classify information into predetermined categories. As ever, data is key ..."
-    publishedDateTime: 2022-02-03T23:27:00Z
-    webUrl: "https://itwire.com/guest-articles/artificial-intelligence-in-predicting-web-traffic-spikes.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 37
-    images:
-      - url: "https://itwire.com/images/Lead-Machine_Pink_300x250.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "ALBeUbHha1K+KzI49BoIxm3q2/cCOIGGuTw+ExfPtL2BsBWG3+3p28vb8UOaKzm1d/hSmNP8gX0FRMhLa4A7Vh/X2nCRlBmHMXPAHMlATgTSMsSqmQI+Ti0Yp2pXfBXb2M0na/eRwJaigBBmtd5L3d5XD9cW4MBT5lMMdPFa5YnZteAtpJxw+AVVGRf6h+rqKTL8u3RZSGMK89GxtMhBaw25U1p9OHSRM+Lv0d7S4IDhfb+OIaIMvCX7oQbZQxxuZa2mWkg9dk6oJaesb7z74Ef7M+jaUeygcna/FmGf8BW6C7mlfDDaLItQWdG9td7uRjd3rb+O7yLXCJDge/q+ldiaZsYnZhZMp27Cki5wt0m52weaK5aCLy6oWQoe/CdxRgaWZ45JAS4YjYSfb4OC/Hmfsj/3denA8ST2sZ5NgkUxLlmfQqmzExJYXTSAkRNBs7Sn5P7h7H2hZAgprbR+8Lso/kKiAAnM3G/Q4Nlys/luwq1BYOv2hAiI9HAodtimngAZaWVvpLU/shheRKH/LQ==;A8bOURc5zmN4pLdOKkq5rQ=="
 ---

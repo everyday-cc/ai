@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fending off ransomware attacks using AI-powered tools"
-    excerpt: "Why Cohesity believes zero-trust security by itself isn't enough to stop an increasing number of sophisticated ransomware attacks."
-    publishedDateTime: 2022-02-01T22:16:00Z
-    webUrl: "https://www.zdnet.com/article/fending-off-ransomware-attacks-using-ai-powered-tools/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/fending-off-ransomware-attacks-using-ai-powered-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fending-off-ransomware-attacks-using-ai-powered-tools/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "Artificial Intelligence’s Role in Banking 3.0"
     excerpt: "By Richard Shearer, CEO of Tintra PLC In the modern banking world new technologies play a widely reported role in anti-money laundering (AML) protocols preventing financial crime – however it is important that we do not overlook technology’s potential for establishing financial innocence."
     publishedDateTime: 2022-02-02T22:08:00Z
@@ -69,6 +58,20 @@ related:
       - url: "https://financialit.net/sites/default/files/aimonitoring.jpg"
         width: 1000
         height: 643
+        isCached: true
+  - title: "Artificial Intelligence in Predicting Web Traffic Spikes"
+    excerpt: "Machine Learning, specifically Artificial Intelligence, is great at analyzing information to either deduce patterns or classify information into predetermined categories. As ever, data is key ..."
+    publishedDateTime: 2022-02-03T23:27:00Z
+    webUrl: "https://itwire.com/guest-articles/artificial-intelligence-in-predicting-web-traffic-spikes.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 37
+    images:
+      - url: "https://itwire.com/images/Lead-Machine_Pink_300x250.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "How Google uses artificial intelligence In Google Search"
     excerpt: "Search Engine Land » Google » Google: SEO » How Google uses artificial intelligence In Google Search As Google continues to leverage more artificial intelligence and machine learning in Google ..."

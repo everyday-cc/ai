@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI traffic lights could reduce waiting times at intersections"
-    excerpt: "Ordinarily, traffic lights change color in response to predetermined rules and induction loop sensors embedded in the road. According to new research, however, making those lights artificially intelligent may keep traffic flowing faster and smoother."
-    publishedDateTime: 2022-02-01T21:49:00Z
-    webUrl: "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/"
-    ampWebUrl: "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 187
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/9f0d40d/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fae%2Fbb55bec34fc69662304187b12097%2Fiosb-ina-traffic-lights-controlled-using-artificial-intelligence-pic-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times"
     excerpt: "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights."
     publishedDateTime: 2022-02-03T17:40:00Z
@@ -57,36 +41,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d5cda2e76ce28a417dd3047a1d3ffed6.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "AI Traffic Light That Improves Traffic Flow By Up To 15% In Simulation Will Now Be Used In Real Life"
-    excerpt: "And the results have been good enough to encourage the team and the city to now try the AI at the intersection in real life. Read Also: Honda Scanned Drivers’ Brains To Develop Advanced Future Safety Technologies “The assumptions about traffic ..."
-    publishedDateTime: 2022-02-05T01:43:00Z
-    webUrl: "https://www.carscoops.com/2022/02/ai-traffic-light-that-improves-traffic-flow-by-up-to-15-in-simulation-will-now-be-used-in-real-life/"
-    ampWebUrl: "https://www.carscoops.com/2022/02/ai-traffic-light-that-improves-traffic-flow-by-up-to-15-in-simulation-will-now-be-used-in-real-life/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/ai-traffic-light-that-improves-traffic-flow-by-up-to-15-in-simulation-will-now-be-used-in-real-life/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 42
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/02/2022-Lemgo-Traffic-Lights-1-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
-  - title: "Artificial Intelligence in Predicting Web Traffic Spikes"
-    excerpt: "Machine Learning, specifically Artificial Intelligence, is great at analyzing information to either deduce patterns or classify information into predetermined categories. As ever, data is key ..."
-    publishedDateTime: 2022-02-03T23:27:00Z
-    webUrl: "https://itwire.com/guest-articles/artificial-intelligence-in-predicting-web-traffic-spikes.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 37
-    images:
-      - url: "https://itwire.com/images/Lead-Machine_Pink_300x250.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "gN/gtiNIGwMOaJ+FKvdAkfbV42Hn+YL/Ih3+KBXM3dTBHzr/ad4T4lirNVwi/w84EIObxVwGfG5r3RBcnhsOBnk8t+dstHoyiFne87Hb0UCSgNv9II3ArI1By8wQ18I4nvUdt0D/PT6W4meUb8N5S6H08rAepl+7BCnBC0usUiczTjd53smu0q4ev8XQIxvt4xOPLFMhYT7Y9+/PvOMtQv0XauhOxb5BX2jb4S0w+XDLnkBu0hHj1a0w4CdKuE5phHdepTUy3YKRFNN0KOrlXtqUYHC/oWNAu7GxhUHnwPoyxcfwHaTDPN/6lmoYuSfNVfM/EQM6aSWk30O69Fer8X+bKhepYeA5Q7uI5fj+mUw=;vsUkz4L/e02dWESHi7Ogww=="

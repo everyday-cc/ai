@@ -9,7 +9,7 @@ ampWebUrl: "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-cou
 cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI traffic lights could reduce waiting times at intersections"
-    excerpt: "Ordinarily, traffic lights change color in response to predetermined rules and induction loop sensors embedded in the road. According to new research, however, making those lights artificially intelligent may keep traffic flowing faster and smoother."
-    publishedDateTime: 2022-02-01T21:49:00Z
-    webUrl: "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/"
-    ampWebUrl: "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 187
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/9f0d40d/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fae%2Fbb55bec34fc69662304187b12097%2Fiosb-ina-traffic-lights-controlled-using-artificial-intelligence-pic-1.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times"
     excerpt: "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights. A new study out of Germany says having traffic lights use AI ..."
     publishedDateTime: 2022-02-05T02:02:00Z
@@ -57,36 +41,6 @@ related:
       - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2022/02/04/d5cda2e76ce28a417dd3047a1d3ffed6-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI Traffic Light That Improves Traffic Flow By Up To 15% In Simulation Will Now Be Used In Real Life"
-    excerpt: "And the results have been good enough to encourage the team and the city to now try the AI at the intersection in real life. Read Also: Honda Scanned Drivers’ Brains To Develop Advanced Future Safety Technologies “The assumptions about traffic ..."
-    publishedDateTime: 2022-02-05T01:43:00Z
-    webUrl: "https://www.carscoops.com/2022/02/ai-traffic-light-that-improves-traffic-flow-by-up-to-15-in-simulation-will-now-be-used-in-real-life/"
-    ampWebUrl: "https://www.carscoops.com/2022/02/ai-traffic-light-that-improves-traffic-flow-by-up-to-15-in-simulation-will-now-be-used-in-real-life/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/ai-traffic-light-that-improves-traffic-flow-by-up-to-15-in-simulation-will-now-be-used-in-real-life/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 42
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/02/2022-Lemgo-Traffic-Lights-1-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
-  - title: "Artificial Intelligence in Predicting Web Traffic Spikes"
-    excerpt: "Machine Learning, specifically Artificial Intelligence, is great at analyzing information to either deduce patterns or classify information into predetermined categories. As ever, data is key ..."
-    publishedDateTime: 2022-02-03T23:27:00Z
-    webUrl: "https://itwire.com/guest-articles/artificial-intelligence-in-predicting-web-traffic-spikes.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 37
-    images:
-      - url: "https://itwire.com/images/Lead-Machine_Pink_300x250.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "6gZHJZgCYv3XJrHmoPaj56TTBIrcUeJSz6bJwI3exYzixw8RGoLAd599cxRsJP4Q9DxdnfN4Et1Eke4MYq7KzSVa+zXzgMpKymnGJjrjC/bhQQ/GM0/z9Nzm4lSiwLxlTcizFLmbO0rlJD0/2okUnD6eHlr17XNptI03Js3P9bGvcPbLIDKsbu1l3Lp/9FvibJMKLShSn08QcN/hzCZKpCpOLCVePJ4MTTCktsID1bcejeBFD7dL1QFL3F+lQML5u7zfboO+b8t2natmjSUW5DDNAMPqDK0dIOgO+pyxtlu24suYow6bPL0mHG3ESKjXr4xuhHCIksCIcBq8oRFH56msw3+q8Jsu3adCERXT9ghVL0ZxIYuWZjV7k7+4z1kME4/lB6WAaOmC/LCkx6AHNDgfcl5gEq4jI5TMS+4++Ra0s9eqFXdvEl5mF2WlNoSAdswUwRfrxKGWMHMaITJkVTZEt4AR1kHOgW32+Vhgm2mPFdUXQ4G6Go0eIs7Yl2M45fuwwnHG9h+EQ76FAMkXmQ==;Tvd2DivBWWhNR9pMsXczrA=="

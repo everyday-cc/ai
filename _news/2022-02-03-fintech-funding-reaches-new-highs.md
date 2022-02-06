@@ -67,20 +67,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Fintech Provides Investors With AI-Driven Research"
-    excerpt: "Magnifi, which is one arm of TIFIN, helps match investors and advisors with firms specializing in the work the investor is looking for. In this example, TIFIN, which stands for Technology In Finance,"
-    publishedDateTime: 2022-02-01T21:24:00Z
-    webUrl: "https://www.fa-mag.com/news/tifin-provides-ai-for-investors-66187.html"
-    type: article
-    provider:
-      name: Financial Advisor
-      domain: fa-mag.com
-    quality: 39
-    images:
-      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Founders Fund Reportedly Invests in Corporate Card Fintech Ramp at $8B Valuation"
     excerpt: "The company invests across all stages and sectors, including aerospace, AI, advanced computing ... Blockchain peer-to-peer / marketplace lending and other forms of Fintech. 2021 was a record-breaking year forDealMaker, the market-leadingtechnology platform ..."
     publishedDateTime: 2022-02-04T14:36:00Z

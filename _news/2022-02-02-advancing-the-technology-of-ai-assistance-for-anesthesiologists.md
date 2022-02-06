@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anest
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://files.idw-online.de/corona_idw.png"
         width: 615
         height: 284
-        isCached: true
-  - title: "5 Ways AI Is Changing the Face of Learning"
-    excerpt: "Learn what's in store for corporate learning with AI.  I’ve been in the education business for decades as a senior lecturer, trainer and CEO. When people ask me about the biggest challenge that learners face,"
-    publishedDateTime: 2022-02-01T22:43:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/5-Ways-AI-Is-Changing-the-Face-of-Learning-16822491.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/65/41/21977155/3/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "nuJVCrZw0WbV8LAn4SdwBuPS5K1qeFnIRG79SRt5ae0pNTSKtVSM5qAY0m0wm6/zXcNXs5PQ6JFd+g7gmAzMcKXP04A1v7byyL0iZ6kSswuFWpwO0JUq+s7GOTDCQ+Y0PrDJavmAcOkfwSN+VyU3iYsm/4mZLT1Q94SBpeVCnDQ2/uRZw866FUmlsFMA8ZRGI3+X7u8K8LbNKU+o0+eVgXtLWsByozB1YIC5Cj6LdFCyopdqw7l6PT3KEOU1dEZEoCgVQuAiwQUVjXJMMoskqarF9zrBJgWBic7Pep3TV0NKbKY1eek/9jI92JBHN5Fk3OMCiXnVBWnKvx8NVodXB/D7/IESmfq4iFcM2VXH5M4=;fZlC/ngDQQ1QBI/EBlEudA=="

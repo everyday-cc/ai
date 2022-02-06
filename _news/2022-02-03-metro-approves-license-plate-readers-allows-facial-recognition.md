@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Government Agencies Are Tapping A Facial Recognition Company to Prove You’re You"
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-    publishedDateTime: 2022-02-06T06:04:00Z
-    webUrl: "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness"
-    ampWebUrl: "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true"
+  - title: "The Flawed Claims About Bias in Facial Recognition"
+    excerpt: "Recent improvements in face recognition show that disparities previously chalked up to bias are largely the result of a couple of technical issues."
+    publishedDateTime: 2022-02-02T16:57:00Z
+    webUrl: "https://www.lawfareblog.com/flawed-claims-about-bias-facial-recognition"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
+      name: Lawfare
+      domain: lawfareblog.com
     quality: 54
     images:
-      - url: "https://images.theconversation.com/files/443053/original/file-20220127-9782-2f0nex.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-        width: 754
-        height: 388
-        isCached: true
-  - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-    publishedDateTime: 2022-02-04T14:44:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361604/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 25
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/02/04/020322faceidGE/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Opinion: Government agencies are tapping a facial recognition company to prove you're you. Watch out."
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-    publishedDateTime: 2022-02-05T17:03:00Z
-    webUrl: "https://www.timesfreepress.com/news/opinion/columns/story/2022/feb/05/opinion-facial-recognition/562707/"
-    type: article
-    provider:
-      name: Times Free Press
-      domain: timesfreepress.com
-    quality: 24
-    images:
-      - url: "https://media.timesfreepress.com/img/photos/2022/01/28/1643403351_013122b07-FPbrashers_gs_t1070_h684b61466ec9e7246f14b31fcd97b3eb03969075.jpg"
-        width: 1070
-        height: 713
+      - url: "https://www.lawfareblog.com/sites/default/files/facialrecog.jpg"
+        width: 2048
+        height: 1536
         isCached: true
 
 secured: "yB+ZLsFAkkfE8rLRT73lq0rxhMsl3a3wlodHQxSj38NEzHiaFvTHm9mAgW2NgTjOLPeCsBoFgeneC91pk3d6sSA1JVmEGPC3NsTwh4PXzGRc2fZfCIqItfb1VTn4mPJIeBse5H3AR7yzD/0z/lczBXc9uymLO7Z8zj69dibSQDEkEi8pD4cdUdZX/2ej+69iZvsPdqIXX3dMtz+Kel01fXjHFBgTbrscGyrU6+lPtc7mrecNUEtUjBHtYCcLd0R2adE46poSpD7gEUZBL2Eelb22GMAd5Ff2EjIzDgyiKGxCZ1GNGBiK75Lauf528f8KS0n+J7Q+CLULZzjx1R1nHkJjG0UUh7UJMnkSBZqNnmU=;vKXyjJt68e1fDLxZlMiicA=="
