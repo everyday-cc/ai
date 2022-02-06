@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-02-04-the-state-of-ai-ethics-the-principles-the-tools-the-regulations.md",
-      "title": "The state of AI ethics: The principles, the tools, the regulations",
-      "excerpt": "Register here. What do we talk about when we talk about AI ethics? Just like AI itself, definitions for AI ethics seem to abound. A definition that seems to have garnered some consensus is that AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/",
-      "originalUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1256138488-e1643905043558.jpg?fit=800%2C588&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/amp/",
-      "publishedDateTime": "2022-02-03T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-04-artificial-intelligence-and-dental-insurance-it-is-more-than-a-focus-on-radiology-and-fraud.md",
       "title": "Artificial Intelligence And Dental Insurance – It Is More Than A Focus On Radiology And Fraud",
       "excerpt": "Over the years, much has been said about artificial intelligence (AI) and the healthcare industry. Much of it has been focused on two extremes. On one hand, there’s the fairly mature use of neural networks for radiological analysis. On the other ...",
@@ -815,7 +763,7 @@
       "originalUrl": "https://www.reuters.com/article/chips-rain-neuromorphics-funding-idCAKBN2K70JB",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1212,7 +1160,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/balance-your-data-for-machine-learning-with-amazon-sagemaker-data-wrangler/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1254,6 +1202,58 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-how-video-games-could-be-used-to-generate-ai-training-data.md",
+      "title": "How video games could be used to generate AI training data",
+      "excerpt": "Some researchers believe that video games could be used to more effectively generate AI training data. But they're not a perfect solution.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/",
+      "originalUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/super-nes-switch-controller.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/amp/",
+      "publishedDateTime": "2022-02-02T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

@@ -595,12 +595,12 @@ related:
         isCached: true
   - title: "Teslas recalled because self-driving software tells them to roll through stop signs"
     excerpt: "DETROIT -- Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Recall documents posted ..."
-    publishedDateTime: 2022-02-05T02:43:00Z
-    webUrl: "https://abc13.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+    publishedDateTime: 2022-02-05T03:00:00Z
+    webUrl: "https://6abc.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
     type: article
     provider:
-      name: abc13.com
-      domain: abc13.com
+      name: 6abc News
+      domain: 6abc.com
     quality: 33
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11538119_020122-kabc-11pm-tesla-recall-vid.jpg?w=1600"

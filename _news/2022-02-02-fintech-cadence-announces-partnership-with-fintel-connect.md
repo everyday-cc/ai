@@ -3,8 +3,8 @@ category: news
 title: "Fintech Cadence Announces Partnership with Fintel Connect"
 excerpt: "Fintech Cadence announces today their partnership with Fintel Connect. The partnership will enhance the resources, offerings and capabilities that Fintech Cadence provides to"
 publishedDateTime: 2022-02-02T12:44:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html"
 type: article
 quality: 24
 heat: -1
@@ -157,6 +157,6 @@ related:
         height: 601
         isCached: true
 
-secured: "bDHvrOrmwvD/jjdHUIA7S6U/5kPV4Hp0LNHoZYDSfJUBuHgE01TVERcUObFlqZLQ0L07gxrRoJwFXfsq8nqxCZkgOnyRvEBwMlsIJ3W6U11fe57M+X8cTjX8iaUDfXRmNo8iYY/qIk5P57kBTCikBBi/jFkYMEU+mKrPwLlZ2utusxPThipnrzfnyhRZL0/tWTF8WRDfeSj4q+McQE59JuLbLph3+cpRQkiaIZJavlYTNosFQSEAMRhODIbOHird32aw5JQjDoM1PxYraP0i9YZB5kO0xBjRjDoP3EJCqLXhgx3ojZqtwqPMLESgWoezEG25gcBRv62InzWkPdCKlNWDLJTA43+oZslPxT8voLs=;LB9VMhABj+tmCKuxq9pgTw=="
+secured: "8POKKYiXxNjbJi0WMVyAU2IWdk3Onk3BYRACfsZVCdbGajOpG3hhETaFrozD2y0hYdg2CxrUX+1JOouuuJ8fDSoRkDjpRiKYrazb7rt5zEl2hVfDWEKw62WloSZOC8JZyIG4oGWDPup+3ZY4cp8ICpvUi5tDqd/iYyeU+10jDzjityWy521UCBm/VKXXIe/UvR0foafzty21ZLCHngpYFpXwrDx1REtLPHTSJLAJ0+fwOlaVv0W6XH+5xr9p6FkTjuJiNWbk3U427RiyvNkX8yoEep+9PRtswhhRTbfJuJvb2i1c+xJWLLbfQa+SAwlJ9ehxMML3YALb06tZVdTs9lAbaKX9Vxi9T+d69zJ84mY=;fBMUSSNOQQ19RBpy2RwhJg=="
 ---
 

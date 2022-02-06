@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/intelligent-and-health-care-mark
 webUrl: "https://www.digitaljournal.com/pr/intelligent-and-health-care-market-to-witness-impressive-growth-by-2026-microsoft-intel-verint-systems"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "Cloud Natural Language Processing Market to see Booming Business Sentiments | Microsoft, Apple, Dolbey Systems"
-    excerpt: "Advance Market Analytics published a new research publication on “Global Cloud Natural Language Processing Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable format. In the Study you will find new ..."
-    publishedDateTime: 2022-02-01T07:36:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-to-see-booming-business-sentiments-microsoft-apple-dolbey-systems"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/213a4dc4c587c92a338fe018937e54078e3b44c9-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "vBSNJwENy8kciFKrGHwlcE7GRAJ/8PvMvzIGJ/hvL2hRGKOdcGM2WgQQgx7r/zlQYAMkSwCBIUIsCYrgt12YjpZWDYxM46+NradMMVa0TcnvEa8rDO+UnwAKDeOMe0UQU5CYCdssknypTOQsI0j7v+t5+EbeyX+xPneKsO640I7aAnoFwic9cKL1gdz1Q/lrVUj2GXPwpL51G7iNpoRM6ror+wNeFXl8PGmE0tna+uQGtBAl3BS2uriOxmVi7gBb5YhZHfYGoO0Pj57hTLwer7np0xPrrTk18S3syd2NlyhbJgxRX0b952zN5byZAWfSUtNz4oIDXm0caWsNP8k0QiX1b8OCQdEd4DXt30Ic56k=;K06v6wovRpQRmYBfzJGESw=="
 ---

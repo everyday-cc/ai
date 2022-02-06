@@ -1,24 +1,46 @@
 ---
 category: news
-title: "Chinese dissident Ai voices criticism as Winter Games open"
-excerpt: "Ai Weiwei, possibly China’s best-known dissident, aired criticism of Beijing’s human rights record and response to the pandemic, in an interview with The Associated Press Friday, in which he also took aim at World Health Organization Director-General ..."
-publishedDateTime: 2022-02-05T15:45:00Z
-originalUrl: "https://www.bellinghamherald.com/news/article258056288.html"
-webUrl: "https://www.bellinghamherald.com/news/article258056288.html"
-ampWebUrl: "https://amp.bellinghamherald.com/news/article258056288.html"
-cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/article258056288.html"
+title: "Chinese Dissident Ai Voices Criticism as Winter Games Open"
+excerpt: "Ai Weiwei, possibly China’s best-known dissident, aired criticism of Beijing’s human rights record and response to the pandemic, in an interview with The Associated Press on Friday, in which he also took aim at World Health Organization Director ..."
+publishedDateTime: 2022-02-05T06:03:00Z
+originalUrl: "https://www.voanews.com/a/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
+webUrl: "https://www.voanews.com/a/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
+ampWebUrl: "https://www.voanews.com/amp/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
+cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: The Bellingham Herald
-  domain: bellinghamherald.com
+  name: Voice of America
+  domain: voanews.com
 
 topics:
   - AI
 
-secured: "v0ZlU0xU859MovVwXt+w9x4qrLYP4JF6lzchM88fbnhVQaNh2OmMNOKgaVti9EdE5UFZtSndOMkOtVMknGv9pQMw50CmAtXpnBX9cGXD+iGEBu7np16C2yTB7Cz3rgXHaUr/pmxbXtpQoL1f5syWBCPJVIqaQTQPPCBnK7RZxyn67AXTAVjbMlVZSE96G930NpKD90btYLTRnMJ3jVNlQV65jQAPpSSnPkEAR1MFbDOBeej2FgEAif4Qec3i/FCL3BUJZuTovfGw3WxNgZP349OrjoKAj/7uts5UBJ18a0QKE6n/sBOU7KkGY59MtU6+Vq1eUjKZHehqP/k4ERAysiLX5lvub+YbxMBBjejKit0h+IT6cmwdAihfZRW8xnYPkDGzj2qYBU5nREuo5SGNhTrwilVIINaX/sgF8CMNVu4kLE3IgXsyz8qQPKzBB0NmSlvBNzxw+8jCKAfxAO96B/jdd7uJVKPlxxfakCJjKSVcs4edhWPxroBSIWSZT8/DoJfCkwIRc8/p4jSgDcyQMQ==;0QBj7p9pVjfOt/fSqvpQuA=="
+images:
+  - url: "https://gdb.voanews.com/09dd0000-0a00-0242-3747-08d9e86c9c7e_w1080_h608_s.jpg"
+    width: 1080
+    height: 608
+    isCached: true
+
+related:
+  - title: "Analysts Think These 5 Chinese Stocks Could Rebound in 2022"
+    excerpt: "In this article, we discuss the 5 Chinese stocks that could rebound in 2022 according to analysts. - All Parts"
+    publishedDateTime: 2022-02-01T22:50:00Z
+    webUrl: "https://www.insidermonkey.com/blog/analysts-think-these-5-chinese-stocks-could-rebound-in-2022-1022831/?singlepage=1"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 24
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/28020415/Stocks-to-Invest.jpg"
+        width: 1280
+        height: 815
+        isCached: true
+
+secured: "q44pwbJNJWCNVbyKT0QZb7j3o7dvEWf5t8uZ5vUGMFvUuzAua3X42tGVQ8vAj4RSZHSRZv+lX/bC+HgWSsKKiUwuzieEowiApoU4/puMiu2iXsR90xk45m2jSRmprAFNv17NksYl25IleZ5P4fSdu0xSS+fPWy9eMHYSlS29p0CTcyhf7uHF7VwKvFLNPfUrNVtetDozQLI972NkW6BzXwDRRhDL6U/48NDuViDGY6CDTJ8z+gtj9M8YTSohckbDzJMO0QZAXI2W6+QAljw84s5WENLQ3cL3Rx3HgdneXYwyWw0JuketMJkAsIGVLf12ThBfWpfVWPW51oGSEbhZ786E9Fvi22FLE2qptN21l04=;zM9QpyT437vli/0ogPFv8g=="
 ---
 

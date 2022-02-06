@@ -116,7 +116,7 @@ related:
   - title: "Fintech Cadence Announces Partnership with Fintel Connect"
     excerpt: "Fintech Cadence announces today their partnership with Fintel Connect. The partnership will enhance the resources, offerings and capabilities that Fintech Cadence provides to"
     publishedDateTime: 2022-02-02T12:44:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html"
     type: article
     provider:
       name: WFMZ-TV

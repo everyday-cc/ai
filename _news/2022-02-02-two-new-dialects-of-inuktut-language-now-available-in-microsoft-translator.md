@@ -33,8 +33,8 @@ images:
 related:
   - title: "Is It Too Late to Buy Microsoft?"
     excerpt: "Integrating AI and machine learning into its cloud and enterprise software ... the intelligent cloud platform, which consists of Azure, GitHub, server products, and other cloud-based services such as databases, is growing faster than overall revenue ..."
-    publishedDateTime: 2022-02-03T13:24:00Z
-    webUrl: "https://www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft?time=1643889902"
+    publishedDateTime: 2022-02-03T12:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft"
     ampWebUrl: "https://www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft?amp"
     cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft?amp"
     type: article
