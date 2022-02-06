@@ -2,7 +2,7 @@
 name: "Arterys"
 overview: "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc."
 type: "profile"
-heat: 50
+heat: 42
 
 website: https://arterys.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=R_GU1ne-oW0"
 
-secured: "RfnG/fbaYsI4+cJbYBadpW58FkevO6du/VeTdxOKiKW22jWEogfGiEjCs4jIeItt/tm0ATKwapinfU6J2c/7VOCXatOGIyivUxGv7efyqD0Y4X7dL7x1zG5cV+15+TeAEv14cSxDCRHzDXoBUPNnLXQpDHu7HMm9ilkEVx1cMxXyNHRJ2vHWklj+TLPnCFeIcRXyobjz4Kkvjlyh+A49ooY3aZesa37YBYqVjR+9+oqOLOa9ymRKVoH0grOJhJNxoMR6867urFnBO/kjGMGljczKTyjhaRHzGP3ZaT/WgS0DMwrPtfijFqwhhCTYfmE7oKroTOI8+z119gGFw9rOjwC2sxhggEeyCiOW763F20kF1IXOjO6P842NSA2TrR74qNr399SJ+pMJ9ogysMxmIff4XKZQ1uJatqYgiW1qLEM=;D72YVoo7/dde3KBnLYlAqQ=="
+secured: "/Ca1MX6UKdqsuWcnYqJcMzVyKuQts0K4bVtclLW9D7NxDpiIxk3tPIP+qrso6IcxHIzvzMgbdj+8chpMrrPU5/UkcNfh6sxBuGpm8ZsfkuxvsSSpHlGO0hukocnR41PkK8CY42H8T4hPkt88AdBx32l3k9VH1RWyXhyFGBJmzPCvAX14Wn6u5VO47gy5T4N77EWVUSzgcCrDd9lNCuOG8r7ml7prFo4FEIf7Haa7xzavQ6aVPocPwzQCr5E+7L+kUiCXofo3C7vh1JmIXLXdwRV1AJFvOFkga7czpuOXO5sGsaYZ5w49C92PbdaTbkPzuXSCQ0gVKdQ1Sbuae8YayDTKqh4CFjFBgdl84DnhqWYEANIFLP+mi4/LqfmwnPV95DAUPnqxoTHYTIwWg0p6QYRtKRj4pieKHoDtdDGeoDI=;iqrnGWN8o3EBgHcoIreLBA=="
 ---
 

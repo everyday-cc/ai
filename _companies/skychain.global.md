@@ -2,7 +2,7 @@
 name: "Skychain Global"
 overview: "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence."
 type: "profile"
-heat: 58
+heat: 57
 
 website: https://skychain.global
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "skychainglobal"
   url: "https://twitter.com/skychainglobal"
-  followers: 2555
+  followers: 2556
 
 locations:
   - Redwood City, CA
@@ -31,6 +31,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=npQklriczNA"
 
-secured: "YTIcLjROD4CvP4kKs629neUcV4WnsbJxJDg7ME++mPDT1jjke92Q0zrkOhTcFauVzO0JTHeXtrpWTi6vV8tBTkKfGGUNGnM0CoDFJo9v7oPPfHp5VnpLF6Eka4bMFBdU0ysNrdf8dR+zOjqIpd1d/whRhIMUWAv24pLKW9gkMyCSeOdac9YXQC7b9oCR3iENGbYvszjHtKfB9YpZ/8VquINu4tQAPBVdty1ARl2q4dB5HjaecD6H+PX7ACNT5nJUI6A1qXWq4X6zUwOo6bedKaGP2WHT96Yk63yabQ/sVkypn7vVoJY24rhdeUhDcvHpdtQofqWVn6pU5Gt1frgfOZ38x8k9Qvr0eKWhOxtpAgVKumxmC7WAhatZZ9ICZPHqkWpN49v06ySJyeIFrcRG/xJ9TF5YI7+f3BvYwPeK0qQ=;Pn3W9Wc9jLv781f5I/NZXA=="
+secured: "UNifiEtmlmXktNfNQMzQYBnSBYvuO262lAAbDqi+9qkK7nYTTwICl+OxLjjY48F93dqHRr9GQWkIq/wrin5sZimiv2JHe0ur0LlCEvSuRPpofjp2Qqbp991TjyBDW5gW0tm2nUH1mMM1D4b8UjKd+nu/0crdF7Q5tfvJnaFgqHe3E5F9BIQp2U3QSIxzEAsOYT/PcksyXDAwM4DIFsrMk5rG/ov/ZwFbyQMunBJQioLmZNyImP3VjjMFjZDq1+izrg6o6k0SCV12IyhTpMbadNufWWUAZmqgfbd/+JFBHV35HlzrjhgUxPV5bdpSEwUglOn0bJ097dP92RMJA/hXwLbKPS7jsyWHaRuoOphAqVgmJ9C6CO0A7dAVKiJKOtbcn5FdmHoyv47K9HRoHRMa7MKtQSeJlhdRDR32eBpRXH8=;OdtdfuhktoCgTabt/YNDBQ=="
 ---
 
