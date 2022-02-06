@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-06-government-agencies-are-tapping-a-facial-recognition-company-to-prove-youre-you.md",
+      "title": "Government Agencies Are Tapping A Facial Recognition Company to Prove You’re You",
+      "excerpt": "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness",
+      "originalUrl": "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/443053/original/file-20220127-9782-2f0nex.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
+          "width": 754,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true",
+      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true",
+      "publishedDateTime": "2022-02-05T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Governing",
+        "domain": "governing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-06-how-computer-vision-can-create-smart-transportation-systems.md",
+      "title": "How Computer Vision Can Create Smart Transportation Systems",
+      "excerpt": "Bustling cities need the requisite transportation networks that can keep them running smoothly. AI and computer vision-powered smart transportation enables smart cities to achieve that objective with ease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/06/how-computer-vision-can-create-smart-transportation-systems/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/06/how-computer-vision-can-create-smart-transportation-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs-images.forbes.com/cognitiveworld/files/2018/08/Naveen-Joshi_avatar_1533314616-400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/06/how-computer-vision-can-create-smart-transportation-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/06/how-computer-vision-can-create-smart-transportation-systems/amp/",
+      "publishedDateTime": "2022-02-05T20:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-06-ai-in-retail-has-to-be-semi-automated-heres-why.md",
       "title": "AI in retail has to be semi-automated. Here’s why",
       "excerpt": "The key to the successful deployment of any AI system is to start with a quantified business problem. With this, retailers must foster a data-driven culture where the whole team is engaged in ...",
@@ -105,7 +200,7 @@
       "originalUrl": "https://www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-history/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1107,93 +1202,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-neuroscientists-use-deep-learning-model-to-simulate-brain-topography.md",
-      "title": "Neuroscientists use deep learning model to simulate brain topography",
-      "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/brain.jpg",
-          "width": 1920,
-          "height": 1462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
-      "publishedDateTime": "2022-02-03T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-people-are-more-comfortable-interacting-with-a-robot-if-it-appears-female.md",
-      "title": "People are more comfortable interacting with a robot if it appears female",
-      "excerpt": "... Hotel in Las Vegas to the fully automated FlyZoo hotel chain in China where guests interact only with robots and artificial intelligence (AI) features. In the UK a Chinese buffet chain purchased four 'BellaBots' at about $20,000 each to fill gaps in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10473397/People-comfortable-interacting-robot-appears-female.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10473397/People-comfortable-interacting-robot-appears-female.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/02/03/18/53740955-0-image-a-42_1643911614773.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10473397/amp/People-comfortable-interacting-robot-appears-female.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10473397/amp/People-comfortable-interacting-robot-appears-female.html",
-      "publishedDateTime": "2022-02-03T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

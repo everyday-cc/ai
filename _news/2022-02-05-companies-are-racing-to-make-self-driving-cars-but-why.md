@@ -41,6 +41,22 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Self-driving big-rigs will haul freight in Arizona"
+    excerpt: "In the self-driving technology world, there are five levels of autonomy. At Level 4, no human is required to be in the vehicle. But it can only operate along predefined, mapped routes — which TuSimple has done between Tucson and Phoenix. In its seven ..."
+    publishedDateTime: 2022-02-06T05:27:00Z
+    webUrl: "https://www.dailyitem.com/business/self-driving-big-rigs-will-haul-freight-in-arizona/article_3e1a1094-458d-57b9-99bf-295fa3e86ad0.html"
+    ampWebUrl: "https://www.dailyitem.com/business/self-driving-big-rigs-will-haul-freight-in-arizona/article_3e1a1094-458d-57b9-99bf-295fa3e86ad0.amp.html"
+    cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/business/self-driving-big-rigs-will-haul-freight-in-arizona/article_3e1a1094-458d-57b9-99bf-295fa3e86ad0.amp.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 44
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/c/5e/c5e328d8-85cd-11ec-ad31-b773d76c35c7/61fd43f4c0ea3.image.jpg?resize=1024%2C540"
+        width: 1024
+        height: 540
+        isCached: true
   - title: "Guess what drives trust in self-driving cars"
     excerpt: "Three major obstacles stand in the way of self-driving cars, and they are all rather obvious: the technology isn’t quite ready for the road, governments and traffic authorities aren’t ready for the rules, and people just aren’t ready for machines ..."
     publishedDateTime: 2022-02-05T22:06:00Z

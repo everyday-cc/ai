@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-04-neuroscientists-use-deep-learning-model-to-simulate-brain-topography.md",
+      "title": "Neuroscientists use deep learning model to simulate brain topography",
+      "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/brain.jpg",
+          "width": 1920,
+          "height": 1462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp",
+      "publishedDateTime": "2022-02-03T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-people-are-more-comfortable-interacting-with-a-robot-if-it-appears-female.md",
+      "title": "People are more comfortable interacting with a robot if it appears female",
+      "excerpt": "... Hotel in Las Vegas to the fully automated FlyZoo hotel chain in China where guests interact only with robots and artificial intelligence (AI) features. In the UK a Chinese buffet chain purchased four 'BellaBots' at about $20,000 each to fill gaps in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10473397/People-comfortable-interacting-robot-appears-female.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10473397/People-comfortable-interacting-robot-appears-female.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/02/03/18/53740955-0-image-a-42_1643911614773.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10473397/amp/People-comfortable-interacting-robot-appears-female.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10473397/amp/People-comfortable-interacting-robot-appears-female.html",
+      "publishedDateTime": "2022-02-03T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-facebook-parent-meta-announces-massive-ai-supercomputer.md",
       "title": "Facebook parent Meta announces massive AI supercomputer",
       "excerpt": "Facebook parent Meta Platforms Inc said on Monday that its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the world when completed in mid-2022. Meta said in a blog post that its new AI Research ...",
@@ -1148,101 +1235,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-how-ai-accelerates-insurance-claims-processing.md",
-      "title": "How AI accelerates insurance claims processing",
-      "excerpt": "The immediate aftermath of a vehicular crash is difficult for all parties involved. The drivers have to process trauma and figure out how to get their damaged cars repaired or replaced. Insurance companies have to conduct damage assessments and figure out the most efficient and least expensive route to get the claims resolved.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/",
-      "originalUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2012/11/insurance-for-ride-sharing.jpg?w=1200&strip=all",
-          "width": 803,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/",
-      "publishedDateTime": "2022-02-02T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-pentagons-new-data-and-ai-office-hits-ioc-milestone-gets-500m-budget.md",
-      "title": "Pentagon’s new data and AI office hits IOC milestone, gets $500M budget",
-      "excerpt": "The office of the chief digital and artificial intelligence will be responsible for scaling up data, analytics and AI to enable faster and better decision-making \"from campaigning to conflict.\"",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2022/02/pentagons-new-data-and-ai-office-hits-ioc-milestone-gets-500m-budget/",
-      "originalUrl": "https://breakingdefense.com/2022/02/pentagons-new-data-and-ai-office-hits-ioc-milestone-gets-500m-budget/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2021/11/211129_pentagon_code_gfx_v2b.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2022/02/pentagons-new-data-and-ai-office-hits-ioc-milestone-gets-500m-budget/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2022/02/pentagons-new-data-and-ai-office-hits-ioc-milestone-gets-500m-budget/amp/",
-      "publishedDateTime": "2022-02-02T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Traffic lights controlled using artificial intelligence"
-    excerpt: "Roads are chronically congested and vehicles queue endlessly at junctions. Rush hour is especially bad for long traffic jams. At the Fraunhofer Institute for Optronics, System Technologies and Image Exploitation IOSB,"
-    publishedDateTime: 2022-02-01T14:40:00Z
-    webUrl: "https://techxplore.com/news/2022-02-traffic-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2022-02-traffic-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-02-traffic-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/traffic-lights-control.jpg"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times"
     excerpt: "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights."
     publishedDateTime: 2022-02-03T17:40:00Z

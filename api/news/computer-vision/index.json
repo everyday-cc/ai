@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-06-government-agencies-are-tapping-a-facial-recognition-company-to-prove-youre-you.md",
+      "title": "Government Agencies Are Tapping A Facial Recognition Company to Prove You’re You",
+      "excerpt": "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness",
+      "originalUrl": "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/443053/original/file-20220127-9782-2f0nex.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
+          "width": 754,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true",
+      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true",
+      "publishedDateTime": "2022-02-05T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Governing",
+        "domain": "governing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-06-how-computer-vision-can-create-smart-transportation-systems.md",
+      "title": "How Computer Vision Can Create Smart Transportation Systems",
+      "excerpt": "Bustling cities need the requisite transportation networks that can keep them running smoothly. AI and computer vision-powered smart transportation enables smart cities to achieve that objective with ease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/06/how-computer-vision-can-create-smart-transportation-systems/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/06/how-computer-vision-can-create-smart-transportation-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs-images.forbes.com/cognitiveworld/files/2018/08/Naveen-Joshi_avatar_1533314616-400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/06/how-computer-vision-can-create-smart-transportation-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/06/how-computer-vision-can-create-smart-transportation-systems/amp/",
+      "publishedDateTime": "2022-02-05T20:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-air-force-taps-clearview-ai-to-research-face-identifying-augmented-reality-glasses.md",
       "title": "Air Force taps Clearview AI to research face-identifying augmented reality glasses.",
       "excerpt": "By Kashmir Hill The U.S. Air Force is looking into keeping its airfields safer with help from the facial recognition start-up Clearview AI. The Air Force Research Laboratory awarded Clearview $49,847 to research augmented reality glasses that could scan ...",
@@ -1299,84 +1394,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-the-irs-will-start-using-facial-recognition-this-summer-and-youll-have-to-send-off-a-selfie-if-you-want-to-pay-your-taxes-online.md",
-      "title": "The IRS will start using facial recognition this summer — and you’ll have to send off a selfie if you want to pay your taxes online",
-      "excerpt": "which will involve sending off a selfie for facial recognition. Security blogger Brian Krebs was the first to spot a message on the IRS website directing users to create an account with a company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com.au/irs-online-taxes-facial-recognition-selfies-2022-1",
-      "originalUrl": "https://www.businessinsider.com.au/irs-online-taxes-facial-recognition-selfies-2022-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61969a4fa2e68800198aea70?format=jpeg",
-          "width": 3583,
-          "height": 2688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com.au/irs-online-taxes-facial-recognition-selfies-2022-1/amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/irs-online-taxes-facial-recognition-selfies-2022-1/amp",
-      "publishedDateTime": "2022-01-20T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider Australia",
-        "domain": "businessinsider.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-ambientai-emerges-from-stealth-and-unveils-its-new-computer-vision-intelligence-cvi-platform-for-the-physical-security-industry.md",
-      "title": "Ambient.ai emerges from stealth and unveils its new Computer Vision Intelligence (CVI) platform for the physical security industry",
-      "excerpt": "Ambient.ai has emerged from stealth to introduce the first computer vision intelligence platform. The company has raised US$ 52 million in venture funding led by Andreessen Horowitz (a16z) and launches with five of the largest US tech companies by market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/mobile-access/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/mobile-access/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
-      "publishedDateTime": "2022-01-20T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

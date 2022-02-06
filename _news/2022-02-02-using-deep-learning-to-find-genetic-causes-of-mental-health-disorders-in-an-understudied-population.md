@@ -28,20 +28,6 @@ images:
 
 related:
   - title: "CHOP Researchers Use Deep Learning to Find Genetic Causes of Mental Health Disorders in Frequently Understudied African American Population"
-    excerpt: "Minority populations have been historically under-represented in existing studies addressing how genetic variations may contribute to a variety of disorders. A new study from"
-    publishedDateTime: 2022-02-01T14:12:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/chop-researchers-use-deep-learning-to-find-genetic-causes-of-mental-health-disorders-in-frequently/article_949732f2-d847-5d7f-bc3e-550afe545baa.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 5
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/ca/cca564bc-ccb1-54a8-9d9d-ac09043c0ecf/61f94f9d35af7.image.jpg?crop=1071%2C562%2C0%2C468&resize=1071%2C562&order=crop%2Cresize"
-        width: 1071
-        height: 562
-        isCached: true
-  - title: "CHOP Researchers Use Deep Learning to Find Genetic Causes of Mental Health Disorders in Frequently Understudied African American Population"
     excerpt: "Minority populations have been historically under-represented in existing studies addressing how genetic variations may contribute to a variety of disorders. A new study from researchers at Children’s Hospital of Philadelphia (CHOP) shows that a deep learning model has promising accuracy when helping to diagnose a variety of common mental health disorders in African American patients."
     publishedDateTime: 2022-02-01T17:05:00Z
     webUrl: "https://apnews.com/press-release/PRNewswire/science-business-health-genetics-mental-health-5d0cb1c421f27b876d2819bf1d7e18f4"

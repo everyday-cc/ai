@@ -1,46 +1,32 @@
 ---
 category: news
-title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
+title: "Government Agencies Are Tapping A Facial Recognition Company to Prove You’re You"
 excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-publishedDateTime: 2022-02-03T13:03:00Z
-originalUrl: "https://www.govexec.com/technology/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361499/"
-webUrl: "https://www.govexec.com/technology/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361499/"
+publishedDateTime: 2022-02-06T06:04:00Z
+originalUrl: "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness"
+webUrl: "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness"
+ampWebUrl: "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true"
+cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true"
 type: article
-quality: 25
-heat: -1
-published: false
+quality: 54
+heat: 104
+published: true
 
 provider:
-  name: Government Executive
-  domain: govexec.com
+  name: Governing
+  domain: governing.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.govexec.com/media/img/cd/2022/02/02/020322faceidGE/open-graph.jpg"
-    width: 400
-    height: 400
+  - url: "https://images.theconversation.com/files/443053/original/file-20220127-9782-2f0nex.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+    width: 754
+    height: 388
     isCached: true
 
 related:
-  - title: "Government Agencies Are Tapping A Facial Recognition Company to Prove You’re You"
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-    publishedDateTime: 2022-02-06T06:04:00Z
-    webUrl: "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness"
-    ampWebUrl: "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 54
-    images:
-      - url: "https://images.theconversation.com/files/443053/original/file-20220127-9782-2f0nex.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-        width: 754
-        height: 388
-        isCached: true
   - title: "Metro approves license plate readers, allows facial recognition"
     excerpt: "Metro Council on Tuesday approved the controversial use of license plate readers and sent the new, much debated legislation to Mayor John Cooper, who has signaled support for it. This week's Metro Council session spanned more than four hours yet spent close to a quarter of its time on legislation that has been debated in this and alternate versions since 2020."
     publishedDateTime: 2022-02-02T20:53:00Z
@@ -71,6 +57,20 @@ related:
         isCached: true
   - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-03T13:03:00Z
+    webUrl: "https://www.govexec.com/technology/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361499/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 25
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2022/02/02/020322faceidGE/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
     publishedDateTime: 2022-02-04T14:44:00Z
     webUrl: "https://www.nextgov.com/emerging-tech/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361604/"
     type: article
@@ -98,6 +98,6 @@ related:
         height: 713
         isCached: true
 
-secured: "XLlYcI+C1LzjOXDGfWstGXhFtFHfNQHtD+xNQ+EXijv3BJLhTQmpsNDi2PEMVyxTSU+bBFKX7waQFvj2Qii4Q/JfrKisOgb9n8a5R2oJslisZ9byEdWFrqK0Cmc0HisN3c7pMDAcT+i7OWrRPCu0+zcVK9F+UP7Umk4RRC4I6obJR8mBX821ZDioBebCQD1wjPyq2Gdp7/dA/Fxi7PaQRfjMEXm99hb9ybgcqpoysqJ6+YJ1MtqEi23SLxRGrfoClOWWFlZ6sMPC2ENr7WMzBhg3QlAihgMj8X5bCNBZwmHJ7vQfmCt9Xt6dIP/d2yunqLgB7mfH6HKNcwpl9DHgJoSh7hVZ6cxexMATfaJ9dls=;27/3u+mp3rYCrxxVi0gUNg=="
+secured: "DUtkxl6s+RUrEoc7RggdP3DH52moQDRCdDzipFr9ry0l8bMCiDfNed6Pc8y4TNFw8FNv/7zz8h99VnHHmFFVkQrueB5Py82C0pXvPu5lMEG199HFyKSzRkQs/VCZGDXjCkgoNwlhacsnurOPC4KfPoZCqmMHeBYZ8Y2nwVCdtBVZ+y+/199VUe/ZmjB1dZwIYnHeUQGPT30DrbFY7bHiltgFMaXcuhDBytcxzkJEnXYWNTODKUtmUW+aEQDtG4frOBdZmpiW6KyaUNLfTGKBxN9rQnO2vOUW7KBAb8XKhZJt/ISo7N5HmBBusRUPSsBRVUQSqiCI1FUJqFtLetmrSjYCGRXzqZGSocaFQm85sFw=;PYk4/9PUmQH4pfuckwzFPw=="
 ---
 

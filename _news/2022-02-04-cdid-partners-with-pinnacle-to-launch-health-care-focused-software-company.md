@@ -24,6 +24,17 @@ images:
     height: 2734
     isCached: true
 
+related:
+  - title: "Specialized software company will create healthcare-specific solutions to improve health outcomes"
+    excerpt: "Drawing upon the combined expertise of its parent companies, Predictive Health Solutions will create solutions tailored specifically to the healthcare industry. Pinnacle Solutions brings capabilities in data analytics, artificial intelligence, and machine ..."
+    publishedDateTime: 2022-02-04T00:10:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220203ny51783/center-for-discovery-innovation-and-development-partners-with-data-analytics-firm-to-create-predictive-health-solutions-a-software-company-focused-on-improving-outcomes"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 6
+
 secured: "TjZ7N3xg9kLxNISY9hJufyx2lLluF6tuwhQ86j8cGVpJkn2dshoHTVvmpVVaTtL0U2wDKuXX/LjTIkLVqLxZaI9R+IAlNnQPhGzh5gy9w9hglNHSaeGEOWHNx8jC1rDV1ORRhUIuPli5pOKEy7mPmmaouvXy8masY6Q+0w/osJYsBoMdNhoFcQc330XHWrlkzU/Z3xFsM147JEsUObG0W92C+Q+wtga/dnCsMYs0nBl6fVMHdPirQFj8FCaPP75BpDxP3D/M6wAHxiSTXr7KM9MIY2inJSXhNUSY34cIl7x0cLZLtisNlwua1d4VyQ4DoycT+/wDUrZHoFeuwGJNSNnlEWDOrYsPODzOZmqCx3w=;DRI/yyVq9TrV96Q71PST3A=="
 ---
 

@@ -19,35 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "AI Collaboration to Create Personalized Healthcare"
-    excerpt: "Health at Scale and Walmart's AI collaboration will enable the retailer's employees to find providers and interventions that are a fit for their personal health needs."
-    publishedDateTime: 2022-02-01T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
+  - title: "CDID partners with Pinnacle to launch health care-focused software company"
+    excerpt: "Predictive Health Solutions, unveiled by RWJBarnabas on Feb. 3, will use patient data along with external data sources to create solutions specifically for the health care sector. The venture ..."
+    publishedDateTime: 2022-02-04T13:25:00Z
+    webUrl: "https://njbiz.com/cdid-partners-with-pinnacle-to-launch-health-care-focused-software-company/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 74
+      name: NJBIZ
+      domain: njbiz.com
+    quality: 22
     images:
-      - url: "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 295
-        isCached: true
-  - title: "Yext Drives Personalization with AI-Powered Search Solutions for Healthcare Providers and Facilities"
-    excerpt: "\"The AI-powered tools Yext offers will allow all healthcare organizations ... Capture intent: For patients who prefer to start their journeys on third-party platforms, healthcare organizations can leverage Yext's search optimized landing pages for ..."
-    publishedDateTime: 2022-02-02T12:53:00Z
-    webUrl: "https://www.wjhl.com/business/press-releases/cision/20220202NY49858/yext-drives-personalization-with-ai-powered-search-solutions-for-healthcare-providers-and-facilities/"
-    type: article
-    provider:
-      name: WJHL-TV
-      domain: wjhl.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1738892/Yext_Healthcare_Personalization.jpg"
-        width: 400
-        height: 225
+      - url: "https://njbiz.com/files/2018/04/AR-180409972.jpg"
+        width: 3645
+        height: 2734
         isCached: true
 
 secured: "H1I0nDIKqosknYWbKYAPXUPrrJVthkEvQyZbKPGhmP3MGu1NQLt7E3EWU2K92IXhF+vS6HLMXzHGVesAOCDuXYdeAL8CzveoukLL7WWYFhNomqeWKw5oqtJ69WYItrCEIfP7lH54vZuDkubmzzWrAmxz+UleJ9zmH4ybJK/iye1yu+SWmYfi7SDfw5UzVwzG9Y57dGZrdUza6OYrF4WZjho9mygOcMvg0DbOj/PdkgLJ7ktoGq29Z2Ji6uFmmtOLCkK/yjnp57N1s9Ukj+TCB68EDewV01fVro66xf/sR0otgLYljfuIBqd3O4pALK5xMXd38ktfQ2Fk2BEEFwYWk9Cl8cwGp8IAOY2UDCpsTrY=;Cx9rC7blRcX6JzaJrl5S0A=="

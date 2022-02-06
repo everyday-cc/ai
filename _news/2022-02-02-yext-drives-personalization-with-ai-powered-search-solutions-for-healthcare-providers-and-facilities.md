@@ -7,7 +7,7 @@ originalUrl: "https://www.wjhl.com/business/press-releases/cision/20220202NY4985
 webUrl: "https://www.wjhl.com/business/press-releases/cision/20220202NY49858/yext-drives-personalization-with-ai-powered-search-solutions-for-healthcare-providers-and-facilities/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "AI Collaboration to Create Personalized Healthcare"
-    excerpt: "Health at Scale and Walmart's AI collaboration will enable the retailer's employees to find providers and interventions that are a fit for their personal health needs."
-    publishedDateTime: 2022-02-01T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/ai-collaboration-to-create-personalized-healthcare"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-collaboration-to-create-personalized-healthcare"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 74
-    images:
-      - url: "https://healthitanalytics.com/images/sized/GettyImages-1127125431-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 295
-        isCached: true
-  - title: "Specialized software company will create healthcare-specific solutions to improve health outcomes"
-    excerpt: "Drawing upon the combined expertise of its parent companies, Predictive Health Solutions will create solutions tailored specifically to the healthcare industry. Pinnacle Solutions brings capabilities in data analytics, artificial intelligence, and machine ..."
-    publishedDateTime: 2022-02-04T00:10:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220203ny51783/center-for-discovery-innovation-and-development-partners-with-data-analytics-firm-to-create-predictive-health-solutions-a-software-company-focused-on-improving-outcomes"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 6
 
 secured: "AqbaBqnYKo5M7B31ts+5uSd28kAEcB+Py/1zD9veN0iAlcfjHTlt4eO+4rp4XeoXJRLGxDVl25QTZCcomUwwwsVCHgZbkvm17Ge+oj3NDbU6128RY96PLLWARQhW6xROpUfX2EYEXCw/wWpU+KRaOqKob4qtMWN/2ri0E4WAeODLKS14qKkFnu0GF04yBVJDivHIceWnwObQpzo8TrO9bAzp97Qi767lOih+bLLjmJKek3DddYEnCr0trFPwDcdChoC6hrRb6Onbn1hG4f3lTMqpExImrfaEko0JqwehmM/LcTX6zrX43LIi8RaYxbxoDgFVonqrJsAqPzz7ioA4dG8rDIrMe4Hhaaaqwod5TFk=;z2fp6wLyUF15cfPn78rrGQ=="
 ---

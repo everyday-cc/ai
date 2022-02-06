@@ -2,6 +2,84 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-20-the-irs-will-start-using-facial-recognition-this-summer-and-youll-have-to-send-off-a-selfie-if-you-want-to-pay-your-taxes-online.md",
+      "title": "The IRS will start using facial recognition this summer — and you’ll have to send off a selfie if you want to pay your taxes online",
+      "excerpt": "which will involve sending off a selfie for facial recognition. Security blogger Brian Krebs was the first to spot a message on the IRS website directing users to create an account with a company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com.au/irs-online-taxes-facial-recognition-selfies-2022-1",
+      "originalUrl": "https://www.businessinsider.com.au/irs-online-taxes-facial-recognition-selfies-2022-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61969a4fa2e68800198aea70?format=jpeg",
+          "width": 3583,
+          "height": 2688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com.au/irs-online-taxes-facial-recognition-selfies-2022-1/amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/irs-online-taxes-facial-recognition-selfies-2022-1/amp",
+      "publishedDateTime": "2022-01-20T05:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider Australia",
+        "domain": "businessinsider.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-20-ambientai-emerges-from-stealth-and-unveils-its-new-computer-vision-intelligence-cvi-platform-for-the-physical-security-industry.md",
+      "title": "Ambient.ai emerges from stealth and unveils its new Computer Vision Intelligence (CVI) platform for the physical security industry",
+      "excerpt": "Ambient.ai has emerged from stealth to introduce the first computer vision intelligence platform. The company has raised US$ 52 million in venture funding led by Andreessen Horowitz (a16z) and launches with five of the largest US tech companies by market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/tags/mobile-access/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/mobile-access/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambient-ai-stealth-computer-vision-intelligence-cvi-platform-physical-security-industry-co-1642677976-ga-co-1642678221-ga-npr.1642680161.html",
+      "publishedDateTime": "2022-01-20T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-facial-recognition-market-by-industry-research-supply-size-share-and-prospects-2021-2030.md",
       "title": "Facial Recognition Market By Industry Research, Supply, Size, Share and Prospects 2021-2030",
       "excerpt": "In a recently published report, Facial Recognition Market report for till 2030. The report further now discusses; the various strategies to be adopted or being adopted by the business players ...",
@@ -1318,102 +1396,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round.md",
-      "title": "AI & Computer Vision platform Avatar raises $45mn in Tiger Global-led round",
-      "excerpt": "The Series B round saw co-participation from existing investor Sequoia Capital India. The financing is one of the largest fundraising rounds in the Applied 3D/AR space",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/11/full/1626023772-9613.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html",
-      "publishedDateTime": "2022-01-07T11:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-the-best-robot-vacuums-of-ces-2022.md",
-      "title": "The best robot vacuums of CES 2022",
-      "excerpt": "Several new floor cleaning robots were revealed at CES 2022. Find out what's new on the botvac scene, and what new technology they're armed with.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
-      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-x1-omni-2.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp",
-      "publishedDateTime": "2022-01-07T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
