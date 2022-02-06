@@ -2,7 +2,7 @@
 name: "Female Pioneers in Robotics – 2020"
 bio: "Featuring outstanding female researchers and entrepreneurs in the field of robotics."
 type: "collection"
-heat: 69
+heat: 50
 
 items:
   - jean-liu
