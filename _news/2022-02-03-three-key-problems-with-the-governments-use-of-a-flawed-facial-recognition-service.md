@@ -202,20 +202,6 @@ related:
         width: 854
         height: 480
         isCached: true
-  - title: "Edmonton police using facial recognition software to search mugshot database"
-    excerpt: "Starting this year, the Edmonton Police Service will be using NEC’s NeoFace Reveal facial recognition technology to help identify suspects in criminal investigations. Sarah Komadina reports."
-    publishedDateTime: 2022-02-02T01:45:00Z
-    webUrl: "https://globalnews.ca/video/8587770/edmonton-police-using-facial-recognition-software-to-search-mugshot-database/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 36
-    images:
-      - url: "https://i0.wp.com/media.globalnews.ca/videostatic/news/ps20ox0i7l-f1fhx2xx5d/6P_FACIAL_RECOGNITION.jpg?w=500&quality=70&strip=all"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Will IRS Require Use of Facial Recognition Software To Access Tax Info Online?"
     excerpt: "another reader asked. As of this writing, it’s true that the IRS is requiring taxpayers to use facial recognition software designed by a technology company called ID.me to access IRS documents and services online. We reached out to the IRS for comment ..."
     publishedDateTime: 2022-02-04T00:27:00Z

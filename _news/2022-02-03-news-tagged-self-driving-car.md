@@ -289,20 +289,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "54,000 Teslas recalled because \"Full Self-Driving\" software lets them roll through stop signs"
-    excerpt: "DETROIT -- Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Recall documents posted ..."
-    publishedDateTime: 2022-02-02T01:08:00Z
-    webUrl: "https://abc7.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 28
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/11529910_020122-kabc-md-tesla-recall-vid.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Yet another Tesla flaw casts doubt on 'full self-driving' tech"
     excerpt: "It turns out the problems with Tesla's \"full self-driving\" feature aren't just the fact that it's unreliable and super expensive. Apparently, it was also designed to break the law now and then. The news: Tesla is recalling nearly 54,000 vehicles with its ..."
     publishedDateTime: 2022-02-02T14:54:00Z

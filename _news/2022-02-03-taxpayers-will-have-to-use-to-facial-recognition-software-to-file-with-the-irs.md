@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wbez.org/amp/stories/using-facial-recognition-software-t
 cdnAmpWebUrl: "https://www-wbez-org.cdn.ampproject.org/c/s/www.wbez.org/amp/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad"
 type: article
 quality: 55
-heat: 205
+heat: 195
 published: true
 
 provider:
@@ -186,20 +186,6 @@ related:
       - url: "http://dcer237tfveol.cloudfront.net/v2/pD1PMFzw8Umi7Yps6CdbwAFRKt7ymUV3XcQPLr7o4008vG9pKt86R9asYWYy_-17su22c6IvzBtNIIzwzrjb-34fCist6iKXvH-XG8pT9zGQRo_SfhIMZxnC11dd6Yovql9yBt-tdIY7N5DDP6xAnJ"
         width: 854
         height: 480
-        isCached: true
-  - title: "Edmonton police using facial recognition software to search mugshot database"
-    excerpt: "Starting this year, the Edmonton Police Service will be using NEC’s NeoFace Reveal facial recognition technology to help identify suspects in criminal investigations. Sarah Komadina reports."
-    publishedDateTime: 2022-02-02T01:45:00Z
-    webUrl: "https://globalnews.ca/video/8587770/edmonton-police-using-facial-recognition-software-to-search-mugshot-database/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 36
-    images:
-      - url: "https://i0.wp.com/media.globalnews.ca/videostatic/news/ps20ox0i7l-f1fhx2xx5d/6P_FACIAL_RECOGNITION.jpg?w=500&quality=70&strip=all"
-        width: 500
-        height: 281
         isCached: true
   - title: "Three Key Problems with the Government's Use of a Flawed Facial Recognition Service"
     excerpt: "Forcing people to use private ID-verification to access tax accounts or other government services raises serious privacy and equity issues."
