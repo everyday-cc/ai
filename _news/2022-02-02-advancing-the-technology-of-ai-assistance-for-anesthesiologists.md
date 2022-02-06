@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anest
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/23/65/41/21977155/3/rawImage.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "GBT Technologies Inc’s (GTCH) AI driven-technology could reshape the world and potentially earn billions of dollars"
-    excerpt: "\"AI Stocks\"A small company called GBT Technologies Inc. (OTC PINK: GTCH) develops AI-driven technology primarily for the medical industry as well as"
-    publishedDateTime: 2022-02-01T17:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/gbt-technologies-incs-gtch-ai-driven-technology-could-reshape-the-world-and-potentially-earn-billions-of-dollars"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
-    images:
-      - url: "https://www.abnewswire.com/uploads/1643591440.jpeg"
-        width: 1500
-        height: 1000
         isCached: true
 
 secured: "nuJVCrZw0WbV8LAn4SdwBuPS5K1qeFnIRG79SRt5ae0pNTSKtVSM5qAY0m0wm6/zXcNXs5PQ6JFd+g7gmAzMcKXP04A1v7byyL0iZ6kSswuFWpwO0JUq+s7GOTDCQ+Y0PrDJavmAcOkfwSN+VyU3iYsm/4mZLT1Q94SBpeVCnDQ2/uRZw866FUmlsFMA8ZRGI3+X7u8K8LbNKU+o0+eVgXtLWsByozB1YIC5Cj6LdFCyopdqw7l6PT3KEOU1dEZEoCgVQuAiwQUVjXJMMoskqarF9zrBJgWBic7Pep3TV0NKbKY1eek/9jI92JBHN5Fk3OMCiXnVBWnKvx8NVodXB/D7/IESmfq4iFcM2VXH5M4=;fZlC/ngDQQ1QBI/EBlEudA=="

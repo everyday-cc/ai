@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Her voice, melodies will remain immortal: Laxman condoles Lata Mangeshkar's demise"
-    excerpt: "Her voice and melodies will remain immortal ... She was awarded the highest civilian award Bharat Ratna in 2001 in recognition of her contributions. She is is only the second vocalist, after ..."
-    publishedDateTime: 2022-02-06T07:55:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Sports/20220206/3904596.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
   - title: "'Lata Mangeshkar's golden voice is immortal': Rahul, Priyanka Gandhi condole singing icon's death"
     excerpt: "Congress leader Rahul Gandhi on Sunday condoled legendary singer Lata Mangeshkar demise saying that her golden voice is immortal and will continue to echo in"
     publishedDateTime: 2022-02-06T05:36:00Z
@@ -42,15 +33,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Lata Didi's melodious voice will always stay with us: PM Modi"
-    excerpt: "Her melodious voice will always stay with us ... six regional Indian languages and foreign languages. In 2001, in recognition of her contributions to the nation, she was awarded the Bharat ..."
-    publishedDateTime: 2022-02-06T08:55:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20220206/3904613.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "fu+2aM9g/MuJOaa80Hu86KQaA06IQCtDYX43xiq3hqDK6juPdzqkCSWsfJ3TILXH+JUjlYMMiq3d8qOqHwNkbqXmQ4gTWwiuUzD1jB2wWUzGcX+/JFgqQYNJtvVqj+a4fZOHTkMIJyoirQ39k6WpnaVCzWmhjwhFOi2CZNWJJpw7vBi8ZFTpU6UnaveQNFVukkQKhDVPWfuuCI+wjTBJZHs2INDJTgKbdP+ivc/LUvbdWhfvA+bU2nJYhOFnAVXuRlEJocUcRb7oNULATIZozb647Op6TRplu2Km8y5W0QfB4BOwf51EHSTX46WbGHg2P7MMvq+DdM8h7AhPXgNxiG9TNPZ0u1TNuhmdYB0cmiY=;r7nLB3Jd9ewrERFpk3n2/Q=="
 ---

@@ -67,20 +67,6 @@ related:
         width: 427
         height: 329
         isCached: true
-  - title: "Physical Therapy Software Market By Industry Research, Supply, Size, Share and Prospects 2019-2027"
-    excerpt: "Be it artificial intelligence (AI), internet of things ... world is directly proportional to the growth of global Physical Therapy Software market. In the next two years, more than 20 billion ..."
-    publishedDateTime: 2022-02-01T18:40:00Z
-    webUrl: "https://menafn.com/1103626121/Physical-Therapy-Software-Market-By-Industry-Research-Supply-Size-Share-and-Prospects-2019-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?888888"
-        width: 372
-        height: 250
-        isCached: true
   - title: "Aerostat Systems Market 2022-2027: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
     excerpt: "Moreover, numerous organizations are utilizing intelligent video surveillance systems owing to their various advantages, such as object recognition and video analytics, and thereby further ..."
     publishedDateTime: 2022-02-05T03:40:00Z

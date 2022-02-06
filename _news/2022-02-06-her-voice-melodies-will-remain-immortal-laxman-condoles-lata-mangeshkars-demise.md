@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/Articles/Sports/20220206/3904596
 webUrl: "https://news.webindia123.com/news/Articles/Sports/20220206/3904596.html"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -19,38 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "'Lata Mangeshkar's golden voice is immortal': Rahul, Priyanka Gandhi condole singing icon's death"
-    excerpt: "Congress leader Rahul Gandhi on Sunday condoled legendary singer Lata Mangeshkar demise saying that her golden voice is immortal and will continue to echo in"
-    publishedDateTime: 2022-02-06T05:36:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272270976/lata-mangeshkar-golden-voice-is-immortal-rahul-priyanka-gandhi-condole-singing-icon-death"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 11
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1644126400.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "She was voice of the country ever since I can remember: Jaishankar on Lata Mangeshkar's demise"
-    excerpt: "She was the voice of the country ever since I can remember ... regional Indian languages and foreign languages. In 2001, in recognition of her contributions to the nation, she was awarded the ..."
-    publishedDateTime: 2022-02-06T05:58:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/World/20220206/3904554.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 7
   - title: "Lata Didi's melodious voice will always stay with us: PM Modi"
-    excerpt: "Her melodious voice will always stay with us ... six regional Indian languages and foreign languages. In 2001, in recognition of her contributions to the nation, she was awarded the Bharat ..."
-    publishedDateTime: 2022-02-06T08:55:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20220206/3904613.html"
+    excerpt: "Her melodious voice will always stay with us ... She had sung songs in over thirty-six regional Indian languages and foreign languages. In 2001, in recognition of her contributions to the nation, she was awarded the Bharat Ratna, India's highest civilian ..."
+    publishedDateTime: 2022-02-06T09:09:00Z
+    webUrl: "https://www.indiatvnews.com/news/india/pm-modi-says-lata-didi-melodious-voice-will-always-stay-with-us-2022-02-06-758285"
+    ampWebUrl: "https://www.indiatvnews.com/amp/news/india/pm-modi-says-lata-didi-melodious-voice-will-always-stay-with-us-2022-02-06-758285"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/news/india/pm-modi-says-lata-didi-melodious-voice-will-always-stay-with-us-2022-02-06-758285"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
+      name: India TV
+      domain: indiatvnews.com
+    quality: 44
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/02/capture-1644138441.jpg"
+        width: 1200
+        height: 677
+        isCached: true
 
 secured: "wE0gp/WG6Rx3qCU7cSK7I7NMEx1+6l1KVX5EhrhWnqatcvdZnhW5Gm9bYxWn900AD1z/ogo5f0v77vG+ZopzYd4PbbUyBdLxo5v5XR3YEyhIUtOP78VUP/VONQQVCEtuUdOUTiTcofEGEkj97YlCnNtPgX2FvYS2dUGCiUgd85/C8pHgRoXxbr0rMDBxdHtzyLy7YsmhmhdAzL3ZoPgjrv1u9xhCdarGrJx+52O7i7ZdmFy4R9DmLEy2MI14ydLLQc+Iv9Qf3RhtIYXlCczzdwgUY0b4pzBdoNiUoXySNA56mqoUoTrNXW/o8uxD5FP/M/p5lp5raqgJSSgUwtRAsA57bXm48ksDYZCzeX3XSjY=;LwhstBllao9iF1HlTeFpjA=="
 ---

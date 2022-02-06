@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Lata Didi's melodious voice will always stay with us: PM Modi"
-excerpt: "Her melodious voice will always stay with us ... six regional Indian languages and foreign languages. In 2001, in recognition of her contributions to the nation, she was awarded the Bharat ..."
-publishedDateTime: 2022-02-06T08:55:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/India/20220206/3904613.html"
-webUrl: "https://news.webindia123.com/news/Articles/India/20220206/3904613.html"
+excerpt: "Her melodious voice will always stay with us ... She had sung songs in over thirty-six regional Indian languages and foreign languages. In 2001, in recognition of her contributions to the nation, she was awarded the Bharat Ratna, India's highest civilian ..."
+publishedDateTime: 2022-02-06T09:09:00Z
+originalUrl: "https://www.indiatvnews.com/news/india/pm-modi-says-lata-didi-melodious-voice-will-always-stay-with-us-2022-02-06-758285"
+webUrl: "https://www.indiatvnews.com/news/india/pm-modi-says-lata-didi-melodious-voice-will-always-stay-with-us-2022-02-06-758285"
+ampWebUrl: "https://www.indiatvnews.com/amp/news/india/pm-modi-says-lata-didi-melodious-voice-will-always-stay-with-us-2022-02-06-758285"
+cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/news/india/pm-modi-says-lata-didi-melodious-voice-will-always-stay-with-us-2022-02-06-758285"
 type: article
-quality: 4
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: India TV
+  domain: indiatvnews.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/02/capture-1644138441.jpg"
+    width: 1200
+    height: 677
+    isCached: true
 
 related:
   - title: "Her voice, melodies will remain immortal: Laxman condoles Lata Mangeshkar's demise"
@@ -28,30 +36,7 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 13
-  - title: "'Lata Mangeshkar's golden voice is immortal': Rahul, Priyanka Gandhi condole singing icon's death"
-    excerpt: "Congress leader Rahul Gandhi on Sunday condoled legendary singer Lata Mangeshkar demise saying that her golden voice is immortal and will continue to echo in"
-    publishedDateTime: 2022-02-06T05:36:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272270976/lata-mangeshkar-golden-voice-is-immortal-rahul-priyanka-gandhi-condole-singing-icon-death"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 11
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1644126400.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "She was voice of the country ever since I can remember: Jaishankar on Lata Mangeshkar's demise"
-    excerpt: "She was the voice of the country ever since I can remember ... regional Indian languages and foreign languages. In 2001, in recognition of her contributions to the nation, she was awarded the ..."
-    publishedDateTime: 2022-02-06T05:58:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/World/20220206/3904554.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 7
 
-secured: "62pqCPODXznZLezObNIOLlvhrFBCIap6ApNse+iR6y0fbMd3birurfbtcntVUwvZzIYmCznCCIbXTK/LXvhrtDbSSQI92AFdNqxCwOCwRk37cgU4id7TqoWfYm3oEviP2NnQwoii3307EDY+tXfE0XxILo0JD2wPRuYN0dHMohMaoPjIUzkXwy6j9nju2PPoTEjq0GlB4bzy0XXO2JW3WXoIQIJ94fVhLhEgviy1dlU3WkFVvgiXFE3k9ggR6lXZ2MNItKdLSFBYH2jSPosi5uzQBcjmtTO1miYRDktFWRjIbEI6GpFwdFpky8pGxqceEkNpz/B3fs5LqJ+tRx7d+l5xPdK5YcZDLeof8KX/OJo=;q0PTs8tDqYsmyXsWjWXC5g=="
+secured: "JI7iwdRltEUbuz7pVWjQzNd069ObCnJo012IrVdMXV/RNIFJlQLOWJptDbKQSeEEuxDmxtlW1HOcnHg6hTvVHA/Zg2p/e7whkRKcp8IIdpyELewsQJKpHehlNrf0o17XlAvRKMZSHmKMsQ2BUNJspQba0yscTUD5OPoKv2fiRG/Ueld5U2TXVZTFsk7sg3M745L8ucCUhSRC5GrKzFLq/bzkCeV295mtNqL1cLT2i4bpQs9duoKfGdBpILTySQrKw2u/B6VV0ROiZB+22gj4pR3ol0+O9O0+KJXNREyA+A2n5/MW7i+raAwsUQv4iRiQZJNYNYTifzv8UlRCHJKeYWxr7mlwxNlyac4R2UO4Pdk=;V9VdtjVJ+frzJk2KYMT3eQ=="
 ---
 

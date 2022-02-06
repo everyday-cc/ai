@@ -1,27 +1,27 @@
 ---
 category: news
-title: "IRS to start using facial recognition technology for online account access"
-excerpt: "Starting in summer 2022, the Internal Revenue Service will start asking taxpayers to use facial recognition technology to access their online accounts."
-publishedDateTime: 2022-02-02T13:08:00Z
-originalUrl: "https://www.krgv.com/news/irs-to-start-using-facial-recognition-technology-for-online-account-access"
-webUrl: "https://www.krgv.com/news/irs-to-start-using-facial-recognition-technology-for-online-account-access"
+title: "Facial Recognition Plan from IRS Raises Big Concerns"
+excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+publishedDateTime: 2022-02-06T08:50:00Z
+originalUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/?amp;text=via"
+webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/?amp;text=via"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: KRGV
-  domain: krgv.com
+  name: Scientific American
+  domain: scientificamerican.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "http://dcer237tfveol.cloudfront.net/v2/pD1PMFzw8Umi7Yps6CdbwAFRKt7ymUV3XcQPLr7o4008vG9pKt86R9asYWYy_-17su22c6IvzBtNIIzwzrjb-34fCist6iKXvH-XG8pT9zGQRo_SfhIMZxnC11dd6Yovql9yBt-tdIY7N5DDP6xAnJ"
-    width: 854
-    height: 480
+  - url: "https://static.scientificamerican.com/sciam/cache/file/8276C43B-F484-45D8-A0EAEB4DD77803B6.jpg"
+    width: 790
+    height: 496
     isCached: true
 
 related:
@@ -61,20 +61,6 @@ related:
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
     publishedDateTime: 2022-02-05T00:31:00Z
     webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 54
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/8276C43B-F484-45D8-A0EAEB4DD77803B6.jpg"
-        width: 790
-        height: 496
-        isCached: true
-  - title: "Facial Recognition Plan from IRS Raises Big Concerns"
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-    publishedDateTime: 2022-02-06T08:50:00Z
-    webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/?amp;text=via"
     type: article
     provider:
       name: Scientific American
@@ -187,6 +173,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "IRS to start using facial recognition technology for online account access"
+    excerpt: "Starting in summer 2022, the Internal Revenue Service will start asking taxpayers to use facial recognition technology to access their online accounts."
+    publishedDateTime: 2022-02-02T13:08:00Z
+    webUrl: "https://www.krgv.com/news/irs-to-start-using-facial-recognition-technology-for-online-account-access"
+    type: article
+    provider:
+      name: KRGV
+      domain: krgv.com
+    quality: 37
+    images:
+      - url: "http://dcer237tfveol.cloudfront.net/v2/pD1PMFzw8Umi7Yps6CdbwAFRKt7ymUV3XcQPLr7o4008vG9pKt86R9asYWYy_-17su22c6IvzBtNIIzwzrjb-34fCist6iKXvH-XG8pT9zGQRo_SfhIMZxnC11dd6Yovql9yBt-tdIY7N5DDP6xAnJ"
+        width: 854
+        height: 480
+        isCached: true
   - title: "Three Key Problems with the Government's Use of a Flawed Facial Recognition Service"
     excerpt: "Forcing people to use private ID-verification to access tax accounts or other government services raises serious privacy and equity issues."
     publishedDateTime: 2022-02-02T22:06:00Z
@@ -230,6 +230,6 @@ related:
         height: 400
         isCached: true
 
-secured: "60HwMv0Q4pL9V02C/25luhJD+4D9bPZ3EVgPcWlOAdVeuUg1SZY1uw1j4zsY+5ckwyfZSt7KOhwjsBS5rVWoKGG7KxqSeiLvH05dyXGtLKFDOJ9ooP9GdsDXMEiE63mZjYAXE2urEWMRx/jQkDr45Qg0AMvvecJxhJZsPDPZacp0PS1k3sjyu/d2/ewh+5q5EkPe2Z/BfzGuahnDfAVNVFMW2ZLvG81/UhTRW9X5/HJBYUzljFakH9lBoU/5GLpMfFqcKntB5gqbLwLftLibxyC6+zfG90vwMqBPF2FoHMcE1yeE4e9H1isqAk3H9jadQxKIbJikT29mTpQBz6NT+rUYZ27FpFSJKMvKBIVV3KjFvBVUYAgOVuEA0oYd6iZhnIv4pyxXKotmT2T3ZTzLF6Zom6yudfTWFis3765jQz98hHgxsmpVoT26ryRJB4dLXi1IaxOlG+r+eNM552IDhiYMOY2qXUMHOsnFpTEQQLOhfiVAC6t0IkHFcCeLW77SHKb6UvtqmRSY8BJh455czw==;fhuiQCSOyXFs2E/nrgdMJw=="
+secured: "yVFWGrT7DqnBAAMaVv/4POr6xOwfrOCg/nIqrko43PChng0l3o0HXAAkGBiLMJU+S7DL4qqty3q6MgH6rmf95VWWGjbbkcKztue9yhQ+cSlIgn6s06IEiQppxmi209VBaxg+esYkXOb3z9gHUIB8r7hhEF/XzgflK9qE+ESQYB/l91B8XWUDWYgnm5mFUDPTxd9EXBQvCjEQnb2DKOV+OVJ5Bn0qghAuB8bNdyyZidZQoQTtNFg6lKh2a99hWsXRxdqv4bufnJr3+NGn/oVCk4sKSPAjUpO1piY063udPWwMEYDehbQYvhkgjMnKookj4T4+BoO/P5QYjOe+0av30o9f1wTtXL+BJBhV/by9RDM=;abb+D0Jv2EyVzab+mV8VtA=="
 ---
 

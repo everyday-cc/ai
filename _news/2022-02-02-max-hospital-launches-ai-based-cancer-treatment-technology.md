@@ -71,20 +71,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "GBT Technologies Inc’s (GTCH) AI driven-technology could reshape the world and potentially earn billions of dollars"
-    excerpt: "\"AI Stocks\"A small company called GBT Technologies Inc. (OTC PINK: GTCH) develops AI-driven technology primarily for the medical industry as well as"
-    publishedDateTime: 2022-02-01T17:30:00Z
-    webUrl: "https://www.digitaljournal.com/pr/gbt-technologies-incs-gtch-ai-driven-technology-could-reshape-the-world-and-potentially-earn-billions-of-dollars"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 15
-    images:
-      - url: "https://www.abnewswire.com/uploads/1643591440.jpeg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "+X1jiKOLDjxi2ZCEaH9L09qgXZYtHBI+0H6fucDZVkHK6Zp84d3G26ir1rQaUPy+1Qv2G5ieSB/0uxiiyTK7JERqpjJ2UVjxBk70OnAjM3mYEsVqhvjrqVp8lKQbVLZhSZ61g6rzQUTio68qKnqQnI1SOJbCG6tKYAGPq0yfWpek6dDrgq0nbqyVoJAo0cTFwQsrB/OEfTqBw2eCRXYoMz3ri6NwErdF6S8wPM5eyBFSYQwgJiswqkKdRzpZld3PTeqxG/pHzPc9HTasmZq/ANONQMC2l00AYbXPlByYm11gdD15wBZbe/Q+5SfBuVmZ7MVOkVaI84pXswKPDSzw67QUbmxk2VCM32Is6raTEZ8p+Mq3MeEum9mtBqzOsJYAuVBPv/vb5IhyjUCTCZIkh8eLB6zibEw3NSgcj6/+b687uJKwKernhVVZk9hYjBbJz6StkT4jqJzyWfyjbJvFEvXiY15YAbhriC9S6x4perK2BOj1HHER/vW2lFHNzeL7wcYiGZMi5MgPVd6tehYWbA==;w37oHJqxPt/LhzvKEt0eFQ=="
 ---

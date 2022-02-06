@@ -27,33 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Civil rights groups launch effort to stop IRS use of 'flawed' ID.me facial recognition"
-    excerpt: "Multiple groups have come together to urge the IRS to stop its use of facial recognition software. Outrage continues to swirl around a proposed plan from the Treasury Department to require some taxpayers to submit to facial recognition and biometric surveillance in order to access their accounts online."
-    publishedDateTime: 2022-02-01T18:47:00Z
-    webUrl: "https://www.zdnet.com/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 61
-  - title: "Government agencies are tapping a facial recognition company to prove..."
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID."
-    publishedDateTime: 2022-02-01T18:03:00Z
-    webUrl: "https://www.thehour.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php"
-    ampWebUrl: "https://www.thehour.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
-    cdnAmpWebUrl: "https://www-thehour-com.cdn.ampproject.org/c/s/www.thehour.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php"
-    type: article
-    provider:
-      name: The Hour
-      domain: thehour.com
-    quality: 58
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Taxpayers will have to use to facial recognition software to file with the IRS"
     excerpt: "If you haven’t already filed your taxes, your face may become the key to getting it done. Reset learns more about the facial recognition software the IRS started using this year."
     publishedDateTime: 2022-02-03T08:12:00Z
@@ -69,20 +42,6 @@ related:
       - url: "https://api.wbez.org/v2/images/462329f1-d357-447b-b5aa-78854f5138b8.jpg?mode=FILL&width=1200&height=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The Flawed Claims About Bias in Facial Recognition"
-    excerpt: "Recent improvements in face recognition show that disparities previously chalked up to bias are largely the result of a couple of technical issues."
-    publishedDateTime: 2022-02-02T16:57:00Z
-    webUrl: "https://www.lawfareblog.com/flawed-claims-about-bias-facial-recognition"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 54
-    images:
-      - url: "https://www.lawfareblog.com/sites/default/files/facialrecog.jpg"
-        width: 2048
-        height: 1536
         isCached: true
   - title: "New legislation would ban IRS from using facial recognition software on taxpayers"
     excerpt: "EXCLUSIVE: The Internal Revenue Service (IRS) would be barred from using facial recognition software on taxpayers under new legislation introduced Friday in Congress."
@@ -104,6 +63,20 @@ related:
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
     publishedDateTime: 2022-02-05T00:31:00Z
     webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 54
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/8276C43B-F484-45D8-A0EAEB4DD77803B6.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "Facial Recognition Plan from IRS Raises Big Concerns"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-06T08:50:00Z
+    webUrl: "https://www.scientificamerican.com/article/facial-recognition-plan-from-irs-raises-big-concerns/?amp;text=via"
     type: article
     provider:
       name: Scientific American
@@ -158,6 +131,20 @@ related:
         width: 780
         height: 520
         isCached: true
+  - title: "PD Editorial: IRS facial recognition plans tax the public’s patience"
+    excerpt: "Editorials represent the views of The Press Democrat editorial board and The Press Democrat as an institution. The editorial board and the newsroom operate separately and independently of one another. The Internal Revenue Service found a way to become even ..."
+    publishedDateTime: 2022-02-04T08:20:00Z
+    webUrl: "https://www.pressdemocrat.com/article/opinion/pd-editorial-irs-facial-recognition-plans-tax-the-publics-patience/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 39
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=f02c97b5-2355-5b05-a9a9-5d3e1ae02e0a&type=primary&q=72&width=1200"
+        width: 1199
+        height: 777
+        isCached: true
   - title: "GOP lawmakers move to stop IRS facial recognition technology"
     excerpt: "Republicans in Congress are raising concerns about the Internal Revenue Service’s move to use facial recognition technology to authenticate taxpayers before they can access their online accounts, introducing a bill that would ban the practice. The IRS ..."
     publishedDateTime: 2022-02-04T21:06:00Z
@@ -171,6 +158,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/a4b6c57/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2b%2F95%2F021b51a74a8f93d36ab8e268ad75%2Firs-building-spotlight.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "IRS facial recognition plan gets fierce blowback from bipartisan senators"
+    excerpt: "In the wake of a controversial plan by the Internal Revenue Service to implement third-party services that rely on facial recognition, bipartisan senators on Thursday demanded that the IRS “immediately discontinue” any programs that collect ..."
+    publishedDateTime: 2022-02-04T21:00:00Z
+    webUrl: "https://www.fastcompany.com/90719029/irs-facial-recognition-plan-gets-fierce-blowback-from-bipartisan-senators"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 38
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-IRS-facial-recognition-plan-gets-blowback-from-bipartisan-senators.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "IRS to start using facial recognition technology for online account access"
     excerpt: "Starting in summer 2022, the Internal Revenue Service will start asking taxpayers to use facial recognition technology to access their online accounts."
@@ -186,6 +187,20 @@ related:
         width: 854
         height: 480
         isCached: true
+  - title: "Three Key Problems with the Government's Use of a Flawed Facial Recognition Service"
+    excerpt: "Forcing people to use private ID-verification to access tax accounts or other government services raises serious privacy and equity issues."
+    publishedDateTime: 2022-02-02T22:06:00Z
+    webUrl: "https://www.aclu.org/news/privacy-technology/three-key-problems-with-the-governments-use-of-a-flawed-facial-recognition-service"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 35
+    images:
+      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Will IRS Require Use of Facial Recognition Software To Access Tax Info Online?"
     excerpt: "another reader asked. As of this writing, it’s true that the IRS is requiring taxpayers to use facial recognition software designed by a technology company called ID.me to access IRS documents and services online. We reached out to the IRS for comment ..."
     publishedDateTime: 2022-02-04T00:27:00Z
@@ -199,6 +214,20 @@ related:
       - url: "https://www.snopes.com/tachyon/2022/02/GettyImages-1205818979.jpg"
         width: 2121
         height: 1414
+        isCached: true
+  - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-03T13:03:00Z
+    webUrl: "https://www.govexec.com/technology/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361499/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 25
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2022/02/02/020322faceidGE/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "tCBRR920A3b1jpTDMEUs83NYytLzG6FlpIa4OzY5m+6LZDxTGzX6V+zhTzMWd+8kSYz3BYAObH/TRIA2K4sCRoIX8xALdYGjijCQB2nnaNvTKDfttjm3k5CQUvAStiKYIQcWvpTErXDGSN2qEf0jZEGk0HF+c2M04CZFYkYPW3q313RfJ9m2hYsvFPxFtKk+EK6eo6kQTY5iO7fRfb5rGtuIiWHL4U5+bdnRWmR10DBwNHsfJH5zbAWOcLYEZadCS+rQx3yrCbEOms2q3JjJ8AAzZgSt+x2dGMeDA1HIa2LmlIKhEAm9a2cj5rS0nEOjSeBTQKltGv5L6xZXIVR8x0rj2zgTahJukLNLf2RziSvqdT6Jdk6pKDw+8LDELF4QlwvwFj28crXtiUc8Z7kKp54Pg75UYxAH6H0Fj9TOovfRGFikfs6SI2MAB/gadDseRJlL4JkAGS2wYZpQTPmK4+ywcHBWnidCqtbELHPuyd8bcxOXITE7hMX9CT4D4kbzwlAKwSJh2PEffSV31GuQHA==;yD0MpSp8Rr6WBGlmiDi/dA=="

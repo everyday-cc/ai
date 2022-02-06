@@ -81,20 +81,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Physical Therapy Software Market By Industry Research, Supply, Size, Share and Prospects 2019-2027"
-    excerpt: "Be it artificial intelligence (AI), internet of things ... world is directly proportional to the growth of global Physical Therapy Software market. In the next two years, more than 20 billion ..."
-    publishedDateTime: 2022-02-01T18:40:00Z
-    webUrl: "https://menafn.com/1103626121/Physical-Therapy-Software-Market-By-Industry-Research-Supply-Size-Share-and-Prospects-2019-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?888888"
-        width: 372
-        height: 250
-        isCached: true
 
 secured: "R8KiMR9I7bvVpagDv60nB6D/XLSxwToJc1dhXP/dOIeF3HCcr+RfHor1NB1Akg726e1sSQEMBTVWOW18cgZfi1KdWbXMLV0e4sEB/dS2ZCDbmZMK1k7yTb6fAVOIhV6ox+6tjRcLpFx6jsB6UCZSumnFEesa+xt+cbZrOywaBoydtzvEUbW7OM/sUbLwkU6dc6Y3RzOhTkNjSsGdpWTbD1cltos0GJbCVoLWdu9F0fpXfpHN/5ZiCVvEu4cCEaQjgZ16oCeUblvxoHlA0WfJ3zG2TuKwViHdz0PzP5N+fTqpLBMdRH0sHdS4dkY6NwesnZ5xzQ6jGWs1O5VxNE2Mz+TfO3Nj0Dat0vdIXUfa470=;rwm4FLM00h/F3Uzo86NMeQ=="
 ---
