@@ -1,48 +1,24 @@
 ---
 category: news
-title: "Chinese Dissident Ai Voices Criticism as Winter Games Open"
-excerpt: "Ai Weiwei, possibly China’s best-known dissident, aired criticism of Beijing’s human rights record and response to the pandemic, in an interview with The Associated Press on Friday, in which he also took aim at World Health Organization Director ..."
-publishedDateTime: 2022-02-05T06:03:00Z
-originalUrl: "https://www.voanews.com/a/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
-webUrl: "https://www.voanews.com/a/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
-ampWebUrl: "https://www.voanews.com/amp/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
-cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
+title: "Chinese dissident Ai voices criticism as Winter Games open"
+excerpt: "The dissident Chinese architect behind the Beijing stadium hosting Friday’s opening ceremony of the Winter Games has scoffed at the head of the U.N. health agency."
+publishedDateTime: 2022-02-05T01:37:00Z
+originalUrl: "https://www.miamiherald.com/news/article258056288.html"
+webUrl: "https://www.miamiherald.com/news/article258056288.html"
+ampWebUrl: "https://amp.miamiherald.com/news/article258056288.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/article258056288.html"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Voice of America
-  domain: voanews.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI
 
-images:
-  - url: "https://gdb.voanews.com/09dd0000-0a00-0242-3747-08d9e86c9c7e_w1080_h608_s.jpg"
-    width: 1080
-    height: 608
-    isCached: true
-
-related:
-  - title: "Olympics-Chinese women online show more interest in Winter Games"
-    excerpt: "BEIJING (Reuters) – Women in China have shown more interest than men in searching online for Winter Olympics-related information, a report by search engine company Baidu showed on Wednesday."
-    publishedDateTime: 2022-02-02T06:36:00Z
-    webUrl: "https://www.metro.us/olympics-chinese-women-online-show/"
-    ampWebUrl: "https://www.metro.us/olympics-chinese-women-online-show/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/olympics-chinese-women-online-show/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 44
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportSportsNews/tagreuters.com2022binary_LYNXMPEI1105D-BASEIMAGE.jpg"
-        width: 800
-        height: 534
-        isCached: true
-
-secured: "hmTY4/EJx5+2nPusf1HDfCdLL50GCBHmgiYY0TEe+xdM4sj+CKGzZCkIKtBCgOvzQyzZimixjS3dAlkonNqnGxftKMc2i1LvS7gDvss9xWvxLOpXjrZLvdY6sYor0yEh6iCfeHJ06ycqFZ1KIHySpAPmfZx+6DOKD/aCIdHqzXj2A0QI721ZgH3fqruVeY8g7KJLwRx+T9b4lrqOwmTJHldtKbsqvsaytuXZlyNgllNi8zMQGQ3G2Fh+0IUZ64Dlbwa9fUIwiwRR/p9r4UNNxTepkb8p//8hxzoim7uDJ+clQdIHXfDiX8pux0szm5rxjnDFhnTg3WyQ3BQf1CHPTrZeofUzTMyJBDA0Su3trnV2VGodOQVUxIq1JJaKTwD/cajP7RUvQfMfT6B6ML4iqTD07nio8k6vLeBfZy1qH7MtEis/kGb92fg/P4A3HD12viEGNx0yMfSlweBVi12WMK3FGej9Kyo4ovhYIeLCayHoIAElmuIk0Vw9fUWEcGiHp8ty1yB3Hje9yLyLKwkgmg==;7tm+lffGf+gygjdqrjnQdA=="
+secured: "1T8JOApz8G/JLz2xQfWkZk00xe8gEuI+Di8WT+JmSEt1UrtvPzpLcUIhB28xs/3C+w/xo6aXNTLzy87I2m7uJ9e0KmEsn5nFejJV3ExRB4XfJWNXX8IiPggZ31Tls8OZ0bvmzAusPA1dkZochFC+IpErhSx94d3T2kGDKnaLbOZoTLbJsAVlL4zwEJF26XF3XE6lG9Ro2z1w6tU7B2ca5uyGYILrz8OxWg4f9Ro23Si1/i6ggnHDw8Zz9BrNBPSjq0Y+8S5/g+pQIyEktB+lCrp1/EvviaRpSNYcMSR90zerDGb0A9uL6eWi48CX11g4ojBMbn+4VKaPEQJZK5GPOHS7gOeDhso6R4iR1pbymUkEcOOGickdNhrURe9adGRX2uCaYBfqqlvwMuFrdC1PNDmiy7IwNSjpsVXppsE2+fZjsDn2m22AybNtuwcZ84X0VwdVosk+ivGD//Lc8m2spuopksADvbnJvg+/TJRxoiQXbvRJ4o0lgkvpuAkEfyw3dv7opL1gAlfDWfpUTf0WmA==;B4+SoCbqOKpv3TOvpMN71w=="
 ---
 

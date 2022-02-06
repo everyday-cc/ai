@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese Dissident Ai Voices Criticism as Winter Games Open"
-    excerpt: "Ai Weiwei, possibly China’s best-known dissident, aired criticism of Beijing’s human rights record and response to the pandemic, in an interview with The Associated Press on Friday, in which he also took aim at World Health Organization Director ..."
-    publishedDateTime: 2022-02-05T06:03:00Z
-    webUrl: "https://www.voanews.com/a/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
-    ampWebUrl: "https://www.voanews.com/amp/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
+  - title: "Chinese scientists build robot nanny to care for babies in artificial womb"
+    excerpt: "Scientists in China have created a robotic artificial intelligence system to monitor and care for ... Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today."
+    publishedDateTime: 2022-02-04T19:08:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
+    ampWebUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
+    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
     type: article
     provider:
-      name: Voice of America
-      domain: voanews.com
+      name: The Independent
+      domain: independent.co.uk
     quality: 57
     images:
-      - url: "https://gdb.voanews.com/09dd0000-0a00-0242-3747-08d9e86c9c7e_w1080_h608_s.jpg"
-        width: 1080
-        height: 608
+      - url: "https://static.independent.co.uk/2022/01/31/16/robot%20nanny%20china.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 899
         isCached: true
 
 secured: "FoDTlZE5dICP7CNv1D2oFDdbXGIfAhKtHMpRF+hiTYQXV8Dyc89PZQwISOAeqw7LkbUQkeB/u0RxNl4gq5sJneEGHLVelVQagP638L57pumxUhBLgx2d769Kexl01FJ6PTXfjgl6cQ3nhTiPvG49i67JIh9hCy2rQGYrtBIbe8nxWVN32LMwr70eXHXWpBnubR3ZHPMf6kLHDdYUEx6GHAF9rhV7uWFRIG+moccM7MmTUgg/38sC4QFdjxkSAfE72GADf7df+Pp45y1isQwCD90YArqULBBhIDCVbPte9yfcXbivOPO5Fy17c+xODkIeV11Hps0QL1gg2q+IKg2RjOmpoOHMcE0MFCIrXJW51Ag=;00d3BkYUTK0J6ts9sBu1ag=="

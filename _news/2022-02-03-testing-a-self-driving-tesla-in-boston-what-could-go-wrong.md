@@ -169,20 +169,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla recalls more than 54 thousand ‘full self driving’ cars"
-    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Recall documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
-    publishedDateTime: 2022-02-02T03:37:00Z
-    webUrl: "https://www.abccolumbia.com/2022/02/01/tesla-recalls-more-than-54-thousand-full-self-driving-cars/"
-    type: article
-    provider:
-      name: ABC Columbia
-      domain: abccolumbia.com
-    quality: 54
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.abccolumbia.com/content/uploads/2021/02/eba7c33fd390d68742a3d0e176468b9f64f0215a.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "This is not a self-driving car"
     excerpt: "He’s not alone, either. YouTube’s favorite auto reviewer Doug DeMuro has referred to Super Cruise as a “self-driving” system, arguing that any attempt to draw distinction between an advanced driver assistance system and autonomous technology was ju ..."
     publishedDateTime: 2022-02-04T18:55:00Z
@@ -197,17 +183,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla recall: ‘Full Self-Driving’ software runs stop signs"
-    excerpt: "Tesla is recalling nearly 54,000 vehicles because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
-    publishedDateTime: 2022-02-02T03:42:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article257917263.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article257917263.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article257917263.html"
-    type: article
-    provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 39
   - title: "Tesla recalls Full Self-Driving beta software"
     excerpt: "Tesla has issued a recall on its recently released Full-Driving beta software that included Assertive mode. The Assertive mode allowed the vehicles to run"
     publishedDateTime: 2022-02-02T11:17:00Z

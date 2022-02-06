@@ -1,15 +1,19 @@
 ---
 category: news
 title: "Overcoming AI and ML Roadblocks in Financial Services"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2022-01-23T20:00:00Z
-originalUrl: "https://www.computerworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services"
-webUrl: "https://www.computerworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services"
+excerpt: "Artificial intelligence and machine learning have become critically important to financial services companies —86% say it’s important to their success in the next two years. A recent survey from Red Hat and IDG explores the challenges around AI and ML deployment,"
+publishedDateTime: 2022-01-23T16:00:00Z
+originalUrl: "https://www.infoworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services"
+webUrl: "https://www.infoworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services"
 type: article
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
@@ -17,11 +21,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "73XGaQM2cMmFIxdJXGI6yPnN4eLo/kqPVE297yEAQ2BF4eeSsgFDkDewHJk4a1WggmDjGfuAIVcvhDpBxD9pVJuEi5BxgMvezk0LYHNLtvpLbILbDChPdj1BILsaLWLd8c2ZxS9qC70W92qhDeX+QQVWV9e6zAFJPnvWdD799AIvh9CniN5buzNk50vyr8Bd7OKMvYPgo2XvCya/PoNf688gBTNZVjss7oix8jRLnpZkRCQRCdn8O3gW+ISyYmSvLRv4x3ui4UQq49Ypv/+ujADbLfVG5g7jpBPw4LEoRMIDPXcrnfI+3xzZF8h84SmVZGJCpq2ESH6x8xPoIgKHd/yklejncqzwqMepXqQwfZo=;AXebhTCyD71Q6WyoPNnG1Q=="
+secured: "2d+X17JB+Q4TQYQiFQjRc8l44bDx8GQ9JNoKlKfNBX8va0BZ79No/6FhbYBJdJfTj2Zinm2jTLbX+emMs6/JQm1S7kKvj0HrDAwx7IK03PN2QGpKizJSMTB11Kfcs5k2vhW4jlkp5HxklWZ4Ec7iPE5kOoODNA98NvY1Zk1vKOL+bi6D7Tc/3Q3dZmApFqL/yHmHcmpuO8WGf+PHw3ZF3ui20TYzN7Ae24/9kh0IJyNpLkBUiS3HBpjW6FBkGZjbd8QzCT+1cF/aqzeOcbUrsDVeJjRnyaID8cWso/p6cM8vpFDOEX0zp1VcHJC+F7ucEybXrloz5ZRr19/4LWSPKmwuUZwV4aNsA4d5Gxc9XGk=;h6aMsEZE2WGhiYEALZlNeQ=="
 ---
 
