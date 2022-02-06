@@ -281,22 +281,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Tesla recalls 50,000+ vehicles due to ‘Full Self-Driving’ software glitch"
-    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S ..."
-    publishedDateTime: 2022-02-01T12:08:00Z
-    webUrl: "https://wraltechwire.com/2022/02/01/tesla-recalls-50000-vehicles-due-to-full-self-driving-software-glitch/"
-    ampWebUrl: "https://wraltechwire.com/2022/02/01/tesla-recalls-50000-vehicles-due-to-full-self-driving-software-glitch/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/02/01/tesla-recalls-50000-vehicles-due-to-full-self-driving-software-glitch/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 58
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/tesla-charger.jpg"
-        width: 960
-        height: 639
-        isCached: true
   - title: "Recall alert: Tesla to recall 53K vehicles with full self-driving software"
     excerpt: "Tesla will be recalling 53,822 vehicles that have its Full Self-Driving (Beta) software because the programming allows the cars to do a rolling stop, and not come to a complete stop when required to do so. The National Highway Traffic Safety Administration ..."
     publishedDateTime: 2022-02-01T13:50:00Z
@@ -455,22 +439,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Tesla issues recall after ‘Full Self-Driving’ software allows cars to run stop signs"
-    excerpt: "Tesla is recalling nearly 54,000 vehicles because their 'Full Self-Driving' software lets them roll through stop signs without coming to a complete halt."
-    publishedDateTime: 2022-02-01T12:52:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2022-02-01/tesla-recall-self-driving-software-runs-stop-signs"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2022-02-01/tesla-recall-self-driving-software-runs-stop-signs?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2022-02-01/tesla-recall-self-driving-software-runs-stop-signs?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 52
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/de766de/2147483647/strip/true/crop/4248x2841+7+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F47%2F06%2Fef52175c4b398d248eb014cdcbba%2Fap19317268330546.jpg"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Tesla issues recall after self-driving software allowed cars to roll through stop signs"
     excerpt: "DETROIT — Tesla is recalling nearly 54,000 vehicles because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature ..."
     publishedDateTime: 2022-02-01T14:06:00Z
@@ -486,20 +454,6 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/e221c58/2147483647/strip/true/crop/1000x563+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F8e%2F81%2Fc186a7734d8cac27f0007233cb60%2Fap21183475002403.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Tesla recall: “Full Self-Driving” software runs stop signs"
-    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S."
-    publishedDateTime: 2022-02-01T11:58:00Z
-    webUrl: "https://apnews.com/e23d252ac5164cb0e7af776625b15180"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/138d648f5d18489f8cd4c402f68346fa/3000.jpeg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "Tesla recall: ‘Full Self-Driving’ software runs stop signs"
     excerpt: "Tesla is recalling nearly 54,000 vehicles because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
@@ -595,12 +549,12 @@ related:
         isCached: true
   - title: "Teslas recalled because self-driving software tells them to roll through stop signs"
     excerpt: "DETROIT -- Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Recall documents posted ..."
-    publishedDateTime: 2022-02-05T03:00:00Z
-    webUrl: "https://6abc.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+    publishedDateTime: 2022-02-05T02:43:00Z
+    webUrl: "https://abc13.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
     type: article
     provider:
-      name: 6abc News
-      domain: 6abc.com
+      name: abc13.com
+      domain: abc13.com
     quality: 33
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11538119_020122-kabc-11pm-tesla-recall-vid.jpg?w=1600"

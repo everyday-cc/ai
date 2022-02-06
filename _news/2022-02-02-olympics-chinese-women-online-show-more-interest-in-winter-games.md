@@ -27,44 +27,50 @@ images:
     isCached: true
 
 related:
-  - title: "Here Come the Underdogs of the Robot Olympics"
-    excerpt: "They’re meant to draw talent from beyond the hermetic world of military R&D and jump-start innovation on very hard problems ... and the software packages to power them, plus the AI to decide whether that black spot is solid ground or a precipitous ..."
-    publishedDateTime: 2022-02-01T11:14:00Z
-    webUrl: "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/"
-    ampWebUrl: "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp"
+  - title: "Chinese scientists build robot nanny to care for babies in artificial womb"
+    excerpt: "Scientists in China have created a robotic artificial intelligence system to monitor and care for ... Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today."
+    publishedDateTime: 2022-02-04T19:08:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
+    ampWebUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
+    cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
+      name: The Independent
+      domain: independent.co.uk
+    quality: 57
     images:
-      - url: "https://media.wired.com/photos/61f853d9a098d1434bc85a47/master/pass/2022_01_17_WIRED_DARPA_SubT_ROBOTS_206_FNL-FA.jpg"
-        width: 2400
-        height: 1647
+      - url: "https://static.independent.co.uk/2022/01/31/16/robot%20nanny%20china.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 899
         isCached: true
-  - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
-    excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest Summer Olympics, he hoped the Games and the venue's distinct architectu"
-    publishedDateTime: 2022-02-04T12:10:00Z
-    webUrl: "https://www.kentucky.com/news/business/article258038808.html"
-    ampWebUrl: "https://amp.kentucky.com/news/business/article258038808.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article258038808.html"
+  - title: "Robot nanny: Chinese scientists build artificial womb"
+    excerpt: "The 'robot nanny' can monitor embryos 'to an unprecedented ... Engineering and Technology in China’s eastern Jiangsu province developed the artificial intelligence (AI) technology to take on the responsibility of bearing children. Minsberg explained ..."
+    publishedDateTime: 2022-02-01T16:28:00Z
+    webUrl: "https://www.i24news.tv/en/news/international/technology-science/1643731954-robot-nanny-chinese-scientists-build-artificial-womb"
     type: article
     provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
-    quality: 37
-  - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
-    excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest stadium for the 2008 Summer Olympics, he hoped the Games and the venue's distinct architecture — the instantly recognizable weave of curving steel beams — would symbolize ..."
-    publishedDateTime: 2022-02-04T21:32:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article258038808.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article258038808.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article258038808.html"
+      name: i24NEWS
+      domain: i24news.tv
+    quality: 39
+    images:
+      - url: "https://cdn.i24news.tv/uploads/67/a9/b2/b2/f2/82/ca/46/4f/4e/c7/e6/77/70/6f/99/67a9b2b2f282ca464f4ec7e677706f99.jpg"
+        width: 512
+        height: 341
+        isCached: true
+  - title: "Analysts Think These 5 Chinese Stocks Could Rebound in 2022"
+    excerpt: "In this article, we discuss the 5 Chinese stocks that could rebound in 2022 according to analysts. - All Parts"
+    publishedDateTime: 2022-02-01T22:50:00Z
+    webUrl: "https://www.insidermonkey.com/blog/analysts-think-these-5-chinese-stocks-could-rebound-in-2022-1022831/?singlepage=1"
     type: article
     provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
-    quality: 37
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 24
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/28020415/Stocks-to-Invest.jpg"
+        width: 1280
+        height: 815
+        isCached: true
 
 secured: "FoDTlZE5dICP7CNv1D2oFDdbXGIfAhKtHMpRF+hiTYQXV8Dyc89PZQwISOAeqw7LkbUQkeB/u0RxNl4gq5sJneEGHLVelVQagP638L57pumxUhBLgx2d769Kexl01FJ6PTXfjgl6cQ3nhTiPvG49i67JIh9hCy2rQGYrtBIbe8nxWVN32LMwr70eXHXWpBnubR3ZHPMf6kLHDdYUEx6GHAF9rhV7uWFRIG+moccM7MmTUgg/38sC4QFdjxkSAfE72GADf7df+Pp45y1isQwCD90YArqULBBhIDCVbPte9yfcXbivOPO5Fy17c+xODkIeV11Hps0QL1gg2q+IKg2RjOmpoOHMcE0MFCIrXJW51Ag=;00d3BkYUTK0J6ts9sBu1ag=="
 ---

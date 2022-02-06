@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 899
         isCached: true
+  - title: "Olympics-Chinese women online show more interest in Winter Games"
+    excerpt: "BEIJING (Reuters) – Women in China have shown more interest than men in searching online for Winter Olympics-related information, a report by search engine company Baidu showed on Wednesday."
+    publishedDateTime: 2022-02-02T06:36:00Z
+    webUrl: "https://www.metro.us/olympics-chinese-women-online-show/"
+    ampWebUrl: "https://www.metro.us/olympics-chinese-women-online-show/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/olympics-chinese-women-online-show/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 44
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportSportsNews/tagreuters.com2022binary_LYNXMPEI1105D-BASEIMAGE.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Analysts Think These 5 Chinese Stocks Could Rebound in 2022"
     excerpt: "In this article, we discuss the 5 Chinese stocks that could rebound in 2022 according to analysts. - All Parts"
     publishedDateTime: 2022-02-01T22:50:00Z

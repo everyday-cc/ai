@@ -20,37 +20,37 @@ topics:
   - AI
 
 related:
-  - title: "Here Come the Underdogs of the Robot Olympics"
-    excerpt: "They’re meant to draw talent from beyond the hermetic world of military R&D and jump-start innovation on very hard problems ... and the software packages to power them, plus the AI to decide whether that black spot is solid ground or a precipitous ..."
-    publishedDateTime: 2022-02-01T11:14:00Z
-    webUrl: "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/"
-    ampWebUrl: "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp"
+  - title: "Ai Weiwei helped design Beijing's Olympic stadium. But he regrets how it's being used today"
+    excerpt: "The IOC, meanwhile, did not respond directly to Ai's accusations, but said in a statement to CNN that it \"recognizes and upholds human rights,\" which are \"enshrined\" in both the Olympic Charter and the organization's code of ethics. \"Given the diverse ..."
+    publishedDateTime: 2022-02-04T11:58:00Z
+    webUrl: "https://www.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html"
+    ampWebUrl: "https://www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html"
+    cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
+      name: CNN
+      domain: cnn.com
+    quality: 79
     images:
-      - url: "https://media.wired.com/photos/61f853d9a098d1434bc85a47/master/pass/2022_01_17_WIRED_DARPA_SubT_ROBOTS_206_FNL-FA.jpg"
-        width: 2400
-        height: 1647
+      - url: "http://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Olympics-Chinese women online show more interest in Winter Games"
-    excerpt: "BEIJING (Reuters) – Women in China have shown more interest than men in searching online for Winter Olympics-related information, a report by search engine company Baidu showed on Wednesday."
-    publishedDateTime: 2022-02-02T06:36:00Z
-    webUrl: "https://www.metro.us/olympics-chinese-women-online-show/"
-    ampWebUrl: "https://www.metro.us/olympics-chinese-women-online-show/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/olympics-chinese-women-online-show/amp/"
+  - title: "Ai Weiwei helped design Beijing's Olympic stadium. But he regrets how it's being used today"
+    excerpt: "Christiane Amanpour's interview with Ai Weiwei airs Friday 1pm ET ... in both the Olympic Charter and the organization's code of ethics. \"Given the diverse participation in the Olympic Games ..."
+    publishedDateTime: 2022-02-05T02:17:00Z
+    webUrl: "https://edition.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html?s=06"
+    ampWebUrl: "https://www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html"
+    cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html"
     type: article
     provider:
-      name: Metro US
-      domain: metro.us
-    quality: 44
+      name: CNN
+      domain: cnn.com
+    quality: 79
     images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportSportsNews/tagreuters.com2022binary_LYNXMPEI1105D-BASEIMAGE.jpg"
-        width: 800
-        height: 534
+      - url: "http://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
     excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest Summer Olympics, he hoped the Games and the venue's distinct architectu"
