@@ -31,7 +31,7 @@
         "Machine Learning",
         "Deep Learning"
       ],
-      "heat": 302,
+      "heat": 301,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1044656645584773121/8vZCwo0F_400x400.jpg",
@@ -70,7 +70,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 27645
+        "followers": 27643
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -133,7 +133,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 70066
+        "followers": 70065
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -190,7 +190,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 85105
+        "followers": 85103
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -252,7 +252,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 12704
+        "followers": 12705
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -373,7 +373,7 @@
       "twitter": {
         "username": "DataRobot",
         "url": "https://twitter.com/DataRobot",
-        "followers": 18972
+        "followers": 18973
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1170,7 +1170,7 @@
       "twitter": {
         "username": "cnvrg_io",
         "url": "https://twitter.com/cnvrg_io",
-        "followers": 968
+        "followers": 969
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -1276,7 +1276,7 @@
       "twitter": {
         "username": "KabbageInc",
         "url": "https://twitter.com/KabbageInc",
-        "followers": 26667
+        "followers": 26666
       },
       "size": "501-1,000 employees",
       "yearFounded": 2009,
