@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "No more facial recognition? Apple AirPods might be able to recognise the user by checking ear canal"
-    excerpt: "In the latest development, Apple's AirPods will soon be able to verify a user's identity using the inside of the ear. This will be done using an in-ear biometric device that uses ultrasonic signals. These are then reflected against the walls of a user’s ear canal."
-    publishedDateTime: 2022-02-01T10:11:00Z
-    webUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524"
-    ampWebUrl: "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 60
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/02/01/237668-fkcvp2px0aypkp.jpeg"
-        width: 918
-        height: 506
-        isCached: true
   - title: "Government agencies are tapping a facial recognition company to prove..."
     excerpt: "James Hendler, Rensselaer Polytechnic Institute (THE CONVERSATION) The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing ..."
     publishedDateTime: 2022-02-01T14:22:00Z
@@ -57,34 +41,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "Facial Recognition is available here!"
-    excerpt: "The Edmonton Police Service now has access to a facial recognition software called NeoFace Reveal, which it believes will help identify suspects in criminal investigations. Supt."
-    publishedDateTime: 2022-02-01T22:59:00Z
-    webUrl: "https://www.linkedin.com/pulse/facial-recognition-available-here-dennis-turner"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGGxtCtWnJJWQ/article-cover_image-shrink_600_2000/0/1643755584430?e=1649289600&v=beta&t=O7bWIBvNLEoUqBicIsp1hslW0kB1BOhfkIRIzEGvhP8"
-        width: 800
-        height: 518
-        isCached: true
-  - title: "U.S. Agencies Embrace Facial Recognition Technology"
-    excerpt: "While facial recognition technology has helped identify more than 1,000 impostors attempting to enter the U.S. with false documents since 2018 and the increasing use of biometrics in airports and ..."
-    publishedDateTime: 2022-02-01T16:09:00Z
-    webUrl: "https://thecrimereport.org/2022/02/01/u-s-agencies-embrace-facial-recognition-technology/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Metro approves license plate readers, allows facial recognition"
     excerpt: "Metro Council on Tuesday approved the controversial use of license plate readers and sent the new, much debated legislation to Mayor John Cooper, who has signaled support for it. This week's Metro Council session spanned more than four hours yet spent close to a quarter of its time on legislation that has been debated in this and alternate versions since 2020."
@@ -114,33 +70,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition technology identifies the 'unique' noses of cattle"
-    excerpt: "Cattle branding and ear tags may become a thing of the past - in the future, farmers may simply be able to use facial recognition technology on their smart phone to locate their cattle. An Australian researcher has developed this AI-powered system to ..."
-    publishedDateTime: 2022-02-03T20:19:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/breakfast/facial-recognition-software-identifies-unique-muzzles-cattle/13740970"
+  - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-03T13:03:00Z
+    webUrl: "https://www.govexec.com/technology/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361499/"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 39
+      name: Government Executive
+      domain: govexec.com
+    quality: 25
     images:
-      - url: "https://www.abc.net.au/cm/rimage/13740972-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
+      - url: "https://cdn.govexec.com/media/img/cd/2022/02/02/020322faceidGE/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Edmonton police using facial recognition software to search mugshot database"
-    excerpt: "Starting this year, the Edmonton Police Service will be using NEC’s NeoFace Reveal facial recognition technology to help identify suspects in criminal investigations. Sarah Komadina reports."
-    publishedDateTime: 2022-02-02T01:45:00Z
-    webUrl: "https://globalnews.ca/video/8587770/edmonton-police-using-facial-recognition-software-to-search-mugshot-database/"
+  - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-04T14:44:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361604/"
     type: article
     provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 36
+      name: Nextgov
+      domain: nextgov.com
+    quality: 25
     images:
-      - url: "https://i0.wp.com/media.globalnews.ca/videostatic/news/ps20ox0i7l-f1fhx2xx5d/6P_FACIAL_RECOGNITION.jpg?w=500&quality=70&strip=all"
-        width: 500
-        height: 281
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/02/04/020322faceidGE/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Opinion: Government agencies are tapping a facial recognition company to prove you're you. Watch out."
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-05T17:03:00Z
+    webUrl: "https://www.timesfreepress.com/news/opinion/columns/story/2022/feb/05/opinion-facial-recognition/562707/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 24
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2022/01/28/1643403351_013122b07-FPbrashers_gs_t1070_h684b61466ec9e7246f14b31fcd97b3eb03969075.jpg"
+        width: 1070
+        height: 713
         isCached: true
 
 secured: "9n2TQ+7Ad7mH3TJSepAaeQ1uXyqAxR+uQkmj8WUIHvA/vzOnjO4dRthoyicX+RHnhoTI0ZJWS8QEqSKiATBLWaCMXiRQC4h6Yblgqq9w09s1+cMwWR0GRGHTTb7kgcgKD8QUNZr3681uB6YKLMaz8eFPEza+l/XMqETepaTbcvyD6RPMDqOgRnE8z1fc+Odk/cEcryr/X4kNHXMW3YevILZwnZBx/+DCLD6D2M5icQMMf3aQeYs5riOx1DxbfnImC9YXOT9piauMJy49QckRcV78+5exj/bGGty/3iY+RE2qxumGPklEXKpRzTpvyp9Aff1jP8l3BDrlKX9mcehpdEQUuh1WZznTFdVZnuY5znI9WKu7OhihGN9p7gqfCQEmIKYltG49FmkWQ84o4XnfNg82uuIYAVwPRh6r/YIIA9FRGY3PQ1SzqqbjlEaKUHVDi7PRReNxQxnJEWG0cuhzLhOvY/hghtV9JPTiXnRPM3uAvhjM6U2PbShnWnny+dBjTNL09EZUFZkzXLvTObwyAA==;+xWYWQ8MozZFWVTQiPy1tA=="

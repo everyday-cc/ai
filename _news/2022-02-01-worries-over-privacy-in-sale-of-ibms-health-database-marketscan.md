@@ -24,22 +24,6 @@ images:
     height: 1800
     isCached: true
 
-related:
-  - title: "He founded what became IBM’s most valuable health database. Now, he’s sounding an alarm about patient privacy"
-    excerpt: "He founded what became IBM’s most valuable health database. Now, he's sounding an alarm about patient privacy."
-    publishedDateTime: 2022-02-01T09:35:00Z
-    webUrl: "https://www.statnews.com/2022/02/01/marketscan-ibm-watson-ernie-ludy/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 5
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2019/09/default_social_image-1024x512.png"
-        width: 1024
-        height: 512
-        isCached: true
-
 secured: "h7npgIaXOnopQbm5Y+eX8HDoUAIawR6Z4OiqOGkguhY4yqoJQs033SZyCfLRCXBOIR4FilSqMWjPyt60a0nBFedz8cqQDN/MsG1oOUsiPT1YqgsA5R5JmCqjzqeUsaAiPTIImRinfABpmoVwiRcVT1UZHd0gJtcteegArRweHPhkmWB8rGpbHejH7et+AnXRqZUPxH3H11W+WlV00FXPTms9w9k4MnaYQYgKt9vhNsWNT5rpEidSpV+2mhlZ17whNEt11zUfBFAwwmZCcKIirqHanb/icUvuL4dZ36SSzIzMWTMNMPwcC92k/g828nQc5nYi3nbb3PTWYWkzSpXR5MCbNQ1unRfw5tOdNF17DmE=;pHOieu+0o4n+OnefSGzb5g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/crisis-text-line-loris-ai?amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/crisis-text-line-loris-ai?amp"
 type: article
 quality: 185
-heat: 205
+heat: 195
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered anti-phishing solution provider Pixm offers last line of defense"
-    excerpt: "Today, computer vision (CV) cybersecurity startup, Pixm, announced it had raised $4.3 million in seed funding. Pixm provides an AI-based browser extension designed to enable organizations to use ..."
-    publishedDateTime: 2022-02-01T11:01:00Z
-    webUrl: "https://venturebeat.com/2022/02/01/ai-powered-anti-phishing-solution-provider-pixm-offers-last-line-of-defense/"
-    ampWebUrl: "https://venturebeat.com/2022/02/01/ai-powered-anti-phishing-solution-provider-pixm-offers-last-line-of-defense/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/ai-powered-anti-phishing-solution-provider-pixm-offers-last-line-of-defense/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2012/01/shutterstock_23541934.jpg?w=1200&strip=all"
-        width: 640
-        height: 379
-        isCached: true
   - title: "Mental health helpline ends AI data-sharing relationship"
     excerpt: "A mental health text helpline will no longer share data with an AI customer support business, after criticism of their relationship. Loris.ai used anonymised data from Crisis Text Line (CTL) to develop AI systems to help customer service agents understand sentiment in chats."
     publishedDateTime: 2022-02-02T14:12:00Z

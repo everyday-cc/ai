@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Laiye and Microsoft - why Chinese RPA is heading West to secure your data!"
-    excerpt: "You might also be surprised to hear that enterprise cloud titan Microsoft has announced a strategic partnership with the same provider, to bring robotic process automation (RPA) and software robotics to the UK and Europe."
-    publishedDateTime: 2022-02-01T09:08:00Z
-    webUrl: "https://diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data"
-    ampWebUrl: "https://diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/laiye-and-microsoft-why-chinese-rpa-heading-west-secure-your-data?amp"
+  - title: "Teradata Expands Partnership with Microsoft to Offer its Platform on the Azure Ecosystem"
+    excerpt: "“Teradata and Microsoft are combining their data, AI and cloud capabilities to help teams across industries and professions make data-driven decisions faster.” For more information about this partnership, visit https://www.teradata.com/Cloud/Azure."
+    publishedDateTime: 2022-02-02T15:43:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Teradata-Expands-Partnership-with-Microsoft-to-Offer-its-Platform-on-the-Azure-Ecosystem-151229.aspx"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 72
+      name: dbta.com
+      domain: dbta.com
+    quality: 45
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2022-02/2E6FF118-033F-4AC6-871A-2ED169561EA5.jpeg"
-        width: 640
-        height: 360
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "NOrfeSDuH40N9TJLs53vd7PhC4pdfOnbOMejC7yMFZ7PGXFbpagwjKHa1pC39E0/jQ58M38FHYkHHyC9pJDiTfOGzuieqkPs3PAu+bCXbE1qw7Q0/UIR6itJSPFdkGjrSFVHt3XGqgleKPtmIfx9sdQxmJGhD7OYWjrA8FRsrql7N8ChBxMuV/FEC8I66+BbkKjvvBTOQaaA85bX3AEp+tJz/Oiq60EMTypKWnslmWu9jlJtK6jBkYSErxuP1Q9zgxJNIsKhCYkVvKYrTvFnTsUNHdy+mysDzC97mW0mxpj5p7FjpiXfG567RjKJ4cBUU9h/OyeEWXicFkkNk1H7bWMnKcbsH5XszHIXMiKFSYU=;RwrEMI98gLlE1n0mg1m+Vg=="
