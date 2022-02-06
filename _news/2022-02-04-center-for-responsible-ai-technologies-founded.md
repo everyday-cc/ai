@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1348
         isCached: true
-  - title: "Max Hospital launches AI based cancer treatment technology"
-    excerpt: "This technique destroys or reduces tumors by combining the precision of intensity-modulated radiation therapy and image guided scan"
-    publishedDateTime: 2022-02-02T06:32:00Z
-    webUrl: "https://www.expresshealthcare.in/news/max-hospital-launches-ai-based-cancer-treatment-technology/433321/"
-    ampWebUrl: "https://www.expresshealthcare.in/amp/news/max-hospital-launches-ai-based-cancer-treatment-technology/433321/"
-    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/max-hospital-launches-ai-based-cancer-treatment-technology/433321/"
-    type: article
-    provider:
-      name: expresshealthcare
-      domain: expresshealthcare.in
-    quality: 59
-    images:
-      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/02/02122810/admin-ajax-4-1.jpg"
-        width: 750
-        height: 400
-        isCached: true
 
 secured: "eTrKme76lf9pCj3HFtP96NQKNTXgJc32/DPuzwtvQtkywogaYUaY19qR1dS9mGKQe3f1ENdIgHn9EyihPaXWA5Cjx6S29n0Y3rhNN6dv2hb9vZ/Jtz1HuXmMXdZejWFcZ1yWINaBCBrAeLoSKB/57Z1B3UxxalV9Qr78tB3osKTufAwAxXhnrSM1ncecnpSg/Cs1ORLm4eGkkURpPl4inAbGBHP03NAhRSIAe7cuz+ZS+AidmGIDClX6adNs62EfBa3RyRohBCXy2L7+iZXjTs4YANiVnXG4Ubu/D+Kr2207nxZx0C8uv59ka22yH0Lt4UR3M97OCexQhQIErOcW+n0Zl2UnwVATH8piEBsKewM=;WGKscytrIcrhz3ltslYnqA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -57,17 +57,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 53
-  - title: "FOCUS-Self-driving car companies zoom ahead, leaving U.S. regulators behind"
-    excerpt: "Self-driving vehicle companies from Tesla Inc to General Motors Co's Cruise are racing to start making money with their technology, outrunning efforts by regulators and Congress to write rules of the road for robot-driven vehicles."
-    publishedDateTime: 2022-02-02T06:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind"
-    ampWebUrl: "https://www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 52
 
 secured: "oYiXazaH5KAIN5KtyVvAA9VHj1t4UVeoTuAlr/eoj22SK6AJUiwq16J7YJgHvHra9HfZN3lfNrFN37Y9gox8OrxF+BXUnPFJCbiXW6OgBSkgBQmtR1j3SUgLGmK6dkyQKq3G5M7AWqCL78bbN+IpxENn8vq6udR9VyTmOwUvTVr2hAnuvCDJivdeFnNiaWzQ6jsE7+caMrPqw9WzihVopmq1djf9TvEc+mhMYiBEB0eoqPahAxIc1NAupruXwQf96F1BCoRCZWUIKlSdKMGpySnbmCPUdMjYg3/FDWmdFzq0y56i0okbNVDd6ynYNUc/3+Od0tUp8cLAUlGiY2R4cPZDY2FopViDiV9AswY1IY0IzJAnDXedM+P2eNZkL+scveIF3gETxCpnt9qN8eBE9p3y07OBnvUfnEYG69wWK1EuODho6v2T7vYiD35Jo7595Lut1mN+iDCrkQ1iHNi6OdTU60Am3CnhpCLpi/FWkTtXeh3PWAtwQMm8r2XljwgbjNoOVaziTOu3fWF2Q3p0hQ==;YUBorvJuu+3LvMZrYoX3xQ=="
 ---

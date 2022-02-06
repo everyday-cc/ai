@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-02-02-ai-traffic-lights-could-reduce-waiting-times-at-intersections.md",
-      "title": "AI traffic lights could reduce waiting times at intersections",
-      "excerpt": "Ordinarily, traffic lights change color in response to predetermined rules and induction loop sensors embedded in the road. According to new research, however, making those lights artificially intelligent may keep traffic flowing faster and smoother.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/",
-      "originalUrl": "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/9f0d40d/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fae%2Fbb55bec34fc69662304187b12097%2Fiosb-ina-traffic-lights-controlled-using-artificial-intelligence-pic-1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true",
-      "publishedDateTime": "2022-02-01T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-02-crisis-text-line-ends-controversial-relationship-with-for-profit-ai-company.md",
       "title": "Crisis Text Line ends controversial relationship with for-profit AI company",
       "excerpt": "Crisis Text Line has ended its controversial relationship with Loris.ai, a for-profit sister company that promises to help companies \"handle their hard customer conversations with empathy. \" The decision followed outrage over a Politico story that detailed how Loris leveraged Crisis Text Line insights and anonymized user data in order to sell companies customer service optimization software,",
@@ -1167,6 +1116,48 @@
       "provider": {
         "name": "Florida Politics",
         "domain": "floridapolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-scale-ai-awarded-250m-ai-contract-by-department-of-defense.md",
+      "title": "Scale AI awarded $250M AI contract by Department of Defense",
+      "excerpt": "Scale AI, a tech startup that focuses on the data that powers artificial intelligence, has won a nearly $250 million blanket purchasing agreement that aims to give all federal agencies access to its tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/scale-ai-awarded-250m-ai-contract-by-department-of-defense/",
+      "originalUrl": "https://www.fedscoop.com/scale-ai-awarded-250m-ai-contract-by-department-of-defense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fedscoop.com/wp-content/uploads/sites/5/2021/02/6492397.jpg?w=1200&h=500&crop=1",
+          "width": 1200,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-31T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anest
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Max Hospital launches AI based cancer treatment technology"
-    excerpt: "This technique destroys or reduces tumors by combining the precision of intensity-modulated radiation therapy and image guided scan"
-    publishedDateTime: 2022-02-02T06:32:00Z
-    webUrl: "https://www.expresshealthcare.in/news/max-hospital-launches-ai-based-cancer-treatment-technology/433321/"
-    ampWebUrl: "https://www.expresshealthcare.in/amp/news/max-hospital-launches-ai-based-cancer-treatment-technology/433321/"
-    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/max-hospital-launches-ai-based-cancer-treatment-technology/433321/"
-    type: article
-    provider:
-      name: expresshealthcare
-      domain: expresshealthcare.in
-    quality: 59
-    images:
-      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/02/02122810/admin-ajax-4-1.jpg"
-        width: 750
-        height: 400
-        isCached: true
   - title: "“Center for Responsible AI Technologies” founded"
     excerpt: "Closely linked to this is the professorship “Ethics of AI in Neuroscience” at TUM, which investigates AI topics from a social science and medical perspective. At the University of Augsburg ..."
     publishedDateTime: 2022-02-03T16:44:00Z

@@ -53,17 +53,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 53
-  - title: "FOCUS-Self-driving car companies zoom ahead, leaving U.S. regulators behind"
-    excerpt: "Self-driving vehicle companies from Tesla Inc to General Motors Co's Cruise are racing to start making money with their technology, outrunning efforts by regulators and Congress to write rules of the road for robot-driven vehicles."
-    publishedDateTime: 2022-02-02T06:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind"
-    ampWebUrl: "https://www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-self-driving-car-companies-zoom-ahead-leaving-u.s.-regulators-behind?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 52
 
 secured: "gqDDw1qvxbz9F5jRFKuqNSCVP/srRI/PIgV7Q93LqXHlpMGvw13XSKmFZUovWVcT2mEu+1g8SQvkGeNGsXyojilH9RqBHPfirrPf/xoFqrEFZBLEBqWY+NRwR+V02ZLBTjG1AwAXj/XXCGOq2LR0nON3ZaLOKvyN/QlLCMtSCMRdKzVqN/tXWaXK48fmp5eG6GNnYEWpyxd51dN0f1Iy7H8I54gbZNIis2nR4+Aa3WmRbJQKcu/d9te6KA5DPd6tdP5h8ajgoWg3HvyznD6xmb8XFVave4dAg0ziTYFBRfAbUkbaQWc7kQu8JtnAll2UA4awUnouisRHFKdwWLhunxwFLmg+2dhvdStuF5Ha5BsTI8l88m5RqKa4ILeohXvCpwprTzawxIFrdD17O7BLbFcUqHCGfRH5AzCKN/5oGVo8E7W7kbYuE1ZREZ5yPyn9Bbk0JeeAGkKRoeGAa2bJUb8mngF3PyE85PGcgGquVY9Ie6VfNcN+pZVsHKwfwr+5FwCZ4buD7Bx+zi9oV0be2g==;tt+nxSy6vpmymLzMn0NJUg=="
 ---
