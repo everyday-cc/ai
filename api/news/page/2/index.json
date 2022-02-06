@@ -808,7 +808,7 @@
       "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -899,40 +899,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-kscp-stock-is-plunging-today-despite-announcing-another-robot-victory.md",
-      "title": "KSCP Stock Is Plunging Today Despite Announcing Another Robot Victory",
-      "excerpt": "Knightscope has had a wild start to its life in the public markets ... There’s no denying that robotic security measures with artificial intelligence (AI) capabilities will be tempting for the entire industry. And Knightscope is well primed to help ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/kscp-stock-is-plunging-today-despite-announcing-another-robot-victory",
-      "originalUrl": "https://www.nasdaq.com/articles/kscp-stock-is-plunging-today-despite-announcing-another-robot-victory",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/kscp-stock-is-plunging-today-despite-announcing-another-robot-victory?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/kscp-stock-is-plunging-today-despite-announcing-another-robot-victory?amp",
-      "publishedDateTime": "2022-02-02T21:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1236,6 +1202,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-how-ai-accelerates-insurance-claims-processing.md",
+      "title": "How AI accelerates insurance claims processing",
+      "excerpt": "The immediate aftermath of a vehicular crash is difficult for all parties involved. The drivers have to process trauma and figure out how to get their damaged cars repaired or replaced. Insurance companies have to conduct damage assessments and figure out the most efficient and least expensive route to get the claims resolved.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/",
+      "originalUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2012/11/insurance-for-ride-sharing.jpg?w=1200&strip=all",
+          "width": 803,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/",
+      "publishedDateTime": "2022-02-02T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

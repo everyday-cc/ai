@@ -41,20 +41,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "U.S. Agencies Embrace Facial Recognition Technology"
-    excerpt: "While facial recognition technology has helped identify more than 1,000 impostors attempting to enter the U.S. with false documents since 2018 and the increasing use of biometrics in airports and ..."
-    publishedDateTime: 2022-02-01T16:09:00Z
-    webUrl: "https://thecrimereport.org/2022/02/01/u-s-agencies-embrace-facial-recognition-technology/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Facial recognition technology identifies the 'unique' noses of cattle"
     excerpt: "Cattle branding and ear tags may become a thing of the past - in the future, farmers may simply be able to use facial recognition technology on their smart phone to locate their cattle. An Australian researcher has developed this AI-powered system to ..."
     publishedDateTime: 2022-02-03T20:19:00Z

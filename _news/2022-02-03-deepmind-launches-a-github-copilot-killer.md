@@ -1,31 +1,27 @@
 ---
 category: news
-title: "DeepMind’s new AI can write code that’s better than yours"
-excerpt: "Artificial intelligence (AI) company DeepMind has developed a new coding engine capable of outperforming many human developers, called AlphaCode. As explained in a paper published by the firm, AlphaCode is able to write computer programs at a ..."
-publishedDateTime: 2022-02-03T18:05:00Z
-originalUrl: "https://www.techradar.com/news/deepminds-new-ai-can-write-code-thats-better-than-yours"
-webUrl: "https://www.techradar.com/news/deepminds-new-ai-can-write-code-thats-better-than-yours"
+title: "DeepMind launches a Github Copilot killer"
+excerpt: "DeepMind has developed AlphaCode to write competent computer programs. AlphaCode can solve problems that require a combination of critical thinking, logic, algorithms, coding, and natural language understanding and was able to achieve an estimated rank within the top 54% of participants in programming competitions."
+publishedDateTime: 2022-02-03T07:37:00Z
+originalUrl: "https://analyticsindiamag.com/deepmind-launches-a-github-copilot-killer/"
+webUrl: "https://analyticsindiamag.com/deepmind-launches-a-github-copilot-killer/"
 type: article
-quality: 84
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/vZLMcEg5JqfGeXydVkkxhk-1200-80.jpg"
-    width: 970
-    height: 545
+  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_rl-min.png"
+    width: 1366
+    height: 768
     isCached: true
 
 related:
@@ -44,6 +40,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/0cd0c1ca8b8990cef9e8b17289258a491448ac55/2021/06/21/e487ce2e-c1f8-41e7-80ed-00f2310ac673/developers-heres-what-they-really-think-60d0614cb5c5a73d0c2020e1-1-jun-21-2021-11-35-52-poster.jpg?width=1200&height=675&fit=crop&auto=webp"
         width: 1200
         height: 675
+        isCached: true
+  - title: "DeepMind’s new AI can write code that’s better than yours"
+    excerpt: "Artificial intelligence (AI) company DeepMind has developed a new coding engine capable of outperforming many human developers, called AlphaCode. As explained in a paper published by the firm, AlphaCode is able to write computer programs at a ..."
+    publishedDateTime: 2022-02-03T18:05:00Z
+    webUrl: "https://www.techradar.com/news/deepminds-new-ai-can-write-code-thats-better-than-yours"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/vZLMcEg5JqfGeXydVkkxhk-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
   - title: "DeepMind has made software-writing AI that rivals average human coder"
     excerpt: "DeepMind, a UK-based AI company, has taught some of its machines to write its own computer software – and it performs almost as well as an average human programmer when judged in competition. DeepMind’s new AlphaCode is claimed to be able to solve software problems that require a combination of critical thinking,"
@@ -105,21 +115,7 @@ related:
         width: 1200
         height: 901
         isCached: true
-  - title: "DeepMind launches a Github Copilot killer"
-    excerpt: "DeepMind has developed AlphaCode to write competent computer programs. AlphaCode can solve problems that require a combination of critical thinking, logic, algorithms, coding, and natural language understanding and was able to achieve an estimated rank within the top 54% of participants in programming competitions."
-    publishedDateTime: 2022-02-03T07:37:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-launches-a-github-copilot-killer/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_rl-min.png"
-        width: 1366
-        height: 768
-        isCached: true
 
-secured: "S8VoC5g9VkgO3kQXMk9iPNay8kQ0UmyOhMNYyS8IJbKLTVRFKaF8XndzoRQMrtcxHbOi+VUZZ+H4LWjHy3Z1G+5cEhOQPDJ9Mho5wT4BuRFQ2/sJXlKuRslaskLbYSfhicu7T0tfn+ggl7AfYHMZaP4UafcdTq6GdIBfQrUKhSfjRtUHh/YBX6tqucrwv/69RnAR2pQr/NOgf2hoeGmtTGg8aGB+pstUXRgYwzVbKSL4+mtnNFPmvG47TLokIXI1ZuejBuCxpJxNcy5IOs8XE62XlR5yUbDgEyzgSWxljYN9w0wPaGzNFgcV2Z+rRwvpc02cOCiOHNnQtjEbKVawEPIYVyn05AW7JmOQM1pF4nM=;g+myXdSLRqqYvVZOSZgOjQ=="
+secured: "Zt9NZqepVA1rmhfjTsHAVClvJtFAcl4FAvBvc+gvVU9MiXdiYQnDGaXvcPW1oG5HJr8adPoFl4vpjlBNPrX7FDBtOWAjr/a1MXdcfQfgDatHzdViHIszl1xMRBSKoFilRmVsCGgI6n5XvldWII+uDsKVV7aYm6AhFRZSiyGqy/id1BQxdjgObbeduckORomLtwIW54vLc/5wLkVHnRXyrxNbr02+ZlgPsNgrcQYvUzn84DkN7y9ve5oZTInREOKWMlh1rdlqMcYcmAqDIPkVp7WNjfZc8eQt49OoGoildxkeFbL9/SmLcRz4OhuF8d7vCJLLEmM2ZM17MEPlDgKGlmvNqn9wSfmI+9JfoF72TbE=;FK2SDRp9vrJZqYWhchCNEQ=="
 ---
 

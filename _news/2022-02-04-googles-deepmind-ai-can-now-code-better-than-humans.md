@@ -101,6 +101,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "DeepMind launches a Github Copilot killer"
+    excerpt: "DeepMind has developed AlphaCode to write competent computer programs. AlphaCode can solve problems that require a combination of critical thinking, logic, algorithms, coding, and natural language understanding and was able to achieve an estimated rank within the top 54% of participants in programming competitions."
+    publishedDateTime: 2022-02-03T07:37:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-launches-a-github-copilot-killer/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_rl-min.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "ypaNMpQRLoszT0Gy9ONUEcAihB8GKB5BMHnIWbixeE84q4vbPOKICJLarcC2Khmgjqsm4Vs5Hn8E2YvXGssCatPmOcjtyCobS0heNkLdHD/2Jo/CVy8dzJUzaXDh1PjInjGjp9SDOfYo/MctBnedvwdxolj2mXJFX2Sb4WDSSh9vsXjiqQtyLQ//EBh32saWyhW2eEPuKVDP6eSba0gdPlpNd0eNurUsXRCv0igcRkpr+Ytbjoay5Wt/EwIMlV3QBspF79urJXg1alwrJ8trmhIjxK0zGBga2fxKyyIpyHJszNtqN0SwfdAHPltb3Eb1+J0RSb+fkLhrF4zxpt3xMH7lv9DRuNu2TYjZzBrhXkQ8NnXzwJ6ANqxbNDezAmYWtB3yAx3Z8RlPYoX0gFUAjOIhA13nKgJwsCYe5kCMpO5onVEMXG4YmLiWReh1/Qf96sT9Dl8iPESL+/aC+5YKqfrIlKlugHedKjJqtTtk3SCN9njrVLpu6fPhIejckZ8MzOyvQOg+/GN6oKJOizwxDw==;5PVWTh0AVDsK2TrR0WMPmw=="
 ---

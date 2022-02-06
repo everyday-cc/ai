@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/bad-news-for-developers-dee
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://static.independent.co.uk/2022/02/03/14/deepmind%20ai%20coding.jpg?quality=75&width=1200&auto=webp"
         width: 1200
         height: 901
+        isCached: true
+  - title: "DeepMind launches a Github Copilot killer"
+    excerpt: "DeepMind has developed AlphaCode to write competent computer programs. AlphaCode can solve problems that require a combination of critical thinking, logic, algorithms, coding, and natural language understanding and was able to achieve an estimated rank within the top 54% of participants in programming competitions."
+    publishedDateTime: 2022-02-03T07:37:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-launches-a-github-copilot-killer/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_rl-min.png"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "Kol88rzurNO+SyEluIwTO796MvK03wIiXpqDZIExeSlkr+cdipmdlqZQ52PnitAUlKFD++Ko91JEtWOEB8uDmuQ9eWarPY2Lrs1qMBab78cVcPz2y8/ISHsFAUpkHrkfipN3jzKXvzrAA+k3HGsQQkibKG6vBOwc0Nwf8MP4YKmCZCjyrIAPJPowFLuzlzNJadB2Zna8YC0vCe7U4uc07xVhKtiAW/1vrrtcLOolL+pTBe5p/7XdtH8ttGZuEnnNVtPyp2DWS87sKTxYqJkXu+uUcozKZJoum1xkBefBRspCKQ55Nu8c/zSQGYTHoCkXh/yjMGHadaGDqZ2+vEXJUb+pAqVcAsfBKF0JcJo4XqkHQmQBq3UDpCOnfpSF0YaKMGGxQga4eluO2rQR88B1pN6T5cQK7gsVs0ucAoxa5YhKbJ5f/HFilUd8wlgODusGIpWGcf56FBJzKwnBRdMMWbdbYjsfqMUsicmTCrGsxcHXo3eQ8aI3rxiF0Ai5sKlaCVo87BXKC6VOk/cp7fC3rw==;Lx6EAtOC3i+N7ZNMStyUzQ=="

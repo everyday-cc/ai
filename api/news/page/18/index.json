@@ -2,58 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2022-01-18-artificial-intelligence-robotics-market-2022-growth-insights-understand-industry-size-share-revenue-challenges-and-global-forecast-2029.md",
-      "title": "Artificial Intelligence Robotics Market 2022 Growth Insights, Understand Industry Size, Share, Revenue, Challenges and Global Forecast 2029",
-      "excerpt": "The newly published report is titled, “Global Artificial Intelligence Robotics Market Research Report 2022” that",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-2022-growth-insights-understand-industry-size-share-revenue-challenges-and-global-forecast-2029-2022-01-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-2022-growth-insights-understand-industry-size-share-revenue-challenges-and-global-forecast-2029-2022-01-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-18-digital-marketing-platform-otis-ai-raises-25m-to-make-digital-marketing-simple-and-effective-for-smbs.md",
       "title": "Digital marketing platform Otis AI raises $2.5M to make digital marketing simple and effective for SMBs",
       "excerpt": "Otis AI ( the digital marketing assistant for SMBs, recently raised a seed round bringing their total funding to $2.5M. With Otis, an all-in-one digital marketing solution, a small business can launch a data-driven multi-channel campaign across Facebook,",
@@ -1157,6 +1105,49 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-google-ais-plan-for-2022-and-beyond.md",
+      "title": "Google AI’s plan for 2022 and beyond",
+      "excerpt": "Google is pursuing research, called Pathways, to enable this next-gen architecture through an umbrella effort.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/google-ais-plan-for-2022-and-beyond/",
+      "originalUrl": "https://analyticsindiamag.com/google-ais-plan-for-2022-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/google-ai-b_11zon.jpg",
+          "width": 1896,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],
