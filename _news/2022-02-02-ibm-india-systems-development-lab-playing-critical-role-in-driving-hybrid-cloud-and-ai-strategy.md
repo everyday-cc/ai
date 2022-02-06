@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/ibm-india-systems-development-lab-playing-cr
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-india-systems-development-lab-playing-critical-role-in-driving-hybrid-cloud-and-ai-strategy/amp/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,38 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence and robotics have changed the oncology landscape in India"
+    excerpt: "Artificial intelligence in oncology has been used successfully ... Hence there has been a paradigm shift to robot assisted minimal access surgery in oncology. Robotic surgery is an advanced ..."
+    publishedDateTime: 2022-02-06T12:39:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 82
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-89386337,imgsize-66780,width-1200,height-628,overlay-ethealthworld/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "How RBI’s Fintech unit can spur a wave of Innovation and Digitization in India"
+    excerpt: "Adopt digital solutions, AI, and data analytics technology 2 ... One shining example of this scenario is how Indonesia’s regulatory authority (OJK) responded to the fintech lending crisis in 2018. In 2018, Indonesia’s fintech industry was known ..."
+    publishedDateTime: 2022-02-04T07:09:00Z
+    webUrl: "https://www.telegraphindia.com/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
+    ampWebUrl: "https://www.telegraphindia.com/amp/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/how-rbis-fintech-unit-can-spur-a-wave-of-innovation-and-digitization-in-india/cid/1850501"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 40
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2022/Feb/1643954674_ver-10-rbi-fintech.JPG"
+        width: 708
+        height: 412
+        isCached: true
   - title: "AI-led Analytics to play crucial role in Government’s vision of India@100"
     excerpt: "FM highlighted that Artificial Intelligence (AI) as a sunrise opportunity while advocating promoting digital economy & fintech, technology enabled development; and we, at Course5 Intelligence ..."
     publishedDateTime: 2022-02-03T14:39:00Z

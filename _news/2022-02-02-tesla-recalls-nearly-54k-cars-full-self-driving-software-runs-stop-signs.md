@@ -171,22 +171,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Recall alert: Tesla to recall 53K vehicles with full self-driving software"
-    excerpt: "Tesla will be recalling 53,822 vehicles that have its Full Self-Driving (Beta) software because the programming allows the cars to do a rolling stop, and not come to a complete stop when required to do so."
-    publishedDateTime: 2022-02-01T19:47:00Z
-    webUrl: "https://www.kiro7.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/"
-    ampWebUrl: "https://www.kiro7.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/recall-alert-tesla-recall-53k-full-self-driving-vehicles/JRWC3YJL3RDQ7EPU5OLYWMLVW4/?outputType=amp"
-    type: article
-    provider:
-      name: KIRO-TV
-      domain: kiro7.com
-    quality: 57
-    images:
-      - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/-Tb4kf4tWvVfskT-YHXnUQrwPKE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/M7JWOZ5FHJFABL4XTQQ6G3CT3I.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Tesla To Recall Nearly 54000 ‘Full Self-Driving’ Cars For Running Stop Signs"
     excerpt: "Tesla will have to recall nearly 54,000 vehicles in the U.S. with the company's “ (FDS)” software, as it lets them roll through"
     publishedDateTime: 2022-02-02T18:18:00Z
@@ -313,12 +297,12 @@ related:
         isCached: true
   - title: "Teslas recalled because self-driving software tells them to roll through stop signs"
     excerpt: "DETROIT -- Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Recall documents posted ..."
-    publishedDateTime: 2022-02-05T02:43:00Z
-    webUrl: "https://abc13.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+    publishedDateTime: 2022-02-05T03:00:00Z
+    webUrl: "https://6abc.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
     type: article
     provider:
-      name: abc13.com
-      domain: abc13.com
+      name: 6abc News
+      domain: 6abc.com
     quality: 33
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11538119_020122-kabc-11pm-tesla-recall-vid.jpg?w=1600"
@@ -376,15 +360,6 @@ related:
       name: KAKE.com
       domain: kake.com
     quality: 19
-  - title: "Tesla will disable “rolling stop” feature on its ‘full self-driving’ cars"
-    excerpt: "According to Tesla's latest earnings report, issued last week, nearly 60,000 drivers are testing out the company's \"full self-driving\" software, on public roads. The report calls the capability, which costs drivers an additional $12,000 and is still in its ..."
-    publishedDateTime: 2022-02-01T20:24:00Z
-    webUrl: "https://www.courthousenews.com/tesla-will-disable-rolling-stop-feature-on-its-full-self-driving-cars/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 18
 
 secured: "FUmX73cpyq/cVXJHSM11BANHh62U+Zj3ONZ1sTCTC/sM2uP5QVASKWwjv5f7lAzyHbiapYFGnoI8LlwF5vOzMLmQveTWMVyDB7rrig36eQ/47rOQmjjMH7tzNJwL6I89Ty2xY8glKbtK9Qt7yeSRh7rReqizpNAZ38DXi8cNxNg7CdWMOr+TDTVa6D0bqRDc+zdb4plLkx5EqqsdUKNltiOZZwGydMKKzGMS9Opz0U4k56GnpXKAdHrkrwk+st/0m84AM2Z5mpAgkgX8yEbi9EJnceqL9udL50F7iV3x9vwa4rNT2Nqhek80KjhcKYHrQxmw0PHbMqvbp1aTVZLVsNiC0vrn+aSOnmJ4EZMIEscOiRRcClkPJuOCZlb9SajRgJPc5l2Prjd2YWxRITH8Wuj6/m7xOjAWODuSknzioMm1VZJ9NZww7iCZIhmMZyQVYwxedg0c9fAAZ2XhwZeJUZPWZK7DCSndWRipikSC6jspL+A+BAb6geqrxFLNmBemFRiXHybsMfD5uDnYk8HrIA==;iCn9VtDyhlgoJ5HjsNGxwA=="
 ---
