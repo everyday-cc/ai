@@ -25,22 +25,6 @@ images:
     height: 497
     isCached: true
 
-related:
-  - title: "Automatic Content Recognition Market, Size, Segmentation & Outlook Forecast and Global Research Report to 2027"
-    excerpt: "The automatic content recognition market globally is segmented into end-user application, technology, and region. By Technology, the market is segmented into speech recognition, passive fingerprinting, and digital watermarks. The speech recognition segment ..."
-    publishedDateTime: 2022-02-02T00:18:00Z
-    webUrl: "https://ipsnews.net/business/2022/02/02/automatic-content-recognition-market-size-segmentation-outlook-forecast-and-global-research-report-to-2027/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 4
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2022/02/925-mrfr2011-2.jpg"
-        width: 300
-        height: 300
-        isCached: true
-
-secured: "KsBkNWdKRwkWJb1Dv5mlJmw8+oEX/ga5EpD/YZmCgBJUNx0Ot3ayQo1W3Wp2yEirLo1N6TM04ozpaED2CbxC+mv6jO1aDhixDl6PLAy7h6LWLsvV52jDwqnA0NUIy9420ZQb8FE12SPEL46lrqcmnrdnJkbMxLxF7QCR7dPHAeMZ604O5C7uKQIXwMCHiXHfmXXHT1KZ9zcXv7A07fn+ii8TF9AlfNvsqKnI368NVgO2bcYeiCyfu7AgtKP73yy2xOPOVw0gGAFplEpfQbefYamZGMuMTwd8/DO+7G8ITV/Gu4LbohIdW751znSB69gXBZH2XP57+LA2BhucpK2iF4ESQjS0yiG6vSQvi/iW5vk=;PvIruZhgXyBqyOGmvftkbQ=="
+secured: "rfbAXKIHxUSewg8Kkmuh49FexR4AD09WfUsMjvcrIkYuvRarqN+zFo0GmFZvOPtHSfC0x/XZO6AcALyFPUpAKavs7j/nt5HHnJwnljWxu2ZfibJTnZ4neMrcfl7SWWjnFdswTnDulGFUsDjlBb3BMynS1GQ6v9Q0ll54dr2UHfF6Coy497b47Cp/Ywo3zNLDrdNx9mDr/Ugn36uxQbR1Z+p7iwKbhzZFzhpZDTn3IuNrVS/8l9dWIRW46NX089K3GIc/GhceeIQdGvfLZL2sexoxMZ1Awq2beHuem1CKplQTTOTj9rXmUNwPvpD25GhETy3MB7j7M6N+x6I9QNEepDXhdBL55K32ZW5t+Qlusbaa7Cz6sT7xpmYQRs3E6/RrGOdvXCBBBwWgFvQphlA2sCvwqlvuxWUal55Q+iRzhy5vxCrBA0PwqE1+uOd85AhUBeTIqtDBlxjHtetObN/zemqLPwTcyj9HQR0A2NJpAjMqmVbbqXtLsz/vOcNbbHGvcyX9W6/S2XR8P2nqTguC3A==;BGlvn6OraF3i0x5jzLmu9A=="
 ---
 

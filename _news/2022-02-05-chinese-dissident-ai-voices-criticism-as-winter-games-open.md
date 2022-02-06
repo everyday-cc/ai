@@ -1,24 +1,48 @@
 ---
 category: news
-title: "Chinese dissident Ai voices criticism as Winter Games open"
-excerpt: "Ai Weiwei, possibly China’s best-known dissident, aired criticism of Beijing’s human rights record and response to the pandemic, in an interview with The Associated Press Friday, in which he also took aim at World Health Organization Director-General ..."
-publishedDateTime: 2022-02-05T15:45:00Z
-originalUrl: "https://www.bellinghamherald.com/news/article258056288.html"
-webUrl: "https://www.bellinghamherald.com/news/article258056288.html"
-ampWebUrl: "https://amp.bellinghamherald.com/news/article258056288.html"
-cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/article258056288.html"
+title: "Chinese Dissident Ai Voices Criticism as Winter Games Open"
+excerpt: "Ai Weiwei, possibly China’s best-known dissident, aired criticism of Beijing’s human rights record and response to the pandemic, in an interview with The Associated Press on Friday, in which he also took aim at World Health Organization Director ..."
+publishedDateTime: 2022-02-05T06:03:00Z
+originalUrl: "https://www.voanews.com/a/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
+webUrl: "https://www.voanews.com/a/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
+ampWebUrl: "https://www.voanews.com/amp/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
+cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/chinese-dissident-ai-voices-criticism-as-winter-games-open-/6427807.html"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: The Bellingham Herald
-  domain: bellinghamherald.com
+  name: Voice of America
+  domain: voanews.com
 
 topics:
   - AI
 
-secured: "8P9lF4+Ia3stWq4bILeEqsVOtzTz3k9VPmd6/klckJOWukpvm0FLIDQFdwxXAN7CqdQ/WzRRkRJVlgaV4cXavOrm/lXhSkFu0r7DI9weOZVKJRbfnfKutawDh5YRyfZUxBgczcNDXmISNQfDEiZ+5uX+pA2rKN7et7PboU/b5z+5pFLh0SiMNvMuCO/ZMg2u1ItRUZzmdg7z8EU6085cllCo7yUw1Sjw5sGZCLcPkaMvhhcRFO7PxB9V44tMhxb92xta+zx5E4NK4qb6qCrAt7FPv3B2+YqMo5PSeSSD9gnQFvQ03ihzyAyxKerexb3zLb5LhqmOgvkwmVEzEBxptNBfaQQc2868ZCE1NCscKcQ28tCjS/usY/W4c44f8XzRVu5T46DS3sT0x6nD09eF40tLsSdryecAjo3WWVCusP+EVNLJOJDYFcl820X6dguJlC7zZlmHYq7MwHH76QxOQi8R9QXfsJClFjtdJ6q/9Px30XMFnUU4T5BDCzk19T9oYvaqM6yir/U4/vddznamWA==;eAdDbAMR/bR3VI0xfGJSxg=="
+images:
+  - url: "https://gdb.voanews.com/09dd0000-0a00-0242-3747-08d9e86c9c7e_w1080_h608_s.jpg"
+    width: 1080
+    height: 608
+    isCached: true
+
+related:
+  - title: "Olympics-Chinese women online show more interest in Winter Games"
+    excerpt: "BEIJING (Reuters) – Women in China have shown more interest than men in searching online for Winter Olympics-related information, a report by search engine company Baidu showed on Wednesday."
+    publishedDateTime: 2022-02-02T06:36:00Z
+    webUrl: "https://www.metro.us/olympics-chinese-women-online-show/"
+    ampWebUrl: "https://www.metro.us/olympics-chinese-women-online-show/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/olympics-chinese-women-online-show/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 44
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportSportsNews/tagreuters.com2022binary_LYNXMPEI1105D-BASEIMAGE.jpg"
+        width: 800
+        height: 534
+        isCached: true
+
+secured: "R5ACpUzZZbsdyK2BpZ4dEhQv9eyNxr3yZgXrA71bCGoL69ilnPFdc5LhUb4PDDgvo1mjl0wxTrKqINJpjVjOlKYveUQC2RZVPJs0bCRTGNvpJ+polQpN2gDFtHzvyfTKgRUQQohy7kE7rXIbTpsxPokYy3vbayuZ09voZNawqBNbtPXTDBvKycXUbZWgO+u9J5+FGYXTY+Bd3ViFZ1Tbva1BAWHH+CPDdJsXg6Tz6w1Slk/Rhl859OhJgQTeA3pYGvKGcuoYgVOFxjNFWVb2NcDiulOOxzGgOPMvRrsW23xQyqeTAQR1OgUQD5Z8hhEUsSl+yseUUCA5wQk6vX22GiUytl71PPQoK4hJWc6NBSo=;46heNsO8NCHT7EmtQwPtIQ=="
 ---
 

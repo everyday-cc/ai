@@ -37,7 +37,7 @@ related:
     provider:
       name: health.economictimes.indiatimes
       domain: indiatimes.com
-    quality: 82
+    quality: 84
     images:
       - url: "https://etimg.etb2bimg.com/thumb/msid-89386337,imgsize-66780,width-1200,height-628,overlay-ethealthworld/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india.jpg"
         width: 1200

@@ -43,6 +43,54 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind’s AlphaCode AI writes code at a competitive level"
+    excerpt: "DeepMind has created an AI capable of writing code to solve arbitrary problems posed to it, as proven by participating in a coding challenge and placing — well, somewhere in the middle. It won’t be taking any software engineers’ jobs just yet,"
+    publishedDateTime: 2022-02-02T18:04:00Z
+    webUrl: "https://techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/"
+    ampWebUrl: "https://techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-655977302.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "DeepMind claims its new code-generating system is competitive with human programmers"
+    excerpt: "DeepMind has created a code-generating AI system, AlphaCode, that the Alphabet-backed lab claims is competitive with human programmers."
+    publishedDateTime: 2022-02-02T16:00:00Z
+    webUrl: "https://venturebeat.com/2022/02/02/deepmind-claims-its-new-code-generating-system-is-competitive-with-human-programmers/"
+    ampWebUrl: "https://venturebeat.com/2022/02/02/deepmind-claims-its-new-code-generating-system-is-competitive-with-human-programmers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/deepmind-claims-its-new-code-generating-system-is-competitive-with-human-programmers/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/developer-getty.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AI Weekly: DeepMind’s AlphaCode, automatic age verification, and a new open language model"
+    excerpt: "Register here. This week in AI, DeepMind detailed a new code-generating system, AlphaCode, that it claims is competitive with top human programmers. Supermarket chains in the U.K. announced that ..."
+    publishedDateTime: 2022-02-04T21:11:00Z
+    webUrl: "https://venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/"
+    ampWebUrl: "https://venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 94
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all"
+        width: 1200
+        height: 593
+        isCached: true
   - title: "DeepMind’s new AI can write code that’s better than yours"
     excerpt: "Artificial intelligence (AI) company DeepMind has developed a new coding engine capable of outperforming many human developers, called AlphaCode. As explained in a paper published by the firm, AlphaCode is able to write computer programs at a ..."
     publishedDateTime: 2022-02-03T18:05:00Z
@@ -73,6 +121,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DeepMind Says Its AlphaCode AI Can Write Codes, But Is It Great?"
+    excerpt: "DeepMind claims that its newfangled AI (artificial intelligence) coding engine is capable of performing as good as a human programmer. The British AI subsidiary of Alphabet has created an AI-backed system dubbed AlphaCode. According to DeepMind ..."
+    publishedDateTime: 2022-02-03T10:08:00Z
+    webUrl: "https://www.gizchina.com/2022/02/03/deepmind-says-its-alphacode-ai-can-write-codes-but-is-it-great/"
+    ampWebUrl: "https://www.gizchina.com/2022/02/03/deepmind-says-its-alphacode-ai-can-write-codes-but-is-it-great/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/02/03/deepmind-says-its-alphacode-ai-can-write-codes-but-is-it-great/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 74
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/02/deepmind-alphacode-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "AlphaCode: The DeepMind AI engine that writes code competitively"
+    excerpt: "When entered into 10 coding competitions, AlphaCode ranked within the top 54pc of human programmers. DeepMind, the Alphabet subsidiary based in the UK, has created a new AI-powered system called AlphaCode which can write computer programs “at a ..."
+    publishedDateTime: 2022-02-03T15:03:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/alphacode-deepmind-google-alphabet-coding-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/02/alpha.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "DeepMind AI can code like an average developer"
     excerpt: "Is that a good thing? DeepMind has created an AI system named AlphaCode that it says \"writes computer programs at a competitive level.\" Of course, it didn't say what sort of competition. Most developers would do well in an inhaling pizza competition ..."
     publishedDateTime: 2022-02-03T11:31:00Z
@@ -86,6 +164,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/57aaaef3d1acef37622cefd5b8e4d976_L.jpg"
         width: 620
         height: 413
+        isCached: true
+  - title: "DeepMind AI rivals average human competitive coder"
+    excerpt: "Google-owned artificial-intelligence company DeepMind has announced a big achievement in competitive computer programming. After simulating 10 contests, with more than 5,000 participants, AI system AlphaCode has ranked in the top 54% of competitors."
+    publishedDateTime: 2022-02-02T16:00:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-60231058"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 54
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/5243/production/_123095012_deepmind1-1.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Google’s DeepMind AI can now code better than humans"
     excerpt: "Google’s artificial intelligence division DeepMind has developed a powerful AI system capable of beating humans at competitive computer programming. DeepMind evaluated its AlphaCode system by simulating participation in 10 recent coding contests hosted ..."
@@ -114,6 +206,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_rl-min.png"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Google DeepMind’s AlphaCode system beats thousands of human experts in coding contest"
+    excerpt: "The AlphaCode system, created by Google’s AI subsidiary DeepMind, ranked in the top 54 per cent of competitors after going up against 5,000 human software engineers. Oriol Vinyals, a research scientist at DeepMind, said that the milestone brought Google ..."
+    publishedDateTime: 2022-02-03T12:33:00Z
+    webUrl: "https://www.thetimes.co.uk/article/google-deepminds-alphacode-system-beats-thousands-of-human-experts-in-coding-contest-qfq82jgm5?shareToken=810b6be0c8d73804f19de9bbc7d8d8c0"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 32
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4c36539a-8481-11ec-a9c8-2dfad00a5965.jpg?crop=4371%2C2459%2C100%2C96&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "zte5Jrlt4wfU8CnMQR8u8CzvJ7Df3hAtxxgeSkk722BianvnXUrgRmtiXiivWepel327Y657lxRjJRIGs8YkPW09i50fn1bV24z8lmw5dR3CR0pRhjGDG4dRPdE3Kqcl4bGGOaA3aKPQwuN29G3vcf817Tcd/0zKDfWvQunNo94Bhro+aKaeZdt+GARtymqIqImPDjq+UaMCFoOwGGji+idRZNrViw+9Uj4ZkbCG0yeaKphl2TYzG2FLhWA0jmXQLY0Jph6f+6jWu+3Jkki8zrlhZFEP5/XE6c0YC0Q1BSMkYLgMTEcb0EiZh1IJSudZX02yi+iL34ib61gj4dFdgd2dZchTMfkrqeTPZinIlArIHazkmltG7KFWC6xaBcFAdYvpY/z4e1xkoEkiijGC1g7R1oK96/C6z7nMbmLbbTcJNXH7pYvj3UoA7IiE+fNtKHO/jll9WIOw3u0q7qfPdcxsDUWUHttRbth/7pDSJW2tuXpblunOWeAbu3SvgvAf4tun5UZdPMvA5WqFErALIw==;26Oha18c7qr/sONaMdAuQA=="
