@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/electric-sheep-turns-old-la
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/electric-sheep-turns-old-lawnmowers-into-robots/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

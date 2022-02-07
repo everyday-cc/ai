@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "EICT Academy, IIT Kanpur launches 2-week-long online course on “Natural Language Processing”"
-    excerpt: "Academy IIT Kanpur in association with EICT Academy-NIT Patna, Malviya National Institute of Technology"
-    publishedDateTime: 2022-02-02T07:24:00Z
-    webUrl: "https://www.uniindia.com/story/EICT-Academy-IIT-Kanpur-launches-2-week-long-online-course-on-Natural-Language-Processing"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 28
-    images:
-      - url: "https://s3.ap-south-1.amazonaws.com/uninews/images/20220202133739_ogImage_15.jpg"
-        width: 730
-        height: 400
-        isCached: true
 
 secured: "49J2EBYtd/Nl+ZgiBDk/OSUaSqoRKP5/BrSwOfjH1Gt/erUbC3Zg0yenm+Ah+2ZT1lmC842IejU8gKLRDVMEnVbGercYw8NazKcBjymhomFcDZDdD//NIXUom8aTEbCL4u9qVL6PHz6FwIPYx8bnyxGSp975SmJ94kUg/l9AdXVHhVtOpvvhZvF7X7hYLuzSMU20QGbI8NnMdJ/LGINAVE8s2WHVZwlBhzEfka3lg0NOX6DiBIkUBKJc8kQvQEhxfuGiOe0jgJQbf5Wx4L/mXtH3QSBmx1x/Np/EDMNhfzZZfCvTjOeWumVnLBbdwq5bzE1GXNRcsCNM6Jy43DyRFLgWTC0OFMnmaA7jHHKpX5SXVbvTsu81nLf/FyPW239F1uEktCa3hILWA3c4KPOwDbauhFCczcVIGk3LiedY9UE+jZqtltcQ2oTSBq12osiXTIAnnkjST7an7qXjvS7qaKxFv5tH91N/oDkkYH9EH7QiaBtXCGsOzd2LHkPkuIW7eESTpJHu1IKezDFYei5u/A==;Xfql/W7S1Jfp2BufUH5uYw=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "IBM India Systems Development Lab playing critical role in driving hybrid cloud and AI strategy"
-    excerpt: "IBM India Systems Development Lab playing critical role in hybrid cloud and AI. It contributed in development of POWER10 and Telum processors"
-    publishedDateTime: 2022-02-02T07:43:00Z
-    webUrl: "https://www.dqindia.com/ibm-india-systems-development-lab-playing-critical-role-in-driving-hybrid-cloud-and-ai-strategy/"
-    ampWebUrl: "https://www.dqindia.com/ibm-india-systems-development-lab-playing-critical-role-in-driving-hybrid-cloud-and-ai-strategy/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-india-systems-development-lab-playing-critical-role-in-driving-hybrid-cloud-and-ai-strategy/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 49
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/07/IBM.jpg"
-        width: 740
-        height: 462
-        isCached: true
   - title: "AI-led Analytics to play crucial role in Government’s vision of India@100"
     excerpt: "FM highlighted that Artificial Intelligence (AI) as a sunrise opportunity while advocating promoting digital economy & fintech, technology enabled development; and we, at Course5 Intelligence ..."
     publishedDateTime: 2022-02-03T14:39:00Z

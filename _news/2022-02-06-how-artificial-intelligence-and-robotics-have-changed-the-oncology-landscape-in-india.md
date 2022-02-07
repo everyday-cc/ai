@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/how-ar
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/how-artificial-intelligence-and-robotics-have-changed-the-oncology-landscape-in-india/89386337"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM India Systems Development Lab playing critical role in driving hybrid cloud and AI strategy"
-    excerpt: "IBM India Systems Development Lab playing critical role in hybrid cloud and AI. It contributed in development of POWER10 and Telum processors"
-    publishedDateTime: 2022-02-02T07:43:00Z
-    webUrl: "https://www.dqindia.com/ibm-india-systems-development-lab-playing-critical-role-in-driving-hybrid-cloud-and-ai-strategy/"
-    ampWebUrl: "https://www.dqindia.com/ibm-india-systems-development-lab-playing-critical-role-in-driving-hybrid-cloud-and-ai-strategy/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-india-systems-development-lab-playing-critical-role-in-driving-hybrid-cloud-and-ai-strategy/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 49
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/07/IBM.jpg"
-        width: 740
-        height: 462
-        isCached: true
   - title: "How RBI’s Fintech unit can spur a wave of Innovation and Digitization in India"
     excerpt: "Adopt digital solutions, AI, and data analytics technology 2 ... One shining example of this scenario is how Indonesia’s regulatory authority (OJK) responded to the fintech lending crisis in 2018. In 2018, Indonesia’s fintech industry was known ..."
     publishedDateTime: 2022-02-04T07:09:00Z
