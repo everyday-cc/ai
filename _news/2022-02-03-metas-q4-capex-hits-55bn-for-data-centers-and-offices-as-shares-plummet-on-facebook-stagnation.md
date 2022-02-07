@@ -41,20 +41,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "AI in Social Media Market to Witness Robust Expansion by 2029 | Google, Facebook, Microsoft"
-    excerpt: "AI has the potential to transform the way brands market on social networks like Facebook, Instagram and Twitter. AI allows social media marketers to get closer to their audience and understand their preferences. This helps them target their ads in a better ..."
-    publishedDateTime: 2022-02-04T15:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-to-witness-robust-expansion-by-2029-google-facebook-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 46
-    images:
-      - url: "https://www.market-news.org/wp-content/uploads/2022/02/AI-in-Social-Media.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "8GsyX8gf4uQoM516lYAL1y0YAn0BUUJ0mu4Ll1TpWDirhToK8ZZmfIZjsQo6TuaFwLciH0qK3nQYtCMPMd3pY3/MAdooZqH0E0JOXqkXJ3/ILTKs2UeGp5nNWWztUVk1HsnkdufED8qtXRwE9glhBPDM73HZYcnFMnqGj8V3ESDLNVqvp2o+cTnIraRzyy3s5HdcYOoUJZK3O2FFdR5Y9cweyYnsG8uWaCOkKKzcMNFWgQZuJP0JjBsdsKG272oXN10//PyJy8HToJZrKUh8cSnQGERRv9DOm7U6Xc1Fag92JU3k7ADnuPOtd77+mcPrTaZHf1I63rgpJIO0800lCuF/2EZyUhgypPJVpKqODNi36yFM0jd1vPEHMMviFlOAgiesjOAu2K11rdcowNAUir/V/kvI8tnenwq6BxF5rZ/n66KXHAEnKxZa/qwOk4hNa//XGHm0N6OdQ2cgc8d+aq1nNXz4VDJjhDpnqePDandHMqgkGA6rbk+uxKFxkdTFX9A5J+lha/DxroQcevdLZw==;eE+fOCDTqyGE7fQJSUkHjw=="
 ---

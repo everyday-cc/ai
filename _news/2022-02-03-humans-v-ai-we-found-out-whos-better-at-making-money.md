@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-mone
 webUrl: "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Humans vs AI: Here's who's better at making money in financial markets"
-    excerpt: "Artificial intelligence (AI) has now closely matched or even surpassed ... emergence and growth of the financial technology industry (FinTech), where technology startups increasingly challenge ..."
-    publishedDateTime: 2022-02-02T16:00:00Z
-    webUrl: "https://phys.org/news/2022-02-humans-ai-money-financial.html"
-    ampWebUrl: "https://phys.org/news/2022-02-humans-ai-money-financial.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-humans-ai-money-financial.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/humans-vs-ai-heres-who.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Humans v AI: here’s who’s better at making money in financial markets"
     excerpt: "As such, AI often appears in behind-the-scenes processes ... such as the EU legal directive MIFID II or business ethics. The experiments themselves did not engage in any unethical activities ..."
     publishedDateTime: 2022-02-02T17:56:00Z

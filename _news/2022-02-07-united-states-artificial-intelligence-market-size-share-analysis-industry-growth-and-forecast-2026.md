@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-07T06:04:00Z
 originalUrl: "https://www.digitaljournal.com/pr/united-states-artificial-intelligence-market-size-share-analysis-industry-growth-and-forecast-2026"
 webUrl: "https://www.digitaljournal.com/pr/united-states-artificial-intelligence-market-size-share-analysis-industry-growth-and-forecast-2026"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://blogger.googleusercontent.com/img/a/AVvXsEgPTAbLyXbF0I5mn8ZmLzWHZhi4PfxoDoRh6tP0np1UzGpviK1551vhi1d30BiXX9tk7yRHAiJ2m_Bc7Ng0d2SfkpbyF1FImJMwrHtx_wjCIME_cWVjYLX0PNk_1TelRO7OIpWrG79yOTlkAKfhQbReNyRAvJwilU3jmZmeWnFWmo4lAnYR8vv_25M"
@@ -75,7 +76,7 @@ related:
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://blogger.googleusercontent.com/img/a/AVvXsEg_QnQX9ZHWuHR5RacomEN9wdiTfyX2PET3mtopGdJF1LO34RxYsjwu98DFlGNYCiafFzvcqC_JZoT00YFJskqGwz7L797uOJgma0SulIkhIxDTbmyA283MprE0RecBe5QsBofXZ6rZB2_zHLy8FfVhJdlDGEVa2VKcp5JpqucrkNFG7Gywe0StdkM"
         width: 1600

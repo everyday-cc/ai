@@ -19,6 +19,22 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Tech Mahindra Partners with Yellow.ai to transform enterprise customer Experiences with conversational AI"
+    excerpt: "Tech Mahindra Partners with Yellow.ai to transform enterprise customer Experiences with conversational AI Tech Mahindra and Yellow.ai will work towards developing next-gen conversational-AI solutions to elevate omnichannel capabilities such as ..."
+    publishedDateTime: 2022-02-07T07:46:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/tech-mahindra-partners-with-yellow-ai-to-transform-enterprise-customer-experiences-with-conversational-ai-122020700267_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-partners-with-yellow-ai-to-transform-enterprise-customer-experiences-with-conversational-ai-122020700267_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/tech-mahindra-partners-with-yellow-ai-to-transform-enterprise-customer-experiences-with-conversational-ai-122020700267_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 40
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2018-08/27/full/1535369573-6334.png"
+        width: 350
+        height: 233
+        isCached: true
   - title: "Kore.ai Named a Leader in 2022 GartnerÂ® Magic Quadrantâ„¢ for Enterprise Conversational AI Platforms"
     excerpt: "ORLANDO, Fla., Feb. 2, 2022 /PRNewswire/ -- Kore.ai, a top conversational AI software platform and solutions provider, today announced that the company has been named a \"Leader\" in the first-ever ..."
     publishedDateTime: 2022-02-06T18:36:00Z

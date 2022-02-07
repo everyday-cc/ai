@@ -40,22 +40,6 @@ related:
         width: 375
         height: 210
         isCached: true
-  - title: "Advancing the technology of AI assistance for anesthesiologists"
-    excerpt: "In a special edition of Artificial Intelligence in Medicine ... in which the software's neural networks simultaneously learned how its dosing choices maintain unconsciousness and how to critique ..."
-    publishedDateTime: 2022-02-02T15:52:00Z
-    webUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/anesthesiologists.jpg"
-        width: 1920
-        height: 1348
-        isCached: true
   - title: "AI in Fintech Market May See Big Move | Inbenta Technologies, IPsoft, Nuance Communications, ComplyAdvantage"
     excerpt: "The Latest Released AI in Fintech market study has evaluated the future growth potential of Global AI in Fintech market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and ..."
     publishedDateTime: 2022-02-04T07:07:00Z

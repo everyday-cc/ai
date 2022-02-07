@@ -2,17 +2,17 @@
 category: news
 title: "Teslas recalled because self-driving software tells them to roll through stop signs"
 excerpt: "DETROIT -- Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Recall documents posted ..."
-publishedDateTime: 2022-02-05T03:00:00Z
-originalUrl: "https://6abc.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
-webUrl: "https://6abc.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+publishedDateTime: 2022-02-05T02:43:00Z
+originalUrl: "https://abc13.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+webUrl: "https://abc13.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: 6abc News
-  domain: 6abc.com
+  name: abc13.com
+  domain: abc13.com
 
 topics:
   - AI in Autos
@@ -72,22 +72,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2022/02/Tesla.gif"
         width: 800
         height: 450
-        isCached: true
-  - title: "Tesla recalling self-driving cars that roll through stop signs"
-    excerpt: "Tesla is recalling all 53,822 of its electric cars with a “full self-driving” feature after it was determined the vehicles were programmed to roll through stop signs."
-    publishedDateTime: 2022-02-02T15:37:00Z
-    webUrl: "https://www.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 59
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2022/02/01/us_tesla_full_self-driving_recall_10402_c0-234-5616-3510_s1200x700.jpg?cb8bdaaafe19aeefebbc81a4d50578aeb1d81bb7"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Tesla Recalls 54K Self-Driving Cars For Disrespecting The Stop Sign"
     excerpt: "Tesla will recall 53,822 vehicles that incorporate its full self-driving beta software because the vehicles may not fully stop at stop signs"
@@ -183,17 +167,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla recall: ‘Full Self-Driving’ software runs stop signs"
-    excerpt: "Tesla is recalling nearly 54,000 vehicles because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
-    publishedDateTime: 2022-02-02T16:23:00Z
-    webUrl: "https://www.kansas.com/news/business/article257917263.html"
-    ampWebUrl: "https://amp.kansas.com/news/business/article257917263.html"
-    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article257917263.html"
-    type: article
-    provider:
-      name: Wichita Eagle
-      domain: kansas.com
-    quality: 39
   - title: "Testing a self-driving Tesla in Boston. What could go wrong?"
     excerpt: "Globe tech reporter Pranshu Verma tagged along as Boston driver Taylor Ogan drove his Black Tesla Model Y on \"full self-driving\" mode around South Boston. “Full self-driving” is a feature in beta testing that Tesla drivers can pay upwards of $12,000 to ..."
     publishedDateTime: 2022-02-03T15:30:00Z
@@ -223,6 +196,6 @@ related:
         height: 280
         isCached: true
 
-secured: "5JYTU+HBrQVaWDbck9AfoLzq56NSoHAW/HOkM7qe0KMhw2xHdMBx4ePXI14cZ3dTrjJ2JHrTJDEy8iqND6GWHinTCs5ihfqq3zmSGtvWsO5zWz9leXtXqboHfSjAz8kwj8WIp8ximkKw3EfCLmSm4AAVf2tatJdy/0stzRqExweQz6EOTJhFfwzDKs2X6jE0iZNarKqNTPo6IkHrVhXe+l0jumRNKPtD86gCHvHW4nJxCUVb25DpT5DGeqeq9mseB1bgg3fqRByjhKfi2Tu1FxkbCFhcl78pHBHQbidr/OHoZ2l/BEd3z/5XWc4Ewje2BmmDwyS2URVG6n/WU3RZeEgOq145smE/cEMq/kiAVOM2W/Li0A74fUwODvkr3iyMShZve1R7MbHr5+JIhnrzaB1xqzcGFS4vOrZGU2sHxETcS59UOJe6iSg0MRziWdMJPj51i8QIdaLPiLuvC2nP/+EJGZGyqZZhMvXavYawpifg9+eUY9r8raVjHj+JuEkunbu/+bR5dy9UA6nLRdz3uQ==;WJpeXp1Kad3IPFuZrnms1g=="
+secured: "fuScLuP8dmybBzbOwUgct2n0izckML3pJVvH2qdT2H8KmeB7R/6s4kFq+FM91Zf8/iB+MR2nkd4YxKdITX+wxHKuKGZWnKqupIOEC2Oz79+zZbSxa7ogrkOWzK2pKJyKKQLhMnE1OjkGaI0H7rko2vUwHIwiLCQcfT900kzyi2UHoDSgGTxQtp16HPxF+yEjdI1ECOqw4iSgM3xd1I48Q6/uDkgi5gywPU6RoN4hinlklfCH9+QjN4yz01xRa6mCRPBl28ZHLu3Ga7VGnQDaQr927XWsaEzXzQBLtK4AOLbCGIzlfCupA4+x0BGsA47TNfZLlhHXVjdT8s7q9/VsiJu6d21GXmyK+oyZfAzXUxQ=;rJOWQ4DSHye1Iaqz7GtWOA=="
 ---
 

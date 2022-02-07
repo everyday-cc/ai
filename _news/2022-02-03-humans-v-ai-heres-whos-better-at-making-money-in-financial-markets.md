@@ -36,22 +36,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Humans vs AI: Here's who's better at making money in financial markets"
-    excerpt: "Artificial intelligence (AI) has now closely matched or even surpassed ... emergence and growth of the financial technology industry (FinTech), where technology startups increasingly challenge ..."
-    publishedDateTime: 2022-02-02T16:00:00Z
-    webUrl: "https://phys.org/news/2022-02-humans-ai-money-financial.html"
-    ampWebUrl: "https://phys.org/news/2022-02-humans-ai-money-financial.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-humans-ai-money-financial.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/humans-vs-ai-heres-who.jpg"
-        width: 1356
-        height: 668
-        isCached: true
   - title: "Humans vs AI: here's who's better at making money in markets"
     excerpt: "AI's financial forecasts We analyzed 27 peer ... such as the EU legal directive MIFID II or business ethics. The experiments themselves did not engage in any unethical activities – they did ..."
     publishedDateTime: 2022-02-03T05:24:00Z

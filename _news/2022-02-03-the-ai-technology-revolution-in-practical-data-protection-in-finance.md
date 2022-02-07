@@ -9,7 +9,7 @@ ampWebUrl: "https://techhq.com/amp/2022/02/the-ai-technology-revolution-in-pract
 cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Advancing the technology of AI assistance for anesthesiologists"
-    excerpt: "In a special edition of Artificial Intelligence in Medicine ... in which the software's neural networks simultaneously learned how its dosing choices maintain unconsciousness and how to critique ..."
-    publishedDateTime: 2022-02-02T15:52:00Z
-    webUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/anesthesiologists.jpg"
-        width: 1920
-        height: 1348
-        isCached: true
   - title: "Tag: Artificial Intelligence Technology Solutions, Inc. (AITX)"
     excerpt: "DETROIT—Artificial Intelligence Technology Solutions, Inc. (AITX) has announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) will be exhibiting and presenting at ISC West, taking place March 22-25, 2022, at the Venetian Expo in ..."
     publishedDateTime: 2022-02-03T15:44:00Z

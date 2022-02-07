@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/enterprise-ai-startup-c
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Call center conversation intelligence startup Talkmap nabs $8M"
-    excerpt: "Customer conversation intelligence startup Talkmap has raised $8 million from Stage 1 Ventures in a Series A round of funding."
-    publishedDateTime: 2022-02-02T15:22:00Z
-    webUrl: "https://venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/"
-    ampWebUrl: "https://venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/amp/"
+  - title: "AI-Powered Digital Skills Assessment Start-up iMocha Raises $14 Million in Series A Funding"
+    excerpt: "PUNE, India, Jan. 27, 2022 /PRNewswire/ -- AI-powered digital skills assessment ... institutional raise by the profitable bootstrapped start-up, iMocha operates out of India and the US."
+    publishedDateTime: 2022-02-04T18:35:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1234196&cat=PR News Wire"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 27
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/11/shutterstock_291603116.jpg?w=1200&strip=all"
-        width: 1000
-        height: 667
+      - url: "https://mma.prnewswire.com/media/1735254/AI_Powered_Digital_Skills_Assessment.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "/dx4+O364gsEnXTy5e7giTCKbEQtV5RT8rRuBE5TupCDvtKfU483HMfZtquUSl/050yGGMLmrQphWCfhY2Y5s2wNwAKu2sOGMzRoOxPLCo+biNCwEhSsB7d3X92eUxnrTv3FUd+UBdYua5ycFSXO01Jnpe3IdXragatMPBUw5bc8VnKvPaDinszdA9jR7EeRzBCCqf5GHiiWCxoEmySKN2ADBJJ1jcNbGk756RRT5LXAo+TW5x4w8HUZRsu4HXlp35swEl89cUS4MNOLupT9IIoy65Eqhr9OdeJei48GsKzg2Ersv1SazBS5Ix5wB9tET6TfHuSYYzeUBPSo2dtz4wAAvcn8dazWw353So8Btko=;Own0La3Nzq9P3CEAoR0Sgw=="

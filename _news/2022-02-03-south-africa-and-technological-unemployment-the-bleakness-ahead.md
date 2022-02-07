@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/south-africa-technological-unemploy
 webUrl: "https://www.linkedin.com/pulse/south-africa-technological-unemployment-bleakness-ahead-magagane"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 1400
     height: 800
     isCached: true
-
-related:
-  - title: "Most in-demand and best-paying tech jobs in South Africa"
-    excerpt: "Michael Page has released its Salary Guide and Hiring Insights report for 2022, revealing the most in-demand skills and experience, and highest paid tech jobs in South Africa."
-    publishedDateTime: 2022-02-02T16:16:00Z
-    webUrl: "https://mybroadband.co.za/news/business/432564-most-in-demand-and-best-paying-tech-jobs-in-south-africa.html"
-    ampWebUrl: "https://mybroadband.co.za/news/business/432564-most-in-demand-and-best-paying-tech-jobs-in-south-africa.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/business/432564-most-in-demand-and-best-paying-tech-jobs-in-south-africa.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 24
 
 secured: "hdbeezXVO6LWR7yOO2Li8eZdC6kBFkU7jf4y9HURCIS9c7pDyRhlNQ3HWQIWYIYDfXFwHnvACEEb/ComhfrME5zhsLFYYbeEMo9z40kNWKLsFijKou7dZnz1wmfdPs/Tkuas5FIgyUumO+0VkTJEQX+6bT3RsqNaY82uvs2oMA96gSxbEP5B94GtSNye5dKWu6mtFgALi7gTqyvyTuKgXxmMTseYhFBZ3maNFX8/JwfZ+jgUvRVlgV6+1WaRY8tLDfxlKpk6ogcjHBzTD9Hwb+hILgoTBFkp/6bjGXMo4m4kq7Pa2pjjksDqeRjICluATZzi8pMenCUgQIM24476uiKdIMoBp7dtDTHieNvNREI=;Tmj2IcTuKRyu6GSzZyG+QA=="
 ---

@@ -73,22 +73,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla recalling self-driving cars that roll through stop signs"
-    excerpt: "Tesla is recalling all 53,822 of its electric cars with a “full self-driving” feature after it was determined the vehicles were programmed to roll through stop signs."
-    publishedDateTime: 2022-02-02T15:37:00Z
-    webUrl: "https://www.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/feb/2/tesla-recalling-self-driving-cars-roll-through-sto/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 59
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2022/02/01/us_tesla_full_self-driving_recall_10402_c0-234-5616-3510_s1200x700.jpg?cb8bdaaafe19aeefebbc81a4d50578aeb1d81bb7"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Tesla Recalls 54K Self-Driving Cars For Disrespecting The Stop Sign"
     excerpt: "Tesla will recall 53,822 vehicles that incorporate its full self-driving beta software because the vehicles may not fully stop at stop signs"
     publishedDateTime: 2022-02-02T17:26:00Z
@@ -183,25 +167,14 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla recall: ‘Full Self-Driving’ software runs stop signs"
-    excerpt: "Tesla is recalling nearly 54,000 vehicles because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
-    publishedDateTime: 2022-02-02T16:23:00Z
-    webUrl: "https://www.kansas.com/news/business/article257917263.html"
-    ampWebUrl: "https://amp.kansas.com/news/business/article257917263.html"
-    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article257917263.html"
-    type: article
-    provider:
-      name: Wichita Eagle
-      domain: kansas.com
-    quality: 39
   - title: "Teslas recalled because self-driving software tells them to roll through stop signs"
     excerpt: "DETROIT -- Tesla is recalling nearly 54,000 cars and SUVs because their \"Full Self-Driving\" software lets them roll through stop signs without coming to a complete halt. Recall documents posted ..."
-    publishedDateTime: 2022-02-05T03:00:00Z
-    webUrl: "https://6abc.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
+    publishedDateTime: 2022-02-05T02:43:00Z
+    webUrl: "https://abc13.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
     type: article
     provider:
-      name: 6abc News
-      domain: 6abc.com
+      name: abc13.com
+      domain: abc13.com
     quality: 33
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11538119_020122-kabc-11pm-tesla-recall-vid.jpg?w=1600"

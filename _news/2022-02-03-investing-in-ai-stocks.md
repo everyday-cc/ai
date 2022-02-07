@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -100,6 +100,20 @@ related:
       - url: "  \n\n\n\n                                    https://www.suryaa.com/suryaa-images/englishnews/bigimage/9_7245.jpg\n\n\n    "
         width: 500
         height: 305
+        isCached: true
+  - title: "Jio Platforms takes stake in AI start-up"
+    excerpt: "Jio Platforms invested $15 million to take a 25 per cent stake in US-based technology start-up Two Platforms, plotting joint development of products featuring technologies including AI, AR and mixed reality. Akash Ambani, director of Jio Platforms ..."
+    publishedDateTime: 2022-02-07T08:25:00Z
+    webUrl: "https://www.mobileworldlive.com/asia/asia-news/jio-platforms-takes-stake-in-ai-start-up"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 37
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/10/Jio_India-e1588588149242.jpg"
+        width: 600
+        height: 375
         isCached: true
   - title: "Stock Market January PANIC AI Tech Stocks Buying Opp - Trend Forecast 2022"
     excerpt: "2022 has gotten off to a great start with many of the target AI tech giants having taken a early year tumble to fresh swing lows that is failing to register in the general indices such as the Dow ..."
