@@ -2,6 +2,208 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-01-11-inside-bigscience-the-quest-to-build-a-powerful-open-language-model.md",
+      "title": "Inside BigScience, the quest to build a powerful open language model",
+      "excerpt": "Hugging Face's BigScience project is making progress toward developing an open, massive -- and highly capable -- natural language model.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/10/inside-bigscience-the-quest-to-build-a-powerful-open-language-model/",
+      "originalUrl": "https://venturebeat.com/2022/01/10/inside-bigscience-the-quest-to-build-a-powerful-open-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/10/inside-bigscience-the-quest-to-build-a-powerful-open-language-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/10/inside-bigscience-the-quest-to-build-a-powerful-open-language-model/amp/",
+      "publishedDateTime": "2022-01-10T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-this-robot-trader-is-betting-on-big-gains-for-tesla-and-nvidia-stock-its-been-right-before.md",
+      "title": "This Robot Trader Is Betting on Big Gains for Tesla and Nvidia Stock. It’s Been Right Before.",
+      "excerpt": "This artificial intelligence-powered ETF ditched Netflix, Merck, and three other familiar stocks this month. Here's what it bought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218?refsec=funds",
+      "originalUrl": "https://www.barrons.com/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218?refsec=funds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-68043/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218",
+      "publishedDateTime": "2022-01-10T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-sanofi-sny-inks-deal-to-develop-ai-driven-precision-medicines.md",
+      "title": "Sanofi (SNY) Inks Deal to Develop AI-Driven Precision Medicines",
+      "excerpt": "Sanofi (SNY) signs a collaboration agreement with Exscientia to develop precision-engineered medicines in oncology and immunology using the latter's AI-driven platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/412358",
+      "originalUrl": "https://www.entrepreneur.com/article/412358",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-412358.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-10T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-how-to-build-a-data-science-and-machine-learning-roadmap-in-2022.md",
+      "title": "How to build a data science and machine learning roadmap in 2022",
+      "excerpt": "Despite the growing enthusiasm for DSML's core technologies, getting results from its strategies is elusive for enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/",
+      "originalUrl": "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1081869346-e1641824655432.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/amp/",
+      "publishedDateTime": "2022-01-10T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-5-fresh-examples-of-ai.md",
       "title": "5 Fresh Examples Of AI",
       "excerpt": "What used to be seen as niche is now widespread, with innovative AI applications across all industries. 86% of companies say AI became a mainstream technology in 2021—and it shows no signs of stopping.",
@@ -987,169 +1189,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-changing-face-of-health-and-healthcare.md",
-      "title": "Changing face of health and healthcare",
-      "excerpt": "Foundation highlights the various aspects which will be crucial during and after the pandemic The onset of the COVID-19 pandemic saw the medical fraternity, technology innovators, manufacturers, regulators,",
-      "sourceUrl": null,
-      "webUrl": "https://www.expresshealthcare.in/news/changing-face-of-health-and-healthcare/432942/",
-      "originalUrl": "https://www.expresshealthcare.in/news/changing-face-of-health-and-healthcare/432942/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.expresshealthcare.in/wp-content/uploads/2022/01/750-x-400-2.jpg",
-          "width": 750,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/",
-      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/",
-      "publishedDateTime": "2022-01-10T00:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "expresshealthcare",
-        "domain": "expresshealthcare.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-extending-microsofts-azure-digital-twins-for-real-time-analytics.md",
-      "title": "Extending Microsoft’s Azure Digital Twins for real-time analytics",
-      "excerpt": "As countless applications need to track live systems, developers face the challenge of implementing real-time analytics that can react to incoming telemetry and quickly identify problems or opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://developer-tech.com/news/2022/jan/10/extending-microsoft-azure-digital-twins-real-time-analytics/",
-      "originalUrl": "https://developer-tech.com/news/2022/jan/10/extending-microsoft-azure-digital-twins-real-time-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://developer-tech.com/wp-content/uploads/sites/3/2022/01/extending-azure-digital-twins-real-time-analytics-developer-cloud-iot-platform-scaleout-software.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T00:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Developer Tech",
-        "domain": "developer-tech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-entertainment-robotics-market-acquire-huge-growth-global-opportunities-and-trends-from-2022-to-2027.md",
-      "title": "Entertainment Robotics Market Acquire Huge Growth, Global Opportunities and Trends from 2022 to 2027",
-      "excerpt": "The Global Entertainment Robotics Market Research Report published by the Market Intelligence Data discovers recent outlooks for global and key regions in terms of key players countries product types and end industries This report studies the top players in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2521674/entertainment-robotics-market-acquire-huge-growth-global",
-      "originalUrl": "https://www.openpr.com/news/2521674/entertainment-robotics-market-acquire-huge-growth-global",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2521674/entertainment-robotics-market-acquire-huge-growth-global",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2521674/entertainment-robotics-market-acquire-huge-growth-global",
-      "publishedDateTime": "2022-01-10T00:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-google-prediction-framework-addresses-data-pipeline-drudgery.md",
-      "title": "Google Prediction Framework addresses data pipeline drudgery",
-      "excerpt": "Google’s Prediction Framework stitches together Google Cloud Platform (GCP) services, from Cloud Functions to Pub/Sub to Vertex AutoML to BigQuery, to help users implement data prediction projects and save time doing so. Detailed in a December 29 blog ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/694299/google-prediction-framework-addresses-data-pipeline-drudgery/",
-      "originalUrl": "https://www.reseller.co.nz/article/694299/google-prediction-framework-addresses-data-pipeline-drudgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_17.jpg",
-          "width": 472,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-09T20:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

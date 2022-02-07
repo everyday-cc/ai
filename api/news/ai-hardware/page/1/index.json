@@ -1059,6 +1059,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-20-the-battle-of-ai-processors-begins-in-2018.md",
+      "title": "The Battle of AI Processors Begins in 2018",
+      "excerpt": "Are GPU's Destined for AI? Which brings us to GPUs. Call it a happy accident or serendipity. But GPU makers have found themselves holding the technology that could be at the forefront of the AI revolution. Once thought of as a complementary unit to CPUs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
+      "originalUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20TPU.png",
+          "width": 1000,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-brainchip-achieves-full-commercialisation-of-akd1000-aiot-chip.md",
       "title": "BrainChip Achieves Full Commercialisation of AKD1000 AIoT Chip",
       "excerpt": "BrainChip Holdings Ltd, today announced that it has begun taking orders for the first commercially available Mini PCIe board leveraging its AkidaT advanced neural networking processor, rounding out its suite of AKD1000 offerings.",
@@ -1284,49 +1327,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-18-samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2-architecture.md",
-      "title": "Samsung Introduces Game Changing Exynos 2200 Processor with Xclipse GPU Powered by AMD RDNA 2 Architecture",
-      "excerpt": "Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, today announced its new premium mobile processor, the Exynos 2200. The Exynos 2200 is a freshly designed mobile processor with a powerful AMD RDNA 2 architecture based Samsung Xclipse graphics processing unit (GPU).",
-      "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2/article_63d01e68-06be-5d34-b581-0308460b5ec5.html",
-      "originalUrl": "https://www.register-herald.com/region/samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2/article_63d01e68-06be-5d34-b581-0308460b5ec5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/7/f5/7f55de04-6486-584b-987f-1bb4d418b78e/61e685c85a8b3.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-18-samsung-announces-exynos-2200-chipset-with-amd-rdna-2-based-xclipse-gpu.md",
       "title": "Samsung announces Exynos 2200 chipset with AMD RDNA 2-based Xclipse GPU",
       "excerpt": "Samsung has announced its latest flagship smartphone processor — Exynos 2200, which will be powering the company’s upcoming premium smartphones later this year. This is the same chipset that the company was set to unveil on 11th January but got delayed.",
@@ -1379,21 +1379,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-18-brainchip-achieves-full-commercialization-of-its-akd1000-aiot-chip-with-availability-of-mini-pcie-boards-in-high-volume.md",
-      "title": "BrainChip Achieves Full Commercialization of Its AKD1000 AIoT Chip With Availability of Mini PCIe Boards in High Volume",
-      "excerpt": "BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), a leading provider of ultra-low power high performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,",
+      "path": "_news/2022-01-18-samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2-architecture.md",
+      "title": "Samsung Introduces Game Changing Exynos 2200 Processor with Xclipse GPU Powered by AMD RDNA 2 Architecture",
+      "excerpt": "Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, today announced its new premium mobile processor, the Exynos 2200. The Exynos 2200 is a freshly designed mobile processor with a powerful AMD RDNA 2 architecture based Samsung Xclipse graphics processing unit (GPU).",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-brainchip-holdings-ltd-944dfbaa40d34d96b09a42e7bf3a634a",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-brainchip-holdings-ltd-944dfbaa40d34d96b09a42e7bf3a634a",
+      "webUrl": "https://www.thedailytimes.com/business/samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2/article_ea7e5f22-e62c-5510-ba56-1b293633de2c.html",
+      "originalUrl": "https://www.thedailytimes.com/business/samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2/article_ea7e5f22-e62c-5510-ba56-1b293633de2c.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/9/bc/9bcaeb69-9ff0-591b-af93-1a22daf6c38e/61e62306bfa0f.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1403,11 +1403,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-17T14:32:00-08:00",
+      "publishedDateTime": "2022-01-17T17:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "thedailytimes.com",
+        "domain": "thedailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null

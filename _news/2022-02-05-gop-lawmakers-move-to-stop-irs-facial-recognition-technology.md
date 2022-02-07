@@ -145,6 +145,20 @@ related:
         width: 1199
         height: 777
         isCached: true
+  - title: "Watch out for the facial recognition overlords"
+    excerpt: "One way to imagine today’s complex web of facial recognition vendors is to think of the internet as being like The National Portrait Gallery in London. The public portraits that are freely on display are a bit like the billions of photos people post on ..."
+    publishedDateTime: 2022-02-07T08:13:00Z
+    webUrl: "https://www.japantimes.co.jp/opinion/2022/02/07/commentary/world-commentary/facial-recognition-overlords/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/02/np_file_138653-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
   - title: "IRS facial recognition plan gets fierce blowback from bipartisan senators"
     excerpt: "In the wake of a controversial plan by the Internal Revenue Service to implement third-party services that rely on facial recognition, bipartisan senators on Thursday demanded that the IRS “immediately discontinue” any programs that collect ..."
     publishedDateTime: 2022-02-04T21:00:00Z

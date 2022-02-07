@@ -9,8 +9,8 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/enterprise-ai-startup-c
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Free Press Journal
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
+    excerpt: "Jio Platforms announced on Friday that it has invested $15 million in Two Platforms (TWO) for a 25 per cent equity stake. The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences."
+    publishedDateTime: 2022-02-05T07:11:00Z
+    webUrl: "https://www.suryaa.com/117077-jio-platforms-invests-15-mn-in-ai-vr-startup-two-platforms.html"
+    type: article
+    provider:
+      name: Suryaa
+      domain: suryaa.com
+    quality: 37
+    images:
+      - url: "  \n\n\n\n                                    https://www.suryaa.com/suryaa-images/englishnews/bigimage/9_7245.jpg\n\n\n    "
+        width: 500
+        height: 305
+        isCached: true
   - title: "AI-Powered Digital Skills Assessment Start-up iMocha Raises $14 Million in Series A Funding"
     excerpt: "PUNE, India, Jan. 27, 2022 /PRNewswire/ -- AI-powered digital skills assessment ... institutional raise by the profitable bootstrapped start-up, iMocha operates out of India and the US."
     publishedDateTime: 2022-02-04T18:35:00Z

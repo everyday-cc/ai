@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "DeepMind’s AlphaCode AI writes code at a competitive level"
-    excerpt: "DeepMind has created an AI capable of writing code to solve arbitrary problems posed to it, as proven by participating in a coding challenge and placing — well, somewhere in the middle. It won’t be taking any software engineers’ jobs just yet,"
-    publishedDateTime: 2022-02-02T18:04:00Z
-    webUrl: "https://techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/"
-    ampWebUrl: "https://techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/02/deepminds-alphacode-ai-writes-code-at-a-competitive-level/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-655977302.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "AI Weekly: DeepMind’s AlphaCode, automatic age verification, and a new open language model"
     excerpt: "Register here. This week in AI, DeepMind detailed a new code-generating system, AlphaCode, that it claims is competitive with top human programmers. Supermarket chains in the U.K. announced that ..."
     publishedDateTime: 2022-02-04T21:11:00Z

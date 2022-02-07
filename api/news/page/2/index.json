@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-04-most-read-articles-eus-chips-act-honeybee-robotics-5g.md",
+      "title": "Most Read articles – EU’s Chips Act, Honeybee Robotics, 5G",
+      "excerpt": "Blue Origin buying Honeybee Robotics and the EU’s Chips Act… 5. NEC buys Blue Danube NEC has bought Blue Danube Systems, a U.S.-based provider of CBRS/4G/5G RAN products and AI/ML-based software solutions that help mobile operators address 5G network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-articles-eus-chips-act-honeybee-robotics-5g-2022-02/",
+      "originalUrl": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-articles-eus-chips-act-honeybee-robotics-5g-2022-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/sites/5/2013/04/7-micro-gan-6-in-wafer-with-high-voltage-power-transitors.jpg",
+          "width": 534,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-04T03:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-cloud-computing-spending-just-hit-another-huge-milestone.md",
       "title": "Cloud-computing spending just hit another huge milestone",
       "excerpt": "Read More Amazon Web Services had a 33% share, followed by Microsoft Azure's 22%, and Google Cloud's 9% ... in virtual and augmented reality environments, while storage, machine learning, IoT and data analytics will be essential to support operations ...",
@@ -114,7 +158,7 @@
       "originalUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -349,7 +393,7 @@
       "originalUrl": "https://www.businessinsider.com/two-google-researchers-quit-to-join-timnit-gebru-ethical-ai-2022-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -557,7 +601,7 @@
       "originalUrl": "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -852,40 +896,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-03-is-it-too-late-to-buy-microsoft.md",
-      "title": "Is It Too Late to Buy Microsoft?",
-      "excerpt": "Integrating AI and machine learning into its cloud and enterprise software ... the intelligent cloud platform, which consists of Azure, GitHub, server products, and other cloud-based services such as databases, is growing faster than overall revenue ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft",
-      "originalUrl": "https://www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft?amp",
-      "publishedDateTime": "2022-02-03T04:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-03-strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock.md",
       "title": "Strong Earnings From Cloud Behemoths Bode Well For Snowflake Stock",
       "excerpt": "Per the Trefis machine learning engine which analyzes historical stock price ... While there are other rivals in this space, including Amazon’s Redshift, Microsoft’s Azure Synapse, and Google’s Big Query, Snowflake offers strong product differentiation.",
@@ -946,7 +956,7 @@
       "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1041,6 +1051,48 @@
       ]
     },
     {
+      "path": "_news/2022-02-03-enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round.md",
+      "title": "Enterprise AI startup CyborgIntell raises $1.19 mn in pre-Series A round",
+      "excerpt": "CyborgIntell, an enterprise AI software company, today announced that it has raised $1.19 million in funding from SenseAI and Pentathlon Ventures, followed with extended additional investments from existing investors and Ghosal Ventures. The current ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round",
+      "originalUrl": "https://www.freepressjournal.in/business/enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/2019-12/2c483a89-9b9a-4d3e-aa69-b584f80ec770/US_Dollar.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round",
+      "publishedDateTime": "2022-02-03T01:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-the-ai-technology-revolution-in-practical-data-protection-in-finance.md",
       "title": "The AI technology revolution in practical data protection in Finance",
       "excerpt": "Made for innovators interested in creating the next breakthroughs in machine intelligence to enhance human potential.",
@@ -1093,7 +1145,7 @@
       "originalUrl": "https://www.wbez.org/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1176,58 +1228,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco.md",
-      "title": "GM’s Cruise brings self-driving car rides to the public in San Francisco",
-      "excerpt": "Cruise, the autonomous car company acquired by General Motors in 2016, has announced the launch of driverless car rides in San Francisco. The rides are offered to the public for free at this time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/",
-      "originalUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/02/gm-cruise-car.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco-02710314/amp/",
-      "publishedDateTime": "2022-02-02T16:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

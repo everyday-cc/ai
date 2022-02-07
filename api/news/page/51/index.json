@@ -2,21 +2,21 @@
   "page": 51,
   "value": [
     {
-      "path": "_news/2021-12-08-a-system-for-designing-and-training-intelligent-soft-robots.md",
-      "title": "A system for designing and training intelligent soft robots",
-      "excerpt": "Scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) have designed “Evolution Gym,” a large-scale testing system for co-optimizing the design and control of soft robots,",
+      "path": "_news/2021-12-09-timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds.md",
+      "title": "Timekettle WT2 Edge: 1st Bi-Directional Simultaneous AI Translation Earbuds",
+      "excerpt": "For example, if we are in conference with foreign-language speakers, we normally have such kind of sense that we have to wait for the translation for a long time once we use some translation tools ...",
       "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/system-designing-training-intelligent-soft-robots-1207",
-      "originalUrl": "https://news.mit.edu/2021/system-designing-training-intelligent-soft-robots-1207",
+      "webUrl": "https://www.digitaljournal.com/pr/timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds",
+      "originalUrl": "https://www.digitaljournal.com/pr/timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://news.mit.edu/sites/default/files/images/202112/Evolution-Gym-CSAIL.jpg",
-          "width": 950,
-          "height": 760,
+          "url": "https://www.accesswire.com/users/newswire/images/676729/image.png",
+          "width": 602,
+          "height": 602,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,271 +26,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T11:06:00-08:00",
+      "publishedDateTime": "2021-12-09T02:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer.md",
-      "title": "Get more done with lifetime access to AI-powered music and a Pomodoro timer",
-      "excerpt": "There are a lot of ways to increase your productivity, but few of them will be as effortless and enjoyable as simply listening to music that has been optimized by AI for getting work done.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
-      "originalUrl": "https://www.techrepublic.com/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/20/0261a7b9-aa96-4169-89bb-f07e45ad2aa8/resize/1200x/199e2d794b65e2788f7eefa49082fb24/istock-1181026897.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
-      "publishedDateTime": "2021-12-07T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning.md",
-      "title": "The Future Of Work: How Slack Is Reinventing Hybrid Collaboration With Machine Learning",
-      "excerpt": "Slack, an already integral part of the modern workforce, is redefining the norm of remote and hybrid work yet again with its new collaboration tools - huddles and clips. With the help of AWS machine learning (ML),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/07/the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/07/the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61afb30e21036f0141922566%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/07/the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/12/07/the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning/amp/",
-      "publishedDateTime": "2021-12-07T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-will-we-ever-cheat-death-and-become-immortal-with-mind-uploading.md",
-      "title": "Will We Ever Cheat Death and Become Immortal With Mind Uploading?",
-      "excerpt": "Mind uploading is a complicated and advanced technology but it is not impossible as it sounds. But may it be a self-defeating endeavor?",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/cheating-death-and-becoming-immortal-with-mind-uploading",
-      "originalUrl": "https://interestingengineering.com/cheating-death-and-becoming-immortal-with-mind-uploading",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/PrO3xvmEGq/sizes/futuristic-vr-with-businesswoman-using-digital-tablet-picture-id1303398550_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/cheating-death-and-becoming-immortal-with-mind-uploading",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/cheating-death-and-becoming-immortal-with-mind-uploading",
-      "publishedDateTime": "2021-12-07T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-the-fintech-revolution-in-china.md",
-      "title": "The FinTech Revolution In China",
-      "excerpt": "China has seen an incredible transformation over the past few decades. It's gone from being one of the poorest countries in Asia to a thriving, industrialised nation that is now the second-largest economy in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/fintech-revolution-china-banq-ai",
-      "originalUrl": "https://www.linkedin.com/pulse/fintech-revolution-china-banq-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQERJsVp4-GWkA/article-cover_image-shrink_600_2000/0/1638896477318?e=1645056000&v=beta&t=Wu9KRdTKpjhJgYLbVfxCTqw4bkOwfHE4iF-IUWuDt9k",
-          "width": 770,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-suki-a-siri-like-voice-platform-for-doctors-raises-55-million.md",
-      "title": "Suki, a Siri-like voice platform for doctors, raises $55 million",
-      "excerpt": "Suki is an AI-powered voice platform that doctors can use to generate and retrieve medical notes, and reduce time-consuming administration.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/",
-      "originalUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/9c849f8e-1c22-4954-b3fa-a6a10ddac299_LeticiaRamireznote-1.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/",
-      "publishedDateTime": "2021-12-07T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -304,21 +45,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-07-y-combinator-and-mit-startup-oda-studio-raises-28m-for-ai-powered-photo-enhancement-solutions.md",
-      "title": "Y Combinator and MIT Startup Oda Studio Raises $2.8M for AI-powered Photo Enhancement Solutions",
-      "excerpt": "Oda Studio, a Y Combinator startup founded by a team of MIT graduates with extensive experience in artificial intelligence (AI), recently announced it raised $2.8 million to make their solution available globally.",
+      "path": "_news/2021-12-09-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
+      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
+      "excerpt": "The AI and machine learning technology outlined in the presolicitation could also support new EHR infrastructure and focus on an improved user experience, mainly with an improved platform ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-b010ce010e18465fa5cc6cc526449370",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-b010ce010e18465fa5cc6cc526449370",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2022/01/us-army-announces-new-machine-learning-tech-burn-treatment/360303/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://cdn.nextgov.com/media/img/cd/2022/01/03/GettyImages_184355967/open-graph.jpg",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -328,11 +69,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T07:32:00-08:00",
+      "publishedDateTime": "2021-12-08T09:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Nextgov",
+        "domain": "nextgov.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -342,25 +83,26 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-12-07-intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise.md",
-      "title": "Intel Plans Potential $50 Billion IPO For Its Israeli Self-Driving Car Unit, Shares Rise",
-      "excerpt": "The tech giant said that it would take its self-driving car firm, Mobileye, public next year at a potential valuation of more than $50 billion, sources first told The Wall Street Journal. Intel originally acquired 100% of the Israeli company in 2017 for $15.",
+      "path": "_news/2021-12-08-breaking-international-news-views-reuters.md",
+      "title": "Breaking International News & Views | Reuters",
+      "excerpt": "Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/",
-      "originalUrl": "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/",
+      "webUrl": "https://www.reuters.com/article/us-alphabet-google-research-exclusive/exclusive-google-pledges-changes-to-research-oversight-after-internal-revolt-idUSKBN2AP1AC",
+      "originalUrl": "https://www.reuters.com/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af8aa58245aba99ca728d7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3995%26cropY1%3D153%26cropY2%3D2399",
-          "width": 1200,
-          "height": 675,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210225&t=2&i=1552870470&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1O0OD",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -368,16 +110,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/",
-      "publishedDateTime": "2021-12-07T07:27:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AP1AC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP1AC",
+      "publishedDateTime": "2021-12-07T22:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -393,110 +135,23 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-12-07-artificial-intelligence-in-ride-hailing.md",
-      "title": "Artificial intelligence in ride hailing",
-      "excerpt": "Artificial Intelligence ... VIKI’s location intelligence gives us 100% real time intelligence on the driver’s location and driving patterns, at the comfort of our office with deploying ...",
+      "path": "_news/2021-12-07-report-ai-investments-see-largest-year-over-year-growth-in-20-years.md",
+      "title": "Report: AI investments see largest year-over-year growth in 20 years",
+      "excerpt": "Results indicate that COVID-19 has contributed to a surging global interest in AI from both governments and investors.",
       "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-in-ride-hailing/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-in-ride-hailing/",
+      "webUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
+      "originalUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-in-ride-hailing/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-in-ride-hailing/",
-      "publishedDateTime": "2021-12-07T06:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-nds-cognitive-labs-experiences-record-growth-in-2021-bolstered-by-key-partnerships-and-executive-appointments.md",
-      "title": "NDS Cognitive Labs Experiences Record Growth in 2021, Bolstered by Key Partnerships and Executive Appointments",
-      "excerpt": "NDS Cognitive Labs (NDS) today announced the company’s record-setting 2021 company growth, enabled by partnerships with Clip (digital payment provider), major banks in Latin America, and global and US technology companies.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-mexico-information-technology-22186b257904452babb3796d3bd52f5b",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-mexico-information-technology-22186b257904452babb3796d3bd52f5b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations.md",
-      "title": "AI-powered customer engagement platform MoEngage raises $30M to grow operations",
-      "excerpt": "MoEngage, a startup developing an AI-driven customer engagement platform, has closed a $30 million venture capital round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/",
-      "originalUrl": "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/communication-6605648_1920-e1632854543166.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/data_globe-e1637353198623.jpg?w=1200&strip=all",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -506,9 +161,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/",
-      "publishedDateTime": "2021-12-07T06:22:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
+      "publishedDateTime": "2021-12-06T08:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -533,634 +188,7 @@
       "topics": [
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-12-07-cyberlinks-faceme-brings-best-in-class-facial-recognition-to-bitkeys-smart-office-platform-workhub.md",
-      "title": "CyberLink’s FaceMe® Brings Best-in-Class Facial Recognition to Bitkey’s Smart Office Platform, “workhub”",
-      "excerpt": "(5203.TW), a pioneer in AI and facial recognition technologies, today announced that its FaceMe ® facial recognition solution has been successfully implemented by bitkey Inc. into “workhub,” a connected smart office platform.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-277ccb86edb24e23b37f3183b66638af",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-277ccb86edb24e23b37f3183b66638af",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-we-love-technology-until-it-starts-loving-us-back.md",
-      "title": "We love technology, until it starts loving us back.",
-      "excerpt": "I'm on my on my science-possibly-not-so-fiction today. Sometimes being able to innovate means having the ability to think abstractly -- to still connect the dots wherever possible and to maintain accountability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/we-love-technology-until-starts-loving-us-back-steven-rossi",
-      "originalUrl": "https://www.linkedin.com/pulse/we-love-technology-until-starts-loving-us-back-steven-rossi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEv42_PJI7xVg/article-cover_image-shrink_720_1280/0/1638885502860?e=1645056000&v=beta&t=mkCaj3AXTLeEVnl3BWlo4Du6y_3PzeWTv5tz1WqkvsY",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-mid-2022.md",
-      "title": "Intel plans to take self-driving car unit public in the U.S. in mid-2022",
-      "excerpt": "Intel has announced that it plans to list Mobileye, the Israeli autonomous driving firm it acquired for $15.3 billion in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "originalUrl": "https://www.cnbc.com/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1626819349",
-          "width": 3500,
-          "height": 2334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
-      "publishedDateTime": "2021-12-07T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites.md",
-      "title": "Bookmark Introduces AiDA: An Artificial Intelligence Design Assistant for Websites",
-      "excerpt": "Bookmark ( bookmark.com) is the world’s first and fastest Ai-powered website builder. By building revolutionary artificial intelligence algorithms over the past six years, their proprietary technology AiDA (Artificial Intelligence Design Assistant) is now available for anyone who needs a website or online store.",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/",
-      "originalUrl": "https://ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icrowdnewswire.com/wp-content/uploads/2021/12/44.jpg",
-          "width": 1799,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/?amp=1",
-      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/12/07/bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites/?amp=1",
-      "publishedDateTime": "2021-12-07T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-algorithms-are-making-many-of-your-decisions-and-you-might-be-ok-with-that.md",
-      "title": "Algorithms are making many of your decisions, and you might be OK with that",
-      "excerpt": "The odds are good that at least a few algorithms helped you find this article. After all, algorithms—which are essentially systems or processes that help make a choice—have been around nearly forever.",
-      "sourceUrl": null,
-      "webUrl": "https://news.arizona.edu/story/algorithms-are-making-many-your-decisions-–-and-you-might-be-ok",
-      "originalUrl": "https://techxplore.com/news/2021-12-algorithms-decisions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.uanews.arizona.edu/s3fs-public/styles/uaqs_card_image/public/images/people/kyle.jpeg?itok=xLpRSRj7",
-          "width": 568,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-the-national-captioning-institute-uses-automated-speech-recognition-asr-closed-captioning-solution-to-meet-growing-demand.md",
-      "title": "The National Captioning Institute Uses Automated Speech Recognition (ASR) Closed Captioning Solution to Meet Growing Demand",
-      "excerpt": "Closed captioning providers have been challenged to expand capacity quickly and effectively in response to a heightened demand for services. When comparing March",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-national-captioning-institute-uses-automated-speech-recognition-asr-closed-captioning-solution-to-meet-growing/article_611e2ca9-0917-5f3c-9e21-a75e9fa2d2e3.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-national-captioning-institute-uses-automated-speech-recognition-asr-closed-captioning-solution-to-meet-growing/article_611e2ca9-0917-5f3c-9e21-a75e9fa2d2e3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/7a/77a10bd8-d3ba-5e67-ada1-a4e0e615206b/61af65d59209e.image.jpg?crop=604%2C317%2C98%2C0&resize=604%2C317&order=crop%2Cresize",
-          "width": 604,
-          "height": 317,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T04:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-facial-recognition-isnt-working-for-some-windows-11-users.md",
-      "title": "Facial recognition isn’t working for some Windows 11 users",
-      "excerpt": "Some Windows 11 users are claiming that the facial recognition software won't work, but the OS isn't to blame, but the hardware itself.",
-      "sourceUrl": null,
-      "webUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/",
-      "originalUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2021/12/facial-recognition-windows-11.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/facial-recognition-not-working-windows-11/?amp",
-      "publishedDateTime": "2021-12-07T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-what-marketing-teams-need-to-know-about-codeless-ai-infrastructure.md",
-      "title": "What Marketing Teams Need To Know About Codeless AI Infrastructure",
-      "excerpt": "Codeless or no-code AI infrastructure is a testament to data scientists working in tandem with domain experts to build products for particular purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ae0dc401c039d48f234705%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/amp/",
-      "publishedDateTime": "2021-12-07T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-university-wide-institute-to-integrate-natural-artificial-intelligence.md",
-      "title": "University-wide Institute to Integrate Natural, Artificial Intelligence",
-      "excerpt": "Harvard University on Tuesday launched the Kempner Institute for the Study of Natural and Artificial Intelligence, a new University-wide initiative standing at the intersection of neuroscience and artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://news.harvard.edu/gazette/story/2021/12/new-harvard-institute-to-study-natural-artificial-intelligence/",
-      "originalUrl": "https://hms.harvard.edu/news/university-wide-institute-integrate-natural-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.harvard.edu/wp-content/uploads/2021/11/AI_Social-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Medical School",
-        "domain": "harvard.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-how-ai-ethics-falls-short-preserving-jobs-is-not-enough.md",
-      "title": "How AI ethics falls short - preserving jobs is not enough",
-      "excerpt": "AI ethics has been a hot topic for about five years, but are we getting to the fundamental issues? Here's why well-intentioned ideas for preventing AI job loss come up short.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough",
-      "originalUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-09/code-of-ethics.jpg",
-          "width": 1277,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough?amp",
-      "publishedDateTime": "2021-12-07T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed.md",
-      "title": "Artificial intelligence carries a huge upside. But potential harms need to be managed",
-      "excerpt": "The increasing use of artificial intelligence and machine learning in public decision making is raising critical issues around fairness and human rights.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
-      "originalUrl": "https://theconversation.com/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/436064/original/file-20211207-27-1vcec0k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop",
-          "width": 320,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
-      "publishedDateTime": "2021-12-07T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-flagship-pioneering-launches-harbinger-health-to-detect-early-cancer-with-a-simple-bio-ai-based-blood-test.md",
-      "title": "Flagship Pioneering Launches Harbinger Health to Detect Early Cancer with a Simple, Bio-AI Based Blood Test",
-      "excerpt": "Flagship Pioneering today announced the launch of Harbinger Health, a bioplatform company pioneering the detection of early cancer with a simple blood test",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/flagship-pioneering-launches-harbinger-health-to-detect-early-cancer-with-a-simple-bio-ai-based-blood-test-301438732.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/flagship-pioneering-launches-harbinger-health-to-detect-early-cancer-with-a-simple-bio-ai-based/article_d1a3b857-7adf-59c4-9ab6-4c6bae8b3f2b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1027035/Flagship_Pioneering_Logo.jpg?p=facebook",
-          "width": 1500,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-your-face-is-or-will-be-your-boarding-pass.md",
-      "title": "Your Face Is, or Will Be, Your Boarding Pass",
-      "excerpt": "Tech-driven changes are coming fast and furiously to airports, including advancements in biometrics that verify identity and shorten security procedures for those passengers who opt into the programs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-security.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-security.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/02/business/02biometrics-video-still/02biometrics-video-still-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-security.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/07/travel/biometrics-airports-security.amp.html",
-      "publishedDateTime": "2021-12-07T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-we-cant-let-robots-control-nuclear-arsenals.md",
-      "title": "We can’t let robots control nuclear arsenals",
-      "excerpt": "New Zealand has just joined 30 other nations in advocating a ban on “lethal autonomous weapons”, or “killer robots” as the ... defences on a hair-trigger controlled by its own AI, across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=92c9ead0d6bd32c383d7568860fe691e",
-      "originalUrl": "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=92c9ead0d6bd32c383d7568860fe691e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T01:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
     }
   ],
-  "nextPage": 52
+  "nextPage": null
 }

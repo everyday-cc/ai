@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wbez.org/amp/stories/using-facial-recognition-software-t
 cdnAmpWebUrl: "https://www-wbez-org.cdn.ampproject.org/c/s/www.wbez.org/amp/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad"
 type: article
 quality: 55
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -144,6 +144,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/a4b6c57/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2b%2F95%2F021b51a74a8f93d36ab8e268ad75%2Firs-building-spotlight.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Watch out for the facial recognition overlords"
+    excerpt: "One way to imagine today’s complex web of facial recognition vendors is to think of the internet as being like The National Portrait Gallery in London. The public portraits that are freely on display are a bit like the billions of photos people post on ..."
+    publishedDateTime: 2022-02-07T08:13:00Z
+    webUrl: "https://www.japantimes.co.jp/opinion/2022/02/07/commentary/world-commentary/facial-recognition-overlords/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/02/np_file_138653-870x489.jpeg"
+        width: 870
+        height: 489
         isCached: true
   - title: "IRS facial recognition plan gets fierce blowback from bipartisan senators"
     excerpt: "In the wake of a controversial plan by the Internal Revenue Service to implement third-party services that rely on facial recognition, bipartisan senators on Thursday demanded that the IRS “immediately discontinue” any programs that collect ..."

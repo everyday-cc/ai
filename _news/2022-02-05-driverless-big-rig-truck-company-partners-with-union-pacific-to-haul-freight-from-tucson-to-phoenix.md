@@ -43,15 +43,6 @@ related:
         width: 320
         height: 214
         isCached: true
-  - title: "Driverless big-rig truck company partners with Union Pacific to haul freight from Tucson to Phoenix"
-    excerpt: "TuSimple is headquartered in San Diego but has its \"operational heart\" in Tucson, with several hundred employees there including engineers, artificial-intelligence experts, mechanics, freight ..."
-    publishedDateTime: 2022-02-02T17:56:00Z
-    webUrl: "https://www.azcentral.com/story/money/business/entrepreneurs/2022/02/02/tusimple-self-driving-truck-company-partners-union-pacific-arizona/9291341002/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 5
 
 secured: "3QqBmZUsdhYfVdMycrKJnHsU4OStdaS1U8pTLpbrh9dqajb6cD6tuVr+dFwbauOUa5FdvIu3U6q/U0G6GfscQ9AYbi+7u7Facv1/vO1VfKa8wKOCxRIdwq7k7k22q94x2GMlIk1E9uHjTnDXYxDRgWhI7JeskT6GpBKeMLaFLLNWiH0vTB4+wqw/bxQNYgg0080o7mw+X5jzGtIFEeom7SD+pY+CVOBXmtnatHSOLeDfTtSHpt52gtBcpfX3wEpHO2EaP6738h+4wHfEVzgdaUGZCrWw1jknqZOe0I5tGd/yqNTF7N3querw+j+UmB26Vc/vqAIZEbetKKO3RHEmdzj81HZcH8PEJJVAN8wweos=;sSLkeD4Ocvqx9wD3On54xQ=="
 ---

@@ -24,63 +24,53 @@ images:
     isCached: true
 
 related:
-  - title: "Investing in AI Stocks"
-    excerpt: "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ..."
-    publishedDateTime: 2022-02-02T17:26:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
+  - title: "Jio Platforms invests $15 mn in Pranav Mistry's AI firm Two Platforms Inc"
+    excerpt: "Two Platforms will work collaboratively with Jio Platforms to fast-track the adoption of new technologies and build disruptive technologies such as AI, metaverse, and mixed realities"
+    publishedDateTime: 2022-02-05T12:16:00Z
+    webUrl: "https://www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc-11643976301683.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc/amp-11643976301683.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc/amp-11643976301683.html"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
+      name: Mint
+      domain: livemint.com
+    quality: 56
     images:
-      - url: "https://m.foolcdn.com/media/dubs/images/A.I._hand_playing_the_game_of_Go.width-700.jpg"
-        width: 700
-        height: 525
+      - url: "https://images.livemint.com/img/2022/02/04/600x338/Jio_1568175568621_1643976769228.jpg"
+        width: 599
+        height: 338
         isCached: true
-  - title: "Artificial Intelligence’s Role in Banking 3.0"
-    excerpt: "By Richard Shearer, CEO of Tintra PLC In the modern banking world new technologies play a widely reported role in anti-money laundering (AML) protocols preventing financial crime – however it is important that we do not overlook technology’s potential for establishing financial innocence."
-    publishedDateTime: 2022-02-02T22:08:00Z
-    webUrl: "https://www.globalbankingandfinance.com/artificial-intelligences-role-in-banking-3-0/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/artificial-intelligences-role-in-banking-3-0/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligences-role-in-banking-3-0/"
+  - title: "Jio Backs Ex-Samsung Chief Pranav Mistry’s AI Firm To Build Metaverse, Web3 Capabilities"
+    excerpt: "Only last month, Jio’s sister company Reliance Retail invested in robotics startup Adverbb Technologies and quick commerce startup Dunzo Its latest bet, TWO is an AR company that enables real ..."
+    publishedDateTime: 2022-02-04T13:07:00Z
+    webUrl: "https://inc42.com/buzz/jio-backs-ex-samsung-chief-pranav-mistrys-ai-firm-to-build-metaverse-web3-capabilities/"
+    ampWebUrl: "https://inc42.com/buzz/jio-backs-ex-samsung-chief-pranav-mistrys-ai-firm-to-build-metaverse-web3-capabilities/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/jio-backs-ex-samsung-chief-pranav-mistrys-ai-firm-to-build-metaverse-web3-capabilities/amp/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 57
+      name: inc42.com
+      domain: inc42.com
+    quality: 50
     images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/02/iStock-1250153410.jpg"
-        width: 750
-        height: 389
+      - url: "https://inc42.com/wp-content/uploads/2022/02/pranav-mistry-social.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Artificial Intelligence in Predicting Web Traffic Spikes"
-    excerpt: "Machine Learning, specifically Artificial Intelligence, is great at analyzing information to either deduce patterns or classify information into predetermined categories. As ever, data is key ..."
-    publishedDateTime: 2022-02-03T23:27:00Z
-    webUrl: "https://itwire.com/guest-articles/artificial-intelligence-in-predicting-web-traffic-spikes.html"
+  - title: "Jio Platforms Invests $15 Million In Silicon Valley Start-Up TWO"
+    excerpt: "TWO is a Silicon Valley-based tech start-up founded by Pranav Mistry. TWO -- an Artificial Reality (AR) company -- said it believes the next chapter of Artificial Intelligence (AI) is visual and interactive. The AR platform enables real-time AI voice and ..."
+    publishedDateTime: 2022-02-04T12:43:00Z
+    webUrl: "https://www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346"
+    ampWebUrl: "https://www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346/amp/1"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 37
+      name: NDTV
+      domain: ndtv.com
+    quality: 42
     images:
-      - url: "https://itwire.com/images/Lead-Machine_Pink_300x250.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "How Google uses artificial intelligence In Google Search"
-    excerpt: "Search Engine Land » Google » Google: SEO » How Google uses artificial intelligence In Google Search As Google continues to leverage more artificial intelligence and machine learning in Google ..."
-    publishedDateTime: 2022-02-03T17:07:00Z
-    webUrl: "https://searchengineland.com/how-google-uses-artificial-intelligence-in-google-search-379746"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 37
-    images:
-      - url: "https://searchengineland.com/figz/wp-content/seloads/2015/10/google-brain-data1-ss-1920.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://c.ndtvimg.com/2019-12/9hua9ik8_jio_650x400_04_December_19.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
     excerpt: "The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences. Notably, TWO's Artificial Reality platform enables real-time AI ..."
@@ -96,44 +86,7 @@ related:
         width: 432
         height: 250
         isCached: true
-  - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
-    excerpt: "Jio Platforms announced on Friday that it has invested $15 million in Two Platforms (TWO) for a 25 per cent equity stake. The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences."
-    publishedDateTime: 2022-02-05T07:11:00Z
-    webUrl: "https://www.suryaa.com/117077-jio-platforms-invests-15-mn-in-ai-vr-startup-two-platforms.html"
-    type: article
-    provider:
-      name: Suryaa
-      domain: suryaa.com
-    quality: 37
-    images:
-      - url: "  \n\n\n\n                                    https://www.suryaa.com/suryaa-images/englishnews/bigimage/9_7245.jpg\n\n\n    "
-        width: 500
-        height: 305
-        isCached: true
-  - title: "Stock Market January PANIC AI Tech Stocks Buying Opp - Trend Forecast 2022"
-    excerpt: "2022 has gotten off to a great start with many of the target AI tech giants having taken a early year tumble to fresh swing lows that is failing to register in the general indices such as the Dow ..."
-    publishedDateTime: 2022-02-07T06:37:00Z
-    webUrl: "https://marketoracle.co.uk/Article69915.html"
-    type: article
-    provider:
-      name: The Market Oracle
-      domain: marketoracle.co.uk
-    quality: 35
-    images:
-      - url: "https://marketoracle.co.uk/images/2022/Jan/stock-market-jnaaury-panic-ai-tech-stocks-buying-trend-forecast-2022.JPG"
-        width: 800
-        height: 473
-        isCached: true
-  - title: "C3.ai (NYSE:AI) Stock Rating Upgraded by Zacks Investment Research"
-    excerpt: "Zacks Investment Research upgraded shares of C3.ai (NYSE:AI) from a sell rating to a hold rating in a report released on Tuesday morning, Zacks.com reports. According to Zacks, “C3.ai Inc. is an ..."
-    publishedDateTime: 2022-02-05T08:45:00Z
-    webUrl: "https://etfdailynews.com/news/c3-ai-nyseai-stock-rating-upgraded-by-zacks-investment-research/"
-    type: article
-    provider:
-      name: ETF Daily News
-      domain: etfdailynews.com
-    quality: 17
 
-secured: "pgd1g9JbIVfFt84xoBD/Nw7Jauy1jSTDtDvBusjxgEt2ETN1WgvYRcatqMH+7cJ7wpQ5G/HTKT6up+72M2jjY0iVN+w3l7lsr9y5Q/4EgGDgPQ0DvsW3rvMNzrrm/iUS1YW5mxAPDb8T+0HhQRw68FOU5n/6YTl28PUHjSNw8BKgaGthlB5XavuQWyfLAy8oD4PUiPvGgviHP1asJ3Iwf/B/kXQfU6qOULuXM6sS1ZqtiaZcwKlM7bf/YHvxlHko9krj6mxWBcEk3XhzIN26C6i9pxeC14+r+wPCX9LZUthwVtUBOTPMKhKui04Fhf44E7k5pDWTQ05qHh79TjslzOa+tT3wvMuVO95xdXiCUk0=;HG0KFZZfBxr5kJ2aidg/Qw=="
+secured: "6jBR93Oq3UEgUwZkVQOdwStiZg7BEEPMZ2vvOloV0Ct0nZboJRmADvll8jtCJQVHtT8Gw/YSMtlWdRU18Z/KhYHcbDeBDnOxS8GZfE3aYB4bfcttblhgL3u4dE+QQxXIxrifqEvxgLpUQ5UyeNMjqfIvGQcZA1Qqyj8tvt/W2krQbOJaDp12Neg4CqOZfseONKvZNsq187pMckdd1W6NjKNzyLxxFlBy6YEPqZ4+OBJKuh3sPc4V6cEUAIl2AHDeUwPO3a4P7E1YrcCKv9uyJz7VKMSyxJ3TIPPOAx1qEN2WKkI8aZuHio6ktoJfBz/CEhgY1SZhWImBu0QvWPDaFWizOSfk1KdUFPMrbrPPFylKBvgYufFGBqC2ZElXpN11e2VvzuPHyXX5u7P5VNDyemvarOxKjquu0jQ9GW3l01x6PSw/VfzBGDIla9B1EuhqXwR0B/M262PrcwYcR2QEOUyzMyzt0v4ssQkYma4/g5vjQJIrVyA/SM3fjxnVnHP1w1ui/fmVhHwbRgXS5d487Q==;dgSCdu7g3XgvfwuJIIPngA=="
 ---
 

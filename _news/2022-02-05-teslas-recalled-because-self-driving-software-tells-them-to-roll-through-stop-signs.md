@@ -73,22 +73,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tesla Recalls 54K Self-Driving Cars For Disrespecting The Stop Sign"
-    excerpt: "Tesla will recall 53,822 vehicles that incorporate its full self-driving beta software because the vehicles may not fully stop at stop signs"
-    publishedDateTime: 2022-02-02T17:26:00Z
-    webUrl: "https://hothardware.com/news/tesla-recalls-cars-for-disrespecting-the-stop-sign"
-    ampWebUrl: "https://amp.hothardware.com/news/tesla-recalls-cars-for-disrespecting-the-stop-sign"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/tesla-recalls-cars-for-disrespecting-the-stop-sign"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 59
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/57574/content/stop-sign.jpg"
-        width: 708
-        height: 469
-        isCached: true
   - title: "Tesla recalls 50,000 cars that disobey stop signs in self-driving mode"
     excerpt: "Tesla is recalling more than 50,000 cars in the US because the AI behind its self-driving feature acted too aggressively, rolling past stop signs rather than coming fully to a halt as required by law in many states. The company’s “Full Self-Driving ..."
     publishedDateTime: 2022-02-03T16:40:00Z
@@ -137,22 +121,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Tesla To Recall Nearly 54000 ‘Full Self-Driving’ Cars For Running Stop Signs"
-    excerpt: "Tesla will have to recall nearly 54,000 vehicles in the U.S. with the company's “ (FDS)” software, as it lets them roll through"
-    publishedDateTime: 2022-02-02T18:18:00Z
-    webUrl: "https://www.techworm.net/2022/02/tesla-recall-54000-self-driving-car.html"
-    ampWebUrl: "https://www.techworm.net/2022/02/tesla-recall-54000-self-driving-car.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/02/tesla-recall-54000-self-driving-car.html/amp"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 56
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2022/02/telsa-car.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "This is not a self-driving car"
     excerpt: "He’s not alone, either. YouTube’s favorite auto reviewer Doug DeMuro has referred to Super Cruise as a “self-driving” system, arguing that any attempt to draw distinction between an advanced driver assistance system and autonomous technology was ju ..."
     publishedDateTime: 2022-02-04T18:55:00Z
@@ -196,6 +164,6 @@ related:
         height: 280
         isCached: true
 
-secured: "fuScLuP8dmybBzbOwUgct2n0izckML3pJVvH2qdT2H8KmeB7R/6s4kFq+FM91Zf8/iB+MR2nkd4YxKdITX+wxHKuKGZWnKqupIOEC2Oz79+zZbSxa7ogrkOWzK2pKJyKKQLhMnE1OjkGaI0H7rko2vUwHIwiLCQcfT900kzyi2UHoDSgGTxQtp16HPxF+yEjdI1ECOqw4iSgM3xd1I48Q6/uDkgi5gywPU6RoN4hinlklfCH9+QjN4yz01xRa6mCRPBl28ZHLu3Ga7VGnQDaQr927XWsaEzXzQBLtK4AOLbCGIzlfCupA4+x0BGsA47TNfZLlhHXVjdT8s7q9/VsiJu6d21GXmyK+oyZfAzXUxQ=;rJOWQ4DSHye1Iaqz7GtWOA=="
+secured: "pkOGkn2I58xoLiR3s3bVuwcbjQ2sJAqQKabVGLJu+gSTEoO8Z1qM0kCJHXyHy78TKz22w8XYR4nNIVSkFFlkiN2zPTPxP6PmrA+0tVK5MQQYbrCr1lq78CVHC1RBgde1ndlT61sAnKlRiBYKfCDMn2DMMmU9qITnPz44HEasoJoLfB5XKRq0BOqNcI+vjrXA05ETDI+uOfAiJmB9m/stmAgxMPtrgN+w5qSeJhqa3qdOUE1IOVnDWoJWMJdjvn3/khHdV4Gx0XFBvc4xYb+0s0nbKmAlEnmQZUsUc13NJyL0f1dIE8itK7KlFAI48I3Y+RK9khSPS7dDw+SruGhOsd82ZjsOZSRkotKPFLvZ/gXrqx22fkEG88D71AB322VoGdFv29SPMSlxCjh7K4hH3EFUfRsyW5GPcJ0ZOOcd8cxUeyBb0RMQxh3HVWpJboNPfvyfnqnhY3eJG4x4HujPmOkqCw7bgMqnw7VkdjwqeypsAZSFgHXYO0MS7hAK/zbRmWG4VAw9lMKH7PITbdkPFg==;rSO+1c1pOeTLRdh5hPcQHg=="
 ---
 

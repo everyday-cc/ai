@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/two-google-researchers-quit-to-joi
 webUrl: "https://www.dair-institute.org/press-release"
 type: article
 quality: 167
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Two Members Of Google Ethical AI Research Group Left The Company"
+    excerpt: "Last year, Timnit Gebru, a key person in AI ethics research, left Google. Gebru has now founded a nonprofit, and Hanna and Baker are joining him. They told Bloomberg that they could not cope with Google’s dismissals and preferred to continue working with ..."
+    publishedDateTime: 2022-02-07T10:09:00Z
+    webUrl: "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/02/two-members-google-ethical-ai-research-group-left.html?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 76
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/02/Google-Logo-2019-AM-AH-5.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Ex-Google AI researchers accuse firm of ‘white supremacy’"
     excerpt: "Two members of Google’s ethical AI research team left the company earlier this week citing “institutional rot” and what they claim is a policy of “maintaining white supremacy.”"
     publishedDateTime: 2022-02-04T23:57:00Z

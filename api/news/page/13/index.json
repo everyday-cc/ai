@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-01-23-custom-federated-algorithms-part-1-introduction-to-the-federated-core.md",
+      "title": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
+      "excerpt": "This tutorial is the first part of a two-part series that demonstrates how to implement custom types of federated algorithms in TensorFlow Federated (TFF) using the Federated Core (FC) - a set of lower-level interfaces that serve as a foundation upon which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/federated/tutorials/custom_federated_algorithms_1",
+      "originalUrl": "https://www.tensorflow.org/federated/tutorials/custom_federated_algorithms_1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-22T23:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-23-israeli-firm-develops-body-cams-with-facial-recognition.md",
       "title": "Israeli firm develops body cams with facial recognition",
       "excerpt": "Facial recognition in law enforcement has sparked global criticism, with US tech giants backing away from providing the technology to police, citing privacy risks. Proponents including Tirza ...",
@@ -956,15 +1008,15 @@
       "title": "IoT Pioneer Ayla Networks Builds Machine Learning Business Targetting Internet Service Providers",
       "excerpt": "Advanced analytics – including the use of machine learning and ... healthcare and financial services. The market's use of AI can be traced back to its roots building self-learning and self ...",
       "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers",
-      "originalUrl": "https://www.csoonline.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers",
+      "webUrl": "https://www.infoworld.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers",
+      "originalUrl": "https://www.infoworld.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://idge.staticworld.net/cso/CSO_logo_300x300.png",
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
           "width": 300,
           "height": 300,
           "title": null,
@@ -979,9 +1031,18 @@
       "publishedDateTime": "2022-01-21T07:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1115,57 +1176,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-six-steps-to-execute-responsible-ai-in-the-enterprise.md",
-      "title": "Six Steps To Execute Responsible AI In The Enterprise",
-      "excerpt": "While organizations today may see Responsible AI (RAI) as an important part of their AI journey, we will see some significant shifts as new legislation creates reputational and financial risks for businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/events/responsible-ai-from-principles-to-practice/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/six-steps-to-execute-responsible-ai-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.brookings.edu/wp-content/uploads/2022/01/global_south_africa_electrity_pylons.jpg",
-          "width": 3905,
-          "height": 2509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/events/responsible-ai-from-principles-to-practice/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/events/responsible-ai-from-principles-to-practice/amp/",
-      "publishedDateTime": "2022-01-21T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

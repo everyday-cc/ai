@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-it-too-late-to-buy-microsoft?amp"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft Azure Data Scientist Associate certification guide"
+    excerpt: "... for individuals who have expertise in applying data science and machine learning to implement and run machine learning workloads on Azure. The certification requires passing the Designing and Implementing a Data Science Solution on Azure certification ..."
+    publishedDateTime: 2022-02-07T10:00:00Z
+    webUrl: "https://www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html"
+    ampWebUrl: "https://www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html/amp"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 74
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/02/certification_education_knowledge_learning_silhouette_with_graduation_cap_with_abstract_technology_imagery_by_monsitj_gettyimages-862136832_1200x800-100766599-orig-100850417-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Is It Too Late to Buy Microsoft?"
     excerpt: "Integrating AI and machine learning into its cloud and enterprise software ... the intelligent cloud platform, which consists of Azure, GitHub, server products, and other cloud-based services such as databases, is growing faster than overall revenue ..."
     publishedDateTime: 2022-02-04T10:57:00Z
