@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-18-iqt-research-report-projects-expenditures-on-quantum-computing-by-banks-and-other-financial-institution-to-reach-6318-million-by-2028.md",
+      "title": "IQT Research Report Projects Expenditures on Quantum Computing by Banks and other Financial Institution to Reach $631.8 million by 2028",
+      "excerpt": "According to a new report from Inside Quantum Technology, worldwide expenditures for Quantum Computing will exceed $630 million in 2027 and then go",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/iqt-research-report-projects-expenditures-on-quantum-computing-by-banks-and-other-financial-institution-to/article_c82a4953-20bc-5576-86f0-11ca4531abdd.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/iqt-research-report-projects-expenditures-on-quantum-computing-by-banks-and-other-financial-institution-to/article_c82a4953-20bc-5576-86f0-11ca4531abdd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/57/25711748-5885-5531-ab72-67b49867d9dd/61e6c4c0504b8.image.jpg",
+          "width": 717,
+          "height": 262,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-16-saudi-fintech-joins-battle-for-us-retail-investors.md",
       "title": "Saudi fintech joins battle for US retail investors",
       "excerpt": "RIYADH: Saudi entrepreneur Nezar Bakhsh has joined the battle for US retail investors after launching a financial technology startup that sells stock trading advice to traders. His Quant Alpha platform offers artificial intelligence-powered software for investors,",
@@ -1272,59 +1315,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-cfte-with-its-mission-of-education-at-scale-in-fintech-with-2021-a-year-of-limitless-possibilities.md",
-      "title": "CFTE with its mission of education at scale in Fintech with 2021 a year of limitless possibilities",
-      "excerpt": "And it's a wrap for 2021 ! What a year ! ✨ as the Co-founder of CFTE, I find myself reflecting on the past year. 2021 has brought a lot of ups and downs to everyone, and we hope that you were safe this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen/?trackingId=pBA26QHIQUWZxW3P0WVs5A%3D%3D",
-      "originalUrl": "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen/?trackingId=pBA26QHIQUWZxW3P0WVs5A%3D%3D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFLSa4vMp8XqA/article-cover_image-shrink_720_1280/0/1640193398856?e=1646870400&v=beta&t=26PAPjp8ikt6PHh00U_mkbFzM5gKDmJeKMyeEeSlhs4",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

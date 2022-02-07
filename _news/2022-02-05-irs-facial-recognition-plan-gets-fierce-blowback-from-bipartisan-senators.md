@@ -173,20 +173,6 @@ related:
         width: 870
         height: 489
         isCached: true
-  - title: "Three Key Problems with the Government's Use of a Flawed Facial Recognition Service"
-    excerpt: "Forcing people to use private ID-verification to access tax accounts or other government services raises serious privacy and equity issues."
-    publishedDateTime: 2022-02-02T22:06:00Z
-    webUrl: "https://www.aclu.org/news/privacy-technology/three-key-problems-with-the-governments-use-of-a-flawed-facial-recognition-service"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 35
-    images:
-      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Will IRS Require Use of Facial Recognition Software To Access Tax Info Online?"
     excerpt: "another reader asked. As of this writing, it’s true that the IRS is requiring taxpayers to use facial recognition software designed by a technology company called ID.me to access IRS documents and services online. We reached out to the IRS for comment ..."
     publishedDateTime: 2022-02-04T00:27:00Z

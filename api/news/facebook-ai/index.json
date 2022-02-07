@@ -607,6 +607,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-24-meta-taps-nvidia-to-build-a-massive-ai-supercomputer-to-master-human-speech-and-the-metaverse.md",
+      "title": "Meta Taps NVIDIA To Build A Massive AI Supercomputer To Master Human Speech And The Metaverse",
+      "excerpt": "the parent company to Facebook, have a new and powerful toy to play with courtesy of a collaboration with NVIDIA. Meta designed and NVIDIA built what is called the AI Research SuperCluster (RSC ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
+      "originalUrl": "https://hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/57468/content/NVIDIA_AI_Supercomputer.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
+      "publishedDateTime": "2022-01-24T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-meta-has-built-an-ai-supercomputer-it-says-will-be-worlds-fastest-by-end-of-2022.md",
       "title": "Meta has built an AI supercomputer it says will be world’s fastest by end of 2022",
       "excerpt": "The company says its new AI Research SuperCluster ... from content moderation algorithms used to detect hate speech on Facebook and Instagram to augmented reality features that will one day ...",
@@ -1462,49 +1505,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-09-5-best-ai-stocks-for-2022.md",
-      "title": "5 Best AI Stocks for 2022",
-      "excerpt": "The California-based tech giant utilizes AI in blocking misinformation and other harmful content on its family of apps. Additionally, AI tools developed by Meta Platforms, Inc. (NASDAQ:FB) play a major role in improving the customer shopping experience on Facebook,",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
-          "width": 1920,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-08T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

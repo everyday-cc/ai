@@ -187,20 +187,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Three Key Problems with the Government's Use of a Flawed Facial Recognition Service"
-    excerpt: "Forcing people to use private ID-verification to access tax accounts or other government services raises serious privacy and equity issues."
-    publishedDateTime: 2022-02-02T22:06:00Z
-    webUrl: "https://www.aclu.org/news/privacy-technology/three-key-problems-with-the-governments-use-of-a-flawed-facial-recognition-service"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 35
-    images:
-      - url: "https://www.aclu.org/news/images/share/default_fb_share.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
     publishedDateTime: 2022-02-03T13:03:00Z

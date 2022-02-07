@@ -2,9 +2,9 @@
 category: news
 title: "Highmark Makes a $245M Impact in the Fight Against Healthcare Fraud, Waste and Abuse in 2021"
 excerpt: "vice president of FIPR for Highmark Inc. \"FIPR accomplishes that work by deploying sophisticated artificial intelligence programs and partnering with health systems, public health officials, law enforcement and other health stakeholders.\" \"FIPR deploys ..."
-publishedDateTime: 2022-02-07T12:21:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/highmark-makes-a-245m-impact-in-the-fight-against-healthcare-fraud-waste-and-abuse-in/article_2ece1395-3838-5693-b0b2-12e9a9d4a8e6.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/highmark-makes-a-245m-impact-in-the-fight-against-healthcare-fraud-waste-and-abuse-in/article_2ece1395-3838-5693-b0b2-12e9a9d4a8e6.html"
+publishedDateTime: 2022-02-07T12:11:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/highmark-makes-a-245m-impact-in-the-fight-against-healthcare-fraud-waste-and-abuse-in/article_2ece1395-3838-5693-b0b2-12e9a9d4a8e6.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/highmark-makes-a-245m-impact-in-the-fight-against-healthcare-fraud-waste-and-abuse-in/article_2ece1395-3838-5693-b0b2-12e9a9d4a8e6.html"
 type: article
 quality: 23
 heat: 23
@@ -18,6 +18,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "8Z+5QDiXyK5uXNkF0jJ9gXU4pxa6S8SDemX9sIQ9ox2ptt2msbb6bq+ksdsAH9IoMbZ3tXGr4PpfeQjGM4xSFdjYjR5c95Tigtbxa8zDr1aDuOPWIYBE+rwdIRcRYr+1v/DRa1t0jMCsZemxj3SWq5aHLM9i+iPArq4/gI4f767deT4PQFETumAQEw9Kkxk56s+oNlBXgrRYb3I4aSVvs0vlWNIzIrz/U/cYeTGxEV9gAUebZtDI8Z1CMdTU3kkMgyWgODVMCw4g0n/mArwpsqxikyOmhuTCEXSIEio9aMNgPmGCKrFbi8WTK1zcMekXQyMc1rJ6Xbq/ZiyQwgCHfg6Z1LaqEmB2Rf66Oqr4HovXH9OhTmrDdtUtyZl2UI+8dvBSB2+yHe9YfKfpADx1jBFMidfI5AdiUeJiBahRapDFFKWw+TcdYr3MueJPc14HgDg3MCTZ7wim/PU/NM5v3CXYaIM+Kvn3HBQ5oVcAeBakdQas3yL3DKpq0+2XTUFoYCAPinBALp0IXl1bc/Bbwg==;sCuugMwX046orEdOfI5dVA=="
+secured: "Q/KV8aYwuDVEd2ysxHkm07eWC0yVh01o34cYWc83GkxE+3cz40fPdQSfSU7FbEpCsUanolkfezxGA0rUyPeHb5tBt9027n3faxfykK93by6jlLJf5dgNWhT7BszV+vhsaV3FxVEPmqUyfC2i6y9KMeOVRpi0BRgZsQCwA/RkK8SrCVbvfy/Q1xfGr8KL+6T9MGm5sYQaRLU/YbYEF4LWQsVOjbF7FvjbF1a3KjLqSSi20dyhl/aCVnfJA7k5uIfnbVcLLJT0xYgxivyzNi7Vrh+V0xfmbf2Y0H+YYHiU/M8VuUsliyvs8HqoNcFG4PAnRjXbLNoiy5idRTQNYJFI9uTDxdbCSaYFkRn2C5FYxMC+tYCPDup31Y3Z/4SgJXncSSRDrpBgxC/SKH2jJiatqQZXIsvgWqklRW3CGFvCp7A9Yil00AI5awXv1wohFSyLz1setmSSBT6Jxn1JnIKFVijgvAdj14YmxWR3ayjefUyclmj8M/bxi+dXo0Thv82a0FXnOYQxSilLfvCsvFg7tg==;JFVja3gKzkjmOFpShq8NoA=="
 ---
 
