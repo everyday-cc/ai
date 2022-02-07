@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-02-08-irs-to-end-use-of-facial-recognition-for-identity-verification.md",
-      "title": "I.R.S. to End Use of Facial Recognition for Identity Verification",
-      "excerpt": "By Alan Rappeport WASHINGTON — The Internal Revenue Service plans to stop using facial recognition software to identify taxpayers accessing their accounts on the agency’s website amid concerns over privacy and data security. The decision comes as the I ...",
+      "path": "_news/2022-02-08-irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities.md",
+      "title": "IRS Backs Away From Facial Recognition to Verify Taxpayers’ Identities",
+      "excerpt": "WASHINGTON—The Internal Revenue Service is backing off use of a plan with a private facial-recognition system to authenticate taxpayers’ identities for online accounts, the agency said Monday after criticism from lawmakers in both parties over privacy ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html",
-      "originalUrl": "https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html",
+      "webUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
+      "originalUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
       "featuredContent": null,
       "highlight": null,
-      "heat": 279,
+      "heat": 329,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2022/02/07/business/07dc-irs/07dc-irs-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://images.wsj.net/im-481379/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.amp.html",
-      "publishedDateTime": "2022-02-07T10:47:00-08:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
+      "publishedDateTime": "2022-02-07T12:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -199,49 +199,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-taxpayers-will-have-to-use-to-facial-recognition-software-to-file-with-the-irs.md",
-      "title": "Taxpayers will have to use to facial recognition software to file with the IRS",
-      "excerpt": "If you haven’t already filed your taxes, your face may become the key to getting it done. Reset learns more about the facial recognition software the IRS started using this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbez.org/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad",
-      "originalUrl": "https://www.wbez.org/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.wbez.org/v2/images/462329f1-d357-447b-b5aa-78854f5138b8.jpg?mode=FILL&width=1200&height=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wbez.org/amp/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad",
-      "cdnAmpWebUrl": "https://www-wbez-org.cdn.ampproject.org/c/s/www.wbez.org/amp/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad",
-      "publishedDateTime": "2022-02-03T00:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBEZ",
-        "domain": "wbez.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -720,6 +677,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-30-the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account.md",
+      "title": "The IRS website will soon require facial recognition to log in to your account",
+      "excerpt": "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are. (Will Lanzoni, CNN) WASHINGTON ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksl.com/article/50336845/the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account",
+      "originalUrl": "https://www.ksl.com/article/50336845/the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.ksl.com/slc/2861/286158/28615806.jpg?filter=kslv2/responsive_story_lg",
+          "width": 1228,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-29T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSL",
+        "domain": "ksl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-29-ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities.md",
       "title": "AI Weekly: AI supercomputers and facial recognition to verify taxpayers’ identities",
       "excerpt": "Meta (formerly Facebook) announced an AI supercomputer. Also, more revelations about the IRS' use of facial recognition have come to light.",
@@ -1111,6 +1111,58 @@
       ]
     },
     {
+      "path": "_news/2022-01-26-what-kai-fu-lee-backed-ainnovation-tells-us-about-chinas-smart-manufacturing.md",
+      "title": "What Kai-Fu Lee-backed AInnovation tells us about China’s smart manufacturing",
+      "excerpt": "AInnovation, a Chinese computer vision and machine learning startup backed by Kai-Fu Lee’s Sinovation Ventures and SoftBank, is trying to automate China’s massive manufacturing industry.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/25/ainnovation-kai-fu-lee-china-ai-industrial-automation/",
+      "originalUrl": "https://techcrunch.com/2022/01/25/ainnovation-kai-fu-lee-china-ai-industrial-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/3471643106594_.pic_hd.png?w=1024",
+          "width": 1023,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/25/ainnovation-kai-fu-lee-china-ai-industrial-automation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/25/ainnovation-kai-fu-lee-china-ai-industrial-automation/amp/",
+      "publishedDateTime": "2022-01-25T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-israeli-company-makes-body-cams-with-facial-recognition.md",
       "title": "Israeli company makes body cams with facial recognition",
       "excerpt": "Twenty years after he planned the controversial barrier between Israel and Palestinians, Dany Tirza is developing a security tool that requires no cement: body cameras with facial recognition technology. Tirza, a former Israeli army colonel, said that his ...",
@@ -1351,58 +1403,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-deci-wants-to-help-enterprises-build-computer-vision-models-faster.md",
-      "title": "Deci wants to help enterprises build computer vision models faster",
-      "excerpt": "“The big advantage of SuperGradients is that it enables easy development of a wide range of pre-trained models across all the major computer vision tasks using a few lines of code. These pre ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/",
-      "originalUrl": "https://venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-3-e1628543109807.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/20/deci-wants-to-help-enterprises-build-computer-vision-models-faster/amp/",
-      "publishedDateTime": "2022-01-20T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

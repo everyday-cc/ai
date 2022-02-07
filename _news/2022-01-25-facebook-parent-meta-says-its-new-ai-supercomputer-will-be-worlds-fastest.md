@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Facebook parent Meta says its new AI supercomputer will be world's fastest"
-excerpt: "Jan 24 (Reuters) - Facebook parent Meta Platforms Inc (FB.O) said on Monday that its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the ..."
-publishedDateTime: 2022-01-24T18:28:00Z
-originalUrl: "https://www.reuters.com/technology/meta-introduces-fastest-ai-supercomputer-2022-01-24/"
-webUrl: "https://www.reuters.com/technology/meta-introduces-fastest-ai-supercomputer-2022-01-24/"
+excerpt: "Facebook parent Meta Platforms Inc said on Monday that its research team has built a new artificial intelligence supercomputer that it thinks will be the fastest in the world when completed in mid ..."
+publishedDateTime: 2022-01-24T20:19:00Z
+originalUrl: "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest"
+webUrl: "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest"
+ampWebUrl: "https://www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-parent-meta-says-its-new-ai-supercomputer-will-be-worlds-fastest?amp"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/xTQMYST5eYX3kuLJUazqYj5uiTA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2AKPG4VBNRNWVA3MJ4AX6HWD5M.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "My4I6ZkHuVLjNeMbWtoOA1ljR4ZUaO6mW3vPOeeg69hgkyuuZ/5QNDsTDNlTTykLIhnNHbCrF4za525AKZokrN/HR0pv/gGZmrmMsxrz6NlRCpA++9tHQcxPlRquTclQqirlChS2u2PxZRJbvz9FpxK+w07PayXH7X/gPQtqUvNXO1nzp+F4IVmXTUzmGBysjQYvQWLiTKqmp/UNII6ynnN6O4ipwskyjBbBC5wV2CD3nvquHTObX/HEsoiIm5Jvja1ULRWWT/E5ZGmWumNDXO4jLguDXOzSjEzLng9Pf1vL92lH7s4ctwTi7k2jJZUhizFKaYX0JMUHsmuJXYNLf2oPJsqFVNpoWDunfumotuQ=;nOP4IO6bqYzPbUD2wNEApg=="
+secured: "6RRL0Z9mkZUr1CjLzzgLRdtJUVb6A7uREeKo131OhYNhRA6zdQAdP5JGlY+wyACUVcxTz+SZMSQ4JI83hLEQrKCbe8f2+D7npJvbvSjU2hgt6GWEnXX+yrkomtgYnaYarzap1aXjihkuwbze7pNP/G2qcv3fJkez2nD659UCqRIvXmzCI+wfSFTf8MPWUPOt2z6rSLdZTstoHpPGik31wYfYqloap3+j9DQl9KYVXt+6bFL07OOCYRVkEItLZbko0wd5b5g/8ia0tAMq60wp/wHlKSqeFIfq9VwI5tHwTJHpJxpJZ0BsUx3Jl6eHtxAP5RthC/ca0WTULvjA1o/U+BL0vsk7Cbw0yX09V+m3XaE=;N2UQjwpB78DgWjwofw4f5g=="
 ---
 

@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
-excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
-publishedDateTime: 2022-01-24T21:32:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer?context=amp"
+title: "Facebook parent Meta creates powerful AI supercomputer"
+excerpt: "analyze text and translate between languages, said Tuomas Sandholm, a computer science professor and co-director of the AI center at Carnegie Mellon University. “We hope RSC will help us build ..."
+publishedDateTime: 2022-01-24T21:34:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+webUrl: "https://abcnews.go.com/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/facebook-parent-meta-creates-powerful-ai-supercomputer-82447926"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
-  - Facebook AI
-  - AI
   - Natural Language Processing
+  - AI
 
-secured: "qbakslEIjWMBYOjIL2iHXAr+ltxzfQOX4BX1GOX/IGwevzvf3NDrlYlxjCpYh9LeArzbyCLQduYoebfryz5n4WSEXWY1a+k9ltmS0990GUYZTtIkqz24JBABiLTHaTErM1Z43X0gjF057qA1UHojF0NfSzDLjn0YomrI3wQmTGcmwXm6ItFNZwMUSPWMRonbZzSNYecTgLe3T/c8IoY7e/9OHAgfjJ+K2TP6313iM3IkDX+2YLoVw5a0dPF0b0gOFFvrQ//PjqlIXG9S2udmNquqWsOjpg8DHLlpVVg1bUp5P4kA8hO9mVL5xN4dW/AG412c0yXuaTvrtqHmPkMd8GXws73rhhDXIfHpKkdF2ULbBgNMG0iJOSi6JsJ4qavKGwFHAMSo4J6P0Pf6hLpCaFwn5z28aZNlpKsdrCZRK65uzCx67LD8wHbLPuD8pX02SX5P//gGHCK1ZZzRDhAEweYWbCZM3GT2uAFCQtDt2hSZQNa4d6FUbQxVrxpl+nGAxss+v7ZyYXhLL7F01Kxtmw==;zWCGFyq8Bte6BFSBGDIAnA=="
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_8b720c29b5b04080bfd06ca5d4cab55b_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+secured: "NC9Lu1s7QCCeqeFn5t/hHmNsiAL1mMk/UWiAmG+xafuc/S9XHvIuoWWvrcVSjdKeAkwc6E/KXyDBhl7DJVLDJv1rv+ZLqASTGdfvrmdpeoGsArvAC2dYWOXdnrH0/HaQk5EIK8OJoPKGxrrhNovS7glK3C7jdao5k3FAqIPo6069SWP4quKrNwx/4BjWJnUyFnKb7TJn3GTL28vSfS86seTUKaYj2pOOU16vmVY1bwP+oc670w/3prjxoW42RAYQrQioxGLuzsTKaK8mzj8R5qmRFu6GPM154mwV5fgGztJOCLHMfQAxoVFqc8Pwyh3trQVThUVP4VfHoNGhYpPPiJyFNGqAULQmXxX4lqZWves=;6/oyRwh+KPK+lzn2zT+WHA=="
 ---
 
