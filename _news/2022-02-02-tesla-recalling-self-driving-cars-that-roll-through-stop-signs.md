@@ -208,20 +208,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tesla agrees to recall 54,000 vehicles over ‘rolling stop’ feature in self-driving mode"
-    excerpt: "Tesla is recalling 53,822 vehicles equipped with a test version of its Full-Self Driving software that can allow the vehicle to roll through four-way"
-    publishedDateTime: 2022-02-02T13:41:00Z
-    webUrl: "https://www.repairerdrivennews.com/2022/02/02/tesla-agrees-to-recall-54000-vehicles-over-rolling-stop-feature-in-self-driving-mode/"
-    type: article
-    provider:
-      name: Repairer Driven News
-      domain: repairerdrivennews.com
-    quality: 31
-    images:
-      - url: "https://www.repairerdrivennews.com/wp-content/uploads/2022/02/0x0-ModelS_18-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "NEWS TAGGED SELF-DRIVING CAR"
     excerpt: "Mercedes-Benz recently announced its Level 3 self-driving system Drive Pilot has been approved by the German Federal Motor Transport Authority (KBA) and can now operate on roads i"
     publishedDateTime: 2022-02-03T09:17:00Z
@@ -236,15 +222,6 @@ related:
         width: 336
         height: 280
         isCached: true
-  - title: "Yet another Tesla flaw casts doubt on 'full self-driving' tech"
-    excerpt: "It turns out the problems with Tesla's \"full self-driving\" feature aren't just the fact that it's unreliable and super expensive. Apparently, it was also designed to break the law now and then. The news: Tesla is recalling nearly 54,000 vehicles with its ..."
-    publishedDateTime: 2022-02-02T14:54:00Z
-    webUrl: "https://www.kake.com/story/45797302/yet-another-tesla-flaw-casts-doubt-on-full-self-driving-tech"
-    type: article
-    provider:
-      name: KAKE.com
-      domain: kake.com
-    quality: 19
 
 secured: "cKvD+/JSwHP0JMihJUAKZAJAR/7jn00/ShqNzu47AfRud75sXXdfJ47E71EwN3fZoJXY673dOx5w8T6V84l5oMZw1Ist829FiuPdVqqkP63F2wx3v9vG0ZmwiUQRgX3PwV+ufoHfA1fXVrvdmSTZN8GjIrEsyn0Mx2t/Qbzs2ycBOkmNDb4z5gJ/SxKPwf0yalljFPpubWYD4/4GTVwxSd7Yh1JRf3kYAKamDo3mX/X1hePW12tw96lpUt4Vs6tbBV43JWOmK/4fcj9uj72yWxV6lhHR7KcvLM1lWZE2Aazkc0OyqUK6IRIZezr77OHesjbOxC91dAAizyyDhBWzPWOBA9EGIGVOcQnzCZHefWGXZvGFSx/JQl0QMx27Q+TyFoz5K5ciGH9Nao4aWixc7EPls5TfRI098ekOfrT0jIENvCNigQZrMO8rQibZ9Bau2L6bE6K8XUutntmJ9zuiVnXyLibgEf2uwF0o8cQRPbfY0dEDipsB9OjK3SB1903bq89mMTUBa0YWzom56NGpDA==;PCiWHD/tsr9Bq27BOMwxfA=="
 ---

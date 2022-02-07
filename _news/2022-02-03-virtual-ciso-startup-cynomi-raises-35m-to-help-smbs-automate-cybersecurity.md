@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cybersecurity startup PlexTrac raises $70M"
-    excerpt: "based cybersecurity software startup, raised a $70 million Series B round led by Insight ... How homeowners defeated Zillow’s AI, which led to Zillow Offers’ demise"
-    publishedDateTime: 2022-02-02T14:28:00Z
-    webUrl: "https://www.geekwire.com/2022/cybersecurity-startup-plextrac-raises-70m/"
-    ampWebUrl: "https://www.geekwire.com/2022/cybersecurity-startup-plextrac-raises-70m/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/cybersecurity-startup-plextrac-raises-70m/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 67
   - title: "Jump in Facial and Voice Recognition Raises Privacy, Cybersecurity, Civil Liberty Concerns"
     excerpt: "Facial recognition, voiceprint, and other biometric-related technology are booming, and they continue to infiltrate different facets of everyday life. The technology brings countless potential benefits, as well as significant data privacy and cybersecurity ..."
     publishedDateTime: 2022-02-03T23:23:00Z

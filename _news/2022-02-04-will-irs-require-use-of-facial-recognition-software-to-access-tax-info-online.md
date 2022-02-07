@@ -131,20 +131,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "Why the Prospect of the IRS Using Facial Recognition Is So Alarming"
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number ..."
-    publishedDateTime: 2022-02-02T13:37:00Z
-    webUrl: "https://slate.com/technology/2022/02/irs-id-me-facial-recognition.html"
-    type: article
-    provider:
-      name: Slate
-      domain: slate.com
-    quality: 39
-    images:
-      - url: "https://compote.slate.com/images/6e84f7ce-4227-46e1-b24a-83ad6d9d0e54.jpeg?width=780&height=520&rect=3858x2572&offset=0x1543"
-        width: 780
-        height: 520
-        isCached: true
   - title: "PD Editorial: IRS facial recognition plans tax the public’s patience"
     excerpt: "Editorials represent the views of The Press Democrat editorial board and The Press Democrat as an institution. The editorial board and the newsroom operate separately and independently of one another. The Internal Revenue Service found a way to become even ..."
     publishedDateTime: 2022-02-04T08:20:00Z
@@ -186,20 +172,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-IRS-facial-recognition-plan-gets-blowback-from-bipartisan-senators.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "IRS to start using facial recognition technology for online account access"
-    excerpt: "Starting in summer 2022, the Internal Revenue Service will start asking taxpayers to use facial recognition technology to access their online accounts."
-    publishedDateTime: 2022-02-02T13:08:00Z
-    webUrl: "https://www.krgv.com/news/irs-to-start-using-facial-recognition-technology-for-online-account-access"
-    type: article
-    provider:
-      name: KRGV
-      domain: krgv.com
-    quality: 37
-    images:
-      - url: "http://dcer237tfveol.cloudfront.net/v2/pD1PMFzw8Umi7Yps6CdbwAFRKt7ymUV3XcQPLr7o4008vG9pKt86R9asYWYy_-17su22c6IvzBtNIIzwzrjb-34fCist6iKXvH-XG8pT9zGQRo_SfhIMZxnC11dd6Yovql9yBt-tdIY7N5DDP6xAnJ"
-        width: 854
-        height: 480
         isCached: true
   - title: "Three Key Problems with the Government's Use of a Flawed Facial Recognition Service"
     excerpt: "Forcing people to use private ID-verification to access tax accounts or other government services raises serious privacy and equity issues."

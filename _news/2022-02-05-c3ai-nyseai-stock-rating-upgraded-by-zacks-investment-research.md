@@ -104,6 +104,20 @@ related:
         width: 500
         height: 305
         isCached: true
+  - title: "Stock Market January PANIC AI Tech Stocks Buying Opp - Trend Forecast 2022"
+    excerpt: "2022 has gotten off to a great start with many of the target AI tech giants having taken a early year tumble to fresh swing lows that is failing to register in the general indices such as the Dow ..."
+    publishedDateTime: 2022-02-07T06:37:00Z
+    webUrl: "https://marketoracle.co.uk/Article69915.html"
+    type: article
+    provider:
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 35
+    images:
+      - url: "https://marketoracle.co.uk/images/2022/Jan/stock-market-jnaaury-panic-ai-tech-stocks-buying-trend-forecast-2022.JPG"
+        width: 800
+        height: 473
+        isCached: true
 
 secured: "M++374K0P1ZaB7kK4V8+95FXizv6h7fOfu/mJBkYaTRAsXnkw321ss0YOj0QkoY3fBxikzdAC133eHl/LHmm8OApEAbI2yOOCDcu54iPr133gdHQF5ewe9Uof2QNkrS5cSRBEP3/pysuLs3b1RhBnLxqXyKVJuveDwAi2gEUt4BrBhn/JCfTRt/He7U40yvd4EqQLUPFdOT6x+Fd03fNjlPdld4gpVCbBId5RvpMU5505ZIULx6QtqDSJXeaivI+z5lcoivMs+5KRJOVW4k5iqqRTWDKdkOTnHKcWDyJonq+9UXwgJMSgawv3+VfPd7+BDknMfgVvBrhX35705E37b6SDYvWW3LGA72d5VqiLeo=;G/uOhVpUkE+hEAr8DZQmsw=="
 ---

@@ -18,19 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Mental health helpline ends AI data-sharing relationship"
-    excerpt: "A mental health text helpline will no longer share data with an AI customer support business, after criticism of their relationship. Loris.ai used anonymised data from Crisis Text Line (CTL) to develop AI systems to help customer service agents understand sentiment in chats."
-    publishedDateTime: 2022-02-02T14:12:00Z
-    webUrl: "https://www.bbc.com/news/technology-60218894?via=indexdotco"
+  - title: "Healthtech Startup Qure.ai £3.2 Mn From UK’s SBRI Healthcare For Cancer Detection Solution"
+    excerpt: "Qure.ai’s model involves selling its diagnostic tools directly to hospitals, collaborate with health-centric non-profits, and medical devices companies among others. The startup claims that ..."
+    publishedDateTime: 2022-02-07T04:38:00Z
+    webUrl: "https://inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/"
+    ampWebUrl: "https://inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/healthtech-startup-qure-ai-3-2-mn-from-uks-sbri-healthcare-for-cancer-detection-solution/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
+      name: inc42.com
+      domain: inc42.com
+    quality: 64
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/1837D/production/_123079199_depressed2gettyimages-1223735400.jpg"
-        width: 1024
-        height: 576
+      - url: "https://inc42.com/wp-content/uploads/2022/02/qure-social.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "HEALTHRHYTHMS AND UCHEALTH PARTNER TO BRING AI-BASED, PREDICTIVE MENTAL HEALTH PLATFORM TO MILLIONS OF PATIENTS"
     excerpt: "a digital mental health startup that seeks to become the behavioral health intelligence layer across all of healthcare, today announced a partnership with UCHealth to scale the benefits of its groundbreaking artificial intelligence (AI) -based digital ..."

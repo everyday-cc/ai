@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon discloses stake in self-driving technology company Aurora"
+    excerpt: "Amazon.com Inc. (Nasdaq: AMZN) has expanded its self-driving technology portfolio by acquiring a stake in a Pittsburgh-based company. It's a sign the Seattle-based e-commerce giant is looking at more options for its growing delivery fleet. Amazon disclosed ..."
+    publishedDateTime: 2022-02-03T06:07:00Z
+    webUrl: "https://www.bizjournals.com/seattle/inno/stories/news/2022/02/02/amazon-aurora-innovation-disclose-stake.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "W8h/DCXBYbYAJte9SR8N3DsZj7Riq70VnCOU/og/nfUomKSIYcvUVYWQmQP9UE34WWAC55s7LfLRwRvCQC463lM23Hv2aBVO9caSvHha7EktqomNrTKBDO0g9QbEAEfRGLfVZHqYFjbq1iwvRlyfD8rkjDR5s8tbgq/b/mFaa0q/u8SIH5RW6TsHupZKT+CTghZF+Wk8eLqZXPXmHHvEu+jAxQaLBy2KeEaarqgQhQPOiHJvF5AboUU4HmIPmT6cByuKWHicr8JVzqMEbrr2VOTEsa49nvv3ojjapl1yeeSQBkutNRH0coCVyj6pwnXQfkk3KpWQWp/wEzQp2pH8o52PGEKW71u6yTWviIybl+v9G9QSY0m3/pa5Su4nvzvs03xInk+kxoaox4l0UoLcE9bgZzv8PRhKKkdZ6ciTu75NJF6MrhhRz0yxXqc+jeE+h4vLgcbe2KoBRLtvsrUgIr8Elw1Pnd07VLmUr+vUFJ7WkoShcceWc/xZDRyH0YTtfHm2zp7IMIZfdjzoguuZdg==;+mvy0OHebGksWBKS7xXjUA=="
 ---

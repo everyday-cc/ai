@@ -67,6 +67,34 @@ related:
         width: 427
         height: 329
         isCached: true
+  - title: "Europe Artificial Intelligence Market Size, Share, Trends, Industry Growth and Forecast 2026"
+    excerpt: "Artificial intelligence (AI) refers to a segment of computer science ... identification is expected to further bolster the demand for AI in drones, robots, and self-driving cars, over the forecasted period. If you need specific information that is not ..."
+    publishedDateTime: 2022-02-07T05:43:00Z
+    webUrl: "https://www.digitaljournal.com/pr/europe-artificial-intelligence-market-size-share-trends-industry-growth-and-forecast-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 28
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEg_QnQX9ZHWuHR5RacomEN9wdiTfyX2PET3mtopGdJF1LO34RxYsjwu98DFlGNYCiafFzvcqC_JZoT00YFJskqGwz7L797uOJgma0SulIkhIxDTbmyA283MprE0RecBe5QsBofXZ6rZB2_zHLy8FfVhJdlDGEVa2VKcp5JpqucrkNFG7Gywe0StdkM"
+        width: 1600
+        height: 1067
+        isCached: true
+  - title: "United States Artificial Intelligence Market Size, Share, Analysis, Industry Growth and Forecast 2026"
+    excerpt: "Artificial intelligence has several benefits, including better adaptability, higher time-efficiency, improved accuracy, enhanced productivity, etc. As a result, it is used across various sectors, such as trade, automobile, healthcare, construction ..."
+    publishedDateTime: 2022-02-07T06:04:00Z
+    webUrl: "https://www.digitaljournal.com/pr/united-states-artificial-intelligence-market-size-share-analysis-industry-growth-and-forecast-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEgPTAbLyXbF0I5mn8ZmLzWHZhi4PfxoDoRh6tP0np1UzGpviK1551vhi1d30BiXX9tk7yRHAiJ2m_Bc7Ng0d2SfkpbyF1FImJMwrHtx_wjCIME_cWVjYLX0PNk_1TelRO7OIpWrG79yOTlkAKfhQbReNyRAvJwilU3jmZmeWnFWmo4lAnYR8vv_25M"
+        width: 1600
+        height: 1068
+        isCached: true
 
 secured: "R8KiMR9I7bvVpagDv60nB6D/XLSxwToJc1dhXP/dOIeF3HCcr+RfHor1NB1Akg726e1sSQEMBTVWOW18cgZfi1KdWbXMLV0e4sEB/dS2ZCDbmZMK1k7yTb6fAVOIhV6ox+6tjRcLpFx6jsB6UCZSumnFEesa+xt+cbZrOywaBoydtzvEUbW7OM/sUbLwkU6dc6Y3RzOhTkNjSsGdpWTbD1cltos0GJbCVoLWdu9F0fpXfpHN/5ZiCVvEu4cCEaQjgZ16oCeUblvxoHlA0WfJ3zG2TuKwViHdz0PzP5N+fTqpLBMdRH0sHdS4dkY6NwesnZ5xzQ6jGWs1O5VxNE2Mz+TfO3Nj0Dat0vdIXUfa470=;rwm4FLM00h/F3Uzo86NMeQ=="
 ---

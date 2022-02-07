@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anest
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,35 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "AI systems may one day assist anesthesiologists in the operating room, study suggests"
-    excerpt: "One of the most important challenges any AI system is likely to continue to face, Schamberg said, is whether the data it is being fed about patient unconsciousness is perfectly accurate. Another active area of research in the Brown lab at MIT and MGH is in ..."
-    publishedDateTime: 2022-02-05T23:59:00Z
-    webUrl: "https://www.news-medical.net/news/20220206/AI-systems-may-one-day-assist-anesthesiologists-in-the-operating-room-study-suggests.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220206/AI-systems-may-one-day-assist-anesthesiologists-in-the-operating-room-study-suggests.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220206/AI-systems-may-one-day-assist-anesthesiologists-in-the-operating-room-study-suggests.aspx"
+  - title: "The AI technology revolution in practical data protection in Finance"
+    excerpt: "Made for innovators interested in creating the next breakthroughs in machine intelligence to enhance human potential."
+    publishedDateTime: 2022-02-03T08:49:00Z
+    webUrl: "https://techhq.com/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
+    ampWebUrl: "https://techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
+    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 50
+      name: TechHQ
+      domain: techhq.com
+    quality: 76
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://cdn.techhq.com/wp-content/uploads/2022/02/shutterstock_1202221816-375x210.jpg"
+        width: 375
+        height: 210
         isCached: true
-  - title: "“Center for Responsible AI Technologies” founded"
-    excerpt: "Closely linked to this is the professorship “Ethics of AI in Neuroscience” at TUM, which investigates AI topics from a social science and medical perspective. At the University of Augsburg ..."
-    publishedDateTime: 2022-02-03T16:44:00Z
-    webUrl: "https://idw-online.de/en/news787819"
+  - title: "Tag: Artificial Intelligence Technology Solutions, Inc. (AITX)"
+    excerpt: "DETROIT—Artificial Intelligence Technology Solutions, Inc. (AITX) has announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) will be exhibiting and presenting at ISC West, taking place March 22-25, 2022, at the Venetian Expo in ..."
+    publishedDateTime: 2022-02-03T15:44:00Z
+    webUrl: "https://www.securitysystemsnews.com/tag/artificial-intelligence-technology-solutions-inc-aitx-"
     type: article
     provider:
-      name: idw
-      domain: idw-online.de
-    quality: 39
+      name: Security Systems News
+      domain: securitysystemsnews.com
+    quality: 52
     images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
+      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "AI in Fintech Market May See Big Move | Inbenta Technologies, IPsoft, Nuance Communications, ComplyAdvantage"
+    excerpt: "The Latest Released AI in Fintech market study has evaluated the future growth potential of Global AI in Fintech market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and ..."
+    publishedDateTime: 2022-02-04T07:07:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-may-see-big-move-inbenta-technologies-ipsoft-nuance-communications-complyadvantage"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/NFT-museum-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "nuJVCrZw0WbV8LAn4SdwBuPS5K1qeFnIRG79SRt5ae0pNTSKtVSM5qAY0m0wm6/zXcNXs5PQ6JFd+g7gmAzMcKXP04A1v7byyL0iZ6kSswuFWpwO0JUq+s7GOTDCQ+Y0PrDJavmAcOkfwSN+VyU3iYsm/4mZLT1Q94SBpeVCnDQ2/uRZw866FUmlsFMA8ZRGI3+X7u8K8LbNKU+o0+eVgXtLWsByozB1YIC5Cj6LdFCyopdqw7l6PT3KEOU1dEZEoCgVQuAiwQUVjXJMMoskqarF9zrBJgWBic7Pep3TV0NKbKY1eek/9jI92JBHN5Fk3OMCiXnVBWnKvx8NVodXB/D7/IESmfq4iFcM2VXH5M4=;fZlC/ngDQQ1QBI/EBlEudA=="

@@ -212,20 +212,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tesla agrees to recall 54,000 vehicles over ‘rolling stop’ feature in self-driving mode"
-    excerpt: "Tesla is recalling 53,822 vehicles equipped with a test version of its Full-Self Driving software that can allow the vehicle to roll through four-way"
-    publishedDateTime: 2022-02-02T13:41:00Z
-    webUrl: "https://www.repairerdrivennews.com/2022/02/02/tesla-agrees-to-recall-54000-vehicles-over-rolling-stop-feature-in-self-driving-mode/"
-    type: article
-    provider:
-      name: Repairer Driven News
-      domain: repairerdrivennews.com
-    quality: 31
-    images:
-      - url: "https://www.repairerdrivennews.com/wp-content/uploads/2022/02/0x0-ModelS_18-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "NEWS TAGGED SELF-DRIVING CAR"
     excerpt: "Mercedes-Benz recently announced its Level 3 self-driving system Drive Pilot has been approved by the German Federal Motor Transport Authority (KBA) and can now operate on roads i"
     publishedDateTime: 2022-02-03T09:17:00Z
@@ -240,15 +226,6 @@ related:
         width: 336
         height: 280
         isCached: true
-  - title: "Yet another Tesla flaw casts doubt on 'full self-driving' tech"
-    excerpt: "It turns out the problems with Tesla's \"full self-driving\" feature aren't just the fact that it's unreliable and super expensive. Apparently, it was also designed to break the law now and then. The news: Tesla is recalling nearly 54,000 vehicles with its ..."
-    publishedDateTime: 2022-02-02T14:54:00Z
-    webUrl: "https://www.kake.com/story/45797302/yet-another-tesla-flaw-casts-doubt-on-full-self-driving-tech"
-    type: article
-    provider:
-      name: KAKE.com
-      domain: kake.com
-    quality: 19
 
 secured: "X5rY3jr13JJc8fO9RyfEO049+mETgLd8TQ5p6i4nKezykVQDoPPofu5IyahaYaQhtBo+7wHRU8xaoMgxLUyQHXDJyjMLEp+m/oRI7fS617sjLZTX+WfNapDGXNKVnNmGiWfXnJsAiiDZZebZansCGxibb3pXehOdJyxFWuDKVty5RuROrRw5llbSzlDe6TbQZVfENz7Uaw62Yl/1LjiOlL4ocUVENcpO/aSmdnvVrWM20WjpeKYm7/gM3TlEt0uR78yjuDdkUKsrrkSrLllkuxVFDeRahIJz8HZxPfjh8uDutVe4P1owOphu5rJyUJhRtW/7Hqk80ItL9HM6AfX2E2nhZA/k7RFhBMcK68kpvso=;y3yFXgqVe5nxu7zJaPtRHQ=="
 ---

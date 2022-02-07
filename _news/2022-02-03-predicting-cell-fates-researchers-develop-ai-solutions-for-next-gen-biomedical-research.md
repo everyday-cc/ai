@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI microscope technique quickly identifies dead cells, could speed research on neurodegenerative diseases"
+    excerpt: "Understanding when and why a cell dies is fundamental to the study of human development, disease and aging. For neurodegenerative diseases such as Lou Gehrig's disease, Alzheimer's and Parkinson's, identifying dead and dying neurons is critical to developing and testing new treatments."
+    publishedDateTime: 2022-02-02T16:10:00Z
+    webUrl: "https://phys.org/news/2022-02-ai-microscope-technique-quickly-dead.html"
+    ampWebUrl: "https://phys.org/news/2022-02-ai-microscope-technique-quickly-dead.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-02-ai-microscope-technique-quickly-dead.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 40
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/microscope-1.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Researchers develop artificial connections for damaged nervous systems"
     excerpt: "due to the redirection of information in the neural network, and from an amplification of weak signals provided by the artificial synapses, according to the researchers. 'This innovative approach ..."
     publishedDateTime: 2022-02-06T13:26:00Z

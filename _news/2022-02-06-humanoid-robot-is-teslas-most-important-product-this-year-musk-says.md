@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khou.com/amp/article/tech/tesla-elon-musk-humanoid-robot
 cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/tech/tesla-elon-musk-humanoid-robot/269-dc8f9273-4167-4088-87ac-a38f4f768cae"
 type: article
 quality: 76
-heat: 77
+heat: 78
 published: true
 
 provider:

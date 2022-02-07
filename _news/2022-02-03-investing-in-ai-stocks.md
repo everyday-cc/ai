@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -100,6 +100,20 @@ related:
       - url: "  \n\n\n\n                                    https://www.suryaa.com/suryaa-images/englishnews/bigimage/9_7245.jpg\n\n\n    "
         width: 500
         height: 305
+        isCached: true
+  - title: "Stock Market January PANIC AI Tech Stocks Buying Opp - Trend Forecast 2022"
+    excerpt: "2022 has gotten off to a great start with many of the target AI tech giants having taken a early year tumble to fresh swing lows that is failing to register in the general indices such as the Dow ..."
+    publishedDateTime: 2022-02-07T06:37:00Z
+    webUrl: "https://marketoracle.co.uk/Article69915.html"
+    type: article
+    provider:
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 35
+    images:
+      - url: "https://marketoracle.co.uk/images/2022/Jan/stock-market-jnaaury-panic-ai-tech-stocks-buying-trend-forecast-2022.JPG"
+        width: 800
+        height: 473
         isCached: true
   - title: "C3.ai (NYSE:AI) Stock Rating Upgraded by Zacks Investment Research"
     excerpt: "Zacks Investment Research upgraded shares of C3.ai (NYSE:AI) from a sell rating to a hold rating in a report released on Tuesday morning, Zacks.com reports. According to Zacks, “C3.ai Inc. is an ..."

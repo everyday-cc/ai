@@ -44,17 +44,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Cybersecurity startup PlexTrac raises $70M"
-    excerpt: "based cybersecurity software startup, raised a $70 million Series B round led by Insight ... How homeowners defeated Zillow’s AI, which led to Zillow Offers’ demise"
-    publishedDateTime: 2022-02-02T14:28:00Z
-    webUrl: "https://www.geekwire.com/2022/cybersecurity-startup-plextrac-raises-70m/"
-    ampWebUrl: "https://www.geekwire.com/2022/cybersecurity-startup-plextrac-raises-70m/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/cybersecurity-startup-plextrac-raises-70m/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 67
 
 secured: "H9lzeIoSpbGOG48GlzqXqX6wkscvNlS6pHqgEOe5yPfOktldHjK7Yz6jWENpj8YOWNK8xQ5HYMCNu8B08yDDX+EbA9xc+FWudH7aV1H8+gRgMszOLC4NXumlZzZDiQudy/IJaJ+Uh0xGD6jzQK39QxWhRAwlAco7R02xyGjxOsY+ejuJddjs/XZKeP6G8EHaKNSc1WRz1QhpusKF9En7NG03WLSm/ZaVYxwPEhztVpZbqomDPUZ9THfwHJOBjSzlC3S+kkwp/YJU4phOk4AjpMaPjRqIwQWIIHRoIjPP4evNEz8JTg6ElyZSyp84aX/VLh9B4GFyKhpOLkoUV905CHUmNbb8+v7pgCijYfB49cs=;lzvCrRQzcD2FyZ/ODlpOyQ=="
 ---
