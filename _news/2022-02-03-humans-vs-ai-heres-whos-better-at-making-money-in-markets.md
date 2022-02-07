@@ -40,15 +40,22 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Humans trump AI at making money in financial markets - study"
-    excerpt: "Humans still have the edge over artificial intelligence when it comes to making money in the financial markets, according to a new paper which raises questions about previous research into the topic."
-    publishedDateTime: 2022-02-03T00:33:00Z
-    webUrl: "https://www.finextra.com/newsarticle/39627/humans-trump-ai-at-making-money-in-financial-markets---study"
+  - title: "Is artificial intelligence better than humans at making money in financial markets?"
+    excerpt: "Artificial intelligence has now closely matched or ... such as the European Union legal directive MIFID II or business ethics. The experiments themselves did not engage in any unethical activities ..."
+    publishedDateTime: 2022-02-07T16:05:00Z
+    webUrl: "https://scroll.in/article/1016670/is-artificial-intelligence-better-than-humans-at-making-money-in-financial-markets"
+    ampWebUrl: "https://amp.scroll.in/article/1016670/is-artificial-intelligence-better-than-humans-at-making-money-in-financial-markets"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1016670/is-artificial-intelligence-better-than-humans-at-making-money-in-financial-markets"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
+      name: Scroll
+      domain: scroll.in
+    quality: 53
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/169699-bobiihxzuk-1643974563.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "X06g2dnE2+geUg/hEATdLhDOSy64Mk6NKm+dnG7Nsso1qkMuYn/4NEW7hjQpraUoOh/nGvnTUC5CTIcBM1S31y/SGPvqsKfX3kyZu0ztKsuPvVKtude/iFz1qmJfDGfmL+Gbeyvd4cupdkEjAzMWyysnpadsei0VDACO4koJB4Eu7fMuBK5wO49XDFLkpISkG+POX99CpYZeFZP+K8iiXIgtsan+qIpc/ud/L5CjwuUAbbEjoWenCB/l8cnLE2cmPYimsEgBa5epZu1QE/e+fXTNEX1KrwVm0FdzfXqaM0jScSuQTmQGbDJzDBzKW7xu/dqIGWMXxU2n7Mr3kmMAJ75RBlS6de+p86VIShMm5ds=;4GrdtdKGjtCFIGt0GeWWvQ=="
 ---

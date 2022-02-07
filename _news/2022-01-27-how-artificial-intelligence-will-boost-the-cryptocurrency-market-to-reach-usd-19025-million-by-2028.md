@@ -1,22 +1,26 @@
 ---
 category: news
 title: "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028"
-excerpt: "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting"
-publishedDateTime: 2022-01-27T09:23:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2"
-ampWebUrl: "https://www.benzinga.com/amp/content/25252700"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25252700"
+excerpt: "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting a CAGR of 11.1% between 2021 to 2028. In its report titled“Cryptocurrency Market,"
+publishedDateTime: 2022-01-27T10:42:00Z
+originalUrl: "https://menafn.com/1103600603/How-Artificial-Intelligence-Will-Boost-the-Cryptocurrency-Market-to-Reach-USD-19025-Million-by-2028"
+webUrl: "https://menafn.com/1103600603/How-Artificial-Intelligence-Will-Boost-the-Cryptocurrency-Market-to-Reach-USD-19025-Million-by-2028"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI in Healthcare
+  - AWS AI
   - AI
 
-secured: "dcKFWiMoaqfvqDtZWPlK82uBscG1iCNEcZPcAD8R0tpouwOX5KI1fjJUVGwDQ1U+NCEw3qLxZpo3XOMfDpP5uoTbF8Wa6nKjwvLXhuCi365L5bojHYWKZkRWhIrMDm+UtO0Ev56dlJQL6oRQS/Jx98eV2RI8J30Q9gNcb2XKakU2+mZ5Jd6Lrse/QrUWyIeR7qEGBAUKzwc1iTQiu8xF0XEt/i5PUfkB+W+TGr5OOdWLKCv4x8owwTT4QMsuNmNzYO2HBvcZ8/1SGLNB4jaTQKe7ZK5aDZW3G+9M9Z3frGDmK0fFuIWdC2CYowAp/aCeGlLFdn53Hv4FfcK5MPAyqwnEMiO4CQwr1XzwaYybVec=;OICcLHsXc+i+BLeXSzKfig=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?786443"
+    width: 375
+    height: 250
+    isCached: true
+
+secured: "9t6evhDHScAuqQ7EcoIxANW/H5TibDHtH+qb1s7U9HLNq8xF6Dn094t2LAStd7H0Jiwnfx6KatUB4icLH6LqjjYIxt9kndMGqPyoxjYWrbwUNqb/bzI3d6b6520FrNVgibfyqSXEFNxAVwS4k25lho4Wx6QOt4J4fsrXhaNNkV+eGsKXeHkSRzt0tTivE+/OHfiTRHYnAQhQlsd0J+NpEQTmHqXeoZVh/FOzu43UPfkxsWPoa7DziBrghM97miwuNfKOiHiGcTz01qZRlX99C1ijsF+7VS4A4hXcrFyMAHteutqQIz+oGfy637Kobcve7wjMQQ1cUovUoDxu33redSBTXvqGVZnCCLXduVTGlsg=;NEm8RoJ6Z3k7ttZsL2BqxQ=="
 ---
 

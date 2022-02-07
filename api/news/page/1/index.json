@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-07-enterprise-ai-and-avoiding-the-valley-of-death.md",
+      "title": "Enterprise AI And Avoiding The 'Valley Of Death'",
+      "excerpt": "I found this article particularly useful in describing the complexity that organizations undertake when they experiment with the different forms of AI (e.g., machine learning and natural language processing). The article correctly calls out the need to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f3fb187b4db966ab7440a4/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/07/enterprise-ai-and-avoiding-the-valley-of-death/amp/",
+      "publishedDateTime": "2022-02-07T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-07-new-reprogrammable-chip-lets-ai-learn-continuouslyjust-like-the-brain.md",
+      "title": "New Reprogrammable Chip Lets AI Learn Continuously—Just Like the Brain",
+      "excerpt": "On top of that, the devices can be manufactured using conventional chip fabrication technology. After testing the performance of individual devices, the researchers then used their data to create simulations of large networks of them. They used the ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/",
+      "originalUrl": "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/02/ramanathan-chipLO.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/02/07/new-reprogrammable-chip-lets-ai-learn-continuously-just-like-the-brain/?amp=1",
+      "publishedDateTime": "2022-02-07T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-transform-basic-computing-skills-into-a-well-paid-aws-career-with-this-30-bundle.md",
       "title": "Transform basic computing skills into a well-paid AWS career with this $30 bundle",
       "excerpt": "Familiarity with Amazon's Virtual Private Cloud (VPC ... Get a twofer with \"AWS Machine Learning Using Python 2022\" and learn Python programming, as well as AWS Rekognition machine learning, with lots of hands-on instruction. Companies are actively ...",
@@ -258,7 +353,7 @@
       "originalUrl": "https://www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -388,7 +483,7 @@
       "originalUrl": "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -942,7 +1037,7 @@
       "originalUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1104,111 +1199,6 @@
         "AWS AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars.md",
-      "title": "Strict Literal Interpretation Is A Hardheaded Drawback Of Machine Learning And Likewise Bad For AI Self-Driving Cars",
-      "excerpt": "Au contraire, mon ami (on the contrary, my friends)! Here’s the deal. Let’s discuss self-driving cars (for my ongoing and extensive coverage of Autonomous Vehicles or AVs, including self-driving cars, see the link here). The advent of today’s self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60a9c53023e63ae0ae36aeb8/0x0.jpg?format=jpg&crop=4362,2454,x0,y41,safe&fit=crop",
-          "width": 4362,
-          "height": 2454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2022-02-04T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-how-voice-technology-will-drive-business-communications-in-2022.md",
-      "title": "How Voice Technology Will Drive Business Communications In 2022",
-      "excerpt": "Driving the evolution of IoT and cybersecurity processes (i.e., antispoofing, authenticating users, etc.). Prevalence Of Automation Technologies that include robotic process automation, natural language processing and intelligent document processing will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/04/how-voice-technology-will-drive-business-communications-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/04/how-voice-technology-will-drive-business-communications-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f2b1ef295e725785a5bcf27/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/04/how-voice-technology-will-drive-business-communications-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/04/how-voice-technology-will-drive-business-communications-in-2022/amp/",
-      "publishedDateTime": "2022-02-04T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

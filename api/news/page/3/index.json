@@ -2,6 +2,213 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-03-does-ai-improve-human-judgment.md",
+      "title": "Does AI Improve Human Judgment?",
+      "excerpt": "Additionally, intuition and experience did not translate into ... Businesses may use AI in decision-making via different methods. Opinion mining is a Natural Language Processing (NLP) based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61d679ba5e90f8f7f5034ea8/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1000,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/amp/",
+      "publishedDateTime": "2022-02-03T04:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock.md",
+      "title": "Strong Earnings From Cloud Behemoths Bode Well For Snowflake Stock",
+      "excerpt": "Per the Trefis machine learning engine which analyzes historical stock price ... While there are other rivals in this space, including Amazon’s Redshift, Microsoft’s Azure Synapse, and Google’s Big Query, Snowflake offers strong product differentiation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60470fda52dd0906fe0a7a42/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 850,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/amp/",
+      "publishedDateTime": "2022-02-03T03:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code.md",
+      "title": "Bad news for developers? Deepmind's AI is getting good at writing code",
+      "excerpt": "Researchers from Google's AI-focused unit DeepMind claim its AlphaCode system can express solutions to problems in code that achieves a median-level score in programming competitions undertaken by new programmers. Those competitions require humans to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
+      "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0cd0c1ca8b8990cef9e8b17289258a491448ac55/2021/06/21/e487ce2e-c1f8-41e7-80ed-00f2310ac673/developers-heres-what-they-really-think-60d0614cb5c5a73d0c2020e1-1-jun-21-2021-11-35-52-poster.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
+      "publishedDateTime": "2022-02-03T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-four-tips-to-avoid-common-startup-errors.md",
+      "title": "Four Tips To Avoid Common Startup Errors",
+      "excerpt": "As a global investor, I’m often asked by global entrepreneurs how to scale successfully and avoid some of the common errors that startups make. Startups are faced with a range of decisions at each phase of the company’s growth;",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61fa764aac29d3e6111fe0fa/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/amp/",
+      "publishedDateTime": "2022-02-03T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-the-ai-technology-revolution-in-practical-data-protection-in-finance.md",
       "title": "The AI technology revolution in practical data protection in Finance",
       "excerpt": "Made for innovators interested in creating the next breakthroughs in machine intelligence to enhance human potential.",
@@ -1060,193 +1267,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-turkey-taps-artificial-intelligence-in-its-fight-against-wildfires.md",
-      "title": "Turkey taps artificial intelligence in its fight against wildfires",
-      "excerpt": "The Ministry of Agriculture and Forestry plans to implement artificial intelligence (AI) technology to tackle forest fires, which destroyed large swaths",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news",
-      "originalUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/02/02/thumbs/800x531/179522.jpg",
-          "width": 1600,
-          "height": 1062,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news/amp",
-      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news/amp",
-      "publishedDateTime": "2022-02-02T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sabah",
-        "domain": "dailysabah.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-ai-could-cut-hiring-biases-as-companies-make-push-to-find-workers-proponents-say.md",
-      "title": "AI Could Cut Hiring Biases as Companies Make Push to Find Workers, Proponents Say",
-      "excerpt": "While the potential for bias in AI has been a concern, some say well-crafted algorithms can help companies be fairer in their hiring decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/ai-could-cut-hiring-biases-as-companies-make-push-to-find-workers-proponents-say-11643804906580.html",
-      "originalUrl": "https://www.wsj.com/articles/ai-could-cut-hiring-biases-as-companies-make-push-to-find-workers-proponents-say-11643797804",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/02/02/600x338/AI-kkGH--621x414@LiveMint_1643805598327.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/ai-could-cut-hiring-biases-as-companies-make-push-to-find-workers-proponents-say/amp-11643804906580.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ai-could-cut-hiring-biases-as-companies-make-push-to-find-workers-proponents-say/amp-11643804906580.html",
-      "publishedDateTime": "2022-02-02T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-chatbot-startup-gupshup-buys-knowlarity-in-100-million-deal.md",
-      "title": "Chatbot Startup Gupshup Buys Knowlarity in $100 Million Deal",
-      "excerpt": "Chatbot developer Gupshup Inc. said it is acquiring cloud communications startup Knowlarity Communications Pvt. to bolster its voice messaging and video solutions capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-02-02/chatbot-startup-gupshup-buys-knowlarity-in-100-million-deal",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-02-02/chatbot-startup-gupshup-buys-knowlarity-in-100-million-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7D8PmRMUYyk/v0/1200x681.png",
-          "width": 1200,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-alphabet-a-shares-googl-q4-2021-earnings-call-transcript.md",
-      "title": "Alphabet (A shares) (GOOGL) Q4 2021 Earnings Call Transcript",
-      "excerpt": "Q4 2021 Earnings CallFeb 01, 2022, 5:00 p.m. ETContents:  Prepared Remarks Questions and Answers Call Participants  Prepared Remarks:  OperatorWelcome, everyone, and thank you for standing by for the Alphabet's fourth quarter 2021 earnings conference call.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/earnings/call-transcripts/2022/02/02/alphabet-a-shares-googl-q4-2021-earnings-call-tran/",
-      "originalUrl": "https://www.msn.com/en-us/money/companies/alphabet-a-shares-googl-q4-2021-earnings-call-transcript/ar-AATnP7H",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T21:00:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fool.com/earnings/call-transcripts/2022/02/02/alphabet-a-shares-googl-q4-2021-earnings-call-tran/",
-        "domain": "fool.com/earnings/call-transcripts/2022/02/02/alphabet-a-shares-googl-q4-2021-earnings-call-tran/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

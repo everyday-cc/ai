@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Transforming Modern Medical Devices with Machine Learning & AI Inference"
-    excerpt: "The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive, manufacturing, retail, and logistics, in the form of machine learning (ML) based approaches to tough problems such as ..."
-    publishedDateTime: 2022-02-03T00:01:00Z
-    webUrl: "https://www.designnews.com/industry/transforming-modern-medical-devices-machine-learning-ai-inference"
+  - title: "Rendered.ai unveils Platform as a Service for creating synthetic data to train AI models"
+    excerpt: "We caught up with Rendered.ai Founder and CEO Nathan Kundtz to learn more about the use cases the platform can serve, and how it works under the hood. Kundtz, a physicist by training, has a Ph.D. from Duke University. He also has previous startup ..."
+    publishedDateTime: 2022-02-03T14:13:00Z
+    webUrl: "https://www.zdnet.com/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/"
     type: article
     provider:
-      name: Design News
-      domain: designnews.com
-    quality: 57
+      name: ZDNet
+      domain: zdnet.com
+    quality: 78
     images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/X1P1_web.jpeg"
-        width: 770
-        height: 400
+      - url: "https://www.zdnet.com/a/img/resize/4993157a7ba74421497cfaaf09ab71832c3d89ae/2022/02/02/393bc13e-c1d9-4f5f-9353-98f020e58b03/rendered-ai.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 633
         isCached: true
 
 secured: "ZZX41dPBR1Uovx8rNHeaz464zTk5lRP5tH7ZXSYgvLqlGSN3bUUBwyyRLOw0HwkE9B/4uz/GIVvkPj1nUoqYU8YrojVB7lF4CqkCwN6JFUaOIJIDlj/HH3wJD6U9kYOyJKbJyaeTcNFUs9enS3fAR14OYkgsBFuUJMt0MnnQFrpwuX9odMCbzSTKZHMMUsvHK1qoU4SfpMZhcGWUgGl9MGiriWVtp/wc4zqI+NdbP+pUJoQ01pxvI/cEjWGVGqfWnuriFXQnDNHr7y31EYZJNnl/znthgp4m69HHwCDGc9MvfufPhFYo78nUEUEDn+NNkI+UUo6ZQhGGTyPlHSvyyGHnIGvkASdV8wsZPoC+F7dS4MucQxcDUC7SOpl0yNf9FjIoTDTLriwRUPwkHOaNI+B+9kgsMtG/3RMHEvZpiRvTLFzOcHx+kTiUaATk11OiUYTuXHP7rmg8+8fSCDckRHo1RI0x65R4S1TAbaFRekzSmRKrtaebDTTwMszJ9cCDO2lJ7zvxqHuxW5s22/Cg1Q==;r1tH8WmiItAPcpf0WsQZPA=="

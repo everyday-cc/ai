@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-05-strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars.md",
+      "title": "Strict Literal Interpretation Is A Hardheaded Drawback Of Machine Learning And Likewise Bad For AI Self-Driving Cars",
+      "excerpt": "Au contraire, mon ami (on the contrary, my friends)! Here’s the deal. Let’s discuss self-driving cars (for my ongoing and extensive coverage of Autonomous Vehicles or AVs, including self-driving cars, see the link here). The advent of today’s self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60a9c53023e63ae0ae36aeb8/0x0.jpg?format=jpg&crop=4362,2454,x0,y41,safe&fit=crop",
+          "width": 4362,
+          "height": 2454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2022-02-04T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-how-voice-technology-will-drive-business-communications-in-2022.md",
+      "title": "How Voice Technology Will Drive Business Communications In 2022",
+      "excerpt": "Driving the evolution of IoT and cybersecurity processes (i.e., antispoofing, authenticating users, etc.). Prevalence Of Automation Technologies that include robotic process automation, natural language processing and intelligent document processing will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/04/how-voice-technology-will-drive-business-communications-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/04/how-voice-technology-will-drive-business-communications-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f2b1ef295e725785a5bcf27/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/04/how-voice-technology-will-drive-business-communications-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/04/how-voice-technology-will-drive-business-communications-in-2022/amp/",
+      "publishedDateTime": "2022-02-04T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-celestial-ai-lands-56m-to-develop-light-based-ai-accelerator-chips.md",
       "title": "Celestial AI lands $56M to develop light-based AI accelerator chips",
       "excerpt": "... launched in 2019 to develop a hardware and software platform for AI chipsets that use light to move data across chips. Celestial today announced that it raised $56 million in funding at a $ ...",
@@ -521,6 +626,48 @@
       ]
     },
     {
+      "path": "_news/2022-02-04-a-new-artificial-intelligence-traffic-light-could-help-shorten-your-commute-times.md",
+      "title": "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times",
+      "excerpt": "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights.",
+      "sourceUrl": null,
+      "webUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050",
+      "originalUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d5cda2e76ce28a417dd3047a1d3ffed6.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp",
+      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp",
+      "publishedDateTime": "2022-02-03T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jalopnik",
+        "domain": "jalopnik.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-artificial-intelligence-and-dental-insurance-it-is-more-than-a-focus-on-radiology-and-fraud.md",
       "title": "Artificial Intelligence And Dental Insurance – It Is More Than A Focus On Radiology And Fraud",
       "excerpt": "Over the years, much has been said about artificial intelligence (AI) and the healthcare industry. Much of it has been focused on two extremes. On one hand, there’s the fairly mature use of neural networks for radiological analysis. On the other ...",
@@ -990,6 +1137,57 @@
       ]
     },
     {
+      "path": "_news/2022-02-03-renderedai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models.md",
+      "title": "Rendered.ai unveils Platform as a Service for creating synthetic data to train AI models",
+      "excerpt": "We caught up with Rendered.ai Founder and CEO Nathan Kundtz to learn more about the use cases the platform can serve, and how it works under the hood. Kundtz, a physicist by training, has a Ph.D. from Duke University. He also has previous startup ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
+      "originalUrl": "https://www.zdnet.com/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4993157a7ba74421497cfaaf09ab71832c3d89ae/2022/02/02/393bc13e-c1d9-4f5f-9353-98f020e58b03/rendered-ai.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
+      "publishedDateTime": "2022-02-03T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-deepmind-co-founder-plans-to-help-us-vc-firm-greylock-penetrate-europe.md",
       "title": "DeepMind co-founder plans to help U.S. VC firm Greylock penetrate Europe",
       "excerpt": "Greylock has profited from early bets on U.S. tech giants like Airbnb, Facebook and LinkedIn but it also wants to capitalize on fast-growing companies in Europe. DeepMind co-founder Mustafa Suleyman is planning to help U.S. venture capital firm Greylock ...",
@@ -1030,213 +1228,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-does-ai-improve-human-judgment.md",
-      "title": "Does AI Improve Human Judgment?",
-      "excerpt": "Additionally, intuition and experience did not translate into ... Businesses may use AI in decision-making via different methods. Opinion mining is a Natural Language Processing (NLP) based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61d679ba5e90f8f7f5034ea8/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1000,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/amp/",
-      "publishedDateTime": "2022-02-03T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock.md",
-      "title": "Strong Earnings From Cloud Behemoths Bode Well For Snowflake Stock",
-      "excerpt": "Per the Trefis machine learning engine which analyzes historical stock price ... While there are other rivals in this space, including Amazon’s Redshift, Microsoft’s Azure Synapse, and Google’s Big Query, Snowflake offers strong product differentiation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60470fda52dd0906fe0a7a42/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 850,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/amp/",
-      "publishedDateTime": "2022-02-03T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code.md",
-      "title": "Bad news for developers? Deepmind's AI is getting good at writing code",
-      "excerpt": "Researchers from Google's AI-focused unit DeepMind claim its AlphaCode system can express solutions to problems in code that achieves a median-level score in programming competitions undertaken by new programmers. Those competitions require humans to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0cd0c1ca8b8990cef9e8b17289258a491448ac55/2021/06/21/e487ce2e-c1f8-41e7-80ed-00f2310ac673/developers-heres-what-they-really-think-60d0614cb5c5a73d0c2020e1-1-jun-21-2021-11-35-52-poster.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "publishedDateTime": "2022-02-03T03:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-four-tips-to-avoid-common-startup-errors.md",
-      "title": "Four Tips To Avoid Common Startup Errors",
-      "excerpt": "As a global investor, I’m often asked by global entrepreneurs how to scale successfully and avoid some of the common errors that startups make. Startups are faced with a range of decisions at each phase of the company’s growth;",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61fa764aac29d3e6111fe0fa/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/amp/",
-      "publishedDateTime": "2022-02-03T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

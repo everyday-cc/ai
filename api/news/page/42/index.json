@@ -2,6 +2,207 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-12-30-a-look-back-at-recent-ai-trends-and-what-2022-might-hold.md",
+      "title": "A look back at recent AI trends — and what 2022 might hold",
+      "excerpt": "Hear from CIOs, CTOs, and other C-level and senior execs on data and AI strategies at the Future of Work Summit this January 12, 2022. Learn more 2021 was an eventful year for AI. With the advent of new techniques,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/",
+      "originalUrl": "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/",
+      "publishedDateTime": "2021-12-30T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI",
+        "AI Ethics",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-robotics-essential-to-the-oil-and-gas-industry.md",
+      "title": "Robotics essential to the oil and gas industry",
+      "excerpt": "Robot renting is expected to revolutionise the way oil & gas companies approach robotics, according to GlobalData.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/",
+      "originalUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dlgivnpf6gg8w.cloudfront.net/media/articles/pop/drone-tech-01.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/amp/",
+      "cdnAmpWebUrl": "https://www-hydrocarbonengineering-com.cdn.ampproject.org/c/s/www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/amp/",
+      "publishedDateTime": "2021-12-30T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hydrocarbon Engineering",
+        "domain": "hydrocarbonengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-the-complete-guide-to-ai-for-businesses-and-how-its-making-a-difference.md",
+      "title": "The Complete Guide to AI for Businesses and How It's Making a Difference",
+      "excerpt": "Here are some ways AI can enhance your company. Artificial intelligence (AI) is quickly changing the world. As an emerging area of study, it has already found many applications in business, technology and society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/398924",
+      "originalUrl": "https://www.entrepreneur.com/article/398924",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1640286945-GettyImages-1274394072.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-30T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products.md",
+      "title": "EarthOptics Is Using Artificial Intelligence To Help Consumers Choose Climate Smart Products",
+      "excerpt": "If you could buy a climate-smart product and knew that your purchase contributed to the world's carbon neutrality goals, would you do it? This company is counting on it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/12/30/earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/12/30/earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca168eaa93c35c46009205%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/12/30/earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/12/30/earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products/amp/",
+      "publishedDateTime": "2021-12-30T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-30-the-next-generation-of-robots-the-inside-skinny.md",
       "title": "The Next Generation Of Robots: The Inside Skinny",
       "excerpt": "By making robots increasingly autonomous, versatile and tactile, we can envision a future in which humanity can truly excel.",
@@ -975,177 +1176,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-details-here.md",
-      "title": "Army Sets Up New Quantum Computing Lab, Artificial Intelligence Centre. Details Here",
-      "excerpt": "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pradesh's Mhow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938",
-      "originalUrl": "https://www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2021-12/imil18ks_indian-army-quantum-computing-lab_625x300_29_December_21.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938/amp/1",
-      "publishedDateTime": "2021-12-29T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-4-top-power-hour-stocks-to-watch-today.md",
-      "title": "4 Top Power Hour Stocks To Watch Today",
-      "excerpt": "However, Baidu has been pushing forward with its Intelligent ... With that in mind, would BIDU stock be a top AV stock to watch? Aurora is a self-driving vehicle technology company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-top-power-hour-stocks-to-watch-today",
-      "originalUrl": "https://www.nasdaq.com/articles/4-top-power-hour-stocks-to-watch-today",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-power-hour-stocks-to-watch-today?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-power-hour-stocks-to-watch-today?amp",
-      "publishedDateTime": "2021-12-29T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-ai-in-computer-vision-market.md",
-      "title": "AI in Computer Vision Market",
-      "excerpt": "The Global AI in Computer Vision Market Report is based on a detailed survey conducted by a team of industry experts. This report summarizes the products or services on the market and their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2513592/ai-in-computer-vision-market-witness-highest-growth-in-near",
-      "originalUrl": "https://www.openpr.com/news/2513592/ai-in-computer-vision-market-witness-highest-growth-in-near",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc29200169_g.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2513592/ai-in-computer-vision-market-witness-highest-growth-in-near",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2513592/ai-in-computer-vision-market-witness-highest-growth-in-near",
-      "publishedDateTime": "2021-12-29T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-data-integrity-and-ai-why-you-need-both-to-power-trusted-business-decisions.md",
-      "title": "Data Integrity And AI: Why You Need Both To Power Trusted Business Decisions",
-      "excerpt": "Companies need trusted data, not just big data. That’s why any discussion about AI/ML is also a discussion about data integrity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/data-integrity-and-ai-why-you-need-both-to-power-trusted-business-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/data-integrity-and-ai-why-you-need-both-to-power-trusted-business-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61814ed70e1ae168d212c0bd%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/data-integrity-and-ai-why-you-need-both-to-power-trusted-business-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/29/data-integrity-and-ai-why-you-need-both-to-power-trusted-business-decisions/amp/",
-      "publishedDateTime": "2021-12-29T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

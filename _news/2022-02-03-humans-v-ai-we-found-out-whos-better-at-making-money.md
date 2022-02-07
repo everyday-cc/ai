@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is artificial intelligence better than humans at making money in financial markets?"
+    excerpt: "Artificial intelligence has now closely matched or ... such as the European Union legal directive MIFID II or business ethics. The experiments themselves did not engage in any unethical activities ..."
+    publishedDateTime: 2022-02-07T16:05:00Z
+    webUrl: "https://scroll.in/article/1016670/is-artificial-intelligence-better-than-humans-at-making-money-in-financial-markets"
+    ampWebUrl: "https://amp.scroll.in/article/1016670/is-artificial-intelligence-better-than-humans-at-making-money-in-financial-markets"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1016670/is-artificial-intelligence-better-than-humans-at-making-money-in-financial-markets"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 53
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/169699-bobiihxzuk-1643974563.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Humans vs AI: here's who's better at making money in markets"
     excerpt: "AI's financial forecasts We analyzed 27 peer ... such as the EU legal directive MIFID II or business ethics. The experiments themselves did not engage in any unethical activities – they did ..."
     publishedDateTime: 2022-02-03T05:24:00Z
@@ -44,15 +60,6 @@ related:
         width: 600
         height: 330
         isCached: true
-  - title: "Humans trump AI at making money in financial markets - study"
-    excerpt: "Humans still have the edge over artificial intelligence when it comes to making money in the financial markets, according to a new paper which raises questions about previous research into the topic."
-    publishedDateTime: 2022-02-03T00:33:00Z
-    webUrl: "https://www.finextra.com/newsarticle/39627/humans-trump-ai-at-making-money-in-financial-markets---study"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "fyKXURRi0GX+SkAI2RfmE04VRwHbI094EM23RoVLkdL9eiHVpWgYogTzRSPfL3DtvDX88ka9cQHocykB9BWKbZqosSnTZ2eLgORHGXenGj3QGmTU3s8Eqdknp2SMsq4xSCHWvY30dwAAgNMLjoGX/8rYkdGlcwtZMiZRUjd8FBp+sW0oXjNXT+r6eghpkeexvUdsXX8g7QBDM4+DpM7g1ZAFzmIXH23FVI29DGm8PiFpntMRFsVOFfxUDfm/0Xf5PT/T4d8FXDMKlLDA78paFc9uaET3RoAGNIsB9LMn602VUtyaJVJLOUkZie2hjeUfzLEok0+z+kDfXbNTI4hIRmVGA0HqoVLkqpKKFuJmnDXkaIg3SKnfNJzkdL8faV9VxfdUzB3dTzURE754ovavAS8wTazFjsjKKRmyMVGa7vZIs5RS2JvvgOmoM7BT1aW7UwJ/2kMAjO7F/msfmA8BaK/uZDTukgbGmiuvQ5UNhxLYzAIWSF4sLgTHgYT/uIYLJIrTMyZ8t5BrGZgmZ5o4Dw==;6y9QkI8WIRnYtF+TD727YQ=="
 ---

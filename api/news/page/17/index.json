@@ -2,6 +2,204 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-01-19-the-opportunity-and-the-danger-of-artificial-intelligence-at-retail.md",
+      "title": "The Opportunity And The Danger Of Artificial Intelligence At Retail",
+      "excerpt": "Technology is creating a new era of decision-making in retail but it's not clear that it will always be good. Now is the time for the industry to act.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/",
+      "originalUrl": "https://www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61e61880addd8c337c94bb6d/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2022/01/19/the-opportunity-and-the-danger-of-artificial-intelligence-at-retail/amp/",
+      "publishedDateTime": "2022-01-19T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-israeli-fintech-personetics-raises-85m-for-tools-to-help-incumbents-personalize-banking-services-to-compete-with-neobanks.md",
+      "title": "Israeli fintech Personetics raises $85M for tools to help incumbents personalize banking services to compete with neobanks",
+      "excerpt": "Big banks are under a lot of pressure to modernize their services to meet demands of consumers who now view things like mobile apps that identify who and where you are; or instant, on-demand products,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/19/israeli-fintech-personetics-raises-85m-for-tools-to-help-incumbents-personalize-banking-services-to-compete-with-neobanks/",
+      "originalUrl": "https://techcrunch.com/2022/01/19/israeli-fintech-personetics-raises-85m-for-tools-to-help-incumbents-personalize-banking-services-to-compete-with-neobanks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-582759160.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/19/israeli-fintech-personetics-raises-85m-for-tools-to-help-incumbents-personalize-banking-services-to-compete-with-neobanks/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/19/israeli-fintech-personetics-raises-85m-for-tools-to-help-incumbents-personalize-banking-services-to-compete-with-neobanks/amp/",
+      "publishedDateTime": "2022-01-19T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-former-google-scientist-says-the-computers-that-run-our-lives-exploit-us-and-he-has-a-way-to-stop-them.md",
+      "title": "Former Google scientist says the computers that run our lives exploit us — and he has a way to stop them",
+      "excerpt": "From Facebook algorithms that learn how to ... AI and Digital Policy and the new bias-fighting Distributed Artificial Intelligence Research Institute from former Google star Timnit Gebru, to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2022/01/17/artificial-intelligence-ai-empathy-emotions/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2022/01/17/artificial-intelligence-ai-empathy-emotions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KIDEI4DYQ4I6ZHOOOMJVPHPEGQ.jpg&w=1440",
+          "width": 1339,
+          "height": 1034,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-19T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-19-robotaxis-get-new-learning-strategies-to-face-the-edge.md",
+      "title": "Robotaxis get new learning strategies to face \"the edge\"",
+      "excerpt": "But to get there, autonomous vehicle developers face a daunting challenge: equipping their cars to meet an array of scenarios than can't be fully anticipated. AI and deep learning tools have been the secret sauce for self-driving car programs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robotaxis-get-new-learning-methodologies-to-face-the-edge/",
+      "originalUrl": "https://www.zdnet.com/article/robotaxis-get-new-learning-methodologies-to-face-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/417fe62f5099599c110f118cedf3c8afe2e87549/2022/01/19/289c4083-f7f8-4c7c-b554-1dc3c8c5279f/motional.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robotaxis-get-new-learning-methodologies-to-face-the-edge/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robotaxis-get-new-learning-methodologies-to-face-the-edge/",
+      "publishedDateTime": "2022-01-19T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-redefining-the-art-of-the-possible-for-financial-services-with-data-and-ai.md",
       "title": "Redefining the art of the possible for Financial Services with Data and AI",
       "excerpt": "I recently had the pleasure of speaking at the IDC European Banking Executive Digital Summit 2021 to discuss the value of digital transformation to the financial sector and its customers, and, importantly,",
@@ -977,215 +1175,6 @@
       "images": [
         {
           "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=zh_cn",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-introduction-to-tensor-slicing.md",
-      "title": "Introduction to tensor slicing",
-      "excerpt": "When working on ML applications such as object detection and NLP, it is sometimes necessary to work with sub-sections (slices) of tensors. For example, if your model architecture includes routing, where one layer might control which training example gets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/tensor_slicing?hl=zh_CN",
-      "originalUrl": "https://www.tensorflow.org/guide/tensor_slicing?hl=zh_CN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=zh_CN",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-numpy-api-on-tensorflow.md",
-      "title": "NumPy API on TensorFlow",
-      "excerpt": "TensorFlow implements a subset of the NumPy API, available as tf.experimental.numpy. This allows running NumPy code, accelerated by TensorFlow, while also allowing access to all of TensorFlow's APIs. This call enables type promotion in TensorFlow and also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/tf_numpy?hl=fi",
-      "originalUrl": "https://www.tensorflow.org/guide/tf_numpy?hl=fi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=fi",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-pix2pix-image-to-image-translation-with-a-conditional-gan.md",
-      "title": "pix2pix: Image-to-image translation with a conditional GAN",
-      "excerpt": "This tutorial demonstrates how to build and train a conditional generative adversarial network (cGAN) called pix2pix that learns a mapping from input images to output images, as described in Image-to-image translation with conditional adversarial networks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/generative/pix2pix?hl=no",
-      "originalUrl": "https://www.tensorflow.org/tutorials/generative/pix2pix?hl=no",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=no",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-playing-cartpole-with-the-actor-critic-method.md",
-      "title": "Playing CartPole with the Actor-Critic Method",
-      "excerpt": "Actor-Critic methods are temporal difference (TD) learning methods that represent the policy function independent of the value function. A policy function (or policy) returns a probability distribution over actions that the agent can take based on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/reinforcement_learning/actor_critic?hl=sr",
-      "originalUrl": "https://www.tensorflow.org/tutorials/reinforcement_learning/actor_critic?hl=sr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sr",
           "width": 1200,
           "height": 675,
           "title": null,

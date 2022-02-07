@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artifici
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Ethical Debate About Whether AI Ought To Warn You When The Self-Driving Car That You Are Riding In Is About To Crash"
+    excerpt: "Speaking of cars, the future of cars consists of AI-based true self-driving cars. There isn’t a human driver involved in a true self-driving car. Keep in mind that true self-driving cars are driven via an AI driving system. There isn’t a need for a ..."
+    publishedDateTime: 2022-02-07T16:35:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62009c5c4b81d4dd7837fa84/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Here’s What Henry Kissinger Thinks About the Future of Artificial Intelligence"
     excerpt: "For some, artificial intelligence represents nothing more than one tool among many aimed at increasing productivity and maximizing economic output. For others though, AI looks like more of a destination, a couple of words pointing to a tectonic shift in ..."
     publishedDateTime: 2022-02-07T01:39:00Z

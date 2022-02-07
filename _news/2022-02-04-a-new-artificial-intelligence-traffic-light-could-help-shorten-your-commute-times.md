@@ -9,8 +9,8 @@ ampWebUrl: "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-cou
 cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Jalopnik
@@ -41,6 +41,20 @@ related:
       - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2022/02/04/d5cda2e76ce28a417dd3047a1d3ffed6-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI Traffic Lights Could Cut Commute Times"
+    excerpt: "Researchers in Germany have found that equipping traffic lights with AI technology could help reduce the amount of time drivers spend at intersections. Traffic lights usually coordinate with induction loop sensors or infrared sensors, which are either ..."
+    publishedDateTime: 2022-02-07T15:31:00Z
+    webUrl: "https://www.extremetech.com/extreme/331384-ai-traffic-lights-could-cut-commute-times"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 37
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/02/ExtremeTech-formatter-2-640x353.jpg"
+        width: 640
+        height: 353
         isCached: true
 
 secured: "6gZHJZgCYv3XJrHmoPaj56TTBIrcUeJSz6bJwI3exYzixw8RGoLAd599cxRsJP4Q9DxdnfN4Et1Eke4MYq7KzSVa+zXzgMpKymnGJjrjC/bhQQ/GM0/z9Nzm4lSiwLxlTcizFLmbO0rlJD0/2okUnD6eHlr17XNptI03Js3P9bGvcPbLIDKsbu1l3Lp/9FvibJMKLShSn08QcN/hzCZKpCpOLCVePJ4MTTCktsID1bcejeBFD7dL1QFL3F+lQML5u7zfboO+b8t2natmjSUW5DDNAMPqDK0dIOgO+pyxtlu24suYow6bPL0mHG3ESKjXr4xuhHCIksCIcBq8oRFH56msw3+q8Jsu3adCERXT9ghVL0ZxIYuWZjV7k7+4z1kME4/lB6WAaOmC/LCkx6AHNDgfcl5gEq4jI5TMS+4++Ra0s9eqFXdvEl5mF2WlNoSAdswUwRfrxKGWMHMaITJkVTZEt4AR1kHOgW32+Vhgm2mPFdUXQ4G6Go0eIs7Yl2M45fuwwnHG9h+EQ76FAMkXmQ==;Tvd2DivBWWhNR9pMsXczrA=="

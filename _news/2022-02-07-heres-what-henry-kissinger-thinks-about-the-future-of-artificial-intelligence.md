@@ -43,6 +43,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The Ethical Debate About Whether AI Ought To Warn You When The Self-Driving Car That You Are Riding In Is About To Crash"
+    excerpt: "Speaking of cars, the future of cars consists of AI-based true self-driving cars. There isn’t a human driver involved in a true self-driving car. Keep in mind that true self-driving cars are driven via an AI driving system. There isn’t a need for a ..."
+    publishedDateTime: 2022-02-07T16:35:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/07/the-ethical-debate-about-whether-ai-ought-to-warn-you-when-the-self-driving-car-that-you-are-riding-in-is-about-to-crash/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62009c5c4b81d4dd7837fa84/0x0.jpg?format=jpg&width=1200&fit=bounds"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "lI+rlrAZKlJAVxkmFMufZjvyTov6hCFHtXSWW0Agh4ScJAkTSVGhTEj5/oipCNnC12xY91hkiA2uPt43+w0JrhPWEiUOLG1ezBzZFIXGtWEqgLGWRV2720upl5+2mrvRd2MKmBuoHkSKyRVxJrw3SUbDHo9qupAQhEKbO80G8MQceAsAA0wkW5+wlMFIT2NlJI/UEvNdc54OgZER20j1crQ5lL2/WwzQWgZ7buFneqjhaZHfeOs/ZbghhQgP2hJC0H7ZLi34RlCWdm5GHYDf3xwD2OGFZdc3xlIn1WtWbPS8E7ltkbXUFrIl0MKns7WBkO7kwGQjs5euKfe61/VJVWtQGbI05RaoAC52o748LBc=;fkDZ5F5lf4UwiwMd2nAFXw=="
 ---

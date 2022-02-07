@@ -41,6 +41,20 @@ related:
         width: 754
         height: 388
         isCached: true
+  - title: "Huge government agencies clash over imposing facial recognition"
+    excerpt: "Even as the Internal Revenue Service and other federal agencies are pushing to require Americans to consent to facial recognition to sign on to government websites, the government’s central management office has refused to use the technology on its own ..."
+    publishedDateTime: 2022-02-07T16:20:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/02/07/irs-gsa-id-facial-recogntion/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CGOFID44YI6ZDGIW2LFMS5HSY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
     publishedDateTime: 2022-02-04T14:44:00Z

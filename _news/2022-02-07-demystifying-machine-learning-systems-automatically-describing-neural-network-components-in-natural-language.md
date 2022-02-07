@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-07T11:22:00Z
 originalUrl: "https://scitechdaily.com/demystifying-machine-learning-systems-automatically-describing-neural-network-components-in-natural-language/"
 webUrl: "https://scitechdaily.com/demystifying-machine-learning-systems-automatically-describing-neural-network-components-in-natural-language/"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://scitechdaily.com/images/Describing-Neural-Networks-With-Natural-Language.jpg"

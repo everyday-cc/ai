@@ -2,6 +2,239 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-01-25-israeli-company-makes-body-cams-with-facial-recognition.md",
+      "title": "Israeli company makes body cams with facial recognition",
+      "excerpt": "Twenty years after he planned the controversial barrier between Israel and Palestinians, Dany Tirza is developing a security tool that requires no cement: body cameras with facial recognition technology. Tirza, a former Israeli army colonel, said that his ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taipeitimes.com/News/world/archives/2022/01/25/2003772046",
+      "originalUrl": "https://www.taipeitimes.com/News/world/archives/2022/01/25/2003772046",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Taipei Times",
+        "domain": "taipeitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-new-emerging-fintech-security-trends-in-2022.md",
+      "title": "New & emerging Fintech Security Trends in 2022",
+      "excerpt": "The unexpected and rapid shift of the global workforce to WFH setup prompted by the coronavirus pandemic has caused enterprises around the world to make significant infrastructure adjustments to support employees as they work",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/new-emerging-fintech-security-trends-in-2022/",
+      "publishedDateTime": "2022-01-24T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-fathom-raises-47m-for-its-ai-notetaker.md",
+      "title": "Fathom raises $4.7M for its AI notetaker",
+      "excerpt": "Fathom, a startup that is building an AI notetaker for Zoom, today announced that it has raised a $4.7 million seed round from a range of early-stage investors, including Zoom’s own Apps Fund. Other investors include the likes of early Zoom investors Maven Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/",
+      "originalUrl": "https://techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kuzs0xkXo3U/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/amp/",
+      "publishedDateTime": "2022-01-24T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-meta-unveils-new-ai-supercomputer.md",
+      "title": "Meta Unveils New AI Supercomputer",
+      "excerpt": "When the AI Research SuperCluster is fully built it will be the fastest AI supercomputer in the world, the Facebook-parent says",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601",
+      "originalUrl": "https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 749,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-472356/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/meta-unveils-new-ai-supercomputer-11643043601",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/meta-unveils-new-ai-supercomputer-11643043601",
+      "publishedDateTime": "2022-01-24T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-facebook-parent-meta-creates-powerful-ai-supercomputer.md",
+      "title": "Facebook parent Meta creates powerful AI supercomputer",
+      "excerpt": "Facebook's parent company Meta on Monday said ... The computer, which is already up and running but is still being built, is called AI Research SuperCluster. Meta says it will help its AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.startribune.com/facebook-parent-meta-creates-powerful-ai-supercomputer/600139109/",
+      "originalUrl": "https://www.startribune.com/facebook-parent-meta-creates-powerful-ai-supercomputer/600139109/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1644244859",
+          "width": 1680,
+          "height": 876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StarTribune",
+        "domain": "startribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.md",
       "title": "CFOs eye tech investments to attract, retain talent with AI/ML skills",
       "excerpt": "A survey by a financial services and human resources software vendor showed CFOs are on the hunt for finance professionals who have skills in AI and ML platforms that can be used to parse data and tell a business value story.",
@@ -924,239 +1157,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-the-race-to-ai-value-3-themes-from-new-aiml-and-deep-learning-research-report.md",
-      "title": "The Race to AI Value: 3 Themes From New AI/ML and Deep Learning Research Report",
-      "excerpt": "New study finds organisations not prioritising AI/ML and Deep Learning are losing competitiveness The artificial intelligence (AI) market is expected to reach $554.3 billion in revenue by 2024 as AI technologies gain adoption across industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/race-ai-value-3-themes-from-new-aiml-deep-learning-sean-stacey-",
-      "originalUrl": "https://www.linkedin.com/pulse/race-ai-value-3-themes-from-new-aiml-deep-learning-sean-stacey-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGKQTi8QB2JtA/article-cover_image-shrink_600_2000/0/1643013654820?e=1648684800&v=beta&t=gS3hGValJL4REoros_azRgfd7IX3eZAiBK6-dQLNYZM",
-          "width": 1349,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-migrate-from-estimator-to-keras-apis.md",
-      "title": "Migrate from Estimator to Keras APIs",
-      "excerpt": "(For migrating model/checkpoint saving workflows to TensorFlow 2, check out the SavedModel and Checkpoint migration guides.) This example shows how to perform training and evaluation with tf.estimator.Estimator in TensorFlow 1. Start by defining a few ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/migrate/migrating_estimator",
-      "originalUrl": "https://www.tensorflow.org/guide/migrate/migrating_estimator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-23T20:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good.md",
-      "title": "How AI, machine learning are being increasingly used to drive social good",
-      "excerpt": "While technologies like artificial intelligence (AI) and machine learning (ML) have become part of many aspects of our daily lives in recent times, they are increasingly being used for the social good as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/23/full/1642956258-155.jpg?im=Resize,width=1200",
-          "width": 1200,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/how-ai-machine-learning-are-being-increasingly-used-to-drive-social-good-122012300990_1.html",
-      "publishedDateTime": "2022-01-23T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities.md",
-      "title": "Australian Space Agency believes existing robotics can be used for terrestrial activities",
-      "excerpt": "Robotics used in mining, for instance, could provide sustainable solutions for space exploration, the agency said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
-      "originalUrl": "https://www.zdnet.com/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/dc3b79f93d7c9d39148f428678cf93140ee41f9e/2022/01/23/fce9aace-98b8-42a2-8b9a-ec1c7daf4607/robotic-roadmap.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-space-agency-believes-existing-robotics-can-be-used-for-terrestrial-activities/",
-      "publishedDateTime": "2022-01-23T16:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-bigtech-in-financial-services.md",
-      "title": "BigTech in Financial Services",
-      "excerpt": "BigTechs are applying new approaches to existing financial services products and services such as underwriting using big data and are also applying machine learning for their key business decisions, such as pricing and risk management across multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.imf.org/en/Publications/fintech-notes/Issues/2022/01/22/BigTech-in-Financial-Services-498089",
-      "originalUrl": "https://www.imf.org/en/Publications/fintech-notes/Issues/2022/01/22/BigTech-in-Financial-Services-498089",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Monetary Fund",
-        "domain": "imf.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

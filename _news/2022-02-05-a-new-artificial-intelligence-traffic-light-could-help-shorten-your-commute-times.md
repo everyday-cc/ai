@@ -42,6 +42,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AI Traffic Lights Could Cut Commute Times"
+    excerpt: "Researchers in Germany have found that equipping traffic lights with AI technology could help reduce the amount of time drivers spend at intersections. Traffic lights usually coordinate with induction loop sensors or infrared sensors, which are either ..."
+    publishedDateTime: 2022-02-07T15:31:00Z
+    webUrl: "https://www.extremetech.com/extreme/331384-ai-traffic-lights-could-cut-commute-times"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 37
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/02/ExtremeTech-formatter-2-640x353.jpg"
+        width: 640
+        height: 353
+        isCached: true
 
 secured: "gN/gtiNIGwMOaJ+FKvdAkfbV42Hn+YL/Ih3+KBXM3dTBHzr/ad4T4lirNVwi/w84EIObxVwGfG5r3RBcnhsOBnk8t+dstHoyiFne87Hb0UCSgNv9II3ArI1By8wQ18I4nvUdt0D/PT6W4meUb8N5S6H08rAepl+7BCnBC0usUiczTjd53smu0q4ev8XQIxvt4xOPLFMhYT7Y9+/PvOMtQv0XauhOxb5BX2jb4S0w+XDLnkBu0hHj1a0w4CdKuE5phHdepTUy3YKRFNN0KOrlXtqUYHC/oWNAu7GxhUHnwPoyxcfwHaTDPN/6lmoYuSfNVfM/EQM6aSWk30O69Fer8X+bKhepYeA5Q7uI5fj+mUw=;vsUkz4L/e02dWESHi7Ogww=="
 ---

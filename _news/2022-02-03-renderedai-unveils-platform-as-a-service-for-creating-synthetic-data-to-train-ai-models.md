@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/rendered-ai-unveils-platfor
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: ZDNet
@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Scale AI gets into the synthetic data game"
-    excerpt: "Scale AI’s path to becoming a $7.3 billion company ... self-driving trucks and automated bots used in warehouses and on-demand delivery. The startup has since morphed into a data management ..."
-    publishedDateTime: 2022-02-02T23:50:00Z
-    webUrl: "https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/"
-    ampWebUrl: "https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/amp/"
+  - title: "How AI and machine learning will transform Software as a Service"
+    excerpt: "As part of the continuous evolution of SaaS solutions, both artificial intelligence (AI) and machine learning (ML) are quickly becoming integral parts of the SaaS ecosystem. With breakthroughs in automated computing and powerful data-driven machines ..."
+    publishedDateTime: 2022-02-07T01:42:00Z
+    webUrl: "https://www.ejinsight.com/eji/article/id/3035913/20220207-How-AI-and-machine-learning-will-transform-Software-as-a-Service"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: EJ Insight
+      domain: ejinsight.com
+    quality: 54
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1222958278.jpg?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://static.hkej.com/eji/images/2022/02/07/3035913_3cc0bd6815647e72847795cf93e61e08.jpg"
+        width: 745
+        height: 430
         isCached: true
 
 secured: "ZEGhb3JdHaVa9x8G6l0gEWdhPfq1XEGfeMFyizqKME8/xXgX+yXY7SnHUy7e2XynRpv46XQ0fh8K4ccgoTXqwwx3x+d/8BLYW2aUVLMK8EjqgM+h3kKhftGFci3gZc2p4BCQE2lMi+qchBfBLLm+pinL1S1RSLjO2YRxVbxvbt+ouTPfaA9COMcYxj9PlWxBMrpe3aXVxK1PdrGZA6bKCSwQMHLWT4GIPZowX8BMiBI5wmbAlw+6l7+HN9x2aliouTkSoci5eLY8wfcPs614u0KrvVUgxw1TtfSUNcVh6aQ3Pu3VfMOVLv15UnaakK0+my9zFhEv0ha50qTdBrR5M+n9p5dDDbIv4EOpE6tpmHocpJcIUQT+VxgF9kNHeDauNQowUctSvu7wwJp8hdtSGfsJSACXM4bmdeHjyLGBAqqpd5UTh/TgsEv+k8XhKO3rMmLQISkH5UNFVdNXhstxNuRGF8vmzTcqQyf036JVHEF7wjeqoOy5L2yc7Eaz1BSLo+8k8E1Eso9vbIOYS2tLNA==;A/tqNbXFkZaigXpWndXMhA=="
