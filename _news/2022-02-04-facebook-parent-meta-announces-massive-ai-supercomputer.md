@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thedailystar.net/toggle/news/facebook-parent-meta-announ
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/facebook-parent-meta-announces-massive-ai-supercomputer-2953756?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Daily Star
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Penguin Computing Designed Meta’s New AI Supercomputer"
+    excerpt: "Any company with the same level of financial resources as Facebook parent company Meta could buy the ... Is Building ‘Workload-Optimized’ CPUs] In the case of Meta’s new AI Research SuperCluster, the Menlo Park, Calif.-based tech giant turned to ..."
+    publishedDateTime: 2022-02-07T21:14:00Z
+    webUrl: "https://www.crn.com/slide-shows/components-peripherals/how-penguin-computing-designed-meta-s-new-ai-supercomputer"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0272-14640207f2d8-064e608ce78c-1000/thierry-pellegrino-penguin.jpg"
+        width: 610
+        height: 458
+        isCached: true
   - title: "Meta's Q4 capex hits $5.5bn for data centers and offices, as shares plummet on Facebook stagnation"
     excerpt: "With its core product slowing, and struggling to attract younger audiences, Facebook has begun to pivot to the 'metaverse ... As part of that, it this month launched the 'AI Research SuperCluster,' a system comprised of Nvidia DGX A100s, that will ..."
     publishedDateTime: 2022-02-03T14:38:00Z

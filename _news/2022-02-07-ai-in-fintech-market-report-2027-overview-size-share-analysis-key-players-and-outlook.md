@@ -87,20 +87,6 @@ related:
         width: 320
         height: 240
         isCached: true
-  - title: "FinTech Blockchain Market: Meticulous Research® Reveals Why This Market is Growing at a CAGR of 59.9% to Reach $36.04 Billion by 2028"
-    excerpt: "Higher blockchain & AI adoption in the region is contributing to the continued transition toward FinTech blockchain technology. Besides, the majority of established FinTech blockchain players and a conducive environment for budding start-ups are expected ..."
-    publishedDateTime: 2022-02-03T06:56:00Z
-    webUrl: "https://www.digitaljournal.com/pr/fintech-blockchain-market-meticulous-research-reveals-why-this-market-is-growing-at-a-cagr-of-59-9-to-reach-36-04-billion-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 8
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-5-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "QoUE9hMFvOdObWj1RI85OctknpOOpM+DePmjwwY7trloKGKDuyHYu/UW5DfyMWc9K64xgxa31ALJkP1CsEyEd6E+zF24MKiwh4Y/Zt1LDcRv/WBrc/MlINzmo7ar634W36AFRKfPFdbO4n0CK0l4lh2ufuYekJjYAJabZKCw0Swr5uO9f27soXMGczzZ/WGOg5MhTnfnREK4QQPs86xU3tPceVYFfv1aQIjEuhcYmJv3wM9Ot7kzVii6eTqpDhdBACeCKgL3y/gJZBlsKbfs1a0knvDvnpCoLLlQlG0XH1qmGMzdZKFZEj47XRU+IR/kIs/L8fjst7xstStMOFjGeC0QnKOYj5ZaSa1eRIR3hk8=;2NVawhJsuK6Pb/UtNMe/UA=="
 ---

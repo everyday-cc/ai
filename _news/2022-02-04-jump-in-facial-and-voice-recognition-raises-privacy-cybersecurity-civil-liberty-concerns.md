@@ -44,6 +44,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "IBM and Snyk: Developers must lead the charge on cybersecurity"
+    excerpt: "Then when you couple that with something like IBM’s core strategy, which is a hybrid cloud approach, which means that our enterprises work with not just IBM’s software and cloud, but also work with AWS’s cloud, work with the Azure’s cloud ..."
+    publishedDateTime: 2022-02-07T22:14:00Z
+    webUrl: "https://www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/"
+    ampWebUrl: "https://www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/amp/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
+    images:
+      - url: "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/02/20220126-DD-SnykIBM-Bill.jpg"
+        width: 1918
+        height: 1080
+        isCached: true
 
 secured: "H9lzeIoSpbGOG48GlzqXqX6wkscvNlS6pHqgEOe5yPfOktldHjK7Yz6jWENpj8YOWNK8xQ5HYMCNu8B08yDDX+EbA9xc+FWudH7aV1H8+gRgMszOLC4NXumlZzZDiQudy/IJaJ+Uh0xGD6jzQK39QxWhRAwlAco7R02xyGjxOsY+ejuJddjs/XZKeP6G8EHaKNSc1WRz1QhpusKF9En7NG03WLSm/ZaVYxwPEhztVpZbqomDPUZ9THfwHJOBjSzlC3S+kkwp/YJU4phOk4AjpMaPjRqIwQWIIHRoIjPP4evNEz8JTg6ElyZSyp84aX/VLh9B4GFyKhpOLkoUV905CHUmNbb8+v7pgCijYfB49cs=;lzvCrRQzcD2FyZ/ODlpOyQ=="
 ---

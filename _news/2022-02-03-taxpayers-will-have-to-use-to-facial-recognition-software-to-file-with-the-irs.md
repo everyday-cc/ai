@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "IRS drops facial recognition verification after privacy concerns"
+    excerpt: "The IRS said Monday it will not use facial recognition to verify the identities of users of its site. Instead, it will implement other means to validate taxpayers' information, and says this change will not impact the current tax season. It follows the ..."
+    publishedDateTime: 2022-02-07T22:10:00Z
+    webUrl: "https://www.cnet.com/personal-finance/irs-drops-facial-recognition-verification-after-privacy-concerns/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/irs-drops-facial-recognition-verification-after-privacy-concerns/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/irs-drops-facial-recognition-verification-after-privacy-concerns/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/fqBMSABQmuJ8J_k4DBf7z7He9lU=/0x278:4000x2525/1200x630/2020/07/14/02e69693-df4d-4af1-b15c-9c97b90797f9/tax-day-4039.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "I.R.S. to End Use of Facial Recognition for Identity Verification"
     excerpt: "By Alan Rappeport WASHINGTON — The Internal Revenue Service plans to stop using facial recognition software to identify taxpayers accessing their accounts on the agency’s website amid concerns over privacy and data security. The decision comes as the I ..."
     publishedDateTime: 2022-02-07T18:47:00Z
@@ -107,6 +123,47 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "IRS to end ID.me facial recognition effort after widespread backlash"
+    excerpt: "The Internal Revenue Service (IRS) announced on Monday afternoon that it will no longer be using ID.me facial recognition software, adding in a statement that it will \"transition away from using a third-party service for facial recognition to help ..."
+    publishedDateTime: 2022-02-07T21:22:00Z
+    webUrl: "https://www.zdnet.com/article/irs-to-end-id-me-facial-recognition-effort-after-widespread-backlash/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/irs-to-end-id-me-facial-recognition-effort-after-widespread-backlash/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/irs-to-end-id-me-facial-recognition-effort-after-widespread-backlash/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "IRS stops requiring selfies after facial recognition system is widely panned"
+    excerpt: "The ID.me system is \"using Amazon's controversial Rekognition technology\" and had verified 20.9 million users' selfies by January 25, Bloomberg wrote. The Treasury Department last year signed a ..."
+    publishedDateTime: 2022-02-07T21:15:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2022/02/irs-stops-requiring-selfies-after-facial-recognition-system-is-widely-panned/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 68
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/02/getty-selfie-facial-recognition-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "IRS to End Use of Facial Recognition on Tax Accounts"
+    excerpt: "Your article was successfully shared with the contacts you provided. The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security."
+    publishedDateTime: 2022-02-07T22:18:00Z
+    webUrl: "https://www.thinkadvisor.com/2022/02/07/irs-to-end-use-of-facial-recognition-on-tax-accounts/"
+    ampWebUrl: "https://www.thinkadvisor.com/2022/02/07/irs-to-end-use-of-facial-recognition-on-tax-accounts/?amp=1"
+    cdnAmpWebUrl: "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2022/02/07/irs-to-end-use-of-facial-recognition-on-tax-accounts/?amp=1"
+    type: article
+    provider:
+      name: Think Advisor
+      domain: thinkadvisor.com
+    quality: 59
+    images:
+      - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2021/06/Internal_Revenue_Service_IRS_Building_640x640.jpg"
+        width: 640
+        height: 640
+        isCached: true
   - title: "After criticism, IRS to end use of facial recognition to identify taxpayers"
     excerpt: "WASHINGTON (AP) — The IRS said Monday it will suspend the use of facial recognition technology to authenticate people who create online accounts after the practice was criticized by privacy ..."
     publishedDateTime: 2022-02-07T20:43:00Z
@@ -122,6 +179,22 @@ related:
       - url: "https://whdh.com/wp-content/uploads/sites/3/2021/06/AP21170075851685.jpg?quality=60&strip=color&w=1024"
         width: 1024
         height: 663
+        isCached: true
+  - title: "IRS to 'transition away' from facial recognition for access to online system"
+    excerpt: "Feb. 7 (UPI) --The Internal Revenue Service on Monday said it will no longer use facial recognition software as a requirement for taxpayers to access their online accounts. In a statement Monday, the agency said it will \"transition away\" from requiring ..."
+    publishedDateTime: 2022-02-07T22:38:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2022/02/07/IRS-transition-away-facial-recognition-access-online-system/4321644267858/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2022/02/07/IRS-transition-away-facial-recognition-access-online-system/4321644267858/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2022/02/07/IRS-transition-away-facial-recognition-access-online-system/4321644267858/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 56
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4321644267858/2022/1/0891f8f1261eba40ce02aaf909f19044/v1.5/IRS-to-transition-away-from-facial-recognition-for-access-to-online-system.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Rep. Huizenga introduces bill to ban facial recognition technology from IRS use"
     excerpt: "WASHINGTON D.C., DC — Representative Bill Huizenga of Michigan's 2nd District introduced new legislation on Friday that would ban the Internal Revenue Service (IRS) from using facial recognition technology to verify identities. The Republican Congressman ..."
@@ -287,6 +360,34 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "IRS backs away from facial recognition"
+    excerpt: "The IRS reversed course Monday on earlier plans to require taxpayers to authenticate their identities with a nongovernmental facial-recognition service to use certain online services. In a news release, the IRS announced it will \"transition away from using ..."
+    publishedDateTime: 2022-02-07T21:40:00Z
+    webUrl: "https://www.journalofaccountancy.com/news/2022/feb/irs-backs-away-from-facial-recognition.html"
+    type: article
+    provider:
+      name: JournalofAccountancy
+      domain: journalofaccountancy.com
+    quality: 39
+    images:
+      - url: "https://www.journalofaccountancy.com/content/dam/jofa/news/new-irs-640.jpg"
+        width: 640
+        height: 388
+        isCached: true
+  - title: "IRS to end use of facial recognition to access tax accounts"
+    excerpt: "The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security. The transition from the ID.me, the third-party verification system that ..."
+    publishedDateTime: 2022-02-07T22:20:00Z
+    webUrl: "https://www.pressherald.com/2022/02/07/irs-to-end-use-of-facial-recognition-to-access-tax-accounts/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 39
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/4/2022/02/IRS_Facial_Recognition_83583-1644271988.jpg"
+        width: 1000
+        height: 648
+        isCached: true
   - title: "IRS facial recognition plan gets fierce blowback from bipartisan senators"
     excerpt: "In the wake of a controversial plan by the Internal Revenue Service to implement third-party services that rely on facial recognition, bipartisan senators on Thursday demanded that the IRS “immediately discontinue” any programs that collect ..."
     publishedDateTime: 2022-02-04T21:00:00Z
@@ -300,6 +401,20 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-IRS-facial-recognition-plan-gets-blowback-from-bipartisan-senators.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "IRS halts plan to require facial recognition for logging in to user accounts"
+    excerpt: "The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website following backlash ..."
+    publishedDateTime: 2022-02-07T21:09:00Z
+    webUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2022/02/07/irs-halts-plan-to-require-facial-recognition-for-logging-in-to-user-accounts/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 36
+    images:
+      - url: "https://keyt.b-cdn.net/2022/01/nc312-combined-commercial-slate.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Will IRS Require Use of Facial Recognition Software To Access Tax Info Online?"
     excerpt: "another reader asked. As of this writing, it’s true that the IRS is requiring taxpayers to use facial recognition software designed by a technology company called ID.me to access IRS documents and services online. We reached out to the IRS for comment ..."

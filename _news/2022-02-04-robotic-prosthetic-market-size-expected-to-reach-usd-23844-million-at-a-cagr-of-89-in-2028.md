@@ -53,6 +53,20 @@ related:
         width: 1280
         height: 451
         isCached: true
+  - title: "Artificial Intelligence in Genomics Market Size to Reach Revenues of USD 5,724.45 Million by 2027 Arizton"
+    excerpt: "AI leverages sophisticated computation and inference ... We train our team in advanced research practices, techniques, and ethics to outperform in fabricating impregnable research reports."
+    publishedDateTime: 2022-02-07T21:44:00Z
+    webUrl: "https://menafn.com/1103654385/Artificial-Intelligence-in-Genomics-Market-Size-to-Reach-Revenues-of-USD-572445-Million-by-2027-Arizton"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?867125"
+        width: 363
+        height: 250
+        isCached: true
 
 secured: "yKRq+p7iWxupKFZHluHaDXnwf65A5ozz/OR94AmqRGVpsBpTIckZ4sqsecrgQEF5tmPJY6s5buYi25GCEUpUbJFbXvn6gsECd72mvenV/nDlyj9wHdzWoo0u948FlZyxPW5b+3vUVqrK7Xs0M6szAJDNPBgRYM1ELQEqyNiJIa9+u3OE7cEqYKy98kzV20hsGu1mESMF+DPsRAE5dKxXbbnisB8kHZz4wCg4OrVD5cy2QzuKFRvN6FrFe3ODo0iZL3Wfcon8N8KUcGZK1y7OlilnwuoWCAg3IJPSyeyzqICmzn3alh0KvEq96+cEws4HxOQjxuzax4Cmkvm+KZ8h0GE85JB9En0hceFuwPbLX08=;cxQKKGGfizURXP1RDY06VA=="
 ---

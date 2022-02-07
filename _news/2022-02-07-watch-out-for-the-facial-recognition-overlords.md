@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Metro approves license plate readers, disallows facial recognition"
-    excerpt: "They may also hone in on vehicle makes, models and colors. Those that troubled critics most were those that also included facial recognition capability, without which some racial implications would theoretically no longer be a factor, though that has not ..."
-    publishedDateTime: 2022-02-03T15:00:00Z
-    webUrl: "https://www.nashvillepost.com/politics/metro/metro-approves-license-plate-readers-disallows-facial-recognition/article_20098f9c-846a-11ec-95bd-032eecf6b05f.html"
+  - title: "Facial Recognition: Balancing Security and Privacy in Biometric Tech"
+    excerpt: "For the vast majority of people on the planet, our faces work much like our fingerprints; they're unique to a single person. Inevitably, then, facial recogniti"
+    publishedDateTime: 2022-02-07T01:45:00Z
+    webUrl: "https://www.amongtech.com/zh_tw/facial-recognition-balancing-security-and-privacy-in-biometric-tech/"
     type: article
     provider:
-      name: Nashville Post
-      domain: nashvillepost.com
-    quality: 39
+      name: Amongtech.com
+      domain: amongtech.com
+    quality: 56
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nashvillepost.com/content/tncms/assets/v3/editorial/e/a1/ea1a26ce-846b-11ec-ac12-dbe4b5d8fc75/61faf2420059a.image.jpg?crop=1600%2C840%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://www.amongtech.com/wp-content/uploads/airport-731196_640.jpg"
+        width: 640
+        height: 426
         isCached: true
 
 secured: "S5TL4d+k6y+pPaBkIKH4rkY+e+2++n0uVC08iPj3enCpoQs/xPdvE0822mpvGTpXf7bnZXtYPBnOyycO5wyF3/TR8uTMvCmXe/SFh5w3V2H0NkUIKdDRW3kyrlhmeLMw/9DRIBG/CBWSSqZkoHdN0f/1G1atX4R5Ft2K3rbU/sUM3DE0ljJuYogUC+Cfs37VBqygZ8xjyDN3xgBh9SSN29xY+A4zF+FicM6MKb/OQyvvsCEiIL3Yf8pWfSo/nH9cYQ/rr4XcnsxOzIc8QCF4jegpeVobZ7PLP59+8lthjVf+1vsQ1DNy1unDZ95WHvb41j9esbf91CElE2LSTM6NyOqGrla4/rlqXKWY28ptoaM=;HalSxIz/LC4mItC4jhQXZQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/fintech-ecosystem-report?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-ecosystem-report?amp"
 type: article
 quality: 58
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://blogger.googleusercontent.com/img/a/AVvXsEidUmPoFJvUX3AWX--IW6Pc-KRfvi1aqsczCNTnU2-buwLumK2bAojezPc4uPtCOXAXncmDv1519s9E8Zs5xmiGV02hB-uhN1feL4S0xCOFn4QHapWmmwg72nmhpkI2LF5y8wUl_-UkV-bY-KBJyTiP9ZuHPObfs3saGEaKuLzi9iPApijD4BLnXqs"
         width: 724
         height: 483
-        isCached: true
-  - title: "FinTech Blockchain Market: Meticulous Research® Reveals Why This Market is Growing at a CAGR of 59.9% to Reach $36.04 Billion by 2028"
-    excerpt: "Higher blockchain & AI adoption in the region is contributing to the continued transition toward FinTech blockchain technology. Besides, the majority of established FinTech blockchain players and a conducive environment for budding start-ups are expected ..."
-    publishedDateTime: 2022-02-03T06:56:00Z
-    webUrl: "https://www.digitaljournal.com/pr/fintech-blockchain-market-meticulous-research-reveals-why-this-market-is-growing-at-a-cagr-of-59-9-to-reach-36-04-billion-by-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 8
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-5-600x337.png"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "HEdzgePB3D/o2io3DarqvHtdKnp+uvlKUGoLV4tWGf5j1QIyeUd4w51SUdUAi8gzB5QMXWaKHae+ickm257xzzjWQ/FlMKmWYWLcJxMGRzS6USHNN4Zr2TkqSJbMegmAPvmCB/O968g2RrkUGC3/YU3wyGqKYjKEk3t+1FrahgO8DkGxUzSLELialLEBsLSGa4g2S2oErrXzAk4NNmKwNKM2/kaxG22xSFs9MAhujGodlH33OAugEEeg5+/TzF2arCeGD7ZPH9dtUafx7f5nc2rJzxq7ejnUJf6MHhAlwul/sik6tXKgIfJnDPXl5jlgMcscRgf7Xg/fOUdyyfsxkq3P7/6s7GU+CHfuUg+7/jXiXLWUIfoFMG6+AZ76dulclD2HfmAJql/7BWiRvg92aysLUEYzMzVoHlGbrx2l5c5tLc5n0ty5xyhj94hzB9gR3faQrHf0cqkqUrtbA98zF4EvtMSa8i+7nWTv65KEkkxwgf5lGwxVCOxHj5SgqfZrSd0oIqn1ld73s0kE15Wxjg==;FLL1HEMtNv0mUjBJItUzBw=="

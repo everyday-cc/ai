@@ -41,6 +41,20 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "How Penguin Computing Designed Meta’s New AI Supercomputer"
+    excerpt: "Any company with the same level of financial resources as Facebook parent company Meta could buy the ... Is Building ‘Workload-Optimized’ CPUs] In the case of Meta’s new AI Research SuperCluster, the Menlo Park, Calif.-based tech giant turned to ..."
+    publishedDateTime: 2022-02-07T21:14:00Z
+    webUrl: "https://www.crn.com/slide-shows/components-peripherals/how-penguin-computing-designed-meta-s-new-ai-supercomputer"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0272-14640207f2d8-064e608ce78c-1000/thierry-pellegrino-penguin.jpg"
+        width: 610
+        height: 458
+        isCached: true
 
 secured: "8GsyX8gf4uQoM516lYAL1y0YAn0BUUJ0mu4Ll1TpWDirhToK8ZZmfIZjsQo6TuaFwLciH0qK3nQYtCMPMd3pY3/MAdooZqH0E0JOXqkXJ3/ILTKs2UeGp5nNWWztUVk1HsnkdufED8qtXRwE9glhBPDM73HZYcnFMnqGj8V3ESDLNVqvp2o+cTnIraRzyy3s5HdcYOoUJZK3O2FFdR5Y9cweyYnsG8uWaCOkKKzcMNFWgQZuJP0JjBsdsKG272oXN10//PyJy8HToJZrKUh8cSnQGERRv9DOm7U6Xc1Fag92JU3k7ADnuPOtd77+mcPrTaZHf1I63rgpJIO0800lCuF/2EZyUhgypPJVpKqODNi36yFM0jd1vPEHMMviFlOAgiesjOAu2K11rdcowNAUir/V/kvI8tnenwq6BxF5rZ/n66KXHAEnKxZa/qwOk4hNa//XGHm0N6OdQ2cgc8d+aq1nNXz4VDJjhDpnqePDandHMqgkGA6rbk+uxKFxkdTFX9A5J+lha/DxroQcevdLZw==;eE+fOCDTqyGE7fQJSUkHjw=="
 ---

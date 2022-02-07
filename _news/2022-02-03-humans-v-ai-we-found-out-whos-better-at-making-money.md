@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-mone
 webUrl: "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/169699-bobiihxzuk-1643974563.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Humans vs AI: here's who's better at making money in markets"
-    excerpt: "AI's financial forecasts We analyzed 27 peer ... such as the EU legal directive MIFID II or business ethics. The experiments themselves did not engage in any unethical activities – they did ..."
-    publishedDateTime: 2022-02-03T05:24:00Z
-    webUrl: "https://menafn.com/1103634120/Humans-vs-AI-heres-whos-better-at-making-money-in-markets"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/updates/pr/2022-02/03/AT_9ee2eimage_story.jpg"
-        width: 600
-        height: 330
         isCached: true
 
 secured: "fyKXURRi0GX+SkAI2RfmE04VRwHbI094EM23RoVLkdL9eiHVpWgYogTzRSPfL3DtvDX88ka9cQHocykB9BWKbZqosSnTZ2eLgORHGXenGj3QGmTU3s8Eqdknp2SMsq4xSCHWvY30dwAAgNMLjoGX/8rYkdGlcwtZMiZRUjd8FBp+sW0oXjNXT+r6eghpkeexvUdsXX8g7QBDM4+DpM7g1ZAFzmIXH23FVI29DGm8PiFpntMRFsVOFfxUDfm/0Xf5PT/T4d8FXDMKlLDA78paFc9uaET3RoAGNIsB9LMn602VUtyaJVJLOUkZie2hjeUfzLEok0+z+kDfXbNTI4hIRmVGA0HqoVLkqpKKFuJmnDXkaIg3SKnfNJzkdL8faV9VxfdUzB3dTzURE754ovavAS8wTazFjsjKKRmyMVGa7vZIs5RS2JvvgOmoM7BT1aW7UwJ/2kMAjO7F/msfmA8BaK/uZDTukgbGmiuvQ5UNhxLYzAIWSF4sLgTHgYT/uIYLJIrTMyZ8t5BrGZgmZ5o4Dw==;6y9QkI8WIRnYtF+TD727YQ=="

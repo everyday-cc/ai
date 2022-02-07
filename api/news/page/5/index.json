@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-01-no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal.md",
+      "title": "No more facial recognition? Apple AirPods might be able to recognise the user by checking ear canal",
+      "excerpt": "In the latest development, Apple's AirPods will soon be able to verify a user's identity using the inside of the ear. This will be done using an in-ear biometric device that uses ultrasonic signals. These are then reflected against the walls of a user’s ear canal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524",
+      "originalUrl": "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/02/01/237668-fkcvp2px0aypkp.jpeg",
+          "width": 918,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp",
+      "cdnAmpWebUrl": "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp",
+      "publishedDateTime": "2022-02-01T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WION",
+        "domain": "wionews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-artificial-intelligence-powers-ai-for-good-neural-network.md",
       "title": "Artificial intelligence powers AI for Good ‘Neural Network’",
       "excerpt": "ITU's AI for Good platform launches a new networking tool that uses artificial intelligence to match users, enabling them to build connections with innovators and experts, link innovative ideas with social impact opportunities,",
@@ -868,22 +911,13 @@
       "title": "Clearview AI's Revolutionary Facial Recognition Platform Awarded U.S. Patent",
       "excerpt": "The \"Methods for Providing Information About a Person Based on Facial Recognition\" patent, U.S. Patent No. 11,250,266, issued by the U.S. Patent and Trademark Office (USPTO), is the first of its kind for a facial recognition company and was awarded to Clearview AI for its ability to gather publicly available information from the open internet (social media sites,",
       "sourceUrl": null,
-      "webUrl": "https://aithority.com/vision/face-recognition/clearview-ai-revolutionary-facial-recognition-platform-awarded-us-patent/",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-clearview-ais-revolutionary-facial-recognition-platform-awarded-us-/2022/01/31/9535612.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/01/31/9535612.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/01/31/9535612.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://aithority.com/wp-content/uploads/2022/01/Clearview-AIs-Revolutionary-Facial-Recognition-Platform-Awarded-U.S.-Patent.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -902,8 +936,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1120,57 +1154,6 @@
         "name": "India Times",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-use-ai-to-become-a-photographer-worth-remembering.md",
-      "title": "Use AI to become a photographer worth remembering",
-      "excerpt": "The Complete Award-Winning Luminar AI Bundle gives you the tools and the knowledge to create professional-grade photography.",
-      "sourceUrl": null,
-      "webUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html",
-      "originalUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.macworld.com/wp-content/uploads/2022/01/sale_310759_article_image.jpeg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html/amp",
-      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/609683/use-ai-to-become-a-photographer-worth-remembering.html/amp",
-      "publishedDateTime": "2022-01-31T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macworld",
-        "domain": "macworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2022/02/07/distributed-ai-training-seti-st
 ampWebUrl: "https://www.nextplatform.com/2022/02/07/distributed-ai-training-seti-style-on-idle-cloud/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/02/07/distributed-ai-training-seti-style-on-idle-cloud/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/ab_dataenter_889.jpg"

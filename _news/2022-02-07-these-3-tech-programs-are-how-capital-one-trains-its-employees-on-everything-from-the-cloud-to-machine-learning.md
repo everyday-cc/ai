@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-07T13:34:00Z
 originalUrl: "https://www.businessinsider.com/capital-one-public-cloud-training-programs-playbook-engineer-tech-2022-2"
 webUrl: "https://www.businessinsider.com/capital-one-public-cloud-training-programs-playbook-engineer-tech-2022-2"
 type: article
-quality: 64
-heat: 64
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://i.insider.com/5ea813fa0fc63974fb30c647?width=1200&format=jpeg"
@@ -28,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "dSE6L9TT87/rLsrDFdY3BqsBc0HGXBObGLwpbZmvlyGu79+egiKazmXCQtGOavoHOCGOTUfwnEiw6gUz/VaRVde75le1ehLn/MZo8TpNvieTuQpHJbXX86+7kV3H9nO7SyCAzKCv8p5SHN9rNlhJ8ZYq4vmLJe+EeqVFtdL9lwrT9+92+EHjfhTHG7qtkNISi6YrLJ12UkLJ8lxsH51Y7sdWdCleIpiKkwYBcqgbmvi0VNFNAVKNyzc4mx07uaSKAwQ+EOvnAxSc7Sv6xgB6i9670slSueb/2fiIg0HFovL3diLqyw4FEfZQxLYf6hpU4f+L842zU8iKeWuxTFgCHnijclJS2fzGRDdcgTkUWro=;HRYbLN09e1jjPjQA5MIeOg=="
+secured: "KUK9pA7QqcgRNqkAqlCXHy3zp2ZsQ2uCo0X838eZDxYfF1ZUR5wZZz3unVQ+AWa+wTPyIAmVJnqkRQ1yW/sleQXBn8veHwfHjKmpdueD54fy2CFMWZuAs8/jOhB/e7E94VS3aWI7aZpz20et4Qomrae5NQQvPVXVIzvAmV9dCZkxRSnLsyu5w8905n1CZmrmRbHI9oltqhHtkfpR5a/kqp61Py3pcGCidZ//seRbtd8FeY5FXZgb3szkyLxCT0xLL7JkqOfbS9m3+QMg2oqHO5okmO7H28xgV3bZ2+t3iUyz0Sni8r9AAWaNchPtoXuFIT8dBSgvD79zlQ9YqN1fK912XqtN3ohMBM81aR2PJ05szCsr/ZfFvsGCuClLiyPLwbK9anMd6azITLrfx7jmPNn3zz1xFMBvjpI20z2oyj4men85hRnIs0aXl5+LS/9B2eZ9X1nMFhTm14T/kQ1kOzOxk8WrCG7jNXCLjkzS57UKziLijgtMeu1Vr4ohIBFhbVMQ0g+U1ArhjCo2/wtDqg==;YhR4KUmTmMg3x2Xru9ccDQ=="
 ---
 
