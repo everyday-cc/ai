@@ -7,8 +7,8 @@ originalUrl: "https://www.designnews.com/industry/transforming-modern-medical-de
 webUrl: "https://www.designnews.com/industry/transforming-modern-medical-devices-machine-learning-ai-inference"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Design News
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and machine learning will transform Software as a Service"
+    excerpt: "As part of the continuous evolution of SaaS solutions, both artificial intelligence (AI) and machine learning (ML) are quickly becoming integral parts of the SaaS ecosystem. With breakthroughs in automated computing and powerful data-driven machines ..."
+    publishedDateTime: 2022-02-07T01:42:00Z
+    webUrl: "https://www.ejinsight.com/eji/article/id/3035913/20220207-How-AI-and-machine-learning-will-transform-Software-as-a-Service"
+    type: article
+    provider:
+      name: EJ Insight
+      domain: ejinsight.com
+    quality: 54
+    images:
+      - url: "https://static.hkej.com/eji/images/2022/02/07/3035913_3cc0bd6815647e72847795cf93e61e08.jpg"
+        width: 745
+        height: 430
+        isCached: true
   - title: "CLARA Analytics Takes On Escalating Commercial Auto Claims With Its AI-Driven Litigation Avoidance Engine"
     excerpt: "As commercial auto losses continue to climb, CLARA Analytics (“CLARA”), the leading provider of artificial intelligence (AI) technology in the commercial insurance industry, releases its latest Litigation for Commercial Auto,"
     publishedDateTime: 2022-02-02T14:32:00Z

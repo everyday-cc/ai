@@ -54,20 +54,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
-    excerpt: "request for a sample – https://www.futuremarketinsights.com/reports/sample/rep-gb-5032 In addition to some of the most commonplace vision disorders, newly establishing problems such as digital eye strain (more popularly, computer vision syndrome ..."
-    publishedDateTime: 2022-02-02T10:01:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-02-02/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-59-during-the-forecast-period-2022-2029"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 10
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
 
 secured: "QWgDXIm98iAoT+t1sal+HG8qVlW2bC/DaWw/CAFcBgS41n1uB2uBFopvq+TlKekWvFz+JUMJATUwjjcdJ46t4Nx/IHqXX5eQr2EbqdMbLvPqNQSBVGK7HH2mH6JSdaKU2ZusPzKiEdVTAoookLaYHRScsLahUrT+TDQXMDezE6bnzQVl9xrUQym42zWDMBR9XBmkQoc/owQm3hk2plD7pPeYWO+LAwkr5Ab68i9vuktQmCeRQF0DhGNsU7FV7iMO1fsAsePYObRY0KzGh3syqiUBUtJu6AdQLvNOJtYJb6XDSQWWbjhGX0IWzdhCOQFXoxVq8BW7IlAsogPPwn2LYZlNVLfK/CiN51RZIkbCP4aQGG3mZr/nnzC238L5OzWqv9glOjPRqnosvYDvdGOeLp7Fodx1Xbeq04W/j8L7fXDjTlX7muryw5tsHyIoBDUiLKtl0zbQd/ELVzqBOusP215O2JUPXRhlGpXIpyrRy/R2EKXS0SsNiEdimN2KSdYKxTXg3gNi+d22Tb14vydxoQ==;J6WhqBq/eLUmjTLsQtv5eg=="
 ---

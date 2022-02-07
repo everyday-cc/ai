@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-03-scale-ai-gets-into-the-synthetic-data-game.md",
+      "title": "Scale AI gets into the synthetic data game",
+      "excerpt": "Scale AI’s path to becoming a $7.3 billion company ... self-driving trucks and automated bots used in warehouses and on-demand delivery. The startup has since morphed into a data management ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/",
+      "originalUrl": "https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1222958278.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/02/scale-ai-gets-into-the-synthetic-data-game/amp/",
+      "publishedDateTime": "2022-02-02T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-announcing-the-launch-of-the-model-copy-feature-for-amazon-comprehend-custom-models.md",
+      "title": "Announcing the launch of the model copy feature for Amazon Comprehend custom models",
+      "excerpt": "Technology trends and advancements in digital media in the past decade or so have resulted in the proliferation of text-based data. The potential benefits of mining this text to derive insights, both tactical and strategic, is enormous. This is called natural language processing (NLP). You can use NLP,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-the-model-copy-feature-for-amazon-comprehend-custom-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-the-model-copy-feature-for-amazon-comprehend-custom-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T14:34:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-how-ai-accelerates-insurance-claims-processing.md",
       "title": "How AI accelerates insurance claims processing",
       "excerpt": "The immediate aftermath of a vehicular crash is difficult for all parties involved. The drivers have to process trauma and figure out how to get their damaged cars repaired or replaced. Insurance companies have to conduct damage assessments and figure out the most efficient and least expensive route to get the claims resolved.",
@@ -302,6 +406,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-advancing-the-technology-of-ai-assistance-for-anesthesiologists.md",
+      "title": "Advancing the technology of AI assistance for anesthesiologists",
+      "excerpt": "In a special edition of Artificial Intelligence in Medicine ... in which the software's neural networks simultaneously learned how its dosing choices maintain unconsciousness and how to critique ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/anesthesiologists.jpg",
+          "width": 1920,
+          "height": 1348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp",
+      "publishedDateTime": "2022-02-02T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1108,142 +1255,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-game-changing-facial-recognition-technology-is-now-being-used-by-eps.md",
-      "title": "'Game changing' facial recognition technology is now being used by EPS",
-      "excerpt": "Edmonton police say they have already been able to see the benefits of the facial recognition technology they recently began to use.",
-      "sourceUrl": null,
-      "webUrl": "https://edmonton.ctvnews.ca/game-changing-facial-recognition-technology-is-now-being-used-by-eps-1.5763504",
-      "originalUrl": "https://edmonton.ctvnews.ca/game-changing-facial-recognition-technology-is-now-being-used-by-eps-1.5763504",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504/_jcr_content/root/responsivegrid/image.coreimg.png",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2022/2/1/1_5763504.amp.html",
-      "publishedDateTime": "2022-02-01T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-ai-traffic-lights-could-reduce-waiting-times-at-intersections.md",
-      "title": "AI traffic lights could reduce waiting times at intersections",
-      "excerpt": "Ordinarily, traffic lights change color in response to predetermined rules and induction loop sensors embedded in the road. According to new research, however, making those lights artificially intelligent may keep traffic flowing faster and smoother.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/",
-      "originalUrl": "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/9f0d40d/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F2d%2Fae%2Fbb55bec34fc69662304187b12097%2Fiosb-ina-traffic-lights-controlled-using-artificial-intelligence-pic-1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/good-thinking/artificially-intelligent-traffic-lights/?amp=true",
-      "publishedDateTime": "2022-02-01T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-crisis-text-line-ends-controversial-relationship-with-for-profit-ai-company.md",
-      "title": "Crisis Text Line ends controversial relationship with for-profit AI company",
-      "excerpt": "Crisis Text Line has ended its controversial relationship with Loris.ai, a for-profit sister company that promises to help companies \"handle their hard customer conversations with empathy. \" The decision followed outrage over a Politico story that detailed how Loris leveraged Crisis Text Line insights and anonymized user data in order to sell companies customer service optimization software,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/crisis-text-line-loris-ai",
-      "originalUrl": "https://mashable.com/article/crisis-text-line-loris-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/04DlU6SZhcOW1a3Ul5pS0bO/hero-image.fill.size_1200x675.v1643742610.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/crisis-text-line-loris-ai?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/crisis-text-line-loris-ai?amp",
-      "publishedDateTime": "2022-02-01T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

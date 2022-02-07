@@ -39,22 +39,6 @@ related:
         width: 4362
         height: 2454
         isCached: true
-  - title: "Emergence of Self-Driving Cars Drives the Growth in Machine Learning Market"
-    excerpt: "An essential component of centralized electronic control unit or ECU of a driverless car, machine learning technological solutions are expected to witness substantial demand in coming years. The solutions in the global machine learning market are anticipated to experience heightened demand owing to their application in self-driving cars."
-    publishedDateTime: 2022-02-02T09:19:00Z
-    webUrl: "https://techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/"
-    ampWebUrl: "https://techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/emergence-of-self-driving-cars-drives-the-growth-in-machine-learning-market/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/02/Machine-Learning-Market.jpeg"
-        width: 1728
-        height: 1094
-        isCached: true
 
 secured: "XzfEV4TR/Hk3aze/7kNCOYWYO1PvR/Lw8t+DVzauXd7w2alKeLlS6qMaoiRhdsfgksagjd3qUR7yorboI0iJYne5O9VEtcXBashEl1M7cVdQXmduMA6gWXt94R1d16gwTb0yLFdaO2lNsUM8br31a45WOTSRirUlDnH+Qaoce/saetg5xjzBzF+4AIzXde4kDDoneAbfx3SbXyPBYcbOQWTjs2XISw66iqvZfqSPQ4QoGapwcFjPPuo7mBjoRab9Pi++JoCTVo7QSy6ejRSCVYbLbIeLS02INctZ9KsCyyu+n0oJZ9/MmWSg8R9/YsXsHpslcCkm9WMUen3roQ8QdkM/h3ae+LwPxYccaoSf+Bc=;5KNu9dwYj+Rc0QaCEpe/CQ=="
 ---

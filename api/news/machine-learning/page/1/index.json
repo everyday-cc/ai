@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -205,6 +205,51 @@
       ]
     },
     {
+      "path": "_news/2022-02-03-transforming-modern-medical-devices-with-machine-learning-ai-inference.md",
+      "title": "Transforming Modern Medical Devices with Machine Learning & AI Inference",
+      "excerpt": "The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive, manufacturing, retail, and logistics, in the form of machine learning (ML) based approaches to tough problems such as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/industry/transforming-modern-medical-devices-machine-learning-ai-inference",
+      "originalUrl": "https://www.designnews.com/industry/transforming-modern-medical-devices-machine-learning-ai-inference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/X1P1_web.jpeg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-balance-your-data-for-machine-learning-with-amazon-sagemaker-data-wrangler.md",
       "title": "Balance your data for machine learning with Amazon SageMaker Data Wrangler",
       "excerpt": "Amazon SageMaker Data Wrangler is a new capability of Amazon SageMaker that makes it faster for data scientists and engineers to prepare data for machine learning (ML) applications by using a visual interface. It contains over 300 built-in data transformations so you can quickly normalize, transform,",
@@ -255,6 +300,49 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-advancing-the-technology-of-ai-assistance-for-anesthesiologists.md",
+      "title": "Advancing the technology of AI assistance for anesthesiologists",
+      "excerpt": "In a special edition of Artificial Intelligence in Medicine ... in which the software's neural networks simultaneously learned how its dosing choices maintain unconsciousness and how to critique ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/anesthesiologists.jpg",
+          "width": 1920,
+          "height": 1348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-advancing-technology-ai-anesthesiologists.amp",
+      "publishedDateTime": "2022-02-02T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1348,94 +1436,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-we-are-indias-1st-telco-to-build-big-data-aiml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.md",
-      "title": "We are India's 1st telco to build Big Data AI/ML Cloud Advanced Analytics Platform on AWS: Vodafone Idea",
-      "excerpt": "The Indian telecom industry has been at the heart of the technology driven disruption over the last decade. With over 986 million active wireless subs..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-89093127,imgsize-41536,width-1200,height-628,overlay-etcio/we-are-india-s-1st-telco-to-build-big-data-ai-ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
-      "publishedDateTime": "2022-01-24T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-we-are-indias-1st-telco-to-build-big-data-aiml-cloud-advanced-analytics-platform-on-aws-vodafone.md",
-      "title": "We are India's 1st telco to build Big Data AI/ML Cloud Advanced Analytics Platform on AWS: Vodafone",
-      "excerpt": "The Indian telecom industry has been at the heart of the technology driven disruption over the last decade. With over 986 million active wireless subscribers, the industry has an opportunity to also drive transformation for businesses across industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.daijiworld.com/index.php/news/newsDisplay?newsID=918763",
-      "originalUrl": "https://www.daijiworld.com/index.php/news/newsDisplay?newsID=918763",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/cfal_sq_071917.jpg",
-          "width": 280,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T02:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daijiworld",
-        "domain": "daijiworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

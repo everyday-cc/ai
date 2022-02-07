@@ -141,6 +141,57 @@
       ]
     },
     {
+      "path": "_news/2022-02-06-under-30-asia-alum-launches-ai-startup-with-funding-from-kai-fu-lees-sinovation-ventures-and-zhenfund.md",
+      "title": "Under 30 Asia Alum Launches AI Startup With Funding From Kai-Fu Lee’s Sinovation Ventures And ZhenFund",
+      "excerpt": "The startup, which also has an office in Beijing, uses cloud-based technology to speed up central processing units and graphics processing units so both can keep up with ever faster AI models, You says. In more technical terms, his high-performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ralphjennings/2022/02/06/under-30-asia-alum-launches-ai-startup-with-funding-from-kai-fu-lees-sinovation-ventures-and-zhenfund/",
+      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2022/02/06/under-30-asia-alum-launches-ai-startup-with-funding-from-kai-fu-lees-sinovation-ventures-and-zhenfund/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61fceda8c11b791fad79be48/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2022/02/06/under-30-asia-alum-launches-ai-startup-with-funding-from-kai-fu-lees-sinovation-ventures-and-zhenfund/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2022/02/06/under-30-asia-alum-launches-ai-startup-with-funding-from-kai-fu-lees-sinovation-ventures-and-zhenfund/amp/",
+      "publishedDateTime": "2022-02-05T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-06-ai-in-retail-has-to-be-semi-automated-heres-why.md",
       "title": "AI in retail has to be semi-automated. Here’s why",
       "excerpt": "The key to the successful deployment of any AI system is to start with a quantified business problem. With this, retailers must foster a data-driven culture where the whole team is engaged in ...",
@@ -547,7 +598,7 @@
       "originalUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -720,7 +771,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/04/strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1151,58 +1202,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-air-force-taps-clearview-ai-to-research-face-identifying-augmented-reality-glasses.md",
-      "title": "Air Force taps Clearview AI to research face-identifying augmented reality glasses.",
-      "excerpt": "By Kashmir Hill The U.S. Air Force is looking into keeping its airfields safer with help from the facial recognition start-up Clearview AI. The Air Force Research Laboratory awarded Clearview $49,847 to research augmented reality glasses that could scan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html",
-      "originalUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/02/03/multimedia/03economy-briefing-clearview/03economy-briefing-clearview-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html",
-      "publishedDateTime": "2022-02-03T17:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],
