@@ -2,6 +2,95 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-01-future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change.md",
+      "title": "Future of Machine Learning: Ways ML and AI Will Drive Innovation & Change",
+      "excerpt": "It’s not a surprise that Artificial Intelligence (AI) and Machine Learning (ML) are two of the top buzzwords in today’s technological world. But, how will the two technologies create innovation and change in the near future?",
+      "sourceUrl": null,
+      "webUrl": "https://customerthink.com/future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change/",
+      "originalUrl": "https://customerthink.com/future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CustomerThink",
+        "domain": "customerthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI in Finance",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-31-autonomous-car-developers-lobby-to-defang-safety-data-regulations.md",
+      "title": "Autonomous car developers lobby to defang safety data regulations",
+      "excerpt": "They collect user data for their own ends, but when it comes to allowing crash data to be used to improve safety, these companies push for less transparency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/autonomous-car-developers-lobby-defang-130037856.html",
+      "originalUrl": "https://www.aol.com/news/autonomous-car-developers-lobby-defang-130037856.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/pZO11xkcYPIQRQKW9S3Yjw--~B/aD00OTk7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/1f2a5350a0516b213da3605401b63478",
+          "width": 840,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-crashing-the-self-driving-party-of-tesla-co.md",
       "title": "Crashing The Self-Driving Party Of Tesla & Co.",
       "excerpt": "Self-driving cars — and their hands-free precursors from the likes of Tesla, Cadillac, Audi, and Ford — may be barreling towards an obstacle that they can all see and can’t avoid: the courtroom.",

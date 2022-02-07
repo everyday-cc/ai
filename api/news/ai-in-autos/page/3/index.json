@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-14-jb-hunt-will-be-waymos-first-self-driving-freight-customer.md",
+      "title": "J.B. Hunt will be Waymo’s first self-driving freight customer",
+      "excerpt": "Waymo Via, the autonomous vehicle company’s trucking and cargo transportation unit, is expanding its existing partnership with logistics company J.B. Hunt Transport Services from a pilot into a long-term strategic alliance.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/",
+      "originalUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Waymo-Via_JBH.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/",
+      "publishedDateTime": "2022-01-14T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-chinas-robotaxis-charged-ahead-in-2021.md",
+      "title": "China’s robotaxis charged ahead in 2021",
+      "excerpt": "Autonomous driving startups in China are in an arms race to put passengers in their machine-driven vehicles. Every few weeks, news arrives that another major player has got the greenlight to launch a new pilot program or a small-scale service.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
+      "originalUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-696723580.jpg?w=1024",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
+      "publishedDateTime": "2022-01-14T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-ai-driven-asset-management-startup-catapulted-to-fame-by-tesla-trades-raises-146m-from-softbank.md",
       "title": "AI-Driven Asset Management Startup, Catapulted To Fame By Tesla Trades, Raises $146M From SoftBank",
       "excerpt": "Artificial intelligence-focused fintech group Qraft Technologies Inc. said it has received a $146 million investment from Japanese conglomerate SoftBank Group Corp. (OTC: SFTBY).",
@@ -1296,93 +1400,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous.md",
-      "title": "New controversy in making? Tesla wants only cameras, AI to go fully autonomous",
-      "excerpt": "Tesla chief Elon Musk has shared that the EV company will make a system based on cameras and artificial intelligence to attain full autonomy in driving.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/01/07/600x338/2021-tesla-model-x_1621055198406_1641538769141.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html",
-      "publishedDateTime": "2022-01-07T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-the-first-model-from-baidus-new-ev-brand-jidu-to-use-the-nvidia-drive-orin-system-on-a-chip-to-support-l4-autonomous-driving.md",
-      "title": "The First Model From Baidu's New EV Brand JiDU to Use the NVIDIA DRIVE Orin System-on-a-Chip to Support L4 Autonomous Driving",
-      "excerpt": "JiDU Automotive, the new electric vehicle venture formed by China’s internet technology giant Baidu Inc and Chinese automaker Geely, will use the powerful NVIDIA DRIVE Orin system-on-a-chip (SoC) in its first model to support L4 autonomous driving capabilities,",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurecar.com/5113/The-First-Model-From-Baidu’s-New-EV-Brand-JiDU-to-Use-the-NVIDIA-DRIVE-Orin-System-on-a-Chip-to-Support-L4-Autonomous-Driving",
-      "originalUrl": "https://www.futurecar.com/5113/The-First-Model-From-Baidu’s-New-EV-Brand-JiDU-to-Use-the-NVIDIA-DRIVE-Orin-System-on-a-Chip-to-Support-L4-Autonomous-Driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.futurecar.com/202201/07/l_61d88307601cb.jpeg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "futurecar",
-        "domain": "futurecar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/edelweiss-general-insur
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/edelweiss-general-insurance-launches-ai-voice-bot-for-automated-motor-claim-registration"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 784
     isCached: true
-
-related:
-  - title: "How AI accelerates insurance claims processing"
-    excerpt: "The immediate aftermath of a vehicular crash is difficult for all parties involved. The drivers have to process trauma and figure out how to get their damaged cars repaired or replaced. Insurance companies have to conduct damage assessments and figure out the most efficient and least expensive route to get the claims resolved."
-    publishedDateTime: 2022-02-02T19:51:00Z
-    webUrl: "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/"
-    ampWebUrl: "https://venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/how-ai-accelerates-insurance-claims-processing/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2012/11/insurance-for-ride-sharing.jpg?w=1200&strip=all"
-        width: 803
-        height: 558
-        isCached: true
 
 secured: "a0LfqkLo7NQVOhdxzDC5aKKkVSIG158W8qI8k9ImqJ66OfXEfIUo418DWqP5QK0yUWq2bS+P+bC8emThS+vdatEfhqkl1cLxlT0sdXf5wqNV+Xd7YV+W2y4OW+OoHAYWdjjupSwiahVvCz5fGYcBavAlt2s/fpC1opTTLk2aZOpVZPRhn+thzjGRKlrQenxqXb8uYs9pOkHtio8Iegh1iS3W8m0bEdGeRhnOc85Y1HZ08mw8w+Po6mG6nuJPKkxfL+yp09/Ojj/4ztmOdfZwZN7JCxacnGIx/QHhuSd4RlaZHHkvvGgHZgtIVWcnD+e7oFpPDSocNO0DW40BvtkVf5VR0aoJlZEQC4N2jPXpa9g=;PI/5VBkCU41K/fj2DwAgnw=="
 ---

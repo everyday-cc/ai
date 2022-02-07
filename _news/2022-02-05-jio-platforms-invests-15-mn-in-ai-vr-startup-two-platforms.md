@@ -24,35 +24,79 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprise AI startup CyborgIntell raises $1.19 mn in pre-Series A round"
-    excerpt: "CyborgIntell, an enterprise AI software company, today announced that it has raised $1.19 million in funding from SenseAI and Pentathlon Ventures, followed with extended additional investments from existing investors and Ghosal Ventures. The current ..."
-    publishedDateTime: 2022-02-03T09:56:00Z
-    webUrl: "https://www.freepressjournal.in/business/enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round"
+  - title: "Reliance’s Jio Platforms Invests In Deep Tech Startup Two Platforms, Betting On The Metaverse"
+    excerpt: "a Silicon Valley-based deep tech startup, according to an announcement on Friday. “We are impressed with the strong experience and capabilities of the founding team at Two in the areas of AI/ML (artificial intelligence/machine learning), AR (artificial ..."
+    publishedDateTime: 2022-02-07T11:27:00Z
+    webUrl: "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/"
+    ampWebUrl: "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 61
     images:
-      - url: "https://images.assettype.com/freepressjournal/2019-12/2c483a89-9b9a-4d3e-aa69-b584f80ec770/US_Dollar.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62010289dd838e4b38b672f2/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
-        height: 676
+        height: 803
         isCached: true
-  - title: "AI-Powered Digital Skills Assessment Start-up iMocha Raises $14 Million in Series A Funding"
-    excerpt: "PUNE, India, Jan. 27, 2022 /PRNewswire/ -- AI-powered digital skills assessment ... institutional raise by the profitable bootstrapped start-up, iMocha operates out of India and the US."
-    publishedDateTime: 2022-02-04T18:35:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1234196&cat=PR News Wire"
+  - title: "Jio Platforms Invests $15 Million In Silicon Valley Start-Up TWO"
+    excerpt: "TWO is a Silicon Valley-based tech start-up founded by Pranav Mistry. TWO -- an Artificial Reality (AR) company -- said it believes the next chapter of Artificial Intelligence (AI) is visual and interactive. The AR platform enables real-time AI voice and ..."
+    publishedDateTime: 2022-02-04T12:43:00Z
+    webUrl: "https://www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346"
+    ampWebUrl: "https://www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346/amp/1"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 27
+      name: NDTV
+      domain: ndtv.com
+    quality: 42
     images:
-      - url: "https://mma.prnewswire.com/media/1735254/AI_Powered_Digital_Skills_Assessment.jpg"
-        width: 400
-        height: 225
+      - url: "https://c.ndtvimg.com/2019-12/9hua9ik8_jio_650x400_04_December_19.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
+    excerpt: "The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences. Notably, TWO's Artificial Reality platform enables real-time AI ..."
+    publishedDateTime: 2022-02-04T14:45:00Z
+    webUrl: "https://menafn.com/1103642231/Jio-Platforms-invests-15-mn-in-AI-VR-startup-Two-Platforms"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?150158"
+        width: 432
+        height: 250
+        isCached: true
+  - title: "Jio Platforms takes stake in AI start-up"
+    excerpt: "Jio Platforms invested $15 million to take a 25 per cent stake in US-based technology start-up Two Platforms, plotting joint development of products featuring technologies including AI, AR and mixed reality. Akash Ambani, director of Jio Platforms ..."
+    publishedDateTime: 2022-02-07T08:25:00Z
+    webUrl: "https://www.mobileworldlive.com/asia/asia-news/jio-platforms-takes-stake-in-ai-start-up"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 37
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/10/Jio_India-e1588588149242.jpg"
+        width: 600
+        height: 375
+        isCached: true
+  - title: "Reliance Buys Stake In Silicon Valley Startup Two Platforms"
+    excerpt: "The startup is founded by Pranav Mistry, former chief executive officer and president of Samsung Technology and Advanced Research. “TWO are excited to partner with Jio to push the boundaries of AI and introduce applications of Artificial Reality to ..."
+    publishedDateTime: 2022-02-04T14:56:00Z
+    webUrl: "https://www.bloombergquint.com/business/reliance-buys-stake-in-silicon-valley-startup-two-platforms"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 22
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2022-02%2F0571cc1d-b393-454c-80ba-518960938df6%2F355638075.jpg?rect=0%2C0%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "yYpA4cWj+zeB9Q3ekyg7wnX3EYv9rhiN2NF60BTEVUOk/3K9aNlPYensOFFjJGglPzyBG7bag1Di9SSoLMM6JBs4uo5+26ifgopP1XpT/3LScc8LiyOXRc55bVUaJLYK/H6GHEhsJCgnfPEWdWb5+DZgEQMapPvkQITkaEhwvySouU1rWDvPTuABV2dQBIVxpbdj2r9mRj/lgxPaOR6hYwF6OVfaHl4vjK0vX0bNlJtMj+9BTL5oQQGUybfeVKGqx4LNvjUyJrKHasq8+/AcQHKNP/UavO0T5hhALbWbu5J2mfnY+Jgq0Y5aw4EuHlyqxL//c9OIWdA40CrB5oZHcb8SdYMJE+cRnzUoWisrX6Q=;8JbNqczTEwIyu9tvVcktVA=="

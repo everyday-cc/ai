@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How Emerging Fintech Markets are catching up to the Western World"
-    excerpt: "By Paul Marcantonio, Executive Director UK & Western Europe at ECOMMPAY For the longest time, the West has been ahead of other markets in terms of financial technologies. Everyone knows Silicon Valley,"
-    publishedDateTime: 2022-02-02T20:56:00Z
-    webUrl: "https://www.globalbankingandfinance.com/how-emerging-fintech-markets-are-catching-up-to-the-western-world/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/how-emerging-fintech-markets-are-catching-up-to-the-western-world/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-emerging-fintech-markets-are-catching-up-to-the-western-world/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 44
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/02/iStock-852000540.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "5 innovative Belgian fintech companies to watch"
     excerpt: "AI, automation and big data analytics are key themes for Belgian fintech, as innovative companies look to solve common problems in the financial services sector. Fintech is, broadly, technology that is applied to financial services or the management of ..."
     publishedDateTime: 2022-02-07T07:03:00Z

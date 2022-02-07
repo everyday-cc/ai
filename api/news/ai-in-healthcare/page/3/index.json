@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-28-ai-may-cure-the-ills-in-healthcare-tech.md",
+      "title": "AI May Cure The Ills In Healthcare Tech",
+      "excerpt": "As our healthcare system struggles toward a model in which consumers are at the center of the equation, technology is playing a rapidly increasing role in smoothing their way through the ecosystem. Consumers are demanding a better healthcare experience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c9c58c405c5f1f7b90a849%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/ai-may-cure-the-ills-in-healthcare-tech/amp/",
+      "publishedDateTime": "2021-12-28T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-chinese-tech-company-baidu-says-artificial-intelligence-is-entering-a-golden-age-on-the-mainland.md",
       "title": "Chinese tech company Baidu says artificial intelligence is entering a ‘golden age’ on the mainland",
       "excerpt": "The company tells its annual developers’ conference, Baidu Create, that an expanding pool of talent is contributing to China’s AI development, with innovations in transportation, health care and space exploration.",

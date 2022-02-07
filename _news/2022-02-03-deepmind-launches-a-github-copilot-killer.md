@@ -145,6 +145,20 @@ related:
         width: 1200
         height: 901
         isCached: true
+  - title: "How to get a job at DeepMind, Google's pioneering artificial intelligence division, according to 4 of its research and talent leads"
+    excerpt: "DeepMind is Google's London-headquartered artificial intelligence research unit. Its groundbreaking research includes an AI program that predicts a protein's structure. Insider asked four of DeepMind's talent and research leads what it takes to win a job ..."
+    publishedDateTime: 2022-02-07T12:40:00Z
+    webUrl: "https://www.businessinsider.com/how-to-get-a-job-at-deepmind-google-ai-lab-2022-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://i.insider.com/61fb173f75a1f5001890a666?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google DeepMind’s AlphaCode system beats thousands of human experts in coding contest"
     excerpt: "The AlphaCode system, created by Google’s AI subsidiary DeepMind, ranked in the top 54 per cent of competitors after going up against 5,000 human software engineers. Oriol Vinyals, a research scientist at DeepMind, said that the milestone brought Google ..."
     publishedDateTime: 2022-02-03T12:33:00Z

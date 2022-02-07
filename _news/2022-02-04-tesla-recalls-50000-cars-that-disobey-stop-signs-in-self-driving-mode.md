@@ -59,22 +59,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Hilariously Poor Tesla Full Self Driving Performance In Boston Highlights Its Weaknesses"
-    excerpt: "Tesla seems to be in the news every single week for one reason or another. Sometimes it’s because they build products that are shockingly fast and other times it’s because they build products that are missing brake pads."
-    publishedDateTime: 2022-02-02T21:01:00Z
-    webUrl: "https://www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/"
-    ampWebUrl: "https://www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 65
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/02/Tesla.gif"
-        width: 800
-        height: 450
-        isCached: true
   - title: "We took a ‘self-driving’ Tesla for a spin in Boston. Here’s how it did."
     excerpt: "For all the wrong reasons. It all started with a tweet from a Boston driver named Taylor Ogan. He drove his Black Tesla Model Y on self-driving mode around South Boston, showing in a video how it fails to navigate city streets properly. This was ..."
     publishedDateTime: 2022-02-03T16:01:00Z

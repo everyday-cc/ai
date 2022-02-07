@@ -2,6 +2,83 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-01-12-nuro-announces-3rd-gen-driverless-delivery-vehicle.md",
+      "title": "Nuro announces 3rd-gen driverless delivery vehicle",
+      "excerpt": "The cute little Nuro pod gets a big cargo upgrade and new sensors. Remember Nuro? You know, they make the cute little driverless delivery pods and they've partnered with companies like Kroger, FedEx,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/",
+      "originalUrl": "https://www.msn.com/en-us/lifestyle/shopping/nuro-announces-3rd-gen-driverless-delivery-vehicle/ar-AASHHCc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/SGxZeFDiIQh6cIx9DHeuWGlgWwc=/2022/01/11/c0fbe27d-6be4-4702-aca0-7637dc5ebaed/nuro-family-groceries.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nuro-third-generation-driverless-delivery-pod/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-third-generation-driverless-delivery-pod/",
+      "publishedDateTime": "2022-01-12T06:00:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/",
+        "domain": "cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-agendia-to-provide-first-digital-mammaprint-capability-to-brazil.md",
+      "title": "Agendia to Provide First Digital MammaPrint Capability to Brazil",
+      "excerpt": "AI solution will expand Agendia's testing platform in the Brazilian breast cancer market Digital MammaPrint offers fast turnaround time to molecular diagnostics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/b25018571/agendia-to-provide-first-digital-mammaprint-capability-to-brazil",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/b25018571/agendia-to-provide-first-digital-mammaprint-capability-to-brazil",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25018571",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25018571",
+      "publishedDateTime": "2022-01-12T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-seekout-will-expand-ai-powered-recruitment-tools-with-new-125m.md",
       "title": "SeekOut will expand AI-powered recruitment tools with new $125M",
       "excerpt": "SeekOut, an AI-powered recruitment platform, has raised $125 million in funding to expand its software platform.",
@@ -1040,101 +1117,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-dmv-revisiting-its-approach-to-regulating-teslas-public-self-driving-test.md",
-      "title": "DMV ‘revisiting’ its approach to regulating Tesla’s public self-driving test",
-      "excerpt": "But confronted with dozens of viral videos showing Tesla’s Full Self-Driving beta technology driving the car into dangerous situations, and a letter of concern from a key state legislator ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job",
-      "originalUrl": "https://www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/fb379c5/2147483647/strip/true/crop/3924x2624+6+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F59%2Fd3%2F70020613444dad0286aa7055aa14%2Fla-photos-1staff-20190912-sacramentopol-robertgourley-940.jpg",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-01-11/dmv-message-to-legislatures-ontesla-full-self-driving-safety-its-not-our-job?_amp=true",
-      "publishedDateTime": "2022-01-11T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-basic-classification-classify-images-of-clothing.md",
-      "title": "Basic classification: Classify images of clothing",
-      "excerpt": "This guide trains a neural network model to classify images of clothing, like sneakers and shirts. It's okay if you don't understand all the details; this is a fast-paced overview of a complete TensorFlow program with the details explained as you go.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/keras/classification?hl=fi",
-      "originalUrl": "https://www.tensorflow.org/tutorials/keras/classification?hl=fi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=fi",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-26-volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla.md",
+      "title": "Volkswagen, Bosch team up on self-driving software to test Tesla",
+      "excerpt": "The platform, announced by VW’s Cariad software unit and Bosch on Tuesday, will serve all Volkswagen Group passenger vehicles before being opened to the wider industry. As a first step, the partners plan to roll out technology from next year that will allow drivers to temporarily take their hands off the steering wheel via an over-the-air update.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla-11643127103318.html",
+      "originalUrl": "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla-11643127103318.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/01/25/600x338/VOLKSWAGEN_1639226711911_1643127262293.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla/amp-11643127103318.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/volkswagen-bosch-team-up-on-self-driving-software-to-test-tesla/amp-11643127103318.html",
+      "publishedDateTime": "2022-01-25T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-mercedes-sees-luminar-eyes-in-its-self-driving-cars.md",
       "title": "Mercedes sees Luminar eyes in its self-driving cars",
       "excerpt": "Mercedes-Benz has taken a major step forward in its efforts to produce self-driving cars, partnering with Luminar to include the latter’s Iris lidar technology in Mercedes-Benz vehicles. The",
@@ -1042,6 +1085,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-17-neurala-with-more-cash-advances-ai-for-drones-self-driving-cars.md",
+      "title": "Neurala, With More Cash, Advances A.I. for Drones, Self-Driving Cars",
+      "excerpt": "Artificial intelligence software firm Neurala cut its ... For example, Google’s experimental self-driving vehicles (now spun off as Waymo) handle at least some of the processing of their ...",
+      "sourceUrl": null,
+      "webUrl": "https://xconomy.com/boston/2017/01/17/neurala-with-more-cash-advances-a-i-for-drones-self-driving-cars/",
+      "originalUrl": "https://xconomy.com/boston/2017/01/17/neurala-with-more-cash-advances-a-i-for-drones-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.xconomy.com/wordpress/wp-content/images/2016/12/06160304/Neurala-e1484428109959.jpg",
+          "width": 1480,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-16T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Xconomy",
+        "domain": "xconomy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-17-exploring-ai-ethics-and-accountability.md",
       "title": "Exploring AI ethics and accountability",
       "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
@@ -1299,110 +1385,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-jb-hunt-will-be-waymos-first-self-driving-freight-customer.md",
-      "title": "J.B. Hunt will be Waymo’s first self-driving freight customer",
-      "excerpt": "Waymo Via, the autonomous vehicle company’s trucking and cargo transportation unit, is expanding its existing partnership with logistics company J.B. Hunt Transport Services from a pilot into a long-term strategic alliance.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/",
-      "originalUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Waymo-Via_JBH.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/",
-      "publishedDateTime": "2022-01-14T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-chinas-robotaxis-charged-ahead-in-2021.md",
-      "title": "China’s robotaxis charged ahead in 2021",
-      "excerpt": "Autonomous driving startups in China are in an arms race to put passengers in their machine-driven vehicles. Every few weeks, news arrives that another major player has got the greenlight to launch a new pilot program or a small-scale service.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
-      "originalUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-696723580.jpg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
-      "publishedDateTime": "2022-01-14T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

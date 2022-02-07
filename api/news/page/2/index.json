@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-04-singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics.md",
+      "title": "Singapore releases software toolkit to guide financial sector on AI ethics",
+      "excerpt": "The Monetary Authority of Singapore (MAS) said the documents detailed methodologies for incorporating the FEAT principles--of Fairness, Ethics, Accountability, and Transparency--into the use of AI within the financial services sector. The whitepapers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
+      "publishedDateTime": "2022-02-04T03:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-most-read-articles-eus-chips-act-honeybee-robotics-5g.md",
       "title": "Most Read articles – EU’s Chips Act, Honeybee Robotics, 5G",
       "excerpt": "Blue Origin buying Honeybee Robotics and the EU’s Chips Act… 5. NEC buys Blue Danube NEC has bought Blue Danube Systems, a U.S.-based provider of CBRS/4G/5G RAN products and AI/ML-based software solutions that help mobile operators address 5G network ...",
@@ -158,7 +201,7 @@
       "originalUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -498,7 +541,7 @@
       "originalUrl": "https://www.businessinsider.com/fintech-ecosystem-report",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -956,7 +999,7 @@
       "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1039,48 +1082,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round.md",
-      "title": "Enterprise AI startup CyborgIntell raises $1.19 mn in pre-Series A round",
-      "excerpt": "CyborgIntell, an enterprise AI software company, today announced that it has raised $1.19 million in funding from SenseAI and Pentathlon Ventures, followed with extended additional investments from existing investors and Ghosal Ventures. The current ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round",
-      "originalUrl": "https://www.freepressjournal.in/business/enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2019-12/2c483a89-9b9a-4d3e-aa69-b584f80ec770/US_Dollar.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/enterprise-ai-startup-cyborgintell-raises-119-mn-in-pre-series-a-round",
-      "publishedDateTime": "2022-02-03T01:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },

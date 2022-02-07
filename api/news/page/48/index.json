@@ -2,6 +2,92 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-12-22-dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january.md",
+      "title": "DeWitt Township police will have access to facial recognition software starting in January",
+      "excerpt": "The DeWitt Township Police Department signed an agreement with the Michigan State Police to use their SNAP facial recognition software, which is meant to help officers identify suspects and crime victims while in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january",
+      "originalUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/d9b/ea660b0be0634bafb4e6d8a0650cafd3/d9bf8296f47a4d2c87aba01c863fcc61/poster_0bf92dea6b6a425a80199eb2aaeefce4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january?_amp=true",
+      "cdnAmpWebUrl": "https://www-fox47news-com.cdn.ampproject.org/c/s/www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january?_amp=true",
+      "publishedDateTime": "2021-12-22T05:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSYM-TV",
+        "domain": "fox47news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-ethics-at-the-heart-of-emerging-ai-strategies.md",
+      "title": "Ethics at the heart of emerging AI strategies",
+      "excerpt": "But there remain concerns around the rapid spread of AI, and there is an increasing focus on the ethics surrounding the technology.  While AI is forecast to deliver as much as a 10% boost to the UK economy over the next decade,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/ehandbook/Ethics-at-the-heart-of-emerging-AI-strategies",
+      "originalUrl": "https://www.computerweekly.com/ehandbook/Ethics-at-the-heart-of-emerging-AI-strategies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/Cover_Ethic_at_the_heart_of_emerging_AI_strategies.png",
+          "width": 883,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-the-global-image-recognition-market-stood-at-usd27764-billion-in-2020-and-is-growing-with-a-cagr-of-1759-to-reach-usd73344-billion-by-2026.md",
       "title": "The global image recognition market stood at USD27.764 billion in 2020 and is growing with a CAGR of 17.59% to reach USD73.344 billion by 2026",
       "excerpt": "Reportlinker.com announces the release of the report \"Global Image Recognition Market, By Component, By Technology,",
@@ -976,92 +1062,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-dtiqtm-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications.md",
-      "title": "DTiQtm Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications",
-      "excerpt": "DTiQtm, the world's leading provider of next-generation video intelligence, analytics, and managed video services for restaurants, convenience stores, and specialty retailers selects computer vision platform leader,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20166084.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20166084.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T11:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications.md",
-      "title": "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications",
-      "excerpt": "DTiQ™, the world's leading provider of next-generation video intelligence, analytics, and managed video services for restaurants, convenience stores, and specialty retailers selects computer",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/e5/4e5c49bb-1b34-5a68-9555-23d41196e8df/61c0e1244c993.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

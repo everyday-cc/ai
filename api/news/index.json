@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-07-the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up.md",
+      "title": "The Road To Maturity: Why It’s Finally Time For AI In CX To Grow Up",
+      "excerpt": "And we’ve seen some progress — from dial menus to interactive voice response solutions (IVRs) and AI-powered voice assistants. However, customer service today remains one of the most annoying automation applications when companies don’t implement it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/02/07/the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/02/07/the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/611c2798b4d111f994e1f282/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/02/07/the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/02/07/the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up/amp/",
+      "publishedDateTime": "2022-02-07T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-07-reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse.md",
+      "title": "Reliance’s Jio Platforms Invests In Deep Tech Startup Two Platforms, Betting On The Metaverse",
+      "excerpt": "a Silicon Valley-based deep tech startup, according to an announcement on Friday. “We are impressed with the strong experience and capabilities of the founding team at Two in the areas of AI/ML (artificial intelligence/machine learning), AR (artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/",
+      "originalUrl": "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62010289dd838e4b38b672f2/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/",
+      "publishedDateTime": "2022-02-07T03:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-microsoft-azure-data-scientist-associate-certification-guide.md",
       "title": "Microsoft Azure Data Scientist Associate certification guide",
       "excerpt": "... for individuals who have expertise in applying data science and machine learning to implement and run machine learning workloads on Azure. The certification requires passing the Designing and Implementing a Data Science Solution on Azure certification ...",
@@ -140,7 +242,7 @@
       "originalUrl": "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -634,48 +736,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-05-jio-platforms-invests-15-mn-in-pranav-mistrys-ai-firm-two-platforms-inc.md",
-      "title": "Jio Platforms invests $15 mn in Pranav Mistry's AI firm Two Platforms Inc",
-      "excerpt": "Two Platforms will work collaboratively with Jio Platforms to fast-track the adoption of new technologies and build disruptive technologies such as AI, metaverse, and mixed realities",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc-11643976301683.html",
-      "originalUrl": "https://www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc-11643976301683.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/02/04/600x338/Jio_1568175568621_1643976769228.jpg",
-          "width": 599,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc/amp-11643976301683.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc/amp-11643976301683.html",
-      "publishedDateTime": "2022-02-05T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-05-ai-weiwei-helped-design-beijings-olympic-stadium-but-he-regrets-how-its-being-used-today.md",
       "title": "Ai Weiwei helped design Beijing's Olympic stadium. But he regrets how it's being used today",
       "excerpt": "Christiane Amanpour's interview with Ai Weiwei airs Friday 1pm ET ... in both the Olympic Charter and the organization's code of ethics. \"Given the diverse participation in the Olympic Games ...",
@@ -1148,49 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics.md",
-      "title": "Singapore releases software toolkit to guide financial sector on AI ethics",
-      "excerpt": "The Monetary Authority of Singapore (MAS) said the documents detailed methodologies for incorporating the FEAT principles--of Fairness, Ethics, Accountability, and Transparency--into the use of AI within the financial services sector. The whitepapers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
-      "publishedDateTime": "2022-02-04T03:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

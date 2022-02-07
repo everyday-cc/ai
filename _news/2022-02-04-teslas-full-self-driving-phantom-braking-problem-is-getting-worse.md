@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/tesla-fsd-phantom-braking?amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://i.ytimg.com/vi/dtTtANwfvfg/hqdefault.jpg"
         width: 480
         height: 360
-        isCached: true
-  - title: "Hilariously Poor Tesla Full Self Driving Performance In Boston Highlights Its Weaknesses"
-    excerpt: "Tesla seems to be in the news every single week for one reason or another. Sometimes it’s because they build products that are shockingly fast and other times it’s because they build products that are missing brake pads."
-    publishedDateTime: 2022-02-02T21:01:00Z
-    webUrl: "https://www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/"
-    ampWebUrl: "https://www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/hilariously-poor-tesla-full-self-driving-performance-in-boston-highlights-its-weaknesses/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 65
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/02/Tesla.gif"
-        width: 800
-        height: 450
         isCached: true
   - title: "Tesla recalls 50,000 cars that disobey stop signs in self-driving mode"
     excerpt: "Tesla is recalling more than 50,000 cars in the US because the AI behind its self-driving feature acted too aggressively, rolling past stop signs rather than coming fully to a halt as required by law in many states. The company’s “Full Self-Driving ..."

@@ -26,37 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Jio Platforms invests $15 mn in Pranav Mistry's AI firm Two Platforms Inc"
-    excerpt: "Two Platforms will work collaboratively with Jio Platforms to fast-track the adoption of new technologies and build disruptive technologies such as AI, metaverse, and mixed realities"
-    publishedDateTime: 2022-02-05T12:16:00Z
-    webUrl: "https://www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc-11643976301683.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc/amp-11643976301683.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/jio-platforms-invests-15-mn-in-pranav-mistry-s-ai-firm-two-platforms-inc/amp-11643976301683.html"
+  - title: "Reliance’s Jio Platforms Invests In Deep Tech Startup Two Platforms, Betting On The Metaverse"
+    excerpt: "a Silicon Valley-based deep tech startup, according to an announcement on Friday. “We are impressed with the strong experience and capabilities of the founding team at Two in the areas of AI/ML (artificial intelligence/machine learning), AR (artificial ..."
+    publishedDateTime: 2022-02-07T11:27:00Z
+    webUrl: "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/"
+    ampWebUrl: "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 61
     images:
-      - url: "https://images.livemint.com/img/2022/02/04/600x338/Jio_1568175568621_1643976769228.jpg"
-        width: 599
-        height: 338
-        isCached: true
-  - title: "Jio Backs Ex-Samsung Chief Pranav Mistry’s AI Firm To Build Metaverse, Web3 Capabilities"
-    excerpt: "Only last month, Jio’s sister company Reliance Retail invested in robotics startup Adverbb Technologies and quick commerce startup Dunzo Its latest bet, TWO is an AR company that enables real ..."
-    publishedDateTime: 2022-02-04T13:07:00Z
-    webUrl: "https://inc42.com/buzz/jio-backs-ex-samsung-chief-pranav-mistrys-ai-firm-to-build-metaverse-web3-capabilities/"
-    ampWebUrl: "https://inc42.com/buzz/jio-backs-ex-samsung-chief-pranav-mistrys-ai-firm-to-build-metaverse-web3-capabilities/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/jio-backs-ex-samsung-chief-pranav-mistrys-ai-firm-to-build-metaverse-web3-capabilities/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 50
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/02/pranav-mistry-social.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62010289dd838e4b38b672f2/0x0.jpg?format=jpg&width=1200&fit=bounds"
         width: 1200
-        height: 628
+        height: 803
         isCached: true
   - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
     excerpt: "The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences. Notably, TWO's Artificial Reality platform enables real-time AI ..."
@@ -72,6 +56,20 @@ related:
         width: 432
         height: 250
         isCached: true
+  - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
+    excerpt: "Jio Platforms announced on Friday that it has invested $15 million in Two Platforms (TWO) for a 25 per cent equity stake. The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences."
+    publishedDateTime: 2022-02-05T07:11:00Z
+    webUrl: "https://www.suryaa.com/117077-jio-platforms-invests-15-mn-in-ai-vr-startup-two-platforms.html"
+    type: article
+    provider:
+      name: Suryaa
+      domain: suryaa.com
+    quality: 37
+    images:
+      - url: "  \n\n\n\n                                    https://www.suryaa.com/suryaa-images/englishnews/bigimage/9_7245.jpg\n\n\n    "
+        width: 500
+        height: 305
+        isCached: true
   - title: "Jio Platforms takes stake in AI start-up"
     excerpt: "Jio Platforms invested $15 million to take a 25 per cent stake in US-based technology start-up Two Platforms, plotting joint development of products featuring technologies including AI, AR and mixed reality. Akash Ambani, director of Jio Platforms ..."
     publishedDateTime: 2022-02-07T08:25:00Z
@@ -85,6 +83,20 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/10/Jio_India-e1588588149242.jpg"
         width: 600
         height: 375
+        isCached: true
+  - title: "Reliance Buys Stake In Silicon Valley Startup Two Platforms"
+    excerpt: "The startup is founded by Pranav Mistry, former chief executive officer and president of Samsung Technology and Advanced Research. “TWO are excited to partner with Jio to push the boundaries of AI and introduce applications of Artificial Reality to ..."
+    publishedDateTime: 2022-02-04T14:56:00Z
+    webUrl: "https://www.bloombergquint.com/business/reliance-buys-stake-in-silicon-valley-startup-two-platforms"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 22
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2022-02%2F0571cc1d-b393-454c-80ba-518960938df6%2F355638075.jpg?rect=0%2C0%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "FAb9kCan9nx8KSX1MokSiXGs58IUD2y11unOBPC+cKatGnanqCc4zLGmbUX+tf7QziLovMqXKKfyAqo1sFHsZoNmiLSq5L9N7M7c//4e1YKbH899eYb0BPe+ooQ9HEBU3UYJp274fRl16RQVSt/b/XcsQKMrTihQuFxDZF9ouGFls2qZxgF6wNvlLDdb95ycpIRVYPZWRU7Ccp8Q8DHFbcmI1UFBsHlAxDFMjL7sB0BQg1293MBFRjJx7gANZb05l74KEhnVIfRTq6bYmoKfLYeTBKsbzruTaE9kw7fthpfMtIPt+FUHLoBl5eHSafKsq098MgcXsK514cfnN83UQbdKmYxBS69gM6wofgHPJs0=;IL8TY+ssa5x1s4oNd+mqwQ=="

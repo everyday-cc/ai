@@ -2,6 +2,93 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-01-10-gulf-uniquely-placed-for-ai-innovation-as-50-of-data-workers-now-automate-manual-tasks.md",
+      "title": "Gulf uniquely placed for AI innovation as 50% of data workers now automate manual tasks",
+      "excerpt": "Despite strong progress, research shows that Gulf businesses struggle to unlock the value of AI innovation due to inconsistent staff training",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/Gulf_uniquely_placed_for_AI_innovation_as_50_of_data_workers_now_automate_manual_tasks-ZAWYA20220110094114/",
+      "originalUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/Gulf_uniquely_placed_for_AI_innovation_as_50_of_data_workers_now_automate_manual_tasks-ZAWYA20220110094114/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/pr/images/2022/FPR_2755_2022_01_10.jpg",
+          "width": 450,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20220110094114/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20220110094114/",
+      "publishedDateTime": "2022-01-10T01:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-tesla-and-nvidia-are-picked-for-big-gains-by-this-robot-trader-its-been-right-before.md",
+      "title": "Tesla and Nvidia Are Picked for Big Gains by This Robot Trader. It’s Been Right Before.",
+      "excerpt": "This artificial intelligence-powered ETF ditched Netflix, Merck, and three other familiar stocks this month. Here's what it bought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
+      "originalUrl": "https://www.barrons.com/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-68043/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
+      "publishedDateTime": "2022-01-10T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-changing-face-of-health-and-healthcare.md",
       "title": "Changing face of health and healthcare",
       "excerpt": "Foundation highlights the various aspects which will be crucial during and after the pandemic The onset of the COVID-19 pandemic saw the medical fraternity, technology innovators, manufacturers, regulators,",
@@ -1050,110 +1137,6 @@
         "IBM AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-09-the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need.md",
-      "title": "The Nvidia RTX 3090 Ti is the GPU we all want – but it’s the RTX 3050 that we need",
-      "excerpt": "As soon as Nvidia announced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards, a slew of powerful new gaming laptops was announced by all the big names. If Nvidia can deliver on its promises, it looks like 2022 is going to be a great year for gaming on a laptop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need",
-      "originalUrl": "https://www.techradar.com/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/gkrPzGSC3Yn9zTUAUvmGRe-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need",
-      "publishedDateTime": "2022-01-08T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-nvidia-pursuing-multi-chip-module-architecture-to-meet-evolving-data-needs.md",
-      "title": "Nvidia pursuing multi chip module architecture to meet evolving data needs",
-      "excerpt": "Graphics processing units (GPUs) have become one of the primary resources supporting DL due to their inherent capabilities and optimizations. The COPA-GPU is based on the",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/92906-nvidia-pursuing-multi-chip-module-architecture-meet-evolving.html",
-      "originalUrl": "https://www.techspot.com/news/92906-nvidia-pursuing-multi-chip-module-architecture-meet-evolving.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-08-image-4.jpg",
-          "width": 1940,
-          "height": 1092,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/92906-nvidia-pursuing-multi-chip-module-architecture-meet-evolving.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92906-nvidia-pursuing-multi-chip-module-architecture-meet-evolving.html",
-      "publishedDateTime": "2022-01-08T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

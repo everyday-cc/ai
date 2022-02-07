@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
-    excerpt: "Jio Platforms announced on Friday that it has invested $15 million in Two Platforms (TWO) for a 25 per cent equity stake. The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences."
-    publishedDateTime: 2022-02-05T07:11:00Z
-    webUrl: "https://www.suryaa.com/117077-jio-platforms-invests-15-mn-in-ai-vr-startup-two-platforms.html"
-    type: article
-    provider:
-      name: Suryaa
-      domain: suryaa.com
-    quality: 37
-    images:
-      - url: "  \n\n\n\n                                    https://www.suryaa.com/suryaa-images/englishnews/bigimage/9_7245.jpg\n\n\n    "
-        width: 500
-        height: 305
-        isCached: true
 
 secured: "/5btOibS7+JWCrClC9dbt4gYW4LkDVonnqJBm4BKrLtOgQG4t8xk4zVYWu6lcEX1BUii4R5vQX7Plb3Dkvyb4noTPTTFF9sNRWzsAjUkx9sSrIWFibNZt4WfzQP5dhn2ClA3YgEDEAiMkbs3xSmvnpzjb390Bi+m3rkB4+cfXjRQ4hoXsKecIoQ7Gv8qYTkkEOtUunXj+Q9gq8BGATXuaoaZ/JdaO8SyIKtD7iKI0aigjWFkoIVd8mVLAdsPcjlBpRlyWwUG33Qw7JZO6sY1hprzBlsC5FYLj4O4DMadyBtuKWP1aRHWb5WJPcS1oLq+AaHUWt8LLjWcJCnBnrpoyF3TWKhPjTgQD1xcvlt2k8pPtkZdbNLhxilgH4xpu4O2J9BEq2xPFFNdskL7wi5mcEDsGs2P5bNIxxas8EwdJSCCBEhwZaEtPf6oRsSsHSOMITlecnOhUk0cnVNIlS3Pwon7yIxtk4Ek5Wb7nBK7RbtQe5VhQf/QXCVb0m9z590npP2FB1CBhyQewPjXJMVuyw==;n2VglV4OBEw9Aa+bx1ln+Q=="
 ---

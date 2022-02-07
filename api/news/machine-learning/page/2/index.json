@@ -311,15 +311,15 @@
       "title": "IoT Pioneer Ayla Networks Builds Machine Learning Business Targetting Internet Service Providers",
       "excerpt": "Advanced analytics – including the use of machine learning and ... healthcare and financial services. The market's use of AI can be traced back to its roots building self-learning and self ...",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers",
-      "originalUrl": "https://www.infoworld.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers",
+      "webUrl": "https://www.csoonline.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers",
+      "originalUrl": "https://www.csoonline.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "url": "https://idge.staticworld.net/cso/CSO_logo_300x300.png",
           "width": 300,
           "height": 300,
           "title": null,
@@ -334,18 +334,9 @@
       "publishedDateTime": "2022-01-21T07:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
