@@ -1,0 +1,61 @@
+---
+category: news
+title: "African tech start-up funding skyrockets, with fintech a big winner"
+excerpt: "Africa’s tech start-ups are thriving. In 2021, more African tech start-ups raised more money from more investors than ever before, with fintech companies — including several based in Nigeria — heavily represented among the big winners. According to ..."
+publishedDateTime: 2022-02-07T03:08:00Z
+originalUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html"
+webUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html"
+ampWebUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html/amp"
+cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html/amp"
+type: article
+quality: 44
+heat: 44
+published: false
+
+provider:
+  name: CIO
+  domain: cio.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://www.cio.com/wp-content/uploads/2022/02/nigerian-nairas-stacked-bills_african-currency_bank-notes_by-ppart-gettyimages-613034832-100849675-orig.jpg?quality=50&strip=all&w=1024"
+    width: 1024
+    height: 682
+    isCached: true
+
+related:
+  - title: "GC Mark Paterson helps Tenet Fintech Group in North American expansion plan"
+    excerpt: "As the newly-hired general counsel at Tenet Fintech Group, Mark Paterson is helping the fintech and AI services provider to expand its North American operations. Tenet previously relied on external counsel to manage all legal matters, so Paterson is ..."
+    publishedDateTime: 2022-02-03T05:17:00Z
+    webUrl: "https://www.canadianlawyermag.com/inhouse/news/general/gc-mark-paterson-helps-tenet-fintech-group-in-north-american-expansion-plan/363678"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 22
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0394_637794618269667456.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Knowledge Innovations, Ghana Fintech and Payments Association to host webinar on FinTech innovations in Africa"
+    excerpt: "The FinTech and Innovations focused event would bring together ... especially in machine learning and artificial intelligence (AI), lack of sustained intercontinental collaborations, and challenging business environment. The upcoming webinar is however ..."
+    publishedDateTime: 2022-02-02T16:13:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Knowledge-Innovations-Ghana-Fintech-and-Payments-Association-to-host-webinar-on-FinTech-innovations-in-Africa-1459822"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 4
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/730/73089117.jpg"
+        width: 600
+        height: 601
+        isCached: true
+
+secured: "PpBautUO+b5APm8vGuPKAgDVbzXH9Syc4YVkRFMI8CxW6vt6FtpNPASUjKum8OV6mNcrZ4jwZrCaZioTjbKVH1ixV31VLdlj0mcPj6E3j+82C1j3Ym7cuoB8hMnYT6R/8mpTN81+/rn77BmvMEC67Qu3vktkx8Ij3lsZeCJ+fwdd3H/MTHw/4Bqgh1rIMv0GBwfhLcSkO1cDx/E27QoEFxQZ8uuPyD+BRbm4KvP9kt7i1gpPKzLiHVttWDeXHLMlbmtdrIZuIP1JKz7rQ3o+1JRrcY+REjF9R7VYs/Mgc3vV6TkUoPFTXfL3NxqHFEQzb1FX6qZuAAlH4kXPoPFpRu97DQ2XjFUjom+ovf2/lQ4=;IvTEo13w2rCPo37VZbMWLw=="
+---
+

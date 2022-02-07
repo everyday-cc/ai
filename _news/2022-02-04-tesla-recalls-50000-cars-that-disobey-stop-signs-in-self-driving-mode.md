@@ -169,20 +169,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla recalls Full Self-Driving beta software"
-    excerpt: "Tesla has issued a recall on its recently released Full-Driving beta software that included Assertive mode. The Assertive mode allowed the vehicles to run"
-    publishedDateTime: 2022-02-02T11:17:00Z
-    webUrl: "https://www.geeky-gadgets.com/tesla-recalls-full-self-driving-beta-software-2022-02-02/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/02/model-s-int.jpg"
-        width: 700
-        height: 388
-        isCached: true
   - title: "Tesla recall: ‘Full Self-Driving’ software runs stop signs"
     excerpt: "Tesla is recalling nearly 54,000 vehicles because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."
     publishedDateTime: 2022-02-02T16:23:00Z

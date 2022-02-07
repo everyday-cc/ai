@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/tesla-fsd-phantom-braking?amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp"
 type: article
 quality: 89
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -168,20 +168,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/8kVW_xQJNQf9oN_cXQXRx2wEXQE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19704170/cadillac_2021_escalade_0433.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla recalls Full Self-Driving beta software"
-    excerpt: "Tesla has issued a recall on its recently released Full-Driving beta software that included Assertive mode. The Assertive mode allowed the vehicles to run"
-    publishedDateTime: 2022-02-02T11:17:00Z
-    webUrl: "https://www.geeky-gadgets.com/tesla-recalls-full-self-driving-beta-software-2022-02-02/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/02/model-s-int.jpg"
-        width: 700
-        height: 388
         isCached: true
   - title: "Tesla recall: ‘Full Self-Driving’ software runs stop signs"
     excerpt: "Tesla is recalling nearly 54,000 vehicles because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt."

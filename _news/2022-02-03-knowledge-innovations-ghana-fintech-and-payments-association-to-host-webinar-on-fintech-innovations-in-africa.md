@@ -25,107 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Five Fintech Predictions For 2022"
-    excerpt: "Automation solutions like robotic process automation (RPA) are ideal in increasing workplace efficiencies, while also eliminating cost-creating redundancies."
-    publishedDateTime: 2022-02-02T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/"
+  - title: "African tech start-up funding skyrockets, with fintech a big winner"
+    excerpt: "Africa’s tech start-ups are thriving. In 2021, more African tech start-ups raised more money from more investors than ever before, with fintech companies — including several based in Nigeria — heavily represented among the big winners. According to ..."
+    publishedDateTime: 2022-02-07T03:08:00Z
+    webUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html"
+    ampWebUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/619bb0ad1e58e165649de1e8/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 803
-        isCached: true
-  - title: "How can traditional banks survive in the age of Fintech?"
-    excerpt: "Thanks to their agile mindset and better product positioning, not only are Fintech’s crashing entry ... organization processes and graduating to AI-led banking. Every industry goes through ..."
-    publishedDateTime: 2022-02-03T10:04:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-can-traditional-banks-survive-in-the-age-of-fintech/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-can-traditional-banks-survive-in-the-age-of-fintech/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-can-traditional-banks-survive-in-the-age-of-fintech/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Pic.jpg.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "How Emerging Fintech Markets are catching up to the Western World"
-    excerpt: "By Paul Marcantonio, Executive Director UK & Western Europe at ECOMMPAY For the longest time, the West has been ahead of other markets in terms of financial technologies. Everyone knows Silicon Valley,"
-    publishedDateTime: 2022-02-02T20:56:00Z
-    webUrl: "https://www.globalbankingandfinance.com/how-emerging-fintech-markets-are-catching-up-to-the-western-world/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/how-emerging-fintech-markets-are-catching-up-to-the-western-world/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-emerging-fintech-markets-are-catching-up-to-the-western-world/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
+      name: CIO
+      domain: cio.com
     quality: 44
     images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/02/iStock-852000540.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Founders Fund Reportedly Invests in Corporate Card Fintech Ramp at $8B Valuation"
-    excerpt: "The company invests across all stages and sectors, including aerospace, AI, advanced computing ... Blockchain peer-to-peer / marketplace lending and other forms of Fintech. 2021 was a record-breaking year forDealMaker, the market-leadingtechnology platform ..."
-    publishedDateTime: 2022-02-04T14:36:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Billion-Dollars-scaled-1024x768.jpeg"
+      - url: "https://www.cio.com/wp-content/uploads/2022/02/nigerian-nairas-stacked-bills_african-currency_bank-notes_by-ppart-gettyimages-613034832-100849675-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
-        height: 768
+        height: 682
         isCached: true
-  - title: "Fintech Cadence Announces Partnership with Fintel Connect"
-    excerpt: "Fintech Cadence announces today their partnership with Fintel Connect. The partnership will enhance the resources, offerings and capabilities that Fintech Cadence provides to"
-    publishedDateTime: 2022-02-02T12:44:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-cadence-announces-partnership-with-fintel-connect/article_21250565-eee7-5626-9074-e5e74ec8c24a.html"
+  - title: "GC Mark Paterson helps Tenet Fintech Group in North American expansion plan"
+    excerpt: "As the newly-hired general counsel at Tenet Fintech Group, Mark Paterson is helping the fintech and AI services provider to expand its North American operations. Tenet previously relied on external counsel to manage all legal matters, so Paterson is ..."
+    publishedDateTime: 2022-02-03T05:17:00Z
+    webUrl: "https://www.canadianlawyermag.com/inhouse/news/general/gc-mark-paterson-helps-tenet-fintech-group-in-north-american-expansion-plan/363678"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 22
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/14/014d7741-65f6-5688-9ccd-386fd168c483/61fa8b489d478.image.jpg?crop=1080%2C567%2C0%2C20&resize=1080%2C567&order=crop%2Cresize"
-        width: 1080
-        height: 567
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0394_637794618269667456.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Cypriot fintech to take part in PwC startup programme"
-    excerpt: "Cypriot fintech company WiRE ... other participating startups include Sedicii, Resistant AI, Outseer, RiskSave Technologies, EvoluteIQ, Albany Group, Insig AI and Panthera Solutions."
-    publishedDateTime: 2022-02-03T06:31:00Z
-    webUrl: "https://cyprus-mail.com/2022/02/03/cypriot-fintech-to-take-part-in-pwc-startup-programme/"
-    type: article
-    provider:
-      name: Cyprus Mail
-      domain: cyprus-mail.com
-    quality: 24
-    images:
-      - url: "https://cyprus-mail.com/wp-content/uploads/2022/02/pwc-wire-UK.jpg"
-        width: 1139
-        height: 757
-        isCached: true
-  - title: "Fintech Funding Reaches New Highs"
-    excerpt: "\"Fintech is altering all of that by reducing prices ... including chatbots, artificial intelligence (AI), blockchains, and crypto-assets. Corporate venture arms and digital incubators have been established by large multinational banks, who are investing ..."
-    publishedDateTime: 2022-02-03T13:27:00Z
-    webUrl: "https://www.finextra.com/blogposting/21733/fintech-funding-reaches-new-highs"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "kkVwrkm1h8/j0JzPSyDAR/Gq02FjV4e5omsibAwHZ1ZJoNSTJhTTroLqOuxQo7lRIT01M6e5h6eVsh3XZlPNq8sM0gG5fsGXhVF8ldrXvjPLBKJ41bDfy4DVq6RRG+JJaY8yvqsF60suhycYG6xYX3o6pFBCgHi9cQtEVcQ97BPn6MgC+0F7O/4aQpUcq/4UH55WNXoVN8FI0ep6vgJXH/qNRarzzRuR12Qp2AGLZfn+82pJriTurX9EG7DifdKxrwTUIXmPHSRdjkhuc+khXw5yM+bWEJFyhWDRJtUH0feUPqhwZ+vDI8LkBqU1veoVdXHQjKntKvQi6atGBZj90InXHS5M9MbN8jN4B+v49E8=;U/yDci/Esrz39RwT0D4Cpw=="
 ---

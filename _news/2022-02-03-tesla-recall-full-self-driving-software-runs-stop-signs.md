@@ -179,20 +179,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla recalls Full Self-Driving beta software"
-    excerpt: "Tesla has issued a recall on its recently released Full-Driving beta software that included Assertive mode. The Assertive mode allowed the vehicles to run"
-    publishedDateTime: 2022-02-02T11:17:00Z
-    webUrl: "https://www.geeky-gadgets.com/tesla-recalls-full-self-driving-beta-software-2022-02-02/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/02/model-s-int.jpg"
-        width: 700
-        height: 388
-        isCached: true
   - title: "Testing a self-driving Tesla in Boston. What could go wrong?"
     excerpt: "Globe tech reporter Pranshu Verma tagged along as Boston driver Taylor Ogan drove his Black Tesla Model Y on \"full self-driving\" mode around South Boston. “Full self-driving” is a feature in beta testing that Tesla drivers can pay upwards of $12,000 to ..."
     publishedDateTime: 2022-02-03T15:30:00Z

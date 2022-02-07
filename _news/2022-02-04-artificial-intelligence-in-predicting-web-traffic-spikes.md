@@ -54,20 +54,6 @@ related:
         width: 750
         height: 389
         isCached: true
-  - title: "The Benefits of Artificial Intelligence in Detecting Machine Failure"
-    excerpt: "Technology continues to evolve at an exponential rate. From one year to the next, we are presented with exceptional new innovations that can effectively make our jobs and everyday lives easier. Artificial intelligence (AI),"
-    publishedDateTime: 2022-02-02T11:05:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/benefits-artificial-intelligence-detecting-machine-failure"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 52
-    images:
-      - url: "https://financialit.net/sites/default/files/aimonitoring.jpg"
-        width: 1000
-        height: 643
-        isCached: true
   - title: "How Google uses artificial intelligence In Google Search"
     excerpt: "Search Engine Land » Google » Google: SEO » How Google uses artificial intelligence In Google Search As Google continues to leverage more artificial intelligence and machine learning in Google ..."
     publishedDateTime: 2022-02-03T17:07:00Z

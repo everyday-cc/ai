@@ -41,6 +41,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How Emerging Fintech Markets are catching up to the Western World"
+    excerpt: "By Paul Marcantonio, Executive Director UK & Western Europe at ECOMMPAY For the longest time, the West has been ahead of other markets in terms of financial technologies. Everyone knows Silicon Valley,"
+    publishedDateTime: 2022-02-02T20:56:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-emerging-fintech-markets-are-catching-up-to-the-western-world/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-emerging-fintech-markets-are-catching-up-to-the-western-world/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-emerging-fintech-markets-are-catching-up-to-the-western-world/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/02/iStock-852000540.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Founders Fund Reportedly Invests in Corporate Card Fintech Ramp at $8B Valuation"
+    excerpt: "The company invests across all stages and sectors, including aerospace, AI, advanced computing ... Blockchain peer-to-peer / marketplace lending and other forms of Fintech. 2021 was a record-breaking year forDealMaker, the market-leadingtechnology platform ..."
+    publishedDateTime: 2022-02-04T14:36:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Billion-Dollars-scaled-1024x768.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "FinTech Blockchain Market: Meticulous Research® Reveals Why This Market is Growing at a CAGR of 59.9% to Reach $36.04 Billion by 2028"
     excerpt: "Higher blockchain & AI adoption in the region is contributing to the continued transition toward FinTech blockchain technology. Besides, the majority of established FinTech blockchain players and a conducive environment for budding start-ups are expected ..."
     publishedDateTime: 2022-02-03T06:56:00Z

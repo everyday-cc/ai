@@ -56,17 +56,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Humans vs AI: here’s who’s better at making money in financial markets"
-    excerpt: "As such, AI often appears in behind-the-scenes processes ... such as the EU legal directive MIFID II or business ethics. The experiments themselves did not engage in any unethical activities ..."
-    publishedDateTime: 2022-02-02T12:54:00Z
-    webUrl: "https://theconversation.com/humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
-    ampWebUrl: "https://theconversation.com/amp/humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/humans-vs-ai-heres-whos-better-at-making-money-in-financial-markets-174937"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 41
   - title: "Humans v AI: here’s who’s better at making money in financial markets"
     excerpt: "As such, AI often appears in behind-the-scenes processes ... such as the EU legal directive MIFID II or business ethics. The experiments themselves did not engage in any unethical activities ..."
     publishedDateTime: 2022-02-02T17:56:00Z

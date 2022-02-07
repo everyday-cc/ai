@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/02/iStock-1250153410.jpg"
         width: 750
         height: 389
-        isCached: true
-  - title: "The Benefits of Artificial Intelligence in Detecting Machine Failure"
-    excerpt: "Technology continues to evolve at an exponential rate. From one year to the next, we are presented with exceptional new innovations that can effectively make our jobs and everyday lives easier. Artificial intelligence (AI),"
-    publishedDateTime: 2022-02-02T11:05:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/benefits-artificial-intelligence-detecting-machine-failure"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 52
-    images:
-      - url: "https://financialit.net/sites/default/files/aimonitoring.jpg"
-        width: 1000
-        height: 643
         isCached: true
   - title: "Artificial Intelligence in Predicting Web Traffic Spikes"
     excerpt: "Machine Learning, specifically Artificial Intelligence, is great at analyzing information to either deduce patterns or classify information into predetermined categories. As ever, data is key ..."
