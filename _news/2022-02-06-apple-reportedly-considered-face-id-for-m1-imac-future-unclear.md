@@ -26,6 +26,17 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "Apple reportedly considered adding Face ID to the M1 iMac lineup"
+    excerpt: "According to a new piece of information, Apple considered adding FaceID technology to the iMac computers, and we might see it on future devices, as well as on new external monitors."
+    publishedDateTime: 2022-02-07T17:15:00Z
+    webUrl: "https://pocketnow.com/apple-reportedly-considered-adding-face-id-m1-imac-lineup"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 4
+
 secured: "uizluHmGxwZFn+OfjHLkvN63VXSm8/8uOM89MGbErbLbupX2G8w3CW4YgmGR7+FC/na9HuoVb7udMADQCxg9MNbHbnRVorq/IkbmDeDhc0hrRGzXuGgYD8SzIoGSegbVm9C0mETCWkfEW89mS4eMqk64Ak3Dwmgfwy1YKis58ovEiu32n+y9DSuhx83Tc/Zmjk7ts6L1dxqN+ZrhkMeGZR3MjRF5/SwqbTs+Eem9efxXvRqQ/GbN/cnDBs7Hx63J6YU+SZbirT4yMK2AXFDG9gryLZVusOVj36PTtXxebnaQa+QXpoCeKrCo4BdKmfl/X8GRH47OOGNy+p3qVdAacsgI0sIHD5oDOU/m63BHRpk=;3I09BIW2inKHrh94/VrdKA=="
 ---
 

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-02-06-government-agencies-are-tapping-a-facial-recognition-company-to-prove-youre-you.md",
-      "title": "Government Agencies Are Tapping A Facial Recognition Company to Prove You’re You",
-      "excerpt": "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ...",
+      "path": "_news/2022-02-08-irs-to-end-use-of-facial-recognition-for-identity-verification.md",
+      "title": "I.R.S. to End Use of Facial Recognition for Identity Verification",
+      "excerpt": "By Alan Rappeport WASHINGTON — The Internal Revenue Service plans to stop using facial recognition software to identify taxpayers accessing their accounts on the agency’s website amid concerns over privacy and data security. The decision comes as the I ...",
       "sourceUrl": null,
-      "webUrl": "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness",
-      "originalUrl": "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness",
+      "webUrl": "https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html",
+      "originalUrl": "https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 279,
       "tags": null,
       "images": [
         {
-          "url": "https://images.theconversation.com/files/443053/original/file-20220127-9782-2f0nex.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
-          "width": 754,
-          "height": 388,
+          "url": "https://static01.nyt.com/images/2022/02/07/business/07dc-irs/07dc-irs-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true",
-      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true",
-      "publishedDateTime": "2022-02-05T22:04:00-08:00",
+      "ampWebUrl": "https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.amp.html",
+      "publishedDateTime": "2022-02-07T10:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Governing",
-        "domain": "governing.com",
-        "images": null,
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -201,7 +210,7 @@
       "originalUrl": "https://www.wbez.org/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 75,
       "tags": null,
       "images": [
         {

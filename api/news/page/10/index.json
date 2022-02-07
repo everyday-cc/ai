@@ -2,6 +2,155 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-01-26-tensorflow-2-quickstart-for-beginners.md",
+      "title": "TensorFlow 2 quickstart for beginners",
+      "excerpt": "Load a prebuilt dataset. Build a neural network machine learning model that classifies images. Train this neural network. Evaluate the accuracy of the model. This tutorial is a Google Colaboratory notebook. Python programs are run directly in the browser ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ur",
+      "originalUrl": "https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ur",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=ur",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-meta-builds-worlds-largest-ai-supercomputer-with-nvidia-for-ai-research-and-production.md",
+      "title": "Meta Builds World’s Largest AI Supercomputer With NVIDIA For AI Research And Production",
+      "excerpt": "Facebook, I mean Meta, has always been one of the industry leaders when it comes to AI research and deployment. The company processes hundreds of trillions (yes, trillions with a “T”) of inferences every day,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/01/25/meta-builds-worlds-largest-ai-supercomputer-with-nvidia-for-ai-research-and-production/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/01/25/meta-builds-worlds-largest-ai-supercomputer-with-nvidia-for-ai-research-and-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f0640bbe20b8898946d1ec/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1190,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/01/25/meta-builds-worlds-largest-ai-supercomputer-with-nvidia-for-ai-research-and-production/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/01/25/meta-builds-worlds-largest-ai-supercomputer-with-nvidia-for-ai-research-and-production/amp/",
+      "publishedDateTime": "2022-01-25T14:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-26-timnit-gebru-is-part-of-a-wave-of-black-women-working-to-change-ai.md",
+      "title": "Timnit Gebru is part of a wave of Black women working to change AI",
+      "excerpt": "Timnit Gebru, a known advocate for diversity in artificial intelligence, announced the launch of the Distributed Artificial Intelligence Research Institute, or DAIR.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/nbcblk/timnit-gebru-part-wave-black-women-working-change-ai-rcna13339",
+      "originalUrl": "https://www.nbcnews.com/news/nbcblk/timnit-gebru-part-wave-black-women-working-change-ai-rcna13339",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-01/220124-timnit-gebru-mn-1350-99c3d0.jpg",
+          "width": 2037,
+          "height": 1358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna13339",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna13339",
+      "publishedDateTime": "2022-01-25T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-machine-learning-is-going-real-time-heres-why-and-how.md",
       "title": "Machine learning is going real-time: Here's why and how",
       "excerpt": "Organizations are turning to machine learning because of the return on investment. The ones doing it in real-time are topping the charts.",
@@ -1010,154 +1159,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores.md",
-      "title": "Arjit Nanda and Miraan Rai bring robotics and AI to reimagine household chores",
-      "excerpt": "They have named their venture - AM Innomates, and their first product is AM Dustbin. A smart combination of automatic and manual controls to lift the lid of the bin and is a pioneer in the Indian mark",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-post/arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores-101643109312459.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-post/arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores-101643109312459.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/01/25/1600x900/02_1643109717177_1643109727318.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-post/arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores-101643109312459-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/arjit-nanda-and-miraan-rai-bring-robotics-and-ai-to-reimagine-household-chores-101643109312459-amp.html",
-      "publishedDateTime": "2022-01-25T03:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-how-to-grow-your-startups-sales-and-marketing-with-ai.md",
-      "title": "How To Grow Your Startup's Sales and Marketing with AI",
-      "excerpt": "Given the packed nature of today’s startup environment, where resources are always limited and the pressure to perform is immense, time-consuming tasks resist automation. A lot of early startups and s",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/how-grow-your-startups-sales-marketing-ai-olabisi-adelaja",
-      "originalUrl": "https://www.linkedin.com/pulse/how-grow-your-startups-sales-marketing-ai-olabisi-adelaja",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQE44ket5Ob5jw/article-cover_image-shrink_600_2000/0/1643108728517?e=1649289600&v=beta&t=YcjOJh1cTRXZJULzaXc0iaLEm4USn6b62PTTytPbnoc",
-          "width": 612,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T03:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-how-ai-could-predict-medical-conditions-and-revive-the-healthcare-system.md",
-      "title": "How AI Could Predict Medical Conditions And Revive The Healthcare System",
-      "excerpt": "The health sector stands to benefit greatly from AI, as the increasing demands of an aging global population promises to continue to strain already tired systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/how-ai-could-predict-medical-conditions-and-revive-the-healthcare-system/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/how-ai-could-predict-medical-conditions-and-revive-the-healthcare-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/609e821d654474333e16c7cf/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/how-ai-could-predict-medical-conditions-and-revive-the-healthcare-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/25/how-ai-could-predict-medical-conditions-and-revive-the-healthcare-system/amp/",
-      "publishedDateTime": "2022-01-25T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

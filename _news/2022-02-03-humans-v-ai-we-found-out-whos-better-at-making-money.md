@@ -40,7 +40,7 @@ related:
     provider:
       name: Scroll
       domain: scroll.in
-    quality: 53
+    quality: 55
     images:
       - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/169699-bobiihxzuk-1643974563.jpg"
         width: 600

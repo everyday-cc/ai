@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-20-deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027.md",
+      "title": "Deep Learning Courses for NLP Market, Indutry Analysis and Prospect, Market Players : Coursera, IBM, UpX Academy – 2022 – 2027",
+      "excerpt": "Jan 20, 2022 (Heraldkeepers) -- The \"Deep Learning Courses for NLP\" Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027-2022-01-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027-2022-01-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-19T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-why-games-may-not-be-the-best-benchmark-for-ai.md",
       "title": "Why games may not be the best benchmark for AI",
       "excerpt": "Games have long been used as a benchmark in AI, but not all experts are convinced that they're the right goalposts for research.",
@@ -1423,58 +1476,6 @@
         "AI",
         "Computer Vision",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-09-how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn.md",
-      "title": "How NOAA Is Applying AI Beyond Forecasting: Interview With Eric Kihn",
-      "excerpt": "NOAA is applying AI beyond forecasting to a range of applications that are helping people and the world in which we live.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogs-images.forbes.com/assets/images/avatars/blog-5907_400_4ad9d95032852c3294283bf5f7eed635.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn/amp/",
-      "publishedDateTime": "2022-01-09T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

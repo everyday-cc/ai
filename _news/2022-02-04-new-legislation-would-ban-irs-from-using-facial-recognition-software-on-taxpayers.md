@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Taxpayers will have to use to facial recognition software to file with the IRS"
-    excerpt: "If you haven’t already filed your taxes, your face may become the key to getting it done. Reset learns more about the facial recognition software the IRS started using this year."
-    publishedDateTime: 2022-02-03T08:12:00Z
-    webUrl: "https://www.wbez.org/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad"
-    ampWebUrl: "https://www.wbez.org/amp/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad"
-    cdnAmpWebUrl: "https://www-wbez-org.cdn.ampproject.org/c/s/www.wbez.org/amp/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad"
+  - title: "I.R.S. to End Use of Facial Recognition for Identity Verification"
+    excerpt: "By Alan Rappeport WASHINGTON — The Internal Revenue Service plans to stop using facial recognition software to identify taxpayers accessing their accounts on the agency’s website amid concerns over privacy and data security. The decision comes as the I ..."
+    publishedDateTime: 2022-02-07T18:47:00Z
+    webUrl: "https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.html"
+    ampWebUrl: "https://www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/07/us/politics/irs-idme-facial-recognition.amp.html"
     type: article
     provider:
-      name: WBEZ
-      domain: wbez.org
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: "https://static01.nyt.com/images/2022/02/07/business/07dc-irs/07dc-irs-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Rep. Huizenga introduces bill to ban facial recognition technology from IRS use"
+    excerpt: "WASHINGTON D.C., DC — Representative Bill Huizenga of Michigan's 2nd District introduced new legislation on Friday that would ban the Internal Revenue Service (IRS) from using facial recognition technology to verify identities. The Republican Congressman ..."
+    publishedDateTime: 2022-02-07T17:24:00Z
+    webUrl: "https://www.wzzm13.com/article/news/politics/rep-huizenga-bill-to-ban-facial-recognition-technology-irs/69-e3b50be9-59cf-4920-8a84-0eacaa30fbfe"
+    ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/rep-huizenga-bill-to-ban-facial-recognition-technology-irs/69-e3b50be9-59cf-4920-8a84-0eacaa30fbfe"
+    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/rep-huizenga-bill-to-ban-facial-recognition-technology-irs/69-e3b50be9-59cf-4920-8a84-0eacaa30fbfe"
+    type: article
+    provider:
+      name: WZZM
+      domain: wzzm13.com
     quality: 55
     images:
-      - url: "https://api.wbez.org/v2/images/462329f1-d357-447b-b5aa-78854f5138b8.jpg?mode=FILL&width=1200&height=630"
-        width: 1200
-        height: 630
+      - url: "https://media.wzzm13.com/assets/WZZM/images/d36afa4b-04a2-4826-9abb-7c920fc9c63e/d36afa4b-04a2-4826-9abb-7c920fc9c63e_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Facial Recognition Plan from IRS Raises Big Concerns"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
@@ -70,6 +86,22 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/8276C43B-F484-45D8-A0EAEB4DD77803B6.jpg"
         width: 790
         height: 496
+        isCached: true
+  - title: "Government Agencies Are Tapping A Facial Recognition Company to Prove You’re You"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-06T06:04:00Z
+    webUrl: "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness"
+    ampWebUrl: "https://www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/government-facial-recognition-prove-youre-you-privacy-accuracy-fairness?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 54
+    images:
+      - url: "https://images.theconversation.com/files/443053/original/file-20220127-9782-2f0nex.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+        width: 754
+        height: 388
         isCached: true
   - title: "Another lawmaker raises concerns with IRS plan to use facial recognition"
     excerpt: "Sen. Roger Wicker, R-Miss., is asking the IRS to provide answers to a series of questions around their use of facial recognition and third-party vendor ID.me by Feb. 17. (Photo by Joshua Roberts/Getty Images) The ranking Republican on the Senate Commerce ..."
@@ -117,19 +149,33 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "PD Editorial: IRS facial recognition plans tax the public’s patience"
-    excerpt: "Editorials represent the views of The Press Democrat editorial board and The Press Democrat as an institution. The editorial board and the newsroom operate separately and independently of one another. The Internal Revenue Service found a way to become even ..."
-    publishedDateTime: 2022-02-04T08:20:00Z
-    webUrl: "https://www.pressdemocrat.com/article/opinion/pd-editorial-irs-facial-recognition-plans-tax-the-publics-patience/"
+  - title: "Education nonprofit executive earns national recognition"
+    excerpt: "Out of hundreds of thousands of coach-educator-administrators in speech, debate, and/or theatre, the NFHS honors one each year. Jacobi is the first-ever honoree for this citation from Wisconsin."
+    publishedDateTime: 2022-02-06T14:35:00Z
+    webUrl: "https://lacrossetribune.com/news/local/education-nonprofit-executive-earns-national-recognition/article_24d450b4-8ad8-5001-ba5f-bf887fd34579.html"
     type: article
     provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
+      name: La Crosse Tribune
+      domain: lacrossetribune.com
+    quality: 41
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/e/b3/eb3840f6-2ffe-537c-a82e-28812de01270/61fee2fa8995d.image.jpg?crop=946%2C497%2C0%2C382&resize=946%2C497&order=crop%2Cresize"
+        width: 946
+        height: 497
+        isCached: true
+  - title: "Facial recognition technology identifies the 'unique' noses of cattle"
+    excerpt: "Cattle branding and ear tags may become a thing of the past - in the future, farmers may simply be able to use facial recognition technology on their smart phone to locate their cattle. An Australian researcher has developed this AI-powered system to ..."
+    publishedDateTime: 2022-02-03T20:19:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/breakfast/facial-recognition-software-identifies-unique-muzzles-cattle/13740970"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
     quality: 39
     images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=f02c97b5-2355-5b05-a9a9-5d3e1ae02e0a&type=primary&q=72&width=1200"
-        width: 1199
-        height: 777
+      - url: "https://www.abc.net.au/cm/rimage/13740972-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
         isCached: true
   - title: "GOP lawmakers move to stop IRS facial recognition technology"
     excerpt: "Republicans in Congress are raising concerns about the Internal Revenue Service’s move to use facial recognition technology to authenticate taxpayers before they can access their online accounts, introducing a bill that would ban the practice. The IRS ..."
@@ -159,19 +205,19 @@ related:
         width: 870
         height: 489
         isCached: true
-  - title: "IRS facial recognition plan gets fierce blowback from bipartisan senators"
-    excerpt: "In the wake of a controversial plan by the Internal Revenue Service to implement third-party services that rely on facial recognition, bipartisan senators on Thursday demanded that the IRS “immediately discontinue” any programs that collect ..."
-    publishedDateTime: 2022-02-04T21:00:00Z
-    webUrl: "https://www.fastcompany.com/90719029/irs-facial-recognition-plan-gets-fierce-blowback-from-bipartisan-senators"
+  - title: "Huge government agencies clash over imposing facial recognition"
+    excerpt: "Even as the Internal Revenue Service and other federal agencies are pushing to require Americans to consent to facial recognition to sign on to government websites, the government’s central management office has refused to use the technology on its own ..."
+    publishedDateTime: 2022-02-07T16:20:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/02/07/irs-gsa-id-facial-recogntion/"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 38
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-IRS-facial-recognition-plan-gets-blowback-from-bipartisan-senators.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CGOFID44YI6ZDGIW2LFMS5HSY.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Will IRS Require Use of Facial Recognition Software To Access Tax Info Online?"
     excerpt: "another reader asked. As of this writing, it’s true that the IRS is requiring taxpayers to use facial recognition software designed by a technology company called ID.me to access IRS documents and services online. We reached out to the IRS for comment ..."
@@ -187,6 +233,20 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Lawmakers ask IRS to halt use of facial recognition tech, noting ‘serious privacy issues’"
+    excerpt: "Multiple Democratic members of Congress in the House and Senate wrote to the IRS asking the agency to halt its plans for mandatory use of ID.me’s facial recognition system to verify the identity of taxpayers and consider alternatives that do not rely on the same technologies."
+    publishedDateTime: 2022-02-07T16:55:00Z
+    webUrl: "https://www.scmagazine.com/analysis/identity-and-access/lawmakers-ask-irs-to-halt-use-of-facial-recognition-tech-noting-serious-privacy-issues"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 30
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2022/01/GettyImages-1137410589.jpg"
+        width: 1500
+        height: 900
+        isCached: true
   - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
     publishedDateTime: 2022-02-03T13:03:00Z
@@ -201,6 +261,43 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-04T14:44:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361604/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 25
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/02/04/020322faceidGE/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Opinion: Government agencies are tapping a facial recognition company to prove you're you. Watch out."
+    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
+    publishedDateTime: 2022-02-05T17:03:00Z
+    webUrl: "https://www.timesfreepress.com/news/opinion/columns/story/2022/feb/05/opinion-facial-recognition/562707/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 24
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2022/01/28/1643403351_013122b07-FPbrashers_gs_t1070_h684b61466ec9e7246f14b31fcd97b3eb03969075.jpg"
+        width: 1070
+        height: 713
+        isCached: true
+  - title: "Inbenta obtains the AENOR ISO/IEC 27701 Privacy Information Management certification"
+    excerpt: "Inbenta is a leading international company that develops conversational solutions using Artificial Intelligence and Natural Language Processing. These are capable of understanding people's natural language to provide targeted answers or concrete results."
+    publishedDateTime: 2022-02-07T16:54:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/inbenta-obtains-the-aenor-iso-iec-27701-privacy-information-management-certification/article_a452075b-0eac-55fe-ab9a-b2dccbc3e704.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 12
 
 secured: "Cjcx4RsZrWCu6w6mK/ej7zLl2P3NZJqI3jEVrf/taF+1qB/QfnK4Mqi/8wRSVfdmyFqwTZ0Fr2oF7/jaMmfuRt7aYIehy/7NOwsRDrpMRNbC/i8CIsuNL6TbLPLKVHmGiQvK2i/ltvarsLujXCnYc9qXTqKI6GPS5b5JT7HghdUi8DY0g3vZKK/0yVwpBeLM8a/FWbrncZPUiD6wXyzHPlnyiEu1lV31IWmqC5Y+4aEDZXX4GmJL8ewm4cSXJCvDeuCcb7mpw9Fpo5A+a0Z4nd3j9Has4IepCk6pC14h3FfOGu2MHHW6Fc78eAqHQWwkYJvCKHMDciC2pCcjfKhnSWeWkTPGLcMX9urvtKMmOQKcIDECT4/uF2rtxg3qZJ9hdGTaiCXymKn5Tr13noIp97XLeJhUFYqN6PMYafNIVEQOV9j4b0/YdxnggH+CSgfyXCbW7+82M5fvOf9WUykzkYkcNHP0+1Y1SBKROUrZK7dmMMio0vymknMTHFuXqprX0xfClHV9b/t0ok20x77EVg==;iLTAVuwyikeYcokB0daRSQ=="
 ---

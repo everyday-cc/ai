@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-18-samsung-announces-exynos-2200-chipset-with-amd-rdna-2-based-xclipse-gpu.md",
+      "title": "Samsung announces Exynos 2200 chipset with AMD RDNA 2-based Xclipse GPU",
+      "excerpt": "Samsung has announced its latest flagship smartphone processor — Exynos 2200, which will be powering the company’s upcoming premium smartphones later this year. This is the same chipset that the company was set to unveil on 11th January but got delayed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/",
+      "originalUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/exynos-2200.png",
+          "width": 935,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/01/18/samsung-exynos-2200-flagship-chipset-unveiled/?amp=1",
+      "publishedDateTime": "2022-01-17T19:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-samsung-introduces-game-changing-exynos-2200-processor-with-xclipse-gpu-powered-by-amd-rdna-2-architecture.md",
       "title": "Samsung Introduces Game Changing Exynos 2200 Processor with Xclipse GPU Powered by AMD RDNA 2 Architecture",
       "excerpt": "Samsung Electronics Co., Ltd., a world leader in advanced semiconductor technology, today announced its new premium mobile processor, the Exynos 2200. The Exynos 2200 is a freshly designed mobile processor with a powerful AMD RDNA 2 architecture based Samsung Xclipse graphics processing unit (GPU).",
@@ -1339,50 +1391,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-launch-factory-raises-6m-to-back-computer-vision-ai-startups.md",
-      "title": "Launch Factory Raises $6M to Back Computer Vision AI Startups",
-      "excerpt": "This round of funding aims to launch new computer vision AI companies. Led by Brad Chisum, CEO, James Hereford, and Kimberly Davis King, Launch Factory is a venture studio which, with this fund ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html",
-      "originalUrl": "https://www.finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2022/01/launch-factory.png",
-          "width": 320,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T13:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
         "AI Hardware"
       ]
     }

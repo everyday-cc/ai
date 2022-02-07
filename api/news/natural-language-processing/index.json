@@ -993,6 +993,50 @@
       ]
     },
     {
+      "path": "_news/2022-01-25-facebook-parent-meta-creates-powerful-ai-supercomputer.md",
+      "title": "Facebook Parent Meta Creates Powerful AI Supercomputer",
+      "excerpt": "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-01-24/facebook-parent-meta-creates-powerful-ai-supercomputer?context=amp",
+      "publishedDateTime": "2022-01-24T13:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-transforming-modern-medical-devices-with-machine-learning-ai-inference.md",
       "title": "Transforming Modern Medical Devices with Machine Learning & AI Inference",
       "excerpt": "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,",
@@ -1367,59 +1411,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027.md",
-      "title": "Deep Learning Courses for NLP Market, Indutry Analysis and Prospect, Market Players : Coursera, IBM, UpX Academy – 2022 – 2027",
-      "excerpt": "Jan 20, 2022 (Heraldkeepers) -- The \"Deep Learning Courses for NLP\" Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027-2022-01-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-indutry-analysis-and-prospect-market-players-coursera-ibm-upx-academy-2022-2027-2022-01-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

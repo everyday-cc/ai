@@ -2,6 +2,127 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-05-can-you-trust-ai-to-protect-ai.md",
+      "title": "Can you trust AI to protect AI?",
+      "excerpt": "To do this, Dobrin said IBM is working on establishing adversarial robustness at the system level of platforms like Watson. By implementing AI models that interrogate other AI models to explain ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/",
+      "originalUrl": "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1339968369.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/amp/",
+      "publishedDateTime": "2022-02-04T14:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-05-innovations-in-robotics-ai-will-continue-to-power-this-etf.md",
+      "title": "Innovations in Robotics, AI Will Continue to Power This ETF",
+      "excerpt": "More innovation in robotics and artificial intelligence could bloom out of healthy competition, which could power the First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT) even further. The disruptive space, highlighted by robots and AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf",
+      "originalUrl": "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf?amp",
+      "publishedDateTime": "2022-02-04T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-05-amazon-amzn-q4-earnings-crush-estimates-sales-rise-yy.md",
+      "title": "Amazon (AMZN) Q4 Earnings Crush Estimates, Sales Rise Y/Y",
+      "excerpt": "AWS introduced six capabilities for Amazon SageMaker, namely Canvas, Ground Truth Plus, Studio, Training Compiler, Inference Recommender and Serverless Inference. The company unveiled a managed wide area network (WAN) service, namely AWS Cloud WAN ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-q4-earnings-crush-estimates-sales-rise-y-y",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-q4-earnings-crush-estimates-sales-rise-y-y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-q4-earnings-crush-estimates-sales-rise-y-y?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-q4-earnings-crush-estimates-sales-rise-y-y?amp",
+      "publishedDateTime": "2022-02-04T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars.md",
       "title": "Strict Literal Interpretation Is A Hardheaded Drawback Of Machine Learning And Likewise Bad For AI Self-Driving Cars",
       "excerpt": "Au contraire, mon ami (on the contrary, my friends)! Here’s the deal. Let’s discuss self-driving cars (for my ongoing and extensive coverage of Autonomous Vehicles or AVs, including self-driving cars, see the link here). The advent of today’s self ...",
@@ -1082,152 +1203,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems.md",
-      "title": "Annotell raises $24M to develop data labeling tools for autonomous driving systems",
-      "excerpt": "Annotell, a company developing data labeling tools for autonomous vehicle systems, has raised $24 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/03/annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems/",
-      "originalUrl": "https://venturebeat.com/2022/02/03/annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/self-driving-car.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/03/annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/03/annotell-raises-24m-to-develop-data-labeling-tools-for-autonomous-driving-systems/amp/",
-      "publishedDateTime": "2022-02-03T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-renderedai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models.md",
-      "title": "Rendered.ai unveils Platform as a Service for creating synthetic data to train AI models",
-      "excerpt": "We caught up with Rendered.ai Founder and CEO Nathan Kundtz to learn more about the use cases the platform can serve, and how it works under the hood. Kundtz, a physicist by training, has a Ph.D. from Duke University. He also has previous startup ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
-      "originalUrl": "https://www.zdnet.com/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4993157a7ba74421497cfaaf09ab71832c3d89ae/2022/02/02/393bc13e-c1d9-4f5f-9353-98f020e58b03/rendered-ai.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
-      "publishedDateTime": "2022-02-03T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-deepmind-co-founder-plans-to-help-us-vc-firm-greylock-penetrate-europe.md",
-      "title": "DeepMind co-founder plans to help U.S. VC firm Greylock penetrate Europe",
-      "excerpt": "Greylock has profited from early bets on U.S. tech giants like Airbnb, Facebook and LinkedIn but it also wants to capitalize on fast-growing companies in Europe. DeepMind co-founder Mustafa Suleyman is planning to help U.S. venture capital firm Greylock ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/deepmind-co-founder-plans-to-help-us-vc-firm-greylock-penetrate-europe/ar-AATr2HE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106830698-1611754303373-GettyImages-627782598.jpg?v=1611755158",
-          "width": 5496,
-          "height": 3664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-      "publishedDateTime": "2022-02-03T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-        "domain": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-29-achieve-ai-success-with-a-people-first-data-strategy.md",
+      "title": "Achieve AI Success With A People-First Data Strategy",
+      "excerpt": "As the pandemic has accelerated digital transformation, organizations are successfully deploying and scaling AI projects across more sophisticated, critical scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f4135315543e644d7440a4/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tableau/2022/01/28/achieve-ai-success-with-a-people-first-data-strategy/amp/",
+      "publishedDateTime": "2022-01-28T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-28-use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate.md",
+      "title": "Use a web browser plugin to quickly translate text with Amazon Translate",
+      "excerpt": "Web browsers can be a single pane of glass for organizations to interact with their information—all of the tools can be viewed and accessed on one screen so that users don’t have to switch between applications and interfaces. For example, a customer call center might have several different applications",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-web-browser-plugin-to-quickly-translate-text-with-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/24/ML-6697-image009.png",
+          "width": 323,
+          "height": 303,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-28T08:18:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-boostai-recognized-in-the-first-ever-2022-gartner-magic-quadrant-for-enterprise-conversational-ai-platforms.md",
+      "title": "Boost.ai Recognized in the First Ever 2022 Gartner® Magic Quadrant™ for Enterprise Conversational AI Platforms",
+      "excerpt": "Boost.ai, a leading conversational AI platform, today announced it has been positioned as a Niche Player by Gartner in their 2022 Magic",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/boost-ai-recognized-in-the-first-ever-2022-gartner-magic-quadrant-for-enterprise-conversational-ai/article_2e5f0ca2-9d78-5e40-8739-13ad04e64e48.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/boost-ai-recognized-in-the-first-ever-2022-gartner-magic-quadrant-for-enterprise-conversational-ai/article_2e5f0ca2-9d78-5e40-8739-13ad04e64e48.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-28T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-28-causalens-gets-45m-for-no-code-technology-that-introduces-cause-and-effect-into-ai-decision-making.md",
       "title": "CausaLens gets $45M for no-code technology that introduces cause and effect into AI decision making",
       "excerpt": "One of the most popular applications of artificial intelligence to date has been to use it to predict things, using algorithms trained with historical data to determine a future outcome. But popularity doesn’t always mean success: predictive AI leaves out a lot of the nuance,",
@@ -1062,134 +1200,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models.md",
-      "title": "Vanti Analytics secures $16M to assist manufacturers in deploying AI models",
-      "excerpt": "Vanti Analytics, a startup developing an AI model management platform for manufacturers , has raised $16 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/",
-      "originalUrl": "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/aluminum-manufacturing_recycle-aluminum_05102018.jpg?w=1200&strip=all",
-          "width": 1142,
-          "height": 940,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/",
-      "publishedDateTime": "2022-01-27T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-artificial-intelligence-myth-busting-ethics-ai-for-social-good-and-what-it-means-for-cornwall.md",
-      "title": "Artificial Intelligence; myth-busting, ethics, AI for social good and what it means for Cornwall",
-      "excerpt": "Artificial Intelligence; myth-busting, ethics, AI for social good & what it means for Cornwall. Our highlights from our Tech Connect event.",
-      "sourceUrl": null,
-      "webUrl": "https://softwarecornwall.org/news/artificial-intelligence-myth-busting-ethics-ai-for-social-good-and-what-it-means-for-cornwall/",
-      "originalUrl": "https://softwarecornwall.org/news/artificial-intelligence-myth-busting-ethics-ai-for-social-good-and-what-it-means-for-cornwall/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://softwarecornwall.org/wp-content/uploads/2022/01/Software-Cornwall-Artificial-Intelligence-Tech-Connect.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "softwarecornwall.org",
-        "domain": "softwarecornwall.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-2-monster-machine-learning-stocks-to-buy-for-the-long-term.md",
-      "title": "2 Monster Machine Learning Stocks to Buy for the Long Term",
-      "excerpt": "Machine learning is a subset of AI that uses data to improve processes, and also make predictions. It's already being applied to dozens of industries globally, streamlining everything from racing to internet search results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term",
-      "originalUrl": "https://www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term?amp",
-      "publishedDateTime": "2022-01-27T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

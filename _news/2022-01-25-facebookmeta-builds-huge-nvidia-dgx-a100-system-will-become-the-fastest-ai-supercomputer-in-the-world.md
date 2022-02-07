@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.datacenterdynamics.com/media/images/Facebook_Research_SuperCluster.PN.2e16d0ba.fill-1200x630.png"

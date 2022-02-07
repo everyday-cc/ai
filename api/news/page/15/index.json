@@ -2,6 +2,195 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-01-21-how-will-self-driving-cars-affect-cities-like-chicago.md",
+      "title": "How Will Self-Driving Cars Affect Cities Like Chicago?",
+      "excerpt": "Self-driving cars are spreading out across the country, and you may see one yourself on the Kennedy or Dan Ryan Expressway soon. CBS News’ Laura Podesta has a report, and DePaul University Professor Joe Schwieterman talks with CBS 2’s Jim Williams and Marie Saavedra about how self-driving cars will affect big cities like Chicago.",
+      "sourceUrl": null,
+      "webUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/",
+      "originalUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/A62/148/A62148484122E4CB516218C23E149CBE.jpg?Expires=1737763200&KeyName=mcpkey1&Signature=fLzgtdGVzWxw5PRkk1suUHf8_Ok",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/?amp",
+      "cdnAmpWebUrl": "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/?amp",
+      "publishedDateTime": "2022-01-20T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-21-new-ratings-aim-to-make-partial-self-driving-safer.md",
+      "title": "New Ratings Aim To Make Partial ‘Self Driving’ Safer",
+      "excerpt": "Many partially automated systems that “share” the driving with motorists, like Autopilot, Pilot Assist and Super Cruise, don't provide enough back-up protections, according to a new ratings system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/",
+      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61e9e75f4b77c5fa20f81778/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/",
+      "publishedDateTime": "2022-01-20T13:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-21-anymals-quadrupedal-robot-takes-a-hike.md",
+      "title": "ANYmal’s quadrupedal robot takes a hike",
+      "excerpt": "It’s been pretty astonishing to see what robotics researchers have been able to accomplish with legged robots over the past few years. Oregon State University taking Cassie for a 5K back in July springs to mind.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/",
+      "originalUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/image.imageformat.fullwidth.1716413789.jpg?w=930",
+          "width": 930,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/amp/",
+      "publishedDateTime": "2022-01-20T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-21-al-gore-emissions-reductions-hinge-on-ai-measurements-from-space.md",
+      "title": "Al Gore: Emissions reductions hinge on AI measurements from space",
+      "excerpt": "Achieving earthly emissions reductions goals will hinge upon the extraterrestrial capabilities of artificial intelligence technologies that are taking precision measurements from space, according to f",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from",
+      "originalUrl": "https://thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/goreal_08132018getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from?amp",
+      "publishedDateTime": "2022-01-20T11:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-mercedes-benz-teams-up-with-luminar-on-self-driving-tech.md",
       "title": "Mercedes-Benz teams up with Luminar on self-driving tech",
       "excerpt": "Luxury carmaker Mercedes-Benz will partner with self-driving sensor maker Luminar Technologies Inc to enable fully automated driving on highways for its next-generation vehicles, Luminar's founder said.",
@@ -955,159 +1144,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-begalileo-the-mathematical-thinking-cognitive-capability-building-program-signs-up-sania-mirza-as-brand-ambassador.md",
-      "title": "beGalileo, the Mathematical Thinking & Cognitive Capability Building Program signs up Sania Mirza as Brand Ambassador",
-      "excerpt": "He hoped that she will help them put the brand in the 'zone' when parents look for that 'one' option that will aid their child with core foundational & cognitive skills to stay ahead in life.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1231006&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1231006&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1730479/Sania_Mirza.jpg",
-          "width": 400,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-20T01:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications.md",
-      "title": "Telenor teams with AWS to accelerate modernisation of telecommunications",
-      "excerpt": "Fornebu: As part of the agreement, Telenor and AWS will invest in joint go-to-market activities in select industries—such as manufacturing, supply chain and logistics, and automotive—to enable more 5G and edge services for customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/edge/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications-43390/",
-      "originalUrl": "https://www.telecomtv.com/content/edge/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications-43390/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/edge/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications-43390/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications-43390/amp/",
-      "publishedDateTime": "2022-01-20T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-european-ai-startup-landscape-is-growing.md",
-      "title": "European AI startup landscape is growing",
-      "excerpt": "During this year's virtual Swedish Innovation Days, the updated version of the European AI landscape was presented. The first version of the landscape was first launched at the end of 2020 and included over 500 startups from Germany,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-european-ai-startup-landscape-growing-/2022/01/20/9529658.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-european-ai-startup-landscape-growing-/2022/01/20/9529658.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-20T00:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-ideas-ignited-the-motivation-application-and-ethics-of-ai-first-digital-engineering-in-sports.md",
-      "title": "Ideas Ignited | The motivation, application and ethics of AI-first digital engineering in sports",
-      "excerpt": "Quantiphi's Sanjiv Chourasia outlines how technology providers and the sporting ecosystem are integrating AI to elevate sports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportspromedia.com/opinions/sports-tech-application-ethics-ai-digital-engineering-quantiphi-ignition/",
-      "originalUrl": "https://www.sportspromedia.com/opinions/sports-tech-application-ethics-ai-digital-engineering-quantiphi-ignition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-19T22:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SportsPro",
-        "domain": "sportspromedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

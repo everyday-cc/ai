@@ -40,6 +40,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Geospatial Analytics Artificial Intelligence Market Estimated to Reach $172 Million by 2026"
+    excerpt: "Rise in Internet Penetration Driving the Growth of Geospatial Analytics Artificial Intelligence Market. The Global Geospatial Analytics Artificial Intelligence Market is estimated to reach $172 million by 2026, growing at a CAGR of 30.0% from 2021 to 2026."
+    publishedDateTime: 2022-02-07T17:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/geospatial-analytics-artificial-intelligence-market-estimated-to-reach-172-million-by-2026"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 27
+    images:
+      - url: "https://www.abnewswire.com/uploads/1643623445.jpeg"
+        width: 256
+        height: 256
+        isCached: true
 
 secured: "2DrHwwtYh7z9y2yrmM3fwxLH/2lqws7OWgWxSavdtxBBIghfEy7XSHVi7G5nPL9rEImhZcpdNoruCfQVRc1yDNVG+DD22uVKHnsdPYkQ02GrrrUtb2+1ymqca91Io3nsARy68sOgjN0nHIFxonoGKiP8ukB/UfHbBCL3DptwyLt8RFIGkkv2F521rYovFMQEyZc0sPqojuJxHYTPNd3JJL6nLd1moeTdB7Di4gd2XXZ57VcUt2Ir3GvU9dASSlsyWMoExDgt8rOm9Zs9kx2wOeMj35HsRa6ZLXi0hktBhmaDV8lNU0tJsGLnRTVyG0hyckqEvwnABh6wU1esKIONepKcb715xqItRXmMsaYtR8M=;d5L/VTZ5oe4E1r54Ko/SGQ=="
 ---

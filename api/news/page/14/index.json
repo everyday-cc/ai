@@ -2,6 +2,197 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-01-22-ibm-is-selling-off-its-watson-health-assets.md",
+      "title": "IBM is selling off its Watson Health assets",
+      "excerpt": "Watson Health was borne out of IBM's larger Watson effort, which aims to use artificial intelligence to solve a range of problems for businesses and consumers — from creating a computer that can ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220121123649-ibm-office-californie-file-0120-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/01/21/tech/ibm-selling-watson-health/index.html",
+      "publishedDateTime": "2022-01-21T21:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai.md",
+      "title": "AI Weekly: Watson Health and semi-autonomous driving failures show the dangers of overpromising AI",
+      "excerpt": "AI technologies can fall short of their promise, as news from this week about Watson Health and semi-autonomous driving systems showed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/",
+      "originalUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/06/ibm_watson_avatar_pos-e1560280426131.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/21/ai-weekly-watson-health-and-semi-autonomous-driving-failures-show-the-dangers-of-overpromising-ai/amp/",
+      "publishedDateTime": "2022-01-21T21:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-ibm-sells-its-watson-healthcare-assets-to-francisco-partners.md",
+      "title": "IBM sells its Watson healthcare assets to Francisco Partners",
+      "excerpt": "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Francisco Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
+      "originalUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/import/2014/05/ibm.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 917,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
+      "publishedDateTime": "2022-01-21T21:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications.md",
+      "title": "Telenor teams with AWS to accelerate modernisation of telecommunications",
+      "excerpt": "Telenor, an international provider of tele, data and media communications services, and AWS will invest in joint go-to-market activities in select industries—such as manufacturing, supply chain and logistics,",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/telecoms-and-nbn/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications.html",
+      "originalUrl": "https://itwire.com/telecoms-and-nbn/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/b5bf9e446b95b7a0bd33dbe4eed25746_M.jpg",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-21T17:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-22-irs-to-require-facial-recognition-for-digital-services.md",
       "title": "IRS to Require Facial Recognition for Digital Services",
       "excerpt": "People who use the IRS digital portal will need to be prepared starting in the summer to submit a live video selfie and various documentation to make and view payments and access tax records.",
@@ -950,195 +1141,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-how-will-self-driving-cars-affect-cities-like-chicago.md",
-      "title": "How Will Self-Driving Cars Affect Cities Like Chicago?",
-      "excerpt": "Self-driving cars are spreading out across the country, and you may see one yourself on the Kennedy or Dan Ryan Expressway soon. CBS News’ Laura Podesta has a report, and DePaul University Professor Joe Schwieterman talks with CBS 2’s Jim Williams and Marie Saavedra about how self-driving cars will affect big cities like Chicago.",
-      "sourceUrl": null,
-      "webUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/",
-      "originalUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/A62/148/A62148484122E4CB516218C23E149CBE.jpg?Expires=1737763200&KeyName=mcpkey1&Signature=fLzgtdGVzWxw5PRkk1suUHf8_Ok",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/?amp",
-      "cdnAmpWebUrl": "https://chicago-cbslocal-com.cdn.ampproject.org/c/s/chicago.cbslocal.com/video/6188735-how-will-self-driving-cars-affect-cities-like-chicago/?amp",
-      "publishedDateTime": "2022-01-20T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-new-ratings-aim-to-make-partial-self-driving-safer.md",
-      "title": "New Ratings Aim To Make Partial ‘Self Driving’ Safer",
-      "excerpt": "Many partially automated systems that “share” the driving with motorists, like Autopilot, Pilot Assist and Super Cruise, don't provide enough back-up protections, according to a new ratings system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/",
-      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e9e75f4b77c5fa20f81778/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/",
-      "publishedDateTime": "2022-01-20T13:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-anymals-quadrupedal-robot-takes-a-hike.md",
-      "title": "ANYmal’s quadrupedal robot takes a hike",
-      "excerpt": "It’s been pretty astonishing to see what robotics researchers have been able to accomplish with legged robots over the past few years. Oregon State University taking Cassie for a 5K back in July springs to mind.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/",
-      "originalUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/image.imageformat.fullwidth.1716413789.jpg?w=930",
-          "width": 930,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/amp/",
-      "publishedDateTime": "2022-01-20T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-al-gore-emissions-reductions-hinge-on-ai-measurements-from-space.md",
-      "title": "Al Gore: Emissions reductions hinge on AI measurements from space",
-      "excerpt": "Achieving earthly emissions reductions goals will hinge upon the extraterrestrial capabilities of artificial intelligence technologies that are taking precision measurements from space, according to f",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from",
-      "originalUrl": "https://thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/goreal_08132018getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from?amp",
-      "publishedDateTime": "2022-01-20T11:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

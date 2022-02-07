@@ -2,21 +2,72 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-01-27-how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-19025-million-by-2028.md",
-      "title": "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028",
-      "excerpt": "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting a CAGR of 11.1% between 2021 to 2028. In its report titled“Cryptocurrency Market,",
+      "path": "_news/2022-01-27-vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models.md",
+      "title": "Vanti Analytics secures $16M to assist manufacturers in deploying AI models",
+      "excerpt": "Vanti Analytics, a startup developing an AI model management platform for manufacturers , has raised $16 million in venture capital.",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103600603/How-Artificial-Intelligence-Will-Boost-the-Cryptocurrency-Market-to-Reach-USD-19025-Million-by-2028",
-      "originalUrl": "https://menafn.com/1103600603/How-Artificial-Intelligence-Will-Boost-the-Cryptocurrency-Market-to-Reach-USD-19025-Million-by-2028",
+      "webUrl": "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/",
+      "originalUrl": "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/aluminum-manufacturing_recycle-aluminum_05102018.jpg?w=1200&strip=all",
+          "width": 1142,
+          "height": 940,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/27/vanti-analytics-secures-16m-to-assist-manufacturers-in-deploying-ai-models/amp/",
+      "publishedDateTime": "2022-01-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-artificial-intelligence-myth-busting-ethics-ai-for-social-good-and-what-it-means-for-cornwall.md",
+      "title": "Artificial Intelligence; myth-busting, ethics, AI for social good and what it means for Cornwall",
+      "excerpt": "Artificial Intelligence; myth-busting, ethics, AI for social good & what it means for Cornwall. Our highlights from our Tech Connect event.",
+      "sourceUrl": null,
+      "webUrl": "https://softwarecornwall.org/news/artificial-intelligence-myth-busting-ethics-ai-for-social-good-and-what-it-means-for-cornwall/",
+      "originalUrl": "https://softwarecornwall.org/news/artificial-intelligence-myth-busting-ethics-ai-for-social-good-and-what-it-means-for-cornwall/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?786443",
-          "width": 375,
-          "height": 250,
+          "url": "https://softwarecornwall.org/wp-content/uploads/2022/01/Software-Cornwall-Artificial-Intelligence-Tech-Connect.png",
+          "width": 770,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +77,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T02:42:00-08:00",
+      "publishedDateTime": "2022-01-27T03:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
+        "name": "softwarecornwall.org",
+        "domain": "softwarecornwall.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +91,41 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-2-monster-machine-learning-stocks-to-buy-for-the-long-term.md",
+      "title": "2 Monster Machine Learning Stocks to Buy for the Long Term",
+      "excerpt": "Machine learning is a subset of AI that uses data to improve processes, and also make predictions. It's already being applied to dozens of industries globally, streamlining everything from racing to internet search results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term",
+      "originalUrl": "https://www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-monster-machine-learning-stocks-to-buy-for-the-long-term?amp",
+      "publishedDateTime": "2022-01-27T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -221,6 +306,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-27-how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-19025-million-by-2028.md",
+      "title": "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028",
+      "excerpt": "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25252700",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25252700",
+      "publishedDateTime": "2022-01-27T01:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1048,134 +1167,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-airbnb-blocked-11000-bookings-in-arizona-last-year-with-anti-party-system.md",
-      "title": "Airbnb blocked 11,000 bookings in Arizona last year with 'anti-party' system",
-      "excerpt": "Because these types of parties tend to pop up around the holidays, Airbnb also strengthened rules to prevent one-night bookings for guests who didn't have a positive rental history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.12news.com/article/news/local/arizona/airbnb-blocks-11000-bookings-in-arizona-with-anti-party-system/75-8972ec4d-3ca0-4584-97fa-4753908f15cc",
-      "originalUrl": "https://www.azfamily.com/news/airbnb-blocked-11000-bookings-in-arizona-in-2021-with-anti-party-system/article_b2fa21ee-7ec6-11ec-8976-637be534aeda.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.12news.com/assets/KPNX/images/67fe1349-491d-4204-8cf4-e25e09d2fe1b/67fe1349-491d-4204-8cf4-e25e09d2fe1b_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.12news.com/amp/article/news/local/arizona/airbnb-blocks-11000-bookings-in-arizona-with-anti-party-system/75-8972ec4d-3ca0-4584-97fa-4753908f15cc",
-      "cdnAmpWebUrl": "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/arizona/airbnb-blocks-11000-bookings-in-arizona-with-anti-party-system/75-8972ec4d-3ca0-4584-97fa-4753908f15cc",
-      "publishedDateTime": "2022-01-26T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZFamily",
-        "domain": "azfamily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-israels-digitalowl-raises-20m-for-language-processing-tech.md",
-      "title": "Israel’s DigitalOwl raises $20M for language processing tech",
-      "excerpt": "DigitalOwl, an Israeli company that has developed natural language processing (NLP) technology to analyze and summarize medical records, announced on Wednesday a $20m. Series A round led by New York-based global private equity and venture capital firm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-694647",
-      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-694647",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/494729",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-694647/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-694647/amp",
-      "publishedDateTime": "2022-01-26T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-what-you-need-to-know-about-chinas-ai-ethics-rules.md",
-      "title": "What you need to know about China's AI ethics rules",
-      "excerpt": "China is trailblazing AI regulation, with the goal of being the AI leader by 2030. We look at its #AI ethics guidelines.",
-      "sourceUrl": null,
-      "webUrl": "https://techbeacon.com/enterprise-it/what-you-need-know-about-chinas-ai-ethics-rules",
-      "originalUrl": "https://techbeacon.com/enterprise-it/what-you-need-know-about-chinas-ai-ethics-rules",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbeacon.com/sites/default/files/styles/social/public/field/image/xu-haiwei-ie7amef-9wk-unsplash.jpg?itok=WJPY8Upj",
-          "width": 1024,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbeacon.com/enterprise-it/what-you-need-know-about-chinas-ai-ethics-rules?amp",
-      "cdnAmpWebUrl": "https://techbeacon-com.cdn.ampproject.org/c/s/techbeacon.com/enterprise-it/what-you-need-know-about-chinas-ai-ethics-rules?amp",
-      "publishedDateTime": "2022-01-26T07:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techbeacon",
-        "domain": "techbeacon.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

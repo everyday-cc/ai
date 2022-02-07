@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Leveraging Artificial Intelligence (AI) in Egypt: Collaboration for Improved Breast Cancer Outcomes"
-excerpt: "... a collaborative program with GE Healthcare that builds on GE Healthcare's experience in women's health, artificial intelligence (AI) and contrast-enhanced spectral mammography (CESM), and ..."
-publishedDateTime: 2022-02-07T12:39:00Z
-originalUrl: "https://menafn.com/1103652009/Leveraging-Artificial-Intelligence-AI-in-Egypt-Collaboration-for-Improved-Breast-Cancer-Outcomes"
-webUrl: "https://menafn.com/1103652009/Leveraging-Artificial-Intelligence-AI-in-Egypt-Collaboration-for-Improved-Breast-Cancer-Outcomes"
+excerpt: "Most recently, this includes a collaborative program with GE Healthcare that builds on GE Healthcare’s experience in women’s health, artificial intelligence (AI) and contrast-enhanced spectral mammography (CESM), and Baheya’s clinical expertise in ..."
+publishedDateTime: 2022-02-07T14:05:00Z
+originalUrl: "https://www.zawya.com/saudi-arabia/en/story/Leveraging_Artificial_Intelligence_AI_in_Egypt_Collaboration_for_Improved_Breast_Cancer_Outcomes-AFPR0702202237254/"
+webUrl: "https://www.zawya.com/saudi-arabia/en/story/Leveraging_Artificial_Intelligence_AI_in_Egypt_Collaboration_for_Improved_Breast_Cancer_Outcomes-AFPR0702202237254/"
+ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/AFPR0702202237254/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/AFPR0702202237254/"
 type: article
-quality: 40
-heat: -1
-published: false
+quality: 60
+heat: 70
+published: true
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?944302"
-    width: 335
-    height: 250
+  - url: "https://www.africa-newsroom.com/files/large/e5f64af1a46ab95"
+    width: 793
+    height: 717
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "mC8UN4N7RbnZrWhcTb85Ts0hOPuEtUe0M04TFUbTxJ/U1N0RqP8kN6qJ/X3inu4Pf/fz/hRH8eCA/jxh0EZti1U/j0et7cKNOpS1ersMenCZy9nl/XdQ2ETyM1mAQ7+mO3YaswRFpEdspA1m/g51jYhC8UbM5wcs/7IuNzlUu5/WMSzdyOF9YEWzIKd/tqtcYUhdS/7o7s30FCEVqk/Kq35ThipnRDTaXoNVDrGDFTJM8K0KZFdHHOkhzATJqCKJd4j2mMifVS6bMW7cz0FzMMrSN31pbvdjV9YMrUpLHkHxgh0+lOe6vP49OQtmY2RT3MaKYMLxgsoboWbuWuhK7A76Ca8VVomcpcTmwlao26w=;zZ6b2wSvII6UrKDxywkFBQ=="
+secured: "GqK+iiYJ+JmnuVLuDHnPZYc2gt3EmA5c0eVH+BImz0p9YYW+Opx8X1zWCl/AGnIWGI0l3WxhQiVPTVO5w4/bGtfxgk4nyD/NlD+W9RpR/uiQ52+EsEJvpkVQrczOL/nSwA1eP6QuTXD8zOs62t61ZPNWbN1p7fR2kQENLcav/wx16qkRxLdzxNm+IIujkMOmXs9BmGjACGOZO0F38fd+cB0aVIwlbUv6/owYbVeSMHT56HFQHZnuOXkfc1FxQ2M9YsZu7TqHkzpfRv4rA8anhDBP8wcpUHpc1weChSiaXAsz5wDZIEdhG+T2uiKKgERd4kFa9xiRg4j7GicaLXrgltVJnmS9H9VPHNWn5OuWJh4=;x2kfDwLnguPwvWgw/+ctLw=="
 ---
 
