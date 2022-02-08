@@ -15,7 +15,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=7_xEzmUAAAAJ
-  citations: 178577
+  citations: 179489
 
 topics:
   - AI
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Daniele Bonacorsi"
 
-secured: "HWERgF+geoj6akyi7JruzNC7TYS9h88q880RRujiDh6CfVKnhEaebkh+aRZJXk8EkTK/KQ2lrXAWuZvzTrWBDuhmDTyPkm6xW4ZsRrnV/gv7Ca3TVXLoh0maMQsjoXyqvscp+qN/ghmPr/mQHJzjV5U/XFhpfcUX9fM1mCZPrF6d1J4qxWvMG2Mj4dcDFZ2p/TkeN5SxWi9xW/dZio7Po5TKvjgQxPkSA8PljXe9cJCm5d1IXHjralC+ExxXXD4kiDjusWUddQ+1u7SzPDNH6CNDB0vPzw9GzXNJIqrY0CBRHt+Xn+xst5nx2CgbXkmkpUdZYL6NjzPfVSy3FGdfRVMDvOXwDXdhRXDhSKLKBKXnAZ66f5KBVRgzR3V+ZuSxTttF4Ow3HXVLMSUhcA/QlZSkQ3mvhriRHJ+ErS3I5jU=;54nCvBBi4rm4L/gYJmBtwA=="
+secured: "N2swqVgvvuQN1WDaCy1GLAChCFBZizLB43zKEp5SgRMVVwXSywS0ArENIJA2zE+KOBrjUOZUnAn3h6Fb1EnQmW5eGwQieuKTp1Fz9h44gkI9Jdcfty7EXUrmxBQHQhP9Ww07RdKaHIp2YbickzYKYDXyA3dFfZTO2YERlZMEHhC827DkbFkHN7kaRWy7MbNXfjXy6SasE2AY1mVYqc7An/NLZOYRqhQpJbTqADzPdO0HxQV7mwGSM4fCq7sreUiZUwdKo5SHryVWYxvqfNHt5YXSPT0hIcs9ZA4VXm3LbcyintoZbDgP5DHqZhEdAd77Epf5DHOpenhflUyO6xWsuCwXE2aFh9ZhPhI+VefOIDts4vKMNF01bJ1QxZKZ2JwQscw6KU6T4Ki6J9dgzPc/QuzEPTi5gPgAA2Pk2vZcbBU=;Fqocy4I5OPNF0b6IRswviw=="
 ---
 
