@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/ibm-and-snyk-developers-must-le
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Jump in Facial and Voice Recognition Raises Privacy, Cybersecurity, Civil Liberty Concerns"
-    excerpt: "Facial recognition, voiceprint, and other biometric-related technology are booming, and they continue to infiltrate different facets of everyday life. The technology brings countless potential benefits, as well as significant data privacy and cybersecurity ..."
-    publishedDateTime: 2022-02-03T23:23:00Z
-    webUrl: "https://www.natlawreview.com/article/jump-facial-and-voice-recognition-raises-privacy-cybersecurity-civil-liberty"
-    ampWebUrl: "https://www.natlawreview.com/article/jump-facial-and-voice-recognition-raises-privacy-cybersecurity-civil-liberty?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/jump-facial-and-voice-recognition-raises-privacy-cybersecurity-civil-liberty?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 51
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
   - title: "inGen Dynamics Selects Firedome To Provide IoT Cybersecurity To Its Entire Robotic and AI Solutions Portfolio"
     excerpt: "inGen Dynamics (https://www.getaido.com) is an AI and Robotics company dedicated to positively influencing the world’s perception of intelligent machines. We create intelligent, innovative solutions that simplify the complexities of life. Our passion is ..."
     publishedDateTime: 2022-02-06T18:35:00Z

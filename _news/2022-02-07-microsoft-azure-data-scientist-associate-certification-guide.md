@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/304352/microsoft-azure-data-scientist-as
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html/amp"
 type: article
 quality: 74
-heat: 135
+heat: 134
 published: true
 
 provider:

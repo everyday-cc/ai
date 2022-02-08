@@ -169,6 +169,20 @@ related:
         width: 870
         height: 489
         isCached: true
+  - title: "Apple acquires a startup company that uses AI to adapt music to listeners"
+    excerpt: "Apple appears to be continuing its acquisition of companies concentrated around music. After last year's acquisition of Primephonic, a music service for streaming classical music, the Cupertino company recently purchased AI Music,"
+    publishedDateTime: 2022-02-08T14:23:00Z
+    webUrl: "https://www.phonearena.com/news/apple-acquires-a-startup-company-that-uses-ai-to-adapt-music-to-listeners_id138326"
+    type: article
+    provider:
+      name: Phone Arena
+      domain: phonearena.com
+    quality: 36
+    images:
+      - url: "https://m-cdn.phonearena.com/images/article/138326-wide-two_1200/Apple-acquires-a-startup-company-that-uses-AI-to-adapt-music-to-listeners.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "tYmoRmh/pEJhZXg3ExAqNDK5Dv/jRQYBgqPeZjZ0e1c6qu7vrDRUVnFmTMXIAveCPBwDAmqsBZBotJTZ2ZxRBu72Re3d+eWyRG864H7+6io6NkoGkumQrgfzNGi3eeghl4MgKY11ffcS8zxS9HA6BkQrPu5SL7W0jUYOj8rJ2avLBpOKjTteofXFeYojWRh1diweR7c+jeVbKQyfU7EEkloUYA1wgb2sL9iI6FB1OZcaXliJaKK77Sveto96uNcfKBM1vJDMK62H0IQj6msN0qh6Ms/LT1nXLD3Sm/YRxg49ttdkZxCgb5y84/V8z6ckJ5gj0F2NDpM7sIfAcF3ovgaWpb4zRyJ2C/fj8G2x4lA=;Zqz2HEfUrVt3DDR6S61Haw=="
 ---

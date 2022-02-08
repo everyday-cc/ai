@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
 type: article
 quality: 72
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -168,6 +168,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/aimusic.jpg"
         width: 1800
         height: 942
+        isCached: true
+  - title: "Apple acquires a startup company that uses AI to adapt music to listeners"
+    excerpt: "Apple appears to be continuing its acquisition of companies concentrated around music. After last year's acquisition of Primephonic, a music service for streaming classical music, the Cupertino company recently purchased AI Music,"
+    publishedDateTime: 2022-02-08T14:23:00Z
+    webUrl: "https://www.phonearena.com/news/apple-acquires-a-startup-company-that-uses-ai-to-adapt-music-to-listeners_id138326"
+    type: article
+    provider:
+      name: Phone Arena
+      domain: phonearena.com
+    quality: 36
+    images:
+      - url: "https://m-cdn.phonearena.com/images/article/138326-wide-two_1200/Apple-acquires-a-startup-company-that-uses-AI-to-adapt-music-to-listeners.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "MiuhR++QEYxbvbSM4dxbRRGusiWI38nKJWE2Y+rSP/ETSJc4I6wY+dTXi5cBbYWneJAzDNSwO7Bmn0yG4VX+/JvMTKpQqLTbDwFOp81ow8Lte/8cIS8saqBgJo4+JOS1PBmzpkDCzo3yAKkU5IumqwFCEOVM/1TgJyB9mJ1VZgMJhRudj3N8enzPX+T2JmliMXs1Jx8j5PyQURRP0iZxrwrDzKouE49iGDXWwnhpT+epfY4zDSM3F7+ALbXfVFgsCvR/sJ35U2NQD1eoTLspTix95R10ltY38OAgqrx322aCZrE3FCsug3dKW7iJJ4vP66D5HJAUKLave0E17l9aT+G/V9Q2b7T2K96Wll5YfaRctCCFHZYTG4Y7ObunL7Wak/qPFQpyTE2pOYM7EVJlss4ht8xFA/DfhhXToQ3yVXB5GwMzeOEAyp4bLUyYWWRzNCDzEPfhEZGIO0LG0EZKLvP/YVG19KJmIptjnPJSauhQ2R1mVZAzNYL9LknH8gPHByiD2VzYpEoKM8aSm1rAMQ==;9//bSA/QeoEPGm/82RoBNw=="

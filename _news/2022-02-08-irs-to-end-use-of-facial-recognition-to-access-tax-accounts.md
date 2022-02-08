@@ -584,6 +584,20 @@ related:
         width: 768
         height: 511
         isCached: true
+  - title: "The IRS backs down from facial recognition plan to verify identities"
+    excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
+    publishedDateTime: 2022-02-08T16:44:00Z
+    webUrl: "https://www.cincinnati.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 39
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IRS facial recognition plan gets fierce blowback from bipartisan senators"
     excerpt: "In the wake of a controversial plan by the Internal Revenue Service to implement third-party services that rely on facial recognition, bipartisan senators on Thursday demanded that the IRS “immediately discontinue” any programs that collect ..."
     publishedDateTime: 2022-02-04T21:00:00Z
@@ -597,20 +611,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-IRS-facial-recognition-plan-gets-blowback-from-bipartisan-senators.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Will IRS Require Use of Facial Recognition Software To Access Tax Info Online?"
-    excerpt: "another reader asked. As of this writing, it’s true that the IRS is requiring taxpayers to use facial recognition software designed by a technology company called ID.me to access IRS documents and services online. We reached out to the IRS for comment ..."
-    publishedDateTime: 2022-02-04T00:27:00Z
-    webUrl: "https://www.snopes.com/fact-check/irs-facial-recognition-software/"
-    type: article
-    provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 35
-    images:
-      - url: "https://www.snopes.com/tachyon/2022/02/GettyImages-1205818979.jpg"
-        width: 2121
-        height: 1414
         isCached: true
   - title: "IRS Drops Plan To Require Facial Recognition To Access Accounts Following Backlash"
     excerpt: "WASHINGTON (CNN) — The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website ..."
@@ -675,6 +675,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "zfsA5h+87um8pjbtNqHbTSDLeETdMhWW2xZZc6YNGUeiadBkmRwuJM61XqSKPEipNhAfaYQrbBD5S35tcDJrOGjdLcgd+POADSR+WuFBR0Ty8UU9Pzv4j7Q9i7IVjjZROdh0Mb5ecSlDNnOPulQqWK9QDuJlIpqGUOD1Ka04DqZsSiV7pQNCsH8ZWQ2vwf8sATSyEmn94sYhOZoIEdOvqVMcIKl/JW6fi6vd+VjCztnwAjlueB2t2S+wg+yvdilHhTbOTGD+QjKmBZAXFRBcEi60XIE1CXKIRLanI93Xr6OGns6dYZNRVE38/VcBTFUik1/PHnw5XHOdCcVFc9DwQHv1jlHx9NgoVq9HmKQ4xM4=;nZiWB8eDAw+Ids98Gxf6bA=="
+secured: "ekmqKhkGqQB7Kpzt6OpMvnMgCsZFDzBkfzINS5sEvPRamsllXiUEZGSs+jFXzdGiYiZGdfKEjsv24sb60v7VHkqHuMCtlUsZeJj1QwF9+AY7AxYkOYW6fIBv5tRXj4v6t/Kv6Xirl3r/DzW1Dxjx3zN+UmoUGdyxvQCQmV58nz6QFvhoTLY0QOLVhkxyXVk+3cMF5QP5ll1ntd9m8lzoR+w9P+5Jt6+roLwfckRWr9KQjr4XvrEyS1tQitN9KXqxXM3VRW8jvCSZldIzT8MoqdZ8r8wiQmpRI7Un9pCHWs95bp6QpgkHLblELCBSGBMW7UwhN1Ert6+9HnarIo5lT5DoccTs4c0asI+efq66dOHjubIYqnx6+a+3ltGM6KqXRbo/+eRSJENISml4sSXTm72LbsA445Oaf+7FFOt+qHN/h0gkwcshBAPl/UKLR1BXdcsU3YRDWBXt6ZM7hkG4O9yx5PJvtCmUFmV1vH/8ZUsX1Nzj7VdhtO9ZFa8AudyXuIIRZ7mn/87rY1sNsYen0g==;A/oJZbVv0rmoHD8Yj7+hWA=="
 ---
 

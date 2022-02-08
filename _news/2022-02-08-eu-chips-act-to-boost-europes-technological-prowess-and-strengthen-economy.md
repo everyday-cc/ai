@@ -1,31 +1,29 @@
 ---
 category: news
 title: "EU Chips Act to boost Europe’s technological prowess and strengthen economy"
-excerpt: "This way, the economy is less exposed to supply chain disruptions, but can also fully take part in future developments in the field of artificial intelligence (AI) and autonomous, industrial systems, where leading-edge chip innovations will play a crucial ..."
-publishedDateTime: 2022-02-08T12:22:00Z
-originalUrl: "https://www.fxstreet.com/analysis/eu-chips-act-to-boost-europes-technological-prowess-and-strengthen-economy-202202081155"
-webUrl: "https://www.fxstreet.com/analysis/eu-chips-act-to-boost-europes-technological-prowess-and-strengthen-economy-202202081155"
-ampWebUrl: "https://www.fxstreet.com/amp/analysis/eu-chips-act-to-boost-europes-technological-prowess-and-strengthen-economy-202202081155"
-cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/eu-chips-act-to-boost-europes-technological-prowess-and-strengthen-economy-202202081155"
+excerpt: "Chips are everywhere and will play an increasingly critical role in society. The EU Chips Act will help Europe strengthen its position as a"
+publishedDateTime: 2022-02-08T06:35:00Z
+originalUrl: "https://think.ing.com/articles/eu-chips-act-to-strengthen-europes-economy/"
+webUrl: "https://think.ing.com/articles/eu-chips-act-to-strengthen-europes-economy/"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: FXStreet
-  domain: fxstreet.com
+  name: ING
+  domain: ing.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://editorial.fxstreet.com/images/Macroeconomics/Countries/Europe/european-union-5671456_Small.jpg"
-    width: 320
-    height: 240
+  - url: "https://think.ing.com/uploads/hero/_w800h450/shutterstock_684989755.jpg"
+    width: 800
+    height: 450
     isCached: true
 
-secured: "k3GqVcoHR/vQrFHFjhNI/osBzEzuOsiN5SGZUylcL+tU3ImCTw/Vor5eUqgqjO7QLQMlX4Q8/1zcjGeuWVYXp6fVkNOJOl43oKylgygdxRtL/aYVSgxiEDkB80KDEg1hjCu1a2G0PWqy1Os1WAMkV3IjMim2hjehBohLTmb3Mujhz/jjZeWpLaLT+LrlR8FrdhIL/ZPSYlsCMo0gCHwCmjTA00qCRRQfEvFOKfaRMBq626VeBKMfrmbPbBq9WSLfPlSBg0DTHcqiU5nDo7lCYOK5segs4Ujg4HzCesgaSIxQEUgAiyFMcIddCrPUt60mW3iCCQqvWGb9wTd5XjJjbT7zklwuzNftSe69U4544v3CDR6sfweHAH2jm56V99KyypnPZM8cb80ywYgJzY0woYT7tm5Gsd8UCpIFTrsDKZm9MRebgq27BS375dwwyOtVac5g87n2dZLhs3ditXYVC5Gy4wuZYE/6NHiEjs+yu0HKye93VcnkVy1W7K76PPuIeGg7u3RmcTMFTtm7iiqQ0A==;ojrgTuzf+jjSOFwk/2TVew=="
+secured: "/iOzdAD9gPziyogD/qk4RPB9Acq+tNF3fvynFDSIYSnYQxHtxEeldMaVCiaZrXae3hR2WPARRu6kFC/hhM3e0vVMJsYlTadJxDieJbXti1eCkSjMgfMPD6f+WM7/Dx+g29yU3Oavckp2A4v3aA8HX+SqO9PjqD63azPM9PCfx8LUHzN+Pc3ukVXh9QFRMDirlbBBSCE3N4tnoPcSaHB+6uKpTXU/vJYMX+vCSXn3h1jdUalNoEZbFIGqXLAeFiU+rWEb2gxf07sIVbPa0E8o4vQNd4dyzLZ+Le769qK/NAQ0+TT4fNEJxNAfBdHfkz9Tpu2ykRLxesDxhLIZyOUUV3Hrc5+VBZAAbCgkvonqRVQ=;kv0/RBO5wurZrcdocrYLwQ=="
 ---
 

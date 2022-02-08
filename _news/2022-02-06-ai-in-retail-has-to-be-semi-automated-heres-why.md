@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/05/ai-in-retail-has-to-be-semi-autom
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/05/ai-in-retail-has-to-be-semi-automated-heres-why/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:
