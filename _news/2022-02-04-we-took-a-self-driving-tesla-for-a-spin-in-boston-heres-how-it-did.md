@@ -135,20 +135,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NEWS TAGGED SELF-DRIVING CAR"
-    excerpt: "Mercedes-Benz recently announced its Level 3 self-driving system Drive Pilot has been approved by the German Federal Motor Transport Authority (KBA) and can now operate on roads i"
-    publishedDateTime: 2022-02-03T09:17:00Z
-    webUrl: "https://www.digitimes.com/tag/self-driving_car/00111368.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://ad.digitimes.com.tw/webadImg/en_20220119_semiconductor_bigbutton.jpg"
-        width: 336
-        height: 280
-        isCached: true
 
 secured: "2xQsgqkjs5dBRqyad40Us5XV8KNZ4Q5sfgZmQCxSLuv4UdTF/ODIttyM6DuGAhbGEaadsdD1bQmXalCDbi8ZgKkZsKnmBGG4mBSlskkRksFR6yccOmmw73aIRySV7qemS3QXyI3UFF5G/daLO/0EaPH826BweY/wKXqsE5kAw21fCAB0929bDnI0ymktZTHJiCyncqKkGrOmgr47GMymWOsA/4kRMRnTYImJcOGfWhu5dPaQtzBMVgAAvhc/SUciWOHjG2PoQkxzK2z2CX7tM612Dia1pricmb9uroA5MUJPSPbq6bGEt181nAaEzKMw8vG+qe+cN8JqIO9ugDsE5wdkcfkoWGhP0rpi2TnNaAa1p6s1rDjCtbDYb6gwc0qLMMQzxuGPBTtVDwqPypWJi3cQogI1iyZasH/PcyQY0gu1tpqgUzxFjqkhEL2SOd+x1cNBNKygy7uQ+d1OJ4JDwZ+c+L5YDn2eONs39ohsQRTD0/zARfZERd1eJmHRQRleOEr2GMCeMYfdCDkBXRqQqQ==;KCOeWHVjpFo76Rn5gaklNA=="
 ---

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-22-paravisions-face-recognition-ranks-as-the-most-accurate-in-the-world-in-latest-nist-frvt-1n-report.md",
+      "title": "Paravision's Face Recognition Ranks as the Most Accurate in the World in Latest NIST FRVT 1:N Report",
+      "excerpt": "SAN FRANCISCO, Jan. 21, 2022 (GLOBE NEWSWIRE) -- Paravision , the U.S.-based leader in mission-critical computer vision, today announced that it has ranked as the most accurate face recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103575035/Paravisions-Face-Recognition-Ranks-as-the-Most-Accurate-in-the-World-in-Latest-NIST-FRVT-1N-Report",
+      "originalUrl": "https://menafn.com/1103575035/Paravisions-Face-Recognition-Ranks-as-the-Most-Accurate-in-the-World-in-Latest-NIST-FRVT-1N-Report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?229744",
+          "width": 443,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-21T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology.md",
       "title": "Guest column: To protect Montanans’ privacy, we must address facial recognition technology",
       "excerpt": "Our rights to not have our property or persons searched or seized without a warrant, to not be harassed by the government without good reason, and to conduct our own",
@@ -1323,58 +1366,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027.md",
-      "title": "AI in Computer Vision Market Size Soaring at 26.3% CAGR to Reach 64.59 billion USD by 2027",
-      "excerpt": "Unscathed by challenges, the worldwide AI in computer market is expected to record a strong CAGR of 26.3% over 2021-2027, consequently multiplying the industry remuneration from USD 12.6 million in 2020 to USD 64.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027-2022-01-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027-2022-01-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

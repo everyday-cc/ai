@@ -19,21 +19,81 @@ topics:
   - AI
 
 related:
-  - title: "How can traditional banks survive in the age of Fintech?"
-    excerpt: "Thanks to their agile mindset and better product positioning, not only are Fintech’s crashing entry ... organization processes and graduating to AI-led banking. Every industry goes through ..."
-    publishedDateTime: 2022-02-03T10:04:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-can-traditional-banks-survive-in-the-age-of-fintech/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-can-traditional-banks-survive-in-the-age-of-fintech/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-can-traditional-banks-survive-in-the-age-of-fintech/"
+  - title: "Overview of the fintech industry: stats, trends, and companies in the ecosystem market research report"
+    excerpt: "In recent years, we've seen a ballooning of activity in fintech — an expansive term applied to technology-driven disruptions in financial services, where financial companies and startups use artificial intelligence (AI) and other tech in their day-to-day ..."
+    publishedDateTime: 2022-02-03T16:02:00Z
+    webUrl: "https://www.businessinsider.com/fintech-ecosystem-report"
+    ampWebUrl: "https://www.businessinsider.com/fintech-ecosystem-report?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-ecosystem-report?amp"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/02/Pic.jpg.jpg"
+      - url: "https://i.insider.com/5fa2c30f69331a0011bc738d?width=1200&format=jpeg"
         width: 1200
-        height: 1200
+        height: 600
+        isCached: true
+  - title: "5 innovative Belgian fintech companies to watch"
+    excerpt: "AI, automation and big data analytics are key themes for Belgian fintech, as innovative companies look to solve common problems in the financial services sector. Fintech is, broadly, technology that is applied to financial services or the management of ..."
+    publishedDateTime: 2022-02-07T07:03:00Z
+    webUrl: "https://www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.html"
+    ampWebUrl: "https://www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 44
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/09/eu_european_union_banknotes_currency_money_by_mabelamber_cc0_via_pixabay_2400x1600-100812035-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Founders Fund Reportedly Invests in Corporate Card Fintech Ramp at $8B Valuation"
+    excerpt: "The company invests across all stages and sectors, including aerospace, AI, advanced computing ... Blockchain peer-to-peer / marketplace lending and other forms of Fintech. 2021 was a record-breaking year forDealMaker, the market-leadingtechnology platform ..."
+    publishedDateTime: 2022-02-04T14:36:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Billion-Dollars-scaled-1024x768.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Space Robotics Market Share, Size, Growth, Trends, Top Companies, Industry Demand and Opportunity 2021-26"
+    excerpt: "Furthermore, the rising adoption of artificial intelligence (AI) and deep learning (DL) in the robotics industry is driving the market. Moreover, the key players are introducing AI-based robots that provide greater exploration benefits and enhance mobility ..."
+    publishedDateTime: 2022-02-04T07:01:00Z
+    webUrl: "https://www.digitaljournal.com/pr/space-robotics-market-share-size-growth-trends-top-companies-industry-demand-and-opportunity-2021-26"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjpqD1yIqNfAq4wxBd4Zca4Gtt4FfRdOgXcfEIojylz53waSWM5eSZpNS22Y9H0ZOctYqtX5bvR9pHXdDQeZMKeZVU3k3QM_HFBM1zpFAfiDEXPPFtps5-Do7XMhsU25ux4VisQkk5Omfr8Y60WPDQ9_LFYyahwfa_EUeYAi4oRM0X14S6RldCLnOA=s320"
+        width: 320
+        height: 240
+        isCached: true
+  - title: "AI in Fintech Market Report 2027: Overview, Size, Share, Analysis, Key Players and Outlook"
+    excerpt: "According to the latest report by IMARC Group, titled “AI in Fintech Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,” the ai in fintech market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% ..."
+    publishedDateTime: 2022-02-07T07:52:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-report-2027-overview-size-share-analysis-key-players-and-outlook"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEidUmPoFJvUX3AWX--IW6Pc-KRfvi1aqsczCNTnU2-buwLumK2bAojezPc4uPtCOXAXncmDv1519s9E8Zs5xmiGV02hB-uhN1feL4S0xCOFn4QHapWmmwg72nmhpkI2LF5y8wUl_-UkV-bY-KBJyTiP9ZuHPObfs3saGEaKuLzi9iPApijD4BLnXqs"
+        width: 724
+        height: 483
         isCached: true
 
 secured: "9qxIB+ujMlLKr0n55/JrKXSq847PGAfqeGNb+/6ceqFKq24nu/R12/KAJqXzfTyHdW1hb6DWCZpgTEpba0ywPGbP1es+SgaBGV95iUwNeDZwOEJrDDjUP40qOw2mgoFaBUmR5FpNt2IdJrzs+ISefFq/bhIzu/7/SwA8HV78SmQrYvBdIxHoM9Zbs8Sk8nClMvZZa4mv5NrTheeWAgiF4Zb7o4jKqTrytutEY4iTcUT3yfV15h2PoFMacS7yfFi1KpUxBQxWEaj5P96j04CXcZ7Lis3jzubVqgz86wzuPNeUO+K7kzikZ/HlAb+dv3Q/0iUhrqZ2C/QIEs3nfw3OfwKyEwILn89X9RsTpoQM/Og=;1tFzsNFlZgAToI0TL0pL1Q=="

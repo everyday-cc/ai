@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market : Industry Analysis, Size, Share, Growth, Trends and Forecast"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 03, 2022, 04:52 /Comserve / -- Machine Learning as a Service (MLaaS) Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent ..."
-    publishedDateTime: 2022-02-03T10:40:00Z
-    webUrl: "https://menafn.com/1103635916/Machine-Learning-as-a-Service-MLaaS-Market-Industry-Analysis-Size-Share-Growth-Trends-and-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?734605"
-        width: 365
-        height: 250
-        isCached: true
   - title: "Social Robots Market Report 2022-2027: Industry Size, Demand, Share and Future Scope"
     excerpt: "For instance, the widespread integration of machine learning (ML) and artificial intelligence (AI) with social robots to facilitate meaningful communication between the robots and individuals is positively influencing the market growth. Moreover ..."
     publishedDateTime: 2022-02-03T12:37:00Z

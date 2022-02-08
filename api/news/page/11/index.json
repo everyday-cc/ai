@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-25-find-another-machine-learning-investment-besides-c3ai.md",
+      "title": "Find Another Machine Learning Investment Besides C3.ai",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The trend is definitely not the friend of AI stock holders, and turnaround hopes are fading as the company's",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/414973",
+      "originalUrl": "https://www.entrepreneur.com/article/414973",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/static/20210702091022-gray100x100.gif?quality=5&crop=16:9&width=675&height=379.6875",
+          "width": 675,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce.md",
+      "title": "FedEx and Microsoft announce new cross-platform logistics solution for e-commerce",
+      "excerpt": "FedEx Corp. and Microsoft Corp announced the next solution as part of their multiyear collaboration to transform commerce, supply chains and",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/",
+      "originalUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/01/FedEx-and-Microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce-01.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/fedex-and-microsoft-announce-new-cross-platform-logistics-solution-for-e-commerce/amp/",
+      "publishedDateTime": "2022-01-25T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences.md",
       "title": "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences",
       "excerpt": "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes.",
@@ -1078,92 +1173,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer.md",
-      "title": "Meta says it will soon have the world's fastest AI supercomputer",
-      "excerpt": "Everything you need to know about AI An executive guide to artificial intelligence, from machine learning and general AI to neural networks. Read More Development of the RSC is ongoing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
-      "originalUrl": "https://www.zdnet.com/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
-      "publishedDateTime": "2022-01-24T20:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-behavioural-and-cognitive-psychotherapy.md",
-      "title": "Behavioural and Cognitive Psychotherapy",
-      "excerpt": "You are leaving Cambridge Core and will be taken to this journal's article submission site. To send this article to your account, please select one or more formats and confirm that you agree to abide by our usage policies. If this is the first time you use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/firstview",
-      "originalUrl": "https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/firstview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cambridge.org/core/services/aop-file-manager/file/56ab7c9d40b4e47e0c389966",
-          "width": 512,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T20:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

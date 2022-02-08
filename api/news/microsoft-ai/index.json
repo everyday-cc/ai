@@ -45,6 +45,50 @@
       ]
     },
     {
+      "path": "_news/2022-02-04-azure-machine-learning-webinar-recap-a-sneak-peek-at-the-process-and-possibilities-of-aml.md",
+      "title": "Azure Machine Learning Webinar recap: A sneak peek at the process and possibilities of AML",
+      "excerpt": "The AutoML option in AML studio is a quick and easy way to build models, primarily aimed at the citizen data scientist. All it requires is a dataset, and using the wizard to set up a few ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "originalUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Webinar800X400-1643974854034.png ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "publishedDateTime": "2022-02-04T03:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-cloud-computing-spending-just-hit-another-huge-milestone.md",
       "title": "Cloud-computing spending just hit another huge milestone",
       "excerpt": "Read More Amazon Web Services had a 33% share, followed by Microsoft Azure's 22%, and Google Cloud's 9% ... in virtual and augmented reality environments, while storage, machine learning, IoT and data analytics will be essential to support operations ...",
@@ -1381,50 +1425,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
-      "title": "Celebal Technologies has earned the Al and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "Celebal Technologies, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep knowledge, extensive experience an",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "originalUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/celebal-technologies-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/",
-      "publishedDateTime": "2022-01-18T17:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

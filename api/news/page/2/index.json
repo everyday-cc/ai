@@ -531,6 +531,50 @@
       ]
     },
     {
+      "path": "_news/2022-02-04-azure-machine-learning-webinar-recap-a-sneak-peek-at-the-process-and-possibilities-of-aml.md",
+      "title": "Azure Machine Learning Webinar recap: A sneak peek at the process and possibilities of AML",
+      "excerpt": "The AutoML option in AML studio is a quick and easy way to build models, primarily aimed at the citizen data scientist. All it requires is a dataset, and using the wizard to set up a few ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "originalUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Webinar800X400-1643974854034.png ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "publishedDateTime": "2022-02-04T03:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics.md",
       "title": "Singapore releases software toolkit to guide financial sector on AI ethics",
       "excerpt": "The Monetary Authority of Singapore (MAS) said the documents detailed methodologies for incorporating the FEAT principles--of Fairness, Ethics, Accountability, and Transparency--into the use of AI within the financial services sector. The whitepapers ...",
@@ -730,7 +774,7 @@
       "originalUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1144,58 +1188,6 @@
         "AI Ethics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-overview-of-the-fintech-industry-stats-trends-and-companies-in-the-ecosystem-market-research-report.md",
-      "title": "Overview of the fintech industry: stats, trends, and companies in the ecosystem market research report",
-      "excerpt": "In recent years, we've seen a ballooning of activity in fintech — an expansive term applied to technology-driven disruptions in financial services, where financial companies and startups use artificial intelligence (AI) and other tech in their day-to-day ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fintech-ecosystem-report",
-      "originalUrl": "https://www.businessinsider.com/fintech-ecosystem-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fa2c30f69331a0011bc738d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fintech-ecosystem-report?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-ecosystem-report?amp",
-      "publishedDateTime": "2022-02-03T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

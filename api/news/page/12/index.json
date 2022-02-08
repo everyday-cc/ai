@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-01-25-meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer.md",
+      "title": "Meta says it will soon have the world's fastest AI supercomputer",
+      "excerpt": "Everything you need to know about AI An executive guide to artificial intelligence, from machine learning and general AI to neural networks. Read More Development of the RSC is ongoing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
+      "originalUrl": "https://www.zdnet.com/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-says-it-will-soon-have-the-worlds-fastest-ai-supercomputer/",
+      "publishedDateTime": "2022-01-24T20:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-behavioural-and-cognitive-psychotherapy.md",
+      "title": "Behavioural and Cognitive Psychotherapy",
+      "excerpt": "You are leaving Cambridge Core and will be taken to this journal's article submission site. To send this article to your account, please select one or more formats and confirm that you agree to abide by our usage policies. If this is the first time you use ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/firstview",
+      "originalUrl": "https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/firstview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridge.org/core/services/aop-file-manager/file/56ab7c9d40b4e47e0c389966",
+          "width": 512,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-meta-unveils-new-ai-supercomputer-destined-to-be-worlds-fastest.md",
       "title": "Meta unveils new AI supercomputer destined to be world's fastest",
       "excerpt": "Meta has unveiled the AI Research SuperCluster (RSC), a new supercomputer that’s among the fastest in the world. And it’ll only get faster – by the end of the year it should rank number one, with computing power on the exascale.",
@@ -321,6 +407,58 @@
       "sourceUrl": null,
       "webUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2021-26-size-share-analysis-and-forecast-2022-01-25",
       "originalUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2021-26-size-share-analysis-and-forecast-2022-01-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-us-artificial-intelligence-market-2026-size-share-trends-and-forecast.md",
+      "title": "US Artificial Intelligence Market 2026: Size, Share, Trends and Forecast",
+      "excerpt": "Jan 25, 2022 (SUPER MARKET RESEARCH via COMTEX) -- According to the latest report by IMARC Group, titled \"United States Artificial Intelligence ... robots, and self-driving cars, over the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/us-artificial-intelligence-market-2026-size-share-trends-and-forecast-2022-01-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/us-artificial-intelligence-market-2026-size-share-trends-and-forecast-2022-01-25",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1057,152 +1195,6 @@
         "AI in Finance",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-fathom-raises-47m-for-its-ai-notetaker.md",
-      "title": "Fathom raises $4.7M for its AI notetaker",
-      "excerpt": "Fathom, a startup that is building an AI notetaker for Zoom, today announced that it has raised a $4.7 million seed round from a range of early-stage investors, including Zoom’s own Apps Fund. Other investors include the likes of early Zoom investors Maven Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/",
-      "originalUrl": "https://techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kuzs0xkXo3U/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/24/fathom-raises-3-7m-for-its-ai-notetaker/amp/",
-      "publishedDateTime": "2022-01-24T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-meta-unveils-new-ai-supercomputer.md",
-      "title": "Meta Unveils New AI Supercomputer",
-      "excerpt": "When the AI Research SuperCluster is fully built it will be the fastest AI supercomputer in the world, the Facebook-parent says",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601",
-      "originalUrl": "https://www.wsj.com/articles/meta-unveils-new-ai-supercomputer-11643043601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 749,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-472356/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/meta-unveils-new-ai-supercomputer-11643043601",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/meta-unveils-new-ai-supercomputer-11643043601",
-      "publishedDateTime": "2022-01-24T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-facebook-parent-meta-creates-powerful-ai-supercomputer.md",
-      "title": "Facebook parent Meta creates powerful AI supercomputer",
-      "excerpt": "Facebook's parent company Meta on Monday said ... The computer, which is already up and running but is still being built, is called AI Research SuperCluster. Meta says it will help its AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.startribune.com/facebook-parent-meta-creates-powerful-ai-supercomputer/600139109/",
-      "originalUrl": "https://www.startribune.com/facebook-parent-meta-creates-powerful-ai-supercomputer/600139109/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1644244859",
-          "width": 1680,
-          "height": 876,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StarTribune",
-        "domain": "startribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

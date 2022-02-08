@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market : Industry Analysis, Size, Share, Growth, Trends and Forecast"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 03, 2022, 04:52 /Comserve / -- Machine Learning as a Service (MLaaS) Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent ..."
-    publishedDateTime: 2022-02-03T10:40:00Z
-    webUrl: "https://menafn.com/1103635916/Machine-Learning-as-a-Service-MLaaS-Market-Industry-Analysis-Size-Share-Growth-Trends-and-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?734605"
-        width: 365
-        height: 250
-        isCached: true
   - title: "Europe Artificial Intelligence Market Size, Share, Trends, Industry Growth and Forecast 2026"
     excerpt: "Artificial intelligence (AI) refers to a segment of computer science ... identification is expected to further bolster the demand for AI in drones, robots, and self-driving cars, over the forecasted period. If you need specific information that is not ..."
     publishedDateTime: 2022-02-07T05:43:00Z

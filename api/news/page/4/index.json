@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-03-wrk-secures-43m-to-help-businesses-automate-common-workflows.md",
+      "title": "Wrk secures $43M to help businesses automate common workflows",
+      "excerpt": "natural language processing, and other technologies. One of the more popular automation technologies is robotic process automation (RPA), a software solution that lets customers build, deploy ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/02/wrk-secures-43m-to-help-businesses-automate-common-workflows/",
+      "originalUrl": "https://venturebeat.com/2022/02/02/wrk-secures-43m-to-help-businesses-automate-common-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/Wrker-Header-BG-4-1.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/02/wrk-secures-43m-to-help-businesses-automate-common-workflows/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/wrk-secures-43m-to-help-businesses-automate-common-workflows/amp/",
+      "publishedDateTime": "2022-02-02T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator.md",
       "title": "Two new dialects of Inuktut language now available in Microsoft Translator",
       "excerpt": "With the latest update, users will now be able to translate between the two new additions and any of over 100 supported languages and dialects in the Microsoft Translator apps, Office, and Translator for Bing. Through Azure Cognitive Services Translator ...",
@@ -1171,58 +1223,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors.md",
-      "title": "How XpertRule’s multiple AI tools compares to BPM competitors",
-      "excerpt": "and predictive explainable machine learning. Both the authoring and deployment components of the Viabl.ai platform are 100 percent cloud-native and run serverless on AWS and Azure or on Premise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/",
-      "originalUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/GettyImages-829804548.jpg?w=1200&strip=all",
-          "width": 564,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/01/how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors/amp/",
-      "publishedDateTime": "2022-02-01T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

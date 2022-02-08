@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-24-cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.md",
+      "title": "CFOs eye tech investments to attract, retain talent with AI/ML skills",
+      "excerpt": "A survey by a financial services and human resources software vendor showed CFOs are on the hunt for finance professionals who have skills in AI and ML platforms that can be used to parse data and tell a business value story.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.html",
+      "originalUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/artificial_intelligence_ai_ml_machine_learning_abstract_gettyimages_by_dny59_959737582_by_kentoh_1042827860-100817845-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.amp.html",
+      "publishedDateTime": "2022-01-24T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-sas-viya-is-living-large-on-azure.md",
       "title": "SAS Viya is living large on Azure",
       "excerpt": "A year and a half in, there is a critical mass of Viya embedded inside Azure analytics, and existing SAS customers are starting to buy in. By \"hiding in plain sight,\" could Azure make SAS cool again with a new generation of customers?",
@@ -1376,50 +1420,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-aiml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes.md",
-      "title": "AI/ML in 2022: More Real-World Deployments, Focus On AI Ethics and Blockchain Hopes",
-      "excerpt": "Prominent industry experts share their predictions for the year aheadVILNIUS, LITHUANIA / ACCESSWIRE / January 18, 2022 / Artificial intelligence (AI) and",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-ml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/AAA-8-1-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI",
         "Machine Learning"
       ]

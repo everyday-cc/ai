@@ -61,6 +61,17 @@ related:
         width: 1200
         height: 593
         isCached: true
+  - title: "Google Subsidiary DeepMind Goes RETRO to Push AI Forward"
+    excerpt: "have boosted the branch of artificial intelligence called natural language processing (NLP). But while the applications for NLP algorithms are myriad, they operate on text data, which makes them complex and expensive and often limits their usefulness."
+    publishedDateTime: 2022-02-08T01:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward"
+    ampWebUrl: "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "DeepMind’s new AI can write code that’s better than yours"
     excerpt: "Artificial intelligence (AI) company DeepMind has developed a new coding engine capable of outperforming many human developers, called AlphaCode. As explained in a paper published by the firm, AlphaCode is able to write computer programs at a ..."
     publishedDateTime: 2022-02-03T18:05:00Z
@@ -74,22 +85,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/vZLMcEg5JqfGeXydVkkxhk-1200-80.jpg"
         width: 970
         height: 545
-        isCached: true
-  - title: "DeepMind Says Its AlphaCode AI Can Write Codes, But Is It Great?"
-    excerpt: "DeepMind claims that its newfangled AI (artificial intelligence) coding engine is capable of performing as good as a human programmer. The British AI subsidiary of Alphabet has created an AI-backed system dubbed AlphaCode. According to DeepMind ..."
-    publishedDateTime: 2022-02-03T10:08:00Z
-    webUrl: "https://www.gizchina.com/2022/02/03/deepmind-says-its-alphacode-ai-can-write-codes-but-is-it-great/"
-    ampWebUrl: "https://www.gizchina.com/2022/02/03/deepmind-says-its-alphacode-ai-can-write-codes-but-is-it-great/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/02/03/deepmind-says-its-alphacode-ai-can-write-codes-but-is-it-great/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 74
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/02/deepmind-alphacode-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "AlphaCode: The DeepMind AI engine that writes code competitively"
     excerpt: "When entered into 10 coding competitions, AlphaCode ranked within the top 54pc of human programmers. DeepMind, the Alphabet subsidiary based in the UK, has created a new AI-powered system called AlphaCode which can write computer programs “at a ..."

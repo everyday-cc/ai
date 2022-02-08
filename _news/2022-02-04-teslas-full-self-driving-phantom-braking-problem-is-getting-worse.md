@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/tesla-fsd-phantom-braking?amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -134,20 +134,6 @@ related:
       - url: "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=315"
         width: 1200
         height: 630
-        isCached: true
-  - title: "NEWS TAGGED SELF-DRIVING CAR"
-    excerpt: "Mercedes-Benz recently announced its Level 3 self-driving system Drive Pilot has been approved by the German Federal Motor Transport Authority (KBA) and can now operate on roads i"
-    publishedDateTime: 2022-02-03T09:17:00Z
-    webUrl: "https://www.digitimes.com/tag/self-driving_car/00111368.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://ad.digitimes.com.tw/webadImg/en_20220119_semiconductor_bigbutton.jpg"
-        width: 336
-        height: 280
         isCached: true
 
 secured: "X8UD+u2ZgVVIj9aW5r9/PWFuEDh+goU7v2YgfPJcfCEram/V+A+664b47+xjBEt4z20tXkpwexdZSdsplAjnxtgPtnW/FJFiusB/RBuT5ZdSxLL0swazaG0jjRGXtU8fFXC6M4olvbsDXXI6apWR9wUS1k9xLAx0RC4iDOk+6kOWGrJoALZMIf9is5MIqpcHN6M4OkyxyJJwWOdMlJuag3VFuCD9XuMEx13kSF7JOOlSJ7Oe852NRBoe2QE7Uc34wEl2nRdMYRQewRwkQ8H17k41djS+xSTPYDoJhyUEXSGB20yeukzJA/w8BQSKGPJlYDGyMGGp1skOgnwwkWNmo6pQW4cgJ0GI0qHdJKy6MMm50DNNFoBp1L9aZmz5hPFEbmfoavEDfJPR8gycDqyXmi0qEFrQv46TJnTTu5NY89ZI55MkXYwZQ3DvWIRxLdjPozA9xNg8J1xBfVxM2thbpp06WT5uTaoj29lFx0DDODOkGIqME6YVrGCN3UIhHJf6phioRlEnxb45RwF8PPf5zw==;7KAEib65iZMP4eMlE7yjOg=="

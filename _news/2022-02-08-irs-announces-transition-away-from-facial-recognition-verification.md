@@ -180,6 +180,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Face off: IRS scrap facial recognition after blowback"
+    excerpt: "No one should be forced to submit to facial recognition to access critical government services,” said Senate Finance Chair Ron Wyden said in a statement after the IRS"
+    publishedDateTime: 2022-02-08T01:42:00Z
+    webUrl: "https://www.bostonherald.com/2022/02/07/face-off-irs-scrap-facial-recognition-after-blowback/"
+    ampWebUrl: "https://www.bostonherald.com/2022/02/07/face-off-irs-scrap-facial-recognition-after-blowback/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2022/02/07/face-off-irs-scrap-facial-recognition-after-blowback/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2022/02/bhr-z-irs0208-01.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "IRS to End Use of Facial Recognition on Tax Accounts"
     excerpt: "Your article was successfully shared with the contacts you provided. The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security."
     publishedDateTime: 2022-02-07T22:18:00Z
@@ -215,13 +231,13 @@ related:
   - title: "IRS halts plan to require facial recognition for logging in to user accounts"
     excerpt: "The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website following backlash from lawmakers and privacy groups.The IRS said in a statement ..."
     publishedDateTime: 2022-02-08T00:56:00Z
-    webUrl: "https://www.wbaltv.com/article/irs-halts-plan-to-require-facial-recognition-for-logging-in-to-user-accounts/39004339"
-    ampWebUrl: "https://www.wbaltv.com/amp/article/irs-halts-plan-to-require-facial-recognition-for-logging-in-to-user-accounts/39004339"
-    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/irs-halts-plan-to-require-facial-recognition-for-logging-in-to-user-accounts/39004339"
+    webUrl: "https://www.wlwt.com/article/irs-halts-plan-to-require-facial-recognition-for-logging-in-to-user-accounts/39004339"
+    ampWebUrl: "https://www.wlwt.com/amp/article/irs-halts-plan-to-require-facial-recognition-for-logging-in-to-user-accounts/39004339"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/irs-halts-plan-to-require-facial-recognition-for-logging-in-to-user-accounts/39004339"
     type: article
     provider:
-      name: WBALTV11
-      domain: wbaltv.com
+      name: WLWT
+      domain: wlwt.com
     quality: 56
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-6ec8311a306d734cff37afecd9169c92-h-40a0fddbfdb29ce9ae876a7d62f0d67c-1644280985.jpg?crop=1.00xw:0.848xh;0,0.130xh&resize=1200:*"
@@ -557,6 +573,6 @@ related:
         height: 713
         isCached: true
 
-secured: "2mcesJwpN7ctWkhOgWb+TRit2n3ewig+L46suS008eJT0af5Z6Nzii/cjH7h8CMzS/Ld88qruRvCFwODjddANkW1EAoG1H6fiz1aELRuNZx8xmnUDIaRDRcwf6sHdvQYqxnopDrs3ndsf/bsLWyImCB07FrfH8SMsKcqMHq6h/vBy6x8DGpQ9eTDsBqN0r58gkes7mVw064P2j3ZaOshfI7N8SIrIzJkQiBxnbCTSOgIRf+d48xmOhHps5nviUchEzCHiUeiBSWjdg+4cvTs85bFSvM1w70zHdOYhs+C3l6MKQgr08JcBjXGUre5UjbnLCll8CNZlr9nkyxWPzBQK2+u8y8Cqv38/G/eN4rxSmc=;DbRe5GfdMuafWUZ5g/5l1Q=="
+secured: "qh8Zf1L6YjB4lQM3kCmQwpA1L+2694JjM49WplH82uoMRescxYGXPRpW/ekMXNX8+nuKXrQQMXB6MfecLTejWe+qP1Y+0nUh/Om0niwvJlayI0Zfc2AeDRok41suNCENWvQycDrCZ3YXk+B4ujAQ0xijcz+qdrb+4qtGNptNg7spP5KELpWdiP+RoueSWHpJlMnY5CNUv6nZpDOQE5CDGRMx74btqZGmFn10JGQmDKMnsF/hJdOZgruzxOVu8ziZpGmS3j1AABEtebSMN+SGIYUbEfEmNqjj2PH6D+sh5NyH7pxbE/sQlSAG9eqSrN+/2PBOuf88ZLr/vrG+ZBkoqDzRlJDY/4arwY3XcbKHPNlOyoGy2GYwOOrF9m5wcF9+uKTuXXFm8PyFomONurF3WAwvFQkmxiM0SDecV99vSq4wdwBnLu575FibxtTA5UEtsZWI4V29xDwilOfMZsEtcuohuw702JVcC3oaSPi+Z3YfLYOlIonBECfVM66CRMaBxjWhgdTF3cmW5o2u8Kr4Ug==;iUsrkdV/g1s9sefEK1f1xQ=="
 ---
 

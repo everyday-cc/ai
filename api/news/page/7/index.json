@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-29-amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration.md",
+      "title": "Amazon Cloud gets file sharing and collaboration boost with Box integration",
+      "excerpt": "One of the most interesting integrations is with Rekognition, Amazon’s deep learning image recognition tool. In connecting Box with the AWS Rekognition service, a Lambda function could tap ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/",
+      "originalUrl": "https://www.techrepublic.com/article/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/04/boxaws.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration/amp/",
+      "publishedDateTime": "2022-01-28T21:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so.md",
+      "title": "Watch now: Are Illinois farmers ready for self-driving tractors? Deere thinks so.",
+      "excerpt": "The high-tech vehicle emblazoned with the Moline company's iconic deer logo marks a massive leap forward for farmers, who will have a solution for improving yields and efficiencies. That could",
+      "sourceUrl": null,
+      "webUrl": "https://thesouthern.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_df968333-46ac-520c-8a5e-1d04e8b98486.html",
+      "originalUrl": "https://thesouthern.com/business/agriculture/watch-now-are-illinois-farmers-ready-for-self-driving-tractors-deere-thinks-so/article_df968333-46ac-520c-8a5e-1d04e8b98486.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/d/f9/df968333-46ac-520c-8a5e-1d04e8b98486/61f448235c638.preview.jpg?crop=1024%2C538%2C0%2C72&resize=1024%2C538&order=crop%2Cresize",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-28T18:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Southern Illinoisan",
+        "domain": "thesouthern.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-29-report-62-of-orgs-use-voice-technology-to-increase-revenue.md",
       "title": "Report: 62% of orgs use voice technology to increase revenue",
       "excerpt": "A new report found that many companies are using voice technology to identify new business opportunities, and to increase revenue.",
@@ -1102,100 +1197,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-gsi-technology-inc-reports-third-quarter-fiscal-2022-results.md",
-      "title": "GSI Technology, Inc. Reports Third Quarter Fiscal 2022 Results",
-      "excerpt": "GSI Technology, Inc. (NASDAQ: GSIT) today reported financial results for its third fiscal quarter ended December 31, 2021. Summary Financial Results Table (in thousands, except per share amounts) Lee-Lean Shu,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-business-health-4a24f7033f4335149fe9841c942f5022",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-technology-business-health-4a24f7033f4335149fe9841c942f5022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-watch-an-ai-play-the-best-game-of-tetris-youve-ever-seen.md",
-      "title": "Watch an AI Play the Best Game of Tetris You've Ever Seen",
-      "excerpt": "The AI easily shatters previous world records by prioritizing clearing four-line tetrises. Then the game completely melts down.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/best-game-of-tetris-ever-ai-1848432104",
-      "originalUrl": "https://gizmodo.com/best-game-of-tetris-ever-ai-1848432104",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6d2b3eb4c6355e8f23cc0ccf6c1cec74.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/best-game-of-tetris-ever-ai-1848432104/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/best-game-of-tetris-ever-ai-1848432104/amp",
-      "publishedDateTime": "2022-01-27T11:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

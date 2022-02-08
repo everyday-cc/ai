@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-04-overview-of-the-fintech-industry-stats-trends-and-companies-in-the-ecosystem-market-research-report.md",
+      "title": "Overview of the fintech industry: stats, trends, and companies in the ecosystem market research report",
+      "excerpt": "In recent years, we've seen a ballooning of activity in fintech — an expansive term applied to technology-driven disruptions in financial services, where financial companies and startups use artificial intelligence (AI) and other tech in their day-to-day ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fintech-ecosystem-report",
+      "originalUrl": "https://www.businessinsider.com/fintech-ecosystem-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fa2c30f69331a0011bc738d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fintech-ecosystem-report?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-ecosystem-report?amp",
+      "publishedDateTime": "2022-02-03T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-this-pr-firm-took-artificial-intelligence-mainstream.md",
       "title": "This PR Firm Took Artificial Intelligence Mainstream",
       "excerpt": "You might recall around the end of 2016, when seemingly overnight, the business media went from never having talked about artificial intelligence in business to ubiquitous coverage of its applications in marketing. A small Israeli-born artificial ...",
@@ -1208,58 +1260,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-wrk-secures-43m-to-help-businesses-automate-common-workflows.md",
-      "title": "Wrk secures $43M to help businesses automate common workflows",
-      "excerpt": "natural language processing, and other technologies. One of the more popular automation technologies is robotic process automation (RPA), a software solution that lets customers build, deploy ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/02/wrk-secures-43m-to-help-businesses-automate-common-workflows/",
-      "originalUrl": "https://venturebeat.com/2022/02/02/wrk-secures-43m-to-help-businesses-automate-common-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/Wrker-Header-BG-4-1.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/02/wrk-secures-43m-to-help-businesses-automate-common-workflows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/wrk-secures-43m-to-help-businesses-automate-common-workflows/amp/",
-      "publishedDateTime": "2022-02-02T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

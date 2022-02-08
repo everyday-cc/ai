@@ -87,6 +87,15 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "Fintech Funding Reaches New Highs"
+    excerpt: "\"Fintech is altering all of that by reducing prices ... including chatbots, artificial intelligence (AI), blockchains, and crypto-assets. Corporate venture arms and digital incubators have been established by large multinational banks, who are investing ..."
+    publishedDateTime: 2022-02-03T13:27:00Z
+    webUrl: "https://www.finextra.com/blogposting/21733/fintech-funding-reaches-new-highs"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "J0w9i+1JyoPJMV6lYjhJ7o4SWhbrtJX7K1tQn5Yco6ewfJ46axlOTc57z3yEo9hvzl0V87s4kVrri+TLV1Sezf7x2lvjSJc0M2kX+TuBVYo5OpT+L7ooNRugo4e7+sUqBp+G18+s42l7tcTAjtKmkDYwLCSsiS0V/pvCUFDNEStY6A4rvDk62gexcqOl/wuzNnfgWeSgcJzMdEXVBplFSnnEv3QG0Pxx4vgv57cpuOuSb1EY4eaQwS7T/LaIKETK4QQNVyVhUCaxEqaf0es5aIViqQEFRRTzaMp4QPYy4lH426jwdh6e8LjlNCSzZNOrHc0u6h7Z8A6pZ6u9QVy1s9JKxB2+FuI+VN3p2l/+9f1JGv7WdDVf4VsWlgzsIWg8ko1DWgb5RaTEEYWkOHSWtvmamFPhLL3qa01I7y/3lQbbHd4gwuNrPyXNgQ9LIav2wgL/3/SeYrk3TvytsXksTpTWp7kmGaiuyoG95V9kYiIYCgWdoPKlXALAWwMFfSB6zZ8Mq7438JZZVdjdrOCQRg==;UKgv9z8JrxJTnDp8P8k3Cg=="
 ---
