@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Hybrid machine-learning approach gives a hand to prosthetic-limb gesture accuracy"
-excerpt: "In order to reduce or eliminate the challenges of such training, researchers have explored various machine learning approaches—in particular deep learning pattern recognition—to be able to ..."
-publishedDateTime: 2022-02-07T15:28:00Z
+excerpt: "Engineering researchers have developed a hybrid machine-learning approach to muscle gesture recognition in prosthetic hands that combines an AI technique normally used for image recognition with ..."
+publishedDateTime: 2022-02-07T15:30:00Z
 originalUrl: "https://medicalxpress.com/news/2022-02-hybrid-machine-learning-approach-prosthetic-limb-gesture.html"
 webUrl: "https://medicalxpress.com/news/2022-02-hybrid-machine-learning-approach-prosthetic-limb-gesture.html"
 ampWebUrl: "https://medicalxpress.com/news/2022-02-hybrid-machine-learning-approach-prosthetic-limb-gesture.amp"
@@ -26,6 +26,6 @@ images:
     height: 423
     isCached: true
 
-secured: "HTnoSabkyDKkV1BX6oOWtqQZtB6Tuo/GpjADOCOrRipR7BIJPdhF1l9GxYV/bDal4TJQG1bCYeDgK7WHu0F642rLja6sr9nzIb+R6kM5XMFFcFtw0CGmhVKX4ezhof+3enKwhX51GvIEGWqt/cUrvFT6Ru7XD8iQR/Kle3HmwQ3CF6nHPmlQBecjO6/uUiv/yEGiZ5lRY3NY/mTofAob9TOxHlL11qcme76RRfWmgWqyOKniaK+PsVX519dwX+O+cnUlWBvr/7AJS5q4XGSQKqjB4NXN+1Oq4FKGhySrI/w0knED72JK+UhDav0GvjpXkxVD1DsbiNWXNGnRXDt1Z5BC+R1QD6d2Um4/A7H17D5FbS/gMbe/G62/hbFgnkAQuWIlVGIuLJLv+4l+NkaUGZQUM1gPhIh31nRm52MrKZK0zJMhckzsm3iZa3hH3FzqcZRK7QtXegsOFopAeWKHwyApZ38KRrb7vXb9XL9Xs/ETdJrR/pqTIYx8zumbVuWH3JywadczWDeza3GtjTm64Q==;7rALV2zi2TJbpy4zw5G+vg=="
+secured: "WNtiEZH+FaiXs0ZRMzjS5zHhYiONQRHe1J3WOvYCgRhEfpGQNiYYz9T5K0xNeLHIkoXvWm1dwBkHGzjdmdcIcoBJo5QEnFDD3f2zvbuJQ4Pivkg3KI6R+L2wExHO/Q7VKkBdLGEZULF+fFX5VRETrStSqisU93UGYHKQF8iUcWL/GZKJSMRVAWGs/JqLl8z0CZV42l84J0p/nWRiA0VB91R9uWcFVB9EPpHEhTdHSj7Tp5Otux7n53DM/+Z+tNtXjvE2rn2DFwxrIG0jzg+vhuurDtiTekV4VS86BMCnPmy/AzRFFsObAOSYRAt+3LPhCGX7oa5F2WwTOyISh8klEEn/BvVwP0cwD7KfsqDVgNs=;afEZ0nUQssdcZ2mQpRA67A=="
 ---
 

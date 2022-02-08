@@ -121,6 +121,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Embark Gives Self-Driving Truck to Carrier Knight-Swift in Pilot Program"
+    excerpt: "Self-driving truck company Embark Technology Inc on Tuesday said it was handing over a few of its trucks to Knight-Swift, in what the companies called the first instance of a carrier owning and operating autonomous trucks as part of its fleet."
+    publishedDateTime: 2022-02-08T20:31:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-02-08/embark-gives-self-driving-truck-to-carrier-knight-swift-in-pilot-program"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 33
   - title: "ARTHUR GOLDSTUCK: Guess what drives trust in self-driving cars"
     excerpt: "Three major obstacles stand in the way of self-driving cars, and they are all rather obvious: the technology isn’t quite ready for the road, governments and traffic authorities aren’t ready for the rules, and people just aren’t ready for machines ..."
     publishedDateTime: 2022-02-06T04:28:00Z

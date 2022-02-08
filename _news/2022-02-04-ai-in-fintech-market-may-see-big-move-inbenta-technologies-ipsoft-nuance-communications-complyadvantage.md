@@ -74,21 +74,14 @@ related:
         height: 383
         isCached: true
   - title: "10 Fintech Stocks To Own Until 2032 and Beyond"
-    excerpt: "Yet in the case of Upstart, whose technology enables lenders to assess credit risk using artificial intelligence (AI), the compression may have been overdone. Unlike some other fintech/SaaS names ..."
-    publishedDateTime: 2022-02-08T18:45:00Z
-    webUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/"
-    ampWebUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/amp/"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It was one of the hottest sectors early last year. But since late 2021,"
+    publishedDateTime: 2022-02-08T19:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/10-fintech-stocks-to-own-until-2032-and-beyond-1031173036"
     type: article
     provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 44
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2022/02/fintech_1600_1065252818.png"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Razorpay goes global, buys Malaysian fintech startup Curlec"
     excerpt: "Leading fintech player Razorpay on Tuesday announced its first international ... Prior to this, the company acquired TERA Finlabs, (AI-based risk tech SaaS Platform) in 2021, Opfin (Payroll & HR management solution) in 2019 and Thirdwatch (Fraud Analytics ..."
     publishedDateTime: 2022-02-08T08:43:00Z
@@ -102,6 +95,20 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/7hwfrM08.jpg"
         width: 570
         height: 367
+        isCached: true
+  - title: "Here are Tiger Global's 10 top fintech investments"
+    excerpt: "Tiger Global has become one of the most profitable tech investors, holding investments in more billion-dollar startups-including fintechs than any other firm, according to CB Insights."
+    publishedDateTime: 2022-02-08T20:08:00Z
+    webUrl: "https://www.altfi.com/article/8804_tiger-global-fires-up-fintech?amp"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/tiger-global-fires-up-fintech.jpg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "5wCgeY7TOjXWaipqaHrR97VQZ6uEQVUzBx9UPaeoP3BfY1Nnl0MfTXRKKGlZnJn+2jROlhzAEcj2br9VBT1jZmpdK8TFGeoKBWAD4sWXX8HcBS9PPfmK5LVrJy5QNg8aaUM7vPQ2Pm/gzNFwhRpF3A/29vpsBIv7OLFAt6prufJfZi2r4JwVXILP98KXoRtYGfZmMo+gFqcMKpWlq4nrTxv735VuZxSFzGleXFedZdjuNe8KtKnVRtroDhWx4ow3T0gVoGJsTcp0yLBciHnewU6LwC4NHJs6joyNGtgn1hWM03/5s/VrpOc779lpzjv5uJKnlDpQeJixTARipN6J7F+o5d0ZjbK0B28BrKuCpEI=;fbqKjUlfzrQCG1hUFh9BwQ=="

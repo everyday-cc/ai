@@ -57,6 +57,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
+    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
+    publishedDateTime: 2022-02-08T20:08:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 59
+    images:
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "ZhBRJiFpdLj1cKWmajwYj4//VzugIsN3DPeDb205RsJEpZeW3fTVKCI8VGz+8LmYlELjHa+92JpZ2nFTUtUkD872oOZTdAi5Y8Q0JmLxF7ERPrgO7sIViSODW8pL5oQDBt2haBPZMEe8kjH5ywYf6J6NeYgdr9RTP3YkGtqE949H/GnOA2ngMcTx0dnjV6Y8KJmnqtsVSznvV5Spsske4zgv8rUahSg+tmcM8fvsHYvIAvbQQVHy5pCeOm8yOQcLGzbkE1i4MZiv5YMPru17FJDUljA+J4bKc218o0QPGsQAH3eLmmp86lNo+rVeLTZgVTpVPoxy8Vny7P6wZ299ECcvVeYW+rUdFtircV/PYEbu1U4v4D74PoflT7ZCom5PU/EWms/DuN9zohFyWii29PsVqDP2CF8/fW0oL4ohCr/OAHXJfmoXEruz1kBtW0oEbzHiDScqH9fGUDz3xExk67ZRcCEHLcJEKpBBC6Eiz8TNFSNtsH3i76//RKPzwx4ZiVb3JYEBSEaIwMHCMKaDcw==;bb6Nf9gpcn9/pqvl1pnhvQ=="
 ---

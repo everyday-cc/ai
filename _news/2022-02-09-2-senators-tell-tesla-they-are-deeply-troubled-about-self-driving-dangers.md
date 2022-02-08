@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troub
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
+    excerpt: "Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
+    publishedDateTime: 2022-02-08T20:08:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 59
+    images:
+      - url: "https://media.firstcoastnews.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Teslas recalled because self-driving software tells them to roll through stop signs"
     excerpt: "Recall documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
     publishedDateTime: 2022-02-05T07:37:00Z
@@ -62,6 +78,6 @@ related:
         height: 900
         isCached: true
 
-secured: "akBtvkQthqn85R5i+9+eFZ/08XU8amsjxe+bx5xF/GMulMjnFU8snqOtSDsgGvwk7zuJDYFhzhU1tPuN3UmWBk3c8KxyB2H2B767paWVbe8kBqFHtECeKsFEuHiMLTomrEx/8l4YGtdntgebk7FEm/Ks65I4ggdqpSrHuk/pRJHUezxzezUfDBx8EMDbolBMZaJEY7zKPaTsiawTzNvgwx/AlI4JtHv1MITrllFV6ZA6DSg2fVldP68tA79gbZrT5kULCXfuflIy/4JhSLj42vc8JXB9skHC/mlsWm96EjQUI1Q7RE74oRNFypKCZ3b8we9Ue6Fj0jg0hInbEfnLcdxs+M4Hhev+gADEkd7jEXo=;Ph4hdoe4dhwQN8LvqqWA9g=="
+secured: "7xo3zsQFfpkF8Kj56UMr/slUBHQC/O3salWKafcPRl4r+hLYxB19sggTeOWbKaT+ONIkWwEJNNflOoHpLj1Xdw3RVjErWDWZvJxkA+DANgZFkshoOXZ/q5vNx/qteiw+fFf+LN/9NluC6FK7Ws542CzzhHixiXQysvwM6uPiy385i2lu+GzilaPlZYBDB/ibTWz3lOabe2H/M58ZuKxyZOakUV30J4UaSHOVKqkgaTOioO4QZKMjwdcQfqyZ4A3Zw14Vlo8JaKO2aGbKgMTN4wVsCPqnt8tYAoASFvdHwgks8p+cZDicpGLAfN8PBi6AcpXZ9JYB27RVTOMkbKOGk2582tf3pNzT4XQVO26RMxVZOM5nptRptjhMzi6oIf9zWKX/UnNVKtAEP4REjV7SrtzMtfnL2aUStlzrNV+MEqFQ2Km8jw2S26o85202ojLqVbf9pYimOzlGetl+DBI4aUMqmJs1gYlnBnueA38R/isAfOYBKe2pWP1sJMYvrVMbmdU8EWgZvA7vp4TTKNizZQ==;o8AYZQOvtRO5wSHaodCX3w=="
 ---
 

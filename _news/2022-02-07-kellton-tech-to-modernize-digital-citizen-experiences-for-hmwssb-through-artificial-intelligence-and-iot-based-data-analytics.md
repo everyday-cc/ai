@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Ada Earns a Top Spot on G2's 2022 Best Software Awards for Analytics & AI Products with Ada Support"
+    excerpt: "TORONTO, Feb. 8, 2022 /CNW/ -- Ada, an Automated Brand Interaction company that bridges the gap between brands and the people they care about, today announced it has been named to G2's 2022 Best Software Awards, placing 2nd on the Top 50 Analytics & AI ..."
+    publishedDateTime: 2022-02-08T20:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ada-earns-top-spot-g2s-2022-best-software-/2022/02/08/9541492.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
   - title: "Kellton Tech to Modernize Digital Citizen Experiences For HMWSSB Through Artificial Intelligence and IoT-based Data Analytics"
     excerpt: "Kellton Tech will provide HMWSSB, the Government of Telangana, with IoT-based enterprise intelligence and analytics solutions to drive actionable insights in real-time and transform citizen ..."
     publishedDateTime: 2022-02-04T18:37:00Z
@@ -44,6 +53,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 0
+  - title: "Quinyx Earns Spot on G2's 2022 Best Software Awards for It's All-in-one AI-powered Workforce Management Platform"
+    excerpt: "Quinyx, the leading all-in-one AI-Powered Workforce Management Platform, today announced it has been named to G2's 2022 Best Software Awards on the top HR Products list. This press release features multimedia."
+    publishedDateTime: 2022-02-08T20:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-quinyx-earns-spot-g2s-2022-best-software-awards-/2022/02/08/9541493.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "IfDphW/UgBsRgjJVXVAOoxb9gV0X2+tl3PEy0+DGBWSzaOaVPYNUvEYDJSEy1W0+M+595yoJhqm2bs4/sYN953mKwiNe3WWuz4IC+TL0DelFc5B24R3WsY6Dv1NPa6uLu2wiE/Nm6cPVcvvpJo0S+FFs1eQkJHiawaVGqnLDnzU/559hUE+h0rFaL3NCAHVFMj3VILaBexw48QaZpWSv2FYPDLg5i1qCcjLiDCQXlgQq3y5ASkHNc1UbDr7+6C2EXNIJk5rFCmP0qvj+yZ+IFNwks4pKiQkvpWk2MtyQE/s7117YSIhCkyX3VrjlmzdOjyxLOZN1TZKBpEYh9dROBe4qVgiNykrtUCP20fqt49Y=;dJLTHwiFA6AA4xSL+JHbOQ=="

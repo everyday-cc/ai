@@ -126,6 +126,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "IRS scraps plan to use facial recognition technology to cut down on fraud"
+    excerpt: "NBC News' Kevin Collier reports on why the IRS was quick to abandon plans to use third-party facial recognition technology to cut down online tax fraud."
+    publishedDateTime: 2022-02-08T19:03:00Z
+    webUrl: "https://www.nbcnews.com/now/video/irs-scraps-plan-to-use-facial-recognition-technology-to-cut-down-on-fraud-132702277544"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo132702277544"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo132702277544"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 88
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_02/1644344342895_now_dayside_facial_recognition_220208_1920x1080-7anm4p.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The IRS won’t make you verify your identity with facial recognition after all"
     excerpt: "The IRS announced plans Monday to back away from a third-party facial recognition system that collects biometric data from U.S. taxpayers who want to log in to the agency’s online portal."
     publishedDateTime: 2022-02-07T20:43:00Z
@@ -197,6 +213,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "House Democrats urge IRS to halt facial recognition plans"
+    excerpt: "It's not just Republican senators upset over the Internal Revenue Service's plans to adopt ID.me facial recognition. Democratic House Representatives Ted Lieu, Anna Eshoo, Pramila Jayapal and Yvette Clarke have sent a letter to IRS Commissioner Charles ..."
+    publishedDateTime: 2022-02-08T18:49:00Z
+    webUrl: "https://www.engadget.com/house-democrats-irs-facial-recognition-letter-173821508.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-02/2fa983a0-8837-11ec-9aa5-a4e12e896b56"
+        width: 4500
+        height: 3068
+        isCached: true
   - title: "IRS to end facial recognition for identity verification"
     excerpt: "Last month, ID.me faced criticism when CEO Blake Hall admitted in a Linkedin post that the company used Amazon's Rekognition technology to compare video selfies submitted by users to its own, bigger internal database of previous applicants. FOX Business ..."
     publishedDateTime: 2022-02-07T23:11:00Z

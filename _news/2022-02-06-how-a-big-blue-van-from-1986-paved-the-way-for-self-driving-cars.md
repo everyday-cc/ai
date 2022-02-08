@@ -111,6 +111,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Embark Gives Self-Driving Truck to Carrier Knight-Swift in Pilot Program"
+    excerpt: "Self-driving truck company Embark Technology Inc on Tuesday said it was handing over a few of its trucks to Knight-Swift, in what the companies called the first instance of a carrier owning and operating autonomous trucks as part of its fleet."
+    publishedDateTime: 2022-02-08T20:31:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-02-08/embark-gives-self-driving-truck-to-carrier-knight-swift-in-pilot-program"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 33
   - title: "Companies are racing to make self-driving cars. But why?"
     excerpt: "Yesterday at 12:50 p.m. EST The buzz is back for self-driving cars. Not long ago, blown forecasts left investors and tech enthusiasts feeling deflated: In 2016, Ford planned to offer self-driving taxis by 2021, and Lyft claimed it would start doing so even ..."
     publishedDateTime: 2022-02-05T06:42:00Z

@@ -1,30 +1,26 @@
 ---
 category: news
 title: "10 Fintech Stocks To Own Until 2032 and Beyond"
-excerpt: "Yet in the case of Upstart, whose technology enables lenders to assess credit risk using artificial intelligence (AI), the compression may have been overdone. Unlike some other fintech/SaaS names ..."
-publishedDateTime: 2022-02-08T18:45:00Z
-originalUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/"
-webUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/"
-ampWebUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/amp/"
+excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It was one of the hottest sectors early last year. But since late 2021,"
+publishedDateTime: 2022-02-08T19:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/10-fintech-stocks-to-own-until-2032-and-beyond-1031173036"
+webUrl: "https://markets.businessinsider.com/news/stocks/10-fintech-stocks-to-own-until-2032-and-beyond-1031173036"
 type: article
-quality: 44
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2022/02/fintech_1600_1065252818.png"
-    width: 1600
-    height: 900
-    isCached: true
 
 related:
   - title: "5 innovative Belgian fintech companies to watch"
@@ -89,6 +85,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Here are Tiger Global's 10 top fintech investments"
+    excerpt: "Tiger Global has become one of the most profitable tech investors, holding investments in more billion-dollar startups-including fintechs than any other firm, according to CB Insights."
+    publishedDateTime: 2022-02-08T20:08:00Z
+    webUrl: "https://www.altfi.com/article/8804_tiger-global-fires-up-fintech?amp"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/tiger-global-fires-up-fintech.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "AI in Fintech Market May See Big Move | Inbenta Technologies, IPsoft, Nuance Communications, ComplyAdvantage"
     excerpt: "The Latest Released AI in Fintech market study has evaluated the future growth potential of Global AI in Fintech market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and ..."
     publishedDateTime: 2022-02-04T07:07:00Z
@@ -104,6 +114,6 @@ related:
         height: 337
         isCached: true
 
-secured: "ATJs6iNdz5cHp4ECX8Fas7PnxZEqj3PILnPiqXKGjORyh3cO04e9VI2dmHwl/Uuygt6oULl1KwMvKMvYRd/SB5n92cRt/ayX6GtyW6ZvgnE+1cMOy389oXkxcG+kF7hPLWXMBxq1dpYAyghL6nypklnIFM+7qEDTZBJrbqTEtiBRZ6IcRa5op6B1qwoPGiCylEJu9aKrGJva+dqK/XR0MKkg/CHaL+AeqfIO6/SJTRrJNjpsfsp7hzIehB/HXFkkotHrYSeHZRDva4ZJgCyr8W7XCnqIYNqzjEefrp7ah6DynX3ezGATBoIvI0Qjnv7FLnrTojVy/rQ5fD0yHDwoygd97gtPIEKF+a30mzx7NS0=;eRcBIyBRRWbePJgh7K3aFA=="
+secured: "rshG2CVERHXdC4qOYwwzT5HeTvEa9PC4gsUY9+aiPLoAeTdWg+wnW6eldo531Qouz7nnlUNcr+O6cJw0hZmAn0eDTdkrw7D137iZkvSN+DwpOSXogA0arkYOrBmBqs0z5Yl4eNQJaivADEcFUE4Qh6r3xWbjB9TUntWGGQLsKQ0jtTn1FjmzUVeIf2XujyL5mHsf8OOYAtN+J4YU8BFPqp8TSNzjmlYIT1KVmxNRkOc6iBYkyv6Pmh2pUAfBIxsQU8vOWtEuaxvlMOGjhZYyc2/w2gwTaZ/qpvCm8OC562uAMqk6JCci/aMtI4X09V3IGD6QabiWY4noffXVMjckfMRkZYhDK/aFd6ZtTvkXLmE=;T6QAWdCwKZx4a3Rs70qNPg=="
 ---
 

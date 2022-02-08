@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SensiML Teams with Infineon to Provide Complete AI/ML Solution for PSoC™ 6 MCUs and Wide Range of Sensors"
+    excerpt: "SensiML Teams with Infineon to Provide Complete AI/ML Solution for PSoC™ 6 MCUs and Wide Range of Sensors. PORTLAND, Ore., Feb. 8, 2022 /PRNewswire/ -- SensiML ™ Corporation,"
+    publishedDateTime: 2022-02-08T19:59:00Z
+    webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/02/08/9540888.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg"
+        width: 400
+        height: 208
+        isCached: true
   - title: "SensiML Teams with Infineon to Provide Complete AI/ML Solution for PSoC(TM) 6 MCUs and Wide Range of Sensors"
     excerpt: "With AutoML support covering a broad array of sensor inputs, SensiML is an ideal solution for IoT edge processing across Infineon's XENSIV portfolio.\" \"SensiML offers a quick and easy path for our PSoC 6 MCU, connectivity and sensor customers to add low ..."
     publishedDateTime: 2022-02-08T13:39:00Z

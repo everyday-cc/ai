@@ -7,8 +7,8 @@ originalUrl: "https://www.broadcastnow.co.uk/tech-innovation/5-ways-ai-and-ml-wi
 webUrl: "https://www.broadcastnow.co.uk/tech-innovation/5-ways-ai-and-ml-will-make-sports-broadcasting-smarter/5167373.article"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Broadcast
@@ -39,6 +39,20 @@ related:
       - url: "https://static.hkej.com/eji/images/2022/02/07/3035913_3cc0bd6815647e72847795cf93e61e08.jpg"
         width: 745
         height: 430
+        isCached: true
+  - title: "Work smarter, not harder by leveraging artificial intelligence"
+    excerpt: "Alexsei contributes to streamlined practice by automating the time-consuming task of legal research The team at Alexsei believes in a division of labour when it comes to the practice of law, and in their quest to build a functional A."
+    publishedDateTime: 2022-02-08T20:50:00Z
+    webUrl: "https://www.canadianlawyermag.com/practice-areas/insurance/work-smarter-not-harder-by-leveraging-artificial-intelligence/363821"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 37
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0395_637799258684161918.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "YKNatr8xP5iQ3AtgLCGCEQ6BiERN/AFM4Rbc+d2OybGdplBW7O5NSM3PkHXIg+JonET/IERXb201VhHzSkVmDxCqbQkWPK4mqaFHZm+k71qxbmZ88uV0iBMyPLk5AeI5FfzG7KG32ART8q7rMfjCKHerqQQhRPYbIXONkZ2r994zXk7qX7GyRyfTwm0PWFUAUuzf1LRbHA27r38JPZ3reL9RMlTcveaU/Ne68gjThlkjIcj5b2c3VXBw7/r/ycjVTwi/IH7ZittKKABOjMJPydBQxPLTRCE/RXMqn4y0325xTc2iL+QuDYhknrgLW1e7wGH05ZyVBQ7otRbdjczen9SmvABEUZ7OjLr73AQ2wVg=;1VfUQWchZq9RNlXjCjojwg=="

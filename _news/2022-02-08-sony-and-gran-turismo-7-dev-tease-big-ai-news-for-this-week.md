@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/sony-and-gran-turismo-7-dev-te
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/"
 type: article
 quality: 57
-heat: 108
+heat: 107
 published: true
 
 provider:

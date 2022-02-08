@@ -74,20 +74,27 @@ related:
         height: 383
         isCached: true
   - title: "10 Fintech Stocks To Own Until 2032 and Beyond"
-    excerpt: "Yet in the case of Upstart, whose technology enables lenders to assess credit risk using artificial intelligence (AI), the compression may have been overdone. Unlike some other fintech/SaaS names ..."
-    publishedDateTime: 2022-02-08T18:45:00Z
-    webUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/"
-    ampWebUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/amp/"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It was one of the hottest sectors early last year. But since late 2021,"
+    publishedDateTime: 2022-02-08T19:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/10-fintech-stocks-to-own-until-2032-and-beyond-1031173036"
     type: article
     provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 44
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Here are Tiger Global's 10 top fintech investments"
+    excerpt: "Tiger Global has become one of the most profitable tech investors, holding investments in more billion-dollar startups-including fintechs than any other firm, according to CB Insights."
+    publishedDateTime: 2022-02-08T20:08:00Z
+    webUrl: "https://www.altfi.com/article/8804_tiger-global-fires-up-fintech?amp"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
     images:
-      - url: "https://investorplace.com/wp-content/uploads/2022/02/fintech_1600_1065252818.png"
-        width: 1600
-        height: 900
+      - url: "https://www.altfi.com/images/featured/tiger-global-fires-up-fintech.jpg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "AI in Fintech Market May See Big Move | Inbenta Technologies, IPsoft, Nuance Communications, ComplyAdvantage"
     excerpt: "The Latest Released AI in Fintech market study has evaluated the future growth potential of Global AI in Fintech market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and ..."

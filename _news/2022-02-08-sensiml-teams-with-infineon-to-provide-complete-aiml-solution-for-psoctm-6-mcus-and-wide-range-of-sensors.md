@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SensiML Teams with Infineon to Provide Complete AI/ML Solution for PSoC™ 6 MCUs and Wide Range of Sensors"
+    excerpt: "SensiML Teams with Infineon to Provide Complete AI/ML Solution for PSoC™ 6 MCUs and Wide Range of Sensors. PORTLAND, Ore., Feb. 8, 2022 /PRNewswire/ -- SensiML ™ Corporation,"
+    publishedDateTime: 2022-02-08T19:59:00Z
+    webUrl: "https://www.tmcnet.com/tmcnet/mobile-world-congress/news/2022/02/08/9540888.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg"
+        width: 400
+        height: 208
+        isCached: true
 
 secured: "/dVB/u81wUd7i13rw6J3jyHCKtfIiyCAfbL08zLFt88vdPA+v7ug+hftc05Ofpsjfvy4gCzlXNIq+8PkU4kAidbQ+nPiWjmkANUGg7rXJebCnEZCiE/t3oPyVLs7OoT7LQTx632IxFZMGS5FjS6XKa/PFLpnG7IJdvoDCezQX8mIdZsaojeWDaSpA+9BC/X1tmyFq3aJq6Vs1XoIa1RuU3fsLW5Wfu7HszLfjcZ9Kk+jtbd3U/vJFkwZG10Aro+/xfWFBQw9Q48uvDaWE4s6fuHRAnumvz6aeIAGyJe2pexBhNWeyy87c4iSw4nYQWccxnsxVRYWS7PUOB+xS9p5rtGGDS4aJPzO5P5ubAcdMqo=;qLUq6IRjDDaclVZoR8VsZg=="
 ---

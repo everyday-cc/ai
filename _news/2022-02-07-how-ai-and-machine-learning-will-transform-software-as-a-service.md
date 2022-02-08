@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Work smarter, not harder by leveraging artificial intelligence"
+    excerpt: "Alexsei contributes to streamlined practice by automating the time-consuming task of legal research The team at Alexsei believes in a division of labour when it comes to the practice of law, and in their quest to build a functional A."
+    publishedDateTime: 2022-02-08T20:50:00Z
+    webUrl: "https://www.canadianlawyermag.com/practice-areas/insurance/work-smarter-not-harder-by-leveraging-artificial-intelligence/363821"
+    type: article
+    provider:
+      name: Canadian Lawyer Magazine
+      domain: canadianlawyermag.com
+    quality: 37
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0395_637799258684161918.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "ZZX41dPBR1Uovx8rNHeaz464zTk5lRP5tH7ZXSYgvLqlGSN3bUUBwyyRLOw0HwkE9B/4uz/GIVvkPj1nUoqYU8YrojVB7lF4CqkCwN6JFUaOIJIDlj/HH3wJD6U9kYOyJKbJyaeTcNFUs9enS3fAR14OYkgsBFuUJMt0MnnQFrpwuX9odMCbzSTKZHMMUsvHK1qoU4SfpMZhcGWUgGl9MGiriWVtp/wc4zqI+NdbP+pUJoQ01pxvI/cEjWGVGqfWnuriFXQnDNHr7y31EYZJNnl/znthgp4m69HHwCDGc9MvfufPhFYo78nUEUEDn+NNkI+UUo6ZQhGGTyPlHSvyyGHnIGvkASdV8wsZPoC+F7dS4MucQxcDUC7SOpl0yNf9FjIoTDTLriwRUPwkHOaNI+B+9kgsMtG/3RMHEvZpiRvTLFzOcHx+kTiUaATk11OiUYTuXHP7rmg8+8fSCDckRHo1RI0x65R4S1TAbaFRekzSmRKrtaebDTTwMszJ9cCDO2lJ7zvxqHuxW5s22/Cg1Q==;r1tH8WmiItAPcpf0WsQZPA=="
 ---
