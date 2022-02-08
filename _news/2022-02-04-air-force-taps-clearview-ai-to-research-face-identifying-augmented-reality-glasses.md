@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
 type: article
 quality: 183
-heat: 193
+heat: 203
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Clearview AI Is Working on Augmented Reality Goggles for Air Force Security"
+    excerpt: "Clearview AI, the shady face recognition firm which ... According to Task and Purpose, it can be used for training, live language translation, face recognition, navigation, providing situational ..."
+    publishedDateTime: 2022-02-03T21:02:00Z
+    webUrl: "https://gizmodo.com/clearview-ai-working-on-a-r-goggles-for-air-force-secu-1848476669"
+    ampWebUrl: "https://gizmodo.com/clearview-ai-working-on-a-r-goggles-for-air-force-secu-1848476669/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-working-on-a-r-goggles-for-air-force-secu-1848476669/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 104
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/3640231cd895ac24353c3bd25b8e6f61.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Clearview: Glasses With Facial Recognition Are Here And The Air Force Has Them"
     excerpt: "Clearview AI is bringing glasses with facial recognition to the Air Force. Meanwhile, it's selling to the FBI and ICE, despite concerns over the technology. Clearview AI, the facial recognition company backed by Facebook and Palantir investor Peter Thiel ..."
     publishedDateTime: 2022-02-03T14:13:00Z

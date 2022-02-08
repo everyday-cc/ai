@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-05-whats-next-for-healthcare-ai-after-ibms-watson-health-disappointment.md",
+      "title": "What's Next for Healthcare AI After IBM's Watson Health Disappointment?",
+      "excerpt": "IBM is selling its Watson Health unit to a private equity firm. The artificial intelligence system didn't achieve as much success in healthcare as some hoped it would. AI still has tremendous opportunities in healthcare, though, especially in drug development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/02/05/whats-next-for-healthcare-ai-after-ibms-watson-hea/",
+      "originalUrl": "https://www.fool.com/investing/2022/02/05/whats-next-for-healthcare-ai-after-ibms-watson-hea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/664140/gettyimages-1298315191.jpg",
+          "width": 3497,
+          "height": 1968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-05T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-can-you-trust-ai-to-protect-ai.md",
       "title": "Can you trust AI to protect AI?",
       "excerpt": "To do this, Dobrin said IBM is working on establishing adversarial robustness at the system level of platforms like Watson. By implementing AI models that interrogate other AI models to explain ...",

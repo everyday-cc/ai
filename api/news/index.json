@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-08-sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week.md",
+      "title": "Sony And Gran Turismo 7 Dev Tease Big AI News For This Week",
+      "excerpt": "Sony AI and Polyphony Digital released a teaser for a project between them which will be revealed on February 9. The announcement is related to the Gran Turismo franchise, which Polyphony Digital is known for. The trailer shows the Gran Turismo logo ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/",
+      "originalUrl": "https://www.gamespot.com/articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/original/1646/16465123/3937436-granturismo.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/",
+      "publishedDateTime": "2022-02-07T15:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-apple-acquires-artificial-intelligence-startup-ai-music.md",
+      "title": "Apple acquires artificial intelligence startup AI Music",
+      "excerpt": "Founded in 2016, AI Music set out to help brands create \"royalty free adaptive music,\" according to a recent archived screenshot of their website. The intended audience seems to be for media ...",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music",
+      "originalUrl": "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/46890-91404-44099-85736-000-lead-Apple-Music-xl-xl.jpg",
+          "width": 1280,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/",
+      "publishedDateTime": "2022-02-07T15:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa.md",
       "title": "The Great Resignation gives birth to digital employees powered by AI, ML, and RPA",
       "excerpt": "Companies across numerous industries are increasingly relying on digital workers to automate and streamline various tasks — and, in turn, these virtual employees powered by AI, machine learning ...",
@@ -62,7 +146,7 @@
       "originalUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
       "featuredContent": null,
       "highlight": null,
-      "heat": 409,
+      "heat": 449,
       "tags": null,
       "images": [
         {
@@ -518,7 +602,7 @@
       "originalUrl": "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -569,7 +653,7 @@
       "originalUrl": "https://www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -699,7 +783,7 @@
       "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/06/how-computer-vision-can-create-smart-transportation-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1147,110 +1231,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-ai-weiwei-helped-design-beijings-olympic-stadium-but-he-regrets-how-its-being-used-today.md",
-      "title": "Ai Weiwei helped design Beijing's Olympic stadium. But he regrets how it's being used today",
-      "excerpt": "Christiane Amanpour's interview with Ai Weiwei airs Friday 1pm ET ... in both the Olympic Charter and the organization's code of ethics. \"Given the diverse participation in the Olympic Games ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html?s=06",
-      "originalUrl": "https://edition.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html?s=06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html",
-      "publishedDateTime": "2022-02-04T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-heres-what-henry-kissinger-thinks-about-the-future-of-artificial-intelligence.md",
-      "title": "Here's What Henry Kissinger Thinks About the Future of Artificial Intelligence",
-      "excerpt": "For some, artificial intelligence represents nothing ... a competition that includes both algorithms made to get your self-driving car speeding over to Wendy’s faster and able to autonomously ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671",
-      "originalUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/b1d7deef3a26e9e75536b73e1a5d4822.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp",
-      "publishedDateTime": "2022-02-04T14:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

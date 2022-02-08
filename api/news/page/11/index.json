@@ -2,6 +2,371 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-25-how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences.md",
+      "title": "How Artificial Intelligence and Machine Learning are Transforming the Life Sciences",
+      "excerpt": "AI and ML are set to have a measurable impact on drug development, clinical trials, supply chain, and commercial and regulatory processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/",
+      "originalUrl": "https://www.contractpharma.com/contents/view_experts-opinion/2022-01-25/how-artificial-intelligence-and-machine-learning-are-transforming-the-life-sciences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dev.rodpub.com/images/248/280_main.jpg",
+          "width": 1542,
+          "height": 833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Contract Pharma",
+        "domain": "contractpharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management.md",
+      "title": "Vectra Acquires Siriux Security Technologies to Extend Leadership in Identity and SaaS Threat Management",
+      "excerpt": "Vectra AI, a leader in AI-driven threat detection and response, today announced it has acquired Siriux Security Technologies, a leading provider of",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management/article_b47cb748-a4d8-5da2-ae05-c7428121873c.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management/article_b47cb748-a4d8-5da2-ae05-c7428121873c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-how-minority-languages-found-an-unlikely-ally-in-translation-companies.md",
+      "title": "How minority languages found an unlikely ally in translation companies",
+      "excerpt": "Professional translation companies are becoming an unlikely partner in protecting minority languages for future generations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openglobalrights.org/how-minority-languages-found-an-unlikely-ally-in-translation-companies/",
+      "originalUrl": "https://www.openglobalrights.org/how-minority-languages-found-an-unlikely-ally-in-translation-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.openglobalrights.org/userfiles/image/Tirosh_Images_01-25-22.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openglobalrights",
+        "domain": "openglobalrights.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-mercedes-sees-luminar-eyes-in-its-self-driving-cars.md",
+      "title": "Mercedes sees Luminar eyes in its self-driving cars",
+      "excerpt": "Mercedes-Benz has taken a major step forward in its efforts to produce self-driving cars, partnering with Luminar to include the latter’s Iris lidar technology in Mercedes-Benz vehicles. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/",
+      "originalUrl": "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/01/mercedes-luminar.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mercedes-sees-luminar-eyes-in-its-self-driving-cars-25708705/amp/",
+      "publishedDateTime": "2022-01-25T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-why-we-must-create-an-ai-bill-of-rights.md",
+      "title": "Why We Must Create An AI Bill Of Rights",
+      "excerpt": "If eliminating the use of personally identifiable information completely is not a viable option, it should be clear that customers have the ability to manage their information, as well as pull out at any point.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/why-we-must-create-an-ai-bill-of-rights/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/why-we-must-create-an-ai-bill-of-rights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61eebd0af3b04eb1de11b53e/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/why-we-must-create-an-ai-bill-of-rights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/25/why-we-must-create-an-ai-bill-of-rights/amp/",
+      "publishedDateTime": "2022-01-25T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-meta-builds-ai-supercomputer-with-access-to-user-data-of-millions-should-we-worry.md",
+      "title": "Meta Builds AI Supercomputer With Access To User Data Of Millions; Should We Worry?",
+      "excerpt": "and translate between languages. On the other hand, the Meta AI Research SuperCluster is different as it aims to build new AI models. \"RSC will help Meta's AI researchers build new and better AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizbot.com/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
+      "originalUrl": "https://www.gizbot.com/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizbot.com/amphtml/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
+      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/computer/news/meta-rcs-supercomputer-built-with-ai-access-to-data-how-does-it-work-078865.html",
+      "publishedDateTime": "2022-01-25T04:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-machine-learning-and-artificial-intelligence-implementation-in-practice.md",
+      "title": "Machine Learning And Artificial Intelligence: Implementation In Practice",
+      "excerpt": "When it comes to AI, more and more companies are facing a choice: whether to develop a project using a traditional approach (predefined rules) or with the implementation of ML (teaching machines to do something not by instruction or logic but by examples or some kind of feedback).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61eebc8aace40667193daae5/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/25/machine-learning-and-artificial-intelligence-implementation-in-practice/amp/",
+      "publishedDateTime": "2022-01-25T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google.md",
+      "title": "Tunisian enterprise AI startup InstaDeep raises $100M from Alpha, BioNTech, Google",
+      "excerpt": "A recent survey carried out by CNBC reported that 81% of executives worldwide say AI will play a prominent and critical role in how their businesses operate this year. Companies are phasing from the first generation of AI,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/",
+      "originalUrl": "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/762AEA63-1005-49DE-8AAD-2DF6AB8A18BA.jpeg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/25/tunisian-enterprise-ai-startup-instadeep-raises-100m-from-alpha-biontech-google/amp/",
+      "publishedDateTime": "2022-01-25T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-robotics-startups-seek-to-build-a-better-self-driving-lawn-mower.md",
       "title": "Robotics Startups Seek to Build a Better Self-Driving Lawn Mower",
       "excerpt": "Tiger Global led an investment in Electric Sheep Robotics, which makes a device for large-scale, autonomous commercial mowers.",
@@ -241,6 +606,49 @@
         "AI",
         "AI in Marketing",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-01-25-dataloop-applauded-by-frost-sullivan-for-accelerating-computer-vision-ai-model-production-with-its-data-management-and-annotation-platform.md",
+      "title": "Dataloop Applauded by Frost & Sullivan for Accelerating Computer Vision AI Model Production with its Data Management and Annotation Platform",
+      "excerpt": "Based on its recent analysis of the European data management and annotation platform industry, Frost & Sullivan recognizes Dataloop Ltd with the 2021 European Technology Innovation Leadership Award for its advanced data management and annotation platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-dataloop-applauded-frost-sullivan-accelerating-computer-vision-ai-/2022/01/25/9532036.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-dataloop-applauded-frost-sullivan-accelerating-computer-vision-ai-/2022/01/25/9532036.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1730904/Dataloop_Award.jpg",
+          "width": 400,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -757,467 +1165,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-meta-unveils-new-ai-supercomputer-destined-to-be-worlds-fastest.md",
-      "title": "Meta unveils new AI supercomputer destined to be world's fastest",
-      "excerpt": "Meta has unveiled the AI Research SuperCluster (RSC), a new supercomputer that’s among the fastest in the world. And it’ll only get faster – by the end of the year it should rank number one, with computing power on the exascale.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/",
-      "originalUrl": "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 389,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/f2fac32/2147483647/strip/true/crop/1200x800+304+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc3%2F17%2F7537049247e4aaaf863110e796e0%2Fmeta-rsc-2.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/facebook-meta-ai-research-supercluster-supercomputer/?amp=true",
-      "publishedDateTime": "2022-01-24T20:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-darwinbox-nabs-72m-for-its-all-in-one-hr-cloud-software-solution.md",
-      "title": "Darwinbox nabs $72M for its all-in-one HR cloud software solution",
-      "excerpt": "Darwinbox, a startup developing software to manage HR functions like recruitment and onboarding, has raised $72 million in a funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/24/darwinbox-nabs-72m-for-its-all-in-one-hr-cloud-software-solution/",
-      "originalUrl": "https://venturebeat.com/2022/01/24/darwinbox-nabs-72m-for-its-all-in-one-hr-cloud-software-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1261563652.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/24/darwinbox-nabs-72m-for-its-all-in-one-hr-cloud-software-solution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/darwinbox-nabs-72m-for-its-all-in-one-hr-cloud-software-solution/amp/",
-      "publishedDateTime": "2022-01-24T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-sparse-weights-using-structural-pruning.md",
-      "title": "Sparse weights using structural pruning",
-      "excerpt": "Structural pruning weights from your model to make it sparse in specific pattern can accelerate model inference time with appropriate HW supports. This tutorial shows you how to: Define and train a model on the mnist dataset with a specific structural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/model_optimization/guide/pruning/pruning_with_sparsity_2_by_4",
-      "originalUrl": "https://www.tensorflow.org/model_optimization/guide/pruning/pruning_with_sparsity_2_by_4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T16:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-deepmind-the-podcast-returns-for-season-2.md",
-      "title": "DeepMind: The Podcast returns for Season 2",
-      "excerpt": "Were proud to launch a new season of DeepMind: The Podcast, with stories of the latest breakthroughs, innovations, and challenges from inside the lab.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/DeepMind-The-Podcast-returns-for-Season-2",
-      "originalUrl": "https://deepmind.com/blog/article/DeepMind-The-Podcast-returns-for-Season-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/33DKJ7GyiVceFfJZ2-acjZaqj0s3zqbu3wM6GsP_XIyDKyB0ToIGI65sGaFjsY602v44P_vyyQdnC97-7_vhHq1YYYAylUvIkXp4xLy7d90tW4-d0g",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-intelligent-automation-in-aerospace-defence-market-by-product-applications-geographic-and-key-players-microsoft-corporation-boeing-ibm.md",
-      "title": "Intelligent Automation in Aerospace & Defence Market by Product, Applications, Geographic and Key Players: Microsoft Corporation, Boeing, IBM",
-      "excerpt": "Intelligent automation (AI), sometimes also called cognitive automation ... Some of the top key players of this market are Microsoft Corporation, Boeing, IBM, Intel Corporation, Airbus, NVIDIA ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/intelligent-automation-in-aerospace-defence-market-by-product-applications-geographic-and-key-players-microsoft-corporation-boeing-ibm-2022-01-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/intelligent-automation-in-aerospace-defence-market-by-product-applications-geographic-and-key-players-microsoft-corporation-boeing-ibm-2022-01-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse.md",
-      "title": "Facebook parent Meta creates powerful AI supercomputer to support metaverse",
-      "excerpt": "Facebook’s parent company Meta on Monday ... The computer, which is already up and running but is still being built, is called AI Research SuperCluster. Meta says it will help its AI researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse-01643061310",
-      "originalUrl": "https://www.marketwatch.com/story/facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse-01643061310",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-473186/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse-01643061310",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/facebook-parent-meta-creates-powerful-ai-supercomputer-to-support-metaverse-01643061310",
-      "publishedDateTime": "2022-01-24T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-getting-ai-from-the-lab-to-production.md",
-      "title": "Getting AI from the lab to production",
-      "excerpt": "The enterprise is eager to push AI out of the lab and into production environments, where it will hopefully usher in a new era of productivity and profitability. But this is not as easy as it seems because it turns out that AI tends to behave much differently in the test bed than it does in the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/",
-      "originalUrl": "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/24/getting-ai-from-the-lab-to-production/amp/",
-      "publishedDateTime": "2022-01-24T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-momentum-in-azure-cloud-to-aid-microsofts-msft-q2-earnings.md",
-      "title": "Momentum in Azure Cloud to Aid Microsoft's (MSFT) Q2 Earnings",
-      "excerpt": "Microsoft's (MSFT) fiscal second-quarter performance is likely to reflect momentum in the Azure cloud platform due to rapid digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/414815",
-      "originalUrl": "https://www.entrepreneur.com/article/414815",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-414815.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-transforming-modern-medical-devices-with-machine-learning-ai-inference.md",
-      "title": "Transforming Modern Medical Devices with Machine Learning & AI Inference",
-      "excerpt": "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/X1P1_web.jpeg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

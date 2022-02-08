@@ -59,6 +59,22 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Tesla Model Y Crashes Into A Pole While Full-Self Driving Beta Was Being Tested"
+    excerpt: "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla Model Y owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s ..."
+    publishedDateTime: 2022-02-07T23:05:00Z
+    webUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/"
+    ampWebUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 70
+    images:
+      - url: "https://i.ytimg.com/vi/sbSDsbDQjSU/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "We took a ‘self-driving’ Tesla for a spin in Boston. Here’s how it did."
     excerpt: "For all the wrong reasons. It all started with a tweet from a Boston driver named Taylor Ogan. He drove his Black Tesla Model Y on self-driving mode around South Boston, showing in a video how it fails to navigate city streets properly. This was ..."
     publishedDateTime: 2022-02-03T16:01:00Z

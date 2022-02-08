@@ -2,6 +2,534 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-01-24-ibm-bids-farewell-to-watson-health-assets.md",
+      "title": "IBM Bids Farewell to Watson Health Assets",
+      "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
+      "originalUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/IBM%20corporate%20headquarters%20sign.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-23T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-global-artificial-intelligence-delivery-robot-market-2021-development-analysis-strategic-outlook-growth-rate-and-forecast-to-2027.md",
+      "title": "Global Artificial Intelligence Delivery Robot Market 2021 Development Analysis, Strategic Outlook, Growth Rate and Forecast to 2027",
+      "excerpt": "Global Artificial Intelligence Delivery Robot Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 divides the market industry on the basis of the regions by growth, product types,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-delivery-robot-market-2021-development-analysis-strategic-outlook-growth-rate-and-forecast-to-2027-2022-01-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-delivery-robot-market-2021-development-analysis-strategic-outlook-growth-rate-and-forecast-to-2027-2022-01-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-23T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-the-role-of-experimentation-in-fundamental-machine-learning-research.md",
+      "title": "The Role of Experimentation in Fundamental Machine Learning Research",
+      "excerpt": "I recently watched an excellent talk from Dr. Tom Goldstein given to the National Science Foundation in which he discussed the current limitations of machine learning (ML) research and a path forward to correct those issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/role-experimentation-fundamental-machine-learning-research-hayduk",
+      "originalUrl": "https://www.linkedin.com/pulse/role-experimentation-fundamental-machine-learning-research-hayduk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGcEsZZqZ_5uw/article-cover_image-shrink_720_1280/0/1642882009429?e=1649289600&v=beta&t=KhZCE_ZymXpdGA-g3PznWqxQcBELkQqzS7fIuHQN5-0",
+          "width": 1240,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-23T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-ethics-and-ownership-of-ai-powered-identities.md",
+      "title": "Ethics and ownership of AI-powered identities",
+      "excerpt": "People will soon be asked to decide how their voices, images, and AI-powered identities can be used both today and long after they're gone.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/",
+      "originalUrl": "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-478952698.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/amp/",
+      "publishedDateTime": "2022-01-23T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-begalileo-the-mathematical-thinking-cognitive-capability-building-program-signs-up-sania-mirza-as-brand-ambassador.md",
+      "title": "beGalileo, the Mathematical Thinking & Cognitive Capability Building Program signs up Sania Mirza as Brand Ambassador",
+      "excerpt": "He hoped that she will help them put the brand in the 'zone' when parents look for that 'one' option that will aid their child with core foundational & cognitive skills to stay ahead in life.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1231637&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1231637&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1730479/Sania_Mirza.jpg",
+          "width": 400,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-23T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-overcoming-ai-and-ml-roadblocks-in-financial-services.md",
+      "title": "Overcoming AI and ML Roadblocks in Financial Services",
+      "excerpt": "Artificial intelligence and machine learning have become critically important to financial services companies —86% say it’s important to their success in the next two years. A recent survey from Red Hat and IDG explores the challenges around AI and ML deployment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services",
+      "originalUrl": "https://www.infoworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-23T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-23-custom-federated-algorithms-part-1-introduction-to-the-federated-core.md",
+      "title": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
+      "excerpt": "This tutorial is the first part of a two-part series that demonstrates how to implement custom types of federated algorithms in TensorFlow Federated (TFF) using the Federated Core (FC) - a set of lower-level interfaces that serve as a foundation upon which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/federated/tutorials/custom_federated_algorithms_1",
+      "originalUrl": "https://www.tensorflow.org/federated/tutorials/custom_federated_algorithms_1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-22T23:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-23-israeli-firm-develops-body-cams-with-facial-recognition.md",
+      "title": "Israeli firm develops body cams with facial recognition",
+      "excerpt": "Facial recognition in law enforcement has sparked global criticism, with US tech giants backing away from providing the technology to police, citing privacy risks. Proponents including Tirza ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.france24.com/en/live-news/20220123-israeli-firm-develops-body-cams-with-facial-recognition",
+      "originalUrl": "https://www.france24.com/en/live-news/20220123-israeli-firm-develops-body-cams-with-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.france24.com/media/display/727a8a48-7bf9-11ec-a91e-005056bfb2b6/w:1280/p:16x9/b1c3402e2d4d954ff8797d511fed4f2deb9d008a.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.france24.com/en/live-news/20220123-israeli-firm-develops-body-cams-with-facial-recognition",
+      "cdnAmpWebUrl": "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20220123-israeli-firm-develops-body-cams-with-facial-recognition",
+      "publishedDateTime": "2022-01-22T19:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "France 24",
+        "domain": "france24.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-23-why-user-education-is-necessary-to-avoid-ai-failure.md",
+      "title": "Why User Education Is Necessary To Avoid AI Failure",
+      "excerpt": "AI failure, in most cases, is attributed to technology-centric factors like the quality of data or the capabilities of algorithms and hardware used, ignoring the most crucial aspect of AI success—the end user.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/22/why-user-education-is-necessary-to-avoid-ai-failure/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/22/why-user-education-is-necessary-to-avoid-ai-failure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61d6726b1998bdcbce034eae/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/22/why-user-education-is-necessary-to-avoid-ai-failure/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/22/why-user-education-is-necessary-to-avoid-ai-failure/amp/",
+      "publishedDateTime": "2022-01-22T19:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-01-23-neurable-wants-to-let-you-control-any-device-with-your-mind.md",
+      "title": "Neurable Wants to Let You Control Any Device With Your Mind",
+      "excerpt": "There were no handheld controllers, mice, motion trackers, or keyboards, no HP Z Backpack computers, no robots ... just a chair ... Neurable's mission – “creating a world without limits,” where control over any device is a simple thought away.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/neurable-wants-let-you-control-any-device-your-mind",
+      "originalUrl": "https://www.designnews.com/electronics-test/neurable-wants-let-you-control-any-device-your-mind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Neurable%20headset.jpg",
+          "width": 833,
+          "height": 655,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-22T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-23-shield-ai-wins-air-force-contract-intended-to-help-bridge-valley-of-death.md",
+      "title": "Shield AI wins Air Force contract intended to help bridge ‘valley of death’",
+      "excerpt": "Shield AI, the defense-focused autonomous drone startup, won a possibly $60 million contact from the Air Force designed to keep cash flowing to companies while they await opportunities to get on major contracts. The contract, awarded through the Strategic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/shield-ai-wins-air-force-stratfi-contract/",
+      "originalUrl": "https://www.fedscoop.com/shield-ai-wins-air-force-stratfi-contract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/01/7019338.jpg?w=1200&h=500&crop=1",
+          "width": 1200,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-22T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-22-tinyml-is-bringing-deep-learning-models-to-microcontrollers.md",
       "title": "TinyML is bringing deep learning models to microcontrollers",
       "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Deep learning models owe their initial success to large server",
@@ -664,519 +1192,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-deepmind-co-founder-mustafa-suleyman-leaves-google.md",
-      "title": "DeepMind co-founder Mustafa Suleyman leaves Google",
-      "excerpt": "Mustafa Suleyman, a co-founder of artificial intelligence research company DeepMind, has left Google to join venture capital firm Greylock Partners. Suleyman has brought to an end an eight-year run at Google,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/deepmind-ai-mustafa-suleyman-google-greylock-partners-152049755.html",
-      "originalUrl": "https://www.engadget.com/deepmind-ai-mustafa-suleyman-google-greylock-partners-152049755.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/fcd690c0-7acc-11ec-afe2-9c62fe8a75df",
-          "width": 5760,
-          "height": 3840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model.md",
-      "title": "Microsoft will force update your PCs to Windows 10 21H2 to train its own ML Update model",
-      "excerpt": "Microsoft has begun the forced rollout of Windows 10 21H2 update to Windows 10 20H2 devices in order to help train its Machine Learning-assisted intelligent Windows Update rollout model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/06/1624557503_windows_10_21h2_pc_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "publishedDateTime": "2022-01-21T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers.md",
-      "title": "IoT Pioneer Ayla Networks Builds Machine Learning Business Targetting Internet Service Providers",
-      "excerpt": "Advanced analytics – including the use of machine learning and ... healthcare and financial services. The market's use of AI can be traced back to its roots building self-learning and self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers",
-      "originalUrl": "https://www.infoworld.com/resources/229994/iot-pioneer-ayla-networks-builds-machine-learning-business-targetting-internet-service-providers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-what-learning-can-learn-from-machine-learning.md",
-      "title": "What Learning Can Learn From Machine Learning",
-      "excerpt": "Taking a few bits and bytes from machine learning could go a long way to improving K-12 and postsecondary learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/400x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604060ec040608a6a8d30b0e%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ryancraig/2022/01/21/what-learning-can-learn-from-machine-learning/amp/",
-      "publishedDateTime": "2022-01-21T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport.md",
-      "title": "Robotic Assistance Devices to deploy 2 SCOT security robots at major U.S. regional airport",
-      "excerpt": "Artificial Intelligence Technology Solutions (OTCPK:AITX) announced that a major U.S. regional airport is poised to deploy 2 SCOT security devices from its wholly-owned subsidiary Robotic Assistance Devices.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "originalUrl": "https://seekingalpha.com/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "publishedDateTime": "2022-01-21T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-intuit-ceo-on-the-power-of-machine-learning-for-small-businesses.md",
-      "title": "Intuit CEO on the Power of Machine Learning for Small Businesses",
-      "excerpt": "CEO Sasan Goodarzi talks about the many applications and capabilities of machine learning. Sasan Goodarzi: We apply machine learning to everything that I know about you. How many accounts payables do you have?",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses",
-      "originalUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intuit-ceo-on-the-power-of-machine-learning-for-small-businesses?amp",
-      "publishedDateTime": "2022-01-21T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-six-steps-to-execute-responsible-ai-in-the-enterprise.md",
-      "title": "Six Steps To Execute Responsible AI In The Enterprise",
-      "excerpt": "While organizations today may see Responsible AI (RAI) as an important part of their AI journey, we will see some significant shifts as new legislation creates reputational and financial risks for businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/events/responsible-ai-from-principles-to-practice/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/six-steps-to-execute-responsible-ai-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.brookings.edu/wp-content/uploads/2022/01/global_south_africa_electrity_pylons.jpg",
-          "width": 3905,
-          "height": 2509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/events/responsible-ai-from-principles-to-practice/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/events/responsible-ai-from-principles-to-practice/amp/",
-      "publishedDateTime": "2022-01-21T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock.md",
-      "title": "DeepMind Co-Founder Suleyman Exits Google for VC Firm Greylock",
-      "excerpt": "(Bloomberg) --The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman will be a venture partner at Greylock ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/business/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock",
-      "originalUrl": "https://www.bloombergquint.com/business/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-21T02:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow.md",
-      "title": "Artificial Intelligence: A Key Technology That's Shaping Our Tomorrow",
-      "excerpt": "Ever since Alan Turing helped decode the Enigma messages used by the Germans during World War II, the concept of artificial intelligence started getting traction. It was only in 1956 that the term actually was officially coined by none other than John McCarthy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e97402eff768c29a8fba2d/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/21/artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/21/artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow/amp/",
-      "publishedDateTime": "2022-01-21T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-become-fluent-in-machine-learning-with-this-6-course-bundle-on-sale.md",
-      "title": "Become fluent in machine learning with this 6-course bundle on sale",
-      "excerpt": "TL;DR: As of Jan. 21, The Ultimate Deep Learning & NLP Certification Bundle (worth $1,200) is on sale for just $29.99, which is over 97% off. If you want to advance your career or learn a new ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/deals/jan-21-deep-learning-nlp-certification-bundle",
-      "originalUrl": "https://mashable.com/deals/jan-21-deep-learning-nlp-certification-bundle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00pXXjD8Vp0RWGxC9bdP2KZ/hero-image.fill.size_1200x675.v1642640117.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/deals/jan-21-deep-learning-nlp-certification-bundle?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/deals/jan-21-deep-learning-nlp-certification-bundle?amp",
-      "publishedDateTime": "2022-01-21T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology.md",
-      "title": "Guest column: To protect Montanans’ privacy, we must address facial recognition technology",
-      "excerpt": "Our rights to not have our property or persons searched or seized without a warrant, to not be harassed by the government without good reason, and to conduct our own",
-      "sourceUrl": null,
-      "webUrl": "https://www.bozemandailychronicle.com/opinions/guest_columnists/guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology/article_184fffe3-e084-51b3-bec2-edc0812cd541.html",
-      "originalUrl": "https://www.bozemandailychronicle.com/opinions/guest_columnists/guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology/article_184fffe3-e084-51b3-bec2-edc0812cd541.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/d/0f/d0fd260c-c142-56d2-8d2c-cf29b40ec675/61e98aff38245.image.jpg?resize=1024%2C1280",
-          "width": 1024,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bozemandailychronicle.com/opinions/guest_columnists/guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology/article_184fffe3-e084-51b3-bec2-edc0812cd541.amp.html",
-      "cdnAmpWebUrl": "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/opinions/guest_columnists/guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology/article_184fffe3-e084-51b3-bec2-edc0812cd541.amp.html",
-      "publishedDateTime": "2022-01-20T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bozeman Daily Chronicle",
-        "domain": "bozemandailychronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

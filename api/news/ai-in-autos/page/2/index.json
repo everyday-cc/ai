@@ -204,6 +204,58 @@
       ]
     },
     {
+      "path": "_news/2022-01-25-latin-america-artificial-intelligence-market-2021-26-size-share-analysis-and-forecast.md",
+      "title": "Latin America Artificial Intelligence Market 2021-26: Size, Share, Analysis and Forecast",
+      "excerpt": "Artificial intelligence (AI) refers to an interdisciplinary ... to further bolster the demand for AI in drones, robots, and self-driving cars, over the forecasted period. If you need specific ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2021-26-size-share-analysis-and-forecast-2022-01-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2021-26-size-share-analysis-and-forecast-2022-01-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-boeing-to-pour-450-million-into-program-for-self-driving-air-taxi.md",
       "title": "Boeing to pour $450 million into program for self-driving air taxi",
       "excerpt": "Aviation company Boeing said Monday that it's investing almost a half-billion more dollars into its sky taxi startup Wisk Aero, in a bid to bring the first self-flying air taxi to the market before the decade is out.",
@@ -1331,58 +1383,6 @@
         "name": "spectrumnews1",
         "domain": "spectrumnews1.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-4-reasons-meta-platforms-is-poised-to-grow-in-2022.md",
-      "title": "4 Reasons Meta Platforms Is Poised to Grow in 2022",
-      "excerpt": "I want to talk a little bit more about the future growth of Meta Platforms and Facebook. First, I just want to say one thing. I've been looking on LinkedIn and",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/01/14/4-reasons-meta-platforms-is-poised-to-grow-in-2022/",
-      "originalUrl": "https://www.fool.com/investing/2022/01/14/4-reasons-meta-platforms-is-poised-to-grow-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/661292/gettyimages-1311088152.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

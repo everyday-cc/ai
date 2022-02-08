@@ -6,8 +6,8 @@ publishedDateTime: 2022-02-07T20:23:00Z
 originalUrl: "https://www.crn.com.au/news/big-data-trends-the-channel-should-know-for-2022-575689"
 webUrl: "https://www.crn.com.au/news/big-data-trends-the-channel-should-know-for-2022-575689"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i.nextmedia.com.au/News/0_0_0_0_70__News_iStock-1251235330.jpg"

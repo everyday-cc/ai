@@ -15,6 +15,10 @@ published: true
 provider:
   name: com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html
   domain: com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -26,6 +30,6 @@ images:
     height: 3664
     isCached: true
 
-secured: "CqWuxyH+DzsVoyY7tbxa1pgYBrVKWKXOEgaX+PcsE1ekCrdTLgHWaW2EXixoWMdsfpYNYix0DZxS/47T9RQyT1HWju1JA+Dxl/88RtrufscEbggleWwLo7faZ1WStfJ3TlT6MFDb/VVi+jdQHxeyyG/7IQu7jVU1yYjGZMm+ZV1FvCsuhsafceCw6PXc8QRWjhbHFS0j85CYKYJ4Taz3rIwUSyWXTI0mY1SPh5PZm1h8xosT0cnSpXcBwimWYzqaO+rihKtEdi8uuo88ervHoM/EungXFHQgsHPNd+TSBwvQHnmkjYjxB8mgmkFduoGb0NWfk81pHGQKEGdKWsNPDqtV5ieGWikNpcYZC6B3odMWlRYvlnaiZjT9dzks0kLWchJyQR7N8H5WG9vLTVRJ16lcBqkMEUzQf70zUCpRnSebqmxO3SNQ4fTQTo26t5NaVNcbyYGtRjvalakhHNu8RhGfHRiyHp4n0Gd3AAZyzrczgnu8sS9JVnREftkO7g9ASuERKkK/7svWYf5tiYzoeqmmHHZF/BypMX+Kf8Yicf0=;bcSvZiaQNkghBZ8+pTF+wA=="
+secured: "OoX5zqzjS9gwdznnCzbbnM/4ZXztB5jV8my6zIuA2la2Bg4QcFI67u+Ne+OyhvyyfebwrdFkiIa5wI4QagdDfzCalfBHWePVggbQlXO9HUq9mPWTLASitU1Kn2Z1plKeVabcO0tlr3BrBo42Up1A2Olnx0DXYRWHNdmhSxfAyvdA0oVAfD8ZANAxwJKBmjdYgG7XyfJbwdtxOhR1hgQjaeYl4lxqt6eDAXP2lSDF7nyub9dluoZW9KcYqLfqA7lEVH+uMxtvkAyFntHSe9e7IL7ifyf3KN0B+q7tzTmsUkezlv3QRsqazKC9MldNdWVyKQaCe4ve2l5uWST5ESupg3zQXfX3LskNQeFS/tvfXmGvoqDUjz0AV0iiwAsXErQyzYZedz2++0gCAKbFBeGl72YwgnnbDmQsYdfkcJEQaBnBD0VRlWXov/eysfWxxMwL+PY8OINdQ5l4VsiBj6/T5PHv7kdMS9QaAF3R6z/tb5ENY4XH3sBVTDENzd2/pdIX+6IrL4+dxX9K/Kc3toOgm+4wVkwpqd6mHMSqMAbfA9Y=;zKaP707LNPTG6tg6jNLoUA=="
 ---
 

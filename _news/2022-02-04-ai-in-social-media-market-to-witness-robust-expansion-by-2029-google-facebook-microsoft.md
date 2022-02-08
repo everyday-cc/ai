@@ -67,6 +67,17 @@ related:
         width: 2194
         height: 1367
         isCached: true
+  - title: "Westpac signs five-year deal with Microsoft to lift it further into the cloud"
+    excerpt: "Under the partnership, Westpac will adopt Microsoft Azure as it continues to expand the use of cloud-based systems, and look to bring its application, data, and AI capabilities together in a \"more cohesive manner that can be scaled across the enterprise\"."
+    publishedDateTime: 2022-02-07T23:19:00Z
+    webUrl: "https://www.zdnet.com/article/westpac-signs-five-year-deal-with-microsoft-to-lift-it-further-into-the-cloud/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/westpac-signs-five-year-deal-with-microsoft-to-lift-it-further-into-the-cloud/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/westpac-signs-five-year-deal-with-microsoft-to-lift-it-further-into-the-cloud/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
 
 secured: "PtRiexXdk4UzJhClJGqlNSnzcpso0EsAnFK2rdjjnaWpSRBgC4MaBqIofBbxAHq4MZda0iwEDm9/ka/zzZIXm0tFrLCKjpVwvNVMRIXMqKDWtP/yqKMsOsmG3BjNT4VHAf60JChsZzH63i/h3QuLNJ/TedWN6vh/4+9qCTOwnL5fp8Dc+ABCZ3FUZyMY4pnDl3kHuqo0FvBv71Wq9lNr8YrKOXfNYUEP9nsGxtQt2yQXOBTN2PJJ7NCuNX02Z2w/xq+HUoOB4rslG5O7u/x4RYbISpqS+c/MCZQqU6Jyo1I037kL3mfEXL6MJpwoFnFC/OOSwT0gw2uRZFRAcevRiuQLGTzzJ23lfeafG/aur0Z+xy64bjhiyuWAAqE4hMRQjhkcZv+a8yiIVsjGICyR7rQtjVNeRRyJD2117a2qDKdxrLQ9KJIVgnGMOk97r74gGi8K34xjwBJOpLeggN2allFJgACid04HNLw81YHgdZefFonZlQ5yYHyl90W96wAzauJvRb5my03AZxbBiHxxgw==;ZtdCSeNPrOLto5iFPXxVmw=="
 ---

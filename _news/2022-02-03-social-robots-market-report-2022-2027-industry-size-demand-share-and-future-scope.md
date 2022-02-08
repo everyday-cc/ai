@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market Report 2022-2027: Industry Share, Size and Future Scope"
-    excerpt: "Machine learning comprises a broad set of algorithms that are ... excellence and the widespread adoption of cloud-based solutions in the banking, financial services and insurance (BFSI) sector, have also created a positive outlook for the market."
-    publishedDateTime: 2022-02-03T13:23:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-as-a-service-mlaas-market-report-2022-2027-industry-share-size-and-future-scope"
+  - title: "Deep Learning Market Size, Share, Demand Analysis, Regional Outlook, Competitive Strategies and Forecast up to 2026"
+    excerpt: "Feb 04, 2022 (The Expresswire) -- Global “Deep Learning Market” 2022 report presents an exclusive analysis of market size, share, revenue, production, consumption, gross margin, and price."
+    publishedDateTime: 2022-02-04T01:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-share-demand-analysis-regional-outlook-competitive-strategies-and-forecast-up-to-2026-2022-02-04"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 41
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEiTsO5WFGrR2jbwtfT0yGgwqAPIXKWCIKyCJCbuZx_nrss0__bVmKWSlRKjJ5iieKzmNrODMyD2G43nxsugpU976WBApgT1L_TvG5zu71Xe1amWqX_Pqq2MCsAVVVl_c0qizgzL6w-Hc93DGvfeeK51rgJSCJ8H60ommeQxQvx-qrSAxo1iJHv0GPk=w519-h304"
-        width: 455
-        height: 304
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market : Industry Analysis, Size, Share, Growth, Trends and Forecast"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 03, 2022, 04:52 /Comserve / -- Machine Learning as a Service (MLaaS) Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent ..."
@@ -80,20 +80,6 @@ related:
       - url: "https://blogger.googleusercontent.com/img/a/AVvXsEgPTAbLyXbF0I5mn8ZmLzWHZhi4PfxoDoRh6tP0np1UzGpviK1551vhi1d30BiXX9tk7yRHAiJ2m_Bc7Ng0d2SfkpbyF1FImJMwrHtx_wjCIME_cWVjYLX0PNk_1TelRO7OIpWrG79yOTlkAKfhQbReNyRAvJwilU3jmZmeWnFWmo4lAnYR8vv_25M"
         width: 1600
         height: 1068
-        isCached: true
-  - title: "Aerostat Systems Market 2022-2027: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    excerpt: "Moreover, numerous organizations are utilizing intelligent video surveillance systems owing to their various advantages, such as object recognition and video analytics, and thereby further ..."
-    publishedDateTime: 2022-02-05T03:40:00Z
-    webUrl: "https://menafn.com/1103643931/Aerostat-Systems-Market-2022-2027-Global-Industry-Trends-Share-Size-Growth-Opportunity-and-Forecast"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 7
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?768954"
-        width: 374
-        height: 250
         isCached: true
 
 secured: "/cSWkk3AMPKR3cBfqQw4SiBixWGRAcz7ihGlNg2V/nTX7tE1YDlhRSQtgfDA4UbFWHR2rfSm1gyFOd986+I5b9MpawD+CyiqOr1b0afYq3oNy88Bvs9n8JYv++eBSZuBEOKFYfoTz7T0fImAFZx1OJUyNRgM/lm5g/eYgo30CMBvbNpqHOGCwaoYMitwWYVLRvBg2RCseLhCs/8s1zrz8mFUpzp+qio7NlTnLQ5CnGB1HaH1V7yaobEpLW/sCKnQGhiGGeEggQ6yZNh8N/QuVnxczxz9vEPtvdsyyO8rPy3uwYz74Z9cTYkDxUMdvWYXGzgWC45n8++owrxg9qXjMX8CR14Du9UiN0r4MPoOILY=;TBEZ95TFfsmLU+2uPqBqbw=="

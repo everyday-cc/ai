@@ -2,6 +2,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-24-sas-viya-is-living-large-on-azure.md",
+      "title": "SAS Viya is living large on Azure",
+      "excerpt": "A year and a half in, there is a critical mass of Viya embedded inside Azure analytics, and existing SAS customers are starting to buy in. By \"hiding in plain sight,\" could Azure make SAS cool again with a new generation of customers?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sas-viya-is-living-large-on-azure/",
+      "originalUrl": "https://www.zdnet.com/article/sas-viya-is-living-large-on-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/780348d92f2b55f248dc1fa52ca2927783b0099a/2022/01/21/f0f7e2fc-b0dd-470c-a472-effa45c6d310/owl.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sas-viya-is-living-large-on-azure/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sas-viya-is-living-large-on-azure/",
+      "publishedDateTime": "2022-01-24T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-we-are-indias-1st-telco-to-build-big-data-aiml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.md",
+      "title": "We are India's 1st telco to build Big Data AI/ML Cloud Advanced Analytics Platform on AWS: Vodafone Idea",
+      "excerpt": "The Indian telecom industry has been at the heart of the technology driven disruption over the last decade. With over 986 million active wireless subs..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-89093127,imgsize-41536,width-1200,height-628,overlay-etcio/we-are-india-s-1st-telco-to-build-big-data-ai-ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/we-are-indias-1st-telco-to-build-big-data-ai/ml-cloud-advanced-analytics-platform-on-aws-vodafone-idea/89093127",
+      "publishedDateTime": "2022-01-24T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-we-are-indias-1st-telco-to-build-big-data-aiml-cloud-advanced-analytics-platform-on-aws-vodafone.md",
       "title": "We are India's 1st telco to build Big Data AI/ML Cloud Advanced Analytics Platform on AWS: Vodafone",
       "excerpt": "The Indian telecom industry has been at the heart of the technology driven disruption over the last decade. With over 986 million active wireless subscribers, the industry has an opportunity to also drive transformation for businesses across industries.",
@@ -1325,92 +1422,6 @@
         "AI Ethics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-pacbio-pacb-to-leverage-googles-deep-learning-technologies.md",
-      "title": "PacBio (PACB) to Leverage Google's Deep Learning Technologies",
-      "excerpt": "The collaboration builds on prior PacBio and Google research. A recent bioRxiv publication titled: “Deep Consensus: Gap-Aware Sequence Transformers for Sequence Correction,” demonstrated improvements in variant calling and suggested that Google’s DeepConsensus machine learning tool can expand the yield of 99.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies",
-      "originalUrl": "https://www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/pacbio-pacb-to-leverage-googles-deep-learning-technologies?amp",
-      "publishedDateTime": "2022-01-18T05:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-how-machine-learning-is-shaping-the-future-of-advertising.md",
-      "title": "How Machine Learning Is Shaping The Future Of Advertising",
-      "excerpt": "Brands can now optimize their campaign language and deliver the right message, at the right time, to the right people, in their unique brand voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/18/how-machine-learning-is-shaping-the-future-of-advertising/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/18/how-machine-learning-is-shaping-the-future-of-advertising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6168a643eda3c2e0494d8640%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/18/how-machine-learning-is-shaping-the-future-of-advertising/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/18/how-machine-learning-is-shaping-the-future-of-advertising/amp/",
-      "publishedDateTime": "2022-01-18T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

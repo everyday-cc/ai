@@ -2,6 +2,521 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-01-06-nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece.md",
+      "title": "Nvidia's upgraded AI art tool turned my obscure squiggles into a masterpiece",
+      "excerpt": "It's incredible, the things we can do with AI nowadays. For artists looking to integrate artificial intelligence into their workflow, there are ever more advanced tools popping up all over the net. One such tool is Nvidia Canvas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
+      "originalUrl": "https://www.pcgamer.com/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/dyzDakosYHUsMs4BkwAvr4-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
+      "publishedDateTime": "2022-01-06T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-odyssey-therapeutics-acquires-rahko-a-quantum-machine-learning-company.md",
+      "title": "Odyssey Therapeutics Acquires Rahko, a Quantum Machine Learning Company",
+      "excerpt": "Odyssey Therapeutics, a biotechnology company pioneering next generation precision immunomodulators and oncology medicines, today announced that it has acquired Rahko, a leading quantum machine learning company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20180348.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20180348.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T04:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-how-abigail-annkah-is-using-ai-to-improve-maps-in-africa.md",
+      "title": "How Abigail Annkah is using AI to improve maps in Africa",
+      "excerpt": "As a university student, Abigail Annkah fell in love with mathematics, which soon led to her interest in artificial intelligence. After graduating from the African Institute for Mathematical Sciences, Abigail made it through the competitive process to become an AI resident at Google Research, Accra.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-africa/how-abigail-annkah-using-ai-improve-maps-africa/",
+      "originalUrl": "https://blog.google/around-the-globe/google-africa/how-abigail-annkah-using-ai-improve-maps-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20180717-WA0012_1_AsTd22s.max-1100x1100.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-africa/how-abigail-annkah-using-ai-improve-maps-africa/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-africa/how-abigail-annkah-using-ai-improve-maps-africa/amp/",
+      "publishedDateTime": "2022-01-06T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-healthleap-raises-11m-pre-seed-to-reduce-malnutrition-in-hospitals-with-clinical-ai-assistant.md",
+      "title": "HealthLeap raises $1.1M pre-seed to reduce malnutrition in hospitals with clinical AI assistant",
+      "excerpt": "Malnutrition is somewhat common among hospitalized patients in the U.S., and its coded prevalence is increasing. Amid this problem lies an opportunity to optimize the overall quality of patient care,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/06/healthleap-raises-1-1m-pre-seed-to-reduce-malnutrition-in-hospitals-with-clinical-ai-assistant/",
+      "originalUrl": "https://techcrunch.com/2022/01/06/healthleap-raises-1-1m-pre-seed-to-reduce-malnutrition-in-hospitals-with-clinical-ai-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/HealthLeap-founders-1.jpg?w=680",
+          "width": 680,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/06/healthleap-raises-1-1m-pre-seed-to-reduce-malnutrition-in-hospitals-with-clinical-ai-assistant/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/06/healthleap-raises-1-1m-pre-seed-to-reduce-malnutrition-in-hospitals-with-clinical-ai-assistant/amp/",
+      "publishedDateTime": "2022-01-06T03:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-seeing-machines-launches-partnership-with-ai-firm-ambrella.md",
+      "title": "Seeing Machines launches partnership with AI firm Ambrella",
+      "excerpt": "Driver monitoring technology company Seeing Machines announced a collaboration with artificial intelligence (AI) silicon company Ambarella on Thursday, to bring integrated advanced driver assistance system (ADAS) and occupant and driver monitoring system (OMS and DMS) products to market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sharecast.com/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
+      "originalUrl": "https://www.sharecast.com/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img1.s3wfg.com/web/img/images_uploaded/e/1/dl-seeing-machines-aim-technology-computer-vision-driving.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sharecast.com/amp/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
+      "cdnAmpWebUrl": "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
+      "publishedDateTime": "2022-01-06T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sharecast",
+        "domain": "sharecast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-car-makers-lock-in-long-term-deals-with-chip-giants-for-future-autonomous-vehicles.md",
+      "title": "Car makers lock in long-term deals with chip giants for future autonomous vehicles",
+      "excerpt": "The battle between chip giants in the autonomous vehicle space isn't a two-horse race like it was for desktop PCs. Car makers have a somewhat wider choice of silicon vendors. At CES, Intel, Qualcomm,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/01/06/self_driving_car_makers_chips/",
+      "originalUrl": "https://www.theregister.com/2022/01/06/self_driving_car_makers_chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/12/07/car_shutterstock.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/06/self_driving_car_makers_chips/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/06/self_driving_car_makers_chips/",
+      "publishedDateTime": "2022-01-06T03:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-can-ai-emulate-human-creativity.md",
+      "title": "Can AI Emulate Human Creativity?",
+      "excerpt": "AI has undoubtedly made a significant impact on human life but one aspect of it that still causes doubts is creativity. Some believe that creativity and AI cannot go hand in hand, but the truth remains that AI has already begun to take over creative tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/06/can-ai-emulate-human-creativity/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/06/can-ai-emulate-human-creativity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d2af1eea83aa1cf055465d%2F0x0.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/06/can-ai-emulate-human-creativity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/06/can-ai-emulate-human-creativity/amp/",
+      "publishedDateTime": "2022-01-06T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "AI stocks may be excellent long-term investments. The global artificial intelligence market is on track to hit more than $554 billion in total revenue by 2024, according to market researcher IDC.",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2022/01/artificial-intelligence-stocks-the-10-best-ai-companies-5/",
+      "originalUrl": "https://wtop.com/news/2022/01/artificial-intelligence-stocks-the-10-best-ai-companies-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "IBM AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-data-startup-labelbox-reaches-toward-1-billion-valuation-with-softbank-funding.md",
+      "title": "Data Startup Labelbox Reaches Toward $1 Billion Valuation With SoftBank Funding",
+      "excerpt": "When we are talking to the enterprise, we do not see the companies that you may think of as our competition,” says CEO Manu Sharma.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2022/01/06/data-startup-labelbox-series-d-funding-from-softbank/?sh=6d9b8c6a2f59",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2022/01/06/data-startup-labelbox-series-d-funding-from-softbank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d631a168710f2ab3034eaa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1599%26cropY1%3D0%26cropY2%3D1066",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you.md",
+      "title": "John Deere and Naio robot tractor may be heading to a farm near you",
+      "excerpt": "Venerable American farm equipment manufacturer John Deere and French agricultural robot start-up Naio debuted their latest innovations at the Consumer Electronics Show, which began Wednesday in Las Vegas.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2022/01/06/1600x900/US-TECHNOLOGY-SCIENCE-LIFESTYLE-COMPUTERS-ELECTRONICS-31_1641471074615_1641471101321.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
+      "publishedDateTime": "2022-01-06T02:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022.md",
+      "title": "ITRI intros innovations in AI, robotics, and ICT at CES 2022",
+      "excerpt": "Taiwan’s largest and one of the world’s leading high-tech applied research institutions, will introduce AI, robotics, and ICT technologies at its CES 2022 booth",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/",
+      "originalUrl": "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2022/01/ITRI.jpg",
+          "width": 531,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/",
+      "publishedDateTime": "2022-01-06T00:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-nvidia-drive-orin-chip-to-power-baidus-jidu-robot-ev-same-as-nio.md",
       "title": "Nvidia DRIVE Orin Chip To Power Baidu's JiDU Robot EV, Same As Nio",
       "excerpt": "U.S. listed Chinese internet giant Baidu Inc (NASDAQ: BIDU) is following in Nio Inc's (NYSE: NIO) footsteps to adopt Nvidia Corp’s (NASDAQ: NVDA) self-driving chip capabilities, cnEVpost ...",
@@ -652,542 +1167,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined.md",
-      "title": "Ameca the robot is more human (and haunting) than I ever imagined",
-      "excerpt": "If you poke a robot in the face, is it going to try to kill you?  Interviewing Ameca the robot during a demo at CES, I got my answer: No, but the face it makes when you get up in its personal space is haunting and mesmerizing in equal measure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/",
-      "originalUrl": "https://www.cnet.com/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/ShOqxvAyc3ROEfo0YpDdokzTerQ=/1200x630/2022/01/05/40f99e59-018d-4bce-840a-4d1abc388a05/ameca-humanoid-robot-demo-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/",
-      "publishedDateTime": "2022-01-05T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas.md",
-      "title": "University of Hawaii to compete in driverless car racing event in Las Vegas",
-      "excerpt": "The University of Hawaiʻi will once again make history by competing in the world’s first-ever, head-to-head autonomous car racing competition scheduled to take place on Friday, Jan. 7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/",
-      "originalUrl": "https://www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.khon2.com/wp-content/uploads/sites/8/2022/01/1-15-UH-AUTONOMOUS.00_02_07_07.Still001.jpg?w=1280",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/amp/",
-      "cdnAmpWebUrl": "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/amp/",
-      "publishedDateTime": "2022-01-05T15:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHON2",
-        "domain": "khon2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027.md",
-      "title": "Aerospace Robotics Market Segmentation, Business Revenue and Forecast by 2027",
-      "excerpt": "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. The aerospace robotics market size was USD 2.",
-      "sourceUrl": null,
-      "webUrl": "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027",
-      "originalUrl": "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://coub-anubis-a.akamaized.net/coub_storage/story/cw_image_for_sharing/91162aa3277/15adae3f0267f73356752/1641203343_share_story.png",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T15:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Coub",
-        "domain": "coub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-google-prediction-framework-addresses-data-pipeline-drudgery.md",
-      "title": "Google Prediction Framework addresses data pipeline drudgery",
-      "excerpt": "Framework weaves together Google Cloud Platform services to simplify the implementation of prediction projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html",
-      "originalUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/executive-pushing-boulder-uphill_deadline_stress_struggle-100746928-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.amp.html",
-      "publishedDateTime": "2022-01-05T14:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-formant-raises-18m-to-help-companies-manage-fleets-of-robots.md",
-      "title": "Formant raises $18M to help companies manage fleets of robots",
-      "excerpt": "Formant, a startup developing a platform to help manage companies manage fleets of robots, has raised $18 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/",
-      "originalUrl": "https://venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1273518964.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/amp/",
-      "publishedDateTime": "2022-01-05T14:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels.md",
-      "title": "Cadillac’s new self-driving concept is a luxury loveseat on wheels",
-      "excerpt": "The InnerSpace concept looks like a futuristic car from the outside—but inside, there's a two-seat loveseat surrounded by one of the widest screens we've ever seen, and no steering wheel or pedals.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/",
-      "originalUrl": "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RBDJBKZg9iA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/",
-      "publishedDateTime": "2022-01-05T13:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model.md",
-      "title": "MVP versus EVP: Is it time to introduce ethics into the agile startup model?",
-      "excerpt": "Rather than developing a minimum viable product (MVP), companies should develop and roll out an ethically viable product (EVP) based on responsible artificial intelligence (RAI).",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/",
-      "originalUrl": "https://techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-166085866.jpg?w=1024",
-          "width": 1024,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/amp/",
-      "publishedDateTime": "2022-01-05T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-2021-year-in-review-biometric-and-ai-litigation.md",
-      "title": "2021 Year in Review: Biometric and AI Litigation",
-      "excerpt": "AI-based consumer privacy claims and a continuing trend of employment-based disputes. Read on for CPW’s highlights of the year’s most significant events concerning biometric litigation, as well as our predictions for what 2022 may bring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation",
-      "originalUrl": "https://www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation?amp",
-      "publishedDateTime": "2022-01-05T13:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-launch-factory-raises-6m-to-back-computer-vision-ai-startups.md",
-      "title": "Launch Factory Raises $6M to Back Computer Vision AI Startups",
-      "excerpt": "This round of funding aims to launch new computer vision AI companies. Led by Brad Chisum, CEO, James Hereford, and Kimberly Davis King, Launch Factory is a venture studio which, with this fund ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html",
-      "originalUrl": "https://www.finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2022/01/launch-factory.png",
-          "width": 320,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T13:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe.md",
-      "title": "How Wix empowers customer care with AI capabilities using Amazon Transcribe",
-      "excerpt": "With over 200 million users worldwide, Wix is a leading cloud-based development platform for building fully personalized, high-quality websites. Wix makes it easy for anyone to create a beautiful and professional web presence. When Wix started, it was easy to understand user sentiment and identify product",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/21/ml-5841-image003.png",
-          "width": 1432,
-          "height": 503,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T13:21:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity.md",
-      "title": "As third-party cookies fade, the cold start problem becomes an opportunity",
-      "excerpt": "The demise of the third-party cookie could transform the cold start problem into an opportunity for businesses and their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/05/as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity/",
-      "originalUrl": "https://venturebeat.com/2022/01/05/as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-526977673.jpg?fit=800%2C420&strip=all",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/05/as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity/amp/",
-      "publishedDateTime": "2022-01-05T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

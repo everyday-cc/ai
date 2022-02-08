@@ -84,20 +84,6 @@ related:
         width: 500
         height: 305
         isCached: true
-  - title: "Jio Platforms takes stake in AI start-up"
-    excerpt: "Jio Platforms invested $15 million to take a 25 per cent stake in US-based technology start-up Two Platforms, plotting joint development of products featuring technologies including AI, AR and mixed reality. Akash Ambani, director of Jio Platforms ..."
-    publishedDateTime: 2022-02-07T08:25:00Z
-    webUrl: "https://www.mobileworldlive.com/asia/asia-news/jio-platforms-takes-stake-in-ai-start-up"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 37
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/10/Jio_India-e1588588149242.jpg"
-        width: 600
-        height: 375
-        isCached: true
 
 secured: "WUuFyuucIKUhWvhFDOTpl5oiV4Ut2Qp0qiZA4/lY+6DYpo6HhsyVEW1RhTpgdGJHz6mC5W/iUF+sG/vlLsGLBI3bEuFeUYl5gnwsFwLqd/CzWF4PcP0YYrhgyGpabQ660uYyQWx+R/J/P9J0nruZbpTmU5swpOWaBLjWJYoKSETPM49wQvm66vzTbsZD908tjqehcN2XOT0+O6ZWORPcuHLrDVdIgwO2IVKTIVecYsy1v5zwm8GiK7LuXzKrwwbIGy1mm4HPAl5ZajyFpeiXnlqXbGaXRWgZdNepb0lvfj/ewf/nBrwFCwdsOO0bdCjyzQ2bIASlzEg0WoyRyfRaDom+Syn5Gr+xShT5kKHm2/w=;Fq+cbR49WT9VEuDOA87CYQ=="
 ---

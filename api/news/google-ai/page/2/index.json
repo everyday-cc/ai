@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-19-playing-cartpole-with-the-actor-critic-method.md",
+      "title": "Playing CartPole with the Actor-Critic Method",
+      "excerpt": "Actor-Critic methods are temporal difference (TD) learning methods that represent the policy function independent of the value function. A policy function (or policy) returns a probability distribution over actions that the agent can take based on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tutorials/reinforcement_learning/actor_critic?hl=sr",
+      "originalUrl": "https://www.tensorflow.org/tutorials/reinforcement_learning/actor_critic?hl=sr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sr",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-simple-audio-recognition-recognizing-keywords.md",
       "title": "Simple audio recognition: Recognizing keywords",
       "excerpt": "This tutorial demonstrates how to preprocess audio files in the WAV format and build and train a basic automatic speech recognition (ASR) model for recognizing ten different words. You will use a portion of the Speech Commands dataset (Warden, 2018), which ...",

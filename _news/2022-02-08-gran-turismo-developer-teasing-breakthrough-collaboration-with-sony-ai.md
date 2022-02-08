@@ -7,7 +7,7 @@ originalUrl: "https://www.eurogamer.net/articles/2022-02-07-gran-turismo-develop
 webUrl: "https://www.eurogamer.net/articles/2022-02-07-gran-turismo-developer-teasing-breakthrough-collaboration-with-sony-ai"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sony And Gran Turismo 7 Dev Tease Big AI News For This Week"
+    excerpt: "Sony AI and Polyphony Digital released a teaser for a project between them which will be revealed on February 9. The announcement is related to the Gran Turismo franchise, which Polyphony Digital is known for. The trailer shows the Gran Turismo logo ..."
+    publishedDateTime: 2022-02-07T23:20:00Z
+    webUrl: "https://www.gamespot.com/articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 57
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1646/16465123/3937436-granturismo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Sony AI To Reveal Project Likely Related to Gran Turismo 7 This Week"
     excerpt: "Today the artificial intelligence-dedicated arm of Sony, Sony AI teased the reveal of its “gaming flagship,” and it’s likely about Gran Turismo 7. The tease made on the company’s official ..."
     publishedDateTime: 2022-02-07T16:37:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-may-see-big
 webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-may-see-big-move-inbenta-technologies-ipsoft-nuance-communications-complyadvantage"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The AI technology revolution in practical data protection in Finance"
-    excerpt: "Made for innovators interested in creating the next breakthroughs in machine intelligence to enhance human potential."
-    publishedDateTime: 2022-02-03T08:49:00Z
-    webUrl: "https://techhq.com/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
-    ampWebUrl: "https://techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
-    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
+  - title: "AI in Fintech Market Is Likely to Experience a Tremendous Growth in Near Future | Microsoft (US), Google (California, US), Salesforce.com (US)"
+    excerpt: "Global AI in Fintech Market Status, Trends and COVID-19 Impact Report 2021, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics, size and growth, segmentation, regional and country breakdowns ..."
+    publishedDateTime: 2022-02-07T13:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future-microsoft-us-google-california-us-salesforce-com-us"
     type: article
     provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 76
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 20
     images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2022/02/shutterstock_1202221816-375x210.jpg"
-        width: 375
-        height: 210
-        isCached: true
-  - title: "Tag: Artificial Intelligence Technology Solutions, Inc. (AITX)"
-    excerpt: "DETROIT—Artificial Intelligence Technology Solutions, Inc. (AITX) has announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) will be exhibiting and presenting at ISC West, taking place March 22-25, 2022, at the Venetian Expo in ..."
-    publishedDateTime: 2022-02-03T15:44:00Z
-    webUrl: "https://www.securitysystemsnews.com/tag/artificial-intelligence-technology-solutions-inc-aitx-"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 52
-    images:
-      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
-        width: 1200
-        height: 627
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/EEE-4-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "5wCgeY7TOjXWaipqaHrR97VQZ6uEQVUzBx9UPaeoP3BfY1Nnl0MfTXRKKGlZnJn+2jROlhzAEcj2br9VBT1jZmpdK8TFGeoKBWAD4sWXX8HcBS9PPfmK5LVrJy5QNg8aaUM7vPQ2Pm/gzNFwhRpF3A/29vpsBIv7OLFAt6prufJfZi2r4JwVXILP98KXoRtYGfZmMo+gFqcMKpWlq4nrTxv735VuZxSFzGleXFedZdjuNe8KtKnVRtroDhWx4ow3T0gVoGJsTcp0yLBciHnewU6LwC4NHJs6joyNGtgn1hWM03/5s/VrpOc779lpzjv5uJKnlDpQeJixTARipN6J7F+o5d0ZjbK0B28BrKuCpEI=;fbqKjUlfzrQCG1hUFh9BwQ=="

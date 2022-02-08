@@ -2,6 +2,500 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-01-24-cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.md",
+      "title": "CFOs eye tech investments to attract, retain talent with AI/ML skills",
+      "excerpt": "A survey by a financial services and human resources software vendor showed CFOs are on the hunt for finance professionals who have skills in AI and ML platforms that can be used to parse data and tell a business value story.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.html",
+      "originalUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/artificial_intelligence_ai_ml_machine_learning_abstract_gettyimages_by_dny59_959737582_by_kentoh_1042827860-100817845-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3647998/cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.amp.html",
+      "publishedDateTime": "2022-01-24T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-microsoft-and-customer-fedex-partner-on-logistics-as-a-service.md",
+      "title": "Microsoft and customer FedEx partner on 'logistics as a service'",
+      "excerpt": "Microsoft and FedEx reveal more about their partnership around analytics, supply-chain and logistics management and specifically how Dynamics 365 will play a role.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/361dfa27d5375b1220767d0a3791d5367e4aeef1/2022/01/24/7b2e92e8-299c-4bfc-8871-80dbf6c8e4ce/microsoftfedexlogistics.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 925,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-customer-fedex-partner-on-logistics-as-a-service/",
+      "publishedDateTime": "2022-01-24T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-ai-revolutionizes-hospital-procurement-services.md",
+      "title": "AI revolutionizes hospital procurement services",
+      "excerpt": "Artificial intelligence (AI) is a formidable tool ... learning algorithms with the ability to translate structured and unstructured text into usable language and data points (ideal for evaluating ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/01/ai-revolutionizes-hospital-procurement-services/",
+      "originalUrl": "https://medcitynews.com/2022/01/ai-revolutionizes-hospital-procurement-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2022/01/GettyImages-1352661806.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-lg-electronics-to-unveil-life-size-self-driving-concept-car-next-month.md",
+      "title": "LG Electronics to unveil life-size self-driving concept car next month",
+      "excerpt": "The self-driving home on wheels is fitted with LG home appliances retooled for in-vehicle use and provided with artificial intelligence concierge services from Reah. Pic: Reuters",
+      "sourceUrl": null,
+      "webUrl": "https://www.zeebiz.com/automobile/news-lg-electronics-to-unveil-life-size-self-driving-concept-car-next-month-176941",
+      "originalUrl": "https://www.zeebiz.com/automobile/news-lg-electronics-to-unveil-life-size-self-driving-concept-car-next-month-176941",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zeebiz.com/automobile/news-lg-electronics-to-unveil-life-size-self-driving-concept-car-next-month-176941/amp",
+      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/automobile/news-lg-electronics-to-unveil-life-size-self-driving-concept-car-next-month-176941/amp",
+      "publishedDateTime": "2022-01-24T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zee Business",
+        "domain": "zeebiz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-sas-viya-is-living-large-on-azure.md",
+      "title": "SAS Viya is living large on Azure",
+      "excerpt": "A year and a half in, there is a critical mass of Viya embedded inside Azure analytics, and existing SAS customers are starting to buy in. By \"hiding in plain sight,\" could Azure make SAS cool again with a new generation of customers?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sas-viya-is-living-large-on-azure/",
+      "originalUrl": "https://www.zdnet.com/article/sas-viya-is-living-large-on-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/780348d92f2b55f248dc1fa52ca2927783b0099a/2022/01/21/f0f7e2fc-b0dd-470c-a472-effa45c6d310/owl.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 961,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sas-viya-is-living-large-on-azure/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sas-viya-is-living-large-on-azure/",
+      "publishedDateTime": "2022-01-24T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-meta-taps-nvidia-to-build-a-massive-ai-supercomputer-to-master-human-speech-and-the-metaverse.md",
+      "title": "Meta Taps NVIDIA To Build A Massive AI Supercomputer To Master Human Speech And The Metaverse",
+      "excerpt": "the parent company to Facebook, have a new and powerful toy to play with courtesy of a collaboration with NVIDIA. Meta designed and NVIDIA built what is called the AI Research SuperCluster (RSC ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
+      "originalUrl": "https://hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/57468/content/NVIDIA_AI_Supercomputer.jpg",
+          "width": 708,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-fastest-ai-supercomputer-facebook-parent-meta",
+      "publishedDateTime": "2022-01-24T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-oh-great-ai-can-not-only-be-racist-and-sexist-but-ageist-too.md",
+      "title": "Oh great — AI can not only be racist and sexist, but ageist too",
+      "excerpt": "Current research on bias in AI focuses mainly on gender and race. But what about age-related bias — can AI be ageist?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-can-be-racist-sexist-ageist-syndication",
+      "originalUrl": "https://thenextweb.com/news/ai-can-be-racist-sexist-ageist-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FElderly-woman-AI-hed.jpg&signature=acb61ad7c179237f58c19be72fcf6bb6",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T05:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-lg-to-showcase-self-driving-vehicle-next-month.md",
+      "title": "LG to showcase self driving vehicle next month",
+      "excerpt": "The LG Omnipod, a mobility concept solution that can serve as \"a home office, an entertainment center or even a lounge,\" will be on display at a mobility fair at the COEX convention center in southern Seoul on Feb.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "originalUrl": "https://www.timesnownews.com/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgk.timesnownews.com/story/1200_x_900_62.png?tr=w-400,h-300,fo-auto",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/auto/features/article/lg-to-showcase-self-driving-vehicle-next-month/852604",
+      "publishedDateTime": "2022-01-24T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews.com",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-alcatraz-ai-deems-facial-recognition-as-the-future-of-security.md",
+      "title": "Alcatraz AI deems facial recognition as the future of security",
+      "excerpt": "Door access control has undergone many changes in recent years with new technology and practices going in and out of style. With the recent developments in AI, the future of security technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/alcatraz-ai-deems-facial-recognition-future-co-1554360262-ga-npr.1642997226.html",
+      "publishedDateTime": "2022-01-24T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-western-new-england-university-debuts-oscar-sort-intuitive-trash-robot.md",
+      "title": "Western New England University Debuts Oscar Sort Intuitive Trash Robot",
+      "excerpt": "Western New England University (WNE) is the first U.S. institution of higher education to feature Oscar Sort, an AI-driven, intuitive, trash-sorting robot. This intuitive robot educates the campus community at the point of recycling and disposal and helps them to better understand how waste is measured,",
+      "sourceUrl": null,
+      "webUrl": "https://businesswest.com/blog/western-new-england-university-debuts-oscar-sort-intuitive-trash-robot/",
+      "originalUrl": "https://businesswest.com/blog/western-new-england-university-debuts-oscar-sort-intuitive-trash-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://businesswest.com/wp-content/gallery/women-of-impact-luncheon-2019/WOI-BW-DANIFINECOMMERCIAL-2019-SHERATON-SPRINGFIELD-MA-175.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T04:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessWest",
+        "domain": "businesswest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-24-ibm-to-sell-off-watson-health-assets.md",
+      "title": "IBM to sell off Watson Health assets",
+      "excerpt": "Private equity firm Francisco Partners is buying a large portion of the AI healthcare unit for \"more than $1 billion\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cloudpro.co.uk/operations/business-management/9385/ibm-to-sell-off-watson-health-assets",
+      "originalUrl": "https://www.cloudpro.co.uk/operations/business-management/9385/ibm-to-sell-off-watson-health-assets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2021/05/ibm_cloud.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T04:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Pro",
+        "domain": "cloudpro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-elon-musks-brain-chip-startup-neuralink-looking-to-hire-clinical-trial-director-in-california-as-it-nears-human-trials.md",
       "title": "Elon Musk's Brain-Chip Startup Neuralink Looking To Hire Clinical Trial Director In California As It Nears Human Trials",
       "excerpt": "CEO Elon Musk-led brain-machine interface startup Neuralink is recruiting a clinical trial director and a coordinator to realize plans for clinical",
@@ -663,534 +1157,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-ibm-bids-farewell-to-watson-health-assets.md",
-      "title": "IBM Bids Farewell to Watson Health Assets",
-      "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
-      "originalUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/IBM%20corporate%20headquarters%20sign.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-global-artificial-intelligence-delivery-robot-market-2021-development-analysis-strategic-outlook-growth-rate-and-forecast-to-2027.md",
-      "title": "Global Artificial Intelligence Delivery Robot Market 2021 Development Analysis, Strategic Outlook, Growth Rate and Forecast to 2027",
-      "excerpt": "Global Artificial Intelligence Delivery Robot Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2027 divides the market industry on the basis of the regions by growth, product types,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-delivery-robot-market-2021-development-analysis-strategic-outlook-growth-rate-and-forecast-to-2027-2022-01-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-delivery-robot-market-2021-development-analysis-strategic-outlook-growth-rate-and-forecast-to-2027-2022-01-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-23T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-the-role-of-experimentation-in-fundamental-machine-learning-research.md",
-      "title": "The Role of Experimentation in Fundamental Machine Learning Research",
-      "excerpt": "I recently watched an excellent talk from Dr. Tom Goldstein given to the National Science Foundation in which he discussed the current limitations of machine learning (ML) research and a path forward to correct those issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/role-experimentation-fundamental-machine-learning-research-hayduk",
-      "originalUrl": "https://www.linkedin.com/pulse/role-experimentation-fundamental-machine-learning-research-hayduk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGcEsZZqZ_5uw/article-cover_image-shrink_720_1280/0/1642882009429?e=1649289600&v=beta&t=KhZCE_ZymXpdGA-g3PznWqxQcBELkQqzS7fIuHQN5-0",
-          "width": 1240,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-23T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-ethics-and-ownership-of-ai-powered-identities.md",
-      "title": "Ethics and ownership of AI-powered identities",
-      "excerpt": "People will soon be asked to decide how their voices, images, and AI-powered identities can be used both today and long after they're gone.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/",
-      "originalUrl": "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-478952698.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/23/ethics-and-ownership-of-ai-powered-identities/amp/",
-      "publishedDateTime": "2022-01-23T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-begalileo-the-mathematical-thinking-cognitive-capability-building-program-signs-up-sania-mirza-as-brand-ambassador.md",
-      "title": "beGalileo, the Mathematical Thinking & Cognitive Capability Building Program signs up Sania Mirza as Brand Ambassador",
-      "excerpt": "He hoped that she will help them put the brand in the 'zone' when parents look for that 'one' option that will aid their child with core foundational & cognitive skills to stay ahead in life.",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1231637&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1231637&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1730479/Sania_Mirza.jpg",
-          "width": 400,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-23T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-overcoming-ai-and-ml-roadblocks-in-financial-services.md",
-      "title": "Overcoming AI and ML Roadblocks in Financial Services",
-      "excerpt": "Artificial intelligence and machine learning have become critically important to financial services companies —86% say it’s important to their success in the next two years. A recent survey from Red Hat and IDG explores the challenges around AI and ML deployment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services",
-      "originalUrl": "https://www.infoworld.com/resources/230070/overcoming-ai-and-ml-roadblocks-in-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-23T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-23-custom-federated-algorithms-part-1-introduction-to-the-federated-core.md",
-      "title": "Custom Federated Algorithms, Part 1: Introduction to the Federated Core",
-      "excerpt": "This tutorial is the first part of a two-part series that demonstrates how to implement custom types of federated algorithms in TensorFlow Federated (TFF) using the Federated Core (FC) - a set of lower-level interfaces that serve as a foundation upon which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/federated/tutorials/custom_federated_algorithms_1",
-      "originalUrl": "https://www.tensorflow.org/federated/tutorials/custom_federated_algorithms_1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-22T23:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-23-israeli-firm-develops-body-cams-with-facial-recognition.md",
-      "title": "Israeli firm develops body cams with facial recognition",
-      "excerpt": "Facial recognition in law enforcement has sparked global criticism, with US tech giants backing away from providing the technology to police, citing privacy risks. Proponents including Tirza ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.france24.com/en/live-news/20220123-israeli-firm-develops-body-cams-with-facial-recognition",
-      "originalUrl": "https://www.france24.com/en/live-news/20220123-israeli-firm-develops-body-cams-with-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.france24.com/media/display/727a8a48-7bf9-11ec-a91e-005056bfb2b6/w:1280/p:16x9/b1c3402e2d4d954ff8797d511fed4f2deb9d008a.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.france24.com/en/live-news/20220123-israeli-firm-develops-body-cams-with-facial-recognition",
-      "cdnAmpWebUrl": "https://amp-france24-com.cdn.ampproject.org/c/s/amp.france24.com/en/live-news/20220123-israeli-firm-develops-body-cams-with-facial-recognition",
-      "publishedDateTime": "2022-01-22T19:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "France 24",
-        "domain": "france24.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-23-why-user-education-is-necessary-to-avoid-ai-failure.md",
-      "title": "Why User Education Is Necessary To Avoid AI Failure",
-      "excerpt": "AI failure, in most cases, is attributed to technology-centric factors like the quality of data or the capabilities of algorithms and hardware used, ignoring the most crucial aspect of AI success—the end user.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/22/why-user-education-is-necessary-to-avoid-ai-failure/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/22/why-user-education-is-necessary-to-avoid-ai-failure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61d6726b1998bdcbce034eae/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/22/why-user-education-is-necessary-to-avoid-ai-failure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/22/why-user-education-is-necessary-to-avoid-ai-failure/amp/",
-      "publishedDateTime": "2022-01-22T19:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-01-23-neurable-wants-to-let-you-control-any-device-with-your-mind.md",
-      "title": "Neurable Wants to Let You Control Any Device With Your Mind",
-      "excerpt": "There were no handheld controllers, mice, motion trackers, or keyboards, no HP Z Backpack computers, no robots ... just a chair ... Neurable's mission – “creating a world without limits,” where control over any device is a simple thought away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/neurable-wants-let-you-control-any-device-your-mind",
-      "originalUrl": "https://www.designnews.com/electronics-test/neurable-wants-let-you-control-any-device-your-mind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Neurable%20headset.jpg",
-          "width": 833,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-22T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-23-shield-ai-wins-air-force-contract-intended-to-help-bridge-valley-of-death.md",
-      "title": "Shield AI wins Air Force contract intended to help bridge ‘valley of death’",
-      "excerpt": "Shield AI, the defense-focused autonomous drone startup, won a possibly $60 million contact from the Air Force designed to keep cash flowing to companies while they await opportunities to get on major contracts. The contract, awarded through the Strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/shield-ai-wins-air-force-stratfi-contract/",
-      "originalUrl": "https://www.fedscoop.com/shield-ai-wins-air-force-stratfi-contract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/01/7019338.jpg?w=1200&h=500&crop=1",
-          "width": 1200,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-22T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://9to5mac.com/2022/02/07/apple-acquires-startup-with-tool-that
 cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/02/07/apple-acquires-startup-with-tool-that-creates-songs-with-ai/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,36 @@ images:
     isCached: true
 
 related:
+  - title: "Apple acquires artificial intelligence startup AI Music"
+    excerpt: "Founded in 2016, AI Music set out to help brands create \"royalty free adaptive music,\" according to a recent archived screenshot of their website. The intended audience seems to be for media ..."
+    publishedDateTime: 2022-02-07T23:16:00Z
+    webUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music"
+    ampWebUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 72
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/46890-91404-44099-85736-000-lead-Apple-Music-xl-xl.jpg"
+        width: 1280
+        height: 714
+        isCached: true
+  - title: "Jio Platforms takes stake in AI start-up"
+    excerpt: "Jio Platforms invested $15 million to take a 25 per cent stake in US-based technology start-up Two Platforms, plotting joint development of products featuring technologies including AI, AR and mixed reality. Akash Ambani, director of Jio Platforms ..."
+    publishedDateTime: 2022-02-07T08:25:00Z
+    webUrl: "https://www.mobileworldlive.com/asia/asia-news/jio-platforms-takes-stake-in-ai-start-up"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 37
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/10/Jio_India-e1588588149242.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Apple Acquires AI Music Startup That Can Generate Dynamic Soundtracks"
     excerpt: "Apple has acquired AI Music, a startup that uses artificial intelligence to generate personalized soundtracks and adaptive music, reports Bloomberg. AI Music developed an \"Infinite Music Engine\" meant to create bespoke audio solutions for marketers ..."
     publishedDateTime: 2022-02-07T22:49:00Z
@@ -41,6 +71,6 @@ related:
         height: 780
         isCached: true
 
-secured: "DAq9atXsFuUr6Zua56QuYq0P44NsAYy34FriS/Vb//Jsam2U75rN2RZ/lzH4wKoJEQK9q9DK0HqY6UToOm2wDmlIqHH1PjdIDM9+c7izkYweK4Bw1H0Il7qLozdobrqeUBE0LAI2Qh7yHcQVE0hx0HK0eMKUf4mhVGY96kh/e9XSRO2S/7sRUJXP8SUUVpRB8cuspU+ya4JxD/GLleJ7jQv3b8ks9aclP3QFz7fI3MoVFRsgOLzD71utxAFD70kDdSKDiaFJ3nEGMhg0WstqgmJZBftG1WuVTwPj50z7HaKuoT3Rp2Nl0+wG6yFT6HQkK+afSNRTnOE/rm8QBwtHEc56N+7DopKfq2/Zu8VvEgk=;Pxhm6jomBCrHcA0pMBPbEQ=="
+secured: "BqrAM8ryqWVPJGiXT4bsCxQ5/1saz2gJT8i5alVjLpWpxjP3fDWOazxYyDTTdsFKpgdNdzdcCIXXAIYVRTc2tPa2EAPvVULiiZfAF6Eakmhfw5qd1iHUSH3ZnTlPaoHyi8gWBH73vonWHJGUAzpPT4qTEOuPbO/2digi+oRvLRew8wvLSSsMWv0hSpp0XGIcEUTIHRlB5TWZBvIW4Vpg33xBjz62OjryFTn2h5b2pXX1O0BVdiTu4zz5yb2z8JUzqDKtmj4VvR1eC61sXE+etswssY6YaHH6wH+9O8dO5KY7sAxo2uRBVhCH5PKuhw/ZVVpgPfnhpmJ/4E3kdR7q1+/50AlAjsazKUUl3ZJfKPZP3bkSM4u4aUvMNXzpyAjlNVXWlKX+k+wKAP5n1mL/g917TnW+Ww0OxnyRSUl/qqdpdv3xCSlTORUJD/SAhz4w+B4NeoCc9w6a35qGOkXtyfayhmrAQlZ67XnKgr/9qFiltBanCUIgf/WAlwv0VS7a8P0ssTxEX92NeteTlE2IHA==;DWBubBHC8qkVrE1qfRTFBQ=="
 ---
 

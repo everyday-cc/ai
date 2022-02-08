@@ -31,7 +31,16 @@
       "provider": {
         "name": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
         "domain": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-        "images": null,
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -53,7 +62,7 @@
       "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -77,6 +86,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-deepmind-says-its-new-ai-coding-engine-is-as-good-as-an-average-human-programmer.md",
+      "title": "DeepMind says its new AI coding engine is as good as an average human programmer",
+      "excerpt": "DeepMind has created an AI system named AlphaCode that it says “writes computer programs at a competitive level.” The Alphabet subsidiary tested its system against coding challenges used in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/2/2/22914085/alphacode-ai-coding-program-automatic-deepmind-codeforce",
+      "originalUrl": "https://www.theverge.com/2022/2/2/22914085/alphacode-ai-coding-program-automatic-deepmind-codeforce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/2_fYPSyvvHSDJ0NIvrahsyHWiO8=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13292779/acastro_181017_1777_brain_ai_0002.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1452,58 +1513,6 @@
       "images": [
         {
           "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=no",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-playing-cartpole-with-the-actor-critic-method.md",
-      "title": "Playing CartPole with the Actor-Critic Method",
-      "excerpt": "Actor-Critic methods are temporal difference (TD) learning methods that represent the policy function independent of the value function. A policy function (or policy) returns a probability distribution over actions that the agent can take based on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tutorials/reinforcement_learning/actor_critic?hl=sr",
-      "originalUrl": "https://www.tensorflow.org/tutorials/reinforcement_learning/actor_critic?hl=sr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=sr",
           "width": 1200,
           "height": 675,
           "title": null,

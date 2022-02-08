@@ -2,9 +2,9 @@
 category: news
 title: "Insig AI boosted by inclusion in PwC FinTech programme"
 excerpt: "Insig AI PLC (AIM:INSG), the machine learning company, put on 3p (8.2%) at 39.5p after it was selected for PwC's Scale FinTech programme. The programme is designed to give access to new commercial opportunities within PwC as well as among its clients."
-publishedDateTime: 2022-02-07T08:59:00Z
-originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/great-portland-soars-as-it-boasts-of-record-year-with-two-months-yet-to-run-973290.html"
-webUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/great-portland-soars-as-it-boasts-of-record-year-with-two-months-yet-to-run-973290.html"
+publishedDateTime: 2022-02-07T13:44:00Z
+originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/insig-ai-boosted-by-inclusion-in-pwc-fintech-programme-973290.html"
+webUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/insig-ai-boosted-by-inclusion-in-pwc-fintech-programme-973290.html"
 ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/973290"
 cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/973290"
 type: article
@@ -37,6 +37,6 @@ related:
       domain: lse.co.uk
     quality: 19
 
-secured: "0XDAU0VqgowzDILUuwvDhaBPyehCdewn7UxaI+QBNEDBZkXWTx3C0r2mN/674+KGT0WlvQuS+Juxg2FwLTbqeJEFAHZgxbj4oE7flbLtJZvSxCcXoER+AcarH6lZOQtCRiNoE9VCVCMCgAKdQ0h1wwlN5okcStHLGJC31LQJqAR6yyATlmFbeM4k+ESqCA0CHR+65TqqynFNM4g90XIO32mdwBGCV5uj1GuenYICYJQD1X0WZYZW8jiSgPm0pTPwW3XR4Zd0WcIQyrFFjZfXs7LUOkLjwOZjKSlJtXqMV5eVo2KRv5s6a+2JvAGzA3NRKSRBgD+2F3nFoCaDMdV2WC1rXdBzwCEVouZlCspMcWg=;DburdcmmAYCrJP0LSZ+sBA=="
+secured: "bWGF5Bk1wXCiX+QLytWI+iaR6irbUe72IB2w7f3gtoPm9/+g7HB7tD7sgITOjadh7eayQoC1wnI6DCSlFlJP1QmN+jIMOjhlkZnk6v0TTi7pTx4Gqfa+vi5ESPVL69gC50TBQJFSWfRqI/50c89GWHXggSINmAFET67d2Q6hGJIOhPKSQQa0q9s3pxRUcbsiNj5duHe9wmMkleyuHYRTz5z3W2e5po9NId5JO7aWNgamnaty0BpRB2hraqSobYqlb3r1L1RSKJEsdbhQaEirkpXJ2DwunKUPE12FiR/xht7YaGE5iNUHmjtn/3o4FB/Q91W6vydmLgSp+dYL8/Pdlrv0/TSbZGsLo78q/9qKn+M=;Qix/dBCAjSnE2YaQ/yMHTg=="
 ---
 

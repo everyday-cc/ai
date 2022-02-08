@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/"
 type: article
 quality: 61
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "  \n\n\n\n                                    https://www.suryaa.com/suryaa-images/englishnews/bigimage/9_7245.jpg\n\n\n    "
         width: 500
         height: 305
-        isCached: true
-  - title: "Jio Platforms takes stake in AI start-up"
-    excerpt: "Jio Platforms invested $15 million to take a 25 per cent stake in US-based technology start-up Two Platforms, plotting joint development of products featuring technologies including AI, AR and mixed reality. Akash Ambani, director of Jio Platforms ..."
-    publishedDateTime: 2022-02-07T08:25:00Z
-    webUrl: "https://www.mobileworldlive.com/asia/asia-news/jio-platforms-takes-stake-in-ai-start-up"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 37
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/10/Jio_India-e1588588149242.jpg"
-        width: 600
-        height: 375
         isCached: true
   - title: "Reliance Buys Stake In Silicon Valley Startup Two Platforms"
     excerpt: "The startup is founded by Pranav Mistry, former chief executive officer and president of Samsung Technology and Advanced Research. “TWO are excited to partner with Jio to push the boundaries of AI and introduce applications of Artificial Reality to ..."

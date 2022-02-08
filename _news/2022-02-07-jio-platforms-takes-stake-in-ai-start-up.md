@@ -24,79 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "Reliance’s Jio Platforms Invests In Deep Tech Startup Two Platforms, Betting On The Metaverse"
-    excerpt: "a Silicon Valley-based deep tech startup, according to an announcement on Friday. “We are impressed with the strong experience and capabilities of the founding team at Two in the areas of AI/ML (artificial intelligence/machine learning), AR (artificial ..."
-    publishedDateTime: 2022-02-07T11:27:00Z
-    webUrl: "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/"
-    ampWebUrl: "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/"
+  - title: "Apple acquires artificial intelligence startup AI Music"
+    excerpt: "Founded in 2016, AI Music set out to help brands create \"royalty free adaptive music,\" according to a recent archived screenshot of their website. The intended audience seems to be for media ..."
+    publishedDateTime: 2022-02-07T23:16:00Z
+    webUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music"
+    ampWebUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 72
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62010289dd838e4b38b672f2/0x0.jpg?format=jpg&width=1200&fit=bounds"
+      - url: "https://photos5.appleinsider.com/gallery/46890-91404-44099-85736-000-lead-Apple-Music-xl-xl.jpg"
+        width: 1280
+        height: 714
+        isCached: true
+  - title: "Apple acquires startup with tool that creates songs with AI"
+    excerpt: "Apple on Monday acquired “AI Music,” a startup that has developed a platform capable of creating songs using artificial intelligence. The acquisition, according to sources familiar with the ..."
+    publishedDateTime: 2022-02-07T22:35:00Z
+    webUrl: "https://9to5mac.com/2022/02/07/apple-acquires-startup-with-tool-that-creates-songs-with-ai/"
+    ampWebUrl: "https://9to5mac.com/2022/02/07/apple-acquires-startup-with-tool-that-creates-songs-with-ai/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/02/07/apple-acquires-startup-with-tool-that-creates-songs-with-ai/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 57
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/Streaming-music-services-should-pay-artists-more.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 803
+        height: 628
         isCached: true
-  - title: "Jio Platforms Invests $15 Million In Silicon Valley Start-Up TWO"
-    excerpt: "TWO is a Silicon Valley-based tech start-up founded by Pranav Mistry. TWO -- an Artificial Reality (AR) company -- said it believes the next chapter of Artificial Intelligence (AI) is visual and interactive. The AR platform enables real-time AI voice and ..."
-    publishedDateTime: 2022-02-04T12:43:00Z
-    webUrl: "https://www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346"
-    ampWebUrl: "https://www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/jio-platforms-invests-15-million-in-silicon-valley-start-up-two-2749346/amp/1"
+  - title: "Apple Acquires AI Music Startup That Can Generate Dynamic Soundtracks"
+    excerpt: "Apple has acquired AI Music, a startup that uses artificial intelligence to generate personalized soundtracks and adaptive music, reports Bloomberg. AI Music developed an \"Infinite Music Engine\" meant to create bespoke audio solutions for marketers ..."
+    publishedDateTime: 2022-02-07T22:49:00Z
+    webUrl: "https://www.macrumors.com/2022/02/07/apple-acquires-ai-music/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 42
-    images:
-      - url: "https://c.ndtvimg.com/2019-12/9hua9ik8_jio_650x400_04_December_19.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
-    excerpt: "The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences. Notably, TWO's Artificial Reality platform enables real-time AI ..."
-    publishedDateTime: 2022-02-04T14:45:00Z
-    webUrl: "https://menafn.com/1103642231/Jio-Platforms-invests-15-mn-in-AI-VR-startup-Two-Platforms"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: MacRumors
+      domain: macrumors.com
     quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?150158"
-        width: 432
-        height: 250
-        isCached: true
-  - title: "Jio Platforms invests $15 mn in AI, VR startup Two Platforms"
-    excerpt: "Jio Platforms announced on Friday that it has invested $15 million in Two Platforms (TWO) for a 25 per cent equity stake. The startup -- Two Platforms -- is an Artificial Reality company focusing on building interactive and immersive AI experiences."
-    publishedDateTime: 2022-02-05T07:11:00Z
-    webUrl: "https://www.suryaa.com/117077-jio-platforms-invests-15-mn-in-ai-vr-startup-two-platforms.html"
-    type: article
-    provider:
-      name: Suryaa
-      domain: suryaa.com
-    quality: 37
-    images:
-      - url: "  \n\n\n\n                                    https://www.suryaa.com/suryaa-images/englishnews/bigimage/9_7245.jpg\n\n\n    "
-        width: 500
-        height: 305
-        isCached: true
-  - title: "Reliance Buys Stake In Silicon Valley Startup Two Platforms"
-    excerpt: "The startup is founded by Pranav Mistry, former chief executive officer and president of Samsung Technology and Advanced Research. “TWO are excited to partner with Jio to push the boundaries of AI and introduce applications of Artificial Reality to ..."
-    publishedDateTime: 2022-02-04T14:56:00Z
-    webUrl: "https://www.bloombergquint.com/business/reliance-buys-stake-in-silicon-valley-startup-two-platforms"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 22
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2022-02%2F0571cc1d-b393-454c-80ba-518960938df6%2F355638075.jpg?rect=0%2C0%2C4000%2C2100&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
+      - url: "https://images.macrumors.com/t/mZvApy6kL4CU6017nrjifizHLB8=/1600x/article-new/2022/02/ai-music.jpg"
+        width: 1600
+        height: 780
         isCached: true
 
 secured: "6jBR93Oq3UEgUwZkVQOdwStiZg7BEEPMZ2vvOloV0Ct0nZboJRmADvll8jtCJQVHtT8Gw/YSMtlWdRU18Z/KhYHcbDeBDnOxS8GZfE3aYB4bfcttblhgL3u4dE+QQxXIxrifqEvxgLpUQ5UyeNMjqfIvGQcZA1Qqyj8tvt/W2krQbOJaDp12Neg4CqOZfseONKvZNsq187pMckdd1W6NjKNzyLxxFlBy6YEPqZ4+OBJKuh3sPc4V6cEUAIl2AHDeUwPO3a4P7E1YrcCKv9uyJz7VKMSyxJ3TIPPOAx1qEN2WKkI8aZuHio6ktoJfBz/CEhgY1SZhWImBu0QvWPDaFWizOSfk1KdUFPMrbrPPFylKBvgYufFGBqC2ZElXpN11e2VvzuPHyXX5u7P5VNDyemvarOxKjquu0jQ9GW3l01x6PSw/VfzBGDIla9B1EuhqXwR0B/M262PrcwYcR2QEOUyzMyzt0v4ssQkYma4/g5vjQJIrVyA/SM3fjxnVnHP1w1ui/fmVhHwbRgXS5d487Q==;dgSCdu7g3XgvfwuJIIPngA=="

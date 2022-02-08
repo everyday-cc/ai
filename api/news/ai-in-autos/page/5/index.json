@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-03-tesla-rival-races-to-introduce-driverless-cars-by-2024.md",
+      "title": "Tesla rival races to introduce driverless cars by 2024",
+      "excerpt": "Making predictions about technology is a notoriously dangerous sport, and the onset of driverless cars is a particularly perilous thing to forecast.  Googl",
+      "sourceUrl": null,
+      "webUrl": "https://www.newstalkzb.co.nz/news/business/tesla-rival-races-to-introduce-driverless-cars-by-2024/",
+      "originalUrl": "https://www.newstalkzb.co.nz/news/business/tesla-rival-races-to-introduce-driverless-cars-by-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newstalkzb.co.nz/media/fcidrzb5/amnon-shashua-co-founder-of-mobileye.jpg?mode=crop&width=635&height=395&rnd=132856969817230000",
+          "width": 635,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newstalk ZB",
+        "domain": "newstalkzb.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-03-jetour-x-1-hybrid-suv-unveiled-with-huawei-l3-autonomous-driving.md",
       "title": "Jetour X-1 Hybrid SUV unveiled, with Huawei L3 autonomous driving",
       "excerpt": "JETOUR Motors has just announced a new hybrid vehicle. It is the Jetour X-1 Hybrid SUV crossover, which is powered by the Huawei L3 autonomous driving assistance system and more. For those unaware, the Chinese company is a sub brand of Chery Automobiles.",
@@ -1289,41 +1332,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-ex-appletesla-leaders-raise-2000000-from-1000-retail-investors-on-track-to-release-worlds-first-artificial-human-arm.md",
-      "title": "Ex-Apple/Tesla Leaders Raise $2,000,000 from 1,000+ Retail Investors, On Track to Release World’s First Artificial Human Arm",
-      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--Atom Limbs, a robotics company creating mind-controlled bionic limbs, has raised $2M from 1,000+ retail investors. Atom opened its Wefunder equity investment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211214005475/en/Ex-AppleTesla-Leaders-Raise-2000000-from-1000-Retail-Investors-On-Track-to-Release-World’s-First-Artificial-Human-Arm",
-      "originalUrl": "https://www.businesswire.com/news/home/20211214005475/en/Ex-AppleTesla-Leaders-Raise-2000000-from-1000-Retail-Investors-On-Track-to-Release-World’s-First-Artificial-Human-Arm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T21:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

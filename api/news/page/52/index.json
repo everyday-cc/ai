@@ -2,55 +2,21 @@
   "page": 52,
   "value": [
     {
-      "path": "_news/2021-12-07-uk-us-facial-recognition-firm-clearview-ai-faces-17m-fine-for-breaching-data-protection-law-considers-appealing.md",
-      "title": "UK: US facial recognition firm Clearview AI faces £17m fine for breaching data protection law, considers appealing",
-      "excerpt": "A US company that gathered photos of people from Facebook and other social media sites for use in facial recognition by its clients is facing a £17m fine after the Information Commissioner’s Office (ICO) found it had committed “serious breaches” of data protection law.",
+      "path": "_news/2021-12-15-microsoft-releases-azure-bot-service-and-cognitive-services-language-understanding.md",
+      "title": "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding",
+      "excerpt": "Microsoft Azure Bot Service and Microsoft Cognitive Services Language Understanding (LUIS) are now available. “Conversational AI, or making human and computer interactions more natural ...",
       "sourceUrl": null,
-      "webUrl": "https://www.business-humanrights.org/de/latest-news/uk-us-facial-recognition-firm-faces-17m-fine-for-breaching-data-protection-law-the-company-considers-an-appeal/",
-      "originalUrl": "https://www.business-humanrights.org/de/latest-news/uk-us-facial-recognition-firm-faces-17m-fine-for-breaching-data-protection-law-the-company-considers-an-appeal/",
+      "webUrl": "https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/",
+      "originalUrl": "https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "洗護用品和肥皂",
-        "domain": "business-humanrights.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-new-resources-and-tools-to-enable-product-leaders-to-implement-ai-responsibly.md",
-      "title": "New resources and tools to enable product leaders to implement AI responsibly",
-      "excerpt": "As AI becomes more deeply embedded in our everyday lives, it is incumbent upon all of us to be thoughtful and responsible in how we apply it to benefit people and society. Join our digital event, Put Responsible AI into Practice, to learn more about these updates, including new guidelines for product",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/new-resources-and-tools-to-enable-product-leaders-to-implement-ai-responsibly/",
-      "originalUrl": "https://azure.microsoft.com/blog/new-resources-and-tools-to-enable-product-leaders-to-implement-ai-responsibly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9a2deb3b-438c-4517-8ab4-7b4fb079d7c7.gif",
-          "width": 1478,
-          "height": 684,
+          "url": "https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806-490x264.png",
+          "width": 490,
+          "height": 264,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -60,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T01:00:17-08:00",
+      "publishedDateTime": "2021-12-14T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
+        "name": "SD Times",
+        "domain": "sdtimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -88,12 +54,12 @@
       ]
     },
     {
-      "path": "_news/2021-12-07-meta-selects-aws-as-key-long-term-strategic-cloud-provider.md",
-      "title": "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider",
-      "excerpt": "It will also use AWS’s compute services to accelerate artificial intelligence (AI) research and development for its Meta AI group. In addition, Meta and AWS will work together to improve the ...",
+      "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
+      "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
+      "excerpt": "Maybe, but this is where machine learning and artificial intelligence (AI ... a photographic memory that can be used in robotics, self-driving cars, virtual assistants and more.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider",
-      "originalUrl": "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider",
+      "webUrl": "https://www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds",
+      "originalUrl": "https://www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -101,13 +67,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T00:46:00-08:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds?amp",
+      "publishedDateTime": "2021-12-14T06:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -117,26 +83,26 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-12-07-intel-plans-to-take-self-driving-car-unit-mobileye-public.md",
-      "title": "Intel plans to take self-driving car unit Mobileye public",
-      "excerpt": "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters.",
+      "path": "_news/2021-12-14-2022-a-major-revolution-in-robotics.md",
+      "title": "2022: A major revolution in robotics",
+      "excerpt": "For a while now, those who track robotics development have taken note of a quiet revolution in the sector. While self-driving cars have grabbed all the headlines, the work happening at the intersection of AI,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-mobileye-ipo-idCAKBN2IM010",
-      "originalUrl": "https://www.reuters.com/article/intel-mobileye-ipo-idCAKBN2IM010",
+      "webUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
+      "originalUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20211207&t=2&i=1583830999&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHB600M",
-          "width": 817,
-          "height": 545,
+          "url": "https://www.zdnet.com/a/img/resize/973d8007f08fa9b55dc91f02b215eb7b896350b4/2020/12/29/fa09a230-70f1-4a74-8169-e198645005b3/robot-robot-arm-strong-machine.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -144,16 +110,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2IM010",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2IM010",
-      "publishedDateTime": "2021-12-06T23:37:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/",
+      "publishedDateTime": "2021-12-14T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -169,40 +135,32 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
-      "path": "_news/2021-12-07-gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more.md",
-      "title": "Gurugram-based Krishify taps AI, ML to help farmers earn more",
-      "excerpt": "A Gurugram-based agtech startup platform, Krishfy, is trying to put machine learning (ML), artificial intelligence (AI) and the Android system to best use for farmers across the country by offering a one-stop solution to improve their economic status.",
+      "path": "_news/2021-12-14-morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon.md",
+      "title": "Morgan Stanley and the Child Mind Institute Select Winners of “Machine Learning for Good” Hackathon",
+      "excerpt": "NEW YORK--(BUSINESS WIRE)--Morgan Stanley and the Child Mind Institute today announced the results of the judging from Morgan Stanley’s Machine ... leading global financial services firm ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/economy/agri-business/gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more/article37878954.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/economy/agri-business/gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more/article37878954.ece",
+      "webUrl": "https://www.businesswire.com/news/home/20211213005237/en/Morgan-Stanley-and-the-Child-Mind-Institute-Select-Winners-of-“Machine-Learning-for-Good”-Hackathon",
+      "originalUrl": "https://www.businesswire.com/news/home/20211213005237/en/Morgan-Stanley-and-the-Child-Mind-Institute-Select-Winners-of-“Machine-Learning-for-Good”-Hackathon",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/economy/agri-business/mli5k5/article37878953.ece/ALTERNATES/LANDSCAPE_615/bl07Krishify",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/economy/agri-business/gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more/article37878954.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/agri-business/gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more/article37878954.ece/amp/",
-      "publishedDateTime": "2021-12-06T23:28:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T08:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -212,27 +170,27 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "AI in Finance",
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-12-07-stellantis-ai-strategy-targets-226b-in-revenues-by-2030.md",
-      "title": "Stellantis’ AI strategy targets $22.6b in revenues by 2030",
-      "excerpt": "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands targeting 20 billion euros ($22.6 billion) in annual revenues",
+      "path": "_news/2021-12-13-deep-learning-market-insights-2021-a-detailed-research-report.md",
+      "title": "Deep Learning Market Insights 2021. A Detailed Research Report",
+      "excerpt": "Pune, Maharashtra, India, December 13 2021 (Wiredrelease) MarketResearch.Biz –:The Deep Learning market study delves into the industry’s growth potential, challenges, growth drivers ...",
       "sourceUrl": null,
-      "webUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/",
-      "originalUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/",
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-market-insights-2021-a-detailed-research-report",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-market-insights-2021-a-detailed-research-report",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.informnny.com/wp-content/uploads/sites/58/2020/02/cropped-50-512X512-1.png?strip=1",
-          "width": 512,
-          "height": 512,
+          "url": "https://5gigs.com/wp-content/uploads/2021/12/English-4.png",
+          "width": 600,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -240,13 +198,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/",
-      "cdnAmpWebUrl": "https://www-informnny-com.cdn.ampproject.org/c/s/www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/",
-      "publishedDateTime": "2021-12-06T23:22:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T05:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WWTI",
-        "domain": "informnny.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -256,40 +214,31 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-12-07-supercomputers-in-enterprise-ai.md",
-      "title": "Supercomputers in enterprise AI",
-      "excerpt": "Forward-thinking enterprises across the globe have recognised that the future of business success will depend on their ability to leverage AI, says Werner Coetzee, business development executive at Data Sciences Corporation.",
+      "path": "_news/2021-12-13-leverage-ai-innovation-with-gpu-optimized-solutions.md",
+      "title": "Leverage AI Innovation with GPU-Optimized Solutions",
+      "excerpt": "The ability to break computationally-intensive assignments into pieces and begin solving them simultaneously is the main reason why GPU computing is the ideal fit for AI, deep learning, and other highly analytical workloads. NVIDIA’s industry-leading ...",
       "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/KBpdg7pzLYpqLEew",
-      "originalUrl": "https://www.itweb.co.za/content/KBpdg7pzLYpqLEew",
+      "webUrl": "https://www.nextplatform.com/microsite-landing/leverage-ai-innovation-gpu-optimized-solutions/",
+      "originalUrl": "https://www.nextplatform.com/microsite-landing/leverage-ai-innovation-gpu-optimized-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/BJFxvhrDx3sZxTSGmFHjB5LNK62QzeUk8EApFSryBUvShvg3N4WOQ5yhpHPIrEUQjIFJ03Sjv8jr6GqeOyqRy3AHhQlCV0lVl9wVoQ=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew",
-      "publishedDateTime": "2021-12-06T22:42:00-08:00",
+      "ampWebUrl": "https://www.nextplatform.com/microsite-landing/leverage-ai-innovation-gpu-optimized-solutions/?amp",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/microsite-landing/leverage-ai-innovation-gpu-optimized-solutions/?amp",
+      "publishedDateTime": "2021-12-12T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -300,34 +249,33 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Facebook AI"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-12-07-ameca-the-future-face-of-robotics-is-as-freaky-as-youd-expect.md",
-      "title": "Ameca, \"the future face of robotics,\" is as freaky as you'd expect",
-      "excerpt": "UK robotics firm Engineered Arts has offered a sneak peek at its new humanoid robot ahead of a full reveal next year, and the preview is as incredible as it is unsettling. Ameca is presented as \"the world's most advanced human-shaped robot,",
+      "path": "_news/2021-12-11-sega-toys-neurosky-team-up-for-mind-controlled-toys.md",
+      "title": "Sega Toys, NeuroSky team up for \"mind-controlled\" toys",
+      "excerpt": "but Sega Toys (makers of freaky robots) and the brain-reading folks at NeuroSky have announced that they've teamed up in an effort to develop what they're only describing as \"mind-controlled tech ...",
       "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/ameca-humanoid-robot-video/",
-      "originalUrl": "https://newatlas.com/robotics/ameca-humanoid-robot-video/",
+      "webUrl": "https://www.engadget.com/2007-12-11-sega-toys-neurosky-team-up-for-mind-controlled-toys.html",
+      "originalUrl": "https://www.engadget.com/2007-12-11-sega-toys-neurosky-team-up-for-mind-controlled-toys.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/ameca-humanoid-robot-video/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/ameca-humanoid-robot-video/?amp=true",
-      "publishedDateTime": "2021-12-06T22:31:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T16:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -348,21 +296,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-07-bulls-take-charge-as-omicron-concerns-ease.md",
-      "title": "Bulls take charge as Omicron concerns ease",
-      "excerpt": "Tech stocks climbed 5.6% in Europe, while the S&P information technology sector rose 3.5%, driving almost half of ... including JD.com Inc and Baidu Inc. Portfolio managers did not want to be ...",
+      "path": "_news/2021-12-09-timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds.md",
+      "title": "Timekettle WT2 Edge: 1st Bi-Directional Simultaneous AI Translation Earbuds",
+      "excerpt": "For example, if we are in conference with foreign-language speakers, we normally have such kind of sense that we have to wait for the translation for a long time once we use some translation tools ...",
       "sourceUrl": null,
-      "webUrl": "https://gazette.com/news/us-world/asia-stocks-bounce-from-one-year-low-china-gains-on-monetary-easing/article_29333c87-d1c5-55f3-88c5-81b48858801f.html",
-      "originalUrl": "https://gazette.com/news/us-world/asia-stocks-bounce-from-one-year-low-china-gains-on-monetary-easing/article_29333c87-d1c5-55f3-88c5-81b48858801f.html",
+      "webUrl": "https://www.digitaljournal.com/pr/timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds",
+      "originalUrl": "https://www.digitaljournal.com/pr/timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/1/2d/12d1681b-ff09-503d-a9e6-edc87a647ab3/61aecb9669e4a.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize",
-          "width": 800,
-          "height": 420,
+          "url": "https://www.accesswire.com/users/newswire/images/676729/image.png",
+          "width": 602,
+          "height": 602,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -372,11 +320,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T22:07:00-08:00",
+      "publishedDateTime": "2021-12-09T02:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Gazette",
-        "domain": "gazette.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -386,26 +334,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-12-07-technique-enables-real-time-rendering-of-scenes-in-3d.md",
-      "title": "Technique enables real-time rendering of scenes in 3D",
-      "excerpt": "Researchers at MIT and elsewhere have demonstrated a novel technique that vastly increases the speed of rendering 3D scenes from images by using a neural network to reconstruct the 360-degree light field of the underlying 3D scene.",
+      "path": "_news/2021-12-09-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
+      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
+      "excerpt": "The AI and machine learning technology outlined in the presolicitation could also support new EHR infrastructure and focus on an improved user experience, mainly with an improved platform ...",
       "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/3-d-image-rendering-1207",
-      "originalUrl": "https://news.mit.edu/2021/3-d-image-rendering-1207",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2022/01/us-army-announces-new-machine-learning-tech-burn-treatment/360303/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://news.mit.edu/sites/default/files/images/202112/Light-Networks-01-PRESS.jpg",
-          "width": 2216,
-          "height": 1478,
+          "url": "https://cdn.nextgov.com/media/img/cd/2022/01/03/GettyImages_184355967/open-graph.jpg",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -415,14 +363,57 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T21:32:00-08:00",
+      "publishedDateTime": "2021-12-08T09:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-breaking-international-news-views-reuters.md",
+      "title": "Breaking International News & Views | Reuters",
+      "excerpt": "Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-alphabet-google-research-exclusive/exclusive-google-pledges-changes-to-research-oversight-after-internal-revolt-idUSKBN2AP1AC",
+      "originalUrl": "https://www.reuters.com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210225&t=2&i=1552870470&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1O0OD",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AP1AC",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP1AC",
+      "publishedDateTime": "2021-12-07T22:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -438,26 +429,25 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-12-07-mlcommons-releases-open-source-datasets-for-speech-recognition.md",
-      "title": "MLCommons releases open source datasets for speech recognition",
-      "excerpt": "The nonprofit consortium MLCommons has released a massive, license-free dataset for speech recognition system development and testing.",
+      "path": "_news/2021-12-07-report-ai-investments-see-largest-year-over-year-growth-in-20-years.md",
+      "title": "Report: AI investments see largest year-over-year growth in 20 years",
+      "excerpt": "Results indicate that COVID-19 has contributed to a surging global interest in AI from both governments and investors.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/",
-      "originalUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/",
+      "webUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
+      "originalUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1279453193-e1617364143462.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/data_globe-e1637353198623.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 598,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -465,9 +455,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/amp/",
-      "publishedDateTime": "2021-12-06T21:15:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
+      "publishedDateTime": "2021-12-06T08:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -490,650 +480,9 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-sophia-ai-robot-to-be-tokenized-for-metaverse-appearance.md",
-      "title": "Sophia AI robot to be tokenized for Metaverse appearance",
-      "excerpt": "A virtual anime version of Sophia, the world-famous humanoid artificial intelligence (AI) robot, is set to be tokenized and auctioned off as part of an up-and-coming Metaverse project dubbed “Noah’s Ark.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance",
-      "originalUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTIvNDFmZmQ5NTgtMGQwOC00NmIxLTlkNDItYzBmNGM2NmVjZGY3LmpwZw==.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp",
-      "publishedDateTime": "2021-12-06T20:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-intel-will-take-mobileye-public-in-2022.md",
-      "title": "Intel Will Take Mobileye Public in 2022",
-      "excerpt": "The chip maker’s Israeli subsidiary builds driver-assistance technology for major automakers and is now testing self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 272,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06mobileye/06mobileye-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
-      "publishedDateTime": "2021-12-06T19:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-this-robots-facial-expressions-are-so-lifelike-it-will-make-you-cringe-a-little.md",
-      "title": "This robot's facial expressions are so lifelike it will make you cringe a little",
-      "excerpt": "United Kingdom startup Engineered Arts (EA; not to be confused with Electronic Arts) has been manufacturing humanoid robots since 2005, but its creations have come a",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "originalUrl": "https://www.techspot.com/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/12/2021-12-06-ts3_thumbs-c17.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "publishedDateTime": "2021-12-06T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-speech-recognition-engine-market-companies-and-competitive-landscape-market-players-nuance-microsoft-alphabet-2022-2027.md",
-      "title": "Speech Recognition Engine Market Companies, and Competitive Landscape Market Players : Nuance, Microsoft, Alphabet – 2022 - 2027",
-      "excerpt": "Dec 07, 2021 (Heraldkeepers) -- The Speech Recognition Engine Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-engine-market-companies-and-competitive-landscape-market-players-nuance-microsoft-alphabet-2022---2027-2021-12-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-engine-market-companies-and-competitive-landscape-market-players-nuance-microsoft-alphabet-2022---2027-2021-12-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-state-farm-taps-object-recognition-with-carcapture-app.md",
-      "title": "State Farm taps object recognition with CarCapture app",
-      "excerpt": "State Farm is leveraging object recognition technology and partnering with Edmunds.com to launch the CarCapture mobile application that allows users to snap a photo of the back of a car and instantly receive detailed information. Consumers will be able to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html",
-      "originalUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketing Dive",
-        "domain": "marketingdive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-the-best-stories-for-national-robotics-week.md",
-      "title": "The Best Stories for National Robotics Week",
-      "excerpt": "Collaborative robots -- aka cobots -- are becoming increasingly mainstream. Here are the 10 companies that should be on everyone's mind. Here’s a broad look at the commercial mobile robot market. Most of these robots are designed specifically for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/Design%20News/Manufacturing%20Robot%20Stock%20Image_thumbnail.jpg?itok=ywt4DKA_",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
-      "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
-      "excerpt": "Also, Microsoft does not plan to release a Windows ... PDAs provided a simple, efficient system for documenting pharmacists' cognitive services and, potentially, for generating reimbursement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/453038_4",
-      "originalUrl": "https://www.medscape.com/viewarticle/453038_4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-the-top-6-artificial-intelligence-plays-in-india.md",
-      "title": "The Top 6 Artificial Intelligence Plays in India",
-      "excerpt": "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6",
-      "originalUrl": "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eqimg.com/images/2021/09292021-PH-equitymaster.jpg",
-          "width": 350,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India",
-      "cdnAmpWebUrl": "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India",
-      "publishedDateTime": "2021-12-06T14:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Equitymaster",
-        "domain": "equitymaster.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-intel-will-take-its-mobileye-automotive-unit-public-in-2022.md",
-      "title": "Intel will take its Mobileye automotive unit public in 2022.",
-      "excerpt": "The chip maker’s Israeli subsidiary builds driver-assistance technology for major automakers and is now testing self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 352,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06mobileye/06mobileye-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
-      "publishedDateTime": "2021-12-06T14:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-clearview-ais-search-engine-for-faces-set-to-receive-patent.md",
-      "title": "Clearview AI's 'Search Engine for Faces' Set to Receive Patent",
-      "excerpt": "Privacy experts worry the patent could normalize Clearview’s controversial data scraping practices in lieu of meaningful legal constraints.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740",
-      "originalUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ueqb57yidtjtmqxjectm.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp",
-      "publishedDateTime": "2021-12-06T13:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-german-language-service-provider-milengo-expands-to-the-us.md",
-      "title": "German Language Service Provider Milengo Expands to the US",
-      "excerpt": "Combining a global pool of more than 1,200 qualified in-country linguists with an inhouse team of machine translation and language AI experts, allows Milengo to offer their customers tailored ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/german-language-service-provider-milengo-expands-to-the-us",
-      "originalUrl": "https://www.digitaljournal.com/pr/german-language-service-provider-milengo-expands-to-the-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/AAA-3-2-e1639857192200-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
-      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
-      "excerpt": "A wide-reaching program looks for fresh machine learning technology to complete menial procedures and tasks, allowing VA clinicians and partners to focus on care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/12/06/america_united_states_department_of_veterans_affairs_picture_id1152538330_3/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-deep-learning-dreams-up-new-protein-structures.md",
-      "title": "Deep learning dreams up new protein structures",
-      "excerpt": "In recent years, artificial intelligence techniques like neural networks and deep learning have revolutionized the accuracy of this work. “For this project, we made up completely random protein ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/",
-      "originalUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.troyrecord.com/wp-content/uploads/2021/07/troy-1.jpg",
-          "width": 2100,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/amp/",
-      "cdnAmpWebUrl": "https://www-troyrecord-com.cdn.ampproject.org/c/s/www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/amp/",
-      "publishedDateTime": "2021-12-06T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Troy Record",
-        "domain": "troyrecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-human-intuition-and-machine-reasoning-ais-helping-us-solve-giant-math-puzzles.md",
-      "title": "Human intuition and machine reasoning: AI’s helping us solve giant math puzzles",
-      "excerpt": "Mathematical discoveries take creativity – and now a little help from AI. Here's how neural nets are helping us develop intuition.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/human-intuition-machine-reasoning-ais-helping-us-solve-giant-math-puzzles-syndication",
-      "originalUrl": "https://thenextweb.com/news/human-intuition-machine-reasoning-ais-helping-us-solve-giant-math-puzzles-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FMathematician-teacher-AI-math-blackboard-hed.jpg&signature=ce79ebf5b685916e316302e581625ff6",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Math for AI",
-        "Machine Learning"
       ]
     }
   ],
-  "nextPage": 53
+  "nextPage": null
 }

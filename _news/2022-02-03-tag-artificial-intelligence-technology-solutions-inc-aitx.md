@@ -7,7 +7,7 @@ originalUrl: "https://www.securitysystemsnews.com/tag/artificial-intelligence-te
 webUrl: "https://www.securitysystemsnews.com/tag/artificial-intelligence-technology-solutions-inc-aitx-"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "The AI technology revolution in practical data protection in Finance"
-    excerpt: "Made for innovators interested in creating the next breakthroughs in machine intelligence to enhance human potential."
-    publishedDateTime: 2022-02-03T08:49:00Z
-    webUrl: "https://techhq.com/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
-    ampWebUrl: "https://techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
-    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/02/the-ai-technology-revolution-in-practical-data-protection-in-finance/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 76
-    images:
-      - url: "https://cdn.techhq.com/wp-content/uploads/2022/02/shutterstock_1202221816-375x210.jpg"
-        width: 375
-        height: 210
-        isCached: true
-  - title: "AI in Fintech Market May See Big Move | Inbenta Technologies, IPsoft, Nuance Communications, ComplyAdvantage"
-    excerpt: "The Latest Released AI in Fintech market study has evaluated the future growth potential of Global AI in Fintech market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and ..."
-    publishedDateTime: 2022-02-04T07:07:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-may-see-big-move-inbenta-technologies-ipsoft-nuance-communications-complyadvantage"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/NFT-museum-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "RxJdQqDYMGL26Xohc/G3RwqY+4V0ztnUrpu/qOlOfpH8mzdqYgdUz7x5WiYOBHo1/8GC4TKGCHy85alNUJGMtr99asCfXXMYslFVHqoU7Ocp7WHUJiWTdHdIsa8Kj6xnYcguxrdPBH9WmJdSOo34gjWffPP/8iKd+CfvaWawZSmceQEk6a3RjGZl84czej++SPeMiqFEQZSXLF8x06/3sX9JpZKkyEaEuIQoVWpJysGV2xI5+m/W/6rKCd5mgNYbyyoEi5vrAEONd1aMvtv46oIlV3bQTjCYZGa0u0Q+GCh06sg4/tk+Vge4ZiycVYtYwH+ac4eV9NoqUfxSt6UcJCutuXsIr+wbIODs3wL6VmM=;DLAfX8Mz9Pfc9WXGQaepoA=="
 ---

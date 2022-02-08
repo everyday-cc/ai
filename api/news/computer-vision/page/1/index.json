@@ -10,7 +10,7 @@
       "originalUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
       "featuredContent": null,
       "highlight": null,
-      "heat": 409,
+      "heat": 449,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/06/how-computer-vision-can-create-smart-transportation-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -114,7 +114,7 @@
       "originalUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -1154,6 +1154,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-25-dataloop-applauded-by-frost-sullivan-for-accelerating-computer-vision-ai-model-production-with-its-data-management-and-annotation-platform.md",
+      "title": "Dataloop Applauded by Frost & Sullivan for Accelerating Computer Vision AI Model Production with its Data Management and Annotation Platform",
+      "excerpt": "Based on its recent analysis of the European data management and annotation platform industry, Frost & Sullivan recognizes Dataloop Ltd with the 2021 European Technology Innovation Leadership Award for its advanced data management and annotation platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-dataloop-applauded-frost-sullivan-accelerating-computer-vision-ai-/2022/01/25/9532036.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-dataloop-applauded-frost-sullivan-accelerating-computer-vision-ai-/2022/01/25/9532036.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1730904/Dataloop_Award.jpg",
+          "width": 400,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-25T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-israeli-company-makes-body-cams-with-facial-recognition.md",
       "title": "Israeli company makes body cams with facial recognition",
       "excerpt": "Twenty years after he planned the controversial barrier between Israel and Palestinians, Dany Tirza is developing a security tool that requires no cement: body cameras with facial recognition technology. Tirza, a former Israeli army colonel, said that his ...",
@@ -1350,50 +1393,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology.md",
-      "title": "Guest column: To protect Montanans’ privacy, we must address facial recognition technology",
-      "excerpt": "Our rights to not have our property or persons searched or seized without a warrant, to not be harassed by the government without good reason, and to conduct our own",
-      "sourceUrl": null,
-      "webUrl": "https://www.bozemandailychronicle.com/opinions/guest_columnists/guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology/article_184fffe3-e084-51b3-bec2-edc0812cd541.html",
-      "originalUrl": "https://www.bozemandailychronicle.com/opinions/guest_columnists/guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology/article_184fffe3-e084-51b3-bec2-edc0812cd541.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/d/0f/d0fd260c-c142-56d2-8d2c-cf29b40ec675/61e98aff38245.image.jpg?resize=1024%2C1280",
-          "width": 1024,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bozemandailychronicle.com/opinions/guest_columnists/guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology/article_184fffe3-e084-51b3-bec2-edc0812cd541.amp.html",
-      "cdnAmpWebUrl": "https://www-bozemandailychronicle-com.cdn.ampproject.org/c/s/www.bozemandailychronicle.com/opinions/guest_columnists/guest-column-to-protect-montanans-privacy-we-must-address-facial-recognition-technology/article_184fffe3-e084-51b3-bec2-edc0812cd541.amp.html",
-      "publishedDateTime": "2022-01-20T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bozeman Daily Chronicle",
-        "domain": "bozemandailychronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

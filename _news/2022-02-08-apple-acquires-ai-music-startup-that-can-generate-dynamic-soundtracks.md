@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple acquires artificial intelligence startup AI Music"
+    excerpt: "Founded in 2016, AI Music set out to help brands create \"royalty free adaptive music,\" according to a recent archived screenshot of their website. The intended audience seems to be for media ..."
+    publishedDateTime: 2022-02-07T23:16:00Z
+    webUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music"
+    ampWebUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 72
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/46890-91404-44099-85736-000-lead-Apple-Music-xl-xl.jpg"
+        width: 1280
+        height: 714
+        isCached: true
   - title: "Apple acquires startup with tool that creates songs with AI"
     excerpt: "Apple on Monday acquired “AI Music,” a startup that has developed a platform capable of creating songs using artificial intelligence. The acquisition, according to sources familiar with the ..."
     publishedDateTime: 2022-02-07T22:35:00Z
@@ -40,7 +56,21 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Jio Platforms takes stake in AI start-up"
+    excerpt: "Jio Platforms invested $15 million to take a 25 per cent stake in US-based technology start-up Two Platforms, plotting joint development of products featuring technologies including AI, AR and mixed reality. Akash Ambani, director of Jio Platforms ..."
+    publishedDateTime: 2022-02-07T08:25:00Z
+    webUrl: "https://www.mobileworldlive.com/asia/asia-news/jio-platforms-takes-stake-in-ai-start-up"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 37
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/10/Jio_India-e1588588149242.jpg"
+        width: 600
+        height: 375
+        isCached: true
 
-secured: "RgRyP4wMU/dFy2sbC9UOy+qglmVCH8dNb3pJu7BxQ9WkfEw/uDwvCbeiQMOwJjNxzEKE8ymUjq/2PXQ2reDQ7cfdM2a9kjUX0WwTByXmrCOuCNFSsEzPUgsWSi6uef+OFebJxavjASuSufcAyzjGtb2UDrPr/uMP5ToPJMRrs3UpjmTvr0ivTgOPgDwOptMp4z570KOrsQsfus1e2VOnIm/mvpX6CeU6+NnI59vdtXV8z68I+EPthY1U+SOnj2A3DZWsPlR+3Zq19Ov157LRDZFAUxLeOzKW3zEX72elZGYXzG2VvgP6xFt1Nhb7rI/IPvy7EOb3ep36wIENxzIaPRgcy0R6rcLF2ae8B7+XiOI=;/pDzvoTlHEE07Kn03PHQJQ=="
+secured: "ypaRmOALyJtUN0W7raYi7KPTKUD+138Lo2Mh7wdzz+2YSPvTk5SFBK6q/NBDdoplxpu8VZ3Ydcj/ESYPzsUA2eYVSEb1ojdSK3AfHrlNx4b7VYC1vK3w0yM9BjPf095n73rp19EmOzHuCnJLkzrfzQqIUTKR4hBmXy4FBMP1BEYYifjbiRaXO41SGf47Y6zvkuRc07ioNY8R2SJIt1pHMTK+7ItqeZblUJVVrITV4yuII7flisjLoFfO7JTliSRQz3cOYQQvdk5iE23f4RYN/W3YbpzUHPkle3Vey+yg1RsuG0TLrXOwQQDA92nz1LTpXYO1ImFEKdj5HRwrbIStcYKXc9d/06zMAn8OMz716WahvbA+S2Bqu/PEm/Lt2psXGnjEFJ0T21TiGApZnA4iV2K7OEnvnrVco4yaCzhzV9YDbueal0SweSedUL1KM1mtx6Z3FG14dEo8hNib+7wzorj3QiiA7BRmNnmmWTqcJn9olMHyTONNIIvimdB8FwM7X8qX+FfiGKUU0TRWD8TpdQ==;isCvQER6iIee9PdcGBgVKQ=="
 ---
 

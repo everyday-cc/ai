@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sony And Gran Turismo 7 Dev Tease Big AI News For This Week"
+    excerpt: "Sony AI and Polyphony Digital released a teaser for a project between them which will be revealed on February 9. The announcement is related to the Gran Turismo franchise, which Polyphony Digital is known for. The trailer shows the Gran Turismo logo ..."
+    publishedDateTime: 2022-02-07T23:20:00Z
+    webUrl: "https://www.gamespot.com/articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week/1100-6500403/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 57
+    images:
+      - url: "https://www.gamespot.com/a/uploads/original/1646/16465123/3937436-granturismo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Gran Turismo developer teasing \"breakthrough\" collaboration with Sony AI"
     excerpt: "It's website list four main areas of interest - AI ethics, imaging and sensing, gastronomy, and, of course, gaming - with this week's Polyphony news set to be the first project announced until the latter banner. As for what forthcoming collaboration may ..."
     publishedDateTime: 2022-02-07T18:45:00Z

@@ -47,6 +47,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Tesla Model Y Crashes Into A Pole While Full-Self Driving Beta Was Being Tested"
+    excerpt: "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla Model Y owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s ..."
+    publishedDateTime: 2022-02-07T23:05:00Z
+    webUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/"
+    ampWebUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 70
+    images:
+      - url: "https://i.ytimg.com/vi/sbSDsbDQjSU/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Tesla recalls 50,000 cars that disobey stop signs in self-driving mode"
     excerpt: "Tesla is recalling more than 50,000 cars in the US because the AI behind its self-driving feature acted too aggressively, rolling past stop signs rather than coming fully to a halt as required by law in many states. The company’s “Full Self-Driving ..."
     publishedDateTime: 2022-02-03T16:40:00Z

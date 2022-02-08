@@ -2,27 +2,23 @@
 category: news
 title: "IRS to end use of facial recognition to access tax accounts"
 excerpt: "The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security. The transition from the ID.me, the third-party verification system that ..."
-publishedDateTime: 2022-02-07T22:20:00Z
-originalUrl: "https://www.pressherald.com/2022/02/07/irs-to-end-use-of-facial-recognition-to-access-tax-accounts/"
-webUrl: "https://www.pressherald.com/2022/02/07/irs-to-end-use-of-facial-recognition-to-access-tax-accounts/"
+publishedDateTime: 2022-02-08T00:05:00Z
+originalUrl: "https://www.seattletimes.com/business/irs-to-end-use-of-facial-recognition-to-access-tax-accounts/"
+webUrl: "https://www.seattletimes.com/business/irs-to-end-use-of-facial-recognition-to-access-tax-accounts/"
+ampWebUrl: "https://www.seattletimes.com/business/irs-to-end-use-of-facial-recognition-to-access-tax-accounts/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/irs-to-end-use-of-facial-recognition-to-access-tax-accounts/?amp=1"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Portland Press Herald
-  domain: pressherald.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://multifiles.pressherald.com/uploads/sites/4/2022/02/IRS_Facial_Recognition_83583-1644271988.jpg"
-    width: 1000
-    height: 648
-    isCached: true
 
 related:
   - title: "IRS Backs Away From Facial Recognition to Verify Taxpayers’ Identities"
@@ -56,6 +52,22 @@ related:
       - url: "https://www.cnet.com/a/img/fqBMSABQmuJ8J_k4DBf7z7He9lU=/0x278:4000x2525/1200x630/2020/07/14/02e69693-df4d-4af1-b15c-9c97b90797f9/tax-day-4039.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "IRS Retreats From Facial Recognition to Verify Taxpayers’ Identities"
+    excerpt: "WASHINGTON—The Internal Revenue Service is scrapping its use of a private facial-recognition system to authenticate taxpayers’ identities for online accounts, the agency said Monday after criticism from lawmakers in both parties over privacy concerns."
+    publishedDateTime: 2022-02-07T22:53:00Z
+    webUrl: "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843?mod=hp_lead_pos4"
+    ampWebUrl: "https://www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-481379/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "I.R.S. to End Use of Facial Recognition for Identity Verification"
     excerpt: "By Alan Rappeport WASHINGTON — The Internal Revenue Service plans to stop using facial recognition software to identify taxpayers accessing their accounts on the agency’s website amid concerns over privacy and data security. The decision comes as the I ..."
@@ -146,6 +158,38 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "IRS to end facial recognition for identity verification"
+    excerpt: "Last month, ID.me faced criticism when CEO Blake Hall admitted in a Linkedin post that the company used Amazon's Rekognition technology to compare video selfies submitted by users to its own, bigger internal database of previous applicants. FOX Business ..."
+    publishedDateTime: 2022-02-07T23:11:00Z
+    webUrl: "https://www.fox6now.com/news/irs-ending-facial-recognition-identity-verification"
+    ampWebUrl: "https://www.fox6now.com/news/irs-ending-facial-recognition-identity-verification.amp"
+    cdnAmpWebUrl: "https://www-fox6now-com.cdn.ampproject.org/c/s/www.fox6now.com/news/irs-ending-facial-recognition-identity-verification.amp"
+    type: article
+    provider:
+      name: FOX6 Milwaukee
+      domain: fox6now.com
+    quality: 61
+    images:
+      - url: "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2022/02/932/470/IRS-building.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "IRS Announces Transition Away From Facial Recognition Verification"
+    excerpt: "The IRS is changing course after partnering with a third-party company that uses facial recognition to verify the identities of taxpayers logging onto their IRS accounts. The agency previously announced that starting in summer 2022, if you needed to log in ..."
+    publishedDateTime: 2022-02-08T00:30:00Z
+    webUrl: "https://www.nbcmiami.com/responds/irs-announces-transition-away-from-facial-recognition-verification/2683735/"
+    ampWebUrl: "https://www.nbcmiami.com/responds/irs-announces-transition-away-from-facial-recognition-verification/2683735/?amp"
+    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/responds/irs-announces-transition-away-from-facial-recognition-verification/2683735/?amp"
+    type: article
+    provider:
+      name: NBC 6 South Florida
+      domain: nbcmiami.com
+    quality: 59
+    images:
+      - url: "https://media.nbcmiami.com/2022/02/IRS-Announces-Transition-Away-From-Facial-Recognition-Verification.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IRS to End Use of Facial Recognition on Tax Accounts"
     excerpt: "Your article was successfully shared with the contacts you provided. The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security."
     publishedDateTime: 2022-02-07T22:18:00Z
@@ -178,6 +222,22 @@ related:
         width: 1024
         height: 663
         isCached: true
+  - title: "IRS halts plan to require facial recognition for logging in to user accounts"
+    excerpt: "The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website following backlash from lawmakers and privacy groups.The IRS said in a statement ..."
+    publishedDateTime: 2022-02-08T00:56:00Z
+    webUrl: "https://www.wbaltv.com/article/irs-halts-plan-to-require-facial-recognition-for-logging-in-to-user-accounts/39004339"
+    ampWebUrl: "https://www.wbaltv.com/amp/article/irs-halts-plan-to-require-facial-recognition-for-logging-in-to-user-accounts/39004339"
+    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/irs-halts-plan-to-require-facial-recognition-for-logging-in-to-user-accounts/39004339"
+    type: article
+    provider:
+      name: WBALTV11
+      domain: wbaltv.com
+    quality: 56
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-6ec8311a306d734cff37afecd9169c92-h-40a0fddbfdb29ce9ae876a7d62f0d67c-1644280985.jpg?crop=1.00xw:0.848xh;0,0.130xh&resize=1200:*"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "IRS to 'transition away' from facial recognition for access to online system"
     excerpt: "Feb. 7 (UPI) --The Internal Revenue Service on Monday said it will no longer use facial recognition software as a requirement for taxpayers to access their online accounts. In a statement Monday, the agency said it will \"transition away\" from requiring ..."
     publishedDateTime: 2022-02-07T22:38:00Z
@@ -193,22 +253,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/4321644267858/2022/1/0891f8f1261eba40ce02aaf909f19044/v1.5/IRS-to-transition-away-from-facial-recognition-for-access-to-online-system.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Taxpayers will have to use to facial recognition software to file with the IRS"
-    excerpt: "If you haven’t already filed your taxes, your face may become the key to getting it done. Reset learns more about the facial recognition software the IRS started using this year."
-    publishedDateTime: 2022-02-03T08:12:00Z
-    webUrl: "https://www.wbez.org/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad"
-    ampWebUrl: "https://www.wbez.org/amp/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad"
-    cdnAmpWebUrl: "https://www-wbez-org.cdn.ampproject.org/c/s/www.wbez.org/amp/stories/using-facial-recognition-software-to-file-with-the-irs/e9c08a26-711f-4f35-b56f-cfe2a30f80ad"
-    type: article
-    provider:
-      name: WBEZ
-      domain: wbez.org
-    quality: 55
-    images:
-      - url: "https://api.wbez.org/v2/images/462329f1-d357-447b-b5aa-78854f5138b8.jpg?mode=FILL&width=1200&height=630"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Rep. Huizenga introduces bill to ban facial recognition technology from IRS use"
     excerpt: "WASHINGTON D.C., DC — Representative Bill Huizenga of Michigan's 2nd District introduced new legislation on Friday that would ban the Internal Revenue Service (IRS) from using facial recognition technology to verify identities. The Republican Congressman ..."
@@ -388,6 +432,34 @@ related:
         width: 640
         height: 388
         isCached: true
+  - title: "IRS backtracks on facial recognition after backlash"
+    excerpt: "(The Center Square) – The IRS announced Monday it will “transition away” from using third-party facial recognition technology after bipartisan backlash on the issue. The IRS faced controversy in recent weeks over the use of facial identification for ..."
+    publishedDateTime: 2022-02-07T22:51:00Z
+    webUrl: "https://www.djournal.com/news/national/irs-backtracks-on-facial-recognition-after-backlash/article_0edefb22-b6c9-5bac-80ca-13806033428f.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/1/97/1977121e-5190-5f85-b274-f0144dda3dc4/61a4ee887b4e1.image.jpg?crop=1000%2C525%2C0%2C24&resize=1000%2C525&order=crop%2Cresize"
+        width: 1000
+        height: 525
+        isCached: true
+  - title: "US tax agency drops facial recognition plan after criticism"
+    excerpt: "Facial recognition technology use by law enforcement has been criticized by activists who say its inaccuracies may reinforce racial bias - © AFP MAHMUD HAMS Facial recognition technology use by law enforcement has been criticized by activists who say its ..."
+    publishedDateTime: 2022-02-07T23:57:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/us-tax-agency-drops-facial-recognition-plan-after-criticism/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/4e97a46ec67b41a00baa9fa63cda5549dd51e815.jpg"
+        width: 768
+        height: 511
+        isCached: true
   - title: "IRS facial recognition plan gets fierce blowback from bipartisan senators"
     excerpt: "In the wake of a controversial plan by the Internal Revenue Service to implement third-party services that rely on facial recognition, bipartisan senators on Thursday demanded that the IRS “immediately discontinue” any programs that collect ..."
     publishedDateTime: 2022-02-04T21:00:00Z
@@ -401,20 +473,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/02/p-1-IRS-facial-recognition-plan-gets-blowback-from-bipartisan-senators.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "IRS halts plan to require facial recognition for logging in to user accounts"
-    excerpt: "The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website following backlash ..."
-    publishedDateTime: 2022-02-07T21:09:00Z
-    webUrl: "https://keyt.com/news/money-and-business/cnn-social-media-technology/2022/02/07/irs-halts-plan-to-require-facial-recognition-for-logging-in-to-user-accounts/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 36
-    images:
-      - url: "https://keyt.b-cdn.net/2022/01/nc312-combined-commercial-slate.png"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Will IRS Require Use of Facial Recognition Software To Access Tax Info Online?"
     excerpt: "another reader asked. As of this writing, it’s true that the IRS is requiring taxpayers to use facial recognition software designed by a technology company called ID.me to access IRS documents and services online. We reached out to the IRS for comment ..."
@@ -498,6 +556,6 @@ related:
         height: 713
         isCached: true
 
-secured: "e4KCnaDZRu2UFczz9SHjVENpUN/i8ZkfIUVwTdWSqjQCdc6lOxGa6GS5ZHG+Peu5DJgvAZzxSSGtE2pN+YOzQernbjdVJ7pgXTDOGRCDQfMxg7Er4/D58BzwfYFrSNtamED+kLAsCZIa0b0JrNHOJAk8osD9FBOeF6U+BQn4pdn13c0jMmrDSEY2NyijBSp01tkOvVxHgJ6NRq475GyrJgb8z2+lIp5akt9a6oZhsHPnr5uqBe+/r4YPiUaNz37Rm8A1ECr3GcQeGVRVEsoAsZf8Ys7gfRDEFF7iJ/iHVFkfmY3ZEcFpfUOQVKKU3Nfoo2AesTOH0YjrLXmKIMVG9HsJRkn3zYS7wLrPaDFeKwk=;wzuKGHDINGZKBGgYAy7FEw=="
+secured: "9pKAGZJzwAtXrQ+lnoTeagZfmUybrmWyQVsluo8J659P5scLunp3AOVJ8x/yYUKFpmHSpdfqoBCgDBcJ80A42FQIk29ki6mnMse3/al8UEO/TGtfL+f6BXaWe3ftmhziq5yfO45YOeK/miNpl7Hwcy/G600PjWebdooaBvJOHOGdCkKHp40I37J8TTms7mYWLzP4+okBoT88FY5ULR7GKmFbTcnuTAhAkFyNrMZlA+GG64Xzwdk4Tq/VSzaDGaeskAZqSCZNsOuM8YCML9fDiwDzsUlp3OXjG8gps6Pji8Zf4rN8dSJCCEcgAHR+WNCqaRZNJ6eE+nStCutcKOpldnAWMliXVFS3iPwZbfrobZoQJcNYdnLdN/twxyi13JcmoCE6pgagLEh0Eieb+OKpEoHjZSSTrO+16XJW+s7Pz4CWb39EwYOrFNJmjPAIkZBHDKCPWP85vMNjCsda2aBsVo2Xd38zyBmBrKvuY9/bC4HK1EGL0vTt91Y5B82m6iYo3Qt/kWGtO9Smux/Hn5KdMw==;//GTt2Xz1QoM527u7fpihQ=="
 ---
 

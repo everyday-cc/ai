@@ -2,6 +2,163 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-05-whats-next-for-healthcare-ai-after-ibms-watson-health-disappointment.md",
+      "title": "What's Next for Healthcare AI After IBM's Watson Health Disappointment?",
+      "excerpt": "IBM is selling its Watson Health unit to a private equity firm. The artificial intelligence system didn't achieve as much success in healthcare as some hoped it would. AI still has tremendous opportunities in healthcare, though, especially in drug development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/02/05/whats-next-for-healthcare-ai-after-ibms-watson-hea/",
+      "originalUrl": "https://www.fool.com/investing/2022/02/05/whats-next-for-healthcare-ai-after-ibms-watson-hea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/664140/gettyimages-1298315191.jpg",
+          "width": 3497,
+          "height": 1968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-05T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-02-05-ai-weiwei-helped-design-beijings-olympic-stadium-but-he-regrets-how-its-being-used-today.md",
+      "title": "Ai Weiwei helped design Beijing's Olympic stadium. But he regrets how it's being used today",
+      "excerpt": "Christiane Amanpour's interview with Ai Weiwei airs Friday 1pm ET ... in both the Olympic Charter and the organization's code of ethics. \"Given the diverse participation in the Olympic Games ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html?s=06",
+      "originalUrl": "https://edition.cnn.com/style/article/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html?s=06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/220203164237-ai-weiwei-2021-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-winter-olympics-2022-christiane-amanpour/index.html",
+      "publishedDateTime": "2022-02-04T18:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-05-heres-what-henry-kissinger-thinks-about-the-future-of-artificial-intelligence.md",
+      "title": "Here's What Henry Kissinger Thinks About the Future of Artificial Intelligence",
+      "excerpt": "For some, artificial intelligence represents nothing ... a competition that includes both algorithms made to get your self-driving car speeding over to Wendy’s faster and able to autonomously ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671",
+      "originalUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/b1d7deef3a26e9e75536b73e1a5d4822.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/heres-what-henry-kissinger-thinks-about-artificial-inte-1848441671/amp",
+      "publishedDateTime": "2022-02-04T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-can-you-trust-ai-to-protect-ai.md",
       "title": "Can you trust AI to protect AI?",
       "excerpt": "To do this, Dobrin said IBM is working on establishing adversarial robustness at the system level of platforms like Watson. By implementing AI models that interrogate other AI models to explain ...",
@@ -382,7 +539,7 @@
       "originalUrl": "https://www.zdnet.com/article/singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -521,7 +678,7 @@
       "originalUrl": "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -573,7 +730,7 @@
       "originalUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1038,161 +1195,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-this-pr-firm-took-artificial-intelligence-mainstream.md",
-      "title": "This PR Firm Took Artificial Intelligence Mainstream",
-      "excerpt": "You might recall around the end of 2016, when seemingly overnight, the business media went from never having talked about artificial intelligence in business to ubiquitous coverage of its applications in marketing. A small Israeli-born artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/02/03/this-pr-firm-took-artificial-intelligence-mainstream/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/02/03/this-pr-firm-took-artificial-intelligence-mainstream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61fad2235bbdb8fa3f1fe102/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/02/03/this-pr-firm-took-artificial-intelligence-mainstream/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/02/03/this-pr-firm-took-artificial-intelligence-mainstream/amp/",
-      "publishedDateTime": "2022-02-03T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-humans-v-ai-we-found-out-whos-better-at-making-money.md",
-      "title": "Humans v AI: We found out who’s better at making money",
-      "excerpt": "Artificial intelligence (AI) has now closely matched or even surpassed ... emergence and growth of the financial technology industry (fintech), where technology startups increasingly challenge ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication",
-      "originalUrl": "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FAIvHumanHed.jpg&signature=1d49fa78f49d046b9d0e17884d4723b0",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-03T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-virtual-ciso-startup-cynomi-raises-35m-to-help-smbs-automate-cybersecurity.md",
-      "title": "Virtual CISO startup Cynomi raises $3.5M to help SMBs automate cybersecurity",
-      "excerpt": "Cynomi, an Israeli cybersecurity startup that has built a virtual CISO ... human component and instead uses artificial intelligence (AI) technology to emulate a human CISO and automate previously ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/",
-      "originalUrl": "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-174074147.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/",
-      "publishedDateTime": "2022-02-03T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -89,6 +89,59 @@
       ]
     },
     {
+      "path": "_news/2022-02-05-whats-next-for-healthcare-ai-after-ibms-watson-health-disappointment.md",
+      "title": "What's Next for Healthcare AI After IBM's Watson Health Disappointment?",
+      "excerpt": "IBM is selling its Watson Health unit to a private equity firm. The artificial intelligence system didn't achieve as much success in healthcare as some hoped it would. AI still has tremendous opportunities in healthcare, though, especially in drug development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/02/05/whats-next-for-healthcare-ai-after-ibms-watson-hea/",
+      "originalUrl": "https://www.fool.com/investing/2022/02/05/whats-next-for-healthcare-ai-after-ibms-watson-hea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/664140/gettyimages-1298315191.jpg",
+          "width": 3497,
+          "height": 1968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-05T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-artificial-intelligence-and-dental-insurance-it-is-more-than-a-focus-on-radiology-and-fraud.md",
       "title": "Artificial Intelligence And Dental Insurance – It Is More Than A Focus On Radiology And Fraud",
       "excerpt": "Over the years, much has been said about artificial intelligence (AI) and the healthcare industry. Much of it has been focused on two extremes. On one hand, there’s the fairly mature use of neural networks for radiological analysis. On the other ...",
@@ -1293,49 +1346,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-leaders-across-healthcare-academia-and-technology-form-new-coalition-to-transform-healthcare-journey-through-responsible-ai-adoption.md",
-      "title": "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption",
-      "excerpt": "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C).",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

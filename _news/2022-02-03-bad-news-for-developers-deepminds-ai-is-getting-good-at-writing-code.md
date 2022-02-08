@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/bad-news-for-developers-dee
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -132,20 +132,6 @@ related:
       - url: "https://i.insider.com/61fb173f75a1f5001890a666?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "DeepMind launches a Github Copilot killer"
-    excerpt: "DeepMind has developed AlphaCode to write competent computer programs. AlphaCode can solve problems that require a combination of critical thinking, logic, algorithms, coding, and natural language understanding and was able to achieve an estimated rank within the top 54% of participants in programming competitions."
-    publishedDateTime: 2022-02-03T07:37:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-launches-a-github-copilot-killer/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/07/aim_rl-min.png"
-        width: 1366
-        height: 768
         isCached: true
   - title: "Google DeepMind’s AlphaCode system beats thousands of human experts in coding contest"
     excerpt: "The AlphaCode system, created by Google’s AI subsidiary DeepMind, ranked in the top 54 per cent of competitors after going up against 5,000 human software engineers. Oriol Vinyals, a research scientist at DeepMind, said that the milestone brought Google ..."

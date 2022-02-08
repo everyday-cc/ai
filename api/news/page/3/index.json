@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-03-this-pr-firm-took-artificial-intelligence-mainstream.md",
+      "title": "This PR Firm Took Artificial Intelligence Mainstream",
+      "excerpt": "You might recall around the end of 2016, when seemingly overnight, the business media went from never having talked about artificial intelligence in business to ubiquitous coverage of its applications in marketing. A small Israeli-born artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/02/03/this-pr-firm-took-artificial-intelligence-mainstream/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/02/03/this-pr-firm-took-artificial-intelligence-mainstream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61fad2235bbdb8fa3f1fe102/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/02/03/this-pr-firm-took-artificial-intelligence-mainstream/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/02/03/this-pr-firm-took-artificial-intelligence-mainstream/amp/",
+      "publishedDateTime": "2022-02-03T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-humans-v-ai-we-found-out-whos-better-at-making-money.md",
+      "title": "Humans v AI: We found out who’s better at making money",
+      "excerpt": "Artificial intelligence (AI) has now closely matched or even surpassed ... emergence and growth of the financial technology industry (fintech), where technology startups increasingly challenge ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication",
+      "originalUrl": "https://thenextweb.com/news/humans-v-ai-whos-better-at-making-money-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F02%2FAIvHumanHed.jpg&signature=1d49fa78f49d046b9d0e17884d4723b0",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-virtual-ciso-startup-cynomi-raises-35m-to-help-smbs-automate-cybersecurity.md",
+      "title": "Virtual CISO startup Cynomi raises $3.5M to help SMBs automate cybersecurity",
+      "excerpt": "Cynomi, an Israeli cybersecurity startup that has built a virtual CISO ... human component and instead uses artificial intelligence (AI) technology to emulate a human CISO and automate previously ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/",
+      "originalUrl": "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-174074147.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/",
+      "publishedDateTime": "2022-02-03T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways.md",
       "title": "Watch Toyota’s outrageous self-driving Supra drift car go sideways",
       "excerpt": "As the automotive community awaits the dawn of a fully autonomous, self-driving car, the Toyota Research Institute (TRI) has other things in mind. Care for a self-drifting vehicle, specifically a new Supra with Toyota’s Nonlinear Model Predictive Control ...",
@@ -186,7 +341,16 @@
       "provider": {
         "name": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
         "domain": "com/2022/02/03/deepmind-co-founder-plans-to-help-greylock-penetrate-europe-.html",
-        "images": null,
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -312,7 +476,7 @@
       "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -364,7 +528,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/02/03/four-tips-to-avoid-common-startup-errors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -602,6 +766,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-neuroscientists-use-deep-learning-model-to-simulate-brain-topography.md",
+      "title": "Neuroscientists use deep learning model to simulate brain topography",
+      "excerpt": "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/02/220203161125.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/02/220203161125.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1053,211 +1260,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator.md",
-      "title": "Two new dialects of Inuktut language now available in Microsoft Translator",
-      "excerpt": "With the latest update, users will now be able to translate between the two new additions and any of over 100 supported languages and dialects in the Microsoft Translator apps, Office, and Translator for Bing. Through Azure Cognitive Services Translator ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "originalUrl": "https://www.neowin.net/news/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/02/1487659776_microsoft-translator_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "publishedDateTime": "2022-02-02T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-call-center-conversation-intelligence-startup-talkmap-nabs-8m.md",
-      "title": "Call center conversation intelligence startup Talkmap nabs $8M",
-      "excerpt": "Customer conversation intelligence startup Talkmap has raised $8 million from Stage 1 Ventures in a Series A round of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/",
-      "originalUrl": "https://venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/11/shutterstock_291603116.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/call-center-conversation-intelligence-startup-talkmap-nabs-8m/amp/",
-      "publishedDateTime": "2022-02-02T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-mental-health-helpline-ends-ai-data-sharing-relationship.md",
-      "title": "Mental health helpline ends AI data-sharing relationship",
-      "excerpt": "A mental health text helpline will no longer share data with an AI customer support business, after criticism of their relationship. Loris.ai used anonymised data from Crisis Text Line (CTL) to develop AI systems to help customer service agents understand sentiment in chats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-60218894?via=indexdotco",
-      "originalUrl": "https://www.bbc.com/news/technology-60218894?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1837D/production/_123079199_depressed2gettyimages-1223735400.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform.md",
-      "title": "HireEZ, formerly Hiretual, raises $26M to expand its AI-powered recruitment platform",
-      "excerpt": "HireEZ, formerly Hiretual, has raised $26 million in a funding round to expand its AI-powered tools for job candidate recruitment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/",
-      "originalUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-978531552-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/amp/",
-      "publishedDateTime": "2022-02-02T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

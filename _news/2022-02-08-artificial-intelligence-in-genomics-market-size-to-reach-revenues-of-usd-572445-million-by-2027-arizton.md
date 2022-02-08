@@ -6,7 +6,7 @@ publishedDateTime: 2022-02-07T21:44:00Z
 originalUrl: "https://menafn.com/1103654385/Artificial-Intelligence-in-Genomics-Market-Size-to-Reach-Revenues-of-USD-572445-Million-by-2027-Arizton"
 webUrl: "https://menafn.com/1103654385/Artificial-Intelligence-in-Genomics-Market-Size-to-Reach-Revenues-of-USD-572445-Million-by-2027-Arizton"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?867125"
