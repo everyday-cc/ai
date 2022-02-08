@@ -174,6 +174,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-26-facebook-parent-meta-creates-powerful-ai-supercomputer.md",
+      "title": "Facebook Parent Meta Creates Powerful AI Supercomputer",
+      "excerpt": "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today.",
+      "sourceUrl": null,
+      "webUrl": "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer",
+      "originalUrl": "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.chdrstatic.com/media/85c6e7bd-ac1f-49b6-9a01-b21a20453acf.jpg?width=1200&source=backend&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp",
+      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp",
+      "publishedDateTime": "2022-01-25T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cheddar",
+        "domain": "cheddar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-26-jd-technology-fintech-unit-of-chinas-jdcom-engages-banks-for-hong-kong-ipo-that-could-raise-up-to-us2-billion-source-says.md",
       "title": "JD Technology, fintech unit of China’s JD.com, engages banks for Hong Kong IPO that could raise up to US$2 billion, source says",
       "excerpt": "JD Technology is targeting as much as US$2 billion in a Hong Kong IPO, which could make it the fourth JD group company to be listed in the city.",
@@ -1114,57 +1157,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-nvidia-quietly-prepares-to-abandon-40-billion-arm-bid.md",
-      "title": "Nvidia Quietly Prepares to Abandon $40 Billion Arm Bid",
-      "excerpt": "Nvidia Corp. is quietly preparing to abandon its purchase of Arm Ltd. from SoftBank Group Corp. after making little to no progress in winning approval for the $40 billion chip deal, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-01-25/nvidia-is-said-to-quietly-prepare-to-abandon-takeover-of-arm",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-01-25/nvidia-is-said-to-quietly-prepare-to-abandon-takeover-of-arm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRXCy1_l6a90/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-25T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/tesla-fsd-phantom-braking?amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp"
 type: article
 quality: 89
-heat: 169
+heat: 139
 published: true
 
 provider:
@@ -75,38 +75,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Tesla recalls 50,000 cars that disobey stop signs in self-driving mode"
-    excerpt: "Tesla is recalling more than 50,000 cars in the US because the AI behind its self-driving feature acted too aggressively, rolling past stop signs rather than coming fully to a halt as required by law in many states. The company’s “Full Self-Driving ..."
-    publishedDateTime: 2022-02-03T16:40:00Z
-    webUrl: "https://www.newscientist.com/article/2307147-tesla-recalls-50000-cars-that-disobey-stop-signs-in-self-driving-mode/"
-    ampWebUrl: "https://www.newscientist.com/article/2307147-tesla-recalls-50000-cars-that-disobey-stop-signs-in-self-driving-mode/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2307147-tesla-recalls-50000-cars-that-disobey-stop-signs-in-self-driving-mode/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 59
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/02/03152212/PRI_221384327.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "We took a ‘self-driving’ Tesla for a spin in Boston. Here’s how it did."
-    excerpt: "For all the wrong reasons. It all started with a tweet from a Boston driver named Taylor Ogan. He drove his Black Tesla Model Y on self-driving mode around South Boston, showing in a video how it fails to navigate city streets properly. This was ..."
-    publishedDateTime: 2022-02-03T16:01:00Z
-    webUrl: "https://www.bostonglobe.com/2022/02/03/business/we-took-self-driving-tesla-spin-boston-heres-how-it-did/"
-    ampWebUrl: "https://www.bostonglobe.com/2022/02/03/business/we-took-self-driving-tesla-spin-boston-heres-how-it-did/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2022/02/03/business/we-took-self-driving-tesla-spin-boston-heres-how-it-did/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 59
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/oJvWD55Zh5WvZpGaRqcCWOPgyvU=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SHFXT2JS74SHR5IZM6TDOO3ZDA.jpg"
-        width: 506
-        height: 337
-        isCached: true
   - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
     excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
     publishedDateTime: 2022-02-04T21:52:00Z
@@ -136,20 +104,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/8kVW_xQJNQf9oN_cXQXRx2wEXQE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19704170/cadillac_2021_escalade_0433.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Testing a self-driving Tesla in Boston. What could go wrong?"
-    excerpt: "Globe tech reporter Pranshu Verma tagged along as Boston driver Taylor Ogan drove his Black Tesla Model Y on \"full self-driving\" mode around South Boston. “Full self-driving” is a feature in beta testing that Tesla drivers can pay upwards of $12,000 to ..."
-    publishedDateTime: 2022-02-03T15:30:00Z
-    webUrl: "https://www.bostonglobe.com/video/2022/02/03/business/technology/testing-a-self-driving-tesla-in-boston-what-could-go-wrong/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 39
-    images:
-      - url: "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=315"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "X8UD+u2ZgVVIj9aW5r9/PWFuEDh+goU7v2YgfPJcfCEram/V+A+664b47+xjBEt4z20tXkpwexdZSdsplAjnxtgPtnW/FJFiusB/RBuT5ZdSxLL0swazaG0jjRGXtU8fFXC6M4olvbsDXXI6apWR9wUS1k9xLAx0RC4iDOk+6kOWGrJoALZMIf9is5MIqpcHN6M4OkyxyJJwWOdMlJuag3VFuCD9XuMEx13kSF7JOOlSJ7Oe852NRBoe2QE7Uc34wEl2nRdMYRQewRwkQ8H17k41djS+xSTPYDoJhyUEXSGB20yeukzJA/w8BQSKGPJlYDGyMGGp1skOgnwwkWNmo6pQW4cgJ0GI0qHdJKy6MMm50DNNFoBp1L9aZmz5hPFEbmfoavEDfJPR8gycDqyXmi0qEFrQv46TJnTTu5NY89ZI55MkXYwZQ3DvWIRxLdjPozA9xNg8J1xBfVxM2thbpp06WT5uTaoj29lFx0DDODOkGIqME6YVrGCN3UIhHJf6phioRlEnxb45RwF8PPf5zw==;7KAEib65iZMP4eMlE7yjOg=="

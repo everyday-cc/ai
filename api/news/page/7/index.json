@@ -2,6 +2,48 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-30-the-irs-is-reportedly-looking-for-idme-alternatives-amid-privacy-concerns.md",
+      "title": "The IRS is reportedly looking for ID.me alternatives amid privacy concerns",
+      "excerpt": "The Treasury Department and Internal Revenue Service (IRS) are reportedly looking for alternatives to the controversial facial recognition software ID.me, according to a report by Bloomberg. As Bloomberg notes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/the-irs-is-reportedly-looking-for-idme-alternatives-amid-privacy-concerns/ar-AAThtsA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/x3VLjI4OFWFNXl9jMMXAnN78hZI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11900073/acastro_180730_1777_facial_recognition_0003.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-29T10:50:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns",
+        "domain": "theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-30-the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account.md",
       "title": "The IRS website will soon require facial recognition to log in to your account",
       "excerpt": "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are. (Will Lanzoni, CNN) WASHINGTON ...",
@@ -1157,48 +1199,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems.md",
-      "title": "China Proposes Increased Regulation of Deepfakes and Other AI Synthesis Systems",
-      "excerpt": "The Cyberspace Administration of China (CAC) has proposed a new set of draft regulations to govern AI-aided synthesis systems, including deepfakes, virtual reality scenes, text generation, audio, and other sub-sectors of AI media synthesis – a field in which China produces a prodigious number of academic papers and innovative research projects each month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems/",
-      "originalUrl": "https://www.unite.ai/china-proposes-increased-regulation-of-deepfakes-and-other-ai-synthesis-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/china-deepfake-rules-2022a.jpg",
-          "width": 818,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -25,21 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "Advancements in Speech and Voice Recognition Technology to Propel Global Intelligent Virtual Assistant Market"
-    excerpt: "Conversational e-commerce has emerged as a result of the increasing usage of smart speaker-based solutions for home automation and digitalization in the retail industry. This factor is expected to propel the global intelligent virtual assistant market forward."
-    publishedDateTime: 2022-02-08T05:41:00Z
-    webUrl: "https://techbullion.com/advancements-in-speech-and-voice-recognition-technology-to-propel-global-intelligent-virtual-assistant-market/"
-    ampWebUrl: "https://techbullion.com/advancements-in-speech-and-voice-recognition-technology-to-propel-global-intelligent-virtual-assistant-market/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/advancements-in-speech-and-voice-recognition-technology-to-propel-global-intelligent-virtual-assistant-market/amp/"
+  - title: "5 innovative Belgian fintech companies to watch"
+    excerpt: "AI, automation and big data analytics are key themes for Belgian fintech, as innovative companies look to solve common problems in the financial services sector. Fintech is, broadly, technology that is applied to financial services or the management of ..."
+    publishedDateTime: 2022-02-07T07:03:00Z
+    webUrl: "https://www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.html"
+    ampWebUrl: "https://www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.amp.html"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 25
+      name: Computerworld
+      domain: computerworld.com
+    quality: 44
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/02/Intelligent-Virtual-Assistant-1.jpg"
-        width: 1920
-        height: 1281
+      - url: "https://images.idgesg.net/images/article/2019/09/eu_european_union_banknotes_currency_money_by_mabelamber_cc0_via_pixabay_2400x1600-100812035-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "African tech start-up funding skyrockets, with fintech a big winner"
+    excerpt: "Africa’s tech start-ups are thriving. In 2021, more African tech start-ups raised more money from more investors than ever before, with fintech companies — including several based in Nigeria — heavily represented among the big winners. According to ..."
+    publishedDateTime: 2022-02-07T03:08:00Z
+    webUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html"
+    ampWebUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html/amp"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 44
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/02/nigerian-nairas-stacked-bills_african-currency_bank-notes_by-ppart-gettyimages-613034832-100849675-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Razorpay acquires Malaysian fintech start-up Curlec"
+    excerpt: "Fintech unicorn Razorpay has expanded into South-East Asia with ... Prior to this, Razorpay has acquired TERA Finlabs, (AI-based risk tech SaaS Platform) in 2021, Opfin (Payroll & HR management solution) in 2019 and Thirdwatch (Fraud Analytics AI-platform ..."
+    publishedDateTime: 2022-02-08T08:23:00Z
+    webUrl: "https://www.thehindubusinessline.com/money-and-banking/razorpay-acquires-malaysian-fintech-start-up-curlec/article64996237.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/razorpay-acquires-malaysian-fintech-start-up-curlec/article64996237.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/razorpay-acquires-malaysian-fintech-start-up-curlec/article64996237.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://www.thehindubusinessline.com/money-and-banking/okp478/article33986853.ece/alternates/LANDSCAPE_615/bl-razorpay"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Razorpay goes global, buys Malaysian fintech startup Curlec"
+    excerpt: "Leading fintech player Razorpay on Tuesday announced its first international ... Prior to this, the company acquired TERA Finlabs, (AI-based risk tech SaaS Platform) in 2021, Opfin (Payroll & HR management solution) in 2019 and Thirdwatch (Fraud Analytics ..."
+    publishedDateTime: 2022-02-08T08:43:00Z
+    webUrl: "https://www.siliconindia.com/news/general/razorpay-goes-global-buys-malaysian-fintech-startup-curlec-nid-218049-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 24
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/7hwfrM08.jpg"
+        width: 570
+        height: 367
         isCached: true
 
 secured: "5wCgeY7TOjXWaipqaHrR97VQZ6uEQVUzBx9UPaeoP3BfY1Nnl0MfTXRKKGlZnJn+2jROlhzAEcj2br9VBT1jZmpdK8TFGeoKBWAD4sWXX8HcBS9PPfmK5LVrJy5QNg8aaUM7vPQ2Pm/gzNFwhRpF3A/29vpsBIv7OLFAt6prufJfZi2r4JwVXILP98KXoRtYGfZmMo+gFqcMKpWlq4nrTxv735VuZxSFzGleXFedZdjuNe8KtKnVRtroDhWx4ow3T0gVoGJsTcp0yLBciHnewU6LwC4NHJs6joyNGtgn1hWM03/5s/VrpOc779lpzjv5uJKnlDpQeJixTARipN6J7F+o5d0ZjbK0B28BrKuCpEI=;fbqKjUlfzrQCG1hUFh9BwQ=="

@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-25-transforming-modern-medical-devices-with-machine-learning-ai-inference.md",
+      "title": "Transforming Modern Medical Devices with Machine Learning & AI Inference",
+      "excerpt": "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/X1P1_web.jpeg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-24T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-01-24-cfos-eye-tech-investments-to-attract-retain-talent-with-aiml-skills.md",
       "title": "CFOs eye tech investments to attract, retain talent with AI/ML skills",
       "excerpt": "A survey by a financial services and human resources software vendor showed CFOs are on the hunt for finance professionals who have skills in AI and ML platforms that can be used to parse data and tell a business value story.",
@@ -1377,49 +1422,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test.md",
-      "title": "Machine Learning AI Can Predict COVID-19 Survival From Single Blood Test",
-      "excerpt": "Levels of 14 proteins in the blood of critically ill COVID-19 patients are associated with survival. A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival,",
-      "sourceUrl": null,
-      "webUrl": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000007",
-      "originalUrl": "https://scitechdaily.com/machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://journals.plos.org/resource/img/logo-plos.png",
-          "width": 300,
-          "height": 236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Machine Learning"
       ]

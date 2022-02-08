@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-aut
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/amp/"
 type: article
 quality: 94
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/vZLMcEg5JqfGeXydVkkxhk-1200-80.jpg"
         width: 970
         height: 545
-        isCached: true
-  - title: "Google’s DeepMind AI can now code better than humans"
-    excerpt: "Google’s artificial intelligence division DeepMind has developed a powerful AI system capable of beating humans at competitive computer programming. DeepMind evaluated its AlphaCode system by simulating participation in 10 recent coding contests hosted ..."
-    publishedDateTime: 2022-02-03T16:35:00Z
-    webUrl: "https://www.independent.co.uk/tech/google-deepmind-artificial-intelligence-coding-b2006940.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 54
-    images:
-      - url: "https://static.independent.co.uk/2022/02/03/14/deepmind%20ai%20coding.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 901
         isCached: true
 
 secured: "FXnuezZkEXgwLd6EkzSBAiug079npEgEjpNdA7ob/KdmU5nOtWxn/Nh36upJJz+KhUSDEKvzYuafM1ZL1LtRp6QpHtgyUTbf9jwCpR8n8ltgWLuMY8K5srpfFJTttx+Be3+5wv2Uyc5bwOtg7e8HDQI3MuOi/uy/3LpClAS/1efQ4MrbwCNYw4XYTFErYv98mZx5RKC09g9C1gNu/QnHueYc9aSPnFNQ/PFWYE0BRJOKlQpB9cbVNiOQGadULaVZhzmryi5iBuf/9jksm0RNpCB2ZRCVLC3lErXxRrR7Bk/43xCR9uY+wm2/aJJ6fSavPjT05TmiBDuEDW1KUT1akMWubjhH2NJJYqrvKJUFwvCgtjsxX63Q5CVCp1LGpPvGUC+21W4kDcCfiTsDThYQCEa/vasEGWkbE8um482icoiKO7glMSmu0aEUVkcRvpXFBUtCEnf9KcWTT0l2eknR5vHs4MAsopdhRZDU33Nuq4oyaD7MWfmGjp3+Q0zOsWp9Yv81OaND8WkD8d2WRloMiQ==;cH6ei79qEYOh04wDNFQ6mA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/am
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "How You Can Improve Chances of AI Project Success"
+    excerpt: "In this special guest feature, AJ Sunder, CIO at RFPIO, discusses two thought-providing topics: 7 reasons why AI initiatives fail, coupled with 7 secrets to executing successful AI projects. AI projects continue to fail at a prolific rate."
+    publishedDateTime: 2022-02-04T14:00:00Z
+    webUrl: "https://insidebigdata.com/2022/02/04/how-you-can-improve-chances-of-ai-project-success/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 19
 
 secured: "xO7JQ/T28dcwPNNAXfxsjH/VDNLFY8f5MflkuKfjhNomZLVRa7P5ij+EySWEzAhpaG4tUcWR4t5EfspUChks8z9Q3QXm+8o2XqDKN6epDeex8uu7vFcOTFro7yY+m8p3oW+b8OIDdPvpcdYt5bsvAHOo7TA0GFOsLl6kEsp42Bsx2UG+oszLoB9VHIYrXqTur0lPYtXhR5C3qIIUZfHjsvMI1Wr0CHP6VeQr8Q7ee8fE5E3FA4KKgPs3VczwGgSxnw61/nFatJpB6YeqgRZ7vEIhDm9C8GgwAlr8sbjBBe0JXu86T7j+rTakKSxr88hl84Paxg30B/ExOP4SKUpo05T/2M7ErkhTQoxQVlHpYFuEL57HUaFAExbiHY5DJ+frHFOnCihXw/l4rYQb6M4j4tpucNxtUCPQQ16w5ESp7t6eeesYIWrnUmQ7XjpUrHmQBp/TBWt0hpi44f41RvNmkht2VSXqyYwzAQnjHUtDoN4kMlY5GxEsm5CbqciBLK1FEvpRFo+jMsE7/MdD/foo6A==;q+BuCTdaFJRN4YJaJhFaSg=="
 ---

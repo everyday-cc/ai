@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-21-c3ai-digital-transformation-institute-announces-call-for-proposals-for-ai-to-transform-cybersecurity-and-secure-critical-infrastructure.md",
+      "title": "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure",
+      "excerpt": "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-commentary-the-ethical-use-of-ai-in-the-security-defense-industry.md",
       "title": "Commentary: The Ethical Use of AI in the Security, Defense Industry",
       "excerpt": "Artificial intelligence is also advancing rapidly within the security and defense industry. When AI converges with autonomy and robotics in a weapons system, we should ask ourselves, “From an ethical standpoint,",

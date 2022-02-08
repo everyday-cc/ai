@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-07-aiml-innovations-tech2heal-selected-for-prestigious-health-tech-campus.md",
+      "title": "AI/ML Innovations' Tech2Heal Selected for Prestigious Health Tech Campus",
+      "excerpt": "TORONTO, ON / ACCESSWIRE / February 7, 2022 / AI/ML Innovations Inc. (CSE:AIML)(OTCQB:AIMLF)(FWB:42FB), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103652761/AIML-Innovations-Tech2Heal-Selected-for-Prestigious-Health-Tech-Campus",
+      "originalUrl": "https://menafn.com/1103652761/AIML-Innovations-Tech2Heal-Selected-for-Prestigious-Health-Tech-Campus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?786443",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-strict-literal-interpretation-is-a-hardheaded-drawback-of-machine-learning-and-likewise-bad-for-ai-self-driving-cars.md",
       "title": "Strict Literal Interpretation Is A Hardheaded Drawback Of Machine Learning And Likewise Bad For AI Self-Driving Cars",
       "excerpt": "Au contraire, mon ami (on the contrary, my friends)! Here’s the deal. Let’s discuss self-driving cars (for my ongoing and extensive coverage of Autonomous Vehicles or AVs, including self-driving cars, see the link here). The advent of today’s self ...",
@@ -1379,51 +1422,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-transforming-modern-medical-devices-with-machine-learning-ai-inference.md",
-      "title": "Transforming Modern Medical Devices with Machine Learning & AI Inference",
-      "excerpt": "Consider these 6 factors when selecting an AI accelerator for your medical device. The promise of artificial intelligence (AI) technology is finally enjoying commercial success in many industries, including automotive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/transforming-modern-medical-devices-machine-learning-ai-inference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/X1P1_web.jpeg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

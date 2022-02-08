@@ -27,8 +27,8 @@ images:
 related:
   - title: "Insig AI boosted by inclusion in PwC FinTech programme"
     excerpt: "Insig AI PLC (AIM:INSG), the machine learning company, put on 3p (8.2%) at 39.5p after it was selected for PwC's Scale FinTech programme. The programme is designed to give access to new commercial opportunities within PwC as well as among its clients."
-    publishedDateTime: 2022-02-07T08:59:00Z
-    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/great-portland-soars-as-it-boasts-of-record-year-with-two-months-yet-to-run-973290.html"
+    publishedDateTime: 2022-02-07T13:44:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/insig-ai-boosted-by-inclusion-in-pwc-fintech-programme-973290.html"
     ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/973290"
     cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/973290"
     type: article
@@ -51,6 +51,6 @@ related:
       domain: lse.co.uk
     quality: 19
 
-secured: "UVRd17ENawQcDMVNwyebA40jmux0NoSQcbx8MOLOfJtlC+cnsN+btr0JG88NKcAqJoujtJBjGoNUUKLOKgC/IL6eWC/c4t93q9z6SMfVE2B8gVTFtF8LgSNiRegzDYyoWg50O9uufMs5HW8gyVLIG2qxJ3/u2rCtJ0b/XJdR3VcTLLwbtY3qe5QiFQ9EdJzW8Fw/uisSfX3mvCrIGN7apcwh+yshs1Zt7qof2CK2KWJkOlCq16Cf0YAaJvQnGcsq3AomlgbbW83FbdGqTKhv0rZvM6mUIPqt8q6xeWo/GJZxXTikb8KIlXZ45CEluRxoVWoH8u31ptPt5UXvpuWVsw80aKh/zdgRdNRAhOjcN/o=;IqT9Ps1IzzCqPNa8XR2g/Q=="
+secured: "KRNajjMdFvZTWUAgWdS41R787MwUTa8xoMHyjuJTlZJUI4PRyzQ34WUTHJFfPUsi9bo3TrAk5megbSdPHWZ29Q1FdrYvUA7qRI3zeBh3p2FabdTklWgWR2YV0Kb3Xf94NSWmi5SU0y0BAF2bQ430gMZ3rfp5jTAf0A6CugHHjk9gA3hOB3ehG6LgaL36B6ulAt5VHjay4D/+mC7woqbpLbR1FLR3vLSo0bMb8TAKPUwnwtAHjYN0O6xV22bpuHP/qXEMETD2rasH5Jns8NQ+sR4NapOI1Ji8SOxmef+VFJH296DKIx4r5lLHrIr1J2FK11ScupowgX3zWkVeM4kriq2Ig5JWbG+CS6otRXqSxDTEPKR8weYMVFKZseSAz0wZY4KHgW8dBpmuzdAsCt8IFfffTLv2o0VNSFFPjhXVJGisFvsh3HjgvQ/1q/yOyMxv/2dD0K1LD9RjtKytUljisxKA9LrAPVNvQb9xhplwKVaX7tdSnRILhlL+cs93/Fq7kXRKil7iqX+Zq94pgcPPtg==;V8+4cCTqNsFrHg6AiPLnkw=="
 ---
 

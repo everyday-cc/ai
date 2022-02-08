@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-01-25-meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse.md",
+      "title": "Meta has a giant new AI supercomputer to shape the metaverse",
+      "excerpt": "RSC could be powerful enough to simultaneously translate speech ... \"RSC will enable new AI models that can learn from trillions of examples, understand hundreds of languages and more.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/",
+      "originalUrl": "https://www.cnet.com/tech/computing/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 449,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/siHq4W98CK1DZnjUDNNGOJaq8Mk=/1200x630/2022/01/23/1b7d5a6f-b387-4fc8-8304-404b063355b7/facebook-meta-ai-supercomputer.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-has-a-giant-new-ai-supercomputer-to-shape-the-metaverse/",
+      "publishedDateTime": "2022-01-24T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-25-klarity-lands-18m-series-a-to-expand-its-document-automation-platform-for-finance-and-accounting.md",
       "title": "Klarity lands $18m Series A to Expand Its Document Automation Platform for Finance and Accounting",
       "excerpt": "Klarity, the AI platform that turns documents into structured data and frees humans from painful and voluminous document review, today announces $18M in Series A funding led by Tola Capital with participation from new and existing investors.",
@@ -1114,57 +1166,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-tcv-backs-canadian-ai-startup-that-accelerates-drug-research.md",
-      "title": "TCV Backs Canadian AI Startup That Accelerates Drug Research",
-      "excerpt": "TCV and Inovia Capital are leading a $50 million funding round for a Canadian biomedical software startup that has some of the world’s largest pharmaceutical companies as clients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canadian-ai-startup-that-accelerates-drug-research",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-01-24/tcv-backs-canadian-ai-startup-that-accelerates-drug-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGEeAY9waLeU/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

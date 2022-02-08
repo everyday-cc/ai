@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1103652761/AIML-Innovations-Tech2Heal-Selected-
 webUrl: "https://menafn.com/1103652761/AIML-Innovations-Tech2Heal-Selected-for-Prestigious-Health-Tech-Campus"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Middle East North Africa Financial Network
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI/ML Innovations' Tech2Heal Selected for Prestigious Health Tech Campus"
+    excerpt: "art therapy, Tai chi and Qi Qong. About AI/ML Innovations Inc.https://aiml-innovations.com/ AI/ML Innovations Inc. has realigned its business operations to capitalize on the burgeoning fields of artificial intelligence (AI) and machine learning (ML), with ..."
+    publishedDateTime: 2022-02-08T08:24:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/02/07/ai-ml-innovations-tech2heal-selected-for-prestigious-health-tech-campus"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 35
   - title: "AI/ML Innovations Inc.: AI/ML Innovations' Tech2Heal Selected for Prestigious Health Tech Campus"
     excerpt: "art therapy, Tai chi and Qi Qong. About AI/ML Innovations Inc. https://aiml-innovations.com/ AI/ML Innovations Inc. has realigned its business operations to capitalize on the burgeoning fields of artificial intelligence (AI) and machine learning (ML), with ..."
     publishedDateTime: 2022-02-07T14:00:00Z

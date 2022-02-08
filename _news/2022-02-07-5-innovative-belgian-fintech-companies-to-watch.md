@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3649093/5-innovative-fintech-c
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3649093/5-innovative-fintech-companies-to-watch-in-belgium.amp.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,65 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "Overview of the fintech industry: stats, trends, and companies in the ecosystem market research report"
-    excerpt: "In recent years, we've seen a ballooning of activity in fintech — an expansive term applied to technology-driven disruptions in financial services, where financial companies and startups use artificial intelligence (AI) and other tech in their day-to-day ..."
-    publishedDateTime: 2022-02-03T16:02:00Z
-    webUrl: "https://www.businessinsider.com/fintech-ecosystem-report"
-    ampWebUrl: "https://www.businessinsider.com/fintech-ecosystem-report?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-ecosystem-report?amp"
+  - title: "African tech start-up funding skyrockets, with fintech a big winner"
+    excerpt: "Africa’s tech start-ups are thriving. In 2021, more African tech start-ups raised more money from more investors than ever before, with fintech companies — including several based in Nigeria — heavily represented among the big winners. According to ..."
+    publishedDateTime: 2022-02-07T03:08:00Z
+    webUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html"
+    ampWebUrl: "https://www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html/amp"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304400/african-tech-start-up-funding-skyrockets-with-fintech-a-big-winner.html/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: CIO
+      domain: cio.com
+    quality: 44
     images:
-      - url: "https://i.insider.com/5fa2c30f69331a0011bc738d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Founders Fund Reportedly Invests in Corporate Card Fintech Ramp at $8B Valuation"
-    excerpt: "The company invests across all stages and sectors, including aerospace, AI, advanced computing ... Blockchain peer-to-peer / marketplace lending and other forms of Fintech. 2021 was a record-breaking year forDealMaker, the market-leadingtechnology platform ..."
-    publishedDateTime: 2022-02-04T14:36:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/186543-founders-fund-reportedly-invests-in-corporate-card-fintech-ramp-at-8b-valuation/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Billion-Dollars-scaled-1024x768.jpeg"
+      - url: "https://www.cio.com/wp-content/uploads/2022/02/nigerian-nairas-stacked-bills_african-currency_bank-notes_by-ppart-gettyimages-613034832-100849675-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
-        height: 768
+        height: 682
         isCached: true
-  - title: "Space Robotics Market Share, Size, Growth, Trends, Top Companies, Industry Demand and Opportunity 2021-26"
-    excerpt: "Furthermore, the rising adoption of artificial intelligence (AI) and deep learning (DL) in the robotics industry is driving the market. Moreover, the key players are introducing AI-based robots that provide greater exploration benefits and enhance mobility ..."
-    publishedDateTime: 2022-02-04T07:01:00Z
-    webUrl: "https://www.digitaljournal.com/pr/space-robotics-market-share-size-growth-trends-top-companies-industry-demand-and-opportunity-2021-26"
+  - title: "Razorpay acquires Malaysian fintech start-up Curlec"
+    excerpt: "Fintech unicorn Razorpay has expanded into South-East Asia with ... Prior to this, Razorpay has acquired TERA Finlabs, (AI-based risk tech SaaS Platform) in 2021, Opfin (Payroll & HR management solution) in 2019 and Thirdwatch (Fraud Analytics AI-platform ..."
+    publishedDateTime: 2022-02-08T08:23:00Z
+    webUrl: "https://www.thehindubusinessline.com/money-and-banking/razorpay-acquires-malaysian-fintech-start-up-curlec/article64996237.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/razorpay-acquires-malaysian-fintech-start-up-curlec/article64996237.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/razorpay-acquires-malaysian-fintech-start-up-curlec/article64996237.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://www.thehindubusinessline.com/money-and-banking/okp478/article33986853.ece/alternates/LANDSCAPE_615/bl-razorpay"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Razorpay goes global, buys Malaysian fintech startup Curlec"
+    excerpt: "Leading fintech player Razorpay on Tuesday announced its first international ... Prior to this, the company acquired TERA Finlabs, (AI-based risk tech SaaS Platform) in 2021, Opfin (Payroll & HR management solution) in 2019 and Thirdwatch (Fraud Analytics ..."
+    publishedDateTime: 2022-02-08T08:43:00Z
+    webUrl: "https://www.siliconindia.com/news/general/razorpay-goes-global-buys-malaysian-fintech-startup-curlec-nid-218049-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 24
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/7hwfrM08.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "AI in Fintech Market May See Big Move | Inbenta Technologies, IPsoft, Nuance Communications, ComplyAdvantage"
+    excerpt: "The Latest Released AI in Fintech market study has evaluated the future growth potential of Global AI in Fintech market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and ..."
+    publishedDateTime: 2022-02-04T07:07:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-may-see-big-move-inbenta-technologies-ipsoft-nuance-communications-complyadvantage"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 37
+    quality: 20
     images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjpqD1yIqNfAq4wxBd4Zca4Gtt4FfRdOgXcfEIojylz53waSWM5eSZpNS22Y9H0ZOctYqtX5bvR9pHXdDQeZMKeZVU3k3QM_HFBM1zpFAfiDEXPPFtps5-Do7XMhsU25ux4VisQkk5Omfr8Y60WPDQ9_LFYyahwfa_EUeYAi4oRM0X14S6RldCLnOA=s320"
-        width: 320
-        height: 240
-        isCached: true
-  - title: "AI in Fintech Market Report 2027: Overview, Size, Share, Analysis, Key Players and Outlook"
-    excerpt: "According to the latest report by IMARC Group, titled “AI in Fintech Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,” the ai in fintech market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% ..."
-    publishedDateTime: 2022-02-07T07:52:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-report-2027-overview-size-share-analysis-key-players-and-outlook"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEidUmPoFJvUX3AWX--IW6Pc-KRfvi1aqsczCNTnU2-buwLumK2bAojezPc4uPtCOXAXncmDv1519s9E8Zs5xmiGV02hB-uhN1feL4S0xCOFn4QHapWmmwg72nmhpkI2LF5y8wUl_-UkV-bY-KBJyTiP9ZuHPObfs3saGEaKuLzi9iPApijD4BLnXqs"
-        width: 724
-        height: 483
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/NFT-museum-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "mC2TPw05VqJ9/BDKpg53WA2gIU7HCv0V/GUSjZGr0LFN+XiHFc0loGbRo98dY7hTgqt+2arqq0aVb9q49xzfmuBvPwVKIR9NDN9d1LVA96XOYwdRvqwoPe5DAQAtHQ0t3xfFenFTMuY1bFieqrkxF38kMo7fnCYMUjxIq2JA6CwNzU8ga6CsXjw+ztBbpO1QWnFwX7HvJyCnSiRQJHda5Ne8cPvxEte6CcaTSqL9cu5LoI/EGydLHDyMZHsGfb2qpGP5pVuGS1TGfaNykYtubGS654tW0ByobUFHxfWaOggD8gLZaCfE6u4tBphlo63P/U68QLUODOnd6c6tt9AQN9ONpZDyjDoDvFdhZ/TQSqfuZY/gfHgkruc4cEjPrEuDVnJVqy673SKhUWS/6fnJ1OXYG/wCwcgPhsYbruY8bCG2AAE/up1SM/zoeDT0UkrglLIPb/EdB5/ODyZfiVDTEOwATJlzSJO2mXThHhKN5ApMP8wcn0zemmGeHWNY2gBlQE3YWnT0CBr/QI4+VXcv/w==;2DH7JxK8czsi+95b6jySMQ=="

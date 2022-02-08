@@ -1,27 +1,27 @@
 ---
 category: news
 title: "US tax agency drops facial recognition plan after criticism"
-excerpt: "The US national tax authority announced on Feb 7 that it will stop using facial recognition software to verify taxpayers’ identities when they create online accounts, following a chorus of privacy concerns."
-publishedDateTime: 2022-02-08T06:42:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/08/us-tax-agency-drops-facial-recognition-plan-after-criticism"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/08/us-tax-agency-drops-facial-recognition-plan-after-criticism"
+excerpt: "Facial recognition technology use by law enforcement has been criticized by activists who say its inaccuracies may reinforce racial bias - © AFP MAHMUD HAMS Facial recognition technology use by law enforcement has been criticized by activists who say its ..."
+publishedDateTime: 2022-02-07T23:57:00Z
+originalUrl: "https://www.digitaljournal.com/tech-science/us-tax-agency-drops-facial-recognition-plan-after-criticism/article"
+webUrl: "https://www.digitaljournal.com/tech-science/us-tax-agency-drops-facial-recognition-plan-after-criticism/article"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/02/08/1473152.jpg"
-    width: 1240
-    height: 826
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/4e97a46ec67b41a00baa9fa63cda5549dd51e815.jpg"
+    width: 768
+    height: 511
     isCached: true
 
 related:
@@ -271,22 +271,6 @@ related:
       - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2021/06/Internal_Revenue_Service_IRS_Building_640x640.jpg"
         width: 640
         height: 640
-        isCached: true
-  - title: "IRS to end use of facial recognition to access tax accounts"
-    excerpt: "The use of the software has been the subject of bipartisan criticism from lawmakers because of concerns about privacy as well as questions about racial bias embedded in the program."
-    publishedDateTime: 2022-02-08T01:13:00Z
-    webUrl: "https://www.pennlive.com/nation-world/2022/02/irs-to-end-use-of-facial-recognition-to-access-tax-accounts.html"
-    ampWebUrl: "https://www.pennlive.com/nation-world/2022/02/irs-to-end-use-of-facial-recognition-to-access-tax-accounts.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/02/irs-to-end-use-of-facial-recognition-to-access-tax-accounts.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RFXILT5MNBE2FOLHXQBWHXIVMU.jpg"
-        width: 1600
-        height: 1067
         isCached: true
   - title: "IRS to end use of facial recognition to identify taxpayers"
     excerpt: "The IRS said Monday it will suspend the use of facial recognition technology to authenticate people who create online accounts after the practice was criticized by privacy advocates and lawmakers. The agency said it would no longer use a third-party service,"
@@ -572,6 +556,20 @@ related:
         width: 395
         height: 600
         isCached: true
+  - title: "IRS to End Use of Facial Recognition to Access Tax Accounts"
+    excerpt: "The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security. The transition from the ID."
+    publishedDateTime: 2022-02-08T08:59:00Z
+    webUrl: "https://www.bloombergquint.com/politics/irs-to-end-use-of-facial-recognition-to-access-tax-accounts"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IRS facial recognition plan gets fierce blowback from bipartisan senators"
     excerpt: "In the wake of a controversial plan by the Internal Revenue Service to implement third-party services that rely on facial recognition, bipartisan senators on Thursday demanded that the IRS “immediately discontinue” any programs that collect ..."
     publishedDateTime: 2022-02-04T21:00:00Z
@@ -654,6 +652,6 @@ related:
         height: 713
         isCached: true
 
-secured: "cZWiDW2KVyK3DWL4xLRI60YrarVhcqtYljT8aVUl1/sLaVjkmJORSMTjcUnSdUyh75XIiCH37GD032HTQuFH+pMqrSatCsWNfVZdsWxE9DIv3GVC8XuYYPGmyVv2BcsBhk6oTYZISOwjy1irnzHxHvzA6OCc5bTi1N40L9vKUAbfNRsjt8GRndLxqhVMLCKc/iZqBWqSKl4a1r/672qquGhb4r7ayubuktoInHJ94zq8Wx1szke1phdn4EPo0y/x1GTdCLBdYIc3xpRg9kp1nKL+CF1nO0ZOqjbQan1GE/DRBUeC6zoHTHfqFDxelZ/CeCRyqKLL4MEs2OZwYxKULnBDDiUNiQ9Lw0k3GPossOU=;5B6sna0Q/JA7XI7JJPbGxw=="
+secured: "5wyzG8SKvZmaSYKAam6X2Qb4/56a/cwdXyLjUatxymQerWleNo7fhRuCQaAScrJtba+c3bx0pN9M84+bS0GekF8perylJRyKSS56Q6DSzhA2rhOlp1dIiZpU9a1yvWy0x8cY55lmFEFz0lntiLfJoAQ+h3skm4jZFsCIG/kywPvQv1i78u8OTwXuwPplOkVToef324huJdfU7yXgCJSo6BMxD9HIdy/UtE1UVOcCGuhJq4LOr+eWXQoe/ERAeOXewfzU2J8lNNIXWVWyGwEScDAyr+hfReDI3Z1T6gJsUWrW8wsbYLmvcj9UuDVxKtKHP9oRiqPgeTqwd4s2gQdI36JZSFTwbkTc3svqApX83SM=;0RxfUXnELkSHGOqyMPXx6w=="
 ---
 

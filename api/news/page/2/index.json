@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-06-a-former-spacex-engineer-says-his-self-driving-freight-train-cars-could-help-ease-the-trucker-shortage.md",
+      "title": "A former SpaceX engineer says his self-driving freight train cars could help ease the trucker shortage",
+      "excerpt": "Ex-SpaceX engineer Matt Soule believes his autonomous rail cars could help ease the trucker shortage. Parallel Systems' rail freight cars could take over long-haul cargo routes from truckers, he said. Truckers would deliver over the \"first and last mile ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/spacex-engineer-autonomous-rail-cars-parallel-systems-trucker-shortage-freight-2022-1",
+      "originalUrl": "https://www.businessinsider.com/spacex-engineer-autonomous-rail-cars-parallel-systems-trucker-shortage-freight-2022-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61fa95be4faa730018ff6a39?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/spacex-engineer-autonomous-rail-cars-parallel-systems-trucker-shortage-freight-2022-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/spacex-engineer-autonomous-rail-cars-parallel-systems-trucker-shortage-freight-2022-1?amp",
+      "publishedDateTime": "2022-02-05T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-05-we-need-to-decouple-ai-from-human-brains-and-biases.md",
+      "title": "We need to decouple AI from human brains and biases",
+      "excerpt": "Hardly a decade later, these same scientists contributed to dramatic breakthroughs in robotics, natural language processing, and computer vision. Although a lot of time has passed since then ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-biases",
+      "originalUrl": "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-biases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FBrainAi-CALLUM-EDIT.jpg&signature=cd986f4c8514cb750531f05dae512116",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-05T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-02-05-turtles-all-the-way-down-why-ais-cult-of-objectivity-is-dangerous-and-how-we-can-be-better.md",
       "title": "Turtles all the way down: Why AI’s cult of objectivity is dangerous, and how we can be better",
       "excerpt": "There is a belief, built out of science fiction and a healthy fear of math, that AI is some infallible judge of objective truth. We tell ourselves that AI algorithms divine truth from data ...",
@@ -271,7 +376,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -323,7 +428,7 @@
       "originalUrl": "https://venturebeat.com/2022/02/04/ai-weekly-deepminds-alphacode-automatic-age-verification-and-a-new-open-language-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -982,7 +1087,7 @@
       "originalUrl": "https://mashable.com/article/tesla-fsd-phantom-braking",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1061,49 +1166,6 @@
       ]
     },
     {
-      "path": "_news/2022-02-04-people-are-more-comfortable-interacting-with-a-robot-if-it-appears-female.md",
-      "title": "People are more comfortable interacting with a robot if it appears female",
-      "excerpt": "... Hotel in Las Vegas to the fully automated FlyZoo hotel chain in China where guests interact only with robots and artificial intelligence (AI) features. In the UK a Chinese buffet chain purchased four 'BellaBots' at about $20,000 each to fill gaps in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10473397/People-comfortable-interacting-robot-appears-female.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10473397/People-comfortable-interacting-robot-appears-female.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/02/03/18/53740955-0-image-a-42_1643911614773.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10473397/amp/People-comfortable-interacting-robot-appears-female.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10473397/amp/People-comfortable-interacting-robot-appears-female.html",
-      "publishedDateTime": "2022-02-03T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-02-04-toyota-built-an-autonomous-self-drifting-sports-car.md",
       "title": "Toyota built an autonomous self-drifting sports car",
       "excerpt": "The automaker has built a Supra sports car with the capability of performing drift racing-style driving on a track. The project is a collaboration between the Toyota Research Institute and Stanford University's Dynamic Design Lab, which has previously ...",
@@ -1152,58 +1214,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-the-state-of-ai-ethics-the-principles-the-tools-the-regulations.md",
-      "title": "The state of AI ethics: The principles, the tools, the regulations",
-      "excerpt": "Register here. What do we talk about when we talk about AI ethics? Just like AI itself, definitions for AI ethics seem to abound. A definition that seems to have garnered some consensus is that AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/",
-      "originalUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1256138488-e1643905043558.jpg?fit=800%2C588&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/03/the-state-of-ai-ethics-the-principles-the-tools-the-regulations/amp/",
-      "publishedDateTime": "2022-02-03T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

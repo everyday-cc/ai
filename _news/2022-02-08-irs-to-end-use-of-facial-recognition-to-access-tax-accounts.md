@@ -1,29 +1,27 @@
 ---
 category: news
-title: "IRS to end use of facial recognition to access tax accounts"
-excerpt: "The use of the software has been the subject of bipartisan criticism from lawmakers because of concerns about privacy as well as questions about racial bias embedded in the program."
-publishedDateTime: 2022-02-08T01:13:00Z
-originalUrl: "https://www.pennlive.com/nation-world/2022/02/irs-to-end-use-of-facial-recognition-to-access-tax-accounts.html"
-webUrl: "https://www.pennlive.com/nation-world/2022/02/irs-to-end-use-of-facial-recognition-to-access-tax-accounts.html"
-ampWebUrl: "https://www.pennlive.com/nation-world/2022/02/irs-to-end-use-of-facial-recognition-to-access-tax-accounts.html?outputType=amp"
-cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/02/irs-to-end-use-of-facial-recognition-to-access-tax-accounts.html?outputType=amp"
+title: "IRS to End Use of Facial Recognition to Access Tax Accounts"
+excerpt: "The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security. The transition from the ID."
+publishedDateTime: 2022-02-08T08:59:00Z
+originalUrl: "https://www.bloombergquint.com/politics/irs-to-end-use-of-facial-recognition-to-access-tax-accounts"
+webUrl: "https://www.bloombergquint.com/politics/irs-to-end-use-of-facial-recognition-to-access-tax-accounts"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Penn Live
-  domain: pennlive.com
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RFXILT5MNBE2FOLHXQBWHXIVMU.jpg"
-    width: 1600
-    height: 1067
+  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -559,18 +557,18 @@ related:
         height: 600
         isCached: true
   - title: "US tax agency drops facial recognition plan after criticism"
-    excerpt: "The US national tax authority announced on Feb 7 that it will stop using facial recognition software to verify taxpayers’ identities when they create online accounts, following a chorus of privacy concerns."
-    publishedDateTime: 2022-02-08T06:42:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/08/us-tax-agency-drops-facial-recognition-plan-after-criticism"
+    excerpt: "Facial recognition technology use by law enforcement has been criticized by activists who say its inaccuracies may reinforce racial bias - © AFP MAHMUD HAMS Facial recognition technology use by law enforcement has been criticized by activists who say its ..."
+    publishedDateTime: 2022-02-07T23:57:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/us-tax-agency-drops-facial-recognition-plan-after-criticism/article"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/02/08/1473152.jpg"
-        width: 1240
-        height: 826
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/4e97a46ec67b41a00baa9fa63cda5549dd51e815.jpg"
+        width: 768
+        height: 511
         isCached: true
   - title: "IRS facial recognition plan gets fierce blowback from bipartisan senators"
     excerpt: "In the wake of a controversial plan by the Internal Revenue Service to implement third-party services that rely on facial recognition, bipartisan senators on Thursday demanded that the IRS “immediately discontinue” any programs that collect ..."
@@ -654,6 +652,6 @@ related:
         height: 713
         isCached: true
 
-secured: "OcZX/zvm6EXMhXSVT+VthQEuGcV4sf7JJIFMniCRZZ1oTNOwMl3KCFPv4q0KaEaoyCDdfJo6GTAKVvuHjtlfkmPKYTGD9yh4Cb6GwigMPXKuU0P0NWJoSNccqP5a4blZ14ZIC9Fwe+6QVGnTCBzkBL+355gJ8ZdnyvgMygP5706XId7HJ0PMHww5/tcNx7hElG3/RtSrL7rEaH5oWYXxQzQtL4MOAmk+b/o1EOsBAJgGuvG0nEYT7VWMfRY8nuEKpCRv6oUIEhOKWG4lkNSG2jDqhtz8b6GHcqAKHiu9Xd0ZxGRRkmx3iLciCfPx59L7zLVN0xyBl6L5UrrdnjBD8FmsFefcthc4X+t2HSCpir0=;6q/qL9q7dbMQ5a/1ddwt3Q=="
+secured: "J9UJUvPZIIKnbO0IqmELFpJLrzSaC3E1NJvtBI2JRiLsbv1YzxnhxOFqIh0hojN+eXdkzWQjKj7lk7uLkKD3pB7/V5Cyp4C+uCVVYffa7OMqTCUfDyuq2JcxEFG9RQGG5Rj7Gag9rrAbRrk+lNiSDnztirvzaxupCwX/3qBDdoG3J4t4CYl1Sq0uKX6vJaagCwFPfVlqlTDNbbtri5fWfwsx3y7t+kkichA+8OthvLaC21mdkX2j1MMBa+DNENKN/rwEzhE3evV7J/LYO9aT/GDiofWZBfr4uWc7eV3NrITWAV+3teAA75Fh50mxYr4BXDD8PyE2UAdTROc+cIyPcT0DQZLQOAqJ1kAzrt7GTJ4=;q2wjrGkH6DHmntAw93l1hA=="
 ---
 

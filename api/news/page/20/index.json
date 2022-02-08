@@ -2,6 +2,50 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-01-19-ford-adt-form-venture-to-make-vehicle-security-products.md",
+      "title": "Ford, ADT form venture to make vehicle security products",
+      "excerpt": "Ford and security company ADT have formed a joint venture that will help businesses protect vehicles and expensive equipment they carry from theft. The first product from the",
+      "sourceUrl": null,
+      "webUrl": "https://www.centralillinoisproud.com/news/business/ford-adt-form-venture-to-make-vehicle-security-products/",
+      "originalUrl": "https://www.centralillinoisproud.com/news/business/ford-adt-form-venture-to-make-vehicle-security-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.centralillinoisproud.com/wp-content/uploads/sites/57/2022/01/cbab350b08784c3d95c997b9a89ebe36.jpg?w=1280",
+          "width": 1280,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.centralillinoisproud.com/news/business/ford-adt-form-venture-to-make-vehicle-security-products/amp/",
+      "cdnAmpWebUrl": "https://www-centralillinoisproud-com.cdn.ampproject.org/c/s/www.centralillinoisproud.com/news/business/ford-adt-form-venture-to-make-vehicle-security-products/amp/",
+      "publishedDateTime": "2022-01-18T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Central Illinois Proud",
+        "domain": "centralillinoisproud.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test.md",
       "title": "Machine Learning AI Can Predict COVID-19 Survival From Single Blood Test",
       "excerpt": "Levels of 14 proteins in the blood of critically ill COVID-19 patients are associated with survival. A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival,",
@@ -1098,49 +1142,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-artificial-intelligence-searches-for-the-human-touch.md",
-      "title": "Artificial intelligence searches for the human touch",
-      "excerpt": "There is a dawning recognition that, in tech such as artificial intelligence, “data” equals human beings. AI-driven algorithms are increasingly impinging upon our everyday lives. They assist in making decisions across a spectrum that ranges from advertising products to diagnosing medical conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/e3f36d82-89b8-41df-ae11-0653ce7e7944",
-      "originalUrl": "https://www.ft.com/content/e3f36d82-89b8-41df-ae11-0653ce7e7944",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F93071c65-3903-4610-b8dc-6b0141fe8216.jpg?source=amp&fit=scale-down&width=2400",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/e3f36d82-89b8-41df-ae11-0653ce7e7944",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e3f36d82-89b8-41df-ae11-0653ce7e7944",
-      "publishedDateTime": "2022-01-18T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -43,15 +43,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "People prefer interacting with female robots in hotels, study finds"
-    excerpt: "... Hotel in Las Vegas to the fully automated FlyZoo hotel chain in China where guests interact only with robots and artificial intelligence (AI) features. For the study, survey participants were presented with one of four scenarios about interacting with ..."
-    publishedDateTime: 2022-02-03T15:23:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/02/220203083556.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "GlMiFH9SUqx5FAPLlX7YEZcB7NDmvsRePrmZmyV8uaTKkGRo29mw/IaF8v/nKheJF/7uZqr4KO8y6mrh7qd56FV6xLRTPqalve+NT0GXndZALcmFwkB/a9F2SR25yu6+O1bAfX30X7Sf5t4WLozn6csOxfhlO+F2hOSqIbIrPxivPrbg8KQCFr8umzcKUC7dZnJgax/s4hIXAbH8XoISnZ3dMSN4RIvxrTX2ZLwbn1nlXof4FXXkDmdisP+UQnD6mlafaHNunYvDxOhSTcYfkcMZQ4Codt4aPEWnzvV11KCaP+nHyCCxm5+IFfjgkIxKttr6df4sWBsX5cFz7blvJuHHeaqV51AJblbjYHoFuPA=;LcKq6p+2Qg9DlLpPU5vLlA=="
 ---

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Space Robotics Market Share, Size, Growth, Trends, Top Companies, Industry Demand and Opportunity 2021-26"
+    excerpt: "Furthermore, the rising adoption of artificial intelligence (AI) and deep learning (DL) in the robotics industry is driving the market. Moreover, the key players are introducing AI-based robots that provide greater exploration benefits and enhance mobility ..."
+    publishedDateTime: 2022-02-04T07:01:00Z
+    webUrl: "https://www.digitaljournal.com/pr/space-robotics-market-share-size-growth-trends-top-companies-industry-demand-and-opportunity-2021-26"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEjpqD1yIqNfAq4wxBd4Zca4Gtt4FfRdOgXcfEIojylz53waSWM5eSZpNS22Y9H0ZOctYqtX5bvR9pHXdDQeZMKeZVU3k3QM_HFBM1zpFAfiDEXPPFtps5-Do7XMhsU25ux4VisQkk5Omfr8Y60WPDQ9_LFYyahwfa_EUeYAi4oRM0X14S6RldCLnOA=s320"
+        width: 320
+        height: 240
+        isCached: true
   - title: "Europe Artificial Intelligence Market Size, Share, Trends, Industry Growth and Forecast 2026"
     excerpt: "Artificial intelligence (AI) refers to a segment of computer science ... identification is expected to further bolster the demand for AI in drones, robots, and self-driving cars, over the forecasted period. If you need specific information that is not ..."
     publishedDateTime: 2022-02-07T05:43:00Z
@@ -53,6 +67,20 @@ related:
       - url: "https://blogger.googleusercontent.com/img/a/AVvXsEg_QnQX9ZHWuHR5RacomEN9wdiTfyX2PET3mtopGdJF1LO34RxYsjwu98DFlGNYCiafFzvcqC_JZoT00YFJskqGwz7L797uOJgma0SulIkhIxDTbmyA283MprE0RecBe5QsBofXZ6rZB2_zHLy8FfVhJdlDGEVa2VKcp5JpqucrkNFG7Gywe0StdkM"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "AI in Fintech Market Report 2027: Overview, Size, Share, Analysis, Key Players and Outlook"
+    excerpt: "According to the latest report by IMARC Group, titled “AI in Fintech Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,” the ai in fintech market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% ..."
+    publishedDateTime: 2022-02-07T07:52:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-report-2027-overview-size-share-analysis-key-players-and-outlook"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEidUmPoFJvUX3AWX--IW6Pc-KRfvi1aqsczCNTnU2-buwLumK2bAojezPc4uPtCOXAXncmDv1519s9E8Zs5xmiGV02hB-uhN1feL4S0xCOFn4QHapWmmwg72nmhpkI2LF5y8wUl_-UkV-bY-KBJyTiP9ZuHPObfs3saGEaKuLzi9iPApijD4BLnXqs"
+        width: 724
+        height: 483
         isCached: true
 
 secured: "KMxFltqi9I0mCla/UaOVwVXyguw9SyaWji+7aIsjUwMwW3Oy+zyzUQFlUNnosC+YccE28X/fD9ca92kzLF4XbK00s2c0iNA1LgBgKXoT5x6r6V2WBjaskl1DXAamdLBJPR0OGYf2m7b+oFLN+3Oxbnvm8vZPGKJMA+T0x1fdpb/tGrp9rIwqbGh0VqCENiuORTYiDJ/C6dbJiGI8MLqov104e5M/KKPGior1xCahG7uXNqoOmsP9qk8QlYJUUChBcIsBopP2Xndwk2tmD+BftuPZeEy+RaSTd3Tb1hJO9HYQRY+XiDxNA0qtfl6LwGIskSxzjjOFlniqrIH8se1XbdSGlAlJbtfPLeZ8jMOrfhA=;6TwJETm7xYaEuj6jt/wMaA=="

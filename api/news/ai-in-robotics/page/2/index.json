@@ -2,41 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-01-21-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport.md",
-      "title": "Robotic Assistance Devices to deploy 2 SCOT security robots at major U.S. regional airport",
-      "excerpt": "Artificial Intelligence Technology Solutions (OTCPK:AITX) announced that a major U.S. regional airport is poised to deploy 2 SCOT security devices from its wholly-owned subsidiary Robotic Assistance Devices.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "originalUrl": "https://seekingalpha.com/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "publishedDateTime": "2022-01-21T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2022-01-21-artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow.md",
       "title": "Artificial Intelligence: A Key Technology That's Shaping Our Tomorrow",
       "excerpt": "Ever since Alan Turing helped decode the Enigma messages used by the Germans during World War II, the concept of artificial intelligence started getting traction. It was only in 1956 that the term actually was officially coined by none other than John McCarthy.",
@@ -1460,6 +1425,58 @@
         "AI Ethics",
         "Facebook AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-new-nuro-robot-think-storm-trooper-meets-tayo-the-bus.md",
+      "title": "New Nuro robot? Think Storm Trooper meets Tayo the Bus",
+      "excerpt": "Nuro . As the pandemic roils on under a fresh wave of cases, the delivery robot wars continue to heat up. For technology developers, that means a new generation of robotic platfor",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/new-nuro-robot-think-storm-trooper-meets-tayo-the-bus/",
+      "originalUrl": "https://www.zdnet.com/article/new-nuro-robot-think-storm-trooper-meets-tayo-the-bus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bcda3006320e7dd2b0c5fc0ed5c04b8d843addce/2022/01/12/884c9738-5288-4550-94c8-cd8bf2b24237/nuro-3rd-gen.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 783,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/new-nuro-robot-think-storm-trooper-meets-tayo-the-bus/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-nuro-robot-think-storm-trooper-meets-tayo-the-bus/",
+      "publishedDateTime": "2022-01-13T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

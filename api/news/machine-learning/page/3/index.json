@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-19-machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test.md",
+      "title": "Machine Learning AI Can Predict COVID-19 Survival From Single Blood Test",
+      "excerpt": "Levels of 14 proteins in the blood of critically ill COVID-19 patients are associated with survival. A single blood sample from a critically ill COVID-19 patient can be analyzed by a machine learning model which uses blood plasma proteins to predict survival,",
+      "sourceUrl": null,
+      "webUrl": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000007",
+      "originalUrl": "https://scitechdaily.com/machine-learning-ai-can-predict-covid-19-survival-from-single-blood-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://journals.plos.org/resource/img/logo-plos.png",
+          "width": 300,
+          "height": 236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-18T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-aiml-in-2022-more-real-world-deployments-focus-on-ai-ethics-and-blockchain-hopes.md",
       "title": "AI/ML in 2022: More Real-World Deployments, Focus On AI Ethics and Blockchain Hopes",
       "excerpt": "Prominent industry experts share their predictions for the year aheadVILNIUS, LITHUANIA / ACCESSWIRE / January 18, 2022 / Artificial intelligence (AI) and",
@@ -1305,49 +1348,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers.md",
-      "title": "Edge Impulse Leverages TinyML and AutoML for Efficient Microcontrollers",
-      "excerpt": "San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.retail-insight-network.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
-      "originalUrl": "https://www.retail-insight-network.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/01/shutterstock_767487700.jpg",
-          "width": 500,
-          "height": 277,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T04:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Verdict Retail",
-        "domain": "retail-insight-network.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -36,6 +36,20 @@ related:
         width: 1280
         height: 714
         isCached: true
+  - title: "Apple Buys Startup That Makes Music With Artificial Intelligence"
+    excerpt: "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be used across its slate of audio offerings. The purchase of AI ..."
+    publishedDateTime: 2022-02-08T06:03:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-02-07/apple-buys-startup-that-makes-music-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5lliAQo0yVI/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Apple Has Bought a Startup That Uses AI to Make Music to Fit Your Mood"
     excerpt: "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be ..."
     publishedDateTime: 2022-02-08T04:02:00Z
@@ -49,6 +63,22 @@ related:
       - url: "https://time.com/img/icons/wallet-connect.png"
         width: 256
         height: 256
+        isCached: true
+  - title: "Apple acquires startup that uses AI for tailor-made music: Report"
+    excerpt: "Apple has acquired London-based AI Music, that uses artificial intelligence to generate tailor-made music, Bloomberg reported citing sources. The startup had about two dozen employees before the deal."
+    publishedDateTime: 2022-02-08T08:07:00Z
+    webUrl: "https://inshorts.com/en/news/apple-acquires-startup-that-uses-ai-for-tailormade-music-report-1644306989304"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/apple-acquires-startup-that-uses-ai-for-tailormade-music-report-1644306989304"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/apple-acquires-startup-that-uses-ai-for-tailormade-music-report-1644306989304"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 57
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/02_feb/8_tue/img_1644304660673_910.jpg?"
+        width: 1080
+        height: 720
         isCached: true
   - title: "Apple acquires startup with tool that creates songs with AI"
     excerpt: "Apple on Monday acquired “AI Music,” a startup that has developed a platform capable of creating songs using artificial intelligence. The acquisition, according to sources familiar with the ..."
@@ -65,6 +95,22 @@ related:
       - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/07/Streaming-music-services-should-pay-artists-more.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Apple acquires AI Music to create songs adapted to our heartbeat using algorithms"
+    excerpt: "Apple has acquired AI Music, a startup that created artificial intelligence capable of generating its own personalized music, according to Bloomberg. A purchase that has been closed in recent weeks and which,"
+    publishedDateTime: 2022-02-08T08:30:00Z
+    webUrl: "https://manometcurrent.com/apple-acquires-ai-music-to-create-songs-adapted-to-our-heartbeat-using-algorithms/"
+    ampWebUrl: "https://manometcurrent.com/apple-acquires-ai-music-to-create-songs-adapted-to-our-heartbeat-using-algorithms/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/apple-acquires-ai-music-to-create-songs-adapted-to-our-heartbeat-using-algorithms/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 52
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2022/02/1644308918_840_560-780x470.jpeg"
+        width: 780
+        height: 470
         isCached: true
   - title: "Jio Platforms takes stake in AI start-up"
     excerpt: "Jio Platforms invested $15 million to take a 25 per cent stake in US-based technology start-up Two Platforms, plotting joint development of products featuring technologies including AI, AR and mixed reality. Akash Ambani, director of Jio Platforms ..."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10473397/amp/People-
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10473397/amp/People-comfortable-interacting-robot-appears-female.html"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Daily Mail
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "People prefer interacting with female robots in hotels, study finds"
-    excerpt: "... Hotel in Las Vegas to the fully automated FlyZoo hotel chain in China where guests interact only with robots and artificial intelligence (AI) features. For the study, survey participants were presented with one of four scenarios about interacting with ..."
-    publishedDateTime: 2022-02-03T15:23:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/02/220203083556.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Rise of the fembots! People are more comfortable interacting with a robot if it appears FEMALE than male – especially if it has human-like features, study finds"
     excerpt: "These are important considerations for AI robot developers as well as for hospitality employers to consider as they think about adopting robots more widely,' Seo said. 'We may start to see more robots as replacements of human employees in hotels and ..."
     publishedDateTime: 2022-02-03T18:48:00Z

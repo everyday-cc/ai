@@ -34,6 +34,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "AI/ML Innovations' Tech2Heal Selected for Prestigious Health Tech Campus"
+    excerpt: "art therapy, Tai chi and Qi Qong. About AI/ML Innovations Inc.https://aiml-innovations.com/ AI/ML Innovations Inc. has realigned its business operations to capitalize on the burgeoning fields of artificial intelligence (AI) and machine learning (ML), with ..."
+    publishedDateTime: 2022-02-08T08:24:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2022/02/07/ai-ml-innovations-tech2heal-selected-for-prestigious-health-tech-campus"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 35
 
 secured: "5+omOAYO6STlm3Ex64Q8/00A2qKQio0R+U2oJsG7YTXjAiPMao04u0vH3fwnLQt5UmYeZghJo7nTIkBPbKXgaV3Q0pZVPtaleujrajMfHnATD1rk2EUKVQqYqGSn5Coh/zq93U7ttjBqRI2EAV/jc1TOghAStEGwYpSbSD2MOAvhqMkM/GS+vJ2+D9QDmwZAHWGVOYpZGqsx6Y95RZfdPNkkbE/RuWZnhxYx1rDfNRE4Q7+H1LeL0Ezp8qFlpDlUkDr5FMdkYoTMtRA7bvb29GKfkuean7t7NqmZ+wcxA9SnhiXiuvDqi5pAhEzWQsRKSmgoL5N0FiRKE3LsoEIQnnnXFw67++YbVdGfS5qhXqo=;cu/ZAu9umIdyDreFAPjdBw=="
 ---
