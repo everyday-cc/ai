@@ -73,6 +73,22 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "10 Fintech Stocks To Own Until 2032 and Beyond"
+    excerpt: "Yet in the case of Upstart, whose technology enables lenders to assess credit risk using artificial intelligence (AI), the compression may have been overdone. Unlike some other fintech/SaaS names ..."
+    publishedDateTime: 2022-02-08T18:45:00Z
+    webUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/"
+    ampWebUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 44
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2022/02/fintech_1600_1065252818.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AI in Fintech Market May See Big Move | Inbenta Technologies, IPsoft, Nuance Communications, ComplyAdvantage"
     excerpt: "The Latest Released AI in Fintech market study has evaluated the future growth potential of Global AI in Fintech market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and ..."
     publishedDateTime: 2022-02-04T07:07:00Z

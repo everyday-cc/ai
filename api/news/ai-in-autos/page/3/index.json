@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-17-neurala-with-more-cash-advances-ai-for-drones-self-driving-cars.md",
+      "title": "Neurala, With More Cash, Advances A.I. for Drones, Self-Driving Cars",
+      "excerpt": "Artificial intelligence software firm Neurala cut its ... For example, Google’s experimental self-driving vehicles (now spun off as Waymo) handle at least some of the processing of their ...",
+      "sourceUrl": null,
+      "webUrl": "https://xconomy.com/boston/2017/01/17/neurala-with-more-cash-advances-a-i-for-drones-self-driving-cars/",
+      "originalUrl": "https://xconomy.com/boston/2017/01/17/neurala-with-more-cash-advances-a-i-for-drones-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.xconomy.com/wordpress/wp-content/images/2016/12/06160304/Neurala-e1484428109959.jpg",
+          "width": 1480,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-16T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Xconomy",
+        "domain": "xconomy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-17-exploring-ai-ethics-and-accountability.md",
       "title": "Exploring AI ethics and accountability",
       "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
@@ -1336,50 +1379,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-this-robot-trader-is-betting-on-big-gains-for-tesla-and-nvidia-stock-its-been-right-before.md",
-      "title": "This Robot Trader Is Betting on Big Gains for Tesla and Nvidia Stock. It’s Been Right Before.",
-      "excerpt": "This artificial intelligence-powered ETF ditched Netflix, Merck, and three other familiar stocks this month. Here's what it bought.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218?refsec=funds",
-      "originalUrl": "https://www.barrons.com/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218?refsec=funds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-68043/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218",
-      "publishedDateTime": "2022-01-10T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

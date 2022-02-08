@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-09-2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers.md",
+      "title": "2 Senators Tell Tesla They Are 'Deeply Troubled' About Self-Driving Dangers",
+      "excerpt": "\"We are deeply troubled by Tesla's design choices that seemingly encourage unsafe driving habits,\" the Senators wrote about the automaker's \"Full Self-Driving\" system that was the subject of a recall of over 50,000 vehicles last week. This is a developing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270",
+      "originalUrl": "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1982603/tesla-elon-musk-richard-blumenthal-ed-markey.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1",
+      "publishedDateTime": "2022-02-08T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-implement-mlops-using-aws-pre-trained-ai-services-with-aws-organizations.md",
+      "title": "Implement MLOps using AWS pre-trained AI Services with AWS Organizations",
+      "excerpt": "The AWS Machine Learning Operations (MLOps) framework is an iterative and repetitive process for evolving AI models over time. Like DevOps, practitioners gain efficiencies promoting their artifacts through various environments (such as quality assurance, integration, and production) for quality control.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implement-mlops-using-aws-pre-trained-ai-services-with-aws-organizations/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implement-mlops-using-aws-pre-trained-ai-services-with-aws-organizations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/02/03/ml_6569_fig1-whitebackground.png",
+          "width": 1100,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-08T09:11:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-08-ask-a-techspert-what-does-ai-do-when-it-doesnt-know.md",
+      "title": "Ask a Techspert: What does AI do when it doesn’t know?",
+      "excerpt": "As humans, we constantly learn from the world around us. We experience inputs that shape our knowledge — including the boundaries of both what we know and what we don’t know.Many of today’s machines also learn by example. However, these machines are typically trained on datasets and information that",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/ask-a-techspert-what-does-ai-do-when-it-doesnt-know/",
+      "originalUrl": "https://blog.google/technology/health/ask-a-techspert-what-does-ai-do-when-it-doesnt-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ask_techspert-AI-01_rV1ecRI.max-1300x1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/health/ask-a-techspert-what-does-ai-do-when-it-doesnt-know/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ask-a-techspert-what-does-ai-do-when-it-doesnt-know/amp/",
+      "publishedDateTime": "2022-02-08T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-09-nhs-in-england-set-to-trial-a-new-approach-for-ethical-adoption-of-ai-in-healthcare.md",
       "title": "NHS in England set to trial a new approach for ethical adoption of AI in healthcare",
       "excerpt": "Biases in artificial intelligence will aim to be eradicated in a world first as the NHS in England trials a new approach to the ethical adoption of AI in healthcare. Algorithmic Impact Assessment (AIA), designed by the Ada Lovelace Institute, will be ...",
@@ -10,7 +166,7 @@
       "originalUrl": "https://www.news-medical.net/news/20220208/NHS-in-England-set-to-trial-a-new-approach-for-ethical-adoption-of-AI-in-healthcare.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -427,7 +583,7 @@
       "originalUrl": "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -574,7 +730,7 @@
       "originalUrl": "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843",
       "featuredContent": null,
       "highlight": null,
-      "heat": 529,
+      "heat": 569,
       "tags": null,
       "images": [
         {
@@ -1039,151 +1195,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/07/how-an-ai-system-can-predict-critical-events-and-help-reduce-their-impact/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/07/how-an-ai-system-can-predict-critical-events-and-help-reduce-their-impact/amp/",
       "publishedDateTime": "2022-02-07T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up.md",
-      "title": "The Road To Maturity: Why It’s Finally Time For AI In CX To Grow Up",
-      "excerpt": "And we’ve seen some progress — from dial menus to interactive voice response solutions (IVRs) and AI-powered voice assistants. However, customer service today remains one of the most annoying automation applications when companies don’t implement it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/02/07/the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/02/07/the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/611c2798b4d111f994e1f282/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/02/07/the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/02/07/the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up/amp/",
-      "publishedDateTime": "2022-02-07T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-driving-value-in-your-supply-chain-with-robotics-and-automation.md",
-      "title": "Driving Value in Your Supply Chain With Robotics and Automation",
-      "excerpt": "Robots are capable of picking those individual pieces and ... By feeding the same data into artificial intelligence and business intelligence systems, companies can also track and predict demand and better understand customer purchasing intentions and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.supplychainbrain.com/articles/34509-driving-value-in-your-supply-chain-with-robotics-and-automation",
-      "originalUrl": "https://www.supplychainbrain.com/articles/34509-driving-value-in-your-supply-chain-with-robotics-and-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-Nov-2021-SM.jpg?crop=1&height=348&t=1636504089&width=271",
-          "width": 271,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-07T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain",
-        "domain": "supplychainbrain.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-07-reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse.md",
-      "title": "Reliance’s Jio Platforms Invests In Deep Tech Startup Two Platforms, Betting On The Metaverse",
-      "excerpt": "a Silicon Valley-based deep tech startup, according to an announcement on Friday. “We are impressed with the strong experience and capabilities of the founding team at Two in the areas of AI/ML (artificial intelligence/machine learning), AR (artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/",
-      "originalUrl": "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62010289dd838e4b38b672f2/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/",
-      "publishedDateTime": "2022-02-07T03:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-09-2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers.md",
+      "title": "2 Senators Tell Tesla They Are 'Deeply Troubled' About Self-Driving Dangers",
+      "excerpt": "\"We are deeply troubled by Tesla's design choices that seemingly encourage unsafe driving habits,\" the Senators wrote about the automaker's \"Full Self-Driving\" system that was the subject of a recall of over 50,000 vehicles last week. This is a developing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270",
+      "originalUrl": "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1982603/tesla-elon-musk-richard-blumenthal-ed-markey.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2-senators-tell-tesla-they-are-deeply-troubled-about-self-driving-dangers-1677270?amp=1",
+      "publishedDateTime": "2022-02-08T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested.md",
       "title": "Tesla Model Y Crashes Into A Pole While Full-Self Driving Beta Was Being Tested",
       "excerpt": "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla Model Y owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1388,58 +1440,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-26-self-driving-car-users-shouldnt-be-accountable-for-accidents-report-suggests.md",
-      "title": "Self-driving car users shouldn't be accountable for accidents, report suggests",
-      "excerpt": "Drivers should be reclassified when operating a fully autonomous vehicle and not be held legally accountable for any road accidents, a new report has proposed. Rather, the company behind the driving system should be responsible,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1643193885/Driverless-car-GettyImages-1212935826.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/automation/362068/self-driving-car-users-shouldnt-be-accountable-for-accidents?amp",
-      "publishedDateTime": "2022-01-26T02:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

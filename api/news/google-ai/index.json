@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-08-ask-a-techspert-what-does-ai-do-when-it-doesnt-know.md",
+      "title": "Ask a Techspert: What does AI do when it doesn’t know?",
+      "excerpt": "As humans, we constantly learn from the world around us. We experience inputs that shape our knowledge — including the boundaries of both what we know and what we don’t know.Many of today’s machines also learn by example. However, these machines are typically trained on datasets and information that",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/ask-a-techspert-what-does-ai-do-when-it-doesnt-know/",
+      "originalUrl": "https://blog.google/technology/health/ask-a-techspert-what-does-ai-do-when-it-doesnt-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ask_techspert-AI-01_rV1ecRI.max-1300x1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/health/ask-a-techspert-what-does-ai-do-when-it-doesnt-know/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ask-a-techspert-what-does-ai-do-when-it-doesnt-know/amp/",
+      "publishedDateTime": "2022-02-08T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-google-subsidiary-deepmind-goes-retro-to-push-ai-forward.md",
       "title": "Google Subsidiary DeepMind Goes RETRO to Push AI Forward",
       "excerpt": "have boosted the branch of artificial intelligence called natural language processing (NLP). But while the applications for NLP algorithms are myriad, they operate on text data, which makes them complex and expensive and often limits their usefulness.",
@@ -1443,58 +1495,6 @@
       "images": [
         {
           "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=zh_cn",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-introduction-to-tensor-slicing.md",
-      "title": "Introduction to tensor slicing",
-      "excerpt": "When working on ML applications such as object detection and NLP, it is sometimes necessary to work with sub-sections (slices) of tensors. For example, if your model architecture includes routing, where one layer might control which training example gets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/tensor_slicing?hl=zh_CN",
-      "originalUrl": "https://www.tensorflow.org/guide/tensor_slicing?hl=zh_CN",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=zh_CN",
           "width": 1200,
           "height": 675,
           "title": null,

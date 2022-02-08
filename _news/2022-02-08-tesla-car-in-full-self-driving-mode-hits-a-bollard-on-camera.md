@@ -43,36 +43,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Tesla recall: 'Full Self-Driving' software runs stop signs"
-    excerpt: "DETROIT — Tesla is recalling nearly 54,000 cars and SUVs because their “Full Self-Driving” software lets them roll through stop signs without coming to a complete halt. Documents posted Tuesday by U.S. safety regulators say that Tesla will disable ..."
-    publishedDateTime: 2022-02-04T21:52:00Z
-    webUrl: "https://www.wfmynews2.com/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/nation-world/recall-tesla-full-self-driving-software-stop-signs/507-27a42da9-e146-4b7e-b85a-c2102913befa"
-    type: article
-    provider:
-      name: WFMY News2
-      domain: wfmynews2.com
-    quality: 59
-    images:
-      - url: "https://media.wfmynews2.com/assets/CCT/images/a38ecfc7-370e-4f13-88d2-cd943113f0c5/a38ecfc7-370e-4f13-88d2-cd943113f0c5_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Teslas recalled because self-driving software tells them to roll through stop signs"
-    excerpt: "Recall documents posted Tuesday by U.S. safety regulators say that Tesla will disable the feature with an over-the-internet software update."
-    publishedDateTime: 2022-02-05T07:37:00Z
-    webUrl: "https://abc7chicago.com/tesla-recall-self-driving-vehicle-software-issue/11530530/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 33
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/11538119_020122-kabc-11pm-tesla-recall-vid.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "cyDOSjhc0Pyt8W8DTaH4luW6C01PrvgGwv4NBFuLDmPMqu1hopkn7b3BZgsCBwjHJjFML6HtYvxRHU+CpMEY8QbTjEOGgjZ0NYUyvtS2eHAmBcm60y6bUBt8NnrvBF7h2jbdwxDmNRMXsv7g36Y2x1JZ7QqC7aFiu/3f/9tJZkvruyIW6GYu8sbKps2Vow9w+Y0582dGyJGn3B+7vygRhpUI8xeSY3wqVqYiK5DAkyt4JziOPBF6uRxuVfQL3hycNERkXEbRT8PGd2e4uo0ffs6ZLsxeVtp9RIBqnPDEDqT13bIN6Hm/tisEO+Xnnw98WO/fT9FwdGy3AfnEfIk+bhX4TcZh/AGgaXVysFNjFlZFAwG+R8PP2UZh9IgPWwFz+IXmfDzO/VmyU9i/gEVCHKRwNi451cP4fGOeKxkX7sOI13IDFsjiawHJ+Z71XZNdLj45kt5u88hbEtjOH0gloJFKT1nNcoZ722j4cVH+/92f2FyVEA24e/lXFboclJwO5l4R7sycT3LCSBKrME8QbQ==;iI1l8UltEaX1v/xnlTS8uA=="
 ---

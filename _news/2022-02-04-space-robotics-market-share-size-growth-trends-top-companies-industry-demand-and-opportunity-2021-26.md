@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/space-robotics-market-share-size
 webUrl: "https://www.digitaljournal.com/pr/space-robotics-market-share-size-growth-trends-top-companies-industry-demand-and-opportunity-2021-26"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market Size, Share, Demand Analysis, Regional Outlook, Competitive Strategies and Forecast up to 2026"
-    excerpt: "Feb 04, 2022 (The Expresswire) -- Global “Deep Learning Market” 2022 report presents an exclusive analysis of market size, share, revenue, production, consumption, gross margin, and price."
-    publishedDateTime: 2022-02-04T01:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-share-demand-analysis-regional-outlook-competitive-strategies-and-forecast-up-to-2026-2022-02-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Europe Artificial Intelligence Market Size, Share, Trends, Industry Growth and Forecast 2026"
     excerpt: "Artificial intelligence (AI) refers to a segment of computer science ... identification is expected to further bolster the demand for AI in drones, robots, and self-driving cars, over the forecasted period. If you need specific information that is not ..."
     publishedDateTime: 2022-02-07T05:43:00Z
@@ -66,6 +52,34 @@ related:
       - url: "https://blogger.googleusercontent.com/img/a/AVvXsEgPTAbLyXbF0I5mn8ZmLzWHZhi4PfxoDoRh6tP0np1UzGpviK1551vhi1d30BiXX9tk7yRHAiJ2m_Bc7Ng0d2SfkpbyF1FImJMwrHtx_wjCIME_cWVjYLX0PNk_1TelRO7OIpWrG79yOTlkAKfhQbReNyRAvJwilU3jmZmeWnFWmo4lAnYR8vv_25M"
         width: 1600
         height: 1068
+        isCached: true
+  - title: "Robot Software Market Size In 2022: Recent Innovations, Top Countries Data with CAGR Value & Growth Insights to 2028"
+    excerpt: "Germany is leading the market due to presence of key players in the country such as ABB, KUKA, and Kawasaki Robotics. The extensive research and development of artificial intelligence in the region has benefitted these key players in upgrading their ..."
+    publishedDateTime: 2022-02-08T12:25:00Z
+    webUrl: "https://www.digitaljournal.com/pr/robot-software-market-size-in-2022-recent-innovations-top-countries-data-with-cagr-value-growth-insights-to-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 16
+    images:
+      - url: "https://markettrendandforecast.files.wordpress.com/2022/02/c-m-ivfofaeghqu-unsplash.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Aerostat Systems Market 2022-2027: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    excerpt: "Moreover, numerous organizations are utilizing intelligent video surveillance systems owing to their various advantages, such as object recognition and video analytics, and thereby further ..."
+    publishedDateTime: 2022-02-05T03:40:00Z
+    webUrl: "https://menafn.com/1103643931/Aerostat-Systems-Market-2022-2027-Global-Industry-Trends-Share-Size-Growth-Opportunity-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?768954"
+        width: 374
+        height: 250
         isCached: true
 
 secured: "mNuIvSHCurO9cxdJ/SDz6QSLvT6n8pNLFIliZIlARMLo+Wl+eYCMt8Qh0hB/U249GZaALHaj5pVEby34AZy7+lXpFHO2Z8QF1qusOuYglK+w7nWc1RPDG/GVLdqrViZ9yNzQdx82G7pVoIPaz9Zaa0ocA2f41mnUSRQG111q1KzieOWmuGi3WZ3FZgOgI7sGDT3u3Ye2HqPQiza9W2DBCKVt3cOaIk6kq/FGViwcblO5HGf/EEcvwdpZC9QUVwTW/tkla/UOrEOKUcRpPRGJ0eRV3XWetRYMmddUCpJR2v8Bzp9lgKMLdhax9DSg/SvY2nCP80hjC+baLeoMYserv7RwWQgU0UKIdMncnwNeXqc=;P12NzodO+2+HCl5UR6MNmQ=="

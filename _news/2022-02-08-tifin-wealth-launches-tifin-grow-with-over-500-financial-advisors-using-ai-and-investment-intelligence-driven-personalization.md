@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "TIFIN Wealth Launches TIFIN Grow with Over 500 Financial Advisors Using AI and Investment Intelligence Driven Personalization"
+    excerpt: "TIFIN an AI-powered fintech, leverages data science, investment intelligence, and technology to help deliver engaging and personalized investor experiences. By connecting individuals to advice and investments, TIFIN bridges the gap among retail investors ..."
+    publishedDateTime: 2022-02-08T17:54:00Z
+    webUrl: "https://www.morningstar.com/news/accesswire/687585msn/tifin-wealth-launches-tifin-grow-with-over-500-financial-advisors-using-ai-and-investment-intelligence-driven-personalization"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 12
+    images:
+      - url: "https://www.accesswire.com/users/newswire/images/687585/Vinay-Nair-PhD-TIFIN.jpeg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "03v+3efOZdAzdHBcbvJlv2xBK4NKBbq168m9l7JtHGfD5VL84gyBZ2x6dCGzkm/NVTA39QvS8AF8qbVPOCeUpTDXQKGIpJ1nwSOgZKWxYns1AOR5odILdKi+YLioJOZHsP9JS/7DCUGTN0Xil9Klks+2YsDDembD/0ZAn+MCOGvEegOr0fMZ0/9wCD+osPaIH52XqtbhNSPCMiV9o/sUqFJMbX9txiUwmHnZL0IqwtKGbwQpwdPdsPStY5TQjC/kyRRO+keSbMV9ZHkbyQYhU530X0cMvMgY4Al8yyqoCWNm2cAJ0YQTQ7UbaGgg6TKjGYQq8IsWb34TVCC+nRpuTuwB1t2roUMLuzmHQVHdw/SFCV5o74U75Q6Fn1B3DMmLhSlclBEyh6CyEt0hS9ejE+FTwxpOyjyZsPeHTFeAywWNKMgTaHAaBAVpjCzC2lVJ4BMrfwdOEUS4HUVd+t59fPUWvmh4lrHbkvvHWKGlDQP7L14da6J4Wmy/DrbWfUok3t60k8GmoP3AY+GwBfBrdw==;2ECBzqhi/ULQrE0EO45+uw=="
 ---

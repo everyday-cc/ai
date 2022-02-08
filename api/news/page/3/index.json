@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-04-training-the-robot-scientist-to-synthesize-nanocrystals.md",
+      "title": "Training the Robot Scientist to Synthesize Nanocrystals",
+      "excerpt": "Image Credit: Georgy Shafeev/Shutterstock.com The Robotic Scientist framework is taught to fabricate gold nanocrystals by using multidisciplinary domains such as artificial intelligence, automated robotics, and big data. Data-guided development of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.azonano.com/news.aspx?newsID=38638",
+      "originalUrl": "https://www.azonano.com/news.aspx?newsID=38638",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1otjdv2bf0507.cloudfront.net/images/news/ImageForNews_38638_16439817545231997.jpg",
+          "width": 1000,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azonano.com/amp/news.aspx?newsID=38638",
+      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/news.aspx?newsID=38638",
+      "publishedDateTime": "2022-02-04T05:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoNano",
+        "domain": "azonano.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-startup-that-models-materials-at-atomic-level-raises-seed-capital.md",
+      "title": "Startup That Models Materials at Atomic Level Raises Seed Capital",
+      "excerpt": "San Francisco-based startup Mat3ra raised $3 million in seed funding led by Draper Associates for an AI-based platform that helps companies model new materials at the atomic level. Mat3ra, formerly known as Exabyte.io, will use the funding to accelerate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
+      "originalUrl": "https://www.wsj.com/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-479731/social",
+          "width": 1280,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
+      "publishedDateTime": "2022-02-04T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-azure-machine-learning-webinar-recap-a-sneak-peek-at-the-process-and-possibilities-of-aml.md",
+      "title": "Azure Machine Learning Webinar recap: A sneak peek at the process and possibilities of AML",
+      "excerpt": "The AutoML option in AML studio is a quick and easy way to build models, primarily aimed at the citizen data scientist. All it requires is a dataset, and using the wizard to set up a few ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "originalUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Webinar800X400-1643974854034.png ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
+      "publishedDateTime": "2022-02-04T03:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-singapore-releases-software-toolkit-to-guide-financial-sector-on-ai-ethics.md",
       "title": "Singapore releases software toolkit to guide financial sector on AI ethics",
       "excerpt": "The Monetary Authority of Singapore (MAS) said the documents detailed methodologies for incorporating the FEAT principles--of Fairness, Ethics, Accountability, and Transparency--into the use of AI within the financial services sector. The whitepapers ...",
@@ -1099,162 +1237,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-does-ai-improve-human-judgment.md",
-      "title": "Does AI Improve Human Judgment?",
-      "excerpt": "Additionally, intuition and experience did not translate into ... Businesses may use AI in decision-making via different methods. Opinion mining is a Natural Language Processing (NLP) based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61d679ba5e90f8f7f5034ea8/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1000,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/amp/",
-      "publishedDateTime": "2022-02-03T04:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock.md",
-      "title": "Strong Earnings From Cloud Behemoths Bode Well For Snowflake Stock",
-      "excerpt": "Per the Trefis machine learning engine which analyzes historical stock price ... While there are other rivals in this space, including Amazon’s Redshift, Microsoft’s Azure Synapse, and Google’s Big Query, Snowflake offers strong product differentiation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60470fda52dd0906fe0a7a42/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 850,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/amp/",
-      "publishedDateTime": "2022-02-03T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code.md",
-      "title": "Bad news for developers? Deepmind's AI is getting good at writing code",
-      "excerpt": "Researchers from Google's AI-focused unit DeepMind claim its AlphaCode system can express solutions to problems in code that achieves a median-level score in programming competitions undertaken by new programmers. Those competitions require humans to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0cd0c1ca8b8990cef9e8b17289258a491448ac55/2021/06/21/e487ce2e-c1f8-41e7-80ed-00f2310ac673/developers-heres-what-they-really-think-60d0614cb5c5a73d0c2020e1-1-jun-21-2021-11-35-52-poster.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
-      "publishedDateTime": "2022-02-03T03:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-03-does-ai-improve-human-judgment.md",
+      "title": "Does AI Improve Human Judgment?",
+      "excerpt": "Additionally, intuition and experience did not translate into ... Businesses may use AI in decision-making via different methods. Opinion mining is a Natural Language Processing (NLP) based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61d679ba5e90f8f7f5034ea8/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1000,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/02/03/does-ai-improve-human-judgment/amp/",
+      "publishedDateTime": "2022-02-03T04:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock.md",
+      "title": "Strong Earnings From Cloud Behemoths Bode Well For Snowflake Stock",
+      "excerpt": "Per the Trefis machine learning engine which analyzes historical stock price ... While there are other rivals in this space, including Amazon’s Redshift, Microsoft’s Azure Synapse, and Google’s Big Query, Snowflake offers strong product differentiation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60470fda52dd0906fe0a7a42/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 850,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/02/03/strong-earnings-from-cloud-behemoths-bode-well-for-snowflake-stock/amp/",
+      "publishedDateTime": "2022-02-03T03:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code.md",
+      "title": "Bad news for developers? Deepmind's AI is getting good at writing code",
+      "excerpt": "Researchers from Google's AI-focused unit DeepMind claim its AlphaCode system can express solutions to problems in code that achieves a median-level score in programming competitions undertaken by new programmers. Those competitions require humans to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
+      "originalUrl": "https://www.zdnet.com/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0cd0c1ca8b8990cef9e8b17289258a491448ac55/2021/06/21/e487ce2e-c1f8-41e7-80ed-00f2310ac673/developers-heres-what-they-really-think-60d0614cb5c5a73d0c2020e1-1-jun-21-2021-11-35-52-poster.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/bad-news-for-developers-deepminds-ai-is-getting-good-at-writing-code/",
+      "publishedDateTime": "2022-02-03T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-four-tips-to-avoid-common-startup-errors.md",
       "title": "Four Tips To Avoid Common Startup Errors",
       "excerpt": "As a global investor, I’m often asked by global entrepreneurs how to scale successfully and avoid some of the common errors that startups make. Startups are faced with a range of decisions at each phase of the company’s growth;",
@@ -1084,152 +1240,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-electric-sheep-turns-old-lawnmowers-into-robots.md",
-      "title": "Electric Sheep turns old lawnmowers into robots",
-      "excerpt": "A company that turns old lawn tech into state of the art robots got a big vote of confidence via major fundraising. Electric Sheep, whose name harkens to the Philip K. Dick novel upon which Blade Runner was based,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/electric-sheep-turns-old-lawnmowers-into-robots/",
-      "originalUrl": "https://www.zdnet.com/article/electric-sheep-turns-old-lawnmowers-into-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/50cd2f0335ec51b3848ec4da8142562e1997afe7/2022/01/31/b2d2f6d3-9281-43a6-b128-0c1004d57be6/electric-sheep.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/electric-sheep-turns-old-lawnmowers-into-robots/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/electric-sheep-turns-old-lawnmowers-into-robots/",
-      "publishedDateTime": "2022-02-02T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-five-fintech-predictions-for-2022.md",
-      "title": "Five Fintech Predictions For 2022",
-      "excerpt": "Automation solutions like robotic process automation (RPA) are ideal in increasing workplace efficiencies, while also eliminating cost-creating redundancies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/619bb0ad1e58e165649de1e8/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/",
-      "publishedDateTime": "2022-02-02T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-turkey-taps-artificial-intelligence-in-its-fight-against-wildfires.md",
-      "title": "Turkey taps artificial intelligence in its fight against wildfires",
-      "excerpt": "The Ministry of Agriculture and Forestry plans to implement artificial intelligence (AI) technology to tackle forest fires, which destroyed large swaths",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news",
-      "originalUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/02/02/thumbs/800x531/179522.jpg",
-          "width": 1600,
-          "height": 1062,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news/amp",
-      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news/amp",
-      "publishedDateTime": "2022-02-02T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sabah",
-        "domain": "dailysabah.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

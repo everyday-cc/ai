@@ -2,6 +2,145 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-31-profits-over-politics-aws-and-microsoft-execs-warn-of-chinas-ai-threat-while-growing-ai-hubs-inside-china.md",
+      "title": "Profits over politics: AWS and Microsoft execs warn of China’s AI threat while growing AI hubs inside China",
+      "excerpt": "The two biggest U.S. cloud companies are expanding their AI and cloud-related efforts in China even though their own executives have warned of threats posed by China’s AI development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.protocol.com/enterprise/aws-microsoft-china-ai-cloud",
+      "originalUrl": "https://www.protocol.com/enterprise/aws-microsoft-china-ai-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-aws-is-balancing-profit-potential-in-china-with-ai-risk-its-own-ceo-warned-about-less-than-p-greater-than.png?id=29190512",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/aws-microsoft-china-ai-cloud-2656504548",
+      "publishedDateTime": "2022-01-31T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-ocean-exploration-with-advanced-underwater-robotics.md",
+      "title": "Ocean Exploration With Advanced Underwater Robotics",
+      "excerpt": "With optimised techniques and machine learning, underwater robots can be created that mimic the movement and manoeuvrability of fish",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics",
+      "originalUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/01/swim-carlingfish.jpg",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/ocean-exploration-advanced-underwater-robotics/amp",
+      "publishedDateTime": "2022-01-31T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-budibase-brings-open-source-to-low-code-web-app-development.md",
+      "title": "Budibase brings open source to low-code web app development",
+      "excerpt": "Let the OSS Enterprise newsletter guide your open source journey!  The burgeoning no-code / low-code movement is showing little sign of slowing, with countless new products and companies hitting the market to help coders and non-coders alike make the most of the skills that they have.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/",
+      "originalUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/Budibase.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/31/budibase-brings-open-source-to-low-code-web-app-development/amp/",
+      "publishedDateTime": "2022-01-31T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-31-with-an-eye-on-future-dubai-invests-in-artificial-intelligence.md",
       "title": "With an Eye on Future Dubai Invests in Artificial Intelligence",
       "excerpt": "Dubai has emerged as a leading centre for research and development in emerging industries with a primary focus on embracing new technologies. Digital transformation in the government and p - Mediawire",
@@ -1076,157 +1215,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-all-symbols-in-tensorflow-datasets.md",
-      "title": "All symbols in TensorFlow Datasets",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
-      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse.md",
-      "title": "Meta builds AI Research SuperCluster for future AI and the metaverse",
-      "excerpt": "Meta believes that its new AI Research SuperCluster (RSC) will be among the fastest AI supercomputers running in the world once it’s fully built. The supercomputer is being constructed in phases. In the current phase 1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730",
-      "originalUrl": "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-13075344431.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/meta-builds-ai-research-supercluster-for-future-ai-and-the-metaverse/471730?amp=1",
-      "publishedDateTime": "2022-01-28T14:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-29-ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities.md",
-      "title": "AI Weekly: AI supercomputers and facial recognition to verify taxpayers’ identities",
-      "excerpt": "Meta (formerly Facebook) announced an AI supercomputer. Also, more revelations about the IRS' use of facial recognition have come to light.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
-      "originalUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Supercomputer-e1589742859682.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/28/ai-weekly-ai-supercomputers-and-facial-recognition-to-verify-taxpayers-identities/amp/",
-      "publishedDateTime": "2022-01-28T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision",
-        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,164 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-01-10-ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027.md",
+      "title": "AI in Computer Vision Market Size Soaring at 26.3% CAGR to Reach 64.59 billion USD by 2027",
+      "excerpt": "Unscathed by challenges, the worldwide AI in computer market is expected to record a strong CAGR of 26.3% over 2021-2027, consequently multiplying the industry remuneration from USD 12.6 million in 2020 to USD 64.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027-2022-01-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027-2022-01-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-10T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-using-ai-and-machine-learning-to-improve-the-health-insurance-process.md",
+      "title": "Using AI And Machine Learning To Improve The Health Insurance Process",
+      "excerpt": "Health insurance companies have been looking to artificial intelligence (AI) and machine learning to identify at-risk individuals and reduce rising costs in the healthcare sphere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61814ed70e1ae168d212c0bd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/amp/",
+      "publishedDateTime": "2022-01-10T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-financial-regulators-concerned-about-reliance-on-aws-azure-and-google-cloud.md",
+      "title": "Financial regulators concerned about reliance on AWS, Azure and Google Cloud",
+      "excerpt": "The Prudential Regulation Authority is reportedly seeking ways to access more data from the big three cloud providers",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/policy-legislation/it-regulation/361935/financial-regulators-scrutinise-reliance-aws-azure-google-cloud",
+      "originalUrl": "https://www.itpro.co.uk/policy-legislation/it-regulation/361935/financial-regulators-scrutinise-reliance-aws-azure-google-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1641816559/Cloud-computing-GettyImages-159993825.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/policy-legislation/it-regulation/361935/financial-regulators-scrutinise-reliance-aws-azure-google-cloud?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/it-regulation/361935/financial-regulators-scrutinise-reliance-aws-azure-google-cloud?amp",
+      "publishedDateTime": "2022-01-10T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-artificial-intelligence-chip-market-to-reach-1949-bn-globally-by-2030-at-374-cagr-amr.md",
       "title": "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR: AMR",
       "excerpt": "Allied Market Research recently published a report, titled, \"Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and Others), Application (Natural",
@@ -1001,161 +1159,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-09-flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards.md",
-      "title": "Flagging Down A Roaming AI Self-Driving Car Robo-Taxi Might Not Be In The Cards",
-      "excerpt": "Flagging down a taxi or cab is still something done today, and the question arises whether AI-based self-driving car robo-taxis will do the same.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c7e1dc9878b5eedc7980d1%2F0x0.jpg",
-          "width": 1156,
-          "height": 771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards/amp/",
-      "publishedDateTime": "2022-01-09T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-09-how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn.md",
-      "title": "How NOAA Is Applying AI Beyond Forecasting: Interview With Eric Kihn",
-      "excerpt": "NOAA is applying AI beyond forecasting to a range of applications that are helping people and the world in which we live.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogs-images.forbes.com/assets/images/avatars/blog-5907_400_4ad9d95032852c3294283bf5f7eed635.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn/amp/",
-      "publishedDateTime": "2022-01-09T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-09-the-ai-bill-of-rights-protecting-americans-from-the-dangers-of-artificial-intelligence.md",
-      "title": "The AI Bill Of Rights: Protecting Americans From The Dangers Of Artificial Intelligence",
-      "excerpt": "The White House is proposing an AI Bill of Rights to guard against these problems and ensure AI systems do not harm the people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2022/01/09/the-ai-bill-of-rights-protecting-americans-from-the-dangers-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2022/01/09/the-ai-bill-of-rights-protecting-americans-from-the-dangers-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d5f552bdb92ece4d034eaa%2F0x0.jpg",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2022/01/09/the-ai-bill-of-rights-protecting-americans-from-the-dangers-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/01/09/the-ai-bill-of-rights-protecting-americans-from-the-dangers-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-01-09T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

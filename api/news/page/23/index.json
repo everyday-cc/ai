@@ -2,6 +2,135 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-01-18-alcatraz-ai-announces-security-executive-marco-emrich-joins-the-company-as-head-of-international-sales.md",
+      "title": "Alcatraz AI announces Security Executive Marco Emrich joins the company as Head of International Sales",
+      "excerpt": "Alcatraz AI announced Marco Emrich is joining the company as Head of International Sales. Emrich brings his expansive experience to Alcatraz AI and will be key in scaling Alcatraz AI’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/alcatraz-ai-announces-security-executive-marco-co-1554360262-ga.1642415498.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/alcatraz-ai-announces-security-executive-marco-co-1554360262-ga.1642415498.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/alcatraz-ai-paul-fisher-vice-president-sales-enhance-sales-activities-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/alcatraz-ai-announces-security-executive-marco-co-1554360262-ga.1642415498.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/alcatraz-ai-announces-security-executive-marco-co-1554360262-ga.1642415498.html",
+      "publishedDateTime": "2022-01-17T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-pininfarina-designs-sleek-semi-packed-with-latest-autonomous-tech.md",
+      "title": "Pininfarina Designs Sleek Semi Packed With Latest Autonomous Tech",
+      "excerpt": "A quick-swap system can change the battery in six minutes. Pininfarina has branched out far beyond its car design roots. The Italian design house has crafted a tractor, a driving simulator, and even Motor1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motor1.com/news/561355/pininfarina-designs-sleek-chinese-semi/",
+      "originalUrl": "https://www.msn.com/en-us/autos/news/pininfarina-designs-sleek-semi-packed-with-latest-autonomous-tech/ar-AASSdzQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.motor1.com/images/mgl/eoY3GE/s1/deepway-xingtu-by-pininfarina.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motor1.com/news/561355/pininfarina-designs-sleek-chinese-semi/amp/",
+      "cdnAmpWebUrl": "https://www-motor1-com.cdn.ampproject.org/c/s/www.motor1.com/news/561355/pininfarina-designs-sleek-chinese-semi/amp/",
+      "publishedDateTime": "2022-01-17T10:18:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "motor1.com/news/561355/pininfarina-designs-sleek-chinese-semi/",
+        "domain": "motor1.com/news/561355/pininfarina-designs-sleek-chinese-semi/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china.md",
+      "title": "SAIC-GM-Wuling Vehicles To Get Horizon Robotics ADAS Tech In China",
+      "excerpt": "Per a recent post from Chinese automotive news website Gasgoo, SAIC-GM-Wuling will incorporate Horizon Robotics’ Journey series chips for new high-tech features. Looking ahead, the Journey 2 chip-based Horizon Matrix Mono ADAS solution will be equipped by a number of SAIC-GM-Wuling models this year,",
+      "sourceUrl": null,
+      "webUrl": "https://gmauthority.com/blog/2022/01/saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china/",
+      "originalUrl": "https://gmauthority.com/blog/2022/01/saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gmauthority.com/blog/wp-content/uploads/2022/01/Horizon-Robotics-microchips-Journey-5-1024x683.jpeg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gmauthority.com/blog/2022/01/saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china/amp/",
+      "cdnAmpWebUrl": "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2022/01/saic-gm-wuling-vehicles-to-get-horizon-robotics-adas-tech-in-china/amp/",
+      "publishedDateTime": "2022-01-17T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GM Authority",
+        "domain": "gmauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-17-waymo-and-jb-hunt-expand-autonomous-trucking-partnership.md",
       "title": "Waymo and J.B. Hunt expand autonomous trucking partnership",
       "excerpt": "Back in the summer of 2021, we reported on a newly formed partnership between autonomous vehicle developer Waymo and trucking company J.B. Hunt. Well, now, according to a blog post published on Friday by Waymo,",
@@ -1027,163 +1156,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-16-data-users-demand-simple-actionable-insights-quickly.md",
-      "title": "Data users demand simple actionable insights quickly",
-      "excerpt": "Big data, cloud computing, and analytics bring tremendous power. To share that, we must provide simple, impactful insights to data users.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/16/data-users-demand-simple-actionable-insights-quickly/",
-      "originalUrl": "https://venturebeat.com/2022/01/16/data-users-demand-simple-actionable-insights-quickly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1321462048.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/16/data-users-demand-simple-actionable-insights-quickly/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/data-users-demand-simple-actionable-insights-quickly/amp/",
-      "publishedDateTime": "2022-01-16T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-16-when-it-comes-to-health-care-ai-has-a-long-way-to-go.md",
-      "title": "When It Comes to Health Care, AI Has a Long Way to Go",
-      "excerpt": "Medical information is more complex and less available than the web data that many algorithms were trained on, so results can be misleading.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/",
-      "originalUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61e22d6b844ec857b7138306/master/pass/healthcare-ai.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/health-care-ai-long-way-to-go/amp",
-      "publishedDateTime": "2022-01-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-16-3-key-differences-between-ai-and-robotics.md",
-      "title": "3 Key Differences Between AI And Robotics",
-      "excerpt": "Despite having a few common elements, AI and robotics are not the same. To understand the difference between the two, one can imagine AI to be the brain and robots to be the body of artificially intelligent robots—the combination of AI and robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d670b81998bdcbce034eac%2F0x0.jpg",
-          "width": 1200,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/amp/",
-      "publishedDateTime": "2022-01-16T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -147,6 +147,20 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Cyber Daily: IRS Retreats From Facial Recognition to Verify Taxpayers’ Identities"
+    excerpt: "Hello. The Internal Revenue Service has been using a facial-recognition service from a company called ID.me for people to validate and verify their identities before opening online accounts and accessing personal tax data. The agency was also planning to ..."
+    publishedDateTime: 2022-02-08T18:47:00Z
+    webUrl: "https://www.wsj.com/articles/cyber-daily-irs-retreats-from-facial-recognition-to-verify-taxpayers-identities-11644346058"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 79
+    images:
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IRS says it will back away from facial recognition amid outcry"
     excerpt: "The IRS has told Senator Ron Wyden it will back away from facial recognition tech following pressure from politicians and other critics.."
     publishedDateTime: 2022-02-08T06:19:00Z
@@ -282,6 +296,22 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "IRS halts facial recognition plan amidst backlash"
+    excerpt: "The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website following backlash ..."
+    publishedDateTime: 2022-02-08T18:31:00Z
+    webUrl: "https://wraltechwire.com/2022/02/08/irs-halts-facial-recognition-plan-amidst-backlash/"
+    ampWebUrl: "https://wraltechwire.com/2022/02/08/irs-halts-facial-recognition-plan-amidst-backlash/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/02/08/irs-halts-facial-recognition-plan-amidst-backlash/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2018/09/facial-recognition-e1557763570147.png"
+        width: 864
+        height: 486
+        isCached: true
   - title: "After criticism, IRS to end use of facial recognition to identify taxpayers"
     excerpt: "WASHINGTON (AP) — The IRS said Monday it will suspend the use of facial recognition technology to authenticate people who create online accounts after the practice was criticized by privacy ..."
     publishedDateTime: 2022-02-07T20:43:00Z
@@ -405,6 +435,22 @@ related:
       - url: "https://images.theconversation.com/files/443053/original/file-20220127-9782-2f0nex.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
         width: 754
         height: 388
+        isCached: true
+  - title: "IRS to Move Away from Using Third-Party Verification involving Facial Recognition"
+    excerpt: "The US Internal Revenue Service (IRS) announced that it will transition away from using a third-party service for facial recognition in order to help authenticate individuals creating new online accounts. The transition will take place over the coming ..."
+    publishedDateTime: 2022-02-08T17:03:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/02/186703-irs-to-move-away-from-using-third-party-verification-involving-facial-recognition/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/02/186703-irs-to-move-away-from-using-third-party-verification-involving-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/02/186703-irs-to-move-away-from-using-third-party-verification-involving-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 54
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face.jpeg"
+        width: 1280
+        height: 1270
         isCached: true
   - title: "Another lawmaker raises concerns with IRS plan to use facial recognition"
     excerpt: "Sen. Roger Wicker, R-Miss., is asking the IRS to provide answers to a series of questions around their use of facial recognition and third-party vendor ID.me by Feb. 17. (Photo by Joshua Roberts/Getty Images) The ranking Republican on the Senate Commerce ..."
@@ -594,12 +640,12 @@ related:
         isCached: true
   - title: "The IRS backs down from facial recognition plan to verify identities"
     excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
-    publishedDateTime: 2022-02-08T16:44:00Z
-    webUrl: "https://www.cincinnati.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/"
+    publishedDateTime: 2022-02-08T16:39:00Z
+    webUrl: "https://www.dispatch.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
+      name: Columbus Dispatch
+      domain: dispatch.com
     quality: 39
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
@@ -673,6 +719,15 @@ related:
         width: 1070
         height: 713
         isCached: true
+  - title: "IRS to halt use of ID.me’s facial recognition software for identity authentication"
+    excerpt: "The Internal Revenue Service will stop using facial recognition software to authenticate taxpayers’ identities, the federal agency said Monday. The move responds to mounting backlash from lawmakers, advocates and members of the public about the use of ..."
+    publishedDateTime: 2022-02-08T18:08:00Z
+    webUrl: "https://www.bizjournals.com/rhodeisland/news/2022/02/08/irs-to-halt-use-of-idme-s-facial-recognition.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
 
 secured: "U4ZwqXSBE48Th8Anr0ciHjIUU8ln07/eDx6YRRXuk110waTFq3MRoRAlS2diXtiFCjdhRN39P+XPTdfzJYHsH8CjKOGDq2X4qNh9Tuj/XamQLrglMK1qZXm8qNiPhDw/aNTAvuyTGRWkDgK6ADDxVdgEpPMjeFuvAEjYKzdCCe6ABl8e1Fc4++erMA/zVpXZZ8nXaB8nLXaWOsbrOUdekaTTxrrwCEj0mUOnzxQkqKFZT6wy+2WpPPjdAwX9qEvgUqrT5mC3Rlvr5Yo3zb9jptY2IhsFmXeVQHgv5lkfiJ4dV10N+vhcdno49WTXRQJBFAKnbmj6a3ylkVuR3KQuFx0rOoC6lQe8olN2dsKDEEY=;s/LiBB2mbCO4BRB6kF/aIg=="
 ---

@@ -2,6 +2,155 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-01-12-graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges.md",
+      "title": "Graph-based recommendation system with Neptune ML: An illustration on social network link prediction challenges",
+      "excerpt": "Recommendation systems are one of the most widely adopted machine learning (ML) technologies in real-world applications, ranging from social networks to ecommerce platforms. Users of many online systems rely on recommendation systems to make new friendships, discover new music according to suggested",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/04/ML-6681-image003-1111x630.png",
+          "width": 1111,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T14:50:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-ai-and-advance-machine-learning-in-bfsi-market-evolving-trends-and-opportunities-in-covid-19-pandemic-end-by-2027.md",
+      "title": "AI and Advance Machine Learning in BFSI Market Evolving Trends and Opportunities in COVID-19 pandemic end by 2027",
+      "excerpt": "AI and Advance Machine Learning Market OREGAON, PORTLAND, UNITED STATES, January 12, 2022 /EINPresswire.com / -- Allied Market Research r",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103528067/AI-and-Advance-Machine-Learning-in-BFSI-Market-Evolving-Trends-and-Opportunities-in-COVID-19-pandemic-end-by-2027&source=29",
+      "originalUrl": "https://menafn.com/1103528067/AI-and-Advance-Machine-Learning-in-BFSI-Market-Evolving-Trends-and-Opportunities-in-COVID-19-pandemic-end-by-2027&source=29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-01/12/EP_a6b55image_story.jpeg",
+          "width": 790,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-nuro-add-airbags-for-people-to-self-driving-delivery-vehicles.md",
+      "title": "Nuro Add Airbags (for People) to Self-Driving Delivery Vehicles",
+      "excerpt": "Pedestrians can be an absent-minded bunch, so Nuro's newest delivery bot adds an external airbag to protect those who may collide with it on the sidewalk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles",
+      "originalUrl": "https://www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/0450pNfKRBwFezwmdnvuEr0-1.fit_lim.size_1200x630.v1642009417.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles?amp=true",
+      "publishedDateTime": "2022-01-12T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-californias-dmv-reevaluating-stance-on-teslas-full-self-driving-beta.md",
       "title": "California’s DMV Reevaluating Stance On Tesla’s Full Self-Driving Beta",
       "excerpt": "The DMV had previously considered Tesla's FSD as a Level 2 system, but videos and software updates are forcing a rethink",
@@ -995,154 +1144,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-can-humans-teach-robots-to-think-like-us.md",
-      "title": "Can Humans Teach Robots To Think Like Us?",
-      "excerpt": "Teaching robots to think like humans may be the next frontier for tech developers and researchers involved in the ongoing development of technologies such as AI and robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d66f8dbbb58ffd41f3d174%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/amp/",
-      "publishedDateTime": "2022-01-12T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact.md",
-      "title": "How An Ethical AI Startup Makes A Triple-Bottom Line Impact",
-      "excerpt": "Even tech companies can consider people and planet, as well as profit. And they can find investors who share their social mission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/",
-      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61db74e008657af633f8d8c6%2F0x0.jpg",
-          "width": 1200,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/amp/",
-      "publishedDateTime": "2022-01-12T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-oliver-wyman-acquires-azure-consulting-growing-its-presence-in-australia.md",
-      "title": "Oliver Wyman acquires Azure Consulting, growing its presence in Australia",
-      "excerpt": "The premium Perth-based boutique management consulting firm's 20 employees will be integrated into Oliver Wyman's Australia practice. The acquisition advances Oliver Wyman's build up in Australia and deepens its Energy and Natural Resources practice in Asia Pacific.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=598822",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=598822",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://us.acrofan.com/img/noImg.jpg",
-          "width": 500,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

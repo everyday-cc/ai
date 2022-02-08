@@ -71,6 +71,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 0
+  - title: "Yellow.ai recognised in the first-ever 2022 GartnerÂ® Magic Quadrantâ„¢ for Enterprise Conversational AI Platforms"
+    excerpt: "Yellow.ai's Dynamic AI agents uniquely learn from all ... the company has raised more than $102M from blue-chip investors and has offices across six countries."
+    publishedDateTime: 2022-02-08T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1234881&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "rlnGkDTyKc5o8nA7TbDZtHlxnpf2lf87XhMw+Fz+PH+FPoTgFoS1NS+ndpajvaJQDaJwYRKyVFWiru7I7g6o9pXt93EfU4R6uuwHa3HJcRDbHEUdYsxwfmkAxXabQ4IsungUy5kpixuu9SpnZHN+5Ek16+Qdx3nK0LwHrk3kBxXAnpXuyf/4svooidbPwPnSmhD9h2mRyObWYuKGi1awaKRB8d+DaQu7d6McL173fQaGSYiH/d1jgbhBWJlUe4NlkjfEkfxBjXHOnJtHFG+wB5eb+9XH4MhqyOJ1ssHaWACArgL+SNPwCxUZb+urxfFQn92fR0p2pG330LQkdBF6IuKzncQrUL1OvsKEuDlkxKY=;e9SKgwNMRb6hdlqtrQ6gVg=="
 ---

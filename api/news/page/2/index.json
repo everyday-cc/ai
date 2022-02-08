@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-07-the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up.md",
+      "title": "The Road To Maturity: Why It’s Finally Time For AI In CX To Grow Up",
+      "excerpt": "And we’ve seen some progress — from dial menus to interactive voice response solutions (IVRs) and AI-powered voice assistants. However, customer service today remains one of the most annoying automation applications when companies don’t implement it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/02/07/the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/02/07/the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/611c2798b4d111f994e1f282/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/02/07/the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/02/07/the-road-to-maturity-why-its-finally-time-for-ai-in-cx-to-grow-up/amp/",
+      "publishedDateTime": "2022-02-07T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-07-driving-value-in-your-supply-chain-with-robotics-and-automation.md",
+      "title": "Driving Value in Your Supply Chain With Robotics and Automation",
+      "excerpt": "Robots are capable of picking those individual pieces and ... By feeding the same data into artificial intelligence and business intelligence systems, companies can also track and predict demand and better understand customer purchasing intentions and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.supplychainbrain.com/articles/34509-driving-value-in-your-supply-chain-with-robotics-and-automation",
+      "originalUrl": "https://www.supplychainbrain.com/articles/34509-driving-value-in-your-supply-chain-with-robotics-and-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supplychainbrain.com/ext/resources/0-images/magazine-images/SCB-Nov-2021-SM.jpg?crop=1&height=348&t=1636504089&width=271",
+          "width": 271,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-07T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain",
+        "domain": "supplychainbrain.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-07-reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse.md",
+      "title": "Reliance’s Jio Platforms Invests In Deep Tech Startup Two Platforms, Betting On The Metaverse",
+      "excerpt": "a Silicon Valley-based deep tech startup, according to an announcement on Friday. “We are impressed with the strong experience and capabilities of the founding team at Two in the areas of AI/ML (artificial intelligence/machine learning), AR (artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/",
+      "originalUrl": "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62010289dd838e4b38b672f2/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/yessarrosendar/2022/02/07/reliances-jio-platforms-invests-in-deep-tech-startup-two-platforms-betting-on-the-metaverse/amp/",
+      "publishedDateTime": "2022-02-07T03:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-two-members-of-google-ethical-ai-research-group-left-the-company.md",
       "title": "Two Members Of Google Ethical AI Research Group Left The Company",
       "excerpt": "Last year, Timnit Gebru, a key person in AI ethics research, left Google. Gebru has now founded a nonprofit, and Hanna and Baker are joining him. They told Bloomberg that they could not cope with Google’s dismissals and preferred to continue working with ...",
@@ -1067,144 +1212,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-training-the-robot-scientist-to-synthesize-nanocrystals.md",
-      "title": "Training the Robot Scientist to Synthesize Nanocrystals",
-      "excerpt": "Image Credit: Georgy Shafeev/Shutterstock.com The Robotic Scientist framework is taught to fabricate gold nanocrystals by using multidisciplinary domains such as artificial intelligence, automated robotics, and big data. Data-guided development of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azonano.com/news.aspx?newsID=38638",
-      "originalUrl": "https://www.azonano.com/news.aspx?newsID=38638",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1otjdv2bf0507.cloudfront.net/images/news/ImageForNews_38638_16439817545231997.jpg",
-          "width": 1000,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azonano.com/amp/news.aspx?newsID=38638",
-      "cdnAmpWebUrl": "https://www-azonano-com.cdn.ampproject.org/c/s/www.azonano.com/amp/news.aspx?newsID=38638",
-      "publishedDateTime": "2022-02-04T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZoNano",
-        "domain": "azonano.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-startup-that-models-materials-at-atomic-level-raises-seed-capital.md",
-      "title": "Startup That Models Materials at Atomic Level Raises Seed Capital",
-      "excerpt": "San Francisco-based startup Mat3ra raised $3 million in seed funding led by Draper Associates for an AI-based platform that helps companies model new materials at the atomic level. Mat3ra, formerly known as Exabyte.io, will use the funding to accelerate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
-      "originalUrl": "https://www.wsj.com/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-479731/social",
-          "width": 1280,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/startup-that-models-materials-at-atomic-level-raises-seed-capital-11643976001",
-      "publishedDateTime": "2022-02-04T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-azure-machine-learning-webinar-recap-a-sneak-peek-at-the-process-and-possibilities-of-aml.md",
-      "title": "Azure Machine Learning Webinar recap: A sneak peek at the process and possibilities of AML",
-      "excerpt": "The AutoML option in AML studio is a quick and easy way to build models, primarily aimed at the citizen data scientist. All it requires is a dataset, and using the wizard to set up a few ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
-      "originalUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Webinar800X400-1643974854034.png ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/02/azure-machine-learning-webinar-sneak-peek-aml-process-possibilities/amp",
-      "publishedDateTime": "2022-02-04T03:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

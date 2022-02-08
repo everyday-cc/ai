@@ -2,6 +2,152 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-02-electric-sheep-turns-old-lawnmowers-into-robots.md",
+      "title": "Electric Sheep turns old lawnmowers into robots",
+      "excerpt": "A company that turns old lawn tech into state of the art robots got a big vote of confidence via major fundraising. Electric Sheep, whose name harkens to the Philip K. Dick novel upon which Blade Runner was based,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/electric-sheep-turns-old-lawnmowers-into-robots/",
+      "originalUrl": "https://www.zdnet.com/article/electric-sheep-turns-old-lawnmowers-into-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/50cd2f0335ec51b3848ec4da8142562e1997afe7/2022/01/31/b2d2f6d3-9281-43a6-b128-0c1004d57be6/electric-sheep.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/electric-sheep-turns-old-lawnmowers-into-robots/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/electric-sheep-turns-old-lawnmowers-into-robots/",
+      "publishedDateTime": "2022-02-02T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-five-fintech-predictions-for-2022.md",
+      "title": "Five Fintech Predictions For 2022",
+      "excerpt": "Automation solutions like robotic process automation (RPA) are ideal in increasing workplace efficiencies, while also eliminating cost-creating redundancies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/619bb0ad1e58e165649de1e8/0x0.jpg?format=jpg&width=1200&fit=bounds",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/02/five-fintech-predictions-for-2022/amp/",
+      "publishedDateTime": "2022-02-02T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-turkey-taps-artificial-intelligence-in-its-fight-against-wildfires.md",
+      "title": "Turkey taps artificial intelligence in its fight against wildfires",
+      "excerpt": "The Ministry of Agriculture and Forestry plans to implement artificial intelligence (AI) technology to tackle forest fires, which destroyed large swaths",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news",
+      "originalUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/02/02/thumbs/800x531/179522.jpg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news/amp",
+      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/turkey/turkey-taps-artificial-intelligence-in-its-fight-against-wildfires/news/amp",
+      "publishedDateTime": "2022-02-02T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sabah",
+        "domain": "dailysabah.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-deepmind-says-its-new-ai-coding-engine-is-as-good-as-an-average-human-programmer.md",
       "title": "DeepMind says its new AI coding engine is as good as an average human programmer",
       "excerpt": "DeepMind has created an AI system named AlphaCode that it says “writes computer programs at a competitive level.” The Alphabet subsidiary tested its system against coding challenges used in ...",
@@ -1037,144 +1183,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-here-come-the-underdogs-of-the-robot-olympics.md",
-      "title": "Here Come the Underdogs of the Robot Olympics",
-      "excerpt": "They’re meant to draw talent from beyond the hermetic world of military R&D and jump-start innovation on very hard problems ... and the software packages to power them, plus the AI to decide whether that black spot is solid ground or a precipitous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/",
-      "originalUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61f853d9a098d1434bc85a47/master/pass/2022_01_17_WIRED_DARPA_SubT_ROBOTS_206_FNL-FA.jpg",
-          "width": 2400,
-          "height": 1647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/darpa-challenge-robot-olympics-underdog/amp",
-      "publishedDateTime": "2022-02-01T03:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal.md",
-      "title": "No more facial recognition? Apple AirPods might be able to recognise the user by checking ear canal",
-      "excerpt": "In the latest development, Apple's AirPods will soon be able to verify a user's identity using the inside of the ear. This will be done using an in-ear biometric device that uses ultrasonic signals. These are then reflected against the walls of a user’s ear canal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524",
-      "originalUrl": "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/02/01/237668-fkcvp2px0aypkp.jpeg",
-          "width": 918,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp",
-      "cdnAmpWebUrl": "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/technology/no-more-facial-recognition-apple-airpods-might-be-able-to-recognise-the-user-by-checking-ear-canal-449524/amp",
-      "publishedDateTime": "2022-02-01T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WION",
-        "domain": "wionews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-artificial-intelligence-powers-ai-for-good-neural-network.md",
-      "title": "Artificial intelligence powers AI for Good ‘Neural Network’",
-      "excerpt": "ITU's AI for Good platform launches a new networking tool that uses artificial intelligence to match users, enabling them to build connections with innovators and experts, link innovative ideas with social impact opportunities,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itu.int/hub/2022/02/artificial-intelligence-ai-for-good-neural-network/",
-      "originalUrl": "https://www.itu.int/hub/2022/02/artificial-intelligence-ai-for-good-neural-network/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itu.int/hub/wp-content/uploads/sites/4/2022/02/AI-for-Good-social-network.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T01:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITU",
-        "domain": "itu.int",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

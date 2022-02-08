@@ -2,6 +2,163 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-01-16-data-users-demand-simple-actionable-insights-quickly.md",
+      "title": "Data users demand simple actionable insights quickly",
+      "excerpt": "Big data, cloud computing, and analytics bring tremendous power. To share that, we must provide simple, impactful insights to data users.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/16/data-users-demand-simple-actionable-insights-quickly/",
+      "originalUrl": "https://venturebeat.com/2022/01/16/data-users-demand-simple-actionable-insights-quickly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1321462048.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/16/data-users-demand-simple-actionable-insights-quickly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/data-users-demand-simple-actionable-insights-quickly/amp/",
+      "publishedDateTime": "2022-01-16T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-16-when-it-comes-to-health-care-ai-has-a-long-way-to-go.md",
+      "title": "When It Comes to Health Care, AI Has a Long Way to Go",
+      "excerpt": "Medical information is more complex and less available than the web data that many algorithms were trained on, so results can be misleading.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/",
+      "originalUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61e22d6b844ec857b7138306/master/pass/healthcare-ai.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/health-care-ai-long-way-to-go/amp",
+      "publishedDateTime": "2022-01-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-16-3-key-differences-between-ai-and-robotics.md",
+      "title": "3 Key Differences Between AI And Robotics",
+      "excerpt": "Despite having a few common elements, AI and robotics are not the same. To understand the difference between the two, one can imagine AI to be the brain and robots to be the body of artificially intelligent robots—the combination of AI and robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d670b81998bdcbce034eac%2F0x0.jpg",
+          "width": 1200,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/amp/",
+      "publishedDateTime": "2022-01-16T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-16-what-ai-could-be-like-when-you-plug-a-computer-into-your-brain.md",
       "title": "What AI could be like when you plug a computer into your brain",
       "excerpt": "Everyone expects a strong AI to be built by an engineer, but in reality, a doctor might be standing at the cradle of real AI.",
@@ -1053,144 +1210,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-can-ai-beat-the-market-10-stocks-to-watch.md",
-      "title": "Can AI Beat the Market? 10 Stocks to Watch",
-      "excerpt": "The company's AI algorithms analyze more than 900 fundamental, technical and sentiment data points per day for 1,000 U.S.-listed shares and 600 stocks listed in Europe. Danelfin says that in total, its AI predictive scoring capability churns through 10,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch",
-      "originalUrl": "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch?amp",
-      "publishedDateTime": "2022-01-14T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-labour-peers-ai-healthcare-firm-sensyne-says-cash-is-running-out.md",
-      "title": "Labour peer’s AI healthcare firm Sensyne says cash is running out",
-      "excerpt": "Data analytics company run by Paul Drayson says money could run out in weeks unless it finds emergency funding",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
-      "originalUrl": "https://www.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0df2065643f93ef32c4d73da6014a74bd3b8c764/0_72_2160_1296/master/2160.jpg?width=620&quality=85&auto=format&fit=max&s=b29e1cab3c4596aef467c022ebe84b22",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
-      "publishedDateTime": "2022-01-14T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions.md",
-      "title": "AI Weekly: What can AI tell us about social unrest, virus structures, and carbon emissions?",
-      "excerpt": "Predicting unrest and virus structures. Reducing emissions from planes using algorithms. That's a few of the headlines in AI this week.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/",
-      "originalUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/airplane.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/amp/",
-      "publishedDateTime": "2022-01-14T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
