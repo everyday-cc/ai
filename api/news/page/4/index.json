@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-03-renderedai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models.md",
+      "title": "Rendered.ai unveils Platform as a Service for creating synthetic data to train AI models",
+      "excerpt": "We caught up with Rendered.ai Founder and CEO Nathan Kundtz to learn more about the use cases the platform can serve, and how it works under the hood. Kundtz, a physicist by training, has a Ph.D. from Duke University. He also has previous startup ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
+      "originalUrl": "https://www.zdnet.com/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4993157a7ba74421497cfaaf09ab71832c3d89ae/2022/02/02/393bc13e-c1d9-4f5f-9353-98f020e58b03/rendered-ai.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rendered-ai-unveils-platform-as-a-service-for-creating-synthetic-data-to-train-ai-models/",
+      "publishedDateTime": "2022-02-03T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-deepmind-co-founder-plans-to-help-us-vc-firm-greylock-penetrate-europe.md",
       "title": "DeepMind co-founder plans to help U.S. VC firm Greylock penetrate Europe",
       "excerpt": "Greylock has profited from early bets on U.S. tech giants like Airbnb, Facebook and LinkedIn but it also wants to capitalize on fast-growing companies in Europe. DeepMind co-founder Mustafa Suleyman is planning to help U.S. venture capital firm Greylock ...",
@@ -834,19 +885,19 @@
     {
       "path": "_news/2022-02-03-coreweave-partners-with-eleutherai-novelai-to-make-open-source-ai-more-accessible.md",
       "title": "CoreWeave partners with EleutherAI & NovelAI to make open-source AI more accessible",
-      "excerpt": "a specialized cloud provider built for GPU-accelerated workloads, today announced the release of the largest publicly available language model in partnership with EleutherAI, a grassroots collective of researchers working to open source AI research.",
+      "excerpt": "CoreWeave, a specialized cloud provider built for GPU-accelerated workloads, today announced the release of the largest publicly available language model in partnership with EleutherAI, a grassroots collective of researchers working to open source AI research.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/coreweave-partners-with-eleutherai-novelai-to-make-open-source-ai-more-accessible/article_93a63060-52a1-5e77-8aec-ffff10b20238.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/coreweave-partners-with-eleutherai-novelai-to-make-open-source-ai-more-accessible/article_93a63060-52a1-5e77-8aec-ffff10b20238.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-coreweave-partners-with-eleutherai-novelai-make-open-source-/2022/02/02/9538211.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-coreweave-partners-with-eleutherai-novelai-make-open-source-/2022/02/02/9538211.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/c2/cc2e3d87-a505-5e62-bb84-2e0113a9640d/610c1287c9ddb.image.jpg?crop=1771%2C930%2C0%2C120&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1252145/CoreWeave_Logo.jpg",
+          "width": 400,
+          "height": 264,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -856,11 +907,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T10:07:00-08:00",
+      "publishedDateTime": "2022-02-02T10:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1166,57 +1217,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform.md",
-      "title": "HireEZ, formerly Hiretual, raises $26M to expand its AI-powered recruitment platform",
-      "excerpt": "HireEZ, formerly Hiretual, has raised $26 million in a funding round to expand its AI-powered tools for job candidate recruitment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/",
-      "originalUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-978531552-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/amp/",
-      "publishedDateTime": "2022-02-02T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

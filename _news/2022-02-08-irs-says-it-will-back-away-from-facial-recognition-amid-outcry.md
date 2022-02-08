@@ -664,6 +664,20 @@ related:
         width: 768
         height: 511
         isCached: true
+  - title: "IRS to end use of facial recognition to access tax accounts"
+    excerpt: "The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security. The transition from the ID."
+    publishedDateTime: 2022-02-08T20:43:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/irs-to-end-use-of-facial-recognition-to-access-tax-accounts/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 39
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=ebd87452-fb16-5381-8fee-9ccca13e0873&type=primary&q=72&width=1200"
+        width: 1200
+        height: 694
+        isCached: true
   - title: "The IRS backs down from facial recognition plan to verify identities"
     excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
     publishedDateTime: 2022-02-08T16:39:00Z
@@ -716,6 +730,20 @@ related:
       - url: "https://files.scmagazine.com/wp-content/uploads/2022/01/GettyImages-1137410589.jpg"
         width: 1500
         height: 900
+        isCached: true
+  - title: "IRS to End Use of Facial Recognition Tech to Verify Online Accounts; Sen. Ron Wyden Quoted"
+    excerpt: "Looking for the latest Government Contracting News? Read about IRS to End Use of Facial Recognition Tech to Verify Online Accounts; Sen. Ron Wyden Quoted."
+    publishedDateTime: 2022-02-08T22:01:00Z
+    webUrl: "https://executivegov.com/2022/02/irs-to-end-use-of-facial-recognition-tech-to-verify-online-accounts/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 29
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2022/02/08/9b/18/c0/f5/bb/72/8a/34/00P4y000011p6OsEAI.png"
+        width: 272
+        height: 270
         isCached: true
   - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."

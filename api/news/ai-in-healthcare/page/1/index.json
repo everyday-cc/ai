@@ -498,12 +498,12 @@
       ]
     },
     {
-      "path": "_news/2022-01-27-how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-19025-million-by-2028.md",
-      "title": "How Artificial Intelligence Will Boost the Cryptocurrency Market to Reach USD 1,902.5 Million by 2028",
-      "excerpt": "The global cryptocurrency market size is expected to gain momentum by reaching USD 1,902.5 million by 2028 while exhibiting",
+      "path": "_news/2022-01-27-artificial-intelligence-in-healthcare-market-size-worth-2082-billion-by-2030-grand-view-research-inc.md",
+      "title": "Artificial Intelligence In Healthcare Market Size Worth $208.2 Billion By 2030: Grand View Research, Inc.",
+      "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030, according to a new",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25252700/how-artificial-intelligence-will-boost-the-cryptocurrency-market-to-reach-usd-1-902-5-million-by-2",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/n25252533/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/n25252533/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research-",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -511,9 +511,9 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25252700",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25252700",
-      "publishedDateTime": "2022-01-27T01:23:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-27T01:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -527,51 +527,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-27-artificial-intelligence-in-healthcare-market-size-worth-2082-billion-by-2030-grand-view-research-inc.md",
-      "title": "Artificial Intelligence In Healthcare Market Size Worth $208.2 Billion By 2030: Grand View Research, Inc.",
-      "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030, according to a new report by",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research/article_0b3ff320-f08b-515f-a303-682b0f3f75c2.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-healthcare-market-size-worth-208-2-billion-by-2030-grand-view-research/article_0b3ff320-f08b-515f-a303-682b0f3f75c2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/c6/8c66b3a9-1b92-5bab-a37c-b539b9d30a53/6098f2b83f2d2.image.jpg?crop=810%2C425%2C295%2C0&resize=810%2C425&order=crop%2Cresize",
-          "width": 810,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T01:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1326,6 +1284,50 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-microsoft-forms-new-coalition-for-ai-in-healthcare.md",
+      "title": "Microsoft forms new coalition for AI in healthcare",
+      "excerpt": "Microsoft has created the Artificial Intelligence Industry Innovation Coalition (AI3C) to drive the use of artificial intelligence (AI) in healthcare by providing recommendations, tools and best practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyrecord.com/Article/microsoft-forms-new-coalition-for-ai-in-healthcare-128027",
+      "originalUrl": "https://www.healthleadersmedia.com/technology/microsoft-forms-new-coalition-ai-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 281,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10675/img-Microsoft_AI_healthcare_web.jpg",
+          "width": 940,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T11:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthLeaders Media",
+        "domain": "healthleadersmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Microsoft AI"
       ]
     }
   ],

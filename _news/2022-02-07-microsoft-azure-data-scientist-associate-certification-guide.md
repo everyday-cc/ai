@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/304352/microsoft-azure-data-scientist-as
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html/amp"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -111,6 +111,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?737093"
         width: 375
         height: 250
+        isCached: true
+  - title: "Have Sony And Microsoft Announced A Partnership?"
+    excerpt: "Is Sony Partnering With Discord? In 2022, Discord will become a part of the PlayStation Network in Japan and North America. Gaming is carried out by more than 140 million users on"
+    publishedDateTime: 2022-02-08T22:41:00Z
+    webUrl: "https://www.ictsd.org/have-sony-and-microsoft-announced-a-partnership/"
+    type: article
+    provider:
+      name: ICTSD
+      domain: ictsd.org
+    quality: 39
+    images:
+      - url: "https://cdnictsd.ictsd.org/have-sony-and-microsoft-announced-a-partnership-.jpg"
+        width: 626
+        height: 417
         isCached: true
 
 secured: "5H/T0RSXz2qCJ007CCy/fLdp8airhkFtikIce0+syx0+5dsospA2SfPApI3omQA7zC55945h+DswSrlIWQ0lAn9QWI6qqN9zlA9UMCFsZ8EKyNSl6pAXbYjOZJ4mq1G7E2DC2eTZ6HOjzMPOz3kQgnsLx41SpKyMR4HiH1uzmVBnGmRS4H9i7kc1v7d5Tw0RqiDV6TvTDDl0Rl7ypldh0lXeOkzxwD1PuNhlZoTGJ8r9aHAkVgZ7KME/Va3rzKfyTljazMz7IwtDTfb2jz7hSY10kHS+8+KhKQOE1id688ASKNxx3/6AsXlIjjFOlvAmUm8eTwZ/F0jmAw4rqAAhZVgYFLQpstlXeYdJmkBUVtbJOwzWHlS94cgp2xiL6VNEM5ZZ3tBkxfLHo/GM5jdMsFYZ3J47p72nAmIKlyeBl4bf+k2WO/veGi43hamiSWzHOZjrVUdsoZ48rP94JgIAavqG1n740tgiU976Cz4JNsi4aLqwIAzEMbCGfZLwXPDNVYXUfOqYnyBwOY7ukRlVOw==;sO1aId6PWInyOZnfhPtpSA=="

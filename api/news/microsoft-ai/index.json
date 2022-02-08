@@ -266,7 +266,7 @@
       "originalUrl": "https://www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -744,6 +744,49 @@
         "AI",
         "Computer Vision",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-the-phanerozoic-aftermath-of-the-cambrian-information-revolution-sensory-and-cognitive-complexity-in-marine-faunas.md",
+      "title": "The Phanerozoic aftermath of the Cambrian information revolution: sensory and cognitive complexity in marine faunas",
+      "excerpt": "Here, we compare cognitive complexity in Cambrian and post-Cambrian marine ecosystems, documenting changes in animal cognition after the initial Cambrian increase. In a comparison of Cambrian and post-Cambrian Lagerstätten, we find no strong trend in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/paleobiology/article/phanerozoic-aftermath-of-the-cambrian-information-revolution-sensory-and-cognitive-complexity-in-marine-faunas/12FE7A9C8455F3E12501FA51BF0C01B7",
+      "originalUrl": "https://www.cambridge.org/core/journals/paleobiology/article/phanerozoic-aftermath-of-the-cambrian-information-revolution-sensory-and-cognitive-complexity-in-marine-faunas/12FE7A9C8455F3E12501FA51BF0C01B7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.cambridge.org/covers/PAB_0_0_0/paleobiology.jpg?send-full-size-image=true",
+          "width": 1760,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-28T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1393,59 +1436,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model.md",
-      "title": "Microsoft will force update your PCs to Windows 10 21H2 to train its own ML Update model",
-      "excerpt": "Microsoft has begun the forced rollout of Windows 10 21H2 update to Windows 10 20H2 devices in order to help train its Machine Learning-assisted intelligent Windows Update rollout model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/06/1624557503_windows_10_21h2_pc_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-force-update-your-pcs-to-windows-10-21h2-to-train-its-own-ml-update-model/",
-      "publishedDateTime": "2022-01-21T07:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

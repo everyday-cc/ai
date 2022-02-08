@@ -2,6 +2,187 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-12-29-is-c3ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs.md",
+      "title": "Is C3.ai Stock Finally a Buy After an 85% Decline From Post-IPO Highs?",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips. Years ago, I watched an interview with Tom Siebel, founder and CEO of C3.ai (NYSE:AI). I was completely enamored wi",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs",
+      "originalUrl": "https://www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs?amp",
+      "publishedDateTime": "2021-12-29T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-bavards-conversational-ai-technology-now-powered-by-aws-for-better-partner-integrations-and-scalability.md",
+      "title": "Bavard's Conversational AI Technology Now Powered by AWS for Better Partner Integrations and Scalability",
+      "excerpt": "Bavard, a leading conversational AI provider offering businesses a better way to support and engage customers 24/7, is excited to announce many enhancements to its platform, including now being powered by Amazon Web Services (AWS),",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12670",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12670",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12670_16407596930316574.jpg",
+          "width": 350,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12670",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12670",
+      "publishedDateTime": "2021-12-28T22:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-ai-artificial-intelligence-is-transforming-the-future-of-healthcare.md",
+      "title": "AI (Artificial intelligence) is Transforming the Future of Healthcare!",
+      "excerpt": "Artificial intelligence is increasingly growing in popularity and the global artificial intelligence market size was valued at $27.23 Bn in 2019 & is projected to reach $266.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-artificial-intelligence-transforming-future-healthcare-br",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-artificial-intelligence-transforming-future-healthcare-br",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGSkm9ASislDg/article-cover_image-shrink_600_2000/0/1640758512769?e=1646870400&v=beta&t=cz6hDi7oBOypvWmBUl9dqA0zmdqZzPWH02PFg3-hEQY",
+          "width": 773,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T22:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time.md",
+      "title": "Chinese AI Giant SenseTime’s IPO Comes at a Bad Time",
+      "excerpt": "SenseTime has developed strong AI technology. Next, it needs to figure out how to make money from it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
+      "originalUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-456678/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
+      "publishedDateTime": "2021-12-28T21:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-indias-airtel-tcs-tap-robotics-to-build-5g-based-units.md",
       "title": "India's Airtel, TCS tap robotics to build 5G-based units",
       "excerpt": "Indian telecom operator Bharti Airtel and IT giant Tata Consultancy Services (TCS) have joined hands to build a 5G-based remote working technology using robotics. Both the companies are currently running the trials in Airtel's 5G lab at Manesar,",
@@ -961,196 +1142,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy.md",
-      "title": "Transforming Big Data Initiatives Into AI Insights: Board Directors And CEO’s Must Improve Their Digital Literacy",
-      "excerpt": "This blog focuses on strategies to transform enterprise data into strategic real-time AI driven insights, and outlines the requirements for Board Directors, CEOs and leadership teams to increase their data literacy management skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca1212809e5da36355466b%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/amp/",
-      "publishedDateTime": "2021-12-27T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-chinese-tech-company-baidu-says-artificial-intelligence-is-entering-a-golden-age-on-the-mainland.md",
-      "title": "Chinese tech company Baidu says artificial intelligence is entering a ‘golden age’ on the mainland",
-      "excerpt": "The company tells its annual developers’ conference, Baidu Create, that an expanding pool of talent is contributing to China’s AI development, with innovations in transportation, health care and space exploration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/presented/tech/topics/ai-china-brink-golden-age/article/3161249/chinese-tech-company-baidu-says",
-      "originalUrl": "https://www.scmp.com/presented/tech/topics/ai-china-brink-golden-age/article/3161249/chinese-tech-company-baidu-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/12/28/caae92d2-6785-11ec-b7f8-afe79af1793e_image_hires_140747.png?itok=lQzGPHlG&v=1640671694",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-heterogeneous-integration-chip-let-system-package-alliance-established-to-expand-market-opportunities.md",
-      "title": "Heterogeneous Integration Chip-let System Package Alliance Established to Expand Market Opportunities",
-      "excerpt": "In order to enhance critical capabilities of Taiwan's chip industry for this emerging market, the Department of Industrial Technology (DoIT), Ministry of Economic Affairs (MOEA), Taiwan, has supported ITRI to establish the Heterogeneous Integration Chip-let System Package Alliance (Hi-CHIP).",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/heterogeneous-integration-chip-let-system-package-alliance-established-to-expand-market-opportunities-1031067491",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/heterogeneous-integration-chip-let-system-package-alliance-established-to-expand-market-opportunities-1031067491",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1716890/Photo.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T21:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says.md",
-      "title": "Serious cognitive problems see abrupt drop among older people, study says",
-      "excerpt": "From 2008 to 2017, the percentage of adults ages 65 and older in the U.S. with serious cognitive issues dropped ... comment threads to stories from wire services such as the Associated Press ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/nation/serious-cognitive-problems-see-abrupt-drop-among-older-people-study-says/?amp=1",
-      "publishedDateTime": "2021-12-27T20:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

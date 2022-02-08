@@ -2,24 +2,24 @@
 category: news
 title: "Ai Weiwei helped design Beijing’s Olympic stadium. But he regrets how it’s being used today"
 excerpt: "As the Beijing Winter Olympics gets underway, artist Ai Weiwei is once again criticizing ... Olympic Charter and the organization’s code of ethics. “Given the diverse participation in the ..."
-publishedDateTime: 2022-02-04T13:47:00Z
-originalUrl: "https://ktvz.com/entertainment/cnn-style/2022/02/04/ai-weiwei-helped-design-beijings-olympic-stadium-but-he-regrets-how-its-being-used-today-3/"
-webUrl: "https://ktvz.com/entertainment/cnn-style/2022/02/04/ai-weiwei-helped-design-beijings-olympic-stadium-but-he-regrets-how-its-being-used-today-3/"
+publishedDateTime: 2022-02-04T14:00:00Z
+originalUrl: "https://kesq.com/entertainment/cnn-style/2022/02/04/ai-weiwei-helped-design-beijings-olympic-stadium-but-he-regrets-how-its-being-used-today-2/"
+webUrl: "https://kesq.com/entertainment/cnn-style/2022/02/04/ai-weiwei-helped-design-beijings-olympic-stadium-but-he-regrets-how-its-being-used-today-2/"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: KESQ News
+  domain: kesq.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2022/02/hypatia-h_20bc3886d6b780ed071131ea390b553d-h_4325c5147a3e40b6f29d52a467415dc5-300-scaled.jpg"
+  - url: "https://kesq.b-cdn.net/2022/02/hypatia-h_20bc3886d6b780ed071131ea390b553d-h_4325c5147a3e40b6f29d52a467415dc5-300-scaled.jpg"
     width: 2560
     height: 1715
     isCached: true
@@ -64,6 +64,6 @@ related:
       domain: myrtlebeachonline.com
     quality: 37
 
-secured: "kQK3+za8zb9CcR6mfU0kXHGI3x/SjVI0SontbyHkoAhtVYfbrgJHzgoX78zBvZ5t4PK6EOWu7DYjwBNKMW1k3s31q71H7pnsFZ0SO4GVLfPazT30FWNWOEC175BE3bJn8oLJZHyZvLlJxd70rkE47EU2woA8DDPo2yitvvxhB7eReT78lOWijnLMG5K9tvAcQKByQoovLxJ+INVJpqXs5r9NbOXhcyr88aXpRZ/AuQV96g8abPIRYBQkCAQZ3FNpFf8Hp1dj/faiLg5UVvt6UAILHgMyWujn0SOGwgC1Ap21EPvCUt705cAFiQQdkEEI+Tei9QCvCw60NPuM+wuNDZTGRPtJsIlsGrYNY2ifMHttRN6Ird0lCDel0TG2ErV4QFCQ4BHfAkKAov49gSYOZQ5rRDCQOgduhwjHo5t+Zp4o+ck3GCkTwmBtNa+9kYoQJvtLADV5IfvfoHwhqma46XYWhn7VuOpubCc3uRas06wGVHxIuP6Aa6oJKFlsUah7K8DJecufASTOrqL5MER1IQ==;ZjRIxjhreY+V7IPQ2Tt4+Q=="
+secured: "kKzxDv42ge02+rigEB+EIYn9K8GQu17tqsNSdD2F1GlBzBUan4Nk0SQ9pW9HzH2jo6QnPmjMWE5JgW0wcM8LuDgZGjtd3f/JfBkHzTrLB2y9/tTPPvfafzU50NJ6ddxOCaDrldAu0EszZLDjIy1fJy5UMNf9I21pmNtiJ/FBYsZ8Y+dwkjY+W/dhQy+emhbDuJXnGbyxkbDGvUbKrdcakeaKcITTFHGYJ1jiskhbX5Hs08ZegaKnNtIX/i2VMLAuV+XLCpLyU9mv5ENpKquCsy3I39eWXn8j0/DWRpzQt6bjhGM0uVQwvRpf+hdxYYvPXDwB2htwPGB1T89zR2/LKupAjHIE+14ahFRi45tow+k=;ApRwXwPImtJedEGnRk4D8A=="
 ---
 

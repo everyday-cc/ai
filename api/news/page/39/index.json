@@ -2,6 +2,197 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-01-05-top-programming-languages-this-coding-favourite-just-topped-the-list-again.md",
+      "title": "Top programming languages: This coding favourite just topped the list again",
+      "excerpt": "Software testing outfit Tiobe has awarded Python the programming language of the year for the second time in a row, thanks to the language's chops in machine learning. The award is given by the company to the programming language that has gained the highest increase in ratings in one year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
+      "originalUrl": "https://www.zdnet.com/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ed880a1e0528a648e5693bdc73c0784d0bc793de/2021/12/20/2ec0bbd4-46c3-430c-87b5-9aaf1dca5995/20211220-owen-beth-report.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
+      "publishedDateTime": "2022-01-05T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata.md",
+      "title": "Healthtech predicted to focus on AI and virtual care in 2022, with medical robotics not far behind: GlobalData",
+      "excerpt": "The tech has already got companies talking, as mentions of ‘AI’ within healthcare, pharma, and medical device company filings increased by over 50%, from 700 in 2018 to 1,100 in 2021, according to GlobalData’s Filings Analytics Database.",
+      "sourceUrl": null,
+      "webUrl": "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "originalUrl": "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/01/05162448/EH_healthtech_750.jpg",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "publishedDateTime": "2022-01-05T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "expresshealthcare",
+        "domain": "expresshealthcare.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-china-develops-an-ai-prosecutor-this-ai-powered-robot-is-your-new-desk-buddy.md",
+      "title": "🎯 China develops an AI prosecutor - This AI powered robot is your new desk buddy",
+      "excerpt": "Dear reader, I want to start off by saying happy 2022 🎉. Let's make this year the best one in the AI-transformation yet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/china-develops-ai-prosecutor-powered-robot-your-new-remy-gieling",
+      "originalUrl": "https://www.linkedin.com/pulse/china-develops-ai-prosecutor-powered-robot-your-new-remy-gieling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQEEY2SB1rqKtw/article-cover_image-shrink_720_1280/0/1641386434707?e=1648080000&v=beta&t=0fWWRLHB4HtIY3BHDi94ub-ojmlDCbOwXz_-PrshpnE",
+          "width": 1280,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-infiniq-reveals-ai-based-autonomous-driving-data-and-next-generation-retail-tech-at-ces-2022.md",
+      "title": "INFINIQ Reveals AI-based Autonomous Driving Data and Next-Generation Retail Tech at CES® 2022",
+      "excerpt": "INFINIQ, a leading artificial intelligence (AI) and autonomous driving data service company, unveiled its groundbreaking autonomous driving and retail innovation technology at",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/infiniq-reveals-ai-based-autonomous-driving-data-and-next-generation-retail-tech-at-ces-2022/article_f4e5d4d7-69b1-518f-b525-990c82fce1f4.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/infiniq-reveals-ai-based-autonomous-driving-data-and-next-generation-retail-tech-at-ces-2022/article_f4e5d4d7-69b1-518f-b525-990c82fce1f4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/0c/b0cbb410-ec9a-52f3-b874-766c6503e339/61d5a1623b457.image.jpg?crop=1280%2C672%2C0%2C54&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users.md",
       "title": "China reveals new algorithm rules to weaken platforms' control of users",
       "excerpt": "China’s apps have flourished thanks to their ability deliver videos, product offers, or stories perfectly tailored to their users. But the country’s first rules governing algorithms appear aimed at reining in tech giants’ ability to do that.",
@@ -1013,196 +1204,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-intels-mobileye-unveils-a-chip-that-could-bring-self-driving-cars-to-the-masses.md",
-      "title": "Intel's Mobileye unveils a chip that could bring self-driving cars to the masses",
-      "excerpt": "Self-driving car technology is currently limited to test programs and specialized vehicles, but Mobileye thinks it can play a key role in making driverless vehicles you can actually buy. The Intel-owned company has unveiled an EyeQ Ultra system-on-chip designed with consumer self-driving cars in mind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/intel-mobileye-eyeq-ultra-self-driving-car-chip-174343591.html",
-      "originalUrl": "https://www.engadget.com/intel-mobileye-eyeq-ultra-self-driving-car-chip-174343591.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-07/1f232f00-ea43-11eb-afab-432c0d85748b",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-ces-2022-hyperxs-new-wireless-gaming-headset-runs-for-300-hours.md",
-      "title": "CES 2022: HyperX's new wireless gaming headset runs for 300 hours",
-      "excerpt": "HyperX is no stranger to the gaming-headset space, having created some of the best gaming headsets of the last decade or so. Now the company has introduced the HyperX Cloud Alpha Wireless, which cuts the cord from the tried-and-true HyperX Cloud Alpha.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ces.tech/Logistics/Dates-and-Hours.aspx",
-      "originalUrl": "https://www.tomsguide.com/news/ces-2022-hyperx-cloud-alpha-wireless",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ces.tech/ces/media/topics/tech-good-nav_580x204.png?ext=.png",
-          "width": 580,
-          "height": 204,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-intel-launches-its-arc-graphics-chips-for-pc-gaming.md",
-      "title": "Intel launches its Arc graphics chips for PC gaming",
-      "excerpt": "Intel aims to disrupt the duopoly of Nvidia and Advanced Micro Devices with its own Arc standalone graphics chips launching today.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
-      "originalUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/intel-arch-7.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
-      "publishedDateTime": "2022-01-04T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-avantive-solutions-selects-hitachi-solutions-america-to-optimize-customer-experience-with-advanced-data-analytics.md",
-      "title": "Avantive Solutions Selects Hitachi Solutions America to Optimize Customer Experience with Advanced Data Analytics",
-      "excerpt": "Avantive Solutions, a global technology and business process outsourcer (BPO) specializing in innovative customer experience (CX), strategic sales, and digital marketing solutions, today announced a partnership with Hitachi Solutions America,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-7aac63e22000bab7cd3197f17ce76a83",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-7aac63e22000bab7cd3197f17ce76a83",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

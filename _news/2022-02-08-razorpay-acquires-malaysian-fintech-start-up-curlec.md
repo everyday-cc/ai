@@ -60,6 +60,22 @@ related:
         height: 682
         isCached: true
   - title: "10 Fintech Stocks To Own Until 2032 and Beyond"
+    excerpt: "While falling out of favor for now, in the long-term the 'digitalization of money' trend could send these 10 fintech stocks higher."
+    publishedDateTime: 2022-02-08T13:41:00Z
+    webUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/"
+    ampWebUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 44
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2022/02/fintech_1600_1065252818.png"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "10 Fintech Stocks To Own Until 2032 and Beyond"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It was one of the hottest sectors early last year. But since late 2021,"
     publishedDateTime: 2022-02-08T19:00:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/10-fintech-stocks-to-own-until-2032-and-beyond-1031173036"

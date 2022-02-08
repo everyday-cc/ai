@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "10 Fintech Stocks To Own Until 2032 and Beyond"
+    excerpt: "While falling out of favor for now, in the long-term the 'digitalization of money' trend could send these 10 fintech stocks higher."
+    publishedDateTime: 2022-02-08T13:41:00Z
+    webUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/"
+    ampWebUrl: "https://investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2022/02/10-fintech-stocks-to-own-until-2032-and-beyond/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 44
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2022/02/fintech_1600_1065252818.png"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Razorpay acquires Malaysian fintech start-up Curlec"
     excerpt: "Fintech unicorn Razorpay has expanded into South-East Asia with ... Prior to this, Razorpay has acquired TERA Finlabs, (AI-based risk tech SaaS Platform) in 2021, Opfin (Payroll & HR management solution) in 2019 and Thirdwatch (Fraud Analytics AI-platform ..."
     publishedDateTime: 2022-02-08T08:23:00Z
@@ -111,6 +127,6 @@ related:
         height: 337
         isCached: true
 
-secured: "QsTIZGcZOv2AnYeo2t8bzsLAYRYNdAMWcdGdxCgbKPiDtT9LSed4u+DoVYsljBt1UttdnAZiJRC4gRJUbuskIrUuabAXuyGycmenCJp22UtkbieyXhGd1ccrXZHAhswmZDh0bY/RLr0IQyCCEnKR8DCXWg3zkd2dbuwgAVz55XMV+NdPTVeTjv02EFkL2Cv8zCRIGpPIe8ABinQ85JYcvkKqdkJDizFssrPULEhveg/LjnZ9LtuScdH2Df9PUQ4acb3nXIYK+r40F81Uk5jY8ckPXj+5BY+R8wXsVxOHhpkuKgr4/ElHxGzjDRTSjxIBUqliQvEZZoSpyp3xHg1qpUiF80baVNl9U3bryqhI+hw=;PZtzypY6uDfRuGeP88tAaA=="
+secured: "2yWrOr2J2ygNNLQhPo+/NySMlDl9WMI1njgCVt1cW5y9bPz1R8ndZNekMhyshbcEf8U98Saw8jaXoVrNM8Pfr71oIZITxRCNSK9K9LTl49wKx+EzvOAPQ8avBj2zikT4xBK69/i/gqoXtfbjhLP99FW1Ueplu9tPJeskq6i1A7UHjRC8BObqprRCeLfwqYTU+NtFFW7VEtGIXQhuxklQ08j0OSwbfU29UdRByYnKwIEAd4S8SGc2bitQ+nqGF0rD7ERyWEYE8pkMPy5y4azw2CmLPejLg5G12kzujVC4nsX3YOzQzGNSsKrDDWmyuPGYYrKDubTJ/iWsg0GIXOC+ra6Wqg9s5YLjeQUPuHfmmfi8eXAbgWg8W0ncaMGFEftf/cgKXJMx7IFwOAd4r6DtfvOFufUBbg1qDhWO/5pYeAO9qx0GlUP1XLRuW+oQIK46Y76Jn2e7zMGzmWnqZNkpay7aCyhn/4/Tr8e+9+dcCoxs+jkqmy1f6OwS7b9ZhIbo7FyBcpk7gdhuMqtb2PAHKw==;gL9P1zgntM9OA9oOwGtQWA=="
 ---
 

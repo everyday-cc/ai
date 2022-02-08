@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-02-07-transform-basic-computing-skills-into-a-well-paid-aws-career-with-this-30-bundle.md",
+      "title": "Transform basic computing skills into a well-paid AWS career with this $30 bundle",
+      "excerpt": "Familiarity with Amazon's Virtual Private Cloud (VPC ... Get a twofer with \"AWS Machine Learning Using Python 2022\" and learn Python programming, as well as AWS Rekognition machine learning, with lots of hands-on instruction. Companies are actively ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/transform-your-basic-computing-skills-into-a-well-paid-aws-career-with-this-30-bundle/",
+      "originalUrl": "https://www.zdnet.com/article/transform-your-basic-computing-skills-into-a-well-paid-aws-career-with-this-30-bundle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f760b15569b817dd6f1387fe56a23050b4d4f3b1/2022/02/04/568cace0-c1e4-4fff-ae24-ad13b92da55f/zd-2022-aws.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/transform-your-basic-computing-skills-into-a-well-paid-aws-career-with-this-30-bundle/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/transform-your-basic-computing-skills-into-a-well-paid-aws-career-with-this-30-bundle/",
+      "publishedDateTime": "2022-02-07T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-how-an-ai-system-can-predict-critical-events-and-help-reduce-their-impact.md",
       "title": "How An AI System Can Predict Critical Events And Help Reduce Their Impact",
       "excerpt": "Over the last two years, we've experienced increasingly persistent and worsening critical events globally — catastrophic weather, civil unrest, the pandemic, cyberattacks. According to a Forrester study commissioned by my company, OnSolve, 99% of ...",
@@ -250,7 +302,7 @@
       "originalUrl": "https://www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1159,58 +1211,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-04-how-voice-technology-will-drive-business-communications-in-2022.md",
-      "title": "How Voice Technology Will Drive Business Communications In 2022",
-      "excerpt": "Driving the evolution of IoT and cybersecurity processes (i.e., antispoofing, authenticating users, etc.). Prevalence Of Automation Technologies that include robotic process automation, natural language processing and intelligent document processing will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/04/how-voice-technology-will-drive-business-communications-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/04/how-voice-technology-will-drive-business-communications-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f2b1ef295e725785a5bcf27/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/04/how-voice-technology-will-drive-business-communications-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/04/how-voice-technology-will-drive-business-communications-in-2022/amp/",
-      "publishedDateTime": "2022-02-04T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

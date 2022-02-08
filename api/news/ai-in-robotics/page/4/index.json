@@ -2,6 +2,106 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-06-can-ai-emulate-human-creativity.md",
+      "title": "Can AI Emulate Human Creativity?",
+      "excerpt": "AI has undoubtedly made a significant impact on human life but one aspect of it that still causes doubts is creativity. Some believe that creativity and AI cannot go hand in hand, but the truth remains that AI has already begun to take over creative tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/06/can-ai-emulate-human-creativity/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/06/can-ai-emulate-human-creativity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d2af1eea83aa1cf055465d%2F0x0.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/06/can-ai-emulate-human-creativity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/06/can-ai-emulate-human-creativity/amp/",
+      "publishedDateTime": "2022-01-06T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "AI stocks may be excellent long-term investments. The global artificial intelligence market is on track to hit more than $554 billion in total revenue by 2024, according to market researcher IDC.",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2022/01/artificial-intelligence-stocks-the-10-best-ai-companies-5/",
+      "originalUrl": "https://wtop.com/news/2022/01/artificial-intelligence-stocks-the-10-best-ai-companies-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "IBM AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you.md",
       "title": "John Deere and Naio robot tractor may be heading to a farm near you",
       "excerpt": "Venerable American farm equipment manufacturer John Deere and French agricultural robot start-up Naio debuted their latest innovations at the Consumer Electronics Show, which began Wednesday in Las Vegas.",
@@ -1297,92 +1397,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-massage-robotics-exhibiting-at-the-2022-ces-convention.md",
-      "title": "Massage Robotics Exhibiting at the 2022 CES Convention",
-      "excerpt": "From English to Mandarin users can control robot motion and force with their ... and technologies that excite the senses and inspire the mind. While user experience is our focus, 2X value creation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/massage-robotics-exhibiting-at-the-2022-ces-convention",
-      "originalUrl": "https://www.digitaljournal.com/pr/massage-robotics-exhibiting-at-the-2022-ces-convention",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1640823178.png",
-          "width": 1926,
-          "height": 1164,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-30T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-robotics-essential-to-the-oil-and-gas-industry.md",
-      "title": "Robotics essential to the oil and gas industry",
-      "excerpt": "Robot renting is expected to revolutionise the way oil & gas companies approach robotics, according to GlobalData.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/",
-      "originalUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dlgivnpf6gg8w.cloudfront.net/media/articles/pop/drone-tech-01.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/amp/",
-      "cdnAmpWebUrl": "https://www-hydrocarbonengineering-com.cdn.ampproject.org/c/s/www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/amp/",
-      "publishedDateTime": "2021-12-30T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hydrocarbon Engineering",
-        "domain": "hydrocarbonengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-02-hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform.md",
+      "title": "HireEZ, formerly Hiretual, raises $26M to expand its AI-powered recruitment platform",
+      "excerpt": "HireEZ, formerly Hiretual, has raised $26 million in a funding round to expand its AI-powered tools for job candidate recruitment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/",
+      "originalUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-978531552-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/hireez-formerly-hiretual-raises-26m-to-expand-its-ai-powered-recruitment-platform/amp/",
+      "publishedDateTime": "2022-02-02T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-the-rise-of-the-ai-enabled-practitioner.md",
       "title": "The Rise Of The AI-Enabled Practitioner",
       "excerpt": "A new role - AI-Enabled Practitioners will be needed as AI dominates all industries. What is an AI-Enabled Practitioner? Why is this needed? How can you become one?",
@@ -603,6 +654,49 @@
       ]
     },
     {
+      "path": "_news/2022-02-02-itu-unveils-ai-platform-to-hasten-community-development.md",
+      "title": "ITU unveils AI platform to hasten community development",
+      "excerpt": "yesterday launched an artificial intelligence (AI)-powered platform, which seeks to step up global collaboration on the use of AI to drive sustainable development. The AI for Good Neural Network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/G98YdMLYAp5qX2PD",
+      "originalUrl": "https://www.itweb.co.za/content/G98YdMLYAp5qX2PD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/_qZgaXhmHYeZHAWpsRhNWbcy1HhjmNHVH-1ME1AeEN4Ouobgg_8cHIaPvSncCsRtj2AWCBjlxCWu2yoIaTIMDGw=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/G98YdMLYAp5qX2PD",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLYAp5qX2PD",
+      "publishedDateTime": "2022-02-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-02-tesla-to-recall-nearly-54k-cars-which-could-threaten-future-of-full-self-driving-feature.md",
       "title": "Tesla to recall nearly 54K cars which could threaten future of Full Self Driving feature",
       "excerpt": "Tesla will have to recall close to 54,000 of its electric vehicles due to a feature called Rolling Stop which comes with the Full Self Driving premium package. The FSD is still in the Beta version.",
@@ -1095,92 +1189,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-meta-unveils-ai-supercomputer-for-the-metaverse.md",
-      "title": "Meta Unveils AI Supercomputer for the Metaverse",
-      "excerpt": "analyze text and translate between languages. AI supercomputers are built by combining multiple GPUs into compute nodes, which are then connected by a high-performance network fabric to allow fast ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/02/meta-metaverse-ai-supercomputer/",
-      "originalUrl": "https://www.infoq.com/news/2022/02/meta-metaverse-ai-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/02/meta-metaverse-ai-supercomputer/en/headerimage/generatedHeaderImage-1643680488197.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-01T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-01-government-agencies-are-tapping-a-facial-recognition-company-to-prove.md",
-      "title": "Government agencies are tapping a facial recognition company to prove...",
-      "excerpt": "James Hendler, Rensselaer Polytechnic Institute (THE CONVERSATION) The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.greenwichtime.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php",
-      "originalUrl": "https://www.greenwichtime.com/news/article/Government-agencies-are-tapping-a-facial-16821583.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php",
-      "cdnAmpWebUrl": "https://www-greenwichtime-com.cdn.ampproject.org/c/s/www.greenwichtime.com/news/amp/Government-agencies-are-tapping-a-facial-16821583.php",
-      "publishedDateTime": "2022-02-01T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Greenwich Time",
-        "domain": "greenwichtime.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
