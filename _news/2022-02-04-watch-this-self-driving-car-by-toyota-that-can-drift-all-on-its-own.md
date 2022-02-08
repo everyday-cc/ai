@@ -19,22 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Toyota built an autonomous self-drifting sports car"
-    excerpt: "The automaker has built a Supra sports car with the capability of performing drift racing-style driving on a track. The project is a collaboration between the Toyota Research Institute and Stanford University's Dynamic Design Lab, which has previously ..."
-    publishedDateTime: 2022-02-03T18:20:00Z
-    webUrl: "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car"
-    ampWebUrl: "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp"
+  - title: "Self-Driving Freight Deliveries to Begin in Arizona This Spring"
+    excerpt: "These driver-out demonstrations aim to prove that TuSimple's artificial intelligence autonomous driving technology ... in a statement. In the self-driving technology world, there are five levels of autonomy. At Level 4, no human is required to be in ..."
+    publishedDateTime: 2022-02-03T21:26:00Z
+    webUrl: "https://www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring"
+    ampWebUrl: "https://www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring?_amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 74
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/02/720/405/supra.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
-        isCached: true
+      name: Governing
+      domain: governing.com
+    quality: 24
 
 secured: "NYtjSXwlWlmK/3nSvgylYbmKDnlxHKKJaWQr5LZS0oMSkEJsL/+/1xgz68TJWxfq4ToKWih+WGjF+Rn+reFqxT/8m68+YaZcQdMK4kzQhyOFg+Zc8qivwIVnjviTzxJnqscENubxR3OxyIUgKPdW5GRJeS+wiYq/0WxTsLvDe4HRDG6HHAO6rMB1iupOhXapnKlzZlejrWRVrkYtHlmop3l6xVdauogjNVXGrUqBPRPrCfKj1Wshkve9XCrqBGVxou7hAwiw4iMLFVe8RgiFn2p+V8o/LRbEjBqqvYg1r5NoXXqFCPD6kQsqfBl2YmV2oaa2wXbpzDrX0EvMR9r1pMXNqk5Cb7HNFc3mpEwbdyI=;y5Izo6DiA5HTVZHpwqjZPA=="
 ---

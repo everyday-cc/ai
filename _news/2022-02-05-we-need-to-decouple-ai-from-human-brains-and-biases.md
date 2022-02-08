@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-
 webUrl: "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-biases"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Human brain's secret to learning as hardware for AI"
-    excerpt: "As companies use more and more data to improve how AI recognizes images, learns languages and carries out other complex tasks, a paper published in Science this week shows a way that computer chips could dynamically rewire themselves to take in new data ..."
-    publishedDateTime: 2022-02-05T17:06:00Z
-    webUrl: "https://www.manilatimes.net/2022/02/06/business/sunday-business-it/human-brains-secret-to-learning-as-hardware-for-ai/1831963"
-    ampWebUrl: "https://www.manilatimes.net/2022/02/06/business/sunday-business-it/human-brains-secret-to-learning-as-hardware-for-ai/1831963/amp"
-    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/02/06/business/sunday-business-it/human-brains-secret-to-learning-as-hardware-for-ai/1831963/amp"
-    type: article
-    provider:
-      name: The Manila Times
-      domain: manilatimes.net
-    quality: 39
 
 secured: "d+Tvmm+xCxpRXEzXRb+XHqDkifipeRvojrY/GQUtSPWaNkk2cta45MmogI4NSqs7TaDbPTN24xWrEJflt7HYMO5PD9bo56w03ZhVKn2wzRwtzODmG5WBbtEzZF6zlWyoqu0nSgr/XE8qJsQYf0bOAVsUOEF2hoeN2CPB1uy8CJMZ45BS+hiHnHh1EJdrPrluX2DbaXMhlJD5t61FdxJly/qlQGcibnCjB8n6xIdyGQUjjOPM2yrQ+nz0nQ+SqHfVLfmG2xhKcAvgDY7tN27OpZYdSJ9moLPM2IXyj1zLzcKcpLeKxg+XEpkWAzLgp/bTvNA5I5ukEOTmWNa3gc/mnoGCH9qecO2f3Ho50sEhoc/+a3HBZD8OaxX4VxYFWo0aZWorHiPtx8v9Np5JK5le919dNT/la/NfLZVh4Tim/w1kOy6HyV7Zi0OstU0WDaUiNCIMLp+qsc6YpbiFArn0jkDtyjZGgcv90JIM2bp6vfTg/nJO60XmoRmPmX/lRchUhcaQ+iFIvfmSlKM8TkSNyA==;QpBy2E95TDbcCWKEVUM5AA=="
 ---

@@ -21,20 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "We need to decouple AI from human brains and biases"
-    excerpt: "Hardly a decade later, these same scientists contributed to dramatic breakthroughs in robotics, natural language processing, and computer vision. Although a lot of time has passed since then ..."
-    publishedDateTime: 2022-02-05T15:32:00Z
-    webUrl: "https://thenextweb.com/news/we-need-decouple-ai-from-human-brains-biases"
+  - title: "Data integration remains essential for AI and machine learning"
+    excerpt: "The nature of human consciousness has so far evaded all, from philosophers to neuroscientists. It should therefore be of no surprise that the artificial intelligence (AI) that we can currently build is limited to more basic pattern recognition within sets ..."
+    publishedDateTime: 2022-02-08T10:23:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning"
+    ampWebUrl: "https://www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning?amp=1"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 74
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FBrainAi-CALLUM-EDIT.jpg&signature=cd986f4c8514cb750531f05dae512116"
-        width: 1280
-        height: 640
+      - url: "https://www.computerweekly.com/rms/onlineimages/ai_a279596285.jpg"
+        width: 1200
+        height: 400
         isCached: true
+  - title: "Study reveals brain's life-long learning may now become hardware for AI"
+    excerpt: "A new study has found a way that computer chips could dynamically rewire themselves to take in new data like the brain does, helping AI to keep learning over time. The study has been published in ..."
+    publishedDateTime: 2022-02-04T11:25:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220204/3903900.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "dwJob6NJ7SZIZCgZhLXwedP2ZM8dadXpDkHexlPsBzM1UmK0BYYfN4Vg1Zp7wErUQfjhHVq1jMYlkkQXix4EmmWsiEnCxTxTP6vUundiMm+9sSKmSv234oOsPIDvFqs17rUiLf2REqSW9U7nab49WVIJruPC/xeCuRg71T+jUVKpmardRCFxI9YHSHyiFDXlzn6AtCWzZ220wlBO/rOjR7ZMtARN2ye8aMni2cj+HwfganHTevFkiYv2sE45cMMqfn++wg9Z8lyTMzR3HIfLdQUaKWvbPzUhWd36LSx0dAAVhvisBV9b5Fy551VhllKxTDlZsxc4Ofim/+Yx23SBtv3it1LB3DQMvVCLSCB9EP0=;nW8AcscN3Nw2UDAy16uH2A=="
 ---

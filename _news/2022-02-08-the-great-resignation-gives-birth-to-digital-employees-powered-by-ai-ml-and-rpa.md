@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/07/the-great-resignation-gives-birth
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/amp/"
 type: article
 quality: 99
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "AI may be the mental health solution your employees need"
+    excerpt: "“As more people have moved remote, organizations have begun to realize that they need to support employees and understand how well their support is working,” says Jo Aggarwal, CEO of Wysa, an AI-driven behavioral health platform. “And I think ..."
+    publishedDateTime: 2022-02-08T10:35:00Z
+    webUrl: "https://www.benefitnews.com/news/ai-can-help-employees-with-their-mental-health"
+    type: article
+    provider:
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/e5c506e/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc7%2F86%2Fae58fcc1423eb559b323b66292c4%2Fpexels-charlotte-may-5965635.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9O9nUyoF1YpEzsgvx14oogFqSAzDCaEjsNcYPpOYP3oIjCC6qjKgU1GwmaAMLN9Pfg8VsK69uo8dA1Xpcu35Wg+w4Id5sm0EGec8nwbxDctJFLcWfnNyHn8aFQqqTABc0kKbdPz5vu53YUgKJlYBvvgwid/H4jOlMTbnwDbIU8z87VALEwrMxJRxsAB9fQ7PnJaiZ1Db5IeKg8bbDHcrHIhXaPqRfF7eyJMey/ivmKQVkufvOWLjxTTsp9PcsjT4ggr46PjA0nd8DaXX1bmy1eivNzKFLgyh52NYHi+AL1RvUFXCLDPSqWWRH28SHXyofKnCn54jwz8BHffwkNZ0CzvQAriQlVYYiywydRIWdHEnzZBBF4xzrCs38Qg6aZTg6uZAIzj/HNX21O8ETQmpM/S2uOasmT69EAFg9cl/ge5y6XtfWD/7v7WXfYaMSwMMFsZUnPOtdC6tXO8I6Q9yYiD+f5GbCGDWHCC0fMiuyjquIN0gP5FjeTER3BOqwacsyfbojeohbijeF+Kudjpvfg==;+4z3nYmPOCOwsN09qfRPng=="
 ---

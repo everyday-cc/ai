@@ -1,26 +1,26 @@
 ---
 category: news
 title: "CoreWeave partners with EleutherAI & NovelAI to make open-source AI more accessible"
-excerpt: "a specialized cloud provider built for GPU-accelerated workloads, today announced the release of the largest publicly available language model in partnership with EleutherAI, a grassroots collective of researchers working to open source AI research."
-publishedDateTime: 2022-02-02T18:07:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/coreweave-partners-with-eleutherai-novelai-to-make-open-source-ai-more-accessible/article_93a63060-52a1-5e77-8aec-ffff10b20238.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/coreweave-partners-with-eleutherai-novelai-to-make-open-source-ai-more-accessible/article_93a63060-52a1-5e77-8aec-ffff10b20238.html"
+excerpt: "CoreWeave, a specialized cloud provider built for GPU-accelerated workloads, today announced the release of the largest publicly available language model in partnership with EleutherAI, a grassroots collective of researchers working to open source AI research."
+publishedDateTime: 2022-02-02T18:02:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-coreweave-partners-with-eleutherai-novelai-make-open-source-/2022/02/02/9538211.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-coreweave-partners-with-eleutherai-novelai-make-open-source-/2022/02/02/9538211.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/c2/cc2e3d87-a505-5e62-bb84-2e0113a9640d/610c1287c9ddb.image.jpg?crop=1771%2C930%2C0%2C120&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1252145/CoreWeave_Logo.jpg"
+    width: 400
+    height: 264
     isCached: true
 
-secured: "5f+z8oz12HnFl7gvxO6tRUDB9ECsMXIJb7btFCsc7aBmDqLeHk0t52Zkfso2pfbjIvwYLgiaOaWCYQtsDsjxC9bWelQd4IRH4CVPgSeT8DsOg25DkPWR3IKKWTZmQcTUcrebgci3oHSMw7mNosk65usD0UDKqIZFHBZOMsPSHuGCKFgHGOFD87Kme2eERAkqaffIMgPBWDlbaCPU2AZJL4Dzv8Ifli1U9MZdKTFv8Q/y5ZKNf5nlKXP25pR+AthHnWIU8Z6PVX5C1J/7J2athRE9AGmrZ7p1XbGAFuP80PbYiRz6akFisQCKwfOXp9bAYEMLx1FxtUfxcIlLtsctHgr9petgG+RlQGcPxxdjk10vPJFfvBpx4UPDTrJ6QtIv5mF6EwD0otNukmGFJGEy/A1dWUlmn08voeog3LqU6PfiIfafxbFdHkzXW6svyVO2ZldLinj22K+rk68ZWHuze51KwCvojEHyYAOXcqqOYfKZiEAwjYGdY167DQuMVoRhQJZpOcvRU/IMLVb98vOwAw==;4PJmh8oY37fp7HwkVx8mtg=="
+secured: "wOS8h6dQrWee+v5oNN9WMh7I2Nx+zbB35jCD4GLc3mejUBAaHhXHazA0+qYga++tx+TtIv5LUl9w+eF08ho0sYwuBtdjb3LfgxasgXeLUBL+hegozjN45XM3Tv1k1C3fG7sXSlowiO8aQKmrFxq45CXtuixwATyOPOo8gKfAVCGwmvBvXZUZsbendK+NAwH4n0V22vezGHV7JimN0VCFHN9zP65XeMfjGh/Ao6ya4Mnz6xcY82X3m9s5gob8aSriMLy1AM3dMFMtm+kHUxN2rhEETrnDq2G1WlxhpCFV7lLOufbgMWHX1DcHTsEBKHEJEMaC/ziSY2oQmy+OBzYLHBuhJQyrAkxAtanCLiKUJ/8=;Fw27isjzkc5112R7m/UIyQ=="
 ---
 

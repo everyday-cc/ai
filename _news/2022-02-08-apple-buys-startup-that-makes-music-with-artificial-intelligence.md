@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Apple Buys Startup That Makes Music With Artificial Intelligence"
-excerpt: "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be used across its slate of audio offerings. The purchase of AI ..."
-publishedDateTime: 2022-02-08T06:03:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2022-02-07/apple-buys-startup-that-makes-music-with-artificial-intelligence"
-webUrl: "https://www.bloomberg.com/news/articles/2022-02-07/apple-buys-startup-that-makes-music-with-artificial-intelligence"
+title: "Apple buys startup that makes music with artificial intelligence"
+excerpt: "Apple Inc. has acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be used across its slate of audio offerings. The purchase of ..."
+publishedDateTime: 2022-02-08T09:11:00Z
+originalUrl: "https://www.japantimes.co.jp/news/2022/02/08/business/tech/apple-music-artificial-intelligence/"
+webUrl: "https://www.japantimes.co.jp/news/2022/02/08/business/tech/apple-music-artificial-intelligence/"
 type: article
-quality: 67
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Japan Times
+  domain: japantimes.co.jp
 
 topics:
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5lliAQo0yVI/v0/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "https://cdn-japantimes.com/wp-content/uploads/2022/02/np_file_139882-870x489.jpeg"
+    width: 870
+    height: 489
     isCached: true
 
 related:
@@ -160,6 +156,6 @@ related:
         height: 942
         isCached: true
 
-secured: "Gj7CdDm5RdRbhXJgmaH8OMTBs4vHstyjkNMqeELwVLoxO5MRiLVrrDSj/b2tAa3m/kQi7SmTuzTmGwGeReS2Q1dGG4yEenDCvMt3jw7t6qZ8Xan+JfNkTKEUdBL9sciSEzBj4EBhytzd1ugF4NjJF8ST9tUDxlAmIBs4WJ4J/gAYw+ycBRHb0ne2W8gvHS7ew7ADWhquC/CpQaiORx7kS6YtveoEGUxkOxClRtV3q04pSbGpy+9v2qWop2/pvfRAj55f9S3UEd6PReMqj0vUFG+frE+FsgKediXx9agp0xkXtwCQ5ZWQgw9zbMioCwdyZfIcG3KfqLu7gyQSQ2SXE/+ON8YGSi8msmFgyMH4s6E=;JzxLaSl6Hd7Jn/2GkCUCUg=="
+secured: "mAbHQY5u99oJ4TVEVmrEzuNwiH8LTtH8icLTPh6ubZSLLRkM3UXvUowepuicZaeAXx/BwCbgtNlp5O7UushdIoK7V/trjqsdV64/g1IXi/Ivr0ud4DMOLr9cMk//rb2qxmgDKju6QHiWkUX6r/6jq/m6aGSd3Mp1Mp03+nLdAp386YKXeZC5sECCqHmUyDdTO/gAczPhQgnFwW/OBK4VUcOwUTid7ub4CbQQaGGvgI2LgYa3nkg3H9quFYZxomG+qdoPT5dvNUykVBy1rDW0pjvgxvk2/5ZzbFEZZx1bROzxpxT5yAkZVZi4lwH9o/YxF7gXPbPa8yZ4oLDTXo9mjlZQ+I6eFY6QTyERod/yFUM=;SzOXuVyaESjT9/STfhZSJQ=="
 ---
 

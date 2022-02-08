@@ -25,22 +25,6 @@ images:
 
 related:
   - title: "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times"
-    excerpt: "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights."
-    publishedDateTime: 2022-02-03T17:40:00Z
-    webUrl: "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050"
-    ampWebUrl: "https://jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/a-new-artificial-intelligence-traffic-light-could-help-1848475050/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 52
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d5cda2e76ce28a417dd3047a1d3ffed6.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "A New Artificial Intelligence Traffic Light Could Help Shorten Your Commute Times"
     excerpt: "Ask any nerd and they’ll say artificial intelligence is taking over. That may not always be for the best, but finally it seems the tech is being put to good use – in traffic lights. A new study out of Germany says having traffic lights use AI ..."
     publishedDateTime: 2022-02-05T02:02:00Z
     webUrl: "https://www.gizmodo.com.au/2022/02/a-new-artificial-intelligence-traffic-light-could-help-shorten-your-commute-times/"

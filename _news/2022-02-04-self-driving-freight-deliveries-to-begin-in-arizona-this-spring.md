@@ -20,6 +20,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Watch this self-driving car by Toyota that can drift all on its own"
+    excerpt: "The TRI states that the objective of its work is to make autonomous vehicles more capable, and therefore safer, in scenarios such as driving on black ice or avoiding sudden obstacles. \"At TRI, our goal is to use advanced technologies that augment and ..."
+    publishedDateTime: 2022-02-04T10:22:00Z
+    webUrl: "https://www.tweaktown.com/news/84400/watch-this-self-driving-car-by-toyota-that-can-drift-all-on-its-own/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 4
+
 secured: "Y+x627SvbKNdCc8M7FVrCw6QyK6fdZHSe+o0S09yNZxNF1rwJGV5ASjQ6Raar9EI0XgDoT+2JK+koJpMQTMZA1My87PK0HzAfiA/p5OjLsoEcM8Zi5mWVTas5HcFrA5LfdkzYVR9WQ1Dw4708bDRr+ovMrzYuscenkbze12VcsMvkanOlkRla6lnuLcT1cNP+wBfEYS1sB2X1AHO95NFanBeTLHPF09kb0uVQuwzsPvs31iyXKJQXh/nAnb0DZxtH/1mN2jvD+BCPfewyywF35z0Rwre2czmCN9xyGuKcAB3UZPh8LPeizXzBRPAuE7weBPOyWZG0YaviFbTLfKK8tmTYcseKc4luIIOUzOCzBQ=;rbo+PUlj56x66VANp6vkQw=="
 ---
 

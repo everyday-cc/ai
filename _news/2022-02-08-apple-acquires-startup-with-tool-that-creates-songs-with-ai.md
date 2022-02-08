@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 714
         isCached: true
-  - title: "Apple Buys Startup That Makes Music With Artificial Intelligence"
-    excerpt: "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be used across its slate of audio offerings. The purchase of AI ..."
-    publishedDateTime: 2022-02-08T06:03:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-02-07/apple-buys-startup-that-makes-music-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5lliAQo0yVI/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Apple Has Bought a Startup That Uses AI to Make Music to Fit Your Mood"
     excerpt: "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be ..."
     publishedDateTime: 2022-02-08T04:02:00Z
@@ -141,6 +127,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 37
+  - title: "Apple buys startup that makes music with artificial intelligence"
+    excerpt: "Apple Inc. has acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be used across its slate of audio offerings. The purchase of ..."
+    publishedDateTime: 2022-02-08T09:11:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2022/02/08/business/tech/apple-music-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Japan Times
+      domain: japantimes.co.jp
+    quality: 37
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/02/np_file_139882-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
   - title: "Apple reportedly acquires UK startup AI Music"
     excerpt: "Apple Inc. has reportedly acquired AI Music, a startup that uses artificial intelligence to create tailor-made music. As is typical with companies that Apple acquires, there is no official ..."
     publishedDateTime: 2022-02-08T03:58:00Z

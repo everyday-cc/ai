@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Razorpay acquires Malaysia's fintech start-up Curlec"
+    excerpt: "Curlec currently works with hundreds of businesses across Malaysia, including the insurance company AXA, fintech lending firm Funding Societies ... Prior to this, Razorpay acquired TERA Finlabs, (AI-based risk tech SaaS Platform) in 2021, Opfin (Payroll ..."
+    publishedDateTime: 2022-02-08T10:26:00Z
+    webUrl: "https://www.newindianexpress.com/business/2022/feb/08/razorpay-acquires-malaysias-fintech-start-up-curlec-2416889.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2022/feb/08/razorpay-acquires-malaysias-fintech-start-up-curlec-2416889.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/feb/08/razorpay-acquires-malaysias-fintech-start-up-curlec-2416889.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 44
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/7/19/w600X390/Razorpay.jpg"
+        width: 600
+        height: 390
+        isCached: true
+  - title: "Razorpay to acquire Malaysian fintech Curlec at $20 mn valuation"
+    excerpt: "The acquisition will mark the beginning of Razorpay's global expansion plans. After Malaysia, the startup is eyeing other Southeast Asian markets including Indonesia, the Philippines and Vietnam."
+    publishedDateTime: 2022-02-08T08:22:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/startup/razorpay-to-acquire-malaysian-fintech-curlec-at-20-mn-valuation-8057361.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/razorpay-to-acquire-malaysian-fintech-curlec-at-20-mn-valuation-8057361.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/razorpay-to-acquire-malaysian-fintech-curlec-at-20-mn-valuation-8057361.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/12/Razorpay-Founders-Harshil-Mathur-Shashank-Kumar-112-539x435.jpeg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
   - title: "Razorpay buys majority stake in Malaysia-based fintech Curlec"
     excerpt: "Curlec claims to be working with many businesses such as AXA, fintech lending firm Funding Societies ... an artificial intelligence (AI)-based risk tech SaaS (software-as-a-service) platform last year. The company also acquired Opfin, a payroll and ..."
     publishedDateTime: 2022-02-08T08:43:00Z
@@ -56,6 +88,6 @@ related:
         height: 225
         isCached: true
 
-secured: "fnT/RGMscTaJI/BHYs6qorw7eDGavaojhrqQkcm3eOaB/mXq6t7SWPw2bSG3UO6+WZswl8RM4GD/dh31NxMSRuf8mJBQWr2qCNd2djFdJQNCU8pXWduDWTkr2QWufXihm8ZnQu/rHFAx7a8zjM1QH/1pZM6B0xzAIcuySskNTm86O5RrqIV8OTLu2To0o78Es8xEXUw6c6CiA947gHARIPHoJV7Tfwlw4EeXKS6z868rWcIruyigog3tlpVLM8f7oW4a15xuf8tYAupFnMlGr4OeewBnyCYYi/z61pZUD49P0TzF2UWH8Kt5qLD85qSncXPwc1e04+dkVf0KpAiyfAA15ygAaDAnMByc59b+A3U=;Ba0AzGWpyEUMW1/+JY8FGw=="
+secured: "MoMwF1CFX5CdqMZdUO4Zc/bJIW+SeGShfvTyiLNpuDWO8OMEwNFgxdyis7DjXDjcZuo9wW3spQmAxjByzZsc/6gu5qs1T/2YNmwiBXPRKaWXT+0u936Zhecv69PX1fky/kN/v35GCTNEUVzh23qlna54MOMaklghlm+kNT4ppGxVPoEwsx8qKAdg16cqO0V230rBi7+KbBRo3Pp0yDKt0vixn4JTVEu8tB+T+1W0tbp7gsgwIxMYrpUPvrTX+OYtaWTkoSCEhD/iasFBTKyoLJ3BY6tOEEaSJyI2rBc22oYW1nkdU0cb00Rt64ZdMpiPstc4VwmL1RHd4h2ejiGdEumPqn5rPIjsycfcVTqngtKhuU6lIikSeCE2o1yQiy3B/hmmGJX1ueTu3q7fksrs/bxHfj98j2iuZR9qf8JBzN/5yCZoXzMY2ich85DKbZgDtrU+hPb0kOzBLNLvUS/eXblSMEt44X6yaDbs9EnctxRlel37T6YWMruUqDi/4VuKeIFbE33Df2eDsbouh17TAw==;Y4IFcRL15yPKEoS8HdEH0w=="
 ---
 

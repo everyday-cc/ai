@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Facebook Parent Meta Creates Powerful AI Supercomputer"
-excerpt: "Facebook's parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
-publishedDateTime: 2022-01-25T16:13:00Z
-originalUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer"
-webUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer"
-ampWebUrl: "https://cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
-cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/facebook-parent-meta-creates-powerful-ai-supercomputer.amp"
+title: "Facebook parent Meta creates powerful AI supercomputer"
+excerpt: "Facebook’s parent company Meta says it has created what it believes is among the fastest artificial intelligence supercomputers running today."
+publishedDateTime: 2022-01-25T21:07:00Z
+originalUrl: "https://www.modbee.com/news/business/article257671783.html"
+webUrl: "https://www.modbee.com/news/business/article257671783.html"
+ampWebUrl: "https://amp.modbee.com/news/business/article257671783.html"
+cdnAmpWebUrl: "https://amp-modbee-com.cdn.ampproject.org/c/s/amp.modbee.com/news/business/article257671783.html"
 type: article
 
 provider:
-  name: Cheddar
-  domain: cheddar.com
+  name: Modesto Bee
+  domain: modbee.com
 
 topics:
-  - Facebook AI
+  - Natural Language Processing
   - AI
 
-images:
-  - url: "https://img.chdrstatic.com/media/85c6e7bd-ac1f-49b6-9a01-b21a20453acf.jpg?width=1200&source=backend&auto=webp"
-    width: 1200
-    height: 800
-    isCached: true
-
-secured: "5FbdxJueVQCBNjWM2QRewzkU2jgIr+gW+1PkaEnpjLmRqDyD4MUrocr8C62qeeqjJGi8kFyNVbOJ/+0lrRdBcib+gwu1Aje3rpKjX3bvkcAFo53pcNXV3c05sKfP/HRXos9F8yJorz/R8vffQEIKSMorEJ+Rigj6AzP8rNN+oXKXb1E5vHzpwax4GgrEojf90ljmEiKmlseCNGctw+Hc9J8eAgu430EQ0i4Doan9b2FE4oPttvFeXEnOhoCmNMCxI6A90SzwuTKRIBknrsduvW5G+FjTxQeuaqg0FMMbA0Ycr0b3MxnI0/Jd7oKosPOMGVZVphuJzNofpWXYrB4GXjrw107Z23CihLRhySF+0ow=;zn3Dq4yX6TncmEuIY9buqQ=="
+secured: "Y3GZGl/DrzcoXOeaKeSNVAUyGvq8dVTC7pXTYlEW6Ou9TsTYgG1/a18bqy3NIpR/RbM9sWcrMKsQax+JwfArB7lQOENw+JCobvdCz8AIMMJwDBMI9lPLBm6FZtn1KUCH8w2sg5fFLtD9XkKGNQ/gTDk7Pk2Ab2oqFL3ZUzXxnJNuYNER9MWxHFhlu4h7H6PYoyVJJcEhs66SNddGwENoQxzlRRd29fb9vb5/C4/Wwk0q9UUUXuQMZEaJzzn2Q5DDcTZ6DFjDQUT2n05wqmdECM2MRb69yhdkXqo4rS5CW+AmGYe4iQIA7fRE5+QgcXuwckIDIYcmSk62NO6KpWjHtu+ZAysaxNO/EAtoJvzFiyyOMx7n2C2pCEXqiXIBrRVfIZp3zMDQjL6R84u9sZXIq01RJYND/3++ReWK/mGrEjNM3KK41LH72dRp0zUiVUKibb1NjLn2rcRshtUTYiPXe6rqE4CyLsCASC4SciAwTuRAnj+QwlG1lDVP/L7aBg1nO8+yc4VP20R5M4ZQG/nboA==;4Vf+h5MJVE1fZlFY7Tro9A=="
 ---
 
