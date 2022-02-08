@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Vectra_AI"
   url: "https://twitter.com/Vectra_AI"
-  followers: 2741
+  followers: 2742
 
 locations:
   - San Jose, CA
