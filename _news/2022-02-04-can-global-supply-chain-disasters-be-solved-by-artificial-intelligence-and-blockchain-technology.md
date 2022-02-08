@@ -23,6 +23,22 @@ images:
     height: 462
     isCached: true
 
+related:
+  - title: "How IIoT and AI are Transforming the Supply Chain"
+    excerpt: "The intersection of AI and real-time data, in concert with the industrial IoT, will continue to provide a more holistic view and control over the supply chain, and with any luck will help prevent future disruptions in the global supply. How IIoT and AI can ..."
+    publishedDateTime: 2022-02-07T16:02:00Z
+    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21216152/digikey-how-iiot-and-ai-are-transforming-the-supply-chain"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 37
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/02/SourceTodayCurlPad.620142431078b.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "G1OEv7wXFgx3oyx+s8X+NVHOsbv/TU5vwsSU0uwhDdgl2zHzXiEBME4MazdZSuaJKhJYQaXbjjTIjCPHAT7iwwH1kloBPygRqtROSficmiB/A3h7uZJ/XCQdAc5xJhFOmgiFlUWqHojcIXTv6yyJUmbBueN2a2woPhl0bjx8kiNi39VH9Fly+692QEapVn1MCwqdtiz5cDNKdjIYRLSMF4eKj7IhnVWj0tUQ/obX3zeQH3zY5ardiYqDQCp7ofF3UU7x9e+8KFEBEIuXq4QykrB7jf4OK3vRSiGECdo/7hzpguSxCeypzCVWcv2dj/7Srq3wQyk+WTk64MJeu1Tdln1qO8xu870KI2+URI6sl7dJPhukALsHoO5Hx0uc3oz975OcUlnpbr9xTUdsikLEMbLNt3zketbpA4AGMcJniYhgEiqGdOK70Hzx/ghFTq5Wy6e7HrriUxGagtdCZMV0Ji/P3d8pb6k+tucFjmkInVUtNKWShE3zwYz30FK2ptf2+v/radQqdzXWlyY3nan0hQ==;xidnnMtfkdZpUa0pXZ3k3g=="
 ---
 

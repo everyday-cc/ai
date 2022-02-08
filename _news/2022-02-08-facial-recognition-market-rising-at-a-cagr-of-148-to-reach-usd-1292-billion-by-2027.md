@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in healthcare market to reach $208.2 billion by 2030, report"
+    excerpt: "The global artificial intelligence in healthcare market size is expected to reach $208.2 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to expand at a CAGR of 38."
+    publishedDateTime: 2022-02-04T08:54:00Z
+    webUrl: "https://africabusinesscommunities.com/tech/tech-news/artificial-intelligence-in-healthcare-market-to-reach-$208.2-billion-by-2030-report/"
+    type: article
+    provider:
+      name: africabusinesscommunities.com
+      domain: africabusinesscommunities.com
+    quality: 47
+    images:
+      - url: "https://adserver.20nine.nl/www/delivery/avw.php?zoneid=30&n=5f0197a"
+        width: 336
+        height: 280
+        isCached: true
+  - title: "Computer Vision in Healthcare Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2030"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Feb 08, 2022, 05:44 /Comserve / -- The report predicts the global computer vision in healthcare market to grow with a CAGR of 45.2% over the forecast period from ..."
+    publishedDateTime: 2022-02-08T12:40:00Z
+    webUrl: "https://menafn.com/1103657362/Computer-Vision-in-Healthcare-Market-Global-Industry-Analysis-Trends-Market-Size-and-Forecasts-up-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?737093"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence (AI) in Construction Market Size Expected to Reach USD 4.51 Billion at a CAGR of 34.0% By 2026"
     excerpt: "The global Artificial Intelligence (AI) in the Construction market is forecast to reach USD 4.51 Billion by 2026, according to a new report by Reports and Data. The easy risk mitigation of quality, and safety, coupled with the time and cost consumption ..."
     publishedDateTime: 2022-02-04T10:41:00Z
@@ -39,6 +67,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI in Fintech Market Report 2027: Overview, Size, Share, Analysis, Key Players and Outlook"
+    excerpt: "According to the latest report by IMARC Group, titled “AI in Fintech Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,” the ai in fintech market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% ..."
+    publishedDateTime: 2022-02-07T07:52:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-report-2027-overview-size-share-analysis-key-players-and-outlook"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEidUmPoFJvUX3AWX--IW6Pc-KRfvi1aqsczCNTnU2-buwLumK2bAojezPc4uPtCOXAXncmDv1519s9E8Zs5xmiGV02hB-uhN1feL4S0xCOFn4QHapWmmwg72nmhpkI2LF5y8wUl_-UkV-bY-KBJyTiP9ZuHPObfs3saGEaKuLzi9iPApijD4BLnXqs"
+        width: 724
+        height: 483
+        isCached: true
   - title: "Robotic Prosthetic Market Size Expected to Reach USD 2,384.4 Million at a CAGR of 8.9%, in 2028"
     excerpt: "Growing demand for robotic prosthetic products due to increasing incidents ... according to latest report by Reports and Data. Emergence of mind-controlled humonics is considered one of the most important factors to impact market revenue growth."
     publishedDateTime: 2022-02-04T13:57:00Z
@@ -50,62 +92,6 @@ related:
     quality: 27
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/CCC-9-600x337.png"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Robotic Prosthetic Market Size Projected to Reach USD 2,384.4 Million at a CAGR of 8.9%, in 2028"
-    excerpt: "Growing demand for robotic prosthetic products due to increasing incidents of severe road accidents and injuries, and rising number of patients with vascular diseases are key factors driving market revenue growth Market Size – USD 1,"
-    publishedDateTime: 2022-02-04T01:03:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272264992/robotic-prosthetic-market-size-projected-to-reach-usd-23844-million-at-a-cagr-of-89-in-2028"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 26
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1644263234674.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Artificial Intelligence in Genomics Market Size to Reach Revenues of USD 5,724.45 Million by 2027 Arizton"
-    excerpt: "AI leverages sophisticated computation and inference ... We train our team in advanced research practices, techniques, and ethics to outperform in fabricating impregnable research reports."
-    publishedDateTime: 2022-02-07T21:44:00Z
-    webUrl: "https://menafn.com/1103654385/Artificial-Intelligence-in-Genomics-Market-Size-to-Reach-Revenues-of-USD-572445-Million-by-2027-Arizton"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?867125"
-        width: 363
-        height: 250
-        isCached: true
-  - title: "(AI) Artificial Intelligence in Drug Discovery Market to Rise at 33.9% CAGR, to Reach USD 5,558.0 Million by 2029: Polaris Market Research"
-    excerpt: "By offering, the software division has the largest market share. The two of the most popular AI platforms are Google AI and Microsoft Azure. By technology, machine learning involves a gamut of techniques that can assist people in making better decisions as ..."
-    publishedDateTime: 2022-02-03T23:04:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-artificial-intelligence-in-drug-discovery-market-to-rise-at-33-9-cagr-to-reach-usd-5558-0-million-by-2029-polaris-market-research"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 22
-    images:
-      - url: "https://www.abnewswire.com/uploads/1643890995.jpeg"
-        width: 1280
-        height: 451
-        isCached: true
-  - title: "CNC Tool And Cutter Grinding Machine Market is expected to exhibit a CAGR of 4.52% by forecast till 2030"
-    excerpt: "Request a Free Sample @ https://www.marketresearchfuture.com/sample_request/6163 The advent of the Internet of Things (IoT) and the steady development of machine learning are elements anticipated to affect market demand. Consequent utilization of CNC tools ..."
-    publishedDateTime: 2022-02-08T10:41:00Z
-    webUrl: "https://www.digitaljournal.com/pr/cnc-tool-and-cutter-grinding-machine-market-is-expected-to-exhibit-a-cagr-of-4-52-by-forecast-till-2030"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 7
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/06/NFT-Artwork-AFP-1K-600x337.jpg"
         width: 600
         height: 337
         isCached: true

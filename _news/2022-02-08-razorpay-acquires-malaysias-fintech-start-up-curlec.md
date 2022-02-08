@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 898
         isCached: true
+  - title: "Razorpay goes global, acquires Malaysian fintech startup Curlec"
+    excerpt: "E-commerce is booming in Malaysia with an estimated market size of $21 billion in 2021 and is poised to grow further to over $35 billion by 2025."
+    publishedDateTime: 2022-02-08T08:11:00Z
+    webUrl: "https://newsd.in/razorpay-goes-global-acquires-malaysian-fintech-startup-curlec/"
+    ampWebUrl: "https://newsd.in/razorpay-goes-global-acquires-malaysian-fintech-startup-curlec/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/razorpay-goes-global-acquires-malaysian-fintech-startup-curlec/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 44
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2021/12/razorpay-1280x720-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Razorpay to acquire Malaysian fintech Curlec at $20 mn valuation"
     excerpt: "The acquisition will mark the beginning of Razorpay's global expansion plans. After Malaysia, the startup is eyeing other Southeast Asian markets including Indonesia, the Philippines and Vietnam."
     publishedDateTime: 2022-02-08T08:22:00Z
@@ -72,20 +88,6 @@ related:
       - url: "https://assets.vccircle.com/uploads/2020/07/xlStake.jpg"
         width: 810
         height: 506
-        isCached: true
-  - title: "Razorpay goes global, acquires Malaysian fintech startup Curlec"
-    excerpt: "Leading fintech player Razorpay on Tuesday announced its first international expansion with the acquisition of a majority stake in Curlec, a leading Malaysian fintech startup, for an undisclosed sum."
-    publishedDateTime: 2022-02-08T07:44:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=924246"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 24
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
-        width: 280
-        height: 250
         isCached: true
 
 secured: "oCXiMGIK9mZjd4K+v5sn+1wCSdPZocWeRWE/ovRkIs/jP38V58UwFdTsKnbNYOl0lf2jWVtAfxtk6Go5gSVzXy53+sEVRspL7Q+0h2WC8WgA9F5gvN86bBiK2uiSZz8ToH9PHMmiC5ZTMlRTKf6F1ZQ6cB9fcI0g6qTnS7bdOenEFucmPe/t9GAMfdL2yEwt8pBNSTdSSXAdXvItiilzvTOoIJ6SxcLNPCakdlMOsk71nl/YTVAecwIHtBwbb4RFGH+8lxyqpdppJSVNHOEOjvdH3EtV95r1KlEwiH3zOtqUeH/UFkAoSW+GfjjOkHmLKfUE+H1tFH8rdv6jS8ttPsuJPs2cqjsZsVHBstVcHjEOguHg0LrsZObesZuh88TtyjdzGFJTlwtGF4iNT1IYqvQ/p9I9yE4V3UY7tmkUDWoPZXy3f50oL1bw1SkZ4Xz78tlJ7jF5dd5YqTyGJBrfvlGwQv64n+Z1AyEgYPbpBX37LmtV8FvQbVNTBGiVOuj06UtzopyQ0IAtNIfrB1Et2g==;SpaG+d6CxufA28kACIABvQ=="

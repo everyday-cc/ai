@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "No, China is not winning the AI race"
-    excerpt: "and semiconductor chips. In this light, as a horizontal technology that can be applied across all sectors, artificial intelligence (AI) has become a strategic priority and the Chinese focus on ..."
-    publishedDateTime: 2022-02-03T21:41:00Z
-    webUrl: "https://thehill.com/opinion/technology/592270-no-china-is-not-winning-the-ai-race"
-    ampWebUrl: "https://thehill.com/opinion/technology/592270-no-china-is-not-winning-the-ai-race?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/592270-no-china-is-not-winning-the-ai-race?amp"
+  - title: "Can global supply chain disasters be solved by artificial intelligence and blockchain technology?"
+    excerpt: "Artificial Intelligence can find structures in real-time that can pose a systemic risk. This can help identify patterns of connections that are likely to delay and cause trade credit contagion. This can help businesses respond to weaknesses before another ..."
+    publishedDateTime: 2022-02-04T10:02:00Z
+    webUrl: "https://www.texarkanagazette.com/news/2022/feb/04/can-global-supply-chain-disasters-be-solved-by/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 39
     images:
-      - url: "https://thehill.com/sites/default/files/artificial_intelligence_051519_getty-1189044387.jpg"
-        width: 1024
-        height: 683
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200564465_DaigleJamie_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 369
+        height: 462
         isCached: true
 
 secured: "17HRUesCI3DSa/lriXvlIGwzVwXekmTkdWOfKYdKH53XQJXgW5R6TL7HdnJsbSVPDVw27zrhW3Tw5T/s0uO30cQQProsqOXs32aTIMOHViOHn9aJTlMRViuRE1B4KynX2aw54BH2bW3gK1v+w4nS6M3R3Er6Dn4LpxszD+82KgsSOap6AflVG6z+TvjCLTkWMCvqxBuX7MV1Za+ZxXNMeVJ9XlrbC5MEm9ymC+SOwhngk38EwgjleAXD0oyLRm389+XD0QzO5zEJYybYgdmhfTFrgAdQj0ZD7ZYk3u0gPoQlMeR6Ldb7o1jNLzuXt9HmZnmi+92o4X92+SdSoqofOTFperCwN1pbggBeqZN2sJdQsa7FMLUe4s3wjeecyt2zvW7/kD9mJT8hqQ5aHD6mAukDG9cQEqI7WClijzwyu6NsUbzj2bgZM2Gu+YlAc+plTJmZaY5ti6CfD3bAYQina4QJwd2pfgTVDjHxpQPqt/pwVi08t4P4NX/KLN0uzNSeHH9yFnpBgEEpKqYhgzqIiw==;gJGybIvNsal7OETyWyemQA=="

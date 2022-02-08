@@ -2,9 +2,9 @@
 category: news
 title: "Insig AI boosted by inclusion in PwC FinTech programme"
 excerpt: "Insig AI PLC (AIM:INSG), the machine learning company, put on 3p (8.2%) at 39.5p after it was selected for PwC's Scale FinTech programme. The programme is designed to give access to new commercial opportunities within PwC as well as among its clients."
-publishedDateTime: 2022-02-07T13:44:00Z
-originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/insig-ai-boosted-by-inclusion-in-pwc-fintech-programme-973290.html"
-webUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/insig-ai-boosted-by-inclusion-in-pwc-fintech-programme-973290.html"
+publishedDateTime: 2022-02-07T08:59:00Z
+originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/great-portland-soars-as-it-boasts-of-record-year-with-two-months-yet-to-run-973290.html"
+webUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/great-portland-soars-as-it-boasts-of-record-year-with-two-months-yet-to-run-973290.html"
 ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/973290"
 cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/973290"
 type: article
@@ -51,6 +51,6 @@ related:
       domain: lse.co.uk
     quality: 19
 
-secured: "V9kBLGS7MWaB4hL/6Rxr0WkyTko5fXaWHNpQzwhpXMzOJ2FprEqYorpnCbGAvP9GJV6jWZIflJj4Fr7ufe2QlJCP1PAgwPJWHw+9adsIa8M26oyhBpWLUePzmoXa5I43IX6sJ5eZPXEYMScbGpUv1pCwusPPtV1CIzk+O1FyHlDrkOVET6pYXZIxpTObrQGs/tyZE/q8wKcwfgf7rgNtLD0YSDC6NzXNlfOd0C6kSLfKmw5u8Evjq2vkZeWPhTjL6dx8+JaFiXKTecZZfuKlm/b+R5p3TxePvav0hiW9iGzLHf5GSbGkAovGTPGi8oJNsVY7efWJyp+de5B38eQwuSX/StoGQ81XBs1GQIK/ysBMNPdoOOl2Hjc1KMkJdcS40ppRVav+ykWbXBMwj/6I1WNAzG0z4WIcgNigwtJjk2pOHvGjoUOfB3T3yz/38hiNBYJMvNqIDE+mboI8umSxjvxjIQwORu++HCZ889r1TMH2UR/sM0OwbiCe/pBBkutf354iA9R3U/OKKlBYRvKGDg==;N8F/6uV5jBUuzU4WIb+sMw=="
+secured: "zPLHjLm+ete78d8zpu4UvL5MwN63r61OjbnSVDTRZ9CHxBfIBJMAz73oLwaPAHlDEcMVUEFYJ5vlJ0anR0WhOrqUtd555WfP+qP82Ppt2Px5anjv/xZf5jKdj0f8WysjMG68R4lC3XFAG4sHq7aClOC3dvg43dJenJmSXktveNnt9dDWaYkg0g1DQYp9sabtu+W3PK0Fa6ZMpAu2KZiqSqZ8Jd4vpKnbCamPWye4hMHJ1pXhe6w4ge3o398BKQYe7Vjrch0bLi/fi+3Je9nnrt3uXznnzHDjt1gQZh+dsYrvMoZCXGacmYmzdXebkLxt5vUhvAVRc6DxbwLb9IEglLtey3S11Ye5x65fHsydTwY=;rhDKCv2/8313kwwZB4SgzQ=="
 ---
 

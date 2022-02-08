@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "TD accelerates data estate initiative on Microsoft Azure"
+    excerpt: "TD announced that it has accelerated its move to establish an enterprise-level data estate on Microsoft Azure on Jan. 26. The new move, now including a multi-year agreement with AI data management provider Databricks, will “enhance analytical ..."
+    publishedDateTime: 2022-02-08T14:51:00Z
+    webUrl: "https://www.itworldcanada.com/article/td-accelerates-data-estate-initiative-on-microsoft-azure/472057"
+    ampWebUrl: "https://www.itworldcanada.com/article/td-accelerates-data-estate-initiative-on-microsoft-azure/472057?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/td-accelerates-data-estate-initiative-on-microsoft-azure/472057?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/12/GettyImages-1310129219.jpg"
+        width: 806
+        height: 434
+        isCached: true
   - title: "Westpac signs five-year deal with Microsoft to lift it further into the cloud"
     excerpt: "Under the partnership, Westpac will adopt Microsoft Azure as it continues to expand the use of cloud-based systems, and look to bring its application, data, and AI capabilities together in a \"more cohesive manner that can be scaled across the enterprise\"."
     publishedDateTime: 2022-02-07T23:19:00Z
@@ -56,6 +72,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 66
+  - title: "PROS expands collaboration with Microsoft to boost adoption of AI-backed digital selling"
+    excerpt: "The solution, built on the Azure cloud computing platform, will deliver AI-powered personalized offers within existing Dynamics 365 sales motion, reducing friction so that companies can deliver ..."
+    publishedDateTime: 2022-02-08T14:11:00Z
+    webUrl: "https://seekingalpha.com/news/3797180-pros-expands-collaboration-with-microsoft-to-boost-adoption-of-ai-backed-digital-selling"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3797180-pros-expands-collaboration-with-microsoft-to-boost-adoption-of-ai-backed-digital-selling"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3797180-pros-expands-collaboration-with-microsoft-to-boost-adoption-of-ai-backed-digital-selling"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 65
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "AI in Social Media Market to Witness Robust Expansion by 2029 | Google, Facebook, Microsoft"
     excerpt: "AI has the potential to transform the way brands market on social networks like Facebook, Instagram and Twitter. AI allows social media marketers to get closer to their audience and understand their preferences. This helps them target their ads in a better ..."
     publishedDateTime: 2022-02-04T15:15:00Z

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition: Balancing Security and Privacy in Biometric Tech"
-    excerpt: "For the vast majority of people on the planet, our faces work much like our fingerprints; they're unique to a single person. Inevitably, then, facial recogniti"
-    publishedDateTime: 2022-02-07T01:45:00Z
-    webUrl: "https://www.amongtech.com/zh_tw/facial-recognition-balancing-security-and-privacy-in-biometric-tech/"
+  - title: "Adams embraces facial recognition"
+    excerpt: "follow up on leads and collect evidence — from facial recognition technology to new tools that can spot those carrying weapons, we will use every available method to keep our people safe,” Adams said in his crime speech. The NYPD has been using facial ..."
+    publishedDateTime: 2022-02-08T12:44:00Z
+    webUrl: "https://www.politico.com/newsletters/new-york-playbook/2022/02/08/adams-embraces-facial-recognition-00006587"
     type: article
     provider:
-      name: Amongtech.com
-      domain: amongtech.com
-    quality: 56
+      name: Politico
+      domain: politico.com
+    quality: 41
     images:
-      - url: "https://www.amongtech.com/wp-content/uploads/airport-731196_640.jpg"
-        width: 640
-        height: 426
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "S5TL4d+k6y+pPaBkIKH4rkY+e+2++n0uVC08iPj3enCpoQs/xPdvE0822mpvGTpXf7bnZXtYPBnOyycO5wyF3/TR8uTMvCmXe/SFh5w3V2H0NkUIKdDRW3kyrlhmeLMw/9DRIBG/CBWSSqZkoHdN0f/1G1atX4R5Ft2K3rbU/sUM3DE0ljJuYogUC+Cfs37VBqygZ8xjyDN3xgBh9SSN29xY+A4zF+FicM6MKb/OQyvvsCEiIL3Yf8pWfSo/nH9cYQ/rr4XcnsxOzIc8QCF4jegpeVobZ7PLP59+8lthjVf+1vsQ1DNy1unDZ95WHvb41j9esbf91CElE2LSTM6NyOqGrla4/rlqXKWY28ptoaM=;HalSxIz/LC4mItC4jhQXZQ=="

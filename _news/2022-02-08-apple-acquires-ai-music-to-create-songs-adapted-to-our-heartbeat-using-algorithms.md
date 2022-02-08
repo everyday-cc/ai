@@ -127,6 +127,20 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 37
+  - title: "Apple acquires UK start-up that makes dynamic music using AI"
+    excerpt: "Apple could use the start-up’s technology to create new music for advertising, or dynamic soundtracks that respond to the user’s heartbeat or mood. Tech giant Apple has reportedly acquired AI Music, a UK start-up that uses artificial intelligence to ..."
+    publishedDateTime: 2022-02-08T12:33:00Z
+    webUrl: "https://www.siliconrepublic.com/business/apple-ai-music-acquisition"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/02/AdobeStock_289510986_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Apple buys startup that makes music with artificial intelligence"
     excerpt: "Apple Inc. has acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be used across its slate of audio offerings. The purchase of ..."
     publishedDateTime: 2022-02-08T09:11:00Z

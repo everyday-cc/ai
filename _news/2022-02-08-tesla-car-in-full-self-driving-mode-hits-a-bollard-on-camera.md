@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s ‘Full Self-Driving’ phantom braking problem is getting worse"
-    excerpt: "On Wednesday, a Washington Post analysis found complaints about the automatic braking issue in the EVs are higher than ever in recent months, and the issue could be traced back to recent changes to Tesla's Autopilot software and hardware."
-    publishedDateTime: 2022-02-03T22:13:00Z
-    webUrl: "https://mashable.com/article/tesla-fsd-phantom-braking"
-    ampWebUrl: "https://mashable.com/article/tesla-fsd-phantom-braking?amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/06P6Iwf3lnDbD7b8OPdv0jd/hero-image.fill.size_1200x675.v1643829413.jpg"
-        width: 1199
-        height: 675
-        isCached: true
   - title: "Tesla Full Self-Driving Beta runs into a pole in what could be the first FSD accident caught on video"
     excerpt: "A Tesla vehicle using Full Self-Driving Beta has been caught on video running into a pole in what could be the first accident on the FSD Beta. Last month, Elon Musk was claiming that Tesla’s ..."
     publishedDateTime: 2022-02-04T00:00:00Z
@@ -56,22 +40,6 @@ related:
     quality: 74
     images:
       - url: "https://i.ytimg.com/vi/dtTtANwfvfg/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "Tesla Filmed Hitting Object While Full-Self Driving Beta Was Being Tested"
-    excerpt: "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s Full-Self Driving package in recent months."
-    publishedDateTime: 2022-02-07T23:03:00Z
-    webUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/"
-    ampWebUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 73
-    images:
-      - url: "https://i.ytimg.com/vi/sbSDsbDQjSU/hqdefault.jpg"
         width: 480
         height: 360
         isCached: true
@@ -107,21 +75,7 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "This is not a self-driving car"
-    excerpt: "He’s not alone, either. YouTube’s favorite auto reviewer Doug DeMuro has referred to Super Cruise as a “self-driving” system, arguing that any attempt to draw distinction between an advanced driver assistance system and autonomous technology was ju ..."
-    publishedDateTime: 2022-02-04T18:55:00Z
-    webUrl: "https://www.theverge.com/2022/2/4/22917903/adas-av-autonomous-super-cruise-autopilot-language"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 54
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/8kVW_xQJNQf9oN_cXQXRx2wEXQE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19704170/cadillac_2021_escalade_0433.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
-secured: "uUV7dvkRxX5TMNE6MCXblcz8nKT+kIMjOp3mbcqLsOX3tlyzGEO/qFc854rKKKRZwAjq8V4135GgnO68aIKp3KVN1nAmCXnjgBtUk90NasVz97G7wZ5iNmmDxQGuUyMQ008+LWk8m7UwtsFKkHgYyczUJKIr6GkLUZNri7LAJ2vwMcFmj9yiNS4oXZQWFMfPs9HwJqbB0ikxXbKK7T4AsPaDQxKcTdtKDxRzDKbfedpfFdXWW4prBahW7dAX9hWz+vxtXojgn3K3j6AxoihAHrjfq4rtdCs7NC9CgUW/3wwhxggRErK2SI0ec/lajAmYHCgvil+utQ9cyDEsJNEeJeCp0Xsbd+9KFFEzPPh5Fe4=;rgdt7AIgBFcWdbRb4CQCVQ=="
+secured: "cyDOSjhc0Pyt8W8DTaH4luW6C01PrvgGwv4NBFuLDmPMqu1hopkn7b3BZgsCBwjHJjFML6HtYvxRHU+CpMEY8QbTjEOGgjZ0NYUyvtS2eHAmBcm60y6bUBt8NnrvBF7h2jbdwxDmNRMXsv7g36Y2x1JZ7QqC7aFiu/3f/9tJZkvruyIW6GYu8sbKps2Vow9w+Y0582dGyJGn3B+7vygRhpUI8xeSY3wqVqYiK5DAkyt4JziOPBF6uRxuVfQL3hycNERkXEbRT8PGd2e4uo0ffs6ZLsxeVtp9RIBqnPDEDqT13bIN6Hm/tisEO+Xnnw98WO/fT9FwdGy3AfnEfIk+bhX4TcZh/AGgaXVysFNjFlZFAwG+R8PP2UZh9IgPWwFz+IXmfDzO/VmyU9i/gEVCHKRwNi451cP4fGOeKxkX7sOI13IDFsjiawHJ+Z71XZNdLj45kt5u88hbEtjOH0gloJFKT1nNcoZ722j4cVH+/92f2FyVEA24e/lXFboclJwO5l4R7sycT3LCSBKrME8QbQ==;iI1l8UltEaX1v/xnlTS8uA=="
 ---
 

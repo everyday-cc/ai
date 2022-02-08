@@ -40,6 +40,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
+  - title: "How to impress recruiters at DeepMind, the futuristic Google research unit creating AI programs that rival humans"
+    excerpt: "DeepMind is Google's London-headquartered artificial intelligence research unit. Its groundbreaking research includes an AI program that predicts a protein's structure. Insider asked four of DeepMind's talent and research leads from its Applied team what ..."
+    publishedDateTime: 2022-02-08T00:00:00Z
+    webUrl: "https://www.businessinsider.com/how-to-get-a-job-at-deepmind-google-ai-lab-2022-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/620269bcbd50410019192347?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "/9ij4lk4VWaNsceRocik/MYg6oiT0HQAQrfsPc0anCfRAvlP4cVOSI36kPhQbsYrquA74rlzqHyTUrSF1q3uVS2L41quuIUqy352/oYAhdjylgoOaz0z45mbvGTJSHoWhO0LJsH//bCAIuJ1lZh6MLE6LZ+S6LVafxC7IK+rUgY6FlfJ7sWFJHpaYX4wp800CHT2MIvbitTxiJ6+59LobN1eeJKkrOMPLOE0roMGXzeXldJT95qqimihk+j87EhHMZxfbkC0R027qjXFwthAH3YGYHRU4Zi1mFdyXZJB3wasEceLt0uPSljXObuMc8fGO6iFXVNhXV/HREfrKPIIKT9mrI+inXcjXgxzFX32T7I=;5BrzVkZGQXfquYCxxqSFMw=="
 ---

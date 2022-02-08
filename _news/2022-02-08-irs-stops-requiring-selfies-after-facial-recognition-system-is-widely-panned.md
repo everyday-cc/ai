@@ -547,19 +547,33 @@ related:
         width: 395
         height: 600
         isCached: true
-  - title: "IRS to End Use of Facial Recognition to Access Tax Accounts"
-    excerpt: "The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security. The transition from the ID."
-    publishedDateTime: 2022-02-08T08:59:00Z
-    webUrl: "https://www.bloombergquint.com/politics/irs-to-end-use-of-facial-recognition-to-access-tax-accounts"
+  - title: "IRS to end use of facial recognition to access tax accounts"
+    excerpt: "The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security. The transition from the ID.me, the third-party verification system that ..."
+    publishedDateTime: 2022-02-08T12:59:00Z
+    webUrl: "https://www.centralmaine.com/2022/02/07/irs-to-end-use-of-facial-recognition-to-access-tax-accounts/"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
+      name: Kennebec Journal
+      domain: centralmaine.com
     quality: 39
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+      - url: "https://multifiles.pressherald.com/uploads/sites/2/2022/02/IRS_Facial_Recognition_83583-1644325026.jpg"
+        width: 1000
+        height: 648
+        isCached: true
+  - title: "The IRS backs down from facial recognition plan to verify identities"
+    excerpt: "Monday, the IRS announced plans to drop a controversial step to use facial recognition to verify IDs online. The IRS said that it will move away from using a third-party service that used facial recognition to help authenticate people who needed to create ..."
+    publishedDateTime: 2022-02-08T12:51:00Z
+    webUrl: "https://www.timesrecordnews.com/story/money/2022/02/07/irs-facial-recognition-verify-identity/6697761001/"
+    type: article
+    provider:
+      name: Times Record News
+      domain: timesrecordnews.com
+    quality: 39
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/19/PDTF/3466aa37-5cae-4dfb-a67f-dd4213b3942b-AP_Microsoft_IRS_Tax_Dispute.jpg?auto=webp&crop=4568,2570,x0,y30&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
   - title: "US tax agency drops facial recognition plan after criticism"
     excerpt: "Facial recognition technology use by law enforcement has been criticized by activists who say its inaccuracies may reinforce racial bias - © AFP MAHMUD HAMS Facial recognition technology use by law enforcement has been criticized by activists who say its ..."
@@ -656,6 +670,15 @@ related:
         width: 1070
         height: 713
         isCached: true
+  - title: "IRS to halt use of ID.me’s facial recognition software for identity authentication"
+    excerpt: "The Internal Revenue Service will stop using facial recognition software to authenticate taxpayers’ identities, the federal agency said Monday. The move responds to mounting backlash from lawmakers, advocates and members of the public about the use of ..."
+    publishedDateTime: 2022-02-08T13:15:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2022/02/08/irs-to-halt-use-of-idme-s-facial-recognition.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
 
 secured: "nKhl8W954glB7rr02hh6juZIhTLnUIeG1Br3cJsZP/l3Ly/wOjtq+hYQnYLaRUDlFPb02VNZZNTR92qfwJgAddz3Rg/2MSmZEAgSeCCkEIRiVkBOcc5VJBoGbcg5HQH8Ywmmca01GJUILTSD33I0r8BPjmfcBFzLUeG0GJhVFEZE1I2b4aQzHztRnoxEYx4k1tWXnAleV/b2MRoQIE81cafsgjLwXhrwQYyG31w5dNdl38vsvwWrEjp1tsSRUq3xk3OdbGwnCV2LCX4oMe3iHMoIZaLPP6eycAoSCwnG+AU82/Jx/tPpHDEqL1hr4fuwhvcw1tjHdoEWJd36WH7fu1LJGWa0gtZJLBqCMwAO+1Xc+7Oa+BT4/K9IMEE0DAS3ch+HavYOq0TaPYIeiMAbZrTJyaGvHZX99cCUv4xxURUn3Cj2WCwl1+ygJMRUZHoztaBcwI1dcNvGArYNBU4MUnvopQtdYbaQkyVOUAyJQfMEqxMIpDpK7Jm5cICei7EDJC1t5k0SsnAeF9m+YCAgqQ==;RZDmMANSyrVAPyvBgKONiw=="
 ---

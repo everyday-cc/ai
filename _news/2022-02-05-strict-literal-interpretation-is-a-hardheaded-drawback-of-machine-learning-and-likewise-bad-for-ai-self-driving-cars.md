@@ -32,15 +32,20 @@ images:
     isCached: true
 
 related:
-  - title: "The brain’s secret to life-long learning can now come as hardware for artificial intelligence"
-    excerpt: "Purdue University. (2022, February 3). The brain’s secret to life-long learning can now come as hardware for artificial intelligence. ScienceDaily. Retrieved February 3, 2022 from www.sciencedaily.com/releases/2022/02/220203160544.htm Purdue University."
-    publishedDateTime: 2022-02-03T21:52:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/02/220203160544.htm"
+  - title: "This is not a self-driving car"
+    excerpt: "He’s not alone, either. YouTube’s favorite auto reviewer Doug DeMuro has referred to Super Cruise as a “self-driving” system, arguing that any attempt to draw distinction between an advanced driver assistance system and autonomous technology was ju ..."
+    publishedDateTime: 2022-02-04T18:55:00Z
+    webUrl: "https://www.theverge.com/2022/2/4/22917903/adas-av-autonomous-super-cruise-autopilot-language"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 53
+      name: The Verge
+      domain: theverge.com
+    quality: 54
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/8kVW_xQJNQf9oN_cXQXRx2wEXQE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19704170/cadillac_2021_escalade_0433.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "oYiXazaH5KAIN5KtyVvAA9VHj1t4UVeoTuAlr/eoj22SK6AJUiwq16J7YJgHvHra9HfZN3lfNrFN37Y9gox8OrxF+BXUnPFJCbiXW6OgBSkgBQmtR1j3SUgLGmK6dkyQKq3G5M7AWqCL78bbN+IpxENn8vq6udR9VyTmOwUvTVr2hAnuvCDJivdeFnNiaWzQ6jsE7+caMrPqw9WzihVopmq1djf9TvEc+mhMYiBEB0eoqPahAxIc1NAupruXwQf96F1BCoRCZWUIKlSdKMGpySnbmCPUdMjYg3/FDWmdFzq0y56i0okbNVDd6ynYNUc/3+Od0tUp8cLAUlGiY2R4cPZDY2FopViDiV9AswY1IY0IzJAnDXedM+P2eNZkL+scveIF3gETxCpnt9qN8eBE9p3y07OBnvUfnEYG69wWK1EuODho6v2T7vYiD35Jo7595Lut1mN+iDCrkQ1iHNi6OdTU60Am3CnhpCLpi/FWkTtXeh3PWAtwQMm8r2XljwgbjNoOVaziTOu3fWF2Q3p0hQ==;YUBorvJuu+3LvMZrYoX3xQ=="
 ---

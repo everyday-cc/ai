@@ -8,7 +8,7 @@ webUrl: "https://ipsnews.net/business/2022/02/08/businesses-in-it-robotic-automa
 ampWebUrl: "https://ipsnews.net/business/2022/02/08/businesses-in-it-robotic-automation-market-speed-up-implementation-integrating-platforms-with-machine-learning-to-up-the-ante-for-incumbents/?amp=1"
 cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/02/08/businesses-in-it-robotic-automation-market-speed-up-implementation-integrating-platforms-with-machine-learning-to-up-the-ante-for-incumbents/?amp=1"
 type: article
-quality: 4
+quality: 6
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "Driving Value in Your Supply Chain With Robotics and Automation"

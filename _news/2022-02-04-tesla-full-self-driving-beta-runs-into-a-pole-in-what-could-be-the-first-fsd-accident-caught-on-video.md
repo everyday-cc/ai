@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-vi
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/02/04/tesla-full-self-driving-beta-crash-video/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Electrek
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s ‘Full Self-Driving’ phantom braking problem is getting worse"
-    excerpt: "On Wednesday, a Washington Post analysis found complaints about the automatic braking issue in the EVs are higher than ever in recent months, and the issue could be traced back to recent changes to Tesla's Autopilot software and hardware."
-    publishedDateTime: 2022-02-03T22:13:00Z
-    webUrl: "https://mashable.com/article/tesla-fsd-phantom-braking"
-    ampWebUrl: "https://mashable.com/article/tesla-fsd-phantom-braking?amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-phantom-braking?amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/06P6Iwf3lnDbD7b8OPdv0jd/hero-image.fill.size_1200x675.v1643829413.jpg"
-        width: 1199
-        height: 675
-        isCached: true
-  - title: "Tesla Filmed Hitting Object While Full-Self Driving Beta Was Being Tested"
-    excerpt: "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s Full-Self Driving package in recent months."
-    publishedDateTime: 2022-02-07T23:03:00Z
-    webUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/"
-    ampWebUrl: "https://www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/02/tesla-model-y-crashes-into-a-pole-while-full-self-driving-beta-was-being-tested/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 73
-    images:
-      - url: "https://i.ytimg.com/vi/sbSDsbDQjSU/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Tesla Model Y Crashes Into A Pole While Full-Self Driving Beta Was Being Tested"
     excerpt: "Many Tesla owners continue to do (unpaid) beta testing for the car manufacturer and this video shared online by a Tesla Model Y owner shows what can happen when the brand’s Full-Self Driving messes up. You may have seen some videos of the automaker’s ..."
     publishedDateTime: 2022-02-07T23:05:00Z
@@ -110,20 +78,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2022/02/08/11/53917451-0-image-a-4_1644319189324.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "This is not a self-driving car"
-    excerpt: "He’s not alone, either. YouTube’s favorite auto reviewer Doug DeMuro has referred to Super Cruise as a “self-driving” system, arguing that any attempt to draw distinction between an advanced driver assistance system and autonomous technology was ju ..."
-    publishedDateTime: 2022-02-04T18:55:00Z
-    webUrl: "https://www.theverge.com/2022/2/4/22917903/adas-av-autonomous-super-cruise-autopilot-language"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 54
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/8kVW_xQJNQf9oN_cXQXRx2wEXQE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19704170/cadillac_2021_escalade_0433.jpg"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "X5rY3jr13JJc8fO9RyfEO049+mETgLd8TQ5p6i4nKezykVQDoPPofu5IyahaYaQhtBo+7wHRU8xaoMgxLUyQHXDJyjMLEp+m/oRI7fS617sjLZTX+WfNapDGXNKVnNmGiWfXnJsAiiDZZebZansCGxibb3pXehOdJyxFWuDKVty5RuROrRw5llbSzlDe6TbQZVfENz7Uaw62Yl/1LjiOlL4ocUVENcpO/aSmdnvVrWM20WjpeKYm7/gM3TlEt0uR78yjuDdkUKsrrkSrLllkuxVFDeRahIJz8HZxPfjh8uDutVe4P1owOphu5rJyUJhRtW/7Hqk80ItL9HM6AfX2E2nhZA/k7RFhBMcK68kpvso=;y3yFXgqVe5nxu7zJaPtRHQ=="
