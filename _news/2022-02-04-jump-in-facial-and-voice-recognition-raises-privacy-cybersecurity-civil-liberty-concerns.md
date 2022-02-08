@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Virtual CISO startup Cynomi raises $3.5M to help SMBs automate cybersecurity"
-    excerpt: "Cynomi, an Israeli cybersecurity startup that has built a virtual CISO ... human component and instead uses artificial intelligence (AI) technology to emulate a human CISO and automate previously ..."
-    publishedDateTime: 2022-02-03T14:36:00Z
-    webUrl: "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/"
-    ampWebUrl: "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-174074147.jpg?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "IBM and Snyk: Developers must lead the charge on cybersecurity"
     excerpt: "Then when you couple that with something like IBM’s core strategy, which is a hybrid cloud approach, which means that our enterprises work with not just IBM’s software and cloud, but also work with AWS’s cloud, work with the Azure’s cloud ..."
     publishedDateTime: 2022-02-07T22:14:00Z
@@ -59,6 +43,20 @@ related:
       - url: "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/02/20220126-DD-SnykIBM-Bill.jpg"
         width: 1918
         height: 1080
+        isCached: true
+  - title: "inGen Dynamics Selects Firedome To Provide IoT Cybersecurity To Its Entire Robotic and AI Solutions Portfolio"
+    excerpt: "inGen Dynamics (https://www.getaido.com) is an AI and Robotics company dedicated to positively influencing the world’s perception of intelligent machines. We create intelligent, innovative solutions that simplify the complexities of life. Our passion is ..."
+    publishedDateTime: 2022-02-06T18:35:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ingen-dynamics-selects-firedome-to-provide-iot-cybersecurity-to-its-entire-robotic-and-ai-solutions-portfolio"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-12-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "H9lzeIoSpbGOG48GlzqXqX6wkscvNlS6pHqgEOe5yPfOktldHjK7Yz6jWENpj8YOWNK8xQ5HYMCNu8B08yDDX+EbA9xc+FWudH7aV1H8+gRgMszOLC4NXumlZzZDiQudy/IJaJ+Uh0xGD6jzQK39QxWhRAwlAco7R02xyGjxOsY+ejuJddjs/XZKeP6G8EHaKNSc1WRz1QhpusKF9En7NG03WLSm/ZaVYxwPEhztVpZbqomDPUZ9THfwHJOBjSzlC3S+kkwp/YJU4phOk4AjpMaPjRqIwQWIIHRoIjPP4evNEz8JTg6ElyZSyp84aX/VLh9B4GFyKhpOLkoUV905CHUmNbb8+v7pgCijYfB49cs=;lzvCrRQzcD2FyZ/ODlpOyQ=="

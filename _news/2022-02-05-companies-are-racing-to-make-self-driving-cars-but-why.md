@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "My Big Fat Self-Driving Road Trip"
+    excerpt: "Many cars now offer some version of driving assistance, but most manufacturers’ self-driving systems, even Tesla’s Autopilot, requires the humans sitting in the driver’s seats to keep their hands on the steering wheel while the car is piloting itself."
+    publishedDateTime: 2022-02-04T10:25:00Z
+    webUrl: "https://www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.html"
+    ampWebUrl: "https://www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 74
+    images:
+      - url: "https://static01.nyt.com/images/2022/02/04/opinion/04manjoo1/04manjoo1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "How a big blue van from 1986 paved the way for self-driving cars"
     excerpt: "This was the world’s first self-driving automobile: A pioneering work of computer science and engineering somehow built in a world where fax machines were still the predominant way to send documents, and most phones still had cords. But despite being ..."
     publishedDateTime: 2022-02-05T17:03:00Z
@@ -40,6 +56,22 @@ related:
       - url: "https://icdn.digitaltrends.com/image/digitaltrends/navlab-1-5-autonomous-vehicles.jpg"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "Understanding the Puzzle: The future of self driving vehicles"
+    excerpt: "Shaheen Chevrolet of Lansing President Ralph Shaheen said self-driving cars are a great tool. “It pulls up, takes them where they want to go when they want to go, brings them back when they want to come back. They’re not on somebody else’s schedule."
+    publishedDateTime: 2022-02-04T21:51:00Z
+    webUrl: "https://www.wlns.com/understanding-the-puzzle/understanding-the-puzzle-the-future-of-self-driving-vehicles/"
+    ampWebUrl: "https://www.wlns.com/understanding-the-puzzle/understanding-the-puzzle-the-future-of-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/understanding-the-puzzle/understanding-the-puzzle-the-future-of-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: WLNS.com
+      domain: wlns.com
+    quality: 59
+    images:
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2022/02/chrome_hJBOshG2J6.png?w=1280"
+        width: 1279
+        height: 712
         isCached: true
   - title: "Self-driving big-rigs will haul freight in Arizona"
     excerpt: "In the self-driving technology world, there are five levels of autonomy. At Level 4, no human is required to be in the vehicle. But it can only operate along predefined, mapped routes — which TuSimple has done between Tucson and Phoenix. In its seven ..."
@@ -57,6 +89,33 @@ related:
         width: 1024
         height: 540
         isCached: true
+  - title: "This NYT Story About A \"Self-Driving Road Trip\" Is Full Of Dangerous Misunderstandings"
+    excerpt: "The problems start right from the title of the article, “My Big Fat Self-Driving Road Trip,” which I guess is a reference to those My Big Fat Greek Wedding movies, but I don’t really get why ..."
+    publishedDateTime: 2022-02-04T18:22:00Z
+    webUrl: "https://jalopnik.com/this-nyt-story-about-a-self-driving-road-trip-is-full-1848482117"
+    ampWebUrl: "https://jalopnik.com/this-nyt-story-about-a-self-driving-road-trip-is-full-1848482117/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/this-nyt-story-about-a-self-driving-road-trip-is-full-1848482117/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 36
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/43c4dd84c5526f85bfdd6f75909bec9b.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "ARTHUR GOLDSTUCK: Guess what drives trust in self-driving cars"
+    excerpt: "Three major obstacles stand in the way of self-driving cars, and they are all rather obvious: the technology isn’t quite ready for the road, governments and traffic authorities aren’t ready for the rules, and people just aren’t ready for machines ..."
+    publishedDateTime: 2022-02-06T04:28:00Z
+    webUrl: "https://www.businesslive.co.za/bt/opinion/2022-02-06-arthur-goldstuck-guess-what-drives-trust-in-self-driving-cars/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bt/opinion/2022-02-06-arthur-goldstuck-guess-what-drives-trust-in-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bt/opinion/2022-02-06-arthur-goldstuck-guess-what-drives-trust-in-self-driving-cars/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 24
   - title: "Guess what drives trust in self-driving cars"
     excerpt: "Three major obstacles stand in the way of self-driving cars, and they are all rather obvious: the technology isn’t quite ready for the road, governments and traffic authorities aren’t ready for the rules, and people just aren’t ready for machines ..."
     publishedDateTime: 2022-02-05T22:06:00Z

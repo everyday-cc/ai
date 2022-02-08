@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-likely-t
 webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-likely-to-experience-a-tremendous-growth-in-near-future-microsoft-us-google-california-us-salesforce-com-us"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -26,15 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fintech Market May See Big Move | Inbenta Technologies, IPsoft, Nuance Communications, ComplyAdvantage"
-    excerpt: "The Latest Released AI in Fintech market study has evaluated the future growth potential of Global AI in Fintech market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and ..."
-    publishedDateTime: 2022-02-04T07:07:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-may-see-big-move-inbenta-technologies-ipsoft-nuance-communications-complyadvantage"
+  - title: "Artificial Intelligence (AI) in the Freight Transportation Market Is Likely to Experience a Tremendous Growth in Near Future | Cargofy, KONUX, FERO"
+    excerpt: "Global Artificial Intelligence (AI) in the Freight Transportation Market Development Strategy Pre and Post COVID-19, by Corporate Strategy Analysis, Landscape, Type, Application, and Leading 20 Countries , Covid 19 Outbreak Impact research report added ..."
+    publishedDateTime: 2022-02-04T10:36:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-the-freight-transportation-market-is-likely-to-experience-a-tremendous-growth-in-near-future-cargofy-konux-fero"
     type: article
     provider:
       name: Digital Journal
       domain: digitaljournal.com
-    quality: 20
+    quality: 14
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/NFT-museum-AFP-1K-600x337.jpg"
         width: 600

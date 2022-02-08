@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
 type: article
 quality: 72
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -84,6 +84,17 @@ related:
         width: 1600
         height: 780
         isCached: true
+  - title: "Apple acquires startup that makes music using AI"
+    excerpt: "Apple’s acquisition of AI Music will allow it to create soundtracks using royalty-free music and artificial intelligence."
+    publishedDateTime: 2022-02-08T05:34:00Z
+    webUrl: "https://mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html"
+    ampWebUrl: "https://mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 37
   - title: "Apple reportedly acquires UK startup AI Music"
     excerpt: "Apple Inc. has reportedly acquired AI Music, a startup that uses artificial intelligence to create tailor-made music. As is typical with companies that Apple acquires, there is no official ..."
     publishedDateTime: 2022-02-08T03:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/fintech-ecosystem-report?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-ecosystem-report?amp"
 type: article
 quality: 58
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "Fintech Funding Reaches New Highs"
-    excerpt: "\"Fintech is altering all of that by reducing prices ... including chatbots, artificial intelligence (AI), blockchains, and crypto-assets. Corporate venture arms and digital incubators have been established by large multinational banks, who are investing ..."
-    publishedDateTime: 2022-02-03T13:27:00Z
-    webUrl: "https://www.finextra.com/blogposting/21733/fintech-funding-reaches-new-highs"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "HEdzgePB3D/o2io3DarqvHtdKnp+uvlKUGoLV4tWGf5j1QIyeUd4w51SUdUAi8gzB5QMXWaKHae+ickm257xzzjWQ/FlMKmWYWLcJxMGRzS6USHNN4Zr2TkqSJbMegmAPvmCB/O968g2RrkUGC3/YU3wyGqKYjKEk3t+1FrahgO8DkGxUzSLELialLEBsLSGa4g2S2oErrXzAk4NNmKwNKM2/kaxG22xSFs9MAhujGodlH33OAugEEeg5+/TzF2arCeGD7ZPH9dtUafx7f5nc2rJzxq7ejnUJf6MHhAlwul/sik6tXKgIfJnDPXl5jlgMcscRgf7Xg/fOUdyyfsxkq3P7/6s7GU+CHfuUg+7/jXiXLWUIfoFMG6+AZ76dulclD2HfmAJql/7BWiRvg92aysLUEYzMzVoHlGbrx2l5c5tLc5n0ty5xyhj94hzB9gR3faQrHf0cqkqUrtbA98zF4EvtMSa8i+7nWTv65KEkkxwgf5lGwxVCOxHj5SgqfZrSd0oIqn1ld73s0kE15Wxjg==;FLL1HEMtNv0mUjBJItUzBw=="
 ---

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI-led Analytics to play crucial role in Government’s vision of India@100"
-    excerpt: "FM highlighted that Artificial Intelligence (AI) as a sunrise opportunity while advocating promoting digital economy & fintech, technology enabled development; and we, at Course5 Intelligence ..."
-    publishedDateTime: 2022-02-03T14:39:00Z
-    webUrl: "https://menafn.com/1103637622/AI-led-Analytics-to-play-crucial-role-in-Governments-vision-of-India100"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?45645"
-        width: 311
-        height: 250
-        isCached: true
 
 secured: "G4ZOozaPaJ/MR40dXc1K5ln9nY4rtrNfX45o5VbjHsb0GXO/TpaGgKxIwwo2kALaCiUH/2e3BGqUIPW7Tw/dSv7M1vIo2ExaZ+XflfiI6pBQbKvVMNMxG8jLpAwBh+0hHm19yi0uriO8GVWpA6nSqkDih8XSFvEKJFzIeblQXO0ZMODL4oyp4XGe0ggcy/fIEdRuSfyf6SIHDFjq4MUuFU3IChMxc+FENugrNgf25AqQ7oxcHANtoFGEvWrIE4Ldn9kytwIoC019qiA1iqCaQiE6XaViZxtiKKMrlZULHzJD+7cPfYRb+LGE6gG30MRfyIAJtV9JEFZ3czi8zijZTc7a+B4XERB5HrzPZ8kFe6SOYyf7k0E+fUBY+ZqLvTXeXumMMcR3qcboU1p25dsL4lV8+niGrq7RJ01XpDgLw5woMdczvfOZ2gYnqIKSm+ArxN28o0Z6mmHth/HVScQBwGUI8KQPq7K/7HQhrthIv3eJ3pfAa4v37b/pmrOWYbx3uMnx0yWPE1+lAsJ29Dwbew==;Pbqmk8gF6VlYXXMWwcDWqg=="
 ---

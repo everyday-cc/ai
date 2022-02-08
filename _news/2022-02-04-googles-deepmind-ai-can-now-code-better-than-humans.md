@@ -55,20 +55,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "AlphaCode: The DeepMind AI engine that writes code competitively"
-    excerpt: "When entered into 10 coding competitions, AlphaCode ranked within the top 54pc of human programmers. DeepMind, the Alphabet subsidiary based in the UK, has created a new AI-powered system called AlphaCode which can write computer programs “at a ..."
-    publishedDateTime: 2022-02-03T15:03:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/alphacode-deepmind-google-alphabet-coding-ai"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/02/alpha.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "ypaNMpQRLoszT0Gy9ONUEcAihB8GKB5BMHnIWbixeE84q4vbPOKICJLarcC2Khmgjqsm4Vs5Hn8E2YvXGssCatPmOcjtyCobS0heNkLdHD/2Jo/CVy8dzJUzaXDh1PjInjGjp9SDOfYo/MctBnedvwdxolj2mXJFX2Sb4WDSSh9vsXjiqQtyLQ//EBh32saWyhW2eEPuKVDP6eSba0gdPlpNd0eNurUsXRCv0igcRkpr+Ytbjoay5Wt/EwIMlV3QBspF79urJXg1alwrJ8trmhIjxK0zGBga2fxKyyIpyHJszNtqN0SwfdAHPltb3Eb1+J0RSb+fkLhrF4zxpt3xMH7lv9DRuNu2TYjZzBrhXkQ8NnXzwJ6ANqxbNDezAmYWtB3yAx3Z8RlPYoX0gFUAjOIhA13nKgJwsCYe5kCMpO5onVEMXG4YmLiWReh1/Qf96sT9Dl8iPESL+/aC+5YKqfrIlKlugHedKjJqtTtk3SCN9njrVLpu6fPhIejckZ8MzOyvQOg+/GN6oKJOizwxDw==;5PVWTh0AVDsK2TrR0WMPmw=="
 ---

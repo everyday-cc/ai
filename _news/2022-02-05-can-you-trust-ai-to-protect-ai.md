@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/am
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/04/can-you-trust-ai-to-protect-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top AI Trends To Watch For In 2022"
-    excerpt: "There is now mounting evidence to show that public sentiment towards AI-based mass surveillance is tilting in favor of the latter. Over time with gradual, measured and transparent efforts, the walls of resistance will start to crumble. 2. Ethical AI Will ..."
-    publishedDateTime: 2022-02-03T13:08:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/03/top-ai-trends-to-watch-for-in-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/02/03/top-ai-trends-to-watch-for-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/03/top-ai-trends-to-watch-for-in-2022/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "U.K. Airports Trial AI Security Project"
     excerpt: "Project DARTMOUTH will utilize Pangiam’s technologies alongside Google Cloud’s artificial intelligence (AI) and machine learning (ML) computer vision tools, such as their Vertex AI Platform. This technology will be tested within the security facilities ..."
     publishedDateTime: 2022-02-05T13:45:00Z

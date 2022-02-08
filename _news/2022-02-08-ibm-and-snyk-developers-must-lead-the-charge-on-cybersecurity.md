@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/article/ibm-and-snyk-developers-must-le
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/ibm-and-snyk-developers-must-lead-the-charge-on-cybersecurity/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: TechRepublic
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Virtual CISO startup Cynomi raises $3.5M to help SMBs automate cybersecurity"
-    excerpt: "Cynomi, an Israeli cybersecurity startup that has built a virtual CISO ... human component and instead uses artificial intelligence (AI) technology to emulate a human CISO and automate previously ..."
-    publishedDateTime: 2022-02-03T14:36:00Z
-    webUrl: "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/"
-    ampWebUrl: "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-174074147.jpg?w=1024"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Jump in Facial and Voice Recognition Raises Privacy, Cybersecurity, Civil Liberty Concerns"
     excerpt: "Facial recognition, voiceprint, and other biometric-related technology are booming, and they continue to infiltrate different facets of everyday life. The technology brings countless potential benefits, as well as significant data privacy and cybersecurity ..."
     publishedDateTime: 2022-02-03T23:23:00Z
@@ -62,6 +46,20 @@ related:
       - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
         width: 1426
         height: 808
+        isCached: true
+  - title: "inGen Dynamics Selects Firedome To Provide IoT Cybersecurity To Its Entire Robotic and AI Solutions Portfolio"
+    excerpt: "inGen Dynamics (https://www.getaido.com) is an AI and Robotics company dedicated to positively influencing the world’s perception of intelligent machines. We create intelligent, innovative solutions that simplify the complexities of life. Our passion is ..."
+    publishedDateTime: 2022-02-06T18:35:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ingen-dynamics-selects-firedome-to-provide-iot-cybersecurity-to-its-entire-robotic-and-ai-solutions-portfolio"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 18
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/DDD-12-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "pAofsofagCBDxsinMm6UbAA1WyxdSkQzpBHZblptIAAkox2ph2r5IyT74H5I/2WZgRIr9RKUVTaXf55Cy8J1hVnCxntElg8tZgenwSDrWOyNc6N6vp8jv68zQIudpF0pLnW+BiLpvDwPpUIXGDxYOX7GdDWMlTnYIA9s1WmZVVr6+rf7Bq/YQox6JwuvO7XnpPNyq6qFxqfcvabFK5DsoEnvilFTwLYmM4HnibtNPRRr0qMNAEMb1PeM1ZR83dHl+E/JML4GaNzCtvXYQClUp7Kb916WJsv8SJ9d4eu7vNbAuPTrkt86E0aM+V55SAs3qSXTiDLbz+cd1KaG72FWf/dOOqdrv2VBtFDwmIbSvasZe3qtlUYbbJyoUYvj/iBTPjKi5KMa2gc3KIXj7YOoTcv9jIW10Qd5L/yU/+rF4zIU2ckKRvzxvuWIOIrqZo9Sp+dj+MnrHtnYQu/Lq+h68VA8TpDqxVglfJYrN5IEVSvxcxVqZcM+48zt2CVTcx6Lihftfo6x2mb+vXsx3YzFkw==;dxF6Zsl8lGX7uqq9MqTdLA=="

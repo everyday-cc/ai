@@ -98,6 +98,17 @@ related:
         width: 1600
         height: 780
         isCached: true
+  - title: "Apple acquires startup that makes music using AI"
+    excerpt: "Apple’s acquisition of AI Music will allow it to create soundtracks using royalty-free music and artificial intelligence."
+    publishedDateTime: 2022-02-08T05:34:00Z
+    webUrl: "https://mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html"
+    ampWebUrl: "https://mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/business/433072-apple-acquires-startup-that-makes-music-using-ai.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 37
 
 secured: "tYmoRmh/pEJhZXg3ExAqNDK5Dv/jRQYBgqPeZjZ0e1c6qu7vrDRUVnFmTMXIAveCPBwDAmqsBZBotJTZ2ZxRBu72Re3d+eWyRG864H7+6io6NkoGkumQrgfzNGi3eeghl4MgKY11ffcS8zxS9HA6BkQrPu5SL7W0jUYOj8rJ2avLBpOKjTteofXFeYojWRh1diweR7c+jeVbKQyfU7EEkloUYA1wgb2sL9iI6FB1OZcaXliJaKK77Sveto96uNcfKBM1vJDMK62H0IQj6msN0qh6Ms/LT1nXLD3Sm/YRxg49ttdkZxCgb5y84/V8z6ckJ5gj0F2NDpM7sIfAcF3ovgaWpb4zRyJ2C/fj8G2x4lA=;Zqz2HEfUrVt3DDR6S61Haw=="
 ---

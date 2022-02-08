@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/07/the-great-resignation-gives-birth
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/07/the-great-resignation-gives-birth-to-digital-employees-powered-by-ai-ml-and-rpa/amp/"
 type: article
 quality: 99
-heat: 99
+heat: 101
 published: true
 
 provider:

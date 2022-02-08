@@ -37,6 +37,20 @@ related:
         height: 1462
         isCached: true
   - title: "Study develops deep learning model to simulate brain topography"
+    excerpt: "A team of researchers have developed a computational model that allows them to simulate the spatial organization or topography of the IT and learn more about ho"
+    publishedDateTime: 2022-02-08T05:41:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272269299/study-develops-deep-learning-model-to-simulate-brain-topography"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 56
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1644065241.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Study develops deep learning model to simulate brain topography"
     excerpt: "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization or ..."
     publishedDateTime: 2022-02-05T12:25:00Z
     webUrl: "https://news.webindia123.com/news/Articles/Science/20220205/3904319.html"

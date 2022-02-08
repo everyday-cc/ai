@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retr
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward?amp"
 type: article
 quality: 86
-heat: 96
+heat: 97
 published: true
 
 provider:

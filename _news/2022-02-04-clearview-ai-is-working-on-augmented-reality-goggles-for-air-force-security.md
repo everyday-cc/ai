@@ -48,20 +48,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Clearview: Glasses With Facial Recognition Are Here And The Air Force Has Them"
-    excerpt: "Clearview AI is bringing glasses with facial recognition to the Air Force. Meanwhile, it's selling to the FBI and ICE, despite concerns over the technology. Clearview AI, the facial recognition company backed by Facebook and Palantir investor Peter Thiel ..."
-    publishedDateTime: 2022-02-03T14:13:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2022/02/03/clearview-ai-glasses-with-facial-recognition-are-here-and-the-air-force-is-using-them/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61fbe16d5551f14b1679be48/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 633
-        isCached: true
 
 secured: "lfr6zYNveIL//SbhAlvdnLclzISVm0uLWZegVd6cC0Qd77sjcGfsquhEST4uPrUtIynO008AYr+zGnSKZglpNVN8VIGpgC6ISTJZeYx5LQ8XTCNs02pdra7ryQbCn4RWnVVGmWpXqnYJamZk5orB5pzhObND1oJwc5cuqptUQ3akdbbsZTCY0jsA45uPiFRWCBdJgXfWt6unMUR+odwH2NW2d95sp/q0IvSvbj1OYGuuFAfC8zdXKVgsmiCBXjkTGnN5tlbi8K/F9wxEOIOtTeDRATNqhHRgMMzCXvIE1Nu2l1qmUjmMIWD3Tw5226r82XWZenIOelAutNWTRKuwEkhbO5bcrhCFd6WoxCGDybk=;2g+CWNLgH/WT6Y4Ijut9Qg=="
 ---

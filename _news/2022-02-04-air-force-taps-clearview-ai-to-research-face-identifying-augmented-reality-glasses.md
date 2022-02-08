@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/02/03/technology/air-force-clearview-ai
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/03/technology/air-force-clearview-ai-glasses.amp.html"
 type: article
 quality: 183
-heat: 203
+heat: 193
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/3640231cd895ac24353c3bd25b8e6f61.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Clearview: Glasses With Facial Recognition Are Here And The Air Force Has Them"
-    excerpt: "Clearview AI is bringing glasses with facial recognition to the Air Force. Meanwhile, it's selling to the FBI and ICE, despite concerns over the technology. Clearview AI, the facial recognition company backed by Facebook and Palantir investor Peter Thiel ..."
-    publishedDateTime: 2022-02-03T14:13:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2022/02/03/clearview-ai-glasses-with-facial-recognition-are-here-and-the-air-force-is-using-them/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61fbe16d5551f14b1679be48/0x0.jpg?format=jpg&width=1200&fit=bounds"
-        width: 1200
-        height: 633
         isCached: true
 
 secured: "lzIz1hNpcBXaRSWaNRnegvM3XfEbkZV40Y69jBYSF2jQXyqIDaUM0rcyaIZnmzqbnA+V4Q643NC5mKAUBJdiby/h2/2/x+aC+cWD4/ZjYB5Q9TQh5ieR6PhmDkSWJFqGOAANsC7fS1eTQsvTAHWttWlosfbDZEYGUwk/auoP6beTIKNKrkKO5g5feuygh0uT+bt6fvdqSLp29RaR0mSD4kZGolThKVFtdt2dwZ3GD2a/TY86y2lHnsLRujjQ1X54Mi/+ExYk5pGpjr7jCPEvzUpotpdUya35lT1jYeOrGS6IAdJjhYjDt+FtNQg04wBmzuZvslooj1HLgx1shxWilliq0WJpdKgVmFMKP6FuDPb1DgX5aPCqmo3XSAT5F5OCe+bdePCvAnzzp60s7z7sxDgeuEaQsiCET6lIExvMs0tAQx6YYSOVbQB/vguJHa1nkkUwY8jkOlQ6SBCahBZOCnIPLSSLEjbOfqW5AzlzgBX9HtXAXZKuyuF9zChRfQgz1rKumEP8lQOo4n2vCV3wKWSAiT1mfWuKwwALZapNac0=;6uQdZY0sNVuXHmtoGwRJ1g=="

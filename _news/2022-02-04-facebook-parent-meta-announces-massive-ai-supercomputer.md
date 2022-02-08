@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thedailystar.net/toggle/news/facebook-parent-meta-announ
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/toggle/news/facebook-parent-meta-announces-massive-ai-supercomputer-2953756?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Daily Star
@@ -40,20 +40,6 @@ related:
       - url: "https://www.crn.com/resources/0272-14640207f2d8-064e608ce78c-1000/thierry-pellegrino-penguin.jpg"
         width: 610
         height: 458
-        isCached: true
-  - title: "Meta's Q4 capex hits $5.5bn for data centers and offices, as shares plummet on Facebook stagnation"
-    excerpt: "With its core product slowing, and struggling to attract younger audiences, Facebook has begun to pivot to the 'metaverse ... As part of that, it this month launched the 'AI Research SuperCluster,' a system comprised of Nvidia DGX A100s, that will ..."
-    publishedDateTime: 2022-02-03T14:38:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/metas-q4-capex-hits-55bn-for-data-centers-and-offices-as-shares-plummet-on-facebook-stagnation/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 10
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Facebook_iDFCvdY.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "4TmNs1LtilvkLhPfUFwphsySq5mVQM0X6dqtWe+6belYOLmh8a55/ET0ihJxoU892D18H3XAmYZqhGkMdaE6+m1p+toubC3PGdWS8gxBOOvh21EyBq8fD2l8O5IcsDdYlDCxUu/MEZyQIZQjOC8aaNnmZA3g/XRGaPnf6zhK7xtuUQPqrC7yVHEJrQSDErg7Hz1j86TUXCsD8Xa16HDECewuupXGt1RNEk80AcgSsufvzoI/TO2bj4+BhpK2BMCQeDVjqReFKsd8A3uJ/CrGtQhg6ytf7phIucpQWtrxfP5ppqPk1M69PAu20wU8tkYLGTjt+6PO0b+Un7oYUAP6O/5iDLjtCmkvh3WSkUO0CIg=;TYAaOpUaNbqojk61zrsAig=="

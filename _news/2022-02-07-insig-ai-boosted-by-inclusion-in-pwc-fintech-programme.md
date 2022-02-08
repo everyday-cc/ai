@@ -2,15 +2,15 @@
 category: news
 title: "Insig AI boosted by inclusion in PwC FinTech programme"
 excerpt: "Insig AI PLC (AIM:INSG), the machine learning company, put on 3p (8.2%) at 39.5p after it was selected for PwC's Scale FinTech programme. The programme is designed to give access to new commercial opportunities within PwC as well as among its clients."
-publishedDateTime: 2022-02-07T13:44:00Z
-originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/insig-ai-boosted-by-inclusion-in-pwc-fintech-programme-973290.html"
-webUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/insig-ai-boosted-by-inclusion-in-pwc-fintech-programme-973290.html"
+publishedDateTime: 2022-02-07T08:59:00Z
+originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/great-portland-soars-as-it-boasts-of-record-year-with-two-months-yet-to-run-973290.html"
+webUrl: "https://www.proactiveinvestors.co.uk/companies/news/973290/great-portland-soars-as-it-boasts-of-record-year-with-two-months-yet-to-run-973290.html"
 ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/973290"
 cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/973290"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Proactive Investors
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tiger Global fires up fintech"
+    excerpt: "Tiger Global has become one of the most profitable tech investors, holding investments in more billion-dollar startups-including fintechs- than any other firm, according to CB Insights."
+    publishedDateTime: 2022-02-08T05:32:00Z
+    webUrl: "https://www.altfi.com/article/8804_tiger-global-fires-up-fintech"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/tiger-global-fires-up-fintech.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Insig Ai Plc Regulatory News"
     excerpt: "Insig AI plc (AIM:INSG), the data science and machine learning company, is delighted to announce that it has been selected for PwC's Scale FinTech programme. The programme is designed to give access to new commercial opportunities within PwC as well as ..."
     publishedDateTime: 2022-02-07T07:16:00Z
@@ -37,6 +51,6 @@ related:
       domain: lse.co.uk
     quality: 19
 
-secured: "1opaKgIdfUKh85K0XJh3Xbh5zbCeDfPpEwpPbD/t3P0w/dYuHRppLscWMbO+BgYr752S4i+PqArTBpLJhDzeXpyTWAGjE0s+tZ3a/6aa+ca42Yh6cnWNNQEvq3qj0hllRfGG9WWGznX7uwPTtSUnm5XmHH/iSCq8gvalsnkBQMtEmghunqd3Z7xMC7u+VvtrBV5TD6fMo10ms19qCgRsit1HGzgBQ3y6vIlxxTbx6LDPg+JrqqK3lnSI3+5U6WeEXnPYqtCdU6p/vIYIcVCpM4bLMSi2jCbdHQ/eNuFObwX5VnQHMV4wKe3AEAZwc1Vxt/PXsvsZu/nr9NL931slSiZFsFMB5qJ7WgJNObMq8r+9lF8jkHew5qLzX/LWtuUr6iQONlyDgxl8gvztAMjyZYaMmgy1JExC220NT0d0LLwbT7bqQyIfqWzfiYPsWeAzwoXPuvsFupwdj26GG/GymnT2frR/X0tatJRc4A2l5pkk40o3+abWZMy/+io4h9NKixDL5g3nJy0H4wCHDiHKnw==;8/kS4XJ4wGY/c3EV6pG/9w=="
+secured: "KbKY9YCHuB+ojnozTJ3vNiKTcoC8Pd2lBy0pzQGXVp+Qahdv8oA1dEoa4ws+dK1A2zX0sLJq4SA9mLeQNyiVVFTThGgv/4DkoX1I8DIyKFsrWsSreXjEA1fHBJHpWtyQozA3qZErR6FJbSmDcQ/uA13QQLkomUkDzturnUDz0rN+VVMDLGigvoDnGkuMl1g7A+bX9mJUazVmVzXJkllMhjtx8VfyWAnv5y//ygZugzLCNqzJRx097QssJ3247TdrCnAFmqu7tw9GgylBej0onkTwKj0rG1IFtSAWNG6p2StND3o+2ycikjoY+vSH0Zd1Yfek08WDeCkYHXdlNo0Me3gMrWiLIdD41kDovIiQgLk=;ZL85Epe0yC4SW6tQanfhNg=="
 ---
 

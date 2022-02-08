@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/02/04/opinion/self-driving-car-escalade.amp.html"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: New York Times
@@ -31,74 +31,106 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Toyota’s outrageous self-driving Supra drift car go sideways"
-    excerpt: "As the automotive community awaits the dawn of a fully autonomous, self-driving car, the Toyota Research Institute (TRI) has other things in mind. Care for a self-drifting vehicle, specifically a new Supra with Toyota’s Nonlinear Model Predictive Control ..."
-    publishedDateTime: 2022-02-03T14:35:00Z
-    webUrl: "https://www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/"
-    ampWebUrl: "https://www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways-03710358/amp/"
+  - title: "How a big blue van from 1986 paved the way for self-driving cars"
+    excerpt: "This was the world’s first self-driving automobile: A pioneering work of computer science and engineering somehow built in a world where fax machines were still the predominant way to send documents, and most phones still had cords. But despite being ..."
+    publishedDateTime: 2022-02-05T17:03:00Z
+    webUrl: "https://www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-history/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-history/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/first-self-driving-car-ai-navlab-history/?amp"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
+      name: Digital Trends
+      domain: digitaltrends.com
     quality: 74
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/02/Screenshot-16.v1.cropped.jpg"
-        width: 1440
-        height: 589
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/navlab-1-5-autonomous-vehicles.jpg"
+        width: 1500
+        height: 1000
         isCached: true
-  - title: "Toyota built an autonomous self-drifting sports car"
-    excerpt: "The automaker has built a Supra sports car with the capability of performing drift racing-style driving on a track. The project is a collaboration between the Toyota Research Institute and Stanford University's Dynamic Design Lab, which has previously ..."
-    publishedDateTime: 2022-02-03T18:20:00Z
-    webUrl: "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car"
-    ampWebUrl: "https://www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/toyota-autonomous-self-drifting-sports-car.amp"
+  - title: "Understanding the Puzzle: The future of self driving vehicles"
+    excerpt: "Shaheen Chevrolet of Lansing President Ralph Shaheen said self-driving cars are a great tool. “It pulls up, takes them where they want to go when they want to go, brings them back when they want to come back. They’re not on somebody else’s schedule."
+    publishedDateTime: 2022-02-04T21:51:00Z
+    webUrl: "https://www.wlns.com/understanding-the-puzzle/understanding-the-puzzle-the-future-of-self-driving-vehicles/"
+    ampWebUrl: "https://www.wlns.com/understanding-the-puzzle/understanding-the-puzzle-the-future-of-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/understanding-the-puzzle/understanding-the-puzzle-the-future-of-self-driving-vehicles/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 74
+      name: WLNS.com
+      domain: wlns.com
+    quality: 59
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/02/720/405/supra.jpg?ve=1&tl=1"
-        width: 720
-        height: 405
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2022/02/chrome_hJBOshG2J6.png?w=1280"
+        width: 1279
+        height: 712
         isCached: true
-  - title: "Watch Toyota showing off self-driving drift car with tech that can take over when things get slippery"
-    excerpt: "THE TECHNOLOGY behind a new self-driving drift car from Toyota is being hailed as an important safety breakthrough for road cars Using a Toyota GR Supra as a base car, the Toyota Research Institute (TRI), a US-based R&D arm of the Japanese car-maker ..."
-    publishedDateTime: 2022-02-03T14:20:00Z
-    webUrl: "https://www.driving.co.uk/video/watch-toyota-showing-off-self-driving-drift-car-with-tech-that-can-take-over-when-things-get-slippery/"
-    ampWebUrl: "https://www.driving.co.uk/video/watch-toyota-showing-off-self-driving-drift-car-with-tech-that-can-take-over-when-things-get-slippery/amp/"
-    cdnAmpWebUrl: "https://www-driving-co-uk.cdn.ampproject.org/c/s/www.driving.co.uk/video/watch-toyota-showing-off-self-driving-drift-car-with-tech-that-can-take-over-when-things-get-slippery/amp/"
+  - title: "Self-driving big-rigs will haul freight in Arizona"
+    excerpt: "In the self-driving technology world, there are five levels of autonomy. At Level 4, no human is required to be in the vehicle. But it can only operate along predefined, mapped routes — which TuSimple has done between Tucson and Phoenix. In its seven ..."
+    publishedDateTime: 2022-02-06T05:27:00Z
+    webUrl: "https://www.dailyitem.com/business/self-driving-big-rigs-will-haul-freight-in-arizona/article_3e1a1094-458d-57b9-99bf-295fa3e86ad0.html"
+    ampWebUrl: "https://www.dailyitem.com/business/self-driving-big-rigs-will-haul-freight-in-arizona/article_3e1a1094-458d-57b9-99bf-295fa3e86ad0.amp.html"
+    cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/business/self-driving-big-rigs-will-haul-freight-in-arizona/article_3e1a1094-458d-57b9-99bf-295fa3e86ad0.amp.html"
     type: article
     provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 29
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 44
     images:
-      - url: "https://i.ytimg.com/vi/MfU5_gzqPaM/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/c/5e/c5e328d8-85cd-11ec-ad31-b773d76c35c7/61fd43f4c0ea3.image.jpg?resize=1024%2C540"
+        width: 1024
+        height: 540
         isCached: true
-  - title: "Self-Driving Freight Deliveries to Begin in Arizona This Spring"
-    excerpt: "These driver-out demonstrations aim to prove that TuSimple's artificial intelligence autonomous driving technology ... in a statement. In the self-driving technology world, there are five levels of autonomy. At Level 4, no human is required to be in ..."
-    publishedDateTime: 2022-02-03T21:26:00Z
-    webUrl: "https://www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring"
-    ampWebUrl: "https://www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/community/self-driving-freight-deliveries-to-begin-in-arizona-this-spring?_amp=true"
+  - title: "This NYT Story About A \"Self-Driving Road Trip\" Is Full Of Dangerous Misunderstandings"
+    excerpt: "The problems start right from the title of the article, “My Big Fat Self-Driving Road Trip,” which I guess is a reference to those My Big Fat Greek Wedding movies, but I don’t really get why ..."
+    publishedDateTime: 2022-02-04T18:22:00Z
+    webUrl: "https://jalopnik.com/this-nyt-story-about-a-self-driving-road-trip-is-full-1848482117"
+    ampWebUrl: "https://jalopnik.com/this-nyt-story-about-a-self-driving-road-trip-is-full-1848482117/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/this-nyt-story-about-a-self-driving-road-trip-is-full-1848482117/amp"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 36
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/43c4dd84c5526f85bfdd6f75909bec9b.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Companies are racing to make self-driving cars. But why?"
+    excerpt: "Yesterday at 12:50 p.m. EST The buzz is back for self-driving cars. Not long ago, blown forecasts left investors and tech enthusiasts feeling deflated: In 2016, Ford planned to offer self-driving taxis by 2021, and Lyft claimed it would start doing so even ..."
+    publishedDateTime: 2022-02-05T06:42:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2022/02/04/self-driving-cars-why/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 24
-  - title: "Watch this self-driving car by Toyota that can drift all on its own"
-    excerpt: "The TRI states that the objective of its work is to make autonomous vehicles more capable, and therefore safer, in scenarios such as driving on black ice or avoiding sudden obstacles. \"At TRI, our goal is to use advanced technologies that augment and ..."
-    publishedDateTime: 2022-02-04T10:22:00Z
-    webUrl: "https://www.tweaktown.com/news/84400/watch-this-self-driving-car-by-toyota-that-can-drift-all-on-its-own/index.html"
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DLYRGECUJVDKHKA4JM4QHQHQDY.jpg&w=1440"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "ARTHUR GOLDSTUCK: Guess what drives trust in self-driving cars"
+    excerpt: "Three major obstacles stand in the way of self-driving cars, and they are all rather obvious: the technology isn’t quite ready for the road, governments and traffic authorities aren’t ready for the rules, and people just aren’t ready for machines ..."
+    publishedDateTime: 2022-02-06T04:28:00Z
+    webUrl: "https://www.businesslive.co.za/bt/opinion/2022-02-06-arthur-goldstuck-guess-what-drives-trust-in-self-driving-cars/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bt/opinion/2022-02-06-arthur-goldstuck-guess-what-drives-trust-in-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bt/opinion/2022-02-06-arthur-goldstuck-guess-what-drives-trust-in-self-driving-cars/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 4
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 24
+  - title: "Guess what drives trust in self-driving cars"
+    excerpt: "Three major obstacles stand in the way of self-driving cars, and they are all rather obvious: the technology isn’t quite ready for the road, governments and traffic authorities aren’t ready for the rules, and people just aren’t ready for machines ..."
+    publishedDateTime: 2022-02-05T22:06:00Z
+    webUrl: "https://www.timeslive.co.za/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/business/opinion/2022-02-06-guess-what-drives-trust-in-self-driving-cars/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 24
 
 secured: "4/XY3TbLxJPc2Iylc6ZOkn3WOsPmRohnhDaL6zkEug+/PC+Pyz+Wauvi5+81NyWWDDrYUU1t2DLkAM7d233C4/LkjDdRYzKAAWKgXNIvbYCXob3RCPffUBoeJJB2/JZDEP4AtTm3E7PO3XjrDMdurmLwW1xdS9L7IVfGS4DYflagfVe2FeGg5lSOovYLnhs8Gn5EhzdK0RcYExQGVLMVP9UvyqPfTKTra1kObdG5gL77P9LO0tQu8Zxh5Vs9zsghC+vU4Y0d/nVVpUEAKn+8hvBh0dawENM2CcbJ5pXtgtodubOPvK5BxRf+nzq3S/DD9NzytZCbuXioRLpGhgA+VwtKoXw7aD/34JOjfFSXop9kw5BdbPkWRV8NZqiSGkvM8bQDF4rF9MFZPtHq5IAAM86t0faBJTROzN8a6FY5BrD37cx/pn9bSIKNsG0kumMVcZVMJWBbbnHeg6wEH5BBvmybG2RVHYxvxiUKyFQjzSt4L7dAGvZfAOpVG/y0r+ot3DgJ6FJLV5J+9hBwz0h8wg==;ds71Go/isCNfxXSczoB0VQ=="
 ---

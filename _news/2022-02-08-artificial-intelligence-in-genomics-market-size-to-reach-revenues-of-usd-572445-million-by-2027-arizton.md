@@ -68,6 +68,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Robotic Prosthetic Market Size Projected to Reach USD 2,384.4 Million at a CAGR of 8.9%, in 2028"
+    excerpt: "Growing demand for robotic prosthetic products due to increasing incidents of severe road accidents and injuries, and rising number of patients with vascular diseases are key factors driving market revenue growth Market Size – USD 1,"
+    publishedDateTime: 2022-02-04T01:03:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272264992/robotic-prosthetic-market-size-projected-to-reach-usd-23844-million-at-a-cagr-of-89-in-2028"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 26
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1644263234674.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "(AI) Artificial Intelligence in Drug Discovery Market to Rise at 33.9% CAGR, to Reach USD 5,558.0 Million by 2029: Polaris Market Research"
     excerpt: "By offering, the software division has the largest market share. The two of the most popular AI platforms are Google AI and Microsoft Azure. By technology, machine learning involves a gamut of techniques that can assist people in making better decisions as ..."
     publishedDateTime: 2022-02-03T23:04:00Z

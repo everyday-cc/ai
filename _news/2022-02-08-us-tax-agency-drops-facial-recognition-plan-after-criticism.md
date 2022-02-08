@@ -1,27 +1,27 @@
 ---
 category: news
 title: "US tax agency drops facial recognition plan after criticism"
-excerpt: "Facial recognition technology use by law enforcement has been criticized by activists who say its inaccuracies may reinforce racial bias - © AFP MAHMUD HAMS Facial recognition technology use by law enforcement has been criticized by activists who say its ..."
-publishedDateTime: 2022-02-07T23:57:00Z
-originalUrl: "https://www.digitaljournal.com/tech-science/us-tax-agency-drops-facial-recognition-plan-after-criticism/article"
-webUrl: "https://www.digitaljournal.com/tech-science/us-tax-agency-drops-facial-recognition-plan-after-criticism/article"
+excerpt: "The US national tax authority announced on Feb 7 that it will stop using facial recognition software to verify taxpayers’ identities when they create online accounts, following a chorus of privacy concerns."
+publishedDateTime: 2022-02-08T06:42:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/08/us-tax-agency-drops-facial-recognition-plan-after-criticism"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/02/08/us-tax-agency-drops-facial-recognition-plan-after-criticism"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/4e97a46ec67b41a00baa9fa63cda5549dd51e815.jpg"
-    width: 768
-    height: 511
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/02/08/1473152.jpg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
@@ -58,9 +58,9 @@ related:
         height: 630
         isCached: true
   - title: "IRS Retreats From Facial Recognition to Verify Taxpayers’ Identities"
-    excerpt: "WASHINGTON—The Internal Revenue Service is scrapping its use of a private facial-recognition system to authenticate taxpayers’ identities for online accounts, the agency said Monday after criticism from lawmakers in both parties over privacy concerns."
-    publishedDateTime: 2022-02-07T22:53:00Z
-    webUrl: "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843?mod=hp_lead_pos4"
+    excerpt: "The agency’s use of the technology has drawn bipartisan concerns over privacy."
+    publishedDateTime: 2022-02-07T19:51:00Z
+    webUrl: "https://www.wsj.com/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843"
     ampWebUrl: "https://www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/irs-backs-away-from-facial-recognition-to-verify-taxpayers-identities-11644264843"
     type: article
@@ -88,6 +88,22 @@ related:
       - url: "https://static01.nyt.com/images/2022/02/07/business/07dc-irs/07dc-irs-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "IRS to stop using facial recognition for identity verification"
+    excerpt: "The IRS will stop using a controversial third-party service for facial recognition to verify identity for online accounts."
+    publishedDateTime: 2022-02-07T23:34:00Z
+    webUrl: "https://www.cnbc.com/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/02/07/irs-to-stop-using-facial-recognition-for-identity-verification.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106888859-1622060828895-gettyimages-1231812116-IRS_TAX.jpeg?v=1630653821"
+        width: 3600
+        height: 2400
         isCached: true
   - title: "IRS backtracks on sketchy facial recognition plan following public outcry"
     excerpt: "That's the takeaway following a Monday morning announcement that the IRS intends to shift away from requiring Americans use a private facial-recognition service to verify their identities on the ..."
@@ -136,6 +152,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107012106-1644263106982-gettyimages-1295580690-dsc04205.jpeg?v=1644263126"
         width: 2121
         height: 1414
+        isCached: true
+  - title: "IRS says it will back away from facial recognition amid outcry"
+    excerpt: "The IRS has told Senator Ron Wyden it will back away from facial recognition tech following pressure from politicians and other critics.."
+    publishedDateTime: 2022-02-08T06:19:00Z
+    webUrl: "https://www.engadget.com/irs-to-end-facial-recognition-use-195637614.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/os/creatr-images/2020-06/b9358e00-ba31-11ea-b7bd-97f3759aed0d"
+        width: 5472
+        height: 3648
         isCached: true
   - title: "IRS to end ID.me facial recognition effort after widespread backlash"
     excerpt: "The Internal Revenue Service (IRS) announced on Monday afternoon that it will no longer be using ID.me facial recognition software, adding in a statement that it will \"transition away from using a third-party service for facial recognition to help ..."
@@ -257,6 +287,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RFXILT5MNBE2FOLHXQBWHXIVMU.jpg"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "IRS to end use of facial recognition to identify taxpayers"
+    excerpt: "The IRS said Monday it will suspend the use of facial recognition technology to authenticate people who create online accounts after the practice was criticized by privacy advocates and lawmakers. The agency said it would no longer use a third-party service,"
+    publishedDateTime: 2022-02-07T19:19:00Z
+    webUrl: "https://www.chron.com/news/article/IRS-to-end-use-of-facial-recognition-to-identify-16839145.php"
+    ampWebUrl: "https://www.chron.com/news/amp/IRS-to-end-use-of-facial-recognition-to-identify-16839145.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/IRS-to-end-use-of-facial-recognition-to-identify-16839145.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/72/67/21999085/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "After criticism, IRS to end use of facial recognition to identify taxpayers"
     excerpt: "WASHINGTON (AP) — The IRS said Monday it will suspend the use of facial recognition technology to authenticate people who create online accounts after the practice was criticized by privacy ..."
@@ -412,6 +458,22 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "IRS says it will scrap facial-recognition ID.me plan following backlash"
+    excerpt: "Tax agency backtracks after lawmakers and taxpayers voice concern that ID system could put personal data at risk."
+    publishedDateTime: 2022-02-07T19:38:00Z
+    webUrl: "https://www.cbsnews.com/news/irs-id-me-facial-recognition-abandon/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/irs-id-me-facial-recognition-abandon/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/irs-id-me-facial-recognition-abandon/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2022/01/11/3d791689-4fb9-4421-a446-dae871b4af40/thumbnail/1200x630/96422b27f7337af35e31743540440084/cbsn-fusion-irs-warns-of-frustrating-tax-filing-season-ahead-thumbnail-870962-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "PD Editorial: IRS facial recognition plans tax the public’s patience"
     excerpt: "Editorials represent the views of The Press Democrat editorial board and The Press Democrat as an institution. The editorial board and the newsroom operate separately and independently of one another. The Internal Revenue Service found a way to become even ..."
     publishedDateTime: 2022-02-04T08:20:00Z
@@ -496,6 +558,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IRS to drop facial recognition"
+    excerpt: "The IRS said Monday it will suspend the use of facial recognition technology to authenticate people who create online accounts afte"
+    publishedDateTime: 2022-02-08T06:08:00Z
+    webUrl: "https://www.journalgazette.net/news/us/20220208/irs-to-drop-facial-recognition"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 39
+    images:
+      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20220208/ARTICLE/302089969/AR/0/AR-302089969.jpg"
+        width: 395
+        height: 600
+        isCached: true
   - title: "IRS facial recognition plan gets fierce blowback from bipartisan senators"
     excerpt: "In the wake of a controversial plan by the Internal Revenue Service to implement third-party services that rely on facial recognition, bipartisan senators on Thursday demanded that the IRS “immediately discontinue” any programs that collect ..."
     publishedDateTime: 2022-02-04T21:00:00Z
@@ -578,6 +654,6 @@ related:
         height: 713
         isCached: true
 
-secured: "MJ+VVLs4+ALxwU15wPXGGXcaLWIhsd4EyNJpAnqYbtOumdLWKhydhNgdtQeWySiPyFhXQfCMoVi4IApTHCHxoh+X+3OPpRBi1YrTkakgukRLB4lmyjeunZkZ/2+7jcCisWBZjprjB0P/VPdX1HsTwkfgrqWtQtZt/KMwje6439iJUzBw+eqhJ002+cZsXCSATjVWbp7612ppdFr4oRJbrEqD7QiSO93yai3k7OgnOuGt34qvVXX5lHDRlOj8XHciZFBVdNqCtAAruLM0f3dBT9t76HTC5F2cshSwAQ9ZzkJhyE5TxeYZgnY9pF9o4pvynREKH9WX6y0iAx0o4Mh2IpM6c/s3Sg9tUhJPH3R7ju9lQo0Um+dHnLeK6c0Ac2lT3KYSgK2V/eI9+d9drFvFfd65L2rYYDxLPE8omKfJPBYFdEyje52QkmoY5z3ENbon/ZE/SPbsOpSG+gnWfbNkg2CyG2YwZBLWtLYAh/5VGsmmBU3oLwBgsjKiqJaf30kb4jntzCUsE5jFOHXGzxgUrA==;2P6yH3cnqDrZDFlPI2BhfA=="
+secured: "cZWiDW2KVyK3DWL4xLRI60YrarVhcqtYljT8aVUl1/sLaVjkmJORSMTjcUnSdUyh75XIiCH37GD032HTQuFH+pMqrSatCsWNfVZdsWxE9DIv3GVC8XuYYPGmyVv2BcsBhk6oTYZISOwjy1irnzHxHvzA6OCc5bTi1N40L9vKUAbfNRsjt8GRndLxqhVMLCKc/iZqBWqSKl4a1r/672qquGhb4r7ayubuktoInHJ94zq8Wx1szke1phdn4EPo0y/x1GTdCLBdYIc3xpRg9kp1nKL+CF1nO0ZOqjbQan1GE/DRBUeC6zoHTHfqFDxelZ/CeCRyqKLL4MEs2OZwYxKULnBDDiUNiQ9Lw0k3GPossOU=;5B6sna0Q/JA7XI7JJPbGxw=="
 ---
 
