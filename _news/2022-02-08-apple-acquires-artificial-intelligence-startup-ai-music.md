@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Has Bought a Startup That Uses AI to Make Music to Fit Your Mood"
+    excerpt: "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be ..."
+    publishedDateTime: 2022-02-08T04:02:00Z
+    webUrl: "https://time.com/6146000/apple-ai-music/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Apple acquires startup with tool that creates songs with AI"
     excerpt: "Apple on Monday acquired “AI Music,” a startup that has developed a platform capable of creating songs using artificial intelligence. The acquisition, according to sources familiar with the ..."
     publishedDateTime: 2022-02-07T22:35:00Z
@@ -69,6 +83,20 @@ related:
       - url: "https://images.macrumors.com/t/mZvApy6kL4CU6017nrjifizHLB8=/1600x/article-new/2022/02/ai-music.jpg"
         width: 1600
         height: 780
+        isCached: true
+  - title: "Apple reportedly acquires UK startup AI Music"
+    excerpt: "Apple Inc. has reportedly acquired AI Music, a startup that uses artificial intelligence to create tailor-made music. As is typical with companies that Apple acquires, there is no official ..."
+    publishedDateTime: 2022-02-08T03:58:00Z
+    webUrl: "https://siliconangle.com/2022/02/07/apple-reportedly-acquired-uk-startup-ai-music/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/aimusic.jpg"
+        width: 1800
+        height: 942
         isCached: true
 
 secured: "MiuhR++QEYxbvbSM4dxbRRGusiWI38nKJWE2Y+rSP/ETSJc4I6wY+dTXi5cBbYWneJAzDNSwO7Bmn0yG4VX+/JvMTKpQqLTbDwFOp81ow8Lte/8cIS8saqBgJo4+JOS1PBmzpkDCzo3yAKkU5IumqwFCEOVM/1TgJyB9mJ1VZgMJhRudj3N8enzPX+T2JmliMXs1Jx8j5PyQURRP0iZxrwrDzKouE49iGDXWwnhpT+epfY4zDSM3F7+ALbXfVFgsCvR/sJ35U2NQD1eoTLspTix95R10ltY38OAgqrx322aCZrE3FCsug3dKW7iJJ4vP66D5HJAUKLave0E17l9aT+G/V9Q2b7T2K96Wll5YfaRctCCFHZYTG4Y7ObunL7Wak/qPFQpyTE2pOYM7EVJlss4ht8xFA/DfhhXToQ3yVXB5GwMzeOEAyp4bLUyYWWRzNCDzEPfhEZGIO0LG0EZKLvP/YVG19KJmIptjnPJSauhQ2R1mVZAzNYL9LknH8gPHByiD2VzYpEoKM8aSm1rAMQ==;9//bSA/QeoEPGm/82RoBNw=="

@@ -39,15 +39,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "People prefer interacting with female robots in hotels"
-    excerpt: "... Hotel in Las Vegas to the fully automated FlyZoo hotel chain in China where guests interact only with robots and artificial intelligence (AI) features. For the study, survey participants were presented with one of four scenarios about interacting with ..."
-    publishedDateTime: 2022-02-03T11:16:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/942183"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
   - title: "Rise of the fembots! People are more comfortable interacting with a robot if it appears FEMALE than male – especially if it has human-like features, study finds"
     excerpt: "These are important considerations for AI robot developers as well as for hospitality employers to consider as they think about adopting robots more widely,' Seo said. 'We may start to see more robots as replacements of human employees in hotels and ..."
     publishedDateTime: 2022-02-03T18:48:00Z

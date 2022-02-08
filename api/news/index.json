@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-02-08-google-subsidiary-deepmind-goes-retro-to-push-ai-forward.md",
+      "title": "Google Subsidiary DeepMind Goes RETRO to Push AI Forward",
+      "excerpt": "have boosted the branch of artificial intelligence called natural language processing (NLP). But while the applications for NLP algorithms are myriad, they operate on text data, which makes them complex and expensive and often limits their usefulness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward",
+      "originalUrl": "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-subsidiary-deepmind-goes-retro-to-push-ai-forward?amp",
+      "publishedDateTime": "2022-02-07T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-08-sony-and-gran-turismo-7-dev-tease-big-ai-news-for-this-week.md",
       "title": "Sony And Gran Turismo 7 Dev Tease Big AI News For This Week",
       "excerpt": "Sony AI and Polyphony Digital released a teaser for a project between them which will be revealed on February 9. The announcement is related to the Gran Turismo franchise, which Polyphony Digital is known for. The trailer shows the Gran Turismo logo ...",
@@ -52,7 +87,7 @@
       "originalUrl": "https://appleinsider.com/articles/22/02/07/apple-acquires-artificial-intelligence-startup-ai-music",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -653,7 +688,7 @@
       "originalUrl": "https://www.cio.com/article/304352/microsoft-azure-data-scientist-associate-certification-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1178,59 +1213,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-05-despite-recent-progress-ai-powered-chatbots-still-have-a-long-way-to-go.md",
-      "title": "Despite recent progress, AI-powered chatbots still have a long way to go",
-      "excerpt": "It took about two months to train the most capable version of the system using over 1,000 of Google’s third-generation tensor processing units (TPUs), chips designed to accelerate AI training.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/05/despite-recent-progress-ai-powered-chatbots-still-have-a-long-way-to-go/",
-      "originalUrl": "https://venturebeat.com/2022/02/05/despite-recent-progress-ai-powered-chatbots-still-have-a-long-way-to-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/shutterstock_571952740.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 644,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/05/despite-recent-progress-ai-powered-chatbots-still-have-a-long-way-to-go/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/05/despite-recent-progress-ai-powered-chatbots-still-have-a-long-way-to-go/amp/",
-      "publishedDateTime": "2022-02-05T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

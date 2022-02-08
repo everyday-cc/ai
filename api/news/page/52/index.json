@@ -2,6 +2,177 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-12-16-regulators-must-root-out-bias-in-ai-based-lending.md",
+      "title": "Regulators must root out bias in AI-based lending",
+      "excerpt": "It’s pretty clear that the move to AI and machine learning is well underway in financial services. A 2020 survey of lenders found that 88% of them plan to increase their investment in AI in the coming years specifically for use in evaluating credit risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbanker.com/opinion/banking-regulators-must-root-out-bias-in-ai-based-lending",
+      "originalUrl": "https://www.americanbanker.com/opinion/banking-regulators-must-root-out-bias-in-ai-based-lending",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/283708b/2147483647/strip/true/crop/4500x2363+0+319/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fba%2Fa4%2Ff0aaeb11494f8b26a8abe3df8de2%2Fai.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-us-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance.md",
+      "title": "U.S. Set to Ban American Investment in Some Chinese Companies Over Surveillance",
+      "excerpt": "A draft Treasury Department announcement says the companies, including a major drone maker, participate in China’s mass surveillance of Muslim ethnic groups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
+      "originalUrl": "https://www.wsj.com/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-452768/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
+      "publishedDateTime": "2021-12-15T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-developing-ai-applications-on-azure.md",
+      "title": "Developing AI Applications on Azure",
+      "excerpt": "Next, this course introduces the machine learning tools available in Microsoft Azure. We'll review standardized approaches to data analytics and you'll receive specific guidance on Microsoft's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/education/skillbuilder/developing-ai-applications-on-azure-0_DMj3I_RZEemNmw4gGersHg",
+      "originalUrl": "https://www.usnews.com/education/skillbuilder/developing-ai-applications-on-azure-0_DMj3I_RZEemNmw4gGersHg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using-deepdubs-ai-and-deep-learning-platform.md",
+      "title": "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform",
+      "excerpt": "Topic's streaming service & Deepdub partner to localize dozens of foreign-language series to English using Deepdub's AI and deep learning platform By Deepdub Ltd Dec 15, 2021",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/topics-streaming-service-deepdub-partner-to-localize-dozens-of-foreign-language-series-to-english-using/article_51a059bc-18e1-5ff7-a555-1aabc30592bb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and-novel-computer-vision-technology.md",
       "title": "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology",
       "excerpt": "Algolux's solutions improve vision accuracy and address mission-critical safety concerns in the automotive, transport, and autonomous vehicle space",

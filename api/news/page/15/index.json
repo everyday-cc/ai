@@ -2,6 +2,188 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-01-22-ibm-sells-its-watson-healthcare-assets-to-francisco-partners.md",
+      "title": "IBM sells its Watson healthcare assets to Francisco Partners",
+      "excerpt": "IBM has announced to sell healthcare data and analytics assets from the company (currently part of the IBM Watson Health business) to Francisco Partners, a leading global investment firm. Although financial terms of the transaction were not disclosed but previous reports pegged the value at around $1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
+      "originalUrl": "https://www.freepressjournal.in/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/import/2014/05/ibm.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 917,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/ibm-sells-its-watson-healthcare-assets-to-francisco-partners",
+      "publishedDateTime": "2022-01-21T21:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications.md",
+      "title": "Telenor teams with AWS to accelerate modernisation of telecommunications",
+      "excerpt": "Telenor, an international provider of tele, data and media communications services, and AWS will invest in joint go-to-market activities in select industries—such as manufacturing, supply chain and logistics,",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/telecoms-and-nbn/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications.html",
+      "originalUrl": "https://itwire.com/telecoms-and-nbn/telenor-teams-with-aws-to-accelerate-modernisation-of-telecommunications.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/b5bf9e446b95b7a0bd33dbe4eed25746_M.jpg",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-21T17:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-irs-to-require-facial-recognition-for-digital-services.md",
+      "title": "IRS to Require Facial Recognition for Digital Services",
+      "excerpt": "People who use the IRS digital portal will need to be prepared starting in the summer to submit a live video selfie and various documentation to make and view payments and access tax records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services",
+      "originalUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/a2d6975/2147483647/strip/true/crop/940x490+0+132/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F7a%2F7d%2F80c58fef8b932e1f1ad5c9c6f006%2Fshutterstock-camera-lens-up-close.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/gov-experience/irs-to-require-facial-recognition-for-digital-services?_amp=true",
+      "publishedDateTime": "2022-01-21T15:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-22-everything-connected-18-orchestrating-intelligence.md",
+      "title": "Everything Connected 18 - Orchestrating Intelligence",
+      "excerpt": "Douglas Adams in the Hitchhiker's Guide to the Galaxy states that the answer to life, the universe and everything is 42, but what really is the question? We talk about Big Data and all the analytics that it entails to try to intelligently solve problems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/everything-connected-18-orchestrating-intelligence-numorpho",
+      "originalUrl": "https://www.linkedin.com/pulse/everything-connected-18-orchestrating-intelligence-numorpho",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGzx4KA1WRijA/article-cover_image-shrink_720_1280/0/1642784572532?e=1649289600&v=beta&t=I7qMHowAGeh6fPtPB4GcoJX8Y2e5Tf8ztHmDJLAX2dY",
+          "width": 1236,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-21T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-22-ibm-sells-watson-health-assets-to-investment-firm.md",
       "title": "IBM Sells Watson Health Assets to Investment Firm",
       "excerpt": "The tech giant said its deal with Francisco Partners wouldn’t weaken its commitments to other artificial-intelligence technology and healthcare clients that use its IT services.",
@@ -932,204 +1114,6 @@
         "name": "CBS Local",
         "domain": "cbslocal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-new-ratings-aim-to-make-partial-self-driving-safer.md",
-      "title": "New Ratings Aim To Make Partial ‘Self Driving’ Safer",
-      "excerpt": "Many partially automated systems that “share” the driving with motorists, like Autopilot, Pilot Assist and Super Cruise, don't provide enough back-up protections, according to a new ratings system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/",
-      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e9e75f4b77c5fa20f81778/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/01/20/new-ratings-aim-to-make-partial-self-driving-safer/amp/",
-      "publishedDateTime": "2022-01-20T13:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-anymals-quadrupedal-robot-takes-a-hike.md",
-      "title": "ANYmal’s quadrupedal robot takes a hike",
-      "excerpt": "It’s been pretty astonishing to see what robotics researchers have been able to accomplish with legged robots over the past few years. Oregon State University taking Cassie for a 5K back in July springs to mind.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/",
-      "originalUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/image.imageformat.fullwidth.1716413789.jpg?w=930",
-          "width": 930,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/20/anymals-quadrupedal-robot-takes-a-hike/amp/",
-      "publishedDateTime": "2022-01-20T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-al-gore-emissions-reductions-hinge-on-ai-measurements-from-space.md",
-      "title": "Al Gore: Emissions reductions hinge on AI measurements from space",
-      "excerpt": "Achieving earthly emissions reductions goals will hinge upon the extraterrestrial capabilities of artificial intelligence technologies that are taking precision measurements from space, according to f",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from",
-      "originalUrl": "https://thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/goreal_08132018getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/equilibrium-sustainability/590663-al-gore-emissions-reductions-hinge-on-ai-measurements-from?amp",
-      "publishedDateTime": "2022-01-20T11:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-mercedes-benz-teams-up-with-luminar-on-self-driving-tech.md",
-      "title": "Mercedes-Benz teams up with Luminar on self-driving tech",
-      "excerpt": "Luxury carmaker Mercedes-Benz will partner with self-driving sensor maker Luminar Technologies Inc to enable fully automated driving on highways for its next-generation vehicles, Luminar's founder said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/mercedes-benz-teams-up-with-luminar-self-driving-tech-2022-01-20/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/mercedes-benz-teams-up-with-luminar-self-driving-tech-2022-01-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/1ADIm3zEYd9gwwsrRSyl6Rs2q7o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UQO6R4AMZZJV5HOVQS7YH5BFSU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-20T11:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

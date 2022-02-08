@@ -2,6 +2,205 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2022-01-13-10-ways-artificial-intelligence-will-change-the-world-in-2022.md",
+      "title": "10 Ways Artificial Intelligence will Change the World in 2022",
+      "excerpt": "From time being AI has been applied in different sectors such as Healthcare, Machine Learning, Education, Enterprise and many other. To know how AI is been applied in 2022 in different sectors read the below article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/10-ways-artificial-intelligence-will-change-the-world-in-2022/",
+      "originalUrl": "https://www.analyticsinsight.net/10-ways-artificial-intelligence-will-change-the-world-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2022/01/10-Ways-Artificial-Intelligence-will-Change-the-World-in-2022.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives.md",
+      "title": "Five Things Every Enterprise Can Do To Ensure The Long-Term Success And Sustainability Of AI Initiatives",
+      "excerpt": "As companies prioritize sustainable value creation, it’s past time for AI to become a bigger part of the conversation. By taking these five steps, organizations can go a long way in achieving resilient AI initiatives that benefit all stakeholders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e04920093cc7466934b4ed%2F0x0.jpg",
+          "width": 1200,
+          "height": 823,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives/amp/",
+      "publishedDateTime": "2022-01-13T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform.md",
+      "title": "How was my pitch, Jenny? Zoom's venture fund invests in conversational AI platform",
+      "excerpt": "Second Nature uses natural language processing and subject matter experts to build sales skills and product knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/",
+      "originalUrl": "https://www.techrepublic.com/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/13/3f149792-bfed-4dec-9ea4-240158b8d3c2/resize/1200x/30778448d1a8d8309ebad3f0df49e1a6/second-nature-analysis-screenshot.jpg",
+          "width": 1200,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/",
+      "publishedDateTime": "2022-01-13T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-rackspace-taps-digivante-to-offer-ai-based-application-testing.md",
+      "title": "Rackspace taps Digivante to offer AI-based application testing",
+      "excerpt": "Rackspace has partnered with Digivante to offer artificial intelligence (AI) -based application testing services to its customers in Europe, the Middle East, and Africa. The partnership will help significantly reduce testing cycle times for Rackspace customers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361973/rackspace-taps-digivante-for-ai-based-app-testing",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361973/rackspace-taps-digivante-for-ai-based-app-testing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1642086217/itpro/data_concept_GettyImages-1197243194.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361973/rackspace-taps-digivante-for-ai-based-app-testing?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361973/rackspace-taps-digivante-for-ai-based-app-testing?amp",
+      "publishedDateTime": "2022-01-13T07:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-balancing-ai-and-humanity-five-cx-predictions-for-2022.md",
       "title": "Balancing AI And Humanity: Five CX Predictions For 2022",
       "excerpt": "While 2021 was a year of transition from the digital back to the physical world, I predict that 2022 will be an exciting time for blending the best of AI with the best of humanity.",
@@ -962,191 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantitative-analysis-forecast-up-to-2030.md",
-      "title": "Artificial Intelligence in Military Market: Revenue Growth, Key Players, Qualitative Analysis, Quantitative Analysis, Forecast up to 2030",
-      "excerpt": "The artificial intelligence in military market is projected to grow from USD 6.26 billion in 2017 to USD 18.82 billion by 2025, at a CAGR of 14.75% during the forecast period. \"Increasing investments to develop AI integrated systems and rising adoption of cloud-based applications are key factors driving the growth of the artificial intelligence in military market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/25030379/artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantita",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/25030379/artificial-intelligence-in-military-market-revenue-growth-key-players-qualitative-analysis-quantita",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25030379",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25030379",
-      "publishedDateTime": "2022-01-12T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges.md",
-      "title": "Graph-based recommendation system with Neptune ML: An illustration on social network link prediction challenges",
-      "excerpt": "Recommendation systems are one of the most widely adopted machine learning (ML) technologies in real-world applications, ranging from social networks to ecommerce platforms. Users of many online systems rely on recommendation systems to make new friendships, discover new music according to suggested",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/04/ML-6681-image003-1111x630.png",
-          "width": 1111,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T14:50:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-ai-and-advance-machine-learning-in-bfsi-market-evolving-trends-and-opportunities-in-covid-19-pandemic-end-by-2027.md",
-      "title": "AI and Advance Machine Learning in BFSI Market Evolving Trends and Opportunities in COVID-19 pandemic end by 2027",
-      "excerpt": "AI and Advance Machine Learning Market OREGAON, PORTLAND, UNITED STATES, January 12, 2022 /EINPresswire.com / -- Allied Market Research r",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103528067/AI-and-Advance-Machine-Learning-in-BFSI-Market-Evolving-Trends-and-Opportunities-in-COVID-19-pandemic-end-by-2027&source=29",
-      "originalUrl": "https://menafn.com/1103528067/AI-and-Advance-Machine-Learning-in-BFSI-Market-Evolving-Trends-and-Opportunities-in-COVID-19-pandemic-end-by-2027&source=29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-01/12/EP_a6b55image_story.jpeg",
-          "width": 790,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-nuro-add-airbags-for-people-to-self-driving-delivery-vehicles.md",
-      "title": "Nuro Add Airbags (for People) to Self-Driving Delivery Vehicles",
-      "excerpt": "Pedestrians can be an absent-minded bunch, so Nuro's newest delivery bot adds an external airbag to protect those who may collide with it on the sidewalk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles",
-      "originalUrl": "https://www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/0450pNfKRBwFezwmdnvuEr0-1.fit_lim.size_1200x630.v1642009417.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles?amp=true",
-      "publishedDateTime": "2022-01-12T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

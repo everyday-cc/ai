@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-03-music-playback-platform-market-will-hit-big-revenues-in-future-googleplay-163music-iheartradio-alibaba.md",
+      "title": "Music Playback Platform Market Will Hit Big Revenues In Future | GooglePlay, 163Music, IHeartRadio, Alibaba",
+      "excerpt": "Advance Market Analytics published a new research publication on Global Music Playback Platform Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2515847/music-playback-platform-market-will-hit-big-revenues-in-future",
+      "originalUrl": "https://www.openpr.com/news/2515847/music-playback-platform-market-will-hit-big-revenues-in-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/V/1/V103274728_g.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2515847/music-playback-platform-market-will-hit-big-revenues-in-future",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515847/music-playback-platform-market-will-hit-big-revenues-in-future",
+      "publishedDateTime": "2022-01-03T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-03-tesla-rival-races-to-introduce-driverless-cars-by-2024.md",
       "title": "Tesla rival races to introduce driverless cars by 2024",
       "excerpt": "Making predictions about technology is a notoriously dangerous sport, and the onset of driverless cars is a particularly perilous thing to forecast.  Googl",
@@ -1297,41 +1340,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3.md",
-      "title": "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, announced that its subsidiary, Robotic Assistance Devices Mobile Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24643155",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24643155",
-      "publishedDateTime": "2021-12-16T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

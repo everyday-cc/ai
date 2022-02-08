@@ -272,7 +272,7 @@
       "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10473397/People-comfortable-interacting-robot-appears-female.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -293,6 +293,40 @@
       "provider": {
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-influencer-robotics-and-the-other-fastest-growing-jobs-in-the-nation.md",
+      "title": "Influencer, robotics and the other fastest-growing jobs in the nation",
+      "excerpt": "Overall, the big winners on job growth for non-degree jobs are in social media, green jobs, automation and robotics. In jobs with degrees, artificial intelligence consultant saw the biggest increase in job postings over the last five years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/dayton/news/2022/02/02/fastest-growing-jobs-influencer-robotics.html",
+      "originalUrl": "https://www.bizjournals.com/dayton/news/2022/02/02/fastest-growing-jobs-influencer-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T19:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1345,41 +1379,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-21-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport.md",
-      "title": "Robotic Assistance Devices to deploy 2 SCOT security robots at major U.S. regional airport",
-      "excerpt": "Artificial Intelligence Technology Solutions (OTCPK:AITX) announced that a major U.S. regional airport is poised to deploy 2 SCOT security devices from its wholly-owned subsidiary Robotic Assistance Devices.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "originalUrl": "https://seekingalpha.com/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3790282-robotic-assistance-devices-to-deploy-2-scot-security-robots-at-major-us-regional-airport",
-      "publishedDateTime": "2022-01-21T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

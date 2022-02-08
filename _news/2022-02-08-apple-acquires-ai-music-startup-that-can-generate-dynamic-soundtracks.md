@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 714
         isCached: true
+  - title: "Apple Has Bought a Startup That Uses AI to Make Music to Fit Your Mood"
+    excerpt: "Apple Inc. acquired a startup called AI Music that uses artificial intelligence to generate tailor-made music, according to a person with knowledge of the matter, adding technology that could be ..."
+    publishedDateTime: 2022-02-08T04:02:00Z
+    webUrl: "https://time.com/6146000/apple-ai-music/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Apple acquires startup with tool that creates songs with AI"
     excerpt: "Apple on Monday acquired “AI Music,” a startup that has developed a platform capable of creating songs using artificial intelligence. The acquisition, according to sources familiar with the ..."
     publishedDateTime: 2022-02-07T22:35:00Z
@@ -69,6 +83,20 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/10/Jio_India-e1588588149242.jpg"
         width: 600
         height: 375
+        isCached: true
+  - title: "Apple reportedly acquires UK startup AI Music"
+    excerpt: "Apple Inc. has reportedly acquired AI Music, a startup that uses artificial intelligence to create tailor-made music. As is typical with companies that Apple acquires, there is no official ..."
+    publishedDateTime: 2022-02-08T03:58:00Z
+    webUrl: "https://siliconangle.com/2022/02/07/apple-reportedly-acquired-uk-startup-ai-music/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/aimusic.jpg"
+        width: 1800
+        height: 942
         isCached: true
 
 secured: "ypaRmOALyJtUN0W7raYi7KPTKUD+138Lo2Mh7wdzz+2YSPvTk5SFBK6q/NBDdoplxpu8VZ3Ydcj/ESYPzsUA2eYVSEb1ojdSK3AfHrlNx4b7VYC1vK3w0yM9BjPf095n73rp19EmOzHuCnJLkzrfzQqIUTKR4hBmXy4FBMP1BEYYifjbiRaXO41SGf47Y6zvkuRc07ioNY8R2SJIt1pHMTK+7ItqeZblUJVVrITV4yuII7flisjLoFfO7JTliSRQz3cOYQQvdk5iE23f4RYN/W3YbpzUHPkle3Vey+yg1RsuG0TLrXOwQQDA92nz1LTpXYO1ImFEKdj5HRwrbIStcYKXc9d/06zMAn8OMz716WahvbA+S2Bqu/PEm/Lt2psXGnjEFJ0T21TiGApZnA4iV2K7OEnvnrVco4yaCzhzV9YDbueal0SweSedUL1KM1mtx6Z3FG14dEo8hNib+7wzorj3QiiA7BRmNnmmWTqcJn9olMHyTONNIIvimdB8FwM7X8qX+FfiGKUU0TRWD8TpdQ==;isCvQER6iIee9PdcGBgVKQ=="

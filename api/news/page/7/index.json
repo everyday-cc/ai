@@ -2,6 +2,152 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-30-containers-and-kubernetes-underpin-more-edgy-artificial-intelligence-efforts.md",
+      "title": "Containers and Kubernetes underpin more edgy, artificial intelligence efforts",
+      "excerpt": "Containers are popular, and surveys show rise in Kubernetes adoption as their primary orchestration engine. This is key as applications grow more complex.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/containers-and-kubernetes-underpin-more-artificial-intelligence-efforts/",
+      "originalUrl": "https://www.zdnet.com/article/containers-and-kubernetes-underpin-more-artificial-intelligence-efforts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a3370eb57abfa384af429f356d68ca7cbe8545db/2022/01/29/3ce43d82-f7de-4681-a27a-1cb7c2da4ac3/national-gallery-of-art-washington-dc-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1168,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/containers-and-kubernetes-underpin-more-artificial-intelligence-efforts/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/containers-and-kubernetes-underpin-more-artificial-intelligence-efforts/",
+      "publishedDateTime": "2022-01-29T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-30-bias-in-ai-is-spreading-and-its-time-to-fix-the-problem.md",
+      "title": "Bias in AI is spreading and it’s time to fix the problem",
+      "excerpt": "To unlock the full power of automation and create change, we must understand how and why bias in AI happens and what to do about it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/",
+      "originalUrl": "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1304302959.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/29/bias-in-ai-is-spreading-and-its-time-to-fix-the-problem/amp/",
+      "publishedDateTime": "2022-01-29T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-29-union-minister-dr-jitendra-singh-says-artificial-intelligence-ai-and-digital-medicine-are-critical-to-future-healthcare.md",
+      "title": "Union Minister Dr Jitendra Singh says, Artificial Intelligence (AI) and Digital Medicine are critical to future healthcare",
+      "excerpt": "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh said here today that",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/union-minister-dr-jitendra-singh-says-artificial-intelligence-ai-and-digital-medicine-are-critical-to-future-healthcare/",
+      "originalUrl": "https://indiaeducationdiary.in/union-minister-dr-jitendra-singh-says-artificial-intelligence-ai-and-digital-medicine-are-critical-to-future-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2022/01/image002I7D8.jpg",
+          "width": 564,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/union-minister-dr-jitendra-singh-says-artificial-intelligence-ai-and-digital-medicine-are-critical-to-future-healthcare/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/union-minister-dr-jitendra-singh-says-artificial-intelligence-ai-and-digital-medicine-are-critical-to-future-healthcare/",
+      "publishedDateTime": "2022-01-28T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-29-amazon-cloud-gets-file-sharing-and-collaboration-boost-with-box-integration.md",
       "title": "Amazon Cloud gets file sharing and collaboration boost with Box integration",
       "excerpt": "One of the most interesting integrations is with Rekognition, Amazon’s deep learning image recognition tool. In connecting Box with the AWS Rekognition service, a Lambda function could tap ...",
@@ -1059,144 +1205,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-facebook-owner-meta-builds-worlds-most-powerful-ai-supercomputer.md",
-      "title": "Facebook owner Meta builds world’s most powerful AI supercomputer",
-      "excerpt": "It said the system would build on recent improvements in AI such as language translation and image recognition to pave the way for the “metaverse”, the immersive virtual worlds that the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/technology/2022/01/24/facebook-owner-meta-builds-worlds-powerful-ai-supercomputer/",
-      "originalUrl": "https://www.telegraph.co.uk/technology/2022/01/24/facebook-owner-meta-builds-worlds-powerful-ai-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/2022/01/24/TELEMMGLPICT000275946245_trans_NvBQzQNjv4BqvqfDbYV_7XcRT56v9L25rEz8u_yM_qElUUgDZt2_D2M.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T23:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-2d-materials-could-be-used-to-simulate-brain-synapses-in-computers.md",
-      "title": "2D Materials could be used to simulate brain synapses in computers",
-      "excerpt": "a component that acts as a sort of synaptic cell in an artificial neural network, says KTH Associate Professor Max Hamedi. \"Instead of transistors that are either on or off, and the need for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/01/220128100738.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/01/220128100738.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-27T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-the-irs-should-stop-using-facial-recognition.md",
-      "title": "The IRS Should Stop Using Facial Recognition",
-      "excerpt": "With tax season upon us, the IRS is pushing individuals to submit to facial recognition in exchange for being able to complete a range of basic tax-related activities online. The IRS has retained a private firm—ID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/ideas/archive/2022/01/irs-should-stop-using-facial-recognition/621386/",
-      "originalUrl": "https://www.theatlantic.com/ideas/archive/2022/01/irs-should-stop-using-facial-recognition/621386/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/uj61NrtPPNrapCcc9ebMcNN2_88=/570x321/media/img/mt/2022/01/IRS_Facial_Recognition_1/original.jpg",
-          "width": 570,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/621386/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/621386/",
-      "publishedDateTime": "2022-01-27T14:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

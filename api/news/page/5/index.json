@@ -2,6 +2,134 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-02-02-civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-idme-facial-recognition.md",
+      "title": "Civil rights groups launch effort to stop IRS use of 'flawed' ID.me facial recognition",
+      "excerpt": "Multiple groups have come together to urge the IRS to stop its use of facial recognition software. Outrage continues to swirl around a proposed plan from the Treasury Department to require some taxpayers to submit to facial recognition and biometric surveillance in order to access their accounts online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
+      "originalUrl": "https://www.zdnet.com/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/civil-rights-groups-launch-effort-to-stop-irs-use-of-flawed-id-me-facial-recognition/",
+      "publishedDateTime": "2022-02-01T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-want-fair-redistricting-use-artificial-intelligence.md",
+      "title": "Want fair redistricting? Use artificial intelligence",
+      "excerpt": "Over 200 years ago, the “Gerrymander,” a salamander-like legislative district, was mocked in a newspaper cartoon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html",
+      "originalUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/PdC_O1q7OQzw1frCV0NMi-1SkB4=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/FWAFTSG63FBRTBWC6VVVY46YJE.jpg",
+          "width": 1200,
+          "height": 939,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-to-redistrict-better-reach-for-ai-20220201-xh6gyxqkvbb2vazwqqs4vk4ura-story.html?outputType=amp",
+      "publishedDateTime": "2022-02-01T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-02-tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs.md",
+      "title": "Tesla recalls 'full self-driving' feature that was designed to roll through some stop signs",
+      "excerpt": "Tesla will recall all 53,822 vehicles with its \"full self-driving\" driver-assist feature after it was intentionally programmed to slowly roll through stop signs in some scenarios. The recall will impact Model S,",
+      "sourceUrl": null,
+      "webUrl": "https://southeast.newschannelnebraska.com/story/45788410/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs",
+      "originalUrl": "https://southeast.newschannelnebraska.com/story/45788410/tesla-recalls-full-self-driving-feature-that-was-designed-to-roll-through-some-stop-signs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://CNNWIRE.images.worldnow.com/images/22122481_G.jpg?lastEditedDate=1643719956000",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-01T09:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Channel Nebraska",
+        "domain": "newschannelnebraska.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors.md",
       "title": "How XpertRule’s multiple AI tools compares to BPM competitors",
       "excerpt": "and predictive explainable machine learning. Both the authoring and deployment components of the Viabl.ai platform are 100 percent cloud-native and run serverless on AWS and Azure or on Premise.",
@@ -1040,144 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-fujitsu-to-establish-ai-ethics-and-governance-office.md",
-      "title": "Fujitsu to establish AI Ethics and Governance Office",
-      "excerpt": "Fujitsu has announced plans to establish its own AI Ethics and Governance Office that will oversee the “safe and secure deployment” of artificial intelligence (AI) and machine learning technologies. Scheduled to be created on 1 February 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1643641375/itpro/GettyImages-953212734-fujitsu.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/362104/fujitsu-to-establish-ai-ethics-and-governance-office?amp",
-      "publishedDateTime": "2022-01-31T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-privacy-advocates-lawmakers-concerned-about-irss-facial-recognition-plan.md",
-      "title": "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan",
-      "excerpt": "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590",
-      "originalUrl": "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 307,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000",
-          "width": 1778,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp",
-      "publishedDateTime": "2022-01-31T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-understanding-deep-learning-with-statistical-relevance.md",
-      "title": "Understanding Deep Learning with Statistical Relevance",
-      "excerpt": "The IB method is a recent proposal from deep learning theory that aims to explain some puzzling aspects of deep learning (DL) models, and in particular of deep neural networks (DNNs). Deep learning is a powerful technology with many successful applications ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/understanding-deep-learning-with-statistical-relevance/07B47A16041115D1A84C34220B515831",
-      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/understanding-deep-learning-with-statistical-relevance/07B47A16041115D1A84C34220B515831",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-31T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

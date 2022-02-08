@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-02-04-google-has-lost-2-ethical-ai-researchers-to-a-research-institute-founded-by-ousted-colleague-timnit-gebru.md",
+      "title": "Google has lost 2 ethical AI researchers to a research institute founded by ousted colleague Timnit Gebru",
+      "excerpt": "Alex Hanna and Dylan Baker will join Timnit Gebru, who left Google at the end of 2020. Gebru launched the DAIR Institute to scrutinize major tech firms' use of AI. Two more members of Google's ethical AI team are leaving the company to join a nonprofit led ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dair-institute.org/press-release",
+      "originalUrl": "https://www.businessinsider.com/two-google-researchers-quit-to-join-timnit-gebru-ethical-ai-2022-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/wc2kmxvk/production/8ba934ca12f0a32532ca9cca98d37500b7641e93-1440x695.png",
+          "width": 1440,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-03T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-02-04-report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues.md",
+      "title": "Report: 79% of ML teams say they ‘lack access’ to data needed to identify bias and ethics issues",
+      "excerpt": "Join today's leading executives online at the Data Summit on March 9th. Register here. A new report from Arize AI illustrates that the day-to-day reality for data scientists and machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/",
+      "originalUrl": "https://venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1076658510-e1643733014824.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/03/report-79-of-ml-teams-say-they-lack-access-to-data-needed-to-identify-bias-and-ethics-issues/amp/",
+      "publishedDateTime": "2022-02-03T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-02-04-overview-of-the-fintech-industry-stats-trends-and-companies-in-the-ecosystem-market-research-report.md",
       "title": "Overview of the fintech industry: stats, trends, and companies in the ecosystem market research report",
       "excerpt": "In recent years, we've seen a ballooning of activity in fintech — an expansive term applied to technology-driven disruptions in financial services, where financial companies and startups use artificial intelligence (AI) and other tech in their day-to-day ...",
@@ -719,6 +824,40 @@
       ]
     },
     {
+      "path": "_news/2022-02-03-influencer-robotics-and-the-other-fastest-growing-jobs-in-the-nation.md",
+      "title": "Influencer, robotics and the other fastest-growing jobs in the nation",
+      "excerpt": "Overall, the big winners on job growth for non-degree jobs are in social media, green jobs, automation and robotics. In jobs with degrees, artificial intelligence consultant saw the biggest increase in job postings over the last five years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/dayton/news/2022/02/02/fastest-growing-jobs-influencer-robotics.html",
+      "originalUrl": "https://www.bizjournals.com/dayton/news/2022/02/02/fastest-growing-jobs-influencer-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T19:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-gms-cruise-brings-self-driving-car-rides-to-the-public-in-san-francisco.md",
       "title": "GM’s Cruise brings self-driving car rides to the public in San Francisco",
       "excerpt": "Cruise, the autonomous car company acquired by General Motors in 2016, has announced the launch of driverless car rides in San Francisco. The rides are offered to the public for free at this time,",
@@ -1114,153 +1253,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-coreweave-partners-with-eleutherai-novelai-to-make-open-source-ai-more-accessible.md",
-      "title": "CoreWeave partners with EleutherAI & NovelAI to make open-source AI more accessible",
-      "excerpt": "a specialized cloud provider built for GPU-accelerated workloads, today announced the release of the largest publicly available language model in partnership with EleutherAI, a grassroots collective of researchers working to open source AI research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/coreweave-partners-with-eleutherai-novelai-to-make-open-source-ai-more-accessible/article_93a63060-52a1-5e77-8aec-ffff10b20238.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/coreweave-partners-with-eleutherai-novelai-to-make-open-source-ai-more-accessible/article_93a63060-52a1-5e77-8aec-ffff10b20238.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/c2/cc2e3d87-a505-5e62-bb84-2e0113a9640d/610c1287c9ddb.image.jpg?crop=1771%2C930%2C0%2C120&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-how-video-games-could-be-used-to-generate-ai-training-data.md",
-      "title": "How video games could be used to generate AI training data",
-      "excerpt": "Some researchers believe that video games could be used to more effectively generate AI training data. But they're not a perfect solution.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/",
-      "originalUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/super-nes-switch-controller.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/02/how-video-games-could-be-used-to-generate-ai-training-data/amp/",
-      "publishedDateTime": "2022-02-02T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-investing-in-ai-stocks.md",
-      "title": "Investing in AI Stocks",
-      "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/A.I._hand_playing_the_game_of_Go.width-700.jpg",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

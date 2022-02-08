@@ -196,6 +196,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "IRS scrapping facial recognition plan after widespread backlash"
+    excerpt: "The Internal Revenue Service has agreed to abandon its plan requiring taxpayers to verify their identity through facial recognition technology provided by a private company, after privacy advocates, taxpayers, and lawmakers from both sides of the political ..."
+    publishedDateTime: 2022-02-08T03:16:00Z
+    webUrl: "https://www.foxbusiness.com/politics/irs-scrapping-facial-recognition-plan-backlash"
+    ampWebUrl: "https://www.foxbusiness.com/politics/irs-scrapping-facial-recognition-plan-backlash.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/irs-scrapping-facial-recognition-plan-backlash.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8a908e86-949a-47e2-bb6f-e66f0457fb1d/4c62452d-7cfc-444a-ae22-e6e0f44db918/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "IRS to End Use of Facial Recognition on Tax Accounts"
     excerpt: "Your article was successfully shared with the contacts you provided. The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security."
     publishedDateTime: 2022-02-07T22:18:00Z
@@ -211,6 +227,22 @@ related:
       - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2021/06/Internal_Revenue_Service_IRS_Building_640x640.jpg"
         width: 640
         height: 640
+        isCached: true
+  - title: "IRS to end use of facial recognition to access tax accounts"
+    excerpt: "The use of the software has been the subject of bipartisan criticism from lawmakers because of concerns about privacy as well as questions about racial bias embedded in the program."
+    publishedDateTime: 2022-02-08T01:13:00Z
+    webUrl: "https://www.pennlive.com/nation-world/2022/02/irs-to-end-use-of-facial-recognition-to-access-tax-accounts.html"
+    ampWebUrl: "https://www.pennlive.com/nation-world/2022/02/irs-to-end-use-of-facial-recognition-to-access-tax-accounts.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2022/02/irs-to-end-use-of-facial-recognition-to-access-tax-accounts.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RFXILT5MNBE2FOLHXQBWHXIVMU.jpg"
+        width: 1600
+        height: 1067
         isCached: true
   - title: "After criticism, IRS to end use of facial recognition to identify taxpayers"
     excerpt: "WASHINGTON (AP) — The IRS said Monday it will suspend the use of facial recognition technology to authenticate people who create online accounts after the practice was criticized by privacy ..."
@@ -366,22 +398,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Here’s what’s wrong with an IRS proposal to use facial recognition technology for tax filing"
-    excerpt: "Because of privacy concerns, the IRS is reconsidering its plan to require the use of facial recognition to file taxes online this year. metamorworks - stock.adobe.com The U.S. Internal Revenue ..."
-    publishedDateTime: 2022-02-03T12:02:00Z
-    webUrl: "https://chicago.suntimes.com/2022/2/3/22914680/facial-recognition-irs-tax-filing-privacy-concerns-james-hendler-the-conversation-other-views"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2022/2/3/22914680/facial-recognition-irs-tax-filing-privacy-concerns-james-hendler-the-conversation-other-views"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2022/2/3/22914680/facial-recognition-irs-tax-filing-privacy-concerns-james-hendler-the-conversation-other-views"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 48
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/8beLPC1Cz-KzYFA-wvp1fFgYWjg=/0x0:6006x4004/1400x1050/filters:focal(3051x1015:4011x1975):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70466031/AdobeStock_164918001.0.jpeg"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "PD Editorial: IRS facial recognition plans tax the public’s patience"
     excerpt: "Editorials represent the views of The Press Democrat editorial board and The Press Democrat as an institution. The editorial board and the newsroom operate separately and independently of one another. The Internal Revenue Service found a way to become even ..."
     publishedDateTime: 2022-02-04T08:20:00Z
@@ -452,17 +468,20 @@ related:
         width: 1000
         height: 525
         isCached: true
-  - title: "IRS to end use of facial recognition to access tax accounts"
-    excerpt: "The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security. The transition from the ID.me, the third-party verification system that ..."
-    publishedDateTime: 2022-02-08T00:05:00Z
-    webUrl: "https://www.seattletimes.com/business/irs-to-end-use-of-facial-recognition-to-access-tax-accounts/"
-    ampWebUrl: "https://www.seattletimes.com/business/irs-to-end-use-of-facial-recognition-to-access-tax-accounts/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/irs-to-end-use-of-facial-recognition-to-access-tax-accounts/?amp=1"
+  - title: "IRS reverses plans on facial recognition"
+    excerpt: "The Internal Revenue Service is halting a plan that would have required taxpayers to verify their identities with facial recognition software before signing on to its website following backlash from lawmakers and privacy groups. The IRS said in a statement ..."
+    publishedDateTime: 2022-02-08T04:21:00Z
+    webUrl: "https://www.fox10tv.com/news/daily_dot_com/irs-reverses-plans-on-facial-recognition/article_dd8061bc-8880-11ec-a8f8-2f6cc989cb33.html"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: FOX10 News
+      domain: fox10tv.com
     quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/fox10tv.com/content/tncms/assets/v3/editorial/0/a8/0a847cad-7c22-5f52-92c9-273ab94cf978/6201ead3a4981.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "US tax agency drops facial recognition plan after criticism"
     excerpt: "Facial recognition technology use by law enforcement has been criticized by activists who say its inaccuracies may reinforce racial bias - © AFP MAHMUD HAMS Facial recognition technology use by law enforcement has been criticized by activists who say its ..."
     publishedDateTime: 2022-02-07T23:57:00Z
@@ -529,20 +548,6 @@ related:
       - url: "https://files.scmagazine.com/wp-content/uploads/2022/01/GettyImages-1137410589.jpg"
         width: 1500
         height: 900
-        isCached: true
-  - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
-    excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
-    publishedDateTime: 2022-02-03T13:03:00Z
-    webUrl: "https://www.govexec.com/technology/2022/02/government-agencies-are-tapping-facial-recognition-company-prove-youre-you-heres-why-raises-concerns-about-privacy-accuracy-and-fairness/361499/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 25
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2022/02/02/020322faceidGE/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Agencies Are Tapping a Facial Recognition Company to Prove You’re You. That Raises Concerns about Privacy, Accuracy and Fairness"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."

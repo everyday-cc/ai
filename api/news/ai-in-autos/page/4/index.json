@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-09-flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards.md",
+      "title": "Flagging Down A Roaming AI Self-Driving Car Robo-Taxi Might Not Be In The Cards",
+      "excerpt": "Flagging down a taxi or cab is still something done today, and the question arises whether AI-based self-driving car robo-taxis will do the same.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c7e1dc9878b5eedc7980d1%2F0x0.jpg",
+          "width": 1156,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards/amp/",
+      "publishedDateTime": "2022-01-09T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-ai-weekly-the-implications-of-self-driving-tractors-and-coming-ai-regulations.md",
       "title": "AI Weekly: The implications of self-driving tractors and coming AI regulations",
       "excerpt": "AI regulations are on the way from governments including China. Plus, driverless tractors have reached the market -- with caveats.",
@@ -1348,49 +1400,6 @@
       "provider": {
         "name": "pymnts.com",
         "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-music-playback-platform-market-will-hit-big-revenues-in-future-googleplay-163music-iheartradio-alibaba.md",
-      "title": "Music Playback Platform Market Will Hit Big Revenues In Future | GooglePlay, 163Music, IHeartRadio, Alibaba",
-      "excerpt": "Advance Market Analytics published a new research publication on Global Music Playback Platform Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2515847/music-playback-platform-market-will-hit-big-revenues-in-future",
-      "originalUrl": "https://www.openpr.com/news/2515847/music-playback-platform-market-will-hit-big-revenues-in-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/V/1/V103274728_g.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2515847/music-playback-platform-market-will-hit-big-revenues-in-future",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515847/music-playback-platform-market-will-hit-big-revenues-in-future",
-      "publishedDateTime": "2022-01-03T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

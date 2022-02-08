@@ -2,6 +2,188 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-01-07-focus-at-ces-tech-alliances-firm-up-in-the-self-driving-car-wars.md",
+      "title": "FOCUS-At CES, tech alliances firm up in the self-driving car wars",
+      "excerpt": "Major automakers like General Motors Co , Ford Motor Co and Volvo Cars deepened ties with key technology partners this week to gird for the fight against electric car challenger Tesla Inc and Apple Inc as it revs up to enter the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT",
+      "originalUrl": "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20220107&t=2&i=1587027218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI060FL",
+          "width": 830,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2TM2CT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2TM2CT",
+      "publishedDateTime": "2022-01-07T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement.md",
+      "title": "AI and machine learning adoption is the future of security and law enforcement",
+      "excerpt": "Video analytics based on AI/ML algorithms are gaining popularity with time and are soon expected to become a requisite for all law enforcement departments and public places to optimise safety",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
+      "originalUrl": "https://www.forbesindia.com/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2022/Jan/img_175481_cctv.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
+      "publishedDateTime": "2022-01-07T02:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-the-best-automotive-tech-at-ces-2022.md",
+      "title": "The Best Automotive Tech at CES 2022",
+      "excerpt": "With artificial intelligence and connected tech taking ... If successful, the model will put GM ahead of Waymo, Apple and Tesla, who have scaled-down their autonomous driving operations in light ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/automobile/the-best-automotive-tech-at-ces-2022-2-7911411.html",
+      "originalUrl": "https://www.moneycontrol.com/news/automobile/the-best-automotive-tech-at-ces-2022-2-7911411.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/01/2-mercedes-benz-vision-eqxx-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/automobile/the-best-automotive-tech-at-ces-2022-2-7911411.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/automobile/the-best-automotive-tech-at-ces-2022-2-7911411.html/amp",
+      "publishedDateTime": "2022-01-07T02:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-shady-amazon-software-identifies-michelle-obama-and-serena-williams-as-men-video.md",
+      "title": "Shady Amazon Software Identifies Michelle Obama and Serena Williams as MEN | Video",
+      "excerpt": "(Photo by Uri Schanker/Getty Images) *Since its creation, Amazon’s gender recognition software (“Rekognition“) has been on the wrong side of the radar for people of color. Former First Lady ...",
+      "sourceUrl": null,
+      "webUrl": "https://eurweb.com/2022/01/07/shady-amazon-software-identifies-michelle-obama-and-serena-williams-as-men-video/",
+      "originalUrl": "https://eurweb.com/2022/01/07/shady-amazon-software-identifies-michelle-obama-and-serena-williams-as-men-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eurweb.com/wp-content/uploads/2022/01/Serena-Williams-Michelle-Obama-Getty1.jpg",
+          "width": 625,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T01:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EURweb",
+        "domain": "eurweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-why-leverage-ai-for-customer-experience.md",
       "title": "Why Leverage AI for Customer Experience?",
       "excerpt": "The Customer Experience industry has seen a notable shift in over years application of AI technologies. From 2019 to 2020, there has been a rise of 28% in the adoption of AI in customer experience.",
@@ -926,186 +1108,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-the-chillax-baby-mood-ai-smart-monitor-focuses-on-privacy.md",
-      "title": "The Chillax Baby Mood AI Smart Monitor focuses on privacy",
-      "excerpt": "Chillax announces its unique Baby Mood AI smart baby monitor with AI and machine learning that grows with your baby.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/",
-      "originalUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/baby-mood-_05-2.jpg",
-          "width": 655,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/?amp",
-      "publishedDateTime": "2022-01-06T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-ambarella-amba-unveils-ai-based-image-signal-processor.md",
-      "title": "Ambarella (AMBA) Unveils AI-Based Image Signal Processor",
-      "excerpt": "Ambarella AMBA recently announced the launch of Artificial Intelligence (“AI”)-based Image Signal Processor (“AISP”) during the ongoing Consumer Electronics Show (“CES)",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor",
-      "originalUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp",
-      "publishedDateTime": "2022-01-06T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better.md",
-      "title": "Kokoon Nightbuds now use AI to help manage your sound sleep better",
-      "excerpt": "Now, Kukoon has announced new features to improve your sleep quality further and claims its new algorithm uses AI to offer a deeper analysis to help you get more rest at night. Kukoon’s earbuds house crucial sensors to detect your sleep including an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/",
-      "originalUrl": "https://www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/01/2e4044c474547bd67f0e0598228f61af.jpg",
-          "width": 1440,
-          "height": 959,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/amp/",
-      "publishedDateTime": "2022-01-06T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics.md",
-      "title": "What meets the eye: get granular consumer insights with visual analytics",
-      "excerpt": "Social network and search engine algorithms favor images and video over plain text, which means visual content receives wider reach and better engagement from users now than ever before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrum.com/industryinsights/2022/01/06/what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics",
-      "originalUrl": "https://www.thedrum.com/industryinsights/2022/01/06/what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-669632-image_21--default--1080.png",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drum",
-        "domain": "thedrum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
