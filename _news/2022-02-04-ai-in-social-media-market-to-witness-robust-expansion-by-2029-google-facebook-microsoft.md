@@ -67,6 +67,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 66
+  - title: "Komprise Partners with Microsoft to Support Microsoft Azure File Data Migration Program"
+    excerpt: "Organizations can leverage the Komprise Global File Index to query, tag and move the right data to the right place for AI, ML and data processing. “By working closely with the Microsoft Azure ..."
+    publishedDateTime: 2022-02-08T12:40:00Z
+    webUrl: "https://menafn.com/1103657119/Komprise-Partners-with-Microsoft-to-Support-Microsoft-Azure-File-Data-Migration-Program"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 46
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?737093"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "PtRiexXdk4UzJhClJGqlNSnzcpso0EsAnFK2rdjjnaWpSRBgC4MaBqIofBbxAHq4MZda0iwEDm9/ka/zzZIXm0tFrLCKjpVwvNVMRIXMqKDWtP/yqKMsOsmG3BjNT4VHAf60JChsZzH63i/h3QuLNJ/TedWN6vh/4+9qCTOwnL5fp8Dc+ABCZ3FUZyMY4pnDl3kHuqo0FvBv71Wq9lNr8YrKOXfNYUEP9nsGxtQt2yQXOBTN2PJJ7NCuNX02Z2w/xq+HUoOB4rslG5O7u/x4RYbISpqS+c/MCZQqU6Jyo1I037kL3mfEXL6MJpwoFnFC/OOSwT0gw2uRZFRAcevRiuQLGTzzJ23lfeafG/aur0Z+xy64bjhiyuWAAqE4hMRQjhkcZv+a8yiIVsjGICyR7rQtjVNeRRyJD2117a2qDKdxrLQ9KJIVgnGMOk97r74gGi8K34xjwBJOpLeggN2allFJgACid04HNLw81YHgdZefFonZlQ5yYHyl90W96wAzauJvRb5my03AZxbBiHxxgw==;ZtdCSeNPrOLto5iFPXxVmw=="
 ---

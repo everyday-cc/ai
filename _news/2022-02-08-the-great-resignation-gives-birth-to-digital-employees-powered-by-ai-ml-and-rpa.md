@@ -39,7 +39,7 @@ related:
     provider:
       name: Employee Benefit News
       domain: benefitnews.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://arizent.brightspotcdn.com/dims4/default/e5c506e/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fc7%2F86%2Fae58fcc1423eb559b323b66292c4%2Fpexels-charlotte-may-5965635.jpg"
         width: 1200

@@ -74,18 +74,18 @@ related:
         height: 431
         isCached: true
   - title: "Razorpay goes global, acquires Malaysian fintech startup Curlec"
-    excerpt: "Bengaluru, Feb 8 (IANS) Leading fintech player Razorpay on Tuesday announced ... Prior to this, the company acquired TERA Finlabs, (AI-based risk tech SaaS Platform) in 2021, Opfin (Payroll ..."
-    publishedDateTime: 2022-02-08T08:24:00Z
-    webUrl: "https://menafn.com/1103656180/Razorpay-goes-global-acquires-Malaysian-fintech-startup-Curlec&source=246"
+    excerpt: "Leading fintech player Razorpay on Tuesday announced its first international expansion with the acquisition of a majority stake in Curlec, a leading Malaysian fintech startup, for an undisclosed sum."
+    publishedDateTime: 2022-02-08T07:44:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=924246"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Daijiworld
+      domain: daijiworld.com
     quality: 24
     images:
-      - url: "https://menafn.com/updates/pr/2022-02/08/I_82415image_story.jpg"
-        width: 400
-        height: 225
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
+        width: 280
+        height: 250
         isCached: true
 
 secured: "l32E8G0DkovRz5DNtlLGK1S4nDbkK87vEMOthjaY6yDVML2xs6/wPtFRPcUorlXrGG8QhVZDwcv9g90yVls4MgLZIZKN6sKQzXy5/gA0G7DZMgfE/Gl7zxnBUTF2dSdhErCRIV9CfZ1LiM030zyKBuab49I37t5oI1zwjBKyT9ksPbsvrii9/kO5GjuBUfUDNmgpyxRwGVU4QKG14pkzr0cK2oTYL2BFdKUexQuDCHFyCgXswoT6pIjanPvKNtRQgVs3nFH97fsf6w/NEqUx0BEMloJkRBBoAr0kiFVMdmM5Z/fUOFT17fdNq36lHTrJLWGIXynqH/vuWahGoUoUlr/+nCLL2sBXDe9Ux7hSyFc=;gYSXcM8rEWbBHCjy3azNcw=="

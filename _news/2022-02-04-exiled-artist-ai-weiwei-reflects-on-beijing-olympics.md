@@ -49,15 +49,15 @@ related:
     quality: 37
   - title: "Ai Weiwei helped design Beijing’s Olympic stadium. But he regrets how it’s being used today"
     excerpt: "As the Beijing Winter Olympics gets underway, artist Ai Weiwei is once again criticizing ... Olympic Charter and the organization’s code of ethics. “Given the diverse participation in the ..."
-    publishedDateTime: 2022-02-04T13:14:00Z
-    webUrl: "https://kvia.com/news/2022/02/04/ai-weiwei-helped-design-beijings-olympic-stadium-but-he-regrets-how-its-being-used-today-3/"
+    publishedDateTime: 2022-02-04T13:47:00Z
+    webUrl: "https://ktvz.com/entertainment/cnn-style/2022/02/04/ai-weiwei-helped-design-beijings-olympic-stadium-but-he-regrets-how-its-being-used-today-3/"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
+      name: KTVZ
+      domain: ktvz.com
     quality: 29
     images:
-      - url: "https://kvia.b-cdn.net/2022/02/hypatia-h_20bc3886d6b780ed071131ea390b553d-h_4325c5147a3e40b6f29d52a467415dc5-300-scaled.jpg"
+      - url: "https://ktvz.b-cdn.net/2022/02/hypatia-h_20bc3886d6b780ed071131ea390b553d-h_4325c5147a3e40b6f29d52a467415dc5-300-scaled.jpg"
         width: 2560
         height: 1715
         isCached: true

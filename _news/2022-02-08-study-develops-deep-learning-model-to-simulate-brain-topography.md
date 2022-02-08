@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/272269299/study-develops-deep-
 webUrl: "https://www.bignewsnetwork.com/news/272269299/study-develops-deep-learning-model-to-simulate-brain-topography"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Neuroscientists use deep learning model to simulate brain topography"
-    excerpt: "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization ..."
-    publishedDateTime: 2022-02-03T20:04:00Z
-    webUrl: "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-neuroscientists-deep-simulate-brain-topography.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 76
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/brain.jpg"
-        width: 1920
-        height: 1462
-        isCached: true
   - title: "Study develops deep learning model to simulate brain topography"
     excerpt: "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization or ..."
     publishedDateTime: 2022-02-05T12:25:00Z
@@ -51,15 +35,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 36
-  - title: "CMU neuroscientists use deep learning model to simulate brain topography"
-    excerpt: "To do so, the researchers developed a deep learning model endowed with additional features of biological brain connectivity, hypothesizing that the model could reveal the spatial organization, or topography of the IT. “The brain doesn’t have unlimited ..."
-    publishedDateTime: 2022-02-03T19:32:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/942341"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
 
 secured: "xU4qhTaWwFA3JGQJujzyg9JrTCAfkAcxF/XDpCxoOKUN7/XzCnNu4odejlouphLJux5RHhBjuN1+6ZaXqttbMpuo9pI37sbNR5vivTF/Q3IG9jSrZ/UHGG/DoynUqJdqeOyEkAA8JsqOY0hr0VbtnSz52tT3kW2oB3JJloSTVJD2xxR3mpfCYnNTPcJFAZ4d6hf49DQ8ijrrDIFQMZiLKczjtG7o3/EPp65LRVxBoIPlwbIGRQpwtYIyFhxbx3pZrtFsfhNMbki/8Qf/n5r+rsdOzc600SdXosnzook40f4tYCdVnlvOwZu7F8FnZ3RV8YR8D+/NOSBm++2ux8HySMgl3M0839OGTsNX5QqwRMSscsI+zaLCtioOM/YJyDtoHeynDMPMiuoXD/tckHku4fIOnuI2zcv6ugZUIggB+bEY/JSX24hrSsKbh6VIGrR/n42S9tO7Tc9rETSEeTkKeGaVtUTXal0Hx0CzPN89rhKXzws0/9WyHUnzIneT5uCbv5hPH6TAV7AoIFXmSi5buQ==;Eu1Lso5BrajoEw+R8BiA+A=="
 ---

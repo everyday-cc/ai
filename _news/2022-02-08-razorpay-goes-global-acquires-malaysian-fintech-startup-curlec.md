@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Razorpay goes global, acquires Malaysian fintech startup Curlec"
-excerpt: "Bengaluru, Feb 8 (IANS) Leading fintech player Razorpay on Tuesday announced ... Prior to this, the company acquired TERA Finlabs, (AI-based risk tech SaaS Platform) in 2021, Opfin (Payroll ..."
-publishedDateTime: 2022-02-08T08:24:00Z
-originalUrl: "https://menafn.com/1103656180/Razorpay-goes-global-acquires-Malaysian-fintech-startup-Curlec&source=246"
-webUrl: "https://menafn.com/1103656180/Razorpay-goes-global-acquires-Malaysian-fintech-startup-Curlec&source=246"
+excerpt: "Leading fintech player Razorpay on Tuesday announced its first international expansion with the acquisition of a majority stake in Curlec, a leading Malaysian fintech startup, for an undisclosed sum."
+publishedDateTime: 2022-02-08T07:44:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=924246"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=924246"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-02/08/I_82415image_story.jpg"
-    width: 400
-    height: 225
+  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
+    width: 280
+    height: 250
     isCached: true
 
 related:
@@ -88,6 +88,6 @@ related:
         height: 506
         isCached: true
 
-secured: "PTbviQ3dOAA7mvGy3MksbQs8ZMwzSo+v0jYwuZuYmI2RBH9e6dWmui7X1KyhXGv1jLQcxnoZUpXG844TBrwZxV9UJH0XWbZOcQy3y0wkIYyiUm7q0KKBFPnfOEP4sC3ItRubXIoxDsJAceylSfxWoSfBqhUKhDdIJlmkX5342G7zfZA5B4Qzazch7xczzMQSBgDNtMJdqSpbY2v4W/rZnCroW2axGLIliCafpdvoVLuEhaMlWvE9bt5SVckglbTFq9sZt6R9/YmwDAa9CKt5gTNvKh5btBOjWUoJw7+bDxFUMlzswSP3rSjyr4x69jhbjsbb+etcBnKWVNlpe0hwoJrG0F9b+/aU4scdwEFdItlllbapLR+EGZLHgd+0C09sC3A2WJqAk81fmrAw7QoT/RMkBC+jd6yIe3dUmiJujsMN+jQaowqFEbi/z6f6tTIs5SRZfXwx9SMlaEBuNFelt1pAUAckjPXvU1AX9yvhmkstUKFgZgOR+X+x/JkkGao/U6ttzpPD24H35BPHapQXzQ==;dP6aY2kR7DbrzaM8YEsY3Q=="
+secured: "kpygy4sCjG5W5n84RvVnvUbDWdxkGScxdBPKC729rmojS48P9FYGL/agS/E7w2dFh/rIA3DWEh7L0CXi+R4ZYML2ePmlGK5d9Ja4K8oU8sxLg5b8LPAPWa6BwJD9uSSjrgvNT41/9QxWL0KyJojjD1qRZ9rl0GCU3UelDs/J1fbTLH3ZwxFsgEWUEMuTv6p3FQvkUCvnXqZDpoCJO5E+2tYWLiqObSwCAVH8M6ctUIA3BwhoT4SuF2x+cQszMG3M7LG4kW3ocvVGmES09aD1HVYOl4CaQ1iOXglRZUkIppnWik68TBctmjAQXdIOv7UomEYaMcwq2W03Eh9edCBQtNg+zDAFDXYVFMOU7uJY680=;8RX1wWz087TgXX1IiijY0g=="
 ---
 

@@ -95,6 +95,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Tesla car in 'Full Self-Driving' mode hits a bollard on camera"
+    excerpt: "A Tesla Model 3 car in 'Full Self-Driving' mode has been captured colliding with a bike lane barrier post, in a potential setback for Elon Musk's firm. The footage was captured during a drive in downtown San Jose, California, by a YouTuber who goes by ..."
+    publishedDateTime: 2022-02-08T12:25:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10488759/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10488759/amp/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10488759/amp/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 59
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/02/08/11/53917451-0-image-a-4_1644319189324.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "This is not a self-driving car"
     excerpt: "He’s not alone, either. YouTube’s favorite auto reviewer Doug DeMuro has referred to Super Cruise as a “self-driving” system, arguing that any attempt to draw distinction between an advanced driver assistance system and autonomous technology was ju ..."
     publishedDateTime: 2022-02-04T18:55:00Z

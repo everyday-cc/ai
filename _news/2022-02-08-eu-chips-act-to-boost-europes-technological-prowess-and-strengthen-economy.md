@@ -1,29 +1,31 @@
 ---
 category: news
-title: "EU Chips Act to boost Europe's technological prowess and strengthen economy"
-excerpt: "Basically, every sector that will use AI systems, needs advanced semiconductors. Europe, therefore, needs to be a part of these developments to remain relevant. Highest growth in global chip ..."
-publishedDateTime: 2022-02-08T08:24:00Z
-originalUrl: "https://menafn.com/1103655865/EU-Chips-Act-to-boost-Europes-technological-prowess-and-strengthen-economy&source=246"
-webUrl: "https://menafn.com/1103655865/EU-Chips-Act-to-boost-Europes-technological-prowess-and-strengthen-economy&source=246"
+title: "EU Chips Act to boost Europe’s technological prowess and strengthen economy"
+excerpt: "This way, the economy is less exposed to supply chain disruptions, but can also fully take part in future developments in the field of artificial intelligence (AI) and autonomous, industrial systems, where leading-edge chip innovations will play a crucial ..."
+publishedDateTime: 2022-02-08T12:22:00Z
+originalUrl: "https://www.fxstreet.com/analysis/eu-chips-act-to-boost-europes-technological-prowess-and-strengthen-economy-202202081155"
+webUrl: "https://www.fxstreet.com/analysis/eu-chips-act-to-boost-europes-technological-prowess-and-strengthen-economy-202202081155"
+ampWebUrl: "https://www.fxstreet.com/amp/analysis/eu-chips-act-to-boost-europes-technological-prowess-and-strengthen-economy-202202081155"
+cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/eu-chips-act-to-boost-europes-technological-prowess-and-strengthen-economy-202202081155"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: FXStreet
+  domain: fxstreet.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-02/08/I_c83d8image_story.jpg"
-    width: 800
-    height: 450
+  - url: "https://editorial.fxstreet.com/images/Macroeconomics/Countries/Europe/european-union-5671456_Small.jpg"
+    width: 320
+    height: 240
     isCached: true
 
-secured: "e9A3ZUQi8E5RTdu89WZqltLeDNQt9KjH7t/u0xbBdYxNjT5hlkbAOHePSDuGsu44p28SHi2tm9FpISIvv+89XtdZQukbufzIE6z4Xt1zSwDBRQS/QYtL05OhuJSKpIXADzBLM0tR84IMtiyx9LgB8A3zOTwg0AxX/De4p0aq+oumXtOzajqPyedp9ElzKBLWVLtNJt7Gb2F96KjZ/oDaIvueSdKjT6qD2NuoN+ko9s64X+lFVaSNv85mwbTLNpc35kGY3lJ5loxDKWBb/tPStWcM9c27WOhPfZP7lmmUM+E4uq9YUSphK5ZROVl7aRyurvFtMAoGBhM2mXxIZSduEtoSKlc19HirSuxgpkWJHKOK+h/5dZJNDiz6ekE64V2v/1qmsH6vL9usyEFodMoBJlHyUdo1qEFZ7rHloI2H/dYJ2g0Pn/TwzsKDjtZcmySOd3MoPv230dT5+1OirWicE9z4NeSwHafxuP5YoY2ptVJvB1na8OMh5yg/6ZnZYdyopcsazp4cQQcnSIdk8F4mjw==;EBdnUsDhItZ7xeShUC6oEw=="
+secured: "s2t89tREeV+hg191tUUS8wR5QbYX+FyVflepmCjOUi4c1npKUHlt7SfWVZcqr5zlwlOaBFLwjC/CxATkJInak0HSzjXBJ1G1xSFngV4O4x/VjSE4OgJKPK3Me+UoTVqrmHVuB6jmLTQfipVGvfRcEciPdYi5yOunfZ4eTX93AKPRcWaIu6EBhSgFAVIsq+IaT+nUzDpbwIAm6MmF61i7dCGpCvzSrYcJ/Uuv+vnwllJgfX1q8wkIQNA8lVEDUVeW5eWzSXJ/WZtwvnz82wkO7zbgskaCVkDggiDYlrjIuBwpYNUrdZLMgB7HfTPwgOe6/aER0Fp835+zAly7BrSbHd0NLYq7kH78mMowPUA2Yes=;M1j+u6Pa4K/xzLRwQD6aWA=="
 ---
 

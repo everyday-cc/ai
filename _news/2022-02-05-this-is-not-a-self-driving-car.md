@@ -109,6 +109,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Tesla car in 'Full Self-Driving' mode hits a bollard on camera"
+    excerpt: "A Tesla Model 3 car in 'Full Self-Driving' mode has been captured colliding with a bike lane barrier post, in a potential setback for Elon Musk's firm. The footage was captured during a drive in downtown San Jose, California, by a YouTuber who goes by ..."
+    publishedDateTime: 2022-02-08T12:25:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10488759/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10488759/amp/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10488759/amp/Tesla-car-Self-Driving-mode-hits-bollard-camera.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 59
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/02/08/11/53917451-0-image-a-4_1644319189324.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "zRFxJqEEQbw8EnC1xx3irhHeS7QU8jqk6CeXbtILw5wxEl2GgvnKMejVoXNPi0cqfM+cvTFZ3US01xkoyLea0qnWVOHw9rQ82lrvTIOAs2wiO3JJD6ZjicyYhE54Bdc3OX9bJgSPnsNuZ6FOnd900Q6e+ySfa3wdwiNtOpr4gDKd7zPC2+IzdXoK2wofnDouFfGZ2NUwo25/W2PpxFqnSZSXnz3cnScoxedrxy027D2MHPd0qmTRN5c3mFBBh3fbkypjxt0ETHsirdUrI5cKcgq8YYxtghKvjIxyB7rY9lXs08lGGXtIqQe8bg+HKePN/aWEtwH035QqvmRrvhbNPRsrQKb78ZNG3dgfYaORKkkOMvl4ZeVfvncEMP+Dm6rPDQU0P02uiOs2XpUfOMUQOdPBRyiigb4PpWSqV03dkhNI7S/c1b7GApNUlHfFO7tSW8gpJOc/8xxx0ePPcSeYETg1GJAf2Lp99xx4r0glDo4aHlvlG7jQzNiubnuymFgJ5Hlcsx+HOLxH0QP0FJVKVw==;+iU+dxggkG4vJh3Yy8AObw=="
 ---

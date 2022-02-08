@@ -74,20 +74,20 @@ related:
         height: 506
         isCached: true
   - title: "Razorpay goes global, acquires Malaysian fintech startup Curlec"
-    excerpt: "Bengaluru, Feb 8 (IANS) Leading fintech player Razorpay on Tuesday announced ... Prior to this, the company acquired TERA Finlabs, (AI-based risk tech SaaS Platform) in 2021, Opfin (Payroll ..."
-    publishedDateTime: 2022-02-08T08:24:00Z
-    webUrl: "https://menafn.com/1103656180/Razorpay-goes-global-acquires-Malaysian-fintech-startup-Curlec&source=246"
+    excerpt: "Leading fintech player Razorpay on Tuesday announced its first international expansion with the acquisition of a majority stake in Curlec, a leading Malaysian fintech startup, for an undisclosed sum."
+    publishedDateTime: 2022-02-08T07:44:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=924246"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Daijiworld
+      domain: daijiworld.com
     quality: 24
     images:
-      - url: "https://menafn.com/updates/pr/2022-02/08/I_82415image_story.jpg"
-        width: 400
-        height: 225
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
+        width: 280
+        height: 250
         isCached: true
 
-secured: "hSZ3/OnCa5MqYkgBEfg8gFk5JMY2AzIBANy1UBFDg4TYS9zpyhjHFNlDAKw2FNLcvbh6CNw24NzAvwsl4BJc1pI11tjWw6oOxjvCGmYGRU8jdWpSpB0+/59qSsQJCmPKegc03MFwxTbbtKCBlan+YiagFxtys77qrsAveMRXzqZ6vL0SVwLa2KcQ3x0wWBfr3FMy9otss71/0Kpj/zGy8R4mAyY8wpaRiA3xnBHQjsDrWIF0X61ATr7aWZenFpfy3i2tjWixSVaRR4zu329U3SYd9KaCBNjLQ0CLEX/pG6C+Wiirx2Hc1YbbaGSekkXAt+yn64NgQD27zsl4+9UNBn3fXgXXW7cm+54P2YCm8oc=;bdopS8RmKRxEF88UCVacaQ=="
+secured: "rQbe/zL6Al9sXGJluh12jbGPeMfaWUJpoP8+p7EENSeQIbsvxInC+DU3BxCTixuvqi5ZKEhslHrP5qJ+TELleAk6CttgH+5fHcDKpLcOyKopUwuJgUV68zLfDcBbi+ks+60jzEgUQt5UaEOQQVy3PkK3JUGap25UP6ZfLxihAp6taIov9hphoBzGO8WfYBM3KVpiViUmBZP37VG+pbjWMHZqrr8jOeL1ZTinjgqYoB64JE1mi1CGoB8xKajvxb8Nybqk1terCsqQ6J8Fd8ltxLY47H9IWqWApf1Lkyad617MK7tBKf69wpzAN/v8R/74qZMA1NHYHuNj+3/n/vO+B4hyv4h9Lkkf4TOmq3jCofXR96yRNaouHvqKIXl8AWJBsPa1+o/LLHyB9kcZSNtez/Pgou+kAnzXpq1D2KLb6phvaNw+gY2KlL7yy1P1OhadzTaGar1SbulMI6HP5b9+AG0NSCP74aGobKSnK3dYm0nFraSmchexK/auOPbNxhN2o/SO37Nt0jD3JupKQafJIw==;H43OnrG22NXG3sdfWOBSQA=="
 ---
 
