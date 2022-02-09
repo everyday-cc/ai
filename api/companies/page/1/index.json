@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 13015431
+        "followers": 13016303
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -82,7 +82,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 10205010
+        "followers": 10205351
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -128,7 +128,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 4119188
+        "followers": 4119323
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -314,7 +314,7 @@
       "twitter": {
         "username": "capitalcom",
         "url": "https://twitter.com/capitalcom",
-        "followers": 147257
+        "followers": 147294
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -329,7 +329,7 @@
         "AI",
         "AI in Finance"
       ],
-      "heat": 402,
+      "heat": 403,
       "tags": [
         "FinTech"
       ],
@@ -419,7 +419,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1676077
+        "followers": 1676107
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -465,7 +465,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 653169
+        "followers": 653196
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -510,7 +510,7 @@
       "twitter": {
         "username": "appannie",
         "url": "https://twitter.com/appannie",
-        "followers": 166629
+        "followers": 166659
       },
       "yearFounded": 0,
       "locations": [
@@ -520,55 +520,13 @@
         "AI",
         "AI in Marketing"
       ],
-      "heat": 338,
+      "heat": 339,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "App Annie",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/salesforce.md",
-      "title": "Salesforce",
-      "excerpt": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/salesforce/index.json",
-      "webUrl": "https://everyday.cc/ai/company/salesforce/",
-      "type": "profile",
-      "name": "Salesforce",
-      "overview": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
-      "website": "https://www.salesforce.com/products/platform/solutions/ai-services/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/salesforce/",
-        "followers": 1879543
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/salesforce"
-      },
-      "twitter": {
-        "username": "salesforce",
-        "url": "https://twitter.com/salesforce",
-        "followers": 566488
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 1999,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI"
-      ],
-      "heat": 302,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Salesforce",
           "isCached": true
         }
       ],
@@ -602,7 +560,7 @@
         "Machine Learning",
         "Deep Learning"
       ],
-      "heat": 301,
+      "heat": 302,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1044656645584773121/8vZCwo0F_400x400.jpg",
@@ -617,6 +575,48 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/salesforce.md",
+      "title": "Salesforce",
+      "excerpt": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/salesforce/index.json",
+      "webUrl": "https://everyday.cc/ai/company/salesforce/",
+      "type": "profile",
+      "name": "Salesforce",
+      "overview": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
+      "website": "https://www.salesforce.com/products/platform/solutions/ai-services/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/salesforce/",
+        "followers": 1879543
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/salesforce"
+      },
+      "twitter": {
+        "username": "salesforce",
+        "url": "https://twitter.com/salesforce",
+        "followers": 566496
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 1999,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "heat": 302,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Salesforce",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -641,7 +641,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 76329
+        "followers": 76330
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -692,7 +692,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 211139
+        "followers": 211142
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -737,7 +737,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1075222
+        "followers": 1075200
       },
       "yearFounded": 0,
       "locations": [
@@ -863,7 +863,7 @@
             "AI",
             "AI in Finance"
           ],
-          "heat": 402,
+          "heat": 403,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1480949278394798083/J_XeA_mQ_400x400.jpg",
@@ -1035,7 +1035,7 @@
       "twitter": {
         "username": "tencentglobal",
         "url": "https://twitter.com/tencentglobal",
-        "followers": 35597
+        "followers": 35599
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -1081,7 +1081,7 @@
       "twitter": {
         "username": "meet_cleo",
         "url": "https://twitter.com/meet_cleo",
-        "followers": 19482
+        "followers": 19483
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -1251,7 +1251,7 @@
       "twitter": {
         "username": "SentinelOne",
         "url": "https://twitter.com/SentinelOne",
-        "followers": 15314
+        "followers": 15313
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -1304,7 +1304,7 @@
       "twitter": {
         "username": "Matterport",
         "url": "https://twitter.com/Matterport",
-        "followers": 16444
+        "followers": 16443
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -1354,7 +1354,7 @@
       "twitter": {
         "username": "adahealth",
         "url": "https://twitter.com/adahealth",
-        "followers": 34967
+        "followers": 34966
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -1412,7 +1412,7 @@
       "twitter": {
         "username": "SkydioHQ",
         "url": "https://twitter.com/SkydioHQ",
-        "followers": 12694
+        "followers": 12699
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -1464,7 +1464,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 57499
+        "followers": 57498
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -1517,7 +1517,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 27700
+        "followers": 27706
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -1669,7 +1669,7 @@
             "AI",
             "AI in Marketing"
           ],
-          "heat": 338,
+          "heat": 339,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
@@ -1710,7 +1710,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 11997
+        "followers": 11996
       },
       "yearFounded": 0,
       "locations": [
@@ -1763,7 +1763,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 8152
+        "followers": 8158
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
