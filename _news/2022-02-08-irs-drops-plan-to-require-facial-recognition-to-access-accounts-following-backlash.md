@@ -440,22 +440,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "New legislation would ban IRS from using facial recognition software on taxpayers"
-    excerpt: "EXCLUSIVE: The Internal Revenue Service (IRS) would be barred from using facial recognition software on taxpayers under new legislation introduced Friday in Congress."
-    publishedDateTime: 2022-02-04T12:22:00Z
-    webUrl: "https://www.foxbusiness.com/politics/irs-facial-recognition-software-taxpayers-ban-legislation"
-    ampWebUrl: "https://www.foxbusiness.com/politics/irs-facial-recognition-software-taxpayers-ban-legislation.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/irs-facial-recognition-software-taxpayers-ban-legislation.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 54
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8a908e86-949a-47e2-bb6f-e66f0457fb1d/4c62452d-7cfc-444a-ae22-e6e0f44db918/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Facial Recognition Plan from IRS Raises Big Concerns"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
     publishedDateTime: 2022-02-05T00:31:00Z

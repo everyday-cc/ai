@@ -2,6 +2,48 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-01-04-start-the-new-year-right-with-thedetroitbureaus-headlight-news-podcast.md",
+      "title": "Start the New Year Right with TheDetroitBureau’s Headlight News Podcast",
+      "excerpt": "TheDetroitBureau.com covers the top stories occurring in the auto industry in the latest edition of the Headlight News podcast. The weekly roundup includes news, features, reviews and more. The on-again,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedetroitbureau.com/2021/12/geelys-zeekr-to-build-autonomous-vehicles-for-waymo/",
+      "originalUrl": "https://www.thedetroitbureau.com/2022/01/start-the-new-year-right-with-thedetroitbureaus-headlight-news-podcast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thedetroitbureau.com/wp-content/uploads/2021/12/waymo_zeekr-3.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T15:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheDetroitBureau",
+        "domain": "thedetroitbureau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-1493-billion-in-2027.md",
       "title": "Logistics Robots Market Size Forecasted to Reach Valuation of USD 14.93 Billion in 2027",
       "excerpt": "The global logistics robots market size is expected to reach USD 14.93 billion in 2027 and register a CAGR of 15.3% during the forecast period. Increasing online retail trade and e-commerce has resulted in requirement of logistics robots for quick delivery.",
@@ -1145,48 +1187,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-ces-2022-deepbrain-humanises-ai-avatars.md",
-      "title": "CES 2022: Deepbrain humanises AI avatars",
-      "excerpt": "DeepBrain AI’s industry-first approach to “humanising” AI assistants provides users with an experience that is familiar, enlightening and approachable. Its video synthesis solutions, a CES 2022 Innovation Awards Winner,",
-      "sourceUrl": null,
-      "webUrl": "https://gadget.co.za/ces-2022-deepbrain-humanises-ai-avatars/",
-      "originalUrl": "https://gadget.co.za/ces-2022-deepbrain-humanises-ai-avatars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/gadget.co.za/wp-content/uploads/2022/01/All_AI_Influencer_AI_Bank_teller_AI_doctors_utilized_AI.jpg?resize=1000%2C600&#038;ssl=1",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T01:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadget.co.za",
-        "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Hybrid machine-learning approach gives a hand to prosthetic-limb gesture accuracy"
-excerpt: "Engineering researchers have developed a hybrid machine-learning approach to muscle gesture recognition in prosthetic hands that combines an AI technique normally used for image recognition with ..."
-publishedDateTime: 2022-02-07T15:30:00Z
-originalUrl: "https://medicalxpress.com/news/2022-02-hybrid-machine-learning-approach-prosthetic-limb-gesture.html"
-webUrl: "https://medicalxpress.com/news/2022-02-hybrid-machine-learning-approach-prosthetic-limb-gesture.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-02-hybrid-machine-learning-approach-prosthetic-limb-gesture.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-02-hybrid-machine-learning-approach-prosthetic-limb-gesture.amp"
+excerpt: "In order to reduce or eliminate the challenges of such training, researchers have explored various machine learning approaches—in particular deep learning pattern recognition—to be able to distinguish between different, complex hand gestures and ..."
+publishedDateTime: 2022-02-07T15:01:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/942526"
+webUrl: "https://www.eurekalert.org/news-releases/942526"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/hybrid-machine-learnin.jpg"
-    width: 1120
-    height: 423
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/16d3fa9c-f31b-4fb9-bf7f-cb32fdbed5b3/Rendition/low-res/Content/Public"
+    width: 700
+    height: 264
     isCached: true
 
-secured: "b4nC1QzPVRLOAe6DzQd1SJR54eXRtTEJU096+AHF39x6vfSpjVPOBGfff7pZF4ShKgeaA4z/RpWBXdJxw2hMRNNxrjC2fpGw2w65xSowGFoAeF0HJnfSSN6QgP8qZliJQfvfOsPyAr1OAufiEDeLKU63AfDbxSYvYC3T3NI7cdbo+3/c/JGOP7SyYeuI5OsYVp02SGTJU0yIox2EywjsTJNrnf/Geu7LpxzyMLq321CA0kiYUWDPXG05UMSYCviPDh89rw8hG4Q9m0mg2ts9sgJgaGd67Ae8wbGYpTjKg5w92LQFYtpxce/yd4hD8Az09+9vXbl3oVCDh42S5UUlFqNc5QNMKfqEwIzuArCdZ7I=;h1PLKZEXhlhpZULkUXbDzQ=="
+secured: "0G7CIwYSrTuLua3oEd95qhqxtTrLPb/bVBm31WI9lDTol0u7yCGbmmuqnUoLMg3pgd+zOd1ZI6kKwrXnP6T6AeRUHC1XhXNmupix+cno05p9f16SxTccguSqfkFh9CQ4QeozMfckCd+bJ/aPo4CxMCGIh03fHwEftBsL7mVmjVCVt9SEUY0bx6vwSzjpuZlFAvfZ+ANtTcOQXKsn1teSalf7rYRWSNyRUwd0rpc0iksAKtg9p2MDQQe6OgDBzSU/WkvHN0ZhO3m9a/7dd6pM1MqT3mSsk3TlUf0wEJhKvKR/0rdBECXeYY9g8P/ryd0WzOKqdFRgFXvp1vPVJ26vhg6sW/D13I6mAYot5EgGu1U=;WmARbaUcvT57lx5HuXeUpA=="
 ---
 

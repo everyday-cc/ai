@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-01-30-the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account.md",
+      "title": "The IRS website will soon require facial recognition to log in to your account",
+      "excerpt": "The next time you try to log in to the Internal Revenue Service's website you'll be urged to use facial-recognition software to verify you are who you say you are. (Will Lanzoni, CNN) WASHINGTON ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksl.com/article/50336845/the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account",
+      "originalUrl": "https://www.ksl.com/article/50336845/the-irs-website-will-soon-require-facial-recognition-to-log-in-to-your-account",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.ksl.com/slc/2861/286158/28615806.jpg?filter=kslv2/responsive_story_lg",
+          "width": 1228,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-29T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSL",
+        "domain": "ksl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-30-nvidia-is-chosen-to-power-the-fastest-supercomputer-in-the-world-facebooks-ai-research-data-center.md",
       "title": "Nvidia Is Chosen to Power the Fastest Supercomputer in the World -- Facebook's AI Research Data Center",
       "excerpt": "Meta Platforms thinks it will have the world's fastest supercomputer once it's completed later this year. Nvidia is a primary partner and is supplying the computing hardware for the massive data center project.",
@@ -1165,49 +1208,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-msi-geforce-rtx-3050-gaming-x-8g-review-gpu-architecture.md",
-      "title": "MSI GeForce RTX 3050 Gaming X 8G review - GPU Architecture",
-      "excerpt": "Tensor Cores, which provide enormous speedups for AI neural network training and inferencing The GPC is the dominant high-level hardware block with all of the key graphics processing units ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.guru3d.com/articles-pages/msi-rtx-3050-gaming-x-8g-review,4.html",
-      "originalUrl": "https://www.guru3d.com/articles-pages/msi-rtx-3050-gaming-x-8g-review,4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.guru3d.com/articles-pages/index.php?ct=articles&action=file&id=69252",
-          "width": 725,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guru3D.com",
-        "domain": "guru3d.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

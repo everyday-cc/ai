@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/opinion/Data-integration-remains-esse
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Data-integration-remains-essential-for-AI-and-machine-learning?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: The Manila Times
       domain: manilatimes.net
     quality: 39
-  - title: "Study reveals brain's life-long learning may now become hardware for AI"
-    excerpt: "A new study has found a way that computer chips could dynamically rewire themselves to take in new data like the brain does, helping AI to keep learning over time. The study has been published in ..."
-    publishedDateTime: 2022-02-04T11:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220204/3903900.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "U1mE32XPtiz3fYoRn0RoztVkQaoCo++NAKBWbBJ/dNnYDYFBWzAjDiSlKlsY4/c01HMyuCOCC+ywt2a740zOuHn2Bf8OWJ+mns9gwU48zBIyvaj8pHc1NAuhNOpK3/s7TKeopHaTbRSAkGvBspek2EKR/+5ghmwa2IB1dj/iY+ML96RGg8kxvwNoXVpId/OKxUFgmamTkXo2vc8xxlFu/t8dYFWN+XyV0s4q70Q41x6axCQTiI3uv7OFdnmIrd9Ojc+nuCn4kozceIaB8lQFK8pqGXzmerv4iUr/WuatMUl7l9nXWXBljykKeQBMIrfpZfEBFXPvjk9QvcRC4F12mebp888HBkcH1gfzbSqQpCp2s7Y5j3NHhhahlieVZVqGvO9TLzJXQdYppbygVnRcpyv2bdibocJvnwLStO5Lzsz8CXqvV7xyNbCSXPcyRrLQ5wGGiq+fibef0YdL+00GcK2aLG6X88Ws+QlKt6VFAoMmbMaRRXe+w1IkBqL6qXyya3NZh8XxsU1agJ7GQrkvgg==;IvyOHq++sk3dbuuG85D7Og=="
 ---

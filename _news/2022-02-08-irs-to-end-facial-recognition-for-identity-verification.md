@@ -431,22 +431,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "New legislation would ban IRS from using facial recognition software on taxpayers"
-    excerpt: "EXCLUSIVE: The Internal Revenue Service (IRS) would be barred from using facial recognition software on taxpayers under new legislation introduced Friday in Congress."
-    publishedDateTime: 2022-02-04T12:22:00Z
-    webUrl: "https://www.foxbusiness.com/politics/irs-facial-recognition-software-taxpayers-ban-legislation"
-    ampWebUrl: "https://www.foxbusiness.com/politics/irs-facial-recognition-software-taxpayers-ban-legislation.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/irs-facial-recognition-software-taxpayers-ban-legislation.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 54
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/8a908e86-949a-47e2-bb6f-e66f0457fb1d/4c62452d-7cfc-444a-ae22-e6e0f44db918/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Facial Recognition Plan from IRS Raises Big Concerns"
     excerpt: "The U.S. Internal Revenue Service is planning to require citizens to create accounts with a private facial recognition company in order to file taxes online. The IRS is joining a growing number of federal and state agencies that have contracted with ID.me ..."
     publishedDateTime: 2022-02-05T00:31:00Z
@@ -807,6 +791,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "uZbi1iIJ/QZLMyByw5nNK3drcvoEDz96snIKOrqV/Dl/asvKu4uP5wI3f4TeKG9o5x7l8tVh8cvIDOZRmI3QyB3/yv2hQ3IXS7ZQZ8h/pb41fgILX8tBR6JUOyrgG7h6CSopEA6l9tZLJfHJUDRHkXp0DLLI6ewWfgFZ+ufzlr8PyBfoMsSByfEBMhE4mtmHHrCLw6imh328fyRXgSQW6b7+Aj47X14Kxmrcw01DyYVFYXcXdUQ12dECuAgWCTDyqCz47U0T9wIoFQzsJYcmFsTtUyXejSGK8yrpREX8QS/RDmSnVl1BDH2UW20mpaargi2ex7xWVc3Dbbyqnu5o8geL4sEl1ZgS3nNhQRrcO7w=;54iVRICIgoQhVRveifiU2g=="
+secured: "tjGjGw0nJVVlUBVZXOBZwOQ2xtm6CzCCUhv55E7m8rtrhvmX+d8d/FjB4LO+V1J7rVp8mAfNZovfZLUdn2+CC6gyjNXBKiXwK7KDNpjGMewhUad9RUN5tFiWv2UHc9GPCJc1kelVFdcRyh+TfNE4aYTl9Vgv3zdPZ9t6JRJ9XNRSjnh7HOMspSgE6nAX7jZzErrqmwanB+YxIGa+hS//eU1VwuU1o2HPA99g/2ZAhGzzE6KCc8GUUqkzunAaDJfZwMSJ1/y/XF3qeUIFDxwIM2Bx44cpqblHLFiwtjbzCy0F/lmhFFrvhTwJRB4DeOr7QbAHuVGwAh7tPRov9kTFx+UJXjQwogOioil6QTbxLVCKPnKr0icsCQ99M4omNOeps/SJXMg2Xyfrbw68ALMOggE3Osz3c4gufY77MzEekOoZp2h3qKTeFX7oxjjrbKjTMdkhfweBtyXeEOFqkz2KWIT2iNLyVUdfiEq0L06064UbC5mB2b1rP8roZpRNpGE3Xi9YrCjzCsayEMnzoNPDDA==;nhj+7HGiHsKVHTKJbLn0mQ=="
 ---
 

@@ -42,17 +42,6 @@ related:
         height: 619
         isCached: true
   - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
-    excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest Summer Olympics, he hoped the Games and the venue's distinct architectu"
-    publishedDateTime: 2022-02-04T12:10:00Z
-    webUrl: "https://www.kentucky.com/news/business/article258038808.html"
-    ampWebUrl: "https://amp.kentucky.com/news/business/article258038808.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article258038808.html"
-    type: article
-    provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
-    quality: 37
-  - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
     excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest stadium for the 2008 Summer Olympics, he hoped the Games and the venue's distinct architecture — the instantly recognizable weave of curving steel beams — would symbolize ..."
     publishedDateTime: 2022-02-04T21:32:00Z
     webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article258038808.html"
@@ -63,6 +52,20 @@ related:
       name: The Sun News
       domain: myrtlebeachonline.com
     quality: 37
+  - title: "Exiled artist Ai Weiwei reflects on Beijing Olympics"
+    excerpt: "When the artist Ai Weiwei was picked to help design Beijing’s Bird’s Nest stadium for the 2008 Summer Olympics, he hoped the Games and the venue's distinct"
+    publishedDateTime: 2022-02-09T03:59:00Z
+    webUrl: "https://www.stltoday.com/sports/olympics/the-ap-interview-exiled-artist-reflects-on-beijing-olympics/article_d221181b-3a40-5ed9-81e6-937e0293f377.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/78/1786f1da-6bc0-5005-879b-c12394011d55/61fcb2ff9b2be.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "kKzxDv42ge02+rigEB+EIYn9K8GQu17tqsNSdD2F1GlBzBUan4Nk0SQ9pW9HzH2jo6QnPmjMWE5JgW0wcM8LuDgZGjtd3f/JfBkHzTrLB2y9/tTPPvfafzU50NJ6ddxOCaDrldAu0EszZLDjIy1fJy5UMNf9I21pmNtiJ/FBYsZ8Y+dwkjY+W/dhQy+emhbDuJXnGbyxkbDGvUbKrdcakeaKcITTFHGYJ1jiskhbX5Hs08ZegaKnNtIX/i2VMLAuV+XLCpLyU9mv5ENpKquCsy3I39eWXn8j0/DWRpzQt6bjhGM0uVQwvRpf+hdxYYvPXDwB2htwPGB1T89zR2/LKupAjHIE+14ahFRi45tow+k=;ApRwXwPImtJedEGnRk4D8A=="
 ---

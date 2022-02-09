@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-01-20-loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers.md",
+      "title": "Loans Canada and Even Financial Announce Strategic Partnership to Help Canadian Borrowers",
+      "excerpt": "Even Financial (\"Even\"), the category-leading embedded finance marketplace, and LoansCanada.ca (\"Loans Canada\"),",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/n25135424/loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/n25135424/loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25135424",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25135424",
+      "publishedDateTime": "2022-01-20T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-20-the-irs-will-start-using-facial-recognition-this-summer-and-youll-have-to-send-off-a-selfie-if-you-want-to-pay-your-taxes-online.md",
       "title": "The IRS will start using facial recognition this summer — and you’ll have to send off a selfie if you want to pay your taxes online",
       "excerpt": "which will involve sending off a selfie for facial recognition. Security blogger Brian Krebs was the first to spot a message on the IRS website directing users to create an account with a company ...",
@@ -1081,59 +1124,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-5-ways-ai-and-ml-will-improve-cybersecurity-in-2022.md",
-      "title": "5 ways AI and ML will improve cybersecurity in 2022",
-      "excerpt": "Improving cybersecurity from the endpoint to the core of IT infrastructures needs to be every enterprise's goal in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/19/5-ways-ai-and-ml-will-improve-cybersecurity-in-2022/",
-      "originalUrl": "https://venturebeat.com/2022/01/19/5-ways-ai-and-ml-will-improve-cybersecurity-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1282227250-e1642603484173.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/19/5-ways-ai-and-ml-will-improve-cybersecurity-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/19/5-ways-ai-and-ml-will-improve-cybersecurity-in-2022/amp/",
-      "publishedDateTime": "2022-01-19T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

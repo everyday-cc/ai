@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-01-21-deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock.md",
+      "title": "DeepMind Co-Founder Suleyman Exits Google for VC Firm Greylock",
+      "excerpt": "(Bloomberg) --The co-founder of Google’s high-profile DeepMind artificial intelligence lab has left Alphabet Inc. to join venture capital firm Greylock Partners, following a turbulent tenure. Mustafa Suleyman will be a venture partner at Greylock ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloombergquint.com/business/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock",
+      "originalUrl": "https://www.bloombergquint.com/business/deepmind-co-founder-suleyman-exits-google-for-vc-firm-greylock",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-21T02:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-21-artificial-intelligence-a-key-technology-thats-shaping-our-tomorrow.md",
       "title": "Artificial Intelligence: A Key Technology That's Shaping Our Tomorrow",
       "excerpt": "Ever since Alan Turing helped decode the Enigma messages used by the Germans during World War II, the concept of artificial intelligence started getting traction. It was only in 1956 that the term actually was officially coined by none other than John McCarthy.",
@@ -1101,49 +1144,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-20-loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers.md",
-      "title": "Loans Canada and Even Financial Announce Strategic Partnership to Help Canadian Borrowers",
-      "excerpt": "Even Financial (\"Even\"), the category-leading embedded finance marketplace, and LoansCanada.ca (\"Loans Canada\"),",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/n25135424/loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/n25135424/loans-canada-and-even-financial-announce-strategic-partnership-to-help-canadian-borrowers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25135424",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25135424",
-      "publishedDateTime": "2022-01-20T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Study reveals brain's life-long learning may now become hardware for AI"
-    excerpt: "A new study has found a way that computer chips could dynamically rewire themselves to take in new data like the brain does, helping AI to keep learning over time. The study has been published in ..."
-    publishedDateTime: 2022-02-04T11:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220204/3903900.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "dwJob6NJ7SZIZCgZhLXwedP2ZM8dadXpDkHexlPsBzM1UmK0BYYfN4Vg1Zp7wErUQfjhHVq1jMYlkkQXix4EmmWsiEnCxTxTP6vUundiMm+9sSKmSv234oOsPIDvFqs17rUiLf2REqSW9U7nab49WVIJruPC/xeCuRg71T+jUVKpmardRCFxI9YHSHyiFDXlzn6AtCWzZ220wlBO/rOjR7ZMtARN2ye8aMni2cj+HwfganHTevFkiYv2sE45cMMqfn++wg9Z8lyTMzR3HIfLdQUaKWvbPzUhWd36LSx0dAAVhvisBV9b5Fy551VhllKxTDlZsxc4Ofim/+Yx23SBtv3it1LB3DQMvVCLSCB9EP0=;nW8AcscN3Nw2UDAy16uH2A=="
 ---

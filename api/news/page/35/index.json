@@ -2,6 +2,48 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-01-08-clearview-ai-ordered-to-comply-with-canadas-privacy-rules.md",
+      "title": "Clearview AI Ordered to Comply With Canada’s Privacy Rules",
+      "excerpt": "Canada’s privacy regulators have ordered Clearview AI to comply with a previous directive to stop collecting images of residents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/",
+      "originalUrl": "https://www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2022/01/Clearview-AI-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/amp/",
+      "publishedDateTime": "2022-01-07T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-why-nvidia-is-needhams-top-aiml-stock-pick-for-2022.md",
       "title": "Why Nvidia Is Needham's Top AI/ML Stock Pick For 2022",
       "excerpt": "Semiconductor stocks outperformed the broader technology sector for a third year running in 2021, and entering 2022, mega-trends such as the adoption of artificial intelligence and machine learning, next-gen automotive and mobility,",
@@ -1103,40 +1145,6 @@
       "provider": {
         "name": "Cambridge University Press",
         "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-natural-language-processing-nlp.md",
-      "title": "Natural Language Processing (NLP)¶",
-      "excerpt": "nowadays, a lot of natural language processing is statistical in nature, i.e. it uses statistical and probabilistic algorithms to learn rules for solving language problem such techniques don’t have a deep understanding of language in the way that humans ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfu.ca/~tjd/310summer2019/chp22_nlp.html",
-      "originalUrl": "https://www.sfu.ca/~tjd/310summer2019/chp22_nlp.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T15:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Simon Fraser University",
-        "domain": "www.sfu.ca",
         "images": null,
         "publishers": null,
         "authors": null

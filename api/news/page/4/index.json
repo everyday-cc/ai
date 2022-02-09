@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-02-03-virtual-ciso-startup-cynomi-raises-35m-to-help-smbs-automate-cybersecurity.md",
+      "title": "Virtual CISO startup Cynomi raises $3.5M to help SMBs automate cybersecurity",
+      "excerpt": "Cynomi, an Israeli cybersecurity startup that has built a virtual CISO ... human component and instead uses artificial intelligence (AI) technology to emulate a human CISO and automate previously ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/",
+      "originalUrl": "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-174074147.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/02/03/cynomi-virtual-ciso-cyber-talent/amp/",
+      "publishedDateTime": "2022-02-03T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-03-watch-toyotas-outrageous-self-driving-supra-drift-car-go-sideways.md",
       "title": "Watch Toyota’s outrageous self-driving Supra drift car go sideways",
       "excerpt": "As the automotive community awaits the dawn of a fully autonomous, self-driving car, the Toyota Research Institute (TRI) has other things in mind. Care for a self-drifting vehicle, specifically a new Supra with Toyota’s Nonlinear Model Predictive Control ...",
@@ -989,19 +1040,19 @@
     {
       "path": "_news/2022-02-03-coreweave-partners-with-eleutherai-novelai-to-make-open-source-ai-more-accessible.md",
       "title": "CoreWeave partners with EleutherAI & NovelAI to make open-source AI more accessible",
-      "excerpt": "CoreWeave, a specialized cloud provider built for GPU-accelerated workloads, today announced the release of the largest publicly available language model in partnership with EleutherAI, a grassroots collective of researchers working to open source AI research.",
+      "excerpt": "a specialized cloud provider built for GPU-accelerated workloads, today announced the release of the largest publicly available language model in partnership with EleutherAI, a grassroots collective of researchers working to open source AI research.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-coreweave-partners-with-eleutherai-novelai-make-open-source-/2022/02/02/9538211.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-coreweave-partners-with-eleutherai-novelai-make-open-source-/2022/02/02/9538211.htm",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/coreweave-partners-with-eleutherai-novelai-to-make-open-source-ai-more-accessible/article_93a63060-52a1-5e77-8aec-ffff10b20238.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/coreweave-partners-with-eleutherai-novelai-to-make-open-source-ai-more-accessible/article_93a63060-52a1-5e77-8aec-ffff10b20238.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1252145/CoreWeave_Logo.jpg",
-          "width": 400,
-          "height": 264,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/c2/cc2e3d87-a505-5e62-bb84-2e0113a9640d/610c1287c9ddb.image.jpg?crop=1771%2C930%2C0%2C120&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1011,11 +1062,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T10:02:00-08:00",
+      "publishedDateTime": "2022-02-02T10:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1182,58 +1233,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-02-two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator.md",
-      "title": "Two new dialects of Inuktut language now available in Microsoft Translator",
-      "excerpt": "With the latest update, users will now be able to translate between the two new additions and any of over 100 supported languages and dialects in the Microsoft Translator apps, Office, and Translator for Bing. Through Azure Cognitive Services Translator ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "originalUrl": "https://www.neowin.net/news/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/02/1487659776_microsoft-translator_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/two-new-dialects-of-inuktut-language-now-available-in-microsoft-translator/",
-      "publishedDateTime": "2022-02-02T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

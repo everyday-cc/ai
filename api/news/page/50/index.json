@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-12-24-knowing-more-about-democratization-of-ai-and-low-code-no-code-solutions.md",
+      "title": "Knowing More About Democratization Of AI And Low-Code / No-Code Solutions",
+      "excerpt": "Knowing More About Democratization Of AI And Low-Code / No-Code Solutions Earlier this year, we predicted that the democratization of AI and Low-Code / No-Code solutions would be two of the top technologies to watch in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/knowing-more-democratization-ai-low-code-no-code-solutions-mori-",
+      "originalUrl": "https://www.linkedin.com/pulse/knowing-more-democratization-ai-low-code-no-code-solutions-mori-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQF2z7vSmxkQMA/article-cover_image-shrink_720_1280/0/1640351317057?e=1646265600&v=beta&t=kORlkc1_7WcMSE7tL63sivW0viNpUQAfNoGb8pfQAZI",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-natural-language-processing-marketindustry-analysis-insights-future-growth-and-forecast-till-2020.md",
       "title": "Natural Language Processing Market||Industry Analysis Insights, Future Growth, and Forecast till - 2020",
       "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Dec 24, 2021, 05:27 /Comserve / -- Natural Language Processing Market has prioritized the use of innovative technologies. Many healthcare and life sciences ...",
@@ -1042,49 +1094,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january.md",
-      "title": "DeWitt Township police will have access to facial recognition software starting in January",
-      "excerpt": "The DeWitt Township Police Department signed an agreement with the Michigan State Police to use their SNAP facial recognition software, which is meant to help officers identify suspects and crime victims while in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january",
-      "originalUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/d9b/ea660b0be0634bafb4e6d8a0650cafd3/d9bf8296f47a4d2c87aba01c863fcc61/poster_0bf92dea6b6a425a80199eb2aaeefce4.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox47news-com.cdn.ampproject.org/c/s/www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january?_amp=true",
-      "publishedDateTime": "2021-12-22T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSYM-TV",
-        "domain": "fox47news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-02-chop-researchers-use-deep-learning-to-find-genetic-causes-of-mental-health-disorders-in-frequently-understudied-african-american-population.md",
+      "title": "CHOP researchers use deep learning to find genetic causes of mental health disorders in frequently understudied African American population",
+      "excerpt": "A new study from researchers at Children’s Hospital of Philadelphia (CHOP) shows that a deep learning model has promising accuracy when helping to diagnose a variety of common mental health ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/942008",
+      "originalUrl": "https://www.eurekalert.org/news-releases/942008",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-01T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-02-01-how-xpertrules-multiple-ai-tools-compares-to-bpm-competitors.md",
       "title": "How XpertRule’s multiple AI tools compares to BPM competitors",
       "excerpt": "and predictive explainable machine learning. Both the authoring and deployment components of the Viabl.ai platform are 100 percent cloud-native and run serverless on AWS and Azure or on Premise.",
@@ -1145,58 +1179,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-privacy-advocates-lawmakers-concerned-about-irss-facial-recognition-plan.md",
-      "title": "Privacy Advocates, Lawmakers Concerned About IRS's Facial Recognition Plan",
-      "excerpt": "No one should be forced to submit to facial recognition as a condition of accessing essential government services,\" said Sen. Ron Wyden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590",
-      "originalUrl": "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 307,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/61f77b6d360000411624db66.jpeg?cache=eoW2QyHbcU&ops=1778_1000",
-          "width": 1778,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/irs-online-facial-recognition-fears_n_61f77401e4b02de5f51ad590/amp",
-      "publishedDateTime": "2022-01-31T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

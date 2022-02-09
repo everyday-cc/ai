@@ -7,7 +7,7 @@ originalUrl: "https://www.channelweb.co.uk/news/4044476/aws-usd71bn-run-rate-bus
 webUrl: "https://www.channelweb.co.uk/news/4044476/aws-usd71bn-run-rate-business-q4-results"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AWS fuels growth at Amazon - cloud business up 40% year over year"
-    excerpt: "Meta, the parent company of Facebook, Instagram and WhatsApp selected AWS as its long-term strategic cloud provider to accelerate artificial intelligence research and development. And Stellantis, the parent company of Chrysler Dodge, Fiat, Jeep and Ram ..."
-    publishedDateTime: 2022-02-04T11:28:00Z
-    webUrl: "https://diginomica.com/aws-fuels-growth-amazon-cloud-business-40-year-over-year"
-    ampWebUrl: "https://diginomica.com/aws-fuels-growth-amazon-cloud-business-40-year-over-year?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/aws-fuels-growth-amazon-cloud-business-40-year-over-year?amp"
+  - title: "Amazon Q4: AWS’ annualised revenue run rate hits US$71B"
+    excerpt: "chose AWS as its long-term strategic cloud provider to accelerate artificial intelligence research and development. In the automotive industry, Stellantis — the parent company of Chrysler, Dodge, Fiat Jeep and Ram — picked AWS as its preferred global ..."
+    publishedDateTime: 2022-02-06T20:18:00Z
+    webUrl: "https://www.crn.com.au/news/amazon-q4-aws-annualised-revenue-run-rate-hits-us71b-575665"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-10/D5C71572-4813-4A9B-8652-32DC6B1AD682.jpeg"
-        width: 640
-        height: 422
+      - url: "https://i.nextmedia.com.au/News/iStock-1044976052.jpg"
+        width: 1254
+        height: 836
         isCached: true
 
 secured: "l/uEajAnF02J5DJeLhzB8/jaX8s2xWzD/40M8XFip5x+YXcIILvZYOHzFsYI8Os1bv1Jgre9UMbrBxWCFpOTkwCly3ohetBpbzn4V6c66ChxMuKJnfcLGaYaESvNp9rwNIdIk1yQY1gWhEiHtNo1PtET6kU6lf8YaDoxEFNSrAd9oliSJo7prgxWRCfV2sJLu6mAQ/btfI/qHQkZMwlWU+IEqBpn0FixFywZ9l9LGUnoEq/qgxBm8DNMabiC86Cv2avuvjiFPSyNfyxD25AxJdm7oTRimIhQaxxVj1sCuUZO+51gocJjcBqv2yfhSbuEffVoVkn3LVw9xbcHk0Jspg1q9O3FR0/KBVoyl5N75c4=;hh+5B8brcDb6pel6Ij+V0w=="
