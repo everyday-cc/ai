@@ -1,0 +1,45 @@
+---
+category: news
+title: "AI in Transportation Market Analysis, Emerging Technology, Sales Revenue and Comprehensive Research Study Till 2027 | COVID-19 Effects"
+excerpt: "Market Highlights The major driving factors of the market are raising the demand for the AI in Transportation Market at the global level. The"
+publishedDateTime: 2022-02-09T08:53:00Z
+originalUrl: "https://www.digitaljournal.com/pr/ai-in-transportation-market-analysis-emerging-technology-sales-revenue-and-comprehensive-research-study-till-2027-covid-19-effects"
+webUrl: "https://www.digitaljournal.com/pr/ai-in-transportation-market-analysis-emerging-technology-sales-revenue-and-comprehensive-research-study-till-2027-covid-19-effects"
+type: article
+quality: 22
+heat: -1
+published: false
+
+provider:
+  name: Digital Journal
+  domain: digitaljournal.com
+
+topics:
+  - AI
+  - AI in Sales
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
+    width: 600
+    height: 337
+    isCached: true
+
+related:
+  - title: "AI in Social Media Market Sales Revenue, Growth Factors, Future Trends, and Demand by Forecast to 2027 | COVID-19 Effects"
+    excerpt: "These data are needed to be aligned and managed properly. Therefore, the demand to manage and secure social media data is propelling the use of AI. This has led to the rise in the adoption of AI technologies in social media, and AI-based smartphones are ..."
+    publishedDateTime: 2022-02-09T08:46:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-sales-revenue-growth-factors-future-trends-and-demand-by-forecast-to-2027-covid-19-effects"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/AAA-2-1-600x337.png"
+        width: 600
+        height: 337
+        isCached: true
+
+secured: "RIAhznezxl3yaS/iFvwsSxroPA351YQ9Czfo9oaYB1/rBc9+M34zkOhkh1jQZl0T7fJGKgt7V5YnA+KK2W5JcrcAKHKbj9cKbl9MGzyi/MWmH5BhDHST69fgGDj02bWojTpiBNJA6VOIMjWpIOKZgs3Xf6eixVqRWLfxa+REuvhuPdOY85HmKaxqlPOHrYoIs//tH3LuBgIUlsfde61CIKQjMiHndX3bwEVhEfkFPB8rpZoyEoVZ2/ZSxyqc0YdYVoh5FUYNY0iAIr5fJliTQeiMJBuTvDiBhpKQilszgVBvRS8pp2DhtV2t1YSJVyDkOOqwO8qaDjhhe8zU5T1PvoejH0NqXhfyd1pL3p64A/Q=;933xpBq7RZgbtgTKlCnPiA=="
+---
+

@@ -23,17 +23,6 @@ images:
     height: 1024
     isCached: true
 
-related:
-  - title: "Accern and LPA Partner to Deliver Enhanced AI-Powered Investment Research for Capital Markets"
-    excerpt: "NEW YORK and FRANKFURT, Germany, Feb. 8, 2022 /PRNewswire/ -- Accern, the leading no-code artificial intelligence (AI) platform for financial services, announced today a new strategic partnership with LPA, the software and consulting firm focused on ..."
-    publishedDateTime: 2022-02-08T16:57:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/accern-and-lpa-partner-to-deliver-enhanced-ai-powered-investment-research-for-capital-markets/article_6b894ac7-cc59-5123-ac08-f387c9ea5194.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 6
-
 secured: "d7tItxpI0ffp3Lbr/aGqj5eA+IvCmyUugMVzeSa6AmHewy8USjlSy9bBldtFWLFZqvmzfit9DCuVT21KolanxnsOfvwGqOkZn9wv9OifbbAKiNLNiPcqsgqoL/b0kaXq5Pfjae9KcfFMWTAu41r48w3ZI39RxL6kiJpDTvFbLNngCneX2r+wgbxepiH4ET2XLpDCsX5+3Mea3v3FCLbZurgM0fgOutXCTOBuxkVwEo3P6EkI8pV8/3MTTePaNsLT6veZtuJz8u8Bn7cVUFGdpZbLY+fUNVG97HTuROO8xKtLPM+ESIIxnzk9kmcAJ42K/feNuIjsdmF9ODAm+KI0kllhUgR6dY6/rgjbHajPAA4=;TLxlofy6v/INZDZbUFXnrg=="
 ---
 

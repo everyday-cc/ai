@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/08/spell-graphcore-partner-to-build-next-gen-ai-infrastructure/amp/"
 type: article
 quality: 93
-heat: 103
+heat: 104
 published: true
 
 provider:

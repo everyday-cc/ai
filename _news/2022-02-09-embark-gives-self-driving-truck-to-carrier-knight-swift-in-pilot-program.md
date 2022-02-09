@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Embark Gives Self-Driving Truck to Carrier Knight-Swift in Pilot Program"
+title: "Embark gives self-driving truck to carrier Knight-Swift in pilot program"
 excerpt: "Self-driving truck company Embark Technology Inc on Tuesday said it was handing over a few of its trucks to Knight-Swift, in what the companies called the first instance of a carrier owning and operating autonomous trucks as part of its fleet."
-publishedDateTime: 2022-02-08T20:31:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-02-08/embark-gives-self-driving-truck-to-carrier-knight-swift-in-pilot-program"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-02-08/embark-gives-self-driving-truck-to-carrier-knight-swift-in-pilot-program"
+publishedDateTime: 2022-02-09T08:08:00Z
+originalUrl: "https://www.channelnewsasia.com/business/embark-gives-self-driving-truck-carrier-knight-swift-pilot-program-2486991"
+webUrl: "https://www.channelnewsasia.com/business/embark-gives-self-driving-truck-carrier-knight-swift-pilot-program-2486991"
 type: article
-quality: 33
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+    width: 1200
+    height: 676
+    isCached: true
 
 related:
   - title: "(OFFICIAL) Embark gives self-driving truck to carrier Knight-Swift in pilot program"
@@ -49,6 +51,6 @@ related:
       domain: financialpost.com
     quality: 13
 
-secured: "KJjgPoxkY+F3fxrSnZ8a0IZ1Y0V41WlqLgoWkG+Ih9B1Cee2K4xi2Qxb13vhr5RorjwPjF3VMfhqNm67a9d22hD/FcFJZGD36ZCbzhm5ZWpaXXBnLsn/SAUniSGjEK3+Q2OrasZhwgMmoN7OovE2VG44m+ZaS617JQVG4Amnj5dqX+e/gEfVwTsHmMZQiayhVut5K0pYNQutk2vnSo6nqOyYJ06uzuUzF/2KbThYiB8ymc307bFjlHp+pkl3HWZlHpApC7gBSSy2V0ZLkA8gb2d5rfIczrgu47Lsq4ngdcfISHUv572Wceu92eoe8LZTZ1CBa2O12+CfouSrCYJvhdDKfnWHi6G9bFTw7ugVeKc=;ZBLTnsZdNG05SQ2HKWCScg=="
+secured: "KZgjzU2kcj28HIKlHfs5CTXPQN8gpzcEWBrl6uKg5kV2fMS8Y2mzOHgZUr2gfU+ZiqGWF3+usrSovST9mFBmdiWd7nF1IZTZnjWOuV081qWOyZBALapsd3Ao82NHu8C1YSIck2aXVV7upeapk8P7yxG90cYo5XGBiLTTNZ5FVVSNZfk251kdIAVesMPLTINmAxzxQQIBLtntsMIzKpjKFFlVlUixwKYkPyv5+FIejxE3Z78C0QvBBDF3+2U/pEP+MmYOZgh8B2PaT6lVv4OVSQ1/D3DsjatpO8m7h5x0UDsPIO3J9qiCE3zSaSlAEP7968bcS8fnuOZ3L6+ODCBALGXNd3Qnx0qFhR6QGLWcDkc=;pBGwK8k80ETrQi8Wcd+0Gw=="
 ---
 

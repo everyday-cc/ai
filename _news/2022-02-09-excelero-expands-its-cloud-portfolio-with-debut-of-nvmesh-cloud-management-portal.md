@@ -7,7 +7,7 @@ originalUrl: "https://next-generation-communications.tmcnet.com/news/2022/02/08/
 webUrl: "https://next-generation-communications.tmcnet.com/news/2022/02/08/9540781.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,36 +17,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Virtana Incorporates AI into Hybrid Cloud Management Platform"
-    excerpt: "The company leverages a combination of AI, ML, and data analytics to provide observability for managing app workloads across public, private, hybrid, and multi-cloud environments. The platform enables workload migration, cost optimization, and ..."
-    publishedDateTime: 2022-02-08T19:39:00Z
-    webUrl: "https://www.just-auto.com/research-reports/virtana-incorporates-ai-into-hybrid-cloud-management-platform/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 37
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/02/Cloud_2.jpg"
-        width: 500
-        height: 334
-        isCached: true
-  - title: "Chain.io Incorporates Altana AI into Integration Network to Enable Reliable Global Trade"
-    excerpt: "Chain.io data connectivity tools to streamline Altana data, connecting shippers and logistics providers to a fast-track global trade solution."
-    publishedDateTime: 2022-02-08T21:16:00Z
-    webUrl: "https://www.dcvelocity.com/articles/53766-chain-io-incorporates-altana-ai-into-integration-network-to-enable-reliable-global-trade"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 28
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/user-submissions/articles/c994212e-d307-4d0a-b243-50b42712f878.jpg?height=635&t=1644334465&width=1200"
-        width: 600
-        height: 399
-        isCached: true
 
 secured: "lVUc2MW9PjdWHz1ajrd9GY0Yv8HkYBnW6WKT9uMWZpdv++IVbEg4JKzj5wQIg0Uwq74j22FQr+7qNEa/kGIpEsSzu+Mwg2YlVV+16XLwNG8i1fANApxyc0Rxl51y0IHjCmt/IZEKk3iCsYI+I/IR9atGrhq24TvyC18ban/87sNCL6qRFCm5uKIKFZpkSTiPO4Tbee+Il3jbbFIZIzeOCK7xLnB4wD35Xszo/TLcHskCx1PI7l7IBlwUQoaZM1Ynl89e1eIxCqpXVbPMFKdpnH/LJKng6LV4/AOen4ea3xP8IGaVe+U+7y3sg0rzQXPZN63e5aDsuntw0mm0qxp+XH4nzcAko0Z483eerErqu7k=;zkq5te9gi+Iy/jphxwQ+OA=="
 ---

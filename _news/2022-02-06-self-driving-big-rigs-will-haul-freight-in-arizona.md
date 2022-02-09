@@ -43,6 +43,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "This is not a self-driving car"
+    excerpt: "He’s not alone, either. YouTube’s favorite auto reviewer Doug DeMuro has referred to Super Cruise as a “self-driving” system, arguing that any attempt to draw distinction between an advanced driver assistance system and autonomous technology was ju ..."
+    publishedDateTime: 2022-02-04T18:55:00Z
+    webUrl: "https://www.theverge.com/2022/2/4/22917903/adas-av-autonomous-super-cruise-autopilot-language"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 54
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/8kVW_xQJNQf9oN_cXQXRx2wEXQE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19704170/cadillac_2021_escalade_0433.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Companies are racing to make self-driving cars. But why?"
     excerpt: "Yesterday at 12:50 p.m. EST The buzz is back for self-driving cars. Not long ago, blown forecasts left investors and tech enthusiasts feeling deflated: In 2016, Ford planned to offer self-driving taxis by 2021, and Lyft claimed it would start doing so even ..."
     publishedDateTime: 2022-02-05T06:42:00Z

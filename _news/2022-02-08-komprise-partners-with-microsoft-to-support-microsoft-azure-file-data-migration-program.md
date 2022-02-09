@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "AI in Social Media Market to Witness Robust Expansion by 2029 | Google, Facebook, Microsoft"
-    excerpt: "AI has the potential to transform the way brands market on social networks like Facebook, Instagram and Twitter. AI allows social media marketers to get closer to their audience and understand their preferences. This helps them target their ads in a better ..."
-    publishedDateTime: 2022-02-04T15:15:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-social-media-market-to-witness-robust-expansion-by-2029-google-facebook-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 46
-    images:
-      - url: "https://www.market-news.org/wp-content/uploads/2022/02/AI-in-Social-Media.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Have Sony And Microsoft Announced A Partnership?"
     excerpt: "Is Sony Partnering With Discord? In 2022, Discord will become a part of the PlayStation Network in Japan and North America. Gaming is carried out by more than 140 million users on"
     publishedDateTime: 2022-02-08T22:41:00Z

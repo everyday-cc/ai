@@ -9,8 +9,8 @@ ampWebUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/robot-nann
 cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/robot-nanny-china-population-b2004342.html?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Independent
@@ -42,6 +42,20 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/nzlm89gtcjmzndnd_1644253445.jpeg"
         width: 768
         height: 439
+        isCached: true
+  - title: "Chinese self-driving start-up AutoX passes 1,000-vehicle milestone for its RoboTaxi fleet"
+    excerpt: "The start-up has also opened a new US-based RoboTaxi operations center in San Francisco to expand self-driving vehicle testing in the western US city. Previously, AutoX RoboTaxis have been testing in the greater San Jose, California, since 2016."
+    publishedDateTime: 2022-02-09T07:09:00Z
+    webUrl: "https://www.globaltimes.cn/page/202202/1251822.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 15
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-02-09/0e3a75df-8b6a-4d14-8a95-22ad61af444e.jpeg"
+        width: 2000
+        height: 1200
         isCached: true
 
 secured: "eMWtx6ow+5xJj+xGNYRYP2+SQlyhbfez/xn36ddN7ajVumeYZg7QvxHXuNi0J2YmZ752iWZftGYoRGRNKWtDz4c1kMsr4wSgpoVYeon9ZRVfzHL1SU8qhcwFdopMEyjhDmcBQlWXvjEiwtcxeihXSkJ7pNHh+M2NkBxmL+XKAnWtfolDhlXR4AylHBULtCSNIi+JI8d9Y+IH8DZm+E8/y9GnGpth8RJ8nIU92z7hIIsQJHgOXaWICTV70MY4Lm9Ai2b+xDBai5W9+ly0efgQk6xJleY3xUPEf1Kj6jnwFYAK0J4uT7L9g212zcChoRvXMRrzyHAH2iBk0vZI3VCU0E+nlDZgArRhH0gsjC9mL4U=;0OTeNKvxsgbo/se12mwcrg=="

@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "SCCG Management and Odds AI Announce Strategic Business Development Partnership for North America"
-    excerpt: "LAS VEGAS, NV, USA, February 8, 2022 /EINPresswire.com / -- SCCG Management CEO and Founder, Stephen Crystal announced a partnership with the Sydney, Australia-based company, Odds AI, to provide ..."
-    publishedDateTime: 2022-02-08T12:15:00Z
-    webUrl: "https://menafn.com/1103657202/SCCG-Management-and-Odds-AI-Announce-Strategic-Business-Development-Partnership-for-North-America"
+  - title: "Accern and LPA partner to deliver AI-Powered Investment Research"
+    excerpt: "Accern, a leading no-code artificial intelligence platform for financial services, recently announced a new strategic partnership with LPA,"
+    publishedDateTime: 2022-02-09T08:35:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/accern-and-lpa-partner-to-deliver-ai-powered-investment-research/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 37
     images:
-      - url: "https://menafn.com/updates/pr/2022-02/08/EP_10e87image_story.jpeg"
-        width: 1024
-        height: 1024
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/02/Credit-Portfolios-WP.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "FhWwKdmKZ8XKB9hFwzhH9rEzj7Eg3whvEpbjOKh6EvaQLSEZDr3H9ap8ugwLJ+WBrhu0Pc48zbbuHlDy7U8EJdJMl8ZS/6FsqaT8prmkkvST0PMBnC8Gas8UTp+2cK6/rhU6Oo0LFmArMKFtjlhYsSqBsMpKVs6rO1yiSkXr0YBh1yMoZ5kyMxI+b+GqrXik+4823I9RDHWRby1l2SePnI1Jw8eVbAXIaVd0h7LE6K+rrS0Q4qWvKf+JIc6MYUvabtjfZ3/N91fgjBTqIIwBSnX9lcGXDR5EE7EmXkDnyWG0nawrHePg7gAHHZZImwy8e6IOTaMa4eZG9Af+ylGT9HlruY+jQLXpXW1g7aQ/QvvA9qooTmgxnFCzLctvvZnTIT8yaF9iakxS4JXLkGwEtQtMtJlJYrr0VOTWV+g9EErqL2O4uMO0V+qlYMkX6vtzBReT9+3TO+bb7R+jK4UEGQz1nmkop3DDkT4cdU4Va57xu2judEvqEDgi/jvNcoPI2mDR4n1YFKESRMP0zcvF1Q==;zpMriD8EA9fytffsmhbTBQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai
 cdnAmpWebUrl: "https://www-bakersfield-com.cdn.ampproject.org/c/s/www.bakersfield.com/news/ag-expo-rolls-out-innovations-in-ai-robotics-electric-vehicles/article_38b241a4-85f7-11ec-8e7c-e75b11b41564.amp.html"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: The Bakersfield Californian
@@ -25,19 +25,6 @@ images:
     width: 1024
     height: 540
     isCached: true
-
-related:
-  - title: "Innovations in Robotics, AI Will Continue to Power This ETF"
-    excerpt: "More innovation in robotics and artificial intelligence could bloom out of healthy competition, which could power the First Trust Nasdaq Artificial Intelligence and Robotics ETF (ROBT) even further. The disruptive space, highlighted by robots and AI ..."
-    publishedDateTime: 2022-02-04T17:03:00Z
-    webUrl: "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf"
-    ampWebUrl: "https://www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/innovations-in-robotics-ai-will-continue-to-power-this-etf?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 99
 
 secured: "w9MjKSc9bq2wneihAbtG/WKLTbR0+2rPufBQAKECdEvcfF71H1SyjFUeKk5CYFNIgtoZf1UJBni96gzqkjxcmjFWVxEnjsqYVm/G99IeSTAiPKSw/v3JPBycau100XTcInmN70EOAQ45z/U7zqwo/8TwalKe/pzUEnBsmVAebBp0gyETDEc4SAm/ACEGK+xYR99P7+4kPwychaP/oKZsvyPa7S+3oJzhO4C5Butq7Cb9Oc8LjmOUHzGdFQXXxCKFIY8XdpzGggWbGjqsj8KPqM0WngcrgHxtJ2q5VA8aHbj4gw0JZh7VgzRz/sjaJrbazcEffur1uiw3UNxIRBux2vE/1Ok1/PHj976oq/DymUdhysHNCkIIHVCYHsQvRKzUq6d3aLiRvO20CNQxC0PjoOJHqW7ksZTZLeRrwQ20tjlVnRiH0lx2nHxHeEszrCg5P3d4lATFUipCWSM0S5iUen6mWvd7KRydy3EKJK1w0q5MJlPVdFeW37SbzdiQpYBbdS5rPeAyPY5IaiZC/FY1EA==;ilFc5LMV8O3JLsSNUSPEeA=="
 ---

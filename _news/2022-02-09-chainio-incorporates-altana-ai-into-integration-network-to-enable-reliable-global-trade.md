@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to incorporate Artificial Intelligence in enterprises"
+    excerpt: "The 2020 global Government Artificial intelligence (AI) Readiness Index Major listed South Africa among the top five African countries with respect to gover"
+    publishedDateTime: 2022-02-09T07:51:00Z
+    webUrl: "https://newbusinessethiopia.com/nbe-blog/how-to-incorporate-artificial-intelligence-in-enterprises/"
+    type: article
+    provider:
+      name: newbusinessethiopia.com
+      domain: newbusinessethiopia.com
+    quality: 39
+    images:
+      - url: "https://newbusinessethiopia.com/wp-content/uploads/2021/12/How-to-combat-business-crimes-in-Ethiopia.png"
+        width: 333
+        height: 235
+        isCached: true
   - title: "Virtana Incorporates AI into Hybrid Cloud Management Platform"
     excerpt: "The company leverages a combination of AI, ML, and data analytics to provide observability for managing app workloads across public, private, hybrid, and multi-cloud environments. The platform enables workload migration, cost optimization, and ..."
     publishedDateTime: 2022-02-08T19:39:00Z
@@ -38,15 +52,22 @@ related:
         width: 500
         height: 334
         isCached: true
-  - title: "Excelero Expands Its Cloud Portfolio with Debut of NVMesh™ Cloud Management Portal"
-    excerpt: "Prior to NVMesh storage on Azure, this performance was unheard of in the cloud ... high-performance storage solutions for customers with artificial intelligence, machine learning, high-performance computing, database acceleration and analytics workloads."
-    publishedDateTime: 2022-02-08T21:42:00Z
-    webUrl: "https://next-generation-communications.tmcnet.com/news/2022/02/08/9540781.htm"
+  - title: "CORRECTING and REPLACING WEKA Increases Funding to $140 Million to Accelerate AI Data Platform Adoption in the Enterprise"
+    excerpt: "WEKA Increases Funding to $140 Million to Accelerate AI Data Platform Adoption in the EnterpriseWEKA, the data platform for AI"
+    publishedDateTime: 2022-02-07T14:29:00Z
+    webUrl: "https://enterprisetalk.com/news/correcting-and-replacing-weka-increases-funding-to-140-million-to-accelerate-ai-data-platform-adoption-in-the-enterprise/"
+    ampWebUrl: "https://enterprisetalk.com/news/correcting-and-replacing-weka-increases-funding-to-140-million-to-accelerate-ai-data-platform-adoption-in-the-enterprise/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/correcting-and-replacing-weka-increases-funding-to-140-million-to-accelerate-ai-data-platform-adoption-in-the-enterprise/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 34
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/02/CORRECTING-and-REPLACING-WEKA-Increases-Funding-to-_140-Million-to-Accelerate-AI-Data-Platform-Adoption-in-the-Enterprise-01.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "eSUeGfHeMEF3aTxdY8viqD1lcbsFQWUSLHaNmFvedxbSJz+C+95KmZ9JbHFqXLDjrca3QwUrBMnMX9JSlL1dsvkpHExYsK/mN83RrheBZU6hxDRhRbCj/8XfQJm8Mmk4SCKtbwo+xovvSBOYdZco3/W6+4DWM8/H+GCYVwycMitL5l5geGgvsFFkM/4XjjirL71tDyz6s7+vzueASmvq1GNshcDf6MlrmTw06tZX1xVsG6PYPmxx3+GH1tjG3dme0zV6PSyddhHvbRvp41K726GCPQELR1mLPm0h1Q0vNRBMrPv3lUOxNXAeQH8A8t8UfWZ+5xv9uq3J6mzf2mjP9tb56Z85HmjrlFG9mdxFH41CTMB7TA3axgJ6awONJLjFd60RS5HGlDI7DTlwJ/OxTGwdKltrAv1AVxzGwlSgki+vAcwhcr01EIbpE61UqxgwZGfcNHzs95mVWG9OWDS1uKh8XtAiJ9xsTsjotf3E4+NWyD0UDHdcd3vdDyk/ohvcx+p+Az2euG2KieumVislDg==;Hlu+HDWHD+gm7o0dYxc2FQ=="
 ---

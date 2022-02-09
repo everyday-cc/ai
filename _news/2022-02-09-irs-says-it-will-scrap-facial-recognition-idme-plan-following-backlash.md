@@ -256,6 +256,20 @@ related:
         width: 4500
         height: 3068
         isCached: true
+  - title: "The IRS Drops Facial Recognition Verification After Uproar"
+    excerpt: "The Internal Revenue Service is dropping a controversial facial recognition system that requires people to upload video selfies when creating new IRS online accounts. Ars Technica This story originally appeared on Ars Technica, a trusted source for ..."
+    publishedDateTime: 2022-02-08T21:35:00Z
+    webUrl: "https://www.wired.com/story/irs-drops-facial-recognition-verification/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/6202db28c14aa6d334a5d857/191:100/w_1280,c_limit/Business_IRS-1233687835.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "IRS stops requiring selfies after facial recognition system is widely panned"
     excerpt: "The ID.me system is \"using Amazon's controversial Rekognition technology\" and had verified 20.9 million users' selfies by January 25, Bloomberg wrote. The Treasury Department last year signed a ..."
     publishedDateTime: 2022-02-07T21:15:00Z
@@ -678,6 +692,20 @@ related:
         width: 768
         height: 511
         isCached: true
+  - title: "IRS Backs Away From Facial Recognition Technology"
+    excerpt: "In a Feb. 7 press release the IRS said it would transition away from the third-party service and \"quickly develop and bring online an additional authentication process that does not involve facial recognition.\" \"The IRS takes taxpayer privacy and ..."
+    publishedDateTime: 2022-02-09T08:35:00Z
+    webUrl: "https://www.govexec.com/technology/2022/02/irs-backs-away-facial-recognition-technology/361680/?%3Foref=GovExecTCO"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 39
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2022/02/07/020722_getty_fcw_irs-2/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "IRS to end use of facial recognition to access tax accounts"
     excerpt: "The Internal Revenue Service will stop using controversial facial-recognition software for taxpayers trying to access online tax accounts over concerns about privacy and security. The transition from the ID."
     publishedDateTime: 2022-02-08T20:43:00Z
@@ -792,6 +820,6 @@ related:
       domain: bizjournals.com
     quality: 13
 
-secured: "hMYzeC5/srq0uqJtNbugJ5UESgBFs+xdPbxr2iMABo7dmUtgEfwNnBWTFBdRuQzIsGLqGHpZ8Qj9NtIUv0E9WLARIKnG1qzZmfLX0e+6QhUqPWowem/ERU2wgSVAuubvpp9yCqooqnTDTSTpmxJiROvGvD+VTqruq2YUMfxaQap3rmV+UyU4C0ANr+Fk/uLgFeAU9az7o1LkJ5yWvFHo3vCPjW6cZAwZV2UCfVXXtIzD+F8v6p9YFIFbYzRfVrwSk7HUHuKV9jwc5gHv3SzxUBcjYVEywBGBifj4KVGGrIQbqICJMkxkKkcbudJou+fUllQhUVgYq/q8AN/9KPnv2QWX2fVjocM2gd3cvqudit0=;Fjh/Dk5rMrXGVS+LNTNQqg=="
+secured: "5rEhIccIG7D9MfM+7bCC7vyXug8HmlpibRpLNmD+MidkZafLRGrKhAvEC8VYaFkDCms60d857ZZEc4sjfih3or/JZ4v26PTx/BmERH1FcLQtOY0L2VgK54IKDAKTKb2IoAiCyRHbcfN//QeKZ7fA6aAd6sCP7d7I0JdzjxQ10GC+ur0xFzkx4h14n33GlL/qsojMWuX6orVkgs9QfaULHzuEVOnm4vjFMrQ5Km2UmVvP3r6y9MdikFp8xjY5xKIjzkCC9uUuuxbFiHsE7JoPUADXxb3y0obt6LMv2nV1XhbsWW+SzgLnma+5+ICCSIRp27LGCd0aoVORlJZilUvssQjdf0NEgoZOOmbaB1PreorMr9tv992RIYaqZLWHu8nu51wMnw3PQofjN3S52mV4/fLO9H1ZdMvQCNxpMG6UjMxOVbcNVPLJVxEP+ptLAw3/RZqn8Dfq9F6xbYyBTLmggefVIiXlRfu4sgz51Fx1UvI5W6FMCz3Y+mXufs+Dt8PQW2wl9uI+kniz9gXa2F/WKA==;lMLEcgVy3R/6VqwUHIk1vw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-02-maine-voices-recognition-needed-that-first-responders-face-growing-mental-health-toll.md",
+      "title": "Maine Voices: Recognition needed that first responders face growing mental health toll",
+      "excerpt": "I want to develop and maintain a culture where a law enforcement officer asking for help is applauded as an act of courage, says Maine’s U.S. Attorney.",
+      "sourceUrl": null,
+      "webUrl": "https://www.centralmaine.com/2022/01/02/maine-voices-recognition-needed-that-law-enforcement-officers-face-growing-mental-health-toll/",
+      "originalUrl": "https://www.centralmaine.com/2022/01/02/maine-voices-recognition-needed-that-law-enforcement-officers-face-growing-mental-health-toll/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://multifiles.pressherald.com/uploads/sites/2/2021/12/shutterstock_1814688341-1640895278-1024x500.jpg",
+          "width": 1024,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-02T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kennebec Journal",
+        "domain": "centralmaine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-rismallcollaborative-research-understanding-human-object-interactions-from-first-person-and-third-person-videos.md",
       "title": "RI:Small:Collaborative Research: Understanding Human-Object Interactions from First-person and Third-person Videos",
       "excerpt": "The 1st-person view is ideal for object recognition, while the 3rd-person view is ideal for human activity recognition. Thus, this project will investigate unique solutions to challenging problems that would otherwise be difficult to overcome when ...",
